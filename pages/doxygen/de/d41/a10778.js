@@ -101,6 +101,7 @@ var a10778 =
     [ "OnBattlefieldPlayerJoinWar", "de/d41/a10778.html#acf56b0416b55ef604689f9933cf8950a", null ],
     [ "OnBattlefieldPlayerLeaveWar", "de/d41/a10778.html#a970a859166d4f4c4ff40f7c3ed1cbefc", null ],
     [ "OnBattlefieldPlayerLeaveZone", "de/d41/a10778.html#a3870c5b46969605fecb852e69d10b7b4", null ],
+    [ "OnBattlefieldWarEnd", "de/d41/a10778.html#a98c4eaae6a50deb0260d1aae61a8cdeb", null ],
     [ "OnBattlegroundAddPlayer", "de/d41/a10778.html#aca2cc8af90a013e13806062e009ecd4e", null ],
     [ "OnBattlegroundBeforeAddPlayer", "de/d41/a10778.html#afd34c42bb6ae635aab722445d6f4f652", null ],
     [ "OnBattlegroundCreate", "de/d41/a10778.html#a41d85887b6ff179360831b094ef898fb", null ],

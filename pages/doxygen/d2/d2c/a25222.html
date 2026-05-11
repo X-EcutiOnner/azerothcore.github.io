@@ -316,13 +316,13 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6090</span>    {</div>
-<div class="line"><span class="lineno"> 6091</span>        targets.remove_if([&amp;](<a class="code hl_class" href="../../da/d2c/a08718.html">WorldObject</a>* target) -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno"> 6092</span>        {</div>
-<div class="line"><span class="lineno"> 6093</span>            <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* unit = target-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
-<div class="line"><span class="lineno"> 6094</span>            <span class="keywordflow">return</span> unit &amp;&amp; unit-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &gt;= 80;</div>
-<div class="line"><span class="lineno"> 6095</span>        });</div>
-<div class="line"><span class="lineno"> 6096</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6089</span>    {</div>
+<div class="line"><span class="lineno"> 6090</span>        targets.remove_if([&amp;](<a class="code hl_class" href="../../da/d2c/a08718.html">WorldObject</a>* target) -&gt; <span class="keywordtype">bool</span></div>
+<div class="line"><span class="lineno"> 6091</span>        {</div>
+<div class="line"><span class="lineno"> 6092</span>            <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* unit = target-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
+<div class="line"><span class="lineno"> 6093</span>            <span class="keywordflow">return</span> unit &amp;&amp; unit-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &gt;= 80;</div>
+<div class="line"><span class="lineno"> 6094</span>        });</div>
+<div class="line"><span class="lineno"> 6095</span>    }</div>
 <div class="ttc" id="aa08682_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:210</div></div>
 <div class="ttc" id="aa08718_html"><div class="ttname"><a href="../../da/d2c/a08718.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:475</div></div>
 <div class="ttc" id="aa09066_html"><div class="ttname"><a href="../../dc/d3e/a09066.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
@@ -330,7 +330,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01103">Unit::GetLevel()</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06098">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06097">Register()</a>.</p>
 
 </div>
 </div>
@@ -384,16 +384,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6099</span>    {</div>
-<div class="line"><span class="lineno"> 6100</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0">spell_gen_filter_party_level_80::FilterTargets</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a0de01d749d26735964e73b5ffeb53071">TARGET_UNIT_SRC_AREA_PARTY</a>);</div>
-<div class="line"><span class="lineno"> 6101</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6098</span>    {</div>
+<div class="line"><span class="lineno"> 6099</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0">spell_gen_filter_party_level_80::FilterTargets</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a0de01d749d26735964e73b5ffeb53071">TARGET_UNIT_SRC_AREA_PARTY</a>);</div>
+<div class="line"><span class="lineno"> 6100</span>    }</div>
 <div class="ttc" id="aa01598_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa04304_html_a418aed4e4066eb09ab979b5d78dc9152a0de01d749d26735964e73b5ffeb53071"><div class="ttname"><a href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a0de01d749d26735964e73b5ffeb53071">TARGET_UNIT_SRC_AREA_PARTY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_PARTY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1441</div></div>
 <div class="ttc" id="aa04304_html_ac97ba74f30438a8b51ce05c9de303cd7"><div class="ttname"><a href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a></div><div class="ttdeci">#define EFFECT_ALL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:38</div></div>
 <div class="ttc" id="aa11826_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa25222_html_a80d2ffcd64161e53fd795bd40d2b38e0"><div class="ttname"><a href="../../d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0">spell_gen_filter_party_level_80::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:6089</div></div>
+<div class="ttc" id="aa25222_html_a80d2ffcd64161e53fd795bd40d2b38e0"><div class="ttname"><a href="../../d2/d2c/a25222.html#a80d2ffcd64161e53fd795bd40d2b38e0">spell_gen_filter_party_level_80::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:6088</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l06089">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01441">TARGET_UNIT_SRC_AREA_PARTY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l06088">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01441">TARGET_UNIT_SRC_AREA_PARTY</a>.</p>
 
 </div>
 </div>
@@ -403,7 +403,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d2c/a25222.html">spell_gen_filter_party_level_80</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -362,19 +362,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5487</span>    {</div>
-<div class="line"><span class="lineno"> 5488</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;IsPet())</div>
-<div class="line"><span class="lineno"> 5489</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 5490</span> </div>
-<div class="line"><span class="lineno"> 5491</span>        isPeriodic = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 5492</span>        amplitude = 3 * <a class="code hl_variable" href="../../dd/dde/a04820.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
-<div class="line"><span class="lineno"> 5493</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5486</span>    {</div>
+<div class="line"><span class="lineno"> 5487</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;IsPet())</div>
+<div class="line"><span class="lineno"> 5488</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 5489</span> </div>
+<div class="line"><span class="lineno"> 5490</span>        isPeriodic = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 5491</span>        amplitude = 3 * <a class="code hl_variable" href="../../dd/dde/a04820.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>;</div>
+<div class="line"><span class="lineno"> 5492</span>    }</div>
 <div class="ttc" id="aa04820_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../dd/dde/a04820.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition:</b> Common.h:53</div></div>
 <div class="ttc" id="aa11866_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1045</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l00053">IN_MILLISECONDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -417,15 +417,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5470</span>    {</div>
-<div class="line"><span class="lineno"> 5471</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
-<div class="line"><span class="lineno"> 5472</span>            amount = CalculatePercent(modOwner-&gt;m_modMeleeHitChance, 8.0f, 26.0f);</div>
-<div class="line"><span class="lineno"> 5473</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5469</span>    {</div>
+<div class="line"><span class="lineno"> 5470</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
+<div class="line"><span class="lineno"> 5471</span>            amount = CalculatePercent(modOwner-&gt;m_modMeleeHitChance, 8.0f, 26.0f);</div>
+<div class="line"><span class="lineno"> 5472</span>    }</div>
 <div class="ttc" id="aa08934_html"><div class="ttname"><a href="../../d6/d9a/a08934.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -468,14 +468,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5464</span>    {</div>
-<div class="line"><span class="lineno"> 5465</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
-<div class="line"><span class="lineno"> 5466</span>            amount = CalculatePercent(modOwner-&gt;m_modMeleeHitChance, 8.0f, 17.0f);</div>
-<div class="line"><span class="lineno"> 5467</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5463</span>    {</div>
+<div class="line"><span class="lineno"> 5464</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
+<div class="line"><span class="lineno"> 5465</span>            amount = CalculatePercent(modOwner-&gt;m_modMeleeHitChance, 8.0f, 17.0f);</div>
+<div class="line"><span class="lineno"> 5466</span>    }</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -518,16 +518,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5476</span>    {</div>
-<div class="line"><span class="lineno"> 5477</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
-<div class="line"><span class="lineno"> 5478</span>            amount = modOwner-&gt;GetTotalAuraModifierByMiscMask(<a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c">SPELL_AURA_MOD_TARGET_RESISTANCE</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a>);</div>
-<div class="line"><span class="lineno"> 5479</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5475</span>    {</div>
+<div class="line"><span class="lineno"> 5476</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* modOwner = <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetSpellModOwner())</div>
+<div class="line"><span class="lineno"> 5477</span>            amount = modOwner-&gt;GetTotalAuraModifierByMiscMask(<a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c">SPELL_AURA_MOD_TARGET_RESISTANCE</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a>);</div>
+<div class="line"><span class="lineno"> 5478</span>    }</div>
 <div class="ttc" id="aa01622_html_a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c"><div class="ttname"><a href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c">SPELL_AURA_MOD_TARGET_RESISTANCE</a></div><div class="ttdeci">@ SPELL_AURA_MOD_TARGET_RESISTANCE</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:186</div></div>
 <div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fa73f8353b80cc15deb2fbcecd8a2ac3c0">SPELL_SCHOOL_MASK_SPELL</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:296</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l00186">SPELL_AURA_MOD_TARGET_RESISTANCE</a>, and <a class="el" href="../../#l00296">SPELL_SCHOOL_MASK_SPELL</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -564,17 +564,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5482</span>    {</div>
-<div class="line"><span class="lineno"> 5483</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a1afc1e413f12c5bd7bc00c926fa05833">ApplySpellImmune</a>(<a class="code hl_function" href="../../dc/d0e/a11866.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a91d505a1e789c6ea6a338f3a3c85b6b9a1c2e514db062426deb4673fb86e3459e">IMMUNITY_STATE</a>, aurEff-&gt;GetAuraType(), <span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb">SPELL_BLOCK_TYPE_POSITIVE</a>);</div>
-<div class="line"><span class="lineno"> 5484</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5481</span>    {</div>
+<div class="line"><span class="lineno"> 5482</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a1afc1e413f12c5bd7bc00c926fa05833">ApplySpellImmune</a>(<a class="code hl_function" href="../../dc/d0e/a11866.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>(), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a91d505a1e789c6ea6a338f3a3c85b6b9a1c2e514db062426deb4673fb86e3459e">IMMUNITY_STATE</a>, aurEff-&gt;GetAuraType(), <span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb">SPELL_BLOCK_TYPE_POSITIVE</a>);</div>
+<div class="line"><span class="lineno"> 5483</span>    }</div>
 <div class="ttc" id="aa01607_html_a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb"><div class="ttname"><a href="../../d6/d82/a01607.html#a9714315fea51314dc7b5f61e56a03211af89e6c8cca6c90792787a3435dcdfffb">SPELL_BLOCK_TYPE_POSITIVE</a></div><div class="ttdeci">@ SPELL_BLOCK_TYPE_POSITIVE</div><div class="ttdef"><b>Definition:</b> SpellDefines.h:160</div></div>
 <div class="ttc" id="aa04304_html_a91d505a1e789c6ea6a338f3a3c85b6b9a1c2e514db062426deb4673fb86e3459e"><div class="ttname"><a href="../../dd/deb/a04304.html#a91d505a1e789c6ea6a338f3a3c85b6b9a1c2e514db062426deb4673fb86e3459e">IMMUNITY_STATE</a></div><div class="ttdeci">@ IMMUNITY_STATE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1399</div></div>
-<div class="ttc" id="aa09066_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../dc/d3e/a09066.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10461</div></div>
+<div class="ttc" id="aa09066_html_a1afc1e413f12c5bd7bc00c926fa05833"><div class="ttname"><a href="../../dc/d3e/a09066.html#a1afc1e413f12c5bd7bc00c926fa05833">Unit::ApplySpellImmune</a></div><div class="ttdeci">void ApplySpellImmune(uint32 spellId, uint32 op, uint32 type, bool apply, SpellImmuneBlockType blockType=SPELL_BLOCK_TYPE_ALL)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10463</div></div>
 <div class="ttc" id="aa11866_html_afca894c30f544ccf512e0966eb7e10ce"><div class="ttname"><a href="../../dc/d0e/a11866.html#afca894c30f544ccf512e0966eb7e10ce">AuraScript::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1025</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l10461">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l00447">AuraEffect::GetAuraType()</a>, <a class="el" href="../../#l01025">AuraScript::GetId()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l01399">IMMUNITY_STATE</a>, and <a class="el" href="../../#l00160">SPELL_BLOCK_TYPE_POSITIVE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l10463">Unit::ApplySpellImmune()</a>, <a class="el" href="../../#l00447">AuraEffect::GetAuraType()</a>, <a class="el" href="../../#l01025">AuraScript::GetId()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l01399">IMMUNITY_STATE</a>, and <a class="el" href="../../#l00160">SPELL_BLOCK_TYPE_POSITIVE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -601,17 +601,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 5496</span>    {</div>
-<div class="line"><span class="lineno"> 5497</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 5498</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(aurEff-&gt;GetEffIndex())-&gt;<a class="code hl_function" href="../../de/dde/a11626.html#adc38a016285e442a485c9b9bc17a6105">RecalculateAmount</a>();</div>
-<div class="line"><span class="lineno"> 5499</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5495</span>    {</div>
+<div class="line"><span class="lineno"> 5496</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 5497</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a80b4589d9fb316ef3e53ffdc811738b4">GetEffect</a>(aurEff-&gt;GetEffIndex())-&gt;<a class="code hl_function" href="../../de/dde/a11626.html#adc38a016285e442a485c9b9bc17a6105">RecalculateAmount</a>();</div>
+<div class="line"><span class="lineno"> 5498</span>    }</div>
 <div class="ttc" id="aa11626_html_adc38a016285e442a485c9b9bc17a6105"><div class="ttname"><a href="../../de/dde/a11626.html#adc38a016285e442a485c9b9bc17a6105">AuraEffect::RecalculateAmount</a></div><div class="ttdeci">void RecalculateAmount()</div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.h:76</div></div>
 <div class="ttc" id="aa11866_html_a19e0ed231d33245849ef31acb0f2bca3"><div class="ttname"><a href="../../dc/d0e/a11866.html#a19e0ed231d33245849ef31acb0f2bca3">AuraScript::PreventDefaultAction</a></div><div class="ttdeci">void PreventDefaultAction()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1000</div></div>
 <div class="ttc" id="aa11866_html_a80b4589d9fb316ef3e53ffdc811738b4"><div class="ttname"><a href="../../dc/d0e/a11866.html#a80b4589d9fb316ef3e53ffdc811738b4">AuraScript::GetEffect</a></div><div class="ttdeci">AuraEffect * GetEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1170</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01170">AuraScript::GetEffect()</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>, and <a class="el" href="../../#l00076">AuraEffect::RecalculateAmount()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05501">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05500">Register()</a>.</p>
 
 </div>
 </div>
@@ -665,14 +665,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5502</span>    {</div>
-<div class="line"><span class="lineno"> 5503</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ad42047dcb29d96224f6bd44064b1da32">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellHitAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a214b6c5ecd713ed2c2b0246138a14a14">SPELL_AURA_MOD_SPELL_HIT_CHANCE</a>);</div>
-<div class="line"><span class="lineno"> 5504</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ae974eed8254bace2a758917a4b629fa9">spell_pet_spellhit_expertise_spellpen_scaling::CalculateExpertiseAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a381514eeb1f11096f6d20b132d064cb7">SPELL_AURA_MOD_EXPERTISE</a>);</div>
-<div class="line"><span class="lineno"> 5505</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a300e649beb785c4ebc84eb1b0613164e">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellPenAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c">SPELL_AURA_MOD_TARGET_RESISTANCE</a>);</div>
-<div class="line"><span class="lineno"> 5506</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ac01bc37e10b1072fb12aeb0bbfbdcc41">spell_pet_spellhit_expertise_spellpen_scaling::HandleEffectApply</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 5507</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a3ac8408619d30ad092b624c2894d40bb">spell_pet_spellhit_expertise_spellpen_scaling::CalcPeriodic</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>);</div>
-<div class="line"><span class="lineno"> 5508</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a26c15c411ff09d8107dfc360b71dbc0a">spell_pet_spellhit_expertise_spellpen_scaling::HandlePeriodic</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>);</div>
-<div class="line"><span class="lineno"> 5509</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5501</span>    {</div>
+<div class="line"><span class="lineno"> 5502</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ad42047dcb29d96224f6bd44064b1da32">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellHitAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a214b6c5ecd713ed2c2b0246138a14a14">SPELL_AURA_MOD_SPELL_HIT_CHANCE</a>);</div>
+<div class="line"><span class="lineno"> 5503</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ae974eed8254bace2a758917a4b629fa9">spell_pet_spellhit_expertise_spellpen_scaling::CalculateExpertiseAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffa8ad5debef66c8aadbaf13f97f522e791">EFFECT_1</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a381514eeb1f11096f6d20b132d064cb7">SPELL_AURA_MOD_EXPERTISE</a>);</div>
+<div class="line"><span class="lineno"> 5504</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">DoEffectCalcAmount</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a300e649beb785c4ebc84eb1b0613164e">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellPenAmount</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffaf927c15d111e2212aaf1f8488ce751c1">EFFECT_2</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799aaf448a103e8031c9351d2afb8d90e74c">SPELL_AURA_MOD_TARGET_RESISTANCE</a>);</div>
+<div class="line"><span class="lineno"> 5505</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#ac01bc37e10b1072fb12aeb0bbfbdcc41">spell_pet_spellhit_expertise_spellpen_scaling::HandleEffectApply</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 5506</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a266a051650b446c525aa6c16a256e464">DoEffectCalcPeriodic</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a3ac8408619d30ad092b624c2894d40bb">spell_pet_spellhit_expertise_spellpen_scaling::CalcPeriodic</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>);</div>
+<div class="line"><span class="lineno"> 5507</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d2/d1b/a25130.html#a26c15c411ff09d8107dfc360b71dbc0a">spell_pet_spellhit_expertise_spellpen_scaling::HandlePeriodic</a>, <a class="code hl_define" href="../../dd/deb/a04304.html#ac97ba74f30438a8b51ce05c9de303cd7">EFFECT_ALL</a>, <a class="code hl_define" href="../../d3/da5/a01598.html#adc2aca3aa7cbad44c23b542d6bc0162a">SPELL_AURA_ANY</a>);</div>
+<div class="line"><span class="lineno"> 5508</span>    }</div>
 <div class="ttc" id="aa01598_html_a5f7926ca012466d6b220655a1bb6e912"><div class="ttname"><a href="../../d3/da5/a01598.html#a5f7926ca012466d6b220655a1bb6e912">AuraEffectCalcAmountFn</a></div><div class="ttdeci">#define AuraEffectCalcAmountFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:783</div></div>
 <div class="ttc" id="aa01598_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../d3/da5/a01598.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:771</div></div>
 <div class="ttc" id="aa01598_html_ab8d87844aaddbc3842b2cd99266fbd6f"><div class="ttname"><a href="../../d3/da5/a01598.html#ab8d87844aaddbc3842b2cd99266fbd6f">AuraEffectCalcPeriodicFn</a></div><div class="ttdeci">#define AuraEffectCalcPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:789</div></div>
@@ -689,14 +689,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa11866_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../dc/d0e/a11866.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:770</div></div>
 <div class="ttc" id="aa11866_html_a5b3cca86dbe3a8e042a0517a2621acf2"><div class="ttname"><a href="../../dc/d0e/a11866.html#a5b3cca86dbe3a8e042a0517a2621acf2">AuraScript::DoEffectCalcAmount</a></div><div class="ttdeci">HookList&lt; EffectCalcAmountHandler &gt; DoEffectCalcAmount</div><div class="ttdef"><b>Definition:</b> SpellScript.h:782</div></div>
 <div class="ttc" id="aa11866_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../dc/d0e/a11866.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:749</div></div>
-<div class="ttc" id="aa25130_html_a26c15c411ff09d8107dfc360b71dbc0a"><div class="ttname"><a href="../../d2/d1b/a25130.html#a26c15c411ff09d8107dfc360b71dbc0a">spell_pet_spellhit_expertise_spellpen_scaling::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5495</div></div>
-<div class="ttc" id="aa25130_html_a300e649beb785c4ebc84eb1b0613164e"><div class="ttname"><a href="../../d2/d1b/a25130.html#a300e649beb785c4ebc84eb1b0613164e">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellPenAmount</a></div><div class="ttdeci">void CalculateSpellPenAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5475</div></div>
-<div class="ttc" id="aa25130_html_a3ac8408619d30ad092b624c2894d40bb"><div class="ttname"><a href="../../d2/d1b/a25130.html#a3ac8408619d30ad092b624c2894d40bb">spell_pet_spellhit_expertise_spellpen_scaling::CalcPeriodic</a></div><div class="ttdeci">void CalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5486</div></div>
-<div class="ttc" id="aa25130_html_ac01bc37e10b1072fb12aeb0bbfbdcc41"><div class="ttname"><a href="../../d2/d1b/a25130.html#ac01bc37e10b1072fb12aeb0bbfbdcc41">spell_pet_spellhit_expertise_spellpen_scaling::HandleEffectApply</a></div><div class="ttdeci">void HandleEffectApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5481</div></div>
-<div class="ttc" id="aa25130_html_ad42047dcb29d96224f6bd44064b1da32"><div class="ttname"><a href="../../d2/d1b/a25130.html#ad42047dcb29d96224f6bd44064b1da32">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellHitAmount</a></div><div class="ttdeci">void CalculateSpellHitAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5463</div></div>
-<div class="ttc" id="aa25130_html_ae974eed8254bace2a758917a4b629fa9"><div class="ttname"><a href="../../d2/d1b/a25130.html#ae974eed8254bace2a758917a4b629fa9">spell_pet_spellhit_expertise_spellpen_scaling::CalculateExpertiseAmount</a></div><div class="ttdeci">void CalculateExpertiseAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5469</div></div>
+<div class="ttc" id="aa25130_html_a26c15c411ff09d8107dfc360b71dbc0a"><div class="ttname"><a href="../../d2/d1b/a25130.html#a26c15c411ff09d8107dfc360b71dbc0a">spell_pet_spellhit_expertise_spellpen_scaling::HandlePeriodic</a></div><div class="ttdeci">void HandlePeriodic(AuraEffect const *aurEff)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5494</div></div>
+<div class="ttc" id="aa25130_html_a300e649beb785c4ebc84eb1b0613164e"><div class="ttname"><a href="../../d2/d1b/a25130.html#a300e649beb785c4ebc84eb1b0613164e">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellPenAmount</a></div><div class="ttdeci">void CalculateSpellPenAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5474</div></div>
+<div class="ttc" id="aa25130_html_a3ac8408619d30ad092b624c2894d40bb"><div class="ttname"><a href="../../d2/d1b/a25130.html#a3ac8408619d30ad092b624c2894d40bb">spell_pet_spellhit_expertise_spellpen_scaling::CalcPeriodic</a></div><div class="ttdeci">void CalcPeriodic(AuraEffect const *, bool &amp;isPeriodic, int32 &amp;amplitude)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5485</div></div>
+<div class="ttc" id="aa25130_html_ac01bc37e10b1072fb12aeb0bbfbdcc41"><div class="ttname"><a href="../../d2/d1b/a25130.html#ac01bc37e10b1072fb12aeb0bbfbdcc41">spell_pet_spellhit_expertise_spellpen_scaling::HandleEffectApply</a></div><div class="ttdeci">void HandleEffectApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5480</div></div>
+<div class="ttc" id="aa25130_html_ad42047dcb29d96224f6bd44064b1da32"><div class="ttname"><a href="../../d2/d1b/a25130.html#ad42047dcb29d96224f6bd44064b1da32">spell_pet_spellhit_expertise_spellpen_scaling::CalculateSpellHitAmount</a></div><div class="ttdeci">void CalculateSpellHitAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5462</div></div>
+<div class="ttc" id="aa25130_html_ae974eed8254bace2a758917a4b629fa9"><div class="ttname"><a href="../../d2/d1b/a25130.html#ae974eed8254bace2a758917a4b629fa9">spell_pet_spellhit_expertise_spellpen_scaling::CalculateExpertiseAmount</a></div><div class="ttdeci">void CalculateExpertiseAmount(AuraEffect const *, int32 &amp;amount, bool &amp;)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5468</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00789">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l05486">CalcPeriodic()</a>, <a class="el" href="../../#l05469">CalculateExpertiseAmount()</a>, <a class="el" href="../../#l05463">CalculateSpellHitAmount()</a>, <a class="el" href="../../#l05475">CalculateSpellPenAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00788">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l05481">HandleEffectApply()</a>, <a class="el" href="../../#l05495">HandlePeriodic()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00043">SPELL_AURA_ANY</a>, <a class="el" href="../../#l00303">SPELL_AURA_MOD_EXPERTISE</a>, <a class="el" href="../../#l00118">SPELL_AURA_MOD_SPELL_HIT_CHANCE</a>, and <a class="el" href="../../#l00186">SPELL_AURA_MOD_TARGET_RESISTANCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00783">AuraEffectCalcAmountFn</a>, <a class="el" href="../../#l00789">AuraEffectCalcPeriodicFn</a>, <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l05485">CalcPeriodic()</a>, <a class="el" href="../../#l05468">CalculateExpertiseAmount()</a>, <a class="el" href="../../#l05462">CalculateSpellHitAmount()</a>, <a class="el" href="../../#l05474">CalculateSpellPenAmount()</a>, <a class="el" href="../../#l00782">AuraScript::DoEffectCalcAmount</a>, <a class="el" href="../../#l00788">AuraScript::DoEffectCalcPeriodic</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00032">EFFECT_1</a>, <a class="el" href="../../#l00033">EFFECT_2</a>, <a class="el" href="../../#l00038">EFFECT_ALL</a>, <a class="el" href="../../#l05480">HandleEffectApply()</a>, <a class="el" href="../../#l05494">HandlePeriodic()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, <a class="el" href="../../#l00043">SPELL_AURA_ANY</a>, <a class="el" href="../../#l00303">SPELL_AURA_MOD_EXPERTISE</a>, <a class="el" href="../../#l00118">SPELL_AURA_MOD_SPELL_HIT_CHANCE</a>, and <a class="el" href="../../#l00186">SPELL_AURA_MOD_TARGET_RESISTANCE</a>.</p>
 
 </div>
 </div>
@@ -744,8 +744,8 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">{</div>
 <div class="line">        <span class="keywordflow">return</span> (hitChance / <a class="code hl_variable" href="../../d2/d1b/a25130.html#a5e168cfe5d9b620d523ea780f1e18cc7">cap</a>) * <a class="code hl_variable" href="../../d2/d1b/a25130.html#a11f2c759a5587eb865560eceff5b8414">maxChance</a></div>
-<div class="ttc" id="aa25130_html_a11f2c759a5587eb865560eceff5b8414"><div class="ttname"><a href="../../d2/d1b/a25130.html#a11f2c759a5587eb865560eceff5b8414">spell_pet_spellhit_expertise_spellpen_scaling::maxChance</a></div><div class="ttdeci">float float maxChance</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5459</div></div>
-<div class="ttc" id="aa25130_html_a5e168cfe5d9b620d523ea780f1e18cc7"><div class="ttname"><a href="../../d2/d1b/a25130.html#a5e168cfe5d9b620d523ea780f1e18cc7">spell_pet_spellhit_expertise_spellpen_scaling::cap</a></div><div class="ttdeci">float cap</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5458</div></div>
+<div class="ttc" id="aa25130_html_a11f2c759a5587eb865560eceff5b8414"><div class="ttname"><a href="../../d2/d1b/a25130.html#a11f2c759a5587eb865560eceff5b8414">spell_pet_spellhit_expertise_spellpen_scaling::maxChance</a></div><div class="ttdeci">float float maxChance</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5458</div></div>
+<div class="ttc" id="aa25130_html_a5e168cfe5d9b620d523ea780f1e18cc7"><div class="ttname"><a href="../../d2/d1b/a25130.html#a5e168cfe5d9b620d523ea780f1e18cc7">spell_pet_spellhit_expertise_spellpen_scaling::cap</a></div><div class="ttdeci">float cap</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:5457</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -755,7 +755,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d1b/a25130.html">spell_pet_spellhit_expertise_spellpen_scaling</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

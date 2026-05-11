@@ -628,23 +628,23 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  952</span>                                              : <a class="code hl_struct" href="../../d8/d63/a06514.html">ScriptedAI</a>(creature)</div>
-<div class="line"><span class="lineno">  953</span>    {</div>
-<div class="line"><span class="lineno">  954</span>        <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  955</span>        <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#a02e384ccca4dd05dad4eab9d15f6a4dca73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  956</span>        <a class="code hl_function" href="../../d8/d63/a06514.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(20s, 25s, [&amp;]</div>
-<div class="line"><span class="lineno">  957</span>        {</div>
-<div class="line"><span class="lineno">  958</span>            <a class="code hl_typedef" href="../../d0/d85/a01352.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a> guids;</div>
-<div class="line"><span class="lineno">  959</span>            <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;DoForAllPlayers([&amp;](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
-<div class="line"><span class="lineno">  960</span>            {</div>
-<div class="line"><span class="lineno">  961</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
-<div class="line"><span class="lineno">  962</span>                    guids.push_back(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  963</span>            });</div>
-<div class="line"><span class="lineno">  964</span>            <span class="keywordflow">if</span> (!guids.empty())</div>
-<div class="line"><span class="lineno">  965</span>                if (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player = <a class="code hl_function" href="../../dd/d78/a05079.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guids.at(<a class="code hl_function" href="../../d0/de6/a04814.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, guids.size() - 1))))</div>
-<div class="line"><span class="lineno">  966</span>                    <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/da8/a04091.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aaacf75e9731cc683534e0dda23d58961">SPELL_SCION_ARCANE_BARRAGE</a>);</div>
-<div class="line"><span class="lineno">  967</span>        }, 5s, 8s);</div>
-<div class="line"><span class="lineno">  968</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  951</span>                                              : <a class="code hl_struct" href="../../d8/d63/a06514.html">ScriptedAI</a>(creature)</div>
+<div class="line"><span class="lineno">  952</span>    {</div>
+<div class="line"><span class="lineno">  953</span>        <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  954</span>        <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../dd/da3/a03026.html#a02e384ccca4dd05dad4eab9d15f6a4dca73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  955</span>        <a class="code hl_function" href="../../d8/d63/a06514.html#a967ab195c2a069153701e99655512282">ScheduleTimedEvent</a>(20s, 25s, [&amp;]</div>
+<div class="line"><span class="lineno">  956</span>        {</div>
+<div class="line"><span class="lineno">  957</span>            <a class="code hl_typedef" href="../../d0/d85/a01352.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a> guids;</div>
+<div class="line"><span class="lineno">  958</span>            <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;DoForAllPlayers([&amp;](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  959</span>            {</div>
+<div class="line"><span class="lineno">  960</span>                <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
+<div class="line"><span class="lineno">  961</span>                    guids.push_back(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  962</span>            });</div>
+<div class="line"><span class="lineno">  963</span>            <span class="keywordflow">if</span> (!guids.empty())</div>
+<div class="line"><span class="lineno">  964</span>                if (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player = <a class="code hl_function" href="../../dd/d78/a05079.html#a86236181ddfead8560067378e385f244">ObjectAccessor::GetPlayer</a>(*<a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, guids.at(<a class="code hl_function" href="../../d0/de6/a04814.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, guids.size() - 1))))</div>
+<div class="line"><span class="lineno">  965</span>                    <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_enumvalue" href="../../de/da8/a04091.html#ad55cdc1f9b28ac7c9d9b316ba4b039a0aaacf75e9731cc683534e0dda23d58961">SPELL_SCION_ARCANE_BARRAGE</a>);</div>
+<div class="line"><span class="lineno">  966</span>        }, 5s, 8s);</div>
+<div class="line"><span class="lineno">  967</span>    }</div>
 <div class="ttc" id="aa01352_html_a173958393e55b3150391dfb3a6d387ed"><div class="ttname"><a href="../../d0/d85/a01352.html#a173958393e55b3150391dfb3a6d387ed">GuidVector</a></div><div class="ttdeci">std::vector&lt; ObjectGuid &gt; GuidVector</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:256</div></div>
 <div class="ttc" id="aa01412_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:566</div></div>
 <div class="ttc" id="aa03026_html_a02e384ccca4dd05dad4eab9d15f6a4dca73cc106ecf58fcd3a75fa23f9ff7a21c"><div class="ttname"><a href="../../dd/da3/a03026.html#a02e384ccca4dd05dad4eab9d15f6a4dca73cc106ecf58fcd3a75fa23f9ff7a21c">SPELL_TELEPORT_VISUAL</a></div><div class="ttdeci">@ SPELL_TELEPORT_VISUAL</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:617</div></div>
@@ -692,7 +692,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d8/d63/a06514.html#a4c91d8d2c1a6e8b234c1c4f15936c7a4">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  989</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  988</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -721,14 +721,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d8/d63/a06514.html#a4cc209e047dcbd29cf57e689e3945ff7">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  979</span>    {</div>
-<div class="line"><span class="lineno">  980</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d80/a09102.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
-<div class="line"><span class="lineno">  981</span>            vehicle-&gt;RemoveAllPassengers();</div>
-<div class="line"><span class="lineno">  982</span> </div>
-<div class="line"><span class="lineno">  983</span>        <span class="keywordflow">if</span> (killer)</div>
-<div class="line"><span class="lineno">  984</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player = killer-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a3bd4bddb1a2ef1b1aaf427576b78a683">GetCharmerOrOwnerPlayerOrPlayerItself</a>())</div>
-<div class="line"><span class="lineno">  985</span>                player-&gt;UpdateAchievementCriteria(<a class="code hl_enumvalue" href="../../d6/ddf/a04349.html#a796cde2fc6e2eaed4c657203ed43cd19ae617044b2307e8a08fa173b6f5881ae7">ACHIEVEMENT_CRITERIA_TYPE_GET_KILLING_BLOWS</a>, 1, 0, <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
-<div class="line"><span class="lineno">  986</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  978</span>    {</div>
+<div class="line"><span class="lineno">  979</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/d80/a09102.html">Vehicle</a>* vehicle = <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a0839378167049038c2857252d3b14738">GetVehicle</a>())</div>
+<div class="line"><span class="lineno">  980</span>            vehicle-&gt;RemoveAllPassengers();</div>
+<div class="line"><span class="lineno">  981</span> </div>
+<div class="line"><span class="lineno">  982</span>        <span class="keywordflow">if</span> (killer)</div>
+<div class="line"><span class="lineno">  983</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player = killer-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a3bd4bddb1a2ef1b1aaf427576b78a683">GetCharmerOrOwnerPlayerOrPlayerItself</a>())</div>
+<div class="line"><span class="lineno">  984</span>                player-&gt;UpdateAchievementCriteria(<a class="code hl_enumvalue" href="../../d6/ddf/a04349.html#a796cde2fc6e2eaed4c657203ed43cd19ae617044b2307e8a08fa173b6f5881ae7">ACHIEVEMENT_CRITERIA_TYPE_GET_KILLING_BLOWS</a>, 1, 0, <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  985</span>    }</div>
 <div class="ttc" id="aa04349_html_a796cde2fc6e2eaed4c657203ed43cd19ae617044b2307e8a08fa173b6f5881ae7"><div class="ttname"><a href="../../d6/ddf/a04349.html#a796cde2fc6e2eaed4c657203ed43cd19ae617044b2307e8a08fa173b6f5881ae7">ACHIEVEMENT_CRITERIA_TYPE_GET_KILLING_BLOWS</a></div><div class="ttdeci">@ ACHIEVEMENT_CRITERIA_TYPE_GET_KILLING_BLOWS</div><div class="ttdef"><b>Definition:</b> DBCEnums.h:170</div></div>
 <div class="ttc" id="aa09066_html_a3bd4bddb1a2ef1b1aaf427576b78a683"><div class="ttname"><a href="../../dc/d3e/a09066.html#a3bd4bddb1a2ef1b1aaf427576b78a683">Unit::GetCharmerOrOwnerPlayerOrPlayerItself</a></div><div class="ttdeci">Player * GetCharmerOrOwnerPlayerOrPlayerItself() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7715</div></div>
 <div class="ttc" id="aa09102_html"><div class="ttname"><a href="../../da/d80/a09102.html">Vehicle</a></div><div class="ttdef"><b>Definition:</b> Vehicle.h:28</div></div>
@@ -762,7 +762,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/dd6/a06470.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  988</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  987</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -793,12 +793,12 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d8/d63/a06514.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d8/d63/a06514.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  971</span>    {</div>
-<div class="line"><span class="lineno">  972</span>        <a class="code hl_variable" href="../../d3/dd6/a06470.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/d9e/a05838.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff, [<span class="keyword">this</span>]</div>
-<div class="line"><span class="lineno">  973</span>        {</div>
-<div class="line"><span class="lineno">  974</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>);</div>
-<div class="line"><span class="lineno">  975</span>        });</div>
-<div class="line"><span class="lineno">  976</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  970</span>    {</div>
+<div class="line"><span class="lineno">  971</span>        <a class="code hl_variable" href="../../d3/dd6/a06470.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/d9e/a05838.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff, [<span class="keyword">this</span>]</div>
+<div class="line"><span class="lineno">  972</span>        {</div>
+<div class="line"><span class="lineno">  973</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d63/a06514.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>);</div>
+<div class="line"><span class="lineno">  974</span>        });</div>
+<div class="line"><span class="lineno">  975</span>    }</div>
 <div class="ttc" id="aa01430_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d8/dd0/a01430.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:188</div></div>
 <div class="ttc" id="aa05838_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../dd/d9e/a05838.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
 <div class="ttc" id="aa06470_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d3/dd6/a06470.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:74</div></div>
@@ -814,7 +814,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/da9/a19466.html">npc_scion_of_eternity</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:53:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

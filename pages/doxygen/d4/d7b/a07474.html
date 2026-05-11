@@ -629,40 +629,40 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Force player to join a battlefield group. </p>
-<div class="fragment"><div class="line"><span class="lineno">  519</span>{</div>
-<div class="line"><span class="lineno">  520</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
-<div class="line"><span class="lineno">  521</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  522</span> </div>
-<div class="line"><span class="lineno">  523</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>() &amp;&amp; (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a70320ddf707b2494d166383c4a354b13">isBGGroup</a>() || player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ab40c0a24297f33c371ee0aba65990b6b">isBFGroup</a>()))</div>
-<div class="line"><span class="lineno">  524</span>    {</div>
-<div class="line"><span class="lineno">  525</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;misc&quot;</span>, <span class="stringliteral">&quot;Battlefield::AddOrSetPlayerToCorrectBfGroup - player is already in {} group!&quot;</span>, (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a70320ddf707b2494d166383c4a354b13">isBGGroup</a>() ? <span class="stringliteral">&quot;BG&quot;</span> : <span class="stringliteral">&quot;BF&quot;</span>));</div>
-<div class="line"><span class="lineno">  526</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  527</span>    }</div>
-<div class="line"><span class="lineno">  528</span> </div>
-<div class="line"><span class="lineno">  529</span>    <a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_function" href="../../d4/d7b/a07474.html#a2f39fb7dc6ed0d149b5470c70ae00690">GetFreeBfRaid</a>(player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>());</div>
-<div class="line"><span class="lineno">  530</span>    <span class="keywordflow">if</span> (!group)</div>
-<div class="line"><span class="lineno">  531</span>    {</div>
-<div class="line"><span class="lineno">  532</span>        group = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>;</div>
-<div class="line"><span class="lineno">  533</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a16cf33f0e6c72d5fa089928ef3952a13">SetBattlefieldGroup</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  534</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Create</a>(player);</div>
-<div class="line"><span class="lineno">  535</span>        <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;AddGroup(group);</div>
-<div class="line"><span class="lineno">  536</span>        <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  537</span>    }</div>
-<div class="line"><span class="lineno">  538</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ab58ef93f327bc8a3e328ee48231aa331">IsMember</a>(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
-<div class="line"><span class="lineno">  539</span>    {</div>
-<div class="line"><span class="lineno">  540</span>        <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> subgroup = group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a0de9cfb35ca1f2aaebf9dd9b1514b9f2">GetMemberGroup</a>(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  541</span>        player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#af5286dfd34e57eb28d6804cc74eb986d">SetBattlegroundOrBattlefieldRaid</a>(group, subgroup);</div>
-<div class="line"><span class="lineno">  542</span>    }</div>
-<div class="line"><span class="lineno">  543</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  544</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a4dfd1d2dddfb659196b0b7fdb02eef7a">AddMember</a>(player);</div>
-<div class="line"><span class="lineno">  545</span> </div>
-<div class="line"><span class="lineno">  546</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  547</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  520</span>{</div>
+<div class="line"><span class="lineno">  521</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>())</div>
+<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  523</span> </div>
+<div class="line"><span class="lineno">  524</span>    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>() &amp;&amp; (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a70320ddf707b2494d166383c4a354b13">isBGGroup</a>() || player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ab40c0a24297f33c371ee0aba65990b6b">isBFGroup</a>()))</div>
+<div class="line"><span class="lineno">  525</span>    {</div>
+<div class="line"><span class="lineno">  526</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;misc&quot;</span>, <span class="stringliteral">&quot;Battlefield::AddOrSetPlayerToCorrectBfGroup - player is already in {} group!&quot;</span>, (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a99fc00f9ac903dbe9adcadc5f7415abb">GetGroup</a>()-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a70320ddf707b2494d166383c4a354b13">isBGGroup</a>() ? <span class="stringliteral">&quot;BG&quot;</span> : <span class="stringliteral">&quot;BF&quot;</span>));</div>
+<div class="line"><span class="lineno">  527</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  528</span>    }</div>
+<div class="line"><span class="lineno">  529</span> </div>
+<div class="line"><span class="lineno">  530</span>    <a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_function" href="../../d4/d7b/a07474.html#a2f39fb7dc6ed0d149b5470c70ae00690">GetFreeBfRaid</a>(player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>());</div>
+<div class="line"><span class="lineno">  531</span>    <span class="keywordflow">if</span> (!group)</div>
+<div class="line"><span class="lineno">  532</span>    {</div>
+<div class="line"><span class="lineno">  533</span>        group = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>;</div>
+<div class="line"><span class="lineno">  534</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a16cf33f0e6c72d5fa089928ef3952a13">SetBattlefieldGroup</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  535</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Create</a>(player);</div>
+<div class="line"><span class="lineno">  536</span>        <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;AddGroup(group);</div>
+<div class="line"><span class="lineno">  537</span>        <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  538</span>    }</div>
+<div class="line"><span class="lineno">  539</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#ab58ef93f327bc8a3e328ee48231aa331">IsMember</a>(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()))</div>
+<div class="line"><span class="lineno">  540</span>    {</div>
+<div class="line"><span class="lineno">  541</span>        <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> subgroup = group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a0de9cfb35ca1f2aaebf9dd9b1514b9f2">GetMemberGroup</a>(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  542</span>        player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#af5286dfd34e57eb28d6804cc74eb986d">SetBattlegroundOrBattlefieldRaid</a>(group, subgroup);</div>
+<div class="line"><span class="lineno">  543</span>    }</div>
+<div class="line"><span class="lineno">  544</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  545</span>        group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a4dfd1d2dddfb659196b0b7fdb02eef7a">AddMember</a>(player);</div>
+<div class="line"><span class="lineno">  546</span> </div>
+<div class="line"><span class="lineno">  547</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  548</span>}</div>
 <div class="ttc" id="aa02000_html_a9b001b22670103435cf11551af9fa71e"><div class="ttname"><a href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a></div><div class="ttdeci">#define sGroupMgr</div><div class="ttdef"><b>Definition:</b> GroupMgr.h:51</div></div>
 <div class="ttc" id="aa03386_html_aab072245ab577ff0e12efe20a536b99a"><div class="ttname"><a href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a></div><div class="ttdeci">Groups</div><div class="ttdef"><b>Definition:</b> boss_moroes.cpp:55</div></div>
 <div class="ttc" id="aa04559_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d1/dce/a04559.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
 <div class="ttc" id="aa04580_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa07474_html_a2f39fb7dc6ed0d149b5470c70ae00690"><div class="ttname"><a href="../../d4/d7b/a07474.html#a2f39fb7dc6ed0d149b5470c70ae00690">Battlefield::GetFreeBfRaid</a></div><div class="ttdeci">Group * GetFreeBfRaid(TeamId teamId)</div><div class="ttdoc">Find a not full battlefield group, if there is no, create one.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:498</div></div>
+<div class="ttc" id="aa07474_html_a2f39fb7dc6ed0d149b5470c70ae00690"><div class="ttname"><a href="../../d4/d7b/a07474.html#a2f39fb7dc6ed0d149b5470c70ae00690">Battlefield::GetFreeBfRaid</a></div><div class="ttdeci">Group * GetFreeBfRaid(TeamId teamId)</div><div class="ttdoc">Find a not full battlefield group, if there is no, create one.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:499</div></div>
 <div class="ttc" id="aa08682_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../d1/d2a/a08682.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:109</div></div>
 <div class="ttc" id="aa08682_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
 <div class="ttc" id="aa08934_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2128</div></div>
@@ -678,9 +678,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="aa09830_html_ab58ef93f327bc8a3e328ee48231aa331"><div class="ttname"><a href="../../d3/d95/a09830.html#ab58ef93f327bc8a3e328ee48231aa331">Group::IsMember</a></div><div class="ttdeci">bool IsMember(ObjectGuid guid) const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2349</div></div>
 <div class="ttc" id="aa09830_html_ad8e8aed3d91a8233306d0dd6a9bb5148"><div class="ttname"><a href="../../d3/d95/a09830.html#ad8e8aed3d91a8233306d0dd6a9bb5148">Group::Create</a></div><div class="ttdeci">bool Create(Player *leader)</div><div class="ttdef"><b>Definition:</b> Group.cpp:108</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00390">Group::AddMember()</a>, <a class="el" href="../../#l00108">Group::Create()</a>, <a class="el" href="../../#l00498">GetFreeBfRaid()</a>, <a class="el" href="../../#l02505">Player::GetGroup()</a>, <a class="el" href="../../#l02319">Group::GetGUID()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02397">Group::GetMemberGroup()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l02294">Group::isBFGroup()</a>, <a class="el" href="../../#l02289">Group::isBGGroup()</a>, <a class="el" href="../../#l00109">Object::IsInWorld()</a>, <a class="el" href="../../#l02349">Group::IsMember()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l02410">Group::SetBattlefieldGroup()</a>, <a class="el" href="../../#l13130">Player::SetBattlegroundOrBattlefieldRaid()</a>, and <a class="el" href="../../#l00051">sGroupMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00390">Group::AddMember()</a>, <a class="el" href="../../#l00108">Group::Create()</a>, <a class="el" href="../../#l00499">GetFreeBfRaid()</a>, <a class="el" href="../../#l02505">Player::GetGroup()</a>, <a class="el" href="../../#l02319">Group::GetGUID()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02397">Group::GetMemberGroup()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l02294">Group::isBFGroup()</a>, <a class="el" href="../../#l02289">Group::isBGGroup()</a>, <a class="el" href="../../#l00109">Object::IsInWorld()</a>, <a class="el" href="../../#l02349">Group::IsMember()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l02410">Group::SetBattlefieldGroup()</a>, <a class="el" href="../../#l13130">Player::SetBattlegroundOrBattlefieldRaid()</a>, and <a class="el" href="../../#l00051">sGroupMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>.</p>
 
 </div>
 </div>
@@ -717,19 +717,19 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  591</span>{</div>
-<div class="line"><span class="lineno">  592</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
-<div class="line"><span class="lineno">  593</span>    {</div>
-<div class="line"><span class="lineno">  594</span>        <span class="keywordflow">if</span> (!gy)</div>
-<div class="line"><span class="lineno">  595</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  596</span> </div>
-<div class="line"><span class="lineno">  597</span>        <span class="keywordflow">if</span> (gy-&gt;HasNpc(npcGuid))</div>
-<div class="line"><span class="lineno">  598</span>        {</div>
-<div class="line"><span class="lineno">  599</span>            gy-&gt;AddPlayer(playerGuid);</div>
-<div class="line"><span class="lineno">  600</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  601</span>        }</div>
-<div class="line"><span class="lineno">  602</span>    }</div>
-<div class="line"><span class="lineno">  603</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  592</span>{</div>
+<div class="line"><span class="lineno">  593</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
+<div class="line"><span class="lineno">  594</span>    {</div>
+<div class="line"><span class="lineno">  595</span>        <span class="keywordflow">if</span> (!gy)</div>
+<div class="line"><span class="lineno">  596</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  597</span> </div>
+<div class="line"><span class="lineno">  598</span>        <span class="keywordflow">if</span> (gy-&gt;HasNpc(npcGuid))</div>
+<div class="line"><span class="lineno">  599</span>        {</div>
+<div class="line"><span class="lineno">  600</span>            gy-&gt;AddPlayer(playerGuid);</div>
+<div class="line"><span class="lineno">  601</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  602</span>        }</div>
+<div class="line"><span class="lineno">  603</span>    }</div>
+<div class="line"><span class="lineno">  604</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00415">GraveyardList</a>.</p>
 
@@ -750,12 +750,12 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  395</span>{</div>
-<div class="line"><span class="lineno">  396</span>    <span class="comment">// Remove player from queue</span></div>
-<div class="line"><span class="lineno">  397</span>    <a class="code hl_variable" href="../../d4/d7b/a07474.html#a38795c9c7e9e92728c927dfcdda602b5">PlayersInQueue</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].erase(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  398</span>    <span class="comment">// Send notification</span></div>
-<div class="line"><span class="lineno">  399</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#a1fadc031a69148a723c58fc66dafaed5">SendBfLeaveMessage</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>, <a class="code hl_enumvalue" href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a>);</div>
-<div class="line"><span class="lineno">  400</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  396</span>{</div>
+<div class="line"><span class="lineno">  397</span>    <span class="comment">// Remove player from queue</span></div>
+<div class="line"><span class="lineno">  398</span>    <a class="code hl_variable" href="../../d4/d7b/a07474.html#a38795c9c7e9e92728c927dfcdda602b5">PlayersInQueue</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].erase(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  399</span>    <span class="comment">// Send notification</span></div>
+<div class="line"><span class="lineno">  400</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#a1fadc031a69148a723c58fc66dafaed5">SendBfLeaveMessage</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>, <a class="code hl_enumvalue" href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a>);</div>
+<div class="line"><span class="lineno">  401</span>}</div>
 <div class="ttc" id="aa05022_html_ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7"><div class="ttname"><a href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a></div><div class="ttdeci">@ BF_LEAVE_REASON_CLOSE</div><div class="ttdef"><b>Definition:</b> WorldSession.h:253</div></div>
 <div class="ttc" id="aa07474_html_a38795c9c7e9e92728c927dfcdda602b5"><div class="ttname"><a href="../../d4/d7b/a07474.html#a38795c9c7e9e92728c927dfcdda602b5">Battlefield::PlayersInQueue</a></div><div class="ttdeci">GuidUnorderedSet PlayersInQueue[PVP_TEAMS_COUNT]</div><div class="ttdef"><b>Definition:</b> Battlefield.h:394</div></div>
 <div class="ttc" id="aa08934_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2020</div></div>
@@ -790,9 +790,9 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  447</span>{</div>
-<div class="line"><span class="lineno">  448</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a1e431ec8c07b96896f8cc4b4e3bbbd73">ForEachPlayerInQueue</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
-<div class="line"><span class="lineno">  449</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  448</span>{</div>
+<div class="line"><span class="lineno">  449</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a1e431ec8c07b96896f8cc4b4e3bbbd73">ForEachPlayerInQueue</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
+<div class="line"><span class="lineno">  450</span>}</div>
 <div class="ttc" id="aa07474_html_a1e431ec8c07b96896f8cc4b4e3bbbd73"><div class="ttname"><a href="../../d4/d7b/a07474.html#a1e431ec8c07b96896f8cc4b4e3bbbd73">Battlefield::ForEachPlayerInQueue</a></div><div class="ttdeci">void ForEachPlayerInQueue(Func &amp;&amp;fn) const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:459</div></div>
 <div class="ttc" id="aa08934_html"><div class="ttname"><a href="../../d6/d9a/a08934.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
 <div class="ttc" id="aa08934_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5692</div></div>
@@ -824,14 +824,14 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  452</span>{</div>
-<div class="line"><span class="lineno">  453</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a962847972d0bb4f1dfd674eb49c3b81d">ForEachPlayerInWar</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
-<div class="line"><span class="lineno">  454</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  453</span>{</div>
+<div class="line"><span class="lineno">  454</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a962847972d0bb4f1dfd674eb49c3b81d">ForEachPlayerInWar</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
+<div class="line"><span class="lineno">  455</span>}</div>
 <div class="ttc" id="aa07474_html_a962847972d0bb4f1dfd674eb49c3b81d"><div class="ttname"><a href="../../d4/d7b/a07474.html#a962847972d0bb4f1dfd674eb49c3b81d">Battlefield::ForEachPlayerInWar</a></div><div class="ttdeci">void ForEachPlayerInWar(Func &amp;&amp;fn) const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:468</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00468">ForEachPlayerInWar()</a>, and <a class="el" href="../../#l05692">Player::SendDirectMessage()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00374">DoPlaySoundToAll()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00375">DoPlaySoundToAll()</a>.</p>
 
 </div>
 </div>
@@ -858,9 +858,9 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  442</span>{</div>
-<div class="line"><span class="lineno">  443</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
-<div class="line"><span class="lineno">  444</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  443</span>{</div>
+<div class="line"><span class="lineno">  444</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>([data](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(data); });</div>
+<div class="line"><span class="lineno">  445</span>}</div>
 <div class="ttc" id="aa07474_html_a32c358d94d4f70515ffbd1e77bbde9c9"><div class="ttname"><a href="../../d4/d7b/a07474.html#a32c358d94d4f70515ffbd1e77bbde9c9">Battlefield::ForEachPlayerInZone</a></div><div class="ttdeci">void ForEachPlayerInZone(Func &amp;&amp;fn) const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:450</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00450">ForEachPlayerInZone()</a>, and <a class="el" href="../../#l05692">Player::SendDirectMessage()</a>.</p>
@@ -895,7 +895,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00386">Active</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l05610">Spell::CheckCast()</a>, <a class="el" href="../../#l04117">spell_gen_mount::HandleMount()</a>, and <a class="el" href="../../#l01032">SpellArea::IsFitToRequirements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l05610">Spell::CheckCast()</a>, <a class="el" href="../../#l04116">spell_gen_mount::HandleMount()</a>, and <a class="el" href="../../#l01032">SpellArea::IsFitToRequirements()</a>.</p>
 
 </div>
 </div>
@@ -914,13 +914,13 @@ Friends</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  375</span>{</div>
-<div class="line"><span class="lineno">  376</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a0dab0e18b26f2fa8befcc1676f265922">BroadcastPacketToWar</a>(<a class="code hl_class" href="../../d8/dc5/a11274.html">WorldPackets::Misc::Playsound</a>(soundId).Write());</div>
-<div class="line"><span class="lineno">  377</span>}</div>
-<div class="ttc" id="aa07474_html_a0dab0e18b26f2fa8befcc1676f265922"><div class="ttname"><a href="../../d4/d7b/a07474.html#a0dab0e18b26f2fa8befcc1676f265922">Battlefield::BroadcastPacketToWar</a></div><div class="ttdeci">void BroadcastPacketToWar(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:451</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  376</span>{</div>
+<div class="line"><span class="lineno">  377</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a0dab0e18b26f2fa8befcc1676f265922">BroadcastPacketToWar</a>(<a class="code hl_class" href="../../d8/dc5/a11274.html">WorldPackets::Misc::Playsound</a>(soundId).Write());</div>
+<div class="line"><span class="lineno">  378</span>}</div>
+<div class="ttc" id="aa07474_html_a0dab0e18b26f2fa8befcc1676f265922"><div class="ttname"><a href="../../d4/d7b/a07474.html#a0dab0e18b26f2fa8befcc1676f265922">Battlefield::BroadcastPacketToWar</a></div><div class="ttdeci">void BroadcastPacketToWar(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:452</div></div>
 <div class="ttc" id="aa11274_html"><div class="ttname"><a href="../../d8/dc5/a11274.html">WorldPackets::Misc::Playsound</a></div><div class="ttdef"><b>Definition:</b> MiscPackets.h:85</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00451">BroadcastPacketToWar()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00452">BroadcastPacketToWar()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00347">EndBattle()</a>, and <a class="el" href="../../#l00299">StartBattle()</a>.</p>
 
@@ -960,12 +960,14 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  364</span>        <a class="code hl_function" href="../../d4/d7b/a07474.html#ab0d165cab59f354de300f4b014ffb714">DoPlaySoundToAll</a>(<a class="code hl_enumvalue" href="../../d6/d8e/a01979.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a">BF_HORDE_WINS</a>);</div>
 <div class="line"><span class="lineno">  365</span> </div>
 <div class="line"><span class="lineno">  366</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a37bc643a6ca1a57d0a41d6e0ae5c3f71">OnBattleEnd</a>(endByTimer);</div>
-<div class="line"><span class="lineno">  367</span> </div>
-<div class="line"><span class="lineno">  368</span>    <span class="comment">// Reset battlefield timer</span></div>
-<div class="line"><span class="lineno">  369</span>    <a class="code hl_enumeration" href="../../d4/d1c/a03272.html#a6e0035edd58cc6ca8c94b5f9723a0d80">Timer</a> = <a class="code hl_variable" href="../../d4/d7b/a07474.html#a92e91c99073b538b9cbdc414a9b37efa">NoWarBattleTime</a>;</div>
-<div class="line"><span class="lineno">  370</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a3465aabf6b7ee665df523c59b05bed68">SendInitWorldStatesToAll</a>();</div>
-<div class="line"><span class="lineno">  371</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates</a>();</div>
-<div class="line"><span class="lineno">  372</span>}</div>
+<div class="line"><span class="lineno">  367</span>    <a class="code hl_define" href="../../d4/dfa/a00746.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBattlefieldWarEnd(<span class="keyword">this</span>, endByTimer);</div>
+<div class="line"><span class="lineno">  368</span> </div>
+<div class="line"><span class="lineno">  369</span>    <span class="comment">// Reset battlefield timer</span></div>
+<div class="line"><span class="lineno">  370</span>    <a class="code hl_enumeration" href="../../d4/d1c/a03272.html#a6e0035edd58cc6ca8c94b5f9723a0d80">Timer</a> = <a class="code hl_variable" href="../../d4/d7b/a07474.html#a92e91c99073b538b9cbdc414a9b37efa">NoWarBattleTime</a>;</div>
+<div class="line"><span class="lineno">  371</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a3465aabf6b7ee665df523c59b05bed68">SendInitWorldStatesToAll</a>();</div>
+<div class="line"><span class="lineno">  372</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates</a>();</div>
+<div class="line"><span class="lineno">  373</span>}</div>
+<div class="ttc" id="aa00746_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d4/dfa/a00746.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:737</div></div>
 <div class="ttc" id="aa01979_html_a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2"><div class="ttname"><a href="../../d6/d8e/a01979.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2">BATTLEFIELD_TIMER_GROUP_WAR</a></div><div class="ttdeci">@ BATTLEFIELD_TIMER_GROUP_WAR</div><div class="ttdef"><b>Definition:</b> Battlefield.h:62</div></div>
 <div class="ttc" id="aa01979_html_a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138"><div class="ttname"><a href="../../d6/d8e/a01979.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138">BF_ALLIANCE_WINS</a></div><div class="ttdeci">@ BF_ALLIANCE_WINS</div><div class="ttdef"><b>Definition:</b> Battlefield.h:53</div></div>
 <div class="ttc" id="aa01979_html_a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a"><div class="ttname"><a href="../../d6/d8e/a01979.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a">BF_HORDE_WINS</a></div><div class="ttdeci">@ BF_HORDE_WINS</div><div class="ttdef"><b>Definition:</b> Battlefield.h:52</div></div>
@@ -979,9 +981,9 @@ Friends</h2></td></tr>
 <div class="ttc" id="aa07474_html_a818ddb7c86e77cf2d656a18f0dcae401"><div class="ttname"><a href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">Battlefield::SendUpdateWorldStates</a></div><div class="ttdeci">virtual void SendUpdateWorldStates(Player *player=nullptr)=0</div></div>
 <div class="ttc" id="aa07474_html_a9ace4c9da42d56cfe1462a6123e6fadc"><div class="ttname"><a href="../../d4/d7b/a07474.html#a9ace4c9da42d56cfe1462a6123e6fadc">Battlefield::GetAttackerTeam</a></div><div class="ttdeci">TeamId GetAttackerTeam() const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:280</div></div>
 <div class="ttc" id="aa07474_html_aaa6f14c3ca5e11dccd4e5e2082e3f4d2"><div class="ttname"><a href="../../d4/d7b/a07474.html#aaa6f14c3ca5e11dccd4e5e2082e3f4d2">Battlefield::GetDefenderTeam</a></div><div class="ttdeci">TeamId GetDefenderTeam() const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:279</div></div>
-<div class="ttc" id="aa07474_html_ab0d165cab59f354de300f4b014ffb714"><div class="ttname"><a href="../../d4/d7b/a07474.html#ab0d165cab59f354de300f4b014ffb714">Battlefield::DoPlaySoundToAll</a></div><div class="ttdeci">void DoPlaySoundToAll(uint32 soundId)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:374</div></div>
+<div class="ttc" id="aa07474_html_ab0d165cab59f354de300f4b014ffb714"><div class="ttname"><a href="../../d4/d7b/a07474.html#ab0d165cab59f354de300f4b014ffb714">Battlefield::DoPlaySoundToAll</a></div><div class="ttdeci">void DoPlaySoundToAll(uint32 soundId)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:375</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00053">BF_ALLIANCE_WINS</a>, <a class="el" href="../../#l00052">BF_HORDE_WINS</a>, <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00374">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00280">GetAttackerTeam()</a>, <a class="el" href="../../#l00279">GetDefenderTeam()</a>, <a class="el" href="../../#l00409">NoWarBattleTime</a>, <a class="el" href="../../#l00317">OnBattleEnd()</a>, <a class="el" href="../../d4/d7b/a07474.html#a3465aabf6b7ee665df523c59b05bed68">SendInitWorldStatesToAll()</a>, <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>, <a class="el" href="../../#l00282">SetDefenderTeam()</a>, <a class="el" href="../../#l00418">StartGrouping</a>, and <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00053">BF_ALLIANCE_WINS</a>, <a class="el" href="../../#l00052">BF_HORDE_WINS</a>, <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>, <a class="el" href="../../#l00375">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00280">GetAttackerTeam()</a>, <a class="el" href="../../#l00279">GetDefenderTeam()</a>, <a class="el" href="../../#l00409">NoWarBattleTime</a>, <a class="el" href="../../#l00317">OnBattleEnd()</a>, <a class="el" href="../../d4/d7b/a07474.html#a3465aabf6b7ee665df523c59b05bed68">SendInitWorldStatesToAll()</a>, <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>, <a class="el" href="../../#l00282">SetDefenderTeam()</a>, <a class="el" href="../../#l00737">sScriptMgr</a>, <a class="el" href="../../#l00418">StartGrouping</a>, and <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00070">bf_commandscript::HandleBattlefieldEnd()</a>, <a class="el" href="../../#l00116">bf_commandscript::HandleBattlefieldSwitch()</a>, <a class="el" href="../../#l01082">BattlefieldWG::ProcessEvent()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
 
@@ -1054,7 +1056,7 @@ template&lt;typename Func &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00446">BroadcastPacketToQueue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00447">BroadcastPacketToQueue()</a>.</p>
 
 </div>
 </div>
@@ -1093,7 +1095,7 @@ template&lt;typename Func &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00451">BroadcastPacketToWar()</a>, <a class="el" href="../../#l00282">KickAfkPlayers()</a>, and <a class="el" href="../../#l00430">TeamCastSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00452">BroadcastPacketToWar()</a>, <a class="el" href="../../#l00282">KickAfkPlayers()</a>, and <a class="el" href="../../#l00431">TeamCastSpell()</a>.</p>
 
 </div>
 </div>
@@ -1177,7 +1179,7 @@ template&lt;typename Func &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00393">Players</a>, and <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00441">BroadcastPacketToZone()</a>, <a class="el" href="../../#l00193">InvitePlayersInZoneToQueue()</a>, <a class="el" href="../../#l00220">InvitePlayersInZoneToWar()</a>, and <a class="el" href="../../#l00462">SendUpdateWorldState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00442">BroadcastPacketToZone()</a>, <a class="el" href="../../#l00193">InvitePlayersInZoneToQueue()</a>, <a class="el" href="../../#l00220">InvitePlayersInZoneToWar()</a>, and <a class="el" href="../../#l00463">SendUpdateWorldState()</a>.</p>
 
 </div>
 </div>
@@ -1255,37 +1257,37 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  565</span>{</div>
-<div class="line"><span class="lineno">  566</span>    <a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* closestGY = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  567</span>    <span class="keywordtype">float</span> maxdist = -1;</div>
-<div class="line"><span class="lineno">  568</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
-<div class="line"><span class="lineno">  569</span>    {</div>
-<div class="line"><span class="lineno">  570</span>        <span class="keywordflow">if</span> (!gy)</div>
-<div class="line"><span class="lineno">  571</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  572</span> </div>
-<div class="line"><span class="lineno">  573</span>        <span class="keywordflow">if</span> (gy-&gt;GetControlTeamId() != player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>())</div>
-<div class="line"><span class="lineno">  574</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  575</span> </div>
-<div class="line"><span class="lineno">  576</span>        <span class="keywordtype">float</span> dist = gy-&gt;<a class="code hl_function" href="../../d8/dd6/a07470.html#ae290db2a83278c27803d62267aebfb71">GetDistance</a>(player);</div>
-<div class="line"><span class="lineno">  577</span>        <span class="keywordflow">if</span> (dist &lt; maxdist || maxdist &lt; 0)</div>
-<div class="line"><span class="lineno">  578</span>        {</div>
-<div class="line"><span class="lineno">  579</span>            closestGY = gy;</div>
-<div class="line"><span class="lineno">  580</span>            maxdist = dist;</div>
-<div class="line"><span class="lineno">  581</span>        }</div>
-<div class="line"><span class="lineno">  582</span>    }</div>
-<div class="line"><span class="lineno">  583</span> </div>
-<div class="line"><span class="lineno">  584</span>    <span class="keywordflow">if</span> (closestGY)</div>
-<div class="line"><span class="lineno">  585</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d2/d23/a01961.html#ac68c2a63982a6142e1931450d7b6115c">sGraveyard</a>-&gt;GetGraveyard(closestGY-&gt;<a class="code hl_function" href="../../d8/dd6/a07470.html#ac7944db0403c37282ca90550f8ca4118">GetGraveyardId</a>());</div>
-<div class="line"><span class="lineno">  586</span> </div>
-<div class="line"><span class="lineno">  587</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  588</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  566</span>{</div>
+<div class="line"><span class="lineno">  567</span>    <a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* closestGY = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  568</span>    <span class="keywordtype">float</span> maxdist = -1;</div>
+<div class="line"><span class="lineno">  569</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
+<div class="line"><span class="lineno">  570</span>    {</div>
+<div class="line"><span class="lineno">  571</span>        <span class="keywordflow">if</span> (!gy)</div>
+<div class="line"><span class="lineno">  572</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  573</span> </div>
+<div class="line"><span class="lineno">  574</span>        <span class="keywordflow">if</span> (gy-&gt;GetControlTeamId() != player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>())</div>
+<div class="line"><span class="lineno">  575</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  576</span> </div>
+<div class="line"><span class="lineno">  577</span>        <span class="keywordtype">float</span> dist = gy-&gt;<a class="code hl_function" href="../../d8/dd6/a07470.html#ae290db2a83278c27803d62267aebfb71">GetDistance</a>(player);</div>
+<div class="line"><span class="lineno">  578</span>        <span class="keywordflow">if</span> (dist &lt; maxdist || maxdist &lt; 0)</div>
+<div class="line"><span class="lineno">  579</span>        {</div>
+<div class="line"><span class="lineno">  580</span>            closestGY = gy;</div>
+<div class="line"><span class="lineno">  581</span>            maxdist = dist;</div>
+<div class="line"><span class="lineno">  582</span>        }</div>
+<div class="line"><span class="lineno">  583</span>    }</div>
+<div class="line"><span class="lineno">  584</span> </div>
+<div class="line"><span class="lineno">  585</span>    <span class="keywordflow">if</span> (closestGY)</div>
+<div class="line"><span class="lineno">  586</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d2/d23/a01961.html#ac68c2a63982a6142e1931450d7b6115c">sGraveyard</a>-&gt;GetGraveyard(closestGY-&gt;<a class="code hl_function" href="../../d8/dd6/a07470.html#ac7944db0403c37282ca90550f8ca4118">GetGraveyardId</a>());</div>
+<div class="line"><span class="lineno">  587</span> </div>
+<div class="line"><span class="lineno">  588</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  589</span>}</div>
 <div class="ttc" id="aa01961_html_ac68c2a63982a6142e1931450d7b6115c"><div class="ttname"><a href="../../d2/d23/a01961.html#ac68c2a63982a6142e1931450d7b6115c">sGraveyard</a></div><div class="ttdeci">#define sGraveyard</div><div class="ttdef"><b>Definition:</b> GameGraveyard.h:74</div></div>
 <div class="ttc" id="aa07470_html_ac7944db0403c37282ca90550f8ca4118"><div class="ttname"><a href="../../d8/dd6/a07470.html#ac7944db0403c37282ca90550f8ca4118">BfGraveyard::GetGraveyardId</a></div><div class="ttdeci">uint32 GetGraveyardId() const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:197</div></div>
-<div class="ttc" id="aa07470_html_ae290db2a83278c27803d62267aebfb71"><div class="ttname"><a href="../../d8/dd6/a07470.html#ae290db2a83278c27803d62267aebfb71">BfGraveyard::GetDistance</a></div><div class="ttdeci">float GetDistance(Player *player)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:657</div></div>
+<div class="ttc" id="aa07470_html_ae290db2a83278c27803d62267aebfb71"><div class="ttname"><a href="../../d8/dd6/a07470.html#ae290db2a83278c27803d62267aebfb71">BfGraveyard::GetDistance</a></div><div class="ttdeci">float GetDistance(Player *player)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:658</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00657">BfGraveyard::GetDistance()</a>, <a class="el" href="../../#l00197">BfGraveyard::GetGraveyardId()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00415">GraveyardList</a>, and <a class="el" href="../../#l00074">sGraveyard</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00658">BfGraveyard::GetDistance()</a>, <a class="el" href="../../#l00197">BfGraveyard::GetGraveyardId()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00415">GraveyardList</a>, and <a class="el" href="../../#l00074">sGraveyard</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00719">BfGraveyard::RelocateDeadPlayers()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00720">BfGraveyard::RelocateDeadPlayers()</a>.</p>
 
 </div>
 </div>
@@ -1304,17 +1306,17 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  807</span>{</div>
-<div class="line"><span class="lineno">  808</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>)</div>
-<div class="line"><span class="lineno">  809</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  810</span> </div>
-<div class="line"><span class="lineno">  811</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#af0a630f225718009751c788dbcbf5333">GetCreature</a>(guid);</div>
-<div class="line"><span class="lineno">  812</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  808</span>{</div>
+<div class="line"><span class="lineno">  809</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>)</div>
+<div class="line"><span class="lineno">  810</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  811</span> </div>
+<div class="line"><span class="lineno">  812</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#af0a630f225718009751c788dbcbf5333">GetCreature</a>(guid);</div>
+<div class="line"><span class="lineno">  813</span>}</div>
 <div class="ttc" id="aa10142_html_af0a630f225718009751c788dbcbf5333"><div class="ttname"><a href="../../d6/dd4/a10142.html#af0a630f225718009751c788dbcbf5333">Map::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2349</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02349">Map::GetCreature()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01124">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00456">SendWarning()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l01322">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, <a class="el" href="../../#l01156">BattlefieldWG::UpdateTenacity()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01124">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00457">SendWarning()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l01322">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, <a class="el" href="../../#l01156">BattlefieldWG::UpdateTenacity()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
 </div>
 </div>
@@ -1437,18 +1439,18 @@ template&lt;typename Func &gt; </div>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><span class="lineno">  499</span>{</div>
-<div class="line"><span class="lineno">  500</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d9/d44/a08734.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[teamId])</div>
-<div class="line"><span class="lineno">  501</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(guid.GetCounter()))</div>
-<div class="line"><span class="lineno">  502</span>            <span class="keywordflow">if</span> (!group-&gt;IsFull())</div>
-<div class="line"><span class="lineno">  503</span>                <span class="keywordflow">return</span> group;</div>
-<div class="line"><span class="lineno">  504</span> </div>
-<div class="line"><span class="lineno">  505</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  506</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  500</span>{</div>
+<div class="line"><span class="lineno">  501</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d9/d44/a08734.html">ObjectGuid</a> <span class="keyword">const</span>&amp; guid : <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[teamId])</div>
+<div class="line"><span class="lineno">  502</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(guid.GetCounter()))</div>
+<div class="line"><span class="lineno">  503</span>            <span class="keywordflow">if</span> (!group-&gt;IsFull())</div>
+<div class="line"><span class="lineno">  504</span>                <span class="keywordflow">return</span> group;</div>
+<div class="line"><span class="lineno">  505</span> </div>
+<div class="line"><span class="lineno">  506</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  507</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00051">sGroupMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00518">AddOrSetPlayerToCorrectBfGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00519">AddOrSetPlayerToCorrectBfGroup()</a>.</p>
 
 </div>
 </div>
@@ -1467,17 +1469,17 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  815</span>{</div>
-<div class="line"><span class="lineno">  816</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>)</div>
-<div class="line"><span class="lineno">  817</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  818</span> </div>
-<div class="line"><span class="lineno">  819</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a8de10cbc5e54efeefdf7b0744ad286e2">GetGameObject</a>(guid);</div>
-<div class="line"><span class="lineno">  820</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  816</span>{</div>
+<div class="line"><span class="lineno">  817</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>)</div>
+<div class="line"><span class="lineno">  818</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  819</span> </div>
+<div class="line"><span class="lineno">  820</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#ad574fd71677683547ae69e2245890647">BfMap</a>-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a8de10cbc5e54efeefdf7b0744ad286e2">GetGameObject</a>(guid);</div>
+<div class="line"><span class="lineno">  821</span>}</div>
 <div class="ttc" id="aa10142_html_a8de10cbc5e54efeefdf7b0744ad286e2"><div class="ttname"><a href="../../d6/dd4/a10142.html#a8de10cbc5e54efeefdf7b0744ad286e2">Map::GetGameObject</a></div><div class="ttdeci">GameObject * GetGameObject(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Map.cpp:2354</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00404">BfMap</a>, and <a class="el" href="../../#l02354">Map::GetGameObject()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01147">BfWGGameObjectBuilding::Destroyed()</a>, <a class="el" href="../../#l00931">BfCapturePoint::GetCapturePointGo()</a>, <a class="el" href="../../#l00366">BattlefieldWG::GetRelic()</a>, <a class="el" href="../../#l01091">BfWGGameObjectBuilding::Rebuild()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01147">BfWGGameObjectBuilding::Destroyed()</a>, <a class="el" href="../../#l00932">BfCapturePoint::GetCapturePointGo()</a>, <a class="el" href="../../#l00366">BattlefieldWG::GetRelic()</a>, <a class="el" href="../../#l01091">BfWGGameObjectBuilding::Rebuild()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
 </div>
 </div>
@@ -1496,19 +1498,19 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  550</span>{</div>
-<div class="line"><span class="lineno">  551</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> &lt; <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>.size())</div>
-<div class="line"><span class="lineno">  552</span>    {</div>
-<div class="line"><span class="lineno">  553</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>[<span class="keywordtype">id</span>])</div>
-<div class="line"><span class="lineno">  554</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>[id];</div>
-<div class="line"><span class="lineno">  555</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  556</span>            <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::GetGraveyardById Id:{} not existed&quot;</span>, <span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  557</span>    }</div>
-<div class="line"><span class="lineno">  558</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  559</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::GetGraveyardById Id:{} cant be found&quot;</span>, <span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  560</span> </div>
-<div class="line"><span class="lineno">  561</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  562</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  551</span>{</div>
+<div class="line"><span class="lineno">  552</span>    <span class="keywordflow">if</span> (<span class="keywordtype">id</span> &lt; <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>.size())</div>
+<div class="line"><span class="lineno">  553</span>    {</div>
+<div class="line"><span class="lineno">  554</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>[<span class="keywordtype">id</span>])</div>
+<div class="line"><span class="lineno">  555</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>[id];</div>
+<div class="line"><span class="lineno">  556</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  557</span>            <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::GetGraveyardById Id:{} not existed&quot;</span>, <span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  558</span>    }</div>
+<div class="line"><span class="lineno">  559</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  560</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::GetGraveyardById Id:{} cant be found&quot;</span>, <span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">  561</span> </div>
+<div class="line"><span class="lineno">  562</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  563</span>}</div>
 <div class="ttc" id="aa04559_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00415">GraveyardList</a>, and <a class="el" href="../../#l00145">LOG_ERROR</a>.</p>
@@ -1574,14 +1576,14 @@ template&lt;typename Func &gt; </div>
 </div><div class="memdoc">
 
 <p>Return battlefield group where player is. </p>
-<div class="fragment"><div class="line"><span class="lineno">  509</span>{</div>
-<div class="line"><span class="lineno">  510</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d9/d44/a08734.html">ObjectGuid</a> <span class="keyword">const</span>&amp; groupGuid : <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[teamId])</div>
-<div class="line"><span class="lineno">  511</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(groupGuid.GetCounter()))</div>
-<div class="line"><span class="lineno">  512</span>            <span class="keywordflow">if</span> (group-&gt;IsMember(guid))</div>
-<div class="line"><span class="lineno">  513</span>                <span class="keywordflow">return</span> group;</div>
-<div class="line"><span class="lineno">  514</span> </div>
-<div class="line"><span class="lineno">  515</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  516</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  510</span>{</div>
+<div class="line"><span class="lineno">  511</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d9/d44/a08734.html">ObjectGuid</a> <span class="keyword">const</span>&amp; groupGuid : <a class="code hl_enumeration" href="../../db/d7d/a03386.html#aab072245ab577ff0e12efe20a536b99a">Groups</a>[teamId])</div>
+<div class="line"><span class="lineno">  512</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d95/a09830.html">Group</a>* group = <a class="code hl_define" href="../../da/d51/a02000.html#a9b001b22670103435cf11551af9fa71e">sGroupMgr</a>-&gt;GetGroupByGUID(groupGuid.GetCounter()))</div>
+<div class="line"><span class="lineno">  513</span>            <span class="keywordflow">if</span> (group-&gt;IsMember(guid))</div>
+<div class="line"><span class="lineno">  514</span>                <span class="keywordflow">return</span> group;</div>
+<div class="line"><span class="lineno">  515</span> </div>
+<div class="line"><span class="lineno">  516</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  517</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00051">sGroupMgr</a>.</p>
 
@@ -1998,7 +2000,6 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  108</span>    <a class="code hl_variable" href="../../d4/d7b/a07474.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
 <div class="line"><span class="lineno">  109</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#aec2da8a188c4644ddeb9debf6d1abcb0">OnPlayerEnterZone</a>(player);</div>
 <div class="line"><span class="lineno">  110</span>}</div>
-<div class="ttc" id="aa00746_html_ae8161e629869974bc49b1cbfc73c1087"><div class="ttname"><a href="../../d4/dfa/a00746.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a></div><div class="ttdeci">#define sScriptMgr</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:736</div></div>
 <div class="ttc" id="aa04820_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../dd/dde/a04820.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
 <div class="ttc" id="aa05107_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../da/d41/a05107.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
 <div class="ttc" id="aa07474_html_a401d41559df3deb55735ade67082f444"><div class="ttname"><a href="../../d4/d7b/a07474.html#a401d41559df3deb55735ade67082f444">Battlefield::IsWarTime</a></div><div class="ttdeci">bool IsWarTime() const</div><div class="ttdoc">Return true if battle is started, false if battle is not started.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:251</div></div>
@@ -2010,7 +2011,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa08934_html_a9f23cae8a3da0345a05c2a2bfedc2fe2"><div class="ttname"><a href="../../d6/d9a/a08934.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">Player::IsGameMaster</a></div><div class="ttdeci">bool IsGameMaster() const</div><div class="ttdef"><b>Definition:</b> Player.h:1174</div></div>
 <div class="ttc" id="aa09066_html_a85b547eedd208db5f9dddc5f75a1a211"><div class="ttname"><a href="../../dc/d3e/a09066.html#a85b547eedd208db5f9dddc5f75a1a211">Unit::IsInFlight</a></div><div class="ttdeci">bool IsInFlight() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1706</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00365">HasWarVacancy()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l01174">Player::IsGameMaster()</a>, <a class="el" href="../../#l01706">Unit::IsInFlight()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00327">OnPlayerEnterZone()</a>, <a class="el" href="../../#l00393">Players</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00736">sScriptMgr</a>, and <a class="el" href="../../#l00417">StartGroupingTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00365">HasWarVacancy()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l01174">Player::IsGameMaster()</a>, <a class="el" href="../../#l01706">Unit::IsInFlight()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00047">MINUTE</a>, <a class="el" href="../../#l00327">OnPlayerEnterZone()</a>, <a class="el" href="../../#l00393">Players</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00737">sScriptMgr</a>, and <a class="el" href="../../#l00417">StartGroupingTimer</a>.</p>
 
 </div>
 </div>
@@ -2075,9 +2076,9 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa07474_html_a536403dc8cb245f3ef82ccf53f056fed"><div class="ttname"><a href="../../d4/d7b/a07474.html#a536403dc8cb245f3ef82ccf53f056fed">Battlefield::SendRemoveWorldStates</a></div><div class="ttdeci">virtual void SendRemoveWorldStates(Player *)</div><div class="ttdef"><b>Definition:</b> Battlefield.h:430</div></div>
 <div class="ttc" id="aa07474_html_abc3ad3e1d71bde88522a200dae7ca6cb"><div class="ttname"><a href="../../d4/d7b/a07474.html#abc3ad3e1d71bde88522a200dae7ca6cb">Battlefield::OnPlayerLeaveZone</a></div><div class="ttdeci">virtual void OnPlayerLeaveZone(Player *)</div><div class="ttdoc">Called when a player leaves the battlefield zone.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:325</div></div>
 <div class="ttc" id="aa07474_html_ad8dc0bff4621113fe88b1f1d0ed8571b"><div class="ttname"><a href="../../d4/d7b/a07474.html#ad8dc0bff4621113fe88b1f1d0ed8571b">Battlefield::OnPlayerLeaveWar</a></div><div class="ttdeci">virtual void OnPlayerLeaveWar(Player *)</div><div class="ttdoc">Called when a player leaves the battle.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:323</div></div>
-<div class="ttc" id="aa07474_html_ae72d40d566a2facbc55946b30a7c1f10"><div class="ttname"><a href="../../d4/d7b/a07474.html#ae72d40d566a2facbc55946b30a7c1f10">Battlefield::RemovePlayerFromResurrectQueue</a></div><div class="ttdeci">void RemovePlayerFromResurrectQueue(ObjectGuid playerGuid)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:605</div></div>
+<div class="ttc" id="aa07474_html_ae72d40d566a2facbc55946b30a7c1f10"><div class="ttname"><a href="../../d4/d7b/a07474.html#ae72d40d566a2facbc55946b30a7c1f10">Battlefield::RemovePlayerFromResurrectQueue</a></div><div class="ttdeci">void RemovePlayerFromResurrectQueue(ObjectGuid playerGuid)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:606</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00390">CapturePoints</a>, <a class="el" href="../../#l02505">Player::GetGroup()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00323">OnPlayerLeaveWar()</a>, <a class="el" href="../../#l00325">OnPlayerLeaveZone()</a>, <a class="el" href="../../#l00393">Players</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00605">RemovePlayerFromResurrectQueue()</a>, <a class="el" href="../../#l00078">WorldSession::SendBfLeaveMessage()</a>, <a class="el" href="../../#l00430">SendRemoveWorldStates()</a>, and <a class="el" href="../../#l00736">sScriptMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00390">CapturePoints</a>, <a class="el" href="../../#l02505">Player::GetGroup()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00323">OnPlayerLeaveWar()</a>, <a class="el" href="../../#l00325">OnPlayerLeaveZone()</a>, <a class="el" href="../../#l00393">Players</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00606">RemovePlayerFromResurrectQueue()</a>, <a class="el" href="../../#l00078">WorldSession::SendBfLeaveMessage()</a>, <a class="el" href="../../#l00430">SendRemoveWorldStates()</a>, and <a class="el" href="../../#l00737">sScriptMgr</a>.</p>
 
 </div>
 </div>
@@ -2104,9 +2105,9 @@ template&lt;typename Func &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  380</span>{</div>
-<div class="line"><span class="lineno">  381</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].find(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()) != <a class="code hl_variable" href="../../d4/d7b/a07474.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].end();</div>
-<div class="line"><span class="lineno">  382</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  381</span>{</div>
+<div class="line"><span class="lineno">  382</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d4/d7b/a07474.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].find(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()) != <a class="code hl_variable" href="../../d4/d7b/a07474.html#a94985e49b7ac98b2f06fc7b4158862ba">Players</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].end();</div>
+<div class="line"><span class="lineno">  383</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, and <a class="el" href="../../#l00393">Players</a>.</p>
 
@@ -2161,25 +2162,25 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  473</span>{</div>
-<div class="line"><span class="lineno">  474</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad89ee22808d70fd4595cf0c1fe293447">CombatStop</a>();</div>
-<div class="line"><span class="lineno">  475</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  476</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
-<div class="line"><span class="lineno">  477</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(2, <span class="keyword">false</span>); <span class="comment">// pussywizard: false because UpdateObjectVisibility(true) is called below in SetVisible(), no need to have it here</span></div>
-<div class="line"><span class="lineno">  478</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
-<div class="line"><span class="lineno">  479</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  480</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  474</span>{</div>
+<div class="line"><span class="lineno">  475</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad89ee22808d70fd4595cf0c1fe293447">CombatStop</a>();</div>
+<div class="line"><span class="lineno">  476</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  477</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  478</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(2, <span class="keyword">false</span>); <span class="comment">// pussywizard: false because UpdateObjectVisibility(true) is called below in SetVisible(), no need to have it here</span></div>
+<div class="line"><span class="lineno">  479</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#afb2c9a581a6cb7f5e4ad66e3f5086002">DisappearAndDie</a>();</div>
+<div class="line"><span class="lineno">  480</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  481</span>}</div>
 <div class="ttc" id="aa01412_html_a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0"><div class="ttname"><a href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a></div><div class="ttdeci">@ REACT_PASSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:566</div></div>
 <div class="ttc" id="aa01430_html_affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922"><div class="ttname"><a href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NON_ATTACKABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:258</div></div>
 <div class="ttc" id="aa01430_html_affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f"><div class="ttname"><a href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ UNIT_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:282</div></div>
 <div class="ttc" id="aa08306_html_acb27b2a3a09a2a9c520fba6ba2c69c4e"><div class="ttname"><a href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">Creature::SetReactState</a></div><div class="ttdeci">void SetReactState(ReactStates state)</div><div class="ttdoc">A creature can have 3 ReactStates : Agressive, Passive, Neutral.</div><div class="ttdef"><b>Definition:</b> Creature.h:100</div></div>
 <div class="ttc" id="aa08306_html_afb2c9a581a6cb7f5e4ad66e3f5086002"><div class="ttname"><a href="../../d3/d02/a08306.html#afb2c9a581a6cb7f5e4ad66e3f5086002">Creature::DisappearAndDie</a></div><div class="ttdeci">void DisappearAndDie()</div><div class="ttdef"><b>Definition:</b> Creature.cpp:361</div></div>
-<div class="ttc" id="aa09066_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11096</div></div>
-<div class="ttc" id="aa09066_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15301</div></div>
+<div class="ttc" id="aa09066_html_a08f6c21ed1d05cf54e8351b80e152c90"><div class="ttname"><a href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">Unit::SetVisible</a></div><div class="ttdeci">void SetVisible(bool x)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11098</div></div>
+<div class="ttc" id="aa09066_html_aa3f511c51aa1082be9d4777c770a3485"><div class="ttname"><a href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">Unit::SetPhaseMask</a></div><div class="ttdeci">void SetPhaseMask(uint32 newPhaseMask, bool update) override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15303</div></div>
 <div class="ttc" id="aa09066_html_ad89ee22808d70fd4595cf0c1fe293447"><div class="ttname"><a href="../../dc/d3e/a09066.html#ad89ee22808d70fd4595cf0c1fe293447">Unit::CombatStop</a></div><div class="ttdeci">void CombatStop(bool includingCast=false, bool mutualPvP=true)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7486</div></div>
 <div class="ttc" id="aa09066_html_ad9f2d48b20f62e17abf5c1892cebe296"><div class="ttname"><a href="../../dc/d3e/a09066.html#ad9f2d48b20f62e17abf5c1892cebe296">Unit::SetUnitFlag</a></div><div class="ttdeci">void SetUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:748</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l07486">Unit::CombatStop()</a>, <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l15301">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00748">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11096">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l07486">Unit::CombatStop()</a>, <a class="el" href="../../#l00361">Creature::DisappearAndDie()</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l15303">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00748">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11098">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01124">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l01180">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l01322">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -2235,10 +2236,10 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  273</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::InitStalker: could not spawn Stalker (Creature entry {}), zone messages will be unavailable&quot;</span>, entry);</div>
 <div class="line"><span class="lineno">  274</span>}</div>
 <div class="ttc" id="aa07474_html_a2c7c3829ac332a114d40bb0846714aba"><div class="ttname"><a href="../../d4/d7b/a07474.html#a2c7c3829ac332a114d40bb0846714aba">Battlefield::StalkerGuid</a></div><div class="ttdeci">ObjectGuid StalkerGuid</div><div class="ttdef"><b>Definition:</b> Battlefield.h:383</div></div>
-<div class="ttc" id="aa07474_html_a4f205795863fa9d6cb1b53d685621b6c"><div class="ttname"><a href="../../d4/d7b/a07474.html#a4f205795863fa9d6cb1b53d685621b6c">Battlefield::SpawnCreature</a></div><div class="ttdeci">Creature * SpawnCreature(uint32 entry, float x, float y, float z, float o, TeamId teamId)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:744</div></div>
+<div class="ttc" id="aa07474_html_a4f205795863fa9d6cb1b53d685621b6c"><div class="ttname"><a href="../../d4/d7b/a07474.html#a4f205795863fa9d6cb1b53d685621b6c">Battlefield::SpawnCreature</a></div><div class="ttdeci">Creature * SpawnCreature(uint32 entry, float x, float y, float z, float o, TeamId teamId)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:745</div></div>
 <div class="ttc" id="aa08306_html"><div class="ttname"><a href="../../d3/d02/a08306.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00744">SpawnCreature()</a>, <a class="el" href="../../#l00383">StalkerGuid</a>, and <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00745">SpawnCreature()</a>, <a class="el" href="../../#l00383">StalkerGuid</a>, and <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
 
@@ -2423,7 +2424,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa09066_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../dc/d3e/a09066.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1103</div></div>
 <div class="ttc" id="aa11578_html_a9adeb123f25be65052f83b1e6aad4430"><div class="ttname"><a href="../../db/d39/a11578.html#a9adeb123f25be65052f83b1e6aad4430">WorldSession::SendBfInvitePlayerToWar</a></div><div class="ttdeci">void SendBfInvitePlayerToWar(uint32 battleId, uint32 zoneId, uint32 time)</div><div class="ttdef"><b>Definition:</b> BattlefieldHandler.cpp:31</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l02288">Player::InBattleground()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l01706">Unit::IsInFlight()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00407">MinLevel</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00031">WorldSession::SendBfInvitePlayerToWar()</a>, <a class="el" href="../../#l00736">sScriptMgr</a>, <a class="el" href="../../#l00411">TimeForAcceptInvite</a>, and <a class="el" href="../../#l00402">ZoneId</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l02288">Player::InBattleground()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l01706">Unit::IsInFlight()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00407">MinLevel</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l00031">WorldSession::SendBfInvitePlayerToWar()</a>, <a class="el" href="../../#l00737">sScriptMgr</a>, <a class="el" href="../../#l00411">TimeForAcceptInvite</a>, and <a class="el" href="../../#l00402">ZoneId</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00077">HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00207">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00220">InvitePlayersInZoneToWar()</a>, and <a class="el" href="../../#l00323">npc_wg_queue::OnGossipSelect()</a>.</p>
 
@@ -2525,7 +2526,7 @@ template&lt;typename Func &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00386">Active</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l04509">Player::CreateCorpse()</a>, <a class="el" href="../../#l00936">BattlefieldWG::FillInitialWorldStates()</a>, <a class="el" href="../../#l00176">bf_commandscript::HandleBattlefieldQueue()</a>, <a class="el" href="../../#l01064">spell_wintergrasp_hide_small_elementals_aura::HandlePeriodicDummy()</a>, <a class="el" href="../../#l00077">HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00130">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l01032">SpellArea::IsFitToRequirements()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l00291">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00323">npc_wg_queue::OnGossipSelect()</a>, <a class="el" href="../../#l00507">BattlefieldWG::OnStartGrouping()</a>, <a class="el" href="../../#l00790">BattlefieldWG::OnUnitDeath()</a>, <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>, <a class="el" href="../../#l01082">BattlefieldWG::ProcessEvent()</a>, <a class="el" href="../../#l00991">BattlefieldWG::SendUpdateWorldStates()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l04509">Player::CreateCorpse()</a>, <a class="el" href="../../#l00936">BattlefieldWG::FillInitialWorldStates()</a>, <a class="el" href="../../#l00176">bf_commandscript::HandleBattlefieldQueue()</a>, <a class="el" href="../../#l01064">spell_wintergrasp_hide_small_elementals_aura::HandlePeriodicDummy()</a>, <a class="el" href="../../#l00077">HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00130">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l01032">SpellArea::IsFitToRequirements()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l00291">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00323">npc_wg_queue::OnGossipSelect()</a>, <a class="el" href="../../#l00507">BattlefieldWG::OnStartGrouping()</a>, <a class="el" href="../../#l00790">BattlefieldWG::OnUnitDeath()</a>, <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>, <a class="el" href="../../#l01082">BattlefieldWG::ProcessEvent()</a>, <a class="el" href="../../#l00991">BattlefieldWG::SendUpdateWorldStates()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
 
 </div>
 </div>
@@ -2733,7 +2734,7 @@ template&lt;typename Func &gt; </div>
 <p>Reimplemented in <a class="el" href="../../df/dbf/a07494.html#aa5555d0cf0a076828782e21cbfcee8f3">BattlefieldWG</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">  321</span>{};</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>.</p>
 
 </div>
 </div>
@@ -2850,12 +2851,12 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  386</span>{</div>
-<div class="line"><span class="lineno">  387</span>    <span class="comment">// Add player in queue</span></div>
-<div class="line"><span class="lineno">  388</span>    <a class="code hl_variable" href="../../d4/d7b/a07474.html#a38795c9c7e9e92728c927dfcdda602b5">PlayersInQueue</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  389</span>    <span class="comment">// Send notification</span></div>
-<div class="line"><span class="lineno">  390</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#a5cca90b3ef17be65e8a18f84b134b00d">SendBfQueueInviteResponse</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>, <a class="code hl_variable" href="../../d4/d7b/a07474.html#acec4eaf1586d02011e20b58e3876caa6">ZoneId</a>);</div>
-<div class="line"><span class="lineno">  391</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  387</span>{</div>
+<div class="line"><span class="lineno">  388</span>    <span class="comment">// Add player in queue</span></div>
+<div class="line"><span class="lineno">  389</span>    <a class="code hl_variable" href="../../d4/d7b/a07474.html#a38795c9c7e9e92728c927dfcdda602b5">PlayersInQueue</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  390</span>    <span class="comment">// Send notification</span></div>
+<div class="line"><span class="lineno">  391</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#a5cca90b3ef17be65e8a18f84b134b00d">SendBfQueueInviteResponse</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>, <a class="code hl_variable" href="../../d4/d7b/a07474.html#acec4eaf1586d02011e20b58e3876caa6">ZoneId</a>);</div>
+<div class="line"><span class="lineno">  392</span>}</div>
 <div class="ttc" id="aa11578_html_a5cca90b3ef17be65e8a18f84b134b00d"><div class="ttname"><a href="../../db/d39/a11578.html#a5cca90b3ef17be65e8a18f84b134b00d">WorldSession::SendBfQueueInviteResponse</a></div><div class="ttdeci">void SendBfQueueInviteResponse(uint32 battleId, uint32 zoneId, bool canQueue=true, bool full=false)</div><div class="ttdef"><b>Definition:</b> BattlefieldHandler.cpp:55</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00394">PlayersInQueue</a>, <a class="el" href="../../#l00055">WorldSession::SendBfQueueInviteResponse()</a>, and <a class="el" href="../../#l00402">ZoneId</a>.</p>
@@ -2879,30 +2880,30 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  411</span>{</div>
-<div class="line"><span class="lineno">  412</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d7b/a07474.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>())</div>
-<div class="line"><span class="lineno">  413</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  414</span> </div>
-<div class="line"><span class="lineno">  415</span>    <a class="code hl_define" href="../../d4/dfa/a00746.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBattlefieldPlayerJoinWar(<span class="keyword">this</span>, player);</div>
-<div class="line"><span class="lineno">  416</span> </div>
-<div class="line"><span class="lineno">  417</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/d7b/a07474.html#aa971aacb2e549ecabfb7a7a1b662939b">AddOrSetPlayerToCorrectBfGroup</a>(player))</div>
-<div class="line"><span class="lineno">  418</span>    {</div>
-<div class="line"><span class="lineno">  419</span>        player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#ad93deff76144eb53d80896e839c592ad">SendBfEntered</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>);</div>
-<div class="line"><span class="lineno">  420</span>        <a class="code hl_variable" href="../../d4/d7b/a07474.html#a110b10b1cebb34ad116eda8c249394af">PlayersInWar</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  421</span>        <a class="code hl_variable" href="../../d4/d7b/a07474.html#a6b8158c04fee4d7fdb9e0239f386c0a5">InvitedPlayers</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].erase(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  422</span> </div>
-<div class="line"><span class="lineno">  423</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ad372accc95ab6fb468c784bad6acee86">isAFK</a>())</div>
-<div class="line"><span class="lineno">  424</span>            player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ab03454a30b79964240545cccaa2a685a">ToggleAFK</a>();</div>
-<div class="line"><span class="lineno">  425</span> </div>
-<div class="line"><span class="lineno">  426</span>        <a class="code hl_function" href="../../d4/d7b/a07474.html#a74e0315500997c92b8cf8a1627a98035">OnPlayerJoinWar</a>(player);</div>
-<div class="line"><span class="lineno">  427</span>    }</div>
-<div class="line"><span class="lineno">  428</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  412</span>{</div>
+<div class="line"><span class="lineno">  413</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d4/d7b/a07474.html#a401d41559df3deb55735ade67082f444">IsWarTime</a>())</div>
+<div class="line"><span class="lineno">  414</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  415</span> </div>
+<div class="line"><span class="lineno">  416</span>    <a class="code hl_define" href="../../d4/dfa/a00746.html#ae8161e629869974bc49b1cbfc73c1087">sScriptMgr</a>-&gt;OnBattlefieldPlayerJoinWar(<span class="keyword">this</span>, player);</div>
+<div class="line"><span class="lineno">  417</span> </div>
+<div class="line"><span class="lineno">  418</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d4/d7b/a07474.html#aa971aacb2e549ecabfb7a7a1b662939b">AddOrSetPlayerToCorrectBfGroup</a>(player))</div>
+<div class="line"><span class="lineno">  419</span>    {</div>
+<div class="line"><span class="lineno">  420</span>        player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../db/d39/a11578.html#ad93deff76144eb53d80896e839c592ad">SendBfEntered</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2ed2d6b295dbd6d4fcc4eba84bdd3bee">BattleId</a>);</div>
+<div class="line"><span class="lineno">  421</span>        <a class="code hl_variable" href="../../d4/d7b/a07474.html#a110b10b1cebb34ad116eda8c249394af">PlayersInWar</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].insert(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  422</span>        <a class="code hl_variable" href="../../d4/d7b/a07474.html#a6b8158c04fee4d7fdb9e0239f386c0a5">InvitedPlayers</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].erase(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  423</span> </div>
+<div class="line"><span class="lineno">  424</span>        <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ad372accc95ab6fb468c784bad6acee86">isAFK</a>())</div>
+<div class="line"><span class="lineno">  425</span>            player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ab03454a30b79964240545cccaa2a685a">ToggleAFK</a>();</div>
+<div class="line"><span class="lineno">  426</span> </div>
+<div class="line"><span class="lineno">  427</span>        <a class="code hl_function" href="../../d4/d7b/a07474.html#a74e0315500997c92b8cf8a1627a98035">OnPlayerJoinWar</a>(player);</div>
+<div class="line"><span class="lineno">  428</span>    }</div>
+<div class="line"><span class="lineno">  429</span>}</div>
 <div class="ttc" id="aa07474_html_a74e0315500997c92b8cf8a1627a98035"><div class="ttname"><a href="../../d4/d7b/a07474.html#a74e0315500997c92b8cf8a1627a98035">Battlefield::OnPlayerJoinWar</a></div><div class="ttdeci">virtual void OnPlayerJoinWar(Player *)</div><div class="ttdoc">Called when a player accepts to join the battle.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:321</div></div>
-<div class="ttc" id="aa07474_html_aa971aacb2e549ecabfb7a7a1b662939b"><div class="ttname"><a href="../../d4/d7b/a07474.html#aa971aacb2e549ecabfb7a7a1b662939b">Battlefield::AddOrSetPlayerToCorrectBfGroup</a></div><div class="ttdeci">bool AddOrSetPlayerToCorrectBfGroup(Player *player)</div><div class="ttdoc">Force player to join a battlefield group.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:518</div></div>
+<div class="ttc" id="aa07474_html_aa971aacb2e549ecabfb7a7a1b662939b"><div class="ttname"><a href="../../d4/d7b/a07474.html#aa971aacb2e549ecabfb7a7a1b662939b">Battlefield::AddOrSetPlayerToCorrectBfGroup</a></div><div class="ttdeci">bool AddOrSetPlayerToCorrectBfGroup(Player *player)</div><div class="ttdoc">Force player to join a battlefield group.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:519</div></div>
 <div class="ttc" id="aa08934_html_ab03454a30b79964240545cccaa2a685a"><div class="ttname"><a href="../../d6/d9a/a08934.html#ab03454a30b79964240545cccaa2a685a">Player::ToggleAFK</a></div><div class="ttdeci">void ToggleAFK()</div><div class="ttdef"><b>Definition:</b> Player.cpp:1311</div></div>
 <div class="ttc" id="aa11578_html_ad93deff76144eb53d80896e839c592ad"><div class="ttname"><a href="../../db/d39/a11578.html#ad93deff76144eb53d80896e839c592ad">WorldSession::SendBfEntered</a></div><div class="ttdeci">void SendBfEntered(uint32 battleId)</div><div class="ttdef"><b>Definition:</b> BattlefieldHandler.cpp:68</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">AddOrSetPlayerToCorrectBfGroup()</a>, <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l01149">Player::isAFK()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00321">OnPlayerJoinWar()</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00068">WorldSession::SendBfEntered()</a>, <a class="el" href="../../#l00736">sScriptMgr</a>, and <a class="el" href="../../#l01311">Player::ToggleAFK()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00519">AddOrSetPlayerToCorrectBfGroup()</a>, <a class="el" href="../../#l00401">BattleId</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02020">Player::GetSession()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l01149">Player::isAFK()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00321">OnPlayerJoinWar()</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00068">WorldSession::SendBfEntered()</a>, <a class="el" href="../../#l00737">sScriptMgr</a>, and <a class="el" href="../../#l01311">Player::ToggleAFK()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00105">WorldSession::HandleBfEntryInviteResponse()</a>.</p>
 
@@ -2923,10 +2924,10 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  404</span>{</div>
-<div class="line"><span class="lineno">  405</span>    <span class="comment">// Player leaving Wintergrasp, teleport to homebind position.</span></div>
-<div class="line"><span class="lineno">  406</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#aa2eae30c1e0af118b9a6b5db0a1929b7">TeleportTo</a>(player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a2c41e69cb17f62752c782d9a92bdd32d">m_homebindMapId</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#afce5a3ffd653c98c3cf6b1dff632a33e">m_homebindX</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a95d3dc83b496823d27250a76c40ebeae">m_homebindY</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a1cc736161c9504c66bf0f34dbc096525">m_homebindZ</a>, player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
-<div class="line"><span class="lineno">  407</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  405</span>{</div>
+<div class="line"><span class="lineno">  406</span>    <span class="comment">// Player leaving Wintergrasp, teleport to homebind position.</span></div>
+<div class="line"><span class="lineno">  407</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#aa2eae30c1e0af118b9a6b5db0a1929b7">TeleportTo</a>(player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a2c41e69cb17f62752c782d9a92bdd32d">m_homebindMapId</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#afce5a3ffd653c98c3cf6b1dff632a33e">m_homebindX</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a95d3dc83b496823d27250a76c40ebeae">m_homebindY</a>, player-&gt;<a class="code hl_variable" href="../../d6/d9a/a08934.html#a1cc736161c9504c66bf0f34dbc096525">m_homebindZ</a>, player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
+<div class="line"><span class="lineno">  408</span>}</div>
 <div class="ttc" id="aa08766_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d6/d2d/a08766.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
 <div class="ttc" id="aa08934_html_a1cc736161c9504c66bf0f34dbc096525"><div class="ttname"><a href="../../d6/d9a/a08934.html#a1cc736161c9504c66bf0f34dbc096525">Player::m_homebindZ</a></div><div class="ttdeci">float m_homebindZ</div><div class="ttdef"><b>Definition:</b> Player.h:2411</div></div>
 <div class="ttc" id="aa08934_html_a2c41e69cb17f62752c782d9a92bdd32d"><div class="ttname"><a href="../../d6/d9a/a08934.html#a2c41e69cb17f62752c782d9a92bdd32d">Player::m_homebindMapId</a></div><div class="ttdeci">uint32 m_homebindMapId</div><div class="ttdef"><b>Definition:</b> Player.h:2407</div></div>
@@ -2960,9 +2961,9 @@ template&lt;typename Func &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  468</span>{</div>
-<div class="line"><span class="lineno">  469</span>    <a class="code hl_define" href="../../d3/def/a01985.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;AddZone(zoneId, <span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">  470</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  469</span>{</div>
+<div class="line"><span class="lineno">  470</span>    <a class="code hl_define" href="../../d3/def/a01985.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;AddZone(zoneId, <span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">  471</span>}</div>
 <div class="ttc" id="aa01985_html_a4545b2a440043037e8dad52c0f644f48"><div class="ttname"><a href="../../d3/def/a01985.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a></div><div class="ttdeci">#define sBattlefieldMgr</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:76</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00076">sBattlefieldMgr</a>.</p>
@@ -2986,19 +2987,19 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  606</span>{</div>
-<div class="line"><span class="lineno">  607</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
-<div class="line"><span class="lineno">  608</span>    {</div>
-<div class="line"><span class="lineno">  609</span>        <span class="keywordflow">if</span> (!gy)</div>
-<div class="line"><span class="lineno">  610</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  611</span> </div>
-<div class="line"><span class="lineno">  612</span>        <span class="keywordflow">if</span> (gy-&gt;HasPlayer(playerGuid))</div>
-<div class="line"><span class="lineno">  613</span>        {</div>
-<div class="line"><span class="lineno">  614</span>            gy-&gt;RemovePlayer(playerGuid);</div>
-<div class="line"><span class="lineno">  615</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  616</span>        }</div>
-<div class="line"><span class="lineno">  617</span>    }</div>
-<div class="line"><span class="lineno">  618</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  607</span>{</div>
+<div class="line"><span class="lineno">  608</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/dd6/a07470.html">BfGraveyard</a>* gy : <a class="code hl_variable" href="../../d4/d7b/a07474.html#a2e026c0f81ae7b5ebe455943a0743494">GraveyardList</a>)</div>
+<div class="line"><span class="lineno">  609</span>    {</div>
+<div class="line"><span class="lineno">  610</span>        <span class="keywordflow">if</span> (!gy)</div>
+<div class="line"><span class="lineno">  611</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  612</span> </div>
+<div class="line"><span class="lineno">  613</span>        <span class="keywordflow">if</span> (gy-&gt;HasPlayer(playerGuid))</div>
+<div class="line"><span class="lineno">  614</span>        {</div>
+<div class="line"><span class="lineno">  615</span>            gy-&gt;RemovePlayer(playerGuid);</div>
+<div class="line"><span class="lineno">  616</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  617</span>        }</div>
+<div class="line"><span class="lineno">  618</span>    }</div>
+<div class="line"><span class="lineno">  619</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00415">GraveyardList</a>.</p>
 
@@ -3031,16 +3032,16 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  621</span>{</div>
-<div class="line"><span class="lineno">  622</span>    <a class="code hl_class" href="../../df/d71/a11534.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../df/dab/a05022.html#gga1073b6abb3a749f18bf1633020879e9ba1dd15014ceb24a3c3cd4c13bf09be944">SMSG_AREA_SPIRIT_HEALER_TIME</a>, 12);</div>
-<div class="line"><span class="lineno">  623</span>    <a class="code hl_typedef" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> remaining = <a class="code hl_variable" href="../../d4/d7b/a07474.html#a6250ea675ea4b39303159f0f4e5428df">_scheduler</a>.<a class="code hl_function" href="../../dd/d9e/a05838.html#a8795b39f795f7d3ed13d21fcce3326c2">GetNextGroupOccurrence</a>(<a class="code hl_enumvalue" href="../../d6/d8e/a01979.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a>);</div>
-<div class="line"><span class="lineno">  624</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(std::clamp(remaining,</div>
-<div class="line"><span class="lineno">  625</span>        Milliseconds::zero(), <a class="code hl_typedef" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../d4/ddc/a00917.html#adb41516553b1ea3899d5aaabe7151aab">RESURRECTION_INTERVAL</a>)).count());</div>
-<div class="line"><span class="lineno">  626</span> </div>
-<div class="line"><span class="lineno">  627</span>    data &lt;&lt; guid &lt;&lt; time;</div>
-<div class="line"><span class="lineno">  628</span>    <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(player);</div>
-<div class="line"><span class="lineno">  629</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;data);</div>
-<div class="line"><span class="lineno">  630</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  622</span>{</div>
+<div class="line"><span class="lineno">  623</span>    <a class="code hl_class" href="../../df/d71/a11534.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../df/dab/a05022.html#gga1073b6abb3a749f18bf1633020879e9ba1dd15014ceb24a3c3cd4c13bf09be944">SMSG_AREA_SPIRIT_HEALER_TIME</a>, 12);</div>
+<div class="line"><span class="lineno">  624</span>    <a class="code hl_typedef" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> remaining = <a class="code hl_variable" href="../../d4/d7b/a07474.html#a6250ea675ea4b39303159f0f4e5428df">_scheduler</a>.<a class="code hl_function" href="../../dd/d9e/a05838.html#a8795b39f795f7d3ed13d21fcce3326c2">GetNextGroupOccurrence</a>(<a class="code hl_enumvalue" href="../../d6/d8e/a01979.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a>);</div>
+<div class="line"><span class="lineno">  625</span>    <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(std::clamp(remaining,</div>
+<div class="line"><span class="lineno">  626</span>        Milliseconds::zero(), <a class="code hl_typedef" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(<a class="code hl_define" href="../../d4/ddc/a00917.html#adb41516553b1ea3899d5aaabe7151aab">RESURRECTION_INTERVAL</a>)).count());</div>
+<div class="line"><span class="lineno">  627</span> </div>
+<div class="line"><span class="lineno">  628</span>    data &lt;&lt; guid &lt;&lt; time;</div>
+<div class="line"><span class="lineno">  629</span>    <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(player);</div>
+<div class="line"><span class="lineno">  630</span>    player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;data);</div>
+<div class="line"><span class="lineno">  631</span>}</div>
 <div class="ttc" id="aa00917_html_adb41516553b1ea3899d5aaabe7151aab"><div class="ttname"><a href="../../d4/ddc/a00917.html#adb41516553b1ea3899d5aaabe7151aab">RESURRECTION_INTERVAL</a></div><div class="ttdeci">#define RESURRECTION_INTERVAL</div><div class="ttdef"><b>Definition:</b> Battleground.h:163</div></div>
 <div class="ttc" id="aa01979_html_a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117"><div class="ttname"><a href="../../d6/d8e/a01979.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a></div><div class="ttdeci">@ BATTLEFIELD_TIMER_GROUP_RESURRECT</div><div class="ttdef"><b>Definition:</b> Battlefield.h:61</div></div>
 <div class="ttc" id="aa04598_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
@@ -3140,9 +3141,9 @@ template&lt;typename Func &gt; </div>
 </div><div class="memdoc">
 
 <p>Update data of a worldstate to all players present in zone. </p>
-<div class="fragment"><div class="line"><span class="lineno">  463</span>{</div>
-<div class="line"><span class="lineno">  464</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>([field, value](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(field, value); });</div>
-<div class="line"><span class="lineno">  465</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  464</span>{</div>
+<div class="line"><span class="lineno">  465</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a32c358d94d4f70515ffbd1e77bbde9c9">ForEachPlayerInZone</a>([field, value](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player) { player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a2a12863caf54ad9a8af56bda556d7a4b">SendUpdateWorldState</a>(field, value); });</div>
+<div class="line"><span class="lineno">  466</span>}</div>
 <div class="ttc" id="aa08934_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d6/d9a/a08934.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2235</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00450">ForEachPlayerInZone()</a>, and <a class="el" href="../../#l02235">Player::SendUpdateWorldState()</a>.</p>
@@ -3206,14 +3207,14 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  457</span>{</div>
-<div class="line"><span class="lineno">  458</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* stalker = <a class="code hl_function" href="../../d4/d7b/a07474.html#a1348bacaf1d2b812a21d4fb9e09c657b">GetCreature</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2c7c3829ac332a114d40bb0846714aba">StalkerGuid</a>))</div>
-<div class="line"><span class="lineno">  459</span>        <a class="code hl_define" href="../../da/d79/a01310.html#a2dc428da007cefe454220dcb355a1cde">sCreatureTextMgr</a>-&gt;SendChat(stalker, <span class="keywordtype">id</span>, target);</div>
-<div class="line"><span class="lineno">  460</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  458</span>{</div>
+<div class="line"><span class="lineno">  459</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* stalker = <a class="code hl_function" href="../../d4/d7b/a07474.html#a1348bacaf1d2b812a21d4fb9e09c657b">GetCreature</a>(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a2c7c3829ac332a114d40bb0846714aba">StalkerGuid</a>))</div>
+<div class="line"><span class="lineno">  460</span>        <a class="code hl_define" href="../../da/d79/a01310.html#a2dc428da007cefe454220dcb355a1cde">sCreatureTextMgr</a>-&gt;SendChat(stalker, <span class="keywordtype">id</span>, target);</div>
+<div class="line"><span class="lineno">  461</span>}</div>
 <div class="ttc" id="aa01310_html_a2dc428da007cefe454220dcb355a1cde"><div class="ttname"><a href="../../da/d79/a01310.html#a2dc428da007cefe454220dcb355a1cde">sCreatureTextMgr</a></div><div class="ttdeci">#define sCreatureTextMgr</div><div class="ttdef"><b>Definition:</b> CreatureTextMgr.h:110</div></div>
-<div class="ttc" id="aa07474_html_a1348bacaf1d2b812a21d4fb9e09c657b"><div class="ttname"><a href="../../d4/d7b/a07474.html#a1348bacaf1d2b812a21d4fb9e09c657b">Battlefield::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:806</div></div>
+<div class="ttc" id="aa07474_html_a1348bacaf1d2b812a21d4fb9e09c657b"><div class="ttname"><a href="../../d4/d7b/a07474.html#a1348bacaf1d2b812a21d4fb9e09c657b">Battlefield::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:807</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00806">GetCreature()</a>, <a class="el" href="../../#l00110">sCreatureTextMgr</a>, and <a class="el" href="../../#l00383">StalkerGuid</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00807">GetCreature()</a>, <a class="el" href="../../#l00110">sCreatureTextMgr</a>, and <a class="el" href="../../#l00383">StalkerGuid</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l01124">BfWGGameObjectBuilding::Damaged()</a>, <a class="el" href="../../#l01147">BfWGGameObjectBuilding::Destroyed()</a>, <a class="el" href="../../#l01421">WGWorkshop::GiveControlTo()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00507">BattlefieldWG::OnStartGrouping()</a>, and <a class="el" href="../../#l00799">BattlefieldWG::PromotePlayer()</a>.</p>
 
@@ -3449,26 +3450,26 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  483</span>{</div>
-<div class="line"><span class="lineno">  484</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(1, <span class="keyword">false</span>); <span class="comment">// pussywizard: false because UpdateObjectVisibility(true) is called below in SetVisible(), no need to have it here</span></div>
-<div class="line"><span class="lineno">  485</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  486</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
-<div class="line"><span class="lineno">  487</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  488</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a1277512afd7e270a9d0b4acd90c17550">Respawn</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  489</span>    <span class="keywordflow">if</span> (aggressive)</div>
-<div class="line"><span class="lineno">  490</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
-<div class="line"><span class="lineno">  491</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  492</span>    {</div>
-<div class="line"><span class="lineno">  493</span>        creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a>);</div>
-<div class="line"><span class="lineno">  494</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
-<div class="line"><span class="lineno">  495</span>    }</div>
-<div class="line"><span class="lineno">  496</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  484</span>{</div>
+<div class="line"><span class="lineno">  485</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3f511c51aa1082be9d4777c770a3485">SetPhaseMask</a>(1, <span class="keyword">false</span>); <span class="comment">// pussywizard: false because UpdateObjectVisibility(true) is called below in SetVisible(), no need to have it here</span></div>
+<div class="line"><span class="lineno">  486</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a08f6c21ed1d05cf54e8351b80e152c90">SetVisible</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  487</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#af9a5a43c2d7940c38f8b101409666a0d">RemoveUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a> | <a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a8b7b8fe906282847f5f337728d4a534f">UNIT_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  488</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  489</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a1277512afd7e270a9d0b4acd90c17550">Respawn</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  490</span>    <span class="keywordflow">if</span> (aggressive)</div>
+<div class="line"><span class="lineno">  491</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a>);</div>
+<div class="line"><span class="lineno">  492</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  493</span>    {</div>
+<div class="line"><span class="lineno">  494</span>        creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ad9f2d48b20f62e17abf5c1892cebe296">SetUnitFlag</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#affdd0d554c8bcaaa85a879f5a9d60934a2ecf000dcea1c08aeb8721570707f922">UNIT_FLAG_NON_ATTACKABLE</a>);</div>
+<div class="line"><span class="lineno">  495</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#acb27b2a3a09a2a9c520fba6ba2c69c4e">SetReactState</a>(<a class="code hl_enumvalue" href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37a8b5a7f923cba80ea3a429286eb38d0a0">REACT_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  496</span>    }</div>
+<div class="line"><span class="lineno">  497</span>}</div>
 <div class="ttc" id="aa01412_html_a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc"><div class="ttname"><a href="../../dc/d10/a01412.html#a5e9099d162ad74df5a3e3f5c0f056c37ab0d46448581f9ac821fb076f185661fc">REACT_AGGRESSIVE</a></div><div class="ttdeci">@ REACT_AGGRESSIVE</div><div class="ttdef"><b>Definition:</b> Unit.h:568</div></div>
 <div class="ttc" id="aa08306_html_a1277512afd7e270a9d0b4acd90c17550"><div class="ttname"><a href="../../d3/d02/a08306.html#a1277512afd7e270a9d0b4acd90c17550">Creature::Respawn</a></div><div class="ttdeci">void Respawn(bool force=false)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2017</div></div>
 <div class="ttc" id="aa09066_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1794</div></div>
 <div class="ttc" id="aa09066_html_af9a5a43c2d7940c38f8b101409666a0d"><div class="ttname"><a href="../../dc/d3e/a09066.html#af9a5a43c2d7940c38f8b101409666a0d">Unit::RemoveUnitFlag</a></div><div class="ttdeci">void RemoveUnitFlag(UnitFlags flags)</div><div class="ttdoc">UnitFlags available in UnitDefines.h.</div><div class="ttdef"><b>Definition:</b> Unit.h:749</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00568">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l00749">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l02017">Creature::Respawn()</a>, <a class="el" href="../../#l15301">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00748">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11096">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l00568">REACT_AGGRESSIVE</a>, <a class="el" href="../../#l00566">REACT_PASSIVE</a>, <a class="el" href="../../#l00749">Unit::RemoveUnitFlag()</a>, <a class="el" href="../../#l02017">Creature::Respawn()</a>, <a class="el" href="../../#l15303">Unit::SetPhaseMask()</a>, <a class="el" href="../../#l00100">Creature::SetReactState()</a>, <a class="el" href="../../#l00748">Unit::SetUnitFlag()</a>, <a class="el" href="../../#l11098">Unit::SetVisible()</a>, <a class="el" href="../../#l00258">UNIT_FLAG_NON_ATTACKABLE</a>, and <a class="el" href="../../#l00282">UNIT_FLAG_NOT_SELECTABLE</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l01322">BfWGGameObjectBuilding::UpdateCreatureAndGo()</a>, and <a class="el" href="../../#l01347">BfWGGameObjectBuilding::UpdateTurretAttack()</a>.</p>
 
@@ -3523,44 +3524,44 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  745</span>{</div>
-<div class="line"><span class="lineno">  746</span>    <a class="code hl_class" href="../../d6/dd4/a10142.html">Map</a>* map = <a class="code hl_define" href="../../dc/dd9/a01268.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;CreateBaseMap(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a29a7b061b5fff00c63dc34c584303578">MapId</a>);</div>
-<div class="line"><span class="lineno">  747</span>    <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  748</span>    {</div>
-<div class="line"><span class="lineno">  749</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: Can&#39;t create creature entry: {} map not found&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">  750</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  751</span>    }</div>
-<div class="line"><span class="lineno">  752</span> </div>
-<div class="line"><span class="lineno">  753</span>    <a class="code hl_struct" href="../../dd/ddf/a08334.html">CreatureTemplate</a> <span class="keyword">const</span>* cinfo = <a class="code hl_define" href="../../d4/def/a00359.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(entry);</div>
-<div class="line"><span class="lineno">  754</span>    <span class="keywordflow">if</span> (!cinfo)</div>
-<div class="line"><span class="lineno">  755</span>    {</div>
-<div class="line"><span class="lineno">  756</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: entry {} does not exist.&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">  757</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  758</span>    }</div>
-<div class="line"><span class="lineno">  759</span> </div>
-<div class="line"><span class="lineno">  760</span>    <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* creature = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>();</div>
-<div class="line"><span class="lineno">  761</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#aba89209c841c649d05a23226c14c2351">Create</a>(map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a7986709c0837590129c9f4030c9e59ae">GenerateLowGuid</a>&lt;HighGuid::Unit&gt;(), map, <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060">PHASEMASK_NORMAL</a>, entry, 0, x, y, z, o))</div>
-<div class="line"><span class="lineno">  762</span>    {</div>
-<div class="line"><span class="lineno">  763</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: Can&#39;t create creature entry: {}&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">  764</span>        <span class="keyword">delete</span> creature;</div>
-<div class="line"><span class="lineno">  765</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  766</span>    }</div>
-<div class="line"><span class="lineno">  767</span> </div>
-<div class="line"><span class="lineno">  768</span>    <span class="comment">// no need to set faction for neutral team</span></div>
-<div class="line"><span class="lineno">  769</span>    <span class="keywordflow">if</span> (teamId == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> || teamId == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
-<div class="line"><span class="lineno">  770</span>        creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_variable" href="../../d6/d8e/a01979.html#af5e231859535c4e1e6bd27ee42753f63">BattlefieldFactions</a>[teamId]);</div>
-<div class="line"><span class="lineno">  771</span> </div>
-<div class="line"><span class="lineno">  772</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
-<div class="line"><span class="lineno">  773</span> </div>
-<div class="line"><span class="lineno">  774</span>    <span class="comment">// force using DB speeds -- do we really need this?</span></div>
-<div class="line"><span class="lineno">  775</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">SetSpeed</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a>, cinfo-&gt;<a class="code hl_variable" href="../../dd/ddf/a08334.html#ae8109936f1c52efe487803cfab29a581">speed_walk</a>);</div>
-<div class="line"><span class="lineno">  776</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">SetSpeed</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, cinfo-&gt;<a class="code hl_variable" href="../../dd/ddf/a08334.html#a657fbf901aa2274ec5bf817525d2c4e5">speed_run</a>);</div>
-<div class="line"><span class="lineno">  777</span> </div>
-<div class="line"><span class="lineno">  778</span>    map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aec8fdf932b6233dd3ee23b469d2b10a5">AddToMap</a>(creature);</div>
-<div class="line"><span class="lineno">  779</span>    creature-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  780</span> </div>
-<div class="line"><span class="lineno">  781</span>    <span class="keywordflow">return</span> creature;</div>
-<div class="line"><span class="lineno">  782</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  746</span>{</div>
+<div class="line"><span class="lineno">  747</span>    <a class="code hl_class" href="../../d6/dd4/a10142.html">Map</a>* map = <a class="code hl_define" href="../../dc/dd9/a01268.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;CreateBaseMap(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a29a7b061b5fff00c63dc34c584303578">MapId</a>);</div>
+<div class="line"><span class="lineno">  748</span>    <span class="keywordflow">if</span> (!map)</div>
+<div class="line"><span class="lineno">  749</span>    {</div>
+<div class="line"><span class="lineno">  750</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: Can&#39;t create creature entry: {} map not found&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">  751</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  752</span>    }</div>
+<div class="line"><span class="lineno">  753</span> </div>
+<div class="line"><span class="lineno">  754</span>    <a class="code hl_struct" href="../../dd/ddf/a08334.html">CreatureTemplate</a> <span class="keyword">const</span>* cinfo = <a class="code hl_define" href="../../d4/def/a00359.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureTemplate(entry);</div>
+<div class="line"><span class="lineno">  755</span>    <span class="keywordflow">if</span> (!cinfo)</div>
+<div class="line"><span class="lineno">  756</span>    {</div>
+<div class="line"><span class="lineno">  757</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: entry {} does not exist.&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">  758</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  759</span>    }</div>
+<div class="line"><span class="lineno">  760</span> </div>
+<div class="line"><span class="lineno">  761</span>    <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* creature = <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>();</div>
+<div class="line"><span class="lineno">  762</span>    <span class="keywordflow">if</span> (!creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#aba89209c841c649d05a23226c14c2351">Create</a>(map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a7986709c0837590129c9f4030c9e59ae">GenerateLowGuid</a>&lt;HighGuid::Unit&gt;(), map, <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060">PHASEMASK_NORMAL</a>, entry, 0, x, y, z, o))</div>
+<div class="line"><span class="lineno">  763</span>    {</div>
+<div class="line"><span class="lineno">  764</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnCreature: Can&#39;t create creature entry: {}&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">  765</span>        <span class="keyword">delete</span> creature;</div>
+<div class="line"><span class="lineno">  766</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  767</span>    }</div>
+<div class="line"><span class="lineno">  768</span> </div>
+<div class="line"><span class="lineno">  769</span>    <span class="comment">// no need to set faction for neutral team</span></div>
+<div class="line"><span class="lineno">  770</span>    <span class="keywordflow">if</span> (teamId == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a> || teamId == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
+<div class="line"><span class="lineno">  771</span>        creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_variable" href="../../d6/d8e/a01979.html#af5e231859535c4e1e6bd27ee42753f63">BattlefieldFactions</a>[teamId]);</div>
+<div class="line"><span class="lineno">  772</span> </div>
+<div class="line"><span class="lineno">  773</span>    creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  774</span> </div>
+<div class="line"><span class="lineno">  775</span>    <span class="comment">// force using DB speeds -- do we really need this?</span></div>
+<div class="line"><span class="lineno">  776</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">SetSpeed</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a>, cinfo-&gt;<a class="code hl_variable" href="../../dd/ddf/a08334.html#ae8109936f1c52efe487803cfab29a581">speed_walk</a>);</div>
+<div class="line"><span class="lineno">  777</span>    creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">SetSpeed</a>(<a class="code hl_enumvalue" href="../../d8/dd0/a01430.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>, cinfo-&gt;<a class="code hl_variable" href="../../dd/ddf/a08334.html#a657fbf901aa2274ec5bf817525d2c4e5">speed_run</a>);</div>
+<div class="line"><span class="lineno">  778</span> </div>
+<div class="line"><span class="lineno">  779</span>    map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aec8fdf932b6233dd3ee23b469d2b10a5">AddToMap</a>(creature);</div>
+<div class="line"><span class="lineno">  780</span>    creature-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  781</span> </div>
+<div class="line"><span class="lineno">  782</span>    <span class="keywordflow">return</span> creature;</div>
+<div class="line"><span class="lineno">  783</span>}</div>
 <div class="ttc" id="aa00359_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d4/def/a00359.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1723</div></div>
 <div class="ttc" id="aa01268_html_a9132749f8376c48b0ca7212eb3293905"><div class="ttname"><a href="../../dc/dd9/a01268.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a></div><div class="ttdeci">#define sMapMgr</div><div class="ttdef"><b>Definition:</b> MapMgr.h:220</div></div>
 <div class="ttc" id="aa01376_html_a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060"><div class="ttname"><a href="../../d2/d29/a01376.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060">PHASEMASK_NORMAL</a></div><div class="ttdeci">@ PHASEMASK_NORMAL</div><div class="ttdef"><b>Definition:</b> Object.h:63</div></div>
@@ -3574,14 +3575,14 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa08334_html_ae8109936f1c52efe487803cfab29a581"><div class="ttname"><a href="../../dd/ddf/a08334.html#ae8109936f1c52efe487803cfab29a581">CreatureTemplate::speed_walk</a></div><div class="ttdeci">float speed_walk</div><div class="ttdef"><b>Definition:</b> CreatureData.h:201</div></div>
 <div class="ttc" id="aa08718_html_a7182e916128ed9d0942413c0f14315a7"><div class="ttname"><a href="../../da/d2c/a08718.html#a7182e916128ed9d0942413c0f14315a7">WorldObject::setActive</a></div><div class="ttdeci">void setActive(bool isActiveObject)</div><div class="ttdef"><b>Definition:</b> Object.cpp:1082</div></div>
 <div class="ttc" id="aa09066_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../dc/d3e/a09066.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7073</div></div>
-<div class="ttc" id="aa09066_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11294</div></div>
+<div class="ttc" id="aa09066_html_ab30ea03b94379b25f1d75ea879b4a61c"><div class="ttname"><a href="../../dc/d3e/a09066.html#ab30ea03b94379b25f1d75ea879b4a61c">Unit::SetSpeed</a></div><div class="ttdeci">void SetSpeed(UnitMoveType mtype, float rate, bool forced=false)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11296</div></div>
 <div class="ttc" id="aa10142_html"><div class="ttname"><a href="../../d6/dd4/a10142.html">Map</a></div><div class="ttdef"><b>Definition:</b> Map.h:166</div></div>
 <div class="ttc" id="aa10142_html_a7986709c0837590129c9f4030c9e59ae"><div class="ttname"><a href="../../d6/dd4/a10142.html#a7986709c0837590129c9f4030c9e59ae">Map::GenerateLowGuid</a></div><div class="ttdeci">ObjectGuid::LowType GenerateLowGuid()</div><div class="ttdef"><b>Definition:</b> Map.h:519</div></div>
 <div class="ttc" id="aa10142_html_aec8fdf932b6233dd3ee23b469d2b10a5"><div class="ttname"><a href="../../d6/dd4/a10142.html#aec8fdf932b6233dd3ee23b469d2b10a5">Map::AddToMap</a></div><div class="ttdeci">bool AddToMap(T *, bool checkTransport=false)</div><div class="ttdef"><b>Definition:</b> Map.cpp:304</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00304">Map::AddToMap()</a>, <a class="el" href="../../#l00066">BattlefieldFactions</a>, <a class="el" href="../../#l01151">Creature::Create()</a>, <a class="el" href="../../#l00519">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, <a class="el" href="../../#l00356">MOVE_WALK</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01082">WorldObject::setActive()</a>, <a class="el" href="../../#l07073">Unit::SetFaction()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l11294">Unit::SetSpeed()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, <a class="el" href="../../#l01723">sObjectMgr</a>, <a class="el" href="../../#l00202">CreatureTemplate::speed_run</a>, <a class="el" href="../../#l00201">CreatureTemplate::speed_walk</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00304">Map::AddToMap()</a>, <a class="el" href="../../#l00066">BattlefieldFactions</a>, <a class="el" href="../../#l01151">Creature::Create()</a>, <a class="el" href="../../#l00519">Map::GenerateLowGuid()</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00403">MapId</a>, <a class="el" href="../../#l00357">MOVE_RUN</a>, <a class="el" href="../../#l00356">MOVE_WALK</a>, <a class="el" href="../../#l00063">PHASEMASK_NORMAL</a>, <a class="el" href="../../#l01082">WorldObject::setActive()</a>, <a class="el" href="../../#l07073">Unit::SetFaction()</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l11296">Unit::SetSpeed()</a>, <a class="el" href="../../#l00220">sMapMgr</a>, <a class="el" href="../../#l01723">sObjectMgr</a>, <a class="el" href="../../#l00202">CreatureTemplate::speed_run</a>, <a class="el" href="../../#l00201">CreatureTemplate::speed_walk</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00749">TEAM_HORDE</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01180">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00268">InitStalker()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l00739">SpawnCreature()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01180">BfWGGameObjectBuilding::Init()</a>, <a class="el" href="../../#l00268">InitStalker()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l00740">SpawnCreature()</a>.</p>
 
 </div>
 </div>
@@ -3616,15 +3617,15 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  740</span>{</div>
-<div class="line"><span class="lineno">  741</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d7b/a07474.html#a4f205795863fa9d6cb1b53d685621b6c">SpawnCreature</a>(entry, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#ad3d198b8a361d95dc13daae4d2a34638">m_orientation</a>, teamId);</div>
-<div class="line"><span class="lineno">  742</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  741</span>{</div>
+<div class="line"><span class="lineno">  742</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d7b/a07474.html#a4f205795863fa9d6cb1b53d685621b6c">SpawnCreature</a>(entry, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a4d45ff71d05bb3ff3d570905460f61cd">m_positionX</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a4f8bb54eef056fd5a230c314d24c2ca6">m_positionY</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#a0d2305604dd27c15fd2d969f18c15b3e">m_positionZ</a>, pos.<a class="code hl_variable" href="../../d6/d2d/a08766.html#ad3d198b8a361d95dc13daae4d2a34638">m_orientation</a>, teamId);</div>
+<div class="line"><span class="lineno">  743</span>}</div>
 <div class="ttc" id="aa08766_html_a0d2305604dd27c15fd2d969f18c15b3e"><div class="ttname"><a href="../../d6/d2d/a08766.html#a0d2305604dd27c15fd2d969f18c15b3e">Position::m_positionZ</a></div><div class="ttdeci">float m_positionZ</div><div class="ttdef"><b>Definition:</b> Position.h:57</div></div>
 <div class="ttc" id="aa08766_html_a4d45ff71d05bb3ff3d570905460f61cd"><div class="ttname"><a href="../../d6/d2d/a08766.html#a4d45ff71d05bb3ff3d570905460f61cd">Position::m_positionX</a></div><div class="ttdeci">float m_positionX</div><div class="ttdef"><b>Definition:</b> Position.h:55</div></div>
 <div class="ttc" id="aa08766_html_a4f8bb54eef056fd5a230c314d24c2ca6"><div class="ttname"><a href="../../d6/d2d/a08766.html#a4f8bb54eef056fd5a230c314d24c2ca6">Position::m_positionY</a></div><div class="ttdeci">float m_positionY</div><div class="ttdef"><b>Definition:</b> Position.h:56</div></div>
 <div class="ttc" id="aa08766_html_ad3d198b8a361d95dc13daae4d2a34638"><div class="ttname"><a href="../../d6/d2d/a08766.html#ad3d198b8a361d95dc13daae4d2a34638">Position::m_orientation</a></div><div class="ttdeci">float m_orientation</div><div class="ttdef"><b>Definition:</b> Position.h:58</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00058">Position::m_orientation</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, and <a class="el" href="../../#l00744">SpawnCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00058">Position::m_orientation</a>, <a class="el" href="../../#l00055">Position::m_positionX</a>, <a class="el" href="../../#l00056">Position::m_positionY</a>, <a class="el" href="../../#l00057">Position::m_positionZ</a>, and <a class="el" href="../../#l00745">SpawnCreature()</a>.</p>
 
 </div>
 </div>
@@ -3671,26 +3672,26 @@ template&lt;typename Func &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  785</span>{</div>
-<div class="line"><span class="lineno">  786</span>    <a class="code hl_class" href="../../d6/dd4/a10142.html">Map</a>* map = <a class="code hl_define" href="../../dc/dd9/a01268.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;CreateBaseMap(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a29a7b061b5fff00c63dc34c584303578">MapId</a>);</div>
-<div class="line"><span class="lineno">  787</span>    <span class="keywordflow">if</span> (!map)</div>
-<div class="line"><span class="lineno">  788</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  789</span> </div>
-<div class="line"><span class="lineno">  790</span>    <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>* go = <a class="code hl_define" href="../../d4/def/a00359.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;IsGameObjectStaticTransport(entry) ? <span class="keyword">new</span> <a class="code hl_class" href="../../d2/dd5/a08986.html">StaticTransport</a>() : new <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>();</div>
-<div class="line"><span class="lineno">  791</span>    G3D::Quat rotation = G3D::Quat::fromAxisAngleRotation(G3D::Vector3::unitZ(), o);</div>
-<div class="line"><span class="lineno">  792</span>    <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../d4/de6/a08486.html#a5415cac4cc1b7553798c631f3b55d2d4">Create</a>(map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a7986709c0837590129c9f4030c9e59ae">GenerateLowGuid</a>&lt;HighGuid::GameObject&gt;(), entry, map, <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060">PHASEMASK_NORMAL</a>, x, y, z, o, rotation, 100, <a class="code hl_enumvalue" href="../../da/df7/a01457.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>))</div>
-<div class="line"><span class="lineno">  793</span>    {</div>
-<div class="line"><span class="lineno">  794</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnGameObject: Gameobject template {} not found in database! Battlefield not created!&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">  795</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnGameObject: Cannot create gameobject template {}! Battlefield not created!&quot;</span>, entry);</div>
-<div class="line"><span class="lineno">  796</span>        <span class="keyword">delete</span> go;</div>
-<div class="line"><span class="lineno">  797</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  798</span>    }</div>
-<div class="line"><span class="lineno">  799</span> </div>
-<div class="line"><span class="lineno">  800</span>    map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aec8fdf932b6233dd3ee23b469d2b10a5">AddToMap</a>(go);</div>
-<div class="line"><span class="lineno">  801</span>    go-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  802</span> </div>
-<div class="line"><span class="lineno">  803</span>    <span class="keywordflow">return</span> go;</div>
-<div class="line"><span class="lineno">  804</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  786</span>{</div>
+<div class="line"><span class="lineno">  787</span>    <a class="code hl_class" href="../../d6/dd4/a10142.html">Map</a>* map = <a class="code hl_define" href="../../dc/dd9/a01268.html#a9132749f8376c48b0ca7212eb3293905">sMapMgr</a>-&gt;CreateBaseMap(<a class="code hl_variable" href="../../d4/d7b/a07474.html#a29a7b061b5fff00c63dc34c584303578">MapId</a>);</div>
+<div class="line"><span class="lineno">  788</span>    <span class="keywordflow">if</span> (!map)</div>
+<div class="line"><span class="lineno">  789</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  790</span> </div>
+<div class="line"><span class="lineno">  791</span>    <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>* go = <a class="code hl_define" href="../../d4/def/a00359.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;IsGameObjectStaticTransport(entry) ? <span class="keyword">new</span> <a class="code hl_class" href="../../d2/dd5/a08986.html">StaticTransport</a>() : new <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>();</div>
+<div class="line"><span class="lineno">  792</span>    G3D::Quat rotation = G3D::Quat::fromAxisAngleRotation(G3D::Vector3::unitZ(), o);</div>
+<div class="line"><span class="lineno">  793</span>    <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../d4/de6/a08486.html#a5415cac4cc1b7553798c631f3b55d2d4">Create</a>(map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#a7986709c0837590129c9f4030c9e59ae">GenerateLowGuid</a>&lt;HighGuid::GameObject&gt;(), entry, map, <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060">PHASEMASK_NORMAL</a>, x, y, z, o, rotation, 100, <a class="code hl_enumvalue" href="../../da/df7/a01457.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a>))</div>
+<div class="line"><span class="lineno">  794</span>    {</div>
+<div class="line"><span class="lineno">  795</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnGameObject: Gameobject template {} not found in database! Battlefield not created!&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">  796</span>        <a class="code hl_define" href="../../d1/dce/a04559.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;bg.battlefield&quot;</span>, <span class="stringliteral">&quot;Battlefield::SpawnGameObject: Cannot create gameobject template {}! Battlefield not created!&quot;</span>, entry);</div>
+<div class="line"><span class="lineno">  797</span>        <span class="keyword">delete</span> go;</div>
+<div class="line"><span class="lineno">  798</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  799</span>    }</div>
+<div class="line"><span class="lineno">  800</span> </div>
+<div class="line"><span class="lineno">  801</span>    map-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aec8fdf932b6233dd3ee23b469d2b10a5">AddToMap</a>(go);</div>
+<div class="line"><span class="lineno">  802</span>    go-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7182e916128ed9d0942413c0f14315a7">setActive</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  803</span> </div>
+<div class="line"><span class="lineno">  804</span>    <span class="keywordflow">return</span> go;</div>
+<div class="line"><span class="lineno">  805</span>}</div>
 <div class="ttc" id="aa01457_html_ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650"><div class="ttname"><a href="../../da/df7/a01457.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650">GO_STATE_READY</a></div><div class="ttdeci">@ GO_STATE_READY</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:709</div></div>
 <div class="ttc" id="aa08486_html"><div class="ttname"><a href="../../d4/de6/a08486.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa08486_html_a5415cac4cc1b7553798c631f3b55d2d4"><div class="ttname"><a href="../../d4/de6/a08486.html#a5415cac4cc1b7553798c631f3b55d2d4">GameObject::Create</a></div><div class="ttdeci">virtual bool Create(ObjectGuid::LowType guidlow, uint32 name_id, Map *map, uint32 phaseMask, float x, float y, float z, float ang, G3D::Quat const &amp;rotation, uint32 animprogress, GOState go_state, uint32 artKit=0)</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:270</div></div>
@@ -3772,7 +3773,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa07474_html_a884220e104b3c366e8b67f77a87ea282"><div class="ttname"><a href="../../d4/d7b/a07474.html#a884220e104b3c366e8b67f77a87ea282">Battlefield::InvitePlayersInZoneToWar</a></div><div class="ttdeci">void InvitePlayersInZoneToWar()</div><div class="ttdoc">Invite all players in zone to join battle on battle start.</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:220</div></div>
 <div class="ttc" id="aa07474_html_aa9e2c86b9d4b44899e173327a49db2bf"><div class="ttname"><a href="../../d4/d7b/a07474.html#aa9e2c86b9d4b44899e173327a49db2bf">Battlefield::KickAfkPlayers</a></div><div class="ttdeci">void KickAfkPlayers()</div><div class="ttdef"><b>Definition:</b> Battlefield.cpp:282</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00408">BattleTime</a>, <a class="el" href="../../#l00054">BF_START</a>, <a class="el" href="../../#l00374">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l00207">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00220">InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00282">KickAfkPlayers()</a>, <a class="el" href="../../#l00291">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00315">OnBattleStart()</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, and <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00062">BATTLEFIELD_TIMER_GROUP_WAR</a>, <a class="el" href="../../#l00408">BattleTime</a>, <a class="el" href="../../#l00054">BF_START</a>, <a class="el" href="../../#l00375">DoPlaySoundToAll()</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00396">InvitedPlayers</a>, <a class="el" href="../../#l00207">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00220">InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00282">KickAfkPlayers()</a>, <a class="el" href="../../#l00291">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00315">OnBattleStart()</a>, <a class="el" href="../../#l00395">PlayersInWar</a>, <a class="el" href="../../#l00397">PlayersWillBeKick</a>, <a class="el" href="../../#l03701">PVP_TEAMS_COUNT</a>, <a class="el" href="../../#l00494">TaskContext::Repeat()</a>, <a class="el" href="../../#l00233">TaskScheduler::Schedule()</a>, and <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00052">bf_commandscript::HandleBattlefieldStart()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
 
@@ -3845,15 +3846,15 @@ template&lt;typename Func &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  431</span>{</div>
-<div class="line"><span class="lineno">  432</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a962847972d0bb4f1dfd674eb49c3b81d">ForEachPlayerInWar</a>(team, [spellId](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
-<div class="line"><span class="lineno">  433</span>    {</div>
-<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">if</span> (spellId &gt; 0)</div>
-<div class="line"><span class="lineno">  435</span>            player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(spellId), <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  436</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  437</span>            player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(-spellId));</div>
-<div class="line"><span class="lineno">  438</span>    });</div>
-<div class="line"><span class="lineno">  439</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  432</span>{</div>
+<div class="line"><span class="lineno">  433</span>    <a class="code hl_function" href="../../d4/d7b/a07474.html#a962847972d0bb4f1dfd674eb49c3b81d">ForEachPlayerInWar</a>(team, [spellId](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
+<div class="line"><span class="lineno">  434</span>    {</div>
+<div class="line"><span class="lineno">  435</span>        <span class="keywordflow">if</span> (spellId &gt; 0)</div>
+<div class="line"><span class="lineno">  436</span>            player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(player, <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(spellId), <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  437</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  438</span>            player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a9be4ef63ee27e3e727cc3a5160d380ce">RemoveAuraFromStack</a>(<a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(-spellId));</div>
+<div class="line"><span class="lineno">  439</span>    });</div>
+<div class="line"><span class="lineno">  440</span>}</div>
 <div class="ttc" id="aa09066_html_a9be4ef63ee27e3e727cc3a5160d380ce"><div class="ttname"><a href="../../dc/d3e/a09066.html#a9be4ef63ee27e3e727cc3a5160d380ce">Unit::RemoveAuraFromStack</a></div><div class="ttdeci">void RemoveAuraFromStack(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5187</div></div>
 <div class="ttc" id="aa09066_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1375</div></div>
 </div><!-- fragment -->
@@ -3978,7 +3979,7 @@ template&lt;typename Func &gt; </div>
 <div class="line"><span class="lineno">  189</span> </div>
 <div class="line"><span class="lineno">  190</span>    <span class="keywordflow">return</span> objectiveChanged;</div>
 <div class="line"><span class="lineno">  191</span>}</div>
-<div class="ttc" id="aa01793_html_a468ad15992691eb97dd20680046832e0ae23e4bf98a95a1906b484c171edc9040"><div class="ttname"><a href="../../d4/dc6/a01793.html#a468ad15992691eb97dd20680046832e0ae23e4bf98a95a1906b484c171edc9040">CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:333</div></div>
+<div class="ttc" id="aa01793_html_a468ad15992691eb97dd20680046832e0ae23e4bf98a95a1906b484c171edc9040"><div class="ttname"><a href="../../d4/dc6/a01793.html#a468ad15992691eb97dd20680046832e0ae23e4bf98a95a1906b484c171edc9040">CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</a></div><div class="ttdeci">@ CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:328</div></div>
 <div class="ttc" id="aa02054_html_a57dd9797e2282d27210248275f47ab85"><div class="ttname"><a href="../../d7/d38/a02054.html#a57dd9797e2282d27210248275f47ab85">sWorldSessionMgr</a></div><div class="ttdeci">#define sWorldSessionMgr</div><div class="ttdef"><b>Definition:</b> WorldSessionMgr.h:108</div></div>
 <div class="ttc" id="aa05023_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/d39/a05023.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
 <div class="ttc" id="aa05838_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../dd/d9e/a05838.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
@@ -3988,7 +3989,7 @@ template&lt;typename Func &gt; </div>
 <div class="ttc" id="aa07474_html_ad48480492b9e0a54677a8f3cfa3dee62"><div class="ttname"><a href="../../d4/d7b/a07474.html#ad48480492b9e0a54677a8f3cfa3dee62">Battlefield::OnStartGrouping</a></div><div class="ttdeci">virtual void OnStartGrouping()</div><div class="ttdoc">Called x minutes before battle start when players in zone are invited to join queue.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:319</div></div>
 <div class="ttc" id="aa07474_html_aea0c4b0948cbc408dd1b00ff305c37c0"><div class="ttname"><a href="../../d4/d7b/a07474.html#aea0c4b0948cbc408dd1b00ff305c37c0">Battlefield::IsEnabled</a></div><div class="ttdeci">bool IsEnabled() const</div><div class="ttdoc">Return if battlefield is enabled.</div><div class="ttdef"><b>Definition:</b> Battlefield.h:256</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00390">CapturePoints</a>, <a class="el" href="../../#l00333">CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</a>, <a class="el" href="../../#l00347">EndBattle()</a>, <a class="el" href="../../#l00193">InvitePlayersInZoneToQueue()</a>, <a class="el" href="../../#l00256">IsEnabled()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00319">OnStartGrouping()</a>, <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, <a class="el" href="../../#l00418">StartGrouping</a>, <a class="el" href="../../#l00417">StartGroupingTimer</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00108">sWorldSessionMgr</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00420">_scheduler</a>, <a class="el" href="../../#l00386">Active</a>, <a class="el" href="../../#l00390">CapturePoints</a>, <a class="el" href="../../#l00328">CONFIG_WINTERGRASP_SKIP_BATTLE_SESSION_COUNT</a>, <a class="el" href="../../#l00347">EndBattle()</a>, <a class="el" href="../../#l00193">InvitePlayersInZoneToQueue()</a>, <a class="el" href="../../#l00256">IsEnabled()</a>, <a class="el" href="../../#l00251">IsWarTime()</a>, <a class="el" href="../../#l00319">OnStartGrouping()</a>, <a class="el" href="../../d4/d7b/a07474.html#a818ddb7c86e77cf2d656a18f0dcae401">SendUpdateWorldStates()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, <a class="el" href="../../#l00418">StartGrouping</a>, <a class="el" href="../../#l00417">StartGroupingTimer</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00108">sWorldSessionMgr</a>, and <a class="el" href="../../#l00027">TaskScheduler::Update()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00212">BattlefieldWG::Update()</a>.</p>
 
@@ -4077,7 +4078,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00347">EndBattle()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00620">SendAreaSpiritHealerQueryOpcode()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00347">EndBattle()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00621">SendAreaSpiritHealerQueryOpcode()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, and <a class="el" href="../../#l00145">Update()</a>.</p>
 
 </div>
 </div>
@@ -4125,7 +4126,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00394">AskToLeaveQueue()</a>, <a class="el" href="../../#l00333">GetBattleId()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00385">PlayerAcceptInviteToQueue()</a>, <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00395">AskToLeaveQueue()</a>, <a class="el" href="../../#l00333">GetBattleId()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00386">PlayerAcceptInviteToQueue()</a>, <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
 
 </div>
 </div>
@@ -4173,7 +4174,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00806">GetCreature()</a>, <a class="el" href="../../#l00814">GetGameObject()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00807">GetCreature()</a>, <a class="el" href="../../#l00815">GetGameObject()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
 
 </div>
 </div>
@@ -4315,7 +4316,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00590">AddPlayerToResurrectQueue()</a>, <a class="el" href="../../#l00564">GetClosestGraveyard()</a>, <a class="el" href="../../#l00549">GetGraveyardById()</a>, <a class="el" href="../../#l00353">GetGraveyardVector()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l00605">RemovePlayerFromResurrectQueue()</a>, <a class="el" href="../../#l00301">SetGraveyardNumber()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l00066">~Battlefield()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00591">AddPlayerToResurrectQueue()</a>, <a class="el" href="../../#l00565">GetClosestGraveyard()</a>, <a class="el" href="../../#l00550">GetGraveyardById()</a>, <a class="el" href="../../#l00353">GetGraveyardVector()</a>, <a class="el" href="../../#l00556">BattlefieldWG::OnCreatureCreate()</a>, <a class="el" href="../../#l00606">RemovePlayerFromResurrectQueue()</a>, <a class="el" href="../../#l00301">SetGraveyardNumber()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, and <a class="el" href="../../#l00066">~Battlefield()</a>.</p>
 
 </div>
 </div>
@@ -4361,7 +4362,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00371">GetInvitedPlayersMap()</a>, <a class="el" href="../../#l00359">GetPlayersInWarCount()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>, and <a class="el" href="../../#l00299">StartBattle()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00371">GetInvitedPlayersMap()</a>, <a class="el" href="../../#l00359">GetPlayersInWarCount()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>, and <a class="el" href="../../#l00299">StartBattle()</a>.</p>
 
 </div>
 </div>
@@ -4409,7 +4410,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00972">BattlefieldWG::SendInitWorldStatesTo()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l00744">SpawnCreature()</a>, and <a class="el" href="../../#l00784">SpawnGameObject()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00972">BattlefieldWG::SendInitWorldStatesTo()</a>, <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>, <a class="el" href="../../#l00745">SpawnCreature()</a>, and <a class="el" href="../../#l00785">SpawnGameObject()</a>.</p>
 
 </div>
 </div>
@@ -4529,7 +4530,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00339">BattlefieldWG::CapturePointTaken()</a>, <a class="el" href="../../#l00450">ForEachPlayerInZone()</a>, <a class="el" href="../../#l00361">GetPlayersInZoneCount()</a>, <a class="el" href="../../#l00077">HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00379">HasPlayer()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00983">BattlefieldWG::SendInitWorldStatesToAll()</a>, and <a class="el" href="../../#l00326">BattlefieldWG::UpdateVehicleCountWG()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00339">BattlefieldWG::CapturePointTaken()</a>, <a class="el" href="../../#l00450">ForEachPlayerInZone()</a>, <a class="el" href="../../#l00361">GetPlayersInZoneCount()</a>, <a class="el" href="../../#l00077">HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00380">HasPlayer()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00217">BattlefieldWG::OnBattleStart()</a>, <a class="el" href="../../#l00983">BattlefieldWG::SendInitWorldStatesToAll()</a>, and <a class="el" href="../../#l00326">BattlefieldWG::UpdateVehicleCountWG()</a>.</p>
 
 </div>
 </div>
@@ -4553,7 +4554,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00394">AskToLeaveQueue()</a>, <a class="el" href="../../#l00459">ForEachPlayerInQueue()</a>, <a class="el" href="../../#l00368">GetPlayersQueueSet()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00207">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, and <a class="el" href="../../#l00385">PlayerAcceptInviteToQueue()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00395">AskToLeaveQueue()</a>, <a class="el" href="../../#l00459">ForEachPlayerInQueue()</a>, <a class="el" href="../../#l00368">GetPlayersQueueSet()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00207">InvitePlayersInQueueToWar()</a>, <a class="el" href="../../#l00198">InvitePlayerToQueue()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, and <a class="el" href="../../#l00386">PlayerAcceptInviteToQueue()</a>.</p>
 
 </div>
 </div>
@@ -4577,7 +4578,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">ForEachPlayerInWar()</a>, <a class="el" href="../../#l00359">GetPlayersInWarCount()</a>, <a class="el" href="../../#l00373">GetPlayersInWarSet()</a>, <a class="el" href="../../#l00713">BattlefieldWG::HandleKill()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00291">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00410">PlayerAcceptInviteToWar()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, <a class="el" href="../../#l01033">BattlefieldWG::UpdatedDestroyedTowerCount()</a>, and <a class="el" href="../../#l01156">BattlefieldWG::UpdateTenacity()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">ForEachPlayerInWar()</a>, <a class="el" href="../../#l00359">GetPlayersInWarCount()</a>, <a class="el" href="../../#l00373">GetPlayersInWarSet()</a>, <a class="el" href="../../#l00713">BattlefieldWG::HandleKill()</a>, <a class="el" href="../../#l00112">HandlePlayerLeaveZone()</a>, <a class="el" href="../../#l00276">IsPlayerInWarOrInvited()</a>, <a class="el" href="../../#l00291">KickPlayerFromBattlefield()</a>, <a class="el" href="../../#l00348">BattlefieldWG::OnBattleEnd()</a>, <a class="el" href="../../#l00411">PlayerAcceptInviteToWar()</a>, <a class="el" href="../../#l00299">StartBattle()</a>, <a class="el" href="../../#l01033">BattlefieldWG::UpdatedDestroyedTowerCount()</a>, and <a class="el" href="../../#l01156">BattlefieldWG::UpdateTenacity()</a>.</p>
 
 </div>
 </div>
@@ -4649,7 +4650,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00268">InitStalker()</a>, and <a class="el" href="../../#l00456">SendWarning()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00268">InitStalker()</a>, and <a class="el" href="../../#l00457">SendWarning()</a>.</p>
 
 </div>
 </div>
@@ -4793,7 +4794,7 @@ template&lt;typename Func &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00246">GetZoneId()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00385">PlayerAcceptInviteToQueue()</a>, <a class="el" href="../../#l00972">BattlefieldWG::SendInitWorldStatesTo()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">GetZoneId()</a>, <a class="el" href="../../#l00234">InvitePlayerToWar()</a>, <a class="el" href="../../#l00386">PlayerAcceptInviteToQueue()</a>, <a class="el" href="../../#l00972">BattlefieldWG::SendInitWorldStatesTo()</a>, and <a class="el" href="../../#l00046">BattlefieldWG::SetupBattlefield()</a>.</p>
 
 </div>
 </div>
@@ -4803,7 +4804,7 @@ template&lt;typename Func &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d7b/a07474.html">Battlefield</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:41:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:53:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

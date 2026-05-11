@@ -333,9 +333,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d02/a11810.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1223</span>    {</div>
-<div class="line"><span class="lineno"> 1224</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
-<div class="line"><span class="lineno"> 1225</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1222</span>    {</div>
+<div class="line"><span class="lineno"> 1223</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>();</div>
+<div class="line"><span class="lineno"> 1224</span>    }</div>
 <div class="ttc" id="aa08682_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d1/d2a/a08682.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
 <div class="ttc" id="aa11866_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1035</div></div>
 </div><!-- fragment -->
@@ -376,26 +376,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1233</span>    {</div>
-<div class="line"><span class="lineno"> 1234</span>        <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* caster = <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>();</div>
-<div class="line"><span class="lineno"> 1235</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 1236</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1237</span> </div>
-<div class="line"><span class="lineno"> 1238</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d97/a09990.html">InstanceScript</a>* instance = caster-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
-<div class="line"><span class="lineno"> 1239</span>        {</div>
-<div class="line"><span class="lineno"> 1240</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* trigger = <a class="code hl_function" href="../../dd/d78/a05079.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*caster, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../de/da8/a04091.html#af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530">DATA_VORTEX_TRIGGER</a>)))</div>
-<div class="line"><span class="lineno"> 1241</span>            {</div>
-<div class="line"><span class="lineno"> 1242</span>                caster-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aa5eada6f20e4dfecef62fe82e6668946">DoForAllPlayers</a>([&amp;](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
-<div class="line"><span class="lineno"> 1243</span>                {</div>
-<div class="line"><span class="lineno"> 1244</span>                    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>())</div>
-<div class="line"><span class="lineno"> 1245</span>                        trigger-&gt;CastSpell(player, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a3ecd445a8ce95f6d2fc8994fb09942d7">SPELL_VORTEX_TELEPORT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1246</span>                });</div>
-<div class="line"><span class="lineno"> 1247</span>            }</div>
-<div class="line"><span class="lineno"> 1248</span>        }</div>
-<div class="line"><span class="lineno"> 1249</span> </div>
-<div class="line"><span class="lineno"> 1250</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/dc9/a10282.html#aafe3a2f555b597f7904269a640c9dfd1">MoveLand</a>(<a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a421378b8207186e2b42c068e85feb290aaaab96b5aca012f5ee9a172bc389e0d6">MI_POINT_VORTEX_LAND</a>, <a class="code hl_variable" href="../../de/da8/a04091.html#a6c96f8bd6bf658e412930b948b14b58c">VortexLandPos</a>);</div>
-<div class="line"><span class="lineno"> 1251</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a0f7208cdabc3c181052bc864788d3a78">SPELL_VORTEX_1</a>);</div>
-<div class="line"><span class="lineno"> 1252</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1232</span>    {</div>
+<div class="line"><span class="lineno"> 1233</span>        <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* caster = <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>()-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>();</div>
+<div class="line"><span class="lineno"> 1234</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 1235</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1236</span> </div>
+<div class="line"><span class="lineno"> 1237</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d2/d97/a09990.html">InstanceScript</a>* instance = caster-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>())</div>
+<div class="line"><span class="lineno"> 1238</span>        {</div>
+<div class="line"><span class="lineno"> 1239</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* trigger = <a class="code hl_function" href="../../dd/d78/a05079.html#a8d1cda6b98832b29fcb437c654fd8ae9">ObjectAccessor::GetCreature</a>(*caster, instance-&gt;GetGuidData(<a class="code hl_enumvalue" href="../../de/da8/a04091.html#af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530">DATA_VORTEX_TRIGGER</a>)))</div>
+<div class="line"><span class="lineno"> 1240</span>            {</div>
+<div class="line"><span class="lineno"> 1241</span>                caster-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1013c27be4347a1b1a4a986a07456deb">GetMap</a>()-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#aa5eada6f20e4dfecef62fe82e6668946">DoForAllPlayers</a>([&amp;](<a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player)</div>
+<div class="line"><span class="lineno"> 1242</span>                {</div>
+<div class="line"><span class="lineno"> 1243</span>                    <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>())</div>
+<div class="line"><span class="lineno"> 1244</span>                        trigger-&gt;CastSpell(player, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a3ecd445a8ce95f6d2fc8994fb09942d7">SPELL_VORTEX_TELEPORT</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1245</span>                });</div>
+<div class="line"><span class="lineno"> 1246</span>            }</div>
+<div class="line"><span class="lineno"> 1247</span>        }</div>
+<div class="line"><span class="lineno"> 1248</span> </div>
+<div class="line"><span class="lineno"> 1249</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a4a04a3f22c3b0d6f4933993ac0cc7aa4">GetMotionMaster</a>()-&gt;<a class="code hl_function" href="../../d4/dc9/a10282.html#aafe3a2f555b597f7904269a640c9dfd1">MoveLand</a>(<a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a421378b8207186e2b42c068e85feb290aaaab96b5aca012f5ee9a172bc389e0d6">MI_POINT_VORTEX_LAND</a>, <a class="code hl_variable" href="../../de/da8/a04091.html#a6c96f8bd6bf658e412930b948b14b58c">VortexLandPos</a>);</div>
+<div class="line"><span class="lineno"> 1250</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a1be09c524dfdd2c3538f2ae977c58399">RemoveAura</a>(<a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a0f7208cdabc3c181052bc864788d3a78">SPELL_VORTEX_1</a>);</div>
+<div class="line"><span class="lineno"> 1251</span>    }</div>
 <div class="ttc" id="aa04091_html_a6c96f8bd6bf658e412930b948b14b58c"><div class="ttname"><a href="../../de/da8/a04091.html#a6c96f8bd6bf658e412930b948b14b58c">VortexLandPos</a></div><div class="ttdeci">const Position VortexLandPos</div><div class="ttdef"><b>Definition:</b> eye_of_eternity.h:126</div></div>
 <div class="ttc" id="aa04091_html_af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530"><div class="ttname"><a href="../../de/da8/a04091.html#af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530">DATA_VORTEX_TRIGGER</a></div><div class="ttdeci">@ DATA_VORTEX_TRIGGER</div><div class="ttdef"><b>Definition:</b> eye_of_eternity.h:65</div></div>
 <div class="ttc" id="aa04097_html_a421378b8207186e2b42c068e85feb290aaaab96b5aca012f5ee9a172bc389e0d6"><div class="ttname"><a href="../../dd/d44/a04097.html#a421378b8207186e2b42c068e85feb290aaaab96b5aca012f5ee9a172bc389e0d6">MI_POINT_VORTEX_LAND</a></div><div class="ttdeci">@ MI_POINT_VORTEX_LAND</div><div class="ttdef"><b>Definition:</b> boss_malygos.cpp:43</div></div>
@@ -417,7 +417,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00065">DATA_VORTEX_TRIGGER</a>, <a class="el" href="../../#l03231">Map::DoForAllPlayers()</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00210">ObjectAccessor::GetCreature()</a>, <a class="el" href="../../#l01238">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00625">WorldObject::GetMap()</a>, <a class="el" href="../../#l01759">Unit::GetMotionMaster()</a>, <a class="el" href="../../#l01794">Unit::IsAlive()</a>, <a class="el" href="../../#l01174">Player::IsGameMaster()</a>, <a class="el" href="../../#l00043">MI_POINT_VORTEX_LAND</a>, <a class="el" href="../../#l00553">MotionMaster::MoveLand()</a>, <a class="el" href="../../#l05038">Unit::RemoveAura()</a>, <a class="el" href="../../#l00063">SPELL_VORTEX_1</a>, <a class="el" href="../../#l00066">SPELL_VORTEX_TELEPORT</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00126">VortexLandPos</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01254">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01253">Register()</a>.</p>
 
 </div>
 </div>
@@ -471,19 +471,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1255</span>    {</div>
-<div class="line"><span class="lineno"> 1256</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(</div>
-<div class="line"><span class="lineno"> 1257</span>            <a class="code hl_function" href="../../d2/ded/a19486.html#a1d9a8a8b289f565712ab79e9857f6eb7">spell_malygos_vortex_visual::OnRemove</a>,</div>
-<div class="line"><span class="lineno"> 1258</span>            <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 1259</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1254</span>    {</div>
+<div class="line"><span class="lineno"> 1255</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AfterEffectRemove</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(</div>
+<div class="line"><span class="lineno"> 1256</span>            <a class="code hl_function" href="../../d2/ded/a19486.html#a1d9a8a8b289f565712ab79e9857f6eb7">spell_malygos_vortex_visual::OnRemove</a>,</div>
+<div class="line"><span class="lineno"> 1257</span>            <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d1/d3a/a01622.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 1258</span>    }</div>
 <div class="ttc" id="aa01598_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../d3/da5/a01598.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aa01622_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aa01622_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../d1/d3a/a01622.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa04304_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa11866_html_a2bfb775dfbe8cfc3cff876469c78ddcf"><div class="ttname"><a href="../../dc/d0e/a11866.html#a2bfb775dfbe8cfc3cff876469c78ddcf">AuraScript::AfterEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; AfterEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:764</div></div>
-<div class="ttc" id="aa19486_html_a1d9a8a8b289f565712ab79e9857f6eb7"><div class="ttname"><a href="../../d2/ded/a19486.html#a1d9a8a8b289f565712ab79e9857f6eb7">spell_malygos_vortex_visual::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_malygos.cpp:1232</div></div>
+<div class="ttc" id="aa19486_html_a1d9a8a8b289f565712ab79e9857f6eb7"><div class="ttname"><a href="../../d2/ded/a19486.html#a1d9a8a8b289f565712ab79e9857f6eb7">spell_malygos_vortex_visual::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_malygos.cpp:1231</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01232">OnRemove()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00764">AuraScript::AfterEffectRemove</a>, <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01231">OnRemove()</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -512,9 +512,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d02/a11810.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1228</span>    {</div>
-<div class="line"><span class="lineno"> 1229</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a0f7208cdabc3c181052bc864788d3a78">SPELL_VORTEX_1</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a3ecd445a8ce95f6d2fc8994fb09942d7">SPELL_VORTEX_TELEPORT</a> });</div>
-<div class="line"><span class="lineno"> 1230</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1227</span>    {</div>
+<div class="line"><span class="lineno"> 1228</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a0f7208cdabc3c181052bc864788d3a78">SPELL_VORTEX_1</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#ac2564b09bd904957bfd35edd7138e2f2a3ecd445a8ce95f6d2fc8994fb09942d7">SPELL_VORTEX_TELEPORT</a> });</div>
+<div class="line"><span class="lineno"> 1229</span>    }</div>
 <div class="ttc" id="aa11810_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00063">SPELL_VORTEX_1</a>, <a class="el" href="../../#l00066">SPELL_VORTEX_TELEPORT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -527,7 +527,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/ded/a19486.html">spell_malygos_vortex_visual</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

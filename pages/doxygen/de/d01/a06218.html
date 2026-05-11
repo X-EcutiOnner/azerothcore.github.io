@@ -186,11 +186,11 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  700</span>                                                             :</div>
-<div class="line"><span class="lineno">  701</span>        <a class="code hl_variable" href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">_id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">_name</a>(name), <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>() { }</div>
-<div class="ttc" id="aa06218_html_a2c9bd034968018bb631f4d5145c16fff"><div class="ttname"><a href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">rbac::RBACPermission::_perms</a></div><div class="ttdeci">RBACPermissionContainer _perms</div><div class="ttdoc">‍name of the object</div><div class="ttdef"><b>Definition:</b> RBAC.h:718</div></div>
-<div class="ttc" id="aa06218_html_ab467166c941c8dc01d3d2bd3ce7a06fc"><div class="ttname"><a href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">rbac::RBACPermission::_id</a></div><div class="ttdeci">uint32 _id</div><div class="ttdef"><b>Definition:</b> RBAC.h:716</div></div>
-<div class="ttc" id="aa06218_html_ae02a379ae6f8bee804942a4ca6d98aba"><div class="ttname"><a href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">rbac::RBACPermission::_name</a></div><div class="ttdeci">std::string _name</div><div class="ttdoc">‍id of the object</div><div class="ttdef"><b>Definition:</b> RBAC.h:717</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  699</span>                                                             :</div>
+<div class="line"><span class="lineno">  700</span>        <a class="code hl_variable" href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">_id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">_name</a>(name), <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>() { }</div>
+<div class="ttc" id="aa06218_html_a2c9bd034968018bb631f4d5145c16fff"><div class="ttname"><a href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">rbac::RBACPermission::_perms</a></div><div class="ttdeci">RBACPermissionContainer _perms</div><div class="ttdoc">‍name of the object</div><div class="ttdef"><b>Definition:</b> RBAC.h:717</div></div>
+<div class="ttc" id="aa06218_html_ab467166c941c8dc01d3d2bd3ce7a06fc"><div class="ttname"><a href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">rbac::RBACPermission::_id</a></div><div class="ttdeci">uint32 _id</div><div class="ttdef"><b>Definition:</b> RBAC.h:715</div></div>
+<div class="ttc" id="aa06218_html_ae02a379ae6f8bee804942a4ca6d98aba"><div class="ttname"><a href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">rbac::RBACPermission::_name</a></div><div class="ttdeci">std::string _name</div><div class="ttdoc">‍id of the object</div><div class="ttdef"><b>Definition:</b> RBAC.h:716</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -220,7 +220,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Adds a new linked Permission. </p>
-<div class="fragment"><div class="line"><span class="lineno">  711</span>{ <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>.insert(<span class="keywordtype">id</span>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  710</span>{ <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>.insert(<span class="keywordtype">id</span>); }</div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00397">AccountMgr::LoadRBAC()</a>.</p>
 
@@ -250,9 +250,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Gets the Id of the <a class="el" href="../../d1/d2a/a08682.html">Object</a>. </p>
-<div class="fragment"><div class="line"><span class="lineno">  706</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">_id</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  705</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#ab467166c941c8dc01d3d2bd3ce7a06fc">_id</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00253">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, <a class="el" href="../../#l00206">rbac_commandscript::HandleRBACPermListCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00255">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, <a class="el" href="../../#l00208">rbac_commandscript::HandleRBACPermListCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -280,9 +280,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Gets the Permissions linked to this permission. </p>
-<div class="fragment"><div class="line"><span class="lineno">  709</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  708</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00248">rbac::RBACData::ExpandPermissions()</a>, <a class="el" href="../../#l00253">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00248">rbac::RBACData::ExpandPermissions()</a>, <a class="el" href="../../#l00255">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -310,9 +310,9 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Gets the Name of the <a class="el" href="../../d1/d2a/a08682.html">Object</a>. </p>
-<div class="fragment"><div class="line"><span class="lineno">  704</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">_name</a>; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  703</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d01/a06218.html#ae02a379ae6f8bee804942a4ca6d98aba">_name</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00253">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, <a class="el" href="../../#l00123">rbac_commandscript::HandleRBACPermDenyCommand()</a>, <a class="el" href="../../#l00086">rbac_commandscript::HandleRBACPermGrantCommand()</a>, <a class="el" href="../../#l00206">rbac_commandscript::HandleRBACPermListCommand()</a>, <a class="el" href="../../#l00160">rbac_commandscript::HandleRBACPermRevokeCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00255">rbac_commandscript::HandleRBACListPermissionsCommand()</a>, <a class="el" href="../../#l00125">rbac_commandscript::HandleRBACPermDenyCommand()</a>, <a class="el" href="../../#l00088">rbac_commandscript::HandleRBACPermGrantCommand()</a>, <a class="el" href="../../#l00208">rbac_commandscript::HandleRBACPermListCommand()</a>, <a class="el" href="../../#l00162">rbac_commandscript::HandleRBACPermRevokeCommand()</a>, and <a class="el" href="../../#l01662">anonymous_namespace{RBACTest.cpp}::TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -341,7 +341,7 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Removes a linked Permission. </p>
-<div class="fragment"><div class="line"><span class="lineno">  713</span>{ <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>.erase(<span class="keywordtype">id</span>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  712</span>{ <a class="code hl_variable" href="../../de/d01/a06218.html#a2c9bd034968018bb631f4d5145c16fff">_perms</a>.erase(<span class="keywordtype">id</span>); }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -428,7 +428,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d34/a05061.html">rbac</a></li><li class="navelem"><a class="el" href="../../de/d01/a06218.html">RBACPermission</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:43:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

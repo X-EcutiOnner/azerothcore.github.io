@@ -320,15 +320,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  595</span>    {</div>
-<div class="line"><span class="lineno">  596</span>        targets.remove_if([](<a class="code hl_class" href="../../da/d2c/a08718.html">WorldObject</a>* obj) { <span class="keywordflow">return</span> obj-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; -511.0f; });</div>
-<div class="line"><span class="lineno">  597</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  573</span>    {</div>
+<div class="line"><span class="lineno">  574</span>        targets.remove_if([](<a class="code hl_class" href="../../da/d2c/a08718.html">WorldObject</a>* obj) { <span class="keywordflow">return</span> obj-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>() &lt; -511.0f; });</div>
+<div class="line"><span class="lineno">  575</span>    }</div>
 <div class="ttc" id="aa08718_html"><div class="ttname"><a href="../../da/d2c/a08718.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:475</div></div>
 <div class="ttc" id="aa08766_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d6/d2d/a08766.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00122">Position::GetPositionY()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00604">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00582">Register()</a>.</p>
 
 </div>
 </div>
@@ -355,16 +355,16 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  600</span>    {</div>
-<div class="line"><span class="lineno">  601</span>        <a class="code hl_function" href="../../d0/d10/a11826.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d0/d10/a11826.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>(), <a class="code hl_enumvalue" href="../../df/d58/a03998.html#a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583">SPELL_FREEZING_CLOUD</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  602</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  578</span>    {</div>
+<div class="line"><span class="lineno">  579</span>        <a class="code hl_function" href="../../d0/d10/a11826.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>()-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_function" href="../../d0/d10/a11826.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>(), <a class="code hl_enumvalue" href="../../df/d58/a03998.html#a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583">SPELL_FREEZING_CLOUD</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  580</span>    }</div>
 <div class="ttc" id="aa03998_html_a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583"><div class="ttname"><a href="../../df/d58/a03998.html#a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583">SPELL_FREEZING_CLOUD</a></div><div class="ttdeci">@ SPELL_FREEZING_CLOUD</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:40</div></div>
 <div class="ttc" id="aa09066_html_aa3ca95f7a14041f562ed69c3994afdfc"><div class="ttname"><a href="../../dc/d3e/a09066.html#aa3ca95f7a14041f562ed69c3994afdfc">Unit::CastSpell</a></div><div class="ttdeci">SpellCastResult CastSpell(SpellCastTargets const &amp;targets, SpellInfo const *spellInfo, CustomSpellValues const *value, TriggerCastFlags triggerFlags=TRIGGERED_NONE, Item *castItem=nullptr, AuraEffect const *triggeredByAura=nullptr, ObjectGuid originalCaster=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:1375</div></div>
 <div class="ttc" id="aa11826_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../d0/d10/a11826.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01375">Unit::CastSpell()</a>, <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, and <a class="el" href="../../#l00040">SPELL_FREEZING_CLOUD</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00604">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00582">Register()</a>.</p>
 
 </div>
 </div>
@@ -418,10 +418,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  605</span>    {</div>
-<div class="line"><span class="lineno">  606</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/ddb/a20942.html#a028ef84c884536a28650ace1e56f8061">spell_freezing_cloud_area_left::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a>);</div>
-<div class="line"><span class="lineno">  607</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/ddb/a20942.html#a16466b4c07c06c57493082b0e84b3c66">spell_freezing_cloud_area_left::HandleScript</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
-<div class="line"><span class="lineno">  608</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  583</span>    {</div>
+<div class="line"><span class="lineno">  584</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/ddb/a20942.html#a028ef84c884536a28650ace1e56f8061">spell_freezing_cloud_area_left::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a>);</div>
+<div class="line"><span class="lineno">  585</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/ddb/a20942.html#a16466b4c07c06c57493082b0e84b3c66">spell_freezing_cloud_area_left::HandleScript</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97af737ae1ce32d016e21279dfed355d63d">SPELL_EFFECT_APPLY_AURA</a>);</div>
+<div class="line"><span class="lineno">  586</span>    }</div>
 <div class="ttc" id="aa01598_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../d3/da5/a01598.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa01598_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa04304_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
@@ -429,10 +429,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04304_html_a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6"><div class="ttname"><a href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENTRY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1420</div></div>
 <div class="ttc" id="aa11826_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../d0/d10/a11826.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition:</b> SpellScript.h:336</div></div>
 <div class="ttc" id="aa11826_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa20942_html_a028ef84c884536a28650ace1e56f8061"><div class="ttname"><a href="../../d2/ddb/a20942.html#a028ef84c884536a28650ace1e56f8061">spell_freezing_cloud_area_left::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:594</div></div>
-<div class="ttc" id="aa20942_html_a16466b4c07c06c57493082b0e84b3c66"><div class="ttname"><a href="../../d2/ddb/a20942.html#a16466b4c07c06c57493082b0e84b3c66">spell_freezing_cloud_area_left::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:599</div></div>
+<div class="ttc" id="aa20942_html_a028ef84c884536a28650ace1e56f8061"><div class="ttname"><a href="../../d2/ddb/a20942.html#a028ef84c884536a28650ace1e56f8061">spell_freezing_cloud_area_left::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:572</div></div>
+<div class="ttc" id="aa20942_html_a16466b4c07c06c57493082b0e84b3c66"><div class="ttname"><a href="../../d2/ddb/a20942.html#a16466b4c07c06c57493082b0e84b3c66">spell_freezing_cloud_area_left::HandleScript</a></div><div class="ttdeci">void HandleScript(SpellEffIndex)</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:577</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00594">FilterTargets()</a>, <a class="el" href="../../#l00599">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00772">SPELL_EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENTRY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00572">FilterTargets()</a>, <a class="el" href="../../#l00577">HandleScript()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00772">SPELL_EFFECT_APPLY_AURA</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01420">TARGET_UNIT_SRC_AREA_ENTRY</a>.</p>
 
 </div>
 </div>
@@ -461,9 +461,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d02/a11810.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  590</span>    {</div>
-<div class="line"><span class="lineno">  591</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/d58/a03998.html#a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583">SPELL_FREEZING_CLOUD</a> });</div>
-<div class="line"><span class="lineno">  592</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  568</span>    {</div>
+<div class="line"><span class="lineno">  569</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../df/d58/a03998.html#a5bd342133be8c2137b831460acc9298caf9cf5532b506450108b59be0220e2583">SPELL_FREEZING_CLOUD</a> });</div>
+<div class="line"><span class="lineno">  570</span>    }</div>
 <div class="ttc" id="aa11810_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00040">SPELL_FREEZING_CLOUD</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -476,7 +476,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/ddb/a20942.html">spell_freezing_cloud_area_left</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

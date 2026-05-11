@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['wait_0',['wait',['../db/d6a/a10206.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater']]],
-  ['wait_1',['Wait',['../d2/d58/a29066.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread::Wait()'],['../d1/dc0/a29074.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr::Wait()']]],
-  ['wait_2',['wait',['../d7/d70/a05694.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread']]],
+  ['wait_0',['Wait',['../d1/dc0/a29074.html#aace37f1c8fa4c4c4dd378ba2da496b50',1,'SocketMgr']]],
+  ['wait_1',['wait',['../d7/d70/a05694.html#a29758de9c29e1437e234ab8d2a3e07d0',1,'Acore::Thread::wait()'],['../db/d6a/a10206.html#a608eb61de2bacf082422562b049e8652',1,'MapUpdater::wait()']]],
+  ['wait_2',['Wait',['../d2/d58/a29066.html#a59c5558451742998e0e655f44bec2674',1,'NetworkThread']]],
   ['waitandpop_3',['WaitAndPop',['../db/d63/a05686.html#a172ef4211bcb237478ec57531c8dcc4d',1,'ProducerConsumerQueue']]],
   ['waitcompletion_4',['WaitCompletion',['../db/dd1/a29790.html#ae386f742fed7d2b66bcf3750abf91daf',1,'MMAP::TileBuilder']]],
   ['wallcompleted_5',['WallCompleted',['../d9/d66/a17174.html#ad668e38cc7c651700686665d088d3a1d',1,'npc_hor_lich_king']]],

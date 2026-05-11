@@ -17,7 +17,7 @@ var searchData=
   ['validatespellinfo_14',['ValidateSpellInfo',['../d6/d02/a11810.html#a0ee15cbc62cccd346ce148c6acbe96f9',1,'_SpellScript::ValidateSpellInfo(T const &amp;spellIds)'],['../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159',1,'_SpellScript::ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)']]],
   ['validatespellscripts_15',['ValidateSpellScripts',['../d6/dc1/a09370.html#a2c652f624b2575b504dd19074bf6fc09',1,'ObjectMgr']]],
   ['validatetoken_16',['ValidateToken',['../d8/d03/a05466.html#ab6b27542814e577106ad587a5807d663',1,'Acore::Crypto::TOTP']]],
-  ['validthreatlist_17',['ValidThreatlist',['../db/d24/a28070.html#a3a3158ab28c9a199100f91362694d691',1,'NPCStaveQuestAI']]],
+  ['validthreatlist_17',['ValidThreatlist',['../db/d24/a28070.html#a4970b26483198e990dd399f876074383',1,'NPCStaveQuestAI']]],
   ['validutf8string_18',['validUtf8String',['../d0/d7e/a00770.html#a15c437e1d990c60d0d271ab1773b7d97',1,'CalendarHandler.cpp']]],
   ['valithriadespawner_19',['ValithriaDespawner',['../d7/dea/a18686.html#adf6f71ad9b97489f1e35781e491b28d8',1,'ValithriaDespawner']]],
   ['valuecontainsstringi_20',['ValueContainsStringI',['../df/dc6/a04793.html#aa314834c255d8f8c6913d1584f2fee32',1,'Util.h']]],

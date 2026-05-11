@@ -707,11 +707,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa08306_html_a00d974a3f97e003cadb1760538d8be27"><div class="ttname"><a href="../../d3/d02/a08306.html#a00d974a3f97e003cadb1760538d8be27">Creature::setDeathState</a></div><div class="ttdeci">void setDeathState(DeathState s, bool despawn=false) override</div><div class="ttdoc">A creature can be in 4 different states: Alive, JustDied, Corpse, and JustRespawned....</div><div class="ttdef"><b>Definition:</b> Creature.cpp:1946</div></div>
 <div class="ttc" id="aa08306_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../d3/d02/a08306.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2186</div></div>
 <div class="ttc" id="aa08934_html"><div class="ttname"><a href="../../d6/d9a/a08934.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
-<div class="ttc" id="aa09066_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../dc/d3e/a09066.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15115</div></div>
+<div class="ttc" id="aa09066_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../dc/d3e/a09066.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15117</div></div>
 <div class="ttc" id="aa11638_html"><div class="ttname"><a href="../../d3/d73/a11638.html">Aura</a></div><div class="ttdef"><b>Definition:</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aa19950_html_a1ffc377dbad787a5eb132758124df534"><div class="ttname"><a href="../../db/dcd/a19950.html#a1ffc377dbad787a5eb132758124df534">npc_auriaya_feral_defender::_feralEssenceStack</a></div><div class="ttdeci">uint8 _feralEssenceStack</div><div class="ttdef"><b>Definition:</b> boss_auriaya.cpp:285</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00285">_feralEssenceStack</a>, <a class="el" href="../../#l00286">_summons</a>, <a class="el" href="../../#l00091">ACTION_DESPAWN_ADDS</a>, <a class="el" href="../../#l00089">ACTION_FERAL_RESPAWN</a>, <a class="el" href="../../#l15115">Unit::AddAura()</a>, <a class="el" href="../../#l00228">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l00072">SummonList::DespawnAll()</a>, <a class="el" href="../../#l02186">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00074">EVENT_FERAL_POUNCE</a>, <a class="el" href="../../#l00073">EVENT_FERAL_RUSH</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00591">ScriptedAI::SelectTargetFromPlayerList()</a>, <a class="el" href="../../#l01946">Creature::setDeathState()</a>, and <a class="el" href="../../#l00043">SPELL_FERAL_ESSENCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00285">_feralEssenceStack</a>, <a class="el" href="../../#l00286">_summons</a>, <a class="el" href="../../#l00091">ACTION_DESPAWN_ADDS</a>, <a class="el" href="../../#l00089">ACTION_FERAL_RESPAWN</a>, <a class="el" href="../../#l15117">Unit::AddAura()</a>, <a class="el" href="../../#l00228">ScriptedAI::AttackStart()</a>, <a class="el" href="../../#l00072">SummonList::DespawnAll()</a>, <a class="el" href="../../#l02186">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00074">EVENT_FERAL_POUNCE</a>, <a class="el" href="../../#l00073">EVENT_FERAL_RUSH</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00591">ScriptedAI::SelectTargetFromPlayerList()</a>, <a class="el" href="../../#l01946">Creature::setDeathState()</a>, and <a class="el" href="../../#l00043">SPELL_FERAL_ESSENCE</a>.</p>
 
 </div>
 </div>
@@ -839,7 +839,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  295</span>            aur-&gt;SetStackAmount(<a class="code hl_variable" href="../../db/dcd/a19950.html#a1ffc377dbad787a5eb132758124df534">_feralEssenceStack</a>);</div>
 <div class="line"><span class="lineno">  296</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00285">_feralEssenceStack</a>, <a class="el" href="../../#l00286">_summons</a>, <a class="el" href="../../#l15115">Unit::AddAura()</a>, <a class="el" href="../../#l00072">SummonList::DespawnAll()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, and <a class="el" href="../../#l00043">SPELL_FERAL_ESSENCE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00285">_feralEssenceStack</a>, <a class="el" href="../../#l00286">_summons</a>, <a class="el" href="../../#l15117">Unit::AddAura()</a>, <a class="el" href="../../#l00072">SummonList::DespawnAll()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, and <a class="el" href="../../#l00043">SPELL_FERAL_ESSENCE</a>.</p>
 
 </div>
 </div>
@@ -948,7 +948,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/dcd/a19950.html">npc_auriaya_feral_defender</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:53:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

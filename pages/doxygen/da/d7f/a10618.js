@@ -6,5 +6,6 @@ var a10618 =
     [ "OnBattlefieldPlayerEnterZone", "da/d7f/a10618.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
     [ "OnBattlefieldPlayerJoinWar", "da/d7f/a10618.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
     [ "OnBattlefieldPlayerLeaveWar", "da/d7f/a10618.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "da/d7f/a10618.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
+    [ "OnBattlefieldPlayerLeaveZone", "da/d7f/a10618.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "da/d7f/a10618.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

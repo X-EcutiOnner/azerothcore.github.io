@@ -316,21 +316,21 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1268</span>    {</div>
-<div class="line"><span class="lineno"> 1269</span>        <span class="comment">// Target selection and warning are handled in boss AI.</span></div>
-<div class="line"><span class="lineno"> 1270</span>        <span class="comment">// Here we just restrict area targets to the explicit cast target.</span></div>
-<div class="line"><span class="lineno"> 1271</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* explTarget = <a class="code hl_function" href="../../d0/d10/a11826.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
-<div class="line"><span class="lineno"> 1272</span>        {</div>
-<div class="line"><span class="lineno"> 1273</span>            targets.clear();</div>
-<div class="line"><span class="lineno"> 1274</span>            targets.push_back(explTarget);</div>
-<div class="line"><span class="lineno"> 1275</span>        }</div>
-<div class="line"><span class="lineno"> 1276</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1267</span>    {</div>
+<div class="line"><span class="lineno"> 1268</span>        <span class="comment">// Target selection and warning are handled in boss AI.</span></div>
+<div class="line"><span class="lineno"> 1269</span>        <span class="comment">// Here we just restrict area targets to the explicit cast target.</span></div>
+<div class="line"><span class="lineno"> 1270</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* explTarget = <a class="code hl_function" href="../../d0/d10/a11826.html#a0a4da6da2613261bd66a2ecc22ddc767">GetExplTargetUnit</a>())</div>
+<div class="line"><span class="lineno"> 1271</span>        {</div>
+<div class="line"><span class="lineno"> 1272</span>            targets.clear();</div>
+<div class="line"><span class="lineno"> 1273</span>            targets.push_back(explTarget);</div>
+<div class="line"><span class="lineno"> 1274</span>        }</div>
+<div class="line"><span class="lineno"> 1275</span>    }</div>
 <div class="ttc" id="aa09066_html"><div class="ttname"><a href="../../dc/d3e/a09066.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
 <div class="ttc" id="aa11826_html_a0a4da6da2613261bd66a2ecc22ddc767"><div class="ttname"><a href="../../d0/d10/a11826.html#a0a4da6da2613261bd66a2ecc22ddc767">SpellScript::GetExplTargetUnit</a></div><div class="ttdeci">Unit * GetExplTargetUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:433</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00433">SpellScript::GetExplTargetUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01278">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01277">Register()</a>.</p>
 
 </div>
 </div>
@@ -384,16 +384,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1279</span>    {</div>
-<div class="line"><span class="lineno"> 1280</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../dc/db8/a19490.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno"> 1281</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1278</span>    {</div>
+<div class="line"><span class="lineno"> 1279</span>        <a class="code hl_variable" href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../dc/db8/a19490.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno"> 1280</span>    }</div>
 <div class="ttc" id="aa01598_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../d3/da5/a01598.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa04304_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dd/deb/a04304.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa04304_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../dd/deb/a04304.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1424</div></div>
 <div class="ttc" id="aa11826_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d0/d10/a11826.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa19490_html_af6700817fd92dbe495e20d5c43b5d6b5"><div class="ttname"><a href="../../dc/db8/a19490.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_malygos.cpp:1267</div></div>
+<div class="ttc" id="aa19490_html_af6700817fd92dbe495e20d5c43b5d6b5"><div class="ttname"><a href="../../dc/db8/a19490.html#af6700817fd92dbe495e20d5c43b5d6b5">spell_eoe_ph3_surge_of_power::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_malygos.cpp:1266</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01267">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01424">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01266">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01424">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -403,7 +403,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/db8/a19490.html">spell_eoe_ph3_surge_of_power</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

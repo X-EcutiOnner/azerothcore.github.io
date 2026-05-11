@@ -5,5 +5,5 @@ var a12374 =
     [ "HandleSendItemsCommand", "db/da1/a12374.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
     [ "HandleSendMailCommand", "db/da1/a12374.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
     [ "HandleSendMessageCommand", "db/da1/a12374.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "db/da1/a12374.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "HandleSendMoneyCommand", "db/da1/a12374.html#a1b1e995a2854e338866527ee9634d544", null ]
 ];

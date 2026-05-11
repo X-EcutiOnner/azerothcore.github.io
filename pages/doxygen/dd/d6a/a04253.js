@@ -71,5 +71,12 @@ var a04253 =
       [ "SIMONE_SPELL_TEMPTRESS_KISS", "dd/d6a/a04253.html#ac2bd4827fd0d6efa51d00cda84192699abb9f754a03ddaddc3e1f21615562d1b6", null ],
       [ "SIMONE_SPELL_CHAIN_LIGHTNING", "dd/d6a/a04253.html#ac2bd4827fd0d6efa51d00cda84192699a98bccf366154d8dbc5a65b4c1e9a466d", null ],
       [ "SIMONE_SPELL_SILENCE", "dd/d6a/a04253.html#ac2bd4827fd0d6efa51d00cda84192699a06f4aa887fa7256bf35a2f460bce1b76", null ]
+    ] ],
+    [ "SimoneAIData", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbf", [
+      [ "DATA_SIMONE_REVEAL", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbfa8ae3b308890d902a9c7db62540520ba6", null ],
+      [ "DATA_SIMONE_PREPARE_ENCOUNTER", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbfabc571d9e12db1f81f6fce3828bd594ee", null ],
+      [ "DATA_SIMONE_VALID_THREATLIST", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbfa9d12cf1b81059050270fd473edeab425", null ],
+      [ "DATA_SIMONE_SET_HOME", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbfa3e7d58b341506740c01e247fe2f3fe0d", null ],
+      [ "DATA_SIMONE_CORPSE_REMOVED", "dd/d6a/a04253.html#a3260a3bf5ff50739c8872a0dda761cbfa9eabff8d7fd130db58270e691cc4cbca", null ]
     ] ]
 ];

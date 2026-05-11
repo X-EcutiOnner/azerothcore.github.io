@@ -1238,7 +1238,8 @@ var a01322 =
       [ "LANG_PET_LIST_ENTRY", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aa40d92c1fd583fb948d5182b35c8899af", null ],
       [ "LANG_PET_LIST_EMPTY", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0caba1b7d330b3441329f3d8809f35c0", null ],
       [ "LANG_PET_DELETE_NOT_FOUND", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aa61ca471bfef44de1edcdd7b512142a2c", null ],
-      [ "LANG_PET_DELETE_SUCCESS", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aa48886db60d14ce61c5d2fbfadf8d4585", null ]
+      [ "LANG_PET_DELETE_SUCCESS", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aa48886db60d14ce61c5d2fbfadf8d4585", null ],
+      [ "LANG_CHARACTER_DELETED_LIST_LIMIT", "d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aab9412a2aeadc8d3c5bf250ba0d737586", null ]
     ] ],
     [ "BroadcastTextIds", "d5/df4/a01322.html#a5f8319e7341931a4c397a6917ca820f6", [
       [ "BROADCAST_TEXT_ACHIEVEMENT_EARNED", "d5/df4/a01322.html#a5f8319e7341931a4c397a6917ca820f6a92e90d9d24b6459082d3d5bd86a2ac83", null ],

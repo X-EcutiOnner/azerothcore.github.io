@@ -330,19 +330,19 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 6002</span>    {</div>
-<div class="line"><span class="lineno"> 6003</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
-<div class="line"><span class="lineno"> 6004</span>        <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* caster = <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 6005</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 6006</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 6007</span> </div>
-<div class="line"><span class="lineno"> 6008</span>        <a class="code hl_class" href="../../d4/dfd/a09030.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d6/d4f/a09038.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
-<div class="line"><span class="lineno"> 6009</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d4/dfd/a09030.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
-<div class="line"><span class="lineno"> 6010</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 6011</span> </div>
-<div class="line"><span class="lineno"> 6012</span>        <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> heal = damageInfo-&gt;<a class="code hl_function" href="../../d4/dfd/a09030.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() * 3;</div>
-<div class="line"><span class="lineno"> 6013</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(caster, 70677, &amp;heal, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 6014</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6001</span>    {</div>
+<div class="line"><span class="lineno"> 6002</span>        <a class="code hl_function" href="../../dc/d0e/a11866.html#a19e0ed231d33245849ef31acb0f2bca3">PreventDefaultAction</a>();</div>
+<div class="line"><span class="lineno"> 6003</span>        <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* caster = <a class="code hl_function" href="../../dc/d0e/a11866.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 6004</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 6005</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 6006</span> </div>
+<div class="line"><span class="lineno"> 6007</span>        <a class="code hl_class" href="../../d4/dfd/a09030.html">DamageInfo</a>* damageInfo = eventInfo.<a class="code hl_function" href="../../d6/d4f/a09038.html#ad2eb8dffb2a2b91b02ca1b56861c7221">GetDamageInfo</a>();</div>
+<div class="line"><span class="lineno"> 6008</span>        <span class="keywordflow">if</span> (!damageInfo || !damageInfo-&gt;<a class="code hl_function" href="../../d4/dfd/a09030.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>())</div>
+<div class="line"><span class="lineno"> 6009</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 6010</span> </div>
+<div class="line"><span class="lineno"> 6011</span>        <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> heal = damageInfo-&gt;<a class="code hl_function" href="../../d4/dfd/a09030.html#adcf0ecbcfa77654529e66df53ae828d4">GetDamage</a>() * 3;</div>
+<div class="line"><span class="lineno"> 6012</span>        caster-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a51ec81e114bf82a2485ba9f66200afd2">CastCustomSpell</a>(caster, 70677, &amp;heal, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 6013</span>    }</div>
 <div class="ttc" id="aa04580_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 <div class="ttc" id="aa09030_html"><div class="ttname"><a href="../../d4/dfd/a09030.html">DamageInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:336</div></div>
 <div class="ttc" id="aa09030_html_adcf0ecbcfa77654529e66df53ae828d4"><div class="ttname"><a href="../../d4/dfd/a09030.html#adcf0ecbcfa77654529e66df53ae828d4">DamageInfo::GetDamage</a></div><div class="ttdeci">uint32 GetDamage() const</div><div class="ttdef"><b>Definition:</b> Unit.h:372</div></div>
@@ -354,7 +354,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01432">Unit::CastCustomSpell()</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00372">DamageInfo::GetDamage()</a>, <a class="el" href="../../#l00469">ProcEventInfo::GetDamageInfo()</a>, and <a class="el" href="../../#l01000">AuraScript::PreventDefaultAction()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l06016">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l06015">Register()</a>.</p>
 
 </div>
 </div>
@@ -408,14 +408,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d6/d02/a11810.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 6017</span>    {</div>
-<div class="line"><span class="lineno"> 6018</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../db/d75/a25210.html#a8713f0e7fae54fc4f5ead19351bec0d8">spell_gen_vampiric_might::HandleProc</a>);</div>
-<div class="line"><span class="lineno"> 6019</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 6016</span>    {</div>
+<div class="line"><span class="lineno"> 6017</span>        <a class="code hl_variable" href="../../dc/d0e/a11866.html#ae83ae85373b045e22b5c20ec574f701b">OnProc</a> += <a class="code hl_define" href="../../d3/da5/a01598.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a>(<a class="code hl_function" href="../../db/d75/a25210.html#a8713f0e7fae54fc4f5ead19351bec0d8">spell_gen_vampiric_might::HandleProc</a>);</div>
+<div class="line"><span class="lineno"> 6018</span>    }</div>
 <div class="ttc" id="aa01598_html_a05a51498d234bccc0ab35a047edc3417"><div class="ttname"><a href="../../d3/da5/a01598.html#a05a51498d234bccc0ab35a047edc3417">AuraProcFn</a></div><div class="ttdeci">#define AuraProcFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:855</div></div>
 <div class="ttc" id="aa11866_html_ae83ae85373b045e22b5c20ec574f701b"><div class="ttname"><a href="../../dc/d0e/a11866.html#ae83ae85373b045e22b5c20ec574f701b">AuraScript::OnProc</a></div><div class="ttdeci">HookList&lt; AuraProcHandler &gt; OnProc</div><div class="ttdef"><b>Definition:</b> SpellScript.h:850</div></div>
-<div class="ttc" id="aa25210_html_a8713f0e7fae54fc4f5ead19351bec0d8"><div class="ttname"><a href="../../db/d75/a25210.html#a8713f0e7fae54fc4f5ead19351bec0d8">spell_gen_vampiric_might::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:6001</div></div>
+<div class="ttc" id="aa25210_html_a8713f0e7fae54fc4f5ead19351bec0d8"><div class="ttname"><a href="../../db/d75/a25210.html#a8713f0e7fae54fc4f5ead19351bec0d8">spell_gen_vampiric_might::HandleProc</a></div><div class="ttdeci">void HandleProc(ProcEventInfo &amp;eventInfo)</div><div class="ttdef"><b>Definition:</b> spell_generic.cpp:6000</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l06001">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00855">AuraProcFn</a>, <a class="el" href="../../#l06000">HandleProc()</a>, and <a class="el" href="../../#l00850">AuraScript::OnProc</a>.</p>
 
 </div>
 </div>
@@ -444,9 +444,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d6/d02/a11810.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 5997</span>    {</div>
-<div class="line"><span class="lineno"> 5998</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ 70677 });</div>
-<div class="line"><span class="lineno"> 5999</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 5996</span>    {</div>
+<div class="line"><span class="lineno"> 5997</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ 70677 });</div>
+<div class="line"><span class="lineno"> 5998</span>    }</div>
 <div class="ttc" id="aa11810_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d6/d02/a11810.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -459,7 +459,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d75/a25210.html">spell_gen_vampiric_might</a></li>
-    <li class="footer">Generated on Mon May 4 2026 21:42:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 11 2026 21:54:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -4,7 +4,7 @@ var a12194 =
     [ "DeletedInfoList", "d9/d3d/a12194.html#afea1b495e99ebd5b9b1481caf700aa42", null ],
     [ "character_commandscript", "d9/d3d/a12194.html#acd6b14efed2366e2a202ba17be781801", null ],
     [ "GetCommands", "d9/d3d/a12194.html#a54c43684b16e3a8e857817a566bf754a", null ],
-    [ "GetDeletedCharacterInfoList", "d9/d3d/a12194.html#a3c388123887507991bb8e1a6b6f171a9", null ],
+    [ "GetDeletedCharacterInfoList", "d9/d3d/a12194.html#a3c884bdd70a7cede02ad298f8ee6beb5", null ],
     [ "HandleCharacterChangeAccountCommand", "d9/d3d/a12194.html#a0182ab0c535560f2b15fe743f200687e", null ],
     [ "HandleCharacterChangeFactionCommand", "d9/d3d/a12194.html#aec5804fe5d1be47c0b4102e4333bab60", null ],
     [ "HandleCharacterChangeRaceCommand", "d9/d3d/a12194.html#a8831df63b990e991cb03c0964c227361", null ],
@@ -28,5 +28,6 @@ var a12194 =
     [ "HandlePDumpCopyCommand", "d9/d3d/a12194.html#a6052edd70be114fc29aa48e56e97ac61", null ],
     [ "HandlePDumpLoadCommand", "d9/d3d/a12194.html#a2164c3ebebcae60cd891c7db3da0ba68", null ],
     [ "HandlePDumpWriteCommand", "d9/d3d/a12194.html#acff2e413b4e7c2a0ac5310e2887b7cd7", null ],
-    [ "ValidatePDumpTarget", "d9/d3d/a12194.html#aaaeccd99c33ef4fdc3794d5f1052cd45", null ]
+    [ "ValidatePDumpTarget", "d9/d3d/a12194.html#aaaeccd99c33ef4fdc3794d5f1052cd45", null ],
+    [ "MAX_DELETED_CHAR_RESULTS", "d9/d3d/a12194.html#a4689269fd6a5d7f4c4947f6422eccae3", null ]
 ];
