@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Server/WorldSession.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MovementGenerators/WaypointMovementGenerator.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,177 +105,217 @@ $(document).ready(function(){initNavTree('dd/d14/a02201.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
 <a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldSession.h File Reference<div class="ingroups"><a class="el" href="../../df/dab/a05022.html">User to World Communication</a></div></div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">WaypointMovementGenerator.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">WaypointMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSpline.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSplineInit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SmartScriptMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;utility&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/df7/a11542.html">AccountData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d94/a11546.html">PacketFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dda/a11550.html">MapSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d22/a11554.html">WorldSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d63/a11558.html">CharacterCreateInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc0/a11562.html">CharacterRenameInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/da0/a11566.html">CharacterCustomizeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d6c/a11570.html">CharacterFactionChangeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df1/a11574.html">PacketCounter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d39/a11578.html">WorldSession</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../d6/d9a/a08934.html">Player</a> session in the <a class="el" href="../../d1/de7/a12130.html" title="The World.">World</a>.  <a href="../../db/d39/a11578.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1a/a11582.html">WorldSession::DosProtection</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d1/dd2/a05073"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd2/a05073.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d0b/a05080"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html">WorldPackets</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/dc2/a05098"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc2/a05098.html">WorldPackets::LFG</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/df5/a05093"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df5/a05093.html">WorldPackets::Chat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d2c/a05092"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d2c/a05092.html">WorldPackets::Character</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d0/d47/a05104"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d47/a05104.html">WorldPackets::Totem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/dbd/a05090"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbd/a05090.html">WorldPackets::Bank</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d11/a05095"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d11/a05095.html">WorldPackets::Combat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/d65/a05081"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d65/a05081.html">WorldPackets::Guild</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d3/d8f/a05099"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8f/a05099.html">WorldPackets::Misc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/d94/a05102"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d94/a05102.html">WorldPackets::Pet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/d5e/a05103"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5e/a05103.html">WorldPackets::Query</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d4/d23/a05097"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d23/a05097.html">WorldPackets::Item</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/de1/a05091"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/de1/a05091.html">WorldPackets::Calendar</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/da5/a05100"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da5/a05100.html">WorldPackets::NPC</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d29/a05096"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d29/a05096.html">WorldPackets::Instance</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gafb353aeb5e84007c9b55aa50ba6e3ddc">NUM_ACCOUNT_DATA_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabaf56bd86a496e0886a553118d6ffb08"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gabaf56bd86a496e0886a553118d6ffb08">GLOBAL_CACHE_MASK</a>&#160;&#160;&#160;0x15</td></tr>
-<tr class="separator:gabaf56bd86a496e0886a553118d6ffb08"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga38a03c6cd9103a9891842f233758fbe7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#ga38a03c6cd9103a9891842f233758fbe7">PER_CHARACTER_CACHE_MASK</a>&#160;&#160;&#160;0xEA</td></tr>
-<tr class="separator:ga38a03c6cd9103a9891842f233758fbe7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55b33fb4c6265551b0327903da9bff4c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d14/a02201.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a>&#160;&#160;&#160;(40.0f * 40.0f)</td></tr>
+<tr class="separator:a55b33fb4c6265551b0327903da9bff4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2efde26aed42919892139c2ffb51b279"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d14/a02201.html#a2efde26aed42919892139c2ffb51b279">PLAYER_FLIGHT_SPEED</a>&#160;&#160;&#160;32.0f</td></tr>
+<tr class="separator:a2efde26aed42919892139c2ffb51b279"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:gadab21b8c7fecf26675a55eea7811812d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gadab21b8c7fecf26675a55eea7811812d">AccountDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c">GLOBAL_CONFIG_CACHE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0">PER_CHARACTER_CONFIG_CACHE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936">GLOBAL_BINDINGS_CACHE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6">PER_CHARACTER_BINDINGS_CACHE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217">GLOBAL_MACROS_CACHE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c">PER_CHARACTER_MACROS_CACHE</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c">PER_CHARACTER_LAYOUT_CACHE</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327">PER_CHARACTER_CHAT_CACHE</a> = 7
-<br />
- }</td></tr>
-<tr class="separator:gadab21b8c7fecf26675a55eea7811812d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa4a0361b2172789575d5eac42ecb612a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gaa4a0361b2172789575d5eac42ecb612a">PartyOperation</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036">PARTY_OP_INVITE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e">PARTY_OP_UNINVITE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457">PARTY_OP_LEAVE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14">PARTY_OP_SWAP</a> = 4
-<br />
- }</td></tr>
-<tr class="separator:gaa4a0361b2172789575d5eac42ecb612a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae00b3f15198199be79029b7f245cba4e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gae00b3f15198199be79029b7f245cba4e">BFLeaveReason</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04">BF_LEAVE_REASON_EXITED</a> = 0x00000008
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d">BF_LEAVE_REASON_LOW_LEVEL</a> = 0x00000010
-<br />
- }</td></tr>
-<tr class="separator:gae00b3f15198199be79029b7f245cba4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#ga54cc6595f95ac4f430e8540afc94f13d">ChatRestrictionType</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9">ERR_CHAT_RESTRICTED</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7">ERR_CHAT_THROTTLED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8">ERR_USER_SQUELCHED</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7">ERR_YELL_RESTRICTED</a> = 3
-<br />
- }</td></tr>
-<tr class="separator:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga98490641bb011ba9187ee1ed5c94b406"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#ga98490641bb011ba9187ee1ed5c94b406">DeclinedNameResult</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267">DECLINED_NAMES_RESULT_SUCCESS</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683">DECLINED_NAMES_RESULT_ERROR</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:ga98490641bb011ba9187ee1ed5c94b406"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae6a6780680157e01b09a257d84b150c7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dab/a05022.html#gae6a6780680157e01b09a257d84b150c7">CharterTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c">GUILD_CHARTER_TYPE</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356">ARENA_TEAM_CHARTER_2v2_TYPE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482">ARENA_TEAM_CHARTER_3v3_TYPE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../df/dab/a05022.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841">ARENA_TEAM_CHARTER_5v5_TYPE</a> = 5
-<br />
- }</td></tr>
-<tr class="separator:gae6a6780680157e01b09a257d84b150c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ac0d2ec1868bbb7a72904410f1efeaaca"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d14/a02201.html#ac0d2ec1868bbb7a72904410f1efeaaca">PositionToVector3</a> (<a class="el" href="../../d6/d2d/a08766.html">Position</a> const &amp;p)</td></tr>
+<tr class="separator:ac0d2ec1868bbb7a72904410f1efeaaca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cfd2302ba925854b6edc6af49bcb40a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d14/a02201.html#a2cfd2302ba925854b6edc6af49bcb40a">UpdateHomePosition</a> (<a class="el" href="../../d3/d02/a08306.html">Creature</a> *creature, <a class="el" href="../../d9/d15/a10454.html">WaypointNode</a> const &amp;waypointNode)</td></tr>
+<tr class="separator:a2cfd2302ba925854b6edc6af49bcb40a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47a5affa854677472690918c4d16f998"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d14/a02201.html#a47a5affa854677472690918c4d16f998">IsNodeIncludedInShortenedPath</a> (<a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const *p1, <a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const *p2)</td></tr>
+<tr class="separator:a47a5affa854677472690918c4d16f998"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a2efde26aed42919892139c2ffb51b279" name="a2efde26aed42919892139c2ffb51b279"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2efde26aed42919892139c2ffb51b279">&#9670;&#160;</a></span>PLAYER_FLIGHT_SPEED</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define PLAYER_FLIGHT_SPEED&#160;&#160;&#160;32.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a55b33fb4c6265551b0327903da9bff4c" name="a55b33fb4c6265551b0327903da9bff4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55b33fb4c6265551b0327903da9bff4c">&#9670;&#160;</a></span>SKIP_SPLINE_POINT_DISTANCE_SQ</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define SKIP_SPLINE_POINT_DISTANCE_SQ&#160;&#160;&#160;(40.0f * 40.0f)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a47a5affa854677472690918c4d16f998" name="a47a5affa854677472690918c4d16f998"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47a5affa854677472690918c4d16f998">&#9670;&#160;</a></span>IsNodeIncludedInShortenedPath()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool IsNodeIncludedInShortenedPath </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const *&#160;</td>
+          <td class="paramname"><em>p1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/d31/a29014.html">TaxiPathNodeEntry</a> const *&#160;</td>
+          <td class="paramname"><em>p2</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  567</span>{</div>
+<div class="line"><span class="lineno">  568</span>    <span class="keywordflow">return</span> p1-&gt;mapid != p2-&gt;mapid || std::pow(p1-&gt;x - p2-&gt;x, 2) + std::pow(p1-&gt;y - p2-&gt;y, 2) &gt; <a class="code hl_define" href="../../dd/d14/a02201.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a>;</div>
+<div class="line"><span class="lineno">  569</span>}</div>
+<div class="ttc" id="aa02201_html_a55b33fb4c6265551b0327903da9bff4c"><div class="ttname"><a href="../../dd/d14/a02201.html#a55b33fb4c6265551b0327903da9bff4c">SKIP_SPLINE_POINT_DISTANCE_SQ</a></div><div class="ttdeci">#define SKIP_SPLINE_POINT_DISTANCE_SQ</div><div class="ttdef"><b>Definition:</b> WaypointMovementGenerator.cpp:564</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01977">TaxiPathNodeEntry::mapid</a>, <a class="el" href="../../#l00564">SKIP_SPLINE_POINT_DISTANCE_SQ</a>, <a class="el" href="../../#l01978">TaxiPathNodeEntry::x</a>, and <a class="el" href="../../#l01979">TaxiPathNodeEntry::y</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00571">FlightPathMovementGenerator::LoadPath()</a>.</p>
+
+</div>
+</div>
+<a id="ac0d2ec1868bbb7a72904410f1efeaaca" name="ac0d2ec1868bbb7a72904410f1efeaaca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0d2ec1868bbb7a72904410f1efeaaca">&#9670;&#160;</a></span>PositionToVector3()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Vector3 PositionToVector3 </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d2d/a08766.html">Position</a> const &amp;&#160;</td>
+          <td class="paramname"><em>p</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{ <span class="keywordflow">return</span> { p.GetPositionX(), p.GetPositionY(), p.GetPositionZ() }; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, and <a class="el" href="../../#l00123">Position::GetPositionZ()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+
+</div>
+</div>
+<a id="a2cfd2302ba925854b6edc6af49bcb40a" name="a2cfd2302ba925854b6edc6af49bcb40a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cfd2302ba925854b6edc6af49bcb40a">&#9670;&#160;</a></span>UpdateHomePosition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void UpdateHomePosition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d02/a08306.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>creature</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d15/a10454.html">WaypointNode</a> const &amp;&#160;</td>
+          <td class="paramname"><em>waypointNode</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
+<div class="line"><span class="lineno">  115</span>    <span class="keywordtype">float</span> x = waypointNode.X;</div>
+<div class="line"><span class="lineno">  116</span>    <span class="keywordtype">float</span> y = waypointNode.Y;</div>
+<div class="line"><span class="lineno">  117</span>    <span class="keywordtype">float</span> z = waypointNode.Z;</div>
+<div class="line"><span class="lineno">  118</span>    <span class="keywordtype">float</span> o = creature-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>();</div>
+<div class="line"><span class="lineno">  119</span> </div>
+<div class="line"><span class="lineno">  120</span>    <span class="keywordtype">bool</span> transportPath = creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../df/d0e/a02195.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a>) &amp;&amp; creature-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ab38bf07f849039068d02971f5e006d29">GetTransGUID</a>();</div>
+<div class="line"><span class="lineno">  121</span>    <span class="keywordflow">if</span> (!transportPath)</div>
+<div class="line"><span class="lineno">  122</span>        creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d8a/a08978.html">Transport</a>* trans = (creature-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>() ? creature-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a9ffd4691b1ebdb5011e800739b4dd4f5">GetTransport</a>()-&gt;<a class="code hl_function" href="../../d4/de6/a08486.html#a5aae646746017d2cab8aa0f625cb4d42">ToMotionTransport</a>() : <span class="keyword">nullptr</span>))</div>
+<div class="line"><span class="lineno">  126</span>        {</div>
+<div class="line"><span class="lineno">  127</span>            o -= trans-&gt;GetOrientation();</div>
+<div class="line"><span class="lineno">  128</span>            creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#ac92978c32c3b66af03eadfa1b565d4ca">SetTransportHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  129</span>            trans-&gt;CalculatePassengerPosition(x, y, z, &amp;o);</div>
+<div class="line"><span class="lineno">  130</span>            creature-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">SetHomePosition</a>(x, y, z, o);</div>
+<div class="line"><span class="lineno">  131</span>        }</div>
+<div class="line"><span class="lineno">  132</span>    }</div>
+<div class="line"><span class="lineno">  133</span>}</div>
+<div class="ttc" id="aa02195_html_a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1"><div class="ttname"><a href="../../df/d0e/a02195.html#a083358a25d084fb928e170c453128f9da4e14e61d036d1d8edeb90a5bae80c7e1">MOVEMENTFLAG_ONTRANSPORT</a></div><div class="ttdeci">@ MOVEMENTFLAG_ONTRANSPORT</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:381</div></div>
+<div class="ttc" id="aa08306_html_a0ab9e2649cc4b0103aea6a52e8f1a5ea"><div class="ttname"><a href="../../d3/d02/a08306.html#a0ab9e2649cc4b0103aea6a52e8f1a5ea">Creature::SetHomePosition</a></div><div class="ttdeci">void SetHomePosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition:</b> Creature.h:347</div></div>
+<div class="ttc" id="aa08306_html_ac92978c32c3b66af03eadfa1b565d4ca"><div class="ttname"><a href="../../d3/d02/a08306.html#ac92978c32c3b66af03eadfa1b565d4ca">Creature::SetTransportHomePosition</a></div><div class="ttdeci">void SetTransportHomePosition(float x, float y, float z, float o)</div><div class="ttdef"><b>Definition:</b> Creature.h:352</div></div>
+<div class="ttc" id="aa08486_html_a5aae646746017d2cab8aa0f625cb4d42"><div class="ttname"><a href="../../d4/de6/a08486.html#a5aae646746017d2cab8aa0f625cb4d42">GameObject::ToMotionTransport</a></div><div class="ttdeci">MotionTransport * ToMotionTransport()</div><div class="ttdef"><b>Definition:</b> GameObject.h:328</div></div>
+<div class="ttc" id="aa08718_html_a9ffd4691b1ebdb5011e800739b4dd4f5"><div class="ttname"><a href="../../da/d2c/a08718.html#a9ffd4691b1ebdb5011e800739b4dd4f5">WorldObject::GetTransport</a></div><div class="ttdeci">Transport * GetTransport() const</div><div class="ttdef"><b>Definition:</b> Object.h:688</div></div>
+<div class="ttc" id="aa08766_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d6/d2d/a08766.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
+<div class="ttc" id="aa08978_html"><div class="ttname"><a href="../../d9/d8a/a08978.html">Transport</a></div><div class="ttdef"><b>Definition:</b> Transport.h:30</div></div>
+<div class="ttc" id="aa09066_html_a924b296aeb24186da0b821b8b47bb712"><div class="ttname"><a href="../../dc/d3e/a09066.html#a924b296aeb24186da0b821b8b47bb712">Unit::HasUnitMovementFlag</a></div><div class="ttdeci">bool HasUnitMovementFlag(uint32 f) const</div><div class="ttdef"><b>Definition:</b> Unit.h:774</div></div>
+<div class="ttc" id="aa09066_html_ab38bf07f849039068d02971f5e006d29"><div class="ttname"><a href="../../dc/d3e/a09066.html#ab38bf07f849039068d02971f5e006d29">Unit::GetTransGUID</a></div><div class="ttdeci">ObjectGuid GetTransGUID() const override</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15010</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00124">Position::GetOrientation()</a>, <a class="el" href="../../#l15010">Unit::GetTransGUID()</a>, <a class="el" href="../../#l00688">WorldObject::GetTransport()</a>, <a class="el" href="../../#l00774">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00381">MOVEMENTFLAG_ONTRANSPORT</a>, <a class="el" href="../../#l00347">Creature::SetHomePosition()</a>, <a class="el" href="../../#l00352">Creature::SetTransportHomePosition()</a>, <a class="el" href="../../#l00328">GameObject::ToMotionTransport()</a>, <a class="el" href="../../#l00048">WaypointNode::X</a>, <a class="el" href="../../#l00048">WaypointNode::Y</a>, and <a class="el" href="../../#l00048">WaypointNode::Z</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, and <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_315286625446b425c001eecd2b17ef1a.html">Server</a></li><li class="navelem"><a class="el" href="../../dd/d14/a02201.html">WorldSession.h</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:52:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../dir_5b912817ccf0063e74cbee75ff3a7169.html">MovementGenerators</a></li><li class="navelem"><a class="el" href="../../dd/d14/a02201.html">WaypointMovementGenerator.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

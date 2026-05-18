@@ -1,11 +1,13 @@
 var a30676 =
 [
-    [ "_ACORE_REALM_CONFIG", "de/df7/a30676.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "de/df7/a30676.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "de/df7/a30676.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "de/df7/a30676.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "de/df7/a30676.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "de/df7/a30676.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "de/df7/a30676.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "de/df7/a30676.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "ConfigPolicy", "d9/d61/a05402.html", "d9/d61/a05402" ],
+    [ "ConfigMgr", "d5/d43/a05406.html", "d5/d43/a05406" ],
+    [ "ConfigException", "d3/d53/a05410.html", "d3/d53/a05410" ],
+    [ "sConfigMgr", "de/df7/a30676.html#a7236988e98bdd405bf435a029b70a26f", null ],
+    [ "ConfigSeverity", "de/df7/a30676.html#a05eaca858744a1f9f0e309e7867383e3", [
+      [ "Skip", "de/df7/a30676.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
+      [ "Warn", "de/df7/a30676.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "de/df7/a30676.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Fatal", "de/df7/a30676.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
+    ] ]
 ];

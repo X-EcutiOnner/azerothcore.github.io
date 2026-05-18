@@ -1,7 +1,9 @@
 var a01904 =
 [
-    [ "Movement::TransportPathTransform", "d6/df0/a10393.html", "d6/df0/a10393" ],
-    [ "Movement::HoverMovementTransform", "d7/daf/a10397.html", "d7/daf/a10397" ],
-    [ "Movement::MoveSplineInit", "d1/dba/a10401.html", "d1/dba/a10401" ],
-    [ "SelectSpeedType", "d4/d0d/a01904.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
+    [ "MapType", "d4/d0d/a01904.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "d4/d0d/a01904.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "d4/d0d/a01904.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "d4/d0d/a01904.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "d4/d0d/a01904.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "d4/d0d/a01904.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

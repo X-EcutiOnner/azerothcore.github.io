@@ -1,10 +1,9 @@
 var a00704 =
 [
-    [ "GameEventScript", "db/d96/a10662.html", "db/d96/a10662" ],
-    [ "GameEventHook", "d4/d6a/a00704.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "d4/d6a/a00704.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "d4/d6a/a00704.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "d4/d6a/a00704.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "d4/d6a/a00704.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "MMAP::MapTiles", "dc/da9/a29778.html", "dc/da9/a29778" ],
+    [ "MMAP::Tile", "d0/d22/a29782.html", "d0/d22/a29782" ],
+    [ "MMAP::TileInfo", "d0/d7c/a29786.html", "d0/d7c/a29786" ],
+    [ "MMAP::TileBuilder", "db/dd1/a29790.html", "db/dd1/a29790" ],
+    [ "MMAP::MapBuilder", "d9/dba/a29794.html", "d9/dba/a29794" ],
+    [ "TileList", "d4/d6a/a00704.html#aa2aae6f254337f29866a5d240d5ec2b1", null ]
 ];

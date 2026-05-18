@@ -1,7 +1,4 @@
 var a30730 =
 [
-    [ "u_map_fcc", "da/d7e/a29698.html", "da/d7e/a29698" ],
-    [ "file_MVER", "dc/d80/a29702.html", "dc/d80/a29702" ],
-    [ "FileLoader", "db/d9a/a29710.html", "db/d9a/a29710" ],
-    [ "FILE_FORMAT_VERSION", "d8/d0f/a30730.html#a6fef47739ef9998b00a2523c98cb2315", null ]
+    [ "gOpenArchives", "d8/d0f/a30730.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

@@ -1,19 +1,24 @@
 var a00689 =
 [
-    [ "GuildScript", "d8/ddb/a10657.html", "d8/ddb/a10657" ],
-    [ "GuildHook", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507e", [
-      [ "GUILDHOOK_ON_ADD_MEMBER", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eae55dad40010dcbf6c50672cae2f0106d", null ],
-      [ "GUILDHOOK_ON_REMOVE_MEMBER", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac79cc93d3ab4677a9801e213686e2b51", null ],
-      [ "GUILDHOOK_ON_MOTD_CHANGED", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea909770c2a1fe124c3fa21f83ff55c0d5", null ],
-      [ "GUILDHOOK_ON_INFO_CHANGED", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaf9949399a22fa1e1ed088bfa6952d23f", null ],
-      [ "GUILDHOOK_ON_CREATE", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea9d64b482c3d8be9681ab83722c84316e", null ],
-      [ "GUILDHOOK_ON_DISBAND", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac23a3058a5a051613b6970bad9a38f58", null ],
-      [ "GUILDHOOK_ON_MEMBER_WITDRAW_MONEY", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea3a78e5195fdbecb916d9f9510175381b", null ],
-      [ "GUILDHOOK_ON_MEMBER_DEPOSIT_MONEY", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea2663578fa69784d19d4833584d1a1fdc", null ],
-      [ "GUILDHOOK_ON_ITEM_MOVE", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea6ef9bfbc009fd877098120f95d6a3fa8", null ],
-      [ "GUILDHOOK_ON_EVENT", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eac20b467223e978c03559c967fec760a7", null ],
-      [ "GUILDHOOK_ON_BANK_EVENT", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaa5be911ea4c307508ba407ac09cd82d9", null ],
-      [ "GUILDHOOK_CAN_GUILD_SEND_BANK_LIST", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507eaec99ae82238d8260ba512b23abc70b5b", null ],
-      [ "GUILDHOOK_END", "d1/d87/a00689.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb", null ]
-    ] ]
+    [ "MMAP::MeshData", "d2/d8d/a29798.html", "d2/d8d/a29798" ],
+    [ "MMAP::TerrainBuilder", "dd/d86/a29802.html", "dd/d86/a29802" ],
+    [ "Grid", "d1/d87/a00689.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "d1/d87/a00689.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "d1/d87/a00689.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "d1/d87/a00689.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "d1/d87/a00689.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "d1/d87/a00689.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "d1/d87/a00689.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d1/d87/a00689.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "d1/d87/a00689.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "d1/d87/a00689.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "d1/d87/a00689.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "d1/d87/a00689.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

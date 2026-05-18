@@ -1,4 +1,5 @@
 var a00938 =
 [
-    [ "minPctTeamGamesForMemberToGetReward", "d5/d54/a00938.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
+    [ "MotdMgr", "de/d4e/a10266.html", "de/d4e/a10266" ],
+    [ "sMotdMgr", "d5/d54/a00938.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

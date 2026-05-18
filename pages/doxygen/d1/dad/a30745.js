@@ -1,7 +1,7 @@
 var a30745 =
 [
-    [ "MPQArchive", "df/d62/a29714.html", "df/d62/a29714" ],
-    [ "MPQFile", "d8/d99/a29718.html", "d8/d99/a29718" ],
-    [ "ArchiveSet", "d1/dad/a30745.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "d1/dad/a30745.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "checkDirectories", "d1/dad/a30745.html#ad48ed7d842b67717d3b38b23466e728e", null ],
+    [ "finish", "d1/dad/a30745.html#a32e7545f3a98690aeb284a4eb66f272d", null ],
+    [ "handleArgs", "d1/dad/a30745.html#a825a7cefc023cf1562e66271f67987c1", null ],
+    [ "main", "d1/dad/a30745.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
 ];

@@ -1,9 +1,5 @@
 var a01673 =
 [
-    [ "ePoints", "d9/df5/a01673.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "df/ddd/a01655.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "df/ddd/a01655.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d9/df5/a01673.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ],
-    [ "MAX_PLAYER_DISTANCE", "d9/df5/a01673.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d9/df5/a01673.html#a650e9d2ed03f4896b697097e2116298e", null ],
+    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d9/df5/a01673.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
 ];

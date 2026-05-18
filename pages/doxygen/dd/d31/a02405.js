@@ -1,6 +1,4 @@
 var a02405 =
 [
-    [ "instance_culling_of_stratholme", "d9/d1a/a15122.html", "d9/d1a/a15122" ],
-    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "d7/de6/a15126.html", "d7/de6/a15126" ],
-    [ "AddSC_instance_culling_of_stratholme", "dd/d31/a02405.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
+    [ "ScriptRegistry< WorldMapScript >", "dd/d31/a02405.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

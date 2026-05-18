@@ -1,10 +1,14 @@
 var a02684 =
 [
-    [ "instance_sethekk_halls", "d5/d5f/a22302.html", "d5/d5f/a22302" ],
-    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "de/dc7/a22306.html", "de/dc7/a22306" ],
-    [ "AddSC_instance_sethekk_halls", "de/db4/a02684.html#a14325c1667938972a51bf364b00fe3c3", null ],
-    [ "anzuSummonEventId", "de/db4/a02684.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
-    [ "creatureData", "de/db4/a02684.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "de/db4/a02684.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "de/db4/a02684.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "AccountInfo", "df/de3/a05942.html", "df/de3/a05942" ],
+    [ "AuthSession", "de/d4a/a05946.html", "de/d4a/a05946" ],
+    [ "AuthHandler", "d1/de1/a05950.html", "d1/de1/a05950" ],
+    [ "AuthStatus", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
+      [ "STATUS_CHALLENGE", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
+      [ "STATUS_LOGON_PROOF", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
+      [ "STATUS_RECONNECT_PROOF", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
+      [ "STATUS_AUTHED", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
+      [ "STATUS_WAITING_FOR_REALM_LIST", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
+      [ "STATUS_CLOSED", "de/db4/a02684.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
+    ] ]
 ];

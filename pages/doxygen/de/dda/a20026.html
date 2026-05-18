@@ -180,14 +180,14 @@ Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1299</span>        <span class="keywordflow">if</span> (!creatureTarget)</div>
 <div class="line"><span class="lineno"> 1300</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1301</span> </div>
-<div class="line"><span class="lineno"> 1303</span>        <span class="keywordflow">if</span> (creatureTarget-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() != <a class="code hl_enumvalue" href="../../de/de6/a03848.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91">NPC_SALVAGED_DEMOLISHER</a> &amp;&amp; creatureTarget-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() != <a class="code hl_enumvalue" href="../../de/de6/a03848.html#abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08">NPC_SALVAGED_SIEGE_ENGINE</a>)</div>
+<div class="line"><span class="lineno"> 1303</span>        <span class="keywordflow">if</span> (creatureTarget-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() != <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91">NPC_SALVAGED_DEMOLISHER</a> &amp;&amp; creatureTarget-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() != <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08">NPC_SALVAGED_SIEGE_ENGINE</a>)</div>
 <div class="line"><span class="lineno"> 1304</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1305</span> </div>
 <div class="line"><span class="lineno"> 1307</span>        <a class="code hl_class" href="../../da/d80/a09102.html">Vehicle</a>* vehicle = creatureTarget-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#ae54fce65a1c084c982043777288895ec">GetVehicleKit</a>();</div>
 <div class="line"><span class="lineno"> 1308</span>        <span class="keywordflow">if</span> (!vehicle)</div>
 <div class="line"><span class="lineno"> 1309</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1310</span> </div>
-<div class="line"><span class="lineno"> 1312</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>() != <a class="code hl_enumvalue" href="../../d4/d22/a01250.html#ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb">AREA_FORMATION_GROUNDS</a>)</div>
+<div class="line"><span class="lineno"> 1312</span>        <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>() != <a class="code hl_enumvalue" href="../../d4/d5d/a01202.html#ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb">AREA_FORMATION_GROUNDS</a>)</div>
 <div class="line"><span class="lineno"> 1313</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1314</span> </div>
 <div class="line"><span class="lineno"> 1316</span>        <span class="keywordtype">bool</span> playerFound = <span class="keyword">false</span>;</div>
@@ -197,9 +197,9 @@ Public Member Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1320</span> </div>
 <div class="line"><span class="lineno"> 1321</span>        <span class="keywordflow">return</span> !playerFound;</div>
 <div class="line"><span class="lineno"> 1322</span>    }</div>
-<div class="ttc" id="aa01250_html_ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb"><div class="ttname"><a href="../../d4/d22/a01250.html#ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb">AREA_FORMATION_GROUNDS</a></div><div class="ttdeci">@ AREA_FORMATION_GROUNDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:163</div></div>
-<div class="ttc" id="aa03848_html_abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08"><div class="ttname"><a href="../../de/de6/a03848.html#abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08">NPC_SALVAGED_SIEGE_ENGINE</a></div><div class="ttdeci">@ NPC_SALVAGED_SIEGE_ENGINE</div><div class="ttdef"><b>Definition:</b> ulduar.h:200</div></div>
-<div class="ttc" id="aa03848_html_abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91"><div class="ttname"><a href="../../de/de6/a03848.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91">NPC_SALVAGED_DEMOLISHER</a></div><div class="ttdeci">@ NPC_SALVAGED_DEMOLISHER</div><div class="ttdef"><b>Definition:</b> ulduar.h:203</div></div>
+<div class="ttc" id="aa01202_html_ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb"><div class="ttname"><a href="../../d4/d5d/a01202.html#ad26fccabf338d55f9fdcce090c8a0aa3afdca2852662b5dc5a365f546c26a12bb">AREA_FORMATION_GROUNDS</a></div><div class="ttdeci">@ AREA_FORMATION_GROUNDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:163</div></div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a7dce7d2f61a5d6740ac0d01a363ffe08">NPC_SALVAGED_SIEGE_ENGINE</a></div><div class="ttdeci">@ NPC_SALVAGED_SIEGE_ENGINE</div><div class="ttdef"><b>Definition:</b> ulduar.h:200</div></div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2afe8992b531367c96a0d85a4270029e91">NPC_SALVAGED_DEMOLISHER</a></div><div class="ttdeci">@ NPC_SALVAGED_DEMOLISHER</div><div class="ttdef"><b>Definition:</b> ulduar.h:203</div></div>
 <div class="ttc" id="aa08306_html"><div class="ttname"><a href="../../d3/d02/a08306.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa08682_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
 <div class="ttc" id="aa08682_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
@@ -218,7 +218,7 @@ Public Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/dda/a20026.html">FlameLeviathanPursuedTargetSelector</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:51:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

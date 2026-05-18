@@ -1,16 +1,12 @@
 var a01124 =
 [
-    [ "LinkValidator< T >", "d0/d7a/a08030.html", "d0/d7a/a08030" ],
-    [ "LinkValidator< LinkTags::achievement >", "d9/d58/a08034.html", "d9/d58/a08034" ],
-    [ "LinkValidator< LinkTags::item >", "df/d60/a08038.html", "df/d60/a08038" ],
-    [ "LinkValidator< LinkTags::quest >", "db/d56/a08042.html", "db/d56/a08042" ],
-    [ "LinkValidator< LinkTags::spell >", "d3/d76/a08046.html", "d3/d76/a08046" ],
-    [ "LinkValidator< LinkTags::enchant >", "d3/d02/a08050.html", "d3/d02/a08050" ],
-    [ "LinkValidator< LinkTags::glyph >", "de/d82/a08054.html", "de/d82/a08054" ],
-    [ "LinkValidator< LinkTags::talent >", "df/d07/a08058.html", "df/d07/a08058" ],
-    [ "LinkValidator< LinkTags::trade >", "d1/d21/a08062.html", "d1/d21/a08062" ],
-    [ "TryValidateAs", "d0/dc8/a01124.html#af1c86bff85f30ff113d5f78421c280af", null ],
-    [ "toHex", "d0/dc8/a01124.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
-    [ "ValidateAs", "d0/dc8/a01124.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
-    [ "ValidateLinkInfo", "d0/dc8/a01124.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
+    [ "WorldPackets::Instance::InstanceReset", "d3/d4b/a11134.html", "d3/d4b/a11134" ],
+    [ "WorldPackets::Instance::InstanceResetFailed", "dd/dfb/a11138.html", "dd/dfb/a11138" ],
+    [ "WorldPackets::Instance::SetDungeonDifficulty", "d4/d25/a11142.html", "d4/d25/a11142" ],
+    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "d2/d4b/a11146.html", "d2/d4b/a11146" ],
+    [ "WorldPackets::Instance::ResetFailedNotify", "d3/dfc/a11150.html", "d3/dfc/a11150" ],
+    [ "WorldPackets::Instance::SetRaidDifficulty", "df/d70/a11154.html", "df/d70/a11154" ],
+    [ "WorldPackets::Instance::SetRaidDifficultyClient", "dd/d1c/a11158.html", "dd/d1c/a11158" ],
+    [ "WorldPackets::Instance::ResetInstances", "de/d4c/a11162.html", "de/d4c/a11162" ],
+    [ "WorldPackets::Instance::InstanceLockResponse", "de/df4/a11166.html", "de/df4/a11166" ]
 ];

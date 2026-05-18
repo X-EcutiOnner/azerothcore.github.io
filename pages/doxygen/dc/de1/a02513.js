@@ -1,5 +1,10 @@
 var a02513 =
 [
-    [ "ticket_commandscript", "db/d64/a12394.html", "db/d64/a12394" ],
-    [ "AddSC_ticket_commandscript", "dc/de1/a02513.html#ad71463f4442d2e022a92404a4d9dec76", null ]
+    [ "GameEventScript", "db/d96/a10662.html", "db/d96/a10662" ],
+    [ "GameEventHook", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

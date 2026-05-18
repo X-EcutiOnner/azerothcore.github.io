@@ -1,6 +1,11 @@
 var a01574 =
 [
-    [ "GenerateEnchSuffixFactor", "d9/df5/a01574.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d9/df5/a01574.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d9/df5/a01574.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "SpellEvent", "d5/d06/a11650.html", "d5/d06/a11650" ],
+    [ "DEBUG_TRAJ", "d9/df5/a01574.html#ac27bc73435b380df600d6da0b753a144", null ],
+    [ "GCDLimits", "d9/df5/a01574.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
+      [ "MIN_GCD", "d9/df5/a01574.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],
+      [ "MAX_GCD", "d9/df5/a01574.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c", null ]
+    ] ],
+    [ "tangent", "d9/df5/a01574.html#a885f76b28cf9930383ddf099d75ccef1", null ],
+    [ "SpellEffects", "d9/df5/a01574.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

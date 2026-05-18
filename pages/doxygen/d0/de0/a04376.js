@@ -1,30 +1,20 @@
 var a04376 =
 [
-    [ "AUTH_LOGON_CHALLENGE_C", "df/dc9/a05922.html", "df/dc9/a05922" ],
-    [ "AUTH_LOGON_PROOF_C", "de/d4c/a05926.html", "de/d4c/a05926" ],
-    [ "AUTH_LOGON_PROOF_S", "d8/d5e/a05930.html", "d8/d5e/a05930" ],
-    [ "AUTH_LOGON_PROOF_S_OLD", "da/d76/a05934.html", "da/d76/a05934" ],
-    [ "AUTH_RECONNECT_PROOF_C", "dc/d8f/a05938.html", "dc/d8f/a05938" ],
-    [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "d0/de0/a04376.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
-    [ "MAX_ACCEPTED_CHALLENGE_SIZE", "d0/de0/a04376.html#a2507a44fb848704cf4f3624207c18ebe", null ],
-    [ "REALM_LIST_PACKET_SIZE", "d0/de0/a04376.html#af848fed368789960f3d9e059f8002e11", null ],
-    [ "sAuthLogonChallenge_C", "d0/de0/a04376.html#af2b75a713ab063d15c0f303555dab7c2", null ],
-    [ "sAuthLogonProof_C", "d0/de0/a04376.html#ab50c6b56b4c56513ab11e4bee50a0116", null ],
-    [ "sAuthLogonProof_S", "d0/de0/a04376.html#a1241a754e900fac64f49cadc4e806321", null ],
-    [ "sAuthLogonProof_S_Old", "d0/de0/a04376.html#ad153c4ef5e20c186dfe08ed557a4100c", null ],
-    [ "sAuthReconnectProof_C", "d0/de0/a04376.html#aef6ea8864e443cf0d192820bb670a8d8", null ],
-    [ "eAuthCmd", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607b", [
-      [ "AUTH_LOGON_CHALLENGE", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48", null ],
-      [ "AUTH_LOGON_PROOF", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e", null ],
-      [ "AUTH_RECONNECT_CHALLENGE", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4", null ],
-      [ "AUTH_RECONNECT_PROOF", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3", null ],
-      [ "REALM_LIST", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc", null ],
-      [ "XFER_INITIATE", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5", null ],
-      [ "XFER_DATA", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7", null ],
-      [ "XFER_ACCEPT", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01", null ],
-      [ "XFER_RESUME", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5", null ],
-      [ "XFER_CANCEL", "d0/de0/a04376.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1", null ]
+    [ "npc_professor_phizzlethorpe", "df/df5/a13850.html", "df/df5/a13850" ],
+    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "d3/d19/a13854.html", "d3/d19/a13854" ],
+    [ "ProfessorPhizzlethorpe", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
+      [ "SAY_PROGRESS_1", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "EMOTE_PROGRESS_4", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
+      [ "SAY_AGGRO", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS_5", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
+      [ "SAY_PROGRESS_6", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
+      [ "SAY_PROGRESS_7", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
+      [ "EMOTE_PROGRESS_8", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
+      [ "SAY_PROGRESS_9", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
+      [ "QUEST_SUNKEN_TREASURE", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
+      [ "NPC_VENGEFUL_SURGE", "d0/de0/a04376.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
     ] ],
-    [ "Handlers", "d0/de0/a04376.html#a887a26fd84a0bf97f1016de6aeba4d4e", null ],
-    [ "VersionChallenge", "d0/de0/a04376.html#a242dcc388ff0edb5d5eca57953e61317", null ]
+    [ "AddSC_arathi_highlands", "d0/de0/a04376.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
 ];

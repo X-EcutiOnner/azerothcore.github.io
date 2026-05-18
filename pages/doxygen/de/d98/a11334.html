@@ -165,7 +165,7 @@ Public Member Functions</h2></td></tr>
 Public Attributes</h2></td></tr>
 <tr class="memitem:ab5e93d6c38efd311c701401ec03f7958"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d44/a08734.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d98/a11334.html#ab5e93d6c38efd311c701401ec03f7958">TrainerGUID</a></td></tr>
 <tr class="separator:ab5e93d6c38efd311c701401ec03f7958"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56a96a12b526f0e0cf89a6472c6a206b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b">TrainerType</a> = 0</td></tr>
+<tr class="memitem:a56a96a12b526f0e0cf89a6472c6a206b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b">TrainerType</a> = 0</td></tr>
 <tr class="separator:a56a96a12b526f0e0cf89a6472c6a206b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6b3a33adeeab2c09ac83e7e430312158"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d5/d8e/a11330.html">TrainerListSpell</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d98/a11334.html#a6b3a33adeeab2c09ac83e7e430312158">Spells</a></td></tr>
 <tr class="separator:a6b3a33adeeab2c09ac83e7e430312158"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -235,18 +235,18 @@ Additional Inherited Members</h2></td></tr>
 <p>Implements <a class="el" href="../../d5/db1/a10806.html#af7c79156d7b6cfe3142fc530f9ed262a">WorldPackets::Packet</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
 <div class="line"><span class="lineno">   27</span>    <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_variable" href="../../de/d98/a11334.html#ab5e93d6c38efd311c701401ec03f7958">TrainerGUID</a>;</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b">TrainerType</a>);</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_variable" href="../../de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b">TrainerType</a>);</div>
 <div class="line"><span class="lineno">   29</span> </div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_enumeration" href="../../d3/dcd/a00965.html#a5bd342133be8c2137b831460acc9298c">Spells</a>.size());</div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (TrainerListSpell <span class="keyword">const</span>&amp; spell : <a class="code hl_enumeration" href="../../d3/dcd/a00965.html#a5bd342133be8c2137b831460acc9298c">Spells</a>)</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(<a class="code hl_enumeration" href="../../df/d41/a00881.html#a5bd342133be8c2137b831460acc9298c">Spells</a>.size());</div>
+<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (TrainerListSpell <span class="keyword">const</span>&amp; spell : <a class="code hl_enumeration" href="../../df/d41/a00881.html#a5bd342133be8c2137b831460acc9298c">Spells</a>)</div>
 <div class="line"><span class="lineno">   32</span>    {</div>
-<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.SpellID);</div>
-<div class="line"><span class="lineno">   34</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.Usable);</div>
-<div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.MoneyCost);</div>
+<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.SpellID);</div>
+<div class="line"><span class="lineno">   34</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.Usable);</div>
+<div class="line"><span class="lineno">   35</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.MoneyCost);</div>
 <div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../dc/d80/a29094.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.PointCost.data(), spell.PointCost.size());</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.ReqLevel);</div>
-<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillLine);</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillRank);</div>
+<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(spell.ReqLevel);</div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillLine);</div>
+<div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a> &lt;&lt; <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>(spell.ReqSkillRank);</div>
 <div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>.<a class="code hl_function" href="../../dc/d80/a29094.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(spell.ReqAbility.data(), spell.ReqAbility.size());</div>
 <div class="line"><span class="lineno">   41</span>    }</div>
 <div class="line"><span class="lineno">   42</span> </div>
@@ -254,9 +254,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   44</span> </div>
 <div class="line"><span class="lineno">   45</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">_worldPacket</a>;</div>
 <div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aa00965_html_a5bd342133be8c2137b831460acc9298c"><div class="ttname"><a href="../../d3/dcd/a00965.html#a5bd342133be8c2137b831460acc9298c">Spells</a></div><div class="ttdeci">Spells</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:712</div></div>
-<div class="ttc" id="aa04580_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa04580_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00506_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
+<div class="ttc" id="aa00506_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d4/d1f/a00506.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa00881_html_a5bd342133be8c2137b831460acc9298c"><div class="ttname"><a href="../../df/d41/a00881.html#a5bd342133be8c2137b831460acc9298c">Spells</a></div><div class="ttdeci">Spells</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:712</div></div>
 <div class="ttc" id="aa10806_html_ab85f1c9f20117bc5015180165c7b458a"><div class="ttname"><a href="../../d5/db1/a10806.html#ab85f1c9f20117bc5015180165c7b458a">WorldPackets::Packet::_worldPacket</a></div><div class="ttdeci">WorldPacket _worldPacket</div><div class="ttdef"><b>Definition:</b> Packet.h:42</div></div>
 <div class="ttc" id="aa11334_html_a56a96a12b526f0e0cf89a6472c6a206b"><div class="ttname"><a href="../../de/d98/a11334.html#a56a96a12b526f0e0cf89a6472c6a206b">WorldPackets::NPC::TrainerList::TrainerType</a></div><div class="ttdeci">int32 TrainerType</div><div class="ttdef"><b>Definition:</b> NPCPackets.h:63</div></div>
 <div class="ttc" id="aa11334_html_ab5e93d6c38efd311c701401ec03f7958"><div class="ttname"><a href="../../de/d98/a11334.html#ab5e93d6c38efd311c701401ec03f7958">WorldPackets::NPC::TrainerList::TrainerGUID</a></div><div class="ttdeci">ObjectGuid TrainerGUID</div><div class="ttdef"><b>Definition:</b> NPCPackets.h:62</div></div>
@@ -323,7 +323,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::NPC::TrainerList::TrainerType = 0</td>
+          <td class="memname"><a class="el" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> WorldPackets::NPC::TrainerList::TrainerType = 0</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -338,7 +338,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d0b/a05080.html">WorldPackets</a></li><li class="navelem"><a class="el" href="../../d6/da5/a05100.html">NPC</a></li><li class="navelem"><a class="el" href="../../de/d98/a11334.html">TrainerList</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/CreatureAI.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/ChatCommands/ChatCommand.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,270 +106,192 @@ $(document).ready(function(){initNavTree('d6/d15/a01697.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">CreatureAI.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">ChatCommand.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaBoundary.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">EventMap.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ChatCommand.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Tokenize.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd6/a06470.html">CreatureAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc1/a07838.html">Acore::Impl::ChatCommands::FilteredCommandListIterator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a8de08a341cdd207e19eef425c2f5f152"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a8de08a341cdd207e19eef425c2f5f152">TIME_INTERVAL_LOOK</a>&#160;&#160;&#160;5000</td></tr>
-<tr class="separator:a8de08a341cdd207e19eef425c2f5f152"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5548091cca58d569e4226b6915ec8cb2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a5548091cca58d569e4226b6915ec8cb2">VISIBILITY_RANGE</a>&#160;&#160;&#160;10000</td></tr>
-<tr class="separator:a5548091cca58d569e4226b6915ec8cb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dc/d61/a05028"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d61/a05028.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d3/d40/a05040"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d40/a05040.html">Acore::Impl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d2/d3f/a05069"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d3f/a05069.html">Acore::Impl::ChatCommands</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:a7994a32cb10f6de9d90e32ef2d6c1f37"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d2/d7a/a10082.html">AreaBoundary</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a7994a32cb10f6de9d90e32ef2d6c1f37">CreatureBoundary</a></td></tr>
-<tr class="separator:a7994a32cb10f6de9d90e32ef2d6c1f37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a306b7e46fd4791f088a8919720238f3d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> = std::map&lt; std::string_view, <a class="el" href="../../d0/db7/a07866.html">Acore::Impl::ChatCommands::ChatCommandNode</a>, <a class="el" href="../../d7/d6f/a05910.html">StringCompareLessI_T</a> &gt;</td></tr>
+<tr class="separator:a306b7e46fd4791f088a8919720238f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a09291ebbaa06245b9f65d046a8b67621"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621">SelectTargetType</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749">SELECT_TARGET_DONTCARE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a">SELECT_TARGET_SELF</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261">SELECT_TARGET_SINGLE_ENEMY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4">SELECT_TARGET_AOE_ENEMY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508">SELECT_TARGET_ANY_ENEMY</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb">SELECT_TARGET_SINGLE_FRIEND</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38">SELECT_TARGET_AOE_FRIEND</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3">SELECT_TARGET_ANY_FRIEND</a>
-<br />
- }</td></tr>
-<tr class="separator:a09291ebbaa06245b9f65d046a8b67621"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b21f6463e7db78be55dee9160352869"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869">SelectEffect</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9">SELECT_EFFECT_DONTCARE</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae">SELECT_EFFECT_DAMAGE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404">SELECT_EFFECT_HEALING</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5">SELECT_EFFECT_AURA</a>
-<br />
- }</td></tr>
-<tr class="separator:a8b21f6463e7db78be55dee9160352869"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8561d766fce1bb059293efa6256c9717"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717">SCEquip</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2">EQUIP_NO_CHANGE</a> = -1
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c">EQUIP_UNEQUIP</a> = 0
-<br />
- }</td></tr>
-<tr class="separator:a8561d766fce1bb059293efa6256c9717"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf806592547de59418c6070d69c5efb9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9">Permitions</a> : int32 { <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a> = -1
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0">PERMIT_BASE_IDLE</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58">PERMIT_BASE_REACTIVE</a> = 100
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c">PERMIT_BASE_PROACTIVE</a> = 200
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059">PERMIT_BASE_FACTION_SPECIFIC</a> = 400
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415">PERMIT_BASE_SPECIAL</a> = 800
-<br />
- }</td></tr>
-<tr class="separator:adf806592547de59418c6070d69c5efb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a8dc2bbcf5b90559262a46829632f332e"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a8dc2bbcf5b90559262a46829632f332e">LogCommandUsage</a> (<a class="el" href="../../db/d39/a11578.html">WorldSession</a> const &amp;session, std::string_view cmdStr)</td></tr>
+<tr class="separator:a8dc2bbcf5b90559262a46829632f332e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a569e79432c3876f4ac0b961e8a783003"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d15/a01697.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d15/a01697.html#a569e79432c3876f4ac0b961e8a783003">COMMAND_MAP</a></td></tr>
+<tr class="separator:a569e79432c3876f4ac0b961e8a783003"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a8de08a341cdd207e19eef425c2f5f152" name="a8de08a341cdd207e19eef425c2f5f152"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8de08a341cdd207e19eef425c2f5f152">&#9670;&#160;</a></span>TIME_INTERVAL_LOOK</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define TIME_INTERVAL_LOOK&#160;&#160;&#160;5000</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5548091cca58d569e4226b6915ec8cb2" name="a5548091cca58d569e4226b6915ec8cb2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5548091cca58d569e4226b6915ec8cb2">&#9670;&#160;</a></span>VISIBILITY_RANGE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define VISIBILITY_RANGE&#160;&#160;&#160;10000</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="a7994a32cb10f6de9d90e32ef2d6c1f37" name="a7994a32cb10f6de9d90e32ef2d6c1f37"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7994a32cb10f6de9d90e32ef2d6c1f37">&#9670;&#160;</a></span>CreatureBoundary</h2>
+<a id="a306b7e46fd4791f088a8919720238f3d" name="a306b7e46fd4791f088a8919720238f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a306b7e46fd4791f088a8919720238f3d">&#9670;&#160;</a></span>ChatSubCommandMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d2/d7a/a10082.html">AreaBoundary</a> const*&gt; <a class="el" href="../../d6/d15/a01697.html#a7994a32cb10f6de9d90e32ef2d6c1f37">CreatureBoundary</a></td>
+          <td class="memname">using <a class="el" href="../../d6/d15/a01697.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> =  std::map&lt;std::string_view, <a class="el" href="../../d0/db7/a07866.html">Acore::Impl::ChatCommands::ChatCommandNode</a>, <a class="el" href="../../d7/d6f/a05910.html">StringCompareLessI_T</a>&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="adf806592547de59418c6070d69c5efb9" name="adf806592547de59418c6070d69c5efb9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf806592547de59418c6070d69c5efb9">&#9670;&#160;</a></span>Permitions</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a8dc2bbcf5b90559262a46829632f332e" name="a8dc2bbcf5b90559262a46829632f332e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8dc2bbcf5b90559262a46829632f332e">&#9670;&#160;</a></span>LogCommandUsage()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9">Permitions</a> : <a class="el" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></td>
+          <td class="memname">static void LogCommandUsage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d39/a11578.html">WorldSession</a> const &amp;&#160;</td>
+          <td class="paramname"><em>session</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>cmdStr</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0" name="adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0"></a>PERMIT_BASE_NO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0" name="adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0"></a>PERMIT_BASE_IDLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58" name="adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58"></a>PERMIT_BASE_REACTIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c" name="adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c"></a>PERMIT_BASE_PROACTIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059" name="adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059"></a>PERMIT_BASE_FACTION_SPECIFIC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415" name="adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415"></a>PERMIT_BASE_SPECIAL&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  287</span>{</div>
-<div class="line"><span class="lineno">  288</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a>                 = -1,</div>
-<div class="line"><span class="lineno">  289</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0">PERMIT_BASE_IDLE</a>               = 1,</div>
-<div class="line"><span class="lineno">  290</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58">PERMIT_BASE_REACTIVE</a>           = 100,</div>
-<div class="line"><span class="lineno">  291</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c">PERMIT_BASE_PROACTIVE</a>          = 200,</div>
-<div class="line"><span class="lineno">  292</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059">PERMIT_BASE_FACTION_SPECIFIC</a>   = 400,</div>
-<div class="line"><span class="lineno">  293</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415">PERMIT_BASE_SPECIAL</a>            = 800</div>
-<div class="line"><span class="lineno">  294</span>};</div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a01dc7d3add2acacf44721592378df415">PERMIT_BASE_SPECIAL</a></div><div class="ttdeci">@ PERMIT_BASE_SPECIAL</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:293</div></div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a06a019c60b174cae59e682299512d78c">PERMIT_BASE_PROACTIVE</a></div><div class="ttdeci">@ PERMIT_BASE_PROACTIVE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:291</div></div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a3ea8686bf6c00259f435df8f34da17c0">PERMIT_BASE_NO</a></div><div class="ttdeci">@ PERMIT_BASE_NO</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:288</div></div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a8781eb0d588151b618bd98b03423dc58">PERMIT_BASE_REACTIVE</a></div><div class="ttdeci">@ PERMIT_BASE_REACTIVE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:290</div></div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9a9935ee057ed82483ff6a6363709db059">PERMIT_BASE_FACTION_SPECIFIC</a></div><div class="ttdeci">@ PERMIT_BASE_FACTION_SPECIFIC</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:292</div></div>
-<div class="ttc" id="aa01697_html_adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0"><div class="ttname"><a href="../../d6/d15/a01697.html#adf806592547de59418c6070d69c5efb9aa30fb6bbae2f275b7c269df6b7bac2c0">PERMIT_BASE_IDLE</a></div><div class="ttdeci">@ PERMIT_BASE_IDLE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:289</div></div>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  157</span>{</div>
+<div class="line"><span class="lineno">  158</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d6/d0b/a06214.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a>(session.GetSecurity()))</div>
+<div class="line"><span class="lineno">  159</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    <a class="code hl_class" href="../../d6/d9a/a08934.html">Player</a>* player = session.GetPlayer();</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_class" href="../../d9/d44/a08734.html">ObjectGuid</a> targetGuid = player-&gt;<a class="code hl_function" href="../../dc/d3e/a09066.html#af387d5e18806e37f65ebc3408c0b8712">GetTarget</a>();</div>
+<div class="line"><span class="lineno">  163</span>    <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> areaId = player-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#acdd585ef58eb876c506389ff96a4fbd9">GetAreaId</a>();</div>
+<div class="line"><span class="lineno">  164</span>    <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> zoneId = player-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
+<div class="line"><span class="lineno">  165</span>    std::string areaName = <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  166</span>    std::string zoneName = <span class="stringliteral">&quot;Unknown&quot;</span>;</div>
+<div class="line"><span class="lineno">  167</span>    <a class="code hl_enumeration" href="../../de/d25/a00290.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> locale = <a class="code hl_define" href="../../db/d39/a05023.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;GetDefaultDbcLocale();</div>
+<div class="line"><span class="lineno">  168</span> </div>
+<div class="line"><span class="lineno">  169</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../db/d4e/a28626.html">AreaTableEntry</a> <span class="keyword">const</span>* area = <a class="code hl_variable" href="../../d9/d6f/a01445.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(areaId))</div>
+<div class="line"><span class="lineno">  170</span>    {</div>
+<div class="line"><span class="lineno">  171</span>        areaName = area-&gt;area_name[locale];</div>
+<div class="line"><span class="lineno">  172</span>    }</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>    <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../db/d4e/a28626.html">AreaTableEntry</a> <span class="keyword">const</span>* zone = <a class="code hl_variable" href="../../d9/d6f/a01445.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>.LookupEntry(zoneId))</div>
+<div class="line"><span class="lineno">  175</span>    {</div>
+<div class="line"><span class="lineno">  176</span>        zoneName = zone-&gt;area_name[locale];</div>
+<div class="line"><span class="lineno">  177</span>    }</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>    std::string logMessage = <a class="code hl_function" href="../../dc/d61/a05028.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a>(<span class="stringliteral">&quot;Command: {} [Player: {} ({}) (Account: {}) X: {} Y: {} Z: {} Map: {} ({}) Area: {} ({}) Zone: {} ({}) Selected: {} ({})]&quot;</span>,</div>
+<div class="line"><span class="lineno">  180</span>        cmdStr, player-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>(), player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d9/d44/a08734.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>(),</div>
+<div class="line"><span class="lineno">  181</span>        session.GetAccountId(),</div>
+<div class="line"><span class="lineno">  182</span>        player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ad5577c934d9e845b44759b67c534c3e8">GetPositionX</a>(), player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">GetPositionY</a>(), player-&gt;<a class="code hl_function" href="../../d6/d2d/a08766.html#a4e813a59345a6275e8b87b96be03e60b">GetPositionZ</a>(), player-&gt;<a class="code hl_function" href="../../d0/d6f/a08782.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">GetMapId</a>(),</div>
+<div class="line"><span class="lineno">  183</span>        player-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>() ? player-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a1e43fee59e696ae47ed06191ae3b1b82">FindMap</a>()-&gt;<a class="code hl_function" href="../../d6/dd4/a10142.html#ac6e125affc167d59afd4af38f4791b01">GetMapName</a>() : <span class="stringliteral">&quot;Unknown&quot;</span>,</div>
+<div class="line"><span class="lineno">  184</span>        areaId, areaName, zoneId, zoneName,</div>
+<div class="line"><span class="lineno">  185</span>        (player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ac7d583e914a735322c3d47a57a0c1645">GetSelectedUnit</a>()) ? player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#ac7d583e914a735322c3d47a57a0c1645">GetSelectedUnit</a>()-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a7e67658eb5aa058bc7f46bf6b11a797c">GetName</a>() : <span class="stringliteral">&quot;&quot;</span>,</div>
+<div class="line"><span class="lineno">  186</span>        targetGuid.<a class="code hl_function" href="../../d9/d44/a08734.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>());</div>
+<div class="line"><span class="lineno">  187</span> </div>
+<div class="line"><span class="lineno">  188</span>    <a class="code hl_define" href="../../d4/d14/a00608.html#aeeb132f13796dfa459eb05386acff8fe">LOG_GM</a>(session.GetAccountId(), logMessage);</div>
+<div class="line"><span class="lineno">  189</span>}</div>
+<div class="ttc" id="aa00290_html_a54c9b637be7283ba1a04fb5215594332"><div class="ttname"><a href="../../de/d25/a00290.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a></div><div class="ttdeci">LocaleConstant</div><div class="ttdef"><b>Definition:</b> Common.h:117</div></div>
+<div class="ttc" id="aa00506_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00608_html_aeeb132f13796dfa459eb05386acff8fe"><div class="ttname"><a href="../../d4/d14/a00608.html#aeeb132f13796dfa459eb05386acff8fe">LOG_GM</a></div><div class="ttdeci">#define LOG_GM(accountId__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:164</div></div>
+<div class="ttc" id="aa01445_html_aedcdbef7c215330459e17b2f224ff0e3"><div class="ttname"><a href="../../d9/d6f/a01445.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a></div><div class="ttdeci">DBCStorage&lt; AreaTableEntry &gt; sAreaTableStore(AreaTableEntryfmt)</div></div>
+<div class="ttc" id="aa05023_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../db/d39/a05023.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
+<div class="ttc" id="aa05028_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../dc/d61/a05028.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
+<div class="ttc" id="aa06214_html_a63751f144cb7acb57fc20f0caf5e7043"><div class="ttname"><a href="../../d6/d0b/a06214.html#a63751f144cb7acb57fc20f0caf5e7043">AccountMgr::IsPlayerAccount</a></div><div class="ttdeci">static bool IsPlayerAccount(uint32 gmlevel)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:324</div></div>
+<div class="ttc" id="aa08682_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
+<div class="ttc" id="aa08718_html_a1e43fee59e696ae47ed06191ae3b1b82"><div class="ttname"><a href="../../da/d2c/a08718.html#a1e43fee59e696ae47ed06191ae3b1b82">WorldObject::FindMap</a></div><div class="ttdeci">Map * FindMap() const</div><div class="ttdef"><b>Definition:</b> Object.h:626</div></div>
+<div class="ttc" id="aa08718_html_a7e67658eb5aa058bc7f46bf6b11a797c"><div class="ttname"><a href="../../da/d2c/a08718.html#a7e67658eb5aa058bc7f46bf6b11a797c">WorldObject::GetName</a></div><div class="ttdeci">std::string const &amp; GetName() const</div><div class="ttdef"><b>Definition:</b> Object.h:528</div></div>
+<div class="ttc" id="aa08718_html_acdd585ef58eb876c506389ff96a4fbd9"><div class="ttname"><a href="../../da/d2c/a08718.html#acdd585ef58eb876c506389ff96a4fbd9">WorldObject::GetAreaId</a></div><div class="ttdeci">uint32 GetAreaId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3119</div></div>
+<div class="ttc" id="aa08718_html_ad498d690fbe69bb99a8a2ffdcb2f5169"><div class="ttname"><a href="../../da/d2c/a08718.html#ad498d690fbe69bb99a8a2ffdcb2f5169">WorldObject::GetZoneId</a></div><div class="ttdeci">uint32 GetZoneId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3111</div></div>
+<div class="ttc" id="aa08734_html"><div class="ttname"><a href="../../d9/d44/a08734.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
+<div class="ttc" id="aa08734_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d9/d44/a08734.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
+<div class="ttc" id="aa08766_html_a4e813a59345a6275e8b87b96be03e60b"><div class="ttname"><a href="../../d6/d2d/a08766.html#a4e813a59345a6275e8b87b96be03e60b">Position::GetPositionZ</a></div><div class="ttdeci">float GetPositionZ() const</div><div class="ttdef"><b>Definition:</b> Position.h:123</div></div>
+<div class="ttc" id="aa08766_html_ad5577c934d9e845b44759b67c534c3e8"><div class="ttname"><a href="../../d6/d2d/a08766.html#ad5577c934d9e845b44759b67c534c3e8">Position::GetPositionX</a></div><div class="ttdeci">float GetPositionX() const</div><div class="ttdef"><b>Definition:</b> Position.h:121</div></div>
+<div class="ttc" id="aa08766_html_ae79fc664f6cd027f5d49f6c7df8e4c9e"><div class="ttname"><a href="../../d6/d2d/a08766.html#ae79fc664f6cd027f5d49f6c7df8e4c9e">Position::GetPositionY</a></div><div class="ttdeci">float GetPositionY() const</div><div class="ttdef"><b>Definition:</b> Position.h:122</div></div>
+<div class="ttc" id="aa08782_html_a2682e56ae4f0ce4b517a8ba3cd2798b1"><div class="ttname"><a href="../../d0/d6f/a08782.html#a2682e56ae4f0ce4b517a8ba3cd2798b1">WorldLocation::GetMapId</a></div><div class="ttdeci">uint32 GetMapId() const</div><div class="ttdef"><b>Definition:</b> Position.h:281</div></div>
+<div class="ttc" id="aa08934_html"><div class="ttname"><a href="../../d6/d9a/a08934.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
+<div class="ttc" id="aa08934_html_ac7d583e914a735322c3d47a57a0c1645"><div class="ttname"><a href="../../d6/d9a/a08934.html#ac7d583e914a735322c3d47a57a0c1645">Player::GetSelectedUnit</a></div><div class="ttdeci">Unit * GetSelectedUnit() const</div><div class="ttdef"><b>Definition:</b> Player.cpp:11482</div></div>
+<div class="ttc" id="aa09066_html_af387d5e18806e37f65ebc3408c0b8712"><div class="ttname"><a href="../../dc/d3e/a09066.html#af387d5e18806e37f65ebc3408c0b8712">Unit::GetTarget</a></div><div class="ttdeci">ObjectGuid GetTarget() const</div><div class="ttdef"><b>Definition:</b> Unit.h:861</div></div>
+<div class="ttc" id="aa10142_html_ac6e125affc167d59afd4af38f4791b01"><div class="ttname"><a href="../../d6/dd4/a10142.html#ac6e125affc167d59afd4af38f4791b01">Map::GetMapName</a></div><div class="ttdeci">const char * GetMapName() const</div><div class="ttdef"><b>Definition:</b> Map.cpp:1611</div></div>
+<div class="ttc" id="aa28626_html"><div class="ttname"><a href="../../db/d4e/a28626.html">AreaTableEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:519</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00626">WorldObject::FindMap()</a>, <a class="el" href="../../#l00453">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l03119">WorldObject::GetAreaId()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00281">WorldLocation::GetMapId()</a>, <a class="el" href="../../#l01611">Map::GetMapName()</a>, <a class="el" href="../../#l00528">WorldObject::GetName()</a>, <a class="el" href="../../#l00454">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00121">Position::GetPositionX()</a>, <a class="el" href="../../#l00122">Position::GetPositionY()</a>, <a class="el" href="../../#l00123">Position::GetPositionZ()</a>, <a class="el" href="../../#l00441">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l11482">Player::GetSelectedUnit()</a>, <a class="el" href="../../#l00861">Unit::GetTarget()</a>, <a class="el" href="../../#l03111">WorldObject::GetZoneId()</a>, <a class="el" href="../../#l00324">AccountMgr::IsPlayerAccount()</a>, <a class="el" href="../../#l00164">LOG_GM</a>, <a class="el" href="../../d9/d6f/a01445.html#aedcdbef7c215330459e17b2f224ff0e3">sAreaTableStore</a>, <a class="el" href="../../#l00044">Acore::StringFormat()</a>, <a class="el" href="../../#l00317">sWorld</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00275">Acore::Impl::ChatCommands::ChatCommandNode::TryExecuteCommand()</a>.</p>
+
 </div>
 </div>
-<a id="a8561d766fce1bb059293efa6256c9717" name="a8561d766fce1bb059293efa6256c9717"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8561d766fce1bb059293efa6256c9717">&#9670;&#160;</a></span>SCEquip</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a569e79432c3876f4ac0b961e8a783003" name="a569e79432c3876f4ac0b961e8a783003"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a569e79432c3876f4ac0b961e8a783003">&#9670;&#160;</a></span>COMMAND_MAP</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717">SCEquip</a></td>
+          <td class="memname"><a class="el" href="../../d6/d15/a01697.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> COMMAND_MAP</td>
         </tr>
       </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2" name="a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2"></a>EQUIP_NO_CHANGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c" name="a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c"></a>EQUIP_UNEQUIP&#160;</td><td class="fielddoc"></td></tr>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2">EQUIP_NO_CHANGE</a> = -1,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c">EQUIP_UNEQUIP</a>   = 0</div>
-<div class="line"><span class="lineno">   66</span>};</div>
-<div class="ttc" id="aa01697_html_a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c"><div class="ttname"><a href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a435fadd0e5fa209afb6fd9363afbe54c">EQUIP_UNEQUIP</a></div><div class="ttdeci">@ EQUIP_UNEQUIP</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:65</div></div>
-<div class="ttc" id="aa01697_html_a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2"><div class="ttname"><a href="../../d6/d15/a01697.html#a8561d766fce1bb059293efa6256c9717a52eb65358cd8ffabf53e7104b78e95a2">EQUIP_NO_CHANGE</a></div><div class="ttdeci">@ EQUIP_NO_CHANGE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:64</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a8b21f6463e7db78be55dee9160352869" name="a8b21f6463e7db78be55dee9160352869"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8b21f6463e7db78be55dee9160352869">&#9670;&#160;</a></span>SelectEffect</h2>
+</div><div class="memdoc">
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869">SelectEffect</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9" name="a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9"></a>SELECT_EFFECT_DONTCARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae" name="a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae"></a>SELECT_EFFECT_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404" name="a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404"></a>SELECT_EFFECT_HEALING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5" name="a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5"></a>SELECT_EFFECT_AURA&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9">SELECT_EFFECT_DONTCARE</a> = 0,                             <span class="comment">//All spell effects allowed</span></div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae">SELECT_EFFECT_DAMAGE</a>,                                   <span class="comment">//Spell does damage</span></div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404">SELECT_EFFECT_HEALING</a>,                                  <span class="comment">//Spell does healing</span></div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5">SELECT_EFFECT_AURA</a>,                                     <span class="comment">//Spell applies an aura</span></div>
-<div class="line"><span class="lineno">   60</span>};</div>
-<div class="ttc" id="aa01697_html_a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9"><div class="ttname"><a href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a391dc42f0a158e8fdffbc0b18d9250e9">SELECT_EFFECT_DONTCARE</a></div><div class="ttdeci">@ SELECT_EFFECT_DONTCARE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:56</div></div>
-<div class="ttc" id="aa01697_html_a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5"><div class="ttname"><a href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a5e73a49eeb722bf496ce76b4448280e5">SELECT_EFFECT_AURA</a></div><div class="ttdeci">@ SELECT_EFFECT_AURA</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:59</div></div>
-<div class="ttc" id="aa01697_html_a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404"><div class="ttname"><a href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869a7c5e00f75a32eb7e8f1a5ea2dcb7d404">SELECT_EFFECT_HEALING</a></div><div class="ttdeci">@ SELECT_EFFECT_HEALING</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:58</div></div>
-<div class="ttc" id="aa01697_html_a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae"><div class="ttname"><a href="../../d6/d15/a01697.html#a8b21f6463e7db78be55dee9160352869ae1b4806793cac829bda8b64d0233adae">SELECT_EFFECT_DAMAGE</a></div><div class="ttdeci">@ SELECT_EFFECT_DAMAGE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:57</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a09291ebbaa06245b9f65d046a8b67621" name="a09291ebbaa06245b9f65d046a8b67621"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09291ebbaa06245b9f65d046a8b67621">&#9670;&#160;</a></span>SelectTargetType</h2>
+<p class="reference">Referenced by <a class="el" href="../../#l00070">Acore::Impl::ChatCommands::ChatCommandNode::GetTopLevelMap()</a>, <a class="el" href="../../#l00077">Acore::Impl::ChatCommands::ChatCommandNode::InvalidateCommandMap()</a>, and <a class="el" href="../../#l00082">Acore::Impl::ChatCommands::ChatCommandNode::LoadCommandMap()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621">SelectTargetType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749" name="a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749"></a>SELECT_TARGET_DONTCARE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a" name="a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a"></a>SELECT_TARGET_SELF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261" name="a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261"></a>SELECT_TARGET_SINGLE_ENEMY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4" name="a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4"></a>SELECT_TARGET_AOE_ENEMY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508" name="a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508"></a>SELECT_TARGET_ANY_ENEMY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb" name="a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb"></a>SELECT_TARGET_SINGLE_FRIEND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38" name="a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38"></a>SELECT_TARGET_AOE_FRIEND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3" name="a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3"></a>SELECT_TARGET_ANY_FRIEND&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749">SELECT_TARGET_DONTCARE</a> = 0,                             <span class="comment">//All target types allowed</span></div>
-<div class="line"><span class="lineno">   41</span> </div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a">SELECT_TARGET_SELF</a>,                                     <span class="comment">//Only Self casting</span></div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261">SELECT_TARGET_SINGLE_ENEMY</a>,                             <span class="comment">//Only Single Enemy</span></div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4">SELECT_TARGET_AOE_ENEMY</a>,                                <span class="comment">//Only AoE Enemy</span></div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508">SELECT_TARGET_ANY_ENEMY</a>,                                <span class="comment">//AoE or Single Enemy</span></div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb">SELECT_TARGET_SINGLE_FRIEND</a>,                            <span class="comment">//Only Single Friend</span></div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38">SELECT_TARGET_AOE_FRIEND</a>,                               <span class="comment">//Only AoE Friend</span></div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3">SELECT_TARGET_ANY_FRIEND</a>,                               <span class="comment">//AoE or Single Friend</span></div>
-<div class="line"><span class="lineno">   51</span>};</div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a0af0a125ae9df4fecd57d759643832b3">SELECT_TARGET_ANY_FRIEND</a></div><div class="ttdeci">@ SELECT_TARGET_ANY_FRIEND</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:50</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a21f9e37e67ab22ebd4bec53351757e38">SELECT_TARGET_AOE_FRIEND</a></div><div class="ttdeci">@ SELECT_TARGET_AOE_FRIEND</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:49</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a25807921690235c31bdc32b599e04508">SELECT_TARGET_ANY_ENEMY</a></div><div class="ttdeci">@ SELECT_TARGET_ANY_ENEMY</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:46</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a316f9dbbb2b5f3bc0667436767f540cb">SELECT_TARGET_SINGLE_FRIEND</a></div><div class="ttdeci">@ SELECT_TARGET_SINGLE_FRIEND</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:48</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a371e0b7a2a0f1bc7809a2651c1ee6261">SELECT_TARGET_SINGLE_ENEMY</a></div><div class="ttdeci">@ SELECT_TARGET_SINGLE_ENEMY</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:44</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621a3a0e529ee20cdfb171df9e8d67f0f749">SELECT_TARGET_DONTCARE</a></div><div class="ttdeci">@ SELECT_TARGET_DONTCARE</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:40</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621ae0e226db3f7e8c664ce1958c8fdc8e4a">SELECT_TARGET_SELF</a></div><div class="ttdeci">@ SELECT_TARGET_SELF</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:42</div></div>
-<div class="ttc" id="aa01697_html_a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4"><div class="ttname"><a href="../../d6/d15/a01697.html#a09291ebbaa06245b9f65d046a8b67621af8f6f83b9b85f662ac5ce0dfb463daa4">SELECT_TARGET_AOE_ENEMY</a></div><div class="ttdeci">@ SELECT_TARGET_AOE_ENEMY</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:45</div></div>
-</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -377,8 +299,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../d6/d15/a01697.html">CreatureAI.h</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:52:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dir_c82f813a65ca3ac2a4f36b7f63ade20a.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d6/d15/a01697.html">ChatCommand.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

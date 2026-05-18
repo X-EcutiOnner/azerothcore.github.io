@@ -1,4 +1,4 @@
 var a00473 =
 [
-    [ "ScriptRegistry< AllGameObjectScript >", "dc/d8e/a00473.html#a60896f2f8318a9eeba3e23357a17292f", null ]
+    [ "Acore::Crypto::SRP6", "d9/da5/a05434.html", "d9/da5/a05434" ]
 ];

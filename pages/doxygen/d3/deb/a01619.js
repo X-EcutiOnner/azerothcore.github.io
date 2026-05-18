@@ -1,4 +1,11 @@
 var a01619 =
 [
-    [ "ApplySpellFix", "d3/deb/a01619.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "SkillDiscoveryEntry", "de/dff/a11614.html", "de/dff/a11614" ],
+    [ "SkillDiscoveryList", "d3/deb/a01619.html#a0c80a6b86b3b7bd5e9c238efa802919b", null ],
+    [ "SkillDiscoveryMap", "d3/deb/a01619.html#ab7ec6a8662e4edd3167deb3c917d2eab", null ],
+    [ "GetExplicitDiscoverySpell", "d3/deb/a01619.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d3/deb/a01619.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d3/deb/a01619.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d3/deb/a01619.html#addd95f0a239a27ed32cd943aa1052019", null ],
+    [ "SkillDiscoveryStore", "d3/deb/a01619.html#a1d624484e07efeeabc8a73a10c75ca4d", null ]
 ];

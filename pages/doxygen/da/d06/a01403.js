@@ -1,21 +1,17 @@
 var a01403 =
 [
-    [ "Totem", "d1/d82/a08974.html", "d1/d82/a08974" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "da/d06/a01403.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "da/d06/a01403.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "da/d06/a01403.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "da/d06/a01403.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "da/d06/a01403.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "da/d06/a01403.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "da/d06/a01403.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "da/d06/a01403.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "da/d06/a01403.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "da/d06/a01403.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "da/d06/a01403.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "da/d06/a01403.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "da/d06/a01403.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "da/d06/a01403.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    [ "Petition", "d6/df4/a10490.html", "d6/df4/a10490" ],
+    [ "Signatures", "de/da7/a10494.html", "de/da7/a10494" ],
+    [ "PetitionMgr", "d2/d5f/a10498.html", "d2/d5f/a10498" ],
+    [ "CHARTER_DISPLAY_ID", "da/d06/a01403.html#a33856c1d078b61fa0516a63176297c49", null ],
+    [ "sPetitionMgr", "da/d06/a01403.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
+    [ "PetitionContainer", "da/d06/a01403.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
+    [ "SignatureContainer", "da/d06/a01403.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
+    [ "SignatureMap", "da/d06/a01403.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
+    [ "CharterItemIDs", "da/d06/a01403.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
+      [ "GUILD_CHARTER", "da/d06/a01403.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
+      [ "ARENA_TEAM_CHARTER_2v2", "da/d06/a01403.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
+      [ "ARENA_TEAM_CHARTER_3v3", "da/d06/a01403.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
+      [ "ARENA_TEAM_CHARTER_5v5", "da/d06/a01403.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
     ] ]
 ];

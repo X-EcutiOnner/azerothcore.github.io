@@ -1,6 +1,6 @@
 var a00200 =
 [
-    [ "GetLibraryVersion", "d3/db1/a00200.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
-    [ "Library_End", "d3/db1/a00200.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
-    [ "Library_Init", "d3/db1/a00200.html#a70b74137156f0a22792c3cf95c54decc", null ]
+    [ "IpLocationRecord", "dc/d69/a05614.html", "dc/d69/a05614" ],
+    [ "IpLocationStore", "d4/dff/a05618.html", "d4/dff/a05618" ],
+    [ "sIPLocation", "d3/db1/a00200.html#a85e62bd98f395189fea9c9514d44fc31", null ]
 ];

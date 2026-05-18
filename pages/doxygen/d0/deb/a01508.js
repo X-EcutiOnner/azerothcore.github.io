@@ -1,5 +1,4 @@
 var a01508 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/d1a/a22270.html", "dd/d1a/a22270" ],
-    [ "AddSC_outdoorpvp_zm", "d0/deb/a01508.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "dd/d60/a09490.html", "dd/d60/a09490" ]
 ];

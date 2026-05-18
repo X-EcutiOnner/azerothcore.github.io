@@ -1,14 +1,12 @@
 var a02270 =
 [
-    [ "npc_cairne_bloodhoof", "d3/d99/a16010.html", "d3/d99/a16010" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "d5/df2/a16014.html", "d5/df2/a16014" ],
-    [ "CairneBloodhoof", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9", [
-      [ "SPELL_BERSERKER_CHARGE", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
-      [ "SPELL_CLEAVE", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_MORTAL_STRIKE", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_THUNDERCLAP", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_UPPERCUT", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
-      [ "SPELL_CAIRNES_HOOFPRINT", "d4/de7/a02270.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
-    ] ],
-    [ "AddSC_thunder_bluff", "d4/de7/a02270.html#ae5d674fbd346082d81f6f6720eed1081", null ]
+    [ "WaypointNode", "d9/d15/a10454.html", "d9/d15/a10454" ],
+    [ "WaypointPath", "d6/d6e/a10458.html", "d6/d6e/a10458" ],
+    [ "WaypointMoveType", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863", [
+      [ "WAYPOINT_MOVE_TYPE_WALK", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff", null ],
+      [ "WAYPOINT_MOVE_TYPE_RUN", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55", null ],
+      [ "WAYPOINT_MOVE_TYPE_LAND", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863a3190ebe456b4d1effe17f57ecc3379fa", null ],
+      [ "WAYPOINT_MOVE_TYPE_TAKEOFF", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863a6c91e1f2cbadf7be7393f34b5de1b843", null ],
+      [ "WAYPOINT_MOVE_TYPE_MAX", "d4/de7/a02270.html#ac26115060a1cd0169937b206edddd863a32847b8584f9ff3ce07eb01923c37188", null ]
+    ] ]
 ];

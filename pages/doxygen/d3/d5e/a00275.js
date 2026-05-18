@@ -1,6 +1,6 @@
 var a00275 =
 [
-    [ "ResultIterator< T >", "d8/d6b/a06129.html", "d8/d6b/a06129" ],
-    [ "ResultSet", "df/d91/a06133.html", "df/d91/a06133" ],
-    [ "PreparedResultSet", "db/df7/a06137.html", "db/df7/a06137" ]
+    [ "VMAP::IntersectionCallBack< TValue >", "d1/df3/a05390.html", "d1/df3/a05390" ],
+    [ "VMAP::MyCollisionDetection", "d5/d84/a05394.html", "d5/d84/a05394" ],
+    [ "IR", "d3/d5e/a00275.html#aa54c7fcd0c551f1db5fc34a2f6b11e74", null ]
 ];

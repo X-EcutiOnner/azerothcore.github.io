@@ -1,4 +1,4 @@
 var a01190 =
 [
-    [ "MapGridManager", "df/d01/a09494.html", "df/d01/a09494" ]
+    [ "MapRefMgr", "dd/d91/a10186.html", "dd/d91/a10186" ]
 ];

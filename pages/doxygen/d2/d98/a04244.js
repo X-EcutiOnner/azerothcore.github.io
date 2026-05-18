@@ -1,14 +1,12 @@
 var a04244 =
 [
-    [ "npc_artorius", "d6/d28/a28030.html", "d6/d28/a28030" ],
-    [ "npc_artorius::npc_artoriusAI", "d7/d83/a28034.html", "d7/d83/a28034" ],
-    [ "npc_precious", "db/d4d/a28038.html", "db/d4d/a28038" ],
-    [ "npc_precious::npc_preciousAI", "d8/d21/a28042.html", "d8/d21/a28042" ],
-    [ "npc_simone", "df/d29/a28046.html", "df/d29/a28046" ],
-    [ "npc_simone::npc_simoneAI", "d6/d71/a28050.html", "d6/d71/a28050" ],
-    [ "npc_nelson", "d6/d5b/a28054.html", "d6/d5b/a28054" ],
-    [ "npc_nelson::npc_nelsonAI", "dd/d36/a28058.html", "dd/d36/a28058" ],
-    [ "npc_franklin", "da/d65/a28062.html", "da/d65/a28062" ],
-    [ "npc_franklin::npc_franklinAI", "d5/d16/a28066.html", "d5/d16/a28066" ],
-    [ "AddSC_npc_stave_of_ancients", "d2/d98/a04244.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
+    [ "instance_stratholme", "d3/dd6/a13534.html", "d3/dd6/a13534" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d1/d68/a13538.html", "d1/d68/a13538" ],
+    [ "AddSC_instance_stratholme", "d2/d98/a04244.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d2/d98/a04244.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "aPlaguedCritters", "d2/d98/a04244.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d2/d98/a04244.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d2/d98/a04244.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d2/d98/a04244.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "SlaughterPos", "d2/d98/a04244.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

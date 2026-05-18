@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcPPMTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcConditionsTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,84 +107,101 @@ $(document).ready(function(){initNavTree('d1/dc1/a00092.html','../../'); initRes
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">SpellProcPPMTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcConditionsTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for PPM (Procs Per Minute) calculation.  
+<p><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for conditions system integration in proc system.  
 <a href="#details">More...</a></p>
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitStub.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ae3a783720b4fd8de30af2daa8a46968d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ae3a783720b4fd8de30af2daa8a46968d">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_BasicCalculation)</td></tr>
-<tr class="separator:ae3a783720b4fd8de30af2daa8a46968d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a408cefc1b2d32154333df6ee02554cfb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a408cefc1b2d32154333df6ee02554cfb">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_FastWeapon_HigherChancePerSwing)</td></tr>
-<tr class="separator:a408cefc1b2d32154333df6ee02554cfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac17243ceceb68ae78be97f22188bdf48"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ac17243ceceb68ae78be97f22188bdf48">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_SlowWeapon_LowerChancePerSwing)</td></tr>
-<tr class="separator:ac17243ceceb68ae78be97f22188bdf48"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf12a2820af1538b7fd5b997f86b9c36"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#adf12a2820af1538b7fd5b997f86b9c36">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_VerySlowWeapon)</td></tr>
-<tr class="separator:adf12a2820af1538b7fd5b997f86b9c36"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8926bcff4bd558ffd6975cca56094af"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ab8926bcff4bd558ffd6975cca56094af">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_ZeroPPM_ReturnsZero)</td></tr>
-<tr class="separator:ab8926bcff4bd558ffd6975cca56094af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee2d794fc0d42fdf6fa96deefd0f7ef3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aee2d794fc0d42fdf6fa96deefd0f7ef3">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_NegativePPM_ReturnsZero)</td></tr>
-<tr class="separator:aee2d794fc0d42fdf6fa96deefd0f7ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb660bd4a3e222dfc26ea9a15ff261ef"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#adb660bd4a3e222dfc26ea9a15ff261ef">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_WithPositiveModifier)</td></tr>
-<tr class="separator:adb660bd4a3e222dfc26ea9a15ff261ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b4b316b40f2c8520f3fc928bdaf7db7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a7b4b316b40f2c8520f3fc928bdaf7db7">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, PPMFormula_WithNegativeModifier)</td></tr>
-<tr class="separator:a7b4b316b40f2c8520f3fc928bdaf7db7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab62c7f868fef4a454b48e828cfc97bc1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ab62c7f868fef4a454b48e828cfc97bc1">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_DefaultWeaponSpeed)</td></tr>
-<tr class="separator:ab62c7f868fef4a454b48e828cfc97bc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ecc1d1a3fe097523b683612714be585"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a0ecc1d1a3fe097523b683612714be585">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_CustomWeaponSpeed)</td></tr>
-<tr class="separator:a0ecc1d1a3fe097523b683612714be585"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89e1be04b18f0a1379f66db5f18f84cd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a89e1be04b18f0a1379f66db5f18f84cd">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_WithPPMModifier)</td></tr>
-<tr class="separator:a89e1be04b18f0a1379f66db5f18f84cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3f155d3e40e3d9a72b9aab37e02c2d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aa3f155d3e40e3d9a72b9aab37e02c2d5">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, UnitStub_GetPPMProcChance_ModifierNotAppliedWithoutSpellId)</td></tr>
-<tr class="separator:aa3f155d3e40e3d9a72b9aab37e02c2d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a371f6254f8a9812a581ca62370e79087"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a371f6254f8a9812a581ca62370e79087">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, OmenOfClarity_PPM6_VariousWeaponSpeeds)</td></tr>
-<tr class="separator:a371f6254f8a9812a581ca62370e79087"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1eecf2088dfa4e882fcd2e288a16c926"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a1eecf2088dfa4e882fcd2e288a16c926">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, JudgementOfLight_PPM15_VariousWeaponSpeeds)</td></tr>
-<tr class="separator:a1eecf2088dfa4e882fcd2e288a16c926"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a2221ed60add2ea6f41efa43ba1caf5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a5a2221ed60add2ea6f41efa43ba1caf5">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, WindfuryWeapon_PPM2_VariousWeaponSpeeds)</td></tr>
-<tr class="separator:a5a2221ed60add2ea6f41efa43ba1caf5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a826e8fe1182bffba3a197cda0adb8a26"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a826e8fe1182bffba3a197cda0adb8a26">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, EdgeCase_VeryFastWeapon)</td></tr>
-<tr class="separator:a826e8fe1182bffba3a197cda0adb8a26"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad906fa2cfb70f1126dd79d22504bfb77"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ad906fa2cfb70f1126dd79d22504bfb77">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, EdgeCase_ExtremelySlow)</td></tr>
-<tr class="separator:ad906fa2cfb70f1126dd79d22504bfb77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae184a37db844e23c6120a45da76a3d2b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ae184a37db844e23c6120a45da76a3d2b">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, EdgeCase_HighPPM)</td></tr>
-<tr class="separator:ae184a37db844e23c6120a45da76a3d2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80e3b407d4b13f3b1cb4948d5cdb4209"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a80e3b407d4b13f3b1cb4948d5cdb4209">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, EdgeCase_FractionalPPM)</td></tr>
-<tr class="separator:a80e3b407d4b13f3b1cb4948d5cdb4209"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa1421e922e607bf83d6348d8cfb3e61c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aa1421e922e607bf83d6348d8cfb3e61c">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_NonShifted_NoDiscrepancy)</td></tr>
-<tr class="separator:aa1421e922e607bf83d6348d8cfb3e61c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0f75a757355e651e5657c020795869c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ad0f75a757355e651e5657c020795869c">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_ProtoDelayInflatesChance)</td></tr>
-<tr class="separator:ad0f75a757355e651e5657c020795869c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa9d6bf7b0b381063c82d2eb7e7b32881"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aa9d6bf7b0b381063c82d2eb7e7b32881">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_EffectivePPMIs3Point6x)</td></tr>
-<tr class="separator:aa9d6bf7b0b381063c82d2eb7e7b32881"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8937afbe525924e8a161bb7de0f75363"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a8937afbe525924e8a161bb7de0f75363">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_BearForm_ProtoDelayInflatesChance)</td></tr>
-<tr class="separator:a8937afbe525924e8a161bb7de0f75363"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d7e22c4c996419c0bdd6afe8ac51449"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a8d7e22c4c996419c0bdd6afe8ac51449">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_CatForm_FieryWeapon6PPM)</td></tr>
-<tr class="separator:a8d7e22c4c996419c0bdd6afe8ac51449"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0692ae371dd7ec0e8127647ab490da56"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a0692ae371dd7ec0e8127647ab490da56">TEST_F</a> (<a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>, ShapeshiftBug_ItemSpellPath_AlreadyCorrect)</td></tr>
-<tr class="separator:a0692ae371dd7ec0e8127647ab490da56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a780094fd223276bd86e70e158ab6ab07"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a780094fd223276bd86e70e158ab6ab07">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, NoConditions_AllowsProc)</td></tr>
+<tr class="separator:a780094fd223276bd86e70e158ab6ab07"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a237c0348fe16f5bd3c5490d4180f2aea"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a237c0348fe16f5bd3c5490d4180f2aea">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionsMet_AllowsProc)</td></tr>
+<tr class="separator:a237c0348fe16f5bd3c5490d4180f2aea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c06cd04dc4967a4f612c7eaa0ee1578"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a6c06cd04dc4967a4f612c7eaa0ee1578">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionsNotMet_BlocksProc)</td></tr>
+<tr class="separator:a6c06cd04dc4967a4f612c7eaa0ee1578"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcbe378ad3281f0034e8910d9be22f03"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#adcbe378ad3281f0034e8910d9be22f03">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, SourceType_SpellProc)</td></tr>
+<tr class="separator:adcbe378ad3281f0034e8910d9be22f03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82bf0bf6fb1a95996b9d00907b610bb6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a82bf0bf6fb1a95996b9d00907b610bb6">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, MultipleConditions_AllMet_AllowsProc)</td></tr>
+<tr class="separator:a82bf0bf6fb1a95996b9d00907b610bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3427884061021fed7a1ca0fe3734f58"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ab3427884061021fed7a1ca0fe3734f58">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, MultipleConditions_OneFails_BlocksProc)</td></tr>
+<tr class="separator:ab3427884061021fed7a1ca0fe3734f58"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa21111bf368710bb371df701ac3d9605"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aa21111bf368710bb371df701ac3d9605">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ElseGroup_OneGroupPasses_AllowsProc)</td></tr>
+<tr class="separator:aa21111bf368710bb371df701ac3d9605"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9c4ddea21cb583ab41f9664e0a55a27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ac9c4ddea21cb583ab41f9664e0a55a27">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ElseGroup_AllGroupsFail_BlocksProc)</td></tr>
+<tr class="separator:ac9c4ddea21cb583ab41f9664e0a55a27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87f31f52d43e136e5e74b40c468b0f18"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a87f31f52d43e136e5e74b40c468b0f18">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, Scenario_ProcOnlyInCombat)</td></tr>
+<tr class="separator:a87f31f52d43e136e5e74b40c468b0f18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee8ad5db1865ea9bb580d42c177b066d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aee8ad5db1865ea9bb580d42c177b066d">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, Scenario_ProcOnlyVsUndead)</td></tr>
+<tr class="separator:aee8ad5db1865ea9bb580d42c177b066d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7585a34545bccf4c8811fd477efa5b99"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a7585a34545bccf4c8811fd477efa5b99">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, Scenario_ProcRequiresAura)</td></tr>
+<tr class="separator:a7585a34545bccf4c8811fd477efa5b99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a461644b149a83e75ad8daba6d28a5370"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a461644b149a83e75ad8daba6d28a5370">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, Scenario_ProcRequiresHealthBelow)</td></tr>
+<tr class="separator:a461644b149a83e75ad8daba6d28a5370"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8de39cce4e4e53370683b6cfc3107df"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#ac8de39cce4e4e53370683b6cfc3107df">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, Scenario_ProcInAreaOnly)</td></tr>
+<tr class="separator:ac8de39cce4e4e53370683b6cfc3107df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4baddd05d5707ebdefb9c6ae12b5b07b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a4baddd05d5707ebdefb9c6ae12b5b07b">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_Aura)</td></tr>
+<tr class="separator:a4baddd05d5707ebdefb9c6ae12b5b07b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e5091598b3666a77b4cf4f3472a59a3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a1e5091598b3666a77b4cf4f3472a59a3">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_Item)</td></tr>
+<tr class="separator:a1e5091598b3666a77b4cf4f3472a59a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfde388a2edbae2c884134ab41ec3d7f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#adfde388a2edbae2c884134ab41ec3d7f">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_ItemEquipped)</td></tr>
+<tr class="separator:adfde388a2edbae2c884134ab41ec3d7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e868b54de80516c769a4167222f1de8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a9e868b54de80516c769a4167222f1de8">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_QuestRewarded)</td></tr>
+<tr class="separator:a9e868b54de80516c769a4167222f1de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79d9aeeff5918b9e0a81fbd57f4e7ccb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a79d9aeeff5918b9e0a81fbd57f4e7ccb">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_CreatureType)</td></tr>
+<tr class="separator:a79d9aeeff5918b9e0a81fbd57f4e7ccb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fed087ba026c200cb12674b69d3e1cb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a5fed087ba026c200cb12674b69d3e1cb">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_HPVal)</td></tr>
+<tr class="separator:a5fed087ba026c200cb12674b69d3e1cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad9ded9be3413cb7f378667f4a722c69"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#aad9ded9be3413cb7f378667f4a722c69">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_HPPct)</td></tr>
+<tr class="separator:aad9ded9be3413cb7f378667f4a722c69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a351064275145e6037437a6f80a447830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a351064275145e6037437a6f80a447830">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, ConditionType_InCombat)</td></tr>
+<tr class="separator:a351064275145e6037437a6f80a447830"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7da16546ae468c0e8be892d0ae770371"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a7da16546ae468c0e8be892d0ae770371">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, EdgeCase_EmptyConditionList)</td></tr>
+<tr class="separator:a7da16546ae468c0e8be892d0ae770371"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b3c8465508d7b491399a4e47f8794c9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a2b3c8465508d7b491399a4e47f8794c9">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, EdgeCase_ConditionsButAlwaysTrue)</td></tr>
+<tr class="separator:a2b3c8465508d7b491399a4e47f8794c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f09bb746714d02f8f33ca07d57c4f79"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc1/a00092.html#a2f09bb746714d02f8f33ca07d57c4f79">TEST_F</a> (<a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>, EdgeCase_MultipleSourceTypes)</td></tr>
+<tr class="separator:a2f09bb746714d02f8f33ca07d57c4f79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for PPM (Procs Per Minute) calculation. </p>
-<p >Tests the formula: chance = (WeaponSpeed * PPM) / 600.0f </p>
+<div class="textblock"><p ><a class="el" href="../../dc/d3e/a09066.html">Unit</a> tests for conditions system integration in proc system. </p>
+<p >Tests the logic from <a class="el" href="../../da/dd5/a01580.html">SpellAuras.cpp</a>:2232-2236:</p><ul>
+<li>CONDITION_SOURCE_TYPE_SPELL_PROC (24) lookup</li>
+<li><a class="el" href="../../de/d75/a08178.html">Condition</a> met allows proc</li>
+<li><a class="el" href="../../de/d75/a08178.html">Condition</a> not met blocks proc</li>
+<li>Empty conditions allow proc</li>
+<li>Multiple conditions (AND logic within ElseGroup)</li>
+<li>ElseGroup OR logic</li>
+</ul>
+<hr  />
+ <h1><a class="anchor" id="autotoc_md1"></a>
+TEST DESIGN: Configuration-Based Testing</h1>
+<p >These tests use ConditionsConfig structs to simulate the result of condition evaluation without requiring actual <a class="el" href="../../db/df3/a08182.html">ConditionMgr</a> queries. Each test configures:</p><ul>
+<li>sourceType: The condition source type (24 = CONDITION_SOURCE_TYPE_SPELL_PROC)</li>
+<li>hasConditions: Whether any conditions are registered for this spell</li>
+<li>conditionsMet: The result of <a class="el" href="../../db/df3/a08182.html#aedbbcc49f4cfcbcdb6fbb6574079af27">ConditionMgr::IsObjectMeetToConditions()</a></li>
+</ul>
+<p >The actual condition types (CONDITION_AURA, CONDITION_HP_PCT, etc.) are not evaluated here - we test the proc system's response to condition evaluation results. Individual condition types are tested in the conditions system unit tests.</p>
+<p >No GTEST_SKIP() is used in this file - all tests run with their configured </p>
+<h1><a class="anchor" id="autotoc_md2"></a>
+scenarios, testing both positive and negative cases explicitly.</h1>
 
-<p class="definition">Definition in file <a class="el" href="../../">SpellProcPPMTest.cpp</a>.</p>
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcConditionsTest.cpp</a>.</p>
 </div><h2 class="groupheader">Function Documentation</h2>
-<a id="ad906fa2cfb70f1126dd79d22504bfb77" name="ad906fa2cfb70f1126dd79d22504bfb77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad906fa2cfb70f1126dd79d22504bfb77">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/25]</span></h2>
+<a id="a237c0348fe16f5bd3c5490d4180f2aea" name="a237c0348fe16f5bd3c5490d4180f2aea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a237c0348fe16f5bd3c5490d4180f2aea">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/24]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -192,13 +209,855 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EdgeCase_ExtremelySlow&#160;</td>
+          <td class="paramtype">ConditionsMet_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">   79</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   80</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">   83</span>        &lt;&lt; <span class="stringliteral">&quot;Conditions met should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">   84</span>}</div>
+<div class="ttc" id="aa29186_html_a2a1c402850c063484c273d6fb4962771"><div class="ttname"><a href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a></div><div class="ttdeci">static bool ShouldBlockDueToConditions(ConditionsConfig const &amp;config)</div><div class="ttdoc">Simulate conditions check Returns true if proc should be blocked due to conditions.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:598</div></div>
+<div class="ttc" id="aa29214_html"><div class="ttname"><a href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a></div><div class="ttdoc">Configuration for simulating conditions system.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:585</div></div>
+<div class="ttc" id="aa29214_html_a160ac902a994fdaaa36b66dbaa4c8282"><div class="ttname"><a href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">ProcChanceTestHelper::ConditionsConfig::hasConditions</a></div><div class="ttdeci">bool hasConditions</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:586</div></div>
+<div class="ttc" id="aa29214_html_ade58814e6b27763d1bb6c1f730ef53e0"><div class="ttname"><a href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a></div><div class="ttdeci">bool conditionsMet</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:587</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a6c06cd04dc4967a4f612c7eaa0ee1578" name="a6c06cd04dc4967a4f612c7eaa0ee1578"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c06cd04dc4967a4f612c7eaa0ee1578">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionsNotMet_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
+<div class="line"><span class="lineno">   88</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">   89</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   90</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   91</span> </div>
+<div class="line"><span class="lineno">   92</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">   93</span>        &lt;&lt; <span class="stringliteral">&quot;Conditions not met should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a4baddd05d5707ebdefb9c6ae12b5b07b" name="a4baddd05d5707ebdefb9c6ae12b5b07b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4baddd05d5707ebdefb9c6ae12b5b07b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_Aura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  264</span>{</div>
+<div class="line"><span class="lineno">  265</span>    <span class="comment">// CONDITION_AURA = 1</span></div>
+<div class="line"><span class="lineno">  266</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  267</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  268</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  269</span> </div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  271</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a79d9aeeff5918b9e0a81fbd57f4e7ccb" name="a79d9aeeff5918b9e0a81fbd57f4e7ccb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79d9aeeff5918b9e0a81fbd57f4e7ccb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_CreatureType&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  306</span>{</div>
+<div class="line"><span class="lineno">  307</span>    <span class="comment">// CONDITION_CREATURE_TYPE = 18</span></div>
+<div class="line"><span class="lineno">  308</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  309</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  310</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Wrong creature type</span></div>
+<div class="line"><span class="lineno">  311</span> </div>
+<div class="line"><span class="lineno">  312</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  313</span>        &lt;&lt; <span class="stringliteral">&quot;Proc blocked when creature type doesn&#39;t match&quot;</span>;</div>
+<div class="line"><span class="lineno">  314</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="aad9ded9be3413cb7f378667f4a722c69" name="aad9ded9be3413cb7f378667f4a722c69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aad9ded9be3413cb7f378667f4a722c69">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_HPPct&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  327</span>{</div>
+<div class="line"><span class="lineno">  328</span>    <span class="comment">// CONDITION_HP_PCT = 25</span></div>
+<div class="line"><span class="lineno">  329</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  330</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  331</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// HP percent threshold not met</span></div>
+<div class="line"><span class="lineno">  332</span> </div>
+<div class="line"><span class="lineno">  333</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  334</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a5fed087ba026c200cb12674b69d3e1cb" name="a5fed087ba026c200cb12674b69d3e1cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fed087ba026c200cb12674b69d3e1cb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_HPVal&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  317</span>{</div>
+<div class="line"><span class="lineno">  318</span>    <span class="comment">// CONDITION_HP_VAL = 23</span></div>
+<div class="line"><span class="lineno">  319</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  320</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  321</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// HP threshold met</span></div>
+<div class="line"><span class="lineno">  322</span> </div>
+<div class="line"><span class="lineno">  323</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  324</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a351064275145e6037437a6f80a447830" name="a351064275145e6037437a6f80a447830"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a351064275145e6037437a6f80a447830">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_InCombat&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  337</span>{</div>
+<div class="line"><span class="lineno">  338</span>    <span class="comment">// CONDITION_IN_COMBAT = 36</span></div>
+<div class="line"><span class="lineno">  339</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  340</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  341</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// In combat</span></div>
+<div class="line"><span class="lineno">  342</span> </div>
+<div class="line"><span class="lineno">  343</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  344</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a1e5091598b3666a77b4cf4f3472a59a3" name="a1e5091598b3666a77b4cf4f3472a59a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e5091598b3666a77b4cf4f3472a59a3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_Item&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  274</span>{</div>
+<div class="line"><span class="lineno">  275</span>    <span class="comment">// CONDITION_ITEM = 2</span></div>
+<div class="line"><span class="lineno">  276</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  277</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  278</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  279</span> </div>
+<div class="line"><span class="lineno">  280</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  281</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="adfde388a2edbae2c884134ab41ec3d7f" name="adfde388a2edbae2c884134ab41ec3d7f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfde388a2edbae2c884134ab41ec3d7f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_ItemEquipped&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  284</span>{</div>
+<div class="line"><span class="lineno">  285</span>    <span class="comment">// CONDITION_ITEM_EQUIPPED = 3</span></div>
+<div class="line"><span class="lineno">  286</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  287</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  288</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Required item not equipped</span></div>
+<div class="line"><span class="lineno">  289</span> </div>
+<div class="line"><span class="lineno">  290</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  291</span>        &lt;&lt; <span class="stringliteral">&quot;Proc blocked when required item not equipped&quot;</span>;</div>
+<div class="line"><span class="lineno">  292</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a9e868b54de80516c769a4167222f1de8" name="a9e868b54de80516c769a4167222f1de8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e868b54de80516c769a4167222f1de8">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ConditionType_QuestRewarded&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  295</span>{</div>
+<div class="line"><span class="lineno">  296</span>    <span class="comment">// CONDITION_QUESTREWARDED = 8</span></div>
+<div class="line"><span class="lineno">  297</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  298</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  299</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// Required quest completed</span></div>
+<div class="line"><span class="lineno">  300</span> </div>
+<div class="line"><span class="lineno">  301</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  302</span>        &lt;&lt; <span class="stringliteral">&quot;Proc allowed when quest completed&quot;</span>;</div>
+<div class="line"><span class="lineno">  303</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a2b3c8465508d7b491399a4e47f8794c9" name="a2b3c8465508d7b491399a4e47f8794c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b3c8465508d7b491399a4e47f8794c9">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_ConditionsButAlwaysTrue&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  361</span>{</div>
+<div class="line"><span class="lineno">  362</span>    <span class="comment">// Conditions exist but are always satisfied (e.g., always-true condition)</span></div>
+<div class="line"><span class="lineno">  363</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  364</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  365</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  366</span> </div>
+<div class="line"><span class="lineno">  367</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  368</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a7da16546ae468c0e8be892d0ae770371" name="a7da16546ae468c0e8be892d0ae770371"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7da16546ae468c0e8be892d0ae770371">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_EmptyConditionList&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  351</span>{</div>
+<div class="line"><span class="lineno">  352</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  353</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  354</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Doesn&#39;t matter when no conditions</span></div>
+<div class="line"><span class="lineno">  355</span> </div>
+<div class="line"><span class="lineno">  356</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  357</span>        &lt;&lt; <span class="stringliteral">&quot;Empty condition list should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  358</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a2f09bb746714d02f8f33ca07d57c4f79" name="a2f09bb746714d02f8f33ca07d57c4f79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f09bb746714d02f8f33ca07d57c4f79">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">EdgeCase_MultipleSourceTypes&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  371</span>{</div>
+<div class="line"><span class="lineno">  372</span>    <span class="comment">// Different source types shouldn&#39;t interfere</span></div>
+<div class="line"><span class="lineno">  373</span>    <span class="comment">// Each spell proc has its own conditions by spell ID</span></div>
+<div class="line"><span class="lineno">  374</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> spell1;</div>
+<div class="line"><span class="lineno">  375</span>    spell1.<a class="code hl_variable" href="../../d3/df7/a29214.html#abbfa5f40abb5713e15311f8259d70dc6">sourceType</a> = 24;</div>
+<div class="line"><span class="lineno">  376</span>    spell1.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  377</span>    spell1.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  378</span> </div>
+<div class="line"><span class="lineno">  379</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> spell2;</div>
+<div class="line"><span class="lineno">  380</span>    spell2.<a class="code hl_variable" href="../../d3/df7/a29214.html#abbfa5f40abb5713e15311f8259d70dc6">sourceType</a> = 24;</div>
+<div class="line"><span class="lineno">  381</span>    spell2.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  382</span>    spell2.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  383</span> </div>
+<div class="line"><span class="lineno">  384</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(spell1));</div>
+<div class="line"><span class="lineno">  385</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(spell2));</div>
+<div class="line"><span class="lineno">  386</span>}</div>
+<div class="ttc" id="aa29214_html_abbfa5f40abb5713e15311f8259d70dc6"><div class="ttname"><a href="../../d3/df7/a29214.html#abbfa5f40abb5713e15311f8259d70dc6">ProcChanceTestHelper::ConditionsConfig::sourceType</a></div><div class="ttdeci">uint32 sourceType</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:588</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>, and <a class="el" href="../../#l00588">ProcChanceTestHelper::ConditionsConfig::sourceType</a>.</p>
+
+</div>
+</div>
+<a id="ac9c4ddea21cb583ab41f9664e0a55a27" name="ac9c4ddea21cb583ab41f9664e0a55a27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac9c4ddea21cb583ab41f9664e0a55a27">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ElseGroup_AllGroupsFail_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
+<div class="line"><span class="lineno">  156</span>    <span class="comment">// All ElseGroups fail</span></div>
+<div class="line"><span class="lineno">  157</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  158</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  159</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// No groups passed</span></div>
+<div class="line"><span class="lineno">  160</span> </div>
+<div class="line"><span class="lineno">  161</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  162</span>        &lt;&lt; <span class="stringliteral">&quot;All ElseGroups failing should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  163</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="aa21111bf368710bb371df701ac3d9605" name="aa21111bf368710bb371df701ac3d9605"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa21111bf368710bb371df701ac3d9605">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ElseGroup_OneGroupPasses_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <span class="comment">// ElseGroup logic: any group passing means conditions met</span></div>
+<div class="line"><span class="lineno">  146</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  147</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  148</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// At least one group passed</span></div>
+<div class="line"><span class="lineno">  149</span> </div>
+<div class="line"><span class="lineno">  150</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  151</span>        &lt;&lt; <span class="stringliteral">&quot;At least one ElseGroup passing should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  152</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a82bf0bf6fb1a95996b9d00907b610bb6" name="a82bf0bf6fb1a95996b9d00907b610bb6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82bf0bf6fb1a95996b9d00907b610bb6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MultipleConditions_AllMet_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  117</span>{</div>
+<div class="line"><span class="lineno">  118</span>    <span class="comment">// Simulating multiple conditions in same ElseGroup (AND)</span></div>
+<div class="line"><span class="lineno">  119</span>    <span class="comment">// In reality, ConditionMgr evaluates all - we just test the result</span></div>
+<div class="line"><span class="lineno">  120</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  121</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  122</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// All conditions passed</span></div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  125</span>        &lt;&lt; <span class="stringliteral">&quot;All conditions met (AND) should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="ab3427884061021fed7a1ca0fe3734f58" name="ab3427884061021fed7a1ca0fe3734f58"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3427884061021fed7a1ca0fe3734f58">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">MultipleConditions_OneFails_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
+<div class="line"><span class="lineno">  130</span>    <span class="comment">// One condition in the group fails</span></div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  132</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  133</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// At least one condition failed</span></div>
+<div class="line"><span class="lineno">  134</span> </div>
+<div class="line"><span class="lineno">  135</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">  136</span>        &lt;&lt; <span class="stringliteral">&quot;One failed condition (AND) should block proc&quot;</span>;</div>
+<div class="line"><span class="lineno">  137</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a780094fd223276bd86e70e158ab6ab07" name="a780094fd223276bd86e70e158ab6ab07"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a780094fd223276bd86e70e158ab6ab07">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NoConditions_AllowsProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">   70</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">false</span>;  <span class="comment">// No conditions registered</span></div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config))</div>
+<div class="line"><span class="lineno">   73</span>        &lt;&lt; <span class="stringliteral">&quot;No conditions should allow proc&quot;</span>;</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="ac8de39cce4e4e53370683b6cfc3107df" name="ac8de39cce4e4e53370683b6cfc3107df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8de39cce4e4e53370683b6cfc3107df">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_ProcInAreaOnly&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
+<div class="line"><span class="lineno">  243</span>    <span class="comment">// Condition: Must be in specific zone/area</span></div>
+<div class="line"><span class="lineno">  244</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> inArea;</div>
+<div class="line"><span class="lineno">  245</span>    inArea.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  246</span>    inArea.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  247</span> </div>
+<div class="line"><span class="lineno">  248</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(inArea))</div>
+<div class="line"><span class="lineno">  249</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should work when in required area&quot;</span>;</div>
+<div class="line"><span class="lineno">  250</span> </div>
+<div class="line"><span class="lineno">  251</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> notInArea;</div>
+<div class="line"><span class="lineno">  252</span>    notInArea.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  253</span>    notInArea.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  254</span> </div>
+<div class="line"><span class="lineno">  255</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(notInArea))</div>
+<div class="line"><span class="lineno">  256</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when not in required area&quot;</span>;</div>
+<div class="line"><span class="lineno">  257</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a87f31f52d43e136e5e74b40c468b0f18" name="a87f31f52d43e136e5e74b40c468b0f18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a87f31f52d43e136e5e74b40c468b0f18">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_ProcOnlyInCombat&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  170</span>{</div>
+<div class="line"><span class="lineno">  171</span>    <span class="comment">// Condition: Player must be in combat</span></div>
+<div class="line"><span class="lineno">  172</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> inCombat;</div>
+<div class="line"><span class="lineno">  173</span>    inCombat.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  174</span>    inCombat.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// In combat</span></div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(inCombat))</div>
+<div class="line"><span class="lineno">  177</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should work when in combat&quot;</span>;</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> outOfCombat;</div>
+<div class="line"><span class="lineno">  180</span>    outOfCombat.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  181</span>    outOfCombat.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Out of combat</span></div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(outOfCombat))</div>
+<div class="line"><span class="lineno">  184</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when out of combat&quot;</span>;</div>
+<div class="line"><span class="lineno">  185</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="aee8ad5db1865ea9bb580d42c177b066d" name="aee8ad5db1865ea9bb580d42c177b066d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee8ad5db1865ea9bb580d42c177b066d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_ProcOnlyVsUndead&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  188</span>{</div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Condition: Target must be undead creature type</span></div>
+<div class="line"><span class="lineno">  190</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> vsUndead;</div>
+<div class="line"><span class="lineno">  191</span>    vsUndead.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  192</span>    vsUndead.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// Target is undead</span></div>
+<div class="line"><span class="lineno">  193</span> </div>
+<div class="line"><span class="lineno">  194</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(vsUndead))</div>
+<div class="line"><span class="lineno">  195</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should work against undead&quot;</span>;</div>
+<div class="line"><span class="lineno">  196</span> </div>
+<div class="line"><span class="lineno">  197</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> vsHumanoid;</div>
+<div class="line"><span class="lineno">  198</span>    vsHumanoid.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  199</span>    vsHumanoid.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Target is humanoid</span></div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(vsHumanoid))</div>
+<div class="line"><span class="lineno">  202</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked against non-undead&quot;</span>;</div>
+<div class="line"><span class="lineno">  203</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
+
+</div>
+</div>
+<a id="a7585a34545bccf4c8811fd477efa5b99" name="a7585a34545bccf4c8811fd477efa5b99"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7585a34545bccf4c8811fd477efa5b99">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/24]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_ProcRequiresAura&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -209,18 +1068,28 @@ Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    <span class="comment">// Extremely slow weapon - 5.0 sec = 5000ms</span></div>
-<div class="line"><span class="lineno">  208</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(5000, 6.0f);</div>
-<div class="line"><span class="lineno">  209</span>    EXPECT_NEAR(result, 50.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  210</span>}</div>
-<div class="ttc" id="aa29186_html_aa5e3341309f011bf99711d3244cc9e1d"><div class="ttname"><a href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a></div><div class="ttdeci">static float CalculatePPMChance(uint32 weaponSpeed, float ppm, float ppmModifier=0.0f)</div><div class="ttdoc">Calculate PPM proc chance Implements the formula: (WeaponSpeed * PPM) / 600.0f.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:46</div></div>
+<div class="line"><span class="lineno">  207</span>    <span class="comment">// Condition: Actor must have specific aura</span></div>
+<div class="line"><span class="lineno">  208</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> hasAura;</div>
+<div class="line"><span class="lineno">  209</span>    hasAura.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  210</span>    hasAura.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  211</span> </div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(hasAura))</div>
+<div class="line"><span class="lineno">  213</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should work when required aura is present&quot;</span>;</div>
+<div class="line"><span class="lineno">  214</span> </div>
+<div class="line"><span class="lineno">  215</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> noAura;</div>
+<div class="line"><span class="lineno">  216</span>    noAura.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  217</span>    noAura.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  218</span> </div>
+<div class="line"><span class="lineno">  219</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(noAura))</div>
+<div class="line"><span class="lineno">  220</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when required aura is missing&quot;</span>;</div>
+<div class="line"><span class="lineno">  221</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
 
 </div>
 </div>
-<a id="a80e3b407d4b13f3b1cb4948d5cdb4209" name="a80e3b407d4b13f3b1cb4948d5cdb4209"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a80e3b407d4b13f3b1cb4948d5cdb4209">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/25]</span></h2>
+<a id="a461644b149a83e75ad8daba6d28a5370" name="a461644b149a83e75ad8daba6d28a5370"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a461644b149a83e75ad8daba6d28a5370">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/24]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -228,13 +1097,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EdgeCase_FractionalPPM&#160;</td>
+          <td class="paramtype">Scenario_ProcRequiresHealthBelow&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -244,19 +1113,29 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  221</span>{</div>
-<div class="line"><span class="lineno">  222</span>    <span class="comment">// Fractional PPM value (2.5)</span></div>
-<div class="line"><span class="lineno">  223</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2400, 2.5f);</div>
-<div class="line"><span class="lineno">  224</span>    <span class="comment">// 2400 * 2.5 / 600 = 10%</span></div>
-<div class="line"><span class="lineno">  225</span>    EXPECT_NEAR(result, 10.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  226</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  224</span>{</div>
+<div class="line"><span class="lineno">  225</span>    <span class="comment">// Condition: Actor health must be below threshold</span></div>
+<div class="line"><span class="lineno">  226</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> lowHealth;</div>
+<div class="line"><span class="lineno">  227</span>    lowHealth.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  228</span>    lowHealth.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;  <span class="comment">// Health below 35%</span></div>
+<div class="line"><span class="lineno">  229</span> </div>
+<div class="line"><span class="lineno">  230</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(lowHealth))</div>
+<div class="line"><span class="lineno">  231</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should work when health is below threshold&quot;</span>;</div>
+<div class="line"><span class="lineno">  232</span> </div>
+<div class="line"><span class="lineno">  233</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> highHealth;</div>
+<div class="line"><span class="lineno">  234</span>    highHealth.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  235</span>    highHealth.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">false</span>;  <span class="comment">// Health above 35%</span></div>
+<div class="line"><span class="lineno">  236</span> </div>
+<div class="line"><span class="lineno">  237</span>    EXPECT_TRUE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(highHealth))</div>
+<div class="line"><span class="lineno">  238</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when health is above threshold&quot;</span>;</div>
+<div class="line"><span class="lineno">  239</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, and <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>.</p>
 
 </div>
 </div>
-<a id="ae184a37db844e23c6120a45da76a3d2b" name="ae184a37db844e23c6120a45da76a3d2b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae184a37db844e23c6120a45da76a3d2b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/25]</span></h2>
+<a id="adcbe378ad3281f0034e8910d9be22f03" name="adcbe378ad3281f0034e8910d9be22f03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adcbe378ad3281f0034e8910d9be22f03">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/24]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -264,13 +1143,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/d8b/a29510.html">SpellProcConditionsTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">EdgeCase_HighPPM&#160;</td>
+          <td class="paramtype">SourceType_SpellProc&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -280,913 +1159,18 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// High PPM value (30)</span></div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 30.0f);</div>
-<div class="line"><span class="lineno">  216</span>    <span class="comment">// 2500 * 30 / 600 = 125% (can exceed 100%)</span></div>
-<div class="line"><span class="lineno">  217</span>    EXPECT_NEAR(result, 125.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  218</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_struct" href="../../d3/df7/a29214.html">ProcChanceTestHelper::ConditionsConfig</a> config;</div>
+<div class="line"><span class="lineno">  103</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#abbfa5f40abb5713e15311f8259d70dc6">sourceType</a> = 24;  <span class="comment">// CONDITION_SOURCE_TYPE_SPELL_PROC</span></div>
+<div class="line"><span class="lineno">  104</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#a160ac902a994fdaaa36b66dbaa4c8282">hasConditions</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  105</span>    config.<a class="code hl_variable" href="../../d3/df7/a29214.html#ade58814e6b27763d1bb6c1f730ef53e0">conditionsMet</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>    EXPECT_EQ(config.<a class="code hl_variable" href="../../d3/df7/a29214.html#abbfa5f40abb5713e15311f8259d70dc6">sourceType</a>, 24u)</div>
+<div class="line"><span class="lineno">  108</span>        &lt;&lt; <span class="stringliteral">&quot;Source type should be CONDITION_SOURCE_TYPE_SPELL_PROC (24)&quot;</span>;</div>
+<div class="line"><span class="lineno">  109</span>    EXPECT_FALSE(<a class="code hl_function" href="../../dc/d94/a29186.html#a2a1c402850c063484c273d6fb4962771">ProcChanceTestHelper::ShouldBlockDueToConditions</a>(config));</div>
+<div class="line"><span class="lineno">  110</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a826e8fe1182bffba3a197cda0adb8a26" name="a826e8fe1182bffba3a197cda0adb8a26"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a826e8fe1182bffba3a197cda0adb8a26">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_VeryFastWeapon&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
-<div class="line"><span class="lineno">  200</span>    <span class="comment">// Very fast (theoretical) weapon - 1.0 sec = 1000ms</span></div>
-<div class="line"><span class="lineno">  201</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1000, 6.0f);</div>
-<div class="line"><span class="lineno">  202</span>    EXPECT_NEAR(result, 10.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  203</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a1eecf2088dfa4e882fcd2e288a16c926" name="a1eecf2088dfa4e882fcd2e288a16c926"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1eecf2088dfa4e882fcd2e288a16c926">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">JudgementOfLight_PPM15_VariousWeaponSpeeds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  163</span>{</div>
-<div class="line"><span class="lineno">  164</span>    <span class="comment">// Judgement of Light: 15 PPM</span></div>
-<div class="line"><span class="lineno">  165</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> JOL_PPM = 15.0f;</div>
-<div class="line"><span class="lineno">  166</span> </div>
-<div class="line"><span class="lineno">  167</span>    <span class="comment">// Fast dagger</span></div>
-<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, JOL_PPM);</div>
-<div class="line"><span class="lineno">  169</span>    EXPECT_NEAR(daggerChance, 35.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    <span class="comment">// Normal 1H sword</span></div>
-<div class="line"><span class="lineno">  172</span>    <span class="keywordtype">float</span> swordChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, JOL_PPM);</div>
-<div class="line"><span class="lineno">  173</span>    EXPECT_NEAR(swordChance, 62.5f, 0.01f);</div>
-<div class="line"><span class="lineno">  174</span> </div>
-<div class="line"><span class="lineno">  175</span>    <span class="comment">// Slow 2H weapon</span></div>
-<div class="line"><span class="lineno">  176</span>    <span class="keywordtype">float</span> twoHanderChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, JOL_PPM);</div>
-<div class="line"><span class="lineno">  177</span>    EXPECT_NEAR(twoHanderChance, 82.5f, 0.01f);</div>
-<div class="line"><span class="lineno">  178</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a371f6254f8a9812a581ca62370e79087" name="a371f6254f8a9812a581ca62370e79087"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a371f6254f8a9812a581ca62370e79087">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OmenOfClarity_PPM6_VariousWeaponSpeeds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="comment">// Omen of Clarity: 6 PPM</span></div>
-<div class="line"><span class="lineno">  147</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> OOC_PPM = 6.0f;</div>
-<div class="line"><span class="lineno">  148</span> </div>
-<div class="line"><span class="lineno">  149</span>    <span class="comment">// Fast dagger</span></div>
-<div class="line"><span class="lineno">  150</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, OOC_PPM);</div>
-<div class="line"><span class="lineno">  151</span>    EXPECT_NEAR(daggerChance, 14.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>    <span class="comment">// Normal 1H sword</span></div>
-<div class="line"><span class="lineno">  154</span>    <span class="keywordtype">float</span> swordChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, OOC_PPM);</div>
-<div class="line"><span class="lineno">  155</span>    EXPECT_NEAR(swordChance, 25.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  156</span> </div>
-<div class="line"><span class="lineno">  157</span>    <span class="comment">// Staff</span></div>
-<div class="line"><span class="lineno">  158</span>    <span class="keywordtype">float</span> staffChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3000, OOC_PPM);</div>
-<div class="line"><span class="lineno">  159</span>    EXPECT_NEAR(staffChance, 30.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  160</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="ae3a783720b4fd8de30af2daa8a46968d" name="ae3a783720b4fd8de30af2daa8a46968d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3a783720b4fd8de30af2daa8a46968d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_BasicCalculation&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
-<div class="line"><span class="lineno">   48</span>    <span class="comment">// Formula: (WeaponSpeed * PPM) / 600.0f</span></div>
-<div class="line"><span class="lineno">   49</span>    <span class="comment">// 2500ms * 6 PPM / 600 = 25%</span></div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f);</div>
-<div class="line"><span class="lineno">   51</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
-<div class="line"><span class="lineno">   52</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a408cefc1b2d32154333df6ee02554cfb" name="a408cefc1b2d32154333df6ee02554cfb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a408cefc1b2d32154333df6ee02554cfb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_FastWeapon_HigherChancePerSwing&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   55</span>{</div>
-<div class="line"><span class="lineno">   56</span>    <span class="comment">// Fast dagger (1.4 sec = 1400ms), 6 PPM</span></div>
-<div class="line"><span class="lineno">   57</span>    <span class="comment">// 1400 * 6 / 600 = 14%</span></div>
-<div class="line"><span class="lineno">   58</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, 6.0f);</div>
-<div class="line"><span class="lineno">   59</span>    EXPECT_NEAR(result, 14.0f, 0.01f);</div>
-<div class="line"><span class="lineno">   60</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="aee2d794fc0d42fdf6fa96deefd0f7ef3" name="aee2d794fc0d42fdf6fa96deefd0f7ef3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee2d794fc0d42fdf6fa96deefd0f7ef3">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_NegativePPM_ReturnsZero&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, -1.0f);</div>
-<div class="line"><span class="lineno">   87</span>    EXPECT_FLOAT_EQ(result, 0.0f);</div>
-<div class="line"><span class="lineno">   88</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="ac17243ceceb68ae78be97f22188bdf48" name="ac17243ceceb68ae78be97f22188bdf48"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac17243ceceb68ae78be97f22188bdf48">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_SlowWeapon_LowerChancePerSwing&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   63</span>{</div>
-<div class="line"><span class="lineno">   64</span>    <span class="comment">// Slow 2H (3.3 sec = 3300ms), 6 PPM</span></div>
-<div class="line"><span class="lineno">   65</span>    <span class="comment">// 3300 * 6 / 600 = 33%</span></div>
-<div class="line"><span class="lineno">   66</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, 6.0f);</div>
-<div class="line"><span class="lineno">   67</span>    EXPECT_NEAR(result, 33.0f, 0.01f);</div>
-<div class="line"><span class="lineno">   68</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="adf12a2820af1538b7fd5b997f86b9c36" name="adf12a2820af1538b7fd5b997f86b9c36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf12a2820af1538b7fd5b997f86b9c36">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_VerySlowWeapon&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <span class="comment">// Very slow weapon (3.8 sec = 3800ms), 6 PPM</span></div>
-<div class="line"><span class="lineno">   73</span>    <span class="comment">// 3800 * 6 / 600 = 38%</span></div>
-<div class="line"><span class="lineno">   74</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3800, 6.0f);</div>
-<div class="line"><span class="lineno">   75</span>    EXPECT_NEAR(result, 38.0f, 0.01f);</div>
-<div class="line"><span class="lineno">   76</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a7b4b316b40f2c8520f3fc928bdaf7db7" name="a7b4b316b40f2c8520f3fc928bdaf7db7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b4b316b40f2c8520f3fc928bdaf7db7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_WithNegativeModifier&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
-<div class="line"><span class="lineno">  100</span>    <span class="comment">// 2500ms, 6 PPM - 2 PPM modifier = 4 effective PPM</span></div>
-<div class="line"><span class="lineno">  101</span>    <span class="comment">// 2500 * 4 / 600 = 16.67%</span></div>
-<div class="line"><span class="lineno">  102</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f, -2.0f);</div>
-<div class="line"><span class="lineno">  103</span>    EXPECT_NEAR(result, 16.67f, 0.01f);</div>
-<div class="line"><span class="lineno">  104</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="adb660bd4a3e222dfc26ea9a15ff261ef" name="adb660bd4a3e222dfc26ea9a15ff261ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb660bd4a3e222dfc26ea9a15ff261ef">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_WithPositiveModifier&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">// 2500ms, 6 PPM + 2 PPM modifier = 8 effective PPM</span></div>
-<div class="line"><span class="lineno">   93</span>    <span class="comment">// 2500 * 8 / 600 = 33.33%</span></div>
-<div class="line"><span class="lineno">   94</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 6.0f, 2.0f);</div>
-<div class="line"><span class="lineno">   95</span>    EXPECT_NEAR(result, 33.33f, 0.01f);</div>
-<div class="line"><span class="lineno">   96</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="ab8926bcff4bd558ffd6975cca56094af" name="ab8926bcff4bd558ffd6975cca56094af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab8926bcff4bd558ffd6975cca56094af">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">PPMFormula_ZeroPPM_ReturnsZero&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   79</span>{</div>
-<div class="line"><span class="lineno">   80</span>    <span class="keywordtype">float</span> result = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(2500, 0.0f);</div>
-<div class="line"><span class="lineno">   81</span>    EXPECT_FLOAT_EQ(result, 0.0f);</div>
-<div class="line"><span class="lineno">   82</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
-
-</div>
-</div>
-<a id="a8937afbe525924e8a161bb7de0f75363" name="a8937afbe525924e8a161bb7de0f75363"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8937afbe525924e8a161bb7de0f75363">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_BearForm_ProtoDelayInflatesChance&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  304</span>{</div>
-<div class="line"><span class="lineno">  305</span>    <span class="comment">// Bear Form with 3.6s staff: proto-&gt;Delay = 3600, GetAttackTime = 2500</span></div>
-<div class="line"><span class="lineno">  306</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
-<div class="line"><span class="lineno">  307</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BEAR_SPEED = <a class="code hl_variable" href="../../dc/d94/a29186.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a>;</div>
-<div class="line"><span class="lineno">  308</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
-<div class="line"><span class="lineno">  309</span> </div>
-<div class="line"><span class="lineno">  310</span>    _unit-&gt;SetAttackTime(0, BEAR_SPEED);</div>
-<div class="line"><span class="lineno">  311</span> </div>
-<div class="line"><span class="lineno">  312</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  313</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(BEAR_SPEED, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  314</span> </div>
-<div class="line"><span class="lineno">  315</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, BEAR_SPEED);</div>
-<div class="line"><span class="lineno">  316</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, BEAR_SPEED);</div>
-<div class="line"><span class="lineno">  317</span> </div>
-<div class="line"><span class="lineno">  318</span>    <span class="comment">// Buggy: 1.44 PPM instead of 1.0</span></div>
-<div class="line"><span class="lineno">  319</span>    EXPECT_NEAR(buggyEffectivePPM, 1.44f, 0.01f)</div>
-<div class="line"><span class="lineno">  320</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Bear Form Mongoose procs 1.44 times/min instead of 1.0&quot;</span>;</div>
-<div class="line"><span class="lineno">  321</span>    EXPECT_NEAR(correctEffectivePPM, MONGOOSE_PPM, 0.01f)</div>
-<div class="line"><span class="lineno">  322</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Bear Form Mongoose should proc exactly 1.0 times/min&quot;</span>;</div>
-<div class="line"><span class="lineno">  323</span>}</div>
-<div class="ttc" id="aa04580_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa29186_html_a0030bcefe26a228bb36f5b3913fa1e48"><div class="ttname"><a href="../../dc/d94/a29186.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a></div><div class="ttdeci">static constexpr uint32 FORM_SPEED_BEAR</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:196</div></div>
-<div class="ttc" id="aa29186_html_a050a7405275f53b24207e5a94f0f2dcd"><div class="ttname"><a href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a></div><div class="ttdeci">static float CalculateEffectivePPM(float chancePerSwing, uint32 actualSwingSpeedMs)</div><div class="ttdoc">Simulate effective procs per minute.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:208</div></div>
-<div class="ttc" id="aa29186_html_acffda28a662863f651d0aae5587300cd"><div class="ttname"><a href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a></div><div class="ttdeci">static constexpr uint32 WEAPON_SPEED_STAFF</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:190</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00196">ProcChanceTestHelper::FORM_SPEED_BEAR</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="aa9d6bf7b0b381063c82d2eb7e7b32881" name="aa9d6bf7b0b381063c82d2eb7e7b32881"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa9d6bf7b0b381063c82d2eb7e7b32881">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_CatForm_EffectivePPMIs3Point6x&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
-<div class="line"><span class="lineno">  282</span>    <span class="comment">// Cat Form attacks every 1.0s (60 swings/min)</span></div>
-<div class="line"><span class="lineno">  283</span>    <span class="comment">// With the buggy 6.0% chance per swing: 60 * 0.06 = 3.6 procs/min</span></div>
-<div class="line"><span class="lineno">  284</span>    <span class="comment">// With the correct 1.67% chance: 60 * 0.0167 = 1.0 procs/min</span></div>
-<div class="line"><span class="lineno">  285</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
-<div class="line"><span class="lineno">  286</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../dc/d94/a29186.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
-<div class="line"><span class="lineno">  287</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
-<div class="line"><span class="lineno">  288</span> </div>
-<div class="line"><span class="lineno">  289</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  290</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  291</span> </div>
-<div class="line"><span class="lineno">  292</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, CAT_SPEED);</div>
-<div class="line"><span class="lineno">  293</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, CAT_SPEED);</div>
-<div class="line"><span class="lineno">  294</span> </div>
-<div class="line"><span class="lineno">  295</span>    <span class="comment">// Buggy: effective PPM is 3.6 instead of 1.0</span></div>
-<div class="line"><span class="lineno">  296</span>    EXPECT_NEAR(buggyEffectivePPM, 3.6f, 0.01f)</div>
-<div class="line"><span class="lineno">  297</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Cat Form Mongoose procs 3.6 times/min instead of 1.0&quot;</span>;</div>
-<div class="line"><span class="lineno">  298</span>    <span class="comment">// Correct: effective PPM matches the intended value</span></div>
-<div class="line"><span class="lineno">  299</span>    EXPECT_NEAR(correctEffectivePPM, MONGOOSE_PPM, 0.01f)</div>
-<div class="line"><span class="lineno">  300</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Cat Form Mongoose should proc exactly 1.0 times/min&quot;</span>;</div>
-<div class="line"><span class="lineno">  301</span>}</div>
-<div class="ttc" id="aa29186_html_a32a5ea319a6b7b7d64c997345fddf5a8"><div class="ttname"><a href="../../dc/d94/a29186.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a></div><div class="ttdeci">static constexpr uint32 FORM_SPEED_CAT</div><div class="ttdoc">Shapeshift form base attack speeds (from SpellShapeshiftForm.dbc)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:195</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="a8d7e22c4c996419c0bdd6afe8ac51449" name="a8d7e22c4c996419c0bdd6afe8ac51449"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d7e22c4c996419c0bdd6afe8ac51449">&#9670;&#160;</a></span>TEST_F() <span class="overload">[17/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_CatForm_FieryWeapon6PPM&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  326</span>{</div>
-<div class="line"><span class="lineno">  327</span>    <span class="comment">// Fiery Weapon (6 PPM) in Cat Form with 3.6s staff</span></div>
-<div class="line"><span class="lineno">  328</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
-<div class="line"><span class="lineno">  329</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../dc/d94/a29186.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
-<div class="line"><span class="lineno">  330</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> FIERY_PPM = 6.0f;</div>
-<div class="line"><span class="lineno">  331</span> </div>
-<div class="line"><span class="lineno">  332</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, FIERY_PPM);</div>
-<div class="line"><span class="lineno">  333</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, FIERY_PPM);</div>
-<div class="line"><span class="lineno">  334</span> </div>
-<div class="line"><span class="lineno">  335</span>    <span class="keywordtype">float</span> buggyEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(buggyChance, CAT_SPEED);</div>
-<div class="line"><span class="lineno">  336</span>    <span class="keywordtype">float</span> correctEffectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(correctChance, CAT_SPEED);</div>
-<div class="line"><span class="lineno">  337</span> </div>
-<div class="line"><span class="lineno">  338</span>    <span class="comment">// Buggy: 36% chance per swing → 21.6 procs/min instead of 6.0</span></div>
-<div class="line"><span class="lineno">  339</span>    EXPECT_NEAR(buggyChance, 36.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  340</span>    EXPECT_NEAR(correctChance, 10.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  341</span>    EXPECT_NEAR(buggyEffectivePPM, 21.6f, 0.01f)</div>
-<div class="line"><span class="lineno">  342</span>        &lt;&lt; <span class="stringliteral">&quot;Bug: Cat Form Fiery Weapon procs 21.6 times/min instead of 6.0&quot;</span>;</div>
-<div class="line"><span class="lineno">  343</span>    EXPECT_NEAR(correctEffectivePPM, FIERY_PPM, 0.01f)</div>
-<div class="line"><span class="lineno">  344</span>        &lt;&lt; <span class="stringliteral">&quot;Fix: Cat Form Fiery Weapon should proc exactly 6.0 times/min&quot;</span>;</div>
-<div class="line"><span class="lineno">  345</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="ad0f75a757355e651e5657c020795869c" name="ad0f75a757355e651e5657c020795869c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0f75a757355e651e5657c020795869c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[18/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_CatForm_ProtoDelayInflatesChance&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  257</span>{</div>
-<div class="line"><span class="lineno">  258</span>    <span class="comment">// Druid in Cat Form with a 3.6s staff equipped</span></div>
-<div class="line"><span class="lineno">  259</span>    <span class="comment">// proto-&gt;Delay = 3600ms (the staff), GetAttackTime = 1000ms (Cat Form)</span></div>
-<div class="line"><span class="lineno">  260</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> STAFF_DELAY = <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
-<div class="line"><span class="lineno">  261</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CAT_SPEED = <a class="code hl_variable" href="../../dc/d94/a29186.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>;</div>
-<div class="line"><span class="lineno">  262</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
-<div class="line"><span class="lineno">  263</span> </div>
-<div class="line"><span class="lineno">  264</span>    _unit-&gt;SetAttackTime(0, CAT_SPEED);</div>
-<div class="line"><span class="lineno">  265</span> </div>
-<div class="line"><span class="lineno">  266</span>    <span class="keywordtype">float</span> buggyChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(STAFF_DELAY, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  267</span>    <span class="keywordtype">float</span> correctChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(CAT_SPEED, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  268</span> </div>
-<div class="line"><span class="lineno">  269</span>    <span class="comment">// proto-&gt;Delay gives 3600 * 1 / 600 = 6.0% per swing</span></div>
-<div class="line"><span class="lineno">  270</span>    EXPECT_NEAR(buggyChance, 6.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  271</span>    <span class="comment">// GetAttackTime gives 1000 * 1 / 600 = 1.67% per swing</span></div>
-<div class="line"><span class="lineno">  272</span>    EXPECT_NEAR(correctChance, 1.67f, 0.01f);</div>
-<div class="line"><span class="lineno">  273</span> </div>
-<div class="line"><span class="lineno">  274</span>    <span class="comment">// The bug inflates chance per swing by weapon_speed / form_speed</span></div>
-<div class="line"><span class="lineno">  275</span>    EXPECT_NEAR(buggyChance / correctChance,</div>
-<div class="line"><span class="lineno">  276</span>        <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(STAFF_DELAY) / <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(CAT_SPEED), 0.01f)</div>
-<div class="line"><span class="lineno">  277</span>        &lt;&lt; <span class="stringliteral">&quot;Bug inflates per-swing chance by ratio of weapon speed to form speed&quot;</span>;</div>
-<div class="line"><span class="lineno">  278</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="a0692ae371dd7ec0e8127647ab490da56" name="a0692ae371dd7ec0e8127647ab490da56"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0692ae371dd7ec0e8127647ab490da56">&#9670;&#160;</a></span>TEST_F() <span class="overload">[19/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_ItemSpellPath_AlreadyCorrect&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  348</span>{</div>
-<div class="line"><span class="lineno">  349</span>    <span class="comment">// The item spell PPM path (line ~7308) already uses GetAttackTime.</span></div>
-<div class="line"><span class="lineno">  350</span>    <span class="comment">// Verify that using GetAttackTime gives correct PPM for all forms.</span></div>
-<div class="line"><span class="lineno">  351</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> PPM = 1.0f;</div>
-<div class="line"><span class="lineno">  352</span> </div>
-<div class="line"><span class="lineno">  353</span>    <span class="keyword">struct </span>FormScenario</div>
-<div class="line"><span class="lineno">  354</span>    {</div>
-<div class="line"><span class="lineno">  355</span>        <span class="keyword">const</span> <span class="keywordtype">char</span>* name;</div>
-<div class="line"><span class="lineno">  356</span>        <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> formSpeed;</div>
-<div class="line"><span class="lineno">  357</span>    };</div>
-<div class="line"><span class="lineno">  358</span> </div>
-<div class="line"><span class="lineno">  359</span>    FormScenario scenarios[] = {</div>
-<div class="line"><span class="lineno">  360</span>        {<span class="stringliteral">&quot;Normal (3.6s weapon)&quot;</span>, <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>},</div>
-<div class="line"><span class="lineno">  361</span>        {<span class="stringliteral">&quot;Cat Form&quot;</span>, <a class="code hl_variable" href="../../dc/d94/a29186.html#a32a5ea319a6b7b7d64c997345fddf5a8">ProcChanceTestHelper::FORM_SPEED_CAT</a>},</div>
-<div class="line"><span class="lineno">  362</span>        {<span class="stringliteral">&quot;Bear Form&quot;</span>, <a class="code hl_variable" href="../../dc/d94/a29186.html#a0030bcefe26a228bb36f5b3913fa1e48">ProcChanceTestHelper::FORM_SPEED_BEAR</a>},</div>
-<div class="line"><span class="lineno">  363</span>    };</div>
-<div class="line"><span class="lineno">  364</span> </div>
-<div class="line"><span class="lineno">  365</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; scenario : scenarios)</div>
-<div class="line"><span class="lineno">  366</span>    {</div>
-<div class="line"><span class="lineno">  367</span>        _unit-&gt;SetAttackTime(0, scenario.formSpeed);</div>
-<div class="line"><span class="lineno">  368</span> </div>
-<div class="line"><span class="lineno">  369</span>        <span class="keywordtype">float</span> chance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(</div>
-<div class="line"><span class="lineno">  370</span>            _unit-&gt;GetAttackTime(0), PPM);</div>
-<div class="line"><span class="lineno">  371</span>        <span class="keywordtype">float</span> effectivePPM = <a class="code hl_function" href="../../dc/d94/a29186.html#a050a7405275f53b24207e5a94f0f2dcd">ProcChanceTestHelper::CalculateEffectivePPM</a>(</div>
-<div class="line"><span class="lineno">  372</span>            chance, scenario.formSpeed);</div>
-<div class="line"><span class="lineno">  373</span> </div>
-<div class="line"><span class="lineno">  374</span>        EXPECT_NEAR(effectivePPM, PPM, 0.01f)</div>
-<div class="line"><span class="lineno">  375</span>            &lt;&lt; scenario.name &lt;&lt; <span class="stringliteral">&quot;: GetAttackTime-based PPM should always match intended PPM&quot;</span>;</div>
-<div class="line"><span class="lineno">  376</span>    }</div>
-<div class="line"><span class="lineno">  377</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00208">ProcChanceTestHelper::CalculateEffectivePPM()</a>, <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, <a class="el" href="../../#l00196">ProcChanceTestHelper::FORM_SPEED_BEAR</a>, <a class="el" href="../../#l00195">ProcChanceTestHelper::FORM_SPEED_CAT</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="aa1421e922e607bf83d6348d8cfb3e61c" name="aa1421e922e607bf83d6348d8cfb3e61c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1421e922e607bf83d6348d8cfb3e61c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[20/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ShapeshiftBug_NonShifted_NoDiscrepancy&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  241</span>{</div>
-<div class="line"><span class="lineno">  242</span>    <span class="comment">// A warrior with a 3.6s weapon: proto-&gt;Delay == GetAttackTime()</span></div>
-<div class="line"><span class="lineno">  243</span>    <span class="keyword">constexpr</span> <a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WEAPON_DELAY = <a class="code hl_variable" href="../../dc/d94/a29186.html#acffda28a662863f651d0aae5587300cd">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>;</div>
-<div class="line"><span class="lineno">  244</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> MONGOOSE_PPM = 1.0f;</div>
-<div class="line"><span class="lineno">  245</span> </div>
-<div class="line"><span class="lineno">  246</span>    _unit-&gt;SetAttackTime(0, WEAPON_DELAY);</div>
-<div class="line"><span class="lineno">  247</span> </div>
-<div class="line"><span class="lineno">  248</span>    <span class="keywordtype">float</span> chanceFromProtoDelay = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(WEAPON_DELAY, MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> chanceFromGetAttackTime = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(</div>
-<div class="line"><span class="lineno">  250</span>        _unit-&gt;GetAttackTime(0), MONGOOSE_PPM);</div>
-<div class="line"><span class="lineno">  251</span> </div>
-<div class="line"><span class="lineno">  252</span>    EXPECT_FLOAT_EQ(chanceFromProtoDelay, chanceFromGetAttackTime)</div>
-<div class="line"><span class="lineno">  253</span>        &lt;&lt; <span class="stringliteral">&quot;Non-shapeshifted: proto-&gt;Delay and GetAttackTime() should be identical&quot;</span>;</div>
-<div class="line"><span class="lineno">  254</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>, and <a class="el" href="../../#l00190">ProcChanceTestHelper::WEAPON_SPEED_STAFF</a>.</p>
-
-</div>
-</div>
-<a id="a0ecc1d1a3fe097523b683612714be585" name="a0ecc1d1a3fe097523b683612714be585"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ecc1d1a3fe097523b683612714be585">&#9670;&#160;</a></span>TEST_F() <span class="overload">[21/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">UnitStub_GetPPMProcChance_CustomWeaponSpeed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
-<div class="line"><span class="lineno">  119</span>    _unit-&gt;SetAttackTime(0, 2500); <span class="comment">// BASE_ATTACK</span></div>
-<div class="line"><span class="lineno">  120</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(_unit-&gt;GetAttackTime(0), 6.0f);</div>
-<div class="line"><span class="lineno">  121</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  122</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab62c7f868fef4a454b48e828cfc97bc1" name="ab62c7f868fef4a454b48e828cfc97bc1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab62c7f868fef4a454b48e828cfc97bc1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[22/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">UnitStub_GetPPMProcChance_DefaultWeaponSpeed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
-<div class="line"><span class="lineno">  112</span>    <span class="comment">// Default weapon speed is 2000ms</span></div>
-<div class="line"><span class="lineno">  113</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2000, 6.0f);</div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_NEAR(result, 20.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  115</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aa3f155d3e40e3d9a72b9aab37e02c2d5" name="aa3f155d3e40e3d9a72b9aab37e02c2d5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa3f155d3e40e3d9a72b9aab37e02c2d5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[23/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">UnitStub_GetPPMProcChance_ModifierNotAppliedWithoutSpellId&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
-<div class="line"><span class="lineno">  134</span>    _unit-&gt;SetPPMModifier(12345, 2.0f);</div>
-<div class="line"><span class="lineno">  135</span>    <span class="comment">// Without spell ID, modifier is not applied</span></div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2500, 6.0f, 0);</div>
-<div class="line"><span class="lineno">  137</span>    EXPECT_NEAR(result, 25.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  138</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a89e1be04b18f0a1379f66db5f18f84cd" name="a89e1be04b18f0a1379f66db5f18f84cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89e1be04b18f0a1379f66db5f18f84cd">&#9670;&#160;</a></span>TEST_F() <span class="overload">[24/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">UnitStub_GetPPMProcChance_WithPPMModifier&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  125</span>{</div>
-<div class="line"><span class="lineno">  126</span>    _unit-&gt;SetPPMModifier(12345, 2.0f); <span class="comment">// Spell ID 12345 has +2 PPM modifier</span></div>
-<div class="line"><span class="lineno">  127</span>    <span class="keywordtype">float</span> result = _unit-&gt;GetPPMProcChance(2500, 6.0f, 12345);</div>
-<div class="line"><span class="lineno">  128</span>    <span class="comment">// 2500 * (6 + 2) / 600 = 33.33%</span></div>
-<div class="line"><span class="lineno">  129</span>    EXPECT_NEAR(result, 33.33f, 0.01f);</div>
-<div class="line"><span class="lineno">  130</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a5a2221ed60add2ea6f41efa43ba1caf5" name="a5a2221ed60add2ea6f41efa43ba1caf5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a2221ed60add2ea6f41efa43ba1caf5">&#9670;&#160;</a></span>TEST_F() <span class="overload">[25/25]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d5c/a29562.html">SpellProcPPMTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">WindfuryWeapon_PPM2_VariousWeaponSpeeds&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  181</span>{</div>
-<div class="line"><span class="lineno">  182</span>    <span class="comment">// Windfury Weapon: 2 PPM (low PPM for testing)</span></div>
-<div class="line"><span class="lineno">  183</span>    <span class="keyword">constexpr</span> <span class="keywordtype">float</span> WF_PPM = 2.0f;</div>
-<div class="line"><span class="lineno">  184</span> </div>
-<div class="line"><span class="lineno">  185</span>    <span class="comment">// Fast dagger</span></div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordtype">float</span> daggerChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(1400, WF_PPM);</div>
-<div class="line"><span class="lineno">  187</span>    EXPECT_NEAR(daggerChance, 4.67f, 0.01f);</div>
-<div class="line"><span class="lineno">  188</span> </div>
-<div class="line"><span class="lineno">  189</span>    <span class="comment">// Slow 2H weapon</span></div>
-<div class="line"><span class="lineno">  190</span>    <span class="keywordtype">float</span> twoHanderChance = <a class="code hl_function" href="../../dc/d94/a29186.html#aa5e3341309f011bf99711d3244cc9e1d">ProcChanceTestHelper::CalculatePPMChance</a>(3300, WF_PPM);</div>
-<div class="line"><span class="lineno">  191</span>    EXPECT_NEAR(twoHanderChance, 11.0f, 0.01f);</div>
-<div class="line"><span class="lineno">  192</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00046">ProcChanceTestHelper::CalculatePPMChance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00587">ProcChanceTestHelper::ConditionsConfig::conditionsMet</a>, <a class="el" href="../../#l00586">ProcChanceTestHelper::ConditionsConfig::hasConditions</a>, <a class="el" href="../../#l00598">ProcChanceTestHelper::ShouldBlockDueToConditions()</a>, and <a class="el" href="../../#l00588">ProcChanceTestHelper::ConditionsConfig::sourceType</a>.</p>
 
 </div>
 </div>
@@ -1195,8 +1179,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d1/dc1/a00092.html">SpellProcPPMTest.cpp</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d1/dc1/a00092.html">SpellProcConditionsTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

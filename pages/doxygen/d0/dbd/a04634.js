@@ -1,7 +1,13 @@
 var a04634 =
 [
-    [ "GameobjectModelData", "d2/d74/a05318.html", "d2/d74/a05318" ],
-    [ "ModelList", "d0/dbd/a04634.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "d0/dbd/a04634.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "d0/dbd/a04634.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "npc_underbat", "db/ddf/a23094.html", "db/ddf/a23094" ],
+    [ "spell_fungal_decay", "dd/d93/a23098.html", "dd/d93/a23098" ],
+    [ "spell_allergies", "df/d33/a23102.html", "df/d33/a23102" ],
+    [ "AllergiesEnum", "d0/dbd/a04634.html#a597f861031d65ff9c7c3da68293f6847", [
+      [ "SPELL_SNEEZE", "d0/dbd/a04634.html#a597f861031d65ff9c7c3da68293f6847aca231923ca4e3560754e0ead3753c7e3", null ]
+    ] ],
+    [ "UnderbatSpells", "d0/dbd/a04634.html#aba9ed07daed7ae7df6becb96f5194f52", [
+      [ "SPELL_TENTACLE_LASH", "d0/dbd/a04634.html#aba9ed07daed7ae7df6becb96f5194f52a8fb7d802a437e3e383ba2095ae12b96a", null ]
+    ] ],
+    [ "AddSC_underbog", "d0/dbd/a04634.html#a8c9725cac978bfa0eb0405faa6588549", null ]
 ];

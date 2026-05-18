@@ -1,4 +1,5 @@
 var a00797 =
 [
-    [ "MOVEMENT_PACKET_TIME_DELAY", "da/db8/a00797.html#a69e254ae3a119a96053add6b9732296c", null ]
+    [ "_characterCacheByNameStore", "da/db8/a00797.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "da/db8/a00797.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

@@ -1,7 +1,7 @@
 var a02795 =
 [
-    [ "instance_mechanar", "d6/d19/a23582.html", "d6/d19/a23582" ],
-    [ "instance_mechanar::instance_mechanar_InstanceMapScript", "d4/d22/a23586.html", "d4/d22/a23586" ],
-    [ "AddSC_instance_mechanar", "de/d05/a02795.html#a23f3274fbd28e19fae6647987fcdf0b9", null ],
-    [ "doorData", "de/d05/a02795.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "GetCleanAliasName", "de/d05/a02795.html#ae187308862c39923e2b843bc9d4c989c", null ],
+    [ "GetDefaultValue", "de/d05/a02795.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
+    [ "IsCorrectAlias", "de/d05/a02795.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
+    [ "IsCorrectFieldType", "de/d05/a02795.html#a61bef7957f008e8cd937746ba03feb73", null ]
 ];

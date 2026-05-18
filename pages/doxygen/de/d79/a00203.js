@@ -1,6 +1,7 @@
 var a00203 =
 [
-    [ "CharacterDatabase", "de/d79/a00203.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "de/d79/a00203.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "de/d79/a00203.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "VMAP::MeshTriangle", "db/d62/a05358.html", "db/d62/a05358" ],
+    [ "VMAP::WmoLiquid", "d2/da8/a05362.html", "d2/da8/a05362" ],
+    [ "VMAP::GroupModel", "d8/deb/a05366.html", "d8/deb/a05366" ],
+    [ "VMAP::WorldModel", "d8/d1d/a05370.html", "d8/d1d/a05370" ]
 ];

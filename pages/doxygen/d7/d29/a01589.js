@@ -1,5 +1,7 @@
 var a01589 =
 [
-    [ "Vehicle", "da/d80/a09102.html", "da/d80/a09102" ],
-    [ "VehicleDespawnEvent", "d0/d93/a09106.html", "d0/d93/a09106" ]
+    [ "AuraApplication", "d5/def/a11634.html", "d5/def/a11634" ],
+    [ "Aura", "d3/d73/a11638.html", "d3/d73/a11638" ],
+    [ "UnitAura", "d8/d8c/a11642.html", "d8/d8c/a11642" ],
+    [ "DynObjAura", "da/ddd/a11646.html", "da/ddd/a11646" ]
 ];

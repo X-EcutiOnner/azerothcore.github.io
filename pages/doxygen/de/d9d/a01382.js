@@ -1,4 +1,5 @@
 var a01382 =
 [
-    [ "VisibilityDistances", "de/d9d/a01382.html#a6165c6736a6e152a38f7dea1aa2c956b", null ]
+    [ "GetWeatherData", "de/d9d/a01382.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "de/d9d/a01382.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ]
 ];

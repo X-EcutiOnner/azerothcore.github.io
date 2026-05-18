@@ -1,5 +1,4 @@
 var a00416 =
 [
-    [ "WardenInitModuleRequest", "df/dac/a12094.html", "df/dac/a12094" ],
-    [ "WardenWin", "d3/d2d/a12098.html", "d3/d2d/a12098" ]
+    [ "CircularBuffer< T >", "db/dd1/a05730.html", "db/dd1/a05730" ]
 ];

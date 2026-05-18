@@ -1,5 +1,9 @@
 var a03530 =
 [
-    [ "OutdoorPvP_silithus", "de/d50/a22190.html", "de/d50/a22190" ],
-    [ "AddSC_outdoorpvp_si", "d0/de9/a03530.html#a6dfd2849f525333510ae4febbbc3ae1f", null ]
+    [ "instance_halls_of_stone", "d9/db3/a19822.html", "d9/db3/a19822" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "dd/d12/a19826.html", "dd/d12/a19826" ],
+    [ "AddSC_instance_halls_of_stone", "d0/de9/a03530.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
+    [ "boundaries", "d0/de9/a03530.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d0/de9/a03530.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "d0/de9/a03530.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

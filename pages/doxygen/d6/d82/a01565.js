@@ -1,6 +1,6 @@
 var a01565 =
 [
-    [ "AddItemsSetItem", "d6/d82/a01565.html#a02944420353f8ba883b80737f8e63137", null ],
-    [ "ItemCanGoIntoBag", "d6/d82/a01565.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
-    [ "RemoveItemsSetItem", "d6/d82/a01565.html#a402c3dd64769702b750f96adff4b3a14", null ]
+    [ "GameEventAIHookWorker", "de/d1c/a09130.html", "de/d1c/a09130" ],
+    [ "IsEventActive", "d6/d82/a01565.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "d6/d82/a01565.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

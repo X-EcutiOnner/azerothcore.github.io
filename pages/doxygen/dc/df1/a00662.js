@@ -1,4 +1,5 @@
 var a00662 =
 [
-    [ "ScriptRegistry< MailScript >", "dc/df1/a00662.html#a2c63e917d984cb7f72bcae15da56850c", null ]
+    [ "FactoryHolder< T, O, Key >", "d5/d90/a05494.html", "d5/d90/a05494" ],
+    [ "Permissible< T >", "d6/dca/a05498.html", "d6/dca/a05498" ]
 ];

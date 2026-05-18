@@ -1,5 +1,12 @@
 var a02522 =
 [
-    [ "message_commandscript", "da/d95/a12286.html", "da/d95/a12286" ],
-    [ "AddSC_message_commandscript", "d7/da8/a02522.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "WorldObjectScript", "dd/d60/a10770.html", "dd/d60/a10770" ],
+    [ "WorldObjectHook", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

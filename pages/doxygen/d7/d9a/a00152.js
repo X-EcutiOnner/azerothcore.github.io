@@ -1,15 +1,13 @@
 var a00152 =
 [
-    [ "ProcChanceTestHelper", "dc/d94/a29186.html", "dc/d94/a29186" ],
-    [ "ProcChanceTestHelper::TriggeredSpellConfig", "da/d9c/a29190.html", "da/d9c/a29190" ],
-    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d5/d3d/a29194.html", "d5/d3d/a29194" ],
-    [ "ProcChanceTestHelper::PPMModifierConfig", "d4/d25/a29198.html", "d4/d25/a29198" ],
-    [ "ProcChanceTestHelper::EquipmentConfig", "db/d53/a29202.html", "db/d53/a29202" ],
-    [ "ProcChanceTestHelper::CascadeProcConfig", "d6/d15/a29206.html", "d6/d15/a29206" ],
-    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "dd/d34/a29210.html", "dd/d34/a29210" ],
-    [ "ProcChanceTestHelper::ConditionsConfig", "d3/df7/a29214.html", "d3/df7/a29214" ],
-    [ "ProcTestScenario", "d4/db8/a29218.html", "d4/db8/a29218" ],
-    [ "ProcChainGuardSimulator", "df/d95/a29222.html", "df/d95/a29222" ],
-    [ "ProcChainGuardSimulator::AuraConfig", "da/df1/a29226.html", "da/df1/a29226" ],
-    [ "ProcChainGuardSimulator::ProcRecord", "db/d23/a29230.html", "db/d23/a29230" ]
+    [ "GameObjectSummonGroupTest", "d3/d6b/a29434.html", "d3/d6b/a29434" ],
+    [ "TEST_F", "d7/d9a/a00152.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#aae7159cdf8db068232caa791b826eb7a", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#ab7d11f87ee9e631646024c59d17e4476", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a0e990a163a2003f6224aa808aeb46965", null ],
+    [ "TEST_F", "d7/d9a/a00152.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
 ];

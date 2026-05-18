@@ -1,9 +1,25 @@
 var a01223 =
 [
-    [ "FlyByCameraCollection", "d7/ddd/a01223.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
-    [ "GetFlyByCameras", "d7/ddd/a01223.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
-    [ "LoadM2Cameras", "d7/ddd/a01223.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
-    [ "readCamera", "d7/ddd/a01223.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
-    [ "TranslateLocation", "d7/ddd/a01223.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
-    [ "sFlyByCameraStore", "d7/ddd/a01223.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
+    [ "SpawnGroupTemplateData", "da/d7f/a10210.html", "da/d7f/a10210" ],
+    [ "SpawnData", "d9/ddb/a10214.html", "d9/ddb/a10214" ],
+    [ "SpawnGroupFlags", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
+      [ "SPAWNGROUP_FLAG_NONE", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
+      [ "SPAWNGROUP_FLAG_SYSTEM", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],
+      [ "SPAWNGROUP_FLAG_COMPATIBILITY_MODE", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a425a0006a686cbb29860ce5ada6e6dc7", null ],
+      [ "SPAWNGROUP_FLAG_MANUAL_SPAWN", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a417fbb81820d8e43c7975f6e101f64da", null ],
+      [ "SPAWNGROUP_FLAG_DYNAMIC_SPAWN_RATE", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a08739c177a3fc0d8fefdd0952cbdb81f", null ],
+      [ "SPAWNGROUP_FLAG_ESCORTQUESTNPC", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567aed165c7835a95c52ad8dd1f9b56719c1", null ],
+      [ "SPAWNGROUP_FLAG_ALL", "d7/ddd/a01223.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a0d4be6bc9136b5fa19e8ba1146bfe5e6", null ]
+    ] ],
+    [ "SpawnObjectType", "d7/ddd/a01223.html#aca6d138cc8cbaa4fbb8366f26ecc6178", [
+      [ "SPAWN_TYPE_CREATURE", "d7/ddd/a01223.html#aca6d138cc8cbaa4fbb8366f26ecc6178a9c8e9a64f5a962ba5e1c699347c9a095", null ],
+      [ "SPAWN_TYPE_GAMEOBJECT", "d7/ddd/a01223.html#aca6d138cc8cbaa4fbb8366f26ecc6178a4986d513041762627e4ec53cb8ed2fa6", null ],
+      [ "SPAWN_TYPE_MAX", "d7/ddd/a01223.html#aca6d138cc8cbaa4fbb8366f26ecc6178a7fac2ccc2b6c53a62bd265c85b74278f", null ]
+    ] ],
+    [ "SpawnObjectTypeMask", "d7/ddd/a01223.html#a8d96153354cfa6d243ff15afdd439ab1", [
+      [ "SPAWN_TYPEMASK_CREATURE", "d7/ddd/a01223.html#a8d96153354cfa6d243ff15afdd439ab1a871f80356238edfc1535510a303f4ee2", null ],
+      [ "SPAWN_TYPEMASK_GAMEOBJECT", "d7/ddd/a01223.html#a8d96153354cfa6d243ff15afdd439ab1adfa26ca9fc2b3160505b0766be0da326", null ],
+      [ "SPAWN_TYPEMASK_ALL", "d7/ddd/a01223.html#a8d96153354cfa6d243ff15afdd439ab1ae97f493d106f1ed915209a294b4f4108", null ]
+    ] ],
+    [ "SPAWNGROUP_MAP_UNSET", "d7/ddd/a01223.html#a9041bb5e3b05220cb101faac61b48fd7", null ]
 ];

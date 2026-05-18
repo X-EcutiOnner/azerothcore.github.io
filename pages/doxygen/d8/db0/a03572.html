@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Events/winter_veil.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/Ulduar/Ulduar/instance_ulduar.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,271 +106,331 @@ $(document).ready(function(){initNavTree('d8/db0/a03572.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">winter_veil.cpp File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">instance_ulduar.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameEventMgr.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ulduar.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/def/a14894.html">spell_winter_veil_mistletoe</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d51/a20770.html">instance_ulduar</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d26/a14898.html">spell_winter_wondervolt_trap</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d0f/a20774.html">instance_ulduar::instance_ulduar_InstanceMapScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d79/a14902.html">spell_winter_veil_racer_rocket_slam</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d75/a14906.html">spell_winter_veil_racer_slam_hit</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/de2/a14910.html">spell_winter_veil_shoot_air_rifle</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a9ae560d3a366e6f163d4fbfd29d339ac"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339ac">Mistletoe</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc">SPELL_CREATE_MISTLETOE</a> = 26206
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508">SPELL_CREATE_HOLLY</a> = 26207
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a">SPELL_CREATE_SNOWFLAKES</a> = 45036
-<br />
- }</td></tr>
-<tr class="separator:a9ae560d3a366e6f163d4fbfd29d339ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a09023d9a36f692674809d983e0b46bb5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5">winterWondervoltTrap</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6">SPELL_WINTER_WONDERVOLT_GREEN_WOMEN</a> = 26272
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db">SPELL_WINTER_WONDERVOLT_GREEN_MAN</a> = 26157
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6">SPELL_WINTER_WONDERVOLT_RED_WOMEN</a> = 26274
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0">SPELL_WINTER_WONDERVOLT_RED_MAN</a> = 26273
-<br />
- }</td></tr>
-<tr class="separator:a09023d9a36f692674809d983e0b46bb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91189806a3728bf253348c6acff4d44a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44a">crashinTrashin</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303">SPELL_BLUE_CAR_VISUAL</a> = 75110
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9">SPELL_RED_CAR_VISUAL</a> = 49384
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83">NPC_RED_RACER</a> = 27664
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3">NPC_BLUE_RACER</a> = 40281
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e">SPELL_RACER_DEATH_VISUAL</a> = 49337
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a">SPELL_RACER_CHARGE_TO_OBJECT</a> = 49302
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68">SPELL_RACER_KILL_COUNTER</a> = 49444
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b">SPELL_RACER_SLAM_HIT</a> = 49324
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410">SPELL_RACER_FLAMES</a> = 49328
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d">RACER_ACHI_CRITERIA</a> = 4090
-<br />
- }</td></tr>
-<tr class="separator:a91189806a3728bf253348c6acff4d44a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a0aa9e1464024e9f2c7b6ec598e13ff"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ff">airRifle</a> { <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64">SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE</a> = 65577
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd">SPELL_AIR_RIFLE_STARLED</a> = 61862
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0">SPELL_AIR_RIFLE_HIT</a> = 61866
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af">SPELL_AIR_RIFLE_HIT_TRIGGER</a> = 65576
-, <br />
-&#160;&#160;<a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4">SPELL_AIR_RIFLE_PELTED_DAMAGE</a> = 67531
-<br />
- }</td></tr>
-<tr class="separator:a0a0aa9e1464024e9f2c7b6ec598e13ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a56e93f0f5c0f4763c439d5ea4cdf6c5e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e">AddSC_event_winter_veil_scripts</a> ()</td></tr>
-<tr class="separator:a56e93f0f5c0f4763c439d5ea4cdf6c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93e6e71a7717be3946c53d3b6093e517"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a93e6e71a7717be3946c53d3b6093e517">AddSC_instance_ulduar</a> ()</td></tr>
+<tr class="separator:a93e6e71a7717be3946c53d3b6093e517"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dbc/a09958.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
+<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32b0d989ca45f804d22a3fbe4c34e26d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d6/d2d/a08766.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a32b0d989ca45f804d22a3fbe4c34e26d">ObservationRingKeepersPos</a> [4]</td></tr>
+<tr class="separator:a32b0d989ca45f804d22a3fbe4c34e26d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6bfb66273606245524ffbaeba5d81ba"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#af6bfb66273606245524ffbaeba5d81ba">ObservationRingKeeperEntry</a> [4]</td></tr>
+<tr class="separator:af6bfb66273606245524ffbaeba5d81ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6755ef0777c335a9aa03f94b33600e69"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a6755ef0777c335a9aa03f94b33600e69">ObservationRingKeeperData</a> [4]</td></tr>
+<tr class="separator:a6755ef0777c335a9aa03f94b33600e69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86957a8b94f0bd1ffc5ac686aea19e80"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a86957a8b94f0bd1ffc5ac686aea19e80">ObservationRingKeeperBoss</a> [4]</td></tr>
+<tr class="separator:a86957a8b94f0bd1ffc5ac686aea19e80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
+<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a845a92716bd40c99a93eb0715cd737b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a845a92716bd40c99a93eb0715cd737b0">gameobjectData</a> []</td></tr>
+<tr class="separator:a845a92716bd40c99a93eb0715cd737b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41c6fcb7a2c575fa74a8e566a49bf1e1"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d6/d2d/a08766.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db0/a03572.html#a41c6fcb7a2c575fa74a8e566a49bf1e1">vehiclePositions</a> [30]</td></tr>
+<tr class="separator:a41c6fcb7a2c575fa74a8e566a49bf1e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0a0aa9e1464024e9f2c7b6ec598e13ff" name="a0a0aa9e1464024e9f2c7b6ec598e13ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a0aa9e1464024e9f2c7b6ec598e13ff">&#9670;&#160;</a></span>airRifle</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ff">airRifle</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64" name="a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64"></a>SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd" name="a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd"></a>SPELL_AIR_RIFLE_STARLED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0" name="a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0"></a>SPELL_AIR_RIFLE_HIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af" name="a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af"></a>SPELL_AIR_RIFLE_HIT_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4" name="a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4"></a>SPELL_AIR_RIFLE_PELTED_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  212</span>{</div>
-<div class="line"><span class="lineno">  213</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64">SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE</a>        = 65577,</div>
-<div class="line"><span class="lineno">  214</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd">SPELL_AIR_RIFLE_STARLED</a>                 = 61862,</div>
-<div class="line"><span class="lineno">  215</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0">SPELL_AIR_RIFLE_HIT</a>                     = 61866,</div>
-<div class="line"><span class="lineno">  216</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af">SPELL_AIR_RIFLE_HIT_TRIGGER</a>             = 65576,</div>
-<div class="line"><span class="lineno">  217</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4">SPELL_AIR_RIFLE_PELTED_DAMAGE</a>           = 67531,</div>
-<div class="line"><span class="lineno">  218</span>};</div>
-<div class="ttc" id="aa03572_html_a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64"><div class="ttname"><a href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64">SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE</a></div><div class="ttdeci">@ SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:213</div></div>
-<div class="ttc" id="aa03572_html_a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd"><div class="ttname"><a href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd">SPELL_AIR_RIFLE_STARLED</a></div><div class="ttdeci">@ SPELL_AIR_RIFLE_STARLED</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:214</div></div>
-<div class="ttc" id="aa03572_html_a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4"><div class="ttname"><a href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4">SPELL_AIR_RIFLE_PELTED_DAMAGE</a></div><div class="ttdeci">@ SPELL_AIR_RIFLE_PELTED_DAMAGE</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:217</div></div>
-<div class="ttc" id="aa03572_html_a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0"><div class="ttname"><a href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0">SPELL_AIR_RIFLE_HIT</a></div><div class="ttdeci">@ SPELL_AIR_RIFLE_HIT</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:215</div></div>
-<div class="ttc" id="aa03572_html_a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af"><div class="ttname"><a href="../../d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af">SPELL_AIR_RIFLE_HIT_TRIGGER</a></div><div class="ttdeci">@ SPELL_AIR_RIFLE_HIT_TRIGGER</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:216</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a91189806a3728bf253348c6acff4d44a" name="a91189806a3728bf253348c6acff4d44a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a91189806a3728bf253348c6acff4d44a">&#9670;&#160;</a></span>crashinTrashin</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44a">crashinTrashin</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303" name="a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303"></a>SPELL_BLUE_CAR_VISUAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9" name="a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9"></a>SPELL_RED_CAR_VISUAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83" name="a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83"></a>NPC_RED_RACER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3" name="a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3"></a>NPC_BLUE_RACER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e" name="a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e"></a>SPELL_RACER_DEATH_VISUAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a" name="a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a"></a>SPELL_RACER_CHARGE_TO_OBJECT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68" name="a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68"></a>SPELL_RACER_KILL_COUNTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b" name="a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b"></a>SPELL_RACER_SLAM_HIT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410" name="a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410"></a>SPELL_RACER_FLAMES&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d" name="a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d"></a>RACER_ACHI_CRITERIA&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  110</span>{</div>
-<div class="line"><span class="lineno">  111</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303">SPELL_BLUE_CAR_VISUAL</a>               = 75110,</div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9">SPELL_RED_CAR_VISUAL</a>                = 49384,</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83">NPC_RED_RACER</a>                       = 27664,</div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3">NPC_BLUE_RACER</a>                      = 40281,</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e">SPELL_RACER_DEATH_VISUAL</a>            = 49337,</div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a">SPELL_RACER_CHARGE_TO_OBJECT</a>        = 49302,</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68">SPELL_RACER_KILL_COUNTER</a>            = 49444,</div>
-<div class="line"><span class="lineno">  119</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b">SPELL_RACER_SLAM_HIT</a>                = 49324,</div>
-<div class="line"><span class="lineno">  120</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410">SPELL_RACER_FLAMES</a>                  = 49328,</div>
-<div class="line"><span class="lineno">  121</span> </div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d">RACER_ACHI_CRITERIA</a>                 = 4090,</div>
-<div class="line"><span class="lineno">  123</span>};</div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d">RACER_ACHI_CRITERIA</a></div><div class="ttdeci">@ RACER_ACHI_CRITERIA</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:122</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a">SPELL_RACER_CHARGE_TO_OBJECT</a></div><div class="ttdeci">@ SPELL_RACER_CHARGE_TO_OBJECT</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:117</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e">SPELL_RACER_DEATH_VISUAL</a></div><div class="ttdeci">@ SPELL_RACER_DEATH_VISUAL</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:116</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3">NPC_BLUE_RACER</a></div><div class="ttdeci">@ NPC_BLUE_RACER</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:114</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303">SPELL_BLUE_CAR_VISUAL</a></div><div class="ttdeci">@ SPELL_BLUE_CAR_VISUAL</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:111</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83">NPC_RED_RACER</a></div><div class="ttdeci">@ NPC_RED_RACER</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:113</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9">SPELL_RED_CAR_VISUAL</a></div><div class="ttdeci">@ SPELL_RED_CAR_VISUAL</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:112</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410">SPELL_RACER_FLAMES</a></div><div class="ttdeci">@ SPELL_RACER_FLAMES</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:120</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68">SPELL_RACER_KILL_COUNTER</a></div><div class="ttdeci">@ SPELL_RACER_KILL_COUNTER</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:118</div></div>
-<div class="ttc" id="aa03572_html_a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b"><div class="ttname"><a href="../../d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b">SPELL_RACER_SLAM_HIT</a></div><div class="ttdeci">@ SPELL_RACER_SLAM_HIT</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:119</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a9ae560d3a366e6f163d4fbfd29d339ac" name="a9ae560d3a366e6f163d4fbfd29d339ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9ae560d3a366e6f163d4fbfd29d339ac">&#9670;&#160;</a></span>Mistletoe</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339ac">Mistletoe</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc" name="a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc"></a>SPELL_CREATE_MISTLETOE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508" name="a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508"></a>SPELL_CREATE_HOLLY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a" name="a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a"></a>SPELL_CREATE_SNOWFLAKES&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc">SPELL_CREATE_MISTLETOE</a>          = 26206,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508">SPELL_CREATE_HOLLY</a>              = 26207,</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a">SPELL_CREATE_SNOWFLAKES</a>         = 45036</div>
-<div class="line"><span class="lineno">   34</span>};</div>
-<div class="ttc" id="aa03572_html_a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508">SPELL_CREATE_HOLLY</a></div><div class="ttdeci">@ SPELL_CREATE_HOLLY</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:32</div></div>
-<div class="ttc" id="aa03572_html_a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a">SPELL_CREATE_SNOWFLAKES</a></div><div class="ttdeci">@ SPELL_CREATE_SNOWFLAKES</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:33</div></div>
-<div class="ttc" id="aa03572_html_a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc"><div class="ttname"><a href="../../d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc">SPELL_CREATE_MISTLETOE</a></div><div class="ttdeci">@ SPELL_CREATE_MISTLETOE</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:31</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a09023d9a36f692674809d983e0b46bb5" name="a09023d9a36f692674809d983e0b46bb5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a09023d9a36f692674809d983e0b46bb5">&#9670;&#160;</a></span>winterWondervoltTrap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5">winterWondervoltTrap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6" name="a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6"></a>SPELL_WINTER_WONDERVOLT_GREEN_WOMEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db" name="a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db"></a>SPELL_WINTER_WONDERVOLT_GREEN_MAN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6" name="a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6"></a>SPELL_WINTER_WONDERVOLT_RED_WOMEN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0" name="a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0"></a>SPELL_WINTER_WONDERVOLT_RED_MAN&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6">SPELL_WINTER_WONDERVOLT_GREEN_WOMEN</a>     = 26272,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db">SPELL_WINTER_WONDERVOLT_GREEN_MAN</a>       = 26157,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6">SPELL_WINTER_WONDERVOLT_RED_WOMEN</a>       = 26274,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0">SPELL_WINTER_WONDERVOLT_RED_MAN</a>         = 26273,</div>
-<div class="line"><span class="lineno">   72</span>};</div>
-<div class="ttc" id="aa03572_html_a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6"><div class="ttname"><a href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6">SPELL_WINTER_WONDERVOLT_RED_WOMEN</a></div><div class="ttdeci">@ SPELL_WINTER_WONDERVOLT_RED_WOMEN</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:70</div></div>
-<div class="ttc" id="aa03572_html_a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6"><div class="ttname"><a href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6">SPELL_WINTER_WONDERVOLT_GREEN_WOMEN</a></div><div class="ttdeci">@ SPELL_WINTER_WONDERVOLT_GREEN_WOMEN</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:68</div></div>
-<div class="ttc" id="aa03572_html_a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0"><div class="ttname"><a href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0">SPELL_WINTER_WONDERVOLT_RED_MAN</a></div><div class="ttdeci">@ SPELL_WINTER_WONDERVOLT_RED_MAN</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:71</div></div>
-<div class="ttc" id="aa03572_html_a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db"><div class="ttname"><a href="../../d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db">SPELL_WINTER_WONDERVOLT_GREEN_MAN</a></div><div class="ttdeci">@ SPELL_WINTER_WONDERVOLT_GREEN_MAN</div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:69</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a56e93f0f5c0f4763c439d5ea4cdf6c5e" name="a56e93f0f5c0f4763c439d5ea4cdf6c5e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a56e93f0f5c0f4763c439d5ea4cdf6c5e">&#9670;&#160;</a></span>AddSC_event_winter_veil_scripts()</h2>
+<a id="a93e6e71a7717be3946c53d3b6093e517" name="a93e6e71a7717be3946c53d3b6093e517"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93e6e71a7717be3946c53d3b6093e517">&#9670;&#160;</a></span>AddSC_instance_ulduar()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_event_winter_veil_scripts </td>
+          <td class="memname">void AddSC_instance_ulduar </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  260</span>{</div>
-<div class="line"><span class="lineno">  261</span>    <span class="comment">// Spells</span></div>
-<div class="line"><span class="lineno">  262</span>    <a class="code hl_define" href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d5/def/a14894.html">spell_winter_veil_mistletoe</a>);</div>
-<div class="line"><span class="lineno">  263</span>    <a class="code hl_define" href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d26/a14898.html">spell_winter_wondervolt_trap</a>);</div>
-<div class="line"><span class="lineno">  264</span>    <a class="code hl_define" href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d79/a14902.html">spell_winter_veil_racer_rocket_slam</a>);</div>
-<div class="line"><span class="lineno">  265</span>    <a class="code hl_define" href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/d75/a14906.html">spell_winter_veil_racer_slam_hit</a>);</div>
-<div class="line"><span class="lineno">  266</span>    <a class="code hl_define" href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/de2/a14910.html">spell_winter_veil_shoot_air_rifle</a>);</div>
-<div class="line"><span class="lineno">  267</span>}</div>
-<div class="ttc" id="aa00521_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa14894_html"><div class="ttname"><a href="../../d5/def/a14894.html">spell_winter_veil_mistletoe</a></div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:38</div></div>
-<div class="ttc" id="aa14898_html"><div class="ttname"><a href="../../dd/d26/a14898.html">spell_winter_wondervolt_trap</a></div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:76</div></div>
-<div class="ttc" id="aa14902_html"><div class="ttname"><a href="../../da/d79/a14902.html">spell_winter_veil_racer_rocket_slam</a></div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:127</div></div>
-<div class="ttc" id="aa14906_html"><div class="ttname"><a href="../../da/d75/a14906.html">spell_winter_veil_racer_slam_hit</a></div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:183</div></div>
-<div class="ttc" id="aa14910_html"><div class="ttname"><a href="../../db/de2/a14910.html">spell_winter_veil_shoot_air_rifle</a></div><div class="ttdef"><b>Definition:</b> winter_veil.cpp:223</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1041</span>{</div>
+<div class="line"><span class="lineno"> 1042</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d9/d51/a20770.html">instance_ulduar</a>();</div>
+<div class="line"><span class="lineno"> 1043</span>}</div>
+<div class="ttc" id="aa20770_html"><div class="ttname"><a href="../../d9/d51/a20770.html">instance_ulduar</a></div><div class="ttdef"><b>Definition:</b> instance_ulduar.cpp:168</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00170">instance_ulduar::instance_ulduar()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">AddEventsScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const creatureData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00179">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/dbc/a09958.html">DoorData</a> const doorData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1">GO_LEVIATHAN_DOORS</a>,              <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3">BOSS_LEVIATHAN</a>, <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aeabcfedbee959ff7db15113b21e7ba1a">GO_LIGHTNING_WALL1</a>,              <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3">BOSS_LEVIATHAN</a>, <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40">GO_XT002_DOORS</a>,                  <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b">BOSS_XT002</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920">GO_KOLOGARN_DOORS</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c">BOSS_KOLOGARN</a>,  <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679">GO_ASSEMBLY_DOORS</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a>,  <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6">GO_ARCHIVUM_DOORS</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a>,  <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ad161f81eef304afadbb3cc1904a9df94">GO_MIMIRON_DOOR_1</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904afa567b28e19fd21f82ddb9f716504270">GO_MIMIRON_DOOR_2</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904acbb8e4524c1d6dcce0d408045505e999">GO_MIMIRON_DOOR_3</a>,               <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a99ff810c0d4f10eb80f9be2d7927779a">GO_HODIR_FRONTDOOR</a>,              <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ab60f2911b901448b1b94742a0292157c">GO_HODIR_FROZEN_DOOR</a>,            <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ad58e576840865956551adac6d4e2249d">GO_HODIR_DOOR</a>,                   <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43">GO_KEEPERS_GATE</a>,                 <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43">GO_KEEPERS_GATE</a>,                 <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43">GO_KEEPERS_GATE</a>,                 <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27">BOSS_THORIM</a>,    <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43">GO_KEEPERS_GATE</a>,                 <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985">BOSS_FREYA</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a41c6772c0f791c3dc8f565a8ad2dbaa9">GO_VEZAX_DOOR</a>,                   <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ad29c233976c6d3b541ab98fae0ed2c35">BOSS_VEZAX</a>,     <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e">GO_YOGG_SARON_DOORS</a>,             <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a>, <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48">GO_DOODAD_UL_SIGILDOOR_03</a>,       <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ab9f9f0ac990c094863a326c05e3cd020">GO_DOODAD_UL_UNIVERSEFLOOR_01</a>,   <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904af2dada6136ddc7445d3f46b6b3419ef1">GO_DOODAD_UL_UNIVERSEFLOOR_02</a>,   <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb">DOOR_TYPE_SPAWN_HOLE</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a0fd428b0ebe7376e4ffd7d62a4cff2d6">GO_DOODAD_UL_UNIVERSEGLOBE01</a>,    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb">DOOR_TYPE_SPAWN_HOLE</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8ba5028c92f262d3843b69b5072f8948">GO_DOODAD_UL_ULDUAR_TRAPDOOR_03</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a>,   <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb">DOOR_TYPE_SPAWN_HOLE</a> },</div>
+<div class="line">    { 0,                               0,              <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>       }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa01226_html_ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb"><div class="ttname"><a href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea05ae5ae0867f3b0c721a17ac307ff7bb">DOOR_TYPE_SPAWN_HOLE</a></div><div class="ttdeci">@ DOOR_TYPE_SPAWN_HOLE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:70</div></div>
+<div class="ttc" id="aa01226_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
+<div class="ttc" id="aa01226_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1939f0ebfd87a4a94730f934c450fcb3">BOSS_LEVIATHAN</a></div><div class="ttdeci">@ BOSS_LEVIATHAN</div><div class="ttdef"><b>Definition:</b> ulduar.h:31</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a1fade883fa2e99dff02a1dbc3828b0b6">BOSS_ALGALON</a></div><div class="ttdeci">@ BOSS_ALGALON</div><div class="ttdef"><b>Definition:</b> ulduar.h:44</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a4ca6733d8e65ec5a0a9e170c5924ebc9">BOSS_YOGGSARON</a></div><div class="ttdeci">@ BOSS_YOGGSARON</div><div class="ttdef"><b>Definition:</b> ulduar.h:43</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a></div><div class="ttdeci">@ BOSS_HODIR</div><div class="ttdef"><b>Definition:</b> ulduar.h:39</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a7976ce60f95785ec2d431b33be36d11c">BOSS_KOLOGARN</a></div><div class="ttdeci">@ BOSS_KOLOGARN</div><div class="ttdef"><b>Definition:</b> ulduar.h:36</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27">BOSS_THORIM</a></div><div class="ttdeci">@ BOSS_THORIM</div><div class="ttdef"><b>Definition:</b> ulduar.h:41</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985">BOSS_FREYA</a></div><div class="ttdeci">@ BOSS_FREYA</div><div class="ttdef"><b>Definition:</b> ulduar.h:38</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a9d89e49785117dadef0895926a2abe6b">BOSS_XT002</a></div><div class="ttdeci">@ BOSS_XT002</div><div class="ttdef"><b>Definition:</b> ulduar.h:34</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a></div><div class="ttdeci">@ BOSS_MIMIRON</div><div class="ttdef"><b>Definition:</b> ulduar.h:40</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392ad29c233976c6d3b541ab98fae0ed2c35"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ad29c233976c6d3b541ab98fae0ed2c35">BOSS_VEZAX</a></div><div class="ttdeci">@ BOSS_VEZAX</div><div class="ttdef"><b>Definition:</b> ulduar.h:42</div></div>
+<div class="ttc" id="aa03578_html_a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4"><div class="ttname"><a href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ad79f82c4a13d82b55a09830b1886a4e4">BOSS_ASSEMBLY</a></div><div class="ttdeci">@ BOSS_ASSEMBLY</div><div class="ttdef"><b>Definition:</b> ulduar.h:35</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a08fab2ae5061b8638afcfc722ad17d48">GO_DOODAD_UL_SIGILDOOR_03</a></div><div class="ttdeci">@ GO_DOODAD_UL_SIGILDOOR_03</div><div class="ttdef"><b>Definition:</b> ulduar.h:300</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a0fd428b0ebe7376e4ffd7d62a4cff2d6"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a0fd428b0ebe7376e4ffd7d62a4cff2d6">GO_DOODAD_UL_UNIVERSEGLOBE01</a></div><div class="ttdeci">@ GO_DOODAD_UL_UNIVERSEGLOBE01</div><div class="ttdef"><b>Definition:</b> ulduar.h:303</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a26e4721b2a25cedfa9b0f5aab89ee14e">GO_YOGG_SARON_DOORS</a></div><div class="ttdeci">@ GO_YOGG_SARON_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:293</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a3381b2797c303daa66f728e2d649e2d6">GO_ARCHIVUM_DOORS</a></div><div class="ttdeci">@ GO_ARCHIVUM_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:257</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a40663836f0442fb68686d97605f88ce1">GO_LEVIATHAN_DOORS</a></div><div class="ttdeci">@ GO_LEVIATHAN_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:243</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a41c6772c0f791c3dc8f565a8ad2dbaa9"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a41c6772c0f791c3dc8f565a8ad2dbaa9">GO_VEZAX_DOOR</a></div><div class="ttdeci">@ GO_VEZAX_DOOR</div><div class="ttdef"><b>Definition:</b> ulduar.h:281</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a746d2fa12f134bd556892e28d01eb920">GO_KOLOGARN_DOORS</a></div><div class="ttdeci">@ GO_KOLOGARN_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:260</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a8ba5028c92f262d3843b69b5072f8948"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8ba5028c92f262d3843b69b5072f8948">GO_DOODAD_UL_ULDUAR_TRAPDOOR_03</a></div><div class="ttdeci">@ GO_DOODAD_UL_ULDUAR_TRAPDOOR_03</div><div class="ttdef"><b>Definition:</b> ulduar.h:304</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8d5b9b08ae4a34284a11dc866ff9dc40">GO_XT002_DOORS</a></div><div class="ttdeci">@ GO_XT002_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:262</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a8eb745af3c6dca408adfbe7e9530d679">GO_ASSEMBLY_DOORS</a></div><div class="ttdeci">@ GO_ASSEMBLY_DOORS</div><div class="ttdef"><b>Definition:</b> ulduar.h:258</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904a99ff810c0d4f10eb80f9be2d7927779a"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904a99ff810c0d4f10eb80f9be2d7927779a">GO_HODIR_FRONTDOOR</a></div><div class="ttdeci">@ GO_HODIR_FRONTDOOR</div><div class="ttdef"><b>Definition:</b> ulduar.h:280</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904ab60f2911b901448b1b94742a0292157c"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ab60f2911b901448b1b94742a0292157c">GO_HODIR_FROZEN_DOOR</a></div><div class="ttdeci">@ GO_HODIR_FROZEN_DOOR</div><div class="ttdef"><b>Definition:</b> ulduar.h:278</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904ab9f9f0ac990c094863a326c05e3cd020"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ab9f9f0ac990c094863a326c05e3cd020">GO_DOODAD_UL_UNIVERSEFLOOR_01</a></div><div class="ttdeci">@ GO_DOODAD_UL_UNIVERSEFLOOR_01</div><div class="ttdef"><b>Definition:</b> ulduar.h:301</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aba28150c48de86f2adba2c93f56adb43">GO_KEEPERS_GATE</a></div><div class="ttdeci">@ GO_KEEPERS_GATE</div><div class="ttdef"><b>Definition:</b> ulduar.h:261</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904acbb8e4524c1d6dcce0d408045505e999"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904acbb8e4524c1d6dcce0d408045505e999">GO_MIMIRON_DOOR_3</a></div><div class="ttdeci">@ GO_MIMIRON_DOOR_3</div><div class="ttdef"><b>Definition:</b> ulduar.h:277</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904ad161f81eef304afadbb3cc1904a9df94"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ad161f81eef304afadbb3cc1904a9df94">GO_MIMIRON_DOOR_1</a></div><div class="ttdeci">@ GO_MIMIRON_DOOR_1</div><div class="ttdef"><b>Definition:</b> ulduar.h:275</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904ad58e576840865956551adac6d4e2249d"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904ad58e576840865956551adac6d4e2249d">GO_HODIR_DOOR</a></div><div class="ttdeci">@ GO_HODIR_DOOR</div><div class="ttdef"><b>Definition:</b> ulduar.h:279</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904aeabcfedbee959ff7db15113b21e7ba1a"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904aeabcfedbee959ff7db15113b21e7ba1a">GO_LIGHTNING_WALL1</a></div><div class="ttdeci">@ GO_LIGHTNING_WALL1</div><div class="ttdef"><b>Definition:</b> ulduar.h:244</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904af2dada6136ddc7445d3f46b6b3419ef1"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904af2dada6136ddc7445d3f46b6b3419ef1">GO_DOODAD_UL_UNIVERSEFLOOR_02</a></div><div class="ttdeci">@ GO_DOODAD_UL_UNIVERSEFLOOR_02</div><div class="ttdef"><b>Definition:</b> ulduar.h:302</div></div>
+<div class="ttc" id="aa03578_html_a73f5d28752ceaaa887c1a1a2c7006904afa567b28e19fd21f82ddb9f716504270"><div class="ttname"><a href="../../d9/d65/a03578.html#a73f5d28752ceaaa887c1a1a2c7006904afa567b28e19fd21f82ddb9f716504270">GO_MIMIRON_DOOR_2</a></div><div class="ttdeci">@ GO_MIMIRON_DOOR_2</div><div class="ttdef"><b>Definition:</b> ulduar.h:276</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00179">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a845a92716bd40c99a93eb0715cd737b0" name="a845a92716bd40c99a93eb0715cd737b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a845a92716bd40c99a93eb0715cd737b0">&#9670;&#160;</a></span>gameobjectData</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const gameobjectData[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00179">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>.</p>
+
+</div>
+</div>
+<a id="a86957a8b94f0bd1ffc5ac686aea19e80" name="a86957a8b94f0bd1ffc5ac686aea19e80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86957a8b94f0bd1ffc5ac686aea19e80">&#9670;&#160;</a></span>ObservationRingKeeperBoss</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const ObservationRingKeeperBoss[4]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95d3ecd6778f98fd0d415d1391b46985">BOSS_FREYA</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392ab52737d524f37edcc0ae9f992a6916f3">BOSS_MIMIRON</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a578eceaac26622326c101b3ef711d392a95cc2c5038390a4ecab7d2d55004ca27">BOSS_THORIM</a></div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00236">instance_ulduar::instance_ulduar_InstanceMapScript::OnPlayerEnter()</a>.</p>
+
+</div>
+</div>
+<a id="a6755ef0777c335a9aa03f94b33600e69" name="a6755ef0777c335a9aa03f94b33600e69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6755ef0777c335a9aa03f94b33600e69">&#9670;&#160;</a></span>ObservationRingKeeperData</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const ObservationRingKeeperData[4]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2a23ea1e5fa78af91f0762f0c57048a141">DATA_FREYA_GOSSIP</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2a8c03691efdf02c6ae7e912df34833f6f">DATA_HODIR_GOSSIP</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2ac14fe3a753bf7c038499926e637f459a">DATA_MIMIRON_GOSSIP</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2acaa441e261f6cd4e9608fe8bf6c73737">DATA_THORIM_GOSSIP</a></div>
+<div class="line">}</div>
+<div class="ttc" id="aa03578_html_a637b611fb0e8ff96b12cacdde24ac9b2a23ea1e5fa78af91f0762f0c57048a141"><div class="ttname"><a href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2a23ea1e5fa78af91f0762f0c57048a141">DATA_FREYA_GOSSIP</a></div><div class="ttdeci">@ DATA_FREYA_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:148</div></div>
+<div class="ttc" id="aa03578_html_a637b611fb0e8ff96b12cacdde24ac9b2a8c03691efdf02c6ae7e912df34833f6f"><div class="ttname"><a href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2a8c03691efdf02c6ae7e912df34833f6f">DATA_HODIR_GOSSIP</a></div><div class="ttdeci">@ DATA_HODIR_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:149</div></div>
+<div class="ttc" id="aa03578_html_a637b611fb0e8ff96b12cacdde24ac9b2ac14fe3a753bf7c038499926e637f459a"><div class="ttname"><a href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2ac14fe3a753bf7c038499926e637f459a">DATA_MIMIRON_GOSSIP</a></div><div class="ttdeci">@ DATA_MIMIRON_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:150</div></div>
+<div class="ttc" id="aa03578_html_a637b611fb0e8ff96b12cacdde24ac9b2acaa441e261f6cd4e9608fe8bf6c73737"><div class="ttname"><a href="../../d9/d65/a03578.html#a637b611fb0e8ff96b12cacdde24ac9b2acaa441e261f6cd4e9608fe8bf6c73737">DATA_THORIM_GOSSIP</a></div><div class="ttdeci">@ DATA_THORIM_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:151</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00236">instance_ulduar::instance_ulduar_InstanceMapScript::OnPlayerEnter()</a>.</p>
+
+</div>
+</div>
+<a id="af6bfb66273606245524ffbaeba5d81ba" name="af6bfb66273606245524ffbaeba5d81ba"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6bfb66273606245524ffbaeba5d81ba">&#9670;&#160;</a></span>ObservationRingKeeperEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> const ObservationRingKeeperEntry[4]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28">NPC_FREYA_GOSSIP</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2acfe692dd0beadf9227ca35625952e86e">NPC_HODIR_GOSSIP</a>,</div>
+<div class="line">    <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a5c07284b8e520cab400aade9551a153a">NPC_MIMIRON_GOSSIP</a>, <a class="code hl_enumvalue" href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71">NPC_THORIM_GOSSIP</a></div>
+<div class="line">}</div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a07d06d50bd4c932b11dc4dba4d75af71">NPC_THORIM_GOSSIP</a></div><div class="ttdeci">@ NPC_THORIM_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:192</div></div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a104b5ed6f71268cfbecf2c66b9e88b28">NPC_FREYA_GOSSIP</a></div><div class="ttdeci">@ NPC_FREYA_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:190</div></div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2a5c07284b8e520cab400aade9551a153a"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2a5c07284b8e520cab400aade9551a153a">NPC_MIMIRON_GOSSIP</a></div><div class="ttdeci">@ NPC_MIMIRON_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:193</div></div>
+<div class="ttc" id="aa03578_html_abfe5de1fd9db676abc952fa6839d50b2acfe692dd0beadf9227ca35625952e86e"><div class="ttname"><a href="../../d9/d65/a03578.html#abfe5de1fd9db676abc952fa6839d50b2acfe692dd0beadf9227ca35625952e86e">NPC_HODIR_GOSSIP</a></div><div class="ttdeci">@ NPC_HODIR_GOSSIP</div><div class="ttdef"><b>Definition:</b> ulduar.h:191</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00236">instance_ulduar::instance_ulduar_InstanceMapScript::OnPlayerEnter()</a>, and <a class="el" href="../../#l00313">instance_ulduar::instance_ulduar_InstanceMapScript::SetBossState()</a>.</p>
+
+</div>
+</div>
+<a id="a32b0d989ca45f804d22a3fbe4c34e26d" name="a32b0d989ca45f804d22a3fbe4c34e26d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32b0d989ca45f804d22a3fbe4c34e26d">&#9670;&#160;</a></span>ObservationRingKeepersPos</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d2d/a08766.html">Position</a> const ObservationRingKeepersPos[4]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    {1945.6823f,  33.342014f, 411.44083f, 5.270895f}, </div>
+<div class="line">    {1945.7609f, -81.52171f,  411.4407f,  1.029744f}, </div>
+<div class="line">    {2028.7656f,  17.42014f,  411.44458f, 3.857178f}, </div>
+<div class="line">    {2028.8219f, -65.73573f,  411.44257f, 2.460914f}  </div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00236">instance_ulduar::instance_ulduar_InstanceMapScript::OnPlayerEnter()</a>, and <a class="el" href="../../#l00313">instance_ulduar::instance_ulduar_InstanceMapScript::SetBossState()</a>.</p>
+
+</div>
+</div>
+<a id="a41c6fcb7a2c575fa74a8e566a49bf1e1" name="a41c6fcb7a2c575fa74a8e566a49bf1e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a41c6fcb7a2c575fa74a8e566a49bf1e1">&#9670;&#160;</a></span>vehiclePositions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../d6/d2d/a08766.html">Position</a> vehiclePositions[30]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01005">instance_ulduar::instance_ulduar_InstanceMapScript::SpawnLeviathanEncounterVehicles()</a>.</p>
 
 </div>
 </div>
@@ -379,8 +439,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../d8/db0/a03572.html">winter_veil.cpp</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:52:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_fd35eb90f0e73b64930f951fffa7a603.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../dir_10467085a1f56260d3e93e65d32ed8de.html">Ulduar</a></li><li class="navelem"><a class="el" href="../../d8/db0/a03572.html">instance_ulduar.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

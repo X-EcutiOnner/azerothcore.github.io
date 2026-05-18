@@ -1,10 +1,26 @@
 var a00752 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "dd/d5c/a00752.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "dd/d5c/a00752.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "dd/d5c/a00752.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "dd/d5c/a00752.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "dd/d5c/a00752.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "dd/d5c/a00752.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "dd/d5c/a00752.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "map_id", "de/deb/a29722.html", "de/deb/a29722" ],
+    [ "_CRT_SECURE_NO_DEPRECATE", "dd/d5c/a00752.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MPQ_BLOCK_SIZE", "dd/d5c/a00752.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
+    [ "ExtractSingleWmo", "dd/d5c/a00752.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "dd/d5c/a00752.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "fillArchiveNameVector", "dd/d5c/a00752.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
+    [ "GenerateUniqueObjectId", "dd/d5c/a00752.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "getGamePath", "dd/d5c/a00752.html#a6bb580270fe96b7e6ccb585658850d17", null ],
+    [ "main", "dd/d5c/a00752.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "ParsMapFiles", "dd/d5c/a00752.html#a50c73ad000da4df06ae438373eeaf60e", null ],
+    [ "processArgv", "dd/d5c/a00752.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
+    [ "scan_patches", "dd/d5c/a00752.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
+    [ "strToLower", "dd/d5c/a00752.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "gOpenArchives", "dd/d5c/a00752.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
+    [ "hasInputPathParam", "dd/d5c/a00752.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
+    [ "input_path", "dd/d5c/a00752.html#a773984b4a48966b7ea95d0586db0210b", null ],
+    [ "map_count", "dd/d5c/a00752.html#a6fcdefd114e6ec71964d6539163fc055", null ],
+    [ "map_ids", "dd/d5c/a00752.html#a12b965536bcabf2e2edd7db2196630cd", null ],
+    [ "output_path", "dd/d5c/a00752.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
+    [ "preciseVectorData", "dd/d5c/a00752.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
+    [ "szWorkDirWmo", "dd/d5c/a00752.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
+    [ "uniqueObjectIds", "dd/d5c/a00752.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
+    [ "WmoDoodads", "dd/d5c/a00752.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

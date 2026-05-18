@@ -1,5 +1,23 @@
 var a04628 =
 [
-    [ "BIHWrap< T, BoundsFunc >", "da/d1b/a05182.html", "da/d1b/a05182" ],
-    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "db/d21/a05186.html", "db/d21/a05186" ]
+    [ "instance_black_temple", "dc/d98/a22674.html", "dc/d98/a22674" ],
+    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d3/d3d/a22678.html", "d3/d3d/a22678" ],
+    [ "spell_black_template_harpooners_mark_aura", "de/d2d/a22682.html", "de/d2d/a22682" ],
+    [ "spell_black_template_free_friend", "d2/d9e/a22686.html", "d2/d9e/a22686" ],
+    [ "spell_black_temple_curse_of_the_bleakheart_aura", "d4/df1/a22690.html", "d4/df1/a22690" ],
+    [ "spell_black_temple_skeleton_shot_aura", "db/da7/a22694.html", "db/da7/a22694" ],
+    [ "spell_black_temple_wyvern_sting_aura", "d0/ddd/a22698.html", "d0/ddd/a22698" ],
+    [ "spell_black_temple_charge_rage_aura", "db/d1f/a22702.html", "db/d1f/a22702" ],
+    [ "spell_black_temple_shadow_inferno_aura", "db/d6d/a22706.html", "db/d6d/a22706" ],
+    [ "spell_black_temple_spell_absorption_aura", "d1/d49/a22710.html", "d1/d49/a22710" ],
+    [ "spell_black_temple_bloodbolt", "d0/d9e/a22714.html", "d0/d9e/a22714" ],
+    [ "spell_black_temple_consuming_strikes_aura", "dc/d83/a22718.html", "dc/d83/a22718" ],
+    [ "spell_black_temple_curse_of_vitality_aura", "dd/d0b/a22722.html", "dd/d0b/a22722" ],
+    [ "spell_black_temple_summon_shadowfiends", "d2/de6/a22726.html", "d2/de6/a22726" ],
+    [ "spell_black_temple_l5_arcane_charge", "d0/dfa/a22730.html", "d0/dfa/a22730" ],
+    [ "AddSC_instance_black_temple", "d3/d6e/a04628.html#a15f766c45ce62741982e2a1711514aa8", null ],
+    [ "boundaries", "d3/d6e/a04628.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d3/d6e/a04628.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d3/d6e/a04628.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "summonData", "d3/d6e/a04628.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

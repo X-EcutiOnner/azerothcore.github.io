@@ -324,7 +324,7 @@ template&lt;typename linktag &gt; </div>
 <div class="line"><span class="lineno">  223</span> </div>
 <div class="line"><span class="lineno">  224</span>            <span class="comment">// store value</span></div>
 <div class="line"><span class="lineno">  225</span>            <span class="keywordflow">if</span> (!linktag::StoreTo(<a class="code hl_variable" href="../../d3/d56/a08018.html#aef50fdfc79df3ca784eb90a69bd43076">val</a>, info.<a class="code hl_variable" href="../../d8/d6f/a08130.html#a7d7d839de8eb48a25e2b687b69a092ea">data</a>))</div>
-<div class="line"><span class="lineno">  226</span>                <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d3f/a05069.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608">LANG_CMDPARSER_LINKDATA_INVALID</a>);</div>
+<div class="line"><span class="lineno">  226</span>                <span class="keywordflow">return</span> <a class="code hl_function" href="../../d2/d3f/a05069.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a>(handler, <a class="code hl_enumvalue" href="../../dd/d1b/a02351.html#af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608">LANG_CMDPARSER_LINKDATA_INVALID</a>);</div>
 <div class="line"><span class="lineno">  227</span> </div>
 <div class="line"><span class="lineno">  228</span>            <span class="comment">// finally, skip any potential delimiters</span></div>
 <div class="line"><span class="lineno">  229</span>            <span class="keyword">auto</span> [token, next] = <a class="code hl_function" href="../../d2/d3f/a05069.html#aeca95018e8d551d917cf69e0764ccef7">Acore::Impl::ChatCommands::tokenize</a>(info.<a class="code hl_variable" href="../../d8/d6f/a08130.html#a065d1a0942abbe5739f44126d5c3ce00">tail</a>);</div>
@@ -333,7 +333,7 @@ template&lt;typename linktag &gt; </div>
 <div class="line"><span class="lineno">  232</span>            <span class="keywordflow">else</span></div>
 <div class="line"><span class="lineno">  233</span>                <span class="keywordflow">return</span> info.<a class="code hl_variable" href="../../d8/d6f/a08130.html#a065d1a0942abbe5739f44126d5c3ce00">tail</a>;</div>
 <div class="line"><span class="lineno">  234</span>        }</div>
-<div class="ttc" id="aa01322_html_af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608"><div class="ttname"><a href="../../d5/df4/a01322.html#af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608">LANG_CMDPARSER_LINKDATA_INVALID</a></div><div class="ttdeci">@ LANG_CMDPARSER_LINKDATA_INVALID</div><div class="ttdef"><b>Definition:</b> Language.h:1010</div></div>
+<div class="ttc" id="aa02351_html_af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608"><div class="ttname"><a href="../../dd/d1b/a02351.html#af9ee42b1cf006ecb2d2e74fe71c0761aac2186314785642f35591b3e5fdb3d608">LANG_CMDPARSER_LINKDATA_INVALID</a></div><div class="ttdeci">@ LANG_CMDPARSER_LINKDATA_INVALID</div><div class="ttdef"><b>Definition:</b> Language.h:1010</div></div>
 <div class="ttc" id="aa05069_html_a1106e69269315156c6019b7812547ce9"><div class="ttname"><a href="../../d2/d3f/a05069.html#a1106e69269315156c6019b7812547ce9">Acore::Impl::ChatCommands::GetAcoreString</a></div><div class="ttdeci">AC_GAME_API std::string GetAcoreString(ChatHandler const *handler, AcoreStrings which)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:27</div></div>
 <div class="ttc" id="aa05069_html_aeca95018e8d551d917cf69e0764ccef7"><div class="ttname"><a href="../../d2/d3f/a05069.html#aeca95018e8d551d917cf69e0764ccef7">Acore::Impl::ChatCommands::tokenize</a></div><div class="ttdeci">TokenizeResult tokenize(std::string_view args)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:54</div></div>
 <div class="ttc" id="aa05071_html_a2c5596879f4531eeedbe15d1e4987918"><div class="ttname"><a href="../../db/d78/a05071.html#a2c5596879f4531eeedbe15d1e4987918">Acore::Hyperlinks::ParseSingleHyperlink</a></div><div class="ttdeci">HyperlinkInfo AC_GAME_API ParseSingleHyperlink(std::string_view str)</div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:33</div></div>
@@ -379,7 +379,7 @@ template&lt;typename linktag &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d61/a05028.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d0f/a05070.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d3/d56/a08018.html">Hyperlink</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

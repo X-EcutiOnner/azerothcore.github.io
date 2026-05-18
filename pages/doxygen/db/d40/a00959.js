@@ -1,17 +1,20 @@
 var a00959 =
 [
-    [ "AddSC_deathknight_spell_scripts", "db/d40/a00959.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
-    [ "AddSC_druid_spell_scripts", "db/d40/a00959.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
-    [ "AddSC_generic_spell_scripts", "db/d40/a00959.html#ac2941716297c47e58e65de027a53ce16", null ],
-    [ "AddSC_hunter_spell_scripts", "db/d40/a00959.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
-    [ "AddSC_item_spell_scripts", "db/d40/a00959.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
-    [ "AddSC_mage_spell_scripts", "db/d40/a00959.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
-    [ "AddSC_paladin_spell_scripts", "db/d40/a00959.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
-    [ "AddSC_priest_spell_scripts", "db/d40/a00959.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "AddSC_quest_spell_scripts", "db/d40/a00959.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
-    [ "AddSC_rogue_spell_scripts", "db/d40/a00959.html#a540405afe3345e19487d2db693272b2a", null ],
-    [ "AddSC_shaman_spell_scripts", "db/d40/a00959.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
-    [ "AddSC_warlock_spell_scripts", "db/d40/a00959.html#a2054657c41c2347732a7d2903e3b8138", null ],
-    [ "AddSC_warrior_spell_scripts", "db/d40/a00959.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
-    [ "AddSpellsScripts", "db/d40/a00959.html#aed7f09583615630437020215a3851296", null ]
+    [ "lfg::LfgQueueData", "df/d51/a08282.html", "df/d51/a08282" ],
+    [ "lfg::LfgWaitTime", "d8/d84/a08286.html", "d8/d84/a08286" ],
+    [ "lfg::LFGQueue", "da/da7/a08290.html", "da/da7/a08290" ],
+    [ "LfgCompatibleContainer", "db/d40/a00959.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
+    [ "LfgQueueDataContainer", "db/d40/a00959.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
+    [ "LfgWaitTimesContainer", "db/d40/a00959.html#a58714a43cbdc03f4008681528fb20447", null ],
+    [ "LfgCompatibility", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6", [
+      [ "LFG_COMPATIBILITY_PENDING", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
+      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
+      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
+      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
+      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
+      [ "LFG_INCOMPATIBLES_NO_ROLES", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
+      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
+      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
+      [ "LFG_COMPATIBLES_MATCH", "db/d40/a00959.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    ] ]
 ];

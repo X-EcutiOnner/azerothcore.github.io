@@ -1,5 +1,6 @@
 var a02483 =
 [
-    [ "spectator_commandscript", "dc/dc1/a12382.html", "dc/dc1/a12382" ],
-    [ "AddSC_spectator_commandscript", "d3/de3/a02483.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
+    [ "InstanceMapScript", "d6/dc2/a10690.html", "d6/dc2/a10690" ],
+    [ "GenericInstanceMapScript< IS >", "d9/d73/a10694.html", "d9/d73/a10694" ],
+    [ "RegisterInstanceScript", "d3/de3/a02483.html#a78044a95772db069981b463451a60613", null ]
 ];

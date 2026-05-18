@@ -1,6 +1,8 @@
 var a02372 =
 [
-    [ "instance_ragefire_chasm", "da/d79/a15246.html", "da/d79/a15246" ],
-    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "d4/d0e/a15250.html", "d4/d0e/a15250" ],
-    [ "AddSC_instance_ragefire_chasm", "da/d75/a02372.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
+    [ "MailScript", "d2/da2/a10706.html", "d2/da2/a10706" ],
+    [ "MailHook", "da/d75/a02372.html#a7a2fb0cc0937712e8aff65574e1068d6", [
+      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "da/d75/a02372.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
+      [ "MAILHOOK_END", "da/d75/a02372.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
+    ] ]
 ];

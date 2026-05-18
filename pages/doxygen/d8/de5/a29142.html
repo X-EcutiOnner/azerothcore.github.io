@@ -140,7 +140,7 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:adee75944dc2e9a3fff7848d0ccfff527"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a26531bd3f3256075455b32b42a172f6a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dc1/a11754.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de5/a29142.html#a26531bd3f3256075455b32b42a172f6a">CreateProcEntry</a> ()</td></tr>
 <tr class="separator:a26531bd3f3256075455b32b42a172f6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a81032fc22ce45902d34cf897606bd966"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d4f/a09038.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de5/a29142.html#a81032fc22ce45902d34cf897606bd966">CreateEventInfo</a> (uint32_t typeMask, uint32_t hitMask, uint32_t <a class="el" href="../../dc/dd2/a01604.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>=<a class="el" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>, uint32_t spellPhaseMask=<a class="el" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</td></tr>
+<tr class="memitem:a81032fc22ce45902d34cf897606bd966"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d4f/a09038.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de5/a29142.html#a81032fc22ce45902d34cf897606bd966">CreateEventInfo</a> (uint32_t typeMask, uint32_t hitMask, uint32_t <a class="el" href="../../dc/dbf/a01595.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>=<a class="el" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>, uint32_t spellPhaseMask=<a class="el" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</td></tr>
 <tr class="separator:a81032fc22ce45902d34cf897606bd966"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a409ccb130f529cb20e5164b465e05ca6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de5/a29142.html#a409ccb130f529cb20e5164b465e05ca6">TestCanProc</a> (<a class="el" href="../../d3/dc1/a11754.html">SpellProcEntry</a> const &amp;procEntry, uint32_t typeMask, uint32_t hitMask, <a class="el" href="../../d7/d7c/a11750.html">SpellInfo</a> const *triggerSpell=nullptr)</td></tr>
 <tr class="separator:a409ccb130f529cb20e5164b465e05ca6"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -212,13 +212,13 @@ Private Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>spellTypeMask</em> = <code><a class="el" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></code>, </td>
+          <td class="paramname"><em>spellTypeMask</em> = <code><a class="el" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>spellPhaseMask</em> = <code><a class="el" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></code>&#160;</td>
+          <td class="paramname"><em>spellPhaseMask</em> = <code><a class="el" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -236,11 +236,11 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  188</span>        <span class="keywordflow">return</span> <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
 <div class="line"><span class="lineno">  189</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(typeMask)</div>
 <div class="line"><span class="lineno">  190</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(hitMask)</div>
-<div class="line"><span class="lineno">  191</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_variable" href="../../dc/dd2/a01604.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>)</div>
+<div class="line"><span class="lineno">  191</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_variable" href="../../dc/dbf/a01595.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>)</div>
 <div class="line"><span class="lineno">  192</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(spellPhaseMask)</div>
 <div class="line"><span class="lineno">  193</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
 <div class="line"><span class="lineno">  194</span>    }</div>
-<div class="ttc" id="aa01604_html_aacbfece2441a495ad1e709acd28bc9b7"><div class="ttname"><a href="../../dc/dd2/a01604.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a></div><div class="ttdeci">static uint32 spellTypeMask[TOTAL_AURAS]</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:1819</div></div>
+<div class="ttc" id="aa01595_html_aacbfece2441a495ad1e709acd28bc9b7"><div class="ttname"><a href="../../dc/dbf/a01595.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a></div><div class="ttdeci">static uint32 spellTypeMask[TOTAL_AURAS]</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:1819</div></div>
 <div class="ttc" id="aa29234_html"><div class="ttname"><a href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a></div><div class="ttdoc">Builder class for creating ProcEventInfo test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:31</div></div>
 <div class="ttc" id="aa29234_html_a2247bbb4936f6d48c4214641a5a466af"><div class="ttname"><a href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">ProcEventInfoBuilder::WithSpellPhaseMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithSpellPhaseMask(uint32 spellPhaseMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:69</div></div>
 <div class="ttc" id="aa29234_html_a83de461b19bd737c5aa2e7fd3ad2a302"><div class="ttname"><a href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">ProcEventInfoBuilder::WithTypeMask</a></div><div class="ttdeci">ProcEventInfoBuilder &amp; WithTypeMask(uint32 typeMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:57</div></div>
@@ -478,15 +478,15 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  207</span>        <span class="keyword">auto</span> eventInfo = <a class="code hl_class" href="../../d6/dff/a29234.html">ProcEventInfoBuilder</a>()</div>
 <div class="line"><span class="lineno">  208</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#a83de461b19bd737c5aa2e7fd3ad2a302">WithTypeMask</a>(typeMask)</div>
 <div class="line"><span class="lineno">  209</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#ac8d9c890333158313fb6bd9bdcd14fcf">WithHitMask</a>(hitMask)</div>
-<div class="line"><span class="lineno">  210</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>)</div>
-<div class="line"><span class="lineno">  211</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
+<div class="line"><span class="lineno">  210</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#aebac87d053e09dba16456a9f49322973">WithSpellTypeMask</a>(<a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>)</div>
+<div class="line"><span class="lineno">  211</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#a2247bbb4936f6d48c4214641a5a466af">WithSpellPhaseMask</a>(<a class="code hl_enumvalue" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</div>
 <div class="line"><span class="lineno">  212</span>            .<a class="code hl_function" href="../../d6/dff/a29234.html#ae0f8d3a43a218b4459db0aa3fee95bf0">Build</a>();</div>
 <div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../db/d95/a01637.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, eventInfo);</div>
+<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> <a class="code hl_define" href="../../d6/d82/a01607.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;CanSpellTriggerProcOnEvent(procEntry, eventInfo);</div>
 <div class="line"><span class="lineno">  215</span>    }</div>
-<div class="ttc" id="aa01637_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../db/d95/a01637.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:836</div></div>
-<div class="ttc" id="aa01637_html_acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860"><div class="ttname"><a href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_MASK_ALL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:242</div></div>
-<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:249</div></div>
+<div class="ttc" id="aa01607_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d6/d82/a01607.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:836</div></div>
+<div class="ttc" id="aa01607_html_acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860"><div class="ttname"><a href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_MASK_ALL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:242</div></div>
+<div class="ttc" id="aa01607_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:249</div></div>
 <div class="ttc" id="aa09030_html"><div class="ttname"><a href="../../d4/dfd/a09030.html">DamageInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:336</div></div>
 <div class="ttc" id="aa09034_html"><div class="ttname"><a href="../../df/d49/a09034.html">HealInfo</a></div><div class="ttdef"><b>Definition:</b> Unit.h:383</div></div>
 </div><!-- fragment -->
@@ -613,7 +613,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/de5/a29142.html">AuraScriptProcTestFixture</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:51:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

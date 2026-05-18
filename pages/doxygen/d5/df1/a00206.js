@@ -1,7 +1,7 @@
 var a00206 =
 [
-    [ "SQLQueryHolderBase", "d2/d44/a06130.html", "d2/d44/a06130" ],
-    [ "SQLQueryHolder< T >", "d5/d61/a05982.html", "d5/d61/a05982" ],
-    [ "SQLQueryHolderTask", "dc/d40/a06134.html", "dc/d40/a06134" ],
-    [ "SQLQueryHolderCallback", "d6/de0/a06138.html", "d6/de0/a06138" ]
+    [ "GameobjectModelData", "d2/d74/a05318.html", "d2/d74/a05318" ],
+    [ "ModelList", "d5/df1/a00206.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
+    [ "LoadGameObjectModelList", "d5/df1/a00206.html#a5a80774080fc05f90c7d92213fda6788", null ],
+    [ "model_list", "d5/df1/a00206.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
 ];

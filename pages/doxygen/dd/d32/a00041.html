@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Entities/ResetAttackTimerTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Pools/PoolQuestReloadTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,68 +105,69 @@ $(document).ready(function(){initNavTree('dd/d32/a00041.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ResetAttackTimerTest.cpp File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">PoolQuestReloadTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;cstdint&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PoolMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">QuestDef.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d64/a29438.html">anonymous_namespace{PoolQuestReloadTest.cpp}::PoolQuestReloadTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d90/a29442.html">PoolQuestReloadFixTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d3/d91/a05119"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a05119.html">anonymous_namespace{ResetAttackTimerTest.cpp}</a></td></tr>
+<tr class="memitem:d0/d7d/a05120"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html">anonymous_namespace{PoolQuestReloadTest.cpp}</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula</a> (int32_t currentTimer, int32_t fullTime)</td></tr>
-<tr class="separator:ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae298365d32c23f29d12e5f81b91db99"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula</a> (int32_t, int32_t fullTime)</td></tr>
-<tr class="separator:aae298365d32c23f29d12e5f81b91db99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf515241ac86050cd79d68b509c5ea29"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime</a> (uint32_t baseAttackTime, float modSpeedPct)</td></tr>
-<tr class="separator:acf515241ac86050cd79d68b509c5ea29"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1abe08c7becc5f8bc2d034cf7312a1b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a1abe08c7becc5f8bc2d034cf7312a1b1">TEST</a> (ResetAttackTimerTest, NormalReset_TimerAtZero)</td></tr>
-<tr class="separator:a1abe08c7becc5f8bc2d034cf7312a1b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a582b8801c33d3f605c91bf0aab1f699c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a582b8801c33d3f605c91bf0aab1f699c">TEST</a> (ResetAttackTimerTest, NormalReset_SmallNegativeTimer)</td></tr>
-<tr class="separator:a582b8801c33d3f605c91bf0aab1f699c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1835c78c8476bbaf740ca65e27ab5c03"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a1835c78c8476bbaf740ca65e27ab5c03">TEST</a> (ResetAttackTimerTest, LagSpike_LargeNegativeTimer)</td></tr>
-<tr class="separator:a1835c78c8476bbaf740ca65e27ab5c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a819dde76e3b5bd1171dc3fb7e37c3a53"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a819dde76e3b5bd1171dc3fb7e37c3a53">TEST</a> (ResetAttackTimerTest, GluthParryHaste_BurstAttack)</td></tr>
-<tr class="separator:a819dde76e3b5bd1171dc3fb7e37c3a53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af92bca5e60d83a245a06403f58a9360c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#af92bca5e60d83a245a06403f58a9360c">TEST</a> (ResetAttackTimerTest, ParryHasteFloor_MultipleParries)</td></tr>
-<tr class="separator:af92bca5e60d83a245a06403f58a9360c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa46aba4f46e0c4cf1611bf2ff0b11f53"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#aa46aba4f46e0c4cf1611bf2ff0b11f53">TEST</a> (ResetAttackTimerTest, ConsecutiveBursts_OldFormulaChainAttacks)</td></tr>
-<tr class="separator:aa46aba4f46e0c4cf1611bf2ff0b11f53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1c4cf8b997d096dc906ccd5c846e90e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#af1c4cf8b997d096dc906ccd5c846e90e">TEST</a> (ResetAttackTimerTest, HasteModifier_CorrectCalculation)</td></tr>
-<tr class="separator:af1c4cf8b997d096dc906ccd5c846e90e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab956bb191fe7eb20bc88e43c071e07b5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#ab956bb191fe7eb20bc88e43c071e07b5">TEST</a> (ResetAttackTimerTest, EdgeCase_TimerEqualsNegativeFullTime)</td></tr>
-<tr class="separator:ab956bb191fe7eb20bc88e43c071e07b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bf8b2c46faea4396f67f27c689c7d65"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a9bf8b2c46faea4396f67f27c689c7d65">TEST</a> (ResetAttackTimerTest, EdgeCase_PositiveTimer)</td></tr>
-<tr class="separator:a9bf8b2c46faea4396f67f27c689c7d65"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbd23a84fa5f4c2b09dbe42a501443be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#acbd23a84fa5f4c2b09dbe42a501443be">TEST</a> (ResetAttackTimerTest, Invariant_AlwaysReturnsFullTime)</td></tr>
-<tr class="separator:acbd23a84fa5f4c2b09dbe42a501443be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a88949b970cd89daff9f2c804fbbd30f8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#a88949b970cd89daff9f2c804fbbd30f8">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_F</a> (PoolQuestReloadTest, Spawn1ObjectAddsQuestToCreatureRelationMap)</td></tr>
+<tr class="separator:a88949b970cd89daff9f2c804fbbd30f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1ebd88d38dd3fe29dacfb916249f401"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#ae1ebd88d38dd3fe29dacfb916249f401">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_F</a> (PoolQuestReloadTest, ReloadCreatureQuestStarterRemovesPooledQuest)</td></tr>
+<tr class="separator:ae1ebd88d38dd3fe29dacfb916249f401"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51f076a8299a77b2bed17414ee1ab77d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#a51f076a8299a77b2bed17414ee1ab77d">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_F</a> (PoolQuestReloadTest, Spawn1ObjectAfterReloadRestoresQuest)</td></tr>
+<tr class="separator:a51f076a8299a77b2bed17414ee1ab77d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae965ec2c5a54532198d25c78231d7888"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#ae965ec2c5a54532198d25c78231d7888">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_F</a> (PoolQuestReloadTest, NonPooledQuestSurvivesReload)</td></tr>
+<tr class="separator:ae965ec2c5a54532198d25c78231d7888"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3536d0c27abb116492165d7ab3dcaaaf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d32/a00041.html#a3536d0c27abb116492165d7ab3dcaaaf">TEST_F</a> (<a class="el" href="../../df/d90/a29442.html">PoolQuestReloadFixTest</a>, ReSpawnPoolQuestsRestoresQuestAfterReload)</td></tr>
+<tr class="separator:a3536d0c27abb116492165d7ab3dcaaaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:acd85c89c48bf6aa262bd81ed03493826"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#acd85c89c48bf6aa262bd81ed03493826">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_QUEST_ID</a> = 99998</td></tr>
+<tr class="separator:acd85c89c48bf6aa262bd81ed03493826"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d99cbff2ccde67787a3c4448497f949"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7d/a05120.html#a9d99cbff2ccde67787a3c4448497f949">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_CREATURE_ID</a> = 99999</td></tr>
+<tr class="separator:a9d99cbff2ccde67787a3c4448497f949"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="aa46aba4f46e0c4cf1611bf2ff0b11f53" name="aa46aba4f46e0c4cf1611bf2ff0b11f53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa46aba4f46e0c4cf1611bf2ff0b11f53">&#9670;&#160;</a></span>TEST() <span class="overload">[1/10]</span></h2>
+<a id="a3536d0c27abb116492165d7ab3dcaaaf" name="a3536d0c27abb116492165d7ab3dcaaaf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3536d0c27abb116492165d7ab3dcaaaf">&#9670;&#160;</a></span>TEST_F()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
+          <td class="paramtype"><a class="el" href="../../df/d90/a29442.html">PoolQuestReloadFixTest</a>&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ConsecutiveBursts_OldFormulaChainAttacks&#160;</td>
+          <td class="paramtype">ReSpawnPoolQuestsRestoresQuestAfterReload&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -176,419 +177,46 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f); <span class="comment">// Gluth enraged: 1280ms</span></div>
-<div class="line"><span class="lineno">  149</span>    int32_t timer = -2500; <span class="comment">// Large lag spike</span></div>
-<div class="line"><span class="lineno">  150</span> </div>
-<div class="line"><span class="lineno">  151</span>    <span class="keywordtype">int</span> attackCount = 0;</div>
-<div class="line"><span class="lineno">  152</span>    <span class="comment">// Simulate old formula: how many attacks fire before timer &gt; 0?</span></div>
-<div class="line"><span class="lineno">  153</span>    <span class="keywordflow">while</span> (timer &lt;= 0)</div>
-<div class="line"><span class="lineno">  154</span>    {</div>
-<div class="line"><span class="lineno">  155</span>        attackCount++;</div>
-<div class="line"><span class="lineno">  156</span>        timer = <a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(timer, fullTime);</div>
-<div class="line"><span class="lineno">  157</span>    }</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <span class="comment">// Old formula allows multiple attacks in burst</span></div>
-<div class="line"><span class="lineno">  160</span>    EXPECT_GT(attackCount, 1);</div>
-<div class="line"><span class="lineno">  161</span> </div>
-<div class="line"><span class="lineno">  162</span>    <span class="comment">// New formula: always exactly 1 attack then timer is positive</span></div>
-<div class="line"><span class="lineno">  163</span>    timer = -2500;</div>
-<div class="line"><span class="lineno">  164</span>    <span class="keywordtype">int</span> newAttackCount = 0;</div>
-<div class="line"><span class="lineno">  165</span>    <span class="comment">// Only one attack fires (the one that triggered the reset)</span></div>
-<div class="line"><span class="lineno">  166</span>    timer = <a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(timer, fullTime);</div>
-<div class="line"><span class="lineno">  167</span>    <span class="keywordflow">if</span> (timer &gt; 0)</div>
-<div class="line"><span class="lineno">  168</span>        newAttackCount = 1;</div>
-<div class="line"><span class="lineno">  169</span> </div>
-<div class="line"><span class="lineno">  170</span>    EXPECT_EQ(newAttackCount, 1);</div>
-<div class="line"><span class="lineno">  171</span>    EXPECT_GT(timer, 0);</div>
-<div class="line"><span class="lineno">  172</span>}</div>
-<div class="ttc" id="aa05119_html_aae298365d32c23f29d12e5f81b91db99"><div class="ttname"><a href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula</a></div><div class="ttdeci">int32_t NewResetFormula(int32_t, int32_t fullTime)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:48</div></div>
-<div class="ttc" id="aa05119_html_ab75ddecb6b6e4a6ea3bd62e8a45d2ba2"><div class="ttname"><a href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula</a></div><div class="ttdeci">int32_t OldResetFormula(int32_t currentTimer, int32_t fullTime)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:42</div></div>
-<div class="ttc" id="aa05119_html_acf515241ac86050cd79d68b509c5ea29"><div class="ttname"><a href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime</a></div><div class="ttdeci">int32_t CalcFullTime(uint32_t baseAttackTime, float modSpeedPct)</div><div class="ttdef"><b>Definition:</b> ResetAttackTimerTest.cpp:54</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  269</span>{</div>
+<div class="line"><span class="lineno">  270</span>    <span class="comment">// 1. Spawn the quest onto the NPC (simulates normal startup)</span></div>
+<div class="line"><span class="lineno">  271</span>    <a class="code hl_class" href="../../db/dab/a10518.html">PoolGroup&lt;Quest&gt;</a> poolGroup;</div>
+<div class="line"><span class="lineno">  272</span>    <a class="code hl_struct" href="../../dc/d06/a10506.html">PoolObject</a> obj(<a class="code hl_variable" href="../../d0/d7d/a05120.html#acd85c89c48bf6aa262bd81ed03493826">TEST_QUEST_ID</a>, 0.0f);</div>
+<div class="line"><span class="lineno">  273</span>    poolGroup.<a class="code hl_function" href="../../db/dab/a10518.html#a90bd9f2c7c65d81d1804ae0c9017eaa9">Spawn1Object</a>(&amp;obj);</div>
+<div class="line"><span class="lineno">  274</span> </div>
+<div class="line"><span class="lineno">  275</span>    <span class="keyword">auto</span> count = [&amp;]() {</div>
+<div class="line"><span class="lineno">  276</span>        <a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> n = 0;</div>
+<div class="line"><span class="lineno">  277</span>        <span class="keyword">auto</span> range = creatureQuestMap-&gt;equal_range(<a class="code hl_variable" href="../../d0/d7d/a05120.html#a9d99cbff2ccde67787a3c4448497f949">TEST_CREATURE_ID</a>);</div>
+<div class="line"><span class="lineno">  278</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> it = range.first; it != range.second; ++it)</div>
+<div class="line"><span class="lineno">  279</span>            <span class="keywordflow">if</span> (it-&gt;second == <a class="code hl_variable" href="../../d0/d7d/a05120.html#acd85c89c48bf6aa262bd81ed03493826">TEST_QUEST_ID</a>)</div>
+<div class="line"><span class="lineno">  280</span>                ++n;</div>
+<div class="line"><span class="lineno">  281</span>        <span class="keywordflow">return</span> n;</div>
+<div class="line"><span class="lineno">  282</span>    };</div>
+<div class="line"><span class="lineno">  283</span> </div>
+<div class="line"><span class="lineno">  284</span>    ASSERT_EQ(count(), 1u) &lt;&lt; <span class="stringliteral">&quot;Quest should be on creature before reload&quot;</span>;</div>
+<div class="line"><span class="lineno">  285</span> </div>
+<div class="line"><span class="lineno">  286</span>    <span class="comment">// 2. Simulate reload: clear creature quest map and repopulate pool mapping</span></div>
+<div class="line"><span class="lineno">  287</span>    creatureQuestMap-&gt;clear();</div>
+<div class="line"><span class="lineno">  288</span>    <a class="code hl_define" href="../../d3/d00/a00785.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.clear();</div>
+<div class="line"><span class="lineno">  289</span>    <a class="code hl_define" href="../../d3/d00/a00785.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;mQuestCreatureRelation.insert(</div>
+<div class="line"><span class="lineno">  290</span>        PooledQuestRelation::value_type(<a class="code hl_variable" href="../../d0/d7d/a05120.html#acd85c89c48bf6aa262bd81ed03493826">TEST_QUEST_ID</a>, <a class="code hl_variable" href="../../d0/d7d/a05120.html#a9d99cbff2ccde67787a3c4448497f949">TEST_CREATURE_ID</a>));</div>
+<div class="line"><span class="lineno">  291</span> </div>
+<div class="line"><span class="lineno">  292</span>    ASSERT_EQ(count(), 0u) &lt;&lt; <span class="stringliteral">&quot;Quest should be gone after reload clears the map&quot;</span>;</div>
+<div class="line"><span class="lineno">  293</span> </div>
+<div class="line"><span class="lineno">  294</span>    <span class="comment">// 3. THE FIX: ReSpawnPoolQuests re-inserts active pool quests</span></div>
+<div class="line"><span class="lineno">  295</span>    <a class="code hl_define" href="../../d3/d00/a00785.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a>-&gt;ReSpawnPoolQuests();</div>
+<div class="line"><span class="lineno">  296</span> </div>
+<div class="line"><span class="lineno">  297</span>    EXPECT_EQ(count(), 1u)</div>
+<div class="line"><span class="lineno">  298</span>        &lt;&lt; <span class="stringliteral">&quot;ReSpawnPoolQuests should restore active pool quests after reload&quot;</span>;</div>
+<div class="line"><span class="lineno">  299</span>}</div>
+<div class="ttc" id="aa00506_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00785_html_a9189dd9c6265b9e6d57104dd61a5fe85"><div class="ttname"><a href="../../d3/d00/a00785.html#a9189dd9c6265b9e6d57104dd61a5fe85">sPoolMgr</a></div><div class="ttdeci">#define sPoolMgr</div><div class="ttdef"><b>Definition:</b> PoolMgr.h:177</div></div>
+<div class="ttc" id="aa05120_html_a9d99cbff2ccde67787a3c4448497f949"><div class="ttname"><a href="../../d0/d7d/a05120.html#a9d99cbff2ccde67787a3c4448497f949">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_CREATURE_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_CREATURE_ID</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:40</div></div>
+<div class="ttc" id="aa05120_html_acd85c89c48bf6aa262bd81ed03493826"><div class="ttname"><a href="../../d0/d7d/a05120.html#acd85c89c48bf6aa262bd81ed03493826">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_QUEST_ID</a></div><div class="ttdeci">static constexpr uint32 TEST_QUEST_ID</div><div class="ttdef"><b>Definition:</b> PoolQuestReloadTest.cpp:39</div></div>
+<div class="ttc" id="aa10506_html"><div class="ttname"><a href="../../dc/d06/a10506.html">PoolObject</a></div><div class="ttdef"><b>Definition:</b> PoolMgr.h:33</div></div>
+<div class="ttc" id="aa10518_html"><div class="ttname"><a href="../../db/dab/a10518.html">PoolGroup</a></div><div class="ttdef"><b>Definition:</b> PoolMgr.h:70</div></div>
+<div class="ttc" id="aa10518_html_a90bd9f2c7c65d81d1804ae0c9017eaa9"><div class="ttname"><a href="../../db/dab/a10518.html#a90bd9f2c7c65d81d1804ae0c9017eaa9">PoolGroup::Spawn1Object</a></div><div class="ttdeci">void Spawn1Object(PoolObject *obj)</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a9bf8b2c46faea4396f67f27c689c7d65" name="a9bf8b2c46faea4396f67f27c689c7d65"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bf8b2c46faea4396f67f27c689c7d65">&#9670;&#160;</a></span>TEST() <span class="overload">[2/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_PositiveTimer&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">  208</span>    int32_t currentTimer = 500; <span class="comment">// 500ms remaining</span></div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <span class="comment">// Old formula: min(500 + 2000, 2000) = min(2500, 2000) = 2000</span></div>
-<div class="line"><span class="lineno">  211</span>    <span class="comment">// Capped at full time — correct behavior</span></div>
-<div class="line"><span class="lineno">  212</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  213</span> </div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// New formula: same result</span></div>
-<div class="line"><span class="lineno">  215</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  216</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="ab956bb191fe7eb20bc88e43c071e07b5" name="ab956bb191fe7eb20bc88e43c071e07b5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab956bb191fe7eb20bc88e43c071e07b5">&#9670;&#160;</a></span>TEST() <span class="overload">[3/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">EdgeCase_TimerEqualsNegativeFullTime&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
-<div class="line"><span class="lineno">  193</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">  194</span>    int32_t currentTimer = -2000;</div>
-<div class="line"><span class="lineno">  195</span> </div>
-<div class="line"><span class="lineno">  196</span>    <span class="comment">// Old formula: min(-2000 + 2000, 2000) = min(0, 2000) = 0</span></div>
-<div class="line"><span class="lineno">  197</span>    <span class="comment">// Timer exactly 0 — attack is immediately ready again</span></div>
-<div class="line"><span class="lineno">  198</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <span class="comment">// New formula: 2000 — proper delay</span></div>
-<div class="line"><span class="lineno">  201</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">  202</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a819dde76e3b5bd1171dc3fb7e37c3a53" name="a819dde76e3b5bd1171dc3fb7e37c3a53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a819dde76e3b5bd1171dc3fb7e37c3a53">&#9670;&#160;</a></span>TEST() <span class="overload">[4/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">GluthParryHaste_BurstAttack&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  101</span>{</div>
-<div class="line"><span class="lineno">  102</span>    <span class="comment">// Gluth: 1600ms base, 25% enrage haste</span></div>
-<div class="line"><span class="lineno">  103</span>    <span class="comment">// GetAttackTime returns base (1600), modSpeedPct = 0.8 (25% haste)</span></div>
-<div class="line"><span class="lineno">  104</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f); <span class="comment">// = 1280ms</span></div>
-<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(fullTime, 1280);</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    <span class="comment">// After parry-haste reduces timer to near-zero and a lag spike</span></div>
-<div class="line"><span class="lineno">  108</span>    <span class="comment">// causes 2+ seconds of unprocessed time</span></div>
-<div class="line"><span class="lineno">  109</span>    int32_t currentTimer = -2000;</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>    <span class="comment">// Old formula: min(-2000 + 1280, 1280) = min(-720, 1280) = -720</span></div>
-<div class="line"><span class="lineno">  112</span>    <span class="comment">// Timer deeply negative — immediate burst attack</span></div>
-<div class="line"><span class="lineno">  113</span>    EXPECT_LT(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>    <span class="comment">// New formula: 1280ms — proper cooldown before next swing</span></div>
-<div class="line"><span class="lineno">  116</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 1280);</div>
-<div class="line"><span class="lineno">  117</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="af1c4cf8b997d096dc906ccd5c846e90e" name="af1c4cf8b997d096dc906ccd5c846e90e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1c4cf8b997d096dc906ccd5c846e90e">&#9670;&#160;</a></span>TEST() <span class="overload">[5/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">HasteModifier_CorrectCalculation&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  176</span>{</div>
-<div class="line"><span class="lineno">  177</span>    <span class="comment">// No haste: 2000ms base</span></div>
-<div class="line"><span class="lineno">  178</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f), 2000);</div>
-<div class="line"><span class="lineno">  179</span> </div>
-<div class="line"><span class="lineno">  180</span>    <span class="comment">// 25% haste (modSpeedPct = 0.8)</span></div>
-<div class="line"><span class="lineno">  181</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 0.8f), 1600);</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>    <span class="comment">// 50% slow (modSpeedPct = 1.5)</span></div>
-<div class="line"><span class="lineno">  184</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.5f), 3000);</div>
-<div class="line"><span class="lineno">  185</span> </div>
-<div class="line"><span class="lineno">  186</span>    <span class="comment">// Enrage (25% haste on 1600ms base)</span></div>
-<div class="line"><span class="lineno">  187</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 0.8f), 1280);</div>
-<div class="line"><span class="lineno">  188</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>.</p>
-
-</div>
-</div>
-<a id="acbd23a84fa5f4c2b09dbe42a501443be" name="acbd23a84fa5f4c2b09dbe42a501443be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acbd23a84fa5f4c2b09dbe42a501443be">&#9670;&#160;</a></span>TEST() <span class="overload">[6/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Invariant_AlwaysReturnsFullTime&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  220</span>{</div>
-<div class="line"><span class="lineno">  221</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 1.0f);</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>    <span class="comment">// Test a wide range of current timer values</span></div>
-<div class="line"><span class="lineno">  224</span>    <span class="keywordflow">for</span> (int32_t timer = -10000; timer &lt;= 10000; timer += 100)</div>
-<div class="line"><span class="lineno">  225</span>        EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(timer, fullTime), fullTime);</div>
-<div class="line"><span class="lineno">  226</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, and <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a1835c78c8476bbaf740ca65e27ab5c03" name="a1835c78c8476bbaf740ca65e27ab5c03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1835c78c8476bbaf740ca65e27ab5c03">&#9670;&#160;</a></span>TEST() <span class="overload">[7/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">LagSpike_LargeNegativeTimer&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">   89</span>    int32_t currentTimer = -3000; <span class="comment">// 3 second lag spike</span></div>
-<div class="line"><span class="lineno">   90</span> </div>
-<div class="line"><span class="lineno">   91</span>    <span class="comment">// Old formula: min(-3000 + 2000, 2000) = min(-1000, 2000) = -1000</span></div>
-<div class="line"><span class="lineno">   92</span>    <span class="comment">// Timer is STILL negative — attack fires immediately again!</span></div>
-<div class="line"><span class="lineno">   93</span>    EXPECT_LT(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 0);</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>    <span class="comment">// New formula: always 2000 — no burst</span></div>
-<div class="line"><span class="lineno">   96</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   97</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a582b8801c33d3f605c91bf0aab1f699c" name="a582b8801c33d3f605c91bf0aab1f699c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a582b8801c33d3f605c91bf0aab1f699c">&#9670;&#160;</a></span>TEST() <span class="overload">[8/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">NormalReset_SmallNegativeTimer&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f);</div>
-<div class="line"><span class="lineno">   75</span>    int32_t currentTimer = -50; <span class="comment">// 50ms overshoot</span></div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <span class="comment">// Old formula: min(-50 + 2000, 2000) = min(1950, 2000) = 1950</span></div>
-<div class="line"><span class="lineno">   78</span>    <span class="comment">// Carries 50ms debt — next attack 50ms sooner</span></div>
-<div class="line"><span class="lineno">   79</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1950);</div>
-<div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    <span class="comment">// New formula: always 2000 — clean reset</span></div>
-<div class="line"><span class="lineno">   82</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   83</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="a1abe08c7becc5f8bc2d034cf7312a1b1" name="a1abe08c7becc5f8bc2d034cf7312a1b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1abe08c7becc5f8bc2d034cf7312a1b1">&#9670;&#160;</a></span>TEST() <span class="overload">[9/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">NormalReset_TimerAtZero&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>{</div>
-<div class="line"><span class="lineno">   63</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(2000, 1.0f); <span class="comment">// 2.0s base, no haste</span></div>
-<div class="line"><span class="lineno">   64</span>    int32_t currentTimer = 0;</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>    <span class="comment">// Both formulas produce the same result when timer is exactly 0</span></div>
-<div class="line"><span class="lineno">   67</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   68</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 2000);</div>
-<div class="line"><span class="lineno">   69</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
-
-</div>
-</div>
-<a id="af92bca5e60d83a245a06403f58a9360c" name="af92bca5e60d83a245a06403f58a9360c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af92bca5e60d83a245a06403f58a9360c">&#9670;&#160;</a></span>TEST() <span class="overload">[10/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST </td>
-          <td>(</td>
-          <td class="paramtype">ResetAttackTimerTest&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ParryHasteFloor_MultipleParries&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <span class="comment">// Creature with 1600ms base, no haste</span></div>
-<div class="line"><span class="lineno">  123</span>    int32_t fullTime = <a class="code hl_function" href="../../d3/d91/a05119.html#acf515241ac86050cd79d68b509c5ea29">CalcFullTime</a>(1600, 1.0f);</div>
-<div class="line"><span class="lineno">  124</span> </div>
-<div class="line"><span class="lineno">  125</span>    <span class="comment">// Parry-haste can reduce timer to 20% of base = 320ms</span></div>
-<div class="line"><span class="lineno">  126</span>    <span class="comment">// If server tick is 200ms and timer was at 320ms, after tick: 120ms</span></div>
-<div class="line"><span class="lineno">  127</span>    <span class="comment">// Attack fires, resetAttackTimer called with timer = 120 - 200 = -80</span></div>
-<div class="line"><span class="lineno">  128</span>    <span class="comment">// (timer went from 120 to -80 during the next tick)</span></div>
-<div class="line"><span class="lineno">  129</span>    int32_t currentTimer = -80;</div>
-<div class="line"><span class="lineno">  130</span> </div>
-<div class="line"><span class="lineno">  131</span>    <span class="comment">// Old formula: min(-80 + 1600, 1600) = min(1520, 1600) = 1520</span></div>
-<div class="line"><span class="lineno">  132</span>    <span class="comment">// Small debt is carried — minor issue</span></div>
-<div class="line"><span class="lineno">  133</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1520);</div>
-<div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>    <span class="comment">// Now consider two rapid parries reducing timer to 320ms,</span></div>
-<div class="line"><span class="lineno">  136</span>    <span class="comment">// followed by a 500ms server hiccup</span></div>
-<div class="line"><span class="lineno">  137</span>    currentTimer = 320 - 500; <span class="comment">// = -180</span></div>
-<div class="line"><span class="lineno">  138</span>    <span class="comment">// Old formula: min(-180 + 1600, 1600) = min(1420, 1600) = 1420</span></div>
-<div class="line"><span class="lineno">  139</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2">OldResetFormula</a>(currentTimer, fullTime), 1420);</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <span class="comment">// New formula: always full time</span></div>
-<div class="line"><span class="lineno">  142</span>    EXPECT_EQ(<a class="code hl_function" href="../../d3/d91/a05119.html#aae298365d32c23f29d12e5f81b91db99">NewResetFormula</a>(currentTimer, fullTime), 1600);</div>
-<div class="line"><span class="lineno">  143</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">anonymous_namespace{ResetAttackTimerTest.cpp}::CalcFullTime()</a>, <a class="el" href="../../#l00048">anonymous_namespace{ResetAttackTimerTest.cpp}::NewResetFormula()</a>, and <a class="el" href="../../#l00042">anonymous_namespace{ResetAttackTimerTest.cpp}::OldResetFormula()</a>.</p>
+<p class="reference">References <a class="el" href="../../db/dab/a10518.html#a90bd9f2c7c65d81d1804ae0c9017eaa9">PoolGroup&lt; T &gt;::Spawn1Object()</a>, <a class="el" href="../../#l00177">sPoolMgr</a>, <a class="el" href="../../#l00040">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_CREATURE_ID</a>, and <a class="el" href="../../#l00039">anonymous_namespace{PoolQuestReloadTest.cpp}::TEST_QUEST_ID</a>.</p>
 
 </div>
 </div>
@@ -597,8 +225,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_aeb07b430c02e2e2c16696076a308f05.html">Entities</a></li><li class="navelem"><a class="el" href="../../dd/d32/a00041.html">ResetAttackTimerTest.cpp</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_6c056af80b919649fcf50736e999ee3c.html">Pools</a></li><li class="navelem"><a class="el" href="../../dd/d32/a00041.html">PoolQuestReloadTest.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,4 +1,5 @@
 var a04970 =
 [
-    [ "AuthCrypt", "d4/de8/a05430.html", "d4/de8/a05430" ]
+    [ "DBCStorageBase", "de/df3/a28346.html", "de/df3/a28346" ],
+    [ "DBCStorage< T >", "dc/df0/a28350.html", "dc/df0/a28350" ]
 ];

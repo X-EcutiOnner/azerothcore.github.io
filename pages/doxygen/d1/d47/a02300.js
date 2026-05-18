@@ -1,42 +1,15 @@
 var a02300 =
 [
-    [ "DataHeader", "d1/d47/a02300.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ZFScriptName", "d1/d47/a02300.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
-    [ "ZFPyramidPhases", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3", [
-      [ "PYRAMID_NOT_STARTED", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
-      [ "PYRAMID_CAGES_OPEN", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
-      [ "PYRAMID_ARRIVED_AT_STAIR", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
-      [ "PYRAMID_WAVE_1", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
-      [ "PYRAMID_PRE_WAVE_2", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
-      [ "PYRAMID_WAVE_2", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
-      [ "PYRAMID_PRE_WAVE_3", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
-      [ "PYRAMID_WAVE_3", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
-      [ "PYRAMID_KILLED_ALL_TROLLS", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
-      [ "PYRAMID_MOVED_DOWNSTAIRS", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
-      [ "PYRAMID_DESTROY_GATES", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
-      [ "PYRAMID_GATES_DESTROYED", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
-      [ "PYRAMID_DONE", "d1/d47/a02300.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
-    ] ],
-    [ "ZulFarrakCreatures", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
-      [ "NPC_SANDFURY_CRETIN", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
-      [ "NPC_SANDFURY_SLAVE", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
-      [ "NPC_SANDFURY_ACOLYTE", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
-      [ "NPC_SANDFURY_DRUDGE", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
-      [ "NPC_SANDFURY_ZEALOT", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
-      [ "NPC_SHADOWPRIEST_SEZZZIZ", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
-      [ "NPC_NEKRUM_GUTCHEWER", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
-      [ "NPC_BLY", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
-      [ "NPC_RAVEN", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
-      [ "NPC_ORO", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
-      [ "NPC_WEEGLI", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
-      [ "NPC_MURTA", "d1/d47/a02300.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
-    ] ],
-    [ "ZulFarrakData", "d1/d47/a02300.html#a66cc3be5310a2efbacb38d2398d8af24", [
-      [ "DATA_PYRAMID", "d1/d47/a02300.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
-      [ "DATA_GAHZRILLA", "d1/d47/a02300.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
-    ] ],
-    [ "ZulFarrakGameobjects", "d1/d47/a02300.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
-      [ "GO_END_DOOR", "d1/d47/a02300.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
-    ] ],
-    [ "GetZulFarrakAI", "d1/d47/a02300.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
+    [ "STR", "d1/d47/a02300.html#a18d295a837ac71add5578860b55e5502", null ],
+    [ "computeFallElevation", "d1/d47/a02300.html#a87260372150c8322b45e75bfaa445f14", null ],
+    [ "computeFallTime", "d1/d47/a02300.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
+    [ "print_flags", "d1/d47/a02300.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
+    [ "g_MovementFlag_names", "d1/d47/a02300.html#a2982e1b6388bf8b29797b16969b64173", null ],
+    [ "g_SplineFlag_names", "d1/d47/a02300.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
+    [ "terminal_fallTime", "d1/d47/a02300.html#aa927e4ada20ca56ce951239357407270", null ],
+    [ "terminal_length", "d1/d47/a02300.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
+    [ "terminal_safeFall_fallTime", "d1/d47/a02300.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
+    [ "terminal_safeFall_length", "d1/d47/a02300.html#a4e816239736800d4508c1fc14e624ddc", null ],
+    [ "terminalSafefallVelocity", "d1/d47/a02300.html#a654673c77f53f27a80309b050d44d38d", null ],
+    [ "terminalVelocity", "d1/d47/a02300.html#a98cc74e5667e1057f334f02a28abcb01", null ]
 ];

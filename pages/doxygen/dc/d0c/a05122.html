@@ -172,7 +172,7 @@ Functions</h2></td></tr>
 <tr class="separator:aaa953489abf2a825aea7d2aef9f904a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa9048e95a3ceb76f45272b1240af4a2c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#aa9048e95a3ceb76f45272b1240af4a2c">IsBlockedBySchoolImmunity</a> (bool casterFriendly, bool immunityAppliesToFriendly)</td></tr>
 <tr class="separator:aa9048e95a3ceb76f45272b1240af4a2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a687cb216770a0868d03198480599bde5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a> (bool isImmunedToSpell, bool isImmunedToDamage, <a class="el" href="../../d2/dd6/a29478.html">SpellDesc</a> const &amp;spell, bool immuneToStun=false)</td></tr>
+<tr class="memitem:a687cb216770a0868d03198480599bde5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a687cb216770a0868d03198480599bde5">ComputeSpellHitResult</a> (bool isImmunedToSpell, bool isImmunedToDamage, <a class="el" href="../../d2/dd6/a29478.html">SpellDesc</a> const &amp;spell, bool immuneToStun=false)</td></tr>
 <tr class="separator:a687cb216770a0868d03198480599bde5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3f6167aede97490fe6c435b6e981ee31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d4c/a29482.html">EffectApplyResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a05122.html#a3f6167aede97490fe6c435b6e981ee31">ApplyEffectsWithMovementImmunity</a> (<a class="el" href="../../d2/dd6/a29478.html">SpellDesc</a> const &amp;spell, bool immuneToMovementImpairing)</td></tr>
 <tr class="separator:a3f6167aede97490fe6c435b6e981ee31"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -193,7 +193,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum anonymous_namespace{SpellImmunityTest.cpp}<a class="el" href="../../d1/d3a/a01622.html#a538cdc259460b365f406fe0b3a981799">::AuraType</a> : uint8_t</td>
+          <td class="memname">enum anonymous_namespace{SpellImmunityTest.cpp}<a class="el" href="../../d9/d1b/a01583.html#a538cdc259460b365f406fe0b3a981799">::AuraType</a> : uint8_t</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -331,7 +331,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult </td>
+          <td class="memname"><a class="el" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> anonymous_namespace{SpellImmunityTest.cpp}::ComputeSpellHitResult </td>
           <td>(</td>
           <td class="paramtype">bool&#160;</td>
           <td class="paramname"><em>isImmunedToSpell</em>, </td>
@@ -367,18 +367,18 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  142</span>        <span class="comment">// 2) full immunity from mechanic immunity (all effects blocked)</span></div>
 <div class="line"><span class="lineno">  143</span>        <span class="comment">// 3) damage immunity only for damage-only spells</span></div>
 <div class="line"><span class="lineno">  144</span>        <span class="keywordflow">if</span> (isImmunedToSpell)</div>
-<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
+<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
 <div class="line"><span class="lineno">  146</span> </div>
 <div class="line"><span class="lineno">  147</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d0c/a05122.html#aaa953489abf2a825aea7d2aef9f904a3">IsFullyImmunedByStunImmunity</a>(spell, immuneToStun))</div>
-<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
+<div class="line"><span class="lineno">  148</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
 <div class="line"><span class="lineno">  149</span> </div>
 <div class="line"><span class="lineno">  150</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">HasOnlyDamageEffects</a>(spell) &amp;&amp; isImmunedToDamage)</div>
-<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
+<div class="line"><span class="lineno">  151</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a>;</div>
 <div class="line"><span class="lineno">  152</span> </div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>;</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a>;</div>
 <div class="line"><span class="lineno">  154</span>    }</div>
-<div class="ttc" id="aa04304_html_ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f"><div class="ttname"><a href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a></div><div class="ttdeci">@ SPELL_MISS_IMMUNE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1530</div></div>
-<div class="ttc" id="aa04304_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../dd/deb/a04304.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1523</div></div>
+<div class="ttc" id="aa04961_html_ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f"><div class="ttname"><a href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa2d810d137e753f560f2a4fe71841899f">SPELL_MISS_IMMUNE</a></div><div class="ttdeci">@ SPELL_MISS_IMMUNE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1530</div></div>
+<div class="ttc" id="aa04961_html_ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096"><div class="ttname"><a href="../../d0/da3/a04961.html#ac42174a036914cd9ca25c52e98bef65aa893d017f010f243616e70394c7fec096">SPELL_MISS_NONE</a></div><div class="ttdeci">@ SPELL_MISS_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1523</div></div>
 <div class="ttc" id="aa05122_html_aaa953489abf2a825aea7d2aef9f904a3"><div class="ttname"><a href="../../dc/d0c/a05122.html#aaa953489abf2a825aea7d2aef9f904a3">anonymous_namespace{SpellImmunityTest.cpp}::IsFullyImmunedByStunImmunity</a></div><div class="ttdeci">bool IsFullyImmunedByStunImmunity(SpellDesc const &amp;spell, bool immuneToStun)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:111</div></div>
 <div class="ttc" id="aa05122_html_ac2464881723f07e073fd8ad85dbbaa61"><div class="ttname"><a href="../../dc/d0c/a05122.html#ac2464881723f07e073fd8ad85dbbaa61">anonymous_namespace{SpellImmunityTest.cpp}::HasOnlyDamageEffects</a></div><div class="ttdeci">bool HasOnlyDamageEffects(SpellDesc const &amp;spell)</div><div class="ttdef"><b>Definition:</b> SpellImmunityTest.cpp:81</div></div>
 </div><!-- fragment -->
@@ -718,7 +718,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d0c/a05122.html">anonymous_namespace{SpellImmunityTest.cpp}</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

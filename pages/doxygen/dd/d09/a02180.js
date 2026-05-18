@@ -1,6 +1,7 @@
 var a02180 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "dd/d35/a11538.html", "dd/d35/a11538" ],
-    [ "REMOVE_VIOLATING_FLAGS", "dd/d09/a02180.html#a9d7c4eaedbb2a06f275a5f59222bc747", null ],
-    [ "DefaultPlayerName", "dd/d09/a02180.html#a586e06ca0d339349e13d81197056bb5f", null ]
+    [ "MMapTargetData", "d7/d5c/a09086.html", "d7/d5c/a09086" ],
+    [ "SafeUnitPointer", "d7/d3f/a09090.html", "d7/d3f/a09090" ],
+    [ "BuildValuesCachePosPointers", "d2/d3e/a09094.html", "d2/d3e/a09094" ],
+    [ "BuildValuesCachedBuffer", "d1/de0/a09098.html", "d1/de0/a09098" ]
 ];

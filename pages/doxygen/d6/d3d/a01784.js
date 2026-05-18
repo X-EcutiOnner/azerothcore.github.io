@@ -1,5 +1,9 @@
 var a01784 =
 [
-    [ "_characterCacheByNameStore", "d6/d3d/a01784.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
-    [ "_characterCacheStore", "d6/d3d/a01784.html#a2a209686002fed926e50d55f7c7ca795", null ]
+    [ "ePoints", "d6/d3d/a01784.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "dd/d20/a01772.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "dd/d20/a01772.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "d6/d3d/a01784.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ],
+    [ "MAX_PLAYER_DISTANCE", "d6/d3d/a01784.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

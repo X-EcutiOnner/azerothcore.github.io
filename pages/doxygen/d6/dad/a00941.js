@@ -1,6 +1,5 @@
 var a00941 =
 [
-    [ "ArenaSeasonTeamRewarder", "d5/dd2/a07529.html", "d5/dd2/a07529" ],
-    [ "ArenaSeasonTeamRewarderImpl", "d2/d42/a07533.html", "d2/d42/a07533" ],
-    [ "ArenaSeasonRewardDistributor", "d2/d96/a07537.html", "d2/d96/a07537" ]
+    [ "MotdMap", "d6/dad/a00941.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
+    [ "MotdPackets", "d6/dad/a00941.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
 ];

@@ -180,11 +180,11 @@ Public Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a749b71368e15303ef60c78ed1fa6db16"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = 0</td></tr>
 <tr class="separator:a749b71368e15303ef60c78ed1fa6db16"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ddd6ada1c34a326d1cdd9b0e1c30079"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="el" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td></tr>
+<tr class="memitem:a2ddd6ada1c34a326d1cdd9b0e1c30079"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="el" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td></tr>
 <tr class="separator:a2ddd6ada1c34a326d1cdd9b0e1c30079"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c74b10b0822608a0b0563e4dcebcb7c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="el" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td></tr>
+<tr class="memitem:a7c74b10b0822608a0b0563e4dcebcb7c"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="el" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td></tr>
 <tr class="separator:a7c74b10b0822608a0b0563e4dcebcb7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17ef182eba57398119e2e7a8459126f4"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="el" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td></tr>
+<tr class="memitem:a17ef182eba57398119e2e7a8459126f4"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="el" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td></tr>
 <tr class="separator:a17ef182eba57398119e2e7a8459126f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac0b72d559f737ac1d7ee5d9f589f7160"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = false</td></tr>
 <tr class="separator:ac0b72d559f737ac1d7ee5d9f589f7160"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -304,23 +304,23 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  434</span>            {</div>
 <div class="line"><span class="lineno">  435</span>                <span class="comment">// Create new DamageInfo if needed</span></div>
 <div class="line"><span class="lineno">  436</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d8/db7/a29146.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a>)</div>
-<div class="line"><span class="lineno">  437</span>                    <a class="code hl_variable" href="../../d8/db7/a29146.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a> = std::make_shared&lt;DamageInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../d8/db7/a29146.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a>, <a class="code hl_enumvalue" href="../../dc/d10/a01412.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
+<div class="line"><span class="lineno">  437</span>                    <a class="code hl_variable" href="../../d8/db7/a29146.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a> = std::make_shared&lt;DamageInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../d8/db7/a29146.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a>, <a class="code hl_enumvalue" href="../../d3/d90/a02177.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a>);</div>
 <div class="line"><span class="lineno">  438</span>                builder.WithDamageInfo(<a class="code hl_variable" href="../../d8/db7/a29146.html#a3a9ca34b1a3d03873cdd9957b51ec82e">_damageInfo</a>.get());</div>
 <div class="line"><span class="lineno">  439</span>            }</div>
 <div class="line"><span class="lineno">  440</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/db7/a29146.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a>)</div>
 <div class="line"><span class="lineno">  441</span>            {</div>
 <div class="line"><span class="lineno">  442</span>                <span class="comment">// Create new HealInfo if needed</span></div>
 <div class="line"><span class="lineno">  443</span>                <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d8/db7/a29146.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a>)</div>
-<div class="line"><span class="lineno">  444</span>                    <a class="code hl_variable" href="../../d8/db7/a29146.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a> = std::make_shared&lt;HealInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../d8/db7/a29146.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a>);</div>
+<div class="line"><span class="lineno">  444</span>                    <a class="code hl_variable" href="../../d8/db7/a29146.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a> = std::make_shared&lt;HealInfo&gt;(<span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, 100, <a class="code hl_variable" href="../../d8/db7/a29146.html#aec2a16ed277241f6795781e62572c16a">_defaultSpellInfo</a>.get(), <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a>);</div>
 <div class="line"><span class="lineno">  445</span>                builder.WithHealInfo(<a class="code hl_variable" href="../../d8/db7/a29146.html#ad404a062d1b2b2c4aef2e3e48eb15b8a">_healInfo</a>.get());</div>
 <div class="line"><span class="lineno">  446</span>            }</div>
 <div class="line"><span class="lineno">  447</span>        }</div>
 <div class="line"><span class="lineno">  448</span> </div>
 <div class="line"><span class="lineno">  449</span>        <span class="keywordflow">return</span> builder.Build();</div>
 <div class="line"><span class="lineno">  450</span>    }</div>
-<div class="ttc" id="aa01412_html_ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54"><div class="ttname"><a href="../../dc/d10/a01412.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a></div><div class="ttdeci">@ SPELL_DIRECT_DAMAGE</div><div class="ttdef"><b>Definition:</b> Unit.h:255</div></div>
-<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_HOLY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:286</div></div>
-<div class="ttc" id="aa04304_html_aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03"><div class="ttname"><a href="../../dd/deb/a04304.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FIRE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:287</div></div>
+<div class="ttc" id="aa02177_html_ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54"><div class="ttname"><a href="../../d3/d90/a02177.html#ab0b8a9de485ea928c497ac0b5f9040b1a9308d3cdd6446af40814a12302809f54">SPELL_DIRECT_DAMAGE</a></div><div class="ttdeci">@ SPELL_DIRECT_DAMAGE</div><div class="ttdef"><b>Definition:</b> Unit.h:255</div></div>
+<div class="ttc" id="aa04961_html_aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349"><div class="ttname"><a href="../../d0/da3/a04961.html#aff6913cfd69489c107a071be9ec2ec8fae49f92fc02f6ffff92acedd16ffc4349">SPELL_SCHOOL_MASK_HOLY</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_HOLY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:286</div></div>
+<div class="ttc" id="aa04961_html_aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03"><div class="ttname"><a href="../../d0/da3/a04961.html#aff6913cfd69489c107a071be9ec2ec8faefa51c7b6eae284cc0c22d935bd5fc03">SPELL_SCHOOL_MASK_FIRE</a></div><div class="ttdeci">@ SPELL_SCHOOL_MASK_FIRE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:287</div></div>
 <div class="ttc" id="aa29146_html_a17ef182eba57398119e2e7a8459126f4"><div class="ttname"><a href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">ProcScenarioBuilder::_spellPhaseMask</a></div><div class="ttdeci">uint32_t _spellPhaseMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:462</div></div>
 <div class="ttc" id="aa29146_html_a2ddd6ada1c34a326d1cdd9b0e1c30079"><div class="ttname"><a href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">ProcScenarioBuilder::_hitMask</a></div><div class="ttdeci">uint32_t _hitMask</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:460</div></div>
 <div class="ttc" id="aa29146_html_a3a9ca34b1a3d03873cdd9957b51ec82e"><div class="ttname"><a href="../../d8/db7/a29146.html#a3a9ca34b1a3d03873cdd9957b51ec82e">ProcScenarioBuilder::_damageInfo</a></div><div class="ttdeci">std::shared_ptr&lt; DamageInfo &gt; _damageInfo</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:467</div></div>
@@ -477,10 +477,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  404</span>    {</div>
-<div class="line"><span class="lineno">  405</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>;</div>
+<div class="line"><span class="lineno">  405</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a>;</div>
 <div class="line"><span class="lineno">  406</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  407</span>    }</div>
-<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:248</div></div>
+<div class="ttc" id="aa01607_html_addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d"><div class="ttname"><a href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a617052b5687a5e0fa6d4106e3816449d">PROC_SPELL_PHASE_CAST</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_CAST</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:248</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00248">PROC_SPELL_PHASE_CAST</a>.</p>
 
@@ -511,11 +511,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  344</span>    {</div>
-<div class="line"><span class="lineno">  345</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a>;</div>
+<div class="line"><span class="lineno">  345</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a>;</div>
 <div class="line"><span class="lineno">  346</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  347</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  348</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a></div><div class="ttdeci">@ PROC_FLAG_DEATH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:146</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a8b6d98edef5c8763d9b8d5f0d1b95d40">PROC_FLAG_DEATH</a></div><div class="ttdeci">@ PROC_FLAG_DEATH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:146</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00146">PROC_FLAG_DEATH</a>.</p>
 
@@ -546,10 +546,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  416</span>    {</div>
-<div class="line"><span class="lineno">  417</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>;</div>
+<div class="line"><span class="lineno">  417</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a>;</div>
 <div class="line"><span class="lineno">  418</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  419</span>    }</div>
-<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:250</div></div>
+<div class="ttc" id="aa01607_html_addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b"><div class="ttname"><a href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a36113cf744242d04db86ef65dab0fc7b">PROC_SPELL_PHASE_FINISH</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_FINISH</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:250</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00250">PROC_SPELL_PHASE_FINISH</a>.</p>
 
@@ -580,14 +580,14 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  301</span>    {</div>
-<div class="line"><span class="lineno">  302</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
+<div class="line"><span class="lineno">  302</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
+<div class="line"><span class="lineno">  303</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
 <div class="line"><span class="lineno">  304</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  305</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  306</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  307</span>    }</div>
-<div class="ttc" id="aa01637_html_acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3"><div class="ttname"><a href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_HEAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:240</div></div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
+<div class="ttc" id="aa01607_html_acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3"><div class="ttname"><a href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_HEAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:240</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a3224fff7fa83c444aa33906a7a00a87b">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:131</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00131">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_POS</a>, and <a class="el" href="../../#l00240">PROC_SPELL_TYPE_HEAL</a>.</p>
 
@@ -618,10 +618,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  410</span>    {</div>
-<div class="line"><span class="lineno">  411</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>;</div>
+<div class="line"><span class="lineno">  411</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a17ef182eba57398119e2e7a8459126f4">_spellPhaseMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>;</div>
 <div class="line"><span class="lineno">  412</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  413</span>    }</div>
-<div class="ttc" id="aa01637_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:249</div></div>
+<div class="ttc" id="aa01607_html_addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34"><div class="ttname"><a href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></div><div class="ttdeci">@ PROC_SPELL_PHASE_HIT</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:249</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00462">_spellPhaseMask</a>, and <a class="el" href="../../#l00249">PROC_SPELL_PHASE_HIT</a>.</p>
 
@@ -652,11 +652,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  337</span>    {</div>
-<div class="line"><span class="lineno">  338</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>;</div>
+<div class="line"><span class="lineno">  338</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a>;</div>
 <div class="line"><span class="lineno">  339</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  340</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  341</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a></div><div class="ttdeci">@ PROC_FLAG_KILL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6aadedce3b69f2042ebb950a48165fc89a">PROC_FLAG_KILL</a></div><div class="ttdeci">@ PROC_FLAG_KILL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:111</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00111">PROC_FLAG_KILL</a>.</p>
 
@@ -687,11 +687,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  269</span>    {</div>
-<div class="line"><span class="lineno">  270</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  270</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>;</div>
 <div class="line"><span class="lineno">  271</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  272</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  273</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:113</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a62b453b99197db2931efaae9c3f7efbc">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_DONE_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:113</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00113">PROC_FLAG_DONE_MELEE_AUTO_ATTACK</a>.</p>
 
@@ -722,14 +722,14 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  319</span>    {</div>
-<div class="line"><span class="lineno">  320</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
-<div class="line"><span class="lineno">  321</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  320</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
+<div class="line"><span class="lineno">  321</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
 <div class="line"><span class="lineno">  322</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  323</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  324</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  325</span>    }</div>
-<div class="ttc" id="aa01637_html_acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c"><div class="ttname"><a href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:239</div></div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a></div><div class="ttdeci">@ PROC_FLAG_DONE_PERIODIC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:137</div></div>
+<div class="ttc" id="aa01607_html_acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c"><div class="ttname"><a href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a></div><div class="ttdeci">@ PROC_SPELL_TYPE_DAMAGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:239</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a></div><div class="ttdeci">@ PROC_FLAG_DONE_PERIODIC</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:137</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00137">PROC_FLAG_DONE_PERIODIC</a>, and <a class="el" href="../../#l00239">PROC_SPELL_TYPE_DAMAGE</a>.</p>
 
@@ -760,8 +760,8 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  328</span>    {</div>
-<div class="line"><span class="lineno">  329</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
-<div class="line"><span class="lineno">  330</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
+<div class="line"><span class="lineno">  329</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a429d6c885f9687a1b041436cb45d74ce">PROC_FLAG_DONE_PERIODIC</a>;</div>
+<div class="line"><span class="lineno">  330</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
 <div class="line"><span class="lineno">  331</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  332</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  333</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
@@ -796,13 +796,13 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  283</span>    {</div>
-<div class="line"><span class="lineno">  284</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  284</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">  285</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
 <div class="line"><span class="lineno">  286</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  287</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  288</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  289</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:134</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:134</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, and <a class="el" href="../../#l00239">PROC_SPELL_TYPE_DAMAGE</a>.</p>
 
@@ -833,13 +833,13 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  310</span>    {</div>
-<div class="line"><span class="lineno">  311</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
-<div class="line"><span class="lineno">  312</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
+<div class="line"><span class="lineno">  311</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>;</div>
+<div class="line"><span class="lineno">  312</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a5da2de88220613d950d6304d8e97c4a3">PROC_SPELL_TYPE_HEAL</a>;</div>
 <div class="line"><span class="lineno">  313</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  314</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#aaebb7fb1f99d8041e21721ffa5ac8434">_usesHealInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  315</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  316</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:132</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6abb4ec446733b29f5eaa67b5b5a6c8d73">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:132</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00465">_usesHealInfo</a>, <a class="el" href="../../#l00132">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_POS</a>, and <a class="el" href="../../#l00240">PROC_SPELL_TYPE_HEAL</a>.</p>
 
@@ -868,11 +868,11 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  276</span>    {</div>
-<div class="line"><span class="lineno">  277</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
+<div class="line"><span class="lineno">  277</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>;</div>
 <div class="line"><span class="lineno">  278</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  279</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  280</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:114</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6ac2692301ed7f56d167b080fd19942c12">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:114</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00459">_typeMask</a>, and <a class="el" href="../../#l00114">PROC_FLAG_TAKEN_MELEE_AUTO_ATTACK</a>.</p>
 
@@ -903,13 +903,13 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  292</span>    {</div>
-<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
-<div class="line"><span class="lineno">  294</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
+<div class="line"><span class="lineno">  293</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a749b71368e15303ef60c78ed1fa6db16">_typeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>;</div>
+<div class="line"><span class="lineno">  294</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a7c74b10b0822608a0b0563e4dcebcb7c">_spellTypeMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527ab9158a36f4d0853a1c2274ad094c093c">PROC_SPELL_TYPE_DAMAGE</a>;</div>
 <div class="line"><span class="lineno">  295</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#ac0b72d559f737ac1d7ee5d9f589f7160">_needsSpellInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  296</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a72cdb437766d786f3056f649996b66f1">_usesDamageInfo</a> = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  297</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  298</span>    }</div>
-<div class="ttc" id="aa01637_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105"><div class="ttname"><a href="../../db/d95/a01637.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:135</div></div>
+<div class="ttc" id="aa01607_html_ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105"><div class="ttname"><a href="../../d6/d82/a01607.html#ade1c2af066d4cf1bbcd88f13f01cd4d6a83f7552203278e82d55d40034cea9105">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:135</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00463">_needsSpellInfo</a>, <a class="el" href="../../#l00461">_spellTypeMask</a>, <a class="el" href="../../#l00459">_typeMask</a>, <a class="el" href="../../#l00464">_usesDamageInfo</a>, <a class="el" href="../../#l00135">PROC_FLAG_TAKEN_SPELL_MAGIC_DMG_CLASS_NEG</a>, and <a class="el" href="../../#l00239">PROC_SPELL_TYPE_DAMAGE</a>.</p>
 
@@ -940,10 +940,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  394</span>    {</div>
-<div class="line"><span class="lineno">  395</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a>;</div>
+<div class="line"><span class="lineno">  395</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a>;</div>
 <div class="line"><span class="lineno">  396</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  397</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a></div><div class="ttdeci">@ PROC_HIT_ABSORB</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:267</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ac3e5e7204eb9768e20c9a484f55a813b">PROC_HIT_ABSORB</a></div><div class="ttdeci">@ PROC_HIT_ABSORB</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:267</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00267">PROC_HIT_ABSORB</a>.</p>
 
@@ -974,10 +974,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  382</span>    {</div>
-<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a>;</div>
+<div class="line"><span class="lineno">  383</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a>;</div>
 <div class="line"><span class="lineno">  384</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  385</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:263</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a1391cd236336f48dde42703613a04ce8">PROC_HIT_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:263</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00263">PROC_HIT_BLOCK</a>.</p>
 
@@ -1008,10 +1008,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  352</span>    {</div>
-<div class="line"><span class="lineno">  353</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a>;</div>
+<div class="line"><span class="lineno">  353</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a>;</div>
 <div class="line"><span class="lineno">  354</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  355</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a></div><div class="ttdeci">@ PROC_HIT_CRITICAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:258</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae0db62fc42fe80503a49d3b3197b8d12">PROC_HIT_CRITICAL</a></div><div class="ttdeci">@ PROC_HIT_CRITICAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:258</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00258">PROC_HIT_CRITICAL</a>.</p>
 
@@ -1042,10 +1042,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  370</span>    {</div>
-<div class="line"><span class="lineno">  371</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a>;</div>
+<div class="line"><span class="lineno">  371</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a>;</div>
 <div class="line"><span class="lineno">  372</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  373</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a></div><div class="ttdeci">@ PROC_HIT_DODGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:261</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a9bbc3d18ec5466192ea80ccd63d83166">PROC_HIT_DODGE</a></div><div class="ttdeci">@ PROC_HIT_DODGE</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:261</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00261">PROC_HIT_DODGE</a>.</p>
 
@@ -1076,10 +1076,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  388</span>    {</div>
-<div class="line"><span class="lineno">  389</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a>;</div>
+<div class="line"><span class="lineno">  389</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a>;</div>
 <div class="line"><span class="lineno">  390</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  391</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_FULL_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:270</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a1e29115ea7191b010734e1fdaf06b502">PROC_HIT_FULL_BLOCK</a></div><div class="ttdeci">@ PROC_HIT_FULL_BLOCK</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:270</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00270">PROC_HIT_FULL_BLOCK</a>.</p>
 
@@ -1110,10 +1110,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  364</span>    {</div>
-<div class="line"><span class="lineno">  365</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a>;</div>
+<div class="line"><span class="lineno">  365</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a>;</div>
 <div class="line"><span class="lineno">  366</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  367</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a></div><div class="ttdeci">@ PROC_HIT_MISS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:259</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9a4021bb3e6b043ac1c53be283642e6209">PROC_HIT_MISS</a></div><div class="ttdeci">@ PROC_HIT_MISS</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:259</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00259">PROC_HIT_MISS</a>.</p>
 
@@ -1144,10 +1144,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  358</span>    {</div>
-<div class="line"><span class="lineno">  359</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>;</div>
+<div class="line"><span class="lineno">  359</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a>;</div>
 <div class="line"><span class="lineno">  360</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  361</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:257</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></div><div class="ttdeci">@ PROC_HIT_NORMAL</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:257</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00257">PROC_HIT_NORMAL</a>.</p>
 
@@ -1178,10 +1178,10 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  376</span>    {</div>
-<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a>;</div>
+<div class="line"><span class="lineno">  377</span>        <a class="code hl_variable" href="../../d8/db7/a29146.html#a2ddd6ada1c34a326d1cdd9b0e1c30079">_hitMask</a> = <a class="code hl_enumvalue" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a>;</div>
 <div class="line"><span class="lineno">  378</span>        <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
 <div class="line"><span class="lineno">  379</span>    }</div>
-<div class="ttc" id="aa01637_html_a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49"><div class="ttname"><a href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a></div><div class="ttdeci">@ PROC_HIT_PARRY</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:262</div></div>
+<div class="ttc" id="aa01607_html_a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49"><div class="ttname"><a href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9aca7410f24e5b69ddb9d64170c7bd4f49">PROC_HIT_PARRY</a></div><div class="ttdeci">@ PROC_HIT_PARRY</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:262</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00460">_hitMask</a>, and <a class="el" href="../../#l00262">PROC_HIT_PARRY</a>.</p>
 
@@ -1272,7 +1272,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_hitMask = <a class="el" href="../../db/d95/a01637.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td>
+          <td class="memname">uint32_t ProcScenarioBuilder::_hitMask = <a class="el" href="../../d6/d82/a01607.html#a318db75286b71ffeb7f24d6d2c992bc9ae95d140282fc160c7b229ab5c7409799">PROC_HIT_NORMAL</a></td>
         </tr>
       </table>
   </td>
@@ -1320,7 +1320,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_spellPhaseMask = <a class="el" href="../../db/d95/a01637.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td>
+          <td class="memname">uint32_t ProcScenarioBuilder::_spellPhaseMask = <a class="el" href="../../d6/d82/a01607.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a></td>
         </tr>
       </table>
   </td>
@@ -1344,7 +1344,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">uint32_t ProcScenarioBuilder::_spellTypeMask = <a class="el" href="../../db/d95/a01637.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td>
+          <td class="memname">uint32_t ProcScenarioBuilder::_spellTypeMask = <a class="el" href="../../d6/d82/a01607.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a></td>
         </tr>
       </table>
   </td>
@@ -1436,7 +1436,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/db7/a29146.html">ProcScenarioBuilder</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:51:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

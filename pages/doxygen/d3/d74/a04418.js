@@ -1,16 +1,10 @@
 var a04418 =
 [
-    [ "ModelFlags", "d3/d74/a04418.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
-      [ "MOD_M2", "d3/d74/a04418.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
-      [ "MOD_WORLDSPAWN", "d3/d74/a04418.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
-      [ "MOD_HAS_BOUND", "d3/d74/a04418.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    [ "spell_razelikh_teleport_group", "d2/d17/a13858.html", "d2/d17/a13858" ],
+    [ "DeathlyUsher", "d3/d74/a04418.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "d3/d74/a04418.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d3/d74/a04418.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "d3/d74/a04418.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
     ] ],
-    [ "ExtractGameobjectModels", "d3/d74/a04418.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
-    [ "ExtractSingleModel", "d3/d74/a04418.html#a6a96194f748b715f0400249583336ae5", null ],
-    [ "ExtractSingleWmo", "d3/d74/a04418.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d3/d74/a04418.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "GenerateUniqueObjectId", "d3/d74/a04418.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "strToLower", "d3/d74/a04418.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "szWorkDirWmo", "d3/d74/a04418.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
-    [ "WmoDoodads", "d3/d74/a04418.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "AddSC_blasted_lands", "d3/d74/a04418.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

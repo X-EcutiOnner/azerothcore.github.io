@@ -1,20 +1,16 @@
 var a00758 =
 [
-    [ "WEATHER_SEASONS", "db/dc2/a05011.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
-    [ "WeatherState", "db/dc2/a05011.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
-      [ "WEATHER_STATE_FINE", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
-      [ "WEATHER_STATE_FOG", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
-      [ "WEATHER_STATE_LIGHT_RAIN", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
-      [ "WEATHER_STATE_MEDIUM_RAIN", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
-      [ "WEATHER_STATE_HEAVY_RAIN", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
-      [ "WEATHER_STATE_LIGHT_SNOW", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
-      [ "WEATHER_STATE_MEDIUM_SNOW", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
-      [ "WEATHER_STATE_HEAVY_SNOW", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
-      [ "WEATHER_STATE_LIGHT_SANDSTORM", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
-      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
-      [ "WEATHER_STATE_HEAVY_SANDSTORM", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
-      [ "WEATHER_STATE_THUNDERS", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
-      [ "WEATHER_STATE_BLACKRAIN", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
-      [ "WEATHER_STATE_BLACKSNOW", "db/dc2/a05011.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
-    ] ]
+    [ "ModelFlags", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
+      [ "MOD_M2", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
+      [ "MOD_WORLDSPAWN", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
+      [ "MOD_HAS_BOUND", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    ] ],
+    [ "ExtractGameobjectModels", "d2/d4a/a00758.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
+    [ "ExtractSingleModel", "d2/d4a/a00758.html#a6a96194f748b715f0400249583336ae5", null ],
+    [ "ExtractSingleWmo", "d2/d4a/a00758.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "d2/d4a/a00758.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "GenerateUniqueObjectId", "d2/d4a/a00758.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "strToLower", "d2/d4a/a00758.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "szWorkDirWmo", "d2/d4a/a00758.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
+    [ "WmoDoodads", "d2/d4a/a00758.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

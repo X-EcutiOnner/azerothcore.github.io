@@ -1,7 +1,7 @@
 var a01253 =
 [
-    [ "UpdateRequest", "dc/d84/a10190.html", "dc/d84/a10190" ],
-    [ "MapUpdateRequest", "dd/de9/a10194.html", "dd/de9/a10194" ],
-    [ "MapPreloadRequest", "d9/dd0/a10198.html", "d9/dd0/a10198" ],
-    [ "LFGUpdateRequest", "d4/d86/a10202.html", "d4/d86/a10202" ]
+    [ "OutdoorPvPData", "df/d55/a10482.html", "df/d55/a10482" ],
+    [ "OutdoorPvPMgr", "dd/d95/a10486.html", "dd/d95/a10486" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d3/d0b/a01253.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "d3/d0b/a01253.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

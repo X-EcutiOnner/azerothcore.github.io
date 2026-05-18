@@ -1,15 +1,18 @@
 var a30706 =
 [
-    [ "GetGameTime", "d4/d32/a30706.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
-    [ "GetGameTimeMS", "d4/d32/a30706.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
-    [ "GetStartTime", "d4/d32/a30706.html#a872d34d3f9d420cfc749073c809931f9", null ],
-    [ "GetSystemTime", "d4/d32/a30706.html#a443eccf314fe436192278d425d6d8220", null ],
-    [ "GetUptime", "d4/d32/a30706.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
-    [ "Now", "d4/d32/a30706.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
-    [ "UpdateGameTimers", "d4/d32/a30706.html#a45712735241c9563a12fc3da54fb144d", null ],
-    [ "GameMSTime", "d4/d32/a30706.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
-    [ "GameTime", "d4/d32/a30706.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
-    [ "GameTimeSteadyPoint", "d4/d32/a30706.html#a874057035d37aa57afc5064acffba119", null ],
-    [ "GameTimeSystemPoint", "d4/d32/a30706.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
-    [ "StartTime", "d4/d32/a30706.html#a78088a0637670a1ab5125a1388f7ca52", null ]
+    [ "_ACORE_CORE_CONFIG", "da/d7c/a05021.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
+    [ "ClearOnlineAccounts", "da/d7c/a05021.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
+    [ "GetConsoleArguments", "da/d7c/a05021.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
+    [ "LoadRealmInfo", "da/d7c/a05021.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
+    [ "main", "da/d7c/a05021.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "ShutdownCLIThread", "da/d7c/a05021.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
+    [ "SignalHandler", "da/d7c/a05021.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
+    [ "StartDB", "da/d7c/a05021.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StartRaSocketAcceptor", "da/d7c/a05021.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
+    [ "StopDB", "da/d7c/a05021.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
+    [ "WorldUpdateLoop", "da/d7c/a05021.html#ga62605923595bdfa644784c8a929fa1a7", null ],
+    [ "m_ServiceStatus", "da/d7c/a05021.html#gabad888b856358b30aa3928d7e01916fb", null ],
+    [ "serviceDescription", "da/d7c/a05021.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
+    [ "serviceLongName", "da/d7c/a05021.html#ga34b5207234887e0d62724cf770037f6f", null ],
+    [ "serviceName", "da/d7c/a05021.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
 ];

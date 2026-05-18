@@ -1,8 +1,27 @@
 var a00134 =
 [
-    [ "AuraEffectStub", "da/d2a/a29150.html", "da/d2a/a29150" ],
-    [ "AuraApplicationStub", "d6/d01/a29154.html", "d6/d01/a29154" ],
-    [ "AuraStub", "d5/d2e/a29158.html", "d5/d2e/a29158" ],
-    [ "MockAuraStub", "d8/db8/a29162.html", "d8/db8/a29162" ],
-    [ "AuraStubBuilder", "da/d15/a29166.html", "da/d15/a29166" ]
+    [ "SpellProcPPMModifierTest", "de/d63/a29558.html", "de/d63/a29558" ],
+    [ "TEST_F", "de/d76/a00134.html#aa2bec39c4b0d12991540f45313533396", null ],
+    [ "TEST_F", "de/d76/a00134.html#aa89aed3e26b449dff635a2d80b3c6d9e", null ],
+    [ "TEST_F", "de/d76/a00134.html#aabcf8b974f95be4625d5319f67599adf", null ],
+    [ "TEST_F", "de/d76/a00134.html#ab826af751165cb89507993b1e67e4801", null ],
+    [ "TEST_F", "de/d76/a00134.html#a311a78c504af8345e2c9c3a859bdfa23", null ],
+    [ "TEST_F", "de/d76/a00134.html#a61b70ea722efdd0a5ef7fefae02d968e", null ],
+    [ "TEST_F", "de/d76/a00134.html#a55af5ca86664564775172b5d49afe313", null ],
+    [ "TEST_F", "de/d76/a00134.html#ad304d8058fb3117080850a71033ffc73", null ],
+    [ "TEST_F", "de/d76/a00134.html#a54ef2e1e9f80b212b8e1d7263f2a4379", null ],
+    [ "TEST_F", "de/d76/a00134.html#a43454c0e6317092aedad285a01c1d525", null ],
+    [ "TEST_F", "de/d76/a00134.html#ad2e4c02c33dffa0cfac62af5424e280c", null ],
+    [ "TEST_F", "de/d76/a00134.html#a55269899b416b9a218ee32727ea41686", null ],
+    [ "TEST_F", "de/d76/a00134.html#afc454f21b772ee0486a0dde1104ed51f", null ],
+    [ "TEST_F", "de/d76/a00134.html#a0dcaf713e379ac19c9953c832d8b1353", null ],
+    [ "TEST_F", "de/d76/a00134.html#a6c5b5b7733c23575f0e7064e5eed508d", null ],
+    [ "TEST_F", "de/d76/a00134.html#ad829d055fa5c2a97e6bc2c9b5ed8ea5e", null ],
+    [ "TEST_F", "de/d76/a00134.html#a62a9fc158e8997b1f0ca15a5f5c41c40", null ],
+    [ "TEST_F", "de/d76/a00134.html#aba5574eb11e7364630a7391e7b1567cf", null ],
+    [ "TEST_F", "de/d76/a00134.html#a20a56c1828d7aac366535c1729b8df43", null ],
+    [ "TEST_F", "de/d76/a00134.html#a7ba996e0597652071689fc2a33d2a2b3", null ],
+    [ "TEST_F", "de/d76/a00134.html#abd7d1227159442414c5be9459d9a9c23", null ],
+    [ "TEST_F", "de/d76/a00134.html#a137ba54ef70f0a29f8b68424e786752f", null ],
+    [ "TEST_F", "de/d76/a00134.html#aa7d0cc368c07828252aa4d377962f0da", null ]
 ];

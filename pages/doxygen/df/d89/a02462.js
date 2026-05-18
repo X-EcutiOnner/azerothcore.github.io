@@ -1,13 +1,14 @@
 var a02462 =
 [
-    [ "spell_ooze_zap", "d4/d7d/a15786.html", "d4/d7d/a15786" ],
-    [ "spell_ooze_zap_channel_end", "de/da2/a15790.html", "de/da2/a15790" ],
-    [ "spell_energize_aoe", "d6/d09/a15794.html", "d6/d09/a15794" ],
-    [ "SpellScripts", "df/d89/a02462.html#a7da1350130e8c0e2dbb048bb6d532048", [
-      [ "SPELL_OOZE_ZAP", "df/d89/a02462.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
-      [ "SPELL_OOZE_ZAP_CHANNEL_END", "df/d89/a02462.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],
-      [ "SPELL_OOZE_CHANNEL_CREDIT", "df/d89/a02462.html#a7da1350130e8c0e2dbb048bb6d532048a5e8e7d71235ca347c586316d35c81f2b", null ],
-      [ "SPELL_ENERGIZED", "df/d89/a02462.html#a7da1350130e8c0e2dbb048bb6d532048a37a0a6328b9098980d1ec0596ddebbca", null ]
-    ] ],
-    [ "AddSC_dustwallow_marsh", "df/d89/a02462.html#a90fa5d1f62873c538b717bfbfb93251b", null ]
+    [ "AllMapScript", "dd/d82/a10590.html", "dd/d82/a10590" ],
+    [ "AllMapHook", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92", [
+      [ "ALLMAPHOOK_ON_PLAYER_ENTER_ALL", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92afd97726f6bef6f766e85787ec7f03dfa", null ],
+      [ "ALLMAPHOOK_ON_PLAYER_LEAVE_ALL", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92acb0a85f676691164c5745f89720426ae", null ],
+      [ "ALLMAPHOOK_ON_BEFORE_CREATE_INSTANCE_SCRIPT", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92aaedb63ed509b91e62a54f71648956182", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_INSTANCE", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92aed47c964869552afdecaa285111a2ac0", null ],
+      [ "ALLMAPHOOK_ON_CREATE_MAP", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92ae8c905ed5a1df193a9dd91640d43de02", null ],
+      [ "ALLMAPHOOK_ON_DESTROY_MAP", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92a2bd9320aa3f2418da854778f1dbbc3b5", null ],
+      [ "ALLMAPHOOK_ON_MAP_UPDATE", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92a192adf70dc3f5a3873df8e56a2c3dcfb", null ],
+      [ "ALLMAPHOOK_END", "df/d89/a02462.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95", null ]
+    ] ]
 ];

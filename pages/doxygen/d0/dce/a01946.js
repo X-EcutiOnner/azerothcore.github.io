@@ -1,4 +1,5 @@
 var a01946 =
 [
-    [ "InstanceHasScript", "d0/dce/a01946.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "ThreatManager::Heap", "d6/d80/a08150.html", null ],
+    [ "ThreatReferenceImpl", "d4/dd5/a08154.html", "d4/dd5/a08154" ]
 ];

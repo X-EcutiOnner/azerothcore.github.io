@@ -1,5 +1,4 @@
 var a02597 =
 [
-    [ "HandleLearnSpellCommand", "de/d94/a02597.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "de/d94/a02597.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "ScriptRegistry< WorldScript >", "de/d94/a02597.html#a4b01e55b7bd36b85062bfc12bfef108f", null ]
 ];

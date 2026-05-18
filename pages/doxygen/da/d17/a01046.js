@@ -1,30 +1,12 @@
 var a01046 =
 [
-    [ "DisableData", "d1/d41/a08186.html", "d1/d41/a08186" ],
-    [ "DisableMgr", "db/d40/a08190.html", "db/d40/a08190" ],
-    [ "sDisableMgr", "da/d17/a01046.html#a1a184d22bd27210ea5af79573927826a", null ],
-    [ "DisableType", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
-      [ "DISABLE_TYPE_SPELL", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
-      [ "DISABLE_TYPE_QUEST", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
-      [ "DISABLE_TYPE_MAP", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
-      [ "DISABLE_TYPE_BATTLEGROUND", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
-      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
-      [ "DISABLE_TYPE_OUTDOORPVP", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
-      [ "DISABLE_TYPE_VMAP", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
-      [ "DISABLE_TYPE_GO_LOS", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
-      [ "DISABLE_TYPE_LFG_MAP", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
-      [ "DISABLE_TYPE_GAME_EVENT", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
-      [ "DISABLE_TYPE_LOOT", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
-      [ "MAX_DISABLE_TYPES", "da/d17/a01046.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
-    ] ],
-    [ "SpellDisableTypes", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
-      [ "SPELL_DISABLE_PLAYER", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
-      [ "SPELL_DISABLE_CREATURE", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
-      [ "SPELL_DISABLE_PET", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
-      [ "SPELL_DISABLE_DEPRECATED_SPELL", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
-      [ "SPELL_DISABLE_MAP", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
-      [ "SPELL_DISABLE_AREA", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
-      [ "SPELL_DISABLE_LOS", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
-      [ "MAX_SPELL_DISABLE_TYPE", "da/d17/a01046.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
-    ] ]
+    [ "PacketHandler< PacketClass, HandlerFunction >", "d2/d54/a11482.html", "d2/d54/a11482" ],
+    [ "PacketHandler< WorldPacket, HandlerFunction >", "d3/d9c/a11486.html", "d3/d9c/a11486" ],
+    [ "get_packet_class< T >", "d6/d9d/a11490.html", null ],
+    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d5/df1/a11494.html", "d5/df1/a11494" ],
+    [ "DEFINE_HANDLER", "da/d17/a01046.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
+    [ "DEFINE_SERVER_OPCODE_HANDLER", "da/d17/a01046.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
+    [ "GetOpcodeNameForLogging", "df/dab/a05022.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
+    [ "GetOpcodeNameForLoggingImpl", "da/d17/a01046.html#a0adf4b5d8c638656581d9a62be18539e", null ],
+    [ "opcodeTable", "df/dab/a05022.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
 ];

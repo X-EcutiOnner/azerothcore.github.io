@@ -1,39 +1,14 @@
 var a03572 =
 [
-    [ "spell_winter_veil_mistletoe", "d5/def/a14894.html", "d5/def/a14894" ],
-    [ "spell_winter_wondervolt_trap", "dd/d26/a14898.html", "dd/d26/a14898" ],
-    [ "spell_winter_veil_racer_rocket_slam", "da/d79/a14902.html", "da/d79/a14902" ],
-    [ "spell_winter_veil_racer_slam_hit", "da/d75/a14906.html", "da/d75/a14906" ],
-    [ "spell_winter_veil_shoot_air_rifle", "db/de2/a14910.html", "db/de2/a14910" ],
-    [ "airRifle", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
-      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
-      [ "SPELL_AIR_RIFLE_STARLED", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
-      [ "SPELL_AIR_RIFLE_HIT", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
-      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
-      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "d8/db0/a03572.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
-    ] ],
-    [ "crashinTrashin", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44a", [
-      [ "SPELL_BLUE_CAR_VISUAL", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
-      [ "SPELL_RED_CAR_VISUAL", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
-      [ "NPC_RED_RACER", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
-      [ "NPC_BLUE_RACER", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
-      [ "SPELL_RACER_DEATH_VISUAL", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
-      [ "SPELL_RACER_CHARGE_TO_OBJECT", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
-      [ "SPELL_RACER_KILL_COUNTER", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
-      [ "SPELL_RACER_SLAM_HIT", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
-      [ "SPELL_RACER_FLAMES", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
-      [ "RACER_ACHI_CRITERIA", "d8/db0/a03572.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
-    ] ],
-    [ "Mistletoe", "d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
-      [ "SPELL_CREATE_MISTLETOE", "d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
-      [ "SPELL_CREATE_HOLLY", "d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
-      [ "SPELL_CREATE_SNOWFLAKES", "d8/db0/a03572.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
-    ] ],
-    [ "winterWondervoltTrap", "d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5", [
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "d8/db0/a03572.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
-    ] ],
-    [ "AddSC_event_winter_veil_scripts", "d8/db0/a03572.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
+    [ "instance_ulduar", "d9/d51/a20770.html", "d9/d51/a20770" ],
+    [ "instance_ulduar::instance_ulduar_InstanceMapScript", "d5/d0f/a20774.html", "d5/d0f/a20774" ],
+    [ "AddSC_instance_ulduar", "d8/db0/a03572.html#a93e6e71a7717be3946c53d3b6093e517", null ],
+    [ "creatureData", "d8/db0/a03572.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d8/db0/a03572.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "d8/db0/a03572.html#a845a92716bd40c99a93eb0715cd737b0", null ],
+    [ "ObservationRingKeeperBoss", "d8/db0/a03572.html#a86957a8b94f0bd1ffc5ac686aea19e80", null ],
+    [ "ObservationRingKeeperData", "d8/db0/a03572.html#a6755ef0777c335a9aa03f94b33600e69", null ],
+    [ "ObservationRingKeeperEntry", "d8/db0/a03572.html#af6bfb66273606245524ffbaeba5d81ba", null ],
+    [ "ObservationRingKeepersPos", "d8/db0/a03572.html#a32b0d989ca45f804d22a3fbe4c34e26d", null ],
+    [ "vehiclePositions", "d8/db0/a03572.html#a41c6fcb7a2c575fa74a8e566a49bf1e1", null ]
 ];

@@ -1,16 +1,19 @@
 var a04664 =
 [
-    [ "MMAP::NavMeshDeleter", "d6/de6/a05234.html", "d6/de6/a05234" ],
-    [ "MMAP::NavMeshQueryDeleter", "d6/d66/a05238.html", "d6/d66/a05238" ],
-    [ "MMAP::MMapMgr", "d6/d63/a05242.html", "d6/d63/a05242" ],
-    [ "ManagedNavMeshQuery", "d1/d62/a04664.html#aa9864ce68a669d59d8baee4cb742900b", null ],
-    [ "MMAP_LOAD_RESULT", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
-      [ "MMAP_LOAD_RESULT_OK", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d62/a04664.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    [ "boss_mekgineer_steamrigger", "d2/d4d/a23014.html", "d2/d4d/a23014" ],
+    [ "MekgineerSteamrigger", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dd", [
+      [ "SAY_MECHANICS", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4ddac616ae8f03c32cc59f26b5337aae84ba", null ],
+      [ "SAY_AGGRO", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_SLAY", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda9e64f6e600dd42567d18006912811f75", null ],
+      [ "SAY_DEATH", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "SPELL_SUPER_SHRINK_RAY", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda4499c6dfeb4c15552b20d4bdc0e63edd", null ],
+      [ "SPELL_SAW_BLADE", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4ddabe5ec412b26a2ffb5cd6071f90620e58", null ],
+      [ "SPELL_ELECTRIFIED_NET", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda8af7ec94d6adf009820da95c833d041a", null ],
+      [ "SPELL_ENRAGE", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_SUMMON_MECHANICS_1", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda48f35e8fc2aae6e24c0616e4c1b13d01", null ],
+      [ "SPELL_SUMMON_MECHANICS_2", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4ddae60e2ad853b074c2f53e31ca1e5f8ff1", null ],
+      [ "SPELL_SUMMON_MECHANICS_3", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda5059715773c9ffed1b3ef2ff2c8f289c", null ],
+      [ "NPC_STREAMRIGGER_MECHANIC", "d1/d62/a04664.html#a4766bad7859befee09dc2ce208e1c4dda6eb80a7e6891ababaf4ac14b1d9f890e", null ]
     ] ],
-    [ "dtCustomAlloc", "d1/d62/a04664.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
-    [ "dtCustomFree", "d1/d62/a04664.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
-    [ "MAP_FILE_NAME_FORMAT", "d1/d62/a04664.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "TILE_FILE_NAME_FORMAT", "d1/d62/a04664.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
+    [ "AddSC_boss_mekgineer_steamrigger", "d1/d62/a04664.html#a9aa3518f4196a7c844ab6ffafbc91068", null ]
 ];

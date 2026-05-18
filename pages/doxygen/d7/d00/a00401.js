@@ -1,20 +1,18 @@
 var a00401 =
 [
-    [ "WardenCheck", "d5/d24/a12062.html", "d5/d24/a12062" ],
-    [ "WardenCheckResult", "dd/d80/a12066.html", "dd/d80/a12066" ],
-    [ "WardenCheckMgr", "d5/d30/a12070.html", "d5/d30/a12070" ],
-    [ "sWardenCheckMgr", "d7/d00/a00401.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "d7/d00/a00401.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "d7/d00/a00401.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "d7/d00/a00401.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "d7/d00/a00401.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
-    ] ],
-    [ "WardenCheckTypes", "d7/d00/a00401.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "d7/d00/a00401.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "d7/d00/a00401.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "d7/d00/a00401.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "d7/d00/a00401.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "d7/d00/a00401.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d7/d00/a00401.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "Days", "d7/d00/a00401.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "d7/d00/a00401.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "d7/d00/a00401.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "d7/d00/a00401.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "d7/d00/a00401.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "d7/d00/a00401.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "d7/d00/a00401.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "d7/d00/a00401.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "d7/d00/a00401.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "d7/d00/a00401.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "d7/d00/a00401.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "d7/d00/a00401.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "d7/d00/a00401.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "d7/d00/a00401.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "d7/d00/a00401.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

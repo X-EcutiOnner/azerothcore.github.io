@@ -1,8 +1,6 @@
 var a00173 =
 [
-    [ "ModelIgnoreFlags", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28", [
-      [ "Nothing", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
-      [ "M2", "d7/d3f/a00173.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
-    ] ],
-    [ "operator&", "d7/d3f/a00173.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
+    [ "CONFIG_HIGH_PRIORITY", "d7/d3f/a00173.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d7/d3f/a00173.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d7/d3f/a00173.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

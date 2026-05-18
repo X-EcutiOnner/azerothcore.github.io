@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/vmapexport.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/BlackrockMountain/BlackrockDepths/instance_blackrock_depths.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,831 +106,568 @@ $(document).ready(function(){initNavTree('d3/d9a/a04433.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">vmapexport.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">instance_blackrock_depths.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cerrno&gt;</code><br />
-<code>#include &lt;cstdio&gt;</code><br />
-<code>#include &lt;list&gt;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;sys/stat.h&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
-<code>#include &quot;<a class="el" href="../../">vmapexport.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">adtfile.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">dbcfile.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">wdtfile.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">wmo.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">blackrock_depths.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d97/a29581.html">map_id</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d0c/a12542.html">RestoreAttack</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddb/a12546.html">instance_blackrock_depths</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a411c46599e926f8cdf49c63957255359"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a411c46599e926f8cdf49c63957255359">_CRT_SECURE_NO_DEPRECATE</a></td></tr>
-<tr class="separator:a411c46599e926f8cdf49c63957255359"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a402d9c2814f85cee14f9bc8dbc999de8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a402d9c2814f85cee14f9bc8dbc999de8">MPQ_BLOCK_SIZE</a>&#160;&#160;&#160;0x1000</td></tr>
-<tr class="separator:a402d9c2814f85cee14f9bc8dbc999de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ab4d1592137d12427d186be538badd18b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18b">Timers</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878">TIMER_TOMBOFTHESEVEN</a> = 30000
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8">TIMER_TOMB_START</a> = 1000
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0">TIMER_TOMB_RESET</a> = 15000
+<br />
+ }</td></tr>
+<tr class="separator:ab4d1592137d12427d186be538badd18b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47a83b3a7eee5cb11315a17f5dbed3dc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dc">Distances</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62">RADIUS_RING_OF_LAW</a> = 80
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71">DISTANCE_EMPEROR_ROOM</a> = 125
+<br />
+ }</td></tr>
+<tr class="separator:a47a83b3a7eee5cb11315a17f5dbed3dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf36a227ab379f05f5a368bc03d562e4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4">PrincessQuests</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c">PRINCESS_QUEST_HORDE</a> = 4004
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58">PRINCESS_QUEST_ALLIANCE</a> = 4363
+<br />
+ }</td></tr>
+<tr class="separator:adf36a227ab379f05f5a368bc03d562e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11b4fe9f4efc221e06a058a1b6650e3d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3d">GameObjects</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88">GO_ARENA1</a> = 161525
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5">GO_ARENA2</a> = 161522
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777">GO_ARENA3</a> = 161524
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173">GO_ARENA4</a> = 161523
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0">GO_SHADOW_LOCK</a> = 161460
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d">GO_SHADOW_MECHANISM</a> = 161461
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb">GO_SHADOW_GIANT_DOOR</a> = 157923
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9">GO_SHADOW_DUMMY</a> = 161516
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60">GO_BAR_KEG_SHOT</a> = 170607
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7">GO_BAR_KEG_TRAP</a> = 171941
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f">GO_BAR_DOOR</a> = 170571
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74">GO_TOMB_ENTER</a> = 170576
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b">GO_TOMB_EXIT</a> = 170577
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a">GO_LYCEUM</a> = 170558
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7">GO_SF_N</a> = 174745
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693">GO_SF_S</a> = 174744
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245">GO_GOLEM_ROOM_N</a> = 170573
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83">GO_GOLEM_ROOM_S</a> = 170574
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f">GO_THRONE_ROOM</a> = 170575
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a">GO_SPECTRAL_CHALICE</a> = 164869
+, <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1">GO_CHEST_SEVEN</a> = 169243
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d39/a04529.html#a11b4fe9f4efc221e06a058a1b6650e3dad8fbf99ef44500764b989f42fe23bdd9">GO_DRAKONID_BONES</a> = 179804
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d39/a04529.html#a11b4fe9f4efc221e06a058a1b6650e3da7bea8e90477623f05c541bdd342245e7">GO_PORTCULLIS_ACTIVE</a> = 164726
+, <br />
+&#160;&#160;<a class="el" href="../../dc/d39/a04529.html#a11b4fe9f4efc221e06a058a1b6650e3da2fbe2239dee775315c4ae029d5abf224">GO_PORTCULLIS_TOBOSSROOMS</a> = 175186
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463">GO_FACTORY_DOOR</a> = 13965
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640">GO_HEAVY_DOOR_1</a> = 17153
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb">GO_HEAVY_DOOR_2</a> = 17154
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e">GO_IRON_CLAD_DOOR</a> = 16397
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac">GO_DOOR_LEVER_1</a> = 101831
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e">GO_DOOR_LEVER_2</a> = 101833
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55">GO_DOOR_LEVER_3</a> = 101834
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb">GO_CANNON</a> = 16398
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce">GO_FOUNDRY_DOOR</a> = 16399
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d8b/a04112.html#a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa">GO_MAST_ROOM_DOOR</a> = 16400
+, <br />
+&#160;&#160;<a class="el" href="../../db/daf/a04412.html#a11b4fe9f4efc221e06a058a1b6650e3da1361d5d9b957a262fe7f88441f7d1690">GO_CAVE_IN_1</a> = 146085
+, <br />
+&#160;&#160;<a class="el" href="../../db/daf/a04412.html#a11b4fe9f4efc221e06a058a1b6650e3daf79e76e21dbda033c783ed95a0a12ff7">GO_CAVE_IN_2</a> = 146086
+, <br />
+&#160;&#160;<a class="el" href="../../db/daf/a04412.html#a11b4fe9f4efc221e06a058a1b6650e3da02bc5961ef003d0a269c7a49273c147e">GO_WORKSHOP_DOOR</a> = 90858
+, <br />
+&#160;&#160;<a class="el" href="../../db/daf/a04412.html#a11b4fe9f4efc221e06a058a1b6650e3da9aaef9156bbd2b2036f20598f14ebd81">GO_FINAL_CHAMBER_DOOR</a> = 142207
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#a11b4fe9f4efc221e06a058a1b6650e3da44c78702d5d0d06edcfa62a51f90aba0">GO_COURTYARD_DOOR</a> = 18895
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#a11b4fe9f4efc221e06a058a1b6650e3dabe0733a4d225a0cab150dc8b569705f3">GO_SORCERER_DOOR</a> = 18972
+, <br />
+&#160;&#160;<a class="el" href="../../d6/ddf/a04349.html#a11b4fe9f4efc221e06a058a1b6650e3dafaab886da1f8baab8eccde6a723c5dfa">GO_ARUGAL_DOOR</a> = 18971
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3da2337d9268a48639b4e53fd4ce13b1eeb">GO_SHKAF_GATE</a> = 188686
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3da1215d1c51cc50051852eac04cd983867">GO_EXIT_GATE</a> = 191788
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3daaf66d45886060a3bc3f14352b01a3b11">GO_MALGANIS_CHEST_N</a> = 190663
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3dace15bdc03be9e612ce85131f54d9f8a3">GO_MALGANIS_CHEST_H</a> = 193597
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086">GO_SUSPICIOUS_CRATE</a> = 190094
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d8b/a03791.html#a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a">GO_PLAGUED_CRATE</a> = 190095
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d9d/a03917.html#a11b4fe9f4efc221e06a058a1b6650e3da70d7fb000e72724ad7446b3f711b127a">GO_OSSIRIAN_CRYSTAL</a> = 180619
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d76/a03296.html#a11b4fe9f4efc221e06a058a1b6650e3da9541a9bdc57c98b10da0de6276e80ba5">GO_NOVOS_CRYSTAL_1</a> = 189299
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d76/a03296.html#a11b4fe9f4efc221e06a058a1b6650e3dab6e2061ac74c4f6e0182f2a59279f4f0">GO_NOVOS_CRYSTAL_2</a> = 189300
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d76/a03296.html#a11b4fe9f4efc221e06a058a1b6650e3daf089ef82815155eb42b8d394ff45f38f">GO_NOVOS_CRYSTAL_3</a> = 189301
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d76/a03296.html#a11b4fe9f4efc221e06a058a1b6650e3da872a29bbcdf333d58b341830c52d9747">GO_NOVOS_CRYSTAL_4</a> = 189302
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da5efbb3b471967803074801b3cf27780b">GO_FROSTMOURNE</a> = 202302
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da84ed1ce610a2260b7892a436781f8966">GO_FROSTMOURNE_ALTAR</a> = 202236
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da2f4baa51588549d50554525c74095fb1">GO_FRONT_DOOR</a> = 201976
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3dacbc75d8790f6231d2e7b607b2bc7cf83">GO_ARTHAS_DOOR</a> = 197341
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da070e32910aeb1dce992735c6771809df">GO_CAVE_IN</a> = 201596
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da77913f882a9f3a401a7634b02c577a68">GO_DOOR_BEFORE_THRONE</a> = 197342
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3daf2579f4494eb6281c52b732caf160a87">GO_DOOR_AFTER_THRONE</a> = 197343
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da660f6d34f391c8eb910f369e10b312a3">GO_ICE_WALL</a> = 201385
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da68514410d9423ba3c61f48ec3f6825ca">GO_THE_SKYBREAKER</a> = 201598
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da772087e538c9edf353f9bed67667c312">GO_ORGRIMS_HAMMER</a> = 201599
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3daa3dc10f2b03d7658fa70431133737695">GO_STAIRS_ALLIANCE</a> = 201709
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da787fb6f9b6bd4c8afcb0022bd0f96547">GO_STAIRS_HORDE</a> = 202211
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da08c1000751dc013d6504b540c510ec53">GO_CHEST_NORMAL</a> = 201710
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da1f107d73fafba0c45a8d9754d038f792">GO_CHEST_HEROIC</a> = 202336
+, <br />
+&#160;&#160;<a class="el" href="../../df/d1e/a03212.html#a11b4fe9f4efc221e06a058a1b6650e3da1da1d512918d1732cc81b35fb728f07a">GO_PORTAL_TO_DALARAN</a> = 195682
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3dac7835783e711cbdd0ec14ecff9164497">GO_ALTAR_OF_SLAD_RAN</a> = 192518
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3daa2b97cc34eed984fec16fa4d812c3d6a">GO_STATUE_OF_SLAD_RAN</a> = 192564
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da708eff4357e588975cad5c3536b994e5">GO_ALTAR_OF_DRAKKARI</a> = 192520
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da5e739cdc38a7b76cd55c700af960332d">GO_STATUE_OF_DRAKKARI</a> = 192567
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da2d8e80e39bd8c5c4e7fea6753e130143">GO_ALTAR_OF_MOORABI</a> = 192519
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da45851cc34f535fc567eaea3375addb91">GO_STATUE_OF_MOORABI</a> = 192565
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3dab40bad58203c20874be866be968b9aba">GO_STATUE_OF_GAL_DARAH</a> = 192566
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da28187e4ed295d924338da37a1df38af4">GO_GUNDRAK_BRIDGE</a> = 193188
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3dae93e3946003a6f42a530431365924a00">GO_GUNDRAK_COLLISION</a> = 192633
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83">GO_ECK_DOORS</a> = 192632
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812">GO_ECK_UNDERWATER_GATE</a> = 192569
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf">GO_GAL_DARAH_DOORS0</a> = 192568
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34">GO_GAL_DARAH_DOORS1</a> = 193208
+, <br />
+&#160;&#160;<a class="el" href="../../da/d6e/a03314.html#a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be">GO_GAL_DARAH_DOORS2</a> = 193209
+<br />
+ }</td></tr>
+<tr class="separator:a11b4fe9f4efc221e06a058a1b6650e3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1df2a0c7338a4dff24c5b303ccaf2e8b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a1df2a0c7338a4dff24c5b303ccaf2e8b">MiscData</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d9a/a04433.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12">SPELL_STONED</a> = 10255
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d45/a03191.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba1f70e04a5bf31c2db2dab09485d107d4">EQUIP_ID_SWORD</a> = 49345
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d45/a03191.html#a1df2a0c7338a4dff24c5b303ccaf2e8bac5bb4cab7e2d37bb3b76b6e16a3cfd9f">EQUIP_ID_MACE</a> = 49344
+, <br />
+&#160;&#160;<a class="el" href="../../d1/d45/a03191.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba2ac001856e01c362c049523348770be1">GO_SARONITE_ROCK</a> = 196485
+, <br />
+&#160;&#160;<a class="el" href="../../df/d8e/a03509.html#a1df2a0c7338a4dff24c5b303ccaf2e8bae0a0a55162940594b69ea0be303ef9f1">MUSIC_ENCOUNTER</a> = 17289
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba967fb816432d73e72a935b03d3fdf287">LIGHT_SNOWSTORM</a> = 2490
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba03c59cf1b5f07362dc8b3aeb2e072cf6">LIGHT_SOULSTORM</a> = 2508
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba487d113f5c278059d4b918086c275225">EQUIP_ASHBRINGER</a> = 13262
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba661c65ae92e776ae2fabf52e13241bd4">MUSIC_FROZEN_THRONE</a> = 17457
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8badeac43464c411908539cf214921cf1f3">MUSIC_SPECIAL</a> = 17458
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9">MUSIC_FURY_OF_FROSTMOURNE</a> = 17459
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba6f518a1d708b492e3304a20b1acc44ab">MUSIC_FINAL</a> = 17460
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba9cc87d6fe875c0abce87f9bcf834779b">SOUND_PAIN</a> = 17360
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8baecb62fc25fcd3323fac7be0efcdd1735">EQUIP_ASHBRINGER_GLOWING</a> = 50442
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8badb6489a662fb1f672e55cc152340d6af">EQUIP_BROKEN_FROSTMOURNE</a> = 50840
+, <br />
+&#160;&#160;<a class="el" href="../../d7/d83/a03506.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431">MOVIE_FALL_OF_THE_LICH_KING</a> = 16
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8babe9c1500f91a0f01f081d3850d1ee69b">NPC_GRAUF</a> = 26893
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba0979448d401b56c27b27f6a0c6462adc">NPC_TRIGGER_RESET</a> = 23472
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba2de54d34271fcadd2d72ee13d7e0ce48">NPC_WORLD_TRIGGER</a> = 22515
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba2668dbfce481343adbee4c9c9ad800c5">NPC_COMBAT_TRIGGER</a> = 38667
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba6d402e107cfecdc405ddfcb0441afcf9">ACHIEV_TIMED_LODI_DODI</a> = 17726
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8ba08d7f01b4043bde66efe985d4c7459be">FIRST_WAVE_MAX_WARRIORS</a> = 10
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d08/a03254.html#a1df2a0c7338a4dff24c5b303ccaf2e8bac7810168b1a8efe0ecd6bb4a27b37646">FIRST_WAVE_SIZE</a> = 13
+<br />
+ }</td></tr>
+<tr class="separator:a1df2a0c7338a4dff24c5b303ccaf2e8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6a3d179f34597554b17a122f27cd6be5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a> (<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> clientId, <a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> clientDoodadId)</td></tr>
-<tr class="separator:a6a3d179f34597554b17a122f27cd6be5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab524156a5705c5cd09f96106eaac92d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#aab524156a5705c5cd09f96106eaac92d">FileExists</a> (const char *file)</td></tr>
-<tr class="separator:aab524156a5705c5cd09f96106eaac92d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9e88429cc2168db83793cb7074bc69f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#ac9e88429cc2168db83793cb7074bc69f">strToLower</a> (char *str)</td></tr>
-<tr class="separator:ac9e88429cc2168db83793cb7074bc69f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc9839262206eb10094c1769141ae146"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a> (std::string &amp;fname)</td></tr>
-<tr class="separator:afc9839262206eb10094c1769141ae146"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a50c73ad000da4df06ae438373eeaf60e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a50c73ad000da4df06ae438373eeaf60e">ParsMapFiles</a> ()</td></tr>
-<tr class="separator:a50c73ad000da4df06ae438373eeaf60e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6bb580270fe96b7e6ccb585658850d17"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a6bb580270fe96b7e6ccb585658850d17">getGamePath</a> ()</td></tr>
-<tr class="separator:a6bb580270fe96b7e6ccb585658850d17"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a995d89b97dfb31a6a8c1c4e1c96d47f4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a995d89b97dfb31a6a8c1c4e1c96d47f4">scan_patches</a> (char *scanmatch, std::vector&lt; std::string &gt; &amp;pArchiveNames)</td></tr>
-<tr class="separator:a995d89b97dfb31a6a8c1c4e1c96d47f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a32b84e03161e7056f809d12d8b7b71b2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a32b84e03161e7056f809d12d8b7b71b2">fillArchiveNameVector</a> (std::vector&lt; std::string &gt; &amp;pArchiveNames)</td></tr>
-<tr class="separator:a32b84e03161e7056f809d12d8b7b71b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f05dfc74cc4db726161d81ab714bfe1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a8f05dfc74cc4db726161d81ab714bfe1">processArgv</a> (int argc, char **argv, const char *versionString)</td></tr>
-<tr class="separator:a8f05dfc74cc4db726161d81ab714bfe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
-<tr class="separator:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ced6984013403c91ff37a974bbadd08"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a0ced6984013403c91ff37a974bbadd08">AddSC_instance_blackrock_depths</a> ()</td></tr>
+<tr class="separator:a0ced6984013403c91ff37a974bbadd08"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d2e/a30601.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></td></tr>
-<tr class="separator:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a12b965536bcabf2e2edd7db2196630cd"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d6/d97/a29581.html">map_id</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a></td></tr>
-<tr class="separator:a12b965536bcabf2e2edd7db2196630cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6fcdefd114e6ec71964d6539163fc055"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a></td></tr>
-<tr class="separator:a6fcdefd114e6ec71964d6539163fc055"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeb9ec80db9cddb3d9ab2303f2a825d0b"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#aeb9ec80db9cddb3d9ab2303f2a825d0b">output_path</a> [128] = &quot;.&quot;</td></tr>
-<tr class="separator:aeb9ec80db9cddb3d9ab2303f2a825d0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a773984b4a48966b7ea95d0586db0210b"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a> [1024] = &quot;.&quot;</td></tr>
-<tr class="separator:a773984b4a48966b7ea95d0586db0210b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5ef7a611bb56bdaa370aaf1770059365"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a5ef7a611bb56bdaa370aaf1770059365">hasInputPathParam</a> = false</td></tr>
-<tr class="separator:a5ef7a611bb56bdaa370aaf1770059365"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2191d2ffb8973cd0ddb269bcaa06a31d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a> = false</td></tr>
-<tr class="separator:a2191d2ffb8973cd0ddb269bcaa06a31d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17b22c7645963c9e5c277b72605a4966"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, <a class="el" href="../../d2/d9c/a29717.html">WMODoodadData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a></td></tr>
-<tr class="separator:a17b22c7645963c9e5c277b72605a4966"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae79cb6c3493a63f0e1058be3bd5ba328"><td class="memItemLeft" align="right" valign="top">char const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a> = &quot;./Buildings&quot;</td></tr>
-<tr class="separator:ae79cb6c3493a63f0e1058be3bd5ba328"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a78dd87d3ceb9a2d97c7a1d0caa8d4154"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::pair&lt; <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154">uniqueObjectIds</a></td></tr>
-<tr class="separator:a78dd87d3ceb9a2d97c7a1d0caa8d4154"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc40b58c1d6068b25a1fe4fc855d423c"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d9a/a04433.html#abc40b58c1d6068b25a1fe4fc855d423c">MAX_ENCOUNTER</a> = 6</td></tr>
+<tr class="separator:abc40b58c1d6068b25a1fe4fc855d423c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a411c46599e926f8cdf49c63957255359" name="a411c46599e926f8cdf49c63957255359"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a411c46599e926f8cdf49c63957255359">&#9670;&#160;</a></span>_CRT_SECURE_NO_DEPRECATE</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a47a83b3a7eee5cb11315a17f5dbed3dc" name="a47a83b3a7eee5cb11315a17f5dbed3dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47a83b3a7eee5cb11315a17f5dbed3dc">&#9670;&#160;</a></span>Distances</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define _CRT_SECURE_NO_DEPRECATE</td>
+          <td class="memname">enum <a class="el" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dc">Distances</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62" name="a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62"></a>RADIUS_RING_OF_LAW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71" name="a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71"></a>DISTANCE_EMPEROR_ROOM&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62">RADIUS_RING_OF_LAW</a>      = 80,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71">DISTANCE_EMPEROR_ROOM</a>   = 125</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa04433_html_a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71"><div class="ttname"><a href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dca45c8cb2cfc126efde444fcec67c4cb71">DISTANCE_EMPEROR_ROOM</a></div><div class="ttdeci">@ DISTANCE_EMPEROR_ROOM</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:36</div></div>
+<div class="ttc" id="aa04433_html_a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62"><div class="ttname"><a href="../../d3/d9a/a04433.html#a47a83b3a7eee5cb11315a17f5dbed3dcade7cc40d61a38a77844fadc76a813d62">RADIUS_RING_OF_LAW</a></div><div class="ttdeci">@ RADIUS_RING_OF_LAW</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:35</div></div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a402d9c2814f85cee14f9bc8dbc999de8" name="a402d9c2814f85cee14f9bc8dbc999de8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a402d9c2814f85cee14f9bc8dbc999de8">&#9670;&#160;</a></span>MPQ_BLOCK_SIZE</h2>
+<a id="a11b4fe9f4efc221e06a058a1b6650e3d" name="a11b4fe9f4efc221e06a058a1b6650e3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a11b4fe9f4efc221e06a058a1b6650e3d">&#9670;&#160;</a></span>GameObjects</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MPQ_BLOCK_SIZE&#160;&#160;&#160;0x1000</td>
+          <td class="memname">enum <a class="el" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3d">GameObjects</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88" name="a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88"></a>GO_ARENA1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5" name="a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5"></a>GO_ARENA2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777" name="a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777"></a>GO_ARENA3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173" name="a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173"></a>GO_ARENA4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0" name="a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0"></a>GO_SHADOW_LOCK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d" name="a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d"></a>GO_SHADOW_MECHANISM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb" name="a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb"></a>GO_SHADOW_GIANT_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9" name="a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9"></a>GO_SHADOW_DUMMY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60" name="a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60"></a>GO_BAR_KEG_SHOT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7" name="a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7"></a>GO_BAR_KEG_TRAP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f" name="a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f"></a>GO_BAR_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74" name="a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74"></a>GO_TOMB_ENTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b" name="a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b"></a>GO_TOMB_EXIT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a" name="a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a"></a>GO_LYCEUM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7" name="a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7"></a>GO_SF_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693" name="a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693"></a>GO_SF_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245" name="a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245"></a>GO_GOLEM_ROOM_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83" name="a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83"></a>GO_GOLEM_ROOM_S&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f" name="a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f"></a>GO_THRONE_ROOM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a" name="a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a"></a>GO_SPECTRAL_CHALICE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1" name="a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1"></a>GO_CHEST_SEVEN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dad8fbf99ef44500764b989f42fe23bdd9" name="a11b4fe9f4efc221e06a058a1b6650e3dad8fbf99ef44500764b989f42fe23bdd9"></a>GO_DRAKONID_BONES&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da7bea8e90477623f05c541bdd342245e7" name="a11b4fe9f4efc221e06a058a1b6650e3da7bea8e90477623f05c541bdd342245e7"></a>GO_PORTCULLIS_ACTIVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da2fbe2239dee775315c4ae029d5abf224" name="a11b4fe9f4efc221e06a058a1b6650e3da2fbe2239dee775315c4ae029d5abf224"></a>GO_PORTCULLIS_TOBOSSROOMS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463" name="a11b4fe9f4efc221e06a058a1b6650e3da47c93fe13dc1f5bcfe9dbd7ccfc88463"></a>GO_FACTORY_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640" name="a11b4fe9f4efc221e06a058a1b6650e3dab4f246f333db2b004ffc7b6372e92640"></a>GO_HEAVY_DOOR_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb" name="a11b4fe9f4efc221e06a058a1b6650e3daee49fd68149e134d493d16c3dc7fa5cb"></a>GO_HEAVY_DOOR_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e" name="a11b4fe9f4efc221e06a058a1b6650e3da40a650d396a3bd814fdd3d305946808e"></a>GO_IRON_CLAD_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac" name="a11b4fe9f4efc221e06a058a1b6650e3daed3c562f7c77927abdb5314d03fad6ac"></a>GO_DOOR_LEVER_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e" name="a11b4fe9f4efc221e06a058a1b6650e3da5085d2ae1dca4ed99207259d6d1aec8e"></a>GO_DOOR_LEVER_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55" name="a11b4fe9f4efc221e06a058a1b6650e3da630f5f7acbba4ddc77a43313dfe06e55"></a>GO_DOOR_LEVER_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb" name="a11b4fe9f4efc221e06a058a1b6650e3dae99b6924edc68128713e1a21d5f30feb"></a>GO_CANNON&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce" name="a11b4fe9f4efc221e06a058a1b6650e3da19745206ad675de76c56ec85bcaf87ce"></a>GO_FOUNDRY_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa" name="a11b4fe9f4efc221e06a058a1b6650e3daa62d0bcdd70d06d582e35b0183b62bfa"></a>GO_MAST_ROOM_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1361d5d9b957a262fe7f88441f7d1690" name="a11b4fe9f4efc221e06a058a1b6650e3da1361d5d9b957a262fe7f88441f7d1690"></a>GO_CAVE_IN_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daf79e76e21dbda033c783ed95a0a12ff7" name="a11b4fe9f4efc221e06a058a1b6650e3daf79e76e21dbda033c783ed95a0a12ff7"></a>GO_CAVE_IN_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da02bc5961ef003d0a269c7a49273c147e" name="a11b4fe9f4efc221e06a058a1b6650e3da02bc5961ef003d0a269c7a49273c147e"></a>GO_WORKSHOP_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da9aaef9156bbd2b2036f20598f14ebd81" name="a11b4fe9f4efc221e06a058a1b6650e3da9aaef9156bbd2b2036f20598f14ebd81"></a>GO_FINAL_CHAMBER_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da44c78702d5d0d06edcfa62a51f90aba0" name="a11b4fe9f4efc221e06a058a1b6650e3da44c78702d5d0d06edcfa62a51f90aba0"></a>GO_COURTYARD_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dabe0733a4d225a0cab150dc8b569705f3" name="a11b4fe9f4efc221e06a058a1b6650e3dabe0733a4d225a0cab150dc8b569705f3"></a>GO_SORCERER_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dafaab886da1f8baab8eccde6a723c5dfa" name="a11b4fe9f4efc221e06a058a1b6650e3dafaab886da1f8baab8eccde6a723c5dfa"></a>GO_ARUGAL_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da2337d9268a48639b4e53fd4ce13b1eeb" name="a11b4fe9f4efc221e06a058a1b6650e3da2337d9268a48639b4e53fd4ce13b1eeb"></a>GO_SHKAF_GATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1215d1c51cc50051852eac04cd983867" name="a11b4fe9f4efc221e06a058a1b6650e3da1215d1c51cc50051852eac04cd983867"></a>GO_EXIT_GATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daaf66d45886060a3bc3f14352b01a3b11" name="a11b4fe9f4efc221e06a058a1b6650e3daaf66d45886060a3bc3f14352b01a3b11"></a>GO_MALGANIS_CHEST_N&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dace15bdc03be9e612ce85131f54d9f8a3" name="a11b4fe9f4efc221e06a058a1b6650e3dace15bdc03be9e612ce85131f54d9f8a3"></a>GO_MALGANIS_CHEST_H&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086" name="a11b4fe9f4efc221e06a058a1b6650e3da68e6c8f231df9c1c26c4901db704f086"></a>GO_SUSPICIOUS_CRATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a" name="a11b4fe9f4efc221e06a058a1b6650e3da1daa1a974f1ef67a24ac61e4b3bd016a"></a>GO_PLAGUED_CRATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da70d7fb000e72724ad7446b3f711b127a" name="a11b4fe9f4efc221e06a058a1b6650e3da70d7fb000e72724ad7446b3f711b127a"></a>GO_OSSIRIAN_CRYSTAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da9541a9bdc57c98b10da0de6276e80ba5" name="a11b4fe9f4efc221e06a058a1b6650e3da9541a9bdc57c98b10da0de6276e80ba5"></a>GO_NOVOS_CRYSTAL_1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dab6e2061ac74c4f6e0182f2a59279f4f0" name="a11b4fe9f4efc221e06a058a1b6650e3dab6e2061ac74c4f6e0182f2a59279f4f0"></a>GO_NOVOS_CRYSTAL_2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daf089ef82815155eb42b8d394ff45f38f" name="a11b4fe9f4efc221e06a058a1b6650e3daf089ef82815155eb42b8d394ff45f38f"></a>GO_NOVOS_CRYSTAL_3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da872a29bbcdf333d58b341830c52d9747" name="a11b4fe9f4efc221e06a058a1b6650e3da872a29bbcdf333d58b341830c52d9747"></a>GO_NOVOS_CRYSTAL_4&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da5efbb3b471967803074801b3cf27780b" name="a11b4fe9f4efc221e06a058a1b6650e3da5efbb3b471967803074801b3cf27780b"></a>GO_FROSTMOURNE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da84ed1ce610a2260b7892a436781f8966" name="a11b4fe9f4efc221e06a058a1b6650e3da84ed1ce610a2260b7892a436781f8966"></a>GO_FROSTMOURNE_ALTAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da2f4baa51588549d50554525c74095fb1" name="a11b4fe9f4efc221e06a058a1b6650e3da2f4baa51588549d50554525c74095fb1"></a>GO_FRONT_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dacbc75d8790f6231d2e7b607b2bc7cf83" name="a11b4fe9f4efc221e06a058a1b6650e3dacbc75d8790f6231d2e7b607b2bc7cf83"></a>GO_ARTHAS_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da070e32910aeb1dce992735c6771809df" name="a11b4fe9f4efc221e06a058a1b6650e3da070e32910aeb1dce992735c6771809df"></a>GO_CAVE_IN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da77913f882a9f3a401a7634b02c577a68" name="a11b4fe9f4efc221e06a058a1b6650e3da77913f882a9f3a401a7634b02c577a68"></a>GO_DOOR_BEFORE_THRONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daf2579f4494eb6281c52b732caf160a87" name="a11b4fe9f4efc221e06a058a1b6650e3daf2579f4494eb6281c52b732caf160a87"></a>GO_DOOR_AFTER_THRONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da660f6d34f391c8eb910f369e10b312a3" name="a11b4fe9f4efc221e06a058a1b6650e3da660f6d34f391c8eb910f369e10b312a3"></a>GO_ICE_WALL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da68514410d9423ba3c61f48ec3f6825ca" name="a11b4fe9f4efc221e06a058a1b6650e3da68514410d9423ba3c61f48ec3f6825ca"></a>GO_THE_SKYBREAKER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da772087e538c9edf353f9bed67667c312" name="a11b4fe9f4efc221e06a058a1b6650e3da772087e538c9edf353f9bed67667c312"></a>GO_ORGRIMS_HAMMER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daa3dc10f2b03d7658fa70431133737695" name="a11b4fe9f4efc221e06a058a1b6650e3daa3dc10f2b03d7658fa70431133737695"></a>GO_STAIRS_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da787fb6f9b6bd4c8afcb0022bd0f96547" name="a11b4fe9f4efc221e06a058a1b6650e3da787fb6f9b6bd4c8afcb0022bd0f96547"></a>GO_STAIRS_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da08c1000751dc013d6504b540c510ec53" name="a11b4fe9f4efc221e06a058a1b6650e3da08c1000751dc013d6504b540c510ec53"></a>GO_CHEST_NORMAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1f107d73fafba0c45a8d9754d038f792" name="a11b4fe9f4efc221e06a058a1b6650e3da1f107d73fafba0c45a8d9754d038f792"></a>GO_CHEST_HEROIC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1da1d512918d1732cc81b35fb728f07a" name="a11b4fe9f4efc221e06a058a1b6650e3da1da1d512918d1732cc81b35fb728f07a"></a>GO_PORTAL_TO_DALARAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dac7835783e711cbdd0ec14ecff9164497" name="a11b4fe9f4efc221e06a058a1b6650e3dac7835783e711cbdd0ec14ecff9164497"></a>GO_ALTAR_OF_SLAD_RAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daa2b97cc34eed984fec16fa4d812c3d6a" name="a11b4fe9f4efc221e06a058a1b6650e3daa2b97cc34eed984fec16fa4d812c3d6a"></a>GO_STATUE_OF_SLAD_RAN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da708eff4357e588975cad5c3536b994e5" name="a11b4fe9f4efc221e06a058a1b6650e3da708eff4357e588975cad5c3536b994e5"></a>GO_ALTAR_OF_DRAKKARI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da5e739cdc38a7b76cd55c700af960332d" name="a11b4fe9f4efc221e06a058a1b6650e3da5e739cdc38a7b76cd55c700af960332d"></a>GO_STATUE_OF_DRAKKARI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da2d8e80e39bd8c5c4e7fea6753e130143" name="a11b4fe9f4efc221e06a058a1b6650e3da2d8e80e39bd8c5c4e7fea6753e130143"></a>GO_ALTAR_OF_MOORABI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da45851cc34f535fc567eaea3375addb91" name="a11b4fe9f4efc221e06a058a1b6650e3da45851cc34f535fc567eaea3375addb91"></a>GO_STATUE_OF_MOORABI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dab40bad58203c20874be866be968b9aba" name="a11b4fe9f4efc221e06a058a1b6650e3dab40bad58203c20874be866be968b9aba"></a>GO_STATUE_OF_GAL_DARAH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da28187e4ed295d924338da37a1df38af4" name="a11b4fe9f4efc221e06a058a1b6650e3da28187e4ed295d924338da37a1df38af4"></a>GO_GUNDRAK_BRIDGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dae93e3946003a6f42a530431365924a00" name="a11b4fe9f4efc221e06a058a1b6650e3dae93e3946003a6f42a530431365924a00"></a>GO_GUNDRAK_COLLISION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83" name="a11b4fe9f4efc221e06a058a1b6650e3daab9f97444ba185eb58f305f61ae08c83"></a>GO_ECK_DOORS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812" name="a11b4fe9f4efc221e06a058a1b6650e3daabb4ea9921292a31a1a031979aebf812"></a>GO_ECK_UNDERWATER_GATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf" name="a11b4fe9f4efc221e06a058a1b6650e3da1c988e844b4d6b11c228d8428b88d3cf"></a>GO_GAL_DARAH_DOORS0&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34" name="a11b4fe9f4efc221e06a058a1b6650e3da771518726c2dbf6dca38226916216a34"></a>GO_GAL_DARAH_DOORS1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be" name="a11b4fe9f4efc221e06a058a1b6650e3dabd6da605ab7465041fd96a5f1675b8be"></a>GO_GAL_DARAH_DOORS2&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88">GO_ARENA1</a>               = 161525,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5">GO_ARENA2</a>               = 161522,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777">GO_ARENA3</a>               = 161524,</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173">GO_ARENA4</a>               = 161523,</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0">GO_SHADOW_LOCK</a>          = 161460,</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d">GO_SHADOW_MECHANISM</a>     = 161461,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb">GO_SHADOW_GIANT_DOOR</a>    = 157923,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9">GO_SHADOW_DUMMY</a>         = 161516,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60">GO_BAR_KEG_SHOT</a>         = 170607,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7">GO_BAR_KEG_TRAP</a>         = 171941,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f">GO_BAR_DOOR</a>             = 170571,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74">GO_TOMB_ENTER</a>           = 170576,</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b">GO_TOMB_EXIT</a>            = 170577,</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a">GO_LYCEUM</a>               = 170558,</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7">GO_SF_N</a>                 = 174745, <span class="comment">// Shadowforge Brazier North</span></div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693">GO_SF_S</a>                 = 174744, <span class="comment">// Shadowforge Brazier South</span></div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245">GO_GOLEM_ROOM_N</a>         = 170573, <span class="comment">// Magmus door North</span></div>
+<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83">GO_GOLEM_ROOM_S</a>         = 170574, <span class="comment">// Magmus door Soutsh</span></div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f">GO_THRONE_ROOM</a>          = 170575, <span class="comment">// Throne door</span></div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a">GO_SPECTRAL_CHALICE</a>     = 164869,</div>
+<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1">GO_CHEST_SEVEN</a>          = 169243,</div>
+<div class="line"><span class="lineno">   68</span>};</div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0beb64733220e9e1424af57304589d0d">GO_SHADOW_MECHANISM</a></div><div class="ttdeci">@ GO_SHADOW_MECHANISM</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:52</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0cfd4f0672b5c1752d2ca45cb72f0777">GO_ARENA3</a></div><div class="ttdeci">@ GO_ARENA3</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:49</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da0d7eb7d39a40882570104963c64eb245">GO_GOLEM_ROOM_N</a></div><div class="ttdeci">@ GO_GOLEM_ROOM_N</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:63</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da28c03fee802e44ef180049280f6fdea0">GO_SHADOW_LOCK</a></div><div class="ttdeci">@ GO_SHADOW_LOCK</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:51</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da316617aceb3d492f16c01f94247809fb">GO_SHADOW_GIANT_DOOR</a></div><div class="ttdeci">@ GO_SHADOW_GIANT_DOOR</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:53</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da37bc99dd7faef5845e24826a9941d74b">GO_TOMB_EXIT</a></div><div class="ttdeci">@ GO_TOMB_EXIT</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:59</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da566354caef84c7294e1bc6c2cd68c98a">GO_LYCEUM</a></div><div class="ttdeci">@ GO_LYCEUM</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:60</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da57a064024f4034c9d4d3d690ba75f5b9">GO_SHADOW_DUMMY</a></div><div class="ttdeci">@ GO_SHADOW_DUMMY</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:54</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da581ccca3d2d71e0ac9a2e91ae56bc693">GO_SF_S</a></div><div class="ttdeci">@ GO_SF_S</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:62</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da5fae4c2826067b7bd60c13ab69521b74">GO_TOMB_ENTER</a></div><div class="ttdeci">@ GO_TOMB_ENTER</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:58</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da75dd726037c229b408d0046eae174ad5">GO_ARENA2</a></div><div class="ttdeci">@ GO_ARENA2</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:48</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da7ca7a5ce0c9e36f907816fce694bfa83">GO_GOLEM_ROOM_S</a></div><div class="ttdeci">@ GO_GOLEM_ROOM_S</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:64</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8410a3425b6bb7f2c09d5abfd401857f">GO_BAR_DOOR</a></div><div class="ttdeci">@ GO_BAR_DOOR</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:57</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da8830dd443251198606307ce6fac9c1b7">GO_SF_N</a></div><div class="ttdeci">@ GO_SF_N</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:61</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da91d3c74f14a8b1c561b784a5b5fe1d60">GO_BAR_KEG_SHOT</a></div><div class="ttdeci">@ GO_BAR_KEG_SHOT</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:55</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9c8d9260941b3d5afd00d20f77424173">GO_ARENA4</a></div><div class="ttdeci">@ GO_ARENA4</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:50</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3da9fad4d2f68fdc1d04d865354612bea88">GO_ARENA1</a></div><div class="ttdeci">@ GO_ARENA1</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:47</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3daae0f4e6408e4f32858c3301fd48aea0a">GO_SPECTRAL_CHALICE</a></div><div class="ttdeci">@ GO_SPECTRAL_CHALICE</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:66</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad2df80e2061b2c748ec12a30383df1c7">GO_BAR_KEG_TRAP</a></div><div class="ttdeci">@ GO_BAR_KEG_TRAP</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:56</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad40807a367a7f24dc81cebe86c29173f">GO_THRONE_ROOM</a></div><div class="ttdeci">@ GO_THRONE_ROOM</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:65</div></div>
+<div class="ttc" id="aa04433_html_a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1"><div class="ttname"><a href="../../d3/d9a/a04433.html#a11b4fe9f4efc221e06a058a1b6650e3dad7eeda94a7e9bbc50d9bd4f704fc2af1">GO_CHEST_SEVEN</a></div><div class="ttdeci">@ GO_CHEST_SEVEN</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:67</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a1df2a0c7338a4dff24c5b303ccaf2e8b" name="a1df2a0c7338a4dff24c5b303ccaf2e8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1df2a0c7338a4dff24c5b303ccaf2e8b">&#9670;&#160;</a></span>MiscData</h2>
 
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/d9a/a04433.html#a1df2a0c7338a4dff24c5b303ccaf2e8b">MiscData</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12" name="a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12"></a>SPELL_STONED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba1f70e04a5bf31c2db2dab09485d107d4" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba1f70e04a5bf31c2db2dab09485d107d4"></a>EQUIP_ID_SWORD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8bac5bb4cab7e2d37bb3b76b6e16a3cfd9f" name="a1df2a0c7338a4dff24c5b303ccaf2e8bac5bb4cab7e2d37bb3b76b6e16a3cfd9f"></a>EQUIP_ID_MACE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba2ac001856e01c362c049523348770be1" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba2ac001856e01c362c049523348770be1"></a>GO_SARONITE_ROCK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8bae0a0a55162940594b69ea0be303ef9f1" name="a1df2a0c7338a4dff24c5b303ccaf2e8bae0a0a55162940594b69ea0be303ef9f1"></a>MUSIC_ENCOUNTER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba967fb816432d73e72a935b03d3fdf287" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba967fb816432d73e72a935b03d3fdf287"></a>LIGHT_SNOWSTORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba03c59cf1b5f07362dc8b3aeb2e072cf6" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba03c59cf1b5f07362dc8b3aeb2e072cf6"></a>LIGHT_SOULSTORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba487d113f5c278059d4b918086c275225" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba487d113f5c278059d4b918086c275225"></a>EQUIP_ASHBRINGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba661c65ae92e776ae2fabf52e13241bd4" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba661c65ae92e776ae2fabf52e13241bd4"></a>MUSIC_FROZEN_THRONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8badeac43464c411908539cf214921cf1f3" name="a1df2a0c7338a4dff24c5b303ccaf2e8badeac43464c411908539cf214921cf1f3"></a>MUSIC_SPECIAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba0ed050a3fe6f39270736e7e0b37c12e9"></a>MUSIC_FURY_OF_FROSTMOURNE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba6f518a1d708b492e3304a20b1acc44ab" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba6f518a1d708b492e3304a20b1acc44ab"></a>MUSIC_FINAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba9cc87d6fe875c0abce87f9bcf834779b" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba9cc87d6fe875c0abce87f9bcf834779b"></a>SOUND_PAIN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8baecb62fc25fcd3323fac7be0efcdd1735" name="a1df2a0c7338a4dff24c5b303ccaf2e8baecb62fc25fcd3323fac7be0efcdd1735"></a>EQUIP_ASHBRINGER_GLOWING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8badb6489a662fb1f672e55cc152340d6af" name="a1df2a0c7338a4dff24c5b303ccaf2e8badb6489a662fb1f672e55cc152340d6af"></a>EQUIP_BROKEN_FROSTMOURNE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba3a27bab4d83d940f5faaa15a2bd2a431"></a>MOVIE_FALL_OF_THE_LICH_KING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8babe9c1500f91a0f01f081d3850d1ee69b" name="a1df2a0c7338a4dff24c5b303ccaf2e8babe9c1500f91a0f01f081d3850d1ee69b"></a>NPC_GRAUF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba0979448d401b56c27b27f6a0c6462adc" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba0979448d401b56c27b27f6a0c6462adc"></a>NPC_TRIGGER_RESET&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba2de54d34271fcadd2d72ee13d7e0ce48" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba2de54d34271fcadd2d72ee13d7e0ce48"></a>NPC_WORLD_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba2668dbfce481343adbee4c9c9ad800c5" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba2668dbfce481343adbee4c9c9ad800c5"></a>NPC_COMBAT_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba6d402e107cfecdc405ddfcb0441afcf9" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba6d402e107cfecdc405ddfcb0441afcf9"></a>ACHIEV_TIMED_LODI_DODI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8ba08d7f01b4043bde66efe985d4c7459be" name="a1df2a0c7338a4dff24c5b303ccaf2e8ba08d7f01b4043bde66efe985d4c7459be"></a>FIRST_WAVE_MAX_WARRIORS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1df2a0c7338a4dff24c5b303ccaf2e8bac7810168b1a8efe0ecd6bb4a27b37646" name="a1df2a0c7338a4dff24c5b303ccaf2e8bac7810168b1a8efe0ecd6bb4a27b37646"></a>FIRST_WAVE_SIZE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12">SPELL_STONED</a>    = 10255</div>
+<div class="line"><span class="lineno">   73</span>};</div>
+<div class="ttc" id="aa04433_html_a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12"><div class="ttname"><a href="../../d3/d9a/a04433.html#a1df2a0c7338a4dff24c5b303ccaf2e8baf94f02d8e9b9db817d1d6af1f8f31a12">SPELL_STONED</a></div><div class="ttdeci">@ SPELL_STONED</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:72</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="adf36a227ab379f05f5a368bc03d562e4" name="adf36a227ab379f05f5a368bc03d562e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf36a227ab379f05f5a368bc03d562e4">&#9670;&#160;</a></span>PrincessQuests</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4">PrincessQuests</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c" name="adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c"></a>PRINCESS_QUEST_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58" name="adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58"></a>PRINCESS_QUEST_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c">PRINCESS_QUEST_HORDE</a>        = 4004,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58">PRINCESS_QUEST_ALLIANCE</a>     = 4363</div>
+<div class="line"><span class="lineno">   43</span>};</div>
+<div class="ttc" id="aa04433_html_adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c"><div class="ttname"><a href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4a371703e4398fd26a71f16370dd34598c">PRINCESS_QUEST_HORDE</a></div><div class="ttdeci">@ PRINCESS_QUEST_HORDE</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:41</div></div>
+<div class="ttc" id="aa04433_html_adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58"><div class="ttname"><a href="../../d3/d9a/a04433.html#adf36a227ab379f05f5a368bc03d562e4ac5aed59a60c9958e1b40531628507e58">PRINCESS_QUEST_ALLIANCE</a></div><div class="ttdeci">@ PRINCESS_QUEST_ALLIANCE</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:42</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab4d1592137d12427d186be538badd18b" name="ab4d1592137d12427d186be538badd18b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab4d1592137d12427d186be538badd18b">&#9670;&#160;</a></span>Timers</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18b">Timers</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878" name="ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878"></a>TIMER_TOMBOFTHESEVEN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8" name="ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8"></a>TIMER_TOMB_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0" name="ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0"></a>TIMER_TOMB_RESET&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878">TIMER_TOMBOFTHESEVEN</a> = 30000,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8">TIMER_TOMB_START</a>     = 1000,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0">TIMER_TOMB_RESET</a>     = 15000</div>
+<div class="line"><span class="lineno">   31</span>};</div>
+<div class="ttc" id="aa04433_html_ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8"><div class="ttname"><a href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba4cb0b071d1ddffe27c7ab479980858c8">TIMER_TOMB_START</a></div><div class="ttdeci">@ TIMER_TOMB_START</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:29</div></div>
+<div class="ttc" id="aa04433_html_ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0"><div class="ttname"><a href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba6b3ec32e239fee91d24a7eb20bb836a0">TIMER_TOMB_RESET</a></div><div class="ttdeci">@ TIMER_TOMB_RESET</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:30</div></div>
+<div class="ttc" id="aa04433_html_ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878"><div class="ttname"><a href="../../d3/d9a/a04433.html#ab4d1592137d12427d186be538badd18ba7ec2c27b6e086d2819ca22cced393878">TIMER_TOMBOFTHESEVEN</a></div><div class="ttdeci">@ TIMER_TOMBOFTHESEVEN</div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:28</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="afc9839262206eb10094c1769141ae146" name="afc9839262206eb10094c1769141ae146"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc9839262206eb10094c1769141ae146">&#9670;&#160;</a></span>ExtractSingleWmo()</h2>
+<a id="a0ced6984013403c91ff37a974bbadd08" name="a0ced6984013403c91ff37a974bbadd08"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ced6984013403c91ff37a974bbadd08">&#9670;&#160;</a></span>AddSC_instance_blackrock_depths()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool ExtractSingleWmo </td>
-          <td>(</td>
-          <td class="paramtype">std::string &amp;&#160;</td>
-          <td class="paramname"><em>fname</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   99</span>{</div>
-<div class="line"><span class="lineno">  100</span>    <span class="comment">// Copy files from archive</span></div>
-<div class="line"><span class="lineno">  101</span>    std::string originalName = fname;</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    <span class="keywordtype">char</span> szLocalFile[1024];</div>
-<div class="line"><span class="lineno">  104</span>    <span class="keywordtype">char</span>* plain_name = <a class="code hl_function" href="../../d0/dc5/a04415.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>(&amp;fname[0]);</div>
-<div class="line"><span class="lineno">  105</span>    <a class="code hl_function" href="../../d0/dc5/a04415.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>(plain_name, strlen(plain_name));</div>
-<div class="line"><span class="lineno">  106</span>    <a class="code hl_function" href="../../d0/dc5/a04415.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(plain_name, strlen(plain_name));</div>
-<div class="line"><span class="lineno">  107</span>    sprintf(szLocalFile, <span class="stringliteral">&quot;%s/%s&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>, plain_name);</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d9a/a04433.html#aab524156a5705c5cd09f96106eaac92d">FileExists</a>(szLocalFile))</div>
-<div class="line"><span class="lineno">  110</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>    <span class="keywordtype">int</span> p = 0;</div>
-<div class="line"><span class="lineno">  113</span>    <span class="comment">// Select root wmo files</span></div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordtype">char</span> <span class="keyword">const</span>* rchr = strrchr(plain_name, <span class="charliteral">&#39;_&#39;</span>);</div>
-<div class="line"><span class="lineno">  115</span>    <span class="keywordflow">if</span> (rchr != <span class="keyword">nullptr</span>)</div>
-<div class="line"><span class="lineno">  116</span>    {</div>
-<div class="line"><span class="lineno">  117</span>        <span class="keywordtype">char</span> cpy[4];</div>
-<div class="line"><span class="lineno">  118</span>        memcpy(cpy, rchr, 4);</div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> m : cpy)</div>
-<div class="line"><span class="lineno">  120</span>        {</div>
-<div class="line"><span class="lineno">  121</span>            <span class="keywordflow">if</span> (isdigit(m))</div>
-<div class="line"><span class="lineno">  122</span>                p++;</div>
-<div class="line"><span class="lineno">  123</span>        }</div>
-<div class="line"><span class="lineno">  124</span>    }</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    <span class="keywordflow">if</span> (p == 3)</div>
-<div class="line"><span class="lineno">  127</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordtype">bool</span> file_ok = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  130</span>    printf(<span class="stringliteral">&quot;Extracting %s\n&quot;</span>, originalName.c_str());</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_class" href="../../d7/dff/a29721.html">WMORoot</a> froot(originalName);</div>
-<div class="line"><span class="lineno">  132</span>    <span class="keywordflow">if</span> (!froot.open())</div>
-<div class="line"><span class="lineno">  133</span>    {</div>
-<div class="line"><span class="lineno">  134</span>        printf(<span class="stringliteral">&quot;Couldn&#39;t open RootWmo!!!\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  136</span>    }</div>
-<div class="line"><span class="lineno">  137</span>    FILE* output = fopen(szLocalFile, <span class="stringliteral">&quot;wb&quot;</span>);</div>
-<div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (!output)</div>
-<div class="line"><span class="lineno">  139</span>    {</div>
-<div class="line"><span class="lineno">  140</span>        printf(<span class="stringliteral">&quot;couldn&#39;t open %s for writing!\n&quot;</span>, szLocalFile);</div>
-<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  142</span>    }</div>
-<div class="line"><span class="lineno">  143</span>    froot.ConvertToVMAPRootWmo(output);</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_struct" href="../../d2/d9c/a29717.html">WMODoodadData</a>&amp; doodads = <a class="code hl_variable" href="../../d3/d9a/a04433.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a>[plain_name];</div>
-<div class="line"><span class="lineno">  145</span>    std::swap(doodads, froot.DoodadData);</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordtype">int</span> Wmo_nVertices = 0;</div>
-<div class="line"><span class="lineno">  147</span>    <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> groupCount = 0;</div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">//printf(&quot;root has %d groups\n&quot;, froot-&gt;nGroups);</span></div>
-<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">if</span> (froot.nGroups != 0)</div>
-<div class="line"><span class="lineno">  150</span>    {</div>
-<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; froot.nGroups; ++i)</div>
-<div class="line"><span class="lineno">  152</span>        {</div>
-<div class="line"><span class="lineno">  153</span>            <span class="keywordtype">char</span> temp[1024];</div>
-<div class="line"><span class="lineno">  154</span>            strncpy(temp, fname.c_str(), 1024);</div>
-<div class="line"><span class="lineno">  155</span>            temp[fname.length() - 4] = 0;</div>
-<div class="line"><span class="lineno">  156</span>            <span class="keywordtype">char</span> groupFileName[1024];</div>
-<div class="line"><span class="lineno">  157</span>            <span class="keywordtype">int</span> ret = snprintf(groupFileName, 1024, <span class="stringliteral">&quot;%s_%03u.wmo&quot;</span>, temp, i);</div>
-<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">if</span> (ret &lt; 0)</div>
-<div class="line"><span class="lineno">  159</span>            {</div>
-<div class="line"><span class="lineno">  160</span>                printf(<span class="stringliteral">&quot;Error when formatting string&quot;</span>);</div>
-<div class="line"><span class="lineno">  161</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  162</span>            }</div>
-<div class="line"><span class="lineno">  163</span>            <span class="comment">//printf(&quot;Trying to open groupfile %s\n&quot;,groupFileName);</span></div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>            <span class="keywordtype">string</span> s = groupFileName;</div>
-<div class="line"><span class="lineno">  166</span>            <a class="code hl_class" href="../../d5/d9f/a29733.html">WMOGroup</a> fgroup(s);</div>
-<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">if</span> (!fgroup.open(&amp;froot))</div>
-<div class="line"><span class="lineno">  168</span>            {</div>
-<div class="line"><span class="lineno">  169</span>                printf(<span class="stringliteral">&quot;Could not open all Group file for: %s\n&quot;</span>, plain_name);</div>
-<div class="line"><span class="lineno">  170</span>                file_ok = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  171</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  172</span>            }</div>
-<div class="line"><span class="lineno">  173</span> </div>
-<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">if</span> (fgroup.ShouldSkip(&amp;froot))</div>
-<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  176</span> </div>
-<div class="line"><span class="lineno">  177</span>            Wmo_nVertices += fgroup.ConvertToVMAPGroupWmo(output, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>);</div>
-<div class="line"><span class="lineno">  178</span>            ++groupCount;</div>
-<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> groupReference : fgroup.DoodadReferences)</div>
-<div class="line"><span class="lineno">  180</span>            {</div>
-<div class="line"><span class="lineno">  181</span>                <span class="keywordflow">if</span> (groupReference &gt;= doodads.<a class="code hl_variable" href="../../d2/d9c/a29717.html#a51f24c059516683f0744b81819186c0e">Spawns</a>.size())</div>
-<div class="line"><span class="lineno">  182</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>                <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> doodadNameIndex = doodads.<a class="code hl_variable" href="../../d2/d9c/a29717.html#a51f24c059516683f0744b81819186c0e">Spawns</a>[groupReference].NameIndex;</div>
-<div class="line"><span class="lineno">  185</span>                <span class="keywordflow">if</span> (froot.ValidDoodadNames.find(doodadNameIndex) == froot.ValidDoodadNames.end())</div>
-<div class="line"><span class="lineno">  186</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  187</span> </div>
-<div class="line"><span class="lineno">  188</span>                doodads.<a class="code hl_variable" href="../../d2/d9c/a29717.html#a07f0d7daa9cd934768b8a603dc52bea3">References</a>.insert(groupReference);</div>
-<div class="line"><span class="lineno">  189</span>            }</div>
-<div class="line"><span class="lineno">  190</span>        }</div>
-<div class="line"><span class="lineno">  191</span>    }</div>
-<div class="line"><span class="lineno">  192</span> </div>
-<div class="line"><span class="lineno">  193</span>    fseek(output, 8, SEEK_SET); <span class="comment">// store the correct no of vertices</span></div>
-<div class="line"><span class="lineno">  194</span>    fwrite(&amp;Wmo_nVertices, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output);</div>
-<div class="line"><span class="lineno">  195</span>    <span class="comment">// store the correct no of groups</span></div>
-<div class="line"><span class="lineno">  196</span>    fwrite(&amp;groupCount, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
-<div class="line"><span class="lineno">  197</span>    fclose(output);</div>
-<div class="line"><span class="lineno">  198</span> </div>
-<div class="line"><span class="lineno">  199</span>    <span class="comment">// Delete the extracted file in the case of an error</span></div>
-<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">if</span> (!file_ok)</div>
-<div class="line"><span class="lineno">  201</span>        remove(szLocalFile);</div>
-<div class="line"><span class="lineno">  202</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  203</span>}</div>
-<div class="ttc" id="aa04415_html_a939d4568b4058bf826a517f55cb963af"><div class="ttname"><a href="../../d0/dc5/a04415.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a></div><div class="ttdeci">char const * GetPlainName(char const *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:26</div></div>
-<div class="ttc" id="aa04415_html_abdc56edc46e0804c456749761cff8daf"><div class="ttname"><a href="../../d0/dc5/a04415.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a></div><div class="ttdeci">void fixnamen(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:44</div></div>
-<div class="ttc" id="aa04415_html_ac0029be4572a61d00eb1435db5526a74"><div class="ttname"><a href="../../d0/dc5/a04415.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a></div><div class="ttdeci">void fixname2(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:62</div></div>
-<div class="ttc" id="aa04433_html_a17b22c7645963c9e5c277b72605a4966"><div class="ttname"><a href="../../d3/d9a/a04433.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a></div><div class="ttdeci">std::unordered_map&lt; std::string, WMODoodadData &gt; WmoDoodads</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:64</div></div>
-<div class="ttc" id="aa04433_html_a2191d2ffb8973cd0ddb269bcaa06a31d"><div class="ttname"><a href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a></div><div class="ttdeci">bool preciseVectorData</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:63</div></div>
-<div class="ttc" id="aa04433_html_aab524156a5705c5cd09f96106eaac92d"><div class="ttname"><a href="../../d3/d9a/a04433.html#aab524156a5705c5cd09f96106eaac92d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *file)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:79</div></div>
-<div class="ttc" id="aa04433_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
-<div class="ttc" id="aa04568_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04568_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa29717_html"><div class="ttname"><a href="../../d2/d9c/a29717.html">WMODoodadData</a></div><div class="ttdef"><b>Definition:</b> wmo.h:71</div></div>
-<div class="ttc" id="aa29717_html_a07f0d7daa9cd934768b8a603dc52bea3"><div class="ttname"><a href="../../d2/d9c/a29717.html#a07f0d7daa9cd934768b8a603dc52bea3">WMODoodadData::References</a></div><div class="ttdeci">std::unordered_set&lt; uint16 &gt; References</div><div class="ttdef"><b>Definition:</b> wmo.h:75</div></div>
-<div class="ttc" id="aa29717_html_a51f24c059516683f0744b81819186c0e"><div class="ttname"><a href="../../d2/d9c/a29717.html#a51f24c059516683f0744b81819186c0e">WMODoodadData::Spawns</a></div><div class="ttdeci">std::vector&lt; WMO::MODD &gt; Spawns</div><div class="ttdef"><b>Definition:</b> wmo.h:74</div></div>
-<div class="ttc" id="aa29721_html"><div class="ttname"><a href="../../d7/dff/a29721.html">WMORoot</a></div><div class="ttdef"><b>Definition:</b> wmo.h:79</div></div>
-<div class="ttc" id="aa29733_html"><div class="ttname"><a href="../../d5/d9f/a29733.html">WMOGroup</a></div><div class="ttdef"><b>Definition:</b> wmo.h:119</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00296">WMOGroup::ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00149">WMORoot::ConvertToVMAPRootWmo()</a>, <a class="el" href="../../#l00089">WMORoot::DoodadData</a>, <a class="el" href="../../#l00150">WMOGroup::DoodadReferences</a>, <a class="el" href="../../#l00079">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00084">WMORoot::nGroups</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00172">WMOGroup::open()</a>, <a class="el" href="../../#l00063">preciseVectorData</a>, <a class="el" href="../../#l00075">WMODoodadData::References</a>, <a class="el" href="../../#l00505">WMOGroup::ShouldSkip()</a>, <a class="el" href="../../#l00074">WMODoodadData::Spawns</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00090">WMORoot::ValidDoodadNames</a>, and <a class="el" href="../../#l00064">WmoDoodads</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
-
-</div>
-</div>
-<a id="aab524156a5705c5cd09f96106eaac92d" name="aab524156a5705c5cd09f96106eaac92d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab524156a5705c5cd09f96106eaac92d">&#9670;&#160;</a></span>FileExists()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool FileExists </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>file</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   80</span>{</div>
-<div class="line"><span class="lineno">   81</span>    <span class="keywordflow">if</span> (FILE* n = fopen(file, <span class="stringliteral">&quot;rb&quot;</span>))</div>
-<div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        fclose(n);</div>
-<div class="line"><span class="lineno">   84</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   85</span>    }</div>
-<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   87</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>.</p>
-
-</div>
-</div>
-<a id="a32b84e03161e7056f809d12d8b7b71b2" name="a32b84e03161e7056f809d12d8b7b71b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a32b84e03161e7056f809d12d8b7b71b2">&#9670;&#160;</a></span>fillArchiveNameVector()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool fillArchiveNameVector </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; std::string &gt; &amp;&#160;</td>
-          <td class="paramname"><em>pArchiveNames</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  275</span>{</div>
-<div class="line"><span class="lineno">  276</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d9a/a04433.html#a5ef7a611bb56bdaa370aaf1770059365">hasInputPathParam</a>)</div>
-<div class="line"><span class="lineno">  277</span>        <a class="code hl_function" href="../../d3/d9a/a04433.html#a6bb580270fe96b7e6ccb585658850d17">getGamePath</a>();</div>
-<div class="line"><span class="lineno">  278</span> </div>
-<div class="line"><span class="lineno">  279</span>    printf(<span class="stringliteral">&quot;\nGame path: %s\n&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>);</div>
-<div class="line"><span class="lineno">  280</span> </div>
-<div class="line"><span class="lineno">  281</span>    <span class="keywordtype">char</span> path[512];</div>
-<div class="line"><span class="lineno">  282</span>    <span class="keywordtype">string</span> in_path(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>);</div>
-<div class="line"><span class="lineno">  283</span>    std::vector&lt;std::string&gt; locales, searchLocales;</div>
-<div class="line"><span class="lineno">  284</span> </div>
-<div class="line"><span class="lineno">  285</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;enGB&quot;</span>);</div>
-<div class="line"><span class="lineno">  286</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;enUS&quot;</span>);</div>
-<div class="line"><span class="lineno">  287</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;deDE&quot;</span>);</div>
-<div class="line"><span class="lineno">  288</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;esES&quot;</span>);</div>
-<div class="line"><span class="lineno">  289</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;frFR&quot;</span>);</div>
-<div class="line"><span class="lineno">  290</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;koKR&quot;</span>);</div>
-<div class="line"><span class="lineno">  291</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;zhCN&quot;</span>);</div>
-<div class="line"><span class="lineno">  292</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;zhTW&quot;</span>);</div>
-<div class="line"><span class="lineno">  293</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;enCN&quot;</span>);</div>
-<div class="line"><span class="lineno">  294</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;enTW&quot;</span>);</div>
-<div class="line"><span class="lineno">  295</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;esMX&quot;</span>);</div>
-<div class="line"><span class="lineno">  296</span>    searchLocales.emplace_back(<span class="stringliteral">&quot;ruRU&quot;</span>);</div>
-<div class="line"><span class="lineno">  297</span> </div>
-<div class="line"><span class="lineno">  298</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; searchLocale : searchLocales)</div>
-<div class="line"><span class="lineno">  299</span>    {</div>
-<div class="line"><span class="lineno">  300</span>        std::string localePath = in_path + searchLocale;</div>
-<div class="line"><span class="lineno">  301</span>        <span class="comment">// check if locale exists:</span></div>
-<div class="line"><span class="lineno">  302</span>        <span class="keyword">struct </span>stat status;</div>
-<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">if</span> (stat(localePath.c_str(), &amp;status))</div>
-<div class="line"><span class="lineno">  304</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  305</span>        <span class="keywordflow">if</span> ((status.st_mode &amp; S_IFDIR) == 0)</div>
-<div class="line"><span class="lineno">  306</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  307</span>        printf(<span class="stringliteral">&quot;Found locale &#39;%s&#39;\n&quot;</span>, searchLocale.c_str());</div>
-<div class="line"><span class="lineno">  308</span>        locales.push_back(searchLocale);</div>
-<div class="line"><span class="lineno">  309</span>    }</div>
-<div class="line"><span class="lineno">  310</span>    printf(<span class="stringliteral">&quot;\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  311</span> </div>
-<div class="line"><span class="lineno">  312</span>    <span class="comment">// open locale expansion and common files</span></div>
-<div class="line"><span class="lineno">  313</span>    printf(<span class="stringliteral">&quot;Adding data files from locale directories.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  314</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; locale : locales)</div>
-<div class="line"><span class="lineno">  315</span>    {</div>
-<div class="line"><span class="lineno">  316</span>        pArchiveNames.push_back(in_path + locale + <span class="stringliteral">&quot;/locale-&quot;</span> + locale + <span class="stringliteral">&quot;.MPQ&quot;</span>);</div>
-<div class="line"><span class="lineno">  317</span>        pArchiveNames.push_back(in_path + locale + <span class="stringliteral">&quot;/expansion-locale-&quot;</span> + locale + <span class="stringliteral">&quot;.MPQ&quot;</span>);</div>
-<div class="line"><span class="lineno">  318</span>        pArchiveNames.push_back(in_path + locale + <span class="stringliteral">&quot;/lichking-locale-&quot;</span> + locale + <span class="stringliteral">&quot;.MPQ&quot;</span>);</div>
-<div class="line"><span class="lineno">  319</span>    }</div>
-<div class="line"><span class="lineno">  320</span> </div>
-<div class="line"><span class="lineno">  321</span>    <span class="comment">// open expansion and common files</span></div>
-<div class="line"><span class="lineno">  322</span>    pArchiveNames.push_back(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a> + <span class="keywordtype">string</span>(<span class="stringliteral">&quot;common.MPQ&quot;</span>));</div>
-<div class="line"><span class="lineno">  323</span>    pArchiveNames.push_back(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a> + <span class="keywordtype">string</span>(<span class="stringliteral">&quot;common-2.MPQ&quot;</span>));</div>
-<div class="line"><span class="lineno">  324</span>    pArchiveNames.push_back(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a> + <span class="keywordtype">string</span>(<span class="stringliteral">&quot;expansion.MPQ&quot;</span>));</div>
-<div class="line"><span class="lineno">  325</span>    pArchiveNames.push_back(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a> + <span class="keywordtype">string</span>(<span class="stringliteral">&quot;lichking.MPQ&quot;</span>));</div>
-<div class="line"><span class="lineno">  326</span> </div>
-<div class="line"><span class="lineno">  327</span>    <span class="comment">// now, scan for the patch levels in the core dir</span></div>
-<div class="line"><span class="lineno">  328</span>    printf(<span class="stringliteral">&quot;Scanning patch levels from data directory.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  329</span>    <span class="keywordtype">int</span> ret = snprintf(path, 512, <span class="stringliteral">&quot;%spatch&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>);</div>
-<div class="line"><span class="lineno">  330</span>    <span class="keywordflow">if</span> (ret &lt; 0)</div>
-<div class="line"><span class="lineno">  331</span>    {</div>
-<div class="line"><span class="lineno">  332</span>        printf(<span class="stringliteral">&quot;Error when formatting string&quot;</span>);</div>
-<div class="line"><span class="lineno">  333</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  334</span>    }</div>
-<div class="line"><span class="lineno">  335</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d9a/a04433.html#a995d89b97dfb31a6a8c1c4e1c96d47f4">scan_patches</a>(path, pArchiveNames))</div>
-<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">return</span> (<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  337</span> </div>
-<div class="line"><span class="lineno">  338</span>    <span class="comment">// now, scan for the patch levels in locale dirs</span></div>
-<div class="line"><span class="lineno">  339</span>    printf(<span class="stringliteral">&quot;Scanning patch levels from locale directories.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  340</span>    <span class="keywordtype">bool</span> foundOne = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  341</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; locale : locales)</div>
-<div class="line"><span class="lineno">  342</span>    {</div>
-<div class="line"><span class="lineno">  343</span>        printf(<span class="stringliteral">&quot;Locale: %s\n&quot;</span>, locale.c_str());</div>
-<div class="line"><span class="lineno">  344</span>        <span class="keywordtype">int</span> ret2 = snprintf(path, 512, <span class="stringliteral">&quot;%s%s/patch-%s&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>, locale.c_str(), locale.c_str());</div>
-<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">if</span> (ret2 &lt; 0)</div>
-<div class="line"><span class="lineno">  346</span>        {</div>
-<div class="line"><span class="lineno">  347</span>            printf(<span class="stringliteral">&quot;Error when formatting string&quot;</span>);</div>
-<div class="line"><span class="lineno">  348</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  349</span>        }</div>
-<div class="line"><span class="lineno">  350</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d3/d9a/a04433.html#a995d89b97dfb31a6a8c1c4e1c96d47f4">scan_patches</a>(path, pArchiveNames))</div>
-<div class="line"><span class="lineno">  351</span>            foundOne = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  352</span>    }</div>
-<div class="line"><span class="lineno">  353</span> </div>
-<div class="line"><span class="lineno">  354</span>    printf(<span class="stringliteral">&quot;\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  355</span> </div>
-<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">if</span> (!foundOne)</div>
-<div class="line"><span class="lineno">  357</span>    {</div>
-<div class="line"><span class="lineno">  358</span>        printf(<span class="stringliteral">&quot;no locale found\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  359</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  360</span>    }</div>
-<div class="line"><span class="lineno">  361</span> </div>
-<div class="line"><span class="lineno">  362</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  363</span>}</div>
-<div class="ttc" id="aa04433_html_a5ef7a611bb56bdaa370aaf1770059365"><div class="ttname"><a href="../../d3/d9a/a04433.html#a5ef7a611bb56bdaa370aaf1770059365">hasInputPathParam</a></div><div class="ttdeci">bool hasInputPathParam</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:62</div></div>
-<div class="ttc" id="aa04433_html_a6bb580270fe96b7e6ccb585658850d17"><div class="ttname"><a href="../../d3/d9a/a04433.html#a6bb580270fe96b7e6ccb585658850d17">getGamePath</a></div><div class="ttdeci">void getGamePath()</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:235</div></div>
-<div class="ttc" id="aa04433_html_a773984b4a48966b7ea95d0586db0210b"><div class="ttname"><a href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a></div><div class="ttdeci">char input_path[1024]</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:61</div></div>
-<div class="ttc" id="aa04433_html_a995d89b97dfb31a6a8c1c4e1c96d47f4"><div class="ttname"><a href="../../d3/d9a/a04433.html#a995d89b97dfb31a6a8c1c4e1c96d47f4">scan_patches</a></div><div class="ttdeci">bool scan_patches(char *scanmatch, std::vector&lt; std::string &gt; &amp;pArchiveNames)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:244</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00235">getGamePath()</a>, <a class="el" href="../../#l00062">hasInputPathParam</a>, <a class="el" href="../../#l00061">input_path</a>, and <a class="el" href="../../#l00244">scan_patches()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00427">main()</a>.</p>
-
-</div>
-</div>
-<a id="a6a3d179f34597554b17a122f27cd6be5" name="a6a3d179f34597554b17a122f27cd6be5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a3d179f34597554b17a122f27cd6be5">&#9670;&#160;</a></span>GenerateUniqueObjectId()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GenerateUniqueObjectId </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>clientId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>clientDoodadId</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d9a/a04433.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154">uniqueObjectIds</a>.emplace(std::make_pair(clientId, clientDoodadId), <a class="code hl_typedef" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154">uniqueObjectIds</a>.size() + 1)).first-&gt;second;</div>
-<div class="line"><span class="lineno">   75</span>}</div>
-<div class="ttc" id="aa04433_html_a78dd87d3ceb9a2d97c7a1d0caa8d4154"><div class="ttname"><a href="../../d3/d9a/a04433.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154">uniqueObjectIds</a></div><div class="ttdeci">std::map&lt; std::pair&lt; uint32, uint16 &gt;, uint32 &gt; uniqueObjectIds</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:70</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00070">uniqueObjectIds</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00532">MapObject::Extract()</a>, and <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>.</p>
-
-</div>
-</div>
-<a id="a6bb580270fe96b7e6ccb585658850d17" name="a6bb580270fe96b7e6ccb585658850d17"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6bb580270fe96b7e6ccb585658850d17">&#9670;&#160;</a></span>getGamePath()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void getGamePath </td>
+          <td class="memname">void AddSC_instance_blackrock_depths </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  236</span>{</div>
-<div class="line"><span class="lineno">  237</span><span class="preprocessor">#ifdef _WIN32</span></div>
-<div class="line"><span class="lineno">  238</span>    strcpy(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>, <span class="stringliteral">&quot;Data\\&quot;</span>);</div>
-<div class="line"><span class="lineno">  239</span><span class="preprocessor">#else</span></div>
-<div class="line"><span class="lineno">  240</span>    strcpy(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>, <span class="stringliteral">&quot;Data/&quot;</span>);</div>
-<div class="line"><span class="lineno">  241</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  242</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  807</span>{</div>
+<div class="line"><span class="lineno">  808</span>    <a class="code hl_define" href="../../d3/de3/a02483.html#a78044a95772db069981b463451a60613">RegisterInstanceScript</a>(<a class="code hl_struct" href="../../df/ddb/a12546.html">instance_blackrock_depths</a>, <a class="code hl_enumvalue" href="../../d4/d5d/a01202.html#a6d57376a08b6ff3944dd9a5930a492cba3481fdb4c8e70467ae48ab8985694192">MAP_BLACKROCK_DEPTHS</a>);</div>
+<div class="line"><span class="lineno">  809</span>}</div>
+<div class="ttc" id="aa01202_html_a6d57376a08b6ff3944dd9a5930a492cba3481fdb4c8e70467ae48ab8985694192"><div class="ttname"><a href="../../d4/d5d/a01202.html#a6d57376a08b6ff3944dd9a5930a492cba3481fdb4c8e70467ae48ab8985694192">MAP_BLACKROCK_DEPTHS</a></div><div class="ttdeci">@ MAP_BLACKROCK_DEPTHS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:203</div></div>
+<div class="ttc" id="aa02483_html_a78044a95772db069981b463451a60613"><div class="ttname"><a href="../../d3/de3/a02483.html#a78044a95772db069981b463451a60613">RegisterInstanceScript</a></div><div class="ttdeci">#define RegisterInstanceScript(script_name, mapId)</div><div class="ttdef"><b>Definition:</b> InstanceMapScript.h:45</div></div>
+<div class="ttc" id="aa12546_html"><div class="ttname"><a href="../../df/ddb/a12546.html">instance_blackrock_depths</a></div><div class="ttdef"><b>Definition:</b> instance_blackrock_depths.cpp:99</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00061">input_path</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00203">MAP_BLACKROCK_DEPTHS</a>, and <a class="el" href="../../#l00045">RegisterInstanceScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00274">fillArchiveNameVector()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
 
-</div>
-</div>
-<a id="a3c04138a5bfe5d72780bb7e82a18e627" name="a3c04138a5bfe5d72780bb7e82a18e627"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c04138a5bfe5d72780bb7e82a18e627">&#9670;&#160;</a></span>main()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">int main </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  428</span>{</div>
-<div class="line"><span class="lineno">  429</span>    <span class="keywordtype">bool</span> success = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  430</span>    <span class="keyword">const</span> <span class="keywordtype">char</span>* versionString = <span class="stringliteral">&quot;V4.00 2012_02&quot;</span>;</div>
-<div class="line"><span class="lineno">  431</span> </div>
-<div class="line"><span class="lineno">  432</span>    <span class="comment">// Use command line arguments, when some</span></div>
-<div class="line"><span class="lineno">  433</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d9a/a04433.html#a8f05dfc74cc4db726161d81ab714bfe1">processArgv</a>(argc, argv, versionString))</div>
-<div class="line"><span class="lineno">  434</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  435</span> </div>
-<div class="line"><span class="lineno">  436</span>    <span class="comment">// some simple check if working dir is dirty</span></div>
-<div class="line"><span class="lineno">  437</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  438</span>    {</div>
-<div class="line"><span class="lineno">  439</span>        std::string sdir = std::string(<a class="code hl_variable" href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>) + <span class="stringliteral">&quot;/dir&quot;</span>;</div>
-<div class="line"><span class="lineno">  440</span>        std::string sdir_bin = std::string(<a class="code hl_variable" href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>) + <span class="stringliteral">&quot;/dir_bin&quot;</span>;</div>
-<div class="line"><span class="lineno">  441</span>        <span class="keyword">struct </span>stat status;</div>
-<div class="line"><span class="lineno">  442</span>        <span class="keywordflow">if</span> (!stat(sdir.c_str(), &amp;status) || !stat(sdir_bin.c_str(), &amp;status))</div>
-<div class="line"><span class="lineno">  443</span>        {</div>
-<div class="line"><span class="lineno">  444</span>            printf(<span class="stringliteral">&quot;Your output directory seems to be polluted, please use an empty directory!\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  445</span>            printf(<span class="stringliteral">&quot;&lt;press return to exit&gt;&quot;</span>);</div>
-<div class="line"><span class="lineno">  446</span>            <span class="keywordtype">char</span> garbage[2];</div>
-<div class="line"><span class="lineno">  447</span>            <span class="keywordflow">return</span> scanf(<span class="stringliteral">&quot;%c&quot;</span>, garbage);</div>
-<div class="line"><span class="lineno">  448</span>        }</div>
-<div class="line"><span class="lineno">  449</span>    }</div>
-<div class="line"><span class="lineno">  450</span> </div>
-<div class="line"><span class="lineno">  451</span>    printf(<span class="stringliteral">&quot;Extract %s. Beginning work ....\n&quot;</span>, versionString);</div>
-<div class="line"><span class="lineno">  452</span>    <span class="comment">//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span></div>
-<div class="line"><span class="lineno">  453</span>    <span class="comment">// Create the working directory</span></div>
-<div class="line"><span class="lineno">  454</span>    <span class="keywordflow">if</span> (mkdir(<a class="code hl_variable" href="../../d3/d9a/a04433.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div>
-<div class="line"><span class="lineno">  455</span>#<span class="keywordflow">if</span> defined(__linux__) || defined(__APPLE__)</div>
-<div class="line"><span class="lineno">  456</span>              , 0711</div>
-<div class="line"><span class="lineno">  457</span>#endif</div>
-<div class="line"><span class="lineno">  458</span>             ))</div>
-<div class="line"><span class="lineno">  459</span>        success = (errno == EEXIST);</div>
-<div class="line"><span class="lineno">  460</span> </div>
-<div class="line"><span class="lineno">  461</span>    <span class="comment">// prepare archive name list</span></div>
-<div class="line"><span class="lineno">  462</span>    std::vector&lt;std::string&gt; archiveNames;</div>
-<div class="line"><span class="lineno">  463</span>    <a class="code hl_function" href="../../d3/d9a/a04433.html#a32b84e03161e7056f809d12d8b7b71b2">fillArchiveNameVector</a>(archiveNames);</div>
-<div class="line"><span class="lineno">  464</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; archiveName : archiveNames)</div>
-<div class="line"><span class="lineno">  465</span>    {</div>
-<div class="line"><span class="lineno">  466</span>        <a class="code hl_class" href="../../d4/dc9/a29573.html">MPQArchive</a>* archive = <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dc9/a29573.html">MPQArchive</a>(archiveName.c_str());</div>
-<div class="line"><span class="lineno">  467</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d9a/a04433.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a>.empty() || <a class="code hl_variable" href="../../d3/d9a/a04433.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a>.front() != archive)</div>
-<div class="line"><span class="lineno">  468</span>            <span class="keyword">delete</span> archive;</div>
-<div class="line"><span class="lineno">  469</span>    }</div>
-<div class="line"><span class="lineno">  470</span> </div>
-<div class="line"><span class="lineno">  471</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d9a/a04433.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a>.empty())</div>
-<div class="line"><span class="lineno">  472</span>    {</div>
-<div class="line"><span class="lineno">  473</span>        printf(<span class="stringliteral">&quot;FATAL ERROR: None MPQ archive found by path &#39;%s&#39;. Use -d option with proper path.\n&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>);</div>
-<div class="line"><span class="lineno">  474</span>        <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  475</span>    }</div>
-<div class="line"><span class="lineno">  476</span> </div>
-<div class="line"><span class="lineno">  477</span>    <span class="comment">//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</span></div>
-<div class="line"><span class="lineno">  478</span>    <span class="comment">//map.dbc</span></div>
-<div class="line"><span class="lineno">  479</span>    <span class="keywordflow">if</span> (success)</div>
-<div class="line"><span class="lineno">  480</span>    {</div>
-<div class="line"><span class="lineno">  481</span>        <a class="code hl_class" href="../../d7/dc8/a29537.html">DBCFile</a>* dbc = <span class="keyword">new</span> <a class="code hl_class" href="../../d7/dc8/a29537.html">DBCFile</a>(<span class="stringliteral">&quot;DBFilesClient\\Map.dbc&quot;</span>);</div>
-<div class="line"><span class="lineno">  482</span>        <span class="keywordflow">if</span> (!dbc-&gt;<a class="code hl_function" href="../../d7/dc8/a29537.html#a8255273a3ed878f743837eecf83c5897">open</a>())</div>
-<div class="line"><span class="lineno">  483</span>        {</div>
-<div class="line"><span class="lineno">  484</span>            <span class="keyword">delete</span> dbc;</div>
-<div class="line"><span class="lineno">  485</span>            printf(<span class="stringliteral">&quot;FATAL ERROR: Map.dbc not found in data file.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  486</span>            <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  487</span>        }</div>
-<div class="line"><span class="lineno">  488</span>        <a class="code hl_variable" href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a> = dbc-&gt;<a class="code hl_function" href="../../d7/dc8/a29537.html#ae0fd1c5f3728ec3073a6615dc9604f9c">getRecordCount</a>();</div>
-<div class="line"><span class="lineno">  489</span>        <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>.resize(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a>);</div>
-<div class="line"><span class="lineno">  490</span>        <span class="keywordflow">for</span> (<span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> x = 0; x &lt; <a class="code hl_variable" href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a>; ++x)</div>
-<div class="line"><span class="lineno">  491</span>        {</div>
-<div class="line"><span class="lineno">  492</span>            <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[x].id = dbc-&gt;<a class="code hl_function" href="../../d7/dc8/a29537.html#ac3539b586d9d87f274e582115c6fad21">getRecord</a>(x).<a class="code hl_function" href="../../de/da2/a29549.html#ace0215b88ffbaf83c69a82cde51cd45f">getUInt</a>(0);</div>
-<div class="line"><span class="lineno">  493</span> </div>
-<div class="line"><span class="lineno">  494</span>            <span class="keywordtype">char</span> <span class="keyword">const</span>* map_name = dbc-&gt;<a class="code hl_function" href="../../d7/dc8/a29537.html#ac3539b586d9d87f274e582115c6fad21">getRecord</a>(x).<a class="code hl_function" href="../../de/da2/a29549.html#a3e330e9888e740bc16d4ba173c90c8d9">getString</a>(1);</div>
-<div class="line"><span class="lineno">  495</span>            std::size_t max_map_name_length = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[x].name);</div>
-<div class="line"><span class="lineno">  496</span>            <span class="keywordflow">if</span> (strlen(map_name) &gt;= max_map_name_length)</div>
-<div class="line"><span class="lineno">  497</span>            {</div>
-<div class="line"><span class="lineno">  498</span>                <span class="keyword">delete</span> dbc;</div>
-<div class="line"><span class="lineno">  499</span>                printf(<span class="stringliteral">&quot;FATAL ERROR: Map name too long.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  500</span>                <span class="keywordflow">return</span> 1;</div>
-<div class="line"><span class="lineno">  501</span>            }</div>
-<div class="line"><span class="lineno">  502</span> </div>
-<div class="line"><span class="lineno">  503</span>            strncpy(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[x].name, map_name, max_map_name_length);</div>
-<div class="line"><span class="lineno">  504</span>            <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[x].name[max_map_name_length - 1] = <span class="charliteral">&#39;\0&#39;</span>;</div>
-<div class="line"><span class="lineno">  505</span>            printf(<span class="stringliteral">&quot;Map - %s\n&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[x].name);</div>
-<div class="line"><span class="lineno">  506</span>        }</div>
-<div class="line"><span class="lineno">  507</span> </div>
-<div class="line"><span class="lineno">  508</span>        <span class="keyword">delete</span> dbc;</div>
-<div class="line"><span class="lineno">  509</span>        <a class="code hl_function" href="../../d3/d9a/a04433.html#a50c73ad000da4df06ae438373eeaf60e">ParsMapFiles</a>();</div>
-<div class="line"><span class="lineno">  510</span>        <span class="comment">//nError = ERROR_SUCCESS;</span></div>
-<div class="line"><span class="lineno">  511</span>        <span class="comment">// Extract models, listed in DameObjectDisplayInfo.dbc</span></div>
-<div class="line"><span class="lineno">  512</span>        <a class="code hl_function" href="../../da/dce/a04397.html#a7b3d0cbf404ed32359e354ccf6e34392">ExtractGameobjectModels</a>();</div>
-<div class="line"><span class="lineno">  513</span>    }</div>
-<div class="line"><span class="lineno">  514</span> </div>
-<div class="line"><span class="lineno">  515</span>    printf(<span class="stringliteral">&quot;\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  516</span>    <span class="keywordflow">if</span> (!success)</div>
-<div class="line"><span class="lineno">  517</span>    {</div>
-<div class="line"><span class="lineno">  518</span>        printf(<span class="stringliteral">&quot;ERROR: Extract %s. Work NOT complete.\n   Precise vector data=%d.\nPress any key.\n&quot;</span>, versionString, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>);</div>
-<div class="line"><span class="lineno">  519</span>        getchar();</div>
-<div class="line"><span class="lineno">  520</span>    }</div>
-<div class="line"><span class="lineno">  521</span> </div>
-<div class="line"><span class="lineno">  522</span>    printf(<span class="stringliteral">&quot;Extract %s. Work complete. No errors.\n&quot;</span>, versionString);</div>
-<div class="line"><span class="lineno">  523</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  524</span>}</div>
-<div class="ttc" id="aa04397_html_a7b3d0cbf404ed32359e354ccf6e34392"><div class="ttname"><a href="../../da/dce/a04397.html#a7b3d0cbf404ed32359e354ccf6e34392">ExtractGameobjectModels</a></div><div class="ttdeci">void ExtractGameobjectModels()</div><div class="ttdef"><b>Definition:</b> gameobject_extract.cpp:59</div></div>
-<div class="ttc" id="aa04433_html_a12b965536bcabf2e2edd7db2196630cd"><div class="ttname"><a href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a></div><div class="ttdeci">std::vector&lt; map_id &gt; map_ids</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:58</div></div>
-<div class="ttc" id="aa04433_html_a32b84e03161e7056f809d12d8b7b71b2"><div class="ttname"><a href="../../d3/d9a/a04433.html#a32b84e03161e7056f809d12d8b7b71b2">fillArchiveNameVector</a></div><div class="ttdeci">bool fillArchiveNameVector(std::vector&lt; std::string &gt; &amp;pArchiveNames)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:274</div></div>
-<div class="ttc" id="aa04433_html_a50c73ad000da4df06ae438373eeaf60e"><div class="ttname"><a href="../../d3/d9a/a04433.html#a50c73ad000da4df06ae438373eeaf60e">ParsMapFiles</a></div><div class="ttdeci">void ParsMapFiles()</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:205</div></div>
-<div class="ttc" id="aa04433_html_a6fcdefd114e6ec71964d6539163fc055"><div class="ttname"><a href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a></div><div class="ttdeci">uint32 map_count</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:59</div></div>
-<div class="ttc" id="aa04433_html_a8ae40ebe73635e831bc65b70e7f97f3c"><div class="ttname"><a href="../../d3/d9a/a04433.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></div><div class="ttdeci">ArchiveSet gOpenArchives</div><div class="ttdef"><b>Definition:</b> mpq_libmpq.cpp:22</div></div>
-<div class="ttc" id="aa04433_html_a8f05dfc74cc4db726161d81ab714bfe1"><div class="ttname"><a href="../../d3/d9a/a04433.html#a8f05dfc74cc4db726161d81ab714bfe1">processArgv</a></div><div class="ttdeci">bool processArgv(int argc, char **argv, const char *versionString)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:365</div></div>
-<div class="ttc" id="aa29537_html"><div class="ttname"><a href="../../d7/dc8/a29537.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
-<div class="ttc" id="aa29537_html_a8255273a3ed878f743837eecf83c5897"><div class="ttname"><a href="../../d7/dc8/a29537.html#a8255273a3ed878f743837eecf83c5897">DBCFile::open</a></div><div class="ttdeci">bool open()</div><div class="ttdef"><b>Definition:</b> dbcfile.cpp:29</div></div>
-<div class="ttc" id="aa29537_html_ac3539b586d9d87f274e582115c6fad21"><div class="ttname"><a href="../../d7/dc8/a29537.html#ac3539b586d9d87f274e582115c6fad21">DBCFile::getRecord</a></div><div class="ttdeci">Record getRecord(std::size_t id)</div><div class="ttdef"><b>Definition:</b> dbcfile.cpp:71</div></div>
-<div class="ttc" id="aa29537_html_ae0fd1c5f3728ec3073a6615dc9604f9c"><div class="ttname"><a href="../../d7/dc8/a29537.html#ae0fd1c5f3728ec3073a6615dc9604f9c">DBCFile::getRecordCount</a></div><div class="ttdeci">std::size_t getRecordCount() const</div><div class="ttdoc">Trivial.</div><div class="ttdef"><b>Definition:</b> dbcfile.h:124</div></div>
-<div class="ttc" id="aa29549_html_a3e330e9888e740bc16d4ba173c90c8d9"><div class="ttname"><a href="../../de/da2/a29549.html#a3e330e9888e740bc16d4ba173c90c8d9">DBCFile::Record::getString</a></div><div class="ttdeci">const char * getString(std::size_t field) const</div><div class="ttdef"><b>Definition:</b> dbcfile.h:70</div></div>
-<div class="ttc" id="aa29549_html_ace0215b88ffbaf83c69a82cde51cd45f"><div class="ttname"><a href="../../de/da2/a29549.html#ace0215b88ffbaf83c69a82cde51cd45f">DBCFile::Record::getUInt</a></div><div class="ttdeci">unsigned int getUInt(std::size_t field) const</div><div class="ttdef"><b>Definition:</b> dbcfile.h:60</div></div>
-<div class="ttc" id="aa29573_html"><div class="ttname"><a href="../../d4/dc9/a29573.html">MPQArchive</a></div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:32</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00274">fillArchiveNameVector()</a>, <a class="el" href="../../#l00071">DBCFile::getRecord()</a>, <a class="el" href="../../#l00124">DBCFile::getRecordCount()</a>, <a class="el" href="../../#l00070">DBCFile::Record::getString()</a>, <a class="el" href="../../#l00060">DBCFile::Record::getUInt()</a>, <a class="el" href="../../#l00022">gOpenArchives</a>, <a class="el" href="../../#l00061">input_path</a>, <a class="el" href="../../#l00059">map_count</a>, <a class="el" href="../../#l00058">map_ids</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00205">ParsMapFiles()</a>, <a class="el" href="../../#l00063">preciseVectorData</a>, <a class="el" href="../../#l00365">processArgv()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
-
-</div>
-</div>
-<a id="a50c73ad000da4df06ae438373eeaf60e" name="a50c73ad000da4df06ae438373eeaf60e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a50c73ad000da4df06ae438373eeaf60e">&#9670;&#160;</a></span>ParsMapFiles()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ParsMapFiles </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{</div>
-<div class="line"><span class="lineno">  207</span>    <span class="keywordtype">char</span> fn[512];</div>
-<div class="line"><span class="lineno">  208</span>    <span class="comment">//char id_filename[64];</span></div>
-<div class="line"><span class="lineno">  209</span>    <span class="keywordflow">for</span> (<span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> i = 0; i &lt; <a class="code hl_variable" href="../../d3/d9a/a04433.html#a6fcdefd114e6ec71964d6539163fc055">map_count</a>; ++i)</div>
-<div class="line"><span class="lineno">  210</span>    {</div>
-<div class="line"><span class="lineno">  211</span>        sprintf(fn,<span class="stringliteral">&quot;World\\Maps\\%s\\%s.wdt&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].name, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].name);</div>
-<div class="line"><span class="lineno">  212</span>        <a class="code hl_class" href="../../dd/d29/a29705.html">WDTFile</a> WDT(fn,<a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].name);</div>
-<div class="line"><span class="lineno">  213</span>        <span class="keywordflow">if</span> (WDT.init(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].id))</div>
-<div class="line"><span class="lineno">  214</span>        {</div>
-<div class="line"><span class="lineno">  215</span>            printf(<span class="stringliteral">&quot;Processing Map %u\n[&quot;</span>, <a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].<span class="keywordtype">id</span>);</div>
-<div class="line"><span class="lineno">  216</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span> x = 0; x &lt; 64; ++x)</div>
-<div class="line"><span class="lineno">  217</span>            {</div>
-<div class="line"><span class="lineno">  218</span>                <span class="keywordflow">for</span> (<span class="keywordtype">int</span> y = 0; y &lt; 64; ++y)</div>
-<div class="line"><span class="lineno">  219</span>                {</div>
-<div class="line"><span class="lineno">  220</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/d10/a29673.html">ADTFile</a>* <a class="code hl_namespace" href="../../df/d84/a05115.html">ADT</a> = WDT.GetMap(x, y))</div>
-<div class="line"><span class="lineno">  221</span>                    {</div>
-<div class="line"><span class="lineno">  222</span>                        <span class="comment">//sprintf(id_filename,&quot;%02u %02u %03u&quot;,x,y,map_ids[i].id);//!!!!!!!!!</span></div>
-<div class="line"><span class="lineno">  223</span>                        <a class="code hl_namespace" href="../../df/d84/a05115.html">ADT</a>-&gt;init(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a12b965536bcabf2e2edd7db2196630cd">map_ids</a>[i].<span class="keywordtype">id</span>, x, y);</div>
-<div class="line"><span class="lineno">  224</span>                        <span class="keyword">delete</span> <a class="code hl_namespace" href="../../df/d84/a05115.html">ADT</a>;</div>
-<div class="line"><span class="lineno">  225</span>                    }</div>
-<div class="line"><span class="lineno">  226</span>                }</div>
-<div class="line"><span class="lineno">  227</span>                printf(<span class="stringliteral">&quot;#&quot;</span>);</div>
-<div class="line"><span class="lineno">  228</span>                fflush(stdout);</div>
-<div class="line"><span class="lineno">  229</span>            }</div>
-<div class="line"><span class="lineno">  230</span>            printf(<span class="stringliteral">&quot;]\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  231</span>        }</div>
-<div class="line"><span class="lineno">  232</span>    }</div>
-<div class="line"><span class="lineno">  233</span>}</div>
-<div class="ttc" id="aa05115_html"><div class="ttname"><a href="../../df/d84/a05115.html">ADT</a></div><div class="ttdef"><b>Definition:</b> adtfile.h:27</div></div>
-<div class="ttc" id="aa29673_html"><div class="ttname"><a href="../../dd/d10/a29673.html">ADTFile</a></div><div class="ttdef"><b>Definition:</b> adtfile.h:54</div></div>
-<div class="ttc" id="aa29705_html"><div class="ttname"><a href="../../dd/d29/a29705.html">WDTFile</a></div><div class="ttdef"><b>Definition:</b> wdtfile.h:28</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00122">WDTFile::GetMap()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00059">map_count</a>, and <a class="el" href="../../#l00058">map_ids</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00427">main()</a>.</p>
-
-</div>
-</div>
-<a id="a8f05dfc74cc4db726161d81ab714bfe1" name="a8f05dfc74cc4db726161d81ab714bfe1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f05dfc74cc4db726161d81ab714bfe1">&#9670;&#160;</a></span>processArgv()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool processArgv </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>argc</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">char **&#160;</td>
-          <td class="paramname"><em>argv</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>versionString</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  366</span>{</div>
-<div class="line"><span class="lineno">  367</span>    <span class="keywordtype">bool</span> result = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  368</span>    <a class="code hl_variable" href="../../d3/d9a/a04433.html#a5ef7a611bb56bdaa370aaf1770059365">hasInputPathParam</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  369</span>    <a class="code hl_variable" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  370</span> </div>
-<div class="line"><span class="lineno">  371</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 1; i &lt; argc; ++i)</div>
-<div class="line"><span class="lineno">  372</span>    {</div>
-<div class="line"><span class="lineno">  373</span>        <span class="keywordflow">if</span> (strcmp(<span class="stringliteral">&quot;-s&quot;</span>, argv[i]) == 0)</div>
-<div class="line"><span class="lineno">  374</span>        {</div>
-<div class="line"><span class="lineno">  375</span>            <a class="code hl_variable" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  376</span>        }</div>
-<div class="line"><span class="lineno">  377</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(<span class="stringliteral">&quot;-d&quot;</span>, argv[i]) == 0)</div>
-<div class="line"><span class="lineno">  378</span>        {</div>
-<div class="line"><span class="lineno">  379</span>            <span class="keywordflow">if</span> ((i + 1) &lt; argc)</div>
-<div class="line"><span class="lineno">  380</span>            {</div>
-<div class="line"><span class="lineno">  381</span>                <a class="code hl_variable" href="../../d3/d9a/a04433.html#a5ef7a611bb56bdaa370aaf1770059365">hasInputPathParam</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  382</span>                strcpy(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>, argv[i + 1]);</div>
-<div class="line"><span class="lineno">  383</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>[strlen(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>) - 1] != <span class="charliteral">&#39;\\&#39;</span> &amp;&amp; <a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>[strlen(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>) - 1] != <span class="charliteral">&#39;/&#39;</span>)</div>
-<div class="line"><span class="lineno">  384</span>                    strcat(<a class="code hl_variable" href="../../d3/d9a/a04433.html#a773984b4a48966b7ea95d0586db0210b">input_path</a>, <span class="stringliteral">&quot;/&quot;</span>);</div>
-<div class="line"><span class="lineno">  385</span>                ++i;</div>
-<div class="line"><span class="lineno">  386</span>            }</div>
-<div class="line"><span class="lineno">  387</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  388</span>            {</div>
-<div class="line"><span class="lineno">  389</span>                result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  390</span>            }</div>
-<div class="line"><span class="lineno">  391</span>        }</div>
-<div class="line"><span class="lineno">  392</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(<span class="stringliteral">&quot;-?&quot;</span>, argv[1]) == 0)</div>
-<div class="line"><span class="lineno">  393</span>        {</div>
-<div class="line"><span class="lineno">  394</span>            result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  395</span>        }</div>
-<div class="line"><span class="lineno">  396</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (strcmp(<span class="stringliteral">&quot;-l&quot;</span>, argv[i]) == 0)</div>
-<div class="line"><span class="lineno">  397</span>        {</div>
-<div class="line"><span class="lineno">  398</span>            <a class="code hl_variable" href="../../d3/d9a/a04433.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  399</span>        }</div>
-<div class="line"><span class="lineno">  400</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  401</span>        {</div>
-<div class="line"><span class="lineno">  402</span>            result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  403</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  404</span>        }</div>
-<div class="line"><span class="lineno">  405</span>    }</div>
-<div class="line"><span class="lineno">  406</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  407</span>    {</div>
-<div class="line"><span class="lineno">  408</span>        printf(<span class="stringliteral">&quot;Extract %s.\n&quot;</span>, versionString);</div>
-<div class="line"><span class="lineno">  409</span>        printf(<span class="stringliteral">&quot;%s [-?][-s][-l][-d &lt;path&gt;]\n&quot;</span>, argv[0]);</div>
-<div class="line"><span class="lineno">  410</span>        printf(<span class="stringliteral">&quot;   -s : (default) small size (data size optimization), ~500MB less vmap data.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  411</span>        printf(<span class="stringliteral">&quot;   -l : large size, ~500MB more vmap data. (might contain more details)\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  412</span>        printf(<span class="stringliteral">&quot;   -d &lt;path&gt;: Path to the vector data source folder.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  413</span>        printf(<span class="stringliteral">&quot;   -? : This message.\n&quot;</span>);</div>
-<div class="line"><span class="lineno">  414</span>    }</div>
-<div class="line"><span class="lineno">  415</span>    <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  416</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00062">hasInputPathParam</a>, <a class="el" href="../../#l00061">input_path</a>, and <a class="el" href="../../#l00063">preciseVectorData</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00427">main()</a>.</p>
-
-</div>
-</div>
-<a id="a995d89b97dfb31a6a8c1c4e1c96d47f4" name="a995d89b97dfb31a6a8c1c4e1c96d47f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a995d89b97dfb31a6a8c1c4e1c96d47f4">&#9670;&#160;</a></span>scan_patches()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool scan_patches </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>scanmatch</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; std::string &gt; &amp;&#160;</td>
-          <td class="paramname"><em>pArchiveNames</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  245</span>{</div>
-<div class="line"><span class="lineno">  246</span>    <span class="keywordtype">int</span> i;</div>
-<div class="line"><span class="lineno">  247</span>    <span class="keywordtype">char</span> path[512];</div>
-<div class="line"><span class="lineno">  248</span> </div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordflow">for</span> (i = 1; i &lt;= 99; i++)</div>
-<div class="line"><span class="lineno">  250</span>    {</div>
-<div class="line"><span class="lineno">  251</span>        <span class="keywordflow">if</span> (i != 1)</div>
-<div class="line"><span class="lineno">  252</span>        {</div>
-<div class="line"><span class="lineno">  253</span>            sprintf(path, <span class="stringliteral">&quot;%s-%d.MPQ&quot;</span>, scanmatch, i);</div>
-<div class="line"><span class="lineno">  254</span>        }</div>
-<div class="line"><span class="lineno">  255</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  256</span>        {</div>
-<div class="line"><span class="lineno">  257</span>            sprintf(path, <span class="stringliteral">&quot;%s.MPQ&quot;</span>, scanmatch);</div>
-<div class="line"><span class="lineno">  258</span>        }</div>
-<div class="line"><span class="lineno">  259</span><span class="preprocessor">#ifdef __linux__</span></div>
-<div class="line"><span class="lineno">  260</span>        <span class="keywordflow">if</span> (FILE* h = fopen64(path, <span class="stringliteral">&quot;rb&quot;</span>))</div>
-<div class="line"><span class="lineno">  261</span><span class="preprocessor">#else</span></div>
-<div class="line"><span class="lineno">  262</span>        <span class="keywordflow">if</span> (FILE* h = fopen(path, <span class="stringliteral">&quot;rb&quot;</span>))</div>
-<div class="line"><span class="lineno">  263</span><span class="preprocessor">#endif</span></div>
-<div class="line"><span class="lineno">  264</span>        {</div>
-<div class="line"><span class="lineno">  265</span>            fclose(h);</div>
-<div class="line"><span class="lineno">  266</span>            <span class="comment">//matches.push_back(path);</span></div>
-<div class="line"><span class="lineno">  267</span>            pArchiveNames.emplace_back(path);</div>
-<div class="line"><span class="lineno">  268</span>        }</div>
-<div class="line"><span class="lineno">  269</span>    }</div>
-<div class="line"><span class="lineno">  270</span> </div>
-<div class="line"><span class="lineno">  271</span>    <span class="keywordflow">return</span> (<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  272</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00274">fillArchiveNameVector()</a>.</p>
-
-</div>
-</div>
-<a id="ac9e88429cc2168db83793cb7074bc69f" name="ac9e88429cc2168db83793cb7074bc69f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9e88429cc2168db83793cb7074bc69f">&#9670;&#160;</a></span>strToLower()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void strToLower </td>
-          <td>(</td>
-          <td class="paramtype">char *&#160;</td>
-          <td class="paramname"><em>str</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{</div>
-<div class="line"><span class="lineno">   91</span>    <span class="keywordflow">while</span> (*str)</div>
-<div class="line"><span class="lineno">   92</span>    {</div>
-<div class="line"><span class="lineno">   93</span>        *str = tolower(*str);</div>
-<div class="line"><span class="lineno">   94</span>        ++str;</div>
-<div class="line"><span class="lineno">   95</span>    }</div>
-<div class="line"><span class="lineno">   96</span>}</div>
-</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a8ae40ebe73635e831bc65b70e7f97f3c" name="a8ae40ebe73635e831bc65b70e7f97f3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ae40ebe73635e831bc65b70e7f97f3c">&#9670;&#160;</a></span>gOpenArchives</h2>
+<a id="abc40b58c1d6068b25a1fe4fc855d423c" name="abc40b58c1d6068b25a1fe4fc855d423c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc40b58c1d6068b25a1fe4fc855d423c">&#9670;&#160;</a></span>MAX_ENCOUNTER</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -939,159 +676,17 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d2e/a30601.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a> gOpenArchives</td>
+          <td class="memname">constexpr auto MAX_ENCOUNTER = 6</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">extern</span></span>  </td>
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">MPQArchive::isOpened()</a>, <a class="el" href="../../#l00427">main()</a>, <a class="el" href="../../#l00024">MPQArchive::MPQArchive()</a>, and <a class="el" href="../../#l00062">MPQFile::MPQFile()</a>.</p>
-
-</div>
-</div>
-<a id="a5ef7a611bb56bdaa370aaf1770059365" name="a5ef7a611bb56bdaa370aaf1770059365"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ef7a611bb56bdaa370aaf1770059365">&#9670;&#160;</a></span>hasInputPathParam</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool hasInputPathParam = false</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00274">fillArchiveNameVector()</a>, and <a class="el" href="../../#l00365">processArgv()</a>.</p>
-
-</div>
-</div>
-<a id="a773984b4a48966b7ea95d0586db0210b" name="a773984b4a48966b7ea95d0586db0210b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a773984b4a48966b7ea95d0586db0210b">&#9670;&#160;</a></span>input_path</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char input_path[1024] = &quot;.&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00274">fillArchiveNameVector()</a>, <a class="el" href="../../#l00235">getGamePath()</a>, <a class="el" href="../../#l00427">main()</a>, and <a class="el" href="../../#l00365">processArgv()</a>.</p>
-
-</div>
-</div>
-<a id="a6fcdefd114e6ec71964d6539163fc055" name="a6fcdefd114e6ec71964d6539163fc055"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fcdefd114e6ec71964d6539163fc055">&#9670;&#160;</a></span>map_count</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> map_count</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00976">ExtractMapsFromMpq()</a>, <a class="el" href="../../#l00427">main()</a>, <a class="el" href="../../#l00205">ParsMapFiles()</a>, and <a class="el" href="../../#l00272">ReadMapDBC()</a>.</p>
-
-</div>
-</div>
-<a id="a12b965536bcabf2e2edd7db2196630cd" name="a12b965536bcabf2e2edd7db2196630cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a12b965536bcabf2e2edd7db2196630cd">&#9670;&#160;</a></span>map_ids</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d6/d97/a29581.html">map_id</a>&gt; map_ids</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00427">main()</a>, and <a class="el" href="../../#l00205">ParsMapFiles()</a>.</p>
-
-</div>
-</div>
-<a id="aeb9ec80db9cddb3d9ab2303f2a825d0b" name="aeb9ec80db9cddb3d9ab2303f2a825d0b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeb9ec80db9cddb3d9ab2303f2a825d0b">&#9670;&#160;</a></span>output_path</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char output_path[128] = &quot;.&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2191d2ffb8973cd0ddb269bcaa06a31d" name="a2191d2ffb8973cd0ddb269bcaa06a31d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2191d2ffb8973cd0ddb269bcaa06a31d">&#9670;&#160;</a></span>preciseVectorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool preciseVectorData = false</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00296">WMOGroup::ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00427">main()</a>, and <a class="el" href="../../#l00365">processArgv()</a>.</p>
-
-</div>
-</div>
-<a id="ae79cb6c3493a63f0e1058be3bd5ba328" name="ae79cb6c3493a63f0e1058be3bd5ba328"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae79cb6c3493a63f0e1058be3bd5ba328">&#9670;&#160;</a></span>szWorkDirWmo</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">char const* szWorkDirWmo = &quot;./Buildings&quot;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00532">MapObject::Extract()</a>, <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, and <a class="el" href="../../#l00427">main()</a>.</p>
-
-</div>
-</div>
-<a id="a78dd87d3ceb9a2d97c7a1d0caa8d4154" name="a78dd87d3ceb9a2d97c7a1d0caa8d4154"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a78dd87d3ceb9a2d97c7a1d0caa8d4154">&#9670;&#160;</a></span>uniqueObjectIds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::map&lt;std::pair&lt;<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/d7a/a04568.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; uniqueObjectIds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00072">GenerateUniqueObjectId()</a>.</p>
-
-</div>
-</div>
-<a id="a17b22c7645963c9e5c277b72605a4966" name="a17b22c7645963c9e5c277b72605a4966"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a17b22c7645963c9e5c277b72605a4966">&#9670;&#160;</a></span>WmoDoodads</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::unordered_map&lt;std::string, <a class="el" href="../../d2/d9c/a29717.html">WMODoodadData</a>&gt; WmoDoodads</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00162">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::GetGuidData()</a>, <a class="el" href="../../#l00105">instance_zulaman::instance_zulaman_InstanceMapScript::Initialize()</a>, <a class="el" href="../../#l00046">instance_onyxias_lair::instance_onyxias_lair_InstanceMapScript::Initialize()</a>, <a class="el" href="../../#l00074">instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript::Initialize()</a>, <a class="el" href="../../#l00054">instance_ahnkahet::instance_ahnkahet_InstanceScript::instance_ahnkahet_InstanceScript()</a>, <a class="el" href="../../#l00059">instance_forge_of_souls::instance_forge_of_souls_InstanceScript::instance_forge_of_souls_InstanceScript()</a>, <a class="el" href="../../#l00052">instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript::instance_gruuls_lair_InstanceMapScript()</a>, <a class="el" href="../../#l00158">instance_halls_of_reflection::instance_halls_of_reflection()</a>, <a class="el" href="../../#l00069">instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript::instance_magisters_terrace_InstanceMapScript()</a>, <a class="el" href="../../#l00046">instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript::instance_magtheridons_lair_InstanceMapScript()</a>, <a class="el" href="../../#l00037">instance_mechanar::instance_mechanar_InstanceMapScript::instance_mechanar_InstanceMapScript()</a>, <a class="el" href="../../#l00058">instance_molten_core::instance_molten_core()</a>, <a class="el" href="../../#l00033">instance_the_botanica::instance_the_botanica_InstanceMapScript::instance_the_botanica_InstanceMapScript()</a>, <a class="el" href="../../#l00061">instance_the_eye::instance_the_eye_InstanceMapScript::instance_the_eye_InstanceMapScript()</a>, <a class="el" href="../../#l00179">instance_ulduar::instance_ulduar_InstanceMapScript::instance_ulduar_InstanceMapScript()</a>, <a class="el" href="../../#l00098">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00069">instance_pit_of_saron::instance_pit_of_saron_InstanceScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00089">instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00289">instance_ulduar::instance_ulduar_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00072">instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00130">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::IsEncounterInProgress()</a>, <a class="el" href="../../#l00687">instance_blackrock_depths::Load()</a>, <a class="el" href="../../#l00219">instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript::Load()</a>, <a class="el" href="../../#l00057">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::OnPlayerEnter()</a>, <a class="el" href="../../#l00313">instance_ulduar::instance_ulduar_InstanceMapScript::SetBossState()</a>, <a class="el" href="../../#l00213">instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript::SetData()</a>, and <a class="el" href="../../#l00070">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::Update()</a>.</p>
 
 </div>
 </div>
@@ -1100,8 +695,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d3/d9a/a04433.html">vmapexport.cpp</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:37:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_ee257430e29f6025af1a91f2d4e4e3f4.html">BlackrockMountain</a></li><li class="navelem"><a class="el" href="../../dir_27480f4b138219461115b0c89185026b.html">BlackrockDepths</a></li><li class="navelem"><a class="el" href="../../d3/d9a/a04433.html">instance_blackrock_depths.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

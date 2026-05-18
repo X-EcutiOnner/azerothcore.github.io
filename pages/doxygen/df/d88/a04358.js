@@ -1,7 +1,21 @@
 var a04358 =
 [
-    [ "IsAcceptedClientBuild", "df/d88/a04358.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "df/d88/a04358.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "df/d88/a04358.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "df/d88/a04358.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "npc_partygoer_pather", "dc/d07/a13898.html", "dc/d07/a13898" ],
+    [ "npc_partygoer", "d4/d99/a13902.html", "d4/d99/a13902" ],
+    [ "npc_lor_themar_theron", "d8/d41/a13906.html", "d8/d41/a13906" ],
+    [ "Partygoer", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
+      [ "EVENT_RANDOM_ACTION", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
+      [ "EVENT_REMOVE_EQUIPMENT", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
+      [ "EVENT_STOP_DANCING", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
+      [ "EVENT_THROW_FIREWORKS", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
+      [ "EVENT_RESET_FACING", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
+      [ "GO_FIREWORKS_LAUNCHER", "df/d88/a04358.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    ] ],
+    [ "Partygoer_Pather", "df/d88/a04358.html#a3222d14ce03d75912e65560ebf2a961b", [
+      [ "EVENT_PATH", "df/d88/a04358.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
+      [ "EVENT_RANDOM_ACTION_PATHER", "df/d88/a04358.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
+      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "df/d88/a04358.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
+      [ "EVENT_STOP_DANCING_PATHER", "df/d88/a04358.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
+    ] ],
+    [ "AddSC_eversong_woods", "df/d88/a04358.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
 ];

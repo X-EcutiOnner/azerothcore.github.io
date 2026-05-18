@@ -121,7 +121,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:a0ec9a2499d73516dd2d4a0319990924a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d6d/a09514.html#a0ec9a2499d73516dd2d4a0319990924a">Visit</a> (<a class="el" href="../../d6/d42/a09422.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
 <tr class="separator:a0ec9a2499d73516dd2d4a0319990924a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d6d/a09514.html#a06dd774a24d4a1da36a2a862c0ad97df">Visit</a> (<a class="el" href="../../da/d19/a01217.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;)</td></tr>
+<tr class="memitem:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d6d/a09514.html#a06dd774a24d4a1da36a2a862c0ad97df">Visit</a> (<a class="el" href="../../dc/d0c/a01532.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;)</td></tr>
 <tr class="separator:a06dd774a24d4a1da36a2a862c0ad97df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
@@ -173,7 +173,7 @@ Public Attributes</h2></td></tr>
         <tr>
           <td class="memname">void AIRelocationNotifier::Visit </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d19/a01217.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/d0c/a01532.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
           <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
         </tr>
@@ -186,16 +186,16 @@ Public Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  178</span>        <a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>* c = iter-&gt;GetSource();</div>
 <div class="line"><span class="lineno">  179</span> </div>
 <div class="line"><span class="lineno">  180</span>        <span class="comment">// NOTIFY_VISIBILITY_CHANGED | NOTIFY_AI_RELOCATION does not guarantee that unit will do it itself (because distance is also checked), but screw it, it&#39;s not that important</span></div>
-<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../d2/d29/a01376.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../d2/d29/a01376.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>) &amp;&amp; !c-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a311d114dbf2ff185f20a636d3e4c61d0">IsMoveInLineOfSightStrictlyDisabled</a>())</div>
-<div class="line"><span class="lineno">  182</span>            <a class="code hl_function" href="../../de/d61/a01205.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>(c, &amp;<a class="code hl_variable" href="../../d8/d6d/a09514.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>);</div>
+<div class="line"><span class="lineno">  181</span>        <span class="keywordflow">if</span> (!c-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#a266350f5eebd01138f89f659d1eb7505">isNeedNotify</a>(<a class="code hl_enumvalue" href="../../d7/d26/a02162.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a> | <a class="code hl_enumvalue" href="../../d7/d26/a02162.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a>) &amp;&amp; !c-&gt;<a class="code hl_function" href="../../d3/d02/a08306.html#a311d114dbf2ff185f20a636d3e4c61d0">IsMoveInLineOfSightStrictlyDisabled</a>())</div>
+<div class="line"><span class="lineno">  182</span>            <a class="code hl_function" href="../../da/ded/a01547.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>(c, &amp;<a class="code hl_variable" href="../../d8/d6d/a09514.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>);</div>
 <div class="line"><span class="lineno">  183</span> </div>
 <div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (self)</div>
-<div class="line"><span class="lineno">  185</span>            <a class="code hl_function" href="../../de/d61/a01205.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>((<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>*)&amp;<a class="code hl_variable" href="../../d8/d6d/a09514.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>, c);</div>
+<div class="line"><span class="lineno">  185</span>            <a class="code hl_function" href="../../da/ded/a01547.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a>((<a class="code hl_class" href="../../d3/d02/a08306.html">Creature</a>*)&amp;<a class="code hl_variable" href="../../d8/d6d/a09514.html#ab1dd814e4d94ed2989bb07012a24d40e">i_unit</a>, c);</div>
 <div class="line"><span class="lineno">  186</span>    }</div>
 <div class="line"><span class="lineno">  187</span>}</div>
-<div class="ttc" id="aa01205_html_a6dd107031f342074ca560b711fe188d7"><div class="ttname"><a href="../../de/d61/a01205.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a></div><div class="ttdeci">void CreatureUnitRelocationWorker(Creature *c, Unit *u)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:127</div></div>
-<div class="ttc" id="aa01376_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../d2/d29/a01376.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:70</div></div>
-<div class="ttc" id="aa01376_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../d2/d29/a01376.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:71</div></div>
+<div class="ttc" id="aa01547_html_a6dd107031f342074ca560b711fe188d7"><div class="ttname"><a href="../../da/ded/a01547.html#a6dd107031f342074ca560b711fe188d7">CreatureUnitRelocationWorker</a></div><div class="ttdeci">void CreatureUnitRelocationWorker(Creature *c, Unit *u)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:127</div></div>
+<div class="ttc" id="aa02162_html_ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d"><div class="ttname"><a href="../../d7/d26/a02162.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d">NOTIFY_AI_RELOCATION</a></div><div class="ttdeci">@ NOTIFY_AI_RELOCATION</div><div class="ttdef"><b>Definition:</b> Object.h:70</div></div>
+<div class="ttc" id="aa02162_html_ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053"><div class="ttname"><a href="../../d7/d26/a02162.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053">NOTIFY_VISIBILITY_CHANGED</a></div><div class="ttdeci">@ NOTIFY_VISIBILITY_CHANGED</div><div class="ttdef"><b>Definition:</b> Object.h:71</div></div>
 <div class="ttc" id="aa05510_html"><div class="ttname"><a href="../../da/d88/a05510.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
 <div class="ttc" id="aa08306_html"><div class="ttname"><a href="../../d3/d02/a08306.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
 <div class="ttc" id="aa08306_html_a311d114dbf2ff185f20a636d3e4c61d0"><div class="ttname"><a href="../../d3/d02/a08306.html#a311d114dbf2ff185f20a636d3e4c61d0">Creature::IsMoveInLineOfSightStrictlyDisabled</a></div><div class="ttdeci">bool IsMoveInLineOfSightStrictlyDisabled()</div><div class="ttdef"><b>Definition:</b> Creature.h:283</div></div>
@@ -275,7 +275,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d61/a05028.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d6d/a09514.html">AIRelocationNotifier</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

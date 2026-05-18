@@ -157,10 +157,10 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  369</span>    {</div>
-<div class="line"><span class="lineno">  370</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<a class="code hl_function" href="../../de/d59/a08702.html#a996724d21d62e478f50031faa7637cd5">IsInGrid</a>());</div>
+<div class="line"><span class="lineno">  370</span>        <a class="code hl_define" href="../../d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(!<a class="code hl_function" href="../../de/d59/a08702.html#a996724d21d62e478f50031faa7637cd5">IsInGrid</a>());</div>
 <div class="line"><span class="lineno">  371</span>        <a class="code hl_variable" href="../../de/d59/a08702.html#aa44ba47734267ac07b733f218623f3c5">_gridRef</a>.<a class="code hl_function" href="../../d7/d55/a05514.html#a6c7a8395a8f77e33772959f068296aaf">link</a>(&amp;m, (T*)<span class="keyword">this</span>);</div>
 <div class="line"><span class="lineno">  372</span>    }</div>
-<div class="ttc" id="aa04598_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00521_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa05514_html_a6c7a8395a8f77e33772959f068296aaf"><div class="ttname"><a href="../../d7/d55/a05514.html#a6c7a8395a8f77e33772959f068296aaf">Reference::link</a></div><div class="ttdeci">void link(TO *toObj, FROM *fromObj)</div><div class="ttdef"><b>Definition:</b> Reference.h:45</div></div>
 <div class="ttc" id="aa08702_html_a996724d21d62e478f50031faa7637cd5"><div class="ttname"><a href="../../de/d59/a08702.html#a996724d21d62e478f50031faa7637cd5">GridObject::IsInGrid</a></div><div class="ttdeci">bool IsInGrid() const</div><div class="ttdef"><b>Definition:</b> Object.h:364</div></div>
 <div class="ttc" id="aa08702_html_aa44ba47734267ac07b733f218623f3c5"><div class="ttname"><a href="../../de/d59/a08702.html#aa44ba47734267ac07b733f218623f3c5">GridObject::_gridRef</a></div><div class="ttdeci">GridReference&lt; T &gt; _gridRef</div><div class="ttdef"><b>Definition:</b> Object.h:379</div></div>
@@ -200,7 +200,7 @@ template&lt;class T &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00379">GridObject&lt; T &gt;::_gridRef</a>, and <a class="el" href="../../#l00079">Reference&lt; TO, FROM &gt;::isValid()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00368">GridObject&lt; T &gt;::AddToGrid()</a>, <a class="el" href="../../#l02972">Map::RemoveCorpse()</a>, <a class="el" href="../../#l00373">GridObject&lt; T &gt;::RemoveFromGrid()</a>, and <a class="el" href="../../#l00711">Map::RemovePlayerFromMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00368">GridObject&lt; T &gt;::AddToGrid()</a>, <a class="el" href="../../#l02982">Map::RemoveCorpse()</a>, <a class="el" href="../../#l00373">GridObject&lt; T &gt;::RemoveFromGrid()</a>, and <a class="el" href="../../#l00711">Map::RemovePlayerFromMap()</a>.</p>
 
 </div>
 </div>
@@ -229,7 +229,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  374</span>    {</div>
-<div class="line"><span class="lineno">  375</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_function" href="../../de/d59/a08702.html#a996724d21d62e478f50031faa7637cd5">IsInGrid</a>());</div>
+<div class="line"><span class="lineno">  375</span>        <a class="code hl_define" href="../../d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_function" href="../../de/d59/a08702.html#a996724d21d62e478f50031faa7637cd5">IsInGrid</a>());</div>
 <div class="line"><span class="lineno">  376</span>        <a class="code hl_variable" href="../../de/d59/a08702.html#aa44ba47734267ac07b733f218623f3c5">_gridRef</a>.<a class="code hl_function" href="../../d7/d55/a05514.html#a0d526083a41a1297b65cc0883cdac514">unlink</a>();</div>
 <div class="line"><span class="lineno">  377</span>    }</div>
 <div class="ttc" id="aa05514_html_a0d526083a41a1297b65cc0883cdac514"><div class="ttname"><a href="../../d7/d55/a05514.html#a0d526083a41a1297b65cc0883cdac514">Reference::unlink</a></div><div class="ttdeci">void unlink()</div><div class="ttdef"><b>Definition:</b> Reference.h:62</div></div>
@@ -273,7 +273,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d59/a08702.html">GridObject</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:51:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

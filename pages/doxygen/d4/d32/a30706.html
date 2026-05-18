@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Time/GameTime.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/apps/worldserver/Main.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,63 +105,114 @@ $(document).ready(function(){initNavTree('d4/d32/a30706.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">GameTime.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">Main.cpp File Reference<div class="ingroups"><a class="el" href="../../da/d7c/a05021.html">Acore Daemon</a></div></div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ACSoap.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AppenderDB.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AsyncAcceptor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Banner.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CliRunnable.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;Config.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DatabaseLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GitRevision.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IoContext.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ModuleMgr.h</a>&quot;</code><br />
+<code>#include &quot;ModulesScriptLoader.h&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MySQLThreading.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">OpenSSLCrypto.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcessPriority.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RASession.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RealmList.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Resolver.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptLoader.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SecretMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SteadyTimer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Systemd.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSessionMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldSocketMgr.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/signal_set.hpp&gt;</code><br />
+<code>#include &lt;boost/program_options.hpp&gt;</code><br />
+<code>#include &lt;csignal&gt;</code><br />
+<code>#include &lt;filesystem&gt;</code><br />
+<code>#include &lt;iostream&gt;</code><br />
+<code>#include &lt;openssl/crypto.h&gt;</code><br />
+<code>#include &lt;openssl/opensslv.h&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">ServiceWin32.h</a>&quot;</code><br />
+<code>#include &lt;boost/dll/shared_library.hpp&gt;</code><br />
+<code>#include &lt;timeapi.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:da/d41/a05107"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html">GameTime</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dd6/a05962.html">FreezeDetector</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga1d466b8deaea4c5b80b4abcdc38991fd">_ACORE_CORE_CONFIG</a>&#160;&#160;&#160;&quot;worldserver.conf&quot;</td></tr>
+<tr class="separator:ga1d466b8deaea4c5b80b4abcdc38991fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a872d34d3f9d420cfc749073c809931f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a872d34d3f9d420cfc749073c809931f9">GameTime::GetStartTime</a> ()</td></tr>
-<tr class="separator:a872d34d3f9d420cfc749073c809931f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a> ()</td></tr>
-<tr class="separator:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a6d0d49f37e25e497391157b2a2ec90c1">GameTime::GetGameTimeMS</a> ()</td></tr>
-<tr class="separator:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a443eccf314fe436192278d425d6d8220"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a443eccf314fe436192278d425d6d8220">GameTime::GetSystemTime</a> ()</td></tr>
-<tr class="memdesc:a443eccf314fe436192278d425d6d8220"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono system_clock time point.  <a href="../../da/d41/a05107.html#a443eccf314fe436192278d425d6d8220">More...</a><br /></td></tr>
-<tr class="separator:a443eccf314fe436192278d425d6d8220"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">GameTime::Now</a> ()</td></tr>
-<tr class="memdesc:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono steady_clock time point.  <a href="../../da/d41/a05107.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">More...</a><br /></td></tr>
-<tr class="separator:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">GameTime::GetUptime</a> ()</td></tr>
-<tr class="memdesc:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Uptime.  <a href="../../da/d41/a05107.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">More...</a><br /></td></tr>
-<tr class="separator:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45712735241c9563a12fc3da54fb144d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a45712735241c9563a12fc3da54fb144d">GameTime::UpdateGameTimers</a> ()</td></tr>
-<tr class="memdesc:a45712735241c9563a12fc3da54fb144d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update all timers.  <a href="../../da/d41/a05107.html#a45712735241c9563a12fc3da54fb144d">More...</a><br /></td></tr>
-<tr class="separator:a45712735241c9563a12fc3da54fb144d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gad82d96de9a84a7d0325afcd3121344a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#gad82d96de9a84a7d0325afcd3121344a4">SignalHandler</a> (boost::system::error_code const &amp;error, int signalNumber)</td></tr>
+<tr class="separator:gad82d96de9a84a7d0325afcd3121344a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga285010ee0ae83f9198f08fa3145877d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga285010ee0ae83f9198f08fa3145877d7">ClearOnlineAccounts</a> ()</td></tr>
+<tr class="memdesc:ga285010ee0ae83f9198f08fa3145877d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear 'online' status for all accounts with characters in this realm.  <a href="../../da/d7c/a05021.html#ga285010ee0ae83f9198f08fa3145877d7">More...</a><br /></td></tr>
+<tr class="separator:ga285010ee0ae83f9198f08fa3145877d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga1551df43a48f1dbf64dbec1e47b07eea">StartDB</a> ()</td></tr>
+<tr class="memdesc:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize connection to the databases.  <a href="../../da/d7c/a05021.html#ga1551df43a48f1dbf64dbec1e47b07eea">More...</a><br /></td></tr>
+<tr class="separator:ga1551df43a48f1dbf64dbec1e47b07eea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga927af1587546ee7503a3b9a18f6439c0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga927af1587546ee7503a3b9a18f6439c0">StopDB</a> ()</td></tr>
+<tr class="separator:ga927af1587546ee7503a3b9a18f6439c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga74b21e249952fe0d6d779ee217c76dc5">LoadRealmInfo</a> (<a class="el" href="../../dd/d48/a05150.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
+<tr class="separator:ga74b21e249952fe0d6d779ee217c76dc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga0781c2ca38d89a89b174f81fb895285b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/da2/a29062.html">AsyncAcceptor</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga0781c2ca38d89a89b174f81fb895285b">StartRaSocketAcceptor</a> (<a class="el" href="../../dd/d48/a05150.html">Acore::Asio::IoContext</a> &amp;ioContext)</td></tr>
+<tr class="separator:ga0781c2ca38d89a89b174f81fb895285b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#gaafe46b3c9a56a31faa60963b6a1f202a">ShutdownCLIThread</a> (std::thread *cliThread)</td></tr>
+<tr class="separator:gaafe46b3c9a56a31faa60963b6a1f202a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga62605923595bdfa644784c8a929fa1a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga62605923595bdfa644784c8a929fa1a7">WorldUpdateLoop</a> ()</td></tr>
+<tr class="separator:ga62605923595bdfa644784c8a929fa1a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gab889056920cce8fbe96e920cea5fd9e6"><td class="memItemLeft" align="right" valign="top">variables_map&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#gab889056920cce8fbe96e920cea5fd9e6">GetConsoleArguments</a> (int argc, char **argv, fs::path &amp;configFile, std::string &amp;cfg_service)</td></tr>
+<tr class="separator:gab889056920cce8fbe96e920cea5fd9e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
+<tr class="memdesc:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="mdescLeft">&#160;</td><td class="mdescRight">Launch the Azeroth server.  <a href="../../da/d7c/a05021.html#ga3c04138a5bfe5d72780bb7e82a18e627">More...</a><br /></td></tr>
+<tr class="separator:ga3c04138a5bfe5d72780bb7e82a18e627"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a78088a0637670a1ab5125a1388f7ca52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a78088a0637670a1ab5125a1388f7ca52">GameTime::StartTime</a> = <a class="el" href="../../d4/dcf/a04781.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td></tr>
-<tr class="separator:a78088a0637670a1ab5125a1388f7ca52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a28ffdb4bb387919d2dd70a51080ce0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a9a28ffdb4bb387919d2dd70a51080ce0">GameTime::GameTime</a> = <a class="el" href="../../d4/dcf/a04781.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td></tr>
-<tr class="separator:a9a28ffdb4bb387919d2dd70a51080ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5fc2a056410eeac2e2717f91cb8295c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#ad5fc2a056410eeac2e2717f91cb8295c">GameTime::GameMSTime</a> = 0ms</td></tr>
-<tr class="separator:ad5fc2a056410eeac2e2717f91cb8295c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa393fef2187ebdd6aa34379b0f1504d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#aa393fef2187ebdd6aa34379b0f1504d7">GameTime::GameTimeSystemPoint</a> = SystemTimePoint::min()</td></tr>
-<tr class="separator:aa393fef2187ebdd6aa34379b0f1504d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a874057035d37aa57afc5064acffba119"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dcc/a04712.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d41/a05107.html#a874057035d37aa57afc5064acffba119">GameTime::GameTimeSteadyPoint</a> = TimePoint::min()</td></tr>
-<tr class="separator:a874057035d37aa57afc5064acffba119"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga69c549a4f4a1e88fa4a2c38cde62f569">serviceName</a> [] = &quot;worldserver&quot;</td></tr>
+<tr class="separator:ga69c549a4f4a1e88fa4a2c38cde62f569"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga34b5207234887e0d62724cf770037f6f"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga34b5207234887e0d62724cf770037f6f">serviceLongName</a> [] = &quot;AzerothCore world service&quot;</td></tr>
+<tr class="separator:ga34b5207234887e0d62724cf770037f6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#ga2994dda4045f1e2d3d675565a16a4dd2">serviceDescription</a> [] = &quot;AzerothCore <a class="el" href="../../d1/de7/a12130.html">World</a> of Warcraft emulator world service&quot;</td></tr>
+<tr class="separator:ga2994dda4045f1e2d3d675565a16a4dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gabad888b856358b30aa3928d7e01916fb"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d7c/a05021.html#gabad888b856358b30aa3928d7e01916fb">m_ServiceStatus</a> = -1</td></tr>
+<tr class="separator:gabad888b856358b30aa3928d7e01916fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7c8cab10b3149c3fa669be6ae86b4819.html">Time</a></li><li class="navelem"><a class="el" href="../../d4/d32/a30706.html">GameTime.cpp</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c8498b4bff487486cc5ffdac4c412cf7.html">apps</a></li><li class="navelem"><a class="el" href="../../dir_4a0dc471e712914507a0672b672729a4.html">worldserver</a></li><li class="navelem"><a class="el" href="../../d4/d32/a30706.html">Main.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

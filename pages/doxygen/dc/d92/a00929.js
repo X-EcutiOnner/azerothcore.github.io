@@ -1,5 +1,4 @@
 var a00929 =
 [
-    [ "ArenaScore", "d1/dd6/a07534.html", "d1/dd6/a07534" ],
-    [ "ArenaTeamScore", "d3/ddf/a07538.html", "d3/ddf/a07538" ]
+    [ "GetMinPlayersPerTeam", "dc/d92/a00929.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

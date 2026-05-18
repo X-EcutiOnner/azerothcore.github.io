@@ -1,9 +1,9 @@
 var a01436 =
 [
-    [ "DynamicObject", "dd/da3/a08458.html", "dd/da3/a08458" ],
-    [ "DynamicObjectType", "dc/d85/a01436.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "dc/d85/a01436.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "dc/d85/a01436.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "dc/d85/a01436.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "FlyByCameraCollection", "dc/d85/a01436.html#a058e5fb250bd785cecc9a6913132dfe4", null ],
+    [ "GetFlyByCameras", "dc/d85/a01436.html#af4a9ba9da1a2f4075cc36b95cce62f6f", null ],
+    [ "LoadM2Cameras", "dc/d85/a01436.html#a036ca5e535b8e25b87a67c20c2ad2d4c", null ],
+    [ "readCamera", "dc/d85/a01436.html#ad7c17022a3ffed42c9d4995f5f6bb7ac", null ],
+    [ "TranslateLocation", "dc/d85/a01436.html#a5274eb8fcc7646fe4fc3ea77ab6de2d9", null ],
+    [ "sFlyByCameraStore", "dc/d85/a01436.html#a4acfeb7e23e1d3a74b66a1c54084e7bc", null ]
 ];

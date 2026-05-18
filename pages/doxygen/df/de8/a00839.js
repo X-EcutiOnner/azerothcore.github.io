@@ -1,10 +1,5 @@
 var a00839 =
 [
-    [ "QEmote", "dc/dfb/a09918.html", "dc/dfb/a09918" ],
-    [ "GossipTextOption", "d9/d45/a09922.html", "d9/d45/a09922" ],
-    [ "GossipText", "db/d15/a09926.html", "db/d15/a09926" ],
-    [ "PageTextLocale", "d3/d6f/a09930.html", "d3/d6f/a09930" ],
-    [ "NpcTextLocale", "d9/d8b/a09934.html", "d9/d8b/a09934" ],
-    [ "MAX_GOSSIP_TEXT_EMOTES", "df/de8/a00839.html#a705783094711e028814c1c59a16c2c4f", null ],
-    [ "MAX_GOSSIP_TEXT_OPTIONS", "df/de8/a00839.html#a114c9636000e930cd1dc1ef7e444814f", null ]
+    [ "BGSpamProtect", "d5/d4d/a07654.html", "d5/d4d/a07654" ],
+    [ "sBGSpam", "df/de8/a00839.html#ae37d7994736d43484a627d5de2af5fc1", null ]
 ];

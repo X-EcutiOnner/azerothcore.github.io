@@ -1,5 +1,9 @@
 var a00404 =
 [
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Data", "d9/de6/a00404.html#a650e9d2ed03f4896b697097e2116298e", null ],
-    [ "Module_0DBBF209A27B1E279A9FEC5C168A15F7_Key", "d9/de6/a00404.html#aba4af9417ad91ebf078cf0ff83ecf503", null ]
+    [ "localtime_r", "d9/de6/a00404.html#a17fdb8f2104b98bad5d9fb343d0a043a", null ],
+    [ "DAYS", "d9/de6/a00404.html#ac9bde42940b2570f3865385200b56af8", null ],
+    [ "HOURS", "d9/de6/a00404.html#a18161a3aeba136aeffb54a07f08f08f6", null ],
+    [ "MILLISECONDS", "d9/de6/a00404.html#a2624e61008f0e89d91c7c55161f9bcd8", null ],
+    [ "MINUTES", "d9/de6/a00404.html#abbd89694b6a3e24a701ce6971b2cd37d", null ],
+    [ "SECONDS", "d9/de6/a00404.html#a5fb1c8d14d370751c6202fc87b27bf96", null ]
 ];

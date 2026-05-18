@@ -1,125 +1,118 @@
 var a00968 =
 [
-    [ "BattlegroundWGScore", "d8/d38/a07741.html", "d8/d38/a07741" ],
-    [ "BattlegroundWS", "d4/d84/a07745.html", "d4/d84/a07745" ],
-    [ "BG_WS_BroadcastTexts", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437e", [
-      [ "BG_WS_TEXT_START_ONE_MINUTE", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ead7db7cd7c39b7d45b4fde846f6ce35ab", null ],
-      [ "BG_WS_TEXT_START_HALF_MINUTE", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea143eab6f072004d7ef36368cb8c5a6a3", null ],
-      [ "BG_WS_TEXT_BATTLE_HAS_BEGUN", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea77ad95d4c0d7d63c715ae047e8ee5eb5", null ],
-      [ "BG_WS_TEXT_CAPTURED_HORDE_FLAG", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea59a76ae693811bbdab4546b3fc0ef127", null ],
-      [ "BG_WS_TEXT_CAPTURED_ALLIANCE_FLAG", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea7c745804a8ebe1e31fce50cac86e9e6a", null ],
-      [ "BG_WS_TEXT_FLAGS_PLACED", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437eaf835536dab77f927f8b0813d4dc8609a", null ],
-      [ "BG_WS_TEXT_ALLIANCE_FLAG_PICKED_UP", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea5991d30e9de154a6093c3f21dc2bc44b", null ],
-      [ "BG_WS_TEXT_ALLIANCE_FLAG_DROPPED", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea4f5b487f8295f37e178068745a94bda6", null ],
-      [ "BG_WS_TEXT_HORDE_FLAG_PICKED_UP", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea36af47cda77304e638481f35504abea3", null ],
-      [ "BG_WS_TEXT_HORDE_FLAG_DROPPED", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea9051cae14ae8f58f9de645c87a45e01c", null ],
-      [ "BG_WS_TEXT_ALLIANCE_FLAG_RETURNED", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437ea51f1a9dded781ca1a5242035967c4564", null ],
-      [ "BG_WS_TEXT_HORDE_FLAG_RETURNED", "d7/dd4/a00968.html#a7c9154e6ca4e1207a973b539247c437eae9561cf1891c2ddbc53f79f43240adf7", null ]
+    [ "lfg::RBEntryInfo", "d6/dc8/a08226.html", "d6/dc8/a08226" ],
+    [ "lfg::RBInternalInfo", "d3/d07/a08230.html", "d3/d07/a08230" ],
+    [ "lfg::LfgJoinResultData", "d5/da9/a08234.html", "d5/da9/a08234" ],
+    [ "lfg::LfgUpdateData", "de/d8b/a08238.html", "de/d8b/a08238" ],
+    [ "lfg::LfgQueueStatusData", "d4/dfb/a08242.html", "d4/dfb/a08242" ],
+    [ "lfg::LfgPlayerRewardData", "d3/d99/a08246.html", "d3/d99/a08246" ],
+    [ "lfg::LfgReward", "de/d0d/a08250.html", "de/d0d/a08250" ],
+    [ "lfg::LfgProposalPlayer", "d0/d0b/a08254.html", "d0/d0b/a08254" ],
+    [ "lfg::LfgProposal", "d5/df4/a08258.html", "d5/df4/a08258" ],
+    [ "lfg::LfgRoleCheck", "dd/d7d/a08262.html", "dd/d7d/a08262" ],
+    [ "lfg::LfgPlayerBoot", "d4/df2/a08266.html", "d4/df2/a08266" ],
+    [ "lfg::LFGDungeonData", "dd/d4b/a08270.html", "dd/d4b/a08270" ],
+    [ "lfg::LFGMgr", "d8/d43/a08274.html", "d8/d43/a08274" ],
+    [ "sLFGMgr", "d7/dd4/a00968.html#a9876016115774ddaf27fca5cc9adb96e", null ],
+    [ "LfgAnswerContainer", "d7/dd4/a00968.html#a24a94f53e8d64ec14618126aff5fb965", null ],
+    [ "LfgCachedDungeonContainer", "d7/dd4/a00968.html#a4b4f05b0e6e1405dd9e8f44ed1da0382", null ],
+    [ "LFGDungeonContainer", "d7/dd4/a00968.html#a20632643454bb292a5d524a3d230dbe0", null ],
+    [ "LfgGroupDataContainer", "d7/dd4/a00968.html#a1191f332347cf635992fa819f9b4c0f4", null ],
+    [ "LfgPlayerBootContainer", "d7/dd4/a00968.html#a8b7ffe5b0af9c677b84adf100fa5cd2e", null ],
+    [ "LfgPlayerDataContainer", "d7/dd4/a00968.html#a359159fc18660e1597cc4a90255412f1", null ],
+    [ "LfgProposalContainer", "d7/dd4/a00968.html#acbfe9a85dee28a22715e30710463368f", null ],
+    [ "LfgProposalPlayerContainer", "d7/dd4/a00968.html#afd0c41953ace620938ac2509b7622b7e", null ],
+    [ "LfgQueueContainer", "d7/dd4/a00968.html#a65f1d8636d10579769f79b63216ff29d", null ],
+    [ "LfgRewardContainer", "d7/dd4/a00968.html#adac5e1437b49269ef8924ba9881272d5", null ],
+    [ "LfgRewardContainerBounds", "d7/dd4/a00968.html#abcc3483295387dfccf618b74e0b2baba", null ],
+    [ "LfgRoleCheckContainer", "d7/dd4/a00968.html#acee938e89db441d919dd9fbebcb7e175", null ],
+    [ "LfgFlags", "d7/dd4/a00968.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4", [
+      [ "LFG_FLAG_UNK1", "d7/dd4/a00968.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af72ca5749d5566cfce7b6c5395bf7577", null ],
+      [ "LFG_FLAG_UNK2", "d7/dd4/a00968.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4af3939b4b2dd69f67d1e30b61c8d80955", null ],
+      [ "LFG_FLAG_SEASONAL", "d7/dd4/a00968.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a2da0374b926d52fc4a54f885012b3d29", null ],
+      [ "LFG_FLAG_UNK3", "d7/dd4/a00968.html#aa6749e4a75f3be4d8fd23bcbfcaf9fa4a7562dd100ff7354498faee335023753d", null ]
     ] ],
-    [ "BG_WS_CreatureTypes", "d7/dd4/a00968.html#a559917f94b9cc817260b06ee0137bfc7", [
-      [ "WS_SPIRIT_MAIN_ALLIANCE", "d7/dd4/a00968.html#a559917f94b9cc817260b06ee0137bfc7ab6099a4d7aa46ad9f6db1f0bfd2efc42", null ],
-      [ "WS_SPIRIT_MAIN_HORDE", "d7/dd4/a00968.html#a559917f94b9cc817260b06ee0137bfc7a924867f3bf3b25b589b6df70fc89fceb", null ],
-      [ "BG_CREATURES_MAX_WS", "d7/dd4/a00968.html#a559917f94b9cc817260b06ee0137bfc7a3562e2aed8f61f03a2b993a415bc9cea", null ]
+    [ "LfgJoinResult", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eb", [
+      [ "LFG_JOIN_OK", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16", null ],
+      [ "LFG_JOIN_FAILED", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebaf8385ff3f88183a18aaefc2e5a0b8fd9", null ],
+      [ "LFG_JOIN_GROUPFULL", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebab2e4b80c854ffcde7bb85704e00c2277", null ],
+      [ "LFG_JOIN_INTERNAL_ERROR", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba6d61fbf691ca43c0714dc025384aa004", null ],
+      [ "LFG_JOIN_NOT_MEET_REQS", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebafb6393cedafe796373d7393975818abd", null ],
+      [ "LFG_JOIN_PARTY_NOT_MEET_REQS", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba820334a9820da285d1e46da7a8d7b37e", null ],
+      [ "LFG_JOIN_MIXED_RAID_DUNGEON", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba6fd4392782aaed9557356f1648e47ef8", null ],
+      [ "LFG_JOIN_MULTI_REALM", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba3482293b8477a597f275434ed8a1954f", null ],
+      [ "LFG_JOIN_DISCONNECTED", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba3f5055f96dcf8c7ff3868eb00576ac04", null ],
+      [ "LFG_JOIN_PARTY_INFO_FAILED", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebac23d41aa09ce5a4a03773878cd6944ba", null ],
+      [ "LFG_JOIN_DUNGEON_INVALID", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba5b791ae92e1905f16fbaaa41cc9d8ffd", null ],
+      [ "LFG_JOIN_DESERTER", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba8e634ce1df5dbacebbad5ae4761ed0df", null ],
+      [ "LFG_JOIN_PARTY_DESERTER", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebaeb66070b0c75cd964de435f081d09d92", null ],
+      [ "LFG_JOIN_RANDOM_COOLDOWN", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba919251996a338f39e8b8995f87fec708", null ],
+      [ "LFG_JOIN_PARTY_RANDOM_COOLDOWN", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18ebace9b51caf6cdf6bac5c3e05cf4b36128", null ],
+      [ "LFG_JOIN_TOO_MUCH_MEMBERS", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba016eadb9dc423a41bab04bf6dd09b12d", null ],
+      [ "LFG_JOIN_USING_BG_SYSTEM", "d7/dd4/a00968.html#af65dbea5eebf3cd1cd16595508fd18eba6d0c107f099ffa1c5210ed1a7568e776", null ]
     ] ],
-    [ "BG_WS_Events", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599c", [
-      [ "BG_WS_EVENT_UPDATE_GAME_TIME", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599cab48e71386d01f6fd1d4d4372c631c2a4", null ],
-      [ "BG_WS_EVENT_NO_TIME_LEFT", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599caffaff5a3f1ac530038e8a7ef9517b42c", null ],
-      [ "BG_WS_EVENT_RESPAWN_BOTH_FLAGS", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599ca81d50edb05943545e5942a4eac34e7fc", null ],
-      [ "BG_WS_EVENT_ALLIANCE_DROP_FLAG", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599ca023378674ff061d5ab6bf4d083fce61d", null ],
-      [ "BG_WS_EVENT_HORDE_DROP_FLAG", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599cac67a03f933461192c6993405bad36c5c", null ],
-      [ "BG_WS_EVENT_BOTH_FLAGS_KEPT10", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599ca9ccd3db9cbab2c3e0ec02e8a6c78f401", null ],
-      [ "BG_WS_EVENT_BOTH_FLAGS_KEPT15", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599ca2ff5a57dbd3f5e4bc90c35c48d7b45b2", null ],
-      [ "BG_WS_EVENT_DESPAWN_DOORS", "d7/dd4/a00968.html#a6145482dfe4a795cbed7af3313c3599cae0a26e7dd63feb2ead3557c0d8a7df97", null ]
+    [ "LFGMgrEnum", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7c", [
+      [ "LFG_TIME_ROLECHECK", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7ca9515ecdf2873ba8695755161ba20588e", null ],
+      [ "LFG_TIME_BOOT", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7ca5c2d973e50a206ed3db55622d9697c0b", null ],
+      [ "LFG_TIME_PROPOSAL", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7ca7c25463752da16999540b959230d1905", null ],
+      [ "LFG_QUEUEUPDATE_INTERVAL", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7cac951b3dea36df017f7463d58209b14f2", null ],
+      [ "LFG_SPELL_DUNGEON_COOLDOWN", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7ca3ae4cb3e189406d52dcacbb4f110b158", null ],
+      [ "LFG_SPELL_DUNGEON_DESERTER", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7cad66eeedac753103a97f53bb7e31ac898", null ],
+      [ "LFG_SPELL_LUCK_OF_THE_DRAW", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7cac7c7863ffdcf026bc67a11fb0fdddd22", null ],
+      [ "LFG_GROUP_KICK_VOTES_NEEDED", "d7/dd4/a00968.html#a2b5cf5a4940992366122159776b67c7ca87c8d7f48e3aefe68a3f779d7abb0d25", null ]
     ] ],
-    [ "BG_WS_FlagState", "d7/dd4/a00968.html#a15d72f3f072bc0cabaf5f1bef80b64e0", [
-      [ "BG_WS_FLAG_STATE_ON_BASE", "d7/dd4/a00968.html#a15d72f3f072bc0cabaf5f1bef80b64e0afa30eb723a0561b597261f3fd8a12ade", null ],
-      [ "BG_WS_FLAG_STATE_ON_PLAYER", "d7/dd4/a00968.html#a15d72f3f072bc0cabaf5f1bef80b64e0a894046e91503d915c4d7f722ed988e6a", null ],
-      [ "BG_WS_FLAG_STATE_ON_GROUND", "d7/dd4/a00968.html#a15d72f3f072bc0cabaf5f1bef80b64e0a02eaf89f2607dfe9d7b222d7a142642d", null ]
+    [ "LfgOptions", "d7/dd4/a00968.html#a07e4718e8cf678327c72b7deb48ccdb4", [
+      [ "LFG_OPTION_ENABLE_DUNGEON_FINDER", "d7/dd4/a00968.html#a07e4718e8cf678327c72b7deb48ccdb4a60b973ec0c197664894bba68e8d86c76", null ],
+      [ "LFG_OPTION_ENABLE_RAID_BROWSER", "d7/dd4/a00968.html#a07e4718e8cf678327c72b7deb48ccdb4ac6454c0e227f8e7d4f50c87341117668", null ],
+      [ "LFG_OPTION_ENABLE_SEASONAL_BOSSES", "d7/dd4/a00968.html#a07e4718e8cf678327c72b7deb48ccdb4a3d8245a21e83ed011bc8c88f087cb913", null ]
     ] ],
-    [ "BG_WS_Graveyards", "d7/dd4/a00968.html#afb194929fa7fa28ba1362df96d98f48c", [
-      [ "WS_GRAVEYARD_FLAGROOM_ALLIANCE", "d7/dd4/a00968.html#afb194929fa7fa28ba1362df96d98f48ca0393e94e3ca8bdb8f88c188ae4651300", null ],
-      [ "WS_GRAVEYARD_FLAGROOM_HORDE", "d7/dd4/a00968.html#afb194929fa7fa28ba1362df96d98f48ca40a02f455e9bb74cef1f2955d86d2f7a", null ],
-      [ "WS_GRAVEYARD_MAIN_ALLIANCE", "d7/dd4/a00968.html#afb194929fa7fa28ba1362df96d98f48ca2f36e1a66bfe840de8d0b2c4f24c122d", null ],
-      [ "WS_GRAVEYARD_MAIN_HORDE", "d7/dd4/a00968.html#afb194929fa7fa28ba1362df96d98f48caabc7b651d7611a592759d4c5bd37cdfe", null ]
+    [ "LfgProposalState", "d7/dd4/a00968.html#af30d79c79d17992d26601ceaafebac05", [
+      [ "LFG_PROPOSAL_INITIATING", "d7/dd4/a00968.html#af30d79c79d17992d26601ceaafebac05a991922b84548fc07827716fdc7ea89ce", null ],
+      [ "LFG_PROPOSAL_FAILED", "d7/dd4/a00968.html#af30d79c79d17992d26601ceaafebac05a40ecf8de384f323cb057559459e91051", null ],
+      [ "LFG_PROPOSAL_SUCCESS", "d7/dd4/a00968.html#af30d79c79d17992d26601ceaafebac05a1eea01267c61b1858f0f2ab7bf69d119", null ]
     ] ],
-    [ "BG_WS_ObjectEntry", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86", [
-      [ "BG_OBJECT_DOOR_A_1_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a46e8b3d9040dbc0fc30b2e202e7ec353", null ],
-      [ "BG_OBJECT_DOOR_A_2_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86ac18d753a8273ee2e7491ed505496187c", null ],
-      [ "BG_OBJECT_DOOR_A_3_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a658f7dfd42849cb06cd0f19db120807b", null ],
-      [ "BG_OBJECT_DOOR_A_4_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a39f5924857062954a5b8aebf064b31a4", null ],
-      [ "BG_OBJECT_DOOR_A_5_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86ad5f2e0d93cca63d1851913e2f2106084", null ],
-      [ "BG_OBJECT_DOOR_A_6_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a7232e833cd7e3e2df3f1c89fcea4a199", null ],
-      [ "BG_OBJECT_DOOR_H_1_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86abf9f3b772d033ef1a76e81c4cc1ae060", null ],
-      [ "BG_OBJECT_DOOR_H_2_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a9aee3a2ada30bce2253551c4d6ef89a2", null ],
-      [ "BG_OBJECT_DOOR_H_3_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86ad67a39572196019af2aa979a9c5929e2", null ],
-      [ "BG_OBJECT_DOOR_H_4_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86aadfb0d680a0b67a28ad8414e7b9db43e", null ],
-      [ "BG_OBJECT_A_FLAG_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86ad8e1321f07d95c44c6485983e9bad69d", null ],
-      [ "BG_OBJECT_H_FLAG_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86af6a0024c110d5588d483c36f0e1b4f8c", null ],
-      [ "BG_OBJECT_A_FLAG_GROUND_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86aa0d8344a5d215c72b13515d0df96d360", null ],
-      [ "BG_OBJECT_H_FLAG_GROUND_WS_ENTRY", "d7/dd4/a00968.html#a9bad07d2619ccf292c169deab76e5e86a36c0ec2d028cd2ba5f484e5a9e5ebb14", null ]
+    [ "LfgRoleCheckState", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342ed", [
+      [ "LFG_ROLECHECK_DEFAULT", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658", null ],
+      [ "LFG_ROLECHECK_FINISHED", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342eda84e5c0e1526627ffd6faf84b4d6d3494", null ],
+      [ "LFG_ROLECHECK_INITIALITING", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342edaf94f67af1fc92b831b5a570ec61b47d1", null ],
+      [ "LFG_ROLECHECK_MISSING_ROLE", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342eda37a1afe09ab466e0059387b973d74af5", null ],
+      [ "LFG_ROLECHECK_WRONG_ROLES", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342eda290ab83562c09ca79cc5b6f24b184ac0", null ],
+      [ "LFG_ROLECHECK_ABORTED", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342eda4996fcd543a1db3f631416f632343fd6", null ],
+      [ "LFG_ROLECHECK_NO_ROLE", "d7/dd4/a00968.html#a9596c400ddbfa4a0eadda14c0be342edae033408ddbceae5d641f4eb755d897e8", null ]
     ] ],
-    [ "BG_WS_Objectives", "d7/dd4/a00968.html#a6d8cea6a81013f7c893b4dfc018882f3", [
-      [ "WS_OBJECTIVE_CAPTURE_FLAG", "d7/dd4/a00968.html#a6d8cea6a81013f7c893b4dfc018882f3ab9257434c616a0cc0436327e52aef48b", null ],
-      [ "WS_OBJECTIVE_RETURN_FLAG", "d7/dd4/a00968.html#a6d8cea6a81013f7c893b4dfc018882f3a6b4943d0cae9e621788fc327c3089ce9", null ],
-      [ "WS_EVENT_START_BATTLE", "d7/dd4/a00968.html#a6d8cea6a81013f7c893b4dfc018882f3a0c41277a6bfc0399862a1375dd348add", null ]
+    [ "LfgSeasonalDungeons", "d7/dd4/a00968.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06d", [
+      [ "LFG_DUNGEON_HEADLESS_HORSEMAN", "d7/dd4/a00968.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da3b710e1f7409dcce1369d24da8d0e27c", null ],
+      [ "LFG_DUNGEON_FROST_LORD_AHUNE", "d7/dd4/a00968.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da21ef8b8ff914dd66684e5cc85ca86f0e", null ],
+      [ "LFG_DUNGEON_COREN_DIREBREW", "d7/dd4/a00968.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da94d2d4aff127ae9692ba0f7688bc8243", null ],
+      [ "LFG_DUNGEON_CROWN_CHEMICAL_CO", "d7/dd4/a00968.html#a7a9bf5071b96b3fc85b1c3c7a4d6a06da6007d32ac1027fdc23c0db35632b3b9d", null ]
     ] ],
-    [ "BG_WS_ObjectTypes", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0a", [
-      [ "BG_WS_OBJECT_DOOR_A_1", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa647f2b00ead73ecf376a16dce961acc2", null ],
-      [ "BG_WS_OBJECT_DOOR_A_2", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa74dd4c96aba9b7c7dc7f5ceeeec6dab4", null ],
-      [ "BG_WS_OBJECT_DOOR_A_3", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aad1c8b1dbff96860bbb739fd1f72ac849", null ],
-      [ "BG_WS_OBJECT_DOOR_A_4", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa20e5c7d62fecbec10fcfdda765f8b32f", null ],
-      [ "BG_WS_OBJECT_DOOR_A_5", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa20e28848fc9cbaa023235874af30b220", null ],
-      [ "BG_WS_OBJECT_DOOR_A_6", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aac1111d5be83298a8484f5f7c3a3792bb", null ],
-      [ "BG_WS_OBJECT_DOOR_H_1", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa346507dbf347665a961cde5ca840d4e4", null ],
-      [ "BG_WS_OBJECT_DOOR_H_2", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aaaefc2aac0eb75ac2f5150fc524860066", null ],
-      [ "BG_WS_OBJECT_DOOR_H_3", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa1c3058ae3c3b8261f64c349ccbffe844", null ],
-      [ "BG_WS_OBJECT_DOOR_H_4", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa908ff1e05de104cee49c6e6e0ca6e82f", null ],
-      [ "BG_WS_OBJECT_A_FLAG", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa1bffb213e51280963ab67dd8126dc1de", null ],
-      [ "BG_WS_OBJECT_H_FLAG", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa776d0686c8e83d704d0b1ef08d11c16c", null ],
-      [ "BG_WS_OBJECT_SPEEDBUFF_1", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa8d977924b5ee1b173ce4b8c6d3c4a8c9", null ],
-      [ "BG_WS_OBJECT_SPEEDBUFF_2", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aace33b571daeb36050d0bcacbe2f0135a", null ],
-      [ "BG_WS_OBJECT_REGENBUFF_1", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aac6cc1155e19bc7ca6e70231e21caf011", null ],
-      [ "BG_WS_OBJECT_REGENBUFF_2", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa3735ef2d50f496447691acf3720f3ffd", null ],
-      [ "BG_WS_OBJECT_BERSERKBUFF_1", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa2c82069928025a6fe976022f7af536a8", null ],
-      [ "BG_WS_OBJECT_BERSERKBUFF_2", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aade5a2c8385638165501d495eacd74843", null ],
-      [ "BG_WS_OBJECT_MAX", "d7/dd4/a00968.html#a29059eb2d46fa5c2398a2ee393c1ad0aa29510d51b670ce5742c0e5e2e023cdb5", null ]
+    [ "LfgTeleportError", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acb", [
+      [ "LFG_TELEPORTERROR_OK", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acba8093282ba1eeb247266213b632692fc9", null ],
+      [ "LFG_TELEPORTERROR_PLAYER_DEAD", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acbab9924473bbfdc491b8e9848ffbb4546e", null ],
+      [ "LFG_TELEPORTERROR_FALLING", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acbad444e7a3d82c2a2dec0887cf690e019d", null ],
+      [ "LFG_TELEPORTERROR_IN_VEHICLE", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acbaff58d336ab2b518dc7ae25f8022bad9f", null ],
+      [ "LFG_TELEPORTERROR_FATIGUE", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acba99ab5212d8ee5e1fab2baa6fa1c1694e", null ],
+      [ "LFG_TELEPORTERROR_INVALID_LOCATION", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acba7909339421b55e0b8a81441114074026", null ],
+      [ "LFG_TELEPORTERROR_COMBAT", "d7/dd4/a00968.html#a2232ae371575af57aa3eb549228d0acbab5c8feea18c2b0ca13899b276004262e", null ]
     ] ],
-    [ "BG_WS_Sound", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5", [
-      [ "BG_WS_SOUND_FLAG_CAPTURED_ALLIANCE", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5a997f8b8527dfbcb80664778885733896", null ],
-      [ "BG_WS_SOUND_FLAG_CAPTURED_HORDE", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5a32ffcf2c65e6cbacbfdb5790460cf65f", null ],
-      [ "BG_WS_SOUND_FLAG_PLACED", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5a308b9670204904fe7404572046075eb4", null ],
-      [ "BG_WS_SOUND_FLAG_RETURNED", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5abd9a65bbcd72bd56f8bdc9f8da47585a", null ],
-      [ "BG_WS_SOUND_HORDE_FLAG_PICKED_UP", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5aa29d2519be11c8f28b7e1d38c1b43a2f", null ],
-      [ "BG_WS_SOUND_ALLIANCE_FLAG_PICKED_UP", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5aae5caaadc49a60a2da8a1e9490c8f67f", null ],
-      [ "BG_WS_SOUND_FLAGS_RESPAWNED", "d7/dd4/a00968.html#a57475685e7e9485731450b3d705d5ca5a566491875872716060e137f006eaad5a", null ]
+    [ "LfgType", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7ab", [
+      [ "LFG_TYPE_NONE", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7aba38d20121dea70e0d59f16686b146bb56", null ],
+      [ "LFG_TYPE_DUNGEON", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7abab5b960f36f997ad211ccd39fdd8b7227", null ],
+      [ "LFG_TYPE_RAID", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7aba7c07908381b5c9e14dc9f9e5fecd3a8d", null ],
+      [ "LFG_TYPE_ZONE", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7aba41ddadf92eb865b0e08867c249cdf209", null ],
+      [ "LFG_TYPE_HEROIC", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7ababb809a2241eb417131fced2fab9b042d", null ],
+      [ "LFG_TYPE_RANDOM", "d7/dd4/a00968.html#a2ecfd5a00384574f784eb4dcd16ec7aba56bdd76db5a1388446f620fb0f6f15a1", null ]
     ] ],
-    [ "BG_WS_SpellId", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4b", [
-      [ "BG_WS_SPELL_WARSONG_FLAG", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba3ff5e866002dc9c96e76b65bd922c110", null ],
-      [ "BG_WS_SPELL_WARSONG_FLAG_DROPPED", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4bab8f74356870d6e130953b79269fa416a", null ],
-      [ "BG_WS_SPELL_WARSONG_FLAG_PICKED", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba77bf10c0836c63eb86b920c3dfaffe69", null ],
-      [ "BG_WS_SPELL_SILVERWING_FLAG", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4baba32f31f837fa712a15bc8f298005437", null ],
-      [ "BG_WS_SPELL_SILVERWING_FLAG_DROPPED", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba553cd677ac7e0285223bea1c0ac3fcdf", null ],
-      [ "BG_WS_SPELL_SILVERWING_FLAG_PICKED", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba30d91497534a00b1cf56f40bbc5ca40d", null ],
-      [ "BG_WS_SPELL_FOCUSED_ASSAULT", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba7657a768b886fd84df67dd5df54968b9", null ],
-      [ "BG_WS_SPELL_BRUTAL_ASSAULT", "d7/dd4/a00968.html#a3c368811f9c49f0276a9d115a8672d4ba4b20bb1716673783e705f88c13be66c3", null ]
+    [ "LfgUpdateFlag", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86f", [
+      [ "LFG_UPDATE_FLAG_NONE", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fab54cd511c649ecb334f1b782b8fe7d02", null ],
+      [ "LFG_UPDATE_FLAG_CHARACTERINFO", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fad280424588e2580b48bd7e81c750b617", null ],
+      [ "LFG_UPDATE_FLAG_COMMENT", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86facd9ae77c397a46cb09c314724d88062f", null ],
+      [ "LFG_UPDATE_FLAG_GROUPLEADER", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fa56f882d8c103fe1403a3ce1c1c890483", null ],
+      [ "LFG_UPDATE_FLAG_GROUPGUID", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86faea6ff83bcbf7c67735734f7796329f3a", null ],
+      [ "LFG_UPDATE_FLAG_ROLES", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fae49ac758b8132c21c98556edf9b872d0", null ],
+      [ "LFG_UPDATE_FLAG_AREA", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fa0397c4bdc83258f74c631742096be1a5", null ],
+      [ "LFG_UPDATE_FLAG_STATUS", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fa681e478a8a9974b11422e4b00e07aa67", null ],
+      [ "LFG_UPDATE_FLAG_BINDED", "d7/dd4/a00968.html#aa797c078b83927ada0678e683e0ef86fa08c8de52d41750ba3b8d4681d09c493c", null ]
     ] ],
-    [ "BG_WS_TimerOrScore", "d7/dd4/a00968.html#ae5f8a7cd4f42f719752da8c95249214a", [
-      [ "BG_WS_MAX_TEAM_SCORE", "d7/dd4/a00968.html#ae5f8a7cd4f42f719752da8c95249214aaa68a8480363b87d5a538eb6716f8efb8", null ],
-      [ "BG_WS_TOTAL_GAME_TIME", "d7/dd4/a00968.html#ae5f8a7cd4f42f719752da8c95249214aabe9a2e0c527ac4dbe235b6f04a64f016", null ],
-      [ "BG_WS_FLAG_RESPAWN_TIME", "d7/dd4/a00968.html#ae5f8a7cd4f42f719752da8c95249214aa0960ca9313b2915b96ae434eca282313", null ]
-    ] ],
-    [ "BG_WS_Trigger", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3", [
-      [ "BG_WS_TRIGGER_ALLIANCE_FLAG_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3afe1ff0fad52fd52ab78965a7465113d3", null ],
-      [ "BG_WS_TRIGGER_HORDE_FLAG_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3afcae781e82c805094dd5f1dcb7c0e788", null ],
-      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_SPEED_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3a43afe4d9d703643da4e168353290b485", null ],
-      [ "BG_WS_TRIGGER_HORDE_ELIXIR_SPEED_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3a313c7878a07f89f6e25b7e31d51b197c", null ],
-      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_REGEN_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3a3ac726ccd0b7dbb57612489d2f33f3d0", null ],
-      [ "BG_WS_TRIGGER_HORDE_ELIXIR_REGEN_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3a8bc4e07db5aeeb0e5cb7b391be15b292", null ],
-      [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_BERSERK_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3aedcf50e072c7fbdbf39f7421e29c09fe", null ],
-      [ "BG_WS_TRIGGER_HORDE_ELIXIR_BERSERK_SPAWN", "d7/dd4/a00968.html#a50801b1baa78c499341bfe44d88ffcf3aea7c50de78560ae6831d5b51cf33034e", null ]
-    ] ],
-    [ "BG_WS_DOOR_DESPAWN_TIME", "d7/dd4/a00968.html#a8d3a1f5c677b26a98ae6286c0e4875f3", null ],
-    [ "BG_WS_FLAG_DROP_TIME", "d7/dd4/a00968.html#a190d782187c7f19845cef271f7db3d88", null ],
-    [ "BG_WS_SPELL_BRUTAL_TIME", "d7/dd4/a00968.html#aff703fcdbd9a08b60b657ec15a583a3a", null ],
-    [ "BG_WS_SPELL_FORCE_TIME", "d7/dd4/a00968.html#a4018529c6fe6a82915185f2744eb26e3", null ]
+    [ "format_as", "d7/dd4/a00968.html#a44b05d5c4dd27aa794f6cec4816524b6", null ]
 ];

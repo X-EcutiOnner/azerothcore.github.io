@@ -1,9 +1,10 @@
 var a00422 =
 [
-    [ "GetCheckPacketBaseSize", "db/d43/a00422.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
-    [ "GetCheckPacketSize", "db/d43/a00422.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
-    [ "GetMaxWardenChecksForType", "db/d43/a00422.html#aedb0d8dcf11f0df50080f361dcd78fed", null ],
-    [ "_luaEvalMidfix", "db/d43/a00422.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
-    [ "_luaEvalPostfix", "db/d43/a00422.html#ad14853510c2482e64bd81633e5074206", null ],
-    [ "_luaEvalPrefix", "db/d43/a00422.html#a259abc7d98e16cefc14404b5886cbc09", null ]
+    [ "Acore::has_type< T, std::tuple< Us... > >", "d7/de5/a05878.html", null ],
+    [ "Acore::is_tuple< typename >", "dc/df8/a05882.html", null ],
+    [ "Acore::is_tuple< std::tuple< Ts... > >", "d8/d1d/a05886.html", null ],
+    [ "new_from_tuple", "db/d43/a00422.html#aac12e702d41e9aa126f7d39f0f295252", null ],
+    [ "new_from_tuple", "db/d43/a00422.html#a028fc93107022ad23a763503c9b0bbdb", null ],
+    [ "has_type_v", "db/d43/a00422.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
+    [ "is_tuple_v", "db/d43/a00422.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
 ];

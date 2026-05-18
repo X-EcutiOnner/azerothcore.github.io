@@ -1,4 +1,6 @@
 var a01373 =
 [
-    [ "VisibilityDistances", "d7/d38/a01373.html#a6165c6736a6e152a38f7dea1aa2c956b", null ]
+    [ "Acore::BroadcastTextBuilder", "d1/de5/a11942.html", "d1/de5/a11942" ],
+    [ "Acore::CustomChatTextBuilder", "da/d8a/a11946.html", "da/d8a/a11946" ],
+    [ "Acore::AcoreStringChatBuilder", "d3/d05/a11950.html", "d3/d05/a11950" ]
 ];

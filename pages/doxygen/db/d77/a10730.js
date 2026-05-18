@@ -152,6 +152,7 @@ var a10730 =
     [ "OnPlayerPVPFlagChange", "db/d77/a10730.html#a884c63379ce7059a68f5d194ea0c05d6", null ],
     [ "OnPlayerPVPKill", "db/d77/a10730.html#aaa5e48e7d6efe680151c5fb43da1f396", null ],
     [ "OnPlayerQuestAbandon", "db/d77/a10730.html#a09d7ed50203cb9459826070584bb227c", null ],
+    [ "OnPlayerQuestAccept", "db/d77/a10730.html#a0401e673b68832c38aae1c4db96b04ec", null ],
     [ "OnPlayerQuestComputeXP", "db/d77/a10730.html#ae9df260c8f1ffd17334a60144dbbdc84", null ],
     [ "OnPlayerQuestRewardItem", "db/d77/a10730.html#a7cfa904bfa1ef63b1374215514da5fe6", null ],
     [ "OnPlayerQueueRandomDungeon", "db/d77/a10730.html#a63bae0fc0ddd555987656c167317856d", null ],

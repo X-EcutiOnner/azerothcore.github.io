@@ -1,10 +1,16 @@
 var a01961 =
 [
-    [ "GraveyardStruct", "d9/d50/a10254.html", "d9/d50/a10254" ],
-    [ "GraveyardData", "d9/dbb/a10258.html", "d9/dbb/a10258" ],
-    [ "Graveyard", "d0/d6c/a10262.html", "d0/d6c/a10262" ],
-    [ "sGraveyard", "d2/d23/a01961.html#ac68c2a63982a6142e1931450d7b6115c", null ],
-    [ "GraveyardMapBounds", "d2/d23/a01961.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
-    [ "GraveyardMapBoundsNonConst", "d2/d23/a01961.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
-    [ "WGGraveyardContainer", "d2/d23/a01961.html#a484cb47c00fe9b952853e3b04212437c", null ]
+    [ "GameObjectTemplate", "de/d75/a08490.html", "de/d75/a08490" ],
+    [ "GameObjectTemplateAddon", "dc/d59/a08614.html", "dc/d59/a08614" ],
+    [ "GameObjectLocale", "dc/d26/a08618.html", "dc/d26/a08618" ],
+    [ "QuaternionData", "de/d4d/a08622.html", "de/d4d/a08622" ],
+    [ "GameObjectAddon", "d7/d9e/a08626.html", "d7/d9e/a08626" ],
+    [ "GameObjectData", "d4/d95/a08630.html", "d4/d95/a08630" ],
+    [ "MAX_GAMEOBJECT_QUEST_ITEMS", "d2/d23/a01961.html#a7698721f2eb4f87abac1a64a64ecf676", null ],
+    [ "MAX_GO_STATE", "d2/d23/a01961.html#ac148792c2982ecdddc593bf3871aa520", null ],
+    [ "GOState", "d2/d23/a01961.html#ac17cd142af80da019367bb796b15e5ab", [
+      [ "GO_STATE_ACTIVE", "d2/d23/a01961.html#ac17cd142af80da019367bb796b15e5abaf4f299c1cfc830c90418c4487c567c1e", null ],
+      [ "GO_STATE_READY", "d2/d23/a01961.html#ac17cd142af80da019367bb796b15e5aba8dd2dd7e5c1dda64ff6d0d06d623b650", null ],
+      [ "GO_STATE_ACTIVE_ALTERNATIVE", "d2/d23/a01961.html#ac17cd142af80da019367bb796b15e5abaf8410e5f8e696adf15ecdd441dee7e0e", null ]
+    ] ]
 ];

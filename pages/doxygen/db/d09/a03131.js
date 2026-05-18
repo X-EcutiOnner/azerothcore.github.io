@@ -1,12 +1,9 @@
 var a03131 =
 [
-    [ "boss_grizzle", "d9/d86/a12506.html", "d9/d86/a12506" ],
-    [ "Grizzle", "db/d09/a03131.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
-      [ "SPELL_GROUNDTREMOR", "db/d09/a03131.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
-      [ "SPELL_FRENZY", "db/d09/a03131.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],
-      [ "EMOTE_FRENZY_KILL", "db/d09/a03131.html#acfff5d4b983e4db1d5efb6bd5da7e7aaaebdb26e3a90dde560c1c4f7fd5615f63", null ]
-    ] ],
-    [ "AddSC_boss_grizzle", "db/d09/a03131.html#adb6c19fe584b9ecd11ab67084570a0be", null ],
-    [ "TIMER_FRENZY", "db/d09/a03131.html#a57b77ddbaec70c1bfcf7f1ccbf0715a1", null ],
-    [ "TIMER_GROUNDTREMOR", "db/d09/a03131.html#abc54daa3a30dab6dcbd53b460e55a15a", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d0/d19/a22158.html", "d0/d19/a22158" ],
+    [ "AddSC_outdoorpvp_hp", "db/d09/a03131.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "db/d09/a03131.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "db/d09/a03131.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "db/d09/a03131.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "db/d09/a03131.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

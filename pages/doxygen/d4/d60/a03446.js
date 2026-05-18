@@ -1,43 +1,86 @@
 var a03446 =
 [
-    [ "DataHeader", "d4/d60/a03446.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "MTScriptName", "d4/d60/a03446.html#a772413d8818d681e2261c99f58e1268c", null ],
-    [ "RegisterMagistersTerraceCreatureAI", "d4/d60/a03446.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
-    [ "CreatureTexts", "d4/d60/a03446.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
-      [ "SAY_KALECGOS_SPAWN", "d4/d60/a03446.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
+    [ "HideNpcEvent", "d3/d8c/a16634.html", "d3/d8c/a16634" ],
+    [ "boss_anubarak_trial", "db/d2b/a16638.html", "db/d2b/a16638" ],
+    [ "boss_anubarak_trial::boss_anubarak_trialAI", "dd/d29/a16642.html", "dd/d29/a16642" ],
+    [ "npc_swarm_scarab", "d0/d74/a16646.html", "d0/d74/a16646" ],
+    [ "npc_swarm_scarab::npc_swarm_scarabAI", "d2/deb/a16650.html", "d2/deb/a16650" ],
+    [ "npc_frost_sphere", "d2/d9d/a16654.html", "d2/d9d/a16654" ],
+    [ "npc_frost_sphere::npc_frost_sphereAI", "da/d22/a16658.html", "da/d22/a16658" ],
+    [ "npc_nerubian_burrower", "d2/dfd/a16662.html", "d2/dfd/a16662" ],
+    [ "npc_nerubian_burrower::npc_nerubian_burrowerAI", "da/df8/a16666.html", "da/df8/a16666" ],
+    [ "npc_anubarak_spike", "d3/d7d/a16670.html", "d3/d7d/a16670" ],
+    [ "npc_anubarak_spike::npc_anubarak_spikeAI", "d2/df6/a16674.html", "d2/df6/a16674" ],
+    [ "spell_pursuing_spikes_aura", "d0/dd6/a16678.html", "d0/dd6/a16678" ],
+    [ "spell_gen_leeching_swarm_aura", "d3/d39/a16682.html", "d3/d39/a16682" ],
+    [ "spell_gen_leeching_swarm_dmg", "d1/de9/a16686.html", "d1/de9/a16686" ],
+    [ "AnubEvents", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7", [
+      [ "EVENT_RESPAWN_SPHERE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a0597adc13f5dd2eb4fe687ddbae1deee", null ],
+      [ "EVENT_ENRAGE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a470d03afa22c989a62d65ba1ce60863b", null ],
+      [ "EVENT_SPELL_FREEZING_SLASH", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a74fa33308b389332375eba76d7b39ffd", null ],
+      [ "EVENT_SPELL_PENETRATING_COLD", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a3844ddb61226ceb7e963708ccbacf851", null ],
+      [ "EVENT_SUMMON_NERUBIAN", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a517677eb09071c6ad604b3d695aeedb5", null ],
+      [ "EVENT_SUBMERGE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7ac03b7f1947bf9753f19061f508b61a73", null ],
+      [ "EVENT_EMERGE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a195f6417cd6d29f73dab0b90876d138d", null ],
+      [ "EVENT_EMERGE_2", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a153792d957579f6b5e9942939f9992cb", null ],
+      [ "EVENT_SPELL_SUMMON_SPIKE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a986aa1943c71247df01ee0a3120362b3", null ],
+      [ "EVENT_SPELL_SHADOW_STRIKE", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7af9cc8caa8e5f67aa9c74749e244dde2c", null ],
+      [ "EVENT_SUMMON_SCARAB", "d4/d60/a03446.html#a4c54b6a6293526d9aa3a5e9736e490f7a7a702862eae47fe3ce32723b1560bc23", null ]
     ] ],
-    [ "InstanceEventIds", "d4/d60/a03446.html#ab51342a4a8f5976e51b0074f9a5746f8", [
-      [ "EVENT_SPAWN_KALECGOS", "d4/d60/a03446.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
+    [ "AnubNPCs", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25", [
+      [ "NPC_FROST_SPHERE", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25a168177bf6448a582c61896b0103da6b3", null ],
+      [ "NPC_BURROW", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25a6e683e595a9beb2400cde6a0a786c3a6", null ],
+      [ "NPC_BURROWER", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25ad02c36aa55c6c4cda027f344749b80e1", null ],
+      [ "NPC_SCARAB", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25aa821a34ce4ede17b251360c5a4bfe10a", null ],
+      [ "NPC_SPIKE", "d4/d60/a03446.html#a950017bc99bfb958b7c8617784f4db25a70d6aea9018674ae57e2b827e96ff93b", null ]
     ] ],
-    [ "MovementData", "d4/d60/a03446.html#aed5999eedcf185b65654ded53dc601d3", [
-      [ "PATH_KALECGOS_FLIGHT", "d4/d60/a03446.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
+    [ "AnubSpells", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0", [
+      [ "SPELL_SUBMERGE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0ae718d7606fc2054f360525e4d0a79d28", null ],
+      [ "SPELL_EMERGE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
+      [ "SPELL_BERSERK", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0ad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CLEAR_ALL_DEBUFFS", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a0b01bb6d3fb8443b07a687c16d86009d", null ],
+      [ "SPELL_FREEZING_SLASH", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9f20ed0dd0f8ce69aa2f4c5b771cef0f", null ],
+      [ "SPELL_PENETRATING_COLD", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac4438d8b4cf07d9e5eadf88b04b7cb99", null ],
+      [ "SPELL_SUMMON_SCARAB", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0ac66c09471de9a8c7308d5d36e4a64791", null ],
+      [ "SPELL_SUMMON_BURROWER", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a2562b025f710f01506300d90550a5eda", null ],
+      [ "SPELL_LEECHING_SWARM", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a179e7766f313d1186b34946a356a5b2f", null ],
+      [ "SPELL_MARK", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a6c52e58c00f243bdb7a03fb464161104", null ],
+      [ "SPELL_SUMMON_SPIKE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0acbf26a5fda006e38db761950d3d90b1f", null ],
+      [ "SPELL_SPIKE_SPEED1", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0af285f71f445522bbaa034ae592fc4f67", null ],
+      [ "SPELL_SPIKE_TRAIL", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a4b2a559100f0ad8e20d5af2e27543a65", null ],
+      [ "SPELL_SPIKE_SPEED2", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a6f1ffe4a18491a0a49639a12be76260f", null ],
+      [ "SPELL_SPIKE_SPEED3", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0add584493de7a7bb9628363b2093fddd7", null ],
+      [ "SPELL_SPIKE_FAIL", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9de5053a209b6640e69d2f9414d88943", null ],
+      [ "SPELL_SPIKE_TELE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7fadae1406ee8ef3cd6aee468fd37530", null ],
+      [ "SPELL_IMPALE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0aed97c932510c91b6057175b2df166f63", null ],
+      [ "SPELL_DETERMINATION", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a336f40798ac55a5c014a786f7d34f10f", null ],
+      [ "SPELL_ACID_MANDIBLE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0afdc5a48b99870385905c544e99e1ca69", null ],
+      [ "SPELL_CHURNING_GROUND", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a42625835db53ddb481cd4b1aab6aedfe", null ],
+      [ "SPELL_FROST_SPHERE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a1b32cb53e97f68d033481222982b9fe6", null ],
+      [ "SPELL_PERMAFROST", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0acfbb84c268887505646fb54930d478cd", null ],
+      [ "SPELL_PERMAFROST_VISUAL", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0aca28d8d315450412141c2b131f46b9ca", null ],
+      [ "SPELL_SPIDER_FRENZY", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a9c900e89338020fc265152560a0b45e9", null ],
+      [ "SPELL_EXPOSE_WEAKNESS", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a24b49f700d2923412938f4e6d148ce82", null ],
+      [ "SPELL_SHADOW_STRIKE", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a7a15a2c5e800c390b1c073f0e768c0ff", null ],
+      [ "SPELL_SUBMERGE_EFFECT", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a8402ad1984647d8e20727fb14899568b", null ],
+      [ "SPELL_EMERGE_EFFECT", "d4/d60/a03446.html#a23c29bdbaa746dce4769b8fce9a7a0c0a65257ac8ad276a30e852a8b8e80de2a4", null ]
     ] ],
-    [ "MTCreatures", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18b", [
-      [ "NPC_DELRISSA", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
-      [ "NPC_FEL_CRYSTAL", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
-      [ "NPC_KAEL_THAS", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
-      [ "NPC_PHOENIX", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
-      [ "NPC_PHOENIX_EGG", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
-      [ "NPC_KALECGOS", "d4/d60/a03446.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
+    [ "AnubTexts", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9", [
+      [ "SAY_INTRO", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9af5bc3db04213b3bf118af6ce85b5a637", null ],
+      [ "SAY_AGGRO", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "EMOTE_SUBMERGE", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9a2de75a94c63b35b7198bd89cf36a943e", null ],
+      [ "EMOTE_BURROWER", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9a220f065098e50495185136876d724396", null ],
+      [ "SAY_EMERGE", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9a045d09c010190c9e3f98dfe0541309a4", null ],
+      [ "SAY_LEECHING_SWARM", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9afce2f4e0a9aa542ac0a56af8d223b86e", null ],
+      [ "EMOTE_LEECHING_SWARM", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9aa16633ab77a4b7768c191bde880ca194", null ],
+      [ "SAY_KILL_PLAYER", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9ad8ce3f4de5ecaa5762ee8b55570503a4", null ],
+      [ "SAY_DEATH", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9a04c962d9b6aaafde54ff92a54369135e", null ],
+      [ "EMOTE_SPIKE", "d4/d60/a03446.html#aaa815423de25318c68dccd5d793b42d9af530b7fc089ed8a5a0d47fdebb0c85de", null ]
     ] ],
-    [ "MTData", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059", [
-      [ "DATA_SELIN_FIREHEART", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
-      [ "DATA_VEXALLUS", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
-      [ "DATA_DELRISSA", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
-      [ "DATA_KAELTHAS", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
-      [ "MAX_ENCOUNTER", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_KALECGOS", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
-      [ "DATA_ESCAPE_ORB", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
-      [ "DATA_KAEL_INTRO", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
-      [ "MAX_PERSISTENT_DATA", "d4/d60/a03446.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    [ "eLeechingSwarmSpells", "d4/d60/a03446.html#ae803377c36f65ae72bcce727fd91f691", [
+      [ "SPELL_LEECHING_SWARM_DMG", "d4/d60/a03446.html#ae803377c36f65ae72bcce727fd91f691abf1892ca2530ac3edd2138a6b2d2ce6f", null ],
+      [ "SPELL_LEECHING_SWARM_HEAL", "d4/d60/a03446.html#ae803377c36f65ae72bcce727fd91f691abbeb09babd5e62fe38115c52feb726f4", null ]
     ] ],
-    [ "MTGameObjects", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867d", [
-      [ "GO_VEXALLUS_DOOR", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
-      [ "GO_SELIN_DOOR", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
-      [ "GO_SELIN_ENCOUNTER_DOOR", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
-      [ "GO_DELRISSA_DOOR", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
-      [ "GO_KAEL_DOOR", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
-      [ "GO_ESCAPE_ORB", "d4/d60/a03446.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
-    ] ],
-    [ "GetMagistersTerraceAI", "d4/d60/a03446.html#ace003ea34649a460da4afbd65b38c987", null ]
+    [ "AddSC_boss_anubarak_trial", "d4/d60/a03446.html#a58e9222dd2a3eacee9779116fd46ab48", null ],
+    [ "AnubLocs", "d4/d60/a03446.html#a3101a2bec64ee0361d6e1e30f3dead1f", null ]
 ];

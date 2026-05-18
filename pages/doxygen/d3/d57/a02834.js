@@ -1,8 +1,15 @@
 var a02834 =
 [
-    [ "instance_the_botanica", "de/d80/a23410.html", "de/d80/a23410" ],
-    [ "instance_the_botanica::instance_the_botanica_InstanceMapScript", "d4/d5a/a23414.html", "d4/d5a/a23414" ],
-    [ "spell_botanica_call_of_the_falcon_aura", "db/d80/a23418.html", "db/d80/a23418" ],
-    [ "spell_botanica_shift_form_aura", "d5/d77/a23422.html", "d5/d77/a23422" ],
-    [ "AddSC_instance_the_botanica", "d3/d57/a02834.html#a42bac8d93a9aac296390fec4cb6b94cb", null ]
+    [ "MySQLType< T >", "d8/d89/a06054.html", null ],
+    [ "MySQLType< uint8 >", "d4/db5/a06058.html", null ],
+    [ "MySQLType< uint16 >", "d9/de2/a06062.html", null ],
+    [ "MySQLType< uint32 >", "d3/d23/a06066.html", null ],
+    [ "MySQLType< uint64 >", "db/dd3/a06070.html", null ],
+    [ "MySQLType< int8 >", "dc/d36/a06074.html", null ],
+    [ "MySQLType< int16 >", "d3/d26/a06078.html", null ],
+    [ "MySQLType< int32 >", "d6/d02/a06082.html", null ],
+    [ "MySQLType< int64 >", "d2/d6d/a06086.html", null ],
+    [ "MySQLType< float >", "dc/d9a/a06090.html", null ],
+    [ "MySQLType< double >", "d4/dc6/a06094.html", null ],
+    [ "ParamenterIndexAssertFail", "d3/d57/a02834.html#a4c2b053ff0b94326f3c01cc7c6e61e8a", null ]
 ];

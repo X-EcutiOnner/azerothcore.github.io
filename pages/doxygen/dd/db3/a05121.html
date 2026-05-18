@@ -115,7 +115,7 @@ $(document).ready(function(){initNavTree('dd/db3/a05121.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d7/d7c/a11750.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
+<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/db3/a05121.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d7/d7c/a11750.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d4/d1f/a00506.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
 <tr class="separator:ab2154405a408271aa60863454b0303fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
@@ -142,7 +142,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/db6/a04580.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d4/d1f/a00506.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
           <td class="paramname"><em>effIndex</em>&#160;</td>
         </tr>
         <tr>
@@ -154,13 +154,13 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
 <div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> spellInfo-&gt;Effects[effIndex].CalcValue() ||</div>
-<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
-<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d4/d49/a01643.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
-<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../dd/deb/a04304.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
+<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../d0/da3/a04961.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
+<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d3/da1/a01613.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
+<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d0/da3/a04961.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
 <div class="line"><span class="lineno">   47</span>    }</div>
-<div class="ttc" id="aa01643_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../d4/d49/a01643.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:183</div></div>
-<div class="ttc" id="aa04304_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../dd/deb/a04304.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
-<div class="ttc" id="aa04304_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../dd/deb/a04304.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
+<div class="ttc" id="aa01613_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../d3/da1/a01613.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:183</div></div>
+<div class="ttc" id="aa04961_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../d0/da3/a04961.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
+<div class="ttc" id="aa04961_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../d0/da3/a04961.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00183">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00399">SPELL_ATTR0_NO_IMMUNITIES</a>, and <a class="el" href="../../#l00834">SPELL_EFFECT_INTERRUPT_CAST</a>.</p>
 
@@ -174,7 +174,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/db3/a05121.html">anonymous_namespace{BinarySpellDetectionTest.cpp}</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

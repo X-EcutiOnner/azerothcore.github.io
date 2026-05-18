@@ -1,16 +1,12 @@
 var a00041 =
 [
-    [ "CalcFullTime", "dd/d32/a00041.html#acf515241ac86050cd79d68b509c5ea29", null ],
-    [ "NewResetFormula", "dd/d32/a00041.html#aae298365d32c23f29d12e5f81b91db99", null ],
-    [ "OldResetFormula", "dd/d32/a00041.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2", null ],
-    [ "TEST", "dd/d32/a00041.html#aa46aba4f46e0c4cf1611bf2ff0b11f53", null ],
-    [ "TEST", "dd/d32/a00041.html#a9bf8b2c46faea4396f67f27c689c7d65", null ],
-    [ "TEST", "dd/d32/a00041.html#ab956bb191fe7eb20bc88e43c071e07b5", null ],
-    [ "TEST", "dd/d32/a00041.html#a819dde76e3b5bd1171dc3fb7e37c3a53", null ],
-    [ "TEST", "dd/d32/a00041.html#af1c4cf8b997d096dc906ccd5c846e90e", null ],
-    [ "TEST", "dd/d32/a00041.html#acbd23a84fa5f4c2b09dbe42a501443be", null ],
-    [ "TEST", "dd/d32/a00041.html#a1835c78c8476bbaf740ca65e27ab5c03", null ],
-    [ "TEST", "dd/d32/a00041.html#a582b8801c33d3f605c91bf0aab1f699c", null ],
-    [ "TEST", "dd/d32/a00041.html#a1abe08c7becc5f8bc2d034cf7312a1b1", null ],
-    [ "TEST", "dd/d32/a00041.html#af92bca5e60d83a245a06403f58a9360c", null ]
+    [ "anonymous_namespace{PoolQuestReloadTest.cpp}::PoolQuestReloadTest", "d5/d64/a29438.html", "d5/d64/a29438" ],
+    [ "PoolQuestReloadFixTest", "df/d90/a29442.html", "df/d90/a29442" ],
+    [ "TEST_F", "dd/d32/a00041.html#a3536d0c27abb116492165d7ab3dcaaaf", null ],
+    [ "TEST_F", "dd/d32/a00041.html#ae965ec2c5a54532198d25c78231d7888", null ],
+    [ "TEST_F", "dd/d32/a00041.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
+    [ "TEST_F", "dd/d32/a00041.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
+    [ "TEST_F", "dd/d32/a00041.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
+    [ "TEST_CREATURE_ID", "dd/d32/a00041.html#a9d99cbff2ccde67787a3c4448497f949", null ],
+    [ "TEST_QUEST_ID", "dd/d32/a00041.html#acd85c89c48bf6aa262bd81ed03493826", null ]
 ];

@@ -15,15 +15,15 @@ var searchData=
   ['refundableitemsset_12',['RefundableItemsSet',['../d6/d9a/a08934.html#afae54f93b4ceeede8978b156fc74e5dd',1,'Player']]],
   ['registrymaptype_13',['RegistryMapType',['../dc/d79/a05522.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2',1,'ObjectRegistry']]],
   ['repeated_5ft_14',['repeated_t',['../dd/d9e/a05838.html#af3067f67a46b296be44fca007a2d3690',1,'TaskScheduler']]],
-  ['replistid_15',['RepListID',['../dc/d2c/a00893.html#a5d6355bb0de767f549aeb8f1e6481624',1,'ReputationMgr.h']]],
+  ['replistid_15',['RepListID',['../d3/d29/a00947.html#a5d6355bb0de767f549aeb8f1e6481624',1,'ReputationMgr.h']]],
   ['reponkillcontainer_16',['RepOnKillContainer',['../d6/dc1/a09370.html#ae2a4be849f1065acdd52224dd0813465',1,'ObjectMgr']]],
   ['reprewardratecontainer_17',['RepRewardRateContainer',['../d6/dc1/a09370.html#a0435d4c8478d452fdb137bcddd3f9aa6',1,'ObjectMgr']]],
   ['repspillovertemplatecontainer_18',['RepSpilloverTemplateContainer',['../d6/dc1/a09370.html#a504972294a7f828f3cf6d951a883e1a9',1,'ObjectMgr']]],
   ['reservednamescontainer_19',['ReservedNamesContainer',['../d6/dc1/a09370.html#a228d018c71898d2c104f42e92f96ad32',1,'ObjectMgr']]],
-  ['resettimebymapdifficultymap_20',['ResetTimeByMapDifficultyMap',['../d4/d93/a01955.html#aecf15b673beb714ef0acaa3bac23696a',1,'InstanceSaveMgr.h']]],
+  ['resettimebymapdifficultymap_20',['ResetTimeByMapDifficultyMap',['../dd/dad/a01235.html#aecf15b673beb714ef0acaa3bac23696a',1,'InstanceSaveMgr.h']]],
   ['resettimequeue_21',['ResetTimeQueue',['../db/da4/a09950.html#a22b56c7b035c7948ee19a6b65fb41ec4',1,'InstanceSaveMgr']]],
   ['respawnmap_22',['RespawnMap',['../d3/d49/a07738.html#ac0682d6c6402a7aed48f84f9e06a711b',1,'BattlegroundIC']]],
   ['result_5ftype_23',['result_type',['../df/d45/a05398.html#a6dcbf6789c1565b95f16de3d580118a9',1,'Acore::unary_function::result_type()'],['../d4/d98/a05782.html#a20f96383bade76c6185d8f20f458784e',1,'RandomEngine::result_type()']]],
-  ['rewardedquestset_24',['RewardedQuestSet',['../db/dce/a01529.html#a59ae2084b25805b47224ad24aa9c54d0',1,'Player.h']]],
+  ['rewardedquestset_24',['RewardedQuestSet',['../d9/dff/a02099.html#a59ae2084b25805b47224ad24aa9c54d0',1,'Player.h']]],
   ['rolls_25',['Rolls',['../d3/d95/a09830.html#a79a79b673dbb3124304d390bb9e869eb',1,'Group']]]
 ];

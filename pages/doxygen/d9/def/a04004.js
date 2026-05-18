@@ -1,10 +1,13 @@
 var a04004 =
 [
-    [ "spell_utgarde_pinnacle_beast_mark", "da/d6d/a21002.html", "da/d6d/a21002" ],
-    [ "UtgardeSpells", "d9/def/a04004.html#ae8fa29243650c07aed99f9ee3cad321a", [
-      [ "SPELL_BEAST_MARK_NORMAL", "d9/def/a04004.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_N", "d9/def/a04004.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
-      [ "SPELL_BEAST_MARK_DAMAGE_H", "d9/def/a04004.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
-    ] ],
-    [ "AddSC_utgarde_pinnacle", "d9/def/a04004.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
+    [ "AddEventsScripts", "d9/def/a04004.html#a5b00ce0eeb1dcf64dc867f4bce623416", null ],
+    [ "AddSC_event_brewfest_scripts", "d9/def/a04004.html#a7b95e86ce715aad734d059cfc0cf88d7", null ],
+    [ "AddSC_event_childrens_week", "d9/def/a04004.html#a832536a026ab4dad8df7bb48ad0493fc", null ],
+    [ "AddSC_event_firework_show_scripts", "d9/def/a04004.html#af7a6296c13b6615a14e0823fe7e5b577", null ],
+    [ "AddSC_event_hallows_end_scripts", "d9/def/a04004.html#a70705fe4a0f9a88d8f185363054af273", null ],
+    [ "AddSC_event_love_in_the_air", "d9/def/a04004.html#acd28b6b284f9e0f8caa1194e2dc904f8", null ],
+    [ "AddSC_event_midsummer_scripts", "d9/def/a04004.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
+    [ "AddSC_event_noblegarden_scripts", "d9/def/a04004.html#a60b11fd113b9059778bb843dd1806c79", null ],
+    [ "AddSC_event_pilgrims_end_scripts", "d9/def/a04004.html#a8e59953c9b1731e315c9c6b9148a88e6", null ],
+    [ "AddSC_event_winter_veil_scripts", "d9/def/a04004.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
 ];

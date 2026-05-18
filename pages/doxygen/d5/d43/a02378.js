@@ -1,11 +1,11 @@
 var a02378 =
 [
-    [ "instance_hyjal", "d6/dec/a15038.html", "d6/dec/a15038" ],
-    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "db/dbf/a15042.html", "db/dbf/a15042" ],
-    [ "AddSC_instance_mount_hyjal", "d5/d43/a02378.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
-    [ "creatureData", "d5/d43/a02378.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d43/a02378.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "hyjalNightElfWaveTimers", "d5/d43/a02378.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
-    [ "hyjalRetreatTimers", "d5/d43/a02378.html#a254787ab3a62d90e906ded9ef63aa229", null ],
-    [ "hyjalWaveTimers", "d5/d43/a02378.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
+    [ "SpellScriptLoader", "d0/d24/a10738.html", "d0/d24/a10738" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d8/dc5/a10742.html", "d8/dc5/a10742" ],
+    [ "RegisterSpellAndAuraScriptPair", "d5/d43/a02378.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d5/d43/a02378.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d5/d43/a02378.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d5/d43/a02378.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d5/d43/a02378.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d5/d43/a02378.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

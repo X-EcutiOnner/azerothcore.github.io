@@ -152,7 +152,7 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aea29e619b5c5663f485040c898b93980 inherit pub_methods_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3707675a0579b2fd35ebe03e739f5014 inherit pub_methods_a08170"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a3707675a0579b2fd35ebe03e739f5014">ScaleThreat</a> (float factor)</td></tr>
 <tr class="separator:a3707675a0579b2fd35ebe03e739f5014 inherit pub_methods_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a331c12f2fb44f6aa8698c0664bceb9e1 inherit pub_methods_a08170"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a331c12f2fb44f6aa8698c0664bceb9e1">ModifyThreatByPercent</a> (<a class="el" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> percent)</td></tr>
+<tr class="memitem:a331c12f2fb44f6aa8698c0664bceb9e1 inherit pub_methods_a08170"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a331c12f2fb44f6aa8698c0664bceb9e1">ModifyThreatByPercent</a> (<a class="el" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> percent)</td></tr>
 <tr class="separator:a331c12f2fb44f6aa8698c0664bceb9e1 inherit pub_methods_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a235cc72319c3e653b2a993eb3a947dc7 inherit pub_methods_a08170"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a235cc72319c3e653b2a993eb3a947dc7">UpdateOffline</a> ()</td></tr>
 <tr class="separator:a235cc72319c3e653b2a993eb3a947dc7 inherit pub_methods_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -220,7 +220,7 @@ Additional Inherited Members</h2></td></tr>
 <tr class="separator:aad1e98407ab158ff4bac75b2bacfd5b5 inherit pro_attribs_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3b84571e5a83ab4934c9176c695fc0e6 inherit pro_attribs_a08170"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a3b84571e5a83ab4934c9176c695fc0e6">_baseAmount</a></td></tr>
 <tr class="separator:a3b84571e5a83ab4934c9176c695fc0e6 inherit pro_attribs_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a117569165c1d157d2a55813fdd539bad inherit pro_attribs_a08170"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/db6/a04580.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a117569165c1d157d2a55813fdd539bad">_tempModifier</a></td></tr>
+<tr class="memitem:a117569165c1d157d2a55813fdd539bad inherit pro_attribs_a08170"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1f/a00506.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a117569165c1d157d2a55813fdd539bad">_tempModifier</a></td></tr>
 <tr class="separator:a117569165c1d157d2a55813fdd539bad inherit pro_attribs_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a984afbb4c0fedc24038cb87bd28b75ed inherit pro_attribs_a08170"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d8c/a08170.html#afde3ad95e7dc1e55650daa67128913b2">TauntState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8c/a08170.html#a984afbb4c0fedc24038cb87bd28b75ed">_taunted</a></td></tr>
 <tr class="separator:a984afbb4c0fedc24038cb87bd28b75ed inherit pro_attribs_a08170"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -263,9 +263,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  170</span>                                                                   : <a class="code hl_class" href="../../d2/d8c/a08170.html">ThreatReference</a>(mgr, victim)</div>
 <div class="line"><span class="lineno">  171</span>    {</div>
 <div class="line"><span class="lineno">  172</span>        <span class="comment">// Only creatures can have threat lists (verified by CanHaveThreatList)</span></div>
-<div class="line"><span class="lineno">  173</span>        <a class="code hl_define" href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(mgr-&gt;<a class="code hl_variable" href="../../d4/d0a/a08162.html#abc3a5e41485bc429460d5a54e57a33d2">_owner</a>-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>());</div>
+<div class="line"><span class="lineno">  173</span>        <a class="code hl_define" href="../../d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(mgr-&gt;<a class="code hl_variable" href="../../d4/d0a/a08162.html#abc3a5e41485bc429460d5a54e57a33d2">_owner</a>-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>());</div>
 <div class="line"><span class="lineno">  174</span>    }</div>
-<div class="ttc" id="aa04598_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d6/d71/a04598.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa00521_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
 <div class="ttc" id="aa08162_html_abc3a5e41485bc429460d5a54e57a33d2"><div class="ttname"><a href="../../d4/d0a/a08162.html#abc3a5e41485bc429460d5a54e57a33d2">ThreatManager::_owner</a></div><div class="ttdeci">Unit *const _owner</div><div class="ttdef"><b>Definition:</b> ThreatManager.h:196</div></div>
 <div class="ttc" id="aa08170_html"><div class="ttname"><a href="../../d2/d8c/a08170.html">ThreatReference</a></div><div class="ttdef"><b>Definition:</b> ThreatManager.h:267</div></div>
 <div class="ttc" id="aa08682_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d1/d2a/a08682.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
@@ -295,7 +295,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/dd5/a08154.html">ThreatReferenceImpl</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

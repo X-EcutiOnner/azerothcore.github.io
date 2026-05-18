@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Item/Container/Bag.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Spells/SpellEffects.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,81 +105,98 @@ $(document).ready(function(){initNavTree('d5/d10/a01571.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Bag.h File Reference</div></div>
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">SpellEffects.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Item.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ItemTemplate.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundIC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">BattlegroundSA.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Chat.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">DynamicObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Formulas.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Language.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MiscPackets.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">OutdoorPvPMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RBAC.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ReputationMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SkillExtraItems.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Spell.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TemporarySummon.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Totem.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Transport.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Unit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Vehicle.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldPacket.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d76/a08634.html">Bag</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a711d5a2b2f8cbeb49153d9e33ea51bf1"><td class="memItemLeft" align="right" valign="top">typedef std::list&lt; std::pair&lt; <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/d44/a08734.html">ObjectGuid</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d10/a01571.html#a711d5a2b2f8cbeb49153d9e33ea51bf1">DispelList</a></td></tr>
+<tr class="separator:a711d5a2b2f8cbeb49153d9e33ea51bf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a60a065b8fab298fb24dfd8f22f657d77"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d10/a01571.html#a60a065b8fab298fb24dfd8f22f657d77">MAX_BAG_SIZE</a>&#160;&#160;&#160;36</td></tr>
-<tr class="separator:a60a065b8fab298fb24dfd8f22f657d77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a6b74a54b7de3ced0e27f4128f0d95c64"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dad/a08642.html">Item</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d10/a01571.html#a6b74a54b7de3ced0e27f4128f0d95c64">NewItemOrBag</a> (<a class="el" href="../../d9/dfd/a08666.html">ItemTemplate</a> const *proto)</td></tr>
-<tr class="separator:a6b74a54b7de3ced0e27f4128f0d95c64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a294b5954f08aebdafe9e5a6f00e2dc82"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dad/a01616.html#ac4912996788d32123000e7fc35065c29">pEffect</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d10/a01571.html#a294b5954f08aebdafe9e5a6f00e2dc82">SpellEffects</a> [<a class="el" href="../../d0/da3/a04961.html#a292c893150c454dd75628b719db1fe97ac913ee875debc7ace072a1079d0f1cbc">TOTAL_SPELL_EFFECTS</a>]</td></tr>
+<tr class="separator:a294b5954f08aebdafe9e5a6f00e2dc82"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a60a065b8fab298fb24dfd8f22f657d77" name="a60a065b8fab298fb24dfd8f22f657d77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60a065b8fab298fb24dfd8f22f657d77">&#9670;&#160;</a></span>MAX_BAG_SIZE</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a711d5a2b2f8cbeb49153d9e33ea51bf1" name="a711d5a2b2f8cbeb49153d9e33ea51bf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a711d5a2b2f8cbeb49153d9e33ea51bf1">&#9670;&#160;</a></span>DispelList</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define MAX_BAG_SIZE&#160;&#160;&#160;36</td>
+          <td class="memname">typedef std::list&lt;std::pair&lt;<a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/d44/a08734.html">ObjectGuid</a>&gt; &gt; <a class="el" href="../../d5/d10/a01571.html#a711d5a2b2f8cbeb49153d9e33ea51bf1">DispelList</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a6b74a54b7de3ced0e27f4128f0d95c64" name="a6b74a54b7de3ced0e27f4128f0d95c64"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b74a54b7de3ced0e27f4128f0d95c64">&#9670;&#160;</a></span>NewItemOrBag()</h2>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a294b5954f08aebdafe9e5a6f00e2dc82" name="a294b5954f08aebdafe9e5a6f00e2dc82"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a294b5954f08aebdafe9e5a6f00e2dc82">&#9670;&#160;</a></span>SpellEffects</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d8/dad/a08642.html">Item</a> * NewItemOrBag </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/dfd/a08666.html">ItemTemplate</a> const *&#160;</td>
-          <td class="paramname"><em>proto</em></td><td>)</td>
-          <td></td>
+          <td class="memname"><a class="el" href="../../db/dad/a01616.html#ac4912996788d32123000e7fc35065c29">pEffect</a> <a class="el" href="../../d0/da3/a04961.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a>[<a class="el" href="../../d0/da3/a04961.html#a292c893150c454dd75628b719db1fe97ac913ee875debc7ace072a1079d0f1cbc">TOTAL_SPELL_EFFECTS</a>]</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
-<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> (proto-&gt;InventoryType == <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#a2793ea198e8b328078cf49008fa1d5b1aac84cafd4a3fad90aee9685b0afff462">INVTYPE_BAG</a>) ? <span class="keyword">new</span> <a class="code hl_class" href="../../df/d76/a08634.html">Bag</a> : <span class="keyword">new</span> <a class="code hl_class" href="../../d8/dad/a08642.html">Item</a>;</div>
-<div class="line"><span class="lineno">   70</span>}</div>
-<div class="ttc" id="aa01586_html_a2793ea198e8b328078cf49008fa1d5b1aac84cafd4a3fad90aee9685b0afff462"><div class="ttname"><a href="../../d2/d2f/a01586.html#a2793ea198e8b328078cf49008fa1d5b1aac84cafd4a3fad90aee9685b0afff462">INVTYPE_BAG</a></div><div class="ttdeci">@ INVTYPE_BAG</div><div class="ttdef"><b>Definition:</b> ItemTemplate.h:274</div></div>
-<div class="ttc" id="aa08634_html"><div class="ttname"><a href="../../df/d76/a08634.html">Bag</a></div><div class="ttdef"><b>Definition:</b> Bag.h:28</div></div>
-<div class="ttc" id="aa08642_html"><div class="ttname"><a href="../../d8/dad/a08642.html">Item</a></div><div class="ttdef"><b>Definition:</b> Item.h:220</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00632">ItemTemplate::InventoryType</a>, and <a class="el" href="../../#l00274">INVTYPE_BAG</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06032">Player::_LoadItem()</a>, <a class="el" href="../../#l06168">Player::_LoadMailedItem()</a>, <a class="el" href="../../#l01087">Item::CreateItem()</a>, <a class="el" href="../../#l00188">mail_commandscript::HandleMailReturnCommand()</a>, <a class="el" href="../../#l00321">AuctionHouseMgr::LoadAuctionItems()</a>, and <a class="el" href="../../#l00388">Guild::BankTab::LoadItemFromDB()</a>.</p>
+<dl class="todo"><dt><b><a class="el" href="../../d8/d10/a05018.html#_todo000134">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
 
 </div>
 </div>
@@ -188,8 +205,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_4b91de77c0d3c1b17ed3a22a8949a24f.html">Item</a></li><li class="navelem"><a class="el" href="../../dir_1d0cd413e006ec6494118012b4dd808f.html">Container</a></li><li class="navelem"><a class="el" href="../../d5/d10/a01571.html">Bag.h</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:52:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d5/d10/a01571.html">SpellEffects.cpp</a></li>
+    <li class="footer">Generated on Mon May 18 2026 21:50:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

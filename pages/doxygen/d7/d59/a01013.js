@@ -1,17 +1,29 @@
 var a01013 =
 [
-    [ "npc_daphne_stilwell", "d2/d0c/a14070.html", "d2/d0c/a14070" ],
-    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "dd/d4e/a14074.html", "dd/d4e/a14074" ],
-    [ "DaphneStilwell", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
-      [ "SAY_DS_START", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
-      [ "SAY_DS_DOWN_1", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
-      [ "SAY_DS_DOWN_2", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
-      [ "SAY_DS_DOWN_3", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
-      [ "SAY_DS_PROLOGUE", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
-      [ "SPELL_SHOOT", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "QUEST_TOME_VALOR", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
-      [ "NPC_DEFIAS_RAIDER", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
-      [ "EQUIP_ID_RIFLE", "d7/d59/a01013.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
+    [ "PallidHorrorPaths", "d7/d59/a01013.html#ad2d2b5f255f79a9389125d179974fa6c", [
+      [ "PATH_STORMWIND_KEEP", "d7/d59/a01013.html#ad2d2b5f255f79a9389125d179974fa6caebc3eba5e01a79f8a51f55bb0b795589", null ],
+      [ "PATH_STORMWIND_TRADE_DISTRICT", "d7/d59/a01013.html#ad2d2b5f255f79a9389125d179974fa6ca18d27259451c4d6fa6e8eda96abb669c", null ],
+      [ "PATH_UNDERCITY_TRADE_QUARTER", "d7/d59/a01013.html#ad2d2b5f255f79a9389125d179974fa6ca396cc934fa150add08da6a9bfeee6130", null ],
+      [ "PATH_UNDERCITY_ROYAL_QUARTER", "d7/d59/a01013.html#ad2d2b5f255f79a9389125d179974fa6caa4c7de27637688faf47903d52c69102b", null ]
     ] ],
-    [ "AddSC_westfall", "d7/d59/a01013.html#a9c6e961944f462fc3c48a6400c76266c", null ]
+    [ "WorldStateSunsReachQuests", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704", [
+      [ "QUEST_ERRATIC_BEHAVIOR", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704a4f2a85bb3172f682d010d0782c9bcc24", null ],
+      [ "QUEST_SANCTUM_WARDS", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704a937beacad369f610742b3d62fe33cab0", null ],
+      [ "QUEST_BATTLE_FOR_THE_SUNS_REACH_ARMORY", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704a98ebea3b62e2627835de9b62156cf05a", null ],
+      [ "QUEST_DISTRACTION_AT_THE_DEAD_SCAR", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704adf3a2dd8db11cc9c77b39a8eaebce873", null ],
+      [ "QUEST_INTERCEPTING_THE_MANA_CELLS", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704a6f30cdc73db7de9c5c0c7be0e1b6c377", null ],
+      [ "QUEST_INTERCEPT_THE_REINFORCEMENTS", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704ab875551f6415f6ac57dfd81dae4b1af5", null ],
+      [ "QUEST_TAKING_THE_HARBOR", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704adf6f0dde850df588195e298e20884dc3", null ],
+      [ "QUEST_MAKING_READY", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704abadeaae10ba1cf07a4e49d58b27a2430", null ],
+      [ "QUEST_DISCOVERING_YOUR_ROOTS", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704ad53e4065f2edb54c276af531e4cbd158", null ],
+      [ "QUEST_A_CHARITABLE_DONATION", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704af367c41748283293358b00d0ceea276b", null ],
+      [ "QUEST_A_MAGNANIMOUS_BENEFACTOR", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704ac530d05014596aa5ace83a6c92b0b5c4", null ],
+      [ "COUNTER_MAX_VAL_REQ", "d7/d59/a01013.html#ae92d2d64df97e6d4e504459dbe62a704a45e1556a8329106c7b177a050f5e45a5", null ]
+    ] ],
+    [ "WorldStateSunwellGateQuests", "d7/d59/a01013.html#ab96270d11fbb117a1f967bc0d80f91ca", [
+      [ "QUEST_AGAMATH_THE_FIRST_GATE", "d7/d59/a01013.html#ab96270d11fbb117a1f967bc0d80f91caa5488c9368a2859c5f47656009ebe9eeb", null ],
+      [ "QUEST_ROHENDOR_THE_SECOND_GATE", "d7/d59/a01013.html#ab96270d11fbb117a1f967bc0d80f91caaac3b523ff003dbd2c4630a2f64f9ef52", null ],
+      [ "QUEST_ARCHONISUS_THE_FINAL_GATE", "d7/d59/a01013.html#ab96270d11fbb117a1f967bc0d80f91caa79773a037e39a86021645c7ef20836dc", null ],
+      [ "COUNTER_MAX_VAL_REQ_SWP_GATES", "d7/d59/a01013.html#ab96270d11fbb117a1f967bc0d80f91caadc56c79d9946a6da707fde15807fcfc5", null ]
+    ] ]
 ];

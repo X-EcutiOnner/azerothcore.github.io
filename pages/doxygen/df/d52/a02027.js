@@ -1,20 +1,21 @@
 var a02027 =
 [
-    [ "lfg::LfgQueueData", "df/d51/a08282.html", "df/d51/a08282" ],
-    [ "lfg::LfgWaitTime", "d8/d84/a08286.html", "d8/d84/a08286" ],
-    [ "lfg::LFGQueue", "da/da7/a08290.html", "da/da7/a08290" ],
-    [ "LfgCompatibleContainer", "df/d52/a02027.html#a96438cca4cead6c1fc5d31ef643129e9", null ],
-    [ "LfgQueueDataContainer", "df/d52/a02027.html#aa2afec59ce753c11c3d8fddf4fb33991", null ],
-    [ "LfgWaitTimesContainer", "df/d52/a02027.html#a58714a43cbdc03f4008681528fb20447", null ],
-    [ "LfgCompatibility", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6", [
-      [ "LFG_COMPATIBILITY_PENDING", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a9bd6f6c66c07537c541c6cf47da9311a", null ],
-      [ "LFG_INCOMPATIBLES_WRONG_GROUP_SIZE", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6ab6f6918e09882dce7eb53394dc960123", null ],
-      [ "LFG_INCOMPATIBLES_TOO_MUCH_PLAYERS", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6aab66f0e7b36ded30473ed953e96346a1", null ],
-      [ "LFG_INCOMPATIBLES_MULTIPLE_LFG_GROUPS", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a5c52733040385425e0b4fafbbe962c57", null ],
-      [ "LFG_INCOMPATIBLES_HAS_IGNORES", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a232b96c8bc336a74ef0d50fe5092b21b", null ],
-      [ "LFG_INCOMPATIBLES_NO_ROLES", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6ad009d10da76a97578ce600e26e253a63", null ],
-      [ "LFG_INCOMPATIBLES_NO_DUNGEONS", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a6db8294000b56babf9050ec1fa80bd33", null ],
-      [ "LFG_COMPATIBLES_WITH_LESS_PLAYERS", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a226ddd4cf32244952984c339a149c93e", null ],
-      [ "LFG_COMPATIBLES_MATCH", "df/d52/a02027.html#a33c5b3513de4cd3c5a525f31008618b6a9dc8d1185a27e48d0f6953fccaa49ba0", null ]
+    [ "Trainer::Spell", "df/dc7/a08450.html", "df/dc7/a08450" ],
+    [ "Trainer::Trainer", "d1/d8b/a08454.html", "d1/d8b/a08454" ],
+    [ "FailReason", "df/d52/a02027.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "df/d52/a02027.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "df/d52/a02027.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "df/d52/a02027.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    ] ],
+    [ "SpellState", "df/d52/a02027.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "df/d52/a02027.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "df/d52/a02027.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "df/d52/a02027.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "df/d52/a02027.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "df/d52/a02027.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "df/d52/a02027.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "df/d52/a02027.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "df/d52/a02027.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
     ] ]
 ];

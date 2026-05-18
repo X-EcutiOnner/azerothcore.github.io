@@ -1,9 +1,12 @@
 var a01427 =
 [
-    [ "DynamicObject", "d8/d5f/a08433.html", "d8/d5f/a08433" ],
-    [ "DynamicObjectType", "db/d78/a01427.html#aee85c2f840289bcf773609333ee91131", [
-      [ "DYNAMIC_OBJECT_PORTAL", "db/d78/a01427.html#aee85c2f840289bcf773609333ee91131a241a99bd67606cb106b003bab51e3a5b", null ],
-      [ "DYNAMIC_OBJECT_AREA_SPELL", "db/d78/a01427.html#aee85c2f840289bcf773609333ee91131a7fb219efa9ce6ad8dc94e20c1feff546", null ],
-      [ "DYNAMIC_OBJECT_FARSIGHT_FOCUS", "db/d78/a01427.html#aee85c2f840289bcf773609333ee91131a59fbc7f63f5d2715fbc29110f393168d", null ]
-    ] ]
+    [ "AddonInfo", "dc/df9/a06354.html", "dc/df9/a06354" ],
+    [ "SavedAddon", "d0/d14/a06358.html", "d0/d14/a06358" ],
+    [ "BannedAddon", "d6/deb/a06362.html", "d6/deb/a06362" ],
+    [ "STANDARD_ADDON_CRC", "db/d78/a01427.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "db/d78/a01427.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "db/d78/a01427.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "db/d78/a01427.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "db/d78/a01427.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "db/d78/a01427.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

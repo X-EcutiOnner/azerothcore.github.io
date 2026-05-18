@@ -1,5 +1,5 @@
 var dir_6fa52a64a4821b1f51cf912b051b98f7 =
 [
-    [ "WardenModuleMac.h", "d9/de6/a00404.html", "d9/de6/a00404" ],
-    [ "WardenModuleWin.h", "d1/d98/a00407.html", "d1/d98/a00407" ]
+    [ "WardenModuleMac.h", "d9/df5/a01673.html", "d9/df5/a01673" ],
+    [ "WardenModuleWin.h", "de/df6/a01670.html", "de/df6/a01670" ]
 ];

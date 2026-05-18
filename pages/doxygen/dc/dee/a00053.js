@@ -1,12 +1,8 @@
 var a00053 =
 [
-    [ "BinarySpellDetectionTest", "db/dea/a29446.html", "db/dea/a29446" ],
-    [ "ShouldMarkBinary", "dc/dee/a00053.html#ab2154405a408271aa60863454b0303fe", null ],
-    [ "TEST_F", "dc/dee/a00053.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
-    [ "TEST_F", "dc/dee/a00053.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
-    [ "TEST_F", "dc/dee/a00053.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
-    [ "TEST_F", "dc/dee/a00053.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
-    [ "TEST_F", "dc/dee/a00053.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
-    [ "TEST_F", "dc/dee/a00053.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
-    [ "TEST_F", "dc/dee/a00053.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "d5/d1d/a29414.html", "d5/d1d/a29414" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestPlayer", "d8/dc6/a29418.html", "d8/dc6/a29418" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d0/da8/a29422.html", "d0/da8/a29422" ],
+    [ "TEST_F", "dc/dee/a00053.html#ab69ef1935950dc8de0cefd60510d681d", null ],
+    [ "TEST_F", "dc/dee/a00053.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
 ];

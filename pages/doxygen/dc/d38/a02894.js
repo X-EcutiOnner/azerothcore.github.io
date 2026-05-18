@@ -1,14 +1,23 @@
 var a02894 =
 [
-    [ "go_main_chambers_access_panel", "d8/d51/a23026.html", "d8/d51/a23026" ],
-    [ "instance_steam_vault", "de/dbe/a23030.html", "de/dbe/a23030" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "dc/d6b/a23034.html", "dc/d6b/a23034" ],
-    [ "MainChambersAccessPanelSays", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "dc/d38/a02894.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "dc/d38/a02894.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "dc/d38/a02894.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "dc/d38/a02894.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "dc/d38/a02894.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "AddSC_achievement_scripts", "dc/d38/a02894.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "dc/d38/a02894.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "dc/d38/a02894.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "dc/d38/a02894.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "dc/d38/a02894.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "dc/d38/a02894.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "dc/d38/a02894.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "dc/d38/a02894.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "dc/d38/a02894.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "dc/d38/a02894.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "dc/d38/a02894.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "dc/d38/a02894.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "dc/d38/a02894.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "dc/d38/a02894.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "dc/d38/a02894.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "dc/d38/a02894.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "dc/d38/a02894.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "dc/d38/a02894.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "dc/d38/a02894.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "dc/d38/a02894.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

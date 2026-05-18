@@ -118,9 +118,9 @@ $(document).ready(function(){initNavTree('d3/d3e/a09162.html','../../'); initRes
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a7877b9590552f951cebda62021634445"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#a7877b9590552f951cebda62021634445">CalculateEasterSunday</a> (int year)</td></tr>
 <tr class="separator:a7877b9590552f951cebda62021634445"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e98186819af811251e80e69ae96c13b"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#a4e98186819af811251e80e69ae96c13b">CalculateNthWeekday</a> (int year, int month, <a class="el" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> weekday, int n)</td></tr>
+<tr class="memitem:a4e98186819af811251e80e69ae96c13b"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#a4e98186819af811251e80e69ae96c13b">CalculateNthWeekday</a> (int year, int month, <a class="el" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> weekday, int n)</td></tr>
 <tr class="separator:a4e98186819af811251e80e69ae96c13b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af29aa127743e914f29ed413a13fca808"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#af29aa127743e914f29ed413a13fca808">CalculateWeekdayOnOrAfter</a> (int year, int month, int day, <a class="el" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> weekday)</td></tr>
+<tr class="memitem:af29aa127743e914f29ed413a13fca808"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#af29aa127743e914f29ed413a13fca808">CalculateWeekdayOnOrAfter</a> (int year, int month, int day, <a class="el" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a> weekday)</td></tr>
 <tr class="separator:af29aa127743e914f29ed413a13fca808"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a341be2e060a41c0be7a70fdabe608c6b"><td class="memItemLeft" align="right" valign="top">static std::tm&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d3e/a09162.html#a341be2e060a41c0be7a70fdabe608c6b">CalculateLunarNewYear</a> (int year)</td></tr>
 <tr class="separator:a341be2e060a41c0be7a70fdabe608c6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -192,23 +192,23 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  391</span>    <span class="comment">// Periodic terms for correction (Table 27.B)</span></div>
 <div class="line"><span class="lineno">  392</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> T = (JDE0 - 2451545.0) / 36525.0;</div>
 <div class="line"><span class="lineno">  393</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> W = 35999.373 * T - 2.47;</div>
-<div class="line"><span class="lineno">  394</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> deltaLambda = 1.0 + 0.0334 * std::cos(W * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  395</span>                             + 0.0007 * std::cos(2.0 * W * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
+<div class="line"><span class="lineno">  394</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> deltaLambda = 1.0 + 0.0334 * std::cos(W * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  395</span>                             + 0.0007 * std::cos(2.0 * W * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
 <div class="line"><span class="lineno">  396</span> </div>
 <div class="line"><span class="lineno">  397</span>    <span class="comment">// Simplified correction (sum of periodic terms from Table 27.C)</span></div>
 <div class="line"><span class="lineno">  398</span>    <span class="comment">// Using first few significant terms</span></div>
-<div class="line"><span class="lineno">  399</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> S = 485 * std::cos((324.96 + 1934.136 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  400</span>                   + 203 * std::cos((337.23 + 32964.467 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  401</span>                   + 199 * std::cos((342.08 + 20.186 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  402</span>                   + 182 * std::cos((27.85 + 445267.112 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  403</span>                   + 156 * std::cos((73.14 + 45036.886 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  404</span>                   + 136 * std::cos((171.52 + 22518.443 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  405</span>                   + 77 * std::cos((222.54 + 65928.934 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  406</span>                   + 74 * std::cos((296.72 + 3034.906 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  407</span>                   + 70 * std::cos((243.58 + 9037.513 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  408</span>                   + 58 * std::cos((119.81 + 33718.147 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  409</span>                   + 52 * std::cos((297.17 + 150.678 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  410</span>                   + 50 * std::cos((21.02 + 2281.226 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
+<div class="line"><span class="lineno">  399</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> S = 485 * std::cos((324.96 + 1934.136 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  400</span>                   + 203 * std::cos((337.23 + 32964.467 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  401</span>                   + 199 * std::cos((342.08 + 20.186 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  402</span>                   + 182 * std::cos((27.85 + 445267.112 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  403</span>                   + 156 * std::cos((73.14 + 45036.886 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  404</span>                   + 136 * std::cos((171.52 + 22518.443 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  405</span>                   + 77 * std::cos((222.54 + 65928.934 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  406</span>                   + 74 * std::cos((296.72 + 3034.906 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  407</span>                   + 70 * std::cos((243.58 + 9037.513 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  408</span>                   + 58 * std::cos((119.81 + 33718.147 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  409</span>                   + 52 * std::cos((297.17 + 150.678 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  410</span>                   + 50 * std::cos((21.02 + 2281.226 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
 <div class="line"><span class="lineno">  411</span> </div>
 <div class="line"><span class="lineno">  412</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> JDE = JDE0 + (0.00001 * S) / deltaLambda;</div>
 <div class="line"><span class="lineno">  413</span> </div>
@@ -222,11 +222,11 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  421</span>    result.tm_year = eqYear - 1900;</div>
 <div class="line"><span class="lineno">  422</span>    result.tm_mon = eqMonth - 1;</div>
 <div class="line"><span class="lineno">  423</span>    result.tm_mday = eqDay;</div>
-<div class="line"><span class="lineno">  424</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  424</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  425</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  426</span>}</div>
-<div class="ttc" id="aa01112_html_a410b5189721a469108e809fbf4f6e601"><div class="ttname"><a href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a></div><div class="ttdeci">constexpr double DEG_TO_RAD</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:24</div></div>
-<div class="ttc" id="aa01112_html_a867322206e11e2197b7815e7584eeaba"><div class="ttname"><a href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a></div><div class="ttdeci">static void NormalizeDate(std::tm &amp;date)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:41</div></div>
+<div class="ttc" id="aa01562_html_a410b5189721a469108e809fbf4f6e601"><div class="ttname"><a href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a></div><div class="ttdeci">constexpr double DEG_TO_RAD</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:24</div></div>
+<div class="ttc" id="aa01562_html_a867322206e11e2197b7815e7584eeaba"><div class="ttname"><a href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a></div><div class="ttdeci">static void NormalizeDate(std::tm &amp;date)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:41</div></div>
 <div class="ttc" id="aa09162_html_a133ee41b0b50d9eed90cd185aeec24c1"><div class="ttname"><a href="../../d3/d3e/a09162.html#a133ee41b0b50d9eed90cd185aeec24c1">HolidayDateCalculator::JulianDayToDate</a></div><div class="ttdeci">static void JulianDayToDate(double jd, int &amp;year, int &amp;month, int &amp;day)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:235</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">DEG_TO_RAD</a>, <a class="el" href="../../#l00235">JulianDayToDate()</a>, and <a class="el" href="../../#l00041">NormalizeDate()</a>.</p>
@@ -280,7 +280,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  171</span>    result.tm_year = year - 1900;</div>
 <div class="line"><span class="lineno">  172</span>    result.tm_mon = month - 1;</div>
 <div class="line"><span class="lineno">  173</span>    result.tm_mday = day;</div>
-<div class="line"><span class="lineno">  174</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  174</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  175</span> </div>
 <div class="line"><span class="lineno">  176</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  177</span>}</div>
@@ -334,16 +334,16 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  490</span>            result.tm_year = year - 1900;</div>
 <div class="line"><span class="lineno">  491</span>            result.tm_mon = rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">month</a> - 1;</div>
 <div class="line"><span class="lineno">  492</span>            result.tm_mday = rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">day</a>;</div>
-<div class="line"><span class="lineno">  493</span>            <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  493</span>            <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  494</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  495</span>        }</div>
 <div class="line"><span class="lineno">  496</span>        <span class="keywordflow">case</span> HolidayCalculationType::NTH_WEEKDAY:</div>
 <div class="line"><span class="lineno">  497</span>        {</div>
-<div class="line"><span class="lineno">  498</span>            result = <a class="code hl_function" href="../../d3/d3e/a09162.html#a4e98186819af811251e80e69ae96c13b">CalculateNthWeekday</a>(year, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">month</a>, <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a><span class="keyword">&gt;</span>(rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#ac431dcdf2d64ae5e31d72971d208ef5b">weekday</a>), rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">day</a>);</div>
+<div class="line"><span class="lineno">  498</span>            result = <a class="code hl_function" href="../../d3/d3e/a09162.html#a4e98186819af811251e80e69ae96c13b">CalculateNthWeekday</a>(year, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">month</a>, <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a><span class="keyword">&gt;</span>(rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#ac431dcdf2d64ae5e31d72971d208ef5b">weekday</a>), rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">day</a>);</div>
 <div class="line"><span class="lineno">  499</span>            <span class="keywordflow">if</span> (rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a> != 0)</div>
 <div class="line"><span class="lineno">  500</span>            {</div>
 <div class="line"><span class="lineno">  501</span>                result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  502</span>                <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  502</span>                <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  503</span>            }</div>
 <div class="line"><span class="lineno">  504</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  505</span>        }</div>
@@ -351,7 +351,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  507</span>        {</div>
 <div class="line"><span class="lineno">  508</span>            result = <a class="code hl_function" href="../../d3/d3e/a09162.html#a7877b9590552f951cebda62021634445">CalculateEasterSunday</a>(year);</div>
 <div class="line"><span class="lineno">  509</span>            result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  510</span>            <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  510</span>            <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  511</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  512</span>        }</div>
 <div class="line"><span class="lineno">  513</span>        <span class="keywordflow">case</span> HolidayCalculationType::LUNAR_NEW_YEAR:</div>
@@ -360,17 +360,17 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  516</span>            <span class="keywordflow">if</span> (rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a> != 0)</div>
 <div class="line"><span class="lineno">  517</span>            {</div>
 <div class="line"><span class="lineno">  518</span>                result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  519</span>                <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  519</span>                <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  520</span>            }</div>
 <div class="line"><span class="lineno">  521</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  522</span>        }</div>
 <div class="line"><span class="lineno">  523</span>        <span class="keywordflow">case</span> HolidayCalculationType::WEEKDAY_ON_OR_AFTER:</div>
 <div class="line"><span class="lineno">  524</span>        {</div>
-<div class="line"><span class="lineno">  525</span>            result = <a class="code hl_function" href="../../d3/d3e/a09162.html#af29aa127743e914f29ed413a13fca808">CalculateWeekdayOnOrAfter</a>(year, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">month</a>, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">day</a>, <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a><span class="keyword">&gt;</span>(rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#ac431dcdf2d64ae5e31d72971d208ef5b">weekday</a>));</div>
+<div class="line"><span class="lineno">  525</span>            result = <a class="code hl_function" href="../../d3/d3e/a09162.html#af29aa127743e914f29ed413a13fca808">CalculateWeekdayOnOrAfter</a>(year, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">month</a>, rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">day</a>, <span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a><span class="keyword">&gt;</span>(rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#ac431dcdf2d64ae5e31d72971d208ef5b">weekday</a>));</div>
 <div class="line"><span class="lineno">  526</span>            <span class="keywordflow">if</span> (rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a> != 0)</div>
 <div class="line"><span class="lineno">  527</span>            {</div>
 <div class="line"><span class="lineno">  528</span>                result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  529</span>                <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  529</span>                <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  530</span>            }</div>
 <div class="line"><span class="lineno">  531</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  532</span>        }</div>
@@ -380,7 +380,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  536</span>            <span class="keywordflow">if</span> (rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a> != 0)</div>
 <div class="line"><span class="lineno">  537</span>            {</div>
 <div class="line"><span class="lineno">  538</span>                result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  539</span>                <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  539</span>                <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  540</span>            }</div>
 <div class="line"><span class="lineno">  541</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  542</span>        }</div>
@@ -390,7 +390,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  546</span>            <span class="keywordflow">if</span> (rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a> != 0)</div>
 <div class="line"><span class="lineno">  547</span>            {</div>
 <div class="line"><span class="lineno">  548</span>                result.tm_mday += rule.<a class="code hl_variable" href="../../d2/dd7/a09158.html#aaa9bf14668239ea561aecc33104e245a">offset</a>;</div>
-<div class="line"><span class="lineno">  549</span>                <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  549</span>                <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  550</span>            }</div>
 <div class="line"><span class="lineno">  551</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  552</span>        }</div>
@@ -415,7 +415,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  571</span> </div>
 <div class="line"><span class="lineno">  572</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  573</span>}</div>
-<div class="ttc" id="aa01115_html_aec3d5ec6653b2c392d449500b8f5cb3a"><div class="ttname"><a href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a></div><div class="ttdeci">Weekday</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.h:38</div></div>
+<div class="ttc" id="aa01559_html_aec3d5ec6653b2c392d449500b8f5cb3a"><div class="ttname"><a href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a></div><div class="ttdeci">Weekday</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.h:38</div></div>
 <div class="ttc" id="aa09158_html_a25f2529332f23c93b37e5c918032eb3d"><div class="ttname"><a href="../../d2/dd7/a09158.html#a25f2529332f23c93b37e5c918032eb3d">HolidayRule::type</a></div><div class="ttdeci">HolidayCalculationType type</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.h:51</div></div>
 <div class="ttc" id="aa09158_html_a50a70dfa2fdb407101edf051eeacbad6"><div class="ttname"><a href="../../d2/dd7/a09158.html#a50a70dfa2fdb407101edf051eeacbad6">HolidayRule::day</a></div><div class="ttdeci">int day</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.h:53</div></div>
 <div class="ttc" id="aa09158_html_a55e1cf64111db7eeeec72c594b76c56d"><div class="ttname"><a href="../../d2/dd7/a09158.html#a55e1cf64111db7eeeec72c594b76c56d">HolidayRule::month</a></div><div class="ttdeci">int month</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.h:52</div></div>
@@ -486,7 +486,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  355</span>            result.tm_year = cnyYear - 1900;</div>
 <div class="line"><span class="lineno">  356</span>            result.tm_mon = cnyMonth - 1;</div>
 <div class="line"><span class="lineno">  357</span>            result.tm_mday = cnyDay;</div>
-<div class="line"><span class="lineno">  358</span>            <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  358</span>            <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  359</span>            <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  360</span>        }</div>
 <div class="line"><span class="lineno">  361</span>    }</div>
@@ -496,7 +496,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  365</span>    fallback.tm_year = year - 1900;</div>
 <div class="line"><span class="lineno">  366</span>    fallback.tm_mon = 0;  <span class="comment">// January</span></div>
 <div class="line"><span class="lineno">  367</span>    fallback.tm_mday = 25;</div>
-<div class="line"><span class="lineno">  368</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(fallback);</div>
+<div class="line"><span class="lineno">  368</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(fallback);</div>
 <div class="line"><span class="lineno">  369</span>    <span class="keywordflow">return</span> fallback;</div>
 <div class="line"><span class="lineno">  370</span>}</div>
 <div class="ttc" id="aa09162_html_a6db890c706217c35c8579a0d14e240c4"><div class="ttname"><a href="../../d3/d3e/a09162.html#a6db890c706217c35c8579a0d14e240c4">HolidayDateCalculator::CalculateNewMoon</a></div><div class="ttdeci">static double CalculateNewMoon(double k)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:255</div></div>
@@ -562,21 +562,21 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  284</span> </div>
 <div class="line"><span class="lineno">  285</span>    <span class="comment">// New Moon corrections (Table 49.A)</span></div>
 <div class="line"><span class="lineno">  286</span>    <span class="keywordtype">double</span> correction =</div>
-<div class="line"><span class="lineno">  287</span>        - 0.40720 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime)</div>
-<div class="line"><span class="lineno">  288</span>        + 0.17241 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M)</div>
-<div class="line"><span class="lineno">  289</span>        + 0.01608 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime)</div>
-<div class="line"><span class="lineno">  290</span>        + 0.01039 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * F)</div>
-<div class="line"><span class="lineno">  291</span>        + 0.00739 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime - M)</div>
-<div class="line"><span class="lineno">  292</span>        - 0.00514 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime + M)</div>
-<div class="line"><span class="lineno">  293</span>        + 0.00208 * E2 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * M)</div>
-<div class="line"><span class="lineno">  294</span>        - 0.00111 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime - 2 * F)</div>
-<div class="line"><span class="lineno">  295</span>        - 0.00057 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime + 2 * F)</div>
-<div class="line"><span class="lineno">  296</span>        + 0.00056 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime + M)</div>
-<div class="line"><span class="lineno">  297</span>        - 0.00042 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(3 * MPrime)</div>
-<div class="line"><span class="lineno">  298</span>        + 0.00042 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M + 2 * F)</div>
-<div class="line"><span class="lineno">  299</span>        + 0.00038 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M - 2 * F)</div>
-<div class="line"><span class="lineno">  300</span>        - 0.00024 * E * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime - M)</div>
-<div class="line"><span class="lineno">  301</span>        - 0.00017 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(Omega);</div>
+<div class="line"><span class="lineno">  287</span>        - 0.40720 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime)</div>
+<div class="line"><span class="lineno">  288</span>        + 0.17241 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M)</div>
+<div class="line"><span class="lineno">  289</span>        + 0.01608 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime)</div>
+<div class="line"><span class="lineno">  290</span>        + 0.01039 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * F)</div>
+<div class="line"><span class="lineno">  291</span>        + 0.00739 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime - M)</div>
+<div class="line"><span class="lineno">  292</span>        - 0.00514 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime + M)</div>
+<div class="line"><span class="lineno">  293</span>        + 0.00208 * E2 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * M)</div>
+<div class="line"><span class="lineno">  294</span>        - 0.00111 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime - 2 * F)</div>
+<div class="line"><span class="lineno">  295</span>        - 0.00057 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(MPrime + 2 * F)</div>
+<div class="line"><span class="lineno">  296</span>        + 0.00056 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime + M)</div>
+<div class="line"><span class="lineno">  297</span>        - 0.00042 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(3 * MPrime)</div>
+<div class="line"><span class="lineno">  298</span>        + 0.00042 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M + 2 * F)</div>
+<div class="line"><span class="lineno">  299</span>        + 0.00038 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(M - 2 * F)</div>
+<div class="line"><span class="lineno">  300</span>        - 0.00024 * E * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(2 * MPrime - M)</div>
+<div class="line"><span class="lineno">  301</span>        - 0.00017 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(Omega);</div>
 <div class="line"><span class="lineno">  302</span> </div>
 <div class="line"><span class="lineno">  303</span>    <span class="comment">// Additional planetary corrections (Table 49.B)</span></div>
 <div class="line"><span class="lineno">  304</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> A1  = 299.77 +  0.107408 * k - 0.009173 * T2;</div>
@@ -594,15 +594,15 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  316</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> A13 = 239.56 + 25.513099 * k;</div>
 <div class="line"><span class="lineno">  317</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> A14 = 331.55 +  3.592518 * k;</div>
 <div class="line"><span class="lineno">  318</span> </div>
-<div class="line"><span class="lineno">  319</span>    correction += 0.000325 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A1) + 0.000165 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A2) + 0.000164 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A3)</div>
-<div class="line"><span class="lineno">  320</span>                + 0.000126 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A4) + 0.000110 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A5) + 0.000062 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A6)</div>
-<div class="line"><span class="lineno">  321</span>                + 0.000060 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A7) + 0.000056 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A8) + 0.000047 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A9)</div>
-<div class="line"><span class="lineno">  322</span>                + 0.000042 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A10) + 0.000040 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A11) + 0.000037 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A12)</div>
-<div class="line"><span class="lineno">  323</span>                + 0.000035 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A13) + 0.000023 * <a class="code hl_function" href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A14);</div>
+<div class="line"><span class="lineno">  319</span>    correction += 0.000325 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A1) + 0.000165 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A2) + 0.000164 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A3)</div>
+<div class="line"><span class="lineno">  320</span>                + 0.000126 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A4) + 0.000110 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A5) + 0.000062 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A6)</div>
+<div class="line"><span class="lineno">  321</span>                + 0.000060 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A7) + 0.000056 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A8) + 0.000047 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A9)</div>
+<div class="line"><span class="lineno">  322</span>                + 0.000042 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A10) + 0.000040 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A11) + 0.000037 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A12)</div>
+<div class="line"><span class="lineno">  323</span>                + 0.000035 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A13) + 0.000023 * <a class="code hl_function" href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a>(A14);</div>
 <div class="line"><span class="lineno">  324</span> </div>
 <div class="line"><span class="lineno">  325</span>    <span class="keywordflow">return</span> JDE + correction;</div>
 <div class="line"><span class="lineno">  326</span>}</div>
-<div class="ttc" id="aa01112_html_a6dd118cfa29609d98e0207909b863c88"><div class="ttname"><a href="../../d0/d39/a01112.html#a6dd118cfa29609d98e0207909b863c88">sind</a></div><div class="ttdeci">double sind(double deg)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:27</div></div>
+<div class="ttc" id="aa01562_html_a6dd118cfa29609d98e0207909b863c88"><div class="ttname"><a href="../../d2/dc1/a01562.html#a6dd118cfa29609d98e0207909b863c88">sind</a></div><div class="ttdeci">double sind(double deg)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00027">sind()</a>.</p>
 
@@ -634,7 +634,7 @@ Static Private Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a>&#160;</td>
           <td class="paramname"><em>weekday</em>, </td>
         </tr>
         <tr>
@@ -661,7 +661,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  183</span>    date.tm_year = year - 1900;</div>
 <div class="line"><span class="lineno">  184</span>    date.tm_mon = month - 1;</div>
 <div class="line"><span class="lineno">  185</span>    date.tm_mday = 1;</div>
-<div class="line"><span class="lineno">  186</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
+<div class="line"><span class="lineno">  186</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
 <div class="line"><span class="lineno">  187</span> </div>
 <div class="line"><span class="lineno">  188</span>    <span class="comment">// Find first occurrence of the target weekday</span></div>
 <div class="line"><span class="lineno">  189</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> daysUntilWeekday = (<span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(weekday) - date.tm_wday + 7) % 7;</div>
@@ -670,7 +670,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  192</span>    <span class="comment">// Move to nth occurrence</span></div>
 <div class="line"><span class="lineno">  193</span>    date.tm_mday += (n - 1) * 7;</div>
 <div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
+<div class="line"><span class="lineno">  195</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
 <div class="line"><span class="lineno">  196</span>    <span class="keywordflow">return</span> date;</div>
 <div class="line"><span class="lineno">  197</span>}</div>
 </div><!-- fragment -->
@@ -710,7 +710,7 @@ Static Private Member Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../df/dd5/a01115.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d1a/a01559.html#aec3d5ec6653b2c392d449500b8f5cb3a">Weekday</a>&#160;</td>
           <td class="paramname"><em>weekday</em>&#160;</td>
         </tr>
         <tr>
@@ -731,13 +731,13 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  203</span>    date.tm_year = year - 1900;</div>
 <div class="line"><span class="lineno">  204</span>    date.tm_mon = month - 1;</div>
 <div class="line"><span class="lineno">  205</span>    date.tm_mday = day;</div>
-<div class="line"><span class="lineno">  206</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
+<div class="line"><span class="lineno">  206</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
 <div class="line"><span class="lineno">  207</span> </div>
 <div class="line"><span class="lineno">  208</span>    <span class="comment">// Find days until the target weekday (0 if already on that day)</span></div>
 <div class="line"><span class="lineno">  209</span>    <span class="keywordtype">int</span> <span class="keyword">const</span> daysUntilWeekday = (<span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(weekday) - date.tm_wday + 7) % 7;</div>
 <div class="line"><span class="lineno">  210</span>    date.tm_mday += daysUntilWeekday;</div>
 <div class="line"><span class="lineno">  211</span> </div>
-<div class="line"><span class="lineno">  212</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
+<div class="line"><span class="lineno">  212</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
 <div class="line"><span class="lineno">  213</span>    <span class="keywordflow">return</span> date;</div>
 <div class="line"><span class="lineno">  214</span>}</div>
 </div><!-- fragment -->
@@ -785,22 +785,22 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  446</span>    <span class="comment">// Periodic terms for correction (Table 27.B)</span></div>
 <div class="line"><span class="lineno">  447</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> T = (JDE0 - 2451545.0) / 36525.0;</div>
 <div class="line"><span class="lineno">  448</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> W = 35999.373 * T - 2.47;</div>
-<div class="line"><span class="lineno">  449</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> deltaLambda = 1.0 + 0.0334 * std::cos(W * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  450</span>                             + 0.0007 * std::cos(2.0 * W * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
+<div class="line"><span class="lineno">  449</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> deltaLambda = 1.0 + 0.0334 * std::cos(W * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  450</span>                             + 0.0007 * std::cos(2.0 * W * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
 <div class="line"><span class="lineno">  451</span> </div>
 <div class="line"><span class="lineno">  452</span>    <span class="comment">// Simplified correction (sum of periodic terms from Table 27.C)</span></div>
-<div class="line"><span class="lineno">  453</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> S = 485 * std::cos((324.96 + 1934.136 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  454</span>                   + 203 * std::cos((337.23 + 32964.467 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  455</span>                   + 199 * std::cos((342.08 + 20.186 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  456</span>                   + 182 * std::cos((27.85 + 445267.112 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  457</span>                   + 156 * std::cos((73.14 + 45036.886 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  458</span>                   + 136 * std::cos((171.52 + 22518.443 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  459</span>                   + 77 * std::cos((222.54 + 65928.934 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  460</span>                   + 74 * std::cos((296.72 + 3034.906 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  461</span>                   + 70 * std::cos((243.58 + 9037.513 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  462</span>                   + 58 * std::cos((119.81 + 33718.147 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  463</span>                   + 52 * std::cos((297.17 + 150.678 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
-<div class="line"><span class="lineno">  464</span>                   + 50 * std::cos((21.02 + 2281.226 * T) * <a class="code hl_variable" href="../../d0/d39/a01112.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
+<div class="line"><span class="lineno">  453</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> S = 485 * std::cos((324.96 + 1934.136 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  454</span>                   + 203 * std::cos((337.23 + 32964.467 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  455</span>                   + 199 * std::cos((342.08 + 20.186 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  456</span>                   + 182 * std::cos((27.85 + 445267.112 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  457</span>                   + 156 * std::cos((73.14 + 45036.886 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  458</span>                   + 136 * std::cos((171.52 + 22518.443 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  459</span>                   + 77 * std::cos((222.54 + 65928.934 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  460</span>                   + 74 * std::cos((296.72 + 3034.906 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  461</span>                   + 70 * std::cos((243.58 + 9037.513 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  462</span>                   + 58 * std::cos((119.81 + 33718.147 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  463</span>                   + 52 * std::cos((297.17 + 150.678 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>)</div>
+<div class="line"><span class="lineno">  464</span>                   + 50 * std::cos((21.02 + 2281.226 * T) * <a class="code hl_variable" href="../../d2/dc1/a01562.html#a410b5189721a469108e809fbf4f6e601">DEG_TO_RAD</a>);</div>
 <div class="line"><span class="lineno">  465</span> </div>
 <div class="line"><span class="lineno">  466</span>    <span class="keywordtype">double</span> <span class="keyword">const</span> JDE = JDE0 + (0.00001 * S) / deltaLambda;</div>
 <div class="line"><span class="lineno">  467</span> </div>
@@ -814,7 +814,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  475</span>    result.tm_year = solYear - 1900;</div>
 <div class="line"><span class="lineno">  476</span>    result.tm_mon = solMonth - 1;</div>
 <div class="line"><span class="lineno">  477</span>    result.tm_mday = solDay;</div>
-<div class="line"><span class="lineno">  478</span>    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
+<div class="line"><span class="lineno">  478</span>    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(result);</div>
 <div class="line"><span class="lineno">  479</span>    <span class="keywordflow">return</span> result;</div>
 <div class="line"><span class="lineno">  480</span>}</div>
 </div><!-- fragment -->
@@ -1019,7 +1019,7 @@ Static Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  638</span>                <span class="keywordflow">if</span> (dayOffset != 0)</div>
 <div class="line"><span class="lineno">  639</span>                {</div>
 <div class="line"><span class="lineno">  640</span>                    date.tm_mday += dayOffset;</div>
-<div class="line"><span class="lineno">  641</span>                    <a class="code hl_function" href="../../d0/d39/a01112.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
+<div class="line"><span class="lineno">  641</span>                    <a class="code hl_function" href="../../d2/dc1/a01562.html#a867322206e11e2197b7815e7584eeaba">NormalizeDate</a>(date);</div>
 <div class="line"><span class="lineno">  642</span>                }</div>
 <div class="line"><span class="lineno">  643</span>                dates.push_back(<a class="code hl_function" href="../../d3/d3e/a09162.html#ab39f6c1b37867d57464a6243c14e3610">PackDate</a>(date));</div>
 <div class="line"><span class="lineno">  644</span>            }</div>
@@ -1059,9 +1059,9 @@ Static Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d39/a01112.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a>;</div>
+<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/dc1/a01562.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a>;</div>
 <div class="line"><span class="lineno">  149</span>}</div>
-<div class="ttc" id="aa01112_html_a629dd822786c11d06b417c4326ae30fe"><div class="ttname"><a href="../../d0/d39/a01112.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a></div><div class="ttdeci">static const std::vector&lt; HolidayRule &gt; HolidayRules</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:97</div></div>
+<div class="ttc" id="aa01562_html_a629dd822786c11d06b417c4326ae30fe"><div class="ttname"><a href="../../d2/dc1/a01562.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a></div><div class="ttdeci">static const std::vector&lt; HolidayRule &gt; HolidayRules</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:97</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00097">HolidayRules</a>.</p>
 
@@ -1103,7 +1103,7 @@ Static Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  609</span>{</div>
-<div class="line"><span class="lineno">  610</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rule : <a class="code hl_variable" href="../../d0/d39/a01112.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a>)</div>
+<div class="line"><span class="lineno">  610</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; rule : <a class="code hl_variable" href="../../d2/dc1/a01562.html#a629dd822786c11d06b417c4326ae30fe">HolidayRules</a>)</div>
 <div class="line"><span class="lineno">  611</span>    {</div>
 <div class="line"><span class="lineno">  612</span>        <span class="keywordflow">if</span> (rule.holidayId == holidayId)</div>
 <div class="line"><span class="lineno">  613</span>        {</div>
@@ -1280,7 +1280,7 @@ Static Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d3e/a09162.html">HolidayDateCalculator</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:53:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:51:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

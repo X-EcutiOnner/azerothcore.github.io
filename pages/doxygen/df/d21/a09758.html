@@ -116,7 +116,7 @@ $(document).ready(function(){initNavTree('df/d21/a09758.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad64e96c8484be1354ad4a3c0b6754d95"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#ad64e96c8484be1354ad4a3c0b6754d95">AllGameObjectsMatchingOneEntryInRange</a> (<a class="el" href="../../da/d2c/a08718.html">WorldObject</a> const *object, std::vector&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; entries, float maxRange)</td></tr>
+<tr class="memitem:ad64e96c8484be1354ad4a3c0b6754d95"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#ad64e96c8484be1354ad4a3c0b6754d95">AllGameObjectsMatchingOneEntryInRange</a> (<a class="el" href="../../da/d2c/a08718.html">WorldObject</a> const *object, std::vector&lt; <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; entries, float maxRange)</td></tr>
 <tr class="separator:ad64e96c8484be1354ad4a3c0b6754d95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afc81f329be9d6d8eb8bfd2ade94c5665"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#afc81f329be9d6d8eb8bfd2ade94c5665">operator()</a> (<a class="el" href="../../d4/de6/a08486.html">GameObject</a> *go)</td></tr>
 <tr class="separator:afc81f329be9d6d8eb8bfd2ade94c5665"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -125,7 +125,7 @@ Public Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:ac2bae147199d0b1b592a560017128c4e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d2c/a08718.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#ac2bae147199d0b1b592a560017128c4e">m_pObject</a></td></tr>
 <tr class="separator:ac2bae147199d0b1b592a560017128c4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3eb95fd72147ab8195da44a46c2cf0e6"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#a3eb95fd72147ab8195da44a46c2cf0e6">m_uiEntries</a></td></tr>
+<tr class="memitem:a3eb95fd72147ab8195da44a46c2cf0e6"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#a3eb95fd72147ab8195da44a46c2cf0e6">m_uiEntries</a></td></tr>
 <tr class="separator:a3eb95fd72147ab8195da44a46c2cf0e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa76b1a6c8a919c1e5b37c74b33859464"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d21/a09758.html#aa76b1a6c8a919c1e5b37c74b33859464">m_fRange</a></td></tr>
 <tr class="separator:aa76b1a6c8a919c1e5b37c74b33859464"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -150,7 +150,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td>
           <td class="paramname"><em>entries</em>, </td>
         </tr>
         <tr>
@@ -203,12 +203,12 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1459</span>        {</div>
-<div class="line"><span class="lineno"> 1460</span>            <span class="keywordflow">if</span> (std::ranges::any_of( <a class="code hl_variable" href="../../df/d21/a09758.html#a3eb95fd72147ab8195da44a46c2cf0e6">m_uiEntries</a>, [go](<a class="code hl_typedef" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry) { <span class="keywordflow">return</span> go-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == entry; }) &amp;&amp; <a class="code hl_variable" href="../../df/d21/a09758.html#ac2bae147199d0b1b592a560017128c4e">m_pObject</a>-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#ae4ac4fb3c927029f132b38a0e875788d">IsWithinDist</a>(go, <a class="code hl_variable" href="../../df/d21/a09758.html#aa76b1a6c8a919c1e5b37c74b33859464">m_fRange</a>, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno"> 1460</span>            <span class="keywordflow">if</span> (std::ranges::any_of( <a class="code hl_variable" href="../../df/d21/a09758.html#a3eb95fd72147ab8195da44a46c2cf0e6">m_uiEntries</a>, [go](<a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry) { <span class="keywordflow">return</span> go-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == entry; }) &amp;&amp; <a class="code hl_variable" href="../../df/d21/a09758.html#ac2bae147199d0b1b592a560017128c4e">m_pObject</a>-&gt;<a class="code hl_function" href="../../da/d2c/a08718.html#ae4ac4fb3c927029f132b38a0e875788d">IsWithinDist</a>(go, <a class="code hl_variable" href="../../df/d21/a09758.html#aa76b1a6c8a919c1e5b37c74b33859464">m_fRange</a>, <span class="keyword">false</span>))</div>
 <div class="line"><span class="lineno"> 1461</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1462</span> </div>
 <div class="line"><span class="lineno"> 1463</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1464</span>        }</div>
-<div class="ttc" id="aa04580_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa00506_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa08682_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
 <div class="ttc" id="aa08718_html_ae4ac4fb3c927029f132b38a0e875788d"><div class="ttname"><a href="../../da/d2c/a08718.html#ae4ac4fb3c927029f132b38a0e875788d">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1372</div></div>
 </div><!-- fragment -->
@@ -275,7 +275,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../dd/db6/a04580.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; Acore::AllGameObjectsMatchingOneEntryInRange::m_uiEntries</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; Acore::AllGameObjectsMatchingOneEntryInRange::m_uiEntries</td>
         </tr>
       </table>
   </td>
@@ -295,7 +295,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d61/a05028.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/d21/a09758.html">AllGameObjectsMatchingOneEntryInRange</a></li>
-    <li class="footer">Generated on Mon May 11 2026 21:54:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 18 2026 21:52:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

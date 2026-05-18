@@ -1,11 +1,25 @@
 var a00521 =
 [
-    [ "SpellScriptLoader", "d0/d24/a10738.html", "d0/d24/a10738" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "d8/dc5/a10742.html", "d8/dc5/a10742" ],
-    [ "RegisterSpellAndAuraScriptPair", "d7/def/a00521.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
-    [ "RegisterSpellAndAuraScriptPairWithArgs", "d7/def/a00521.html#aeffc3c8d08a35d5969c33508488e9051", null ],
-    [ "RegisterSpellScript", "d7/def/a00521.html#ae221e5976ab29ba14fec3b073a03670f", null ],
-    [ "RegisterSpellScriptWithArgs", "d7/def/a00521.html#aedecf91f4fce46852db865deae243e1f", null ],
-    [ "is_AuraScript", "d7/def/a00521.html#a08facc7292565931370e1cc514f726e1", null ],
-    [ "is_SpellScript", "d7/def/a00521.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
+    [ "ABORT", "d7/def/a00521.html#a5376571bbf4cdc9782683635f366f89a", null ],
+    [ "ASSERT", "d7/def/a00521.html#af343b20373ba49a92fce523e948f2ab3", null ],
+    [ "ASSERT_NODEBUGINFO", "d7/def/a00521.html#ae4aa5b88f8a0cd841e02343e63098f7a", null ],
+    [ "ASSERT_NOTNULL", "d7/def/a00521.html#aee2b3b5656453513bc51a5979b247a67", null ],
+    [ "EXCEPTION_ASSERTION_FAILURE", "d7/def/a00521.html#adb1e581c0b1db74338cf2892218ff23f", null ],
+    [ "WPAbort", "d7/def/a00521.html#aab8761bc4b218ac84ad259cc6e0c1589", null ],
+    [ "WPAssert", "d7/def/a00521.html#a6b3632c6657f3d1633b9a9707d9ede62", null ],
+    [ "WPAssert_NODEBUGINFO", "d7/def/a00521.html#ab0566f9653ccc9fc0e174bda17fc5277", null ],
+    [ "WPError", "d7/def/a00521.html#a7d9ea9088aab1556ba6739861998001a", null ],
+    [ "WPFatal", "d7/def/a00521.html#a47d51826ca35c49a890b7bc2ad6818ea", null ],
+    [ "WPWarning", "d7/def/a00521.html#afbbc90bf1881f7811a1022e7af350b47", null ],
+    [ "Abort", "d7/def/a00521.html#a257b055b35d21943eb2a144cccd26429", null ],
+    [ "Abort", "d7/def/a00521.html#af8c8ba5d8126e10ea9f5d86e8a9e742b", null ],
+    [ "AbortHandler", "d7/def/a00521.html#ad49ea597ac6ffd8eb9ae06bab8c38b43", null ],
+    [ "Assert", "d7/def/a00521.html#aaacb53f863e011c7d879e93567268109", null ],
+    [ "Assert", "d7/def/a00521.html#a1990519ae97867f1a629699d00874fb2", null ],
+    [ "ASSERT_NOTNULL_IMPL", "d7/def/a00521.html#aa8e391e13264a7b2f29f66832263afcf", null ],
+    [ "Error", "d7/def/a00521.html#af222a0bd205c0bcecd8a7b6554137e33", null ],
+    [ "Fatal", "d7/def/a00521.html#a07aa40e12479c740872d1ad7f55acbbc", null ],
+    [ "Fatal", "d7/def/a00521.html#af4a5b364827068eb978fa1a1fff5770f", null ],
+    [ "GetDebugInfo", "d7/def/a00521.html#a4dc49effc31d570798463c106549b1cb", null ],
+    [ "Warning", "d7/def/a00521.html#ab1b23d9277c7dd8d381753ec943ad1bc", null ]
 ];

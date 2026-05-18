@@ -1,12 +1,11 @@
 var a03437 =
 [
-    [ "instance_magisters_terrace", "db/d70/a13254.html", "db/d70/a13254" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d7/d7b/a13258.html", "d7/d7b/a13258" ],
-    [ "AddSC_instance_magisters_terrace", "d5/d56/a03437.html#a39e3bff767d59081afebb72eeb3a1646", null ],
-    [ "boundaries", "d5/d56/a03437.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d5/d56/a03437.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d5/d56/a03437.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "d5/d56/a03437.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "KalecgosSpawnPos", "d5/d56/a03437.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
-    [ "summonerData", "d5/d56/a03437.html#acefca1a118e299acbb631fc6166a1526", null ]
+    [ "npc_announcer_toc10", "d3/d06/a16954.html", "d3/d06/a16954" ],
+    [ "MenuTexts", "d5/d56/a03437.html#a5e87c460d493df2d4629af8c1a30fc5a", [
+      [ "MSG_TESTED", "d5/d56/a03437.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
+      [ "MSG_NEXT_STAGE", "d5/d56/a03437.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
+      [ "MSG_CRUSADERS", "d5/d56/a03437.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
+      [ "MSG_ANUBARAK", "d5/d56/a03437.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
+    ] ],
+    [ "AddSC_trial_of_the_crusader", "d5/d56/a03437.html#aae8fa1928137dde06462a753ceebcca6", null ]
 ];

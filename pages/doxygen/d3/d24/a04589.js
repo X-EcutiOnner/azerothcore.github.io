@@ -1,7 +1,6 @@
 var a04589 =
 [
-    [ "Crash", "d3/d24/a04589.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d3/d24/a04589.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d3/d24/a04589.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d3/d24/a04589.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "DataHeader", "d3/d24/a04589.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ScarletMonasteryScriptName", "d3/d24/a04589.html#ac64beb71a88e1265849782b79406b585", null ],
+    [ "GetScarletMonasteryAI", "d3/d24/a04589.html#aecdcabc87b1cc31996b702fd11416f35", null ]
 ];

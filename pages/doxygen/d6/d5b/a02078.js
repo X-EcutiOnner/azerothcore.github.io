@@ -1,10 +1,6 @@
 var a02078 =
 [
-    [ "AccountFlagText", "d5/d45/a12250.html", "d5/d45/a12250" ],
-    [ "misc_commandscript", "d2/d45/a12254.html", "d2/d45/a12254" ],
-    [ "AddSC_misc_commandscript", "d6/d5b/a02078.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "d6/d5b/a02078.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "accountFlagText", "d6/d5b/a02078.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
-    [ "SPELL_FREEZE", "d6/d5b/a02078.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "d6/d5b/a02078.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "CinematicMgr", "dd/d8b/a08814.html", "dd/d8b/a08814" ],
+    [ "CINEMATIC_LOOKAHEAD", "d6/d5b/a02078.html#ae1b03a0a84708dbd9b5487f49762b4a9", null ],
+    [ "CINEMATIC_UPDATEDIFF", "d6/d5b/a02078.html#afdc341ad7f2f8cdfcf101e128dd7bbbb", null ]
 ];

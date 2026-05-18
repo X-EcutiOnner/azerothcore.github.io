@@ -1,5 +1,5 @@
 var a01196 =
 [
-    [ "holetab_h", "d2/d22/a01196.html#a10e90ca95e60d3244de3e68d7882433b", null ],
-    [ "holetab_v", "d2/d22/a01196.html#a54b408dce116992610ba9c141426d821", null ]
+    [ "MapMgr", "d0/d6f/a10178.html", "d0/d6f/a10178" ],
+    [ "sMapMgr", "d2/d22/a01196.html#a9132749f8376c48b0ca7212eb3293905", null ]
 ];

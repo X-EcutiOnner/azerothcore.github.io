@@ -1,21 +1,15 @@
 var a03464 =
 [
-    [ "npc_partygoer_pather", "dc/d07/a13898.html", "dc/d07/a13898" ],
-    [ "npc_partygoer", "d4/d99/a13902.html", "d4/d99/a13902" ],
-    [ "npc_lor_themar_theron", "d8/d41/a13906.html", "d8/d41/a13906" ],
-    [ "Partygoer", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "d4/d4b/a03464.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "icecrown_citadel_teleport", "d4/d8e/a19110.html", "d4/d8e/a19110" ],
+    [ "at_frozen_throne_teleport", "d9/d93/a19114.html", "d9/d93/a19114" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "d4/d4b/a03464.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d4/d4b/a03464.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
     ] ],
-    [ "Partygoer_Pather", "d4/d4b/a03464.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "d4/d4b/a03464.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "d4/d4b/a03464.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d4/d4b/a03464.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "d4/d4b/a03464.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "d4/d4b/a03464.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "AddSC_icecrown_citadel_teleport", "d4/d4b/a03464.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

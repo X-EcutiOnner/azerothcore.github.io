@@ -1,10 +1,8 @@
 var a02492 =
 [
-    [ "AccountFlagText", "dc/d7f/a12290.html", "dc/d7f/a12290" ],
-    [ "misc_commandscript", "d1/d37/a12294.html", "d1/d37/a12294" ],
-    [ "AddSC_misc_commandscript", "d6/d90/a02492.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
-    [ "GetLocalizeCreatureName", "d6/d90/a02492.html#aaedbdfd3cae227b11684151f41e3b977", null ],
-    [ "accountFlagText", "d6/d90/a02492.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
-    [ "SPELL_FREEZE", "d6/d90/a02492.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
-    [ "SPELL_STUCK", "d6/d90/a02492.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
+    [ "GameObjectScript", "da/dd1/a10666.html", "da/dd1/a10666" ],
+    [ "GenericGameObjectScript< AI >", "de/d0e/a10670.html", "de/d0e/a10670" ],
+    [ "FactoryGameObjectScript< AI, AIFactory >", "d6/d40/a10674.html", "d6/d40/a10674" ],
+    [ "RegisterGameObjectAI", "d6/d90/a02492.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
+    [ "RegisterGameObjectAIWithFactory", "d6/d90/a02492.html#a1614f98721d8a94351c4be15a72e499f", null ]
 ];

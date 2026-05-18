@@ -1,5 +1,4 @@
 var a02561 =
 [
-    [ "pet_commandscript", "db/de2/a12322.html", "db/de2/a12322" ],
-    [ "AddSC_pet_commandscript", "d1/d67/a02561.html#a9c7b2cae4f7afb6ae0c9ccc623877625", null ]
+    [ "ScriptRegistry< ConditionScript >", "d1/d67/a02561.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
 ];

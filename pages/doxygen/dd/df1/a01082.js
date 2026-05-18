@@ -1,25 +1,20 @@
 var a01082 =
 [
-    [ "PlayerDump", "d9/df9/a12022.html", "d9/df9/a12022" ],
-    [ "PlayerDumpWriter", "d8/d02/a12026.html", "d8/d02/a12026" ],
-    [ "PlayerDumpReader", "d5/d88/a12030.html", "d5/d88/a12030" ],
-    [ "DumpReturn", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "dd/df1/a01082.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
-    ] ],
-    [ "DumpTableType", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "dd/df1/a01082.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "WorldPackets::Misc::Weather", "d7/d4e/a11258.html", "d7/d4e/a11258" ],
+    [ "WorldPackets::Misc::LevelUpInfo", "dd/d1f/a11262.html", "dd/d1f/a11262" ],
+    [ "WorldPackets::Misc::PlayMusic", "d3/d5c/a11266.html", "d3/d5c/a11266" ],
+    [ "WorldPackets::Misc::PlayObjectSound", "d9/d3d/a11270.html", "d9/d3d/a11270" ],
+    [ "WorldPackets::Misc::Playsound", "d8/dc5/a11274.html", "d8/dc5/a11274" ],
+    [ "WorldPackets::Misc::MinimapPingClient", "db/d2f/a11278.html", "db/d2f/a11278" ],
+    [ "WorldPackets::Misc::MinimapPing", "d8/de8/a11282.html", "d8/de8/a11282" ],
+    [ "WorldPackets::Misc::RandomRollClient", "d7/ddd/a11286.html", "d7/ddd/a11286" ],
+    [ "WorldPackets::Misc::RandomRoll", "de/dab/a11290.html", "de/dab/a11290" ],
+    [ "WorldPackets::Misc::StartMirrorTimer", "d0/d74/a11294.html", "d0/d74/a11294" ],
+    [ "WorldPackets::Misc::PauseMirrorTimer", "d5/d6a/a11298.html", "d5/d6a/a11298" ],
+    [ "WorldPackets::Misc::StopMirrorTimer", "d2/da2/a11302.html", "d2/da2/a11302" ],
+    [ "WorldPackets::Misc::DurabilityDamageDeath", "d2/dfa/a11306.html", "d2/dfa/a11306" ],
+    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d0/d02/a11310.html", "d0/d02/a11310" ],
+    [ "WorldPackets::Misc::UITime", "d5/dd9/a11314.html", "d5/dd9/a11314" ],
+    [ "WorldPackets::Misc::Complain", "d5/d08/a11318.html", "d5/d08/a11318" ],
+    [ "WorldPackets::Misc::ComplainResult", "db/db8/a11322.html", "db/db8/a11322" ]
 ];
