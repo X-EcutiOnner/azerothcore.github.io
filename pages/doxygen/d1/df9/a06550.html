@@ -154,6 +154,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad10cb622572546ae9161249f89973a21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3868517374f4ab9bdcbeb0159fa45c9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#ac3868517374f4ab9bdcbeb0159fa45c9">SetData</a> (<a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> value, <a class="el" href="../../da/d2c/a08718.html">WorldObject</a> *invoker)</td></tr>
 <tr class="separator:ac3868517374f4ab9bdcbeb0159fa45c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05fca984c83c7670b410332220ac4a91"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#a05fca984c83c7670b410332220ac4a91">GetData</a> (<a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id) const override</td></tr>
+<tr class="separator:a05fca984c83c7670b410332220ac4a91"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f734116e0725bb9e56b146dd1571078"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#a2f734116e0725bb9e56b146dd1571078">SetScript9</a> (<a class="el" href="../../d7/daf/a07358.html">SmartScriptHolder</a> &amp;e, <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, <a class="el" href="../../da/d2c/a08718.html">WorldObject</a> *invoker)</td></tr>
 <tr class="separator:a2f734116e0725bb9e56b146dd1571078"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a343888265676cb96eaa331d15a2611fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#a343888265676cb96eaa331d15a2611fe">OnGameEvent</a> (bool start, <a class="el" href="../../d4/d1f/a00506.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> eventId) override</td></tr>
@@ -238,6 +240,8 @@ Static Public Member Functions</h2></td></tr>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:acb32f3f31274b5938a450e199cad8852"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d9f/a06554.html">SmartScript</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#acb32f3f31274b5938a450e199cad8852">mScript</a></td></tr>
 <tr class="separator:acb32f3f31274b5938a450e199cad8852"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82a6b7187a3b4f61717973a279a97142"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">aiDataSet</a></td></tr>
+<tr class="separator:a82a6b7187a3b4f61717973a279a97142"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_attribs_a06390"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a06390')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d9/d71/a06390.html">GameObjectAI</a></td></tr>
 <tr class="memitem:a22a51a980875ccae8a285d7804967747 inherit pro_attribs_a06390"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de6/a08486.html">GameObject</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a></td></tr>
 <tr class="separator:a22a51a980875ccae8a285d7804967747 inherit pro_attribs_a06390"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -334,9 +338,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a90280da341ecd7098cbba2bfa590255c">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1424</span>{</div>
-<div class="line"><span class="lineno"> 1425</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad7b522b25cd4528236ba415fa3c6812e">SMART_EVENT_DEATH</a>, player, eventId, 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1426</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1425</span>{</div>
+<div class="line"><span class="lineno"> 1426</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad7b522b25cd4528236ba415fa3c6812e">SMART_EVENT_DEATH</a>, player, eventId, 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
+<div class="line"><span class="lineno"> 1427</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97ad7b522b25cd4528236ba415fa3c6812e"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad7b522b25cd4528236ba415fa3c6812e">SMART_EVENT_DEATH</a></div><div class="ttdeci">@ SMART_EVENT_DEATH</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:105</div></div>
 <div class="ttc" id="aa06390_html_a22a51a980875ccae8a285d7804967747"><div class="ttname"><a href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">GameObjectAI::me</a></div><div class="ttdeci">GameObject *const me</div><div class="ttdef"><b>Definition:</b> GameObjectAI.h:35</div></div>
 <div class="ttc" id="aa06550_html_a8fdf6339cad962502381081955776634"><div class="ttname"><a href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">SmartGameObjectAI::GetScript</a></div><div class="ttdeci">SmartScript * GetScript()</div><div class="ttdef"><b>Definition:</b> SmartAI.h:296</div></div>
@@ -371,12 +375,50 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#af395c6ba94990377e219e5bf610a59b5">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1461</span>{</div>
-<div class="line"><span class="lineno"> 1462</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a765dc0938cb81e57109106c44df79d1a">SMART_EVENT_GO_EVENT_INFORM</a>, <span class="keyword">nullptr</span>, eventId);</div>
-<div class="line"><span class="lineno"> 1463</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1472</span>{</div>
+<div class="line"><span class="lineno"> 1473</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a765dc0938cb81e57109106c44df79d1a">SMART_EVENT_GO_EVENT_INFORM</a>, <span class="keyword">nullptr</span>, eventId);</div>
+<div class="line"><span class="lineno"> 1474</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a765dc0938cb81e57109106c44df79d1a"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a765dc0938cb81e57109106c44df79d1a">SMART_EVENT_GO_EVENT_INFORM</a></div><div class="ttdeci">@ SMART_EVENT_GO_EVENT_INFORM</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:170</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00170">SMART_EVENT_GO_EVENT_INFORM</a>.</p>
+
+</div>
+</div>
+<a id="a05fca984c83c7670b410332220ac4a91" name="a05fca984c83c7670b410332220ac4a91"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05fca984c83c7670b410332220ac4a91">&#9670;&#160;</a></span>GetData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> SmartGameObjectAI::GetData </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a1f59193d49b2ef4c0e0c4779efddccb3">GameObjectAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno"> 1446</span>{</div>
+<div class="line"><span class="lineno"> 1447</span>    std::unordered_map&lt;uint32, uint32&gt;::const_iterator itr = <a class="code hl_variable" href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">aiDataSet</a>.find(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno"> 1448</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">aiDataSet</a>.end())</div>
+<div class="line"><span class="lineno"> 1449</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
+<div class="line"><span class="lineno"> 1450</span> </div>
+<div class="line"><span class="lineno"> 1451</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno"> 1452</span>}</div>
+<div class="ttc" id="aa06550_html_a82a6b7187a3b4f61717973a279a97142"><div class="ttname"><a href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">SmartGameObjectAI::aiDataSet</a></div><div class="ttdeci">std::unordered_map&lt; uint32, uint32 &gt; aiDataSet</div><div class="ttdef"><b>Definition:</b> SmartAI.h:328</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00328">aiDataSet</a>.</p>
 
 </div>
 </div>
@@ -403,11 +445,11 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  296</span>{ <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d1/df9/a06550.html#acb32f3f31274b5938a450e199cad8852">mScript</a>; }</div>
-<div class="ttc" id="aa06550_html_acb32f3f31274b5938a450e199cad8852"><div class="ttname"><a href="../../d1/df9/a06550.html#acb32f3f31274b5938a450e199cad8852">SmartGameObjectAI::mScript</a></div><div class="ttdeci">SmartScript mScript</div><div class="ttdef"><b>Definition:</b> SmartAI.h:326</div></div>
+<div class="ttc" id="aa06550_html_acb32f3f31274b5938a450e199cad8852"><div class="ttname"><a href="../../d1/df9/a06550.html#acb32f3f31274b5938a450e199cad8852">SmartGameObjectAI::mScript</a></div><div class="ttdeci">SmartScript mScript</div><div class="ttdef"><b>Definition:</b> SmartAI.h:327</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00326">mScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00327">mScript</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01423">Destroyed()</a>, <a class="el" href="../../#l01460">EventInform()</a>, <a class="el" href="../../#l01388">GossipHello()</a>, <a class="el" href="../../#l01396">GossipSelect()</a>, <a class="el" href="../../#l01369">InitializeAI()</a>, <a class="el" href="../../#l01470">JustSummoned()</a>, <a class="el" href="../../#l01450">OnGameEvent()</a>, <a class="el" href="../../#l01455">OnStateChanged()</a>, <a class="el" href="../../#l01409">QuestAccept()</a>, <a class="el" href="../../#l01416">QuestReward()</a>, <a class="el" href="../../#l01379">Reset()</a>, <a class="el" href="../../#l01428">SetData()</a>, <a class="el" href="../../#l01443">SetScript9()</a>, <a class="el" href="../../#l01465">SpellHit()</a>, <a class="el" href="../../#l01475">SummonedCreatureDespawn()</a>, <a class="el" href="../../#l01354">SummonedCreatureDies()</a>, <a class="el" href="../../#l01359">SummonedCreatureEvade()</a>, and <a class="el" href="../../#l01364">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01424">Destroyed()</a>, <a class="el" href="../../#l01471">EventInform()</a>, <a class="el" href="../../#l01389">GossipHello()</a>, <a class="el" href="../../#l01397">GossipSelect()</a>, <a class="el" href="../../#l01369">InitializeAI()</a>, <a class="el" href="../../#l01481">JustSummoned()</a>, <a class="el" href="../../#l01461">OnGameEvent()</a>, <a class="el" href="../../#l01466">OnStateChanged()</a>, <a class="el" href="../../#l01410">QuestAccept()</a>, <a class="el" href="../../#l01417">QuestReward()</a>, <a class="el" href="../../#l01380">Reset()</a>, <a class="el" href="../../#l01429">SetData()</a>, <a class="el" href="../../#l01454">SetScript9()</a>, <a class="el" href="../../#l01476">SpellHit()</a>, <a class="el" href="../../#l01486">SummonedCreatureDespawn()</a>, <a class="el" href="../../#l01354">SummonedCreatureDies()</a>, <a class="el" href="../../#l01359">SummonedCreatureEvade()</a>, and <a class="el" href="../../#l01364">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -446,11 +488,11 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a7d26ef498d0e88030dde9543da9c80f5">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1389</span>{</div>
-<div class="line"><span class="lineno"> 1390</span>    <a class="code hl_define" href="../../d4/d14/a00608.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;SmartGameObjectAI::GossipHello&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1391</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a979facf598d3b83fdb04bbd8538dc386">SMART_EVENT_GOSSIP_HELLO</a>, player, (<a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)reportUse, 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1392</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1393</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1390</span>{</div>
+<div class="line"><span class="lineno"> 1391</span>    <a class="code hl_define" href="../../d4/d14/a00608.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;sql.sql&quot;</span>, <span class="stringliteral">&quot;SmartGameObjectAI::GossipHello&quot;</span>);</div>
+<div class="line"><span class="lineno"> 1392</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a979facf598d3b83fdb04bbd8538dc386">SMART_EVENT_GOSSIP_HELLO</a>, player, (<a class="code hl_typedef" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)reportUse, 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
+<div class="line"><span class="lineno"> 1393</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1394</span>}</div>
 <div class="ttc" id="aa00506_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa00608_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d4/d14/a00608.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:157</div></div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a979facf598d3b83fdb04bbd8538dc386"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a979facf598d3b83fdb04bbd8538dc386">SMART_EVENT_GOSSIP_HELLO</a></div><div class="ttdeci">@ SMART_EVENT_GOSSIP_HELLO</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:163</div></div>
@@ -500,10 +542,10 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#ad8b835bdd79598da6683c40501df5903">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1397</span>{</div>
-<div class="line"><span class="lineno"> 1398</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a9968e220f8877ab2b489602a5fd8552b">SMART_EVENT_GOSSIP_SELECT</a>, player, sender, action, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1399</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1400</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1398</span>{</div>
+<div class="line"><span class="lineno"> 1399</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a9968e220f8877ab2b489602a5fd8552b">SMART_EVENT_GOSSIP_SELECT</a>, player, sender, action, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
+<div class="line"><span class="lineno"> 1400</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1401</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a9968e220f8877ab2b489602a5fd8552b"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a9968e220f8877ab2b489602a5fd8552b">SMART_EVENT_GOSSIP_SELECT</a></div><div class="ttdeci">@ SMART_EVENT_GOSSIP_SELECT</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:161</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00161">SMART_EVENT_GOSSIP_SELECT</a>.</p>
@@ -557,9 +599,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#ad1f196822d40d0fb7325d8945a3e30dc">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1404</span>{</div>
-<div class="line"><span class="lineno"> 1405</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1406</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1405</span>{</div>
+<div class="line"><span class="lineno"> 1406</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1407</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -589,17 +631,18 @@ Protected Attributes</h2></td></tr>
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a88040926f54167d6682b6d9bf5c230a0">GameObjectAI</a>.</p>
 <div class="fragment"><div class="line"><span class="lineno"> 1370</span>{</div>
 <div class="line"><span class="lineno"> 1371</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#aaf35acb06712f7b10d975e4f1ef0c742">OnInitialize</a>(<a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1372</span> </div>
-<div class="line"><span class="lineno"> 1373</span>    <span class="comment">// Xinef: do not call respawn event if go is not spawned</span></div>
-<div class="line"><span class="lineno"> 1374</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/de6/a08486.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>())</div>
-<div class="line"><span class="lineno"> 1375</span>        <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592">SMART_EVENT_RESPAWN</a>);</div>
-<div class="line"><span class="lineno"> 1376</span>    <span class="comment">//Reset();</span></div>
-<div class="line"><span class="lineno"> 1377</span>}</div>
+<div class="line"><span class="lineno"> 1372</span>    <a class="code hl_variable" href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">aiDataSet</a>.clear();</div>
+<div class="line"><span class="lineno"> 1373</span> </div>
+<div class="line"><span class="lineno"> 1374</span>    <span class="comment">// Xinef: do not call respawn event if go is not spawned</span></div>
+<div class="line"><span class="lineno"> 1375</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>-&gt;<a class="code hl_function" href="../../d4/de6/a08486.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>())</div>
+<div class="line"><span class="lineno"> 1376</span>        <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592">SMART_EVENT_RESPAWN</a>);</div>
+<div class="line"><span class="lineno"> 1377</span>    <span class="comment">//Reset();</span></div>
+<div class="line"><span class="lineno"> 1378</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592">SMART_EVENT_RESPAWN</a></div><div class="ttdeci">@ SMART_EVENT_RESPAWN</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:110</div></div>
-<div class="ttc" id="aa06554_html_aaf35acb06712f7b10d975e4f1ef0c742"><div class="ttname"><a href="../../de/d9f/a06554.html#aaf35acb06712f7b10d975e4f1ef0c742">SmartScript::OnInitialize</a></div><div class="ttdeci">void OnInitialize(WorldObject *obj, AreaTrigger const *at=nullptr)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5257</div></div>
+<div class="ttc" id="aa06554_html_aaf35acb06712f7b10d975e4f1ef0c742"><div class="ttname"><a href="../../de/d9f/a06554.html#aaf35acb06712f7b10d975e4f1ef0c742">SmartScript::OnInitialize</a></div><div class="ttdeci">void OnInitialize(WorldObject *obj, AreaTrigger const *at=nullptr)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5286</div></div>
 <div class="ttc" id="aa08486_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d4/de6/a08486.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:190</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00190">GameObject::isSpawned()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l05257">SmartScript::OnInitialize()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00110">SMART_EVENT_RESPAWN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00328">aiDataSet</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00190">GameObject::isSpawned()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l05286">SmartScript::OnInitialize()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00110">SMART_EVENT_RESPAWN</a>.</p>
 
 </div>
 </div>
@@ -628,9 +671,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a8d3c7c153a241a7fcd61f164c645bdd1">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1471</span>{</div>
-<div class="line"><span class="lineno"> 1472</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afbbc0c87f09a2e1fbe24954d19aa6604">SMART_EVENT_SUMMONED_UNIT</a>, creature);</div>
-<div class="line"><span class="lineno"> 1473</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1482</span>{</div>
+<div class="line"><span class="lineno"> 1483</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afbbc0c87f09a2e1fbe24954d19aa6604">SMART_EVENT_SUMMONED_UNIT</a>, creature);</div>
+<div class="line"><span class="lineno"> 1484</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97afbbc0c87f09a2e1fbe24954d19aa6604"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afbbc0c87f09a2e1fbe24954d19aa6604">SMART_EVENT_SUMMONED_UNIT</a></div><div class="ttdeci">@ SMART_EVENT_SUMMONED_UNIT</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:116</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00116">SMART_EVENT_SUMMONED_UNIT</a>.</p>
@@ -672,9 +715,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a17d3fa0b7adc67f7d5967b15bd585b93">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1451</span>{</div>
-<div class="line"><span class="lineno"> 1452</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(start ? <a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a92ffde1512708763d3160f12804b6a89">SMART_EVENT_GAME_EVENT_START</a> : <a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad9b13e47ba58181f85b53d263b7374a3">SMART_EVENT_GAME_EVENT_END</a>, <span class="keyword">nullptr</span>, eventId);</div>
-<div class="line"><span class="lineno"> 1453</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1462</span>{</div>
+<div class="line"><span class="lineno"> 1463</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(start ? <a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a92ffde1512708763d3160f12804b6a89">SMART_EVENT_GAME_EVENT_START</a> : <a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad9b13e47ba58181f85b53d263b7374a3">SMART_EVENT_GAME_EVENT_END</a>, <span class="keyword">nullptr</span>, eventId);</div>
+<div class="line"><span class="lineno"> 1464</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a92ffde1512708763d3160f12804b6a89"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a92ffde1512708763d3160f12804b6a89">SMART_EVENT_GAME_EVENT_START</a></div><div class="ttdeci">@ SMART_EVENT_GAME_EVENT_START</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:167</div></div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97ad9b13e47ba58181f85b53d263b7374a3"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ad9b13e47ba58181f85b53d263b7374a3">SMART_EVENT_GAME_EVENT_END</a></div><div class="ttdeci">@ SMART_EVENT_GAME_EVENT_END</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:168</div></div>
 </div><!-- fragment -->
@@ -717,9 +760,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#ae6a065b7a8b73583c2a3afdd6c143e94">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1456</span>{</div>
-<div class="line"><span class="lineno"> 1457</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97aef6fcd5bcb259b514ab78097acf7a625">SMART_EVENT_GO_STATE_CHANGED</a>, unit, state);</div>
-<div class="line"><span class="lineno"> 1458</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1467</span>{</div>
+<div class="line"><span class="lineno"> 1468</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97aef6fcd5bcb259b514ab78097acf7a625">SMART_EVENT_GO_STATE_CHANGED</a>, unit, state);</div>
+<div class="line"><span class="lineno"> 1469</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97aef6fcd5bcb259b514ab78097acf7a625"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97aef6fcd5bcb259b514ab78097acf7a625">SMART_EVENT_GO_STATE_CHANGED</a></div><div class="ttdeci">@ SMART_EVENT_GO_STATE_CHANGED</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:169</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00169">SMART_EVENT_GO_STATE_CHANGED</a>.</p>
@@ -791,10 +834,10 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a8459d37ce69b9a02c1ecd047ec704089">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1410</span>{</div>
-<div class="line"><span class="lineno"> 1411</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97abdd70fd958908d091377e550d11b8a71">SMART_EVENT_ACCEPTED_QUEST</a>, player, quest-&gt;GetQuestId(), 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1412</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1413</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1411</span>{</div>
+<div class="line"><span class="lineno"> 1412</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97abdd70fd958908d091377e550d11b8a71">SMART_EVENT_ACCEPTED_QUEST</a>, player, quest-&gt;GetQuestId(), 0, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
+<div class="line"><span class="lineno"> 1413</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1414</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97abdd70fd958908d091377e550d11b8a71"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97abdd70fd958908d091377e550d11b8a71">SMART_EVENT_ACCEPTED_QUEST</a></div><div class="ttdeci">@ SMART_EVENT_ACCEPTED_QUEST</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:118</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00118">SMART_EVENT_ACCEPTED_QUEST</a>.</p>
@@ -842,10 +885,10 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#a68acb343e76a0c45513113b650929683">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1417</span>{</div>
-<div class="line"><span class="lineno"> 1418</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a71dbbc49d37a3b1983c69b1c5af3d0be">SMART_EVENT_REWARD_QUEST</a>, player, quest-&gt;GetQuestId(), opt, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
-<div class="line"><span class="lineno"> 1419</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1420</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1418</span>{</div>
+<div class="line"><span class="lineno"> 1419</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a71dbbc49d37a3b1983c69b1c5af3d0be">SMART_EVENT_REWARD_QUEST</a>, player, quest-&gt;GetQuestId(), opt, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d9/d71/a06390.html#a22a51a980875ccae8a285d7804967747">me</a>);</div>
+<div class="line"><span class="lineno"> 1420</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1421</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a71dbbc49d37a3b1983c69b1c5af3d0be"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a71dbbc49d37a3b1983c69b1c5af3d0be">SMART_EVENT_REWARD_QUEST</a></div><div class="ttdeci">@ SMART_EVENT_REWARD_QUEST</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:119</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00035">GameObjectAI::me</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00119">SMART_EVENT_REWARD_QUEST</a>.</p>
@@ -876,12 +919,12 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#ae2f0f24cae721a75e4df8e7aa1c75b7c">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1380</span>{</div>
-<div class="line"><span class="lineno"> 1381</span>    <span class="comment">// Xinef: call respawn event on reset</span></div>
-<div class="line"><span class="lineno"> 1382</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592">SMART_EVENT_RESPAWN</a>);</div>
-<div class="line"><span class="lineno"> 1383</span> </div>
-<div class="line"><span class="lineno"> 1384</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#acf1821d89c7cc200b89efaa17c87663c">OnReset</a>();</div>
-<div class="line"><span class="lineno"> 1385</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1381</span>{</div>
+<div class="line"><span class="lineno"> 1382</span>    <span class="comment">// Xinef: call respawn event on reset</span></div>
+<div class="line"><span class="lineno"> 1383</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97ac5813aa2421d8f8ca83894c4ff917592">SMART_EVENT_RESPAWN</a>);</div>
+<div class="line"><span class="lineno"> 1384</span> </div>
+<div class="line"><span class="lineno"> 1385</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#acf1821d89c7cc200b89efaa17c87663c">OnReset</a>();</div>
+<div class="line"><span class="lineno"> 1386</span>}</div>
 <div class="ttc" id="aa06554_html_acf1821d89c7cc200b89efaa17c87663c"><div class="ttname"><a href="../../de/d9f/a06554.html#acf1821d89c7cc200b89efaa17c87663c">SmartScript::OnReset</a></div><div class="ttdeci">void OnReset()</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:110</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00110">SmartScript::OnReset()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00110">SMART_EVENT_RESPAWN</a>.</p>
@@ -963,26 +1006,27 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1429</span>{</div>
-<div class="line"><span class="lineno"> 1430</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1431</span>    <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>* gob = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno"> 1432</span> </div>
-<div class="line"><span class="lineno"> 1433</span>    <span class="keywordflow">if</span> (invoker)</div>
-<div class="line"><span class="lineno"> 1434</span>    {</div>
-<div class="line"><span class="lineno"> 1435</span>        unit = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
-<div class="line"><span class="lineno"> 1436</span>        <span class="keywordflow">if</span> (!unit)</div>
-<div class="line"><span class="lineno"> 1437</span>            gob = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>();</div>
-<div class="line"><span class="lineno"> 1438</span>    }</div>
-<div class="line"><span class="lineno"> 1439</span> </div>
-<div class="line"><span class="lineno"> 1440</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a23ed724c2b6a62aad9d9108eabded20a">SMART_EVENT_DATA_SET</a>, unit, <span class="keywordtype">id</span>, value, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, gob);</div>
-<div class="line"><span class="lineno"> 1441</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1430</span>{</div>
+<div class="line"><span class="lineno"> 1431</span>    <a class="code hl_class" href="../../dc/d3e/a09066.html">Unit</a>* unit = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1432</span>    <a class="code hl_class" href="../../d4/de6/a08486.html">GameObject</a>* gob = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno"> 1433</span> </div>
+<div class="line"><span class="lineno"> 1434</span>    <span class="keywordflow">if</span> (invoker)</div>
+<div class="line"><span class="lineno"> 1435</span>    {</div>
+<div class="line"><span class="lineno"> 1436</span>        unit = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
+<div class="line"><span class="lineno"> 1437</span>        <span class="keywordflow">if</span> (!unit)</div>
+<div class="line"><span class="lineno"> 1438</span>            gob = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#a96b380b13acdb406d552053cf775180f">ToGameObject</a>();</div>
+<div class="line"><span class="lineno"> 1439</span>    }</div>
+<div class="line"><span class="lineno"> 1440</span> </div>
+<div class="line"><span class="lineno"> 1441</span>    <a class="code hl_variable" href="../../d1/df9/a06550.html#a82a6b7187a3b4f61717973a279a97142">aiDataSet</a>[id] = value;</div>
+<div class="line"><span class="lineno"> 1442</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a23ed724c2b6a62aad9d9108eabded20a">SMART_EVENT_DATA_SET</a>, unit, <span class="keywordtype">id</span>, value, <span class="keyword">false</span>, <span class="keyword">nullptr</span>, gob);</div>
+<div class="line"><span class="lineno"> 1443</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a23ed724c2b6a62aad9d9108eabded20a"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a23ed724c2b6a62aad9d9108eabded20a">SMART_EVENT_DATA_SET</a></div><div class="ttdeci">@ SMART_EVENT_DATA_SET</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:137</div></div>
 <div class="ttc" id="aa08486_html"><div class="ttname"><a href="../../d4/de6/a08486.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa08682_html_a96b380b13acdb406d552053cf775180f"><div class="ttname"><a href="../../d1/d2a/a08682.html#a96b380b13acdb406d552053cf775180f">Object::ToGameObject</a></div><div class="ttdeci">GameObject * ToGameObject()</div><div class="ttdef"><b>Definition:</b> Object.h:214</div></div>
 <div class="ttc" id="aa08682_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../d1/d2a/a08682.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:210</div></div>
 <div class="ttc" id="aa09066_html"><div class="ttname"><a href="../../dc/d3e/a09066.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, <a class="el" href="../../#l00137">SMART_EVENT_DATA_SET</a>, <a class="el" href="../../#l00214">Object::ToGameObject()</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00328">aiDataSet</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, <a class="el" href="../../#l00137">SMART_EVENT_DATA_SET</a>, <a class="el" href="../../#l00214">Object::ToGameObject()</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
 
 </div>
 </div>
@@ -1017,16 +1061,16 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1444</span>{</div>
-<div class="line"><span class="lineno"> 1445</span>    <span class="keywordflow">if</span> (invoker)</div>
-<div class="line"><span class="lineno"> 1446</span>        <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_variable" href="../../de/d9f/a06554.html#a111eb407c73f86f4f7442f560a173a12">mLastInvoker</a> = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
-<div class="line"><span class="lineno"> 1447</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a2868929b765692439393f30c105f7210">SetScript9</a>(e, entry);</div>
-<div class="line"><span class="lineno"> 1448</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1455</span>{</div>
+<div class="line"><span class="lineno"> 1456</span>    <span class="keywordflow">if</span> (invoker)</div>
+<div class="line"><span class="lineno"> 1457</span>        <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_variable" href="../../de/d9f/a06554.html#a111eb407c73f86f4f7442f560a173a12">mLastInvoker</a> = invoker-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>();</div>
+<div class="line"><span class="lineno"> 1458</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a2868929b765692439393f30c105f7210">SetScript9</a>(e, entry);</div>
+<div class="line"><span class="lineno"> 1459</span>}</div>
 <div class="ttc" id="aa06554_html_a111eb407c73f86f4f7442f560a173a12"><div class="ttname"><a href="../../de/d9f/a06554.html#a111eb407c73f86f4f7442f560a173a12">SmartScript::mLastInvoker</a></div><div class="ttdeci">ObjectGuid mLastInvoker</div><div class="ttdef"><b>Definition:</b> SmartScript.h:200</div></div>
-<div class="ttc" id="aa06554_html_a2868929b765692439393f30c105f7210"><div class="ttname"><a href="../../de/d9f/a06554.html#a2868929b765692439393f30c105f7210">SmartScript::SetScript9</a></div><div class="ttdeci">void SetScript9(SmartScriptHolder &amp;e, uint32 entry)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5412</div></div>
+<div class="ttc" id="aa06554_html_a2868929b765692439393f30c105f7210"><div class="ttname"><a href="../../de/d9f/a06554.html#a2868929b765692439393f30c105f7210">SmartScript::SetScript9</a></div><div class="ttdeci">void SetScript9(SmartScriptHolder &amp;e, uint32 entry)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5441</div></div>
 <div class="ttc" id="aa08682_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00200">SmartScript::mLastInvoker</a>, and <a class="el" href="../../#l05412">SmartScript::SetScript9()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00200">SmartScript::mLastInvoker</a>, and <a class="el" href="../../#l05441">SmartScript::SetScript9()</a>.</p>
 
 </div>
 </div>
@@ -1065,9 +1109,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#ac129aa1ba32e0cfb0f6f3d1bb116f5d7">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1466</span>{</div>
-<div class="line"><span class="lineno"> 1467</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0ba2e693ca0e8fad9ea1a454bb3184a0">SMART_EVENT_SPELLHIT</a>, unit, 0, 0, <span class="keyword">false</span>, spellInfo);</div>
-<div class="line"><span class="lineno"> 1468</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1477</span>{</div>
+<div class="line"><span class="lineno"> 1478</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0ba2e693ca0e8fad9ea1a454bb3184a0">SMART_EVENT_SPELLHIT</a>, unit, 0, 0, <span class="keyword">false</span>, spellInfo);</div>
+<div class="line"><span class="lineno"> 1479</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a0ba2e693ca0e8fad9ea1a454bb3184a0"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0ba2e693ca0e8fad9ea1a454bb3184a0">SMART_EVENT_SPELLHIT</a></div><div class="ttdeci">@ SMART_EVENT_SPELLHIT</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:107</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, <a class="el" href="../../#l00136">SmartScript::ProcessEventsFor()</a>, and <a class="el" href="../../#l00107">SMART_EVENT_SPELLHIT</a>.</p>
@@ -1099,9 +1143,9 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d9/d71/a06390.html#aa690137e5f5d6acee12e1b5f903935db">GameObjectAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1476</span>{</div>
-<div class="line"><span class="lineno"> 1477</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0b0a43bdef78051c7e6540613c8d30d2">SMART_EVENT_SUMMON_DESPAWNED</a>, unit, unit-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
-<div class="line"><span class="lineno"> 1478</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1487</span>{</div>
+<div class="line"><span class="lineno"> 1488</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a1bdb540f5a4a420d29ec14f0e3158178">ProcessEventsFor</a>(<a class="code hl_enumvalue" href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0b0a43bdef78051c7e6540613c8d30d2">SMART_EVENT_SUMMON_DESPAWNED</a>, unit, unit-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>());</div>
+<div class="line"><span class="lineno"> 1489</span>}</div>
 <div class="ttc" id="aa01850_html_a8e5d5aa0dedbff31bb70e7955ad5bf97a0b0a43bdef78051c7e6540613c8d30d2"><div class="ttname"><a href="../../da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0b0a43bdef78051c7e6540613c8d30d2">SMART_EVENT_SUMMON_DESPAWNED</a></div><div class="ttdeci">@ SMART_EVENT_SUMMON_DESPAWNED</div><div class="ttdef"><b>Definition:</b> SmartScriptMgr.h:134</div></div>
 <div class="ttc" id="aa08682_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d1/d2a/a08682.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:117</div></div>
 </div><!-- fragment -->
@@ -1215,13 +1259,37 @@ Protected Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno"> 1365</span>{</div>
 <div class="line"><span class="lineno"> 1366</span>    <a class="code hl_function" href="../../d1/df9/a06550.html#a8fdf6339cad962502381081955776634">GetScript</a>()-&gt;<a class="code hl_function" href="../../de/d9f/a06554.html#a17dd95e6d8557ae95da2ee24463c784d">OnUpdate</a>(diff);</div>
 <div class="line"><span class="lineno"> 1367</span>}</div>
-<div class="ttc" id="aa06554_html_a17dd95e6d8557ae95da2ee24463c784d"><div class="ttname"><a href="../../de/d9f/a06554.html#a17dd95e6d8557ae95da2ee24463c784d">SmartScript::OnUpdate</a></div><div class="ttdeci">void OnUpdate(const uint32 diff)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5093</div></div>
+<div class="ttc" id="aa06554_html_a17dd95e6d8557ae95da2ee24463c784d"><div class="ttname"><a href="../../de/d9f/a06554.html#a17dd95e6d8557ae95da2ee24463c784d">SmartScript::OnUpdate</a></div><div class="ttdeci">void OnUpdate(const uint32 diff)</div><div class="ttdef"><b>Definition:</b> SmartScript.cpp:5122</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, and <a class="el" href="../../#l05093">SmartScript::OnUpdate()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00296">GetScript()</a>, and <a class="el" href="../../#l05122">SmartScript::OnUpdate()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="a82a6b7187a3b4f61717973a279a97142" name="a82a6b7187a3b4f61717973a279a97142"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82a6b7187a3b4f61717973a279a97142">&#9670;&#160;</a></span>aiDataSet</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unordered_map&lt;<a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d1f/a00506.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; SmartGameObjectAI::aiDataSet</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01445">GetData()</a>, <a class="el" href="../../#l01369">InitializeAI()</a>, and <a class="el" href="../../#l01429">SetData()</a>.</p>
+
+</div>
+</div>
 <a id="acb32f3f31274b5938a450e199cad8852" name="acb32f3f31274b5938a450e199cad8852"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#acb32f3f31274b5938a450e199cad8852">&#9670;&#160;</a></span>mScript</h2>
 
@@ -1252,7 +1320,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/df9/a06550.html">SmartGameObjectAI</a></li>
-    <li class="footer">Generated on Mon May 18 2026 21:52:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 25 2026 21:50:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

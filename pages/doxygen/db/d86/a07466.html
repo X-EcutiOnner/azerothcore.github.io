@@ -473,9 +473,9 @@ Protected Attributes</h2></td></tr>
 <div class="ttc" id="aa07466_html_a04eb49f420c0c2ed61789331c6769909"><div class="ttname"><a href="../../db/d86/a07466.html#a04eb49f420c0c2ed61789331c6769909">BfCapturePoint::ActivePlayers</a></div><div class="ttdeci">GuidUnorderedSet ActivePlayers[2]</div><div class="ttdef"><b>Definition:</b> Battlefield.h:123</div></div>
 <div class="ttc" id="aa08682_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
 <div class="ttc" id="aa08934_html_a2a12863caf54ad9a8af56bda556d7a4b"><div class="ttname"><a href="../../d6/d9a/a08934.html#a2a12863caf54ad9a8af56bda556d7a4b">Player::SendUpdateWorldState</a></div><div class="ttdeci">void SendUpdateWorldState(uint32 variable, uint32 value) const</div><div class="ttdef"><b>Definition:</b> PlayerUpdates.cpp:2235</div></div>
-<div class="ttc" id="aa08934_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2128</div></div>
+<div class="ttc" id="aa08934_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2129</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00934">GetCapturePointGo()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, <a class="el" href="../../#l00126">MaxValue</a>, <a class="el" href="../../#l00141">NeutralValuePct</a>, <a class="el" href="../../#l02235">Player::SendUpdateWorldState()</a>, and <a class="el" href="../../#l00133">Value</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00934">GetCapturePointGo()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02129">Player::GetTeamId()</a>, <a class="el" href="../../#l00126">MaxValue</a>, <a class="el" href="../../#l00141">NeutralValuePct</a>, <a class="el" href="../../#l02235">Player::SendUpdateWorldState()</a>, and <a class="el" href="../../#l00133">Value</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00944">Update()</a>.</p>
 
@@ -517,7 +517,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  861</span>    <span class="keywordflow">return</span> current;</div>
 <div class="line"><span class="lineno">  862</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00934">GetCapturePointGo()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02128">Player::GetTeamId()</a>, and <a class="el" href="../../#l02235">Player::SendUpdateWorldState()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00934">GetCapturePointGo()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l02129">Player::GetTeamId()</a>, and <a class="el" href="../../#l02235">Player::SendUpdateWorldState()</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00944">Update()</a>.</p>
 
@@ -542,7 +542,7 @@ Protected Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1093</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d86/a07466.html#a04eb49f420c0c2ed61789331c6769909">ActivePlayers</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].find(player-&gt;<a class="code hl_function" href="../../d1/d2a/a08682.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>()) != <a class="code hl_variable" href="../../db/d86/a07466.html#a04eb49f420c0c2ed61789331c6769909">ActivePlayers</a>[player-&gt;<a class="code hl_function" href="../../d6/d9a/a08934.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>()].end();</div>
 <div class="line"><span class="lineno"> 1094</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l02128">Player::GetTeamId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00123">ActivePlayers</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, and <a class="el" href="../../#l02129">Player::GetTeamId()</a>.</p>
 
 </div>
 </div>
@@ -764,7 +764,7 @@ Protected Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00042">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>, <a class="el" href="../../#l00043">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>, <a class="el" href="../../#l00150">CapturePoint</a>, <a class="el" href="../../de/d75/a08490.html#ace6c852a9e88a1195ce988713a4d3034">GameObjectTemplate::capturePoint</a>, <a class="el" href="../../#l00147">CapturePointEntry</a>, <a class="el" href="../../#l01593">GAMEOBJECT_TYPE_CAPTURE_POINT</a>, <a class="el" href="../../#l00117">Object::GetEntry()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00157">LOG_DEBUG</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00130">MaxSpeed</a>, <a class="el" href="../../#l00320">GameObjectTemplate::maxTime</a>, <a class="el" href="../../#l00126">MaxValue</a>, <a class="el" href="../../#l00319">GameObjectTemplate::minTime</a>, <a class="el" href="../../#l00127">MinValue</a>, <a class="el" href="../../#l00315">GameObjectTemplate::neutralPercent</a>, <a class="el" href="../../#l00141">NeutralValuePct</a>, <a class="el" href="../../#l00138">State</a>, <a class="el" href="../../#l00134">Team</a>, <a class="el" href="../../#l00748">TEAM_ALLIANCE</a>, <a class="el" href="../../#l00750">TEAM_NEUTRAL</a>, <a class="el" href="../../#l00034">GameObjectTemplate::type</a>, and <a class="el" href="../../#l00133">Value</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00674">BattlefieldWG::OnGameObjectCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00677">BattlefieldWG::OnGameObjectCreate()</a>.</p>
 
 </div>
 </div>
@@ -974,7 +974,7 @@ Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00934">GetCapturePointGo()</a>, and <a class="el" href="../../#l01237">WintergraspCapturePoint::WintergraspCapturePoint()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00934">GetCapturePointGo()</a>, and <a class="el" href="../../#l01240">WintergraspCapturePoint::WintergraspCapturePoint()</a>.</p>
 
 </div>
 </div>
@@ -1224,7 +1224,7 @@ Protected Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d86/a07466.html">BfCapturePoint</a></li>
-    <li class="footer">Generated on Mon May 18 2026 21:51:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 25 2026 21:49:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -6,5 +6,6 @@ var a12322 =
     [ "HandlePetDeleteCommand", "db/de2/a12322.html#a728201526e905b025aba5e6b030c288b", null ],
     [ "HandlePetLearnCommand", "db/de2/a12322.html#a59a2a6bd9af23fe3a775319216337bda", null ],
     [ "HandlePetListCommand", "db/de2/a12322.html#aeaa05b073553c0c0758ea99d982ce1cc", null ],
+    [ "HandlePetRenameCommand", "db/de2/a12322.html#a556529bfe267eb618410b63065b7096c", null ],
     [ "HandlePetUnlearnCommand", "db/de2/a12322.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

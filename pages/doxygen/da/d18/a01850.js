@@ -204,6 +204,7 @@ var a01850 =
       [ "SMART_ACTION_SET_ANIM_TIER", "da/d18/a01850.html#a7b5604e647b8ac28cc6a4a64deceeebca6a83a33414cde51d1c7dde630595d3fc", null ],
       [ "SMART_ACTION_SET_GOSSIP_MENU", "da/d18/a01850.html#a7b5604e647b8ac28cc6a4a64deceeebca0648799618d3abbc91efb35721e31254", null ],
       [ "SMART_ACTION_SUMMON_GAMEOBJECT_GROUP", "da/d18/a01850.html#a7b5604e647b8ac28cc6a4a64deceeebcad03c959080e5b54a651937725bfb366e", null ],
+      [ "SMART_ACTION_INC_DATA", "da/d18/a01850.html#a7b5604e647b8ac28cc6a4a64deceeebca1f083a9145cbeb2a9c9bff11bc8fb76d", null ],
       [ "SMART_ACTION_AC_END", "da/d18/a01850.html#a7b5604e647b8ac28cc6a4a64deceeebcaacf291aa22d320776664fc49e057aae6", null ]
     ] ],
     [ "SMART_EVENT", "da/d18/a01850.html#a8e5d5aa0dedbff31bb70e7955ad5bf97", [

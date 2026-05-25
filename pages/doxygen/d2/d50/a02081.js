@@ -6,7 +6,9 @@ var a02081 =
     [ "AnnouncerFlags", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fd", [
       [ "ANNOUNCER_FLAG_DISABLE_BG_QUEUE", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828", null ],
       [ "ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704", null ],
-      [ "ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e", null ]
+      [ "ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e", null ],
+      [ "ANNOUNCER_FLAG_DISABLE_PVP_START", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc", null ],
+      [ "ANNOUNCER_FLAG_DISABLE_PVP_ALL", "d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1", null ]
     ] ],
     [ "CharacterSettingIndexes", "d2/d50/a02081.html#acd2ee27596acf5e6804faaf9e7b6a1f5", [
       [ "SETTING_ANNOUNCER_FLAGS", "d2/d50/a02081.html#acd2ee27596acf5e6804faaf9e7b6a1f5a87ac7ec64e9a96e600fff40b442b4ca4", null ],

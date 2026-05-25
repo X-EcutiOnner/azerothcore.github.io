@@ -231,16 +231,20 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 1160</span>        <span class="keywordflow">if</span> (!wintergrasp)</div>
 <div class="line"><span class="lineno"> 1161</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1162</span> </div>
-<div class="line"><span class="lineno"> 1163</span>        <span class="keywordflow">return</span> wintergrasp-&gt;<a class="code hl_function" href="../../d4/d7b/a07474.html#aaec7df90c1300a9ffa46ce64c8cdd1d7">GetTimer</a>() &gt;= (20 * <a class="code hl_variable" href="../../de/d25/a00290.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../de/d25/a00290.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
-<div class="line"><span class="lineno"> 1164</span>    }</div>
+<div class="line"><span class="lineno"> 1163</span>        <span class="comment">// Attacker-only achievement -- defenders winning fast must not qualify.</span></div>
+<div class="line"><span class="lineno"> 1164</span>        <span class="keywordflow">if</span> (!<a class="code hl_define" href="../../dd/d19/a01922.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a>-&gt;IsWintergraspAttackerVictory())</div>
+<div class="line"><span class="lineno"> 1165</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1166</span> </div>
+<div class="line"><span class="lineno"> 1167</span>        <span class="keywordflow">return</span> wintergrasp-&gt;<a class="code hl_function" href="../../d4/d7b/a07474.html#aaec7df90c1300a9ffa46ce64c8cdd1d7">GetTimer</a>() &gt;= (20 * <a class="code hl_variable" href="../../de/d25/a00290.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a> * <a class="code hl_variable" href="../../de/d25/a00290.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a>);</div>
+<div class="line"><span class="lineno"> 1168</span>    }</div>
 <div class="ttc" id="aa00290_html_a84190f79c8167211609f67284e066c58"><div class="ttname"><a href="../../de/d25/a00290.html#a84190f79c8167211609f67284e066c58">IN_MILLISECONDS</a></div><div class="ttdeci">constexpr auto IN_MILLISECONDS</div><div class="ttdef"><b>Definition:</b> Common.h:53</div></div>
 <div class="ttc" id="aa00290_html_afacf27522adfacf698390ddafc53fa30"><div class="ttname"><a href="../../de/d25/a00290.html#afacf27522adfacf698390ddafc53fa30">MINUTE</a></div><div class="ttdeci">constexpr auto MINUTE</div><div class="ttdef"><b>Definition:</b> Common.h:47</div></div>
-<div class="ttc" id="aa01922_html_a4545b2a440043037e8dad52c0f644f48"><div class="ttname"><a href="../../dd/d19/a01922.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a></div><div class="ttdeci">#define sBattlefieldMgr</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:76</div></div>
+<div class="ttc" id="aa01922_html_a4545b2a440043037e8dad52c0f644f48"><div class="ttname"><a href="../../dd/d19/a01922.html#a4545b2a440043037e8dad52c0f644f48">sBattlefieldMgr</a></div><div class="ttdeci">#define sBattlefieldMgr</div><div class="ttdef"><b>Definition:</b> BattlefieldMgr.h:79</div></div>
 <div class="ttc" id="aa01934_html_aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010"><div class="ttname"><a href="../../de/da9/a01934.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a></div><div class="ttdeci">@ BATTLEFIELD_BATTLEID_WG</div><div class="ttdef"><b>Definition:</b> Battlefield.h:36</div></div>
 <div class="ttc" id="aa07474_html"><div class="ttname"><a href="../../d4/d7b/a07474.html">Battlefield</a></div><div class="ttdef"><b>Definition:</b> Battlefield.h:208</div></div>
 <div class="ttc" id="aa07474_html_aaec7df90c1300a9ffa46ce64c8cdd1d7"><div class="ttname"><a href="../../d4/d7b/a07474.html#aaec7df90c1300a9ffa46ce64c8cdd1d7">Battlefield::GetTimer</a></div><div class="ttdeci">uint32 GetTimer() const</div><div class="ttdef"><b>Definition:</b> Battlefield.h:355</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">BATTLEFIELD_BATTLEID_WG</a>, <a class="el" href="../../#l00355">Battlefield::GetTimer()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, and <a class="el" href="../../#l00076">sBattlefieldMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">BATTLEFIELD_BATTLEID_WG</a>, <a class="el" href="../../#l00355">Battlefield::GetTimer()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l00047">MINUTE</a>, and <a class="el" href="../../#l00079">sBattlefieldMgr</a>.</p>
 
 </div>
 </div>
@@ -250,7 +254,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d54/a22074.html">achievement_wg_within_our_grasp</a></li>
-    <li class="footer">Generated on Mon May 18 2026 21:51:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 25 2026 21:49:34 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

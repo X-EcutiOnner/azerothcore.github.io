@@ -288,9 +288,9 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../de/d38/a09838.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>[group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d9/d44/a08734.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>()] = group;</div>
 <div class="line"><span class="lineno">   93</span>}</div>
 <div class="ttc" id="aa08734_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d9/d44/a08734.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
-<div class="ttc" id="aa09830_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2319</div></div>
+<div class="ttc" id="aa09830_html_a68c38a89619391cc85eeac2bf2b96ac4"><div class="ttname"><a href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">Group::GetGUID</a></div><div class="ttdeci">ObjectGuid GetGUID() const</div><div class="ttdef"><b>Definition:</b> Group.cpp:2345</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02319">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02345">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00100">LoadGroups()</a>.</p>
 
@@ -536,7 +536,7 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa00608_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d4/d14/a00608.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:153</div></div>
 <div class="ttc" id="aa00608_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d4/d14/a00608.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:149</div></div>
 <div class="ttc" id="aa06006_html"><div class="ttname"><a href="../../dc/dd4/a06006.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa09830_html"><div class="ttname"><a href="../../d3/d95/a09830.html">Group</a></div><div class="ttdef"><b>Definition:</b> Group.h:169</div></div>
+<div class="ttc" id="aa09830_html"><div class="ttname"><a href="../../d3/d95/a09830.html">Group</a></div><div class="ttdef"><b>Definition:</b> Group.h:176</div></div>
 <div class="ttc" id="aa09830_html_ab55738e3f596e337883fc86f590eb1ab"><div class="ttname"><a href="../../d3/d95/a09830.html#ab55738e3f596e337883fc86f590eb1ab">Group::LoadMemberFromDB</a></div><div class="ttdeci">void LoadMemberFromDB(ObjectGuid::LowType guidLow, uint8 memberFlags, uint8 subgroup, uint8 roles)</div><div class="ttdef"><b>Definition:</b> Group.cpp:229</div></div>
 <div class="ttc" id="aa09830_html_af7d56d93449ead0315be8602c7112f96"><div class="ttname"><a href="../../d3/d95/a09830.html#af7d56d93449ead0315be8602c7112f96">Group::LoadGroupFromDB</a></div><div class="ttdeci">bool LoadGroupFromDB(Field *field)</div><div class="ttdef"><b>Definition:</b> Group.cpp:174</div></div>
 <div class="ttc" id="aa09838_html_a2af93882e217f762df95ba21af191c89"><div class="ttname"><a href="../../de/d38/a09838.html#a2af93882e217f762df95ba21af191c89">GroupMgr::GetGroupByGUID</a></div><div class="ttdeci">Group * GetGroupByGUID(ObjectGuid::LowType guid) const</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:81</div></div>
@@ -544,7 +544,7 @@ Private Member Functions</h2></td></tr>
 <div class="ttc" id="aa09838_html_a8bface2b6600801ebcd1cbb9070ec3ef"><div class="ttname"><a href="../../de/d38/a09838.html#a8bface2b6600801ebcd1cbb9070ec3ef">GroupMgr::RegisterGroupId</a></div><div class="ttdeci">void RegisterGroupId(ObjectGuid::LowType groupId)</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:54</div></div>
 <div class="ttc" id="aa09838_html_abb97c613417573dc4cafa117065e7cf8"><div class="ttname"><a href="../../de/d38/a09838.html#abb97c613417573dc4cafa117065e7cf8">GroupMgr::AddGroup</a></div><div class="ttdeci">void AddGroup(Group *group)</div><div class="ttdef"><b>Definition:</b> GroupMgr.cpp:90</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l02319">Group::GetGUID()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, <a class="el" href="../../#l00174">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00229">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">AddGroup()</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l00081">GetGroupByGUID()</a>, <a class="el" href="../../#l02345">Group::GetGUID()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00042">InitGroupIds()</a>, <a class="el" href="../../#l00174">Group::LoadGroupFromDB()</a>, <a class="el" href="../../#l00229">Group::LoadMemberFromDB()</a>, <a class="el" href="../../#l00153">LOG_INFO</a>, <a class="el" href="../../#l00149">LOG_WARN</a>, and <a class="el" href="../../#l00054">RegisterGroupId()</a>.</p>
 
 </div>
 </div>
@@ -598,7 +598,7 @@ Private Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">   97</span>    <a class="code hl_variable" href="../../de/d38/a09838.html#ae897c661dd4b185d205c3a12d17ccb2b">GroupStore</a>.erase(group-&gt;<a class="code hl_function" href="../../d3/d95/a09830.html#a68c38a89619391cc85eeac2bf2b96ac4">GetGUID</a>().<a class="code hl_function" href="../../d9/d44/a08734.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
 <div class="line"><span class="lineno">   98</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02319">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">ObjectGuid::GetCounter()</a>, <a class="el" href="../../#l02345">Group::GetGUID()</a>, and <a class="el" href="../../#l00048">GroupStore</a>.</p>
 
 </div>
 </div>
@@ -681,7 +681,7 @@ Private Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d38/a09838.html">GroupMgr</a></li>
-    <li class="footer">Generated on Mon May 18 2026 21:51:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 25 2026 21:49:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

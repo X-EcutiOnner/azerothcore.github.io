@@ -409,6 +409,7 @@ var a10778 =
     [ "OnPlayerSetPhase", "de/d41/a10778.html#ae8fe8045fc307e0f6ab841ee7bb0f59c", null ],
     [ "OnPlayerSetServerSideVisibility", "de/d41/a10778.html#abf917d2a762acac5d82aabf590240b0b", null ],
     [ "OnPlayerSetServerSideVisibilityDetect", "de/d41/a10778.html#a95d3db7f00314823f62554149579f62c", null ],
+    [ "OnPlayerSetSkill", "de/d41/a10778.html#ac0dcf207ce21ecbef9d50e939173aaae", null ],
     [ "OnPlayerShouldBeRewardedWithMoneyInsteadOfExp", "de/d41/a10778.html#a835229c05d3f501202182837def81989", null ],
     [ "OnPlayerSpellCast", "de/d41/a10778.html#a6b1eeefc4450e981ae9ab860f7421415", null ],
     [ "OnPlayerStoreNewItem", "de/d41/a10778.html#a5fa0200ce5d3b2bd273cd6c553eca3c9", null ],

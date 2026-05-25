@@ -150,6 +150,10 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704">ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE</a> = 2
 , <br />
 &#160;&#160;<a class="el" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc">ANNOUNCER_FLAG_DISABLE_PVP_START</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1">ANNOUNCER_FLAG_DISABLE_PVP_ALL</a>
 <br />
  }</td></tr>
 <tr class="separator:a32dfba2d10d91879403874fc75b928fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -215,15 +219,23 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828" name="a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828"></a>ANNOUNCER_FLAG_DISABLE_BG_QUEUE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704" name="a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704"></a>ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e" name="a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e"></a>ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc" name="a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc"></a>ANNOUNCER_FLAG_DISABLE_PVP_START&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1" name="a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1"></a>ANNOUNCER_FLAG_DISABLE_PVP_ALL&#160;</td><td class="fielddoc"></td></tr>
 </table>
 <div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
 <div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828">ANNOUNCER_FLAG_DISABLE_BG_QUEUE</a>      = 1,</div>
 <div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704">ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE</a>   = 2,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a> = 4</div>
-<div class="line"><span class="lineno">   37</span>};</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a> = 4,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc">ANNOUNCER_FLAG_DISABLE_PVP_START</a>     = 8,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1">ANNOUNCER_FLAG_DISABLE_PVP_ALL</a>       = <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828">ANNOUNCER_FLAG_DISABLE_BG_QUEUE</a></div>
+<div class="line"><span class="lineno">   39</span>                                         | <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704">ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE</a></div>
+<div class="line"><span class="lineno">   40</span>                                         | <a class="code hl_enumvalue" href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc">ANNOUNCER_FLAG_DISABLE_PVP_START</a></div>
+<div class="line"><span class="lineno">   41</span>};</div>
 <div class="ttc" id="aa02081_html_a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e"><div class="ttname"><a href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda8cc308de4e117be878954235d6580c5e">ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_AUTOBROADCAST</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:36</div></div>
 <div class="ttc" id="aa02081_html_a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704"><div class="ttname"><a href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fda9135a4bbd55879aac0e222d69a6a1704">ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_ARENA_QUEUE</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:35</div></div>
+<div class="ttc" id="aa02081_html_a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc"><div class="ttname"><a href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdaaabbc4145ea320fcf6ebb06c038b6dcc">ANNOUNCER_FLAG_DISABLE_PVP_START</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_PVP_START</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:37</div></div>
 <div class="ttc" id="aa02081_html_a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828"><div class="ttname"><a href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdade902d5cd94d828fb33601d0d2461828">ANNOUNCER_FLAG_DISABLE_BG_QUEUE</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_BG_QUEUE</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:34</div></div>
+<div class="ttc" id="aa02081_html_a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1"><div class="ttname"><a href="../../d2/d50/a02081.html#a32dfba2d10d91879403874fc75b928fdafaecba0e49447ce6892d08d00ac781b1">ANNOUNCER_FLAG_DISABLE_PVP_ALL</a></div><div class="ttdeci">@ ANNOUNCER_FLAG_DISABLE_PVP_ALL</div><div class="ttdef"><b>Definition:</b> PlayerSettings.h:38</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -274,7 +286,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_47dd4bd942ccc740eef16326f5a4c0e4.html">Player</a></li><li class="navelem"><a class="el" href="../../d2/d50/a02081.html">PlayerSettings.h</a></li>
-    <li class="footer">Generated on Mon May 18 2026 21:50:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon May 25 2026 21:48:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

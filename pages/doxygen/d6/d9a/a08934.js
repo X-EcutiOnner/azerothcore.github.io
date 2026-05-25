@@ -832,6 +832,7 @@ var a08934 =
     [ "SendInitWorldStates", "d6/d9a/a08934.html#a9065e5ca5561ebb3e237e7dd739cea5d", null ],
     [ "SendInstanceResetWarning", "d6/d9a/a08934.html#a1d5a99a1bc3fe2cd6be06768c66e574a", null ],
     [ "SendItemDurations", "d6/d9a/a08934.html#ae1d1899fa6df13292b3d0672e4ce5ebe", null ],
+    [ "SendItemRetrievalMail", "d6/d9a/a08934.html#acfe941cb8920169c24f67ca6d5ca1b7c", null ],
     [ "SendItemRetrievalMail", "d6/d9a/a08934.html#ab3e29319958681d1b49fc4b9cd23d5e7", null ],
     [ "SendItemRetrievalMail", "d6/d9a/a08934.html#a5287085841b4a0e311f7dd0ea20f61af", null ],
     [ "SendLearnPacket", "d6/d9a/a08934.html#a469571db44e8f31db85ca3c761a69282", null ],

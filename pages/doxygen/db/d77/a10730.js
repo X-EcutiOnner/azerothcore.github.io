@@ -168,6 +168,7 @@ var a10730 =
     [ "OnPlayerSetMaxLevel", "db/d77/a10730.html#aa8049d8f999c983d032c4a83f44d384d", null ],
     [ "OnPlayerSetServerSideVisibility", "db/d77/a10730.html#a426e85a617ff5bde90d46918e5fd5b4f", null ],
     [ "OnPlayerSetServerSideVisibilityDetect", "db/d77/a10730.html#afc51f607a2a09dfbebf941afb6d78848", null ],
+    [ "OnPlayerSetSkill", "db/d77/a10730.html#ae4b35828110b03b6f6086294bc35bf2d", null ],
     [ "OnPlayerShouldBeRewardedWithMoneyInsteadOfExp", "db/d77/a10730.html#a25dbc0a3cea9caf42fce43e7507098d8", null ],
     [ "OnPlayerSpellCast", "db/d77/a10730.html#a2eb26bdd3b1989286ee366c12d058f9f", null ],
     [ "OnPlayerStoreNewItem", "db/d77/a10730.html#a7ce4b3df298df0320a73322a684baada", null ],

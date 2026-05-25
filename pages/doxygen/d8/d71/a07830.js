@@ -3,6 +3,7 @@ var a07830 =
     [ "Print", "d8/d71/a07830.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
     [ "CliHandler", "d8/d71/a07830.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
     [ "GetAcoreString", "d8/d71/a07830.html#ab12ec41c55bc5f92461abff538a76b66", null ],
+    [ "GetModuleString", "d8/d71/a07830.html#aefd8e9833bbe24c6414dc6259d078df6", null ],
     [ "GetNameLink", "d8/d71/a07830.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
     [ "GetSessionDbcLocale", "d8/d71/a07830.html#a610f7431dc7b064c964e0d446160d19f", null ],
     [ "GetSessionDbLocaleIndex", "d8/d71/a07830.html#a5a2118d9227aa53818d736e387d77dea", null ],
