@@ -1,6 +1,5 @@
 var a19120 =
 [
-    [ "npc_captain_rupertAI", "d0/d15/a19120.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d0/d15/a19120.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d0/d15/a19120.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "at_icc_putricide_trap", "d0/d15/a19120.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "d0/d15/a19120.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

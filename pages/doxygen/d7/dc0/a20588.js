@@ -1,22 +1,12 @@
 var a20588 =
 [
-    [ "npc_ulduar_aerial_command_unit", "d7/dc0/a20588.html#a5e851e54145d69e55d4c41eda30422e9", null ],
-    [ "AttackStart", "d7/dc0/a20588.html#a215a0b1f8fdf50f3968289f78aa964c5", null ],
-    [ "DamageTaken", "d7/dc0/a20588.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
-    [ "DoAction", "d7/dc0/a20588.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
-    [ "EnterEvadeMode", "d7/dc0/a20588.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
-    [ "JustSummoned", "d7/dc0/a20588.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
-    [ "KilledUnit", "d7/dc0/a20588.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
-    [ "MoveInLineOfSight", "d7/dc0/a20588.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
-    [ "Reset", "d7/dc0/a20588.html#a51a2ad26cba213816a207f7f69591b4a", null ],
-    [ "SetData", "d7/dc0/a20588.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
-    [ "SpellHit", "d7/dc0/a20588.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
-    [ "SummonedCreatureDespawn", "d7/dc0/a20588.html#a429da72273b2126452eef1e9b724b40b", null ],
-    [ "UpdateAI", "d7/dc0/a20588.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
-    [ "bIsEvading", "d7/dc0/a20588.html#add45262675f20fbe17ae0a8480cbfa44", null ],
-    [ "events", "d7/dc0/a20588.html#a2ef45e3cd98d57977f417283988e130c", null ],
-    [ "immobilized", "d7/dc0/a20588.html#a9486d892bd576f95ab99fff7fc9bd303", null ],
-    [ "instance", "d7/dc0/a20588.html#a36f7e3b4228aca4adf092c14827fa072", null ],
-    [ "Phase", "d7/dc0/a20588.html#acf05bb3fbbd5b539a95a0238982fb867", null ],
-    [ "summons", "d7/dc0/a20588.html#af756d258c01be1768019372acdd9297c", null ]
+    [ "npc_xt002_boombot", "d7/dc0/a20588.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "d7/dc0/a20588.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "d7/dc0/a20588.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "d7/dc0/a20588.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "d7/dc0/a20588.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "d7/dc0/a20588.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "d7/dc0/a20588.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "d7/dc0/a20588.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "d7/dc0/a20588.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

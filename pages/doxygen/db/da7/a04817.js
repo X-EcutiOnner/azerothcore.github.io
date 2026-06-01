@@ -1,9 +1,25 @@
 var a04817 =
 [
-    [ "instance_magtheridons_lair", "dc/df8/a23262.html", "dc/df8/a23262" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d8/d23/a23266.html", "d8/d23/a23266" ],
-    [ "AddSC_instance_magtheridons_lair", "db/da7/a04817.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "db/da7/a04817.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "db/da7/a04817.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "db/da7/a04817.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "SpellProcChanceTest", "da/d55/a29524.html", "da/d55/a29524" ],
+    [ "TEST_F", "db/da7/a04817.html#a0067cc2d2c7eeb55ec8f33d368fd033f", null ],
+    [ "TEST_F", "db/da7/a04817.html#a47c99d67681c44af53a6492d5994eed7", null ],
+    [ "TEST_F", "db/da7/a04817.html#a19f98cdb20306306e21a5cb7a72c7e49", null ],
+    [ "TEST_F", "db/da7/a04817.html#aac1c57c49df9c3786548c5015e7ecbe2", null ],
+    [ "TEST_F", "db/da7/a04817.html#ab83aac3c76d2d716126a24b32d7b3740", null ],
+    [ "TEST_F", "db/da7/a04817.html#aa332c8542cc81c4bcfa3ea38de4d883e", null ],
+    [ "TEST_F", "db/da7/a04817.html#ab58756777d57b081474738fcddf9c3d9", null ],
+    [ "TEST_F", "db/da7/a04817.html#a90b7470654e74b5d5fbf79e58877f945", null ],
+    [ "TEST_F", "db/da7/a04817.html#af95c1f926cfd5f0172818790e5a8dad0", null ],
+    [ "TEST_F", "db/da7/a04817.html#ab9118e66468f5514a8367af924d17feb", null ],
+    [ "TEST_F", "db/da7/a04817.html#a02f44e4de6636d121ff789783600c3d4", null ],
+    [ "TEST_F", "db/da7/a04817.html#aa9a26d0333cdaf95363de72d974cf71d", null ],
+    [ "TEST_F", "db/da7/a04817.html#ab15f9630cd331b465b287ea7d494d38d", null ],
+    [ "TEST_F", "db/da7/a04817.html#a3f40e343661b10279c3e3adb0e7dde6e", null ],
+    [ "TEST_F", "db/da7/a04817.html#a33fb9c0f8fe1a60008d10c9561570517", null ],
+    [ "TEST_F", "db/da7/a04817.html#aeef06ffd03eb849db7c9ea03090d7089", null ],
+    [ "TEST_F", "db/da7/a04817.html#ae6e514aa2a436af03383f9b655859038", null ],
+    [ "TEST_F", "db/da7/a04817.html#a197cec06d246dbae06fda663eedf12a0", null ],
+    [ "TEST_F", "db/da7/a04817.html#abe575be9b92937bf10c472abe91ab32f", null ],
+    [ "TEST_F", "db/da7/a04817.html#ab8b90a08b9339c826e3ea4e9985238c9", null ],
+    [ "TEST_F", "db/da7/a04817.html#a252b150cbb92f8bc5cc7b595ce129f2b", null ]
 ];

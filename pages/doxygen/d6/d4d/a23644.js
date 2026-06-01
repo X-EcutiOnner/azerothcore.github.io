@@ -1,6 +1,7 @@
 var a23644 =
 [
-    [ "npc_warden_mellicharAI", "d6/d0b/a23648.html", "d6/d0b/a23648" ],
-    [ "npc_warden_mellichar", "d6/d4d/a23644.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d6/d4d/a23644.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "npc_daranelleAI", "d6/d4d/a23644.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d6/d4d/a23644.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d6/d4d/a23644.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d6/d4d/a23644.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

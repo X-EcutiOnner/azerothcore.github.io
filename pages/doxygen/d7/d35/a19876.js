@@ -1,7 +1,6 @@
 var a19876 =
 [
-    [ "HandleProc", "d7/d35/a19876.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d7/d35/a19876.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d7/d35/a19876.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d7/d35/a19876.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "go_celestial_planetarium_accessAI", "de/dd1/a19880.html", "de/dd1/a19880" ],
+    [ "go_celestial_planetarium_access", "d7/d35/a19876.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "d7/d35/a19876.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

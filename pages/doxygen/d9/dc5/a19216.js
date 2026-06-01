@@ -1,7 +1,6 @@
 var a19216 =
 [
-    [ "HandleEffectPeriodic", "d9/dc5/a19216.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "d9/dc5/a19216.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "d9/dc5/a19216.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "d9/dc5/a19216.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "boss_faerlinaAI", "d0/dcb/a19220.html", "d0/dcb/a19220" ],
+    [ "boss_faerlina", "d9/dc5/a19216.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
+    [ "GetAI", "d9/dc5/a19216.html#aed8214323ff5b792d9bd6aae478e7848", null ]
 ];

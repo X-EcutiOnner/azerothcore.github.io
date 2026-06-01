@@ -1,15 +1,9 @@
 var a18600 =
 [
-    [ "npc_sindragosa_trashAI", "d7/d8f/a18600.html#a7401a422bc4c2140c631bc118f396f25", null ],
-    [ "GetData", "d7/d8f/a18600.html#a701b8189869bf20d2b3da31b73aed9da", null ],
-    [ "InitializeAI", "d7/d8f/a18600.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
-    [ "JustEngagedWith", "d7/d8f/a18600.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
-    [ "JustRespawned", "d7/d8f/a18600.html#a6438b9f864f178dc4e35e24a48066980", null ],
-    [ "Reset", "d7/d8f/a18600.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
-    [ "SetData", "d7/d8f/a18600.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
-    [ "UpdateAI", "d7/d8f/a18600.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
-    [ "_events", "d7/d8f/a18600.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
-    [ "_frostwyrmId", "d7/d8f/a18600.html#ac2853246532bd913211fc743f4723ce0", null ],
-    [ "_instance", "d7/d8f/a18600.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
-    [ "_isTaunted", "d7/d8f/a18600.html#a50632ee1a85936748aabc5fb10f5e982", null ]
+    [ "HandleScript", "d7/d8f/a18600.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
+    [ "Load", "d7/d8f/a18600.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
+    [ "PrepareSpellScript", "d7/d8f/a18600.html#a73931c9434114749b9db648665153083", null ],
+    [ "Register", "d7/d8f/a18600.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
+    [ "SelectTarget", "d7/d8f/a18600.html#a95be527c43ceeb4801f4e494753c1b59", null ],
+    [ "_target", "d7/d8f/a18600.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
 ];

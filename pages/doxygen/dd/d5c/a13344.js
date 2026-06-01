@@ -1,5 +1,6 @@
 var a13344 =
 [
-    [ "boss_warlord_salaris", "dd/d5c/a13344.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "dd/d5c/a13344.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "npc_a_special_surpriseAI", "da/dcc/a13348.html", "da/dcc/a13348" ],
+    [ "npc_a_special_surprise", "dd/d5c/a13344.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dd/d5c/a13344.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

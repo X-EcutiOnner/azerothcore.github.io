@@ -1,6 +1,8 @@
 var a28068 =
 [
-    [ "boss_taerarAI", "d5/dde/a28072.html", "d5/dde/a28072" ],
-    [ "boss_taerar", "dc/d7c/a28068.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "dc/d7c/a28068.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "npc_simoneAI", "d5/dde/a28072.html", "d5/dde/a28072" ],
+    [ "npc_simone", "dc/d7c/a28068.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "dc/d7c/a28068.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "dc/d7c/a28068.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "dc/d7c/a28068.html#ae2b1a653be3767881769b54607219757", null ]
 ];

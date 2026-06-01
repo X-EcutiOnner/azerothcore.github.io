@@ -1,7 +1,5 @@
 var a27632 =
 [
-    [ "HandleScriptEffect", "d6/d8b/a27632.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
-    [ "PrepareSpellScript", "d6/d8b/a27632.html#aa211032991d8fd11d574cb364533a515", null ],
-    [ "Register", "d6/d8b/a27632.html#a13315f197f2e6975dca00b53cbc599d2", null ],
-    [ "Validate", "d6/d8b/a27632.html#a3b752f07631223199ed7ac404ed1afed", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d6/d8b/a27632.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d6/d8b/a27632.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

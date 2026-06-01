@@ -1,9 +1,7 @@
 var a19332 =
 [
-    [ "spell_trigger_spell_from_caster", "d0/db0/a19332.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d0/db0/a19332.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d0/db0/a19332.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d0/db0/a19332.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d0/db0/a19332.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d0/db0/a19332.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "HandleScript", "d0/db0/a19332.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d0/db0/a19332.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d0/db0/a19332.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d0/db0/a19332.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

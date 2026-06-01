@@ -1,12 +1,10 @@
 var a16304 =
 [
-    [ "npc_twilight_volunteer", "d4/d5f/a16304.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d4/d5f/a16304.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d4/d5f/a16304.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d4/d5f/a16304.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d4/d5f/a16304.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d4/d5f/a16304.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d4/d5f/a16304.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d4/d5f/a16304.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d4/d5f/a16304.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "boss_sartharion_tenebron", "d4/d5f/a16304.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d4/d5f/a16304.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d4/d5f/a16304.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d4/d5f/a16304.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d4/d5f/a16304.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d4/d5f/a16304.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d4/d5f/a16304.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

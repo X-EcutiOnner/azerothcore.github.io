@@ -1,6 +1,7 @@
 var a24344 =
 [
-    [ "PrepareSpellScript", "da/dcd/a24344.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "da/dcd/a24344.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "da/dcd/a24344.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "CheckProc", "da/dcd/a24344.html#a841b1a19cafcbf3b3bf82867cbb23384", null ],
+    [ "HandleProc", "da/dcd/a24344.html#a1d2e356b47d793bf9193b03f635ce579", null ],
+    [ "PrepareAuraScript", "da/dcd/a24344.html#addfa11cf74409b4bb369c2bbf583c13c", null ],
+    [ "Register", "da/dcd/a24344.html#a180fbfc09087cb2cd919734c447fef10", null ]
 ];

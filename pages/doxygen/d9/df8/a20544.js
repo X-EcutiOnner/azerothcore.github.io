@@ -1,7 +1,11 @@
 var a20544 =
 [
-    [ "FilterTargetsInitial", "d9/df8/a20544.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d9/df8/a20544.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d9/df8/a20544.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d9/df8/a20544.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "boss_thorim_arena_npcs", "d9/df8/a20544.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d9/df8/a20544.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d9/df8/a20544.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d9/df8/a20544.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d9/df8/a20544.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d9/df8/a20544.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d9/df8/a20544.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d9/df8/a20544.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

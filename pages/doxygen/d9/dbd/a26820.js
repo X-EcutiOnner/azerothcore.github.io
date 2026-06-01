@@ -1,7 +1,6 @@
 var a26820 =
 [
-    [ "HandleScriptEffect", "d9/dbd/a26820.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d9/dbd/a26820.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d9/dbd/a26820.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d9/dbd/a26820.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleTriggerSpell", "d9/dbd/a26820.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "d9/dbd/a26820.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "d9/dbd/a26820.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

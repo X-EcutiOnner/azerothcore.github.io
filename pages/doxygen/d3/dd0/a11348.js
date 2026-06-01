@@ -1,7 +1,9 @@
 var a11348 =
 [
-    [ "TimeQueryResponse", "d3/dd0/a11348.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "d3/dd0/a11348.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "d3/dd0/a11348.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "d3/dd0/a11348.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "TrainerList", "d3/dd0/a11348.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
+    [ "Write", "d3/dd0/a11348.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
+    [ "Greeting", "d3/dd0/a11348.html#ad88c53405b38f276815e0f013ce5261f", null ],
+    [ "Spells", "d3/dd0/a11348.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
+    [ "TrainerGUID", "d3/dd0/a11348.html#ab5e93d6c38efd311c701401ec03f7958", null ],
+    [ "TrainerType", "d3/dd0/a11348.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
 ];

@@ -1,6 +1,12 @@
 var a19656 =
 [
-    [ "DespawnTime", "df/deb/a19656.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "df/deb/a19656.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "df/deb/a19656.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_oculus_drakeAI", "df/deb/a19656.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/deb/a19656.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/deb/a19656.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/deb/a19656.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/deb/a19656.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/deb/a19656.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/deb/a19656.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/deb/a19656.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/deb/a19656.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

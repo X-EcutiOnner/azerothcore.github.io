@@ -1,7 +1,6 @@
 var a27504 =
 [
-    [ "HandleProc", "da/d8b/a27504.html#aeaeacf85b822cc7427234fe469aaff7f", null ],
-    [ "PrepareAuraScript", "da/d8b/a27504.html#ac9df7bea2f626b95291c18c740968da6", null ],
-    [ "Register", "da/d8b/a27504.html#a7152aa6ab02938d981ee83875e533b32", null ],
-    [ "Validate", "da/d8b/a27504.html#a0e488d9d96e37a20887f0befc1950dd5", null ]
+    [ "HandleHeal", "da/d8b/a27504.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "da/d8b/a27504.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "da/d8b/a27504.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

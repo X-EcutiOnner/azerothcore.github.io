@@ -1,5 +1,24 @@
 var a20384 =
 [
-    [ "achievement_smell_saronite", "db/dbc/a20384.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "db/dbc/a20384.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "npc_ulduar_vx001", "db/dbc/a20384.html#a1fbaef8e14a2fa2e7a946bcce751c3a9", null ],
+    [ "AttackStart", "db/dbc/a20384.html#a47d955c4db0c8ceb30ae770a82aaf424", null ],
+    [ "DamageTaken", "db/dbc/a20384.html#ad1d0ec1e6a3905f3ede091383ce02116", null ],
+    [ "DoAction", "db/dbc/a20384.html#ae988d7c48b11e72b5d8e02966fd432ed", null ],
+    [ "EnterEvadeMode", "db/dbc/a20384.html#a4f019ff2bb5897c0c088f417f8ba4d45", null ],
+    [ "GetData", "db/dbc/a20384.html#aa5d26dcde4346e8f803c9461ef053a8c", null ],
+    [ "KilledUnit", "db/dbc/a20384.html#ab25d0f2a79708c86d798f83e68100d03", null ],
+    [ "MoveInLineOfSight", "db/dbc/a20384.html#a0f02c02bcc93afe1059152e72f981ffd", null ],
+    [ "PassengerBoarded", "db/dbc/a20384.html#a34837d8ab0335605d7bf61eae5c29c2a", null ],
+    [ "Reset", "db/dbc/a20384.html#a27f5a5fe661fd896a89e534b109fc329", null ],
+    [ "SetData", "db/dbc/a20384.html#a8ae4ce7110f8ad7f7b800924220133b0", null ],
+    [ "SpellHit", "db/dbc/a20384.html#a10fe94210982e31e3cb48614d74a8e67", null ],
+    [ "UpdateAI", "db/dbc/a20384.html#ab8f9d5f73674dd351731210f5e053fd9", null ],
+    [ "_events", "db/dbc/a20384.html#adc9d977da6b2d24230fdc242461217da", null ],
+    [ "_fighting", "db/dbc/a20384.html#a07d5508590e09dcd6ceab37dfd380d2a", null ],
+    [ "_isEvading", "db/dbc/a20384.html#acdb4d264fea9a15c62b32173d0b674a3", null ],
+    [ "_leftArm", "db/dbc/a20384.html#a5c15b3c1aad51569cc8b6fe3a371f0bb", null ],
+    [ "_phase", "db/dbc/a20384.html#a09d6c576c0edf23d46e53c3909a82b00", null ],
+    [ "_spinningUpOrientation", "db/dbc/a20384.html#aa80b621fdd89e000c945552ac38495f2", null ],
+    [ "_spinningUpTimer", "db/dbc/a20384.html#a349f58e878588ba2dcb2dd2da64a9f87", null ],
+    [ "instance", "db/dbc/a20384.html#a720b4fdc32d067cdb91589bdc1724299", null ]
 ];

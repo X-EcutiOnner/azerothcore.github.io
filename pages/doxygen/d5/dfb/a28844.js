@@ -1,12 +1,10 @@
 var a28844 =
 [
-    [ "TestVisibilityScript", "d5/dfb/a28844.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d5/dfb/a28844.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d5/dfb/a28844.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d5/dfb/a28844.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d5/dfb/a28844.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d5/dfb/a28844.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d5/dfb/a28844.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d5/dfb/a28844.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d5/dfb/a28844.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "ID", "d5/dfb/a28844.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d5/dfb/a28844.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d5/dfb/a28844.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d5/dfb/a28844.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d5/dfb/a28844.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d5/dfb/a28844.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d5/dfb/a28844.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

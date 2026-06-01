@@ -1,5 +1,5 @@
 var a27996 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d7/d3a/a27996.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d7/d3a/a27996.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "item_mysterious_egg", "d7/d3a/a27996.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
+    [ "OnExpire", "d7/d3a/a27996.html#a5ea72284626826b75819f89b3b91c540", null ]
 ];

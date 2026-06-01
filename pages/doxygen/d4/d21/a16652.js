@@ -1,11 +1,8 @@
 var a16652 =
 [
-    [ "boss_saviana_ragefireAI", "d4/d21/a16652.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d4/d21/a16652.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d4/d21/a16652.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d4/d21/a16652.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d4/d21/a16652.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d4/d21/a16652.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d4/d21/a16652.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d4/d21/a16652.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "npc_announcer_toc5AI", "d4/d21/a16652.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d4/d21/a16652.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d4/d21/a16652.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d4/d21/a16652.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d4/d21/a16652.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

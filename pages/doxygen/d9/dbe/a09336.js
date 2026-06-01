@@ -1,6 +1,8 @@
 var a09336 =
 [
-    [ "Visit", "d9/dbe/a09336.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
-    [ "Visit", "d9/dbe/a09336.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
-    [ "Visit", "d9/dbe/a09336.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
+    [ "MailLevelReward", "d9/dbe/a09336.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d9/dbe/a09336.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d9/dbe/a09336.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d9/dbe/a09336.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d9/dbe/a09336.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

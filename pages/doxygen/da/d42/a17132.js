@@ -1,5 +1,6 @@
 var a17132 =
 [
-    [ "achievement_better_off_dred", "da/d42/a17132.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "da/d42/a17132.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "instance_forge_of_souls_InstanceScript", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
+    [ "instance_forge_of_souls", "da/d42/a17132.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "da/d42/a17132.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

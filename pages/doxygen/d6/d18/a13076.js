@@ -1,9 +1,6 @@
 var a13076 =
 [
-    [ "boss_curator", "d6/d18/a13076.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "d6/d18/a13076.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "d6/d18/a13076.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "d6/d18/a13076.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "d6/d18/a13076.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "d6/d18/a13076.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "npc_sanguine_spirit", "d6/d18/a13076.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d6/d18/a13076.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d6/d18/a13076.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

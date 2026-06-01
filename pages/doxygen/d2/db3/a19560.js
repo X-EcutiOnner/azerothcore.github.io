@@ -1,15 +1,14 @@
 var a19560 =
 [
-    [ "boss_maexxnaAI", "d2/db3/a19560.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "d2/db3/a19560.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "d2/db3/a19560.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "d2/db3/a19560.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "d2/db3/a19560.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "d2/db3/a19560.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "d2/db3/a19560.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "d2/db3/a19560.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "d2/db3/a19560.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "d2/db3/a19560.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "d2/db3/a19560.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "d2/db3/a19560.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_magus_telestra", "d2/db3/a19560.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d2/db3/a19560.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d2/db3/a19560.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d2/db3/a19560.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d2/db3/a19560.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d2/db3/a19560.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d2/db3/a19560.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d2/db3/a19560.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d2/db3/a19560.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d2/db3/a19560.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d2/db3/a19560.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

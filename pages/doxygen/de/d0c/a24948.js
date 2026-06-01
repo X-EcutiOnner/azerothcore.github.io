@@ -1,11 +1,9 @@
 var a24948 =
 [
-    [ "spell_gen_relocaste_dest", "de/d0c/a24948.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "de/d0c/a24948.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "de/d0c/a24948.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "de/d0c/a24948.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "de/d0c/a24948.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "de/d0c/a24948.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "de/d0c/a24948.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "de/d0c/a24948.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "PrepareAuraScript", "de/d0c/a24948.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
+    [ "RefreshVisualShields", "de/d0c/a24948.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
+    [ "Register", "de/d0c/a24948.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
+    [ "RemoveDummyFromDriver", "de/d0c/a24948.html#a399641ce72b74038a4517868267bd86a", null ],
+    [ "RemoveVisualShields", "de/d0c/a24948.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
+    [ "Validate", "de/d0c/a24948.html#ae5799f72b7fbce82799fd730f1525948", null ]
 ];

@@ -1,9 +1,7 @@
 var a18140 =
 [
-    [ "CalculateDamage", "d3/dad/a18140.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d3/dad/a18140.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d3/dad/a18140.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d3/dad/a18140.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d3/dad/a18140.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d3/dad/a18140.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "HandleExtraEffect", "d3/dad/a18140.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d3/dad/a18140.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d3/dad/a18140.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d3/dad/a18140.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

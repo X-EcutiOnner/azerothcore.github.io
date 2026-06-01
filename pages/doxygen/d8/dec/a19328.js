@@ -1,5 +1,7 @@
 var a19328 =
 [
-    [ "at_icc_spire_frostwyrm", "d8/dec/a19328.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d8/dec/a19328.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "FilterTargets", "d8/dec/a19328.html#af92aec0df6c962a10ccbebb366081cfd", null ],
+    [ "PrepareSpellScript", "d8/dec/a19328.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
+    [ "Register", "d8/dec/a19328.html#af59416debfc7685bec92541a00e1dafe", null ],
+    [ "Validate", "d8/dec/a19328.html#abbe7ae557fb510457504f72adfa0aedc", null ]
 ];

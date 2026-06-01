@@ -1,15 +1,8 @@
 var a05260 =
 [
-    [ "GetBounds", "d3/dc5/a05260.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "d3/dc5/a05260.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "d3/dc5/a05260.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d3/dc5/a05260.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "d3/dc5/a05260.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d3/dc5/a05260.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d3/dc5/a05260.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d3/dc5/a05260.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d3/dc5/a05260.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d3/dc5/a05260.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d3/dc5/a05260.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d3/dc5/a05260.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "ModelFileMap", "d3/dc5/a05260.html#ae609ba50932b7bac6ac0c1c7d0800b5d", null ],
+    [ "AcquireModelInstance", "d3/dc5/a05260.html#af6dc1b3c77f5eeff5ff4b9bc5c4024b0", null ],
+    [ "instance", "d3/dc5/a05260.html#a6cae2913accf21c262dafa01c14b1795", null ],
+    [ "_loadedModels", "d3/dc5/a05260.html#a406474470aaa0da5b752817cc5ea81ae", null ],
+    [ "_lock", "d3/dc5/a05260.html#ab258d227875d9aad8f399fae3f57f0ab", null ]
 ];

@@ -1,6 +1,6 @@
 var a18072 =
 [
-    [ "npc_gunship_gunnerAI", "df/d82/a18076.html", "df/d82/a18076" ],
-    [ "npc_gunship_gunner", "da/d64/a18072.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "da/d64/a18072.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "PrepareSpellScript", "da/d64/a18072.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "da/d64/a18072.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "da/d64/a18072.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

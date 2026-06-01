@@ -1,10 +1,10 @@
 var a07716 =
 [
-    [ "ChannelRights", "db/d25/a07716.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "db/d25/a07716.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
-    [ "flags", "db/d25/a07716.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "db/d25/a07716.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "db/d25/a07716.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "db/d25/a07716.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "db/d25/a07716.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "BattlegroundEYCapturingPointStruct", "db/d25/a07716.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
+    [ "DespawnNeutralObjectType", "db/d25/a07716.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
+    [ "GraveyardId", "db/d25/a07716.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
+    [ "MessageIdAlliance", "db/d25/a07716.html#af3295d59367354a4ddaac12258e793b8", null ],
+    [ "MessageIdHorde", "db/d25/a07716.html#a5c82eae433ee69b5bda8c96049a06422", null ],
+    [ "SpawnObjectTypeAlliance", "db/d25/a07716.html#aeeeecdf09990c74ffc868a135854d49b", null ],
+    [ "SpawnObjectTypeHorde", "db/d25/a07716.html#a4b25984504b15c7249d2e5866ad35962", null ]
 ];

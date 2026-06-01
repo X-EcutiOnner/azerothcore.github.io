@@ -1,28 +1,7 @@
 var a08332 =
 [
-    [ "GossipMenu", "de/d5e/a08332.html#a57bbd11a89194b24566279bb846edd54", null ],
-    [ "~GossipMenu", "de/d5e/a08332.html#a4c72e949bfa5cff5bb2b4ecc5ea56f96", null ],
-    [ "AddGossipMenuItemData", "de/d5e/a08332.html#ac15f7a55f03d50cb50cb366150fb6fd8", null ],
-    [ "AddMenuItem", "de/d5e/a08332.html#a47c99098962324ba20efb029df24fd3e", null ],
-    [ "AddMenuItem", "de/d5e/a08332.html#a7d04c8b60bd9ec1ebec5537ef8233d0a", null ],
-    [ "ClearMenu", "de/d5e/a08332.html#ac6ce4a1565afa7c86eb93ab0c981b866", null ],
-    [ "Empty", "de/d5e/a08332.html#a02393cb3a0a3b9cf3ccfc788479bd1ca", null ],
-    [ "GetItem", "de/d5e/a08332.html#a61be1f9f0c25093a19d2a6b1c46bfd84", null ],
-    [ "GetItemData", "de/d5e/a08332.html#a8b58b8a09b1363e56eb5b8f623009597", null ],
-    [ "GetLocale", "de/d5e/a08332.html#a300a0ffdf513e3fc405028b72d9ad600", null ],
-    [ "GetMenuId", "de/d5e/a08332.html#a6bc424e3e19032ac7516a566412436d1", null ],
-    [ "GetMenuItemAction", "de/d5e/a08332.html#a46a06b2b50a50ad061a3e11b08f35153", null ],
-    [ "GetMenuItemCount", "de/d5e/a08332.html#a143ee125ba5709c1a3f5fb75fb9ade1c", null ],
-    [ "GetMenuItems", "de/d5e/a08332.html#a8fff76a2af9895fe41bc958712466191", null ],
-    [ "GetMenuItemSender", "de/d5e/a08332.html#a95b4a761301c7d76437a2dea0bcd304a", null ],
-    [ "GetSenderGUID", "de/d5e/a08332.html#a73d538927373b67ad66380e14a33d00e", null ],
-    [ "IsMenuItemCoded", "de/d5e/a08332.html#abbf16fa0780a4ce02f75e379bfefb2b9", null ],
-    [ "SetLocale", "de/d5e/a08332.html#a2a1a8781e502f814d7b5f8368c02030e", null ],
-    [ "SetMenuId", "de/d5e/a08332.html#a0dd173ce7a9995c9bac5080e53d78b07", null ],
-    [ "SetSenderGUID", "de/d5e/a08332.html#ac85ede62cc43925ba82a5c407e115243", null ],
-    [ "_locale", "de/d5e/a08332.html#a8fbffff023b7b3347e967d81cf801172", null ],
-    [ "_menuId", "de/d5e/a08332.html#abdcc39069ea7c750308292f28e7277fe", null ],
-    [ "_menuItemData", "de/d5e/a08332.html#a74963fbb82523fe99aced2bd8325e062", null ],
-    [ "_menuItems", "de/d5e/a08332.html#a258217dfb85114323231ded153b0099d", null ],
-    [ "_senderGUID", "de/d5e/a08332.html#affe2150aac16ac70c14a6f7161bc9085", null ]
+    [ "ForcedDespawnDelayEvent", "de/d5e/a08332.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "de/d5e/a08332.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "de/d5e/a08332.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "de/d5e/a08332.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

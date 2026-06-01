@@ -1,8 +1,11 @@
 var a28088 =
 [
-    [ "FilterTargets", "d7/d00/a28088.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d7/d00/a28088.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d7/d00/a28088.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d7/d00/a28088.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d7/d00/a28088.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "npc_franklinAI", "d7/d00/a28088.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d7/d00/a28088.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d7/d00/a28088.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d7/d00/a28088.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d7/d00/a28088.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d7/d00/a28088.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d7/d00/a28088.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d7/d00/a28088.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

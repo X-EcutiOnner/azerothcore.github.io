@@ -1,6 +1,6 @@
 var a18308 =
 [
-    [ "npc_volatile_oozeAI", "df/d0c/a18312.html", "df/d0c/a18312" ],
-    [ "npc_volatile_ooze", "de/d68/a18308.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "de/d68/a18308.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "UnchainedMagicTargetSelector", "de/d68/a18308.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "de/d68/a18308.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "de/d68/a18308.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

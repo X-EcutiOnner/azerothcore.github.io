@@ -1,6 +1,6 @@
 var a14484 =
 [
-    [ "HandleOnHit", "dd/ddc/a14484.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "dd/ddc/a14484.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "dd/ddc/a14484.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "boss_wushoolayAI", "d5/dac/a14488.html", "d5/dac/a14488" ],
+    [ "boss_wushoolay", "dd/ddc/a14484.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "dd/ddc/a14484.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

@@ -1,8 +1,7 @@
 var a29872 =
 [
-    [ "ADT_file", "d0/d79/a29872.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
-    [ "~ADT_file", "d0/d79/a29872.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
-    [ "free", "d0/d79/a29872.html#a8fc207b8cc83596577166a0008965dc6", null ],
-    [ "prepareLoadedData", "d0/d79/a29872.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
-    [ "a_grid", "d0/d79/a29872.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
+    [ "_pad", "d0/d79/a29872.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
+    [ "Count", "d0/d79/a29872.html#ac90dd584efc679554d4cee31c988c7c8", null ],
+    [ "Name", "d0/d79/a29872.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
+    [ "StartIndex", "d0/d79/a29872.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
 ];

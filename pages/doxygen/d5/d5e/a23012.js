@@ -1,8 +1,5 @@
 var a23012 =
 [
-    [ "Absorb", "d5/d5e/a23012.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d5/d5e/a23012.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d5/d5e/a23012.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d5/d5e/a23012.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d5/d5e/a23012.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "boss_quagmirran", "d5/d5e/a23012.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d5/d5e/a23012.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

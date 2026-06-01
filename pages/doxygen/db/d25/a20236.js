@@ -1,8 +1,10 @@
 var a20236 =
 [
-    [ "OnApply", "db/d25/a20236.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "db/d25/a20236.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "db/d25/a20236.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "db/d25/a20236.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "db/d25/a20236.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "HandleEffectPeriodic", "db/d25/a20236.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "db/d25/a20236.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "db/d25/a20236.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "db/d25/a20236.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "db/d25/a20236.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "db/d25/a20236.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "db/d25/a20236.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

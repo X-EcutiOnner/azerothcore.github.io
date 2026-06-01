@@ -1,6 +1,6 @@
 var a23912 =
 [
-    [ "npc_nether_drakeAI", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
-    [ "npc_nether_drake", "d2/d3b/a23912.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d2/d3b/a23912.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "CheckRequirement", "d2/d3b/a23912.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d2/d3b/a23912.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d2/d3b/a23912.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

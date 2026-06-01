@@ -1,7 +1,8 @@
 var a09732 =
 [
-    [ "PowerCheck", "d0/d01/a09732.html#abb2fc6c6e83e1097a6bb40512fb50dfc", null ],
-    [ "operator()", "d0/d01/a09732.html#a16ad8e68d94742bc78b6f20734f58e99", null ],
-    [ "_equals", "d0/d01/a09732.html#ae7758da7775ff778bc5cd96e9a15649b", null ],
-    [ "_power", "d0/d01/a09732.html#a922a57b62b4289835b539a69b0f58fa1", null ]
+    [ "NearestHostileUnitInAttackDistanceCheck", "d0/d01/a09732.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
+    [ "NearestHostileUnitInAttackDistanceCheck", "d0/d01/a09732.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
+    [ "operator()", "d0/d01/a09732.html#adc28281742cd1f6a49152481b48f944e", null ],
+    [ "m_range", "d0/d01/a09732.html#ab79296a88ed07257edbe3449c2515b40", null ],
+    [ "me", "d0/d01/a09732.html#a298d2489b9bf30aa510407afca79a374", null ]
 ];

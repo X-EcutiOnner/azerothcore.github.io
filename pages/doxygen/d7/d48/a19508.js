@@ -1,7 +1,8 @@
 var a19508 =
 [
-    [ "HandleRemove", "d7/d48/a19508.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d7/d48/a19508.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d7/d48/a19508.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d7/d48/a19508.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "Load", "d7/d48/a19508.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "d7/d48/a19508.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "d7/d48/a19508.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "d7/d48/a19508.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "d7/d48/a19508.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

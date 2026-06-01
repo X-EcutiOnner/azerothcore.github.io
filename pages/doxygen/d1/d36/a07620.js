@@ -1,9 +1,7 @@
 var a07620 =
 [
-    [ "BattlegroundEYScore", "d1/d36/a07620.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "d1/d36/a07620.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "d1/d36/a07620.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "d1/d36/a07620.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "d1/d36/a07620.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "d1/d36/a07620.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "BattlegroundObjectInfo", "d1/d36/a07620.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d1/d36/a07620.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d1/d36/a07620.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d1/d36/a07620.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

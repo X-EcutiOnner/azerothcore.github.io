@@ -1,6 +1,6 @@
 var a21796 =
 [
-    [ "npc_spiritual_insightAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
-    [ "npc_spiritual_insight", "dd/d22/a21796.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "dd/d22/a21796.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "npc_guardian_pavilionAI", "d6/dd8/a21800.html", "d6/dd8/a21800" ],
+    [ "npc_guardian_pavilion", "dd/d22/a21796.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "dd/d22/a21796.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

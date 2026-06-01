@@ -1,14 +1,10 @@
 var a14372 =
 [
-    [ "npc_harrison_jones", "dd/d15/a14372.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "dd/d15/a14372.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "dd/d15/a14372.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "dd/d15/a14372.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "dd/d15/a14372.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "dd/d15/a14372.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "dd/d15/a14372.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "dd/d15/a14372.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "dd/d15/a14372.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "dd/d15/a14372.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "dd/d15/a14372.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "npc_batrider", "dd/d15/a14372.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "dd/d15/a14372.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "dd/d15/a14372.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "dd/d15/a14372.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "dd/d15/a14372.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "dd/d15/a14372.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "dd/d15/a14372.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

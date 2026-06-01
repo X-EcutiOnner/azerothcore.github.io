@@ -1,15 +1,8 @@
 var a18680 =
 [
-    [ "npc_tirion_fordringAI", "d7/d8f/a18680.html#aa0f94cef85e96cda4a2e280eaa7110de", null ],
-    [ "CanAIAttack", "d7/d8f/a18680.html#a1bdef323e9c7364fab789abc39ef00a0", null ],
-    [ "DoAction", "d7/d8f/a18680.html#a5fd5b3fde84ed04c794546d11fe946d7", null ],
-    [ "EnterEvadeMode", "d7/d8f/a18680.html#a1275cee8f49c67920041ad8d50c62aa4", null ],
-    [ "JustReachedHome", "d7/d8f/a18680.html#a6e6c7c2f4f8e60126fd4adc42fe3b4f4", null ],
-    [ "MovementInform", "d7/d8f/a18680.html#a7284240c4eafbc80748d5e2867a64a9f", null ],
-    [ "Reset", "d7/d8f/a18680.html#ac41e569535322bb5907fa4116bbac739", null ],
-    [ "sGossipSelect", "d7/d8f/a18680.html#a56599a97f019121160b2f6ac43019772", null ],
-    [ "SpellHit", "d7/d8f/a18680.html#ae68b900f87c646cfb3ece5518b59e687", null ],
-    [ "UpdateAI", "d7/d8f/a18680.html#a3f729624820266f1cf1e5577c5047c3b", null ],
-    [ "_events", "d7/d8f/a18680.html#a7bb0d243cc9b3e836dd99864f2a5e669", null ],
-    [ "_instance", "d7/d8f/a18680.html#a223a7f09ae03971487bb55e770503f7e", null ]
+    [ "npc_lk_wicked_spiritAI", "d7/d8f/a18680.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d7/d8f/a18680.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d7/d8f/a18680.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d7/d8f/a18680.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d7/d8f/a18680.html#a8b15079251b6855679d738a342126006", null ]
 ];

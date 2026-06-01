@@ -1,6 +1,8 @@
 var a12896 =
 [
-    [ "npc_core_ragerAI", "d1/dac/a12900.html", "d1/dac/a12900" ],
-    [ "npc_core_rager", "d1/ddb/a12896.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "d1/ddb/a12896.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "FilterTargets", "d1/ddb/a12896.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d1/ddb/a12896.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d1/ddb/a12896.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d1/ddb/a12896.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d1/ddb/a12896.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

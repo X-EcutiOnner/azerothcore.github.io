@@ -1,6 +1,10 @@
 var a14532 =
 [
-    [ "boss_mandokirAI", "d6/d62/a14536.html", "d6/d62/a14536" ],
-    [ "boss_mandokir", "d2/dda/a14532.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d2/dda/a14532.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_brewfest_super_brew_trigger", "d2/dda/a14532.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d2/dda/a14532.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d2/dda/a14532.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d2/dda/a14532.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d2/dda/a14532.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d2/dda/a14532.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d2/dda/a14532.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

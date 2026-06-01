@@ -1,8 +1,7 @@
 var a29024 =
 [
-    [ "ID", "d7/d0c/a29024.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "d7/d0c/a29024.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "d7/d0c/a29024.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "d7/d0c/a29024.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "d7/d0c/a29024.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "ClassMask", "d7/d0c/a29024.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "d7/d0c/a29024.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "d7/d0c/a29024.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "d7/d0c/a29024.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

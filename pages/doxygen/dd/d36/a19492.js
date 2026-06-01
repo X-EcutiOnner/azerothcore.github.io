@@ -1,15 +1,11 @@
 var a19492 =
 [
-    [ "boss_grobbulusAI", "dd/d36/a19492.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "dd/d36/a19492.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "dd/d36/a19492.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "dd/d36/a19492.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "dd/d36/a19492.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "dd/d36/a19492.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "dd/d36/a19492.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "dd/d36/a19492.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "dd/d36/a19492.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "dd/d36/a19492.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "dd/d36/a19492.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "dd/d36/a19492.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "npc_hover_disk", "dd/d36/a19492.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "dd/d36/a19492.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "dd/d36/a19492.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "dd/d36/a19492.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "dd/d36/a19492.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "dd/d36/a19492.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "dd/d36/a19492.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "dd/d36/a19492.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

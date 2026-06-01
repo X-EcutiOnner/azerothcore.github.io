@@ -1,6 +1,8 @@
 var a21600 =
 [
-    [ "npc_steam_powered_auctioneerAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
-    [ "npc_steam_powered_auctioneer", "da/daa/a21600.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "da/daa/a21600.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_ravenous_worgAI", "da/daa/a21600.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "da/daa/a21600.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "da/daa/a21600.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "da/daa/a21600.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "da/daa/a21600.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

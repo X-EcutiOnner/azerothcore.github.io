@@ -1,5 +1,5 @@
 var a19140 =
 [
-    [ "npc_alchemist_adrianna", "d9/da4/a19140.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "d9/da4/a19140.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "creatureEntry", "d9/da4/a19140.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d9/da4/a19140.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

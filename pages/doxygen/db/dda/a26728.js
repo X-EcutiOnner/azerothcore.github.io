@@ -1,7 +1,7 @@
 var a26728 =
 [
-    [ "CheckProc", "db/dda/a26728.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "db/dda/a26728.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "db/dda/a26728.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "db/dda/a26728.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "HandleEffectApply", "db/dda/a26728.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "db/dda/a26728.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "db/dda/a26728.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "db/dda/a26728.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

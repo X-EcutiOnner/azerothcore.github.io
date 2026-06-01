@@ -1,8 +1,6 @@
 var a22572 =
 [
-    [ "boss_tavarok", "dd/d97/a22572.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "dd/d97/a22572.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "dd/d97/a22572.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "dd/d97/a22572.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "dd/d97/a22572.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "boss_essence_of_desireAI", "d3/dbf/a22576.html", "d3/dbf/a22576" ],
+    [ "boss_essence_of_desire", "dd/d97/a22572.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "dd/d97/a22572.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

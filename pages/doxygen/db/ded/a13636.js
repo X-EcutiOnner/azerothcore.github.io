@@ -1,7 +1,5 @@
 var a13636 =
 [
-    [ "OnPeriodic", "db/ded/a13636.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "db/ded/a13636.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "db/ded/a13636.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "db/ded/a13636.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "at_sunwell_eredar_twins", "db/ded/a13636.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "db/ded/a13636.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

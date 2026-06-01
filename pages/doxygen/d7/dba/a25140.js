@@ -1,7 +1,8 @@
 var a25140 =
 [
-    [ "HandleScript", "d7/dba/a25140.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "d7/dba/a25140.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "d7/dba/a25140.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "d7/dba/a25140.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "OnApply", "d7/dba/a25140.html#acf25199409ab6f991db15a784749aaf1", null ],
+    [ "OnRemove", "d7/dba/a25140.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
+    [ "PrepareAuraScript", "d7/dba/a25140.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
+    [ "Register", "d7/dba/a25140.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
+    [ "Validate", "d7/dba/a25140.html#a09017d12ecf0ae0c3091cea17640782c", null ]
 ];

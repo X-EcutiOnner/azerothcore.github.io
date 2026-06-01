@@ -1,7 +1,9 @@
 var a20016 =
 [
-    [ "creature", "d2/db4/a20016.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d2/db4/a20016.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d2/db4/a20016.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d2/db4/a20016.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "npc_thorims_hammer", "d2/db4/a20016.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d2/db4/a20016.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d2/db4/a20016.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d2/db4/a20016.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d2/db4/a20016.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d2/db4/a20016.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

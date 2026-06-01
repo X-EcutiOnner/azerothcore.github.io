@@ -1,6 +1,10 @@
 var a25004 =
 [
-    [ "CheckProc", "d9/dee/a25004.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "d9/dee/a25004.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "d9/dee/a25004.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "spell_gen_summon_elemental", "d9/dee/a25004.html#ae2dece3ac20afe16430e741fab909fa1", null ],
+    [ "AfterApply", "d9/dee/a25004.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
+    [ "AfterRemove", "d9/dee/a25004.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
+    [ "PrepareAuraScript", "d9/dee/a25004.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
+    [ "Register", "d9/dee/a25004.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
+    [ "Validate", "d9/dee/a25004.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
+    [ "_spellId", "d9/dee/a25004.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
 ];

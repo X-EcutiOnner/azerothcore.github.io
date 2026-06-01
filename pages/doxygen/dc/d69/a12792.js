@@ -1,7 +1,7 @@
 var a12792 =
 [
-    [ "HandleDummy", "dc/d69/a12792.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "dc/d69/a12792.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "dc/d69/a12792.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "dc/d69/a12792.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "HandleRemove", "dc/d69/a12792.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "dc/d69/a12792.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "dc/d69/a12792.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "dc/d69/a12792.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

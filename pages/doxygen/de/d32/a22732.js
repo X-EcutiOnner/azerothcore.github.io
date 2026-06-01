@@ -1,8 +1,8 @@
 var a22732 =
 [
-    [ "Load", "de/d32/a22732.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "de/d32/a22732.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "de/d32/a22732.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "de/d32/a22732.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "de/d32/a22732.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "Absorb", "de/d32/a22732.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "de/d32/a22732.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "de/d32/a22732.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "de/d32/a22732.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "de/d32/a22732.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

@@ -1,6 +1,7 @@
 var a23388 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/d0c/a23392.html", "dc/d0c/a23392" ],
-    [ "instance_the_underbog", "dc/dc0/a23388.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "dc/dc0/a23388.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_zereketh_the_unbound", "dc/dc0/a23388.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "dc/dc0/a23388.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "dc/dc0/a23388.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "dc/dc0/a23388.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

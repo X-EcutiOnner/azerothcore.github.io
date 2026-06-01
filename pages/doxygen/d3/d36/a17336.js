@@ -1,8 +1,9 @@
 var a17336 =
 [
-    [ "npc_phantom_hallucinationAI", "d3/d36/a17336.html#a7b27d1c859d77220dc1c3c8323e9eef9", null ],
-    [ "EnterEvadeMode", "d3/d36/a17336.html#a7ef7411ea780466d7c4dd185d9444aba", null ],
-    [ "JustDied", "d3/d36/a17336.html#a5a4f05c5930a7e5bd31df2e3131f4cec", null ],
-    [ "UpdateAI", "d3/d36/a17336.html#ad874a741c641dbac6380aa682d582d7c", null ],
-    [ "numOfUpd", "d3/d36/a17336.html#adb78f5dcd272e8223f895079885a5461", null ]
+    [ "npc_pos_collapsing_icicleAI", "d3/d36/a17336.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d3/d36/a17336.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d3/d36/a17336.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d3/d36/a17336.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d3/d36/a17336.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d3/d36/a17336.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

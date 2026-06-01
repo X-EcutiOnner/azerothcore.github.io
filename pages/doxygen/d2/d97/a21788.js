@@ -1,6 +1,6 @@
 var a21788 =
 [
-    [ "npc_q24545_vegardAI", "d9/da9/a21792.html", "d9/da9/a21792" ],
-    [ "npc_q24545_vegard", "d2/d97/a21788.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d2/d97/a21788.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "ChangeSummonPos", "d2/d97/a21788.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d2/d97/a21788.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d2/d97/a21788.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

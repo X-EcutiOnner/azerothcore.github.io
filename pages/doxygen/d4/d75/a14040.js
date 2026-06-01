@@ -1,12 +1,7 @@
 var a14040 =
 [
-    [ "npc_cameron", "d4/d75/a14040.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d4/d75/a14040.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d4/d75/a14040.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d4/d75/a14040.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d4/d75/a14040.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d4/d75/a14040.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d4/d75/a14040.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d4/d75/a14040.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d4/d75/a14040.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_king_varian_wrynn", "d4/d75/a14040.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "d4/d75/a14040.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "d4/d75/a14040.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "d4/d75/a14040.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

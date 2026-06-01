@@ -1,5 +1,5 @@
 var a13068 =
 [
-    [ "npc_chess_move_trigger", "d5/d90/a13068.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "d5/d90/a13068.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "at_karazhan_atiesh_aran", "d5/d90/a13068.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d5/d90/a13068.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

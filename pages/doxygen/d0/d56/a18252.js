@@ -1,7 +1,7 @@
 var a18252 =
 [
-    [ "npc_coldflameAI", "d0/d56/a18252.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d0/d56/a18252.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d0/d56/a18252.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d0/d56/a18252.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "HandleCast", "d0/d56/a18252.html#aaa3262bc782e342825d4caba2954e95d", null ],
+    [ "PrepareSpellScript", "d0/d56/a18252.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
+    [ "Register", "d0/d56/a18252.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
+    [ "Validate", "d0/d56/a18252.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
 ];

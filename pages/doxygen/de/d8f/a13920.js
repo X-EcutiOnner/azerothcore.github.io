@@ -1,8 +1,10 @@
 var a13920 =
 [
-    [ "HandleApply", "de/d8f/a13920.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "de/d8f/a13920.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "de/d8f/a13920.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "de/d8f/a13920.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "de/d8f/a13920.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "npc_partygoer_pather", "de/d8f/a13920.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "de/d8f/a13920.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "de/d8f/a13920.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "de/d8f/a13920.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "de/d8f/a13920.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "de/d8f/a13920.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "de/d8f/a13920.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

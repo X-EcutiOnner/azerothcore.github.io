@@ -1,13 +1,10 @@
 var a29276 =
 [
-    [ "AcquireMethod", "dc/d18/a29276.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "dc/d18/a29276.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "dc/d18/a29276.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "dc/d18/a29276.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "dc/d18/a29276.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "dc/d18/a29276.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "dc/d18/a29276.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "dc/d18/a29276.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "dc/d18/a29276.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "dc/d18/a29276.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "TestMap", "dc/d18/a29276.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "dc/d18/a29276.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "dc/d18/a29276.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "dc/d18/a29276.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "dc/d18/a29276.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "dc/d18/a29276.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "dc/d18/a29276.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

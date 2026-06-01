@@ -1,9 +1,11 @@
 var a12372 =
 [
-    [ "npc_burning_spiritAI", "d7/d3a/a12372.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d7/d3a/a12372.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d7/d3a/a12372.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d7/d3a/a12372.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d7/d3a/a12372.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d7/d3a/a12372.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "pooltools_commandscript", "d7/d3a/a12372.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "d7/d3a/a12372.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "d7/d3a/a12372.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "d7/d3a/a12372.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "d7/d3a/a12372.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "d7/d3a/a12372.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "d7/d3a/a12372.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "d7/d3a/a12372.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

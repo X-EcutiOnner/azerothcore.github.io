@@ -1,6 +1,8 @@
 var a19824 =
 [
-    [ "boss_varosAI", "de/da7/a19828.html", "de/da7/a19828" ],
-    [ "boss_varos", "da/d8f/a19824.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "da/d8f/a19824.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "brann_bronzebeardAI", "de/da7/a19828.html", "de/da7/a19828" ],
+    [ "brann_bronzebeard", "da/d8f/a19824.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "da/d8f/a19824.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "da/d8f/a19824.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "da/d8f/a19824.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

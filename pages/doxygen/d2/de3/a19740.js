@@ -1,5 +1,6 @@
 var a19740 =
 [
-    [ "achievement_chaos_theory", "d2/de3/a19740.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d2/de3/a19740.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "CalculateDamage", "d2/de3/a19740.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d2/de3/a19740.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d2/de3/a19740.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

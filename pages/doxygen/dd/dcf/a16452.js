@@ -1,8 +1,10 @@
 var a16452 =
 [
-    [ "npc_twilight_summon", "dd/dcf/a16452.html#a34697edd1af94814862a50a038625f93", null ],
-    [ "DoAction", "dd/dcf/a16452.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
-    [ "Reset", "dd/dcf/a16452.html#aa909fac05e93a78d3f70222fb82a6841", null ],
-    [ "UpdateAI", "dd/dcf/a16452.html#afe47f7af23aa7ef5b59473579c649859", null ],
-    [ "fadeArmorTimer", "dd/dcf/a16452.html#a998e2efd9e25915d32b953d684352511", null ]
+    [ "spell_halion_marks_aura", "dd/dcf/a16452.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
+    [ "BeforeDispel", "dd/dcf/a16452.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
+    [ "OnRemove", "dd/dcf/a16452.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
+    [ "PrepareAuraScript", "dd/dcf/a16452.html#acd5285ea5c378b31526440d263c54770", null ],
+    [ "Register", "dd/dcf/a16452.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
+    [ "_removeSpellId", "dd/dcf/a16452.html#aeef9d928c6a8739337251e144558b169", null ],
+    [ "_summonSpellId", "dd/dcf/a16452.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
 ];

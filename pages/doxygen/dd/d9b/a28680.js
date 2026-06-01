@@ -1,5 +1,7 @@
 var a28680 =
 [
-    [ "go_transport_the_purple_princess", "dd/d9b/a28680.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "dd/d9b/a28680.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "bit_index", "dd/d9b/a28680.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "dd/d9b/a28680.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "dd/d9b/a28680.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "dd/d9b/a28680.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

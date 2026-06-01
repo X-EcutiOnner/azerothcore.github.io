@@ -1,14 +1,7 @@
 var a12540 =
 [
-    [ "boss_mor_grayhoof", "dd/d5f/a12540.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "dd/d5f/a12540.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "dd/d5f/a12540.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "dd/d5f/a12540.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "dd/d5f/a12540.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "dd/d5f/a12540.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "dd/d5f/a12540.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "dd/d5f/a12540.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "dd/d5f/a12540.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "dd/d5f/a12540.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "dd/d5f/a12540.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_magmus", "dd/d5f/a12540.html#aacd115473f44148837153a3a5842748c", null ],
+    [ "JustEngagedWith", "dd/d5f/a12540.html#a810cd11145957fe02f2099e9db7e59c8", null ],
+    [ "Reset", "dd/d5f/a12540.html#af12976d66c690add0d08968799946174", null ],
+    [ "UpdateAI", "dd/d5f/a12540.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
 ];

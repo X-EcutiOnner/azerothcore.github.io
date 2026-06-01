@@ -1,8 +1,8 @@
 var a27092 =
 [
-    [ "Load", "da/dc4/a27092.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
-    [ "OnRemove", "da/dc4/a27092.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
-    [ "PrepareAuraScript", "da/dc4/a27092.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
-    [ "Register", "da/dc4/a27092.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
-    [ "Validate", "da/dc4/a27092.html#a3820e716d20809896c84c1ca781af4d1", null ]
+    [ "Apply", "da/dc4/a27092.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "da/dc4/a27092.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "da/dc4/a27092.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "da/dc4/a27092.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "da/dc4/a27092.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

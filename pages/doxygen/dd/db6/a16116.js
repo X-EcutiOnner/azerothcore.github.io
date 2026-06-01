@@ -1,14 +1,19 @@
 var a16116 =
 [
-    [ "npc_taskmaster_fizzuleAI", "dd/db6/a16116.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "dd/db6/a16116.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "dd/db6/a16116.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "dd/db6/a16116.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "dd/db6/a16116.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "dd/db6/a16116.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "dd/db6/a16116.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "dd/db6/a16116.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "dd/db6/a16116.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "dd/db6/a16116.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "dd/db6/a16116.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_weegli_blastfuseAI", "dd/db6/a16116.html#acde6b3e037d3c297e5d1beccdbe3d03a", null ],
+    [ "AttackStart", "dd/db6/a16116.html#a5e9140b38021ed6a2808e026fd77f8f1", null ],
+    [ "DestroyDoor", "dd/db6/a16116.html#a0cf76693b1af179c9857abdccc6931ee", null ],
+    [ "InitializeAI", "dd/db6/a16116.html#a61490f8c63f8056ac9f145ed8dd789c7", null ],
+    [ "JustReachedHome", "dd/db6/a16116.html#a4a88bc4bff8b5b2f75e3dd0c25927815", null ],
+    [ "MovementInform", "dd/db6/a16116.html#a33470a45eba0cbb62b041010f6aed302", null ],
+    [ "Reset", "dd/db6/a16116.html#abec9f353a1430afae12c21273bf32197", null ],
+    [ "sGossipHello", "dd/db6/a16116.html#a3a8381fa5e5d4daf19f312166247bea5", null ],
+    [ "sGossipSelect", "dd/db6/a16116.html#a0927116dcc55a1107dce7c65d1295e2a", null ],
+    [ "UpdateAI", "dd/db6/a16116.html#a73e482ebbb1566738e6775a574500dc8", null ],
+    [ "Bomb_Timer", "dd/db6/a16116.html#af6f68e291ce7d8cf25105ac64d7eebff", null ],
+    [ "destroyingDoor", "dd/db6/a16116.html#a0c7f207666da8ad74ff9dc64b582a042", null ],
+    [ "instance", "dd/db6/a16116.html#a609616e5136cf11bc16f9bb30ba92879", null ],
+    [ "LandMine_Timer", "dd/db6/a16116.html#ad9bab1d2c7a2baf35f6f7fb2cb4a27c7", null ],
+    [ "outroStage", "dd/db6/a16116.html#a30cdbce7bddb4d1d221925de86329a41", null ],
+    [ "outroTimer", "dd/db6/a16116.html#a08ef419fbef2ec38b7bcd408f135cd29", null ]
 ];

@@ -1,7 +1,5 @@
 var a27776 =
 [
-    [ "HandleApplyAura", "d1/dfd/a27776.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
-    [ "PrepareSpellScript", "d1/dfd/a27776.html#adf09900347264bc341884092ea0fee40", null ],
-    [ "Register", "d1/dfd/a27776.html#ac56484d4048817a164963e519a97d137", null ],
-    [ "Validate", "d1/dfd/a27776.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
+    [ "go_seer_of_zebhalak", "d1/dfd/a27776.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d1/dfd/a27776.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

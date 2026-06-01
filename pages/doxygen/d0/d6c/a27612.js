@@ -1,6 +1,5 @@
 var a27612 =
 [
-    [ "HandleAuraApply", "d0/d6c/a27612.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "d0/d6c/a27612.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "d0/d6c/a27612.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "achievement_bg_sa_artillery", "d0/d6c/a27612.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d0/d6c/a27612.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

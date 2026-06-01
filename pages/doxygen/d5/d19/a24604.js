@@ -1,11 +1,10 @@
 var a24604 =
 [
-    [ "HandleAfterHit", "d5/d19/a24604.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "d5/d19/a24604.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "d5/d19/a24604.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "d5/d19/a24604.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "d5/d19/a24604.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "d5/d19/a24604.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "d5/d19/a24604.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "d5/d19/a24604.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "HandleTickUpdate", "d5/d19/a24604.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
+    [ "PrepareAuraScript", "d5/d19/a24604.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
+    [ "Register", "d5/d19/a24604.html#abf597eb55f63858528325eef387fc344", null ],
+    [ "SetTickHeal", "d5/d19/a24604.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
+    [ "Validate", "d5/d19/a24604.html#ab59a1830ca97e1bda455da330a894d5c", null ],
+    [ "_baseReduction", "d5/d19/a24604.html#a8a3a8adce3dde9300e380500c6877d37", null ],
+    [ "_baseTick", "d5/d19/a24604.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
 ];

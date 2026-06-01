@@ -1,6 +1,5 @@
 var a18336 =
 [
-    [ "HandleScript", "df/dbe/a18336.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "df/dbe/a18336.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "df/dbe/a18336.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "operator()", "df/dbe/a18336.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "df/dbe/a18336.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

@@ -1,16 +1,8 @@
 var a21352 =
 [
-    [ "boss_zuramatAI", "dd/d12/a21352.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "dd/d12/a21352.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "dd/d12/a21352.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "dd/d12/a21352.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "dd/d12/a21352.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "dd/d12/a21352.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "dd/d12/a21352.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "dd/d12/a21352.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "dd/d12/a21352.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "dd/d12/a21352.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "dd/d12/a21352.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "dd/d12/a21352.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "dd/d12/a21352.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "npc_shandy_dalaranAI", "de/d93/a21356.html", "de/d93/a21356" ],
+    [ "npc_shandy_dalaran", "dd/d12/a21352.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "dd/d12/a21352.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "dd/d12/a21352.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "dd/d12/a21352.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

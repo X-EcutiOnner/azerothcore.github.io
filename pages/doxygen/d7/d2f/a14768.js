@@ -1,11 +1,5 @@
 var a14768 =
 [
-    [ "npc_high_oracle_soo_roo", "d7/d2f/a14768.html#a86f5f3c3869e9fa7afcfc9425dfdfdde", null ],
-    [ "MoveInLineOfSight", "d7/d2f/a14768.html#ae3b4da2d6b888cf6325bb93b3fdbde7f", null ],
-    [ "Reset", "d7/d2f/a14768.html#a89a60a83a46e0095045b2353e50483ed", null ],
-    [ "UpdateAI", "d7/d2f/a14768.html#ac22cfa519e478da643a51ae887f306fd", null ],
-    [ "orphanGUID", "d7/d2f/a14768.html#acd6636eb290a2fe4470b04d467ff7fa1", null ],
-    [ "phase", "d7/d2f/a14768.html#abeec923d25d21773f9d8f8ba1deb0148", null ],
-    [ "playerGUID", "d7/d2f/a14768.html#a329832491f86c6fcc9ccc4c98b19991e", null ],
-    [ "timer", "d7/d2f/a14768.html#aa5238d3ee361374681947de874391a1f", null ]
+    [ "go_pumpkin_shrine", "d7/d2f/a14768.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d7/d2f/a14768.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

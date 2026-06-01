@@ -1,6 +1,6 @@
 var a14564 =
 [
-    [ "LaunchHit", "d2/dfb/a14564.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d2/dfb/a14564.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d2/dfb/a14564.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "HandleDummyEffect", "d2/dfb/a14564.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d2/dfb/a14564.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d2/dfb/a14564.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

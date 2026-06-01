@@ -1,6 +1,6 @@
 var a17804 =
 [
-    [ "KnockIntoAir", "d1/d3d/a17804.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "d1/d3d/a17804.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "d1/d3d/a17804.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d4/d7c/a17808.html", "d4/d7c/a17808" ],
+    [ "npc_high_overlord_saurfang_igb", "d1/d3d/a17804.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "d1/d3d/a17804.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

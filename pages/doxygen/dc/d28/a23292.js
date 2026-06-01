@@ -1,5 +1,5 @@
 var a23292 =
 [
-    [ "boss_quagmirran", "dc/d28/a23292.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "dc/d28/a23292.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "spellId", "dc/d28/a23292.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "dc/d28/a23292.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

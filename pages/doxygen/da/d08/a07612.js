@@ -1,9 +1,10 @@
 var a07612 =
 [
-    [ "BattlegroundEYLosingPointStruct", "da/d08/a07612.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
-    [ "DespawnObjectTypeAlliance", "da/d08/a07612.html#a210828d05ea9948484631b7408a3bb4b", null ],
-    [ "DespawnObjectTypeHorde", "da/d08/a07612.html#a335205cb71b7055db4c01a5e562001b6", null ],
-    [ "MessageIdAlliance", "da/d08/a07612.html#afe89eccc8c21351edb4ce943d937e521", null ],
-    [ "MessageIdHorde", "da/d08/a07612.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
-    [ "SpawnNeutralObjectType", "da/d08/a07612.html#a57c1a6f485ea6617b5218da411cae38f", null ]
+    [ "BattlegroundChatBuilder", "da/d08/a07612.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "da/d08/a07612.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "da/d08/a07612.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "da/d08/a07612.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "da/d08/a07612.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "da/d08/a07612.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "da/d08/a07612.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

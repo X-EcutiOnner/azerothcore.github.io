@@ -1,13 +1,7 @@
 var a21176 =
 [
-    [ "MoveX", "de/da9/a21176.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "de/da9/a21176.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "de/da9/a21176.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "de/da9/a21176.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "de/da9/a21176.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "de/da9/a21176.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "de/da9/a21176.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "de/da9/a21176.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "de/da9/a21176.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "de/da9/a21176.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "npc_azure_mage_slayer", "de/da9/a21176.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "de/da9/a21176.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "de/da9/a21176.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "de/da9/a21176.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

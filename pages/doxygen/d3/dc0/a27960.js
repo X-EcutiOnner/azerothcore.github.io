@@ -1,5 +1,6 @@
 var a27960 =
 [
-    [ "achievement_not_even_a_scratch", "d3/dc0/a27960.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d3/dc0/a27960.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "go_bellsAI", "db/d4a/a27964.html", "db/d4a/a27964" ],
+    [ "go_bells", "d3/dc0/a27960.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d3/dc0/a27960.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

@@ -1,6 +1,6 @@
 var a17776 =
 [
-    [ "AddExtraDamage", "d3/dad/a17776.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d3/dad/a17776.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d3/dad/a17776.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "Cooldown", "d3/dad/a17776.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d3/dad/a17776.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d3/dad/a17776.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

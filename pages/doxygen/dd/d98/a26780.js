@@ -1,8 +1,7 @@
 var a26780 =
 [
-    [ "CheckCast", "dd/d98/a26780.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "dd/d98/a26780.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "dd/d98/a26780.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "dd/d98/a26780.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "dd/d98/a26780.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleDummy", "dd/d98/a26780.html#aef93741620dcf29179502f88891ad0b5", null ],
+    [ "Load", "dd/d98/a26780.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
+    [ "PrepareSpellScript", "dd/d98/a26780.html#ac92fd133395705e4cb3730bc96e1f787", null ],
+    [ "Register", "dd/d98/a26780.html#a69336bea35240c0014693ae167d4124b", null ]
 ];

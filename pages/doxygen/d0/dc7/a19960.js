@@ -1,6 +1,5 @@
 var a19960 =
 [
-    [ "boss_krystallusAI", "de/d2e/a19964.html", "de/d2e/a19964" ],
-    [ "boss_krystallus", "d0/dc7/a19960.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d0/dc7/a19960.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "achievement_cant_do_that_while_stunned", "d0/dc7/a19960.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "d0/dc7/a19960.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

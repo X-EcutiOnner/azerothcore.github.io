@@ -1,6 +1,10 @@
 var a24216 =
 [
-    [ "npc_zephyr", "d3/d51/a24216.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d3/d51/a24216.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d3/d51/a24216.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "CheckProc", "d3/d51/a24216.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
+    [ "HandleProc", "d3/d51/a24216.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
+    [ "Load", "d3/d51/a24216.html#ada85014de8a3602e83912d5e1a0165c5", null ],
+    [ "PrepareAuraScript", "d3/d51/a24216.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
+    [ "Register", "d3/d51/a24216.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
+    [ "Validate", "d3/d51/a24216.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
+    [ "_procTarget", "d3/d51/a24216.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
 ];

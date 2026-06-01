@@ -1,14 +1,9 @@
 var a25316 =
 [
-    [ "spell_gen_mount", "d9/dd8/a25316.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "d9/dd8/a25316.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "d9/dd8/a25316.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "d9/dd8/a25316.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "d9/dd8/a25316.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "d9/dd8/a25316.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "d9/dd8/a25316.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "d9/dd8/a25316.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "d9/dd8/a25316.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "d9/dd8/a25316.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "d9/dd8/a25316.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "CheckIfCorpseNear", "d9/dd8/a25316.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "d9/dd8/a25316.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "d9/dd8/a25316.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "d9/dd8/a25316.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "d9/dd8/a25316.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "d9/dd8/a25316.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

@@ -1,6 +1,8 @@
 var a22056 =
 [
-    [ "ChangeSummonPos", "d8/d7b/a22056.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d8/d7b/a22056.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d8/d7b/a22056.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "go_wg_vehicle_teleporterAI", "d8/d7b/a22056.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "d8/d7b/a22056.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "d8/d7b/a22056.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "d8/d7b/a22056.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "d8/d7b/a22056.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

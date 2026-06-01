@@ -1,5 +1,4 @@
 var a08692 =
 [
-    [ "PositionXYStreamer", "d1/da6/a08692.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "d1/da6/a08692.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "Name", "d1/da6/a08692.html#aab0b8fc04dcd6a8c551f5dfc4846b290", null ]
 ];

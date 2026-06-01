@@ -1,6 +1,7 @@
 var a26264 =
 [
-    [ "PrepareSpellScript", "db/dd1/a26264.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "db/dd1/a26264.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "db/dd1/a26264.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "CheckProc", "db/dd1/a26264.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "db/dd1/a26264.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "db/dd1/a26264.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "db/dd1/a26264.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

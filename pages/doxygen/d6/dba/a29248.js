@@ -1,5 +1,6 @@
 var a29248 =
 [
-    [ "Exp", "d6/dba/a29248.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d6/dba/a29248.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "hasInstantTargetProcs", "d6/dba/a29248.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d6/dba/a29248.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d6/dba/a29248.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

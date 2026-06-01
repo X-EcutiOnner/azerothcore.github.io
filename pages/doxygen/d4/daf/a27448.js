@@ -1,7 +1,6 @@
 var a27448 =
 [
-    [ "HandleProc", "d4/daf/a27448.html#a46726e3e05e386892ea86d74d161e8d0", null ],
-    [ "PrepareAuraScript", "d4/daf/a27448.html#acda7b1b6e91a433b72c2a5dd0e165685", null ],
-    [ "Register", "d4/daf/a27448.html#a33cd336a6ca68e66e6046cfdac776fee", null ],
-    [ "Validate", "d4/daf/a27448.html#a5f2c7d754a37e6ae02d4aaec758841e5", null ]
+    [ "HandleOnHit", "d4/daf/a27448.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
+    [ "PrepareSpellScript", "d4/daf/a27448.html#a999b019665dec9b0690a1019be428072", null ],
+    [ "Register", "d4/daf/a27448.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
 ];

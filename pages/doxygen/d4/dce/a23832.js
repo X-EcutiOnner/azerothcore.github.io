@@ -1,9 +1,12 @@
 var a23832 =
 [
-    [ "boss_void_reaver", "d4/dce/a23832.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d4/dce/a23832.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d4/dce/a23832.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d4/dce/a23832.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d4/dce/a23832.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d4/dce/a23832.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "npc_enslaved_netherwing_drake", "d4/dce/a23832.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d4/dce/a23832.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d4/dce/a23832.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d4/dce/a23832.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d4/dce/a23832.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d4/dce/a23832.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d4/dce/a23832.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d4/dce/a23832.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d4/dce/a23832.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

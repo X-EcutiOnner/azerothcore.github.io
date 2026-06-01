@@ -1,6 +1,6 @@
 var a14700 =
 [
-    [ "OnApply", "df/d50/a14700.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "df/d50/a14700.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "df/d50/a14700.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "HandleScript", "df/d50/a14700.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "df/d50/a14700.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "df/d50/a14700.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

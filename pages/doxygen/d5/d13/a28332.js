@@ -1,5 +1,5 @@
 var a28332 =
 [
-    [ "item_generic_limit_chance_above_60", "d5/d13/a28332.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "d5/d13/a28332.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "ServerMailReward", "d5/d13/a28332.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d5/d13/a28332.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

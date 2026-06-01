@@ -1,7 +1,11 @@
 var a14524 =
 [
-    [ "HandleOnHit", "de/dab/a14524.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "de/dab/a14524.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "de/dab/a14524.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "de/dab/a14524.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "npc_dark_iron_attack_mole_machine", "de/dab/a14524.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "de/dab/a14524.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "de/dab/a14524.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "de/dab/a14524.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "de/dab/a14524.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "de/dab/a14524.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "de/dab/a14524.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "de/dab/a14524.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

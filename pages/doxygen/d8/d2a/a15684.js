@@ -1,7 +1,6 @@
 var a15684 =
 [
-    [ "FilterTargets", "d8/d2a/a15684.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d8/d2a/a15684.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d8/d2a/a15684.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d8/d2a/a15684.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_death_ravagerAI", "d7/ddd/a15688.html", "d7/ddd/a15688" ],
+    [ "npc_death_ravager", "d8/d2a/a15684.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
+    [ "GetAI", "d8/d2a/a15684.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
 ];

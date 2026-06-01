@@ -1,8 +1,10 @@
 var a05740 =
 [
-    [ "category", "d2/db8/a05740.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
-    [ "char_type", "d2/db8/a05740.html#aaecf7407fc4cff91008168377114d7cd", null ],
-    [ "ACLogSink", "d2/db8/a05740.html#a070880d742fd84b44c4614a76952e589", null ],
-    [ "write", "d2/db8/a05740.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
-    [ "callback_", "d2/db8/a05740.html#a360b91b740efaa05309725f6678eb22a", null ]
+    [ "AsyncCallbackProcessor", "d2/db8/a05740.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "d2/db8/a05740.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "d2/db8/a05740.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "d2/db8/a05740.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "d2/db8/a05740.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "d2/db8/a05740.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "d2/db8/a05740.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

@@ -1,7 +1,8 @@
 var a22320 =
 [
-    [ "npc_wg_quest_giver", "d9/d41/a22320.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d9/d41/a22320.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d9/d41/a22320.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d9/d41/a22320.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "FilterTargets", "d9/d41/a22320.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d9/d41/a22320.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d9/d41/a22320.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d9/d41/a22320.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d9/d41/a22320.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

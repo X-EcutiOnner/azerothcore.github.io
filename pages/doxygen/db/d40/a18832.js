@@ -1,7 +1,7 @@
 var a18832 =
 [
-    [ "CalculateBonus", "db/d40/a18832.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "db/d40/a18832.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "db/d40/a18832.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "db/d40/a18832.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "FrostwingVrykulSearcher", "db/d40/a18832.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "db/d40/a18832.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "db/d40/a18832.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "db/d40/a18832.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

@@ -1,7 +1,7 @@
 var a27112 =
 [
-    [ "HandleScript", "db/dcd/a27112.html#aa00117e677af1e236962c59b688d8a98", null ],
-    [ "Load", "db/dcd/a27112.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
-    [ "PrepareSpellScript", "db/dcd/a27112.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
-    [ "Register", "db/dcd/a27112.html#a52d4828ccd5430a622a32b1279943f9b", null ]
+    [ "HandleDispel", "db/dcd/a27112.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "db/dcd/a27112.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "db/dcd/a27112.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "db/dcd/a27112.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

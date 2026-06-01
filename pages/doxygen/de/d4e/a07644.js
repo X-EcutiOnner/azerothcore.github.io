@@ -1,13 +1,20 @@
 var a07644 =
 [
-    [ "banners", "de/d4e/a07644.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "de/d4e/a07644.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "de/d4e/a07644.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "de/d4e/a07644.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "de/d4e/a07644.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "de/d4e/a07644.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "de/d4e/a07644.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "de/d4e/a07644.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "de/d4e/a07644.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "de/d4e/a07644.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "ArenaMatchmakerRating", "de/d4e/a07644.html#aebaba68d0d75e08eb909975d70ab7084", null ],
+    [ "ArenaTeamId", "de/d4e/a07644.html#a62d4963600711b2476d6de964fc51f5e", null ],
+    [ "ArenaTeamRating", "de/d4e/a07644.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
+    [ "ArenaType", "de/d4e/a07644.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
+    [ "BgTypeId", "de/d4e/a07644.html#aad98458292aca41fc7feb2e63ba5125f", null ],
+    [ "BracketId", "de/d4e/a07644.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
+    [ "GroupType", "de/d4e/a07644.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
+    [ "IsInvitedToBGInstanceGUID", "de/d4e/a07644.html#a0261df1066e01602f475e9a08e142883", null ],
+    [ "IsRated", "de/d4e/a07644.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
+    [ "JoinTime", "de/d4e/a07644.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
+    [ "OpponentsMatchmakerRating", "de/d4e/a07644.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
+    [ "OpponentsTeamRating", "de/d4e/a07644.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
+    [ "Players", "de/d4e/a07644.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
+    [ "PreviousOpponentsTeamId", "de/d4e/a07644.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
+    [ "RealTeamID", "de/d4e/a07644.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
+    [ "RemoveInviteTime", "de/d4e/a07644.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
+    [ "teamId", "de/d4e/a07644.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
 ];

@@ -1,7 +1,6 @@
 var a21960 =
 [
-    [ "HandleScriptEffect", "d3/d44/a21960.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "d3/d44/a21960.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "d3/d44/a21960.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "d3/d44/a21960.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dcd/a21964.html", "db/dcd/a21964" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d3/d44/a21960.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d3/d44/a21960.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

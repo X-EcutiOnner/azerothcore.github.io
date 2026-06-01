@@ -1,6 +1,15 @@
 var a14260 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d2/df5/a14264.html", "d2/df5/a14264" ],
-    [ "npc_tapoke_slim_jahn", "d7/de8/a14260.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "d7/de8/a14260.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_amanishi_tempest", "d7/de8/a14260.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "d7/de8/a14260.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "d7/de8/a14260.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "d7/de8/a14260.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "d7/de8/a14260.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "d7/de8/a14260.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "d7/de8/a14260.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "d7/de8/a14260.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "d7/de8/a14260.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "d7/de8/a14260.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "d7/de8/a14260.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "d7/de8/a14260.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

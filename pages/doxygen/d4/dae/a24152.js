@@ -1,6 +1,6 @@
 var a24152 =
 [
-    [ "npc_torloth_the_magnificentAI", "de/df2/a24156.html", "de/df2/a24156" ],
-    [ "npc_torloth_the_magnificent", "d4/dae/a24152.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "d4/dae/a24152.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "PrepareSpellScript", "d4/dae/a24152.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d4/dae/a24152.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d4/dae/a24152.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

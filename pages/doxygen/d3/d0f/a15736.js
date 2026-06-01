@@ -1,7 +1,7 @@
 var a15736 =
 [
-    [ "npc_vekniss_stinger", "d3/d0f/a15736.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d3/d0f/a15736.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d3/d0f/a15736.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d3/d0f/a15736.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_prospector_remtravelAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
+    [ "npc_prospector_remtravel", "d3/d0f/a15736.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d3/d0f/a15736.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d3/d0f/a15736.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

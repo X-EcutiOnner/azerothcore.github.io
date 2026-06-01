@@ -1,6 +1,7 @@
 var a23124 =
 [
-    [ "HandleEffectRemove", "d1/d37/a23124.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
-    [ "PrepareAuraScript", "d1/d37/a23124.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
-    [ "Register", "d1/d37/a23124.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
+    [ "CalcPeriodic", "d1/d37/a23124.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d1/d37/a23124.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d1/d37/a23124.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d1/d37/a23124.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

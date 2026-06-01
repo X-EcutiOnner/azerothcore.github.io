@@ -1,6 +1,7 @@
 var a13480 =
 [
-    [ "npc_gothik_the_harvesterAI", "d8/d3c/a13484.html", "d8/d3c/a13484" ],
-    [ "npc_gothik_the_harvester", "da/dc7/a13480.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "da/dc7/a13480.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "boss_apothecary_hummelAI", "d8/d3c/a13484.html", "d8/d3c/a13484" ],
+    [ "boss_apothecary_hummel", "da/dc7/a13480.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "da/dc7/a13480.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "da/dc7/a13480.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

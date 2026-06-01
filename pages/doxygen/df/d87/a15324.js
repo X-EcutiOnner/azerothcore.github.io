@@ -1,9 +1,7 @@
 var a15324 =
 [
-    [ "boss_temporus", "df/d87/a15324.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "df/d87/a15324.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "df/d87/a15324.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "df/d87/a15324.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "df/d87/a15324.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "df/d87/a15324.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "HandleScript", "df/d87/a15324.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "df/d87/a15324.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "df/d87/a15324.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "df/d87/a15324.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

@@ -1,6 +1,8 @@
 var a21696 =
 [
-    [ "npc_mindless_ghoulAI", "d9/d2f/a21696.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d9/d2f/a21696.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d9/d2f/a21696.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "CheckCast", "d9/d2f/a21696.html#a49e425fa95e5107f38aa16e546674b7d", null ],
+    [ "HandleScript", "d9/d2f/a21696.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
+    [ "PrepareSpellScript", "d9/d2f/a21696.html#a9e7a1239e165131b70c437793b5371d0", null ],
+    [ "Register", "d9/d2f/a21696.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
+    [ "Validate", "d9/d2f/a21696.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
 ];

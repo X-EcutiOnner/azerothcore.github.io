@@ -1,10 +1,8 @@
 var a07424 =
 [
-    [ "CreatureBottom", "d6/def/a07424.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d6/def/a07424.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d6/def/a07424.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d6/def/a07424.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d6/def/a07424.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d6/def/a07424.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d6/def/a07424.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "faction", "d6/def/a07424.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "d6/def/a07424.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "d6/def/a07424.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "d6/def/a07424.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "d6/def/a07424.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

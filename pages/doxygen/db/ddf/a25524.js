@@ -1,7 +1,7 @@
 var a25524 =
 [
-    [ "HandleProc", "db/ddf/a25524.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
-    [ "PrepareAuraScript", "db/ddf/a25524.html#a3704981effea17b2c513f139a892c37c", null ],
-    [ "Register", "db/ddf/a25524.html#a4d24566853a3a73f9ec215167f2bb401", null ],
-    [ "Validate", "db/ddf/a25524.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
+    [ "CheckProc", "db/ddf/a25524.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "db/ddf/a25524.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "db/ddf/a25524.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "db/ddf/a25524.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

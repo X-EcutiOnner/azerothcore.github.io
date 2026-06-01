@@ -1,5 +1,7 @@
 var a08264 =
 [
-    [ "Name", "dc/d76/a08264.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "dc/d76/a08264.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "LfgReward", "dc/d76/a08264.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "dc/d76/a08264.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "dc/d76/a08264.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "dc/d76/a08264.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

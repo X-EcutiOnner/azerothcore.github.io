@@ -1,7 +1,7 @@
 var a27048 =
 [
-    [ "HandleDummy", "da/de6/a27048.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "da/de6/a27048.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "da/de6/a27048.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "da/de6/a27048.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CheckProc", "da/de6/a27048.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "da/de6/a27048.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "da/de6/a27048.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "da/de6/a27048.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

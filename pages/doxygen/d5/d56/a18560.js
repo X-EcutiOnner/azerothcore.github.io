@@ -1,6 +1,7 @@
 var a18560 =
 [
-    [ "FilterTargets", "d5/d56/a18560.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d5/d56/a18560.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d5/d56/a18560.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "OnPeriodic", "d5/d56/a18560.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d5/d56/a18560.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d5/d56/a18560.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d5/d56/a18560.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

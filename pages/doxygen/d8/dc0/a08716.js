@@ -1,4 +1,7 @@
 var a08716 =
 [
-    [ "PetLoadQueryHolder", "d8/dc0/a08716.html#a8dee71a2e729d239b7b05bc172c09e3b", null ]
+    [ "AddToGrid", "d8/dc0/a08716.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "d8/dc0/a08716.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "d8/dc0/a08716.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "d8/dc0/a08716.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

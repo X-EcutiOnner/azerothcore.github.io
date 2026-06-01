@@ -1,8 +1,6 @@
 var a23888 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d2/daf/a23888.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d2/daf/a23888.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d2/daf/a23888.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d2/daf/a23888.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d2/daf/a23888.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_enraged_spiritAI", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "npc_enraged_spirit", "d2/daf/a23888.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d2/daf/a23888.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

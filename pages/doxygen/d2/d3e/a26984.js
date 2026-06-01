@@ -1,7 +1,6 @@
 var a26984 =
 [
-    [ "CheckRequirement", "d2/d3e/a26984.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "d2/d3e/a26984.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "d2/d3e/a26984.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "d2/d3e/a26984.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleProc", "d2/d3e/a26984.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "d2/d3e/a26984.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "d2/d3e/a26984.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

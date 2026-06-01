@@ -1,6 +1,6 @@
 var a17524 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "de/de9/a17528.html", "de/de9/a17528" ],
-    [ "npc_pos_tyrannus_events", "d4/dfa/a17524.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "d4/dfa/a17524.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "boss_prince_valanarAI", "de/de9/a17528.html", "de/de9/a17528" ],
+    [ "boss_prince_valanar_icc", "d4/dfa/a17524.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d4/dfa/a17524.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

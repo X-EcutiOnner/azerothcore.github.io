@@ -1,20 +1,12 @@
 var a21144 =
 [
-    [ "boss_skadi_graufAI", "da/d9c/a21144.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "da/d9c/a21144.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "da/d9c/a21144.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "da/d9c/a21144.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "da/d9c/a21144.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "da/d9c/a21144.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "da/d9c/a21144.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "da/d9c/a21144.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "da/d9c/a21144.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "da/d9c/a21144.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "da/d9c/a21144.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "da/d9c/a21144.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "da/d9c/a21144.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "da/d9c/a21144.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "da/d9c/a21144.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "da/d9c/a21144.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "da/d9c/a21144.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "boss_zuramat", "da/d9c/a21144.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "da/d9c/a21144.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "da/d9c/a21144.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "da/d9c/a21144.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "da/d9c/a21144.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "da/d9c/a21144.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "da/d9c/a21144.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "da/d9c/a21144.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "da/d9c/a21144.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

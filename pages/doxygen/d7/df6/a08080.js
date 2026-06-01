@@ -1,8 +1,10 @@
 var a08080 =
 [
-    [ "UnitBaseEvent", "d7/df6/a08080.html#a2d4586c59a7595374d427a15924c34fd", null ],
-    [ "getType", "d7/df6/a08080.html#a7619b09043a8a729df77502786216aff", null ],
-    [ "matchesTypeMask", "d7/df6/a08080.html#a05103aacf99310a6c9e602296d56f168", null ],
-    [ "setType", "d7/df6/a08080.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
-    [ "iType", "d7/df6/a08080.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
+    [ "Achievement", "d7/df6/a08080.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "d7/df6/a08080.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "d7/df6/a08080.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "d7/df6/a08080.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "d7/df6/a08080.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "d7/df6/a08080.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "d7/df6/a08080.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

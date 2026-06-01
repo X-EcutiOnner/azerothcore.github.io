@@ -1,8 +1,6 @@
 var a16612 =
 [
-    [ "OnApply", "d7/d47/a16612.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "d7/d47/a16612.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "d7/d47/a16612.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "d7/d47/a16612.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "d7/d47/a16612.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "HandleSpellHit", "d7/d47/a16612.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "d7/d47/a16612.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "d7/d47/a16612.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

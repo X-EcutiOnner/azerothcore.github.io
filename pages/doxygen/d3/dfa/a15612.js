@@ -1,6 +1,8 @@
 var a15612 =
 [
-    [ "OnPeriodic", "d3/dfa/a15612.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d3/dfa/a15612.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d3/dfa/a15612.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_obsidian_eradicator", "d3/dfa/a15612.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d3/dfa/a15612.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d3/dfa/a15612.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d3/dfa/a15612.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d3/dfa/a15612.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

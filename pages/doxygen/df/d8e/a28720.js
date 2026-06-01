@@ -1,9 +1,5 @@
 var a28720 =
 [
-    [ "TimeSeg", "df/d8e/a28720.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "df/d8e/a28720.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "df/d8e/a28720.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "df/d8e/a28720.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "df/d8e/a28720.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "df/d8e/a28720.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "ID", "df/d8e/a28720.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "df/d8e/a28720.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

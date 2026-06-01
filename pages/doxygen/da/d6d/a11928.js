@@ -1,6 +1,6 @@
 var a11928 =
 [
-    [ "Command", "da/d6d/a11928.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "da/d6d/a11928.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "da/d6d/a11928.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "EffectManaShieldHandler", "da/d6d/a11928.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "da/d6d/a11928.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "da/d6d/a11928.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

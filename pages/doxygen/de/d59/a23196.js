@@ -1,6 +1,10 @@
 var a23196 =
 [
-    [ "HandleEffectRemove", "de/d59/a23196.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "de/d59/a23196.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "de/d59/a23196.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "boss_kelidan_the_breaker", "de/d59/a23196.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "de/d59/a23196.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "de/d59/a23196.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "de/d59/a23196.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "de/d59/a23196.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "de/d59/a23196.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "de/d59/a23196.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

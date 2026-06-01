@@ -1,13 +1,11 @@
 var a24964 =
 [
-    [ "CalcPeriodic", "df/dff/a24964.html#a08dca1818a687bb5862779e261dafb00", null ],
-    [ "CalculateExpertiseAmount", "df/dff/a24964.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
-    [ "CalculateHitAmount", "df/dff/a24964.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
-    [ "CalculateSpellHitAmount", "df/dff/a24964.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
-    [ "HandleEffectApply", "df/dff/a24964.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
-    [ "HandlePeriodic", "df/dff/a24964.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
-    [ "PrepareAuraScript", "df/dff/a24964.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
-    [ "Register", "df/dff/a24964.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
-    [ "cap", "df/dff/a24964.html#a9c3e35d01ad863d146566efe7cca2637", null ],
-    [ "maxChance", "df/dff/a24964.html#a34933c7fe8b570214c821347f4ba974b", null ]
+    [ "GetPennatSpellId", "df/dff/a24964.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "df/dff/a24964.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "df/dff/a24964.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "df/dff/a24964.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "df/dff/a24964.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "df/dff/a24964.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "df/dff/a24964.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "df/dff/a24964.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

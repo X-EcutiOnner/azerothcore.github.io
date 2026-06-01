@@ -1,7 +1,8 @@
 var a01940 =
 [
-    [ "CompareThreatLessThan", "da/d63/a08158.html", "da/d63/a08158" ],
-    [ "ThreatManager", "d4/d0a/a08162.html", "d4/d0a/a08162" ],
-    [ "ThreatManager::ThreatListIterator", "dc/d06/a08166.html", "dc/d06/a08166" ],
-    [ "ThreatReference", "d2/d8c/a08170.html", "d2/d8c/a08170" ]
+    [ "spell_gordunni_trap", "d5/db8/a15828.html", "d5/db8/a15828" ],
+    [ "GordunniTrap", "d5/dba/a01940.html#ae11511f5835ecdfec73fde1f9f29431c", [
+      [ "GO_GORDUNNI_DIRT_MOUND", "d5/dba/a01940.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
+    ] ],
+    [ "AddSC_feralas", "d5/dba/a01940.html#a06e54e3edc2df068be660ac788b402e3", null ]
 ];

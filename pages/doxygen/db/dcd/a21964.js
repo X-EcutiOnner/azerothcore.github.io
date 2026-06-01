@@ -1,8 +1,6 @@
 var a21964 =
 [
-    [ "CheckCast", "db/dcd/a21964.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "db/dcd/a21964.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "db/dcd/a21964.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "db/dcd/a21964.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "db/dcd/a21964.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dcd/a21964.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "db/dcd/a21964.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "db/dcd/a21964.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

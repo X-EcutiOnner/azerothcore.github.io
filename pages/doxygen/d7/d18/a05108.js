@@ -1,16 +1,12 @@
 var a05108 =
 [
-    [ "MDLCallback", "dc/dcd/a05112.html", "dc/dcd/a05112" ],
-    [ "ObjArray", "d7/d18/a05108.html#a19e64f06ddaf36271df3c1192908042b", null ],
-    [ "BIHWrap", "d7/d18/a05108.html#a8572b541e513074132ba0834e081ec05", null ],
-    [ "balance", "d7/d18/a05108.html#a7a191f8c9d3b20807ef1db9be654ccd1", null ],
-    [ "insert", "d7/d18/a05108.html#ab859ad633f695002cf37776c0e124bbf", null ],
-    [ "intersectPoint", "d7/d18/a05108.html#affbe1a82d945190374753ab6af811ca4", null ],
-    [ "intersectRay", "d7/d18/a05108.html#a6dcddc2503a0acabc0f29ddb5eace803", null ],
-    [ "remove", "d7/d18/a05108.html#aeff1ff9ee3d3965dc4169ea6f0fc9839", null ],
-    [ "m_obj2Idx", "d7/d18/a05108.html#a04248b957bc22dbae570a3d96a03adcd", null ],
-    [ "m_objects", "d7/d18/a05108.html#a1e3b7eb01db291f5dd7febe7c7198ea3", null ],
-    [ "m_objects_to_push", "d7/d18/a05108.html#abd68da8091bf1694013d1231936a8a2c", null ],
-    [ "m_tree", "d7/d18/a05108.html#a13a40cee1097ab0435eb2d50518a41bf", null ],
-    [ "unbalanced_times", "d7/d18/a05108.html#abc44d55ac155023c2661d2687c068a4b", null ]
+    [ "DismissCritter", "d2/d79/a11420.html", "d2/d79/a11420" ],
+    [ "PetAbandon", "d6/dc7/a11424.html", "d6/dc7/a11424" ],
+    [ "PetActionSound", "d1/d7d/a11448.html", "d1/d7d/a11448" ],
+    [ "PetDismissSound", "d7/dd8/a11452.html", "d7/dd8/a11452" ],
+    [ "PetLearnedSpell", "d2/d61/a11436.html", "d2/d61/a11436" ],
+    [ "PetSpellAutocast", "dd/d08/a11432.html", "dd/d08/a11432" ],
+    [ "PetStopAttack", "d3/d22/a11428.html", "d3/d22/a11428" ],
+    [ "PetUnlearnedSpell", "db/dff/a11440.html", "db/dff/a11440" ],
+    [ "RequestPetInfo", "d7/dbc/a11444.html", "d7/dbc/a11444" ]
 ];

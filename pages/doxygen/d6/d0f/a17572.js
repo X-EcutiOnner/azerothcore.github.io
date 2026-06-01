@@ -1,7 +1,6 @@
 var a17572 =
 [
-    [ "HandleEffectPeriodic", "d6/d0f/a17572.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d6/d0f/a17572.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d6/d0f/a17572.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d6/d0f/a17572.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "HandleScript", "d6/d0f/a17572.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d6/d0f/a17572.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d6/d0f/a17572.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

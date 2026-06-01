@@ -1,10 +1,12 @@
 var a07516 =
 [
-    [ "Battleground2ChatBuilder", "d8/d12/a07516.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d8/d12/a07516.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d8/d12/a07516.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d8/d12/a07516.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d8/d12/a07516.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d8/d12/a07516.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d8/d12/a07516.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "damageText", "d8/d12/a07516.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d8/d12/a07516.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d8/d12/a07516.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d8/d12/a07516.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d8/d12/a07516.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d8/d12/a07516.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d8/d12/a07516.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d8/d12/a07516.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d8/d12/a07516.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

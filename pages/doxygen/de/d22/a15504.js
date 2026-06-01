@@ -1,6 +1,6 @@
 var a15504 =
 [
-    [ "go_ossirian_crystalAI", "df/dcb/a15508.html", "df/dcb/a15508" ],
-    [ "go_ossirian_crystal", "de/d22/a15504.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "de/d22/a15504.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "OnRemove", "de/d22/a15504.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "de/d22/a15504.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "de/d22/a15504.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

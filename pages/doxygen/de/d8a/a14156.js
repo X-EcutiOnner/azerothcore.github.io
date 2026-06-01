@@ -1,9 +1,7 @@
 var a14156 =
 [
-    [ "npc_tyrion_spybotAI", "de/d8a/a14156.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "de/d8a/a14156.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "de/d8a/a14156.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "de/d8a/a14156.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "de/d8a/a14156.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "de/d8a/a14156.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "FilterTargets", "de/d8a/a14156.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "de/d8a/a14156.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "de/d8a/a14156.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "de/d8a/a14156.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

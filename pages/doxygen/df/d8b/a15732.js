@@ -1,10 +1,11 @@
 var a15732 =
 [
-    [ "npc_anubisath_defender", "df/d8b/a15732.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
-    [ "DamageTaken", "df/d8b/a15732.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
-    [ "JustDied", "df/d8b/a15732.html#a225ca1b3144953bcc5890caf0d32b606", null ],
-    [ "JustEngagedWith", "df/d8b/a15732.html#a6505fcae0e99cae44750f16daddc3309", null ],
-    [ "Reset", "df/d8b/a15732.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
-    [ "UpdateAI", "df/d8b/a15732.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
-    [ "_enraged", "df/d8b/a15732.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
+    [ "npc_kerlonianAI", "df/d8b/a15732.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "df/d8b/a15732.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "df/d8b/a15732.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "df/d8b/a15732.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "df/d8b/a15732.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "df/d8b/a15732.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "df/d8b/a15732.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "df/d8b/a15732.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

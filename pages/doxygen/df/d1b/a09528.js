@@ -1,8 +1,8 @@
 var a09528 =
 [
-    [ "PlayerWorker", "df/d1b/a09528.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "df/d1b/a09528.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "df/d1b/a09528.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "df/d1b/a09528.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "df/d1b/a09528.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "AIRelocationNotifier", "df/d1b/a09528.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
+    [ "Visit", "df/d1b/a09528.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
+    [ "Visit", "df/d1b/a09528.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
+    [ "i_unit", "df/d1b/a09528.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
+    [ "isCreature", "df/d1b/a09528.html#a199f4b91d00dd4db90855e5521d87a95", null ]
 ];

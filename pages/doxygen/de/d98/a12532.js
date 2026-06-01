@@ -1,6 +1,6 @@
 var a12532 =
 [
-    [ "boss_lord_valthalakAI", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
-    [ "boss_lord_valthalak", "de/d98/a12532.html#a180ecb2e2b11ee79c80de18124de3dbc", null ],
-    [ "GetAI", "de/d98/a12532.html#a771bd8ff3918d71007b5e4b05baf3df3", null ]
+    [ "boss_hedrum", "de/d98/a12532.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "de/d98/a12532.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "de/d98/a12532.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

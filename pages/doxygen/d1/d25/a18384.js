@@ -1,7 +1,7 @@
 var a18384 =
 [
-    [ "HandleSummon", "d1/d25/a18384.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d1/d25/a18384.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d1/d25/a18384.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d1/d25/a18384.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "HandleTriggerMissile", "d1/d25/a18384.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d1/d25/a18384.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d1/d25/a18384.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d1/d25/a18384.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

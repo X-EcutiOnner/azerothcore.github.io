@@ -1,7 +1,13 @@
 var a23384 =
 [
-    [ "HandleScript", "da/d37/a23384.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "da/d37/a23384.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "da/d37/a23384.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "da/d37/a23384.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "boss_wrath_scryer_soccothrates", "da/d37/a23384.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "da/d37/a23384.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "da/d37/a23384.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "da/d37/a23384.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "da/d37/a23384.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "da/d37/a23384.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "da/d37/a23384.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "da/d37/a23384.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "da/d37/a23384.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "da/d37/a23384.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

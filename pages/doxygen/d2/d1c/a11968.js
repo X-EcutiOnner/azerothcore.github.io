@@ -1,12 +1,10 @@
 var a11968 =
 [
-    [ "WardenMac", "d2/d1c/a11968.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d2/d1c/a11968.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d2/d1c/a11968.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d2/d1c/a11968.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d2/d1c/a11968.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d2/d1c/a11968.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d2/d1c/a11968.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d2/d1c/a11968.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d2/d1c/a11968.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "AcoreStringChatBuilder", "d2/d1c/a11968.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d2/d1c/a11968.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d2/d1c/a11968.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d2/d1c/a11968.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d2/d1c/a11968.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d2/d1c/a11968.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d2/d1c/a11968.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

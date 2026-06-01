@@ -1,6 +1,8 @@
 var a17644 =
 [
-    [ "HandleScriptEffect", "db/dbd/a17644.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "db/dbd/a17644.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "db/dbd/a17644.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "OnApply", "db/dbd/a17644.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "db/dbd/a17644.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "db/dbd/a17644.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "db/dbd/a17644.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "db/dbd/a17644.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

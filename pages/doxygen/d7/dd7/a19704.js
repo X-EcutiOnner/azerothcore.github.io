@@ -1,7 +1,8 @@
 var a19704 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d7/dd7/a19704.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d7/dd7/a19704.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d7/dd7/a19704.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d7/dd7/a19704.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "HandleEffectPeriodic", "d7/dd7/a19704.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d7/dd7/a19704.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d7/dd7/a19704.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d7/dd7/a19704.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d7/dd7/a19704.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

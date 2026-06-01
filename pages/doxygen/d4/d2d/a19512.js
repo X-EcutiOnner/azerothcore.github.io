@@ -1,6 +1,6 @@
 var a19512 =
 [
-    [ "HandleHit", "d4/d2d/a19512.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "d4/d2d/a19512.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "d4/d2d/a19512.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "FilterTargets", "d4/d2d/a19512.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "PrepareSpellScript", "d4/d2d/a19512.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d4/d2d/a19512.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
 ];

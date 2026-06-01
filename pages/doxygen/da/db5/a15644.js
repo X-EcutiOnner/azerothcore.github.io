@@ -1,18 +1,13 @@
 var a15644 =
 [
-    [ "boss_ouro", "da/db5/a15644.html#a624700c5010edda9e7880070bd7495d7", null ],
-    [ "CanAIAttack", "da/db5/a15644.html#a7b9682b239a2d436069b9e6be1d90648", null ],
-    [ "CastGroundRupture", "da/db5/a15644.html#a2b8d88aeb824890a090f3bec544f5de2", null ],
-    [ "DamageTaken", "da/db5/a15644.html#aa571cee2fee8a79917f4c63b94a9a1b6", null ],
-    [ "Emerge", "da/db5/a15644.html#ac0b0c890f8cec105e6c284f6c1c5dd78", null ],
-    [ "EnterEvadeMode", "da/db5/a15644.html#aee5769af48127617d40fa440d042e434", null ],
-    [ "IsPlayerWithinMeleeRange", "da/db5/a15644.html#a9f9b4a53cf5c7e9d4e98d2d57e500172", null ],
-    [ "JustEngagedWith", "da/db5/a15644.html#a20b0b4a3770564595f40e1375b2811d7", null ],
-    [ "Reset", "da/db5/a15644.html#a8d8e471d0a76950d4bcbdb3e6d1b77bf", null ],
-    [ "SpellHitTarget", "da/db5/a15644.html#a53fb0c076ce60d769d21fa740fa73308", null ],
-    [ "Submerge", "da/db5/a15644.html#aa39a371112f585da952331c200b8b5aa", null ],
-    [ "UpdateAI", "da/db5/a15644.html#ab59237535be7a86cb4c0db4819a4d9d5", null ],
-    [ "_enraged", "da/db5/a15644.html#a14a147b2cb47bbc5bd7cdeb49fd22328", null ],
-    [ "_submerged", "da/db5/a15644.html#aff594fd1558ac0c150ef7dc44b185863", null ],
-    [ "_submergeMelee", "da/db5/a15644.html#a1f9afe42fad602f470456929214f40d3", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "da/db5/a15644.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "da/db5/a15644.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "da/db5/a15644.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "da/db5/a15644.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "da/db5/a15644.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "da/db5/a15644.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "da/db5/a15644.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "da/db5/a15644.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "da/db5/a15644.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "da/db5/a15644.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

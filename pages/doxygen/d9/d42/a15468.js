@@ -1,14 +1,9 @@
 var a15468 =
 [
-    [ "boss_buru", "d9/d42/a15468.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d9/d42/a15468.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d9/d42/a15468.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d9/d42/a15468.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d9/d42/a15468.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d9/d42/a15468.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d9/d42/a15468.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d9/d42/a15468.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d9/d42/a15468.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d9/d42/a15468.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d9/d42/a15468.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "npc_claw_tentacle", "d9/d42/a15468.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d9/d42/a15468.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d9/d42/a15468.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d9/d42/a15468.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d9/d42/a15468.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d9/d42/a15468.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

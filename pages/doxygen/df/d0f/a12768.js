@@ -1,9 +1,7 @@
 var a12768 =
 [
-    [ "FilterTargets", "df/d0f/a12768.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "df/d0f/a12768.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "df/d0f/a12768.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "df/d0f/a12768.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "df/d0f/a12768.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "df/d0f/a12768.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "HandleDummy", "df/d0f/a12768.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "df/d0f/a12768.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "df/d0f/a12768.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "df/d0f/a12768.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

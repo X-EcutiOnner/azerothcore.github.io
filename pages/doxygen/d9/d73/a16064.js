@@ -1,7 +1,7 @@
 var a16064 =
 [
-    [ "npc_kaya_flathoofAI", "d9/d48/a16068.html", "d9/d48/a16068" ],
-    [ "npc_kaya_flathoof", "d9/d73/a16064.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d9/d73/a16064.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d9/d73/a16064.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_ranshallaAI", "d9/d48/a16068.html", "d9/d48/a16068" ],
+    [ "npc_ranshalla", "d9/d73/a16064.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d9/d73/a16064.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d9/d73/a16064.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

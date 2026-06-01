@@ -1,6 +1,8 @@
 var a25648 =
 [
-    [ "CheckCast", "dd/d8f/a25648.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "dd/d8f/a25648.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "dd/d8f/a25648.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleDummy", "dd/d8f/a25648.html#ac6db67f521a8fd1e8de4cd22220b45fe", null ],
+    [ "Load", "dd/d8f/a25648.html#af767de9953372e5e56509a0be9e90958", null ],
+    [ "PrepareSpellScript", "dd/d8f/a25648.html#a0385a22f908ac62ab987fe9f84cad330", null ],
+    [ "Register", "dd/d8f/a25648.html#a1212726a4fcbac06b527648dff58c546", null ],
+    [ "Validate", "dd/d8f/a25648.html#ab014db76cf4656e10665f12fb18c5997", null ]
 ];

@@ -1,10 +1,7 @@
 var a16004 =
 [
-    [ "npc_thrall_warchiefAI", "d3/d9b/a16004.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d3/d9b/a16004.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d3/d9b/a16004.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d3/d9b/a16004.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d3/d9b/a16004.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d3/d9b/a16004.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d3/d9b/a16004.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_lakota_windsongAI", "d7/dc2/a16008.html", "d7/dc2/a16008" ],
+    [ "npc_lakota_windsong", "d3/d9b/a16004.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "d3/d9b/a16004.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "d3/d9b/a16004.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

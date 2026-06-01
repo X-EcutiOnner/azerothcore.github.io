@@ -1,7 +1,7 @@
 var a11584 =
 [
-    [ "chance", "d9/d30/a11584.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d9/d30/a11584.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d9/d30/a11584.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d9/d30/a11584.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "Player", "d9/d30/a11584.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d9/d30/a11584.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d9/d30/a11584.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d9/d30/a11584.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

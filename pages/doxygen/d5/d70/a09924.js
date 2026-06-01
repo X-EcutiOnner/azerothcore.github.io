@@ -1,7 +1,9 @@
 var a09924 =
 [
-    [ "LootGroupInvalidSelector", "d5/d70/a09924.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d5/d70/a09924.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d5/d70/a09924.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d5/d70/a09924.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "LoginQueryHolder", "d5/d70/a09924.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d5/d70/a09924.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d5/d70/a09924.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d5/d70/a09924.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d5/d70/a09924.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d5/d70/a09924.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

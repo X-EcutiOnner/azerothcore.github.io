@@ -1,10 +1,13 @@
 var a29820 =
 [
-    [ "adt_CELLS", "d2/d01/a29828.html", "d2/d01/a29828" ],
-    [ "getMCNK", "dd/dc7/a29820.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "dd/dc7/a29820.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "dd/dc7/a29820.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "dd/dc7/a29820.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "dd/dc7/a29820.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "dd/dc7/a29820.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "liquidTris", "dd/dc7/a29820.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "dd/dc7/a29820.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "dd/dc7/a29820.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "dd/dc7/a29820.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "dd/dc7/a29820.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "dd/dc7/a29820.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "dd/dc7/a29820.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "dd/dc7/a29820.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "dd/dc7/a29820.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "dd/dc7/a29820.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

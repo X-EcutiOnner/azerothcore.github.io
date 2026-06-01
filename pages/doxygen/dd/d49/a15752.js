@@ -1,8 +1,7 @@
 var a15752 =
 [
-    [ "npc_ahnqiraji_critter", "dd/d49/a15752.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "dd/d49/a15752.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "dd/d49/a15752.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "dd/d49/a15752.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "dd/d49/a15752.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_tharnarianAI", "d8/d50/a15756.html", "d8/d50/a15756" ],
+    [ "npc_tharnarian", "dd/d49/a15752.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "dd/d49/a15752.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "dd/d49/a15752.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

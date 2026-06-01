@@ -1,14 +1,6 @@
 var a19288 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "db/d5e/a19288.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "db/d5e/a19288.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "db/d5e/a19288.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "db/d5e/a19288.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "db/d5e/a19288.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "db/d5e/a19288.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "db/d5e/a19288.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "db/d5e/a19288.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "db/d5e/a19288.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "db/d5e/a19288.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "db/d5e/a19288.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d9/d6a/a19292.html", "d9/d6a/a19292" ],
+    [ "boss_grobbulus_poison_cloud", "db/d5e/a19288.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "db/d5e/a19288.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

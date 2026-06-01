@@ -1,12 +1,14 @@
 var a04931 =
 [
-    [ "instance_shadow_labyrinth", "d6/d3b/a22342.html", "d6/d3b/a22342" ],
-    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "dd/de6/a22346.html", "dd/de6/a22346" ],
-    [ "spell_mark_of_malice", "d2/d87/a22350.html", "d2/d87/a22350" ],
-    [ "MarkOfMalice", "d8/d4c/a04931.html#a5faa1e1ef40cd28efc7332da31667677", [
-      [ "SPELL_MARK_OF_MALICE_TRIGGERED", "d8/d4c/a04931.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
-    ] ],
-    [ "AddSC_instance_shadow_labyrinth", "d8/d4c/a04931.html#ad8948ff8ccd6c3cee367ad7227308846", null ],
-    [ "creatureData", "d8/d4c/a04931.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/d4c/a04931.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d8/d4c/a04931.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "isHole", "d8/d4c/a04931.html#a3a7e248f31dc8d832dc118d469a98bd4", null ],
+    [ "holetab_h", "d8/d4c/a04931.html#a7424dd5c858116f845a676e31fe5ae5d", null ],
+    [ "holetab_v", "d8/d4c/a04931.html#a2b1bf69bcdb58ff1605821d486da3acb", null ],
+    [ "MCINMagic", "d8/d4c/a04931.html#a6f946547b65d321100fd6efa2966180c", null ],
+    [ "MCLQMagic", "d8/d4c/a04931.html#a35ae9924cb4e3ad0020167b89d5ea86f", null ],
+    [ "MCNKMagic", "d8/d4c/a04931.html#aa2d85d3b667d3755f6f7a993e60c574b", null ],
+    [ "MCVTMagic", "d8/d4c/a04931.html#a32010e610a970d3891ae5effca03de37", null ],
+    [ "MFBOMagic", "d8/d4c/a04931.html#a329d005a0989137286469e197dc0c812", null ],
+    [ "MH2OMagic", "d8/d4c/a04931.html#aaeaf747e4bc5c25257f9e0ef1153b5a7", null ],
+    [ "MHDRMagic", "d8/d4c/a04931.html#ac97bd684dd5bacba0e790f355a3bdddf", null ]
 ];

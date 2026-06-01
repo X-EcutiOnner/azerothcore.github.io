@@ -1,7 +1,8 @@
 var a14304 =
 [
-    [ "HandleDispel", "d2/dc8/a14304.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d2/dc8/a14304.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d2/dc8/a14304.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d2/dc8/a14304.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "FilterTargets", "d2/dc8/a14304.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d2/dc8/a14304.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d2/dc8/a14304.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d2/dc8/a14304.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d2/dc8/a14304.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

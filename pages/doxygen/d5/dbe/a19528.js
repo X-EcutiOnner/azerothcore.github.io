@@ -1,6 +1,6 @@
 var a19528 =
 [
-    [ "boss_kelthuzad_minionAI", "db/d70/a19532.html", "db/d70/a19532" ],
-    [ "boss_kelthuzad_minion", "d5/dbe/a19528.html#a4c6d430035c964b4063139c0cda6bfff", null ],
-    [ "GetAI", "d5/dbe/a19528.html#ab951068fedced148653ebf9124ba5e3d", null ]
+    [ "HandleScript", "d5/dbe/a19528.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d5/dbe/a19528.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d5/dbe/a19528.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

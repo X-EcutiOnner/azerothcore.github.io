@@ -1,7 +1,4 @@
 var a09940 =
 [
-    [ "QuestItem", "de/db3/a09940.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
-    [ "QuestItem", "de/db3/a09940.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
-    [ "index", "de/db3/a09940.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
-    [ "is_looted", "de/db3/a09940.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
+    [ "Options", "de/db3/a09940.html#a30882f3f0415185ec12ef4d316a0b428", null ]
 ];

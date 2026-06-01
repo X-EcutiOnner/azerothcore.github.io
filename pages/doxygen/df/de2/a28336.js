@@ -1,6 +1,5 @@
 var a28336 =
 [
-    [ "trigger_periodicAI", "d1/d2a/a28340.html", "d1/d2a/a28340" ],
-    [ "trigger_periodic", "df/de2/a28336.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "df/de2/a28336.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "npc_suns_reach_reclamation", "df/de2/a28336.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "df/de2/a28336.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

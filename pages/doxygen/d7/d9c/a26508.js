@@ -1,8 +1,10 @@
 var a26508 =
 [
-    [ "OnRemove", "d7/d9c/a26508.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "d7/d9c/a26508.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "d7/d9c/a26508.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "d7/d9c/a26508.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "d7/d9c/a26508.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "CheckProc", "d7/d9c/a26508.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "d7/d9c/a26508.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "d7/d9c/a26508.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "d7/d9c/a26508.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "d7/d9c/a26508.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "d7/d9c/a26508.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "d7/d9c/a26508.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

@@ -1,8 +1,8 @@
 var a27412 =
 [
-    [ "Apply", "d4/d8c/a27412.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d4/d8c/a27412.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d4/d8c/a27412.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d4/d8c/a27412.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d4/d8c/a27412.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "CheckProc", "d4/d8c/a27412.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
+    [ "HandleProc", "d4/d8c/a27412.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
+    [ "PrepareAuraScript", "d4/d8c/a27412.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
+    [ "Register", "d4/d8c/a27412.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
+    [ "Validate", "d4/d8c/a27412.html#a28801b99335380a7e366e766b6aaea2c", null ]
 ];

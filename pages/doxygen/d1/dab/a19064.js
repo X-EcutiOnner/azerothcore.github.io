@@ -1,6 +1,8 @@
 var a19064 =
 [
-    [ "npc_frost_freeze_trapAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
-    [ "npc_frost_freeze_trap", "d1/dab/a19064.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d1/dab/a19064.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "Class", "d1/dab/a19064.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d1/dab/a19064.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d1/dab/a19064.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d1/dab/a19064.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d1/dab/a19064.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

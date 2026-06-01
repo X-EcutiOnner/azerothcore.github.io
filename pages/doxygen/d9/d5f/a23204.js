@@ -1,6 +1,6 @@
 var a23204 =
 [
-    [ "HandleApplyAura", "d9/d5f/a23204.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d9/d5f/a23204.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d9/d5f/a23204.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d9/d2f/a23208.html", "d9/d2f/a23208" ],
+    [ "instance_blood_furnace", "d9/d5f/a23204.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d9/d5f/a23204.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

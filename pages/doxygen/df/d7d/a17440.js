@@ -1,6 +1,8 @@
 var a17440 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
-    [ "instance_halls_of_reflection", "df/d7d/a17440.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "df/d7d/a17440.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "boss_eck", "df/d7d/a17440.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "df/d7d/a17440.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "df/d7d/a17440.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "df/d7d/a17440.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "df/d7d/a17440.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

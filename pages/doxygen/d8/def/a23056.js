@@ -1,12 +1,6 @@
 var a23056 =
 [
-    [ "boss_fathomlord_karathress", "d8/def/a23056.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d8/def/a23056.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d8/def/a23056.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d8/def/a23056.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d8/def/a23056.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d8/def/a23056.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d8/def/a23056.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d8/def/a23056.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d8/def/a23056.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d8/def/a23056.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d8/def/a23056.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d8/def/a23056.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

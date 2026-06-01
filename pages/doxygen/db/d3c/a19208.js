@@ -1,6 +1,7 @@
 var a19208 =
 [
-    [ "HandleScript", "db/d3c/a19208.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "db/d3c/a19208.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "db/d3c/a19208.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "HandleScript", "db/d3c/a19208.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "db/d3c/a19208.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "db/d3c/a19208.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "db/d3c/a19208.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

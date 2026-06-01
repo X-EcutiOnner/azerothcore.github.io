@@ -1,10 +1,6 @@
 var a24928 =
 [
-    [ "FilterTargets", "db/df2/a24928.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "db/df2/a24928.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "db/df2/a24928.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "db/df2/a24928.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "db/df2/a24928.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "db/df2/a24928.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "db/df2/a24928.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "HandleDummy", "db/df2/a24928.html#a0bcbef8a2d5978498556a217ac618fed", null ],
+    [ "PrepareSpellScript", "db/df2/a24928.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
+    [ "Register", "db/df2/a24928.html#a2c6d9c273a3d281dacefc20970912166", null ]
 ];

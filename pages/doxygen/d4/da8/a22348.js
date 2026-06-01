@@ -1,9 +1,10 @@
 var a22348 =
 [
-    [ "HandleFinish", "d4/da8/a22348.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d4/da8/a22348.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d4/da8/a22348.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d4/da8/a22348.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d4/da8/a22348.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d4/da8/a22348.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "boss_murmur", "d4/da8/a22348.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d4/da8/a22348.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "d4/da8/a22348.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d4/da8/a22348.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d4/da8/a22348.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d4/da8/a22348.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d4/da8/a22348.html#ade07217a85655a513d7a472d24589691", null ]
 ];

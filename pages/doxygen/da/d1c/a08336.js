@@ -1,12 +1,8 @@
 var a08336 =
 [
-    [ "QuestMenu", "da/d1c/a08336.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "da/d1c/a08336.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "da/d1c/a08336.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "da/d1c/a08336.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "da/d1c/a08336.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "da/d1c/a08336.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "da/d1c/a08336.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "da/d1c/a08336.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "da/d1c/a08336.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "TemporaryThreatModifierEvent", "da/d1c/a08336.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "da/d1c/a08336.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "da/d1c/a08336.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "da/d1c/a08336.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "da/d1c/a08336.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

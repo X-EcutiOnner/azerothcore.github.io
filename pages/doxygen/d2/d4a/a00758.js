@@ -1,16 +1,20 @@
 var a00758 =
 [
-    [ "ModelFlags", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
-      [ "MOD_M2", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
-      [ "MOD_WORLDSPAWN", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
-      [ "MOD_HAS_BOUND", "d2/d4a/a00758.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    [ "instance_nexus", "de/df9/a19584.html", "de/df9/a19584" ],
+    [ "instance_nexus::instance_nexus_InstanceMapScript", "df/dbd/a19588.html", "df/dbd/a19588" ],
+    [ "npc_crystalline_frayer", "d9/d9b/a19592.html", "d9/d9b/a19592" ],
+    [ "eFrayer", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34", [
+      [ "SPELL_SUMMON_SEED_POD", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34a574104b14cbcd24794ab8666fa8dbd76", null ],
+      [ "SPELL_SEED_POD", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34ac55a6fa8082947a3cf2c03a7a6698eb7", null ],
+      [ "SPELL_AURA_OF_REGENERATION", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34a16a68348d55363d0fa476afad65ed165", null ],
+      [ "SPELL_CRYSTAL_BLOOM", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34a2628113ed0f8c81fec3cbb2dd01123f7", null ],
+      [ "SPELL_ENSNARE", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34aa84bf40a2daa426466ad7322a0ab325d", null ],
+      [ "SAY_EMOTE", "d2/d4a/a00758.html#afccbdf6b1fcd1d08834c371ae089cd34acc21792a1861c2f9a3d4d694ee1d9f1d", null ]
     ] ],
-    [ "ExtractGameobjectModels", "d2/d4a/a00758.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
-    [ "ExtractSingleModel", "d2/d4a/a00758.html#a6a96194f748b715f0400249583336ae5", null ],
-    [ "ExtractSingleWmo", "d2/d4a/a00758.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d2/d4a/a00758.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "GenerateUniqueObjectId", "d2/d4a/a00758.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "strToLower", "d2/d4a/a00758.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "szWorkDirWmo", "d2/d4a/a00758.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
-    [ "WmoDoodads", "d2/d4a/a00758.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "FrayerGroups", "d2/d4a/a00758.html#a29a293d010d15bea50b64ca0a6a16fb5", [
+      [ "GROUP_COMBAT", "d2/d4a/a00758.html#a29a293d010d15bea50b64ca0a6a16fb5a8a276adfb1bc4c990d9fcd7622ee8b44", null ],
+      [ "GROUP_SEED_POD", "d2/d4a/a00758.html#a29a293d010d15bea50b64ca0a6a16fb5acfb7ee2d22c26e537cb22506d7ae0028", null ]
+    ] ],
+    [ "AddSC_instance_nexus", "d2/d4a/a00758.html#a77d0cce0724befee65efa7555f62f8f1", null ],
+    [ "doorData", "d2/d4a/a00758.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

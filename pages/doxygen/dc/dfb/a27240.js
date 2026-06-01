@@ -1,6 +1,7 @@
 var a27240 =
 [
-    [ "CheckProc", "dc/dfb/a27240.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "dc/dfb/a27240.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "dc/dfb/a27240.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleProc", "dc/dfb/a27240.html#a4ea5706e6f0caa7a9c93b779bb71349f", null ],
+    [ "PrepareAuraScript", "dc/dfb/a27240.html#af83570899be1f91a1273cc5f46792b57", null ],
+    [ "Register", "dc/dfb/a27240.html#a1406e9a52a4e24a71fd26192abc64c73", null ],
+    [ "Validate", "dc/dfb/a27240.html#ab6528e1c69cbf7fdb8bb7e792908d02a", null ]
 ];

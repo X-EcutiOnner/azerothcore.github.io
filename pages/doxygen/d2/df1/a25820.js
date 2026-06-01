@@ -1,6 +1,6 @@
 var a25820 =
 [
-    [ "HandleActivateObject", "d2/df1/a25820.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d2/df1/a25820.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d2/df1/a25820.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "PrepareSpellScript", "d2/df1/a25820.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "d2/df1/a25820.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "d2/df1/a25820.html#a59641895cead08de4a4503262505ee73", null ]
 ];

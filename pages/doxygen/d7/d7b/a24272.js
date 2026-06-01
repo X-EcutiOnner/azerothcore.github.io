@@ -1,12 +1,7 @@
 var a24272 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d7/d7b/a24272.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d7/d7b/a24272.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "d7/d7b/a24272.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "d7/d7b/a24272.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d7/d7b/a24272.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "d7/d7b/a24272.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "d7/d7b/a24272.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "d7/d7b/a24272.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "d7/d7b/a24272.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "HandleScriptEffect", "d7/d7b/a24272.html#afaffd667477e286700dd7e5562423452", null ],
+    [ "PrepareSpellScript", "d7/d7b/a24272.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
+    [ "Register", "d7/d7b/a24272.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
+    [ "Validate", "d7/d7b/a24272.html#a553f2f26a412d2060151b4f49055b847", null ]
 ];

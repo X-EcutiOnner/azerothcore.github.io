@@ -1,6 +1,6 @@
 var a13456 =
 [
-    [ "npc_scarlet_courierAI", "da/d6b/a13460.html", "da/d6b/a13460" ],
-    [ "npc_scarlet_courier", "db/dba/a13456.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "db/dba/a13456.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "instance_scholomance_InstanceMapScript", "da/d6b/a13460.html", "da/d6b/a13460" ],
+    [ "instance_scholomance", "db/dba/a13456.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "db/dba/a13456.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

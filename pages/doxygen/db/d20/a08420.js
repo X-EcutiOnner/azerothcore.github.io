@@ -1,7 +1,5 @@
 var a08420 =
 [
-    [ "EnchStoreItem", "db/d20/a08420.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "db/d20/a08420.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "db/d20/a08420.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "db/d20/a08420.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "QuestIcon", "db/d20/a08420.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
+    [ "QuestId", "db/d20/a08420.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
 ];

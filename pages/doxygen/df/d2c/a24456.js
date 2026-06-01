@@ -1,6 +1,6 @@
 var a24456 =
 [
-    [ "PrepareSpellScript", "df/d2c/a24456.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "df/d2c/a24456.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "df/d2c/a24456.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "PrepareAuraScript", "df/d2c/a24456.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "df/d2c/a24456.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "df/d2c/a24456.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

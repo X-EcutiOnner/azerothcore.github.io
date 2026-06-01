@@ -1,5 +1,4 @@
 var a28956 =
 [
-    [ "ID", "d5/dc2/a28956.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d5/dc2/a28956.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "Id", "d5/dc2/a28956.html#aebb809589854147a8a521263968ed6d9", null ]
 ];

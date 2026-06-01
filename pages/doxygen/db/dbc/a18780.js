@@ -1,6 +1,8 @@
 var a18780 =
 [
-    [ "ModDest", "db/dbc/a18780.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "db/dbc/a18780.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "db/dbc/a18780.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "npc_blistering_zombieAI", "db/dbc/a18780.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "db/dbc/a18780.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "db/dbc/a18780.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "db/dbc/a18780.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "db/dbc/a18780.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

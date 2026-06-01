@@ -1,6 +1,7 @@
 var a21764 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d8/d11/a21768.html", "d8/d11/a21768" ],
-    [ "npc_q24545_wretched_ghoul", "dd/d62/a21764.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "dd/d62/a21764.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "HandleDummy", "dd/d62/a21764.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "dd/d62/a21764.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "dd/d62/a21764.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "dd/d62/a21764.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

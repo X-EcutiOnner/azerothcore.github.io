@@ -1,6 +1,6 @@
 var a13960 =
 [
-    [ "OnApply", "d4/d8c/a13960.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d4/d8c/a13960.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d4/d8c/a13960.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d7/dd0/a13964.html", "d7/dd0/a13964" ],
+    [ "npc_bh_thalorien_dawnseeker", "d4/d8c/a13960.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
+    [ "GetAI", "d4/d8c/a13960.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
 ];

@@ -1,5 +1,8 @@
 var a11632 =
 [
-    [ "ImplicitTargetType", "d9/d3c/a11632.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
-    [ "UsedTargetObjectType", "d9/d3c/a11632.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
+    [ "SkillPerfectItemEntry", "d9/d3c/a11632.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "d9/d3c/a11632.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "d9/d3c/a11632.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "d9/d3c/a11632.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "d9/d3c/a11632.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

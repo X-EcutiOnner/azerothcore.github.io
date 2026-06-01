@@ -1,7 +1,7 @@
 var a24624 =
 [
-    [ "HandleProc", "d8/da8/a24624.html#a60def76554cd5cf94d84ec1240d651dc", null ],
-    [ "PrepareAuraScript", "d8/da8/a24624.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
-    [ "Register", "d8/da8/a24624.html#a276526f7f988ce579dc67dc37eebbe87", null ],
-    [ "Validate", "d8/da8/a24624.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
+    [ "if", "d8/da8/a24624.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "d8/da8/a24624.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "d8/da8/a24624.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "d8/da8/a24624.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

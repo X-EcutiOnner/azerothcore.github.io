@@ -1,12 +1,12 @@
 var a00515 =
 [
-    [ "CSymbolInfoPackage", "dd/de0/a05478.html", "dd/de0/a05478" ],
-    [ "_NO_CVCONST_H", "dc/d19/a00515.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "dc/d19/a00515.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "dc/d19/a00515.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "dc/d19/a00515.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "dc/d19/a00515.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "dc/d19/a00515.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "dc/d19/a00515.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "dc/d19/a00515.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "npc_valkyr_battle_maiden", "d6/dfc/a13404.html", "d6/dfc/a13404" ],
+    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "de/d88/a13408.html", "de/d88/a13408" ],
+    [ "Says_VBM", "dc/d19/a00515.html#a1e8eb132ddeee98b584395e0a134c9e4", [
+      [ "WHISPER_REVIVE", "dc/d19/a00515.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
+    ] ],
+    [ "Spells_VBM", "dc/d19/a00515.html#a97df4b07a8686c29a9700c8d11af35e3", [
+      [ "SPELL_REVIVE", "dc/d19/a00515.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave", "dc/d19/a00515.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
 ];

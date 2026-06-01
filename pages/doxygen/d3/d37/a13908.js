@@ -1,7 +1,12 @@
 var a13908 =
 [
-    [ "npc_singularity", "d3/d37/a13908.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "d3/d37/a13908.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "d3/d37/a13908.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "d3/d37/a13908.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "npc_cameron", "d3/d37/a13908.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "d3/d37/a13908.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "d3/d37/a13908.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "d3/d37/a13908.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "d3/d37/a13908.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "d3/d37/a13908.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "d3/d37/a13908.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "d3/d37/a13908.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "d3/d37/a13908.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

@@ -1,8 +1,6 @@
 var a27732 =
 [
-    [ "CheckProc", "da/df9/a27732.html#a4713f3cdce1ee793a8f2232202314ff7", null ],
-    [ "HandleProc", "da/df9/a27732.html#ab892bc268feccba594a5b4b0be3e86f7", null ],
-    [ "PrepareAuraScript", "da/df9/a27732.html#a92a141fcf24f63bc41f6f828f72bf277", null ],
-    [ "Register", "da/df9/a27732.html#a93806efcc1e5976cca2eab57c9e55a7e", null ],
-    [ "Validate", "da/df9/a27732.html#a28801b99335380a7e366e766b6aaea2c", null ]
+    [ "npc_spirit_shadeAI", "d4/df4/a27736.html", "d4/df4/a27736" ],
+    [ "npc_spirit_shade", "da/df9/a27732.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "da/df9/a27732.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

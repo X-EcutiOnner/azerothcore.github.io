@@ -1,6 +1,14 @@
 var a22104 =
 [
-    [ "npc_still_at_it_triggerAI", "d2/d99/a22108.html", "d2/d99/a22108" ],
-    [ "npc_still_at_it_trigger", "d7/dea/a22104.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d7/dea/a22104.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_finklesteinAI", "d7/dea/a22104.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d7/dea/a22104.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d7/dea/a22104.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d7/dea/a22104.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d7/dea/a22104.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d7/dea/a22104.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d7/dea/a22104.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d7/dea/a22104.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d7/dea/a22104.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d7/dea/a22104.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d7/dea/a22104.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

@@ -1,10 +1,10 @@
 var a16456 =
 [
-    [ "HandleDummy", "d4/d4b/a16456.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d4/d4b/a16456.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d4/d4b/a16456.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d4/d4b/a16456.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d4/d4b/a16456.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d4/d4b/a16456.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d4/d4b/a16456.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "spell_halion_damage_aoe_summon", "d4/d4b/a16456.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "d4/d4b/a16456.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d4/d4b/a16456.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d4/d4b/a16456.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d4/d4b/a16456.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "d4/d4b/a16456.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "d4/d4b/a16456.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

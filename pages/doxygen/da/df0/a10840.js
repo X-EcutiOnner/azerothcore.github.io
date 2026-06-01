@@ -1,7 +1,6 @@
 var a10840 =
 [
-    [ "Flags", "da/df0/a10840.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "da/df0/a10840.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "da/df0/a10840.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "da/df0/a10840.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "BuyBankSlot", "da/df0/a10840.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "da/df0/a10840.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "da/df0/a10840.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

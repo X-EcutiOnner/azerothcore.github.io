@@ -1,8 +1,6 @@
 var a13816 =
 [
-    [ "OnPeriodic", "d0/d6a/a13816.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d0/d6a/a13816.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d0/d6a/a13816.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d0/d6a/a13816.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d0/d6a/a13816.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "de/db6/a13820.html", "de/db6/a13820" ],
+    [ "instance_sunwell_plateau", "d0/d6a/a13816.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "d0/d6a/a13816.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

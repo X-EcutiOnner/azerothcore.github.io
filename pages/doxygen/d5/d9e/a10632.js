@@ -1,7 +1,12 @@
 var a10632 =
 [
-    [ "SpellScriptLoader", "d5/d9e/a10632.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d5/d9e/a10632.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d5/d9e/a10632.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d5/d9e/a10632.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "BattlefieldScript", "d5/d9e/a10632.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "d5/d9e/a10632.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d5/d9e/a10632.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "d5/d9e/a10632.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "d5/d9e/a10632.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerKill", "d5/d9e/a10632.html#a835001d04260cafe35021108e2ede851", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "d5/d9e/a10632.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "d5/d9e/a10632.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "d5/d9e/a10632.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

@@ -1,8 +1,9 @@
 var a26412 =
 [
-    [ "CheckProc", "df/d85/a26412.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
-    [ "HandleProc", "df/d85/a26412.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
-    [ "PrepareAuraScript", "df/d85/a26412.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
-    [ "Register", "df/d85/a26412.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
-    [ "Validate", "df/d85/a26412.html#a69daf001676f73289682ff63897e81cb", null ]
+    [ "CheckProc", "df/d85/a26412.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "df/d85/a26412.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "df/d85/a26412.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "df/d85/a26412.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "df/d85/a26412.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "df/d85/a26412.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

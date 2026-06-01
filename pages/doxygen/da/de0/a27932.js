@@ -1,5 +1,6 @@
 var a27932 =
 [
-    [ "achievement_bg_sa_artillery", "da/de0/a27932.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "da/de0/a27932.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "go_soulwellAI", "d6/d82/a27936.html", "d6/d82/a27936" ],
+    [ "go_soulwell", "da/de0/a27932.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "da/de0/a27932.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

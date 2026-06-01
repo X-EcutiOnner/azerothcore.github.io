@@ -1,6 +1,6 @@
 var a24132 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d3/d9d/a24132.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d3/d9d/a24132.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d3/d9d/a24132.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "HandlePeriodic", "d3/d9d/a24132.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d3/d9d/a24132.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d3/d9d/a24132.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

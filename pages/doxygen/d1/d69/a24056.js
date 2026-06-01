@@ -1,7 +1,9 @@
 var a24056 =
 [
-    [ "npc_bessyAI", "d6/d94/a24060.html", "d6/d94/a24060" ],
-    [ "npc_bessy", "d1/d69/a24056.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d1/d69/a24056.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d1/d69/a24056.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d1/d69/a24056.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d1/d69/a24056.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d1/d69/a24056.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d1/d69/a24056.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d1/d69/a24056.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d1/d69/a24056.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

@@ -1,12 +1,15 @@
 var a15216 =
 [
-    [ "boss_mal_ganisAI", "da/deb/a15216.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "da/deb/a15216.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "da/deb/a15216.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "da/deb/a15216.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "da/deb/a15216.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "da/deb/a15216.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "da/deb/a15216.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "da/deb/a15216.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "da/deb/a15216.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "npc_time_rift", "da/deb/a15216.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "da/deb/a15216.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "da/deb/a15216.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "da/deb/a15216.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "da/deb/a15216.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "da/deb/a15216.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "da/deb/a15216.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "da/deb/a15216.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "da/deb/a15216.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "da/deb/a15216.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "da/deb/a15216.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "da/deb/a15216.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

@@ -1,6 +1,7 @@
 var a23804 =
 [
-    [ "lapseTeleport", "d6/dfa/a23804.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d6/dfa/a23804.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d6/dfa/a23804.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "HandleEffectApply", "d6/dfa/a23804.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d6/dfa/a23804.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d6/dfa/a23804.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d6/dfa/a23804.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

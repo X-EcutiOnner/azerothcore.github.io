@@ -1,7 +1,8 @@
 var a16200 =
 [
-    [ "npc_ranshallaAI", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
-    [ "npc_ranshalla", "da/df5/a16200.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "da/df5/a16200.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "da/df5/a16200.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "instance_ahnkahet_InstanceScript", "da/df5/a16200.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "da/df5/a16200.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "da/df5/a16200.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "da/df5/a16200.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "da/df5/a16200.html#a840ce69595c384be321c1167513d151e", null ]
 ];

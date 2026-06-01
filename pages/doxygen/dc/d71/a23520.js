@@ -1,6 +1,7 @@
 var a23520 =
 [
-    [ "CheckProc", "dc/d71/a23520.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "dc/d71/a23520.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "dc/d71/a23520.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "Load", "dc/d71/a23520.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "dc/d71/a23520.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "dc/d71/a23520.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "dc/d71/a23520.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

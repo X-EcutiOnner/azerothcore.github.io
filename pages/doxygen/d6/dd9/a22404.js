@@ -1,6 +1,8 @@
 var a22404 =
 [
-    [ "npc_crusade_recruitAI", "d1/dfa/a22408.html", "d1/dfa/a22408" ],
-    [ "npc_crusade_recruit", "d6/dd9/a22404.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d6/dd9/a22404.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_parasitic_shadowfiend", "d6/dd9/a22404.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d6/dd9/a22404.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d6/dd9/a22404.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d6/dd9/a22404.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d6/dd9/a22404.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

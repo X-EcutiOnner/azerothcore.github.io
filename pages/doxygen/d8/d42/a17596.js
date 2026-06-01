@@ -1,5 +1,6 @@
 var a17596 =
 [
-    [ "at_tyrannus_event_starter", "d8/d42/a17596.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d8/d42/a17596.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "OnAbsorb", "d8/d42/a17596.html#aa6582457cd0502ca263433d04b40b64f", null ],
+    [ "PrepareAuraScript", "d8/d42/a17596.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
+    [ "Register", "d8/d42/a17596.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
 ];

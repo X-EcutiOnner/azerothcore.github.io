@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: HolidayDateCalculatorTest Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('da/dd3/a29285.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d3/d4d/a29288.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,177 +104,79 @@ $(document).ready(function(){initNavTree('da/dd3/a29285.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="../../dd/d29/a29282.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">HolidayDateCalculatorTest Class Reference</div></div>
+  <div class="headertitle"><div class="title">MockUnitStub Member List</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="dynheader">
-Inheritance diagram for HolidayDateCalculatorTest:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../da/dd3/a29285.png" alt=""/>
- </div></div>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd3/a29285.html#a98d1b0446f1db9a0e25ad93b40d7d7a0">ExpectDate</a> (const std::tm &amp;date, int year, int month, int day)</td></tr>
-<tr class="separator:a98d1b0446f1db9a0e25ad93b40d7d7a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1ee91196bfb749605bf98f4441a03a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd3/a29285.html#af1ee91196bfb749605bf98f4441a03a4">IsValidDate</a> (int year, int month, int day)</td></tr>
-<tr class="separator:af1ee91196bfb749605bf98f4441a03a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af80c133dce034eed150593681fba594d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd3/a29285.html#af80c133dce034eed150593681fba594d">IsLeapYear</a> (int year)</td></tr>
-<tr class="separator:af80c133dce034eed150593681fba594d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a98d1b0446f1db9a0e25ad93b40d7d7a0" name="a98d1b0446f1db9a0e25ad93b40d7d7a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98d1b0446f1db9a0e25ad93b40d7d7a0">&#9670;&#160;</a></span>ExpectDate()</h2>
 
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void HolidayDateCalculatorTest::ExpectDate </td>
-          <td>(</td>
-          <td class="paramtype">const std::tm &amp;&#160;</td>
-          <td class="paramname"><em>date</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>    {</div>
-<div class="line"><span class="lineno">   26</span>        EXPECT_EQ(date.tm_year + 1900, year);</div>
-<div class="line"><span class="lineno">   27</span>        EXPECT_EQ(date.tm_mon + 1, month);</div>
-<div class="line"><span class="lineno">   28</span>        EXPECT_EQ(date.tm_mday, day);</div>
-<div class="line"><span class="lineno">   29</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af80c133dce034eed150593681fba594d" name="af80c133dce034eed150593681fba594d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af80c133dce034eed150593681fba594d">&#9670;&#160;</a></span>IsLeapYear()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsLeapYear </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        <span class="keywordflow">return</span> (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   54</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="af1ee91196bfb749605bf98f4441a03a4" name="af1ee91196bfb749605bf98f4441a03a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1ee91196bfb749605bf98f4441a03a4">&#9670;&#160;</a></span>IsValidDate()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool HolidayDateCalculatorTest::IsValidDate </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>year</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>month</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>day</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>    {</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (month &lt; 1 || month &gt; 12) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">if</span> (day &lt; 1 || day &gt; 31) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   36</span> </div>
-<div class="line"><span class="lineno">   37</span>        <span class="comment">// Check days in month</span></div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordtype">int</span> daysInMonth[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>        <span class="comment">// Leap year check for February</span></div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">if</span> (month == 2)</div>
-<div class="line"><span class="lineno">   42</span>        {</div>
-<div class="line"><span class="lineno">   43</span>            <span class="keywordtype">bool</span> isLeap = (year % 4 == 0 &amp;&amp; year % 100 != 0) || (year % 400 == 0);</div>
-<div class="line"><span class="lineno">   44</span>            <span class="keywordflow">if</span> (isLeap) daysInMonth[2] = 29;</div>
-<div class="line"><span class="lineno">   45</span>        }</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>        <span class="keywordflow">return</span> day &lt;= daysInMonth[month];</div>
-<div class="line"><span class="lineno">   48</span>    }</div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#ad16ebc0cdf863c19be3f6dd67f27cd35">_attackTimes</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a50e2f1b4106d1afc1666d1a885853e3b">_auras</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#ac6e7be7531e95e3ee5852347c6623ca4">_castHistory</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#af6bab4597a832c2628fe12a34c0cae46">_chanceModifiers</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#aaa275dca96bc5bd5575eada87830af2c">_class</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a866b5f32cf75f637142777403f9c3af1">_cooldowns</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a426ed8a38d7697cf69ee57de2c48e0da">_health</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a1b280ffbe27c1b0be5788d6f26f935d6">_isAlive</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#acd3f194e9797bb3694cfa46af414cfd2">_isFriendly</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a303d22f5068e06a2086c3424522db8b6">_isPlayer</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#aef521e2cad74ccb8685f4595c4bae6dc">_level</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a5daabcd62b573e27c438aa42b9325808">_maxHealth</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a75496037a2d55b6006b958ed77d8644c">_ppmModifiers</a></td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a7747c273e328b7667b5328c74a5ffb12">AddAuraStub</a>(uint32_t spellId)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a8510a18a9c6e5f029de60826073e7d8c">AddSpellCooldown</a>(uint32_t spellId)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a294bc0393f5d6fa56f1c76aec649b8ed">ApplyChanceModifier</a>(uint32_t spellId, float baseChance) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#abdeb342a7c4d1441eac893e393d4e55f">ClearCastHistory</a>()</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a6efe1ccb0838bf6a04124ae4f63c4c91">ClearChanceModifiers</a>()</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a88721343b9aeffe401374df02e83d944">ClearPPMModifiers</a>()</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a0c44989e002c1819c0f88a448f130650">CountCasts</a>(uint32_t spellId) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a706fda09bf18a3b7b1b5f8b1af011d47">CountPctFromMaxHealth</a>(int32_t pct) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a1961efd1170eacb7f51132927f9e9684">GetAttackTime</a>(uint8_t attType) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a1934cd71bf7106797457a4e047cc66d2">GetCastHistory</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a19e1d0315059b2da65c891dc1adc4fda">GetClass</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a4e00d3ef8baeb9899baaf09af760e801">GetHealth</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a13a8e1fa7798321d2e7eb72face84c5a">GetLevel</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a59b257c2e1e89bf7fa32e25d3ee1161c">GetMaxHealth</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#aa6aaffd3c4227f081b42511f5b4084a7">GetPPMProcChance</a>(uint32_t weaponSpeed, float ppm, uint32_t spellId=0) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a0096bd8b110bb563ccb435a25f9cfbb7">HasAura</a>(uint32_t spellId) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a1962f1814c51133caa67a49eb13bda41">HasSpellCooldown</a>(uint32_t spellId) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#aeb679a4ecf81db1dc312110c4568ff3a">IsAlive</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#ac0accfe7d0daa99e4ffb696404028d84">IsFriendlyTo</a>(UnitStub const *unit) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a36b84f92bb3ad03e61484b08e82660bc">IsPlayer</a>() const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#aebca824eff5f8d2f7c210abdcdf1ed7d">MOCK_METHOD</a>(bool, IsPlayer,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#ab1469fe474ab6290bfd8d8222392fdb1">MOCK_METHOD</a>(bool, IsAlive,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#a72198bd1a85cc6fea8665fb7e0b19ee5">MOCK_METHOD</a>(bool, IsFriendlyTo,(UnitStub const *unit),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#ad315c9b44cd400050ba5d0ede0a6ed38">MOCK_METHOD</a>(bool, HasAura,(uint32_t spellId),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#aff433673cca191db03810f378879eae1">MOCK_METHOD</a>(uint32_t, GetMaxHealth,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#acccf2037a6b3dbccbadedfdcb7d4c95d">MOCK_METHOD</a>(uint32_t, GetHealth,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#a5e71c6a07e54153dd5081af175031c18">MOCK_METHOD</a>(uint32_t, CountPctFromMaxHealth,(int32_t pct),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#af6fccda3c70d3ddb643dcae31d63c205">MOCK_METHOD</a>(uint32_t, GetAttackTime,(uint8_t attType),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#a70f7f432cdb5248e4d7538e989d45c11">MOCK_METHOD</a>(bool, HasSpellCooldown,(uint32_t spellId),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#a0cbd6994e0de9a0052bdcc8750881eac">MOCK_METHOD</a>(uint8_t, GetClass,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#a4d624c7be7180f8c85b624e87601d659">MOCK_METHOD</a>(uint8_t, GetLevel,(),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d4d/a29288.html#afc487e92b80c573fd5b01400204401da">MOCK_METHOD</a>(float, GetPPMProcChance,(uint32_t weaponSpeed, float ppm, uint32_t spellId),(const, override))</td><td class="entry"><a class="el" href="../../d3/d4d/a29288.html">MockUnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a325b88fd791c254c7587fdaae4e272cc">RecordCast</a>(uint32_t spellId, bool triggered=true, int32_t bp0=0, int32_t bp1=0, int32_t bp2=0)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a64eccedbe33e3feb966ddd81a12aa2e0">RemoveAuraStub</a>(uint32_t spellId)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a9bdba5a0382354e969f3e91e971ac08f">RemoveSpellCooldown</a>(uint32_t spellId)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#aff27fef205b732052ca9bc12360624cb">SetAttackTime</a>(uint8_t attType, uint32_t time)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#af429cc226e251c4b4f738fcec7ee7f33">SetChanceModifier</a>(uint32_t spellId, float modifier)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a02ccf4611ea0ecd717601a549b8e8ff6">SetClass</a>(uint8_t unitClass)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#af4b28cd948c7f39ca3edae058ba855f5">SetHealth</a>(uint32_t health)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a3931796885071385fb10cc5170b2326b">SetIsAlive</a>(bool isAlive)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#afc59d45a056d901f7a909e86b3376f15">SetIsFriendly</a>(bool isFriendly)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a069a4e6b03aad82c642cbc9d641376ed">SetIsPlayer</a>(bool isPlayer)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a742760c2ff47e56894807b5b1f44261e">SetLevel</a>(uint8_t level)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a638fe2b7f657a741cdc4f26e4aa803c5">SetMaxHealth</a>(uint32_t maxHealth)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a5b502b16667368e83d3c577576e3f942">SetPPMModifier</a>(uint32_t spellId, float modifier)</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a861142f101dbbf8f16e95672496384ce">UnitStub</a>()=default</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#ae140a11dfcb40b95bd929001d0b3a106">WasCast</a>(uint32_t spellId) const</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../dc/d2f/a29280.html#a17f18ef8aba2e8b82c866709de32a760">~UnitStub</a>()=default</td><td class="entry"><a class="el" href="../../dc/d2f/a29280.html">UnitStub</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../da/dd3/a29285.html">HolidayDateCalculatorTest</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:38:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 1 2026 22:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

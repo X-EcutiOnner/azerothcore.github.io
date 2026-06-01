@@ -1,7 +1,6 @@
 var a14020 =
 [
-    [ "npc_eris_hevenfireAI", "d8/d6a/a14024.html", "d8/d6a/a14024" ],
-    [ "npc_eris_hevenfire", "de/dcb/a14020.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "de/dcb/a14020.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "de/dcb/a14020.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "npc_marzon_silent_bladeAI", "d8/d6a/a14024.html", "d8/d6a/a14024" ],
+    [ "npc_marzon_silent_blade", "de/dcb/a14020.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "de/dcb/a14020.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

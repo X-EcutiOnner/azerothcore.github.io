@@ -1,10 +1,7 @@
 var a20716 =
 [
-    [ "boss_thorim_sif_blizzard", "d9/d83/a20716.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "d9/d83/a20716.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "d9/d83/a20716.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "d9/d83/a20716.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "d9/d83/a20716.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "d9/d83/a20716.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d9/d83/a20716.html#af69dfd0ec232c7e45d13b117988ba924", null ]
+    [ "OnApply", "d9/d83/a20716.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d9/d83/a20716.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d9/d83/a20716.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d9/d83/a20716.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

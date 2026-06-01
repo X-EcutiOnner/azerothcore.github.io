@@ -1,6 +1,6 @@
 var a14864 =
 [
-    [ "npc_soh_fire_trigger", "d2/d18/a14864.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "d2/d18/a14864.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "d2/d18/a14864.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "HandleDummy", "d2/d18/a14864.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "d2/d18/a14864.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "d2/d18/a14864.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

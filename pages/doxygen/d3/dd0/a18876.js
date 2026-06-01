@@ -1,6 +1,6 @@
 var a18876 =
 [
-    [ "ActivateSpirit", "d3/dd0/a18876.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d3/dd0/a18876.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d3/dd0/a18876.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "boss_sister_svalnaAI", "d3/dec/a18880.html", "d3/dec/a18880" ],
+    [ "boss_sister_svalna", "d3/dd0/a18876.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d3/dd0/a18876.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

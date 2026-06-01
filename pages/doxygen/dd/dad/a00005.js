@@ -1,5 +1,5 @@
 var a00005 =
 [
-    [ "ProcEventInfoBuilder", "d6/dff/a29234.html", "d6/dff/a29234" ],
-    [ "SpellProcEntryBuilder", "dc/dde/a29238.html", "dc/dde/a29238" ]
+    [ "RASession", "d7/d4b/a05980.html", "d7/d4b/a05980" ],
+    [ "bufferSize", "dd/dad/a00005.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
 ];

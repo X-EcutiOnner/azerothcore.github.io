@@ -1,5 +1,6 @@
 var a13760 =
 [
-    [ "go_eredar_twins_blaze", "d9/d12/a13760.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d9/d12/a13760.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "HandlePeriodic", "d9/d12/a13760.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
+    [ "PrepareAuraScript", "d9/d12/a13760.html#a2722b97e12e9371745d7f38504d9efdf", null ],
+    [ "Register", "d9/d12/a13760.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
 ];

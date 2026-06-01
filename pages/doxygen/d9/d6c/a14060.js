@@ -1,7 +1,7 @@
 var a14060 =
 [
-    [ "npc_ranger_lilatha", "d9/d6c/a14060.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d9/d6c/a14060.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d9/d6c/a14060.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d9/d6c/a14060.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "o", "d9/d6c/a14060.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d9/d6c/a14060.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d9/d6c/a14060.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d9/d6c/a14060.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

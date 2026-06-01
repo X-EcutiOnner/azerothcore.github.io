@@ -1,10 +1,9 @@
 var a09540 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "da/d6c/a09540.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "da/d6c/a09540.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "da/d6c/a09540.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "da/d6c/a09540.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "da/d6c/a09540.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "da/d6c/a09540.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "da/d6c/a09540.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "InserterType", "da/d6c/a09540.html#a8ea29aedfb1eaf2b3eac29bc61849319", null ],
+    [ "ContainerInserter", "da/d6c/a09540.html#a44cd545e2965b309c48d40f4617bc38e", null ],
+    [ "Insert", "da/d6c/a09540.html#af482d9f7940d548193fc56839bc2cb87", null ],
+    [ "InserterOf", "da/d6c/a09540.html#a003318d4ec066ca45d79ec5b669cdb8c", null ],
+    [ "inserter", "da/d6c/a09540.html#ac10b2769f02687260efd531af666fbb3", null ],
+    [ "ref", "da/d6c/a09540.html#a60d4a9120523c28d8c408c981305535e", null ]
 ];

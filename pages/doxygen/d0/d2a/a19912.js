@@ -1,17 +1,6 @@
 var a19912 =
 [
-    [ "boss_bjarngrim", "d0/d2a/a19912.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d0/d2a/a19912.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d0/d2a/a19912.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d0/d2a/a19912.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "d0/d2a/a19912.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d0/d2a/a19912.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d0/d2a/a19912.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d0/d2a/a19912.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d0/d2a/a19912.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d0/d2a/a19912.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "events", "d0/d2a/a19912.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d0/d2a/a19912.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d0/d2a/a19912.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d0/d2a/a19912.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "PrepareSpellScript", "d0/d2a/a19912.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d2a/a19912.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d2a/a19912.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

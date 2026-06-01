@@ -1,13 +1,16 @@
 var a05264 =
 [
-    [ "ModelInstance", "df/d65/a05264.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "df/d65/a05264.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "df/d65/a05264.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "df/d65/a05264.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "df/d65/a05264.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectRay", "df/d65/a05264.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "df/d65/a05264.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "df/d65/a05264.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "df/d65/a05264.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "df/d65/a05264.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "operator==", "df/d65/a05264.html#a98ac017bf29e25cd6ec48e7635895196", null ],
+    [ "baseUnitDim", "df/d65/a05264.html#a49b023bc34148196590dfd5c42fe49f6", null ],
+    [ "cellSizeHorizontal", "df/d65/a05264.html#a37b48fdf0ff629ff18e262cf1b74604a", null ],
+    [ "cellSizeVertical", "df/d65/a05264.html#aa3fa9b9705e7a0b4e514f9a900ed4dcd", null ],
+    [ "maxSimplificationError", "df/d65/a05264.html#afbd14408be8abc7887e79b766d3fe7a5", null ],
+    [ "padding0", "df/d65/a05264.html#a756affcba9ba67923634b050be35e2b7", null ],
+    [ "tilesPerMapEdge", "df/d65/a05264.html#a620f2c8f7dae449054a0c9f7fdbb7bdd", null ],
+    [ "vertexPerMapEdge", "df/d65/a05264.html#a6a95c1c214c3102d2618eaf3df850232", null ],
+    [ "vertexPerTileEdge", "df/d65/a05264.html#a88fd7166e3555df1307ad0e1a7dfc8f6", null ],
+    [ "walkableClimb", "df/d65/a05264.html#a6d1d6f164c716e71d0dff034c9e8042a", null ],
+    [ "walkableHeight", "df/d65/a05264.html#aaaf165b5e3b8361d37837e6b93609557", null ],
+    [ "walkableRadius", "df/d65/a05264.html#a16440d4ea4533b065cfa8aac216c275a", null ],
+    [ "walkableSlopeAngle", "df/d65/a05264.html#af825b2f1f457e551a58f343864e3c100", null ]
 ];

@@ -1,10 +1,7 @@
 var a21512 =
 [
-    [ "npc_jenny", "db/d49/a21512.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "db/d49/a21512.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "db/d49/a21512.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "db/d49/a21512.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "db/d49/a21512.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "db/d49/a21512.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "db/d49/a21512.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "FilterTargets", "db/d49/a21512.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "db/d49/a21512.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "db/d49/a21512.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "db/d49/a21512.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

@@ -1,7 +1,7 @@
 var a17964 =
 [
-    [ "HandleScript", "de/dbb/a17964.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "de/dbb/a17964.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "de/dbb/a17964.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "de/dbb/a17964.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "PrepareSpellScript", "de/dbb/a17964.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "de/dbb/a17964.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "de/dbb/a17964.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "de/dbb/a17964.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

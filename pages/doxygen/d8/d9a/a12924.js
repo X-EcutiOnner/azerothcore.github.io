@@ -1,8 +1,8 @@
 var a12924 =
 [
-    [ "MajordomoAddData", "d8/d9a/a12924.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d8/d9a/a12924.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d8/d9a/a12924.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d8/d9a/a12924.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d8/d9a/a12924.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "npc_lava_spawn", "d8/d9a/a12924.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d8/d9a/a12924.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d8/d9a/a12924.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d8/d9a/a12924.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d8/d9a/a12924.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

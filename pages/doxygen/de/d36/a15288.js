@@ -1,12 +1,17 @@
 var a15288 =
 [
-    [ "boss_lieutenant_drake", "de/d36/a15288.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "de/d36/a15288.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "de/d36/a15288.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "de/d36/a15288.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "de/d36/a15288.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "de/d36/a15288.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "de/d36/a15288.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "de/d36/a15288.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "de/d36/a15288.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "npc_belnistraszAI", "de/d36/a15288.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
+    [ "JustDied", "de/d36/a15288.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
+    [ "JustEngagedWith", "de/d36/a15288.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
+    [ "JustExitedCombat", "de/d36/a15288.html#a070871d7ece3583ae5304cfdadd807b0", null ],
+    [ "MovementInform", "de/d36/a15288.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
+    [ "Reset", "de/d36/a15288.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
+    [ "sQuestAccept", "de/d36/a15288.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
+    [ "UpdateAI", "de/d36/a15288.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
+    [ "channeling", "de/d36/a15288.html#a88ff13ec705d11475de5a2080998c905", null ],
+    [ "eventInProgress", "de/d36/a15288.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
+    [ "eventProgress", "de/d36/a15288.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
+    [ "events", "de/d36/a15288.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
+    [ "instance", "de/d36/a15288.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
+    [ "spawnerCount", "de/d36/a15288.html#aa5124160ecba044a3752f68945068776", null ]
 ];

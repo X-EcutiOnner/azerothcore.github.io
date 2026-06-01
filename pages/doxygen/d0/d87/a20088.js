@@ -1,4 +1,6 @@
 var a20088 =
 [
-    [ "operator()", "d0/d87/a20088.html#aae8aeaabdecc3d8ff68c8764b166741d", null ]
+    [ "CheckCast", "d0/d87/a20088.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d0/d87/a20088.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d0/d87/a20088.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

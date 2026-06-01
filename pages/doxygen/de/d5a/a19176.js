@@ -1,7 +1,6 @@
 var a19176 =
 [
-    [ "Land", "de/d5a/a19176.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "de/d5a/a19176.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "de/d5a/a19176.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "de/d5a/a19176.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_ioc_gunship_captainAI", "d7/d06/a19180.html", "d7/d06/a19180" ],
+    [ "npc_ioc_gunship_captain", "de/d5a/a19176.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "de/d5a/a19176.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

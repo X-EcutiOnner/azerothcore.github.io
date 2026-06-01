@@ -1,6 +1,7 @@
 var a22344 =
 [
-    [ "HandleSummon", "d6/d20/a22344.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d6/d20/a22344.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d6/d20/a22344.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_voidtraveler", "d6/d20/a22344.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d6/d20/a22344.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d6/d20/a22344.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d6/d20/a22344.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

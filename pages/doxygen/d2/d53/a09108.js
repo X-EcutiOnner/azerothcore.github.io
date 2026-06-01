@@ -1,10 +1,13 @@
 var a09108 =
 [
-    [ "Flags", "d2/d53/a09108.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d2/d53/a09108.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d2/d53/a09108.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d2/d53/a09108.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d2/d53/a09108.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d2/d53/a09108.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d2/d53/a09108.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "BuildValuesCachePosPointers", "d2/d53/a09108.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
+    [ "ApplyOffset", "d2/d53/a09108.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
+    [ "other", "d2/d53/a09108.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
+    [ "UnitDynamicFlagsPos", "d2/d53/a09108.html#a230385a8646ebce01faaadce648b1a61", null ],
+    [ "UnitFieldAuraStatePos", "d2/d53/a09108.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
+    [ "UnitFieldBytes2Pos", "d2/d53/a09108.html#aa1df8492f0a3c576b067469ee3552796", null ],
+    [ "UnitFieldDisplayPos", "d2/d53/a09108.html#a1058d1650d656498f7dcd5139363a315", null ],
+    [ "UnitFieldFactionTemplatePos", "d2/d53/a09108.html#a9b8eae9da685231956dca3e92b845cbb", null ],
+    [ "UnitFieldFlagsPos", "d2/d53/a09108.html#a04e607123d1d1dde24611b573d25fedb", null ],
+    [ "UnitNPCFlagsPos", "d2/d53/a09108.html#aa9412413e1a867d1f3857d18f4d52906", null ]
 ];

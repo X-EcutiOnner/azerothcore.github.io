@@ -1,6 +1,7 @@
 var a25464 =
 [
-    [ "OnProc", "d0/d85/a25464.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d0/d85/a25464.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d0/d85/a25464.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleJump", "d0/d85/a25464.html#ac70f6d53e85af1ee2591e761e21872db", null ],
+    [ "HandleScriptEffect", "d0/d85/a25464.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
+    [ "PrepareSpellScript", "d0/d85/a25464.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
+    [ "Register", "d0/d85/a25464.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
 ];

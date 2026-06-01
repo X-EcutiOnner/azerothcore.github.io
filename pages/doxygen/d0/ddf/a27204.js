@@ -1,6 +1,6 @@
 var a27204 =
 [
-    [ "HandleScript", "d0/ddf/a27204.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d0/ddf/a27204.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d0/ddf/a27204.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "PeriodicTick", "d0/ddf/a27204.html#a8765e8f662c4279669c955108ff356e3", null ],
+    [ "PrepareAuraScript", "d0/ddf/a27204.html#a15f077618950e4526ffcee9ee172d89f", null ],
+    [ "Register", "d0/ddf/a27204.html#aeeca3a2be368025147702c4aa8c518ce", null ]
 ];

@@ -1,9 +1,7 @@
 var a11120 =
 [
-    [ "ItemEnchantTimeUpdate", "d7/d26/a11120.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
-    [ "Write", "d7/d26/a11120.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
-    [ "Duration", "d7/d26/a11120.html#ad576ce6011716519a70c6e00e0753a49", null ],
-    [ "ItemGuid", "d7/d26/a11120.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
-    [ "PlayerGuid", "d7/d26/a11120.html#a4623875e38909d8b7300e7d9c703b216", null ],
-    [ "Slot", "d7/d26/a11120.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
+    [ "GuildBankLogQueryResults", "d7/d26/a11120.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d7/d26/a11120.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d7/d26/a11120.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d7/d26/a11120.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

@@ -1,8 +1,22 @@
 var a09508 =
 [
-    [ "CreatureWorker", "d4/d0b/a09508.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d4/d0b/a09508.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d4/d0b/a09508.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d4/d0b/a09508.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d4/d0b/a09508.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "MapGridManager", "d4/d0b/a09508.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "d4/d0b/a09508.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "d4/d0b/a09508.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "d4/d0b/a09508.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "d4/d0b/a09508.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "d4/d0b/a09508.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "d4/d0b/a09508.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "d4/d0b/a09508.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "d4/d0b/a09508.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "d4/d0b/a09508.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "d4/d0b/a09508.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "d4/d0b/a09508.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "d4/d0b/a09508.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "d4/d0b/a09508.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "d4/d0b/a09508.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "d4/d0b/a09508.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "d4/d0b/a09508.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "d4/d0b/a09508.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "d4/d0b/a09508.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

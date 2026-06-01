@@ -1,6 +1,5 @@
 var a19124 =
 [
-    [ "npc_frostwing_vrykulAI", "d8/d76/a19128.html", "d8/d76/a19128" ],
-    [ "npc_frostwing_vrykul", "d9/d68/a19124.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "d9/d68/a19124.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "at_icc_spire_frostwyrm", "d9/d68/a19124.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d9/d68/a19124.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

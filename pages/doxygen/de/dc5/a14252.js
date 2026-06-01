@@ -1,7 +1,9 @@
 var a14252 =
 [
-    [ "npc_daphne_stilwellAI", "d2/d5a/a14256.html", "d2/d5a/a14256" ],
-    [ "npc_daphne_stilwell", "de/dc5/a14252.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "de/dc5/a14252.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "de/dc5/a14252.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_amanishi_lookout", "de/dc5/a14252.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "de/dc5/a14252.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "de/dc5/a14252.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "de/dc5/a14252.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "de/dc5/a14252.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "de/dc5/a14252.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

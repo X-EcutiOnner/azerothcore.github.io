@@ -1,8 +1,5 @@
 var a18984 =
 [
-    [ "npc_blistering_zombieAI", "db/da3/a18984.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "db/da3/a18984.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "db/da3/a18984.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "db/da3/a18984.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "db/da3/a18984.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "at_icc_saurfang_portal", "db/da3/a18984.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "db/da3/a18984.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

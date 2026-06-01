@@ -1,7 +1,5 @@
 var a22028 =
 [
-    [ "GetSeatNumber", "d6/d68/a22028.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d6/d68/a22028.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d6/d68/a22028.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d6/d68/a22028.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_wg_spirit_guideAI", "d6/d68/a22028.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d6/d68/a22028.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

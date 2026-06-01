@@ -1,6 +1,6 @@
 var a26836 =
 [
-    [ "FilterTargets", "da/d65/a26836.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "da/d65/a26836.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "da/d65/a26836.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "CheckRequirement", "da/d65/a26836.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
+    [ "PrepareSpellScript", "da/d65/a26836.html#a4263eebcb64f00152a4b64dafef20510", null ],
+    [ "Register", "da/d65/a26836.html#a8b825a97f50abb0231036a3ff651531d", null ]
 ];

@@ -1,7 +1,5 @@
 var a05280 =
 [
-    [ "WModelRayCallBack", "d5/de0/a05280.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "d5/de0/a05280.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "d5/de0/a05280.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "d5/de0/a05280.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "hitModel", "d5/de0/a05280.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
+    [ "rootId", "d5/de0/a05280.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
 ];

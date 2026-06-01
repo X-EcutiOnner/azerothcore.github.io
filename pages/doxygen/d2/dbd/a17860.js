@@ -1,6 +1,6 @@
 var a17860 =
 [
-    [ "FilterTargets", "d2/dbd/a17860.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d2/dbd/a17860.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d2/dbd/a17860.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "npc_gunship_mageAI", "db/d02/a17864.html", "db/d02/a17864" ],
+    [ "npc_gunship_mage", "d2/dbd/a17860.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "d2/dbd/a17860.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

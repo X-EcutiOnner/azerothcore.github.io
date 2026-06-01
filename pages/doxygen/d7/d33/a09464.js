@@ -1,13 +1,6 @@
 var a09464 =
 [
-    [ "WorldObjectWorker", "d7/d33/a09464.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d7/d33/a09464.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d7/d33/a09464.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d7/d33/a09464.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d7/d33/a09464.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d7/d33/a09464.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d7/d33/a09464.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d7/d33/a09464.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d7/d33/a09464.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d7/d33/a09464.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "AreaMapType", "d7/d33/a09464.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "d7/d33/a09464.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "d7/d33/a09464.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

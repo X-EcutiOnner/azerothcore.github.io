@@ -1,5 +1,5 @@
 var a09392 =
 [
-    [ "HolesType", "dc/d96/a09392.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "dc/d96/a09392.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "MaxAllowedCount", "dc/d96/a09392.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "dc/d96/a09392.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

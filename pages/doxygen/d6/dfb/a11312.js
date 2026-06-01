@@ -1,8 +1,8 @@
 var a11312 =
 [
-    [ "PetSpellAutocast", "d6/dfb/a11312.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d6/dfb/a11312.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d6/dfb/a11312.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d6/dfb/a11312.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d6/dfb/a11312.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "PauseMirrorTimer", "d6/dfb/a11312.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
+    [ "PauseMirrorTimer", "d6/dfb/a11312.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
+    [ "Write", "d6/dfb/a11312.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
+    [ "Paused", "d6/dfb/a11312.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
+    [ "Timer", "d6/dfb/a11312.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
 ];

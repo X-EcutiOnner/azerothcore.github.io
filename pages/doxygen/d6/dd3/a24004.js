@@ -1,6 +1,8 @@
 var a24004 =
 [
-    [ "go_magtheridons_head", "d6/dd3/a24004.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d6/dd3/a24004.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d6/dd3/a24004.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d6/dd3/a24004.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "CanAIAttack", "d6/dd3/a24004.html#a514fe49b143f57ef87359b3060911c02", null ],
+    [ "OwnerAttacked", "d6/dd3/a24004.html#ad5189df825dc917e59c9b19e4a84cded", null ],
+    [ "OwnerAttackedBy", "d6/dd3/a24004.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ],
+    [ "UpdateAI", "d6/dd3/a24004.html#ac44836f84d172dfac90dfb3eaaeeac6a", null ]
 ];

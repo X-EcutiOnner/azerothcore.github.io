@@ -1,6 +1,7 @@
 var a14208 =
 [
-    [ "boss_blight_wormAI", "d0/d30/a14212.html", "d0/d30/a14212" ],
-    [ "boss_blight_worm", "db/dc0/a14208.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "db/dc0/a14208.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_zuljin_vortex", "db/dc0/a14208.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "db/dc0/a14208.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "db/dc0/a14208.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "db/dc0/a14208.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

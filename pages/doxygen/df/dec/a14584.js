@@ -1,7 +1,10 @@
 var a14584 =
 [
-    [ "HandleApply", "df/dec/a14584.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
-    [ "HandleRemove", "df/dec/a14584.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
-    [ "PrepareAuraScript", "df/dec/a14584.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
-    [ "Register", "df/dec/a14584.html#af2343add2ed014832bd34d11519b391b", null ]
+    [ "npc_coren_direbrew_sisters", "df/dec/a14584.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "df/dec/a14584.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "df/dec/a14584.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "df/dec/a14584.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "df/dec/a14584.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "df/dec/a14584.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "df/dec/a14584.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

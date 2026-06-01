@@ -1,5 +1,5 @@
 var a29764 =
 [
-    [ "CalculateSpellTypeMask", "d2/d76/a29764.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "d2/d76/a29764.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "data1", "d2/d76/a29764.html#a4b0310994e24cce89269fe3dacfca1d6", null ],
+    [ "exist", "d2/d76/a29764.html#abdd6e3252b117c57a1e363217babd717", null ]
 ];

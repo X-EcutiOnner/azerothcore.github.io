@@ -1,7 +1,5 @@
 var a18688 =
 [
-    [ "HandleScript", "d3/d43/a18688.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d3/d43/a18688.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d3/d43/a18688.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d3/d43/a18688.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "achievement_neck_deep_in_vile", "d3/d43/a18688.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d3/d43/a18688.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

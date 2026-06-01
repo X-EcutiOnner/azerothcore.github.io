@@ -1,5 +1,7 @@
 var a24968 =
 [
-    [ "PrepareSpellScript", "dc/d30/a24968.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "dc/d30/a24968.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "HandleApplyEffect", "dc/d30/a24968.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "dc/d30/a24968.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "dc/d30/a24968.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "dc/d30/a24968.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

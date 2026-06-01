@@ -1,8 +1,6 @@
 var a19004 =
 [
-    [ "Load", "d9/ddd/a19004.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
-    [ "PeriodicTick", "d9/ddd/a19004.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
-    [ "PrepareAuraScript", "d9/ddd/a19004.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
-    [ "Register", "d9/ddd/a19004.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
-    [ "_instance", "d9/ddd/a19004.html#aebebb858f2ae41f2260d6843b3da8052", null ]
+    [ "HandleScript", "d9/ddd/a19004.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
+    [ "PrepareSpellScript", "d9/ddd/a19004.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
+    [ "Register", "d9/ddd/a19004.html#ad0c6d34103244cded41481c745dafe58", null ]
 ];

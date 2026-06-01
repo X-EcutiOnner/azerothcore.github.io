@@ -1,5 +1,9 @@
 var a23588 =
 [
-    [ "at_rp_nethekurse", "dc/d75/a23588.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "dc/d75/a23588.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "boss_nethermancer_sepethrea", "dc/d75/a23588.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "dc/d75/a23588.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "dc/d75/a23588.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "dc/d75/a23588.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "dc/d75/a23588.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "dc/d75/a23588.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

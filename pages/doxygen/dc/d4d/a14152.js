@@ -1,6 +1,7 @@
 var a14152 =
 [
-    [ "npc_tyrion_spybotAI", "de/d8a/a14156.html", "de/d8a/a14156" ],
-    [ "npc_tyrion_spybot", "dc/d4d/a14152.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
-    [ "GetAI", "dc/d4d/a14152.html#af81b70437703edc8d99fe24249891dd6", null ]
+    [ "Load", "dc/d4d/a14152.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "dc/d4d/a14152.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "dc/d4d/a14152.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "dc/d4d/a14152.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

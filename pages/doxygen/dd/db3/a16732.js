@@ -1,8 +1,6 @@
 var a16732 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dd/db3/a16732.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "dd/db3/a16732.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "dd/db3/a16732.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "dd/db3/a16732.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "dd/db3/a16732.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "npc_toc_paladinAI", "dd/d4b/a16736.html", "dd/d4b/a16736" ],
+    [ "npc_toc_paladin", "dd/db3/a16732.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "dd/db3/a16732.html#a15766ea4414701040c738251302177af", null ]
 ];

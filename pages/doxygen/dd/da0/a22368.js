@@ -1,5 +1,9 @@
 var a22368 =
 [
-    [ "achievement_wg_didnt_stand_a_chance", "dd/da0/a22368.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
-    [ "OnCheck", "dd/da0/a22368.html#ae575bae454689e05c161e8480a13fa18", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dd/da0/a22368.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "dd/da0/a22368.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "dd/da0/a22368.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "dd/da0/a22368.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "dd/da0/a22368.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "dd/da0/a22368.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

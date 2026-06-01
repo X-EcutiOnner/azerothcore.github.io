@@ -1,10 +1,6 @@
 var a12892 =
 [
-    [ "boss_golemaggAI", "d5/df0/a12892.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "d5/df0/a12892.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "d5/df0/a12892.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "d5/df0/a12892.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "d5/df0/a12892.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "d5/df0/a12892.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "d5/df0/a12892.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_shazzrah", "d5/df0/a12892.html#a9886c4c93017936beae1babacffa76a2", null ],
+    [ "ExecuteEvent", "d5/df0/a12892.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
+    [ "JustEngagedWith", "d5/df0/a12892.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
 ];

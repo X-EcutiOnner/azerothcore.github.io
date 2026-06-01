@@ -1,6 +1,6 @@
 var a27100 =
 [
-    [ "HandleDummy", "db/d9a/a27100.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "db/d9a/a27100.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "db/d9a/a27100.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "FilterTargets", "db/d9a/a27100.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "db/d9a/a27100.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "db/d9a/a27100.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

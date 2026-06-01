@@ -1,6 +1,6 @@
 var a23836 =
 [
-    [ "instance_the_eye_InstanceMapScript", "d6/da0/a23840.html", "d6/da0/a23840" ],
-    [ "instance_the_eye", "d7/db3/a23836.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d7/db3/a23836.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "npc_dragonmaw_peonAI", "d6/da0/a23840.html", "d6/da0/a23840" ],
+    [ "npc_dragonmaw_peon", "d7/db3/a23836.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d7/db3/a23836.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

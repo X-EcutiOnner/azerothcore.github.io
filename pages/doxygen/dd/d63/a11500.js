@@ -1,5 +1,5 @@
 var a11500 =
 [
-    [ "SocketAdded", "dd/d63/a11500.html#a01090d6713f49dc026f77f8481b492cb", null ],
-    [ "SocketRemoved", "dd/d63/a11500.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
+    [ "PacketHandler", "dd/d63/a11500.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "dd/d63/a11500.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

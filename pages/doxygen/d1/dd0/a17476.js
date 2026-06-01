@@ -1,7 +1,6 @@
 var a17476 =
 [
-    [ "HandlePeriodicTick", "d1/dd0/a17476.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d1/dd0/a17476.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d1/dd0/a17476.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d1/dd0/a17476.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "boss_slad_ranAI", "d9/d40/a17480.html", "d9/d40/a17480" ],
+    [ "boss_slad_ran", "d1/dd0/a17476.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d1/dd0/a17476.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

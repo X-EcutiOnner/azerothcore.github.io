@@ -1,9 +1,8 @@
 var a17904 =
 [
-    [ "CheckProc", "d1/d0e/a17904.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d1/d0e/a17904.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d1/d0e/a17904.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d1/d0e/a17904.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d1/d0e/a17904.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d1/d0e/a17904.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "Load", "d1/d0e/a17904.html#ad1105149d5e42318382af6c07149d522", null ],
+    [ "PeriodicTick", "d1/d0e/a17904.html#a8e675178256746d08af50a6b75ec582e", null ],
+    [ "PrepareAuraScript", "d1/d0e/a17904.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
+    [ "Register", "d1/d0e/a17904.html#a0fa7d86214827711edd019dd3b40c667", null ],
+    [ "_tickNo", "d1/d0e/a17904.html#a418212d2daa873d69a83b4c1341a8903", null ]
 ];

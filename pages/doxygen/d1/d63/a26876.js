@@ -1,7 +1,6 @@
 var a26876 =
 [
-    [ "HandleProc", "d1/d63/a26876.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "d1/d63/a26876.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "d1/d63/a26876.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "d1/d63/a26876.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "HandleEffectPeriodic", "d1/d63/a26876.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
+    [ "PrepareAuraScript", "d1/d63/a26876.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
+    [ "Register", "d1/d63/a26876.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
 ];

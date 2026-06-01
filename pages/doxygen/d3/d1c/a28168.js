@@ -1,7 +1,6 @@
 var a28168 =
 [
-    [ "go_brewfest_musicAI", "d3/d1c/a28168.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "d3/d1c/a28168.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "d3/d1c/a28168.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "d3/d1c/a28168.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "npc_garments_of_questsAI", "d8/d74/a28172.html", "d8/d74/a28172" ],
+    [ "npc_garments_of_quests", "d3/d1c/a28168.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d3/d1c/a28168.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

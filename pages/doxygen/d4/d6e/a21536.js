@@ -1,7 +1,6 @@
 var a21536 =
 [
-    [ "npc_bonker_togglevoltAI", "dd/dd0/a21540.html", "dd/dd0/a21540" ],
-    [ "npc_bonker_togglevolt", "d4/d6e/a21536.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "d4/d6e/a21536.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "d4/d6e/a21536.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_spiritual_insightAI", "d4/d6e/a21536.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d4/d6e/a21536.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d4/d6e/a21536.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

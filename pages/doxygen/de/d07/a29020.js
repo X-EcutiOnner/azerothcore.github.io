@@ -1,14 +1,11 @@
 var a29020 =
 [
-    [ "HasFlag", "de/d07/a29020.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "alliance", "de/d07/a29020.html#a44c3824aef4f4724c189727f12801a5b", null ],
-    [ "CinematicSequence", "de/d07/a29020.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "de/d07/a29020.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "de/d07/a29020.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "de/d07/a29020.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "de/d07/a29020.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "de/d07/a29020.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "de/d07/a29020.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "de/d07/a29020.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "de/d07/a29020.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "addToSpellBook", "de/d07/a29020.html#ad312934d24abcc78c02d50cc5cb5403f", null ],
+    [ "Col", "de/d07/a29020.html#a0bc589c5b1425d5e889cd290b805169e", null ],
+    [ "DependsOn", "de/d07/a29020.html#a7b1aa1384777b8d94dceed3c387bb628", null ],
+    [ "DependsOnRank", "de/d07/a29020.html#a608f232669981da3423b959479ca8683", null ],
+    [ "RankID", "de/d07/a29020.html#a96d0fd120ed3aa7fbd287d104fd87c26", null ],
+    [ "Row", "de/d07/a29020.html#a136b889d2e8875b01fc7aa2be06847ac", null ],
+    [ "TalentID", "de/d07/a29020.html#aa769574106b0e5afdbc7c71c51c3b9a2", null ],
+    [ "TalentTab", "de/d07/a29020.html#acefe6f8c0a5b3893e2a9f828d500df68", null ]
 ];

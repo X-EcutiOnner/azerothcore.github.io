@@ -1,9 +1,6 @@
 var a14488 =
 [
-    [ "boss_hazzarah", "d5/dac/a14488.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d5/dac/a14488.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d5/dac/a14488.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d5/dac/a14488.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d5/dac/a14488.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d5/dac/a14488.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "boss_wushoolayAI", "d5/dac/a14488.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d5/dac/a14488.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d5/dac/a14488.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

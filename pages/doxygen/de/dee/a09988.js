@@ -1,8 +1,5 @@
 var a09988 =
 [
-    [ "ServerMailCondition", "de/dee/a09988.html#a2ee7d2f3587159c95883fe32674cb586", null ],
-    [ "CheckCondition", "de/dee/a09988.html#a3c223658629357f05d8879555717f624", null ],
-    [ "state", "de/dee/a09988.html#a309f739872afaf644331335b27649561", null ],
-    [ "type", "de/dee/a09988.html#a3b318e7743ca48fcf8ba849398a06968", null ],
-    [ "value", "de/dee/a09988.html#af709199aed99633cc70d9118ee4fd4fc", null ]
+    [ "entry", "de/dee/a09988.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "de/dee/a09988.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

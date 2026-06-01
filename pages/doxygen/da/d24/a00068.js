@@ -1,33 +1,43 @@
 var a00068 =
 [
-    [ "SpellProcEquipmentTest", "dd/d72/a29538.html", "dd/d72/a29538" ],
-    [ "TEST_F", "da/d24/a00068.html#a7767386979d852a619b6dbe82c19c6dd", null ],
-    [ "TEST_F", "da/d24/a00068.html#a3ac72f13b7b7e3dd06a4a2233e0aeba0", null ],
-    [ "TEST_F", "da/d24/a00068.html#a4ca0ffbde2d44686616ebf1bb9a7b59e", null ],
-    [ "TEST_F", "da/d24/a00068.html#a38f6adc593e63ffbe81a955a145252b5", null ],
-    [ "TEST_F", "da/d24/a00068.html#a9c3a0682e324a2a8779939d12357aee4", null ],
-    [ "TEST_F", "da/d24/a00068.html#a1c1a392431b379bb8add03a542f6266e", null ],
-    [ "TEST_F", "da/d24/a00068.html#a5a02ad41e8c2496c404229ab9fabe30a", null ],
-    [ "TEST_F", "da/d24/a00068.html#a9dc67df2d3b729985c729fdbcf0c2af0", null ],
-    [ "TEST_F", "da/d24/a00068.html#ace39e46c5d8aa496edf55827a45ab831", null ],
-    [ "TEST_F", "da/d24/a00068.html#aa5ab5594e4cc85dab1e756dfa063cdd7", null ],
-    [ "TEST_F", "da/d24/a00068.html#a2f54777bb68422618b3d7d5b0ff645e5", null ],
-    [ "TEST_F", "da/d24/a00068.html#a9b1b2f9c2ec8710cd92e02376c5b8b56", null ],
-    [ "TEST_F", "da/d24/a00068.html#ae98f34a798ccbe023ff60c740baf668c", null ],
-    [ "TEST_F", "da/d24/a00068.html#a54a1f7f841d77484dea2bb6220b78752", null ],
-    [ "TEST_F", "da/d24/a00068.html#a5a79ba391a641fd95efc3b6af237e3f1", null ],
-    [ "TEST_F", "da/d24/a00068.html#a8206c776b9fa437f90738f7a26407dd3", null ],
-    [ "TEST_F", "da/d24/a00068.html#ab5cd85585dc936ec2fb5a0b22c8cc838", null ],
-    [ "TEST_F", "da/d24/a00068.html#a3b75afb0407abe3b5beac5a91e7052aa", null ],
-    [ "TEST_F", "da/d24/a00068.html#a8fcc51445a9700485ee8b28376c6c117", null ],
-    [ "TEST_F", "da/d24/a00068.html#a0d10e4d4c80379c0962d1682186936ef", null ],
-    [ "TEST_F", "da/d24/a00068.html#a826e1a2b9df391b416c0bf8d9586a5ad", null ],
-    [ "TEST_F", "da/d24/a00068.html#a56006585b0a2ca26e4138423161a620a", null ],
-    [ "TEST_F", "da/d24/a00068.html#ae6e67189670b8ff19e187042fc35b9f1", null ],
-    [ "TEST_F", "da/d24/a00068.html#a2749d0569090c64db21f620036c70c0c", null ],
-    [ "TEST_F", "da/d24/a00068.html#a25e1efe050d37679915c74c34d832fad", null ],
-    [ "TEST_F", "da/d24/a00068.html#a1dedc3c517abe627a4a17990df4b62d2", null ],
-    [ "TEST_F", "da/d24/a00068.html#a90735b3ce2720109328c57102ce1e440", null ],
-    [ "TEST_F", "da/d24/a00068.html#a6b0aebac05d10989c3fef6121de2aaab", null ],
-    [ "TEST_F", "da/d24/a00068.html#a1a26fcf5fd7d3724aa24e7a8cea3f510", null ]
+    [ "instance_sunwell_plateau", "d0/d6a/a13816.html", "d0/d6a/a13816" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "de/db6/a13820.html", "de/db6/a13820" ],
+    [ "spell_cataclysm_breath", "d7/d67/a13824.html", "d7/d67/a13824" ],
+    [ "npc_sunblade_scout", "d7/d4d/a13828.html", "d7/d4d/a13828" ],
+    [ "spell_sunwell_teleport", "df/d98/a13832.html", "df/d98/a13832" ],
+    [ "npc_sunblade_arch_mage", "db/d55/a13836.html", "db/d55/a13836" ],
+    [ "spell_spell_fury_aura", "db/dde/a13840.html", "db/dde/a13840" ],
+    [ "cataclysmBreath", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901c", [
+      [ "SPELL_CORROSIVE_POISON", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
+      [ "SPELL_FEVERED_FATIGUE", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],
+      [ "SPELL_HEX", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b", null ],
+      [ "SPELL_NECROTIC_POISON", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b", null ],
+      [ "SPELL_PIERCING_SHADOW", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d", null ],
+      [ "SPELL_SHRINK", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f", null ],
+      [ "SPELL_WAVERING_WILL", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8", null ],
+      [ "SPELL_WITHERED_TOUCH", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b", null ]
+    ] ],
+    [ "SunbladeArchMageSpells", "da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8", [
+      [ "SPELL_ARCANE_EXPLOSION", "da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_BLINK", "da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a", null ],
+      [ "SPELL_FROST_NOVA", "da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03", null ]
+    ] ],
+    [ "SunbladeScout", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bc", [
+      [ "NPC_SUNBLADE_PROTECTOR", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3", null ],
+      [ "SAY_AGGRO", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SPELL_ACTIVATE_SUNBLADE_PROTECTOR", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664", null ],
+      [ "SPELL_COSMETIC_STUN_IMMUNE_PERMANENT", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff", null ],
+      [ "SPELL_FELBLOOD_CHANNEL", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd", null ],
+      [ "SPELL_SINISTER_STRIKE", "da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7", null ]
+    ] ],
+    [ "SunwellTeleportSpells", "da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216", [
+      [ "SPELL_TELEPORT_TO_APEX_POINT", "da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b", null ],
+      [ "SPELL_TELEPORT_TO_WITCHS_SANCTUM", "da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368", null ],
+      [ "SPELL_TELEPORT_TO_SUNWELL_PLATEAU", "da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e", null ]
+    ] ],
+    [ "AddSC_instance_sunwell_plateau", "da/d24/a00068.html#a6f050a93b62a1391ae6321d1d2d6450a", null ],
+    [ "creatureData", "da/d24/a00068.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "da/d24/a00068.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "da/d24/a00068.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "summonData", "da/d24/a00068.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

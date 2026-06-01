@@ -1,9 +1,12 @@
 var a22264 =
 [
-    [ "HandlePeriodic", "d9/d11/a22264.html#a0943e7887ff935ccea21d913429e25a0", null ],
-    [ "OnRemove", "d9/d11/a22264.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
-    [ "PrepareAuraScript", "d9/d11/a22264.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
-    [ "Register", "d9/d11/a22264.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
-    [ "_tickNumber", "d9/d11/a22264.html#a3f8943e288e96f639fb805869749879b", null ],
-    [ "_warning", "d9/d11/a22264.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
+    [ "boss_shirrak_the_dead_watcher", "d9/d11/a22264.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d9/d11/a22264.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d9/d11/a22264.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d9/d11/a22264.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d9/d11/a22264.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d9/d11/a22264.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d9/d11/a22264.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d9/d11/a22264.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d9/d11/a22264.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

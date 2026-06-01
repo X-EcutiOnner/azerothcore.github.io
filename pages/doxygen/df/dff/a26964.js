@@ -1,6 +1,6 @@
 var a26964 =
 [
-    [ "HandleScriptEffect", "df/dff/a26964.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "df/dff/a26964.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "df/dff/a26964.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "DoAfterHit", "df/dff/a26964.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "df/dff/a26964.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "df/dff/a26964.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

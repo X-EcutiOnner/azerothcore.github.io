@@ -1,7 +1,6 @@
 var a17852 =
 [
-    [ "OnProc", "d9/d77/a17852.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d9/d77/a17852.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d9/d77/a17852.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d9/d77/a17852.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "npc_gunship_boarding_add_realAI", "dc/d75/a17856.html", "dc/d75/a17856" ],
+    [ "npc_gunship_boarding_add", "d9/d77/a17852.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "d9/d77/a17852.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

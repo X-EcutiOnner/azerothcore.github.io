@@ -1,7 +1,8 @@
 var a29616 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d0/d67/a29616.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d0/d67/a29616.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d0/d67/a29616.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d0/d67/a29616.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "prepareLoadedData", "d0/d67/a29616.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "d0/d67/a29616.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "d0/d67/a29616.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "d0/d67/a29616.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "d0/d67/a29616.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

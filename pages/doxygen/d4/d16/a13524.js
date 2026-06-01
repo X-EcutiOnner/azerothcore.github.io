@@ -1,6 +1,6 @@
 var a13524 =
 [
-    [ "npc_valkyr_battle_maidenAI", "dc/deb/a13528.html", "dc/deb/a13528" ],
-    [ "npc_valkyr_battle_maiden", "d4/d16/a13524.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d4/d16/a13524.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dc/deb/a13528.html", "dc/deb/a13528" ],
+    [ "instance_shadowfang_keep", "d4/d16/a13524.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "d4/d16/a13524.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

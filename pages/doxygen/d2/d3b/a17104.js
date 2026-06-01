@@ -1,6 +1,9 @@
 var a17104 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d7/d0d/a17108.html", "d7/d0d/a17108" ],
-    [ "instance_trial_of_the_crusader", "d2/d3b/a17104.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d2/d3b/a17104.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "HandlePeriodicTick", "d2/d3b/a17104.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d2/d3b/a17104.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d2/d3b/a17104.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d2/d3b/a17104.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d2/d3b/a17104.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d2/d3b/a17104.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

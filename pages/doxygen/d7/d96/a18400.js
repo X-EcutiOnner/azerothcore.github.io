@@ -1,6 +1,6 @@
 var a18400 =
 [
-    [ "ExtraEffect", "d7/d96/a18400.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d7/d96/a18400.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d7/d96/a18400.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "OrderWhelpTargetSelector", "d7/d96/a18400.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d7/d96/a18400.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d7/d96/a18400.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

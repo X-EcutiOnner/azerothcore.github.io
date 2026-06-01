@@ -1,6 +1,8 @@
 var a25640 =
 [
-    [ "HandleStackDrop", "de/ddc/a25640.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "de/ddc/a25640.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "de/ddc/a25640.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "CheckProc", "de/ddc/a25640.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "de/ddc/a25640.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "de/ddc/a25640.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "de/ddc/a25640.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "de/ddc/a25640.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

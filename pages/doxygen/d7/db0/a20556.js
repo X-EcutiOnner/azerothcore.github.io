@@ -1,6 +1,6 @@
 var a20556 =
 [
-    [ "FilterTargets", "d7/db0/a20556.html#ae8d940a89be9b63286911bd55dcd3844", null ],
-    [ "PrepareSpellScript", "d7/db0/a20556.html#a8f4b4d82e53c8f820b620896478681a9", null ],
-    [ "Register", "d7/db0/a20556.html#a744d5cb8de927410ab1bf72008fff8b3", null ]
+    [ "OnPeriodic", "d7/db0/a20556.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "d7/db0/a20556.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "d7/db0/a20556.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

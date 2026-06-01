@@ -1,12 +1,9 @@
 var a06348 =
 [
-    [ "TotemAI", "d3/d73/a06348.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "d3/d73/a06348.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "d3/d73/a06348.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "d3/d73/a06348.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "d3/d73/a06348.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "d3/d73/a06348.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "d3/d73/a06348.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "d3/d73/a06348.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "d3/d73/a06348.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "itemId", "d3/d73/a06348.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d3/d73/a06348.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d3/d73/a06348.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d3/d73/a06348.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d3/d73/a06348.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d3/d73/a06348.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

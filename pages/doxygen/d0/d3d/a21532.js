@@ -1,7 +1,6 @@
 var a21532 =
 [
-    [ "npc_mootoo_the_youngerAI", "d0/d3d/a21532.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "d0/d3d/a21532.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "d0/d3d/a21532.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "d0/d3d/a21532.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_spiritual_insightAI", "d4/d6e/a21536.html", "d4/d6e/a21536" ],
+    [ "npc_spiritual_insight", "d0/d3d/a21532.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d0/d3d/a21532.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

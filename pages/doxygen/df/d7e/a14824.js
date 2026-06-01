@@ -1,13 +1,17 @@
 var a14824 =
 [
-    [ "npc_costumed_orphan_matron", "df/d7e/a14824.html#a0b913090588613ac00ea928f6273d56f", null ],
-    [ "DoAction", "df/d7e/a14824.html#a7a7739f89604ffb5afc6bab75118340e", null ],
-    [ "GetInitXYZ", "df/d7e/a14824.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
-    [ "Reset", "df/d7e/a14824.html#a962de50b13079f3337c4e41eb2d98b55", null ],
-    [ "sGossipHello", "df/d7e/a14824.html#a1a9c58c087b8addf8e482375737d6c49", null ],
-    [ "sQuestAccept", "df/d7e/a14824.html#adac5d514261a210a701442da13ba1587", null ],
-    [ "UpdateAI", "df/d7e/a14824.html#a4679d807df8749265ba0453c5b7588f1", null ],
-    [ "allowQuest", "df/d7e/a14824.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
-    [ "eventStarted", "df/d7e/a14824.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
-    [ "horseGUID", "df/d7e/a14824.html#a92cfd09cefd26933ae322f2cc2716927", null ]
+    [ "npc_midsummer_ribbon_pole_target", "df/d7e/a14824.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
+    [ "DoCleanupChecks", "df/d7e/a14824.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
+    [ "DoDancingFLameChecks", "df/d7e/a14824.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
+    [ "DoFireworkChecks", "df/d7e/a14824.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
+    [ "DoFlameCircleChecks", "df/d7e/a14824.html#af37e104b67dcf9a2c181c142d56cc708", null ],
+    [ "DoGroundFlowerChecks", "df/d7e/a14824.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
+    [ "DoSpewLavaChecks", "df/d7e/a14824.html#a94086429fe5cf506c64ea79ebcf03317", null ],
+    [ "LocateRibbonPole", "df/d7e/a14824.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
+    [ "SpawnFireSpiralBunny", "df/d7e/a14824.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
+    [ "SpellHit", "df/d7e/a14824.html#ab732995946655894611eb1c12ce4e8a8", null ],
+    [ "UpdateAI", "df/d7e/a14824.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
+    [ "_bunny", "df/d7e/a14824.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
+    [ "_dancerList", "df/d7e/a14824.html#a41e453f742a06bc7485e290756dbc746", null ],
+    [ "_ribbonPole", "df/d7e/a14824.html#aeea38608ae98cd5597c104ea04e32523", null ]
 ];

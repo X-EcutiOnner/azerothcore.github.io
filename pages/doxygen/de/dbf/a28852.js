@@ -1,12 +1,6 @@
 var a28852 =
 [
-    [ "ApplyGmVisibleState", "de/dbf/a28852.html#a3deb6c8e282913959275b537bb748860", null ],
-    [ "EnsureScriptRegistriesInitialized", "de/dbf/a28852.html#a4238366c75dd8889993888e4e8bce5a2", null ],
-    [ "ExecuteCommand", "de/dbf/a28852.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
-    [ "SetUp", "de/dbf/a28852.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "TearDown", "de/dbf/a28852.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "de/dbf/a28852.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "de/dbf/a28852.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "de/dbf/a28852.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "de/dbf/a28852.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "Enchantment", "de/dbf/a28852.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "de/dbf/a28852.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "de/dbf/a28852.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

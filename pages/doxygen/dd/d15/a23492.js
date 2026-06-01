@@ -1,12 +1,6 @@
 var a23492 =
 [
-    [ "boss_omor_the_unscarred", "dd/d15/a23492.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "dd/d15/a23492.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "dd/d15/a23492.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "dd/d15/a23492.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "dd/d15/a23492.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "dd/d15/a23492.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "dd/d15/a23492.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "dd/d15/a23492.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "dd/d15/a23492.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "npc_capernian", "dd/d15/a23492.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "dd/d15/a23492.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "dd/d15/a23492.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

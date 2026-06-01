@@ -1,11 +1,13 @@
 var a08296 =
 [
-    [ "AddItem", "de/d19/a08296.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
-    [ "Clear", "de/d19/a08296.html#a70c7400c4bc60923fd538890774445de", null ],
-    [ "Empty", "de/d19/a08296.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
-    [ "FindItemCostPair", "de/d19/a08296.html#a61dc4394afdd3a360559ffec1655c343", null ],
-    [ "GetItem", "de/d19/a08296.html#aa764da5b4647c84813e3aa6b46de7593", null ],
-    [ "GetItemCount", "de/d19/a08296.html#ae80634592ce705c77c5aa53960f89c24", null ],
-    [ "RemoveItem", "de/d19/a08296.html#a974925f2979910348a0af795893b310b", null ],
-    [ "m_items", "de/d19/a08296.html#aa16668e54fce8fffe8651644cdef4335", null ]
+    [ "LfgQueueData", "de/d19/a08296.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "de/d19/a08296.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "de/d19/a08296.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "de/d19/a08296.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "de/d19/a08296.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "de/d19/a08296.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "de/d19/a08296.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "de/d19/a08296.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "de/d19/a08296.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "de/d19/a08296.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

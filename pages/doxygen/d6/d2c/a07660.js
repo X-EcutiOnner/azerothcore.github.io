@@ -1,10 +1,12 @@
 var a07660 =
 [
-    [ "BattlegroundRL", "d6/d2c/a07660.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "d6/d2c/a07660.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "d6/d2c/a07660.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "d6/d2c/a07660.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "d6/d2c/a07660.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "d6/d2c/a07660.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "d6/d2c/a07660.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "BGQueueRemoveEvent", "d6/d2c/a07660.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "d6/d2c/a07660.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "d6/d2c/a07660.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "d6/d2c/a07660.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "d6/d2c/a07660.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "d6/d2c/a07660.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "d6/d2c/a07660.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "d6/d2c/a07660.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "d6/d2c/a07660.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

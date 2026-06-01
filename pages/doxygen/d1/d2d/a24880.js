@@ -1,7 +1,10 @@
 var a24880 =
 [
-    [ "HandleProc", "d1/d2d/a24880.html#ad47d6005c7fafce9fe5941d4c05cd6d0", null ],
-    [ "PrepareAuraScript", "d1/d2d/a24880.html#afdfb44a437afb1329794fe4d0e8d3874", null ],
-    [ "Register", "d1/d2d/a24880.html#a87e742cdb4d12b287607d8d7cb00e84b", null ],
-    [ "Validate", "d1/d2d/a24880.html#a92286b3f92c332165ba5d850c7f1ec9b", null ]
+    [ "Load", "d1/d2d/a24880.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d1/d2d/a24880.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d1/d2d/a24880.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d1/d2d/a24880.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d1/d2d/a24880.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d1/d2d/a24880.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d1/d2d/a24880.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

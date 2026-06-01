@@ -1,6 +1,8 @@
 var a18668 =
 [
-    [ "boss_the_lich_kingAI", "d2/d36/a18672.html", "d2/d36/a18672" ],
-    [ "boss_the_lich_king", "d0/de3/a18668.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d0/de3/a18668.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "npc_lk_spirit_bombAI", "d0/de3/a18668.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "d0/de3/a18668.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "d0/de3/a18668.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "d0/de3/a18668.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "d0/de3/a18668.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

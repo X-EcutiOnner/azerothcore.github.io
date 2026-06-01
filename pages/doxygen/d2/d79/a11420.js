@@ -1,12 +1,6 @@
 var a11420 =
 [
-    [ "PacketLog", "d2/d79/a11420.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d2/d79/a11420.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d2/d79/a11420.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d2/d79/a11420.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d2/d79/a11420.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d2/d79/a11420.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d2/d79/a11420.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d2/d79/a11420.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d2/d79/a11420.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "DismissCritter", "d2/d79/a11420.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d2/d79/a11420.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d2/d79/a11420.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

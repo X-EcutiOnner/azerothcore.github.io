@@ -1,6 +1,6 @@
 var a25836 =
 [
-    [ "HandleProc", "de/d43/a25836.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "de/d43/a25836.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "de/d43/a25836.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "HandleOpenObject", "de/d43/a25836.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "de/d43/a25836.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "de/d43/a25836.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

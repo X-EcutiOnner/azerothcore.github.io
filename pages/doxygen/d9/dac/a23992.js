@@ -1,11 +1,21 @@
 var a23992 =
 [
-    [ "npc_magister_aledis", "d9/dac/a23992.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d9/dac/a23992.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d9/dac/a23992.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d9/dac/a23992.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d9/dac/a23992.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d9/dac/a23992.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d9/dac/a23992.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d9/dac/a23992.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_pet_dk_ebon_gargoyle", "d9/dac/a23992.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
+    [ "AttackStart", "d9/dac/a23992.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "EnterEvadeMode", "d9/dac/a23992.html#a73e70d9deaa647edd2904dae180c9cef", null ],
+    [ "FlyAway", "d9/dac/a23992.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
+    [ "InitializeAI", "d9/dac/a23992.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "JustExitedCombat", "d9/dac/a23992.html#a980844a2d503761efe7e7cacef35bef1", null ],
+    [ "MovementInform", "d9/dac/a23992.html#a33e0260425cf179daae147bfc1a570b4", null ],
+    [ "MySelectNextTarget", "d9/dac/a23992.html#af86f48070b8c329c6a6a3f43d0156273", null ],
+    [ "RemoveTargetAura", "d9/dac/a23992.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
+    [ "Reset", "d9/dac/a23992.html#aa719acf874e7588ed6b73c437fb6765b", null ],
+    [ "UpdateAI", "d9/dac/a23992.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "d9/dac/a23992.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
+    [ "_despawning", "d9/dac/a23992.html#abca2ddc0628899b0c5bd35210e303d00", null ],
+    [ "_despawnTimer", "d9/dac/a23992.html#a8135321f4e5c01dc71e13f719e43d056", null ],
+    [ "_initialCastTimer", "d9/dac/a23992.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
+    [ "_initialSelection", "d9/dac/a23992.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
+    [ "_selectionTimer", "d9/dac/a23992.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
+    [ "_targetGUID", "d9/dac/a23992.html#a8299788ca453930977a605a2766d9e8d", null ]
 ];

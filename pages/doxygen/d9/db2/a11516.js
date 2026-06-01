@@ -1,8 +1,6 @@
 var a11516 =
 [
-    [ "SkillExtraItemEntry", "d9/db2/a11516.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d9/db2/a11516.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d9/db2/a11516.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d9/db2/a11516.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d9/db2/a11516.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "ClientOpcodeHandler", "dc/d61/a05028.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
+    [ "Call", "dc/d61/a05028.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
+    [ "ProcessingPlace", "dc/d61/a05028.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
 ];

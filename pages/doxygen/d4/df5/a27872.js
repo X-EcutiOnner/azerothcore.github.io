@@ -1,6 +1,6 @@
 var a27872 =
 [
-    [ "HandleOnHit", "d4/df5/a27872.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d4/df5/a27872.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d4/df5/a27872.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "go_midsummer_musicAI", "d4/df5/a27872.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "d4/df5/a27872.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "d4/df5/a27872.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

@@ -1,7 +1,6 @@
 var a24020 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d1/de0/a24020.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d1/de0/a24020.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d1/de0/a24020.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d1/de0/a24020.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "achievement", "d1/de0/a24020.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d1/de0/a24020.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d1/de0/a24020.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

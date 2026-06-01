@@ -1,20 +1,11 @@
 var a14648 =
 [
-    [ "npc_dark_iron_attack_generator", "d3/daa/a14648.html#aef208e008b00af62710c8479bf7b6618", null ],
-    [ "AllowStart", "d3/daa/a14648.html#a4c0bdf682ced38cd1555ac6c6dd82361", null ],
-    [ "FinishAttackDueToWin", "d3/daa/a14648.html#abe15db24f6cd2c0c4c7fb5572635f09a", null ],
-    [ "FinishEventDueToLoss", "d3/daa/a14648.html#ab2dc568f820e3b0b7c863f83e6ca45fc", null ],
-    [ "GetRandomBartender", "d3/daa/a14648.html#aefe0e7e40ca5aad089aa27c5151e01fa", null ],
-    [ "JustEngagedWith", "d3/daa/a14648.html#a7588ef6382ae081d76423f8233667c5b", null ],
-    [ "MoveInLineOfSight", "d3/daa/a14648.html#ae21b69752a1e45eeef318ccf1e5a3b24", null ],
-    [ "PrepareEvent", "d3/daa/a14648.html#a4371fcc13d221b843275d1d0e7f896fb", null ],
-    [ "Reset", "d3/daa/a14648.html#ab9b3a7d524b8764ef9d00dac3ea75418", null ],
-    [ "SpellHit", "d3/daa/a14648.html#a829946c679b3eff97b1eb3ede6cd91d8", null ],
-    [ "UpdateAI", "d3/daa/a14648.html#a1038fdc5453c78ebaef26b305be23963", null ],
-    [ "events", "d3/daa/a14648.html#a6692f1a74acae5ddebbe8dc8790db07a", null ],
-    [ "guzzlerCounter", "d3/daa/a14648.html#a1a5cc21ee54e3d8d7acb1e3235d4e427", null ],
-    [ "kegCounter", "d3/daa/a14648.html#a3282d8a556e6e3b84a9597c317722d8e", null ],
-    [ "revelerGUIDs", "d3/daa/a14648.html#a873ec2bf87b3d616e60d26aa561258bf", null ],
-    [ "summons", "d3/daa/a14648.html#a5ac0502b880031c937f915a7dbca2262", null ],
-    [ "thrown", "d3/daa/a14648.html#ac372ce0664ec10b7f60026fa808a74d0", null ]
+    [ "npc_the_etymidian", "d3/daa/a14648.html#af491016ac89b67947650a5ca9c379875", null ],
+    [ "MoveInLineOfSight", "d3/daa/a14648.html#adde2d86e30442eb1b47219e934e24407", null ],
+    [ "Reset", "d3/daa/a14648.html#a714edf3ba5f7a6d59242c991764effc5", null ],
+    [ "UpdateAI", "d3/daa/a14648.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
+    [ "orphanGUID", "d3/daa/a14648.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
+    [ "phase", "d3/daa/a14648.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
+    [ "playerGUID", "d3/daa/a14648.html#a7371e361c018360315e20086b0b99079", null ],
+    [ "timer", "d3/daa/a14648.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
 ];

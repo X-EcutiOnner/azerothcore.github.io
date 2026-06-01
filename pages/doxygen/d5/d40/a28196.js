@@ -1,6 +1,8 @@
 var a28196 =
 [
-    [ "go_gilded_brazierAI", "d5/dad/a28200.html", "d5/dad/a28200" ],
-    [ "go_gilded_brazier", "d5/d40/a28196.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d5/d40/a28196.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "npc_wormholeAI", "d5/dad/a28200.html", "d5/dad/a28200" ],
+    [ "npc_wormhole", "d5/d40/a28196.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "d5/d40/a28196.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "d5/d40/a28196.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "d5/d40/a28196.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

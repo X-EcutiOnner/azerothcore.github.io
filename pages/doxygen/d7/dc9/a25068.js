@@ -1,6 +1,6 @@
 var a25068 =
 [
-    [ "OnPeriodic", "d7/dc9/a25068.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d7/dc9/a25068.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d7/dc9/a25068.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckRequirement", "d7/dc9/a25068.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d7/dc9/a25068.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d7/dc9/a25068.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

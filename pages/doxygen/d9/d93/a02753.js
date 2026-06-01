@@ -1,8 +1,5 @@
 var a02753 =
 [
-    [ "PingOperation", "dd/d5d/a05998.html", "dd/d5d/a05998" ],
-    [ "DatabaseIncompatibleVersion", "d9/d93/a02753.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
-    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "d9/d93/a02753.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
-    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "d9/d93/a02753.html#a8751940b74a554bf0a86046325e0c5ed", null ],
-    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "d9/d93/a02753.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
+    [ "_ModifyUInt32", "d9/d93/a02753.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
+    [ "m_diminishing_k", "d9/d93/a02753.html#a826ceb2644eb2661137e2983dd779164", null ]
 ];

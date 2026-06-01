@@ -1,6 +1,7 @@
 var a19468 =
 [
-    [ "npc_boss_gothik_minionAI", "d7/d2a/a19472.html", "d7/d2a/a19472" ],
-    [ "npc_boss_gothik_minion", "d1/d8c/a19468.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d1/d8c/a19468.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "npc_naxxramas_trigger", "d1/d8c/a19468.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d1/d8c/a19468.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d1/d8c/a19468.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d1/d8c/a19468.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

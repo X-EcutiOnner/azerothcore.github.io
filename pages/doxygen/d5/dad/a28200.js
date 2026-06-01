@@ -1,9 +1,7 @@
 var a28200 =
 [
-    [ "go_gilded_brazierAI", "d5/dad/a28200.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d5/dad/a28200.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d5/dad/a28200.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d5/dad/a28200.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d5/dad/a28200.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d5/dad/a28200.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "npc_wormholeAI", "d5/dad/a28200.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d5/dad/a28200.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d5/dad/a28200.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d5/dad/a28200.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

@@ -1,9 +1,6 @@
 var a14904 =
 [
-    [ "npc_love_in_air_snivel", "da/d9c/a14904.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "da/d9c/a14904.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "da/d9c/a14904.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "da/d9c/a14904.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "da/d9c/a14904.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "da/d9c/a14904.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "HandleScriptEffect", "da/d9c/a14904.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "da/d9c/a14904.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "da/d9c/a14904.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

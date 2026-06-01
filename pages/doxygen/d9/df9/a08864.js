@@ -1,5 +1,5 @@
 var a08864 =
 [
-    [ "bgQueueTypeId", "d9/df9/a08864.html#a171a9be34883429a97f6f2e3035b5fca", null ],
-    [ "invitedToInstance", "d9/df9/a08864.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
+    [ "PlayerClassInfo", "d9/df9/a08864.html#a6a0a6db24e144593356e0505946e8f06", null ],
+    [ "levelInfo", "d9/df9/a08864.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
 ];

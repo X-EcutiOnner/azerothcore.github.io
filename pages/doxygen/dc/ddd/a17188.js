@@ -1,8 +1,9 @@
 var a17188 =
 [
-    [ "HandleRemove", "dc/ddd/a17188.html#a362b16f69a19adae6b673bd9ead55a83", null ],
-    [ "PeriodicTick", "dc/ddd/a17188.html#aa432052d61dc48066433b41b84ffbe5f", null ],
-    [ "PrepareAuraScript", "dc/ddd/a17188.html#a3ffbd618820adf77b2c64a29816f5204", null ],
-    [ "Register", "dc/ddd/a17188.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
-    [ "Validate", "dc/ddd/a17188.html#abed6574398a7d005e95feba6b54243a1", null ]
+    [ "npc_hor_spiritual_reflection", "dc/ddd/a17188.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "dc/ddd/a17188.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "dc/ddd/a17188.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "dc/ddd/a17188.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "dc/ddd/a17188.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "dc/ddd/a17188.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

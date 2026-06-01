@@ -1,7 +1,6 @@
 var a09152 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d9/d46/a09152.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d9/d46/a09152.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d9/d46/a09152.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d9/d46/a09152.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "Condition", "d9/d46/a09152.html#a78172859719e85a21c0a39e41c692cf4", null ],
+    [ "EventId", "d9/d46/a09152.html#aa5d7e88828c9f44b5913d4593496894f", null ],
+    [ "Num", "d9/d46/a09152.html#a7cf6141e00b1a33063409c9828773b94", null ]
 ];

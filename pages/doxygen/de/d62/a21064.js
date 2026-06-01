@@ -1,6 +1,7 @@
 var a21064 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "de/da4/a21068.html", "de/da4/a21068" ],
-    [ "instance_utgarde_keep", "de/d62/a21064.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "de/d62/a21064.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "HandleDummy", "de/d62/a21064.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "de/d62/a21064.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "de/d62/a21064.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "de/d62/a21064.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

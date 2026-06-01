@@ -1,8 +1,7 @@
 var a09668 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d2/d51/a09668.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d2/d51/a09668.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d2/d51/a09668.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d2/d51/a09668.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d2/d51/a09668.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "FriendlyCCedInRange", "d2/d51/a09668.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
+    [ "operator()", "d2/d51/a09668.html#a0e241f930cee855664aeac3604d5c023", null ],
+    [ "i_obj", "d2/d51/a09668.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
+    [ "i_range", "d2/d51/a09668.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
 ];

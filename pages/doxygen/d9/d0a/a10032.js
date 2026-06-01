@@ -1,7 +1,7 @@
 var a10032 =
 [
-    [ "ZRangeBoundary", "d9/d0a/a10032.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "d9/d0a/a10032.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "d9/d0a/a10032.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "d9/d0a/a10032.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "QuestItem", "d9/d0a/a10032.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d9/d0a/a10032.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d9/d0a/a10032.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d9/d0a/a10032.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

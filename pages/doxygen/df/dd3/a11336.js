@@ -1,6 +1,6 @@
 var a11336 =
 [
-    [ "NameQuery", "df/dd3/a11336.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "df/dd3/a11336.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "df/dd3/a11336.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "ComplainResult", "df/dd3/a11336.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "df/dd3/a11336.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "df/dd3/a11336.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

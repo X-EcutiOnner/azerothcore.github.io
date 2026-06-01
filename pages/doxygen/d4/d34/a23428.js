@@ -1,7 +1,7 @@
 var a23428 =
 [
-    [ "HandleScriptEffect", "d4/d34/a23428.html#a534bf39998813f06c48bc920e4666692", null ],
-    [ "PrepareSpellScript", "d4/d34/a23428.html#a5892f20a0704596cb70a995a73846368", null ],
-    [ "Register", "d4/d34/a23428.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
-    [ "Validate", "d4/d34/a23428.html#af618314a13013eaf9f36b30047de0878", null ]
+    [ "boss_warp_splinter", "d4/d34/a23428.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d4/d34/a23428.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d4/d34/a23428.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d4/d34/a23428.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

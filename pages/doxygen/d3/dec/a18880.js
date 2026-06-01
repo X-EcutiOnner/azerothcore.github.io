@@ -1,6 +1,17 @@
 var a18880 =
 [
-    [ "npc_lk_wicked_spiritAI", "d4/d0c/a18884.html", "d4/d0c/a18884" ],
-    [ "npc_lk_wicked_spirit", "d3/dec/a18880.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d3/dec/a18880.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "boss_sister_svalnaAI", "d3/dec/a18880.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
+    [ "DoAction", "d3/dec/a18880.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
+    [ "InitializeAI", "d3/dec/a18880.html#a6b709adc055b4be2824319d9ee881993", null ],
+    [ "JustDied", "d3/dec/a18880.html#ab397adda97c8b21e9a53edccdadb8760", null ],
+    [ "JustEngagedWith", "d3/dec/a18880.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
+    [ "JustExitedCombat", "d3/dec/a18880.html#a0555e77ec8a37965ff32d5b4e58ab12b", null ],
+    [ "JustReachedHome", "d3/dec/a18880.html#a48aa3470b84686a6277616ed1b2d8364", null ],
+    [ "KilledUnit", "d3/dec/a18880.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
+    [ "MovementInform", "d3/dec/a18880.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
+    [ "Reset", "d3/dec/a18880.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
+    [ "SpellHit", "d3/dec/a18880.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
+    [ "SpellHitTarget", "d3/dec/a18880.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
+    [ "UpdateAI", "d3/dec/a18880.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ],
+    [ "_isEventInProgress", "d3/dec/a18880.html#a0da237e729301c8db3ceccea2b0988b1", null ]
 ];

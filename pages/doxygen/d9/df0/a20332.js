@@ -1,7 +1,7 @@
 var a20332 =
 [
-    [ "boss_freya_healthy_spore", "d9/df0/a20332.html#abc2492b9cf96cb00940b18fac549fb00", null ],
-    [ "Reset", "d9/df0/a20332.html#abe3f794707aa722e73b1728700876083", null ],
-    [ "UpdateAI", "d9/df0/a20332.html#ac8c952848687cd883aaefe466b799e3b", null ],
-    [ "_despawnTimer", "d9/df0/a20332.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
+    [ "FilterTargetsInitial", "d9/df0/a20332.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d9/df0/a20332.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d9/df0/a20332.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d9/df0/a20332.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

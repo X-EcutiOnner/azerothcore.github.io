@@ -1,8 +1,7 @@
 var a11036 =
 [
-    [ "SetDungeonDifficulty", "d2/d23/a11036.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "d2/d23/a11036.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "d2/d23/a11036.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "d2/d23/a11036.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "d2/d23/a11036.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "GuildSetMemberNote", "d2/d23/a11036.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d2/d23/a11036.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d2/d23/a11036.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d2/d23/a11036.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

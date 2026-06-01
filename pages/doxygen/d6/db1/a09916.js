@@ -1,16 +1,19 @@
 var a09916 =
 [
-    [ "StoredLootItem", "d6/db1/a09916.html#a32da4030f3e58b7fae5001511c6caa40", null ],
-    [ "conditionLootId", "d6/db1/a09916.html#a9be27c3407923df6b15bef993dd58830", null ],
-    [ "count", "d6/db1/a09916.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
-    [ "follow_loot_rules", "d6/db1/a09916.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
-    [ "freeforall", "d6/db1/a09916.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
-    [ "is_blocked", "d6/db1/a09916.html#a895cc61dd542959c3726dbc54abf7434", null ],
-    [ "is_counted", "d6/db1/a09916.html#a801a125a5035167f3f511560a29808c4", null ],
-    [ "is_underthreshold", "d6/db1/a09916.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
-    [ "itemid", "d6/db1/a09916.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
-    [ "itemIndex", "d6/db1/a09916.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
-    [ "needs_quest", "d6/db1/a09916.html#ae7530d417ac10c5766fc25664b427d50", null ],
-    [ "randomPropertyId", "d6/db1/a09916.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
-    [ "randomSuffix", "d6/db1/a09916.html#a2588c810dcd51a5c0c6558b99493602b", null ]
+    [ "GuildContainer", "d6/db1/a09916.html#aa9afb05ecb2eb6ee427503a4ea76f7ca", null ],
+    [ "GuildMgr", "d6/db1/a09916.html#a0d4a44461eb4c54ddb6646dfd1c11a68", null ],
+    [ "~GuildMgr", "d6/db1/a09916.html#ae90afb785961e122afc419a61dfb20c1", null ],
+    [ "AddGuild", "d6/db1/a09916.html#a5b63dae4f2252c452c797b83477d2280", null ],
+    [ "GenerateGuildId", "d6/db1/a09916.html#a8ad7c4fc3e292e6cecd4964ad22cd135", null ],
+    [ "GetGuildById", "d6/db1/a09916.html#a04f4586ea6461c6f7165efba2bf666a1", null ],
+    [ "GetGuildByLeader", "d6/db1/a09916.html#a5198534a243b70104ce17a7871fcfb27", null ],
+    [ "GetGuildByName", "d6/db1/a09916.html#af9ff736e84a18d8dfce3826c9459df37", null ],
+    [ "GetGuildNameById", "d6/db1/a09916.html#ad32af675831da389755da5f3e4e47361", null ],
+    [ "instance", "d6/db1/a09916.html#aef69fd59528ec594c76ae390a4ba05bd", null ],
+    [ "LoadGuilds", "d6/db1/a09916.html#ac1eb56686e276e11838e9150696b5045", null ],
+    [ "RemoveGuild", "d6/db1/a09916.html#a51728f1c2780cdb105cb35947739cbd7", null ],
+    [ "ResetTimes", "d6/db1/a09916.html#ad2670ee42ff5252a879ccc5cbb730833", null ],
+    [ "SetNextGuildId", "d6/db1/a09916.html#ae1ae88575b7fcb37d4ee1d76f79c0c45", null ],
+    [ "GuildStore", "d6/db1/a09916.html#a174158d11bf6102462a094ff4a8fa402", null ],
+    [ "NextGuildId", "d6/db1/a09916.html#a75e150f66ebccfc05824a4f7b66a9210", null ]
 ];

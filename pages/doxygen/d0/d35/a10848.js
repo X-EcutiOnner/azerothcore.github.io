@@ -1,6 +1,6 @@
 var a10848 =
 [
-    [ "GuildUpdateMotdText", "d0/d35/a10848.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d0/d35/a10848.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d0/d35/a10848.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "ShowBank", "d0/d35/a10848.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
+    [ "Write", "d0/d35/a10848.html#a39e1b86a7d4d6163ab504797be1af505", null ],
+    [ "Banker", "d0/d35/a10848.html#aeceda879d837508d95b79fbd3ee8d892", null ]
 ];

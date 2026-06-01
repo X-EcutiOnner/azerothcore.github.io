@@ -1,6 +1,9 @@
 var a19072 =
 [
-    [ "npc_crok_scourgebaneAI", "d0/de7/a19076.html", "d0/de7/a19076" ],
-    [ "npc_crok_scourgebane", "dd/d78/a19072.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "dd/d78/a19072.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_icc_severed_essenceAI", "dd/d78/a19072.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "dd/d78/a19072.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "dd/d78/a19072.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "dd/d78/a19072.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "dd/d78/a19072.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "dd/d78/a19072.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

@@ -1,8 +1,9 @@
 var a21824 =
 [
-    [ "AfterApply", "d4/d00/a21824.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d4/d00/a21824.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d4/d00/a21824.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d4/d00/a21824.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d4/d00/a21824.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "npc_frostbrood_skytalonAI", "d4/d00/a21824.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d4/d00/a21824.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d4/d00/a21824.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d4/d00/a21824.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d4/d00/a21824.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d4/d00/a21824.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

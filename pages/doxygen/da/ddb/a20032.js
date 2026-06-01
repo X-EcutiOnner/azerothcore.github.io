@@ -1,7 +1,5 @@
 var a20032 =
 [
-    [ "HandleEffectRemove", "da/ddb/a20032.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "da/ddb/a20032.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "da/ddb/a20032.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "da/ddb/a20032.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "go_ulduar_tower", "da/ddb/a20032.html#afc1add1a0543921f52afe1eb907f5de3", null ],
+    [ "OnDestroyed", "da/ddb/a20032.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
 ];

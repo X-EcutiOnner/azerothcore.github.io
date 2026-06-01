@@ -1,6 +1,11 @@
 var a23156 =
 [
-    [ "HandleScriptEffect", "df/d47/a23156.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "df/d47/a23156.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "df/d47/a23156.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "boss_high_king_maulgar", "df/d47/a23156.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "df/d47/a23156.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "df/d47/a23156.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "df/d47/a23156.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "df/d47/a23156.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "df/d47/a23156.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "df/d47/a23156.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "df/d47/a23156.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

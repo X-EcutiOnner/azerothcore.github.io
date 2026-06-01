@@ -1,6 +1,7 @@
 var a27220 =
 [
-    [ "HandleFinish", "d9/db8/a27220.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d9/db8/a27220.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d9/db8/a27220.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "CheckProc", "d9/db8/a27220.html#a982264a8ea20344b66269a3edd814db7", null ],
+    [ "HandleProc", "d9/db8/a27220.html#adf79a132d1ae20e27b07dc77e103fb3c", null ],
+    [ "PrepareAuraScript", "d9/db8/a27220.html#abd0ac0c324e3323140812c7d4c937e1e", null ],
+    [ "Register", "d9/db8/a27220.html#ac24fe502aa899f953b694fe3ebf46012", null ]
 ];

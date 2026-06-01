@@ -1,8 +1,5 @@
 var a23416 =
 [
-    [ "ApplyStun", "da/dd2/a23416.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "da/dd2/a23416.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "da/dd2/a23416.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "da/dd2/a23416.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "da/dd2/a23416.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "modelId", "da/dd2/a23416.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "da/dd2/a23416.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

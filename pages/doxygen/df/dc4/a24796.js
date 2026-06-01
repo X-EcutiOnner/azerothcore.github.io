@@ -1,6 +1,6 @@
 var a24796 =
 [
-    [ "CheckCast", "df/dc4/a24796.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "df/dc4/a24796.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "df/dc4/a24796.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "HandleScript", "df/dc4/a24796.html#aa6104370d5700e43223c7138e941ba05", null ],
+    [ "PrepareSpellScript", "df/dc4/a24796.html#ae4177c84bf0c63aadaa7486603df04d0", null ],
+    [ "Register", "df/dc4/a24796.html#a88a8534a1dd825a14fd6b10933986eb7", null ]
 ];

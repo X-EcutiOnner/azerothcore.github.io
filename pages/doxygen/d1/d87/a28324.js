@@ -1,5 +1,7 @@
 var a28324 =
 [
-    [ "item_petrov_cluster_bombs", "d1/d87/a28324.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d1/d87/a28324.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "HandleDummy", "d1/d87/a28324.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d1/d87/a28324.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d1/d87/a28324.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d1/d87/a28324.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

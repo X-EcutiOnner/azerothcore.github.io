@@ -1,5 +1,7 @@
 var a23936 =
 [
-    [ "go_simon_cluster", "d3/d01/a23936.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d3/d01/a23936.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "HandleEffectRemove", "d3/d01/a23936.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
+    [ "PrepareAuraScript", "d3/d01/a23936.html#a19ce53b5731b0789896612fa55f38849", null ],
+    [ "Register", "d3/d01/a23936.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
+    [ "Validate", "d3/d01/a23936.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
 ];

@@ -1,11 +1,7 @@
 var a24496 =
 [
-    [ "CalcPeriodic", "d0/da9/a24496.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d0/da9/a24496.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d0/da9/a24496.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d0/da9/a24496.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d0/da9/a24496.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d0/da9/a24496.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d0/da9/a24496.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d0/da9/a24496.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "CalculateAmount", "d0/da9/a24496.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d0/da9/a24496.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d0/da9/a24496.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d0/da9/a24496.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

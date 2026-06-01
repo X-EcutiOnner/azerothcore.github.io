@@ -1,7 +1,6 @@
 var a11180 =
 [
-    [ "RandomRollClient", "df/de8/a11180.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "df/de8/a11180.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "df/de8/a11180.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "df/de8/a11180.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "InstanceLockResponse", "df/de8/a11180.html#a375d48ef2bc703f0223db82738016c6e", null ],
+    [ "Read", "df/de8/a11180.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
+    [ "Accept", "df/de8/a11180.html#a23cd7f483abfaede6df7a51b083a4477", null ]
 ];

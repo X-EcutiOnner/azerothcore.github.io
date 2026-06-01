@@ -1,7 +1,8 @@
 var a18404 =
 [
-    [ "HandleProc", "d3/d63/a18404.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d3/d63/a18404.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d3/d63/a18404.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d3/d63/a18404.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "FilterTargets", "d3/d63/a18404.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d3/d63/a18404.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d3/d63/a18404.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d3/d63/a18404.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d3/d63/a18404.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

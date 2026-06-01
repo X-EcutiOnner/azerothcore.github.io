@@ -1,7 +1,9 @@
 var a17936 =
 [
-    [ "npc_icc_blood_beastAI", "d9/d2c/a17936.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d9/d2c/a17936.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d9/d2c/a17936.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d9/d2c/a17936.html#a1074059162f818088808795119f081be", null ]
+    [ "CalculateDamage", "d9/d2c/a17936.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "d9/d2c/a17936.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "d9/d2c/a17936.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "d9/d2c/a17936.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "d9/d2c/a17936.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "d9/d2c/a17936.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

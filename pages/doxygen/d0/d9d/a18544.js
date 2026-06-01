@@ -1,6 +1,6 @@
 var a18544 =
 [
-    [ "FilterTargets", "d0/d9d/a18544.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d0/d9d/a18544.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d0/d9d/a18544.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "npc_raging_spiritAI", "dc/d1b/a18548.html", "dc/d1b/a18548" ],
+    [ "npc_raging_spirit", "d0/d9d/a18544.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d0/d9d/a18544.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

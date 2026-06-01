@@ -1,8 +1,8 @@
 var a13216 =
 [
-    [ "npc_tito", "de/d62/a13216.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "de/d62/a13216.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "de/d62/a13216.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "de/d62/a13216.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "de/d62/a13216.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "CheckProc", "de/d62/a13216.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "de/d62/a13216.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "de/d62/a13216.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "de/d62/a13216.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "de/d62/a13216.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

@@ -1,13 +1,6 @@
 var a14132 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d5/dde/a14132.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "d5/dde/a14132.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "d5/dde/a14132.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "d5/dde/a14132.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "d5/dde/a14132.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "d5/dde/a14132.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "d5/dde/a14132.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "d5/dde/a14132.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "d5/dde/a14132.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "d5/dde/a14132.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_tapoke_slim_jahnAI", "d0/d4a/a14136.html", "d0/d4a/a14136" ],
+    [ "npc_tapoke_slim_jahn", "d5/dde/a14132.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d5/dde/a14132.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

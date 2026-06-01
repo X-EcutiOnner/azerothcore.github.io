@@ -1,6 +1,6 @@
 var a18776 =
 [
-    [ "ModDestHeight", "d6/deb/a18776.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d6/deb/a18776.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d6/deb/a18776.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "npc_blistering_zombieAI", "db/dbc/a18780.html", "db/dbc/a18780" ],
+    [ "npc_blistering_zombie", "d6/deb/a18776.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d6/deb/a18776.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

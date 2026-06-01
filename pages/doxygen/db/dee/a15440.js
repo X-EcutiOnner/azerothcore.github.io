@@ -1,7 +1,5 @@
 var a15440 =
 [
-    [ "npc_hive_zara_larva", "db/dee/a15440.html#a50fb5738d7b0818689216fee0915a0de", null ],
-    [ "JustSummoned", "db/dee/a15440.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
-    [ "MovementInform", "db/dee/a15440.html#a6890c58106450d654062f548a80cb42f", null ],
-    [ "_instance", "db/dee/a15440.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
+    [ "boss_yauj", "db/dee/a15440.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "db/dee/a15440.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

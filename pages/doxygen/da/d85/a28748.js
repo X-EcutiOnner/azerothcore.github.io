@@ -1,7 +1,7 @@
 var a28748 =
 [
-    [ "TalentSpellPos", "da/d85/a28748.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "da/d85/a28748.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "da/d85/a28748.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "da/d85/a28748.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "EmoteType", "da/d85/a28748.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "da/d85/a28748.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "da/d85/a28748.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "da/d85/a28748.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

@@ -1,7 +1,9 @@
 var a26316 =
 [
-    [ "HandleProc", "dc/d30/a26316.html#a8a2e79509451ab5f0d05daa80ebd55ac", null ],
-    [ "PrepareAuraScript", "dc/d30/a26316.html#a331d005fdb7ec53b49c1edc46209d8ea", null ],
-    [ "Register", "dc/d30/a26316.html#a8a1afed2a17841f52c355214ab49b3af", null ],
-    [ "Validate", "dc/d30/a26316.html#af9e07a3f65285bc82126b21b030a69e8", null ]
+    [ "Load", "dc/d30/a26316.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "dc/d30/a26316.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "dc/d30/a26316.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "dc/d30/a26316.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "dc/d30/a26316.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "dc/d30/a26316.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

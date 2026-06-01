@@ -1,10 +1,10 @@
 var a13040 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "df/d18/a13040.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "df/d18/a13040.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "df/d18/a13040.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "df/d18/a13040.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "df/d18/a13040.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "df/d18/a13040.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "df/d18/a13040.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "npc_netherspite_infernal", "df/d18/a13040.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "df/d18/a13040.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "df/d18/a13040.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "df/d18/a13040.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "df/d18/a13040.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "df/d18/a13040.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "df/d18/a13040.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

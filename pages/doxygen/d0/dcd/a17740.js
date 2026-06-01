@@ -1,6 +1,6 @@
 var a17740 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d9/dbf/a17744.html", "d9/dbf/a17744" ],
-    [ "npc_blood_queen_lana_thel", "d0/dcd/a17740.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d0/dcd/a17740.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "boss_festergutAI", "d9/dbf/a17744.html", "d9/dbf/a17744" ],
+    [ "boss_festergut", "d0/dcd/a17740.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d0/dcd/a17740.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

@@ -1,9 +1,8 @@
 var a25308 =
 [
-    [ "spell_gen_lifebloom", "df/d9b/a25308.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "df/d9b/a25308.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "df/d9b/a25308.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "df/d9b/a25308.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "df/d9b/a25308.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "df/d9b/a25308.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "HandlePeriodic", "df/d9b/a25308.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "df/d9b/a25308.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "df/d9b/a25308.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "df/d9b/a25308.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "df/d9b/a25308.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

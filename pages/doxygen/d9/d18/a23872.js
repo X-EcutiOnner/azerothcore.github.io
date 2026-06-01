@@ -1,10 +1,20 @@
 var a23872 =
 [
-    [ "npc_raging_flames", "d9/d18/a23872.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "d9/d18/a23872.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "d9/d18/a23872.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "d9/d18/a23872.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "d9/d18/a23872.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "d9/d18/a23872.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "d9/d18/a23872.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "npc_lord_illidan_stormrageAI", "d9/d18/a23872.html#a3b48b42c72b51bbdb222f6cd03e50ec8", null ],
+    [ "AttackStart", "d9/d18/a23872.html#a5f73b83a07f24403cf55de7ef485c003", null ],
+    [ "CheckEventFail", "d9/d18/a23872.html#aef1607c2132ae78b45d4f209a4320a88", null ],
+    [ "JustEngagedWith", "d9/d18/a23872.html#af7166b3c7401a74615cdb5c0964200f6", null ],
+    [ "LiveCounter", "d9/d18/a23872.html#a625b2891d3f9807da7733f678ea29313", null ],
+    [ "MoveInLineOfSight", "d9/d18/a23872.html#a5c2313ac5767339cd26196f52ff05c5f", null ],
+    [ "Reset", "d9/d18/a23872.html#a035b85302d54adf9bd7af82cadfd0317", null ],
+    [ "SummonNextWave", "d9/d18/a23872.html#a240ee54d49248a1700e767568fe93648", null ],
+    [ "UpdateAI", "d9/d18/a23872.html#a9cf7d73c5f81980c08f785dc3af47dec", null ],
+    [ "Announced", "d9/d18/a23872.html#a448ba6e2b21273b8e07b6d0a79e856e2", null ],
+    [ "AnnounceTimer", "d9/d18/a23872.html#a7037e4b43f274f3e2ce45143c029b070", null ],
+    [ "EventStarted", "d9/d18/a23872.html#a41b3b39d2ea0eeca4b60960f3a903ee8", null ],
+    [ "Failed", "d9/d18/a23872.html#aba564e34f0358d6c2a3c6ae91e17bf10", null ],
+    [ "LiveCount", "d9/d18/a23872.html#ab86239a6470a82749f96eb5515c46c59", null ],
+    [ "PlayerGUID", "d9/d18/a23872.html#af30c5c09f0262479b8920269f7bf198a", null ],
+    [ "WaveCount", "d9/d18/a23872.html#abdd03400f582e9477bb376e2b34e7a0e", null ],
+    [ "WaveTimer", "d9/d18/a23872.html#ae727157e6b52817051fea075c2cb7cb1", null ]
 ];

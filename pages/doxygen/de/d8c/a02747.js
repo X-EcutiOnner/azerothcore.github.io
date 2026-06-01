@@ -1,9 +1,10 @@
 var a02747 =
 [
-    [ "instance_blood_furnace", "d3/d76/a23182.html", "d3/d76/a23182" ],
-    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "df/da6/a23186.html", "df/da6/a23186" ],
-    [ "AddSC_instance_blood_furnace", "de/d8c/a02747.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
-    [ "creatureData", "de/d8c/a02747.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "de/d8c/a02747.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "de/d8c/a02747.html#a845a92716bd40c99a93eb0715cd737b0", null ]
+    [ "SplineHandler", "d6/dd2/a09020.html", "d6/dd2/a09020" ],
+    [ "spellIdImmunityPredicate", "d9/d74/a09024.html", "d9/d74/a09024" ],
+    [ "AuraMunchingQueue", "d5/db1/a09028.html", "d5/db1/a09028" ],
+    [ "ApplyPercentModFloatVar", "de/d8c/a02747.html#adcb1f2b25980bd4c71cb160030213f96", null ],
+    [ "createProcFlags", "de/d8c/a02747.html#a7d920511c20f084098c0f68a75006159", null ],
+    [ "baseMoveSpeed", "de/d8c/a02747.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
+    [ "playerBaseMoveSpeed", "de/d8c/a02747.html#afef08589b9944f10d66bdc1de74d0270", null ]
 ];

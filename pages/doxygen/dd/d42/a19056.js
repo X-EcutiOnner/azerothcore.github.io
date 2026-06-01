@@ -1,6 +1,6 @@
 var a19056 =
 [
-    [ "npc_rotting_frost_giantAI", "df/d4b/a19060.html", "df/d4b/a19060" ],
-    [ "npc_rotting_frost_giant", "dd/d42/a19056.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "dd/d42/a19056.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_icc_valkyr_heraldAI", "df/d4b/a19060.html", "df/d4b/a19060" ],
+    [ "npc_icc_valkyr_herald", "dd/d42/a19056.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "dd/d42/a19056.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

@@ -1,8 +1,6 @@
 var a20900 =
 [
-    [ "OnApply", "de/dd3/a20900.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "de/dd3/a20900.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "de/dd3/a20900.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "de/dd3/a20900.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "de/dd3/a20900.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "npc_massive_jormungarAI", "d8/d8f/a20904.html", "d8/d8f/a20904" ],
+    [ "npc_massive_jormungar", "de/dd3/a20900.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "de/dd3/a20900.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

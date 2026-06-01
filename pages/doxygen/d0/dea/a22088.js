@@ -1,6 +1,5 @@
 var a22088 =
 [
-    [ "npc_frostbrood_skytalonAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
-    [ "npc_frostbrood_skytalon", "d0/dea/a22088.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d0/dea/a22088.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d0/dea/a22088.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d0/dea/a22088.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

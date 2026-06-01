@@ -1,8 +1,7 @@
 var a27664 =
 [
-    [ "HandleDummyTick", "de/df3/a27664.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "de/df3/a27664.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "de/df3/a27664.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "de/df3/a27664.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "de/df3/a27664.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "CharacterDeleteActionIpLogger", "de/df3/a27664.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "de/df3/a27664.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "de/df3/a27664.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "de/df3/a27664.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,6 +1,8 @@
 var a03878 =
 [
-    [ "instance_dire_maul", "d8/df1/a15210.html", "d8/df1/a15210" ],
-    [ "instance_dire_maul::instance_dire_maul_InstanceMapScript", "d5/deb/a15214.html", "d5/deb/a15214" ],
-    [ "AddSC_instance_dire_maul", "d0/d60/a03878.html#a4f4fdf8ebf7b15878ba29a663b037908", null ]
+    [ "PassiveAI", "dd/daf/a06416.html", "dd/daf/a06416" ],
+    [ "PossessedAI", "de/da3/a06420.html", "de/da3/a06420" ],
+    [ "NullCreatureAI", "d9/d58/a06424.html", "d9/d58/a06424" ],
+    [ "CritterAI", "de/df0/a06428.html", "de/df0/a06428" ],
+    [ "TriggerAI", "d4/d23/a06432.html", "d4/d23/a06432" ]
 ];

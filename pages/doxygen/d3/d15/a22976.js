@@ -1,6 +1,7 @@
 var a22976 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d7/d88/a22980.html", "d7/d88/a22980" ],
-    [ "instance_black_temple", "d3/d15/a22976.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d3/d15/a22976.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "PeriodicTick", "d3/d15/a22976.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "d3/d15/a22976.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "d3/d15/a22976.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "d3/d15/a22976.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

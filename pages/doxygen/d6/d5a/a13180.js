@@ -1,5 +1,7 @@
 var a13180 =
 [
-    [ "PrepareSpellScript", "d6/d5a/a13180.html#a50d6ebe961a0841e10537a434a741072", null ],
-    [ "Register", "d6/d5a/a13180.html#abc2f73133448278e0bf1bc589917dfd1", null ]
+    [ "HandleDummy", "d6/d5a/a13180.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d6/d5a/a13180.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d6/d5a/a13180.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d6/d5a/a13180.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

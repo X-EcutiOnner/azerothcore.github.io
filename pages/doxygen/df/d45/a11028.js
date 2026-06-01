@@ -1,6 +1,5 @@
 var a11028 =
 [
-    [ "InstanceReset", "df/d45/a11028.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
-    [ "Write", "df/d45/a11028.html#a0809c4de226d3aaab9817c393cef6055", null ],
-    [ "MapId", "df/d45/a11028.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
+    [ "GuildDeleteRank", "df/d45/a11028.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "df/d45/a11028.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

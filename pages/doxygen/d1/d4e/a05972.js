@@ -1,11 +1,13 @@
 var a05972 =
 [
-    [ "AppenderDB", "d1/d4e/a05972.html#af8e48076d47a06c73f6b8ae054955a83", null ],
-    [ "~AppenderDB", "d1/d4e/a05972.html#a7da848083d02833acc632051a2d938bf", null ],
-    [ "_write", "d1/d4e/a05972.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
-    [ "getType", "d1/d4e/a05972.html#a96221ceed23435556df03c5f7ffab61e", null ],
-    [ "setRealmId", "d1/d4e/a05972.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
-    [ "enabled", "d1/d4e/a05972.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
-    [ "realmId", "d1/d4e/a05972.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
-    [ "type", "d1/d4e/a05972.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
+    [ "SOAPCommand", "d1/d4e/a05972.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
+    [ "~SOAPCommand", "d1/d4e/a05972.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
+    [ "appendToPrintBuffer", "d1/d4e/a05972.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
+    [ "commandFinished", "d1/d4e/a05972.html#a18310d831429b084dc5cbf6310195001", null ],
+    [ "hasCommandSucceeded", "d1/d4e/a05972.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
+    [ "print", "d1/d4e/a05972.html#a69a3287df41392488dbcb1be2f0349f3", null ],
+    [ "setCommandSuccess", "d1/d4e/a05972.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
+    [ "finishedPromise", "d1/d4e/a05972.html#aec2e336644d004a59ad21431fbf80c83", null ],
+    [ "m_printBuffer", "d1/d4e/a05972.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
+    [ "m_success", "d1/d4e/a05972.html#aab7299bceae48c2066f1885b90a34c60", null ]
 ];

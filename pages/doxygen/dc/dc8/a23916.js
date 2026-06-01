@@ -1,16 +1,15 @@
 var a23916 =
 [
-    [ "npc_nether_drakeAI", "dc/dc8/a23916.html#a82f2c29b380be95303e1558776ea2d88", null ],
-    [ "JustEngagedWith", "dc/dc8/a23916.html#a5f20faa7f7007989298009b88b3ecbc8", null ],
-    [ "MoveInLineOfSight", "dc/dc8/a23916.html#a9e122d4533155c926904a13e8534d32e", null ],
-    [ "MovementInform", "dc/dc8/a23916.html#ae1f5248397b606b7872f05cfc929ac0d", null ],
-    [ "Reset", "dc/dc8/a23916.html#acb03513dd67988e0961632846021a42d", null ],
-    [ "SpellHit", "dc/dc8/a23916.html#a40f05363f38d71954c9fb8773c382444", null ],
-    [ "UpdateAI", "dc/dc8/a23916.html#aa538d9d2ead26d6e085ecf62ec7d310f", null ],
-    [ "ArcaneBlast_Timer", "dc/dc8/a23916.html#ace872917954f4978f3568d7ddecf22ad", null ],
-    [ "IntangiblePresence_Timer", "dc/dc8/a23916.html#acecff3846090fa83c8fc43537d788501", null ],
-    [ "IsNihil", "dc/dc8/a23916.html#a37c393101e0f9b07e20cc21beb80ba44", null ],
-    [ "ManaBurn_Timer", "dc/dc8/a23916.html#ae6c33df878497d29d5f61234b048009d", null ],
-    [ "NihilSpeech_Phase", "dc/dc8/a23916.html#a3e68f0fdb59ce6d8749b5d8629b7ec0b", null ],
-    [ "NihilSpeech_Timer", "dc/dc8/a23916.html#a40d7584c68f5f6516eb9a7deaaad7c86", null ]
+    [ "dragonmaw_race_npc", "dc/dc8/a23916.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "dc/dc8/a23916.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "dc/dc8/a23916.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "dc/dc8/a23916.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "dc/dc8/a23916.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "dc/dc8/a23916.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "dc/dc8/a23916.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "dc/dc8/a23916.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "dc/dc8/a23916.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "dc/dc8/a23916.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "dc/dc8/a23916.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "dc/dc8/a23916.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

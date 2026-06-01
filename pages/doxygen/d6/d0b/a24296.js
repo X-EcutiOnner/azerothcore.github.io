@@ -1,19 +1,11 @@
 var a24296 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "d6/d0b/a24296.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "d6/d0b/a24296.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "FlyAway", "d6/d0b/a24296.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "d6/d0b/a24296.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "MovementInform", "d6/d0b/a24296.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "d6/d0b/a24296.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "d6/d0b/a24296.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "d6/d0b/a24296.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "d6/d0b/a24296.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "d6/d0b/a24296.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "d6/d0b/a24296.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "d6/d0b/a24296.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "d6/d0b/a24296.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "d6/d0b/a24296.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "d6/d0b/a24296.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "d6/d0b/a24296.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "HandleAfterHit", "d6/d0b/a24296.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "d6/d0b/a24296.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "d6/d0b/a24296.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "d6/d0b/a24296.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "d6/d0b/a24296.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "d6/d0b/a24296.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "d6/d0b/a24296.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "d6/d0b/a24296.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

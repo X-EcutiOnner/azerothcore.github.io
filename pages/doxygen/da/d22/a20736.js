@@ -1,11 +1,7 @@
 var a20736 =
 [
-    [ "boss_thorim_ancient_rune_giant", "da/d22/a20736.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "da/d22/a20736.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "da/d22/a20736.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "da/d22/a20736.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "da/d22/a20736.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "da/d22/a20736.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "da/d22/a20736.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "da/d22/a20736.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "OnPeriodic", "da/d22/a20736.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "da/d22/a20736.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "da/d22/a20736.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "da/d22/a20736.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

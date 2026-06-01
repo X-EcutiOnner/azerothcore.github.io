@@ -1,6 +1,5 @@
 var a27596 =
 [
-    [ "HandleSchoolDMG", "db/df9/a27596.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "db/df9/a27596.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "db/df9/a27596.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "achievement_save_the_day", "db/df9/a27596.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "db/df9/a27596.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

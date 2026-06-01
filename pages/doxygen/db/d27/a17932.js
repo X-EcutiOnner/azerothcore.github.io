@@ -1,6 +1,9 @@
 var a17932 =
 [
-    [ "npc_icc_blood_beastAI", "d9/d2c/a17936.html", "d9/d2c/a17936" ],
-    [ "npc_icc_blood_beast", "db/d27/a17932.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "db/d27/a17932.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "CalculatePower", "db/d27/a17932.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "db/d27/a17932.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "db/d27/a17932.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "db/d27/a17932.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "db/d27/a17932.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "db/d27/a17932.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

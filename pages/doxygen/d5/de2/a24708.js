@@ -1,7 +1,7 @@
 var a24708 =
 [
-    [ "OnRemove", "d5/de2/a24708.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
-    [ "PrepareAuraScript", "d5/de2/a24708.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d5/de2/a24708.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
-    [ "Validate", "d5/de2/a24708.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
+    [ "HandleApply", "d5/de2/a24708.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d5/de2/a24708.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d5/de2/a24708.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d5/de2/a24708.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

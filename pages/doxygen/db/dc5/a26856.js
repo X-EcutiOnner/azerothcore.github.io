@@ -1,7 +1,8 @@
 var a26856 =
 [
-    [ "HandleHeal", "db/dc5/a26856.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "db/dc5/a26856.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "db/dc5/a26856.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "db/dc5/a26856.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleScript", "db/dc5/a26856.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
+    [ "Load", "db/dc5/a26856.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
+    [ "PrepareSpellScript", "db/dc5/a26856.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
+    [ "Register", "db/dc5/a26856.html#aa823af94e3366ae799ebaf03e52411dd", null ],
+    [ "Validate", "db/dc5/a26856.html#ad6985954002f88436a2681e758f41fb2", null ]
 ];

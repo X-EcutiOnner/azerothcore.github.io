@@ -1,7 +1,7 @@
 var a29184 =
 [
-    [ "AllocationPct", "da/d40/a29184.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "da/d40/a29184.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "da/d40/a29184.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "da/d40/a29184.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "MockAuraStub", "da/d40/a29184.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "da/d40/a29184.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "da/d40/a29184.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "da/d40/a29184.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

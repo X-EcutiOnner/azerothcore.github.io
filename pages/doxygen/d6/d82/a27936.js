@@ -1,6 +1,5 @@
 var a27936 =
 [
-    [ "achievement_arena_by_type", "d6/d82/a27936.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d6/d82/a27936.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d6/d82/a27936.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "go_soulwellAI", "d6/d82/a27936.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d6/d82/a27936.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

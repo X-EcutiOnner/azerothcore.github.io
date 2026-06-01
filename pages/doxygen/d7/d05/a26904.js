@@ -1,6 +1,6 @@
 var a26904 =
 [
-    [ "HandleProc", "d7/d05/a26904.html#ac81521531646341356525465bac2a816", null ],
-    [ "PrepareAuraScript", "d7/d05/a26904.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
-    [ "Register", "d7/d05/a26904.html#a8daf8414ff4705741dfed0e818607741", null ]
+    [ "HandleScript", "d7/d05/a26904.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "d7/d05/a26904.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "d7/d05/a26904.html#ae293d6a2a477f716f357516781246069", null ]
 ];

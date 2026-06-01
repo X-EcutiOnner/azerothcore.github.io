@@ -1,8 +1,6 @@
 var a13984 =
 [
-    [ "HandleEffectApply", "de/d90/a13984.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "de/d90/a13984.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "de/d90/a13984.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "de/d90/a13984.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "de/d90/a13984.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "npc_corporal_keeshanAI", "db/d48/a13988.html", "db/d48/a13988" ],
+    [ "npc_corporal_keeshan", "de/d90/a13984.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "de/d90/a13984.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

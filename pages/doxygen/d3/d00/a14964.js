@@ -1,5 +1,6 @@
 var a14964 =
 [
-    [ "PrepareSpellScript", "d3/d00/a14964.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d3/d00/a14964.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "FilterTargets", "d3/d00/a14964.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d3/d00/a14964.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d3/d00/a14964.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

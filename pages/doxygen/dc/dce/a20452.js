@@ -1,7 +1,5 @@
 var a20452 =
 [
-    [ "HandleEffectPeriodic", "dc/dce/a20452.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "dc/dce/a20452.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "dc/dce/a20452.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "dc/dce/a20452.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "dc/dce/a20452.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "dc/dce/a20452.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

@@ -1,7 +1,8 @@
 var a14188 =
 [
-    [ "o", "d9/dda/a14188.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d9/dda/a14188.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d9/dda/a14188.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d9/dda/a14188.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "FilterTargets", "d9/dda/a14188.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d9/dda/a14188.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d9/dda/a14188.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d9/dda/a14188.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d9/dda/a14188.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

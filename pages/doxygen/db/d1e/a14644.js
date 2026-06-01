@@ -1,6 +1,11 @@
 var a14644 =
 [
-    [ "npc_brewfest_bark_trigger", "db/d1e/a14644.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "db/d1e/a14644.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "db/d1e/a14644.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "npc_elder_kekek", "db/d1e/a14644.html#a6084af39be5c70699c9fdcf3cd58e954", null ],
+    [ "MoveInLineOfSight", "db/d1e/a14644.html#a0c673e4fdf8e75d3bc8570db166bcd95", null ],
+    [ "Reset", "db/d1e/a14644.html#a97e615bdefba5baf459960fc2987cd69", null ],
+    [ "UpdateAI", "db/d1e/a14644.html#a5823bc7164d797c40d48b9b74642d9b5", null ],
+    [ "orphanGUID", "db/d1e/a14644.html#a98c79e46e051c35819c6025828a519cb", null ],
+    [ "phase", "db/d1e/a14644.html#a99fd9d984f92d5ba8b5876675855d4f6", null ],
+    [ "playerGUID", "db/d1e/a14644.html#a614ed3332f4af3c5178aa69da968a3d3", null ],
+    [ "timer", "db/d1e/a14644.html#a445c048d8858f5dc7c1e88308ed7e5ab", null ]
 ];

@@ -1,13 +1,10 @@
 var a21116 =
 [
-    [ "npc_ravenous_furbolgAI", "dc/d42/a21116.html#a3e2a0cac8a02d2d6105b06b5c21f1628", null ],
-    [ "DoAction", "dc/d42/a21116.html#a837b442d7812b0c5708995d35c0d45f6", null ],
-    [ "JustDied", "dc/d42/a21116.html#a03e5dd969fcc2e3dcebc714247e18bf2", null ],
-    [ "JustEngagedWith", "dc/d42/a21116.html#a003eb350a11f3f5c2355a58958633f36", null ],
-    [ "JustReachedHome", "dc/d42/a21116.html#a09fc5ba4680c1e5a7a49a81c50cee540", null ],
-    [ "MoveInLineOfSight", "dc/d42/a21116.html#a0b4db9708b9b0288ddb1be2f2205e03a", null ],
-    [ "Reset", "dc/d42/a21116.html#aca5ae47050590ec22e6e929f44e09276", null ],
-    [ "UpdateAI", "dc/d42/a21116.html#ad044c04381a8d61a8fefc55129453ddf", null ],
-    [ "events", "dc/d42/a21116.html#a8bf068c63d7ae10c6edf0af3aab1a6c3", null ],
-    [ "m_pInstance", "dc/d42/a21116.html#aeb0a7644ada4d44e649b4ae45e0d2dc2", null ]
+    [ "npc_erekem_guard", "dc/d42/a21116.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "dc/d42/a21116.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "dc/d42/a21116.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "dc/d42/a21116.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "dc/d42/a21116.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "dc/d42/a21116.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "dc/d42/a21116.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

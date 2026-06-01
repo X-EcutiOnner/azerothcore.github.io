@@ -1,7 +1,6 @@
 var a15744 =
 [
-    [ "npc_anubisath_warder", "dd/d34/a15744.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "dd/d34/a15744.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "dd/d34/a15744.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "dd/d34/a15744.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "npc_rabid_thistle_bearAI", "d0/d96/a15748.html", "d0/d96/a15748" ],
+    [ "npc_rabid_thistle_bear", "dd/d34/a15744.html#a34b20a4ea22d74352712dee105247d56", null ],
+    [ "GetAI", "dd/d34/a15744.html#ab5c21cd3afa0bd13c937e6acf1912af4", null ]
 ];

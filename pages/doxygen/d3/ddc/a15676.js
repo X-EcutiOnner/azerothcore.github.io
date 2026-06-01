@@ -1,8 +1,12 @@
 var a15676 =
 [
-    [ "boss_veklor", "d3/ddc/a15676.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d3/ddc/a15676.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d3/ddc/a15676.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d3/ddc/a15676.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d3/ddc/a15676.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "npc_magwinAI", "d3/ddc/a15676.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d3/ddc/a15676.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d3/ddc/a15676.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d3/ddc/a15676.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d3/ddc/a15676.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d3/ddc/a15676.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "d3/ddc/a15676.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d3/ddc/a15676.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d3/ddc/a15676.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

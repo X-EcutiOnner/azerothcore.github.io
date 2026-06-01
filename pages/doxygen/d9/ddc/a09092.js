@@ -1,8 +1,7 @@
 var a09092 =
 [
-    [ "TempSummonGroupKey", "d9/ddc/a09092.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "d9/ddc/a09092.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "d9/ddc/a09092.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "d9/ddc/a09092.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "d9/ddc/a09092.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "HealthOrderPred", "d9/ddc/a09092.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "d9/ddc/a09092.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "d9/ddc/a09092.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "d9/ddc/a09092.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

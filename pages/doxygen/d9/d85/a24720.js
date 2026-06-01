@@ -1,6 +1,6 @@
 var a24720 =
 [
-    [ "CheckCast", "d9/d85/a24720.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d9/d85/a24720.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d9/d85/a24720.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "PrepareAuraScript", "d9/d85/a24720.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d9/d85/a24720.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d9/d85/a24720.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

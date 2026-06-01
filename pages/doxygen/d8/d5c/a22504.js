@@ -1,6 +1,9 @@
 var a22504 =
 [
-    [ "a", "d8/d5c/a22504.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "d8/d5c/a22504.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "d8/d5c/a22504.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "HandleAfterCast", "d8/d5c/a22504.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d8/d5c/a22504.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d8/d5c/a22504.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d8/d5c/a22504.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d8/d5c/a22504.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d8/d5c/a22504.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

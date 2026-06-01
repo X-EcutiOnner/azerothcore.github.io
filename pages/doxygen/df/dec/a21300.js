@@ -1,10 +1,14 @@
 var a21300 =
 [
-    [ "npc_erekem_guardAI", "df/dec/a21300.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "df/dec/a21300.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "df/dec/a21300.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "df/dec/a21300.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "df/dec/a21300.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "df/dec/a21300.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "df/dec/a21300.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "npc_hidden_cultistAI", "df/dec/a21300.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "df/dec/a21300.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "df/dec/a21300.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "df/dec/a21300.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "df/dec/a21300.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "df/dec/a21300.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "df/dec/a21300.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "df/dec/a21300.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "df/dec/a21300.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "df/dec/a21300.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "df/dec/a21300.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

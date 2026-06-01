@@ -1,7 +1,7 @@
 var a24712 =
 [
-    [ "HandleProc", "d6/d1f/a24712.html#ae8764fc6c284a13f610e55933b24102e", null ],
-    [ "PrepareAuraScript", "d6/d1f/a24712.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
-    [ "Register", "d6/d1f/a24712.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
-    [ "Validate", "d6/d1f/a24712.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
+    [ "HandleEffectRemove", "d6/d1f/a24712.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "d6/d1f/a24712.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "d6/d1f/a24712.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "d6/d1f/a24712.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

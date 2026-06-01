@@ -1,16 +1,27 @@
 var a03746 =
 [
-    [ "npc_kaya_flathoof", "d0/d49/a15910.html", "d0/d49/a15910" ],
-    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d6/d24/a15914.html", "d6/d24/a15914" ],
-    [ "Kaya", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
-      [ "FACTION_ESCORTEE_H", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
-      [ "NPC_GRIMTOTEM_RUFFIAN", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],
-      [ "NPC_GRIMTOTEM_BRUTE", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967", null ],
-      [ "NPC_GRIMTOTEM_SORCERER", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6", null ],
-      [ "SAY_START", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AMBUSH", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e", null ],
-      [ "SAY_END", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97", null ],
-      [ "QUEST_PROTECT_KAYA", "d7/d4f/a03746.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6", null ]
-    ] ],
-    [ "AddSC_stonetalon_mountains", "d7/d4f/a03746.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ]
+    [ "UnitScript", "d7/d89/a10768.html", "d7/d89/a10768" ],
+    [ "UnitHook", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26", [
+      [ "UNITHOOK_ON_HEAL", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
+      [ "UNITHOOK_ON_DAMAGE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
+      [ "UNITHOOK_MODIFY_PERIODIC_DAMAGE_AURAS_TICK", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a022b3554d4b0bded731bb10590f7abde", null ],
+      [ "UNITHOOK_MODIFY_MELEE_DAMAGE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a740266abae12f6909df18d7f112b8bca", null ],
+      [ "UNITHOOK_MODIFY_SPELL_DAMAGE_TAKEN", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a9d3c4b797fc29f1adc4751d2fc6f507e", null ],
+      [ "UNITHOOK_MODIFY_HEAL_RECEIVED", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a46fbfaf61c3d0c65a02d8450baaae5cd", null ],
+      [ "UNITHOOK_ON_BEFORE_ROLL_MELEE_OUTCOME_AGAINST", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a5d1637c534db2ba75c473d0b4c225f49", null ],
+      [ "UNITHOOK_ON_AURA_APPLY", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
+      [ "UNITHOOK_ON_AURA_REMOVE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
+      [ "UNITHOOK_IF_NORMAL_REACTION", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
+      [ "UNITHOOK_CAN_SET_PHASE_MASK", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
+      [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
+      [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],
+      [ "UNITHOOK_ON_PATCH_VALUES_UPDATE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a4ed2a82b73990b4ba2e1d0c317df5d82", null ],
+      [ "UNITHOOK_ON_UNIT_UPDATE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a2bc86ad3742f6fbc38e6030215587e6f", null ],
+      [ "UNITHOOK_ON_DISPLAYID_CHANGE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a1f0200b57821e6e6bad8ea268ff4a6d1", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_EVADE_MODE", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a3cc39d8a6535a3347ce91048c9c7f27e", null ],
+      [ "UNITHOOK_ON_UNIT_ENTER_COMBAT", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a0b91b88b22f4354b14b1864afb187957", null ],
+      [ "UNITHOOK_ON_UNIT_DEATH", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26aa21248825ee1e2f7e9f3eac05561ab57", null ],
+      [ "UNITHOOK_ON_UNIT_SET_SHAPESHIFT_FORM", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26a6ade1eeb61b044e91d50f1f91c14bcd6", null ],
+      [ "UNITHOOK_END", "d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352", null ]
+    ] ]
 ];

@@ -1,9 +1,7 @@
 var a22984 =
 [
-    [ "HandleEffectApply", "dd/df7/a22984.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "dd/df7/a22984.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "dd/df7/a22984.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "dd/df7/a22984.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "dd/df7/a22984.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "dd/df7/a22984.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "PeriodicTick", "dd/df7/a22984.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "dd/df7/a22984.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "dd/df7/a22984.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "dd/df7/a22984.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

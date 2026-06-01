@@ -1,7 +1,6 @@
 var a29448 =
 [
-    [ "RealmHandle", "d7/d7d/a29448.html#a120fb45f2301188a843ab2e712f768e4", null ],
-    [ "RealmHandle", "d7/d7d/a29448.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
-    [ "operator<", "d7/d7d/a29448.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
-    [ "Realm", "d7/d7d/a29448.html#a31af0d9064a295b1579fce3c80217bfd", null ]
+    [ "ExpectDate", "d7/d7d/a29448.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
+    [ "IsLeapYear", "d7/d7d/a29448.html#af80c133dce034eed150593681fba594d", null ],
+    [ "IsValidDate", "d7/d7d/a29448.html#af1ee91196bfb749605bf98f4441a03a4", null ]
 ];

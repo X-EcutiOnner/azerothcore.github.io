@@ -1,5 +1,6 @@
 var a25044 =
 [
-    [ "PrepareSpellScript", "db/d07/a25044.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "db/d07/a25044.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "PrepareSpellScript", "db/d07/a25044.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "db/d07/a25044.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "db/d07/a25044.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

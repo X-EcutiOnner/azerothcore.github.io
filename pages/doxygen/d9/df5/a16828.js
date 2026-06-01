@@ -1,6 +1,6 @@
 var a16828 =
 [
-    [ "npc_anubarak_spikeAI", "db/de4/a16832.html", "db/de4/a16832" ],
-    [ "npc_anubarak_spike", "d9/df5/a16828.html#a4e96de1910c23311ad4644960ccd5022", null ],
-    [ "GetAI", "d9/df5/a16828.html#a7d55b321eb7e595fe5886dc382134947", null ]
+    [ "npc_toc_pet_warlockAI", "db/de4/a16832.html", "db/de4/a16832" ],
+    [ "npc_toc_pet_warlock", "d9/df5/a16828.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d9/df5/a16828.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

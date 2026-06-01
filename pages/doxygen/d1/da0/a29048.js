@@ -1,5 +1,8 @@
 var a29048 =
 [
-    [ "ID", "d1/da0/a29048.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
-    [ "spellId", "d1/da0/a29048.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
+    [ "TimeSeg", "d1/da0/a29048.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "d1/da0/a29048.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "d1/da0/a29048.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "d1/da0/a29048.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "d1/da0/a29048.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

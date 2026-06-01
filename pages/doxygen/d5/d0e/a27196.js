@@ -1,7 +1,7 @@
 var a27196 =
 [
-    [ "HandleDummy", "d5/d0e/a27196.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "d5/d0e/a27196.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "d5/d0e/a27196.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "d5/d0e/a27196.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "HandleProc", "d5/d0e/a27196.html#a2cb0b7d662333dc469d9062ca243d496", null ],
+    [ "PrepareAuraScript", "d5/d0e/a27196.html#a2a82d54427fdc223a6b22a88eb3372e1", null ],
+    [ "Register", "d5/d0e/a27196.html#af7e6f88f43af835920778f8c99775cfb", null ],
+    [ "Validate", "d5/d0e/a27196.html#a734b46af5b2e9b6566f64aafbe8d4d51", null ]
 ];

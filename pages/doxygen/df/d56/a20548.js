@@ -1,6 +1,5 @@
 var a20548 =
 [
-    [ "OnRemoveStun", "df/d56/a20548.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "df/d56/a20548.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "df/d56/a20548.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "go_thorim_lever", "df/d56/a20548.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "df/d56/a20548.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

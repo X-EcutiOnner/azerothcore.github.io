@@ -1,6 +1,6 @@
 var a28188 =
 [
-    [ "go_midsummer_musicAI", "dd/d2d/a28192.html", "dd/d2d/a28192" ],
-    [ "go_midsummer_music", "dc/db6/a28188.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "dc/db6/a28188.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "npc_steam_tonkAI", "dd/d2d/a28192.html", "dd/d2d/a28192" ],
+    [ "npc_steam_tonk", "dc/db6/a28188.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "dc/db6/a28188.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

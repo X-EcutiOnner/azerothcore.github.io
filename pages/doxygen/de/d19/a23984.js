@@ -1,6 +1,8 @@
 var a23984 =
 [
-    [ "npc_fel_guard_houndAI", "d1/d5d/a23988.html", "d1/d5d/a23988" ],
-    [ "npc_fel_guard_hound", "de/d19/a23984.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "de/d19/a23984.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "go_skull_pile", "de/d19/a23984.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "de/d19/a23984.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "de/d19/a23984.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "de/d19/a23984.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "de/d19/a23984.html#af74fcd75404c0886128401d661067394", null ]
 ];

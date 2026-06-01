@@ -1,7 +1,6 @@
 var a18564 =
 [
-    [ "PeriodicTick", "d8/d26/a18564.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
-    [ "PrepareAuraScript", "d8/d26/a18564.html#afcadfbdd84608e827b89c64bf03c8501", null ],
-    [ "Register", "d8/d26/a18564.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
-    [ "Validate", "d8/d26/a18564.html#a879b657d94c1faf6225fe64f907cdf82", null ]
+    [ "npc_valkyr_shadowguardAI", "d8/da7/a18568.html", "d8/da7/a18568" ],
+    [ "npc_valkyr_shadowguard", "d8/d26/a18564.html#a8ee90e21499eebf240c57419454c3829", null ],
+    [ "GetAI", "d8/d26/a18564.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
 ];

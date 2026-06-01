@@ -1,5 +1,6 @@
 var a18236 =
 [
-    [ "at_lady_deathwhisper_entrance", "d4/d20/a18236.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d4/d20/a18236.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "ExtraRemoveEffect", "d4/d20/a18236.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d4/d20/a18236.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d4/d20/a18236.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

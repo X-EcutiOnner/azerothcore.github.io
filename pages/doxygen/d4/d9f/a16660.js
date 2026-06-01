@@ -1,6 +1,6 @@
 var a16660 =
 [
-    [ "HandleScript", "d4/d9f/a16660.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d4/d9f/a16660.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d4/d9f/a16660.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "boss_anubarak_trialAI", "d5/da9/a16664.html", "d5/da9/a16664" ],
+    [ "boss_anubarak_trial", "d4/d9f/a16660.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d4/d9f/a16660.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

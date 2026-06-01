@@ -1,11 +1,9 @@
 var a12356 =
 [
-    [ "npc_rocknotAI", "d2/dbc/a12356.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d2/dbc/a12356.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d2/dbc/a12356.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d2/dbc/a12356.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d2/dbc/a12356.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d2/dbc/a12356.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d2/dbc/a12356.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d2/dbc/a12356.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "pool_commandscript", "d2/dbc/a12356.html#a41308abbe25e1e50325923f62f2fa3af", null ],
+    [ "GetCommands", "d2/dbc/a12356.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
+    [ "HandlePoolInfoCommand", "d2/dbc/a12356.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
+    [ "HandlePoolLookupCommand", "d2/dbc/a12356.html#a377a405a1dae394c6f17579c0f2751eb", null ],
+    [ "ListPoolMembers", "d2/dbc/a12356.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
+    [ "StatusTag", "d2/dbc/a12356.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
 ];

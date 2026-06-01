@@ -1,6 +1,6 @@
 var a26668 =
 [
-    [ "CheckTarget", "da/dc6/a26668.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
-    [ "PrepareSpellScript", "da/dc6/a26668.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
-    [ "Register", "da/dc6/a26668.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
+    [ "HandleScriptEffect", "da/dc6/a26668.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "da/dc6/a26668.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "da/dc6/a26668.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

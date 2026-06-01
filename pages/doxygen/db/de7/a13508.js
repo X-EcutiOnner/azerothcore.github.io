@@ -1,8 +1,7 @@
 var a13508 =
 [
-    [ "npc_highlord_darion_mograineAI", "db/d83/a13512.html", "db/d83/a13512" ],
-    [ "npc_highlord_darion_mograine", "db/de7/a13508.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "db/de7/a13508.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "db/de7/a13508.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "db/de7/a13508.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "HandleScript", "db/de7/a13508.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "db/de7/a13508.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "db/de7/a13508.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "db/de7/a13508.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

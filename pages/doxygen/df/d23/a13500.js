@@ -1,6 +1,7 @@
 var a13500 =
 [
-    [ "OnRemove", "df/d23/a13500.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "df/d23/a13500.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "df/d23/a13500.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "HandleAfterCast", "df/d23/a13500.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "df/d23/a13500.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "df/d23/a13500.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "df/d23/a13500.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

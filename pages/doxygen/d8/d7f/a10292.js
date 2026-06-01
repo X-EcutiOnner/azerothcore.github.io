@@ -1,7 +1,9 @@
 var a10292 =
 [
-    [ "WriteCommonMonsterMovePart", "d8/d7f/a10292.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "d8/d7f/a10292.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "d8/d7f/a10292.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "d8/d7f/a10292.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "ChaseAngle", "d8/d7f/a10292.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "d8/d7f/a10292.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "d8/d7f/a10292.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "d8/d7f/a10292.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "d8/d7f/a10292.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "d8/d7f/a10292.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

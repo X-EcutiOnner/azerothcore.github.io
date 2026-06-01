@@ -1,6 +1,6 @@
 var a22644 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d9/dce/a22648.html", "d9/dce/a22648" ],
-    [ "instance_shadow_labyrinth", "d1/d4b/a22644.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d1/d4b/a22644.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d1/d4b/a22644.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d1/d4b/a22644.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d1/d4b/a22644.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

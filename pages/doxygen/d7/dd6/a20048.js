@@ -1,6 +1,5 @@
 var a20048 =
 [
-    [ "CosmicSmashDamageEvent", "d7/dd6/a20048.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d7/dd6/a20048.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d7/dd6/a20048.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d7/dd6/a20048.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d7/dd6/a20048.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

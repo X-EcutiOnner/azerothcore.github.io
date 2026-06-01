@@ -1,8 +1,6 @@
 var a16976 =
 [
-    [ "npc_toc_pet_hunterAI", "d8/dd7/a16976.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d8/dd7/a16976.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d8/dd7/a16976.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d8/dd7/a16976.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d8/dd7/a16976.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_announcer_toc10", "d8/dd7/a16976.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d8/dd7/a16976.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d8/dd7/a16976.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

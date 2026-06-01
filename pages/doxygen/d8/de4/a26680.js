@@ -1,9 +1,10 @@
 var a26680 =
 [
-    [ "spell_pal_judgement", "d8/de4/a26680.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d8/de4/a26680.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d8/de4/a26680.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d8/de4/a26680.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "d8/de4/a26680.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d8/de4/a26680.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "GetTarget", "d8/de4/a26680.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "d8/de4/a26680.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "d8/de4/a26680.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "d8/de4/a26680.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "d8/de4/a26680.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "d8/de4/a26680.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "d8/de4/a26680.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

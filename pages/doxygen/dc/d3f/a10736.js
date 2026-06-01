@@ -1,8 +1,6 @@
 var a10736 =
 [
-    [ "GuildFilter", "dc/d3f/a10736.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "dc/d3f/a10736.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "dc/d3f/a10736.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "dc/d3f/a10736.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "dc/d3f/a10736.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "OutdoorPvPScript", "dc/d3f/a10736.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "dc/d3f/a10736.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "dc/d3f/a10736.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

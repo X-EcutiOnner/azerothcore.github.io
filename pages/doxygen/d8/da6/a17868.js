@@ -1,7 +1,6 @@
 var a17868 =
 [
-    [ "achievement_once_bitten_twice_shy", "d8/da6/a17868.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
-    [ "OnCheck", "d8/da6/a17868.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
-    [ "_spawnMode", "d8/da6/a17868.html#a6f02f5ab07143ddff553279049714902", null ],
-    [ "_wasVampire", "d8/da6/a17868.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
+    [ "npc_gunship_gunnerAI", "d0/d25/a17872.html", "d0/d25/a17872" ],
+    [ "npc_gunship_gunner", "d8/da6/a17868.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d8/da6/a17868.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

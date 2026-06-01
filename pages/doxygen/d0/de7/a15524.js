@@ -1,7 +1,13 @@
 var a15524 =
 [
-    [ "boss_rajaxx", "d0/de7/a15524.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d0/de7/a15524.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d0/de7/a15524.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d0/de7/a15524.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "boss_sartura", "d0/de7/a15524.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
+    [ "DamageTaken", "d0/de7/a15524.html#a9a404743ac8491a9efc7091259706e0f", null ],
+    [ "InitializeAI", "d0/de7/a15524.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
+    [ "JustDied", "d0/de7/a15524.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
+    [ "JustEngagedWith", "d0/de7/a15524.html#ab1c024908117e8460eb89c062d3825dc", null ],
+    [ "KilledUnit", "d0/de7/a15524.html#a516a75910e872718a519c2a5c9805770", null ],
+    [ "Reset", "d0/de7/a15524.html#ab3514ad48f622f65d67063723601f8de", null ],
+    [ "UpdateAI", "d0/de7/a15524.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
+    [ "berserked", "d0/de7/a15524.html#a8ad40cee9667500cb0e9533256d216c6", null ],
+    [ "enraged", "d0/de7/a15524.html#af916ff3f6468b1e48d5b1944442594e5", null ]
 ];

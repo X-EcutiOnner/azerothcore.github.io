@@ -1,12 +1,5 @@
 var a28384 =
 [
-    [ "npc_preciousAI", "db/d7b/a28384.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "db/d7b/a28384.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "db/d7b/a28384.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "db/d7b/a28384.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "db/d7b/a28384.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "db/d7b/a28384.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "db/d7b/a28384.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "db/d7b/a28384.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "db/d7b/a28384.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "ID", "db/d7b/a28384.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "db/d7b/a28384.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

@@ -1,8 +1,8 @@
 var a14316 =
 [
-    [ "FilterTargets", "dc/d6c/a14316.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "dc/d6c/a14316.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "dc/d6c/a14316.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "dc/d6c/a14316.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "dc/d6c/a14316.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "boss_grilekAI", "dc/d6c/a14316.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "dc/d6c/a14316.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "dc/d6c/a14316.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "dc/d6c/a14316.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "dc/d6c/a14316.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

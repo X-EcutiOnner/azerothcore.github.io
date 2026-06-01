@@ -1,10 +1,11 @@
 var a10172 =
 [
-    [ "ChaseRange", "db/d67/a10172.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "db/d67/a10172.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "db/d67/a10172.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "db/d67/a10172.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "db/d67/a10172.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "db/d67/a10172.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "db/d67/a10172.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "StaticVMapCollisionData", "db/d67/a10172.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "db/d67/a10172.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "db/d67/a10172.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "db/d67/a10172.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "db/d67/a10172.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "db/d67/a10172.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "db/d67/a10172.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "db/d67/a10172.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

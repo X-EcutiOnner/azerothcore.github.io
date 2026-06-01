@@ -1,15 +1,18 @@
 var a28072 =
 [
-    [ "boss_taerarAI", "d5/dde/a28072.html#a69171fba79d49d12a2e96fb5c2baa0aa", null ],
-    [ "DamageTaken", "d5/dde/a28072.html#a08babc3ca2cd76891b9c0e196e461c79", null ],
-    [ "ExecuteEvent", "d5/dde/a28072.html#a89750136787d549ac4c744a0e3b9239c", null ],
-    [ "JustDied", "d5/dde/a28072.html#add2712022edbd88504de2dd147a098a0", null ],
-    [ "JustEngagedWith", "d5/dde/a28072.html#adf280483e6fd7f01d14472973c021a91", null ],
-    [ "Reset", "d5/dde/a28072.html#a74a53b7c4672bcba1cc4f69407c23c42", null ],
-    [ "SummonedCreatureDies", "d5/dde/a28072.html#a35557d97df6d83c9fafead3f59e1af2e", null ],
-    [ "UpdateAI", "d5/dde/a28072.html#a406213e6b3a1397c0026d5dc857f08a9", null ],
-    [ "_banished", "d5/dde/a28072.html#a8ee658a07f28df0c5f46cedac25f68ab", null ],
-    [ "_banishedTimer", "d5/dde/a28072.html#a6b7bd08d3e4362201ee904019f9e6b51", null ],
-    [ "_shades", "d5/dde/a28072.html#a6e77285330fcd09fd13ef0d029e2a554", null ],
-    [ "_stage", "d5/dde/a28072.html#a2d49f2ce95d16cfc1b9525256f0a6bc2", null ]
+    [ "npc_simoneAI", "d5/dde/a28072.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
+    [ "CorpseRemoved", "d5/dde/a28072.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
+    [ "HandlePetRespawn", "d5/dde/a28072.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
+    [ "JustDied", "d5/dde/a28072.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
+    [ "JustEngagedWith", "d5/dde/a28072.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
+    [ "JustRespawned", "d5/dde/a28072.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
+    [ "Precious", "d5/dde/a28072.html#ad40c5f293558ca5a00614810a89d86c9", null ],
+    [ "Reset", "d5/dde/a28072.html#a1a62a843922448390151ed14e0ca2148", null ],
+    [ "RespawnPet", "d5/dde/a28072.html#af6d0cad159d88862e915c9f9337a49e3", null ],
+    [ "ScheduleEncounterStart", "d5/dde/a28072.html#ab879f0b452e511212be4df530b11d461", null ],
+    [ "SetPreciousGUID", "d5/dde/a28072.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
+    [ "SpellHit", "d5/dde/a28072.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
+    [ "UpdateAI", "d5/dde/a28072.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
+    [ "events", "d5/dde/a28072.html#a1118fe0b8375db5327a9651a13832523", null ],
+    [ "preciousGUID", "d5/dde/a28072.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
 ];

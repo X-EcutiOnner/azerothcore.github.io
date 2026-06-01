@@ -1,6 +1,5 @@
 var a27892 =
 [
-    [ "HandleProc", "d5/de5/a27892.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "d5/de5/a27892.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "d5/de5/a27892.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "go_sacred_fire_of_life", "d5/de5/a27892.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d5/de5/a27892.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

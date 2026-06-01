@@ -1,8 +1,13 @@
 var a14752 =
 [
-    [ "OnApply", "da/d19/a14752.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "da/d19/a14752.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "da/d19/a14752.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "da/d19/a14752.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "da/d19/a14752.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "boss_headless_horseman_head", "da/d19/a14752.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "da/d19/a14752.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "da/d19/a14752.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "da/d19/a14752.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "da/d19/a14752.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "da/d19/a14752.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "da/d19/a14752.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "da/d19/a14752.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "da/d19/a14752.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "da/d19/a14752.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

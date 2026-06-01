@@ -1,6 +1,7 @@
 var a11352 =
 [
-    [ "CorpseMapPositionQuery", "de/deb/a11352.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "de/deb/a11352.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "de/deb/a11352.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "TrainerBuySpell", "de/deb/a11352.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "de/deb/a11352.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "de/deb/a11352.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "de/deb/a11352.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

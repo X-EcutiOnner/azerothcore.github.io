@@ -1,8 +1,13 @@
 var a06180 =
 [
-    [ "GuardAI", "d1/d27/a06180.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "d1/d27/a06180.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "d1/d27/a06180.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "d1/d27/a06180.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "d1/d27/a06180.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "TransactionTask", "d1/d27/a06180.html#a13573f827891ad172847dc0e466b0b9e", null ],
+    [ "~TransactionTask", "d1/d27/a06180.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
+    [ "CleanupOnFailure", "d1/d27/a06180.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
+    [ "Execute", "d1/d27/a06180.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
+    [ "TryExecute", "d1/d27/a06180.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
+    [ "DatabaseWorker", "d1/d27/a06180.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
+    [ "DatabaseWorkerPool", "d1/d27/a06180.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
+    [ "TransactionCallback", "d1/d27/a06180.html#ac3345f3314b133d53268f53e222cdc74", null ],
+    [ "_deadlockLock", "d1/d27/a06180.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
+    [ "m_trans", "d1/d27/a06180.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
 ];

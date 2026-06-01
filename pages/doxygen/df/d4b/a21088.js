@@ -1,6 +1,8 @@
 var a21088 =
 [
-    [ "boss_palehoofAI", "d7/dba/a21092.html", "d7/dba/a21092" ],
-    [ "boss_palehoof", "df/d4b/a21088.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "df/d4b/a21088.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_frozen_orbAI", "df/d4b/a21088.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "df/d4b/a21088.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "df/d4b/a21088.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "df/d4b/a21088.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "df/d4b/a21088.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

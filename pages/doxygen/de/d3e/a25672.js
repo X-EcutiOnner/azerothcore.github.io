@@ -1,6 +1,6 @@
 var a25672 =
 [
-    [ "CheckCast", "de/d3e/a25672.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "de/d3e/a25672.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "de/d3e/a25672.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "HandleProc", "de/d3e/a25672.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "de/d3e/a25672.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "de/d3e/a25672.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

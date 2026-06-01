@@ -1,5 +1,7 @@
 var a05488 =
 [
-    [ "_elements", "db/da4/a05488.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
-    [ "_TailElements", "db/da4/a05488.html#a7d3b640a8d68089436c3792b3db088f1", null ]
+    [ "SymbolPair", "db/da4/a05488.html#ad6b1fba614fa7de6471c56078b62c57d", null ],
+    [ "operator<", "db/da4/a05488.html#a94b5b6c8c41fb53aa2a28e089d495545", null ],
+    [ "_offset", "db/da4/a05488.html#ac011ac111d0ced8871d315e164948bea", null ],
+    [ "_type", "db/da4/a05488.html#a50579f45ce4d7ef0155bac20b1958254", null ]
 ];

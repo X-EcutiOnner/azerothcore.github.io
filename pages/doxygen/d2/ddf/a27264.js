@@ -1,9 +1,7 @@
 var a27264 =
 [
-    [ "Absorb", "d2/ddf/a27264.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
-    [ "CalculateAmount", "d2/ddf/a27264.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
-    [ "Load", "d2/ddf/a27264.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
-    [ "PrepareAuraScript", "d2/ddf/a27264.html#ac273b669dc396561d9ec8b523659363f", null ],
-    [ "Register", "d2/ddf/a27264.html#a656f4770b0f7099f5926a8063f7d740c", null ],
-    [ "absorbPct", "d2/ddf/a27264.html#a31d7ca52ace4e22652403292969baf55", null ]
+    [ "HandleProc", "d2/ddf/a27264.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "d2/ddf/a27264.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "d2/ddf/a27264.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "d2/ddf/a27264.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

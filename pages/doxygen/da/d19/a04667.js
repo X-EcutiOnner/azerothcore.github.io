@@ -1,14 +1,19 @@
 var a04667 =
 [
-    [ "go_main_chambers_access_panel", "d8/d51/a23026.html", "d8/d51/a23026" ],
-    [ "instance_steam_vault", "de/dbe/a23030.html", "de/dbe/a23030" ],
-    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "dc/d6b/a23034.html", "dc/d6b/a23034" ],
-    [ "MainChambersAccessPanelSays", "da/d19/a04667.html#aa8d293574a308aad41f620556eb63b6a", [
-      [ "SAY_FAINT_ECHO", "da/d19/a04667.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
-      [ "SAY_LOUD_RUMBLE", "da/d19/a04667.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
-    ] ],
-    [ "AddSC_instance_steam_vault", "da/d19/a04667.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
-    [ "creatureData", "da/d19/a04667.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "minionData", "da/d19/a04667.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "objectData", "da/d19/a04667.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
+    [ "Find", "da/d19/a04667.html#a516e9fe262b5a1c4dcd65da7ccf71b5a", null ],
+    [ "Find", "da/d19/a04667.html#a6823f2f647f14752459f26981d4c26b7", null ],
+    [ "Find", "da/d19/a04667.html#a4bfb4bddc798432f29bd818e89944edf", null ],
+    [ "Find", "da/d19/a04667.html#a19feef3708a949a3dcdf70f3fe86ff0e", null ],
+    [ "Find", "da/d19/a04667.html#ae166e7e76c33c81464ce6c03126a9851", null ],
+    [ "Find", "da/d19/a04667.html#a6c9d620966c3418af1971dc8326ccb4a", null ],
+    [ "Find", "da/d19/a04667.html#a5ebe906ee0f2f706bcc950236459a7f8", null ],
+    [ "Find", "da/d19/a04667.html#a63a0d0d14ac1e3ecbed175c4206b87f2", null ],
+    [ "Insert", "da/d19/a04667.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
+    [ "Insert", "da/d19/a04667.html#a2cb738cb02deb5f4d7d30a7d860a45ff", null ],
+    [ "Insert", "da/d19/a04667.html#a9113786a11594dfcecc6d3bb4e1aadb2", null ],
+    [ "Insert", "da/d19/a04667.html#a3bc394692e5fd3b096a149b1208e3675", null ],
+    [ "Remove", "da/d19/a04667.html#a3714737e66e682a43beb71292ccd564e", null ],
+    [ "Remove", "da/d19/a04667.html#ac344e92ea8d73f94dc08c6a52001ec3e", null ],
+    [ "Remove", "da/d19/a04667.html#aecc909b333bb7f55f438bfcf1ea3085f", null ],
+    [ "Remove", "da/d19/a04667.html#a36e61ba9bc4e287e215444ea9314a656", null ]
 ];

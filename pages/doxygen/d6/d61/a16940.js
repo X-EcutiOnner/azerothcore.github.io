@@ -1,6 +1,5 @@
 var a16940 =
 [
-    [ "npc_toc_rogueAI", "d6/dca/a16944.html", "d6/dca/a16944" ],
-    [ "npc_toc_rogue", "d6/d61/a16940.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "d6/d61/a16940.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "boss_fjolaAI", "d6/d61/a16940.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d6/d61/a16940.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

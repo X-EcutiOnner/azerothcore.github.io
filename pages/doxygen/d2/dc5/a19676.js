@@ -1,5 +1,7 @@
 var a19676 =
 [
-    [ "at_naxxramas_hub_portal", "d2/dc5/a19676.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d2/dc5/a19676.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "CalcDamage", "d2/dc5/a19676.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
+    [ "PrepareSpellScript", "d2/dc5/a19676.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
+    [ "Register", "d2/dc5/a19676.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
+    [ "Validate", "d2/dc5/a19676.html#a773c608119a84cc3f02e7b4d786f2741", null ]
 ];

@@ -1,6 +1,14 @@
 var a16420 =
 [
-    [ "HandleScriptEffect", "dc/d43/a16420.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "dc/d43/a16420.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "dc/d43/a16420.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "npc_halion_controllerAI", "dc/d43/a16420.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "dc/d43/a16420.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "dc/d43/a16420.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "dc/d43/a16420.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "dc/d43/a16420.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "dc/d43/a16420.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "dc/d43/a16420.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "dc/d43/a16420.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "dc/d43/a16420.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "dc/d43/a16420.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "dc/d43/a16420.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

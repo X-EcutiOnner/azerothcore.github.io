@@ -1,8 +1,9 @@
 var a15740 =
 [
-    [ "npc_obsidian_eradicator", "da/d6b/a15740.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "da/d6b/a15740.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "da/d6b/a15740.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "da/d6b/a15740.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "da/d6b/a15740.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "npc_prospector_remtravelAI", "da/d6b/a15740.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "da/d6b/a15740.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "da/d6b/a15740.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "da/d6b/a15740.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "da/d6b/a15740.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "da/d6b/a15740.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

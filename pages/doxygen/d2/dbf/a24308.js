@@ -1,6 +1,10 @@
 var a24308 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "d2/dbf/a24308.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "d2/dbf/a24308.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "d2/dbf/a24308.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "Absorb", "d2/dbf/a24308.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "d2/dbf/a24308.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "d2/dbf/a24308.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "d2/dbf/a24308.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "d2/dbf/a24308.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "d2/dbf/a24308.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "d2/dbf/a24308.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

@@ -1,11 +1,10 @@
 var a25272 =
 [
-    [ "GetPennatSpellId", "d3/db9/a25272.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
-    [ "HandleApplyEffect", "d3/db9/a25272.html#a396c05708a89758e4038b327e09c65e8", null ],
-    [ "HandleRemoveEffect", "d3/db9/a25272.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
-    [ "Load", "d3/db9/a25272.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
-    [ "PrepareAuraScript", "d3/db9/a25272.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
-    [ "Register", "d3/db9/a25272.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
-    [ "Validate", "d3/db9/a25272.html#a095b002671940f2b3504ae2646f76d5a", null ],
-    [ "_pennantSpellId", "d3/db9/a25272.html#a092f0d88ede12dea699b39d5df04131c", null ]
+    [ "Load", "d3/db9/a25272.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d3/db9/a25272.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d3/db9/a25272.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d3/db9/a25272.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d3/db9/a25272.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d3/db9/a25272.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d3/db9/a25272.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

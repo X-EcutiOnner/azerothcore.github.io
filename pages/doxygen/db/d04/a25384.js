@@ -1,11 +1,7 @@
 var a25384 =
 [
-    [ "spell_gen_consume", "db/d04/a25384.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "db/d04/a25384.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "db/d04/a25384.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "db/d04/a25384.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "db/d04/a25384.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "db/d04/a25384.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "db/d04/a25384.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "db/d04/a25384.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "HandleProc", "db/d04/a25384.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
+    [ "PrepareAuraScript", "db/d04/a25384.html#a56c8ada8651cfd024cc7514417b986d6", null ],
+    [ "Register", "db/d04/a25384.html#a818ed2117c52a53939df5bf4d035854f", null ],
+    [ "Validate", "db/d04/a25384.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
 ];

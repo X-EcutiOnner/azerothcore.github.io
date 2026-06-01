@@ -1,11 +1,10 @@
 var a14032 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "dc/db8/a14032.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
-    [ "CanBeSeen", "dc/db8/a14032.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
-    [ "JustDied", "dc/db8/a14032.html#ae862f8763614a98dae6b982414caf30a", null ],
-    [ "MovementInform", "dc/db8/a14032.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
-    [ "SpellHit", "dc/db8/a14032.html#abfddfff72b63fd05673584915d647958", null ],
-    [ "UpdateAI", "dc/db8/a14032.html#a540e3c28cc36917cde0153dd372d0287", null ],
-    [ "_targetGUID", "dc/db8/a14032.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
-    [ "timer", "dc/db8/a14032.html#a204e0a809e9c392f20ec900e9a90a075", null ]
+    [ "npc_tyrion_spybotAI", "dc/db8/a14032.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "dc/db8/a14032.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "dc/db8/a14032.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "dc/db8/a14032.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "WaypointReached", "dc/db8/a14032.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "uiPhase", "dc/db8/a14032.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "dc/db8/a14032.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

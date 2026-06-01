@@ -1,8 +1,10 @@
 var a21260 =
 [
-    [ "npc_frozen_orbAI", "da/d91/a21260.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "da/d91/a21260.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "da/d91/a21260.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "da/d91/a21260.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "da/d91/a21260.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "da/d91/a21260.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "da/d91/a21260.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "da/d91/a21260.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "da/d91/a21260.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "da/d91/a21260.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "da/d91/a21260.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "da/d91/a21260.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

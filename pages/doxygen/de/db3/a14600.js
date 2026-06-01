@@ -1,10 +1,7 @@
 var a14600 =
 [
-    [ "npc_zealot_lorkhan", "de/db3/a14600.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "de/db3/a14600.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "de/db3/a14600.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "de/db3/a14600.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "de/db3/a14600.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "de/db3/a14600.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "de/db3/a14600.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "go_direbrew_mole_machineAI", "de/db3/a14600.html#a4e667ad9e572e93c045ae01f63bea648", null ],
+    [ "Reset", "de/db3/a14600.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
+    [ "UpdateAI", "de/db3/a14600.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
+    [ "_scheduler", "de/db3/a14600.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
 ];

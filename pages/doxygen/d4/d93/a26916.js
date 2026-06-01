@@ -1,7 +1,6 @@
 var a26916 =
 [
-    [ "HandleProc", "d4/d93/a26916.html#a512ec25fe649e42930d64effa4f7868b", null ],
-    [ "PrepareAuraScript", "d4/d93/a26916.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
-    [ "Register", "d4/d93/a26916.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
-    [ "Validate", "d4/d93/a26916.html#a22dea9fb57d89b1d4813722968b5429f", null ]
+    [ "CheckProc", "d4/d93/a26916.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "d4/d93/a26916.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "d4/d93/a26916.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

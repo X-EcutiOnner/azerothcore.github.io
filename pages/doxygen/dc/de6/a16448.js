@@ -1,8 +1,10 @@
 var a16448 =
 [
-    [ "boss_sartharion_vesperon", "dc/de6/a16448.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "dc/de6/a16448.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "dc/de6/a16448.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "dc/de6/a16448.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "dc/de6/a16448.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "spell_halion_combustion_consumption_aura", "dc/de6/a16448.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "dc/de6/a16448.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "dc/de6/a16448.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "dc/de6/a16448.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "dc/de6/a16448.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "dc/de6/a16448.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "dc/de6/a16448.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

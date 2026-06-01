@@ -1,7 +1,8 @@
 var a14480 =
 [
-    [ "OnRemove", "db/d08/a14480.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "db/d08/a14480.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "db/d08/a14480.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "db/d08/a14480.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_venoxis", "db/d08/a14480.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "db/d08/a14480.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "db/d08/a14480.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "db/d08/a14480.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "db/d08/a14480.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

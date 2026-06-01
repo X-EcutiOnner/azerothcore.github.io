@@ -1,15 +1,14 @@
 var a15660 =
 [
-    [ "boss_skeram", "d0/db9/a15660.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "d0/db9/a15660.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "d0/db9/a15660.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "d0/db9/a15660.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "d0/db9/a15660.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "d0/db9/a15660.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "d0/db9/a15660.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "d0/db9/a15660.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "d0/db9/a15660.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "d0/db9/a15660.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "d0/db9/a15660.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "d0/db9/a15660.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "npc_draenei_survivorAI", "d0/db9/a15660.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
+    [ "JustEngagedWith", "d0/db9/a15660.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
+    [ "MoveInLineOfSight", "d0/db9/a15660.html#a2b3f0a595fde04ad1e054331a596e225", null ],
+    [ "Reset", "d0/db9/a15660.html#a3db19a846ce3b4810321eb02d314633f", null ],
+    [ "SpellHit", "d0/db9/a15660.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
+    [ "UpdateAI", "d0/db9/a15660.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
+    [ "CanSayHelp", "d0/db9/a15660.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
+    [ "pCaster", "d0/db9/a15660.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
+    [ "RunAwayTimer", "d0/db9/a15660.html#a233885b12615bfbc927d8845d0cff3fd", null ],
+    [ "SayHelpTimer", "d0/db9/a15660.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
+    [ "SayThanksTimer", "d0/db9/a15660.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
 ];

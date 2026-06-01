@@ -1,6 +1,7 @@
 var a10140 =
 [
-    [ "aiNotifyDelay", "df/d01/a10140.html#af70453021c5ded85c73a4d5559dca2ea", null ],
-    [ "requiredMoveDistanceSq", "df/d01/a10140.html#aaa4faa0170181e409940b5441eb2f586", null ],
-    [ "visibilityNotifyDelay", "df/d01/a10140.html#ad566fd5eff102929247b75cf5092a60b", null ]
+    [ "ownerGUID", "df/d01/a10140.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
+    [ "script", "df/d01/a10140.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
+    [ "sourceGUID", "df/d01/a10140.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
+    [ "targetGUID", "df/d01/a10140.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
 ];

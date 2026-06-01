@@ -1,8 +1,6 @@
 var a25448 =
 [
-    [ "OnApply", "db/ded/a25448.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "db/ded/a25448.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "db/ded/a25448.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "db/ded/a25448.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "db/ded/a25448.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "HandleDummyTick", "db/ded/a25448.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "db/ded/a25448.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "db/ded/a25448.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

@@ -1,6 +1,8 @@
 var a23336 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/dcb/a23336.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d3/dcb/a23336.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d3/dcb/a23336.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "npc_warchief_portal", "d3/dcb/a23336.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d3/dcb/a23336.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d3/dcb/a23336.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d3/dcb/a23336.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d3/dcb/a23336.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

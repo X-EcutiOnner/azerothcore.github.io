@@ -1,7 +1,13 @@
 var a22792 =
 [
-    [ "PrepareAuraScript", "de/dd4/a22792.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "de/dd4/a22792.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "de/dd4/a22792.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "de/dd4/a22792.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_fathomguard_caribdis", "de/dd4/a22792.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "de/dd4/a22792.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "de/dd4/a22792.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "de/dd4/a22792.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "de/dd4/a22792.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "de/dd4/a22792.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "de/dd4/a22792.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "de/dd4/a22792.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "de/dd4/a22792.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "de/dd4/a22792.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

@@ -1,6 +1,6 @@
 var a28060 =
 [
-    [ "boss_emerissAI", "da/dce/a28064.html", "da/dce/a28064" ],
-    [ "boss_emeriss", "d5/d5c/a28060.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d5/d5c/a28060.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "npc_preciousAI", "da/dce/a28064.html", "da/dce/a28064" ],
+    [ "npc_precious", "d5/d5c/a28060.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d5/d5c/a28060.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

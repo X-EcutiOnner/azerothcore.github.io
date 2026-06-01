@@ -1,6 +1,6 @@
 var a17628 =
 [
-    [ "npc_living_mojoAI", "d7/d31/a17632.html", "d7/d31/a17632" ],
-    [ "npc_living_mojo", "d3/d99/a17628.html#af24190023549b4ec5fa47b5959618a8a", null ],
-    [ "GetAI", "d3/d99/a17628.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
+    [ "FilterTargets", "d3/d99/a17628.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d3/d99/a17628.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d3/d99/a17628.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

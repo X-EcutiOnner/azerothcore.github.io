@@ -1,6 +1,7 @@
 var a29652 =
 [
-    [ "SetUp", "d6/d22/a29652.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "d6/d22/a29652.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "d6/d22/a29652.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "asyncId", "d6/d22/a29652.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "d6/d22/a29652.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "d6/d22/a29652.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "d6/d22/a29652.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

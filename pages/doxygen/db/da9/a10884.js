@@ -1,6 +1,5 @@
 var a10884 =
 [
-    [ "GuildEventLogQueryResults", "db/da9/a10884.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "db/da9/a10884.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "db/da9/a10884.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "LogoutComplete", "db/da9/a10884.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "db/da9/a10884.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

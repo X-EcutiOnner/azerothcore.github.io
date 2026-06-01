@@ -1,14 +1,9 @@
 var a09008 =
 [
-    [ "SafeUnitPointer", "dd/d73/a09008.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "dd/d73/a09008.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "dd/d73/a09008.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "dd/d73/a09008.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "dd/d73/a09008.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "dd/d73/a09008.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "dd/d73/a09008.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "dd/d73/a09008.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "dd/d73/a09008.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "dd/d73/a09008.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "dd/d73/a09008.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "GlobalCooldownMgr", "dd/d73/a09008.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "dd/d73/a09008.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "dd/d73/a09008.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "dd/d73/a09008.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "dd/d73/a09008.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "dd/d73/a09008.html#a80d03691d36758733f326b65992f266e", null ]
 ];

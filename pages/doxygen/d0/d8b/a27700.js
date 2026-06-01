@@ -1,7 +1,6 @@
 var a27700 =
 [
-    [ "HandleProc", "d0/d8b/a27700.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
-    [ "PrepareAuraScript", "d0/d8b/a27700.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
-    [ "Register", "d0/d8b/a27700.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
-    [ "Validate", "d0/d8b/a27700.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d0/d8b/a27700.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d0/d8b/a27700.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d0/d8b/a27700.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

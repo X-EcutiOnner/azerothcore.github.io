@@ -1,6 +1,7 @@
 var a21772 =
 [
-    [ "GhoulTargetCheck", "d8/d57/a21772.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "d8/d57/a21772.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "d8/d57/a21772.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "HandleDummy", "d8/d57/a21772.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "d8/d57/a21772.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "d8/d57/a21772.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "d8/d57/a21772.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

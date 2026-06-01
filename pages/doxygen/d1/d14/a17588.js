@@ -1,7 +1,6 @@
 var a17588 =
 [
-    [ "HandleEffectPeriodic", "d1/d14/a17588.html#a4802c810efd7dd8a9954845366398e7f", null ],
-    [ "PrepareAuraScript", "d1/d14/a17588.html#a008166d25e7a278507e953325f40ccd5", null ],
-    [ "Register", "d1/d14/a17588.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
-    [ "Validate", "d1/d14/a17588.html#a3fc78060f881262c59151b6eb6a943f8", null ]
+    [ "ChangeSummonPos", "d1/d14/a17588.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d1/d14/a17588.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d1/d14/a17588.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

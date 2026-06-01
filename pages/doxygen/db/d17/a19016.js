@@ -1,8 +1,7 @@
 var a19016 =
 [
-    [ "FilterTargets", "db/d17/a19016.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "db/d17/a19016.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "db/d17/a19016.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "db/d17/a19016.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "db/d17/a19016.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "HandleDummyLaunch", "db/d17/a19016.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "db/d17/a19016.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "db/d17/a19016.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "db/d17/a19016.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

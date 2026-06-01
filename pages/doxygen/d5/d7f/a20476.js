@@ -1,5 +1,11 @@
 var a20476 =
 [
-    [ "achievement_getting_cold_in_here", "d5/d7f/a20476.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d5/d7f/a20476.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "npc_ulduar_expedition_engineer", "d5/d7f/a20476.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "d5/d7f/a20476.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "d5/d7f/a20476.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "d5/d7f/a20476.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "d5/d7f/a20476.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "d5/d7f/a20476.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "d5/d7f/a20476.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "d5/d7f/a20476.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

@@ -1,7 +1,7 @@
 var a16048 =
 [
-    [ "DelayedWindstoneSummonEvent", "dd/d74/a16048.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "dd/d74/a16048.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "dd/d74/a16048.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "dd/d74/a16048.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_ringoAI", "db/db7/a16052.html", "db/db7/a16052" ],
+    [ "npc_ringo", "dd/d74/a16048.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "dd/d74/a16048.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "dd/d74/a16048.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

@@ -1,5 +1,7 @@
 var a21672 =
 [
-    [ "go_the_pearl_of_the_depths", "d7/df2/a21672.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d7/df2/a21672.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_Apothecary_HanesAI", "d1/d94/a21676.html", "d1/d94/a21676" ],
+    [ "npc_apothecary_hanes", "d7/df2/a21672.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d7/df2/a21672.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d7/df2/a21672.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

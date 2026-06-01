@@ -1,6 +1,8 @@
 var a26172 =
 [
-    [ "OnPeriodic", "d2/d3d/a26172.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d2/d3d/a26172.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d2/d3d/a26172.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "CheckProc", "d2/d3d/a26172.html#a23dc61d8a007832a37ab7da71c36537d", null ],
+    [ "HandleProc", "d2/d3d/a26172.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d2/d3d/a26172.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d2/d3d/a26172.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d2/d3d/a26172.html#a3d2d6f1a00825ac66f507a790f468198", null ]
 ];

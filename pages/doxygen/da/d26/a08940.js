@@ -1,8 +1,10 @@
 var a08940 =
 [
-    [ "DiminishingReturn", "da/d26/a08940.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "da/d26/a08940.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "da/d26/a08940.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "da/d26/a08940.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "da/d26/a08940.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "TradeStatusInfo", "da/d26/a08940.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "da/d26/a08940.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "da/d26/a08940.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "da/d26/a08940.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "da/d26/a08940.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "da/d26/a08940.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "da/d26/a08940.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

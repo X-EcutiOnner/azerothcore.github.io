@@ -1,6 +1,6 @@
 var a14428 =
 [
-    [ "boss_gahzranka", "d9/de1/a14428.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "d9/de1/a14428.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "d9/de1/a14428.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "OnRemove", "d9/de1/a14428.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d9/de1/a14428.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d9/de1/a14428.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

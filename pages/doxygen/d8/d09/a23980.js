@@ -1,9 +1,11 @@
 var a23980 =
 [
-    [ "npc_wounded_blood_elfAI", "d8/d09/a23980.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d8/d09/a23980.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d8/d09/a23980.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d8/d09/a23980.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d8/d09/a23980.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d8/d09/a23980.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "npc_isla_starmaneAI", "d8/d09/a23980.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d8/d09/a23980.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d8/d09/a23980.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d8/d09/a23980.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d8/d09/a23980.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d8/d09/a23980.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "WaypointReached", "d8/d09/a23980.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d8/d09/a23980.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

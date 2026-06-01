@@ -1,11 +1,6 @@
 var a25388 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "da/dc8/a25388.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "da/dc8/a25388.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "da/dc8/a25388.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "da/dc8/a25388.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "da/dc8/a25388.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "da/dc8/a25388.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "da/dc8/a25388.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "da/dc8/a25388.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "HandleFinish", "da/dc8/a25388.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "da/dc8/a25388.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "da/dc8/a25388.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

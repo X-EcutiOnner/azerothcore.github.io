@@ -1,7 +1,7 @@
 var a24252 =
 [
-    [ "HandleSendEvent", "d0/d62/a24252.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d0/d62/a24252.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d0/d62/a24252.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d0/d62/a24252.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "CalcDamage", "d0/d62/a24252.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "d0/d62/a24252.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "d0/d62/a24252.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "d0/d62/a24252.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

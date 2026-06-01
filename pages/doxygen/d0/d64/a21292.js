@@ -1,14 +1,9 @@
 var a21292 =
 [
-    [ "boss_erekemAI", "d0/d64/a21292.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "d0/d64/a21292.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "d0/d64/a21292.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "d0/d64/a21292.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "d0/d64/a21292.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "d0/d64/a21292.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "d0/d64/a21292.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "d0/d64/a21292.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "d0/d64/a21292.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "d0/d64/a21292.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "d0/d64/a21292.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "npc_warmage_coldarraAI", "d0/d64/a21292.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d0/d64/a21292.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d0/d64/a21292.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d0/d64/a21292.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d0/d64/a21292.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d0/d64/a21292.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

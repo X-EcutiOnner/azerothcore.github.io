@@ -1,8 +1,10 @@
 var a23700 =
 [
-    [ "boss_laj", "d3/dea/a23700.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d3/dea/a23700.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d3/dea/a23700.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d3/dea/a23700.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d3/dea/a23700.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_wounded_blood_elfAI", "d3/dea/a23700.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d3/dea/a23700.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d3/dea/a23700.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d3/dea/a23700.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d3/dea/a23700.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d3/dea/a23700.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d3/dea/a23700.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

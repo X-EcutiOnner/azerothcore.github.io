@@ -1,7 +1,6 @@
 var a27784 =
 [
-    [ "FilterTargets", "db/dc3/a27784.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "db/dc3/a27784.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "db/dc3/a27784.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "db/dc3/a27784.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "go_witherbark_totem_bundleAI", "db/dc3/a27784.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "db/dc3/a27784.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "db/dc3/a27784.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

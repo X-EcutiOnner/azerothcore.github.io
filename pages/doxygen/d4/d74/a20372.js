@@ -1,6 +1,5 @@
 var a20372 =
 [
-    [ "FilterTargets", "d4/d74/a20372.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d4/d74/a20372.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d4/d74/a20372.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "achievement_kologarn_with_open_arms", "d4/d74/a20372.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "d4/d74/a20372.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

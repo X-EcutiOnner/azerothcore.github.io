@@ -1,5 +1,7 @@
 var a28320 =
 [
-    [ "item_disgusting_jar", "dd/de2/a28320.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "dd/de2/a28320.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "HandleDummy", "dd/de2/a28320.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "dd/de2/a28320.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "dd/de2/a28320.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "dd/de2/a28320.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

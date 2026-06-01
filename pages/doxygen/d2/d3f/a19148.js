@@ -1,8 +1,7 @@
 var a19148 =
 [
-    [ "npc_arthas_teleport_visualAI", "d2/d3f/a19148.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d2/d3f/a19148.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d2/d3f/a19148.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d2/d3f/a19148.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d2/d3f/a19148.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "DelayedCastMincharEvent", "d2/d3f/a19148.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d2/d3f/a19148.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d2/d3f/a19148.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d2/d3f/a19148.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

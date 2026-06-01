@@ -1,8 +1,7 @@
 var a27392 =
 [
-    [ "ApplyDebuff", "d8/d15/a27392.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d8/d15/a27392.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d8/d15/a27392.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d8/d15/a27392.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d8/d15/a27392.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CalculateAmount", "d8/d15/a27392.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
+    [ "PrepareAuraScript", "d8/d15/a27392.html#a20dad49a99420556f393a16525eb14b4", null ],
+    [ "Register", "d8/d15/a27392.html#ad7d339ab137ebd640981f7789e1757f0", null ],
+    [ "Validate", "d8/d15/a27392.html#a341acb2dd25c1db94777f7036f3338ac", null ]
 ];

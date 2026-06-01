@@ -1,5 +1,7 @@
 var a22472 =
 [
-    [ "OutdoorPvP_nagrand", "d4/d53/a22472.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
-    [ "GetOutdoorPvP", "d4/d53/a22472.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
+    [ "VerasEnvenom", "d4/d53/a22472.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d4/d53/a22472.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d4/d53/a22472.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d4/d53/a22472.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

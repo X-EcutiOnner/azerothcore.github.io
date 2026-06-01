@@ -1,5 +1,9 @@
 var a20488 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "de/dba/a20488.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "de/dba/a20488.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "npc_ulduar_dark_rune_watcher", "de/dba/a20488.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
+    [ "CanAIAttack", "de/dba/a20488.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
+    [ "Reset", "de/dba/a20488.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
+    [ "UpdateAI", "de/dba/a20488.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
+    [ "timer1", "de/dba/a20488.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
+    [ "timer2", "de/dba/a20488.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
 ];

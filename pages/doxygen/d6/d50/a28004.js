@@ -1,5 +1,5 @@
 var a28004 =
 [
-    [ "AreaTrigger_at_last_rites", "d6/d50/a28004.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d6/d50/a28004.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "item_petrov_cluster_bombs", "d6/d50/a28004.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d6/d50/a28004.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

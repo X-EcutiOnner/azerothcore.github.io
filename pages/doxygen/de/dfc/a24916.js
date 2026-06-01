@@ -1,6 +1,7 @@
 var a24916 =
 [
-    [ "HandleScript", "de/dfc/a24916.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "de/dfc/a24916.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "de/dfc/a24916.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "HandleDummy", "de/dfc/a24916.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "de/dfc/a24916.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "de/dfc/a24916.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "de/dfc/a24916.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

@@ -1,6 +1,6 @@
 var a21496 =
 [
-    [ "npc_nerubar_victimAI", "d3/d34/a21500.html", "d3/d34/a21500" ],
-    [ "npc_nerubar_victim", "d7/d19/a21496.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d7/d19/a21496.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "SACDeactivateEvent", "d7/d19/a21496.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d7/d19/a21496.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d7/d19/a21496.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

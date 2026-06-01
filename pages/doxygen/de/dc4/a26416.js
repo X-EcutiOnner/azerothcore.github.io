@@ -1,9 +1,7 @@
 var a26416 =
 [
-    [ "HandleAfterCast", "de/dc4/a26416.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "de/dc4/a26416.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "de/dc4/a26416.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "de/dc4/a26416.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "de/dc4/a26416.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "de/dc4/a26416.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "HandleProc", "de/dc4/a26416.html#acec80390545c0ae674aeed8155333e6b", null ],
+    [ "PrepareAuraScript", "de/dc4/a26416.html#a84a503ad6d4848333640ddd347a7476a", null ],
+    [ "Register", "de/dc4/a26416.html#ae79f1ce6dc1d6c0823c8da8b6086efab", null ],
+    [ "Validate", "de/dc4/a26416.html#a11a4d6e297251b5611e3faa1c3c33e13", null ]
 ];

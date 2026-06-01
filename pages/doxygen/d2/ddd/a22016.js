@@ -1,6 +1,8 @@
 var a22016 =
 [
-    [ "npc_boneguard_footmanAI", "d2/ddd/a22016.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d2/ddd/a22016.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d2/ddd/a22016.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_oathbound_warder", "d2/ddd/a22016.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d2/ddd/a22016.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d2/ddd/a22016.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d2/ddd/a22016.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d2/ddd/a22016.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

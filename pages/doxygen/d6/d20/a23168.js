@@ -1,9 +1,10 @@
 var a23168 =
 [
-    [ "CalcPeriodic", "d6/d20/a23168.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "d6/d20/a23168.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "d6/d20/a23168.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "d6/d20/a23168.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "d6/d20/a23168.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "d6/d20/a23168.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "boss_blindeye_the_seer", "d6/d20/a23168.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d6/d20/a23168.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d6/d20/a23168.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d6/d20/a23168.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d6/d20/a23168.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d6/d20/a23168.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d6/d20/a23168.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

@@ -1,9 +1,9 @@
 var a14688 =
 [
-    [ "CheckCast", "de/d8e/a14688.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "de/d8e/a14688.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "de/d8e/a14688.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "de/d8e/a14688.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "de/d8e/a14688.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "de/d8e/a14688.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "entries", "de/d8e/a14688.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "de/d8e/a14688.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "de/d8e/a14688.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "de/d8e/a14688.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
+    [ "size", "de/d8e/a14688.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "de/d8e/a14688.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
 ];

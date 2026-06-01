@@ -1,6 +1,6 @@
 var a25364 =
 [
-    [ "OnApply", "db/d64/a25364.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "db/d64/a25364.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "db/d64/a25364.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "CheckCast", "db/d64/a25364.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "db/d64/a25364.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "db/d64/a25364.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

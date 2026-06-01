@@ -1,7 +1,5 @@
 var a14912 =
 [
-    [ "HandleEffectApply", "d6/d12/a14912.html#ad48d832fef881bfb517fb8df694b7507", null ],
-    [ "HandleEffectRemove", "d6/d12/a14912.html#a1534b010301dbaff66d41443142c50b7", null ],
-    [ "PrepareAuraScript", "d6/d12/a14912.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
-    [ "Register", "d6/d12/a14912.html#a97a0003cca808e5b03f720bb3be07419", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d6/d12/a14912.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d6/d12/a14912.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

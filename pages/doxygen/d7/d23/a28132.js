@@ -1,6 +1,10 @@
 var a28132 =
 [
-    [ "go_flamesAI", "d2/d64/a28136.html", "d2/d64/a28136" ],
-    [ "go_flames", "d7/d23/a28132.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d7/d23/a28132.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "npc_air_force_botsAI", "d7/d23/a28132.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d7/d23/a28132.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d7/d23/a28132.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d7/d23/a28132.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d7/d23/a28132.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d7/d23/a28132.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d7/d23/a28132.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

@@ -1,5 +1,4 @@
 var a11416 =
 [
-    [ "SocketIPBytes", "d3/def/a11416.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "d3/def/a11416.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "format", "d3/def/a11416.html#a24a0c7409f4aa2903361863f9cc4c8b6", null ]
 ];

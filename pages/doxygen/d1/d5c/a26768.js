@@ -1,8 +1,8 @@
 var a26768 =
 [
-    [ "HandleProc", "d1/d5c/a26768.html#a95553bc0c973be3a2e3911602e4067c8", null ],
-    [ "PrepareAuraScript", "d1/d5c/a26768.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
-    [ "Register", "d1/d5c/a26768.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
-    [ "Validate", "d1/d5c/a26768.html#aad1324e94920136258c419094cfca4c3", null ],
-    [ "_cooldownEnd", "d1/d5c/a26768.html#a4f19a965ed8ddab712633abdb761d210", null ]
+    [ "Load", "d1/d5c/a26768.html#a510f81e77597ef55a87b4f77fa324b2b", null ],
+    [ "OnRemove", "d1/d5c/a26768.html#a8b3a3678d1864e630173ab8eb4d504da", null ],
+    [ "PrepareAuraScript", "d1/d5c/a26768.html#a1a98b0d8059d5ae47688c2c9bd0486bd", null ],
+    [ "Register", "d1/d5c/a26768.html#ae7ed739883e30015e99b6ab5d6cb3f39", null ],
+    [ "Validate", "d1/d5c/a26768.html#a3820e716d20809896c84c1ca781af4d1", null ]
 ];

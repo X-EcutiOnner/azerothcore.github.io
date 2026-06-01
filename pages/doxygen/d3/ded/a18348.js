@@ -1,11 +1,9 @@
 var a18348 =
 [
-    [ "Load", "d3/ded/a18348.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d3/ded/a18348.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d3/ded/a18348.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d3/ded/a18348.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d3/ded/a18348.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d3/ded/a18348.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d3/ded/a18348.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d3/ded/a18348.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "AfterApply", "d3/ded/a18348.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "d3/ded/a18348.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "d3/ded/a18348.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "d3/ded/a18348.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "d3/ded/a18348.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "d3/ded/a18348.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

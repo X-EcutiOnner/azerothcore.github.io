@@ -1,11 +1,13 @@
 var a13528 =
 [
-    [ "npc_valkyr_battle_maidenAI", "dc/deb/a13528.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "dc/deb/a13528.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "dc/deb/a13528.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "dc/deb/a13528.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "dc/deb/a13528.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "dc/deb/a13528.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "dc/deb/a13528.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "dc/deb/a13528.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "dc/deb/a13528.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "dc/deb/a13528.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "dc/deb/a13528.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "dc/deb/a13528.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "dc/deb/a13528.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "dc/deb/a13528.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "dc/deb/a13528.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "dc/deb/a13528.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "dc/deb/a13528.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "dc/deb/a13528.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

@@ -1,7 +1,5 @@
 var a13888 =
 [
-    [ "FilterTargets", "d1/df3/a13888.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d1/df3/a13888.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d1/df3/a13888.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d1/df3/a13888.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "at_twilight_grove", "d1/df3/a13888.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "d1/df3/a13888.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

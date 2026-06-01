@@ -1,9 +1,14 @@
 var a07636 =
 [
-    [ "entry", "da/d2a/a07636.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "da/d2a/a07636.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "da/d2a/a07636.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "da/d2a/a07636.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "da/d2a/a07636.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "da/d2a/a07636.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "IsArena", "da/d2a/a07636.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "da/d2a/a07636.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "da/d2a/a07636.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "da/d2a/a07636.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "da/d2a/a07636.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "da/d2a/a07636.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "da/d2a/a07636.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "da/d2a/a07636.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "da/d2a/a07636.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "da/d2a/a07636.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "da/d2a/a07636.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

@@ -1,6 +1,6 @@
 var a27824 =
 [
-    [ "HandleHeal", "d5/d7f/a27824.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d5/d7f/a27824.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d5/d7f/a27824.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "go_heatAI", "d5/d7f/a27824.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "d5/d7f/a27824.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "d5/d7f/a27824.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

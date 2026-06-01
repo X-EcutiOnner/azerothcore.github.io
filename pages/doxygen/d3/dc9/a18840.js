@@ -1,6 +1,6 @@
 var a18840 =
 [
-    [ "npc_spirit_wardenAI", "d5/d57/a18844.html", "d5/d57/a18844" ],
-    [ "npc_spirit_warden", "d3/dc9/a18840.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d3/dc9/a18840.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "CaptainSurviveTalk", "d3/dc9/a18840.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d3/dc9/a18840.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d3/dc9/a18840.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

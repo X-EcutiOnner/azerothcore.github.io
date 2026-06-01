@@ -1,7 +1,7 @@
 var a11492 =
 [
-    [ "IsValidOpcode", "d4/d31/a11492.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d4/d31/a11492.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d4/d31/a11492.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d4/d31/a11492.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "UpdateWorldState", "d4/d31/a11492.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d4/d31/a11492.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d4/d31/a11492.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d4/d31/a11492.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

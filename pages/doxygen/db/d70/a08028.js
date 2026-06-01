@@ -1,6 +1,20 @@
 var a08028 =
 [
-    [ "value_type", "db/d70/a08028.html#ac481731c1965ea0420cd7820e1e89881", null ],
-    [ "StoreTo", "db/d70/a08028.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
-    [ "tag", "db/d70/a08028.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
+    [ "value_type", "db/d70/a08028.html#a2ffac2f5c4514a1a9c7d3b72ac95ca28", null ],
+    [ "PlayerIdentifier", "db/d70/a08028.html#a4a5d0a04c5461c56b8c6028926bda2a0", null ],
+    [ "PlayerIdentifier", "db/d70/a08028.html#ac757cca4b11332e5b091639a9a946f88", null ],
+    [ "FromSelf", "db/d70/a08028.html#af45d29f7ebca2a8af420fdec344264fc", null ],
+    [ "FromTarget", "db/d70/a08028.html#aea33fb49551ebc0f687f3d24dc3dfbea", null ],
+    [ "FromTargetOrSelf", "db/d70/a08028.html#a617834cc8474970950b45066f2e86dbd", null ],
+    [ "GetConnectedPlayer", "db/d70/a08028.html#ac4d51841e160051dde72827e9bc71318", null ],
+    [ "GetGUID", "db/d70/a08028.html#a266269d0f1aa9410cde271c97f09f807", null ],
+    [ "GetName", "db/d70/a08028.html#a6baa96394c108ae26c66a790f024ae3a", null ],
+    [ "IsConnected", "db/d70/a08028.html#a3eac561c52cfd3a01b596feca5846dc5", null ],
+    [ "operator ObjectGuid", "db/d70/a08028.html#a6895aec33b3b5c1a43abd6fa077f1ea8", null ],
+    [ "operator std::string const &", "db/d70/a08028.html#a3ac710baa74dbbc2359b1734579c0412", null ],
+    [ "operator std::string_view", "db/d70/a08028.html#af37d94f83894f4182211208db19c8678", null ],
+    [ "TryConsume", "db/d70/a08028.html#a0ef4ac60e1dcbc03bfe08d78b05de48d", null ],
+    [ "_guid", "db/d70/a08028.html#a378564a9a7e2b4a85381cc4e3c371451", null ],
+    [ "_name", "db/d70/a08028.html#ad0f2f7c96817c6e0c1c77c21a299cb70", null ],
+    [ "_player", "db/d70/a08028.html#a5658078bcce50c453f087b1e3f602f05", null ]
 ];

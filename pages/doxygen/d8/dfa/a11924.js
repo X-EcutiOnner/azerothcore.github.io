@@ -1,7 +1,6 @@
 var a11924 =
 [
-    [ "Command", "d8/dfa/a11924.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "d8/dfa/a11924.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "d8/dfa/a11924.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "d8/dfa/a11924.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectAbsorbHandler", "d8/dfa/a11924.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "d8/dfa/a11924.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "d8/dfa/a11924.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

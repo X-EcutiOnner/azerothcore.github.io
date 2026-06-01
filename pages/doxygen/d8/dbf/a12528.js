@@ -1,8 +1,7 @@
 var a12528 =
 [
-    [ "boss_highlordomokkAI", "d8/dbf/a12528.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "d8/dbf/a12528.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "d8/dbf/a12528.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "d8/dbf/a12528.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "d8/dbf/a12528.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "boss_grizzle", "d8/dbf/a12528.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "d8/dbf/a12528.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "d8/dbf/a12528.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "d8/dbf/a12528.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

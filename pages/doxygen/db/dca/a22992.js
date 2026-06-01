@@ -1,8 +1,7 @@
 var a22992 =
 [
-    [ "CalcPeriodic", "db/dca/a22992.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "db/dca/a22992.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "db/dca/a22992.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "db/dca/a22992.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "db/dca/a22992.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "HandleScriptEffect", "db/dca/a22992.html#ad5e905710a20436f120c979c865571c9", null ],
+    [ "PrepareSpellScript", "db/dca/a22992.html#ab44aa98f47162b50f30622d67ac75395", null ],
+    [ "Register", "db/dca/a22992.html#ad4c2bf1a8556b6fb85c05d3c83494fed", null ],
+    [ "Validate", "db/dca/a22992.html#a9b1baeb7a677d5b0f72bbeeeab9a94a2", null ]
 ];

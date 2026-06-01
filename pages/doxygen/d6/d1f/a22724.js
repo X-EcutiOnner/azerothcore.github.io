@@ -1,7 +1,6 @@
 var a22724 =
 [
-    [ "HandleOnEffectApply", "d6/d1f/a22724.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d6/d1f/a22724.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d6/d1f/a22724.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d6/d1f/a22724.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "PrepareAuraScript", "d6/d1f/a22724.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d6/d1f/a22724.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d6/d1f/a22724.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

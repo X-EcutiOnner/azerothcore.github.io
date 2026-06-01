@@ -1,6 +1,6 @@
 var a22796 =
 [
-    [ "HandleSharedRule", "d0/d96/a22796.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d0/d96/a22796.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d0/d96/a22796.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "OnPeriodic", "d0/d96/a22796.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "d0/d96/a22796.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "d0/d96/a22796.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

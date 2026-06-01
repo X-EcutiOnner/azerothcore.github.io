@@ -1,7 +1,5 @@
 var a21236 =
 [
-    [ "HandleDummy", "da/dff/a21236.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "da/dff/a21236.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "da/dff/a21236.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "da/dff/a21236.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_nerubar_victimAI", "da/dff/a21236.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "da/dff/a21236.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

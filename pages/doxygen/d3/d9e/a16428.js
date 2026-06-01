@@ -1,7 +1,7 @@
 var a16428 =
 [
-    [ "HandleScriptEffect", "d3/d9e/a16428.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d3/d9e/a16428.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d3/d9e/a16428.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d3/d9e/a16428.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "npc_orb_carrierAI", "d3/d9e/a16428.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d3/d9e/a16428.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d3/d9e/a16428.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d3/d9e/a16428.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

@@ -1,7 +1,6 @@
 var a17908 =
 [
-    [ "HandleDummy", "d3/df6/a17908.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d3/df6/a17908.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d3/df6/a17908.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d3/df6/a17908.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "IgbExplosionCheck", "d3/df6/a17908.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d3/df6/a17908.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d3/df6/a17908.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

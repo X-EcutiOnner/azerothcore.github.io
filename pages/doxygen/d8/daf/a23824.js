@@ -1,6 +1,6 @@
 var a23824 =
 [
-    [ "HandleScriptEffect", "d8/daf/a23824.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d8/daf/a23824.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d8/daf/a23824.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "npc_mature_netherwing_drakeAI", "d2/d36/a23828.html", "d2/d36/a23828" ],
+    [ "npc_mature_netherwing_drake", "d8/daf/a23824.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d8/daf/a23824.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

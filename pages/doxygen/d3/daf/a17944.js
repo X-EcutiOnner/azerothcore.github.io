@@ -1,6 +1,7 @@
 var a17944 =
 [
-    [ "boss_festergutAI", "dc/daa/a17948.html", "dc/daa/a17948" ],
-    [ "boss_festergut", "d3/daf/a17944.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
-    [ "GetAI", "d3/daf/a17944.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
+    [ "FilterTargets", "d3/daf/a17944.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "d3/daf/a17944.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "d3/daf/a17944.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "d3/daf/a17944.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

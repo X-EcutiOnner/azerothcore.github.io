@@ -1,5 +1,7 @@
 var a18892 =
 [
-    [ "achievement_neck_deep_in_vile", "d9/d12/a18892.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d9/d12/a18892.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "npc_captain_arnathAI", "d9/d12/a18892.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d9/d12/a18892.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d9/d12/a18892.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d9/d12/a18892.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

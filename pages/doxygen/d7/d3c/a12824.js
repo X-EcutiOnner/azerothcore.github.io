@@ -1,6 +1,5 @@
 var a12824 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "d1/d60/a12828.html", "d1/d60/a12828" ],
-    [ "instance_blackwing_lair", "d7/d3c/a12824.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "d7/d3c/a12824.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "npc_garr_firesworn", "d7/d3c/a12824.html#a5efff706f522accd5f8be0d29080dea4", null ],
+    [ "DamageTaken", "d7/d3c/a12824.html#a172435821316d28c5b0043015c68595e", null ]
 ];

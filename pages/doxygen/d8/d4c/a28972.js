@@ -1,7 +1,5 @@
 var a28972 =
 [
-    [ "bit_index", "d8/d4c/a28972.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d8/d4c/a28972.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d8/d4c/a28972.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d8/d4c/a28972.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "ID", "d8/d4c/a28972.html#a0272b3c1130508a2681035c91ee416e6", null ],
+    [ "SpellID", "d8/d4c/a28972.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
 ];

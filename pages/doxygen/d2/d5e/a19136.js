@@ -1,7 +1,5 @@
 var a19136 =
 [
-    [ "npc_impaling_spearAI", "d2/d5e/a19136.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d2/d5e/a19136.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d2/d5e/a19136.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d2/d5e/a19136.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "at_frozen_throne_teleport", "d2/d5e/a19136.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d2/d5e/a19136.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

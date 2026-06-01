@@ -1,6 +1,10 @@
 var a00566 =
 [
-    [ "GetDefaultNetmaskV4", "d0/d3e/a00566.html#af75b2c10ca445dc89c53b7ed8d17eae0", null ],
-    [ "IsInNetwork", "d0/d3e/a00566.html#af108d05a57113d16ab9c8f3b26870be2", null ],
-    [ "IsInNetwork", "d0/d3e/a00566.html#a2617cb1c747a45e5af4e2c32cc29d5de", null ]
+    [ "ban_commandscript", "d3/d6b/a12196.html", "d3/d6b/a12196" ],
+    [ "BanMode", "d0/d3e/a00566.html#aee9acfaac97a86a40bad738a75eb5264", [
+      [ "BAN_ACCOUNT", "d0/d3e/a00566.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
+      [ "BAN_CHARACTER", "d0/d3e/a00566.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
+      [ "BAN_IP", "d0/d3e/a00566.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    ] ],
+    [ "AddSC_ban_commandscript", "d0/d3e/a00566.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
 ];

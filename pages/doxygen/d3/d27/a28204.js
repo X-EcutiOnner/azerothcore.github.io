@@ -1,5 +1,6 @@
 var a28204 =
 [
-    [ "go_tablet_of_the_seven", "d3/d27/a28204.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "d3/d27/a28204.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "npc_pet_trainerAI", "dd/db0/a28208.html", "dd/db0/a28208" ],
+    [ "npc_pet_trainer", "d3/d27/a28204.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d3/d27/a28204.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

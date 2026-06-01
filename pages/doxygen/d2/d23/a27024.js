@@ -1,6 +1,6 @@
 var a27024 =
 [
-    [ "CheckProc", "d2/d23/a27024.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d2/d23/a27024.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d2/d23/a27024.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "FilterTargets", "d2/d23/a27024.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "d2/d23/a27024.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "d2/d23/a27024.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

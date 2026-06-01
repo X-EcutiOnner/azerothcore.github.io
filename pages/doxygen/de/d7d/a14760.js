@@ -1,11 +1,7 @@
 var a14760 =
 [
-    [ "npc_snowfall_glade_playmate", "de/d7d/a14760.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "de/d7d/a14760.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "de/d7d/a14760.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "de/d7d/a14760.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "de/d7d/a14760.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "de/d7d/a14760.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "de/d7d/a14760.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "de/d7d/a14760.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "go_loosely_turned_soilAI", "df/d1f/a14764.html", "df/d1f/a14764" ],
+    [ "go_loosely_turned_soil", "de/d7d/a14760.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "de/d7d/a14760.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "de/d7d/a14760.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

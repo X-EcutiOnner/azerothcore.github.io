@@ -1,12 +1,20 @@
 var a13056 =
 [
-    [ "BoardCell", "d2/dfb/a13056.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d2/dfb/a13056.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d2/dfb/a13056.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d2/dfb/a13056.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d2/dfb/a13056.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d2/dfb/a13056.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d2/dfb/a13056.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d2/dfb/a13056.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d2/dfb/a13056.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "boss_shade_of_aran", "d2/dfb/a13056.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d2/dfb/a13056.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d2/dfb/a13056.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d2/dfb/a13056.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d2/dfb/a13056.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d2/dfb/a13056.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d2/dfb/a13056.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d2/dfb/a13056.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d2/dfb/a13056.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d2/dfb/a13056.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "d2/dfb/a13056.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d2/dfb/a13056.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d2/dfb/a13056.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d2/dfb/a13056.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d2/dfb/a13056.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d2/dfb/a13056.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d2/dfb/a13056.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

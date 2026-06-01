@@ -1,5 +1,7 @@
 var a22904 =
 [
-    [ "npc_ashtongue_sorcerer", "db/dec/a22904.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "db/dec/a22904.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "FilterTargets", "db/dec/a22904.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "db/dec/a22904.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "db/dec/a22904.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "db/dec/a22904.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

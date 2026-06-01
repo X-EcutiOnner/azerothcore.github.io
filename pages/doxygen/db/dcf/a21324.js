@@ -1,12 +1,7 @@
 var a21324 =
 [
-    [ "boss_lavanthorAI", "db/dcf/a21324.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "db/dcf/a21324.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "db/dcf/a21324.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "db/dcf/a21324.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "db/dcf/a21324.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "db/dcf/a21324.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "db/dcf/a21324.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "db/dcf/a21324.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "db/dcf/a21324.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "HandleEffectHit", "db/dcf/a21324.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "db/dcf/a21324.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "db/dcf/a21324.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "db/dcf/a21324.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

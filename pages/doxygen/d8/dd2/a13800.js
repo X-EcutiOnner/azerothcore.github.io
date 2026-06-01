@@ -1,7 +1,8 @@
 var a13800 =
 [
-    [ "boss_kalec", "d8/dd2/a13800.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d8/dd2/a13800.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d8/dd2/a13800.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d8/dd2/a13800.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "HandleApply", "d8/dd2/a13800.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d8/dd2/a13800.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d8/dd2/a13800.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d8/dd2/a13800.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d8/dd2/a13800.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

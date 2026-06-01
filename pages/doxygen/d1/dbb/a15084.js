@@ -1,7 +1,6 @@
 var a15084 =
 [
-    [ "HandleOnHit", "d1/dbb/a15084.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d1/dbb/a15084.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d1/dbb/a15084.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d1/dbb/a15084.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "boss_mal_ganisAI", "dc/df1/a15088.html", "dc/df1/a15088" ],
+    [ "boss_mal_ganis", "d1/dbb/a15084.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d1/dbb/a15084.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

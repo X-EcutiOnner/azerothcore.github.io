@@ -1,11 +1,6 @@
 var a15856 =
 [
-    [ "npc_kerlonianAI", "df/d55/a15856.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "df/d55/a15856.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "df/d55/a15856.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "df/d55/a15856.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "df/d55/a15856.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "df/d55/a15856.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "df/d55/a15856.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "df/d55/a15856.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_giant_spotlightAI", "da/d76/a15860.html", "da/d76/a15860" ],
+    [ "npc_giant_spotlight", "df/d55/a15856.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "df/d55/a15856.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

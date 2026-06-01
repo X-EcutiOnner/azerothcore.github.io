@@ -1,5 +1,6 @@
 var a12836 =
 [
-    [ "at_orb_of_command", "da/d8e/a12836.html#a1f0b196362b76e050eba66d3ce612623", null ],
-    [ "OnTrigger", "da/d8e/a12836.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
+    [ "boss_gehennas", "da/d8e/a12836.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
+    [ "ExecuteEvent", "da/d8e/a12836.html#aa11c5e8facc17b03220595a61045036f", null ],
+    [ "JustEngagedWith", "da/d8e/a12836.html#af4f3b198a1a606efe829376b4515c7bc", null ]
 ];

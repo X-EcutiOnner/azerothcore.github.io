@@ -1,5 +1,6 @@
 var a15424 =
 [
-    [ "npc_idol_room_spawnerAI", "d9/da7/a15424.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d9/da7/a15424.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "HandleScript", "d9/da7/a15424.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "d9/da7/a15424.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "d9/da7/a15424.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

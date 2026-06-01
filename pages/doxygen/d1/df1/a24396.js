@@ -1,6 +1,7 @@
 var a24396 =
 [
-    [ "DeathEvent", "d1/df1/a24396.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d1/df1/a24396.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d1/df1/a24396.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "CalculateAmount", "d1/df1/a24396.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "d1/df1/a24396.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "d1/df1/a24396.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "d1/df1/a24396.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

@@ -1,12 +1,9 @@
 var a14360 =
 [
-    [ "npc_forest_frog", "d2/dbf/a14360.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d2/dbf/a14360.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d2/dbf/a14360.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d2/dbf/a14360.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d2/dbf/a14360.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d2/dbf/a14360.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "d2/dbf/a14360.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d2/dbf/a14360.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d2/dbf/a14360.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "boss_hazzarah", "d2/dbf/a14360.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d2/dbf/a14360.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d2/dbf/a14360.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d2/dbf/a14360.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d2/dbf/a14360.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d2/dbf/a14360.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

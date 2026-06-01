@@ -1,4 +1,5 @@
 var a02486 =
 [
-    [ "TransportScript", "db/d29/a10750.html", "db/d29/a10750" ]
+    [ "Movement::Location", "d5/d7a/a10424.html", "d5/d7a/a10424" ],
+    [ "Movement::MoveSpline", "d6/d04/a10428.html", "d6/d04/a10428" ]
 ];

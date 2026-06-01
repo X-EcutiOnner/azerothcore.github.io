@@ -1,9 +1,10 @@
 var a15604 =
 [
-    [ "npc_giant_eye_tentacle", "d9/d73/a15604.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d9/d73/a15604.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d9/d73/a15604.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d9/d73/a15604.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d9/d73/a15604.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d9/d73/a15604.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "npc_anubisath_defender", "d9/d73/a15604.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d9/d73/a15604.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d9/d73/a15604.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d9/d73/a15604.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d9/d73/a15604.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d9/d73/a15604.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d9/d73/a15604.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

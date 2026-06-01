@@ -1,6 +1,8 @@
 var a21700 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d2/d15/a21704.html", "d2/d15/a21704" ],
-    [ "npc_injured_7th_legion_soldier", "d7/df8/a21700.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "d7/df8/a21700.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "AfterApply", "d7/df8/a21700.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d7/df8/a21700.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d7/df8/a21700.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d7/df8/a21700.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d7/df8/a21700.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

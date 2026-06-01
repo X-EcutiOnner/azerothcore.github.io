@@ -1,6 +1,7 @@
 var a15328 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d8/dc7/a15332.html", "d8/dc7/a15332" ],
-    [ "instance_the_black_morass", "d5/db2/a15328.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "d5/db2/a15328.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "HandleScript", "d5/db2/a15328.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d5/db2/a15328.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d5/db2/a15328.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d5/db2/a15328.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

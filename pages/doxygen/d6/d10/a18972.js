@@ -1,6 +1,7 @@
 var a18972 =
 [
-    [ "npc_suppresserAI", "d5/d23/a18976.html", "d5/d23/a18976" ],
-    [ "npc_suppresser", "d6/d10/a18972.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d6/d10/a18972.html#a48869515abbac1491337a93b987231da", null ]
+    [ "Land", "d6/d10/a18972.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d6/d10/a18972.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d6/d10/a18972.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d6/d10/a18972.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

@@ -1,23 +1,18 @@
 var a05692 =
 [
-    [ "AbortState", "d4/d0d/a05692.html#a3f26f839ff35d80af2a8f885ca1a1554", [
-      [ "STATE_RUNNING", "d4/d0d/a05692.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e", null ],
-      [ "STATE_ABORT_SCHEDULED", "d4/d0d/a05692.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a", null ],
-      [ "STATE_ABORTED", "d4/d0d/a05692.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5", null ]
-    ] ],
-    [ "BasicEvent", "d4/d0d/a05692.html#a9c3cd17edab7fc410f88bb680d756975", null ],
-    [ "~BasicEvent", "d4/d0d/a05692.html#a0c3860e1c8854c2db20a225944792afd", null ],
-    [ "Abort", "d4/d0d/a05692.html#a5584968148a48bd7ba072515bd489963", null ],
-    [ "Execute", "d4/d0d/a05692.html#a89297a10b64d01895332655122ed8ccb", null ],
-    [ "IsAborted", "d4/d0d/a05692.html#a4b05df0749b6a18ef0e0b4137e727d7d", null ],
-    [ "IsAbortScheduled", "d4/d0d/a05692.html#a1ee71d72964b7124e8e137b02c81eac2", null ],
-    [ "IsDeletable", "d4/d0d/a05692.html#a62c0483af9fd1885e779cf088a50eb02", null ],
-    [ "IsRunning", "d4/d0d/a05692.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2", null ],
-    [ "ScheduleAbort", "d4/d0d/a05692.html#afafade0729f08b8f1193a66f50c18348", null ],
-    [ "SetAborted", "d4/d0d/a05692.html#a9224c2878bff4f6df28bedb973be2d27", null ],
-    [ "EventProcessor", "d4/d0d/a05692.html#acce868eb94e25fcad6a070753b63bdfc", null ],
-    [ "m_abortState", "d4/d0d/a05692.html#afd9cf18b8a00c6195b9120f3fcf7ca69", null ],
-    [ "m_addTime", "d4/d0d/a05692.html#ac236835e6298588e834cde7a8c2bfece", null ],
-    [ "m_eventGroup", "d4/d0d/a05692.html#a2ee03f01e03347d04eb38a215d10f036", null ],
-    [ "m_execTime", "d4/d0d/a05692.html#afbd8d5728992e7676fde628fc03dc588", null ]
+    [ "ProducerConsumerQueue", "d4/d0d/a05692.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
+    [ "Cancel", "d4/d0d/a05692.html#a7e9de516e77945411ad4f8bfa161489d", null ],
+    [ "DeleteQueuedObject", "d4/d0d/a05692.html#af375e232b14a288b4e514f4e1e726f06", null ],
+    [ "DeleteQueuedObject", "d4/d0d/a05692.html#a10e893856377f7f7a4be62c224a2aef3", null ],
+    [ "Empty", "d4/d0d/a05692.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
+    [ "Pop", "d4/d0d/a05692.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
+    [ "Push", "d4/d0d/a05692.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
+    [ "Shutdown", "d4/d0d/a05692.html#aff2060f9ae351caf2da543a5379911ca", null ],
+    [ "Size", "d4/d0d/a05692.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
+    [ "WaitAndPop", "d4/d0d/a05692.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
+    [ "_cancel", "d4/d0d/a05692.html#a54223137936cfa679327d01313adfa01", null ],
+    [ "_condition", "d4/d0d/a05692.html#ace83931f4236e97f32c58067b05d35e9", null ],
+    [ "_queue", "d4/d0d/a05692.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
+    [ "_queueLock", "d4/d0d/a05692.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
+    [ "_shutdown", "d4/d0d/a05692.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
 ];

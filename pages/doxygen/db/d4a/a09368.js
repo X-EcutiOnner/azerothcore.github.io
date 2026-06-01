@@ -1,6 +1,7 @@
 var a09368 =
 [
-    [ "AreaMapType", "db/d4a/a09368.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "db/d4a/a09368.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "db/d4a/a09368.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "QuestPOIPoint", "db/d4a/a09368.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "db/d4a/a09368.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "db/d4a/a09368.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "db/d4a/a09368.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

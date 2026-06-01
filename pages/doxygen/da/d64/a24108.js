@@ -1,6 +1,9 @@
 var a24108 =
 [
-    [ "npc_mature_netherwing_drakeAI", "dc/d79/a24112.html", "dc/d79/a24112" ],
-    [ "npc_mature_netherwing_drake", "da/d64/a24108.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "da/d64/a24108.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_pet_shaman_fire_elemental", "da/d64/a24108.html#a3428642963fc9e7588ec92fd838f1af9", null ],
+    [ "InitializeAI", "da/d64/a24108.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
+    [ "JustEngagedWith", "da/d64/a24108.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
+    [ "UpdateAI", "da/d64/a24108.html#a2280e5cc5187a91917a1e517e80e960d", null ],
+    [ "_events", "da/d64/a24108.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
+    [ "_initAttack", "da/d64/a24108.html#a2df79acc05dd8489e9e994e044b45404", null ]
 ];

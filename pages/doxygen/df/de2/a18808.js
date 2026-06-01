@@ -1,7 +1,8 @@
 var a18808 =
 [
-    [ "CheckTargetCount", "df/de2/a18808.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "df/de2/a18808.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "df/de2/a18808.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "df/de2/a18808.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "DecayPeriodicTimer", "df/de2/a18808.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "df/de2/a18808.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "df/de2/a18808.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "df/de2/a18808.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "df/de2/a18808.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

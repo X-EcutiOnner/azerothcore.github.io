@@ -1,6 +1,12 @@
 var a15228 =
 [
-    [ "boss_salrammAI", "d6/d47/a15232.html", "d6/d47/a15232" ],
-    [ "boss_salramm", "dd/df9/a15228.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "dd/df9/a15228.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "boss_isalien", "dd/df9/a15228.html#a736a25e60ae367a45c7d6451be96126d", null ],
+    [ "DamageTaken", "dd/df9/a15228.html#a95d461e099193b5e2c1363acb1b5939a", null ],
+    [ "JustDied", "dd/df9/a15228.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
+    [ "JustEngagedWith", "dd/df9/a15228.html#ad6714da515db77c7299ee80b3268433e", null ],
+    [ "JustSummoned", "dd/df9/a15228.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
+    [ "Reset", "dd/df9/a15228.html#a4995c18e2baa62d05717617d0b1e3529", null ],
+    [ "UpdateAI", "dd/df9/a15228.html#aa067bea34557a4b2fe840ef305852bc0", null ],
+    [ "_phase", "dd/df9/a15228.html#a954bbd32948e6c416197199d96142056", null ],
+    [ "_scheduler", "dd/df9/a15228.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
 ];

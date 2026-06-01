@@ -1,9 +1,7 @@
 var a19368 =
 [
-    [ "npc_isle_of_conquest_turretAI", "da/d00/a19368.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "da/d00/a19368.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "da/d00/a19368.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "da/d00/a19368.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "da/d00/a19368.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "da/d00/a19368.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "OnPeriodic", "da/d00/a19368.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "da/d00/a19368.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "da/d00/a19368.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "da/d00/a19368.html#a54cfed486827216817adb740efa6646e", null ]
 ];

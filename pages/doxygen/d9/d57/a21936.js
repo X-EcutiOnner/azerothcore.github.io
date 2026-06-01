@@ -1,7 +1,9 @@
 var a21936 =
 [
-    [ "npc_Apothecary_HanesAI", "d8/dd0/a21940.html", "d8/dd0/a21940" ],
-    [ "npc_apothecary_hanes", "d9/d57/a21936.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d9/d57/a21936.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d9/d57/a21936.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "npc_brunnhildar_prisonerAI", "d9/d57/a21936.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d9/d57/a21936.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d9/d57/a21936.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d9/d57/a21936.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d9/d57/a21936.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d9/d57/a21936.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

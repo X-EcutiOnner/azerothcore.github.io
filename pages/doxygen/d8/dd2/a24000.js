@@ -1,6 +1,5 @@
 var a24000 =
 [
-    [ "go_beaconAI", "d8/dd2/a24000.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d8/dd2/a24000.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d8/dd2/a24000.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_pet_dk_risen_ally", "d8/dd2/a24000.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d8/dd2/a24000.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

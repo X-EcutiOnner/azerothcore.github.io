@@ -1,8 +1,6 @@
 var a27044 =
 [
-    [ "HandleDummy", "dc/d9d/a27044.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "dc/d9d/a27044.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "dc/d9d/a27044.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "dc/d9d/a27044.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "dc/d9d/a27044.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "CheckCast", "dc/d9d/a27044.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "dc/d9d/a27044.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "dc/d9d/a27044.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

@@ -1,8 +1,9 @@
 var a05620 =
 [
-    [ "~Runnable", "d3/d9a/a05620.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "d3/d9a/a05620.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "d3/d9a/a05620.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "d3/d9a/a05620.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "d3/d9a/a05620.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "IpLocationRecord", "d3/d9a/a05620.html#a1dba2f8a7697c7e6fd427089d556c19a", null ],
+    [ "IpLocationRecord", "d3/d9a/a05620.html#a10ffefef6ba7d81a23d5d29bc2ee599d", null ],
+    [ "CountryCode", "d3/d9a/a05620.html#a9b54a497801e9da396955893473eb7da", null ],
+    [ "CountryName", "d3/d9a/a05620.html#acbc8ea139970e7acbad06302d5666eb9", null ],
+    [ "IpFrom", "d3/d9a/a05620.html#a97d36332086a339e07b73955f23acd57", null ],
+    [ "IpTo", "d3/d9a/a05620.html#a844dfff114f6ce64b79c459527965bfb", null ]
 ];

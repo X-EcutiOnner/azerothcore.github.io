@@ -1,4 +1,6 @@
 var a11252 =
 [
-    [ "InvalidHyperlinkException", "d1/dff/a11252.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
+    [ "CancelTempEnchantment", "d1/dff/a11252.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "d1/dff/a11252.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "d1/dff/a11252.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

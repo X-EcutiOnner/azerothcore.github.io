@@ -1,7 +1,9 @@
 var a24420 =
 [
-    [ "CheckCast", "d7/db8/a24420.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d7/db8/a24420.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d7/db8/a24420.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d7/db8/a24420.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "HandleApply", "d7/db8/a24420.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d7/db8/a24420.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d7/db8/a24420.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d7/db8/a24420.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d7/db8/a24420.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d7/db8/a24420.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

@@ -1,6 +1,8 @@
 var a18856 =
 [
-    [ "npc_icc_lk_checktargetAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
-    [ "npc_icc_lk_checktarget", "de/db7/a18856.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "de/db7/a18856.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_rotting_frost_giantAI", "de/db7/a18856.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "de/db7/a18856.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "de/db7/a18856.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "de/db7/a18856.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "de/db7/a18856.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

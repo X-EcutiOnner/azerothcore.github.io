@@ -1,17 +1,15 @@
 var a19632 =
 [
-    [ "boss_thaddius_summonAI", "da/d3b/a19632.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "da/d3b/a19632.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "da/d3b/a19632.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "da/d3b/a19632.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "da/d3b/a19632.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "da/d3b/a19632.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "da/d3b/a19632.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "da/d3b/a19632.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "da/d3b/a19632.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "instance", "da/d3b/a19632.html#a122582c974aa1e68638ea196ea2f6771", null ],
-    [ "myCoil", "da/d3b/a19632.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "da/d3b/a19632.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pullTimer", "da/d3b/a19632.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "da/d3b/a19632.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "boss_varosAI", "da/d3b/a19632.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "da/d3b/a19632.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "da/d3b/a19632.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "da/d3b/a19632.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "da/d3b/a19632.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "da/d3b/a19632.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "da/d3b/a19632.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "da/d3b/a19632.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "da/d3b/a19632.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "da/d3b/a19632.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "da/d3b/a19632.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "da/d3b/a19632.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

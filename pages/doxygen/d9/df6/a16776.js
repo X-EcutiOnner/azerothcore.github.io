@@ -1,6 +1,8 @@
 var a16776 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d6/de7/a16780.html", "d6/de7/a16780" ],
-    [ "instance_trial_of_the_champion", "d9/df6/a16776.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d9/df6/a16776.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_toc_hunterAI", "d9/df6/a16776.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d9/df6/a16776.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d9/df6/a16776.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d9/df6/a16776.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d9/df6/a16776.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

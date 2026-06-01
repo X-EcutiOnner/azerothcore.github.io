@@ -1,6 +1,7 @@
 var a15256 =
 [
-    [ "npc_cos_chromie_start", "d0/daf/a15256.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d0/daf/a15256.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d0/daf/a15256.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "npc_onyxian_lair_guard", "d0/daf/a15256.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d0/daf/a15256.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d0/daf/a15256.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d0/daf/a15256.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

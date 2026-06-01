@@ -1,5 +1,8 @@
 var a10588 =
 [
-    [ "GenericInstanceMapScript", "d1/d6c/a10588.html#a39aef4c434d791f18fc04ea692bf2255", null ],
-    [ "GetInstanceScript", "d1/d6c/a10588.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
+    [ "AllCommandScript", "d1/d6c/a10588.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d1/d6c/a10588.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d1/d6c/a10588.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d1/d6c/a10588.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d1/d6c/a10588.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

@@ -1,7 +1,6 @@
 var a18352 =
 [
-    [ "HandleDummy", "d6/d26/a18352.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d6/d26/a18352.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d6/d26/a18352.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d6/d26/a18352.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "MysticBuffetTargetFilter", "d6/d26/a18352.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d6/d26/a18352.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d6/d26/a18352.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

@@ -1,6 +1,6 @@
 var a17708 =
 [
-    [ "StandUpEvent", "d7/d81/a17708.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "d7/d81/a17708.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "d7/d81/a17708.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "ModAuraValue", "d7/d81/a17708.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d7/d81/a17708.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d7/d81/a17708.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

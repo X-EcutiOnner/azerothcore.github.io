@@ -1,8 +1,8 @@
 var a18608 =
 [
-    [ "FilterTargets", "d6/d71/a18608.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d6/d71/a18608.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d6/d71/a18608.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d6/d71/a18608.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d6/d71/a18608.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "Load", "d6/d71/a18608.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d6/d71/a18608.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d6/d71/a18608.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d6/d71/a18608.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d6/d71/a18608.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

@@ -1,7 +1,10 @@
 var a19384 =
 [
-    [ "npc_ioc_gunship_captainAI", "da/d29/a19384.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "da/d29/a19384.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "da/d29/a19384.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "da/d29/a19384.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "boss_patchwerkAI", "da/d29/a19384.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "da/d29/a19384.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "da/d29/a19384.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "da/d29/a19384.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "da/d29/a19384.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "da/d29/a19384.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "da/d29/a19384.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

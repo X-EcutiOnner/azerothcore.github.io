@@ -1,7 +1,9 @@
 var a10104 =
 [
-    [ "LFGUpdateRequest", "df/dcd/a10104.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "df/dcd/a10104.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "df/dcd/a10104.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "df/dcd/a10104.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "RectangleBoundary", "df/dcd/a10104.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "df/dcd/a10104.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "df/dcd/a10104.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "df/dcd/a10104.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "df/dcd/a10104.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "df/dcd/a10104.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

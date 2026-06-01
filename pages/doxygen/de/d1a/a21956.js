@@ -1,7 +1,6 @@
 var a21956 =
 [
-    [ "npc_rodin_lightning_enabler", "de/d1a/a21956.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "de/d1a/a21956.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "de/d1a/a21956.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "de/d1a/a21956.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "HandleScriptEffect", "de/d1a/a21956.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
+    [ "PrepareSpellScript", "de/d1a/a21956.html#afa4ad1b205bf963b4230881738baf938", null ],
+    [ "Register", "de/d1a/a21956.html#a0d8925effced854471e2fbec9c631b91", null ]
 ];

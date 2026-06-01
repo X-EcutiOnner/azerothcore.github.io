@@ -1,7 +1,8 @@
 var a26260 =
 [
-    [ "AfterRemove", "d5/dbc/a26260.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "d5/dbc/a26260.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "d5/dbc/a26260.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "d5/dbc/a26260.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "CheckProc", "d5/dbc/a26260.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d5/dbc/a26260.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d5/dbc/a26260.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d5/dbc/a26260.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d5/dbc/a26260.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

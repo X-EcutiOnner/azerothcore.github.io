@@ -1,6 +1,7 @@
 var a16580 =
 [
-    [ "HandleForceCast", "dd/d32/a16580.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "dd/d32/a16580.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "dd/d32/a16580.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "HandleAfterEffectAbsorb", "dd/d32/a16580.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "dd/d32/a16580.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "dd/d32/a16580.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "dd/d32/a16580.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

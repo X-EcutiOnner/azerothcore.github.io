@@ -1,6 +1,6 @@
 var a23712 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "dc/d52/a23716.html", "dc/d52/a23716" ],
-    [ "instance_the_botanica", "da/d89/a23712.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "da/d89/a23712.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "go_beaconAI", "dc/d52/a23716.html", "dc/d52/a23716" ],
+    [ "go_beacon", "da/d89/a23712.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "da/d89/a23712.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

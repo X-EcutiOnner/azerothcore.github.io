@@ -1,7 +1,8 @@
 var a28988 =
 [
-    [ "cutPercent", "d3/d0e/a28988.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d3/d0e/a28988.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d3/d0e/a28988.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d3/d0e/a28988.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "NoRuneCost", "d3/d0e/a28988.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d3/d0e/a28988.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d3/d0e/a28988.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d3/d0e/a28988.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d3/d0e/a28988.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

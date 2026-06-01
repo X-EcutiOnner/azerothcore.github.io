@@ -1,6 +1,7 @@
 var a26952 =
 [
-    [ "HandleDummyEffect", "d6/d24/a26952.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d6/d24/a26952.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d6/d24/a26952.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "CalculateAmount", "d6/d24/a26952.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d6/d24/a26952.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d6/d24/a26952.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d6/d24/a26952.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

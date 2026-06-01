@@ -1,12 +1,8 @@
 var a17884 =
 [
-    [ "npc_high_overlord_saurfangAI", "d6/dc8/a17884.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d6/dc8/a17884.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d6/dc8/a17884.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d6/dc8/a17884.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d6/dc8/a17884.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d6/dc8/a17884.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d6/dc8/a17884.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d6/dc8/a17884.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d6/dc8/a17884.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "HandlePeriodic", "d6/dc8/a17884.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d6/dc8/a17884.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d6/dc8/a17884.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d6/dc8/a17884.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d6/dc8/a17884.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

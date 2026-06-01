@@ -1,22 +1,10 @@
 var a21276 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "da/d86/a21276.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
-    [ "CheckAchievementCriteriaMeet", "da/d86/a21276.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
-    [ "GetData", "da/d86/a21276.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
-    [ "GetGuidData", "da/d86/a21276.html#a371a688192e9c7c239fc4c1de8e45877", null ],
-    [ "Initialize", "da/d86/a21276.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
-    [ "IsEncounterInProgress", "da/d86/a21276.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
-    [ "OnCreatureCreate", "da/d86/a21276.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
-    [ "OnPlayerEnter", "da/d86/a21276.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
-    [ "ReadSaveDataMore", "da/d86/a21276.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
-    [ "SetData", "da/d86/a21276.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
-    [ "Update", "da/d86/a21276.html#ac22e9b215c1351f543289af2875491b4", null ],
-    [ "WriteSaveDataMore", "da/d86/a21276.html#a22e3c4bb29159588a96f13644218c427", null ],
-    [ "ArchavonDeath", "da/d86/a21276.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
-    [ "bossGUIDs", "da/d86/a21276.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
-    [ "checkTimer", "da/d86/a21276.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
-    [ "EmalonDeath", "da/d86/a21276.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
-    [ "KoralonDeath", "da/d86/a21276.html#a544c022446c0ddb39797417271ec1259", null ],
-    [ "m_auiEncounter", "da/d86/a21276.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
-    [ "stoned", "da/d86/a21276.html#acde4794f2e980d523e873c0e610f726a", null ]
+    [ "npc_bonker_togglevoltAI", "da/d86/a21276.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "da/d86/a21276.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "da/d86/a21276.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "da/d86/a21276.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "da/d86/a21276.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "da/d86/a21276.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "da/d86/a21276.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

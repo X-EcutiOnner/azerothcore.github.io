@@ -1,8 +1,6 @@
 var a27820 =
 [
-    [ "HandleDamage", "d6/dcd/a27820.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d6/dcd/a27820.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d6/dcd/a27820.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d6/dcd/a27820.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d6/dcd/a27820.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "go_heatAI", "d5/d7f/a27824.html", "d5/d7f/a27824" ],
+    [ "go_heat", "d6/dcd/a27820.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d6/dcd/a27820.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

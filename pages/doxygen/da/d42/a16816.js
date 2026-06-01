@@ -1,8 +1,7 @@
 var a16816 =
 [
-    [ "npc_frost_sphereAI", "da/d42/a16816.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "da/d42/a16816.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "da/d42/a16816.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "da/d42/a16816.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "da/d42/a16816.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "npc_toc_enh_shamanAI", "da/d42/a16816.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "da/d42/a16816.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "da/d42/a16816.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "da/d42/a16816.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

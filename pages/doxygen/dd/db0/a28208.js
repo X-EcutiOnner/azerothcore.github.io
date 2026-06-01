@@ -1,5 +1,5 @@
 var a28208 =
 [
-    [ "go_jump_a_tron", "dd/db0/a28208.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "dd/db0/a28208.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "npc_pet_trainerAI", "dd/db0/a28208.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "dd/db0/a28208.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

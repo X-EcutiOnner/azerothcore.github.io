@@ -1,7 +1,6 @@
 var a16888 =
 [
-    [ "npc_toc_shadow_priestAI", "df/dbf/a16888.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "df/dbf/a16888.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "df/dbf/a16888.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "df/dbf/a16888.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "boss_gormokAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
+    [ "boss_gormok", "df/dbf/a16888.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "df/dbf/a16888.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

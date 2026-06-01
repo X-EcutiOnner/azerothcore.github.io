@@ -1,6 +1,5 @@
 var a10516 =
 [
-    [ "BattlegroundMapScript", "db/d2e/a10516.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "db/d2e/a10516.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "db/d2e/a10516.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "Description", "db/d2e/a10516.html#a1d49e1ff4533507cb64dfc8fc6790c37", null ],
+    [ "MaxLimit", "db/d2e/a10516.html#a38ba12a67e99cabba2388a63f12a2b53", null ]
 ];

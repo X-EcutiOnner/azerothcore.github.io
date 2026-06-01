@@ -1,6 +1,6 @@
 var a18464 =
 [
-    [ "DespawnSelf", "d8/d54/a18464.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d8/d54/a18464.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d8/d54/a18464.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "boss_the_lich_kingAI", "d1/dbc/a18468.html", "d1/dbc/a18468" ],
+    [ "boss_the_lich_king", "d8/d54/a18464.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "d8/d54/a18464.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

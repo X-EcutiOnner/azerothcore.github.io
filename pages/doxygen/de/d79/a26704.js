@@ -1,7 +1,13 @@
 var a26704 =
 [
-    [ "HandleProc", "de/d79/a26704.html#a6d66a94a0ede604ea0f6dbf0db10cf4a", null ],
-    [ "PrepareAuraScript", "de/d79/a26704.html#acfecd9231847898b931aad7b270579ea", null ],
-    [ "Register", "de/d79/a26704.html#ace907f15156ac0ac8e88c74fdc77b96c", null ],
-    [ "Validate", "de/d79/a26704.html#a072b480f483c44b81f50680224ab75ef", null ]
+    [ "spell_generic_quest_update_entry_SpellScript", "de/d79/a26704.html#a9b022232661d4680f5bdf7080fc81b29", null ],
+    [ "HandleDummy", "de/d79/a26704.html#a891c357279ecee2e7fce323761607285", null ],
+    [ "PrepareSpellScript", "de/d79/a26704.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
+    [ "Register", "de/d79/a26704.html#af04e51cff5344f1acef7607080501736", null ],
+    [ "_despawnTime", "de/d79/a26704.html#a5481894286d3aa5ea6aec0f00dd88d22", null ],
+    [ "_effIndex", "de/d79/a26704.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
+    [ "_newEntry", "de/d79/a26704.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
+    [ "_originalEntry", "de/d79/a26704.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
+    [ "_shouldAttack", "de/d79/a26704.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
+    [ "_spellEffect", "de/d79/a26704.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
 ];

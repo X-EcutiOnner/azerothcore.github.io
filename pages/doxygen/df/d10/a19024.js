@@ -1,7 +1,6 @@
 var a19024 =
 [
-    [ "HandleForceCast", "df/d10/a19024.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "df/d10/a19024.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "df/d10/a19024.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "df/d10/a19024.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "da/d13/a19028.html", "da/d13/a19028" ],
+    [ "npc_icc_skybreaker_hierophant", "df/d10/a19024.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "df/d10/a19024.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

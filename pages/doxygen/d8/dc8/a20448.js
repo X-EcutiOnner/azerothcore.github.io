@@ -1,6 +1,5 @@
 var a20448 =
 [
-    [ "FilterTargets", "d8/dc8/a20448.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "d8/dc8/a20448.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "d8/dc8/a20448.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d8/dc8/a20448.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d8/dc8/a20448.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

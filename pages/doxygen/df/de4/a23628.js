@@ -1,16 +1,7 @@
 var a23628 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "df/de4/a23628.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "df/de4/a23628.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "df/de4/a23628.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "df/de4/a23628.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "df/de4/a23628.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "df/de4/a23628.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "SetGuidData", "df/de4/a23628.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
-    [ "Update", "df/de4/a23628.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "df/de4/a23628.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "df/de4/a23628.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "LastArrowGUID", "df/de4/a23628.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
-    [ "PrisonerGUID", "df/de4/a23628.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "df/de4/a23628.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "OnPeriodic", "df/de4/a23628.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "df/de4/a23628.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "df/de4/a23628.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "df/de4/a23628.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

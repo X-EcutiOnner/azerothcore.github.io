@@ -1,6 +1,7 @@
 var a18748 =
 [
-    [ "npc_raging_spiritAI", "d5/de4/a18752.html", "d5/de4/a18752" ],
-    [ "npc_raging_spirit", "d0/d70/a18748.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d0/d70/a18748.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "npc_valithria_portalAI", "d0/d70/a18748.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d0/d70/a18748.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d0/d70/a18748.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d0/d70/a18748.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

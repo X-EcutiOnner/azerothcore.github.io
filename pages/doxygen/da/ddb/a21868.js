@@ -1,7 +1,7 @@
 var a21868 =
 [
-    [ "HandleScriptEffect", "da/ddb/a21868.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "da/ddb/a21868.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "da/ddb/a21868.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "da/ddb/a21868.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_engineer_heliceAI", "d9/dbd/a21872.html", "d9/dbd/a21872" ],
+    [ "npc_engineer_helice", "da/ddb/a21868.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "da/ddb/a21868.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "da/ddb/a21868.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

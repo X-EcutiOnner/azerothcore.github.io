@@ -1,6 +1,14 @@
 var a17408 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d9/d1c/a17412.html", "d9/d1c/a17412" ],
-    [ "npc_hor_risen_witch_doctor", "da/dfe/a17408.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "da/dfe/a17408.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "boss_drakkari_colossusAI", "da/dfe/a17408.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "da/dfe/a17408.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "da/dfe/a17408.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "da/dfe/a17408.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "da/dfe/a17408.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "da/dfe/a17408.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "da/dfe/a17408.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "da/dfe/a17408.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "da/dfe/a17408.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "da/dfe/a17408.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "da/dfe/a17408.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

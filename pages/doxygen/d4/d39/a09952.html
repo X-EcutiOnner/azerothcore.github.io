@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: InstancePlayerBind Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('db/d2c/a09955.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d4/d39/a09952.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,29 +104,116 @@ $(document).ready(function(){initNavTree('db/d2c/a09955.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">LootItemStorage Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../d2/dd6/a09949.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">InstancePlayerBind Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a4c463773b50ae1b312865fbf72dfed18">AddNewStoredLoot</a>(Loot *loot, Player *player)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b">instance</a>()</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a377c75f9d06eb246072b29d19baf2b62">LoadStorageFromDB</a>()</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#ad9804f564302d6ea4db4b84a6cbb093b">LoadStoredLoot</a>(Item *item, Player *player)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#aa6ece474f05744f2ce24a9fef42734af">LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a58ae52b9812e5752ba00d00a58eb56b0">lootItemStore</a></td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a8ab68725c0525d162d325a2131db4c49">RemoveEntryFromDB</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a414dee93f9852a64f01f9d9bf8dc8b40">RemoveStoredLoot</a>(ObjectGuid containerGUID)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a6fd3f2ac820784ba51413b3781df3bcc">RemoveStoredLootItem</a>(ObjectGuid containerGUID, uint32 itemid, uint32 count, Loot *loot, uint32 itemIndex)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#ab22d267a6701fedf824f801e4b703f70">RemoveStoredLootMoney</a>(ObjectGuid containerGUID, Loot *loot)</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../db/d2c/a09955.html#a36faeed6ef556fd13118c4ad34e38548">~LootItemStorage</a>()</td><td class="entry"><a class="el" href="../../db/d2c/a09955.html">LootItemStorage</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">InstanceSaveMgr.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:abc20bba094d04eb724d03b8290102981"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d39/a09952.html#abc20bba094d04eb724d03b8290102981">InstancePlayerBind</a> ()</td></tr>
+<tr class="separator:abc20bba094d04eb724d03b8290102981"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a24ef1e0e0a38033a16b697c32e3d8234"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/dd0/a09960.html">InstanceSave</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d39/a09952.html#a24ef1e0e0a38033a16b697c32e3d8234">save</a> {nullptr}</td></tr>
+<tr class="separator:a24ef1e0e0a38033a16b697c32e3d8234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab35249eb791941b484ecc321b1102b24"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d39/a09952.html#ab35249eb791941b484ecc321b1102b24">perm</a>: 1</td></tr>
+<tr class="separator:ab35249eb791941b484ecc321b1102b24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9327f62b74eea3a1a525b2fec6d90b69"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d39/a09952.html#a9327f62b74eea3a1a525b2fec6d90b69">extended</a>: 1</td></tr>
+<tr class="separator:a9327f62b74eea3a1a525b2fec6d90b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="abc20bba094d04eb724d03b8290102981" name="abc20bba094d04eb724d03b8290102981"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc20bba094d04eb724d03b8290102981">&#9670;&#160;</a></span>InstancePlayerBind()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">InstancePlayerBind::InstancePlayerBind </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>:  <a class="code hl_variable" href="../../d4/d39/a09952.html#ab35249eb791941b484ecc321b1102b24">perm</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d4/d39/a09952.html#a9327f62b74eea3a1a525b2fec6d90b69">extended</a>(<span class="keyword">false</span>) {}</div>
+<div class="ttc" id="aa09952_html_a9327f62b74eea3a1a525b2fec6d90b69"><div class="ttname"><a href="../../d4/d39/a09952.html#a9327f62b74eea3a1a525b2fec6d90b69">InstancePlayerBind::extended</a></div><div class="ttdeci">bool extended</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:42</div></div>
+<div class="ttc" id="aa09952_html_ab35249eb791941b484ecc321b1102b24"><div class="ttname"><a href="../../d4/d39/a09952.html#ab35249eb791941b484ecc321b1102b24">InstancePlayerBind::perm</a></div><div class="ttdeci">bool perm</div><div class="ttdef"><b>Definition:</b> InstanceSaveMgr.h:41</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a9327f62b74eea3a1a525b2fec6d90b69" name="a9327f62b74eea3a1a525b2fec6d90b69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9327f62b74eea3a1a525b2fec6d90b69">&#9670;&#160;</a></span>extended</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool InstancePlayerBind::extended</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00786">WorldSession::HandleSetSavedInstanceExtend()</a>, <a class="el" href="../../#l00405">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l00637">InstanceSaveMgr::PlayerBindToInstance()</a>, and <a class="el" href="../../#l11753">Player::SendInstanceResetWarning()</a>.</p>
+
+</div>
+</div>
+<a id="ab35249eb791941b484ecc321b1102b24" name="ab35249eb791941b484ecc321b1102b24"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab35249eb791941b484ecc321b1102b24">&#9670;&#160;</a></span>perm</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool InstancePlayerBind::perm</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01985">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00786">WorldSession::HandleSetSavedInstanceExtend()</a>, <a class="el" href="../../#l00405">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l02187">InstanceMap::PermBindAllPlayers()</a>, <a class="el" href="../../#l00637">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00802">InstanceSaveMgr::PlayerGetDestinationInstanceId()</a>, and <a class="el" href="../../#l11753">Player::SendInstanceResetWarning()</a>.</p>
+
+</div>
+</div>
+<a id="a24ef1e0e0a38033a16b697c32e3d8234" name="a24ef1e0e0a38033a16b697c32e3d8234"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24ef1e0e0a38033a16b697c32e3d8234">&#9670;&#160;</a></span>save</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/dd0/a09960.html">InstanceSave</a>* InstancePlayerBind::save {nullptr}</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02260">Group::_cancelHomebindIfInstance()</a>, <a class="el" href="../../#l01985">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00786">WorldSession::HandleSetSavedInstanceExtend()</a>, <a class="el" href="../../#l00405">InstanceSaveMgr::LoadCharacterBinds()</a>, <a class="el" href="../../#l00637">InstanceSaveMgr::PlayerBindToInstance()</a>, <a class="el" href="../../#l00802">InstanceSaveMgr::PlayerGetDestinationInstanceId()</a>, <a class="el" href="../../#l00796">InstanceSaveMgr::PlayerGetInstanceSave()</a>, and <a class="el" href="../../#l11753">Player::SendInstanceResetWarning()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Mar 23 2026 21:07:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/d39/a09952.html">InstancePlayerBind</a></li>
+    <li class="footer">Generated on Mon Jun 1 2026 22:45:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

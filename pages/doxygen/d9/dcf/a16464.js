@@ -1,6 +1,8 @@
 var a16464 =
 [
-    [ "HandleLeapBack", "d9/dcf/a16464.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d9/dcf/a16464.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d9/dcf/a16464.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "Load", "d9/dcf/a16464.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "d9/dcf/a16464.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "d9/dcf/a16464.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "d9/dcf/a16464.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "d9/dcf/a16464.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

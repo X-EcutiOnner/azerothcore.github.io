@@ -1,20 +1,15 @@
 var a15532 =
 [
-    [ "npc_general_andorov", "d2/d2c/a15532.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
-    [ "GetData", "d2/d2c/a15532.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
-    [ "InitializeAI", "d2/d2c/a15532.html#a701221e8fd8830a3586d9791fd8eca56", null ],
-    [ "JustDied", "d2/d2c/a15532.html#ae6342cc5d033bc2900594cabccaf7233", null ],
-    [ "JustEngagedWith", "d2/d2c/a15532.html#a9f1261cde233466b814b53be03406370", null ],
-    [ "JustSummoned", "d2/d2c/a15532.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
-    [ "KilledUnit", "d2/d2c/a15532.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
-    [ "MoveInLineOfSight", "d2/d2c/a15532.html#a230803b7f29829118d105ec768941ffa", null ],
-    [ "sGossipSelect", "d2/d2c/a15532.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
-    [ "UpdateEscortAI", "d2/d2c/a15532.html#ab5f5af15cf76071dcce833514bb8c867", null ],
-    [ "WaypointReached", "d2/d2c/a15532.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
-    [ "_initialAttackTimer", "d2/d2c/a15532.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
-    [ "_paused", "d2/d2c/a15532.html#aa0708d2c1e4829371b93697744fb10b7", null ],
-    [ "_summons", "d2/d2c/a15532.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
-    [ "Endwaypoint", "d2/d2c/a15532.html#a6897bb1ed63743ce8b225786d63910df", null ],
-    [ "events", "d2/d2c/a15532.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
-    [ "instance", "d2/d2c/a15532.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
+    [ "boss_skeram", "d2/d2c/a15532.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "d2/d2c/a15532.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "d2/d2c/a15532.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "d2/d2c/a15532.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "d2/d2c/a15532.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "d2/d2c/a15532.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "d2/d2c/a15532.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "d2/d2c/a15532.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "d2/d2c/a15532.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "d2/d2c/a15532.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "d2/d2c/a15532.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "d2/d2c/a15532.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

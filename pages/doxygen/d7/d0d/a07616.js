@@ -1,10 +1,10 @@
 var a07616 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "d7/d0d/a07616.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "d7/d0d/a07616.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "d7/d0d/a07616.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "d7/d0d/a07616.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "d7/d0d/a07616.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "d7/d0d/a07616.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "d7/d0d/a07616.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "Battleground2ChatBuilder", "d7/d0d/a07616.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
+    [ "operator()", "d7/d0d/a07616.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
+    [ "_arg1", "d7/d0d/a07616.html#aa6959944406804f01baa18cd898bfc41", null ],
+    [ "_arg2", "d7/d0d/a07616.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
+    [ "_msgtype", "d7/d0d/a07616.html#a770d30e207e41a8f985776787d53f2cf", null ],
+    [ "_source", "d7/d0d/a07616.html#a8867dd698d0457688202e1a9378255d2", null ],
+    [ "_textId", "d7/d0d/a07616.html#a632cab30adc21c22f1a8890b1627262a", null ]
 ];

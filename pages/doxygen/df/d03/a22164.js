@@ -1,7 +1,15 @@
 var a22164 =
 [
-    [ "HandleSendEvent", "df/d03/a22164.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "df/d03/a22164.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "df/d03/a22164.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "df/d03/a22164.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "OutdoorPvPEP", "df/d03/a22164.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "df/d03/a22164.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "df/d03/a22164.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "df/d03/a22164.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "df/d03/a22164.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "df/d03/a22164.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "df/d03/a22164.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "df/d03/a22164.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "df/d03/a22164.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "df/d03/a22164.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "df/d03/a22164.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "df/d03/a22164.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

@@ -1,7 +1,11 @@
 var a22772 =
 [
-    [ "boss_lady_malande", "d9/d6a/a22772.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d9/d6a/a22772.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d9/d6a/a22772.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d9/d6a/a22772.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "boss_doomwalker", "d9/d6a/a22772.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d9/d6a/a22772.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d9/d6a/a22772.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d9/d6a/a22772.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d9/d6a/a22772.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d9/d6a/a22772.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d9/d6a/a22772.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d9/d6a/a22772.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

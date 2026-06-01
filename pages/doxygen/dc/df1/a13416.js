@@ -1,6 +1,16 @@
 var a13416 =
 [
-    [ "npc_unworthy_initiateAI", "d0/de5/a13420.html", "d0/de5/a13420" ],
-    [ "npc_unworthy_initiate", "dc/df1/a13416.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "dc/df1/a13416.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "dc/df1/a13416.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "dc/df1/a13416.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "dc/df1/a13416.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "dc/df1/a13416.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "dc/df1/a13416.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "dc/df1/a13416.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "dc/df1/a13416.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "dc/df1/a13416.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "dc/df1/a13416.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "dc/df1/a13416.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "dc/df1/a13416.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "dc/df1/a13416.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "dc/df1/a13416.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

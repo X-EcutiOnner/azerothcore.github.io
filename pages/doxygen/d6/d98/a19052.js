@@ -1,13 +1,9 @@
 var a19052 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d6/d98/a19052.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d6/d98/a19052.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d6/d98/a19052.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d6/d98/a19052.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d6/d98/a19052.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d6/d98/a19052.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d6/d98/a19052.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d6/d98/a19052.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d6/d98/a19052.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d6/d98/a19052.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d6/d98/a19052.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d6/d98/a19052.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d6/d98/a19052.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d6/d98/a19052.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d6/d98/a19052.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d6/d98/a19052.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

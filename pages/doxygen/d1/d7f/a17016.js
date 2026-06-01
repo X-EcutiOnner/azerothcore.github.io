@@ -1,6 +1,5 @@
 var a17016 =
 [
-    [ "npc_snobold_vassalAI", "d2/d39/a17020.html", "d2/d39/a17020" ],
-    [ "npc_snobold_vassal", "d1/d7f/a17016.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "d1/d7f/a17016.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "achievement_oh_novos", "d1/d7f/a17016.html#a31ca1f458c384401af107cb8f709ef61", null ],
+    [ "OnCheck", "d1/d7f/a17016.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
 ];

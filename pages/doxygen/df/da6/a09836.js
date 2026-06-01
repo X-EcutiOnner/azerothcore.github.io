@@ -1,9 +1,9 @@
 var a09836 =
 [
-    [ "EmoteChatBuilder", "df/da6/a09836.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "df/da6/a09836.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "df/da6/a09836.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "df/da6/a09836.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "df/da6/a09836.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "df/da6/a09836.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "WorldPacketList", "df/da6/a09836.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "df/da6/a09836.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "df/da6/a09836.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "df/da6/a09836.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "df/da6/a09836.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "df/da6/a09836.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

@@ -1,7 +1,12 @@
 var a11096 =
 [
-    [ "BuybackItem", "d0/d7b/a11096.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "d0/d7b/a11096.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "d0/d7b/a11096.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "d0/d7b/a11096.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "Charges", "d0/d7b/a11096.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d0/d7b/a11096.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d0/d7b/a11096.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d0/d7b/a11096.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d0/d7b/a11096.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d0/d7b/a11096.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d0/d7b/a11096.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d0/d7b/a11096.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d0/d7b/a11096.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

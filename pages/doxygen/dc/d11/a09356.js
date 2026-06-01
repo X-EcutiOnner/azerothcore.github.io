@@ -1,6 +1,6 @@
 var a09356 =
 [
-    [ "flags", "dc/d11/a09356.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "dc/d11/a09356.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "dc/d11/a09356.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "EmoteDelay", "dc/d11/a09356.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "dc/d11/a09356.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "dc/d11/a09356.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

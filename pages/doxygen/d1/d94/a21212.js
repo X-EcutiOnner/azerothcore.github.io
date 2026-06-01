@@ -1,6 +1,8 @@
 var a21212 =
 [
-    [ "boss_emalonAI", "d7/d65/a21216.html", "d7/d65/a21216" ],
-    [ "boss_emalon", "d1/d94/a21212.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "d1/d94/a21212.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "HandleEffectRemove", "d1/d94/a21212.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d1/d94/a21212.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d1/d94/a21212.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d1/d94/a21212.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d1/d94/a21212.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

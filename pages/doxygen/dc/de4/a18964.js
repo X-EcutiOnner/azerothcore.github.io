@@ -1,6 +1,7 @@
 var a18964 =
 [
-    [ "npc_blazing_skeletonAI", "de/db5/a18968.html", "de/db5/a18968" ],
-    [ "npc_blazing_skeleton", "dc/de4/a18964.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "dc/de4/a18964.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "HandleQuestComplete", "dc/de4/a18964.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "dc/de4/a18964.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "dc/de4/a18964.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "dc/de4/a18964.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

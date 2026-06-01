@@ -1,6 +1,7 @@
 var a07532 =
 [
-    [ "_Battlegrounds", "d5/d6b/a07532.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d5/d6b/a07532.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d5/d6b/a07532.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "attackText", "d5/d6b/a07532.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d5/d6b/a07532.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d5/d6b/a07532.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d5/d6b/a07532.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

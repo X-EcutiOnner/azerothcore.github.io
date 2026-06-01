@@ -1,6 +1,5 @@
 var a20440 =
 [
-    [ "FilterTargets", "d8/d26/a20440.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d8/d26/a20440.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d8/d26/a20440.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "d8/d26/a20440.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "SpellHitTarget", "d8/d26/a20440.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

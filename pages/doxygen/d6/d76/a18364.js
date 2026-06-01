@@ -1,6 +1,5 @@
 var a18364 =
 [
-    [ "HandlePeriodic", "d6/d76/a18364.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d6/d76/a18364.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d6/d76/a18364.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "achievement_all_you_can_eat", "d6/d76/a18364.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d6/d76/a18364.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

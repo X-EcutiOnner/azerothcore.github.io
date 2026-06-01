@@ -1,7 +1,9 @@
 var a25676 =
 [
-    [ "FilterTargets", "d3/d3e/a25676.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d3/d3e/a25676.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d3/d3e/a25676.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d3/d3e/a25676.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CheckProc", "d3/d3e/a25676.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
+    [ "HandleProc", "d3/d3e/a25676.html#a67db21e0293f336a31bf518c0fac85d1", null ],
+    [ "OnRemove", "d3/d3e/a25676.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
+    [ "PrepareAuraScript", "d3/d3e/a25676.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
+    [ "Register", "d3/d3e/a25676.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
+    [ "Validate", "d3/d3e/a25676.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
 ];

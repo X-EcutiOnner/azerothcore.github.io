@@ -1,7 +1,9 @@
 var a20532 =
 [
-    [ "FilterTargetsInitial", "d4/d3d/a20532.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d4/d3d/a20532.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d4/d3d/a20532.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d4/d3d/a20532.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "boss_thorim_gauntlet_npcs", "d4/d3d/a20532.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "d4/d3d/a20532.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "d4/d3d/a20532.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "d4/d3d/a20532.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "d4/d3d/a20532.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "d4/d3d/a20532.html#aec35e2b91841c386f083681673e15598", null ]
 ];

@@ -1,6 +1,7 @@
 var a23564 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d4/d75/a23568.html", "d4/d75/a23568" ],
-    [ "instance_magtheridons_lair", "db/d48/a23564.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "db/d48/a23564.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "boss_gatewatcher_gyrokill", "db/d48/a23564.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "db/d48/a23564.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "db/d48/a23564.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "db/d48/a23564.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

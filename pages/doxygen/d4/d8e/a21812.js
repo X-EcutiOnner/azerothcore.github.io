@@ -1,7 +1,6 @@
 var a21812 =
 [
-    [ "HandleDummy", "d4/d8e/a21812.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d4/d8e/a21812.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d4/d8e/a21812.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d4/d8e/a21812.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_blessed_bannerAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_blessed_banner", "d4/d8e/a21812.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d4/d8e/a21812.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

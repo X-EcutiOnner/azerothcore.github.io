@@ -1,12 +1,7 @@
 var a11836 =
 [
-    [ "CreatureTextBuilder", "db/dc8/a11836.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "db/dc8/a11836.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "db/dc8/a11836.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "db/dc8/a11836.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "db/dc8/a11836.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "db/dc8/a11836.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "db/dc8/a11836.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "db/dc8/a11836.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "db/dc8/a11836.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectNameCheck", "db/dc8/a11836.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "db/dc8/a11836.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "db/dc8/a11836.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "db/dc8/a11836.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

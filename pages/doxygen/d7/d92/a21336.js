@@ -1,6 +1,6 @@
 var a21336 =
 [
-    [ "HandleEffectPeriodic", "d7/d92/a21336.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d7/d92/a21336.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d7/d92/a21336.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_steam_powered_auctioneerAI", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
+    [ "npc_steam_powered_auctioneer", "d7/d92/a21336.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d7/d92/a21336.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

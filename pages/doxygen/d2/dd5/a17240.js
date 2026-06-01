@@ -1,6 +1,6 @@
 var a17240 =
 [
-    [ "FilterTargets", "d2/dd5/a17240.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d2/dd5/a17240.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d2/dd5/a17240.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "boss_garfrostAI", "d5/d9f/a17244.html", "d5/d9f/a17244" ],
+    [ "boss_garfrost", "d2/dd5/a17240.html#ac116491cf252ee476cedee55ea292827", null ],
+    [ "GetAI", "d2/dd5/a17240.html#a8a67bb09249655a8706868bb26b5124d", null ]
 ];

@@ -1,6 +1,6 @@
 var a21492 =
 [
-    [ "npc_iruk", "d9/dfd/a21492.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d9/dfd/a21492.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d9/dfd/a21492.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "SACActivateEvent", "d9/dfd/a21492.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d9/dfd/a21492.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d9/dfd/a21492.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

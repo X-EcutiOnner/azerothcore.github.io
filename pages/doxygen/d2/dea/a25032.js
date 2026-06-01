@@ -1,6 +1,5 @@
 var a25032 =
 [
-    [ "CheckLevel", "d2/dea/a25032.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d2/dea/a25032.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d2/dea/a25032.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "PrepareSpellScript", "d2/dea/a25032.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "d2/dea/a25032.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

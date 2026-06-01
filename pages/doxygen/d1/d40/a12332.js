@@ -1,6 +1,5 @@
 var a12332 =
 [
-    [ "npc_grimstoneAI", "d5/da2/a12336.html", "d5/da2/a12336" ],
-    [ "npc_grimstone", "d1/d40/a12332.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "d1/d40/a12332.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "flag", "d1/d40/a12332.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d1/d40/a12332.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

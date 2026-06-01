@@ -1,6 +1,6 @@
 var a16328 =
 [
-    [ "PrepareSpellScript", "db/dd9/a16328.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "db/dd9/a16328.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "db/dd9/a16328.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "HandleLeapBack", "db/dd9/a16328.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "db/dd9/a16328.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "db/dd9/a16328.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

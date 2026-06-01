@@ -1,7 +1,7 @@
 var a26016 =
 [
-    [ "Load", "da/de5/a26016.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "da/de5/a26016.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "da/de5/a26016.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "da/de5/a26016.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleProc", "da/de5/a26016.html#aa8b3ab8c3027e9f671524a6b6e3079ed", null ],
+    [ "PrepareAuraScript", "da/de5/a26016.html#a4f7bc2f98b11c48f52b1c0e565719e21", null ],
+    [ "Register", "da/de5/a26016.html#ac21e7cd4db59ff255cf169c9bd93ddba", null ],
+    [ "Validate", "da/de5/a26016.html#a82409493338c846bf34ac0b34903a5eb", null ]
 ];

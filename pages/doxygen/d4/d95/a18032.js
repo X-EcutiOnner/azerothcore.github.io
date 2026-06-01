@@ -1,6 +1,5 @@
 var a18032 =
 [
-    [ "npc_igb_ship_crewAI", "d3/d16/a18036.html", "d3/d16/a18036" ],
-    [ "npc_igb_ship_crew", "d4/d95/a18032.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d4/d95/a18032.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "at_lady_deathwhisper_entrance", "d4/d95/a18032.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
+    [ "OnTrigger", "d4/d95/a18032.html#a769c838c94a88af5492057909d88f3de", null ]
 ];

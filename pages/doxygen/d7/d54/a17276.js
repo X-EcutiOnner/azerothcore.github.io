@@ -1,6 +1,6 @@
 var a17276 =
 [
-    [ "entry", "d7/d54/a17276.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d7/d54/a17276.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d7/d54/a17276.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "boss_tyrannusAI", "d7/dcd/a17280.html", "d7/dcd/a17280" ],
+    [ "boss_tyrannus", "d7/d54/a17276.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d7/d54/a17276.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

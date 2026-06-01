@@ -1,8 +1,6 @@
 var a26972 =
 [
-    [ "HandleDummy", "d1/d2d/a26972.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d1/d2d/a26972.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d1/d2d/a26972.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d1/d2d/a26972.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d1/d2d/a26972.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "CheckCast", "d1/d2d/a26972.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "d1/d2d/a26972.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "d1/d2d/a26972.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

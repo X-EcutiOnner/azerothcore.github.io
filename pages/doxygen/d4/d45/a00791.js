@@ -1,6 +1,7 @@
 var a00791 =
 [
-    [ "CharacterCacheEntry", "d4/d1e/a07774.html", "d4/d1e/a07774" ],
-    [ "CharacterCache", "df/d49/a07778.html", "df/d49/a07778" ],
-    [ "sCharacterCache", "d4/d45/a00791.html#a7a32c898b33d6163d83a32f46d58517c", null ]
+    [ "instance_eye_of_eternity", "db/d70/a19532.html", "db/d70/a19532" ],
+    [ "AddSC_instance_eye_of_eternity", "d4/d45/a00791.html#acd10e2ef086dd7938d397abc8ced1de3", null ],
+    [ "creatureData", "d4/d45/a00791.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "gameobjectData", "d4/d45/a00791.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

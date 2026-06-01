@@ -1,8 +1,6 @@
 var a14432 =
 [
-    [ "FilterTargets", "de/d7d/a14432.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "de/d7d/a14432.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "de/d7d/a14432.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "de/d7d/a14432.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "de/d7d/a14432.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "LaunchHit", "de/d7d/a14432.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "de/d7d/a14432.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "de/d7d/a14432.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

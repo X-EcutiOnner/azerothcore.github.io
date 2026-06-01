@@ -1,7 +1,6 @@
 var a17924 =
 [
-    [ "FilterTargets", "de/d21/a17924.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "de/d21/a17924.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "de/d21/a17924.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "de/d21/a17924.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "HandlePeriodicTick", "de/d21/a17924.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "de/d21/a17924.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "de/d21/a17924.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

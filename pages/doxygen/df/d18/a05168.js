@@ -1,8 +1,5 @@
 var a05168 =
 [
-    [ "MMapData", "df/d18/a05168.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "df/d18/a05168.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "df/d18/a05168.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "df/d18/a05168.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "df/d18/a05168.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "hi", "df/d18/a05168.html#aa227ae5593ba3111598033f570d97cb9", null ],
+    [ "lo", "df/d18/a05168.html#aaf79653331f78979c84dfee2da118fdd", null ]
 ];

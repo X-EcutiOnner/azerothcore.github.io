@@ -1,10 +1,11 @@
 var a15184 =
 [
-    [ "npc_hyjal_frost_wyrm", "d1/d65/a15184.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "d1/d65/a15184.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "d1/d65/a15184.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "d1/d65/a15184.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "d1/d65/a15184.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "d1/d65/a15184.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "d1/d65/a15184.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "npc_tarethaAI", "d1/d65/a15184.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d1/d65/a15184.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d1/d65/a15184.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d1/d65/a15184.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d1/d65/a15184.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d1/d65/a15184.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "WaypointReached", "d1/d65/a15184.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "d1/d65/a15184.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

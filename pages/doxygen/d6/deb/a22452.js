@@ -1,7 +1,8 @@
 var a22452 =
 [
-    [ "OutdoorPvPGH", "d6/deb/a22452.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d6/deb/a22452.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d6/deb/a22452.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d6/deb/a22452.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "Load", "d6/deb/a22452.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d6/deb/a22452.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d6/deb/a22452.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d6/deb/a22452.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d6/deb/a22452.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

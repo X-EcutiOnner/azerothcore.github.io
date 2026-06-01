@@ -1,10 +1,11 @@
 var a06192 =
 [
-    [ "NullCreatureAI", "db/d65/a06192.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "db/d65/a06192.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "db/d65/a06192.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "db/d65/a06192.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "db/d65/a06192.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "db/d65/a06192.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "db/d65/a06192.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "AppenderDB", "db/d65/a06192.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "db/d65/a06192.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "db/d65/a06192.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "db/d65/a06192.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "db/d65/a06192.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "db/d65/a06192.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "db/d65/a06192.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "db/d65/a06192.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

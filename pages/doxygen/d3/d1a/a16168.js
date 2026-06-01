@@ -1,12 +1,12 @@
 var a16168 =
 [
-    [ "npc_cairne_bloodhoofAI", "d3/d1a/a16168.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "Reset", "d3/d1a/a16168.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "d3/d1a/a16168.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "d3/d1a/a16168.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "d3/d1a/a16168.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "d3/d1a/a16168.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "d3/d1a/a16168.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "d3/d1a/a16168.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "d3/d1a/a16168.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "npc_twilight_volunteer", "d3/d1a/a16168.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d3/d1a/a16168.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d3/d1a/a16168.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d3/d1a/a16168.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d3/d1a/a16168.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d3/d1a/a16168.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d3/d1a/a16168.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d3/d1a/a16168.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d3/d1a/a16168.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

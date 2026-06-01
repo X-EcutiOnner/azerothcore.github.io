@@ -1,7 +1,10 @@
 var a26960 =
 [
-    [ "if", "d7/d18/a26960.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "d7/d18/a26960.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "d7/d18/a26960.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "d7/d18/a26960.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "HandleProc", "d7/d18/a26960.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "d7/d18/a26960.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "d7/d18/a26960.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "d7/d18/a26960.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "d7/d18/a26960.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "d7/d18/a26960.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "d7/d18/a26960.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

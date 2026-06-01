@@ -1,5 +1,6 @@
 var a21984 =
 [
-    [ "npc_black_knight_graveyardAI", "d1/ded/a21984.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d1/ded/a21984.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleScript", "d1/ded/a21984.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d1/ded/a21984.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d1/ded/a21984.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

@@ -1,8 +1,9 @@
 var a19860 =
 [
-    [ "npc_centrifuge_constructAI", "d2/d19/a19860.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d2/d19/a19860.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d2/d19/a19860.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d2/d19/a19860.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d2/d19/a19860.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_brann_bronzebeard_algalon", "d2/d19/a19860.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "d2/d19/a19860.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "d2/d19/a19860.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "d2/d19/a19860.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "d2/d19/a19860.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "d2/d19/a19860.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

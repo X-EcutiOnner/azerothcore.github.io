@@ -1,7 +1,8 @@
 var a19700 =
 [
-    [ "npc_alexstrasza", "d3/dd7/a19700.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "d3/dd7/a19700.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "d3/dd7/a19700.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "d3/dd7/a19700.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "HandleOnEffectApply", "d3/dd7/a19700.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d3/dd7/a19700.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d3/dd7/a19700.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d3/dd7/a19700.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d3/dd7/a19700.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

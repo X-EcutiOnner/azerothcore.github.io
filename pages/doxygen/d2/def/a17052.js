@@ -1,6 +1,8 @@
 var a17052 =
 [
-    [ "boss_icehowlAI", "d5/d09/a17056.html", "d5/d09/a17056" ],
-    [ "boss_icehowl", "d2/def/a17052.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d2/def/a17052.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "HandleRemove", "d2/def/a17052.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "d2/def/a17052.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "d2/def/a17052.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "d2/def/a17052.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "d2/def/a17052.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

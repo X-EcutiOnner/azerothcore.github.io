@@ -1,6 +1,6 @@
 var a09112 =
 [
-    [ "EmoteDelay", "d6/dc2/a09112.html#a053adbedc95026b192360e13d32c9401", null ],
-    [ "EmoteType", "d6/dc2/a09112.html#aa5189cb250b3f46086ecd69dee23414b", null ],
-    [ "Greeting", "d6/dc2/a09112.html#a84aa5fced9b8989487d1468c4eccb976", null ]
+    [ "BuildValuesCachedBuffer", "d6/dc2/a09112.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "d6/dc2/a09112.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "d6/dc2/a09112.html#affa098684782f15383a7df063b178cf1", null ]
 ];

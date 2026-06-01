@@ -1,9 +1,9 @@
 var a19904 =
 [
-    [ "HandleOnEffectApply", "d8/d5c/a19904.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d8/d5c/a19904.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d8/d5c/a19904.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d8/d5c/a19904.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d8/d5c/a19904.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d8/d5c/a19904.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "CheckTargets", "d8/d5c/a19904.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "d8/d5c/a19904.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "d8/d5c/a19904.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "d8/d5c/a19904.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "d8/d5c/a19904.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "d8/d5c/a19904.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

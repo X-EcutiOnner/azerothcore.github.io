@@ -1,11 +1,9 @@
 var a08944 =
 [
-    [ "DispelInfo", "d0/d84/a08944.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d0/d84/a08944.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d0/d84/a08944.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d0/d84/a08944.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d0/d84/a08944.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d0/d84/a08944.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d0/d84/a08944.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d0/d84/a08944.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "PendingSpellCastRequest", "d0/d84/a08944.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d0/d84/a08944.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d0/d84/a08944.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d0/d84/a08944.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d0/d84/a08944.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d0/d84/a08944.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

@@ -1,5 +1,5 @@
 var a23768 =
 [
-    [ "npc_lord_sanguinar", "d4/d76/a23768.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d4/d76/a23768.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "at_commander_dawnforge", "d4/d76/a23768.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d4/d76/a23768.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

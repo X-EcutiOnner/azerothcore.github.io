@@ -1,9 +1,8 @@
 var a09040 =
 [
-    [ "VehicleAccessory", "dc/d5c/a09040.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "dc/d5c/a09040.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "dc/d5c/a09040.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "dc/d5c/a09040.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "dc/d5c/a09040.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "dc/d5c/a09040.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "CleanDamage", "dc/d5c/a09040.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "dc/d5c/a09040.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "dc/d5c/a09040.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "dc/d5c/a09040.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "dc/d5c/a09040.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

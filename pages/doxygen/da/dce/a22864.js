@@ -1,12 +1,6 @@
 var a22864 =
 [
-    [ "boss_essence_of_angerAI", "da/dce/a22864.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "da/dce/a22864.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "da/dce/a22864.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "da/dce/a22864.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "da/dce/a22864.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "da/dce/a22864.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "da/dce/a22864.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "da/dce/a22864.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "da/dce/a22864.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "FilterTargets", "da/dce/a22864.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "da/dce/a22864.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "da/dce/a22864.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

@@ -1,11 +1,12 @@
 var a17688 =
 [
-    [ "boss_slad_ranAI", "d6/d34/a17688.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "d6/d34/a17688.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "d6/d34/a17688.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "d6/d34/a17688.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "d6/d34/a17688.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "d6/d34/a17688.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "d6/d34/a17688.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "d6/d34/a17688.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d6/d34/a17688.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "d6/d34/a17688.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "d6/d34/a17688.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "d6/d34/a17688.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "d6/d34/a17688.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "d6/d34/a17688.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "d6/d34/a17688.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "d6/d34/a17688.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "d6/d34/a17688.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

@@ -1,18 +1,11 @@
 var a05616 =
 [
-    [ "ProducerConsumerQueue", "df/d70/a05616.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "df/d70/a05616.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "df/d70/a05616.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "df/d70/a05616.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "df/d70/a05616.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "df/d70/a05616.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "df/d70/a05616.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "df/d70/a05616.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "df/d70/a05616.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "df/d70/a05616.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "df/d70/a05616.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "df/d70/a05616.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "df/d70/a05616.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "df/d70/a05616.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "df/d70/a05616.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "Decode", "df/d70/a05616.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "df/d70/a05616.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "df/d70/a05616.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "df/d70/a05616.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "df/d70/a05616.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "df/d70/a05616.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "df/d70/a05616.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "df/d70/a05616.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

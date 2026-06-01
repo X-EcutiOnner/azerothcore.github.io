@@ -1,6 +1,8 @@
 var a15420 =
 [
-    [ "npc_idol_room_spawnerAI", "d9/da7/a15424.html", "d9/da7/a15424" ],
-    [ "npc_idol_room_spawner", "db/d9f/a15420.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "db/d9f/a15420.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_obsidian_destroyer", "db/d9f/a15420.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "db/d9f/a15420.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "db/d9f/a15420.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "db/d9f/a15420.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "db/d9f/a15420.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

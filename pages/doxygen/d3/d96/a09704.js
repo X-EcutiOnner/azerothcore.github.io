@@ -1,10 +1,7 @@
 var a09704 =
 [
-    [ "GameObjectInRangeCheck", "d3/d96/a09704.html#a62075fc1b342fe6e40998dad928da71a", null ],
-    [ "operator()", "d3/d96/a09704.html#aa49818fa638dbd3909e5f563383346f2", null ],
-    [ "entry", "d3/d96/a09704.html#a9223c931b791ad689451f7f0c874b6a9", null ],
-    [ "range", "d3/d96/a09704.html#addf45c48385df26aa544957d7d24f1ec", null ],
-    [ "x", "d3/d96/a09704.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
-    [ "y", "d3/d96/a09704.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
-    [ "z", "d3/d96/a09704.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
+    [ "AnyUnitInObjectRangeCheck", "d3/d96/a09704.html#ab96cd47c1a4c585e52590b94cf8ff021", null ],
+    [ "operator()", "d3/d96/a09704.html#a0906cdad65a5b11dc6a8829ace8f135b", null ],
+    [ "i_obj", "d3/d96/a09704.html#a834214b260576a0fe01908a163428757", null ],
+    [ "i_range", "d3/d96/a09704.html#acc546656dbe9a405023ba56b028c8420", null ]
 ];

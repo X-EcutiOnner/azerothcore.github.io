@@ -1,7 +1,8 @@
 var a29076 =
 [
-    [ "EmoteType", "d6/d00/a29076.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "d6/d00/a29076.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "d6/d00/a29076.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "d6/d00/a29076.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "MapDifficulty", "d6/d00/a29076.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "d6/d00/a29076.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "d6/d00/a29076.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "d6/d00/a29076.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "d6/d00/a29076.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

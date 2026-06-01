@@ -1,6 +1,6 @@
 var a18340 =
 [
-    [ "FilterTargets", "df/d84/a18340.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "df/d84/a18340.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "df/d84/a18340.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "FilterTargets", "df/d84/a18340.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "df/d84/a18340.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "df/d84/a18340.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

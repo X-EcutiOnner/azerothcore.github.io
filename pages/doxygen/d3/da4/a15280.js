@@ -1,14 +1,12 @@
 var a15280 =
 [
-    [ "boss_captain_skarloc", "d3/da4/a15280.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "d3/da4/a15280.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "d3/da4/a15280.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "d3/da4/a15280.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "d3/da4/a15280.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "d3/da4/a15280.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "d3/da4/a15280.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "d3/da4/a15280.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "d3/da4/a15280.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "d3/da4/a15280.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "d3/da4/a15280.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d3/da4/a15280.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d3/da4/a15280.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d3/da4/a15280.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d3/da4/a15280.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d3/da4/a15280.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d3/da4/a15280.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d3/da4/a15280.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d3/da4/a15280.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d3/da4/a15280.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

@@ -1,9 +1,8 @@
 var a15624 =
 [
-    [ "boss_fankriss", "d0/d0a/a15624.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d0/d0a/a15624.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d0/d0a/a15624.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d0/d0a/a15624.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d0/d0a/a15624.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d0/d0a/a15624.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_ahnqiraji_critter", "d0/d0a/a15624.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d0/d0a/a15624.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d0/d0a/a15624.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d0/d0a/a15624.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d0/d0a/a15624.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

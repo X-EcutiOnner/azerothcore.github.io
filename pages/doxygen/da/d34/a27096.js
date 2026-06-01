@@ -1,7 +1,5 @@
 var a27096 =
 [
-    [ "HandleScript", "da/d34/a27096.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "da/d34/a27096.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "da/d34/a27096.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "da/d34/a27096.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "EarthenPowerTargetSelector", "da/d34/a27096.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "da/d34/a27096.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

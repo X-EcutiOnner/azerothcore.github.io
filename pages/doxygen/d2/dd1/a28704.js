@@ -1,13 +1,7 @@
 var a28704 =
 [
-    [ "actionFlag", "d2/dd1/a28704.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d2/dd1/a28704.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d2/dd1/a28704.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d2/dd1/a28704.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d2/dd1/a28704.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d2/dd1/a28704.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d2/dd1/a28704.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d2/dd1/a28704.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d2/dd1/a28704.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d2/dd1/a28704.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "Displayid", "d2/dd1/a28704.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d2/dd1/a28704.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d2/dd1/a28704.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d2/dd1/a28704.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

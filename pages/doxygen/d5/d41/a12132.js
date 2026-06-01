@@ -1,11 +1,13 @@
 var a12132 =
 [
-    [ "instance_commandscript", "d5/d41/a12132.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d5/d41/a12132.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d5/d41/a12132.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d5/d41/a12132.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d5/d41/a12132.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d5/d41/a12132.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d5/d41/a12132.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d5/d41/a12132.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "CommandFinished", "d5/d41/a12132.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
+    [ "Print", "d5/d41/a12132.html#ab10379cf266b38f4d81e2477b727471e", null ],
+    [ "CliCommandHolder", "d5/d41/a12132.html#a5a45e891607114cd070721fd51926cd5", null ],
+    [ "~CliCommandHolder", "d5/d41/a12132.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
+    [ "CliCommandHolder", "d5/d41/a12132.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
+    [ "operator=", "d5/d41/a12132.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
+    [ "m_callbackArg", "d5/d41/a12132.html#a4579ce86ff43da89524b62eefe308a59", null ],
+    [ "m_command", "d5/d41/a12132.html#ae333918e09a9de4c9e402c334e076674", null ],
+    [ "m_commandFinished", "d5/d41/a12132.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
+    [ "m_print", "d5/d41/a12132.html#aa49897105905b9812fcf962326486d5d", null ]
 ];

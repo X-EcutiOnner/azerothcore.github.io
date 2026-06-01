@@ -1,5 +1,7 @@
 var a21604 =
 [
-    [ "npc_steam_powered_auctioneerAI", "de/d8f/a21604.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "de/d8f/a21604.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "HandleScriptEffect", "de/d8f/a21604.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "de/d8f/a21604.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "de/d8f/a21604.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "de/d8f/a21604.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

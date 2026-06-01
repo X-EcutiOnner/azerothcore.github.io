@@ -1,6 +1,7 @@
 var a27464 =
 [
-    [ "HandleDummy", "d9/dfe/a27464.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
-    [ "PrepareSpellScript", "d9/dfe/a27464.html#a6c2b858c893ed215d1192073b06db81d", null ],
-    [ "Register", "d9/dfe/a27464.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
+    [ "FilterTargets", "d9/dfe/a27464.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d9/dfe/a27464.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d9/dfe/a27464.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d9/dfe/a27464.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

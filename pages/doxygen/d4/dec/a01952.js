@@ -1,5 +1,6 @@
 var a01952 =
 [
-    [ "Vehicle", "da/d80/a09102.html", "da/d80/a09102" ],
-    [ "VehicleDespawnEvent", "d0/d93/a09106.html", "d0/d93/a09106" ]
+    [ "instance_ragefire_chasm", "d2/d78/a15268.html", "d2/d78/a15268" ],
+    [ "instance_ragefire_chasm::instance_ragefire_chasm_InstanceMapScript", "d2/dc8/a15272.html", "d2/dc8/a15272" ],
+    [ "AddSC_instance_ragefire_chasm", "d4/dec/a01952.html#ace0e54ffe3a81b932d5ce1977698f5ac", null ]
 ];

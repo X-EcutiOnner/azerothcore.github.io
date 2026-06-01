@@ -1,7 +1,8 @@
 var a23856 =
 [
-    [ "HandleDamage", "da/d4e/a23856.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "da/d4e/a23856.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "da/d4e/a23856.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "da/d4e/a23856.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "CreatureId", "da/d4e/a23856.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "da/d4e/a23856.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "da/d4e/a23856.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "da/d4e/a23856.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "da/d4e/a23856.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

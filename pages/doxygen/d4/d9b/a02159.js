@@ -1,7 +1,4 @@
 var a02159 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d9/d64/a10838.html", "d9/d64/a10838" ],
-    [ "WorldPackets::Calendar::GuildFilter", "da/dce/a10842.html", "da/dce/a10842" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d5/d56/a10846.html", "d5/d56/a10846" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "d1/d17/a10850.html", "d1/d17/a10850" ]
+    [ "CreatureUnitRelocationWorker", "d4/d9b/a02159.html#a6dd107031f342074ca560b711fe188d7", null ]
 ];

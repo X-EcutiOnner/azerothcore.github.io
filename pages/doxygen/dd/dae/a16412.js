@@ -1,6 +1,13 @@
 var a16412 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "db/d2e/a16416.html", "db/d2e/a16416" ],
-    [ "instance_azjol_nerub", "dd/dae/a16412.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "dd/dae/a16412.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "boss_twilight_halionAI", "dd/dae/a16412.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "dd/dae/a16412.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "dd/dae/a16412.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "dd/dae/a16412.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "dd/dae/a16412.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "dd/dae/a16412.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "dd/dae/a16412.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "dd/dae/a16412.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "dd/dae/a16412.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "dd/dae/a16412.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

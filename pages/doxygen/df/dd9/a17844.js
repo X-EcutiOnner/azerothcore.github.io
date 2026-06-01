@@ -1,9 +1,6 @@
 var a17844 =
 [
-    [ "FilterTargets", "df/dd9/a17844.html#a7b490400378893a19cdaf52af25f3a51", null ],
-    [ "HandleScript", "df/dd9/a17844.html#acee46fb0af45364478a92db59fcc3f24", null ],
-    [ "Load", "df/dd9/a17844.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
-    [ "PrepareSpellScript", "df/dd9/a17844.html#abb8fac43566f92b19e644edc38ab5d73", null ],
-    [ "Register", "df/dd9/a17844.html#a1add221102b7067ffc130969f5172eae", null ],
-    [ "Validate", "df/dd9/a17844.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
+    [ "npc_gunship_boarding_leaderAI", "dd/d3f/a17848.html", "dd/d3f/a17848" ],
+    [ "npc_gunship_boarding_leader", "df/dd9/a17844.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "df/dd9/a17844.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

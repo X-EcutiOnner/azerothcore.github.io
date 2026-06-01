@@ -1,8 +1,9 @@
 var a09624 =
 [
-    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "da/d6d/a09624.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
-    [ "operator()", "da/d6d/a09624.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
-    [ "i_funit", "da/d6d/a09624.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
-    [ "i_obj", "da/d6d/a09624.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
-    [ "i_range", "da/d6d/a09624.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
+    [ "PlayerDistWorker", "da/d6d/a09624.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "da/d6d/a09624.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "da/d6d/a09624.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "da/d6d/a09624.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "da/d6d/a09624.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "da/d6d/a09624.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

@@ -1,6 +1,10 @@
 var a16868 =
 [
-    [ "npc_toc_paladinAI", "d6/d86/a16872.html", "d6/d86/a16872" ],
-    [ "npc_toc_paladin", "d3/db1/a16868.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d3/db1/a16868.html#a15766ea4414701040c738251302177af", null ]
+    [ "npc_mistress_of_painAI", "d3/db1/a16868.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d3/db1/a16868.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d3/db1/a16868.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d3/db1/a16868.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d3/db1/a16868.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d3/db1/a16868.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d3/db1/a16868.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

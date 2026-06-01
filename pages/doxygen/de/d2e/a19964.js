@@ -1,12 +1,15 @@
 var a19964 =
 [
-    [ "boss_krystallusAI", "de/d2e/a19964.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "de/d2e/a19964.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "de/d2e/a19964.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "de/d2e/a19964.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "de/d2e/a19964.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "de/d2e/a19964.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "de/d2e/a19964.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "de/d2e/a19964.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "de/d2e/a19964.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_auriaya", "de/d2e/a19964.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "de/d2e/a19964.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "de/d2e/a19964.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "de/d2e/a19964.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "de/d2e/a19964.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "de/d2e/a19964.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "de/d2e/a19964.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "de/d2e/a19964.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "de/d2e/a19964.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "de/d2e/a19964.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "de/d2e/a19964.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "de/d2e/a19964.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

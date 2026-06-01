@@ -1,6 +1,10 @@
 var a24044 =
 [
-    [ "npc_commander_dawnforgeAI", "d8/d70/a24048.html", "d8/d70/a24048" ],
-    [ "npc_commander_dawnforge", "dc/daf/a24044.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "dc/daf/a24044.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "dc/daf/a24044.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "dc/daf/a24044.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "dc/daf/a24044.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "dc/daf/a24044.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "dc/daf/a24044.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "dc/daf/a24044.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "dc/daf/a24044.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

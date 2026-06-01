@@ -1,5 +1,6 @@
 var a19340 =
 [
-    [ "at_frozen_throne_teleport", "d2/d03/a19340.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d2/d03/a19340.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "boss_loathebAI", "db/daa/a19344.html", "db/daa/a19344" ],
+    [ "boss_loatheb", "d2/d03/a19340.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "d2/d03/a19340.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

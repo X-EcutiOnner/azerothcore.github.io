@@ -1,10 +1,12 @@
 var a19588 =
 [
-    [ "boss_patchwerkAI", "df/dbd/a19588.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "df/dbd/a19588.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "df/dbd/a19588.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "df/dbd/a19588.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "df/dbd/a19588.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "df/dbd/a19588.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "df/dbd/a19588.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "instance_nexus_InstanceMapScript", "df/dbd/a19588.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "df/dbd/a19588.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "df/dbd/a19588.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "df/dbd/a19588.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "df/dbd/a19588.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "df/dbd/a19588.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "df/dbd/a19588.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "df/dbd/a19588.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "df/dbd/a19588.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

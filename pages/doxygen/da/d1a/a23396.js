@@ -1,8 +1,10 @@
 var a23396 =
 [
-    [ "npc_underbat", "da/d1a/a23396.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "da/d1a/a23396.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "da/d1a/a23396.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "da/d1a/a23396.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "da/d1a/a23396.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "instance_arcatraz_InstanceMapScript", "da/d1a/a23396.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "da/d1a/a23396.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "da/d1a/a23396.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "da/d1a/a23396.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "da/d1a/a23396.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "da/d1a/a23396.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "da/d1a/a23396.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

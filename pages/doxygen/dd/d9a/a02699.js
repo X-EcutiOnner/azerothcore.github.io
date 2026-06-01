@@ -1,7 +1,14 @@
 var a02699 =
 [
-    [ "IsAcceptedClientBuild", "dd/d9a/a02699.html#a50a906b5a3fdca3508aee0997881a717", null ],
-    [ "IsPostBCAcceptedClientBuild", "dd/d9a/a02699.html#ad4f22daf9d88367d90d92416f470a28c", null ],
-    [ "IsPreBCAcceptedClientBuild", "dd/d9a/a02699.html#a96896fc9dad2c304f681a24776f6726b", null ],
-    [ "MAX_PRE_BC_CLIENT_BUILD", "dd/d9a/a02699.html#ac023f15b280fc65fdefefb77f2f7be7b", null ]
+    [ "BeforeVisibilityDestroy", "dd/d9a/a02699.html#a8172910e1dfdc7b56ca3931dd2fab1fb", null ],
+    [ "BeforeVisibilityDestroy< Creature >", "dd/d9a/a02699.html#a62188ab6a72d08b62bf37442dbbfdaa6", null ],
+    [ "getProbabilityOfLevelUp", "dd/d9a/a02699.html#aa890f698ac89e4049e1107c05d065495", null ],
+    [ "SkillGainChance", "dd/d9a/a02699.html#a66adde9ba6a85d585f6e6e8355499aa6", null ],
+    [ "UpdateVisibilityOf_helper", "dd/d9a/a02699.html#a74b7f95092456b1438f82ae741c77e3b", null ],
+    [ "UpdateVisibilityOf_helper", "dd/d9a/a02699.html#ac66d5bddb2e8a54da47fa75b3fedc154", null ],
+    [ "UpdateVisibilityOf_helper", "dd/d9a/a02699.html#a9ad7cb34613338094db01b886d54cf25", null ],
+    [ "UpdateVisibilityOf_helper", "dd/d9a/a02699.html#a6b71c41b4869661630086bd26c35b630", null ],
+    [ "bonusSkillLevels", "dd/d9a/a02699.html#a72b3624ee55553e28f82ef06d7c74c6a", null ],
+    [ "bonusSkillLevelsSize", "dd/d9a/a02699.html#ad103e97f7db0cfd188ab64f5748c7464", null ],
+    [ "ZONE_UPDATE_INTERVAL", "dd/d9a/a02699.html#afabbcd46bf6f03c5dca10b117810b710", null ]
 ];

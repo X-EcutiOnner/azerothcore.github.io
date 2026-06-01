@@ -1,5 +1,5 @@
 var a27956 =
 [
-    [ "achievement_tilted", "d7/d42/a27956.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "d7/d42/a27956.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "go_veil_skith_cage", "d7/d42/a27956.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d7/d42/a27956.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

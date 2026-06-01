@@ -1,6 +1,6 @@
 var a19160 =
 [
-    [ "HandleEvent", "da/d78/a19160.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "da/d78/a19160.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "da/d78/a19160.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_isle_of_conquest_turretAI", "db/dc4/a19164.html", "db/dc4/a19164" ],
+    [ "npc_isle_of_conquest_turret", "da/d78/a19160.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "da/d78/a19160.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

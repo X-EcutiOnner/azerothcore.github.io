@@ -1,5 +1,8 @@
 var a26176 =
 [
-    [ "PrepareSpellScript", "d8/da3/a26176.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "d8/da3/a26176.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "HandleDummy", "d8/da3/a26176.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d8/da3/a26176.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d8/da3/a26176.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d8/da3/a26176.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d8/da3/a26176.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

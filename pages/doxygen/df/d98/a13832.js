@@ -1,12 +1,9 @@
 var a13832 =
 [
-    [ "npc_kiljaeden_controller", "df/d98/a13832.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "df/d98/a13832.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "df/d98/a13832.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "df/d98/a13832.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "df/d98/a13832.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "df/d98/a13832.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "df/d98/a13832.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "df/d98/a13832.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "df/d98/a13832.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "spell_sunwell_teleport", "df/d98/a13832.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "df/d98/a13832.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "df/d98/a13832.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "df/d98/a13832.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "df/d98/a13832.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "df/d98/a13832.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

@@ -1,7 +1,7 @@
 var a19968 =
 [
-    [ "HandleScript", "de/de0/a19968.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "de/de0/a19968.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "de/de0/a19968.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "de/de0/a19968.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "npc_auriaya_sanctum_sentry", "de/de0/a19968.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "de/de0/a19968.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "de/de0/a19968.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "de/de0/a19968.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

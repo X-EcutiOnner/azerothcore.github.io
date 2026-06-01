@@ -1,9 +1,8 @@
 var a20204 =
 [
-    [ "npc_hodirs_fury", "db/d20/a20204.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "db/d20/a20204.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "db/d20/a20204.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "db/d20/a20204.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "db/d20/a20204.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "db/d20/a20204.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "npc_ulduar_flash_freeze", "db/d20/a20204.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "db/d20/a20204.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "db/d20/a20204.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "db/d20/a20204.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "db/d20/a20204.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

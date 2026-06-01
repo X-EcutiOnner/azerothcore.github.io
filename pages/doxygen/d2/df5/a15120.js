@@ -1,9 +1,6 @@
 var a15120 =
 [
-    [ "boss_azgalor", "d2/df5/a15120.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d2/df5/a15120.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d2/df5/a15120.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d2/df5/a15120.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d2/df5/a15120.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d2/df5/a15120.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_crate_helperAI", "d6/da3/a15124.html", "d6/da3/a15124" ],
+    [ "npc_crate_helper", "d2/df5/a15120.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d2/df5/a15120.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

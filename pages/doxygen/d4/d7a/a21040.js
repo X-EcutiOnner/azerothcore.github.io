@@ -1,7 +1,6 @@
 var a21040 =
 [
-    [ "npc_frost_tomb", "d4/d7a/a21040.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d4/d7a/a21040.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d4/d7a/a21040.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d4/d7a/a21040.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_emalonAI", "d6/d5b/a21044.html", "d6/d5b/a21044" ],
+    [ "boss_emalon", "d4/d7a/a21040.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d4/d7a/a21040.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

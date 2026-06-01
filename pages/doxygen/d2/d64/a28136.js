@@ -1,6 +1,8 @@
 var a28136 =
 [
-    [ "go_flamesAI", "d2/d64/a28136.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d2/d64/a28136.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d2/d64/a28136.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "npc_chicken_cluckAI", "d5/de6/a28140.html", "d5/de6/a28140" ],
+    [ "npc_chicken_cluck", "d2/d64/a28136.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d2/d64/a28136.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d2/d64/a28136.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d2/d64/a28136.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

@@ -1,14 +1,11 @@
 var a22488 =
 [
-    [ "OutdoorPvPNA", "d4/d5a/a22488.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "d4/d5a/a22488.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "d4/d5a/a22488.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "d4/d5a/a22488.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "d4/d5a/a22488.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "d4/d5a/a22488.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "d4/d5a/a22488.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "d4/d5a/a22488.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "d4/d5a/a22488.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "d4/d5a/a22488.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "d4/d5a/a22488.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "boss_high_nethermancer_zerevor", "d4/d5a/a22488.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "d4/d5a/a22488.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "d4/d5a/a22488.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "d4/d5a/a22488.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "d4/d5a/a22488.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "d4/d5a/a22488.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "d4/d5a/a22488.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "d4/d5a/a22488.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

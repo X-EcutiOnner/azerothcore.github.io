@@ -1,6 +1,6 @@
 var a18652 =
 [
-    [ "LichKingDeathEvent", "db/d50/a18652.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "db/d50/a18652.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "db/d50/a18652.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "npc_icc_lk_checktargetAI", "de/d99/a18656.html", "de/d99/a18656" ],
+    [ "npc_icc_lk_checktarget", "db/d50/a18652.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "db/d50/a18652.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

@@ -1,7 +1,6 @@
 var a20264 =
 [
-    [ "HandleScript", "d2/dcc/a20264.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d2/dcc/a20264.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d2/dcc/a20264.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d2/dcc/a20264.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "HandleAfterEffectApply", "d2/dcc/a20264.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d2/dcc/a20264.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d2/dcc/a20264.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

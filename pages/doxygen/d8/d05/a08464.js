@@ -1,26 +1,10 @@
 var a08464 =
 [
-    [ "JumpInfo", "d2/ddb/a08472.html", "d2/ddb/a08472" ],
-    [ "TransportInfo", "d1/dbc/a08468.html", "d1/dbc/a08468" ],
-    [ "MovementInfo", "d8/d05/a08464.html#a809340998de55a9ffa895f7b27e1f2c3", null ],
-    [ "AddExtraMovementFlag", "d8/d05/a08464.html#aff0e449eb1567041f1a44c34e5fa85bc", null ],
-    [ "AddMovementFlag", "d8/d05/a08464.html#ae02908de40bf25e5d07d3bb248448a68", null ],
-    [ "GetExtraMovementFlags", "d8/d05/a08464.html#a7a9353ff367c80cddeaddd63fcd32ddb", null ],
-    [ "GetMovementFlags", "d8/d05/a08464.html#ade08354701baa32b9ff232d6b07e6097", null ],
-    [ "HasExtraMovementFlag", "d8/d05/a08464.html#afad84c80474a806e8abb4626ccfbcfaf", null ],
-    [ "HasMovementFlag", "d8/d05/a08464.html#ad9571cb899d58cc60fbe2412be79116e", null ],
-    [ "OutDebug", "d8/d05/a08464.html#af8c4c6db42364ec712398b317238c90b", null ],
-    [ "RemoveMovementFlag", "d8/d05/a08464.html#ab38114c14a8848a082b4f265eab11c72", null ],
-    [ "SetFallTime", "d8/d05/a08464.html#a683565ad0865709083e81d07a8ce1395", null ],
-    [ "SetMovementFlags", "d8/d05/a08464.html#ace324e7171c3520efdce76d2bbc75c67", null ],
-    [ "fallTime", "d8/d05/a08464.html#abcf42fcf7d61044fd9fb5e6857e21ab5", null ],
-    [ "flags", "d8/d05/a08464.html#ab64213c21ac3cdfd769a5acdc7fce200", null ],
-    [ "flags2", "d8/d05/a08464.html#aa8dc40a9829334f2ca7fa4e7347f91a5", null ],
-    [ "guid", "d8/d05/a08464.html#a10c1c9721558fd98d33bb43b3bfff837", null ],
-    [ "jump", "d8/d05/a08464.html#a920a536b873fcc63dd6bb22882a7a8ea", null ],
-    [ "pitch", "d8/d05/a08464.html#af2945943a91efc4cd5f2f9a0b86424cf", null ],
-    [ "pos", "d8/d05/a08464.html#afc5605f3e357e6ca4f2c681329bb0302", null ],
-    [ "splineElevation", "d8/d05/a08464.html#ac524b47fa52b05e7c6a6b7c577c9291f", null ],
-    [ "time", "d8/d05/a08464.html#a90c332cb1b99ce1ac6eab39bc2a6e4b2", null ],
-    [ "transport", "d8/d05/a08464.html#ac2b0f738ec695f4c9f032daad3e1f041", null ]
+    [ "IsCastable", "d8/d05/a08464.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "d8/d05/a08464.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "d8/d05/a08464.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "d8/d05/a08464.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "d8/d05/a08464.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "d8/d05/a08464.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "d8/d05/a08464.html#ac289744925387c199fde756867bbfc57", null ]
 ];

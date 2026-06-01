@@ -1,23 +1,11 @@
 var a10604 =
 [
-    [ "MiscScript", "d0/de4/a10604.html#afbd758be34ed4b7045525250cb2cf5be", null ],
-    [ "CanApplySoulboundFlag", "d0/de4/a10604.html#a8918c758dd84f447f321f009030615ff", null ],
-    [ "CanItemApplyEquipSpell", "d0/de4/a10604.html#a3241973d4f8ff5d9e4eed8a0cc95e74d", null ],
-    [ "CanSendAuctionHello", "d0/de4/a10604.html#aac9b8415ab2002a1d4ad2f26211fa4e2", null ],
-    [ "GetDialogStatus", "d0/de4/a10604.html#a25d97a2c91563263da76e5d67358edce", null ],
-    [ "IsDatabaseBound", "d0/de4/a10604.html#a6eb3eb8a451ddc1abdf4a238b4e08253", null ],
-    [ "OnAfterLootTemplateProcess", "d0/de4/a10604.html#adcf037b59a970e43b99f1c8f4b35cde5", null ],
-    [ "OnConstructGroup", "d0/de4/a10604.html#a044e0a8f789c9cb8e19cfc82c87ab745", null ],
-    [ "OnConstructInstanceSave", "d0/de4/a10604.html#a7857523e8dec674efbec50f8bfdf108b", null ],
-    [ "OnConstructObject", "d0/de4/a10604.html#acdf0d559e38565bdb55ccb666f39d9f4", null ],
-    [ "OnConstructPlayer", "d0/de4/a10604.html#a14cf20bad86e743a0ddc225d780ed13c", null ],
-    [ "OnDestructGroup", "d0/de4/a10604.html#ae2977af97c42c0eedb4081a0d7984b01", null ],
-    [ "OnDestructInstanceSave", "d0/de4/a10604.html#a2c2b480dd47c6e8a2ebd4e19ead442fc", null ],
-    [ "OnDestructObject", "d0/de4/a10604.html#a2160ea9f05168a3018ab34ebddee18cc", null ],
-    [ "OnDestructPlayer", "d0/de4/a10604.html#a100f72c7b930788c5d3a4a0d2dd2d9d9", null ],
-    [ "OnInstanceSave", "d0/de4/a10604.html#a1434e3a2638144a9ddd4e2834a4983be", null ],
-    [ "OnItemCreate", "d0/de4/a10604.html#a52619636b636036f454dd0d9129754fa", null ],
-    [ "OnPlayerSetPhase", "d0/de4/a10604.html#a19700d3ee246e42852d3b9993157d2e8", null ],
-    [ "ValidateSpellAtCastSpell", "d0/de4/a10604.html#a40356d17f149920064ea1005920c4e45", null ],
-    [ "ValidateSpellAtCastSpellResult", "d0/de4/a10604.html#a3a45534d56665943fbcfd82e15a17753", null ]
+    [ "AllMapScript", "d0/de4/a10604.html#aea5284ac6b227dd44b83dc944e220f00", null ],
+    [ "OnBeforeCreateInstanceScript", "d0/de4/a10604.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "d0/de4/a10604.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "d0/de4/a10604.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "d0/de4/a10604.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "d0/de4/a10604.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "d0/de4/a10604.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "d0/de4/a10604.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

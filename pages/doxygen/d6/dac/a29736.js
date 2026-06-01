@@ -1,6 +1,13 @@
 var a29736 =
 [
-    [ "SetUp", "d6/dac/a29736.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
-    [ "_entry", "d6/dac/a29736.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
-    [ "_procEntry", "d6/dac/a29736.html#affb4da9ec7478c526f07056b83bfff60", null ]
+    [ "MPQArchive", "d6/dac/a29736.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d6/dac/a29736.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d6/dac/a29736.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d6/dac/a29736.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d6/dac/a29736.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d6/dac/a29736.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d6/dac/a29736.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d6/dac/a29736.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d6/dac/a29736.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d6/dac/a29736.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

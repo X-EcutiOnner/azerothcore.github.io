@@ -1,6 +1,7 @@
 var a12884 =
 [
-    [ "boss_gehennasAI", "dd/d16/a12884.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "dd/d16/a12884.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "dd/d16/a12884.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleScript", "dd/d16/a12884.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "dd/d16/a12884.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "dd/d16/a12884.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "dd/d16/a12884.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

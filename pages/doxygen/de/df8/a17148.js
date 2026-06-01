@@ -1,7 +1,7 @@
 var a17148 =
 [
-    [ "HandleScript", "de/df8/a17148.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "de/df8/a17148.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "de/df8/a17148.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "de/df8/a17148.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "OnRemove", "de/df8/a17148.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "de/df8/a17148.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "de/df8/a17148.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "de/df8/a17148.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

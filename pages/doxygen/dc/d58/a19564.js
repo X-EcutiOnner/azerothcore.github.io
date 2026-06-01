@@ -1,6 +1,9 @@
 var a19564 =
 [
-    [ "boss_maexxna_webwrapAI", "dc/d77/a19568.html", "dc/d77/a19568" ],
-    [ "boss_maexxna_webwrap", "dc/d58/a19564.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "dc/d58/a19564.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "HandleApply", "dc/d58/a19564.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "dc/d58/a19564.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "dc/d58/a19564.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "dc/d58/a19564.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "dc/d58/a19564.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "dc/d58/a19564.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

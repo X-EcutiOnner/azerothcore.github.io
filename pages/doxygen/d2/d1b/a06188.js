@@ -1,11 +1,10 @@
 var a06188 =
 [
-    [ "PossessedAI", "d2/d1b/a06188.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "d2/d1b/a06188.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "d2/d1b/a06188.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "d2/d1b/a06188.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "KilledUnit", "d2/d1b/a06188.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "d2/d1b/a06188.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "d2/d1b/a06188.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "d2/d1b/a06188.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "TransactionCallback", "d2/d1b/a06188.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "d2/d1b/a06188.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "d2/d1b/a06188.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "d2/d1b/a06188.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "d2/d1b/a06188.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "d2/d1b/a06188.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "d2/d1b/a06188.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

@@ -1,9 +1,15 @@
 var a29188 =
 [
-    [ "itemId", "d5/d6b/a29188.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "d5/d6b/a29188.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "d5/d6b/a29188.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "d5/d6b/a29188.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "d5/d6b/a29188.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "d5/d6b/a29188.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "AuraStubBuilder", "d5/d6b/a29188.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "d5/d6b/a29188.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "d5/d6b/a29188.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "d5/d6b/a29188.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "d5/d6b/a29188.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "d5/d6b/a29188.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "d5/d6b/a29188.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "d5/d6b/a29188.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "d5/d6b/a29188.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "d5/d6b/a29188.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "d5/d6b/a29188.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "d5/d6b/a29188.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

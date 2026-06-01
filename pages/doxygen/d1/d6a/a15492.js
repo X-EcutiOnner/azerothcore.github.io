@@ -1,7 +1,5 @@
 var a15492 =
 [
-    [ "FilterTargets", "d1/d6a/a15492.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d1/d6a/a15492.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d1/d6a/a15492.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d1/d6a/a15492.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "at_cthun_center", "d1/d6a/a15492.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d1/d6a/a15492.html#af744df9577e84ab64749076324e574c9", null ]
 ];

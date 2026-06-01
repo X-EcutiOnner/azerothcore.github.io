@@ -1,5 +1,7 @@
 var a29080 =
 [
-    [ "Id", "db/dca/a29080.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "db/dca/a29080.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "TalentSpellPos", "db/dca/a29080.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "db/dca/a29080.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "db/dca/a29080.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "db/dca/a29080.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

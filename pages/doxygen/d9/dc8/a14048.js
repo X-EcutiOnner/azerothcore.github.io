@@ -1,12 +1,13 @@
 var a14048 =
 [
-    [ "npc_eastvale_peasent", "d9/dc8/a14048.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d9/dc8/a14048.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d9/dc8/a14048.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d9/dc8/a14048.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d9/dc8/a14048.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d9/dc8/a14048.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d9/dc8/a14048.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d9/dc8/a14048.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d9/dc8/a14048.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d9/dc8/a14048.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "d9/dc8/a14048.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "d9/dc8/a14048.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d9/dc8/a14048.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d9/dc8/a14048.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d9/dc8/a14048.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d9/dc8/a14048.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d9/dc8/a14048.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d9/dc8/a14048.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d9/dc8/a14048.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

@@ -1,7 +1,6 @@
 var a20968 =
 [
-    [ "HandleProc", "db/d4d/a20968.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "db/d4d/a20968.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "db/d4d/a20968.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "db/d4d/a20968.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "CanBeAppliedOn", "db/d4d/a20968.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "db/d4d/a20968.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "db/d4d/a20968.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

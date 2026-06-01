@@ -1,6 +1,6 @@
 var a28292 =
 [
-    [ "guard_shattrath_scryerAI", "d5/dfc/a28296.html", "d5/dfc/a28296" ],
-    [ "guard_shattrath_scryer", "da/dda/a28292.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "da/dda/a28292.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "npc_necropolis_relay", "da/dda/a28292.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "da/dda/a28292.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "da/dda/a28292.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

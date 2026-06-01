@@ -1,6 +1,7 @@
 var a25060 =
 [
-    [ "HandleDummy", "da/d52/a25060.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "da/d52/a25060.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "da/d52/a25060.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "OnApply", "da/d52/a25060.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "da/d52/a25060.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "da/d52/a25060.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "da/d52/a25060.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

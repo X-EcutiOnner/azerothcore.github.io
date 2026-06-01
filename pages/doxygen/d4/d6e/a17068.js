@@ -1,5 +1,7 @@
 var a17068 =
 [
-    [ "boss_eydisAI", "d4/d6e/a17068.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d4/d6e/a17068.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "HandleEffectRemove", "d4/d6e/a17068.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d4/d6e/a17068.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d4/d6e/a17068.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d4/d6e/a17068.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

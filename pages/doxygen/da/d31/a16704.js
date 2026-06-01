@@ -1,15 +1,7 @@
 var a16704 =
 [
-    [ "npc_argent_soldierAI", "da/d31/a16704.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "da/d31/a16704.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "da/d31/a16704.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "da/d31/a16704.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "da/d31/a16704.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "da/d31/a16704.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "da/d31/a16704.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "da/d31/a16704.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "bCheck", "da/d31/a16704.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "da/d31/a16704.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "da/d31/a16704.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "da/d31/a16704.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "HandleEffectPeriodic", "da/d31/a16704.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
+    [ "PrepareAuraScript", "da/d31/a16704.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
+    [ "Register", "da/d31/a16704.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
+    [ "Validate", "da/d31/a16704.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
 ];

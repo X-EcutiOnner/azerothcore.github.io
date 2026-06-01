@@ -1,6 +1,7 @@
 var a18248 =
 [
-    [ "npc_coldflameAI", "d0/d56/a18252.html", "d0/d56/a18252" ],
-    [ "npc_coldflame", "d5/d29/a18248.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d5/d29/a18248.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "HandleScript", "d5/d29/a18248.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "d5/d29/a18248.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "d5/d29/a18248.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "d5/d29/a18248.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

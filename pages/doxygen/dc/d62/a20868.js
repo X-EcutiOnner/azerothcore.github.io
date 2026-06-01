@@ -1,9 +1,6 @@
 var a20868 =
 [
-    [ "boss_yoggsaron_keeper", "dc/d62/a20868.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "dc/d62/a20868.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "dc/d62/a20868.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "dc/d62/a20868.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "dc/d62/a20868.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "dc/d62/a20868.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "d8/d99/a20872.html", "d8/d99/a20872" ],
+    [ "instance_utgarde_keep", "dc/d62/a20868.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "dc/d62/a20868.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

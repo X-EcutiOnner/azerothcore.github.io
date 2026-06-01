@@ -1,6 +1,6 @@
 var a19184 =
 [
-    [ "PrepareSpellScript", "d7/d93/a19184.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d7/d93/a19184.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d7/d93/a19184.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "boss_isle_of_conquestAI", "d4/dd2/a19188.html", "d4/dd2/a19188" ],
+    [ "boss_isle_of_conquest", "d7/d93/a19184.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d7/d93/a19184.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

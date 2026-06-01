@@ -1,7 +1,6 @@
 var a15284 =
 [
-    [ "boss_epoch_hunter", "d6/d55/a15284.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d6/d55/a15284.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d6/d55/a15284.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d6/d55/a15284.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "npc_belnistraszAI", "de/d36/a15288.html", "de/d36/a15288" ],
+    [ "npc_belnistrasz", "d6/d55/a15284.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d6/d55/a15284.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

@@ -1,6 +1,5 @@
 var a20272 =
 [
-    [ "CheckAreaTarget", "d0/de1/a20272.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d0/de1/a20272.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d0/de1/a20272.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "achievement_cheese_the_freeze", "d0/de1/a20272.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "d0/de1/a20272.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

@@ -1,6 +1,6 @@
 var a18392 =
 [
-    [ "FilterTargetsInitial", "d9/da2/a18392.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d9/da2/a18392.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d9/da2/a18392.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "npc_sindragosa_trashAI", "d0/d9d/a18396.html", "d0/d9d/a18396" ],
+    [ "npc_sindragosa_trash", "d9/da2/a18392.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d9/da2/a18392.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

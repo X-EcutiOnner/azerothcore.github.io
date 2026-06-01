@@ -1,6 +1,5 @@
 var a27644 =
 [
-    [ "HandleDummy", "d1/db1/a27644.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d1/db1/a27644.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d1/db1/a27644.html#a27aece218c848064ae387491f9176099", null ]
+    [ "achievement_killed_exp_or_honor_target", "d1/db1/a27644.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d1/db1/a27644.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

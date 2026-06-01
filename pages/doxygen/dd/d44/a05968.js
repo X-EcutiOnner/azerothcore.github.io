@@ -1,10 +1,8 @@
 var a05968 =
 [
-    [ "TransactionCallback", "dd/d44/a05968.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "dd/d44/a05968.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "dd/d44/a05968.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "dd/d44/a05968.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "dd/d44/a05968.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "dd/d44/a05968.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "dd/d44/a05968.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "BaseSocketMgr", "dd/d44/a05968.html#a55ca5c800a783d89fbe05bd945374b84", null ],
+    [ "CreateThreads", "dd/d44/a05968.html#a98a0866ae616017010f639f0ad9fc72d", null ],
+    [ "Instance", "dd/d44/a05968.html#a9c56ed247f209709221a3e592f4d010f", null ],
+    [ "OnSocketAccept", "dd/d44/a05968.html#a02b81323eba1428f9b5eebf7f5edc393", null ],
+    [ "StartNetwork", "dd/d44/a05968.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
 ];

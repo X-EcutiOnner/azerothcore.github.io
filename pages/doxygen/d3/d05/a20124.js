@@ -1,6 +1,5 @@
 var a20124 =
 [
-    [ "CastRunesEvent", "d3/d05/a20124.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d3/d05/a20124.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d3/d05/a20124.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "boss_freya_iron_root", "d3/d05/a20124.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d3/d05/a20124.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

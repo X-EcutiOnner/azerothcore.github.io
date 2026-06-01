@@ -1,6 +1,5 @@
 var a13240 =
 [
-    [ "npc_grandmother", "d4/d45/a13240.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d4/d45/a13240.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d4/d45/a13240.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "boss_ellris_duskhallow", "d4/d45/a13240.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "d4/d45/a13240.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

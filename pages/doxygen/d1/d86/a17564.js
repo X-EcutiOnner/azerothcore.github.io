@@ -1,6 +1,7 @@
 var a17564 =
 [
-    [ "npc_pos_leader_secondAI", "d0/dc4/a17568.html", "d0/dc4/a17568" ],
-    [ "npc_pos_leader_second", "d1/d86/a17564.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "d1/d86/a17564.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "HandleDummyTick", "d1/d86/a17564.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d1/d86/a17564.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d1/d86/a17564.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d1/d86/a17564.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

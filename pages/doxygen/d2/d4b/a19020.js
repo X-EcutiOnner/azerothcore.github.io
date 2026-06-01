@@ -1,7 +1,7 @@
 var a19020 =
 [
-    [ "PeriodicTick", "d2/d4b/a19020.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d2/d4b/a19020.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d2/d4b/a19020.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d2/d4b/a19020.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "HandleDummy", "d2/d4b/a19020.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "d2/d4b/a19020.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "d2/d4b/a19020.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "d2/d4b/a19020.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

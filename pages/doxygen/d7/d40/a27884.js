@@ -1,6 +1,5 @@
 var a27884 =
 [
-    [ "HandleProc", "d7/d40/a27884.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "d7/d40/a27884.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "d7/d40/a27884.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "go_tablet_of_the_seven", "d7/d40/a27884.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d7/d40/a27884.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

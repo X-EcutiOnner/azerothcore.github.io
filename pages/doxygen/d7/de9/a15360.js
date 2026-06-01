@@ -1,6 +1,10 @@
 var a15360 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d1/d17/a15364.html", "d1/d17/a15364" ],
-    [ "instance_dire_maul", "d7/de9/a15360.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d7/de9/a15360.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_moam", "d7/de9/a15360.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d7/de9/a15360.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d7/de9/a15360.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d7/de9/a15360.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d7/de9/a15360.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d7/de9/a15360.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d7/de9/a15360.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

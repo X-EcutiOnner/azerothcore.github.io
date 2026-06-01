@@ -1,5 +1,6 @@
 var a27016 =
 [
-    [ "PrepareSpellScript", "d9/dda/a27016.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d9/dda/a27016.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "HandleEffectApply", "d9/dda/a27016.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "d9/dda/a27016.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "d9/dda/a27016.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

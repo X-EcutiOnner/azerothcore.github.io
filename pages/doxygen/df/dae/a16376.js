@@ -1,6 +1,5 @@
 var a16376 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "df/dae/a16376.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "df/dae/a16376.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "df/dae/a16376.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "at_baltharus_plateau", "df/dae/a16376.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "df/dae/a16376.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

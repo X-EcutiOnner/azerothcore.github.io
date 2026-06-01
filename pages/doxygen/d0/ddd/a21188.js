@@ -1,6 +1,7 @@
 var a21188 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "d9/de0/a21192.html", "d9/de0/a21192" ],
-    [ "instance_utgarde_pinnacle", "d0/ddd/a21188.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d0/ddd/a21188.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "npc_azure_spellbreaker", "d0/ddd/a21188.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "d0/ddd/a21188.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "d0/ddd/a21188.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "d0/ddd/a21188.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

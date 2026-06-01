@@ -1,7 +1,6 @@
 var a23688 =
 [
-    [ "HandleCast", "dc/d7c/a23688.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "dc/d7c/a23688.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "dc/d7c/a23688.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "dc/d7c/a23688.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "npc_ancestral_wolfAI", "d5/dad/a23692.html", "d5/dad/a23692" ],
+    [ "npc_ancestral_wolf", "dc/d7c/a23688.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "dc/d7c/a23688.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

@@ -1,15 +1,13 @@
 var a22152 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/d1c/a22152.html#a04f09361f6bc4bc752ca773878187f79", null ],
-    [ "MoveInLineOfSight", "dd/d1c/a22152.html#adc08551a256220bab144ef26d89c4263", null ],
-    [ "proceedCwEvent", "dd/d1c/a22152.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
-    [ "Reset", "dd/d1c/a22152.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
-    [ "SpellHit", "dd/d1c/a22152.html#a3515e873adf5a097f66764887e3cc5a3", null ],
-    [ "UpdateAI", "dd/d1c/a22152.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
-    [ "orphanGUID", "dd/d1c/a22152.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
-    [ "phase", "dd/d1c/a22152.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
-    [ "playerGUID", "dd/d1c/a22152.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
-    [ "sayStep", "dd/d1c/a22152.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
-    [ "sayTimer", "dd/d1c/a22152.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
-    [ "timer", "dd/d1c/a22152.html#a0fa884bf3003267501f048d3f1287d42", null ]
+    [ "OPvPCapturePointEP_NPT", "dd/d1c/a22152.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "dd/d1c/a22152.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "dd/d1c/a22152.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "dd/d1c/a22152.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "dd/d1c/a22152.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "dd/d1c/a22152.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "dd/d1c/a22152.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "dd/d1c/a22152.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "dd/d1c/a22152.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "dd/d1c/a22152.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

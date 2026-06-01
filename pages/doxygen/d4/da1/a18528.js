@@ -1,7 +1,7 @@
 var a18528 =
 [
-    [ "HandleScript", "d4/da1/a18528.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d4/da1/a18528.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d4/da1/a18528.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d4/da1/a18528.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "CheckTargetCount", "d4/da1/a18528.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
+    [ "PrepareSpellScript", "d4/da1/a18528.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
+    [ "Register", "d4/da1/a18528.html#a86e7512496fd38201d458c03a7a60296", null ],
+    [ "Validate", "d4/da1/a18528.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
 ];

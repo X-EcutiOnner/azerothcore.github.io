@@ -1,12 +1,10 @@
 var a10576 =
 [
-    [ "GroupScript", "db/d03/a10576.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "db/d03/a10576.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "db/d03/a10576.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "db/d03/a10576.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "db/d03/a10576.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "db/d03/a10576.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "db/d03/a10576.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "db/d03/a10576.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "db/d03/a10576.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "AchievementScript", "db/d03/a10576.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "db/d03/a10576.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "db/d03/a10576.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "db/d03/a10576.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "db/d03/a10576.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "db/d03/a10576.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "db/d03/a10576.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

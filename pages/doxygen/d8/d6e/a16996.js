@@ -1,9 +1,5 @@
 var a16996 =
 [
-    [ "npc_fel_infernalAI", "d8/d6e/a16996.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d8/d6e/a16996.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d8/d6e/a16996.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d8/d6e/a16996.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d8/d6e/a16996.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d8/d6e/a16996.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "achievement_better_off_dred", "d8/d6e/a16996.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d8/d6e/a16996.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

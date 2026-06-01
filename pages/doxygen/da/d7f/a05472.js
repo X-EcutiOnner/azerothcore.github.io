@@ -1,7 +1,7 @@
 var a05472 =
 [
-    [ "Node", "da/d7f/a05472.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "da/d7f/a05472.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "da/d7f/a05472.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "da/d7f/a05472.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "Secret", "da/d7f/a05472.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "da/d7f/a05472.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "da/d7f/a05472.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

@@ -1,6 +1,6 @@
 var a27036 =
 [
-    [ "HandleScriptEffect", "d8/d69/a27036.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "d8/d69/a27036.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "d8/d69/a27036.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "HandleAfterCast", "d8/d69/a27036.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "d8/d69/a27036.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "d8/d69/a27036.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

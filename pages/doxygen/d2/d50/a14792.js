@@ -1,5 +1,7 @@
 var a14792 =
 [
-    [ "npc_cw_area_triggerAI", "d2/d50/a14792.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d2/d50/a14792.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "OnApply", "d2/d50/a14792.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d2/d50/a14792.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d2/d50/a14792.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d2/d50/a14792.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

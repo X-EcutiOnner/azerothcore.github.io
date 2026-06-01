@@ -1,4 +1,6 @@
 var a13968 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "df/d00/a13968.html#a255ebc2ebda65b412f46e05e332d605e", null ]
+    [ "OnEffect", "df/d00/a13968.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "df/d00/a13968.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "df/d00/a13968.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

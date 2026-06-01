@@ -1,6 +1,10 @@
 var a11744 =
 [
-    [ "DestinationTargetSelectHandler", "dd/d26/a11744.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "dd/d26/a11744.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "dd/d26/a11744.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "ApplyHarmfulAuraImmuneMask", "dd/d26/a11744.html#afb005a71205a573357afae14481cf5a4", null ],
+    [ "AuraTypeImmune", "dd/d26/a11744.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
+    [ "DamageSchoolMask", "dd/d26/a11744.html#a0917b0bacb75c03a527e170ef08f0811", null ],
+    [ "DispelImmuneMask", "dd/d26/a11744.html#a142a794d2927b25592fece914f7a40fa", null ],
+    [ "MechanicImmuneMask", "dd/d26/a11744.html#ad001d68adbf9c985f26476dda31898ad", null ],
+    [ "SchoolImmuneMask", "dd/d26/a11744.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
+    [ "SpellEffectImmune", "dd/d26/a11744.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
 ];

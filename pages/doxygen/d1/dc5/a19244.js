@@ -1,6 +1,7 @@
 var a19244 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "dc/d1b/a19248.html", "dc/d1b/a19248" ],
-    [ "npc_icc_skybreaker_vicar", "d1/dc5/a19244.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d1/dc5/a19244.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "HandleScriptEffect", "d1/dc5/a19244.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d1/dc5/a19244.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d1/dc5/a19244.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d1/dc5/a19244.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

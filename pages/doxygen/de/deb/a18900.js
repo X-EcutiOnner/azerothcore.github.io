@@ -1,6 +1,6 @@
 var a18900 =
 [
-    [ "ManaVoidSelector", "de/deb/a18900.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
-    [ "operator()", "de/deb/a18900.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
-    [ "_source", "de/deb/a18900.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
+    [ "npc_captain_brandonAI", "de/deb/a18900.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "de/deb/a18900.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "de/deb/a18900.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

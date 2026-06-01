@@ -1,7 +1,5 @@
 var a27792 =
 [
-    [ "HandleDummy", "da/dd2/a27792.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "da/dd2/a27792.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "da/dd2/a27792.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "da/dd2/a27792.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "go_ethereum_prison", "da/dd2/a27792.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "da/dd2/a27792.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

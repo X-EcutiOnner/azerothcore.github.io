@@ -1,12 +1,9 @@
 var a22900 =
 [
-    [ "npc_creature_generator_akama", "d5/d88/a22900.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d5/d88/a22900.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d5/d88/a22900.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d5/d88/a22900.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d5/d88/a22900.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d5/d88/a22900.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d5/d88/a22900.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d5/d88/a22900.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d5/d88/a22900.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "FilterTargets", "d5/d88/a22900.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "d5/d88/a22900.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "d5/d88/a22900.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "d5/d88/a22900.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "d5/d88/a22900.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "d5/d88/a22900.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

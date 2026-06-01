@@ -1,6 +1,7 @@
 var a21168 =
 [
-    [ "HandleDummyEffect", "db/d54/a21168.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "db/d54/a21168.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "db/d54/a21168.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_azure_invader", "db/d54/a21168.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "db/d54/a21168.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "db/d54/a21168.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "db/d54/a21168.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

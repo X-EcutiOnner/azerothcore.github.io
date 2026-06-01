@@ -1,16 +1,12 @@
 var a17464 =
 [
-    [ "boss_ickAI", "dd/d82/a17464.html#a72c90af745b63202edc36b84b3f4df12", null ],
-    [ "CanAIAttack", "dd/d82/a17464.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
-    [ "DamageTaken", "dd/d82/a17464.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
-    [ "GetKrick", "dd/d82/a17464.html#a2d6192f314e76886204c7248d141260a", null ],
-    [ "JustDied", "dd/d82/a17464.html#afd7752ee19dcc6be0b28181bb4485146", null ],
-    [ "JustEngagedWith", "dd/d82/a17464.html#a27598604e65417225acd41d6f05cc717", null ],
-    [ "JustSummoned", "dd/d82/a17464.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
-    [ "KilledUnit", "dd/d82/a17464.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
-    [ "Reset", "dd/d82/a17464.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
-    [ "SpellHitTarget", "dd/d82/a17464.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
-    [ "UpdateAI", "dd/d82/a17464.html#a74bd63ac9558ecec52affaa7440360a1", null ],
-    [ "events", "dd/d82/a17464.html#aab514bb5f930d9eb545a279181632796", null ],
-    [ "pInstance", "dd/d82/a17464.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
+    [ "boss_moorabiAI", "dd/d82/a17464.html#a60a03c3840a3743719996929d2ca9e59", null ],
+    [ "EnterEvadeMode", "dd/d82/a17464.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
+    [ "JustDied", "dd/d82/a17464.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
+    [ "JustEngagedWith", "dd/d82/a17464.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
+    [ "KilledUnit", "dd/d82/a17464.html#a265855d2972e534e927bfa609fbf2cf5", null ],
+    [ "Reset", "dd/d82/a17464.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
+    [ "SpellHitTarget", "dd/d82/a17464.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
+    [ "UpdateAI", "dd/d82/a17464.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
+    [ "events2", "dd/d82/a17464.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
 ];

@@ -1,7 +1,8 @@
 var a23400 =
 [
-    [ "OnApply", "d6/d7a/a23400.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d6/d7a/a23400.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d6/d7a/a23400.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d6/d7a/a23400.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "boss_commander_sarannis", "d6/d7a/a23400.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d6/d7a/a23400.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d6/d7a/a23400.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d6/d7a/a23400.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d6/d7a/a23400.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

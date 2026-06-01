@@ -1,6 +1,6 @@
 var a17608 =
 [
-    [ "entry", "d3/d40/a17608.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d3/d40/a17608.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d3/d40/a17608.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "PrepareSpellScript", "d3/d40/a17608.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d3/d40/a17608.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d3/d40/a17608.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

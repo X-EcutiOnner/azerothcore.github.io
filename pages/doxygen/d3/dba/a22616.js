@@ -1,11 +1,17 @@
 var a22616 =
 [
-    [ "boss_blackheart_the_inciter", "d3/dba/a22616.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d3/dba/a22616.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d3/dba/a22616.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d3/dba/a22616.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d3/dba/a22616.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d3/dba/a22616.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d3/dba/a22616.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d3/dba/a22616.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "npc_akama_shade", "d3/dba/a22616.html#a95e956e162cb88d2814622bc10166ca5", null ],
+    [ "DamageTaken", "d3/dba/a22616.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
+    [ "DoAction", "d3/dba/a22616.html#a59619f193d51e3bad05044aad2d96d9a", null ],
+    [ "EnterEvadeMode", "d3/dba/a22616.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustEngagedWith", "d3/dba/a22616.html#a87df13ee30423c51e50670c535fdf99d", null ],
+    [ "JustSummoned", "d3/dba/a22616.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
+    [ "MovementInform", "d3/dba/a22616.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
+    [ "Reset", "d3/dba/a22616.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
+    [ "sGossipSelect", "d3/dba/a22616.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
+    [ "UpdateAI", "d3/dba/a22616.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
+    [ "_died", "d3/dba/a22616.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
+    [ "_generators", "d3/dba/a22616.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
+    [ "_sayLowHealth", "d3/dba/a22616.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
+    [ "instance", "d3/dba/a22616.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

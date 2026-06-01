@@ -1,6 +1,6 @@
 var a19080 =
 [
-    [ "boss_sister_svalnaAI", "dd/de1/a19084.html", "dd/de1/a19084" ],
-    [ "boss_sister_svalna", "d4/d03/a19080.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d4/d03/a19080.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "dd/de1/a19084.html", "dd/de1/a19084" ],
+    [ "npc_icc_vengeful_fleshreaper", "d4/d03/a19080.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d4/d03/a19080.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

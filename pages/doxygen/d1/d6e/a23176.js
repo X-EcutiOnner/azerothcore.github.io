@@ -1,10 +1,6 @@
 var a23176 =
 [
-    [ "boss_morogrim_tidewalker", "d1/d6e/a23176.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "d1/d6e/a23176.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "d1/d6e/a23176.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "d1/d6e/a23176.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "d1/d6e/a23176.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "d1/d6e/a23176.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "d1/d6e/a23176.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "dd/d3e/a23180.html", "dd/d3e/a23180" ],
+    [ "instance_gruuls_lair", "d1/d6e/a23176.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d1/d6e/a23176.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

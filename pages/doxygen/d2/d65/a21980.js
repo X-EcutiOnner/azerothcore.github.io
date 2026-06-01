@@ -1,6 +1,9 @@
 var a21980 =
 [
-    [ "npc_black_knight_graveyardAI", "d1/ded/a21984.html", "d1/ded/a21984" ],
-    [ "npc_black_knight_graveyard", "d2/d65/a21980.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "d2/d65/a21980.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "HandlePeriodic", "d2/d65/a21980.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d2/d65/a21980.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d2/d65/a21980.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d2/d65/a21980.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d2/d65/a21980.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d2/d65/a21980.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

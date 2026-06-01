@@ -1,7 +1,8 @@
 var a23608 =
 [
-    [ "HandleOnApply", "db/da9/a23608.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "db/da9/a23608.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "db/da9/a23608.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "db/da9/a23608.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "instance_mechanar_InstanceMapScript", "db/da9/a23608.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "db/da9/a23608.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "db/da9/a23608.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "db/da9/a23608.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "db/da9/a23608.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

@@ -1,10 +1,19 @@
 var a19392 =
 [
-    [ "boss_isle_of_conquestAI", "d8/dd8/a19392.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d8/dd8/a19392.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d8/dd8/a19392.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d8/dd8/a19392.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d8/dd8/a19392.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d8/dd8/a19392.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d8/dd8/a19392.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "boss_razuviousAI", "d8/dd8/a19392.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "d8/dd8/a19392.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "d8/dd8/a19392.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "d8/dd8/a19392.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "d8/dd8/a19392.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "d8/dd8/a19392.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "d8/dd8/a19392.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "d8/dd8/a19392.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "d8/dd8/a19392.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "d8/dd8/a19392.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "d8/dd8/a19392.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "d8/dd8/a19392.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "d8/dd8/a19392.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "d8/dd8/a19392.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "d8/dd8/a19392.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "d8/dd8/a19392.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

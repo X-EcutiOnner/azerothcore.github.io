@@ -1,12 +1,11 @@
 var a13728 =
 [
-    [ "boss_sacrolash", "d8/d48/a13728.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "d8/d48/a13728.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "d8/d48/a13728.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "d8/d48/a13728.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d8/d48/a13728.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d8/d48/a13728.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d8/d48/a13728.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d8/d48/a13728.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d8/d48/a13728.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "npc_kalecgos_kj", "d8/d48/a13728.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d8/d48/a13728.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d8/d48/a13728.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d8/d48/a13728.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d8/d48/a13728.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d8/d48/a13728.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d8/d48/a13728.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d8/d48/a13728.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

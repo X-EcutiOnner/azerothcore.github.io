@@ -1,10 +1,18 @@
 var a10456 =
 [
-    [ "AchievementScript", "d5/d74/a10456.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "d5/d74/a10456.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d5/d74/a10456.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d5/d74/a10456.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d5/d74/a10456.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d5/d74/a10456.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d5/d74/a10456.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "MoveSplineInitArgs", "d5/d74/a10456.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d5/d74/a10456.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d5/d74/a10456.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d5/d74/a10456.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d5/d74/a10456.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d5/d74/a10456.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d5/d74/a10456.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d5/d74/a10456.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d5/d74/a10456.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d5/d74/a10456.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d5/d74/a10456.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d5/d74/a10456.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d5/d74/a10456.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d5/d74/a10456.html#af042454593bfd4dc888c1700af437933", null ],
+    [ "walk", "d5/d74/a10456.html#aa58f23e75134e46a9ccbb2c563ecdc22", null ]
 ];

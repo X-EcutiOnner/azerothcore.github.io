@@ -1,6 +1,7 @@
 var a03119 =
 [
-    [ "RBACCommandData", "d5/de3/a12358.html", "d5/de3/a12358" ],
-    [ "rbac_commandscript", "db/d6b/a12362.html", "db/d6b/a12362" ],
-    [ "AddSC_rbac_commandscript", "d2/df0/a03119.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
+    [ "ArenaTeamMgr", "d4/d5f/a07608.html", "d4/d5f/a07608" ],
+    [ "sArenaTeamMgr", "d2/df0/a03119.html#a94afc7262fb2f00293dc80de8ba547df", null ],
+    [ "MAX_ARENA_TEAM_ID", "d2/df0/a03119.html#aa472ba6cfd587021965aece0e77797b7", null ],
+    [ "MAX_TEMP_ARENA_TEAM_ID", "d2/df0/a03119.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
 ];

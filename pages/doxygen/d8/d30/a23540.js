@@ -1,6 +1,6 @@
 var a23540 =
 [
-    [ "HandleScriptEffect", "d8/d30/a23540.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "d8/d30/a23540.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "d8/d30/a23540.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "FilterTargets", "d8/d30/a23540.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d8/d30/a23540.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d8/d30/a23540.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

@@ -1,6 +1,6 @@
 var a21920 =
 [
-    [ "HandleOnEffectRemove", "d7/d0b/a21920.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/d0b/a21920.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/d0b/a21920.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_time_lost_proto_drakeAI", "d4/db5/a21924.html", "d4/db5/a21924" ],
+    [ "npc_time_lost_proto_drake", "d7/d0b/a21920.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d7/d0b/a21920.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

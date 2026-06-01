@@ -1,9 +1,6 @@
 var a18092 =
 [
-    [ "CheckAreaTarget", "d8/d59/a18092.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d8/d59/a18092.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d8/d59/a18092.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d8/d59/a18092.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d8/d59/a18092.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d8/d59/a18092.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "boss_professor_putricideAI", "da/d3f/a18096.html", "da/d3f/a18096" ],
+    [ "boss_professor_putricide", "d8/d59/a18092.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d8/d59/a18092.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

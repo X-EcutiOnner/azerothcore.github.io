@@ -1,7 +1,7 @@
 var a26084 =
 [
-    [ "HandleEnergize", "de/d5a/a26084.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "de/d5a/a26084.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "de/d5a/a26084.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "de/d5a/a26084.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "HandleProc", "de/d5a/a26084.html#a19c34d190abeab629f48cbbaaa066cf8", null ],
+    [ "PrepareAuraScript", "de/d5a/a26084.html#aaf5c649ef33b57ac964613308d3357d1", null ],
+    [ "Register", "de/d5a/a26084.html#aed9d3ef3406aea2656b34230229241de", null ],
+    [ "Validate", "de/d5a/a26084.html#a7f0074e18ffddba1383b01ce774ecff5", null ]
 ];

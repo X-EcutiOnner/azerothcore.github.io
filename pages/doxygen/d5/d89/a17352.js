@@ -1,12 +1,6 @@
 var a17352 =
 [
-    [ "npc_spectral_footmanAI", "d5/d89/a17352.html#a746b1d15b70be293f61669ce4a945732", null ],
-    [ "AttackStart", "d5/d89/a17352.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
-    [ "DoAction", "d5/d89/a17352.html#a466b878e60c1bf89603c261110d88b25", null ],
-    [ "EnterEvadeMode", "d5/d89/a17352.html#a66c9cceae4c2ae5574369744486e3e57", null ],
-    [ "JustDied", "d5/d89/a17352.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
-    [ "JustEngagedWith", "d5/d89/a17352.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
-    [ "Reset", "d5/d89/a17352.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
-    [ "UpdateAI", "d5/d89/a17352.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
-    [ "events", "d5/d89/a17352.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
+    [ "npc_pos_freed_slaveAI", "d5/d89/a17352.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d5/d89/a17352.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d5/d89/a17352.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

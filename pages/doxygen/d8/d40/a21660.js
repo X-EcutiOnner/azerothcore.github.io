@@ -1,7 +1,7 @@
 var a21660 =
 [
-    [ "npc_cosmetic_toy_plane", "d8/d40/a21660.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d8/d40/a21660.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d8/d40/a21660.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d8/d40/a21660.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "HandleScript", "d8/d40/a21660.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d8/d40/a21660.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d8/d40/a21660.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d8/d40/a21660.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

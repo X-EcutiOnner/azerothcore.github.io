@@ -1,7 +1,6 @@
 var a21844 =
 [
-    [ "npc_emilyAI", "d5/df6/a21848.html", "d5/df6/a21848" ],
-    [ "npc_emily", "df/db2/a21844.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "df/db2/a21844.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "df/db2/a21844.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_mcmanus", "df/db2/a21844.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "df/db2/a21844.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "df/db2/a21844.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

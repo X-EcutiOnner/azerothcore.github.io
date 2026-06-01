@@ -1,8 +1,8 @@
 var a24036 =
 [
-    [ "npc_captain_saeedAI", "d2/d9d/a24040.html", "d2/d9d/a24040" ],
-    [ "npc_captain_saeed", "df/d27/a24036.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "df/d27/a24036.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "df/d27/a24036.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "df/d27/a24036.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "npc_pet_gen_valkyr_guardian", "df/d27/a24036.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "df/d27/a24036.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "df/d27/a24036.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "df/d27/a24036.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "df/d27/a24036.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

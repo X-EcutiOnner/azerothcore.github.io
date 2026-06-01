@@ -1,7 +1,6 @@
 var a10044 =
 [
-    [ "resetNotify", "dd/db5/a10044.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
-    [ "Visit", "dd/db5/a10044.html#adfcdcf148b002c641638ddc70d577b14", null ],
-    [ "Visit", "dd/db5/a10044.html#adf95512d4304962a5740b38c32ea28a7", null ],
-    [ "Visit", "dd/db5/a10044.html#a725fc2c2504eecaa15841c27b367cd55", null ]
+    [ "LootValidatorRef", "dd/db5/a10044.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "dd/db5/a10044.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "dd/db5/a10044.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

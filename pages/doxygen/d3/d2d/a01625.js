@@ -1,7 +1,7 @@
 var a01625 =
 [
-    [ "GetExplicitDiscoverySpell", "d3/d2d/a01625.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "d3/d2d/a01625.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "d3/d2d/a01625.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "d3/d2d/a01625.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "instance_mechanar", "d0/d81/a23604.html", "d0/d81/a23604" ],
+    [ "instance_mechanar::instance_mechanar_InstanceMapScript", "db/da9/a23608.html", "db/da9/a23608" ],
+    [ "AddSC_instance_mechanar", "d3/d2d/a01625.html#a23f3274fbd28e19fae6647987fcdf0b9", null ],
+    [ "doorData", "d3/d2d/a01625.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
 ];

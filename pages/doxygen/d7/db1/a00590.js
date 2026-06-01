@@ -1,8 +1,5 @@
 var a00590 =
 [
-    [ "MailScript", "d2/da2/a10706.html", "d2/da2/a10706" ],
-    [ "MailHook", "d7/db1/a00590.html#a7a2fb0cc0937712e8aff65574e1068d6", [
-      [ "MAILHOOK_ON_BEFORE_MAIL_DRAFT_SEND_MAIL_TO", "d7/db1/a00590.html#a7a2fb0cc0937712e8aff65574e1068d6a8f3555a10968fd2749e256067782760f", null ],
-      [ "MAILHOOK_END", "d7/db1/a00590.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285", null ]
-    ] ]
+    [ "instance_commandscript", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "AddSC_instance_commandscript", "d7/db1/a00590.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

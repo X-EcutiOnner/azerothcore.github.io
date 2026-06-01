@@ -1,6 +1,8 @@
 var a28020 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "de/de4/a28020.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "de/de4/a28020.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "de/de4/a28020.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "trigger_periodicAI", "de/de4/a28020.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "de/de4/a28020.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "de/de4/a28020.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "de/de4/a28020.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "de/de4/a28020.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

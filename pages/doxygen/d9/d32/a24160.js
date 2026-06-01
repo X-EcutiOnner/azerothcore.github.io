@@ -1,6 +1,7 @@
 var a24160 =
 [
-    [ "npc_lord_illidan_stormrageAI", "da/d3c/a24164.html", "da/d3c/a24164" ],
-    [ "npc_lord_illidan_stormrage", "d9/d32/a24160.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d9/d32/a24160.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "CheckProc", "d9/d32/a24160.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
+    [ "HandleProc", "d9/d32/a24160.html#a8ab07569658cf2fa02193691bcab14ac", null ],
+    [ "PrepareAuraScript", "d9/d32/a24160.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
+    [ "Register", "d9/d32/a24160.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
 ];

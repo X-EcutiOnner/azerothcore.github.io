@@ -1,6 +1,7 @@
 var a23772 =
 [
-    [ "npc_capernian", "dc/d74/a23772.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "dc/d74/a23772.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "dc/d74/a23772.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "npc_bessyAI", "d3/d51/a23776.html", "d3/d51/a23776" ],
+    [ "npc_bessy", "dc/d74/a23772.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "dc/d74/a23772.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "dc/d74/a23772.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

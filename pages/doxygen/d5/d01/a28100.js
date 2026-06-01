@@ -1,6 +1,8 @@
 var a28100 =
 [
-    [ "go_witherbark_totem_bundleAI", "d3/d40/a28104.html", "d3/d40/a28104" ],
-    [ "go_witherbark_totem_bundle", "d5/d01/a28100.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "d5/d01/a28100.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "npc_elder_clearwaterAI", "d3/d40/a28104.html", "d3/d40/a28104" ],
+    [ "npc_elder_clearwater", "d5/d01/a28100.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d5/d01/a28100.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d5/d01/a28100.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d5/d01/a28100.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

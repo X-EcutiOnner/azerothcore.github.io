@@ -1,134 +1,69 @@
 var a01982 =
 [
-    [ "PetStable", "d2/d8c/a08806.html", "d2/d8c/a08806" ],
-    [ "PetStable::PetInfo", "d0/dd0/a08810.html", "d0/dd0/a08810" ],
-    [ "ActionFeedback", "d2/d3d/a01982.html#aeb5551b3f37a2573e008d2d5d865359d", [
-      [ "FEEDBACK_NONE", "d2/d3d/a01982.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
-      [ "FEEDBACK_PET_DEAD", "d2/d3d/a01982.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],
-      [ "FEEDBACK_NOTHING_TO_ATT", "d2/d3d/a01982.html#aeb5551b3f37a2573e008d2d5d865359da3706032c84734c5ac7a062f213a55c5d", null ],
-      [ "FEEDBACK_CANT_ATT_TARGET", "d2/d3d/a01982.html#aeb5551b3f37a2573e008d2d5d865359da7ab57d203acda1a7175c48b188c1cbf4", null ]
+    [ "HalaaIds", "da/dc1/a22200.html", "da/dc1/a22200" ],
+    [ "OPvPCapturePointNA", "d2/d4c/a22204.html", "d2/d4c/a22204" ],
+    [ "OutdoorPvPNA", "d4/d19/a22208.html", "d4/d19/a22208" ],
+    [ "HalaaNPCS", "d2/d3d/a01982.html#a3951c5b11bab0eeb9b06c1e19b25c036", null ],
+    [ "ControlGOTypes", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19", [
+      [ "NA_ROOST_S", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19afa875929ebc8b1c2db3a195ee37095ad", null ],
+      [ "NA_ROOST_W", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a237f904232faee9c60bf01b3e5d27623", null ],
+      [ "NA_ROOST_N", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19ad182fca04bd07e7f4b7a924bf476a520", null ],
+      [ "NA_ROOST_E", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19ac2360c16ea760d37dcec325a5165ec8c", null ],
+      [ "NA_BOMB_WAGON_S", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a8fe4900cb979a36257cc3ee70cfcd56e", null ],
+      [ "NA_BOMB_WAGON_W", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a7ff23be34578fcc2d55e1f088b3e00cb", null ],
+      [ "NA_BOMB_WAGON_N", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a7b1be1932fafd2586d4706e8541b85b8", null ],
+      [ "NA_BOMB_WAGON_E", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a2447af22ca220eab12dbc987125a6870", null ],
+      [ "NA_DESTROYED_ROOST_S", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a6267ce0c271fd7e77fcebb63e09b4099", null ],
+      [ "NA_DESTROYED_ROOST_W", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19ab023c62e57c5d189c91a4babd13525cf", null ],
+      [ "NA_DESTROYED_ROOST_N", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a9cbe15da02cd0024dbedf82b2c752f0f", null ],
+      [ "NA_DESTROYED_ROOST_E", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19a81fe1a37a84a9d647898f65913718e3e", null ],
+      [ "NA_CONTROL_GO_NUM", "d2/d3d/a01982.html#a671e2c9be7783733226427ebd264eb19ac9ebedb94fb10e2eb33d411be0865bd7", null ]
     ] ],
-    [ "HappinessState", "d2/d3d/a01982.html#addd416d6eeaa9cd92339aa437caedb3e", [
-      [ "UNHAPPY", "d2/d3d/a01982.html#addd416d6eeaa9cd92339aa437caedb3eae373c6b52d4a8b45084f4a276fb6d6c5", null ],
-      [ "CONTENT", "d2/d3d/a01982.html#addd416d6eeaa9cd92339aa437caedb3ea59ae17a687995046ac7025dcc53156e3", null ],
-      [ "HAPPY", "d2/d3d/a01982.html#addd416d6eeaa9cd92339aa437caedb3ea5592cf91bd70788e64c412b3cc642e2c", null ]
+    [ "FlightSpellsNA", "d2/d3d/a01982.html#a68fd902d513cc8e7bf37946f9d26a80b", [
+      [ "NA_SPELL_FLY_SOUTH", "d2/d3d/a01982.html#a68fd902d513cc8e7bf37946f9d26a80ba86e4e8c951657bc667c88d574dcbdb8f", null ],
+      [ "NA_SPELL_FLY_WEST", "d2/d3d/a01982.html#a68fd902d513cc8e7bf37946f9d26a80ba9a9deaeede3e488499190b425fd3bdc2", null ],
+      [ "NA_SPELL_FLY_NORTH", "d2/d3d/a01982.html#a68fd902d513cc8e7bf37946f9d26a80bafd6b9390ea045f8cfa5feef209cb9be3", null ],
+      [ "NA_SPELL_FLY_EAST", "d2/d3d/a01982.html#a68fd902d513cc8e7bf37946f9d26a80bab97171fab8df1e600228b3da1456452d", null ]
     ] ],
-    [ "NPCEntries", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444", [
-      [ "NPC_INFERNAL", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a7649ec86e3d554592e40261d7ef9d6b4", null ],
-      [ "NPC_IMP", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444aba3078844283f4675371b340bff7f388", null ],
-      [ "NPC_FELHUNTER", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a5b3ba01209b2360ac5dd4123226be1dd", null ],
-      [ "NPC_VOIDWALKER", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444afc9fa9a48f3bbd51b632f1686e212bc6", null ],
-      [ "NPC_SUCCUBUS", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a70e52bdee0bcef5ecf339efa964e5d00", null ],
-      [ "NPC_DOOMGUARD", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a3b9805558d7366ab00e92a1472291072", null ],
-      [ "NPC_FELGUARD", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444acc019a6183e4f640b97a7a978ac06e77", null ],
-      [ "NPC_EYE_OF_KILROGG", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a978a28a5849352abc318d322b55cc27e", null ],
-      [ "NPC_WATER_ELEMENTAL_TEMP", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a187b9625022c1735c982b1e3c50dd561", null ],
-      [ "NPC_MIRROR_IMAGE", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444ad3cadc6c088784fc95c22fd29d79d673", null ],
-      [ "NPC_WATER_ELEMENTAL_PERM", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444ad900fe3d87a882f21dd089cb3dbe1b7f", null ],
-      [ "NPC_TREANT", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a4743da68e375dd7cc3245a19ec093c3a", null ],
-      [ "NPC_SHADOWFIEND", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a627fb9c3579d69d90e2410ded3232bdb", null ],
-      [ "NPC_FIRE_ELEMENTAL", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444aa2589181c17815e15225099063095d1f", null ],
-      [ "NPC_EARTH_ELEMENTAL", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a394617258d75d5e3c8d1db61a031efae", null ],
-      [ "NPC_FERAL_SPIRIT", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a33161649be8fb2bd8709bc5fbe546690", null ],
-      [ "NPC_RISEN_GHOUL", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a433b2b11b86096b58fd668efab323805", null ],
-      [ "NPC_BLOODWORM", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a915a8cd5718e9f29cf0d0931a478aefb", null ],
-      [ "NPC_ARMY_OF_THE_DEAD", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a7cb0d9dcafd074a0e7fbb1bf8b49b585", null ],
-      [ "NPC_EBON_GARGOYLE", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a45a40ecb5ae22c4d7995e5a572058458", null ],
-      [ "NPC_VENOMOUS_SNAKE", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a8556c5e53b97491bb1f5cecab8742393", null ],
-      [ "NPC_VIPER", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444a97c8939d68493bb1cb2fc16ed28203b6", null ],
-      [ "NPC_GENERIC_IMP", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444afca2c65aa34112502cc617b12374e988", null ],
-      [ "NPC_GENERIC_VOIDWALKER", "d2/d3d/a01982.html#a639089e6e6026ab7c06fbbe23f857444accb660cc28729ef2eae9139f280e09b1", null ]
+    [ "HalaaCreaturesSpawn", "d2/d3d/a01982.html#a394f453184d3eefd51298b772b4c789a", [
+      [ "NA_HALAA_CREATURES", "d2/d3d/a01982.html#a394f453184d3eefd51298b772b4c789aa40c5b092548e0e873f1dbe1ff48a0910", null ],
+      [ "NA_HALAA_CREATURE_TEAM_SPAWN", "d2/d3d/a01982.html#a394f453184d3eefd51298b772b4c789aa79500d69d3c666a75f664fa63f63de94", null ],
+      [ "NA_HALAA_MAX_CREATURE_SPAWN", "d2/d3d/a01982.html#a394f453184d3eefd51298b772b4c789aa3d72e7f62a2349039b0c269f0c469553", null ]
     ] ],
-    [ "PetAction", "d2/d3d/a01982.html#a8f1e333f5ef88551b058036c187c1200", [
-      [ "PET_ACTION_SPECIAL_SPELL", "d2/d3d/a01982.html#a8f1e333f5ef88551b058036c187c1200aeb884ae019d02b41d359a6fcd13c0725", null ],
-      [ "PET_ACTION_ATTACK", "d2/d3d/a01982.html#a8f1e333f5ef88551b058036c187c1200a111c922202fb690b727738b6344ec766", null ]
+    [ "HalaaGuardsNA", "d2/d3d/a01982.html#a4e91f98214fe304c148fea20beaa5fae", [
+      [ "NA_HALAANI_GUARD_A", "d2/d3d/a01982.html#a4e91f98214fe304c148fea20beaa5faeaa2b1c68dc890890449426eb6d46ff6c0", null ],
+      [ "NA_HALAANI_GUARD_H", "d2/d3d/a01982.html#a4e91f98214fe304c148fea20beaa5faea6486eb6f2da8e52df614e7728a1f4304", null ]
     ] ],
-    [ "PetLoadState", "d2/d3d/a01982.html#a80290db1e4b163e172e9bd2cf5cb6d6b", [
-      [ "PET_LOAD_OK", "d2/d3d/a01982.html#a80290db1e4b163e172e9bd2cf5cb6d6ba398819a3c83d6ad80812d1dca2039d64", null ],
-      [ "PET_LOAD_NO_RESULT", "d2/d3d/a01982.html#a80290db1e4b163e172e9bd2cf5cb6d6ba2e0f5a56669ad0bd1e738d94090e06cc", null ],
-      [ "PET_LOAD_ERROR", "d2/d3d/a01982.html#a80290db1e4b163e172e9bd2cf5cb6d6ba22f9afd7d3f47ad0de0d10534e0275b1", null ]
+    [ "HalaaStates", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809", [
+      [ "HALAA_N", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809a255888833d6c2bfcb48d6300e3a00e76", null ],
+      [ "HALAA_N_A", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809a5e75a8ea3c221ca8d430a5c3a059ffba", null ],
+      [ "HALAA_A", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809a7e97d445255ae31253d61c6042240799", null ],
+      [ "HALAA_N_H", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809a83d195b2954e67659ed1f1c246d2a889", null ],
+      [ "HALAA_H", "d2/d3d/a01982.html#a2c40def86e302e716c09a15f01e5b809a7159ad16ee5d51946529c3cd325c6547", null ]
     ] ],
-    [ "PetSaveMode", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31", [
-      [ "PET_SAVE_AS_DELETED", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31ae32b2ad103ad490f5f16a85f9a173dd1", null ],
-      [ "PET_SAVE_AS_CURRENT", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31afd6db825b6f344f6f64ae53dc19cf503", null ],
-      [ "PET_SAVE_FIRST_STABLE_SLOT", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31a15e00cc5539d2c9254cb9b310ebcc712", null ],
-      [ "PET_SAVE_LAST_STABLE_SLOT", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31a20411938f7cc7a5140e3b7006d54d851", null ],
-      [ "PET_SAVE_NOT_IN_SLOT", "d2/d3d/a01982.html#a6950071a5ecec4c8754d5fbb9908bc31ae55abbb64855962852c91fb8638ad6cd", null ]
+    [ "OutdoorPvPNASpells", "d2/d3d/a01982.html#a933dca48e43f02c2e7846375e0e3a3e2", [
+      [ "NA_KILL_TOKEN_ALLIANCE", "d2/d3d/a01982.html#a933dca48e43f02c2e7846375e0e3a3e2aae0070f813d277d5864226d25a571413", null ],
+      [ "NA_KILL_TOKEN_HORDE", "d2/d3d/a01982.html#a933dca48e43f02c2e7846375e0e3a3e2aacbd3b5420e976421bab93b50cfa1f0c", null ],
+      [ "NA_CAPTURE_BUFF", "d2/d3d/a01982.html#a933dca48e43f02c2e7846375e0e3a3e2a734083143cec178f24ecabb449f0637c", null ]
     ] ],
-    [ "PetScalingSpells", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7", [
-      [ "SPELL_PET_AVOIDANCE", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a213f9282a4c8984e0f80f63df1ee0070", null ],
-      [ "SPELL_PET_SCALING_MASTER_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a4e47d198c6feb56eccb0d6385af32f74", null ],
-      [ "SPELL_PET_SCALING_MASTER_06", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a7d44d066c664463f7d2b4295a60724a9", null ],
-      [ "SPELL_HUNTER_PET_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7afc2b3803754317188944414d9d114096", null ],
-      [ "SPELL_HUNTER_PET_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a0aa0c961bdeac93e543d7220a231efb9", null ],
-      [ "SPELL_HUNTER_PET_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a523d81cbe2125a5cdbda159bc5444a7c", null ],
-      [ "SPELL_HUNTER_PET_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ada18b11c9d47b0e6c05afaec6f7a72f8", null ],
-      [ "SPELL_WARLOCK_PET_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a68afdc270a10bf20bb964e9c9ebc6faf", null ],
-      [ "SPELL_WARLOCK_PET_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a07349db70c3ae7222953ed7d5a4cef6e", null ],
-      [ "SPELL_WARLOCK_PET_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a99f7796b3cf9ccc769a08e98b24043fd", null ],
-      [ "SPELL_WARLOCK_PET_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a47e6e2fa037fecebc1af203e75d24969", null ],
-      [ "SPELL_WARLOCK_PET_SCALING_05", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a8a1cea13fabc3596e95b0db19d1be136", null ],
-      [ "SPELL_GLYPH_OF_FELGUARD", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ab44293fb8eefd08c5a3fa1c1b7a98484", null ],
-      [ "SPELL_GLYPH_OF_VOIDWALKER", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ad5a1b8b9a373b191fbba4ae8b615ff9f", null ],
-      [ "SPELL_INFERNAL_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ac0ce7e2fd17af5dd8ba7a7a41b59771f", null ],
-      [ "SPELL_INFERNAL_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a1312d5c9b922188d01ddc00f85de7a0a", null ],
-      [ "SPELL_INFERNAL_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a3c81eec4319d5a2e198cc3351a7be0f4", null ],
-      [ "SPELL_INFERNAL_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a875b79e5c78f8045e0cadb1fbab5b75f", null ],
-      [ "SPELL_RITUAL_ENSLAVEMENT", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a649dbeeb0f21207afcb4ef873854d693", null ],
-      [ "SPELL_FERAL_SPIRIT_SPIRIT_HUNT", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7aa98dce0a252fe8372b4a575b62cfaa60", null ],
-      [ "SPELL_FERAL_SPIRIT_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ab1f9bb2866a94ed84957bea3df721286", null ],
-      [ "SPELL_FERAL_SPIRIT_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7aa0df7b0f00d550505c4efb24bc59634f", null ],
-      [ "SPELL_FERAL_SPIRIT_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a1517c7eb9a168500db21bdc6c7a1a7e8", null ],
-      [ "SPELL_FIRE_ELEMENTAL_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a49c674bb42727bc9b76c7f325413b3cb", null ],
-      [ "SPELL_FIRE_ELEMENTAL_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a0a80e1e5e59ea98d4f2479a9c77abc38", null ],
-      [ "SPELL_FIRE_ELEMENTAL_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a168170eaf66f49c4f8634b7d638eb71d", null ],
-      [ "SPELL_FIRE_ELEMENTAL_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7abf74bb42ca9745a4011188bb4c0bd8f3", null ],
-      [ "SPELL_EARTH_ELEMENTAL_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7adb313babb884dad4956abf58d57de95e", null ],
-      [ "SPELL_EARTH_ELEMENTAL_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a10924dd5bdf6d5e874dc90169d7428c0", null ],
-      [ "SPELL_EARTH_ELEMENTAL_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ab61635121ed96902f723447c1b10ecb1", null ],
-      [ "SPELL_EARTH_ELEMENTAL_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a4ab50802fb664ca0d1e2c3ef03681b6a", null ],
-      [ "SPELL_ORC_RACIAL_COMMAND_SHAMAN", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7af4d234994240de4c26f93892432a8111", null ],
-      [ "SPELL_SHADOWFIEND_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a43d8df8353834d274815da41bec89570", null ],
-      [ "SPELL_SHADOWFIEND_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ae38164dbcbd78aef01f5cd35de1bb4c6", null ],
-      [ "SPELL_SHADOWFIEND_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a18b2632c7e6f3079e8a2cafa094d1477", null ],
-      [ "SPELL_SHADOWFIEND_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7afc5d780d570f160ba40cfb71847ea0cd", null ],
-      [ "SPELL_TREANT_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a758b263cd219e77d674d77ed574653ba", null ],
-      [ "SPELL_TREANT_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ac415e03f215ff98dfd7f69687b2824cc", null ],
-      [ "SPELL_TREANT_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a91b8767c2a50b9e67fcbc59e2454643d", null ],
-      [ "SPELL_TREANT_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a17ac2d316ec1de174e4ec1ddf8f22a9a", null ],
-      [ "SPELL_MAGE_PET_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a240acb20321b160a3a785a61bd6335ff", null ],
-      [ "SPELL_MAGE_PET_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a0745806e3e5415455fa3afa861d8bba3", null ],
-      [ "SPELL_MAGE_PET_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7aa3f1e49f9f70fc2a8bda430cbe947dfd", null ],
-      [ "SPELL_MAGE_PET_SCALING_04", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7aea64176a60698e0a8fa4ed3b9b8982ca", null ],
-      [ "SPELL_ORC_RACIAL_COMMAND_DK", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7afa4c61fb2c9aa95f37f0af5029f32b51", null ],
-      [ "SPELL_NIGHT_OF_THE_DEAD_AVOIDANCE", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7af5e8637ef153ededc23ecfa2534120b2", null ],
-      [ "SPELL_DK_PET_SCALING_01", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a790da5379479457306e297f148bcd6ac", null ],
-      [ "SPELL_DK_PET_SCALING_02", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ac34a6818132a5c487d7b899c33e273f9", null ],
-      [ "SPELL_DK_PET_SCALING_03", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a5f210c59dd1cd0e06eaf2df5cc5e15a9", null ],
-      [ "SPELL_DK_AVOIDANCE", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7a71d9cb4238a13ea996dc1e5e94d1009f", null ],
-      [ "SPELL_DK_ARMY_OF_THE_DEAD_PASSIVE", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7ad9c3d9351fe9b875039b624d7ae5d3b2", null ],
-      [ "SPELL_SUMMON_HEAL", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7af512b945c50975b7aec7cc16cc244044", null ],
-      [ "SPELL_RISEN_GHOUL_SELF_STUN", "d2/d3d/a01982.html#a275a80dca15b0657c37715c1b9e3b9b7aa11043393f3a9d1d273ce87e6465dd40", null ]
+    [ "WyvernStates", "d2/d3d/a01982.html#a408ccf9c409baffb9c6d03f2edde557c", [
+      [ "WYVERN_NEU_HORDE", "d2/d3d/a01982.html#a408ccf9c409baffb9c6d03f2edde557ca9069d119becf81d131d0212caf8c6ab5", null ],
+      [ "WYVERN_NEU_ALLIANCE", "d2/d3d/a01982.html#a408ccf9c409baffb9c6d03f2edde557ca98723680d7ec1dc91030d50df4603200", null ],
+      [ "WYVERN_HORDE", "d2/d3d/a01982.html#a408ccf9c409baffb9c6d03f2edde557cafdcbf2305711075969d48e3a56c2a578", null ],
+      [ "WYVERN_ALLIANCE", "d2/d3d/a01982.html#a408ccf9c409baffb9c6d03f2edde557cabc4cc5f16edf95d854b436d27ce77c8e", null ]
     ] ],
-    [ "PetSpellState", "d2/d3d/a01982.html#a4135b2b50486d91baa260c63a20f15f5", [
-      [ "PETSPELL_UNCHANGED", "d2/d3d/a01982.html#a4135b2b50486d91baa260c63a20f15f5a67cfad7aa3b55a87a692db5c7eeac936", null ],
-      [ "PETSPELL_CHANGED", "d2/d3d/a01982.html#a4135b2b50486d91baa260c63a20f15f5a9b8bacded9035aeabc92430edece787c", null ],
-      [ "PETSPELL_NEW", "d2/d3d/a01982.html#a4135b2b50486d91baa260c63a20f15f5a12e005d42fccd3aadeac9008e95eb5b8", null ],
-      [ "PETSPELL_REMOVED", "d2/d3d/a01982.html#a4135b2b50486d91baa260c63a20f15f5aa45b4f700fe69b9edae4fb979b988ffe", null ]
-    ] ],
-    [ "PetSpellType", "d2/d3d/a01982.html#ac12b13d4da0688112812b2c7976550ce", [
-      [ "PETSPELL_NORMAL", "d2/d3d/a01982.html#ac12b13d4da0688112812b2c7976550ceabb53c3a4462fa50e5c8ad926465f63bb", null ],
-      [ "PETSPELL_FAMILY", "d2/d3d/a01982.html#ac12b13d4da0688112812b2c7976550cead8f157e9e157c6042ec5fa09e17edafb", null ],
-      [ "PETSPELL_TALENT", "d2/d3d/a01982.html#ac12b13d4da0688112812b2c7976550ceab009e82a28fb4f233fba32a0d71782ea", null ]
-    ] ],
-    [ "PetType", "d2/d3d/a01982.html#a9c56f6096d84d7e4e38d3e3f4e5af97c", [
-      [ "SUMMON_PET", "d2/d3d/a01982.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca3167e28bcafa6bb3b3e2b2dc72557ecd", null ],
-      [ "HUNTER_PET", "d2/d3d/a01982.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2", null ],
-      [ "MAX_PET_TYPE", "d2/d3d/a01982.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea", null ]
-    ] ],
-    [ "MAX_PET_STABLES", "d2/d3d/a01982.html#ad8cb525a1566956fd2dd5baf811ab5b1", null ],
-    [ "MINI_PET_FOLLOW_ANGLE", "d2/d3d/a01982.html#a4957a90340dbf72fc1e78027fc825e5c", null ],
-    [ "MINI_PET_SUMMON_ANGLE", "d2/d3d/a01982.html#a2f001127b7dc43cdc0367d187229324c", null ],
-    [ "PET_FOLLOW_ANGLE", "d2/d3d/a01982.html#a614e66564b4c3d044cd6e1b5880de654", null ],
-    [ "PET_FOLLOW_DIST", "d2/d3d/a01982.html#a72390f1dacad9f741f303cec18519217", null ]
+    [ "AllianceControlGOs", "d2/d3d/a01982.html#a6da5d6b9a0ecd5b15ced61c27d1c8aa4", null ],
+    [ "FLIGHT_NODES_NUM", "d2/d3d/a01982.html#a767a89853ad9fbcea5e94bae963b3168", null ],
+    [ "FlightPathEndNodes", "d2/d3d/a01982.html#aa4cf9c47955c274ca0bdce61e98a3a5a", null ],
+    [ "FlightPathStartNodes", "d2/d3d/a01982.html#ac9bda252b1c34c9a478d3251069384b8", null ],
+    [ "HordeControlGOs", "d2/d3d/a01982.html#a2ca90cdca32c0c9a0fef5ece362bb3e6", null ],
+    [ "NA_BUFF_ZONE", "d2/d3d/a01982.html#ae9287f13e383331fe53c5a514989ca99", null ],
+    [ "NA_CREDIT_MARKER", "d2/d3d/a01982.html#a8c04516b1462a78d64563849fe3136a1", null ],
+    [ "NA_GUARD_CHECK_TIME", "d2/d3d/a01982.html#a0f69597d7fce786cae5202cb06be06cf", null ],
+    [ "NA_GUARDS_MAX", "d2/d3d/a01982.html#a3fba4585a3d42e96191aa62b6938472f", null ],
+    [ "NA_HALAA_BOMB", "d2/d3d/a01982.html#a793a1d2d8d6683df19de9b728d2af1de", null ],
+    [ "NA_HALAA_GRAVEYARD", "d2/d3d/a01982.html#a23eddcc072a261674acb3acb48f637cb", null ],
+    [ "NA_HALAA_GRAVEYARD_ZONE", "d2/d3d/a01982.html#a74f493038b14c5e7e5a00c661339278e", null ],
+    [ "NA_RESPAWN_TIME", "d2/d3d/a01982.html#a6fd5686dd6cf4251b3b33513928f44bd", null ],
+    [ "PatrolCreatureEntry", "d2/d3d/a01982.html#aac17891901d073bcbdc4b9b919bb8f43", null ]
 ];

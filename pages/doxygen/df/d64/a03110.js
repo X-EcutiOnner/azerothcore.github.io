@@ -1,5 +1,5 @@
 var a03110 =
 [
-    [ "HandleLearnSpellCommand", "df/d64/a03110.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "df/d64/a03110.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "Acore::BattlegroundChatBuilder", "da/d08/a07612.html", "da/d08/a07612" ],
+    [ "Acore::Battleground2ChatBuilder", "d7/d0d/a07616.html", "d7/d0d/a07616" ]
 ];

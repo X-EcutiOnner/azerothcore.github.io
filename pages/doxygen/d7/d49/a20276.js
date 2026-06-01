@@ -1,6 +1,5 @@
 var a20276 =
 [
-    [ "PrepareSpellScript", "d7/d49/a20276.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "d7/d49/a20276.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "d7/d49/a20276.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "achievement_getting_cold_in_here", "d7/d49/a20276.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "d7/d49/a20276.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

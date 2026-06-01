@@ -1,7 +1,7 @@
 var a14916 =
 [
-    [ "HandleScript", "de/d23/a14916.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "de/d23/a14916.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "de/d23/a14916.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "de/d23/a14916.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "HandleScript", "de/d23/a14916.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "de/d23/a14916.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "de/d23/a14916.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "de/d23/a14916.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

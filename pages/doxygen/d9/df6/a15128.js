@@ -1,6 +1,6 @@
 var a15128 =
 [
-    [ "OnRemove", "d9/df6/a15128.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d9/df6/a15128.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d9/df6/a15128.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "npc_cos_chromie_start", "d9/df6/a15128.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d9/df6/a15128.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "d9/df6/a15128.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

@@ -1,9 +1,6 @@
 var a24768 =
 [
-    [ "Absorb", "db/d7d/a24768.html#af7df70d0bd68d12032b5b57faa789a87", null ],
-    [ "CalculateAmount", "db/d7d/a24768.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
-    [ "Load", "db/d7d/a24768.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
-    [ "PrepareAuraScript", "db/d7d/a24768.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
-    [ "Register", "db/d7d/a24768.html#ac7316995b7682a6fafe47ff2547956b0", null ],
-    [ "absorbPct", "db/d7d/a24768.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
+    [ "HandleOnEffectHit", "db/d7d/a24768.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "db/d7d/a24768.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "db/d7d/a24768.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

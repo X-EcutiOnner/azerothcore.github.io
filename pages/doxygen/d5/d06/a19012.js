@@ -1,8 +1,7 @@
 var a19012 =
 [
-    [ "DecayPeriodicTimer", "d5/d06/a19012.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d5/d06/a19012.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d5/d06/a19012.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d5/d06/a19012.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d5/d06/a19012.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "HandleEffectPeriodic", "d5/d06/a19012.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d5/d06/a19012.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d5/d06/a19012.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d5/d06/a19012.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

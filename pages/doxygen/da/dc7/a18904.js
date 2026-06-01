@@ -1,9 +1,6 @@
 var a18904 =
 [
-    [ "DelayedCastEvent", "da/dc7/a18904.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "da/dc7/a18904.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "da/dc7/a18904.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "da/dc7/a18904.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "da/dc7/a18904.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "da/dc7/a18904.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "npc_captain_grondelAI", "d6/d35/a18908.html", "d6/d35/a18908" ],
+    [ "npc_captain_grondel", "da/dc7/a18904.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "da/dc7/a18904.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

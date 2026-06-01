@@ -1,8 +1,6 @@
 var a27980 =
 [
-    [ "CharacterActionIpLogger", "d3/d26/a27980.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d3/d26/a27980.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d3/d26/a27980.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d3/d26/a27980.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d3/d26/a27980.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "guard_shattrath_aldorAI", "da/d35/a27984.html", "da/d35/a27984" ],
+    [ "guard_shattrath_aldor", "d3/d26/a27980.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d3/d26/a27980.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

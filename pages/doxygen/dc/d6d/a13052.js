@@ -1,6 +1,10 @@
 var a13052 =
 [
-    [ "HandleTriggerSpell", "dc/d6d/a13052.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "dc/d6d/a13052.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "dc/d6d/a13052.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_servant_quarters", "dc/d6d/a13052.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "dc/d6d/a13052.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "dc/d6d/a13052.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "dc/d6d/a13052.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "dc/d6d/a13052.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "dc/d6d/a13052.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "dc/d6d/a13052.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

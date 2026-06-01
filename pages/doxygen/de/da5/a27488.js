@@ -1,7 +1,7 @@
 var a27488 =
 [
-    [ "HandleScriptEffect", "de/da5/a27488.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "de/da5/a27488.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "de/da5/a27488.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "de/da5/a27488.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "OnProc", "de/da5/a27488.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "de/da5/a27488.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "de/da5/a27488.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "de/da5/a27488.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

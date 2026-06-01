@@ -1,12 +1,12 @@
 var a00095 =
 [
-    [ "SpellProcSpellTypeMaskTest", "d4/d3c/a29566.html", "d4/d3c/a29566" ],
-    [ "TEST_F", "d9/d77/a00095.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
-    [ "TEST_F", "d9/d77/a00095.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
-    [ "TEST_F", "d9/d77/a00095.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
-    [ "TEST_F", "d9/d77/a00095.html#ab03489d280d80145880f52bc0a09c584", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
-    [ "TEST_F", "d9/d77/a00095.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
+    [ "instance_stratholme", "d0/dcf/a13556.html", "d0/dcf/a13556" ],
+    [ "instance_stratholme::instance_stratholme_InstanceMapScript", "d7/d28/a13560.html", "d7/d28/a13560" ],
+    [ "AddSC_instance_stratholme", "d9/d77/a00095.html#add44fd9ad05267cc5db256b112db2585", null ],
+    [ "aGateTrap", "d9/d77/a00095.html#aa404f6799978911e2f0e4de3b4386c59", null ],
+    [ "aPlaguedCritters", "d9/d77/a00095.html#a4108af811b2731f9784942b89f333054", null ],
+    [ "BarthilasPos", "d9/d77/a00095.html#a3c5bc53064d7ed19146d61fbe2f25502", null ],
+    [ "BlackGuardPos", "d9/d77/a00095.html#a8ed1ccc03c022b129aa9bb9464fedd0a", null ],
+    [ "MindlessUndeadPos", "d9/d77/a00095.html#a1a89feed6c582c3bf3e51bf3a1027081", null ],
+    [ "SlaughterPos", "d9/d77/a00095.html#aec64d79cbf450b10fd485f2e559e0472", null ]
 ];

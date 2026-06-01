@@ -1,6 +1,6 @@
 var a27144 =
 [
-    [ "HandleTriggerSpell", "d7/d19/a27144.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "d7/d19/a27144.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "d7/d19/a27144.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleDummy", "d7/d19/a27144.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "d7/d19/a27144.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "d7/d19/a27144.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

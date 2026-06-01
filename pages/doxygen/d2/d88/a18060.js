@@ -1,6 +1,7 @@
 var a18060 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d2/d88/a18060.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d2/d88/a18060.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d2/d88/a18060.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "HandleScriptEffect", "d2/d88/a18060.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d2/d88/a18060.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d2/d88/a18060.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d2/d88/a18060.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

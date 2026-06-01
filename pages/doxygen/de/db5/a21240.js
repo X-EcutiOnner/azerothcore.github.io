@@ -1,7 +1,7 @@
 var a21240 =
 [
-    [ "PrepareAuraScript", "de/db5/a21240.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "de/db5/a21240.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "de/db5/a21240.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "de/db5/a21240.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "npc_lurgglbrAI", "d7/d4a/a21244.html", "d7/d4a/a21244" ],
+    [ "npc_lurgglbr", "de/db5/a21240.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "de/db5/a21240.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "de/db5/a21240.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

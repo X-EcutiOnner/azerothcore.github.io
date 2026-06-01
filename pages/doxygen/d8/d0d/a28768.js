@@ -1,7 +1,11 @@
 var a28768 =
 [
-    [ "~ByteBufferException", "d8/d0d/a28768.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d8/d0d/a28768.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d8/d0d/a28768.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d8/d0d/a28768.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "Displayid", "d8/d0d/a28768.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "d8/d0d/a28768.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "d8/d0d/a28768.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "d8/d0d/a28768.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "d8/d0d/a28768.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "d8/d0d/a28768.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "d8/d0d/a28768.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "d8/d0d/a28768.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

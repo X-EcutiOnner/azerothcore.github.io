@@ -1,8 +1,6 @@
 var a13412 =
 [
-    [ "npc_dkc1_gothikAI", "d7/dc9/a13412.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d7/dc9/a13412.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d7/dc9/a13412.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d7/dc9/a13412.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d7/dc9/a13412.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "dc/df1/a13416.html", "dc/df1/a13416" ],
+    [ "instance_scarlet_monastery", "d7/dc9/a13412.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
+    [ "GetInstanceScript", "d7/dc9/a13412.html#a1c66031217457809fbe56303085715a0", null ]
 ];

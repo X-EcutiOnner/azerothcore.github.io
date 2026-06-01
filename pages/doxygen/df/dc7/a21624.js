@@ -1,6 +1,9 @@
 var a21624 =
 [
-    [ "npc_archmage_landalockAI", "d3/df3/a21628.html", "d3/df3/a21628" ],
-    [ "npc_archmage_landalock", "df/dc7/a21624.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "df/dc7/a21624.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_venture_co_stragglerAI", "df/dc7/a21624.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "df/dc7/a21624.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "df/dc7/a21624.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "df/dc7/a21624.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "df/dc7/a21624.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "df/dc7/a21624.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

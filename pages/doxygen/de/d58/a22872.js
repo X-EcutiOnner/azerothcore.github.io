@@ -1,6 +1,6 @@
 var a22872 =
 [
-    [ "FilterTargets", "de/d58/a22872.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "de/d58/a22872.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "de/d58/a22872.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "OnPeriodic", "de/d58/a22872.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
+    [ "PrepareAuraScript", "de/d58/a22872.html#a8444053fa146a4163ea905634be78dfc", null ],
+    [ "Register", "de/d58/a22872.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
 ];

@@ -1,6 +1,6 @@
 var a16332 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d7/da0/a16336.html", "d7/da0/a16336" ],
-    [ "instance_ahnkahet", "d9/d4c/a16332.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "d9/d4c/a16332.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d7/da0/a16336.html", "d7/da0/a16336" ],
+    [ "instance_obsidian_sanctum", "d9/d4c/a16332.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d9/d4c/a16332.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

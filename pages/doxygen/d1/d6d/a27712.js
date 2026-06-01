@@ -1,7 +1,11 @@
 var a27712 =
 [
-    [ "CalculateAmount", "d1/d6d/a27712.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "d1/d6d/a27712.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "d1/d6d/a27712.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "d1/d6d/a27712.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "npc_dream_fogAI", "d1/d6d/a27712.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "d1/d6d/a27712.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "d1/d6d/a27712.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "d1/d6d/a27712.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "d1/d6d/a27712.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "d1/d6d/a27712.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "d1/d6d/a27712.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "d1/d6d/a27712.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

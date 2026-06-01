@@ -1,7 +1,6 @@
 var a26652 =
 [
-    [ "OnProc", "d1/d8f/a26652.html#a304fd48cc79d3e7371212632d276b2ff", null ],
-    [ "PrepareAuraScript", "d1/d8f/a26652.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
-    [ "Register", "d1/d8f/a26652.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
-    [ "Validate", "d1/d8f/a26652.html#adc217147d7c150d66dad4d3e922cff96", null ]
+    [ "HandleScriptEffect", "d1/d8f/a26652.html#ab958c74ba8b40488751e5137eb0b6a66", null ],
+    [ "PrepareSpellScript", "d1/d8f/a26652.html#a810fcbfe27f3c6991d1c5f599609b6f7", null ],
+    [ "Register", "d1/d8f/a26652.html#a12c61c9057250f12ea50be74ba74c948", null ]
 ];

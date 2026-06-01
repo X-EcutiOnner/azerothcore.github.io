@@ -1,7 +1,6 @@
 var a17828 =
 [
-    [ "PeriodicTick", "d4/d2c/a17828.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d4/d2c/a17828.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d4/d2c/a17828.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d4/d2c/a17828.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "npc_igb_ship_crewAI", "d5/db8/a17832.html", "d5/db8/a17832" ],
+    [ "npc_igb_ship_crew", "d4/d2c/a17828.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "d4/d2c/a17828.html#a48955817e21a01a726b50685b467c229", null ]
 ];

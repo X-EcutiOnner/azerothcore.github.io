@@ -1,7 +1,6 @@
 var a14920 =
 [
-    [ "OnApply", "d3/dfe/a14920.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d3/dfe/a14920.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d3/dfe/a14920.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d3/dfe/a14920.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "HandleScriptEffect", "d3/dfe/a14920.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "d3/dfe/a14920.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "d3/dfe/a14920.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

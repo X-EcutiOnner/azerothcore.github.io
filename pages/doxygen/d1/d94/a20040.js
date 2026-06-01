@@ -1,6 +1,8 @@
 var a20040 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d7/d89/a20044.html", "d7/d89/a20044" ],
-    [ "instance_halls_of_stone", "d1/d94/a20040.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d1/d94/a20040.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "FilterTargets", "d1/d94/a20040.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "d1/d94/a20040.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "d1/d94/a20040.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "d1/d94/a20040.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "d1/d94/a20040.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

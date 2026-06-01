@@ -1,6 +1,11 @@
 var a20392 =
 [
-    [ "id", "d4/dae/a20392.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d4/dae/a20392.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d4/dae/a20392.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "npc_ulduar_proximity_mine", "d4/dae/a20392.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d4/dae/a20392.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d4/dae/a20392.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d4/dae/a20392.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d4/dae/a20392.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d4/dae/a20392.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d4/dae/a20392.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d4/dae/a20392.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

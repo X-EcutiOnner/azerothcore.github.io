@@ -1,6 +1,6 @@
 var a20172 =
 [
-    [ "FilterTargets", "df/ddf/a20172.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "df/ddf/a20172.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "df/ddf/a20172.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "FilterTargets", "df/ddf/a20172.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "df/ddf/a20172.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "df/ddf/a20172.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

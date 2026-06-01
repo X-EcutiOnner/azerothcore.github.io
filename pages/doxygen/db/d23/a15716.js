@@ -1,6 +1,7 @@
 var a15716 =
 [
-    [ "aqsentinelAI", "d8/d4e/a15720.html", "d8/d4e/a15720" ],
-    [ "npc_anubisath_sentinel", "db/d23/a15716.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "db/d23/a15716.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "npc_webbed_creatureAI", "db/d23/a15716.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "db/d23/a15716.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "db/d23/a15716.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "db/d23/a15716.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

@@ -1,6 +1,6 @@
 var a26852 =
 [
-    [ "CheckCast", "d8/d6b/a26852.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "d8/d6b/a26852.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "d8/d6b/a26852.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "PrepareSpellScript", "d8/d6b/a26852.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d8/d6b/a26852.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d8/d6b/a26852.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

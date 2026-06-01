@@ -1,6 +1,7 @@
 var a16752 =
 [
-    [ "npc_toc5_player_vehicleAI", "d0/d4f/a16756.html", "d0/d4f/a16756" ],
-    [ "npc_toc5_player_vehicle", "db/d38/a16752.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "db/d38/a16752.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "npc_toc_shadow_priestAI", "db/d38/a16752.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "db/d38/a16752.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "db/d38/a16752.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "db/d38/a16752.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

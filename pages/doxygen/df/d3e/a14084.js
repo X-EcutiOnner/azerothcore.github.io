@@ -1,6 +1,7 @@
 var a14084 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d7/da2/a14088.html", "d7/da2/a14088" ],
-    [ "npc_bh_thalorien_dawnseeker", "df/d3e/a14084.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "df/d3e/a14084.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "boss_blight_wormAI", "df/d3e/a14084.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "df/d3e/a14084.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "df/d3e/a14084.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "df/d3e/a14084.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

@@ -1,8 +1,7 @@
 var a16292 =
 [
-    [ "HandleAfterCast", "d5/d30/a16292.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d5/d30/a16292.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d5/d30/a16292.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d5/d30/a16292.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d5/d30/a16292.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "HandleScriptEffect", "d5/d30/a16292.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d5/d30/a16292.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d5/d30/a16292.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d5/d30/a16292.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

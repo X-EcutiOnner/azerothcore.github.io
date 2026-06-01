@@ -1,7 +1,15 @@
 var a14000 =
 [
-    [ "HandleScriptEffect", "de/d48/a14000.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "de/d48/a14000.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "de/d48/a14000.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "de/d48/a14000.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "npc_deathstalker_fearleia", "de/d48/a14000.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "de/d48/a14000.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "de/d48/a14000.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "de/d48/a14000.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "de/d48/a14000.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "de/d48/a14000.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "de/d48/a14000.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "de/d48/a14000.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "de/d48/a14000.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "de/d48/a14000.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "de/d48/a14000.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "de/d48/a14000.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

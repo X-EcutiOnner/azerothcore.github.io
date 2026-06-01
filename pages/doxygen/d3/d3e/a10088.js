@@ -1,15 +1,13 @@
 var a10088 =
 [
-    [ "const_iterator", "d3/d3e/a10088.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "d3/d3e/a10088.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "d3/d3e/a10088.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "d3/d3e/a10088.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "d3/d3e/a10088.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "d3/d3e/a10088.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "d3/d3e/a10088.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "d3/d3e/a10088.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "d3/d3e/a10088.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "d3/d3e/a10088.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "d3/d3e/a10088.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "d3/d3e/a10088.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "ServerMail", "d3/d3e/a10088.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d3/d3e/a10088.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d3/d3e/a10088.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d3/d3e/a10088.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d3/d3e/a10088.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d3/d3e/a10088.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d3/d3e/a10088.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d3/d3e/a10088.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d3/d3e/a10088.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d3/d3e/a10088.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

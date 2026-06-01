@@ -1,9 +1,20 @@
 var a29712 =
 [
-    [ "defaultHitMask", "df/d9b/a29712.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "df/d9b/a29712.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "df/d9b/a29712.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "df/d9b/a29712.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "df/d9b/a29712.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "df/d9b/a29712.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "Record", "df/d9b/a29712.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "Record", "df/d9b/a29712.html#a51a9cc006bb8530fe76452c1bbe7985c", null ],
+    [ "getByte", "df/d9b/a29712.html#ab1897952fa01e930caffa262519645c5", null ],
+    [ "getFloat", "df/d9b/a29712.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getFloat", "df/d9b/a29712.html#a3e6402dcebb5adc1becccdc2bbf39758", null ],
+    [ "getInt", "df/d9b/a29712.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getInt", "df/d9b/a29712.html#a80c4d8d3ae4a5a42ed1dc9a9edcd6747", null ],
+    [ "getString", "df/d9b/a29712.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getString", "df/d9b/a29712.html#a3e330e9888e740bc16d4ba173c90c8d9", null ],
+    [ "getUInt", "df/d9b/a29712.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "getUInt", "df/d9b/a29712.html#ace0215b88ffbaf83c69a82cde51cd45f", null ],
+    [ "operator=", "df/d9b/a29712.html#a25c6e7d3b28aade82eb52d41515f0427", null ],
+    [ "DBCFile", "df/d9b/a29712.html#a6c4f02b14caa99337bbe77b30e5615ab", null ],
+    [ "DBCFile::Iterator", "df/d9b/a29712.html#a56d48f82a62e25038bf9cf339e608083", null ],
+    [ "Iterator", "df/d9b/a29712.html#a9830fc407400559db7e7783cc10a9394", null ],
+    [ "file", "df/d9b/a29712.html#adffc3b9545883356dd9bed0a0613a1fe", null ],
+    [ "offset", "df/d9b/a29712.html#ae76eb8b329fb6d580aa42484de46c95e", null ]
 ];

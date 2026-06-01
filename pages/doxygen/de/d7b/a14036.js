@@ -1,6 +1,5 @@
 var a14036 =
 [
-    [ "npc_augustus_the_touched", "de/d7b/a14036.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "de/d7b/a14036.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "de/d7b/a14036.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "npc_tyrion", "de/d7b/a14036.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "de/d7b/a14036.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

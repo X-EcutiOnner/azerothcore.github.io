@@ -1,5 +1,5 @@
 var a27924 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d0/def/a27924.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d0/def/a27924.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "go_jotunheim_cage", "d0/def/a27924.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d0/def/a27924.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

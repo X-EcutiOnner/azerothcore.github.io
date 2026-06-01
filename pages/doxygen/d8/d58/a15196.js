@@ -1,6 +1,9 @@
 var a15196 =
 [
-    [ "boss_epochAI", "d0/d8e/a15200.html", "d0/d8e/a15200" ],
-    [ "boss_epoch", "d8/d58/a15196.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d8/d58/a15196.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "boss_temporus", "d8/d58/a15196.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d8/d58/a15196.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d8/d58/a15196.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d8/d58/a15196.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d8/d58/a15196.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d8/d58/a15196.html#a99356589a048debbc308b8431259da5c", null ]
 ];

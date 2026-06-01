@@ -1,7 +1,7 @@
 var a27736 =
 [
-    [ "HandleProc", "d4/df4/a27736.html#a9296b52700f070af311047166f6a913b", null ],
-    [ "PrepareAuraScript", "d4/df4/a27736.html#a067cc24e65f79bab10b9d1258fad3460", null ],
-    [ "Register", "d4/df4/a27736.html#affbd8840159048b6ea55ab98900d38c0", null ],
-    [ "Validate", "d4/df4/a27736.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
+    [ "npc_spirit_shadeAI", "d4/df4/a27736.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d4/df4/a27736.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d4/df4/a27736.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d4/df4/a27736.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

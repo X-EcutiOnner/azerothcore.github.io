@@ -1,7 +1,9 @@
 var a12420 =
 [
-    [ "boss_grizzleAI", "db/d8a/a12420.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "db/d8a/a12420.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "db/d8a/a12420.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "db/d8a/a12420.html#ab0f05592db6d0c806247e76232760c44", null ]
+    [ "titles_commandscript", "db/d8a/a12420.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "db/d8a/a12420.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "db/d8a/a12420.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "db/d8a/a12420.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "db/d8a/a12420.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "db/d8a/a12420.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

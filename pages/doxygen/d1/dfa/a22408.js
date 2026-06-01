@@ -1,9 +1,7 @@
 var a22408 =
 [
-    [ "npc_crusade_recruitAI", "d1/dfa/a22408.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d1/dfa/a22408.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d1/dfa/a22408.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d1/dfa/a22408.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d1/dfa/a22408.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d1/dfa/a22408.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_blade_of_azzinoth", "d1/dfa/a22408.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d1/dfa/a22408.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d1/dfa/a22408.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d1/dfa/a22408.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

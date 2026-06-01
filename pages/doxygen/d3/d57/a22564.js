@@ -1,8 +1,6 @@
 var a22564 =
 [
-    [ "npc_yor", "d3/d57/a22564.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d3/d57/a22564.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d3/d57/a22564.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d3/d57/a22564.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d3/d57/a22564.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "boss_essence_of_sufferingAI", "d9/d00/a22568.html", "d9/d00/a22568" ],
+    [ "boss_essence_of_suffering", "d3/d57/a22564.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d3/d57/a22564.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

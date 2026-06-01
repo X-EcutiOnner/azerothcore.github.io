@@ -1,10 +1,8 @@
 var a15224 =
 [
-    [ "boss_meathookAI", "da/db7/a15224.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "da/db7/a15224.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "da/db7/a15224.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "da/db7/a15224.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "da/db7/a15224.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "da/db7/a15224.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "da/db7/a15224.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "Load", "da/db7/a15224.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "da/db7/a15224.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "da/db7/a15224.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "da/db7/a15224.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "da/db7/a15224.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

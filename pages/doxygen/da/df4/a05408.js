@@ -1,4 +1,9 @@
 var a05408 =
 [
-    [ "CSymbolInfoPackage", "da/df4/a05408.html#a83aa5dabea5089b64c13f168a2564d30", null ]
+    [ "criticalOptionSeverity", "da/df4/a05408.html#adfaae562c345965b96fa5f7c92da161e", null ],
+    [ "defaultSeverity", "da/df4/a05408.html#a4d490930b6bbaa9c50570ff9808b1af9", null ],
+    [ "missingFileSeverity", "da/df4/a05408.html#a8cd5da53d2cd0b5d0533741a2dcf651c", null ],
+    [ "missingOptionSeverity", "da/df4/a05408.html#a3c64d5a1ac04533f27af53de8d688ec5", null ],
+    [ "unknownOptionSeverity", "da/df4/a05408.html#ad41070de3cb2c7fa2916654b9e2a693e", null ],
+    [ "valueErrorSeverity", "da/df4/a05408.html#a2c1a05a826289e1cc3f01a988718dda2", null ]
 ];

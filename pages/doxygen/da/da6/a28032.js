@@ -1,11 +1,10 @@
 var a28032 =
 [
-    [ "npc_dream_fogAI", "da/da6/a28032.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "da/da6/a28032.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "da/da6/a28032.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "da/da6/a28032.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "da/da6/a28032.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "da/da6/a28032.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "da/da6/a28032.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "da/da6/a28032.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "npc_prof_blacksmith", "da/da6/a28032.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "da/da6/a28032.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "da/da6/a28032.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "da/da6/a28032.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "da/da6/a28032.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "da/da6/a28032.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "da/da6/a28032.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

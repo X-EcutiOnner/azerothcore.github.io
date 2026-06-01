@@ -1,10 +1,13 @@
 var a10480 =
 [
-    [ "AllItemScript", "d5/d94/a10480.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d5/d94/a10480.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d5/d94/a10480.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d5/d94/a10480.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d5/d94/a10480.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d5/d94/a10480.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d5/d94/a10480.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "entry", "d5/d94/a10480.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "d5/d94/a10480.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "d5/d94/a10480.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "d5/d94/a10480.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "d5/d94/a10480.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "d5/d94/a10480.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "d5/d94/a10480.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "d5/d94/a10480.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "d5/d94/a10480.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "d5/d94/a10480.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

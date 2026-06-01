@@ -1,6 +1,5 @@
 var a28344 =
 [
-    [ "npc_innkeeper", "dc/dec/a28344.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "dc/dec/a28344.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "dc/dec/a28344.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_transport_the_iron_eagle", "dc/dec/a28344.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
+    [ "EventInform", "dc/dec/a28344.html#af1970d07730ab0e5f688200289f48b69", null ]
 ];

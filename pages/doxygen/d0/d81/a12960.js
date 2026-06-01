@@ -1,7 +1,6 @@
 var a12960 =
 [
-    [ "HandleScript", "d0/d81/a12960.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d0/d81/a12960.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d0/d81/a12960.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d0/d81/a12960.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleTriggerSpell", "d0/d81/a12960.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d0/d81/a12960.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d0/d81/a12960.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

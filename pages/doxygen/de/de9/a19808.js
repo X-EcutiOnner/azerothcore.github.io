@@ -1,6 +1,9 @@
 var a19808 =
 [
-    [ "boss_eregosAI", "d7/dc4/a19812.html", "d7/dc4/a19812" ],
-    [ "boss_eregos", "de/de9/a19808.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "de/de9/a19808.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "de/de9/a19808.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "de/de9/a19808.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "de/de9/a19808.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "de/de9/a19808.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "de/de9/a19808.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "de/de9/a19808.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

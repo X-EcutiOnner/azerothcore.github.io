@@ -1,7 +1,6 @@
 var a24144 =
 [
-    [ "o", "d0/db3/a24144.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d0/db3/a24144.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d0/db3/a24144.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d0/db3/a24144.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "HandlePeriodic", "d0/db3/a24144.html#adc387a1b001119b95179856c030853ad", null ],
+    [ "PrepareAuraScript", "d0/db3/a24144.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
+    [ "Register", "d0/db3/a24144.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
 ];

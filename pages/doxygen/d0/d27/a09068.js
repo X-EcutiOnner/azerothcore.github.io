@@ -1,8 +1,11 @@
 var a09068 =
 [
-    [ "Entry", "d0/d27/a09068.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d0/d27/a09068.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d0/d27/a09068.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d0/d27/a09068.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d0/d27/a09068.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "SpellPeriodicAuraLogInfo", "d0/d27/a09068.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d0/d27/a09068.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d0/d27/a09068.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d0/d27/a09068.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d0/d27/a09068.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d0/d27/a09068.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d0/d27/a09068.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d0/d27/a09068.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

@@ -1,6 +1,5 @@
 var a21716 =
 [
-    [ "CheckCast", "d9/d57/a21716.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d9/d57/a21716.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d9/d57/a21716.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_black_knight_graveyardAI", "d9/d57/a21716.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "d9/d57/a21716.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

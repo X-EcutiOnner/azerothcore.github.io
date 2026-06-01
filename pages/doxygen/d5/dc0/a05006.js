@@ -1,17 +1,24 @@
 var a05006 =
 [
-    [ "GetBranch", "d5/dc0/a05006.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
-    [ "GetBuildDirectory", "d5/dc0/a05006.html#a51523316de8184739b710e472a8ce843", null ],
-    [ "GetCMakeCommand", "d5/dc0/a05006.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
-    [ "GetCMakeVersion", "d5/dc0/a05006.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
-    [ "GetCompanyNameStr", "d5/dc0/a05006.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
-    [ "GetDate", "d5/dc0/a05006.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
-    [ "GetFileVersionStr", "d5/dc0/a05006.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
-    [ "GetFullVersion", "d5/dc0/a05006.html#ad68b75fc60314941c3cbade8eafcda23", null ],
-    [ "GetHash", "d5/dc0/a05006.html#addcf1401768f04ea13a6e868d9580605", null ],
-    [ "GetHostOSVersion", "d5/dc0/a05006.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
-    [ "GetLegalCopyrightStr", "d5/dc0/a05006.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
-    [ "GetMySQLExecutable", "d5/dc0/a05006.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
-    [ "GetProductVersionStr", "d5/dc0/a05006.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
-    [ "GetSourceDirectory", "d5/dc0/a05006.html#a1062fcec3676f562803f4775d95a9594", null ]
+    [ "MMAP::MeshData", "dd/dc7/a29820.html", "dd/dc7/a29820" ],
+    [ "MMAP::TerrainBuilder", "dd/da3/a29824.html", "dd/da3/a29824" ],
+    [ "Grid", "d5/dc0/a05006.html#a6ddcf7a168396ad1ecedfc4e5fe04c09", [
+      [ "GRID_V8", "d5/dc0/a05006.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a1b3d969edeab4d39be8a3a59ebca6e0b", null ],
+      [ "GRID_V9", "d5/dc0/a05006.html#a6ddcf7a168396ad1ecedfc4e5fe04c09a90e846a47ab162703bf2dc5664a61289", null ]
+    ] ],
+    [ "Spot", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165", [
+      [ "TOP", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165aecf8447d11b71464b1a20efa4b87cef1", null ],
+      [ "RIGHT", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165a7ba16840bb5803d51ebe597bc881851e", null ],
+      [ "LEFT", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165a5bf23f4bd225a5f4caadf6820404332b", null ],
+      [ "BOTTOM", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165a8f0736dff0eeeaeeb131796615680d04", null ],
+      [ "ENTIRE", "d5/dc0/a05006.html#aa0140172b3856ff5a4e0db0227a41165a333ed540d45ff2a6bc5ac8a954e93f12", null ]
+    ] ],
+    [ "GRID_PART_SIZE", "d5/dc0/a05006.html#a39bc2d4fa649e77addef85b06c49b369", null ],
+    [ "GRID_SIZE", "d5/dc0/a05006.html#a16e4fdf7de4239156a5a8eb83dcc9e8c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT", "d5/dc0/a05006.html#a44bbf7085ddd1deacaae673ea4ec357c", null ],
+    [ "INVALID_MAP_LIQ_HEIGHT_MAX", "d5/dc0/a05006.html#a26a6da9ce81eb096651bf47cb90f947f", null ],
+    [ "V8_SIZE", "d5/dc0/a05006.html#a6918d13eba00db309998162fbff2fb7c", null ],
+    [ "V8_SIZE_SQ", "d5/dc0/a05006.html#a94a0ee7c4f225dfc488737a7ba825bae", null ],
+    [ "V9_SIZE", "d5/dc0/a05006.html#a32c90e1638c0f8693e2fc95201d2ec3f", null ],
+    [ "V9_SIZE_SQ", "d5/dc0/a05006.html#a7eb8c24e8759cfd1ebd37b1efc72618b", null ]
 ];

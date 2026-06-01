@@ -1,8 +1,8 @@
 var a26072 =
 [
-    [ "HandleDummy", "db/d26/a26072.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
-    [ "Load", "db/d26/a26072.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
-    [ "PrepareSpellScript", "db/d26/a26072.html#af89de259afbab436326a67b9eb7833ad", null ],
-    [ "Register", "db/d26/a26072.html#a78ffb20ccc10c3c632934af862273716", null ],
-    [ "Validate", "db/d26/a26072.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
+    [ "HandleProc", "db/d26/a26072.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "db/d26/a26072.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "db/d26/a26072.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "db/d26/a26072.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "db/d26/a26072.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

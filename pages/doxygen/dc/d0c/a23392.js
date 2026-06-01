@@ -1,5 +1,6 @@
 var a23392 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/d0c/a23392.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "dc/d0c/a23392.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "instance_arcatraz_InstanceMapScript", "da/d1a/a23396.html", "da/d1a/a23396" ],
+    [ "instance_arcatraz", "dc/d0c/a23392.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "dc/d0c/a23392.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

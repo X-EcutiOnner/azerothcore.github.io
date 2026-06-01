@@ -1,7 +1,8 @@
 var a05284 =
 [
-    [ "WModelAreaCallback", "da/d75/a05284.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
-    [ "operator()", "da/d75/a05284.html#a8024f924c258932c874c0ac3539d2755", null ],
-    [ "hit", "da/d75/a05284.html#a92b907262a6e2fa630148580da43c612", null ],
-    [ "prims", "da/d75/a05284.html#abe509366e68fff92e07c1aacb90da04f", null ]
+    [ "LocationInfo", "da/d75/a05284.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "da/d75/a05284.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "da/d75/a05284.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "da/d75/a05284.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "da/d75/a05284.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

@@ -1,5 +1,6 @@
 var a21028 =
 [
-    [ "npc_salvaged_siege_engine", "de/d03/a21028.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "de/d03/a21028.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "boss_archavonAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
+    [ "boss_archavon", "de/d03/a21028.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "de/d03/a21028.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

@@ -1,8 +1,8 @@
 var a05276 =
 [
-    [ "GModelRayCallback", "d7/da2/a05276.html#a39bc53ae3bf18800ea215a5a54568606", null ],
-    [ "operator()", "d7/da2/a05276.html#af0072bed861fb89a63c37fd72482ed42", null ],
-    [ "hit", "d7/da2/a05276.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
-    [ "triangles", "d7/da2/a05276.html#a09ef515a1b16d184071e708ed9245b3d", null ],
-    [ "vertices", "d7/da2/a05276.html#af80815b123c6611f38e3d5b41e501546", null ]
+    [ "LocationInfoCallback", "d7/da2/a05276.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d7/da2/a05276.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d7/da2/a05276.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d7/da2/a05276.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d7/da2/a05276.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

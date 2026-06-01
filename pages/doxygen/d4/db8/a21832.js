@@ -1,8 +1,6 @@
 var a21832 =
 [
-    [ "OnRemove", "d4/db8/a21832.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d4/db8/a21832.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d4/db8/a21832.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d4/db8/a21832.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d4/db8/a21832.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "HandleHealPct", "d4/db8/a21832.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d4/db8/a21832.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d4/db8/a21832.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

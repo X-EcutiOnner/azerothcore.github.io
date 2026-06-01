@@ -1,14 +1,10 @@
 var a18004 =
 [
-    [ "npc_gunshipAI", "d6/d1e/a18004.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "d6/d1e/a18004.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "d6/d1e/a18004.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "d6/d1e/a18004.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "d6/d1e/a18004.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "d6/d1e/a18004.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "d6/d1e/a18004.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "d6/d1e/a18004.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "d6/d1e/a18004.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "d6/d1e/a18004.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "d6/d1e/a18004.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "npc_cult_adherentAI", "d6/d1e/a18004.html#a1ea249a25b188a949213788614f4049e", null ],
+    [ "JustEngagedWith", "d6/d1e/a18004.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
+    [ "Reset", "d6/d1e/a18004.html#ab0b54e45468b5ebed0194c441cce434e", null ],
+    [ "SpellHit", "d6/d1e/a18004.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
+    [ "UpdateAI", "d6/d1e/a18004.html#ad89638cf5859615ba2e3a0deb6701751", null ],
+    [ "_instance", "d6/d1e/a18004.html#a970e99fba28d6e3e0cb759c87a866273", null ],
+    [ "events", "d6/d1e/a18004.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
 ];

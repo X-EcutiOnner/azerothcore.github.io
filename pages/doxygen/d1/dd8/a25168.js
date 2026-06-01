@@ -1,6 +1,8 @@
 var a25168 =
 [
-    [ "PrepareSpellScript", "d1/dd8/a25168.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "d1/dd8/a25168.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "d1/dd8/a25168.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "CalcPeriodic", "d1/dd8/a25168.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "d1/dd8/a25168.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "d1/dd8/a25168.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "d1/dd8/a25168.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "d1/dd8/a25168.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

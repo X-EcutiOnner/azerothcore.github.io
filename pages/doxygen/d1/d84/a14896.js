@@ -1,5 +1,6 @@
 var a14896 =
 [
-    [ "go_pumpkin_shrine", "d1/d84/a14896.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d1/d84/a14896.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "OnAuraRemove", "d1/d84/a14896.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d1/d84/a14896.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d1/d84/a14896.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

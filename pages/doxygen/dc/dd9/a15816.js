@@ -1,8 +1,8 @@
 var a15816 =
 [
-    [ "npc_death_ravagerAI", "dc/dd9/a15816.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "dc/dd9/a15816.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "dc/dd9/a15816.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "dc/dd9/a15816.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "dc/dd9/a15816.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "FilterTargets", "dc/dd9/a15816.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "dc/dd9/a15816.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "dc/dd9/a15816.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "dc/dd9/a15816.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "dc/dd9/a15816.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

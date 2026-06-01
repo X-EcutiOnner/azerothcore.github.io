@@ -1,7 +1,8 @@
 var a23924 =
 [
-    [ "npc_daranelleAI", "d7/d77/a23924.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d7/d77/a23924.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d7/d77/a23924.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d7/d77/a23924.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_kservantAI", "d7/d77/a23924.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d7/d77/a23924.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d7/d77/a23924.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d7/d77/a23924.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d7/d77/a23924.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

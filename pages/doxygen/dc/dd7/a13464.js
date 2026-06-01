@@ -1,6 +1,7 @@
 var a13464 =
 [
-    [ "npc_a_special_surpriseAI", "d3/d2b/a13468.html", "d3/d2b/a13468" ],
-    [ "npc_a_special_surprise", "dc/dd7/a13464.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "dc/dd7/a13464.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "HandleEffectApply", "dc/dd7/a13464.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "dc/dd7/a13464.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "dc/dd7/a13464.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "dc/dd7/a13464.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

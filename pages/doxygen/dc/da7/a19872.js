@@ -1,7 +1,8 @@
 var a19872 =
 [
-    [ "CalcDamage", "dc/da7/a19872.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "dc/da7/a19872.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "dc/da7/a19872.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "dc/da7/a19872.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_algalon_worm_hole", "dc/da7/a19872.html#a546bd0ede2586fcbe3812698b68528d4", null ],
+    [ "JustSummoned", "dc/da7/a19872.html#a077425b35d86c007daa93fc8b1fd9717", null ],
+    [ "Reset", "dc/da7/a19872.html#a363814abdee714faddfd966b11a4fddc", null ],
+    [ "UpdateAI", "dc/da7/a19872.html#a16f644be53169adc67fc971bdeaa7263", null ],
+    [ "_summonTimer", "dc/da7/a19872.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
 ];

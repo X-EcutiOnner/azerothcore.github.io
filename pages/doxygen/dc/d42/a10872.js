@@ -1,8 +1,6 @@
 var a10872 =
 [
-    [ "GuildEvent", "dc/d42/a10872.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "dc/d42/a10872.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "dc/d42/a10872.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "dc/d42/a10872.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "dc/d42/a10872.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "ShowingHelm", "dc/d42/a10872.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
+    [ "Read", "dc/d42/a10872.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
+    [ "ShowHelm", "dc/d42/a10872.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
 ];

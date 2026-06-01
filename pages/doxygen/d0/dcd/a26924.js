@@ -1,8 +1,10 @@
 var a26924 =
 [
-    [ "CheckProc", "d0/dcd/a26924.html#ab37749506a197a97cb3cc567cdff199c", null ],
-    [ "HandleProc", "d0/dcd/a26924.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
-    [ "PrepareAuraScript", "d0/dcd/a26924.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
-    [ "Register", "d0/dcd/a26924.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
-    [ "Validate", "d0/dcd/a26924.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
+    [ "Absorb", "d0/dcd/a26924.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d0/dcd/a26924.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d0/dcd/a26924.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d0/dcd/a26924.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d0/dcd/a26924.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d0/dcd/a26924.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d0/dcd/a26924.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

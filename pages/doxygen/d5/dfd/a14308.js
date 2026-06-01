@@ -1,20 +1,6 @@
 var a14308 =
 [
-    [ "boss_janalai", "d5/dfd/a14308.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "d5/dfd/a14308.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d5/dfd/a14308.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "d5/dfd/a14308.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "d5/dfd/a14308.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "d5/dfd/a14308.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "d5/dfd/a14308.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "d5/dfd/a14308.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "d5/dfd/a14308.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "d5/dfd/a14308.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "d5/dfd/a14308.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "d5/dfd/a14308.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "d5/dfd/a14308.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "d5/dfd/a14308.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "d5/dfd/a14308.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "d5/dfd/a14308.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "d5/dfd/a14308.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "OnEffect", "d5/dfd/a14308.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d5/dfd/a14308.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d5/dfd/a14308.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

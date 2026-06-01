@@ -1,22 +1,11 @@
 var a09416 =
 [
-    [ "MapGridManager", "da/dda/a09416.html#af08729c03f8641a00ab1cc1b014214df", null ],
-    [ "CreateGrid", "da/dda/a09416.html#ac5daa221eb530e0b34a1950431cb4496", null ],
-    [ "GetCreatedCellsInGridCount", "da/dda/a09416.html#a322e14ef979b97017a7547194de6c1f0", null ],
-    [ "GetCreatedCellsInMapCount", "da/dda/a09416.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
-    [ "GetCreatedGridsCount", "da/dda/a09416.html#a7994a71cea924e66996161b049eb1d44", null ],
-    [ "GetGrid", "da/dda/a09416.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
-    [ "GetLoadedGridsCount", "da/dda/a09416.html#a8acd42cf15f78053070102f530c443a2", null ],
-    [ "IsGridCreated", "da/dda/a09416.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
-    [ "IsGridLoaded", "da/dda/a09416.html#a4cdf5925d6ebb358f501554c8b296424", null ],
-    [ "IsGridsFullyCreated", "da/dda/a09416.html#a479daebe69f976c11649c9c571eb18e0", null ],
-    [ "IsGridsFullyLoaded", "da/dda/a09416.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
-    [ "IsValidGridCoordinates", "da/dda/a09416.html#a7d7957242615d753383e05a0ee5a1f82", null ],
-    [ "LoadGrid", "da/dda/a09416.html#aab0a821d9672cd485c4966034c2243d5", null ],
-    [ "UnloadGrid", "da/dda/a09416.html#ae381b54e599dce0c02815faf82711200", null ],
-    [ "_createdGridsCount", "da/dda/a09416.html#a6976d52c3af458e4d5885d2523cfafab", null ],
-    [ "_gridLock", "da/dda/a09416.html#aa2c2218a81a5d042925e5675948e242f", null ],
-    [ "_loadedGridsCount", "da/dda/a09416.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
-    [ "_map", "da/dda/a09416.html#a16a35fb94355d6542a2ef634f5411243", null ],
-    [ "_mapGrid", "da/dda/a09416.html#acfac0df3926498e8a9aa581581f84e2c", null ]
+    [ "~GridCell", "da/dda/a09416.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "da/dda/a09416.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "da/dda/a09416.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "da/dda/a09416.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "da/dda/a09416.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "da/dda/a09416.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "da/dda/a09416.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "da/dda/a09416.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

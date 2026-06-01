@@ -1,7 +1,9 @@
 var a18724 =
 [
-    [ "OnRemove", "d9/d86/a18724.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d9/d86/a18724.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d9/d86/a18724.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d9/d86/a18724.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/d86/a18724.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d9/d86/a18724.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d9/d86/a18724.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d9/d86/a18724.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d9/d86/a18724.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d9/d86/a18724.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

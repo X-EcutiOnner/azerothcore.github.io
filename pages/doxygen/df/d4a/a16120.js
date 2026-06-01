@@ -1,6 +1,6 @@
 var a16120 =
 [
-    [ "npc_twiggy_flatheadAI", "d9/d62/a16124.html", "d9/d62/a16124" ],
-    [ "npc_twiggy_flathead", "df/d4a/a16120.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "df/d4a/a16120.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_shadowpriest_sezzizAI", "d9/d62/a16124.html", "d9/d62/a16124" ],
+    [ "npc_shadowpriest_sezziz", "df/d4a/a16120.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "df/d4a/a16120.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

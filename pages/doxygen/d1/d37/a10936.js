@@ -1,5 +1,7 @@
 var a10936 =
 [
-    [ "GuildLeave", "d1/d37/a10936.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "d1/d37/a10936.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "QueryGuildInfoResponse", "d1/d37/a10936.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
+    [ "Write", "d1/d37/a10936.html#abda9452eba38e76c460f910eb3aad5fa", null ],
+    [ "GuildId", "d1/d37/a10936.html#a04eec0531238fa55a91afa11c394fbce", null ],
+    [ "Info", "d1/d37/a10936.html#a749e992a19264b259f62d403b4925abe", null ]
 ];

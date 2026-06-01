@@ -1,8 +1,7 @@
 var a15864 =
 [
-    [ "npc_prospector_remtravelAI", "d0/d94/a15864.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d0/d94/a15864.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d0/d94/a15864.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d0/d94/a15864.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d0/d94/a15864.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_shenthulAI", "d9/d08/a15868.html", "d9/d08/a15868" ],
+    [ "npc_shenthul", "d0/d94/a15864.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d0/d94/a15864.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d0/d94/a15864.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

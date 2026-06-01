@@ -1,10 +1,7 @@
 var a26636 =
 [
-    [ "Load", "d2/d99/a26636.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "d2/d99/a26636.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "d2/d99/a26636.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "d2/d99/a26636.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "d2/d99/a26636.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "d2/d99/a26636.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "d2/d99/a26636.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "if", "d2/d99/a26636.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d2/d99/a26636.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d2/d99/a26636.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d2/d99/a26636.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

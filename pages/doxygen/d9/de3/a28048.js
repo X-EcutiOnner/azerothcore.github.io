@@ -1,9 +1,10 @@
 var a28048 =
 [
-    [ "boss_lethonAI", "d9/de3/a28048.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d9/de3/a28048.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d9/de3/a28048.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d9/de3/a28048.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d9/de3/a28048.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d9/de3/a28048.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "go_evil_book_for_dummies", "d9/de3/a28048.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d9/de3/a28048.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d9/de3/a28048.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d9/de3/a28048.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d9/de3/a28048.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d9/de3/a28048.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d9/de3/a28048.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

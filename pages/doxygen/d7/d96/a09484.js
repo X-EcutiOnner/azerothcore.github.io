@@ -1,10 +1,16 @@
 var a09484 =
 [
-    [ "UnitSearcher", "d7/d96/a09484.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "d7/d96/a09484.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "d7/d96/a09484.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "d7/d96/a09484.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "d7/d96/a09484.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "d7/d96/a09484.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "d7/d96/a09484.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "LiquidEntryType", "d7/d96/a09484.html#a025eadf79f31d447fc80efabbb2f9f22", null ],
+    [ "LiquidFlagsType", "d7/d96/a09484.html#a5bd1b8c77ed4830cc558985e98aa1d01", null ],
+    [ "LiquidMapType", "d7/d96/a09484.html#a554cc712f06b4a0eb9bf81c4a41b9030", null ],
+    [ "liquidEntry", "d7/d96/a09484.html#a1d69fc74b38f6e596704e26e93281314", null ],
+    [ "liquidFlags", "d7/d96/a09484.html#a9ebf22bb06a9254e7175083dc51af9dd", null ],
+    [ "liquidGlobalEntry", "d7/d96/a09484.html#a48274eeefa423c48ff860c8ffc110a30", null ],
+    [ "liquidGlobalFlags", "d7/d96/a09484.html#abdd9bfcaf91f30c3e543e632c347aa88", null ],
+    [ "liquidHeight", "d7/d96/a09484.html#a40f757a6fa57ade760cf1001925a0560", null ],
+    [ "liquidLevel", "d7/d96/a09484.html#a45b8bab4cc66e6e5be5ef51ad27bf1cc", null ],
+    [ "liquidMap", "d7/d96/a09484.html#ae6ddffb70a92aea580bacebb5a0e4d11", null ],
+    [ "liquidOffX", "d7/d96/a09484.html#a310d68fbb4d88272b7ae93492331ce4b", null ],
+    [ "liquidOffY", "d7/d96/a09484.html#ae8b485a43a960a810f5951df6419bd54", null ],
+    [ "liquidWidth", "d7/d96/a09484.html#afee2d2d96fc879729a070d2b5eb114e0", null ]
 ];

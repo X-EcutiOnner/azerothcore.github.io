@@ -1,6 +1,7 @@
 var a18272 =
 [
-    [ "HandleScriptEffect", "d1/da3/a18272.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d1/da3/a18272.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d1/da3/a18272.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "FrostwyrmLandEvent", "d1/da3/a18272.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "d1/da3/a18272.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "d1/da3/a18272.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "d1/da3/a18272.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

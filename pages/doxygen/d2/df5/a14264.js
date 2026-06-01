@@ -1,11 +1,9 @@
 var a14264 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d2/df5/a14264.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "d2/df5/a14264.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "d2/df5/a14264.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "d2/df5/a14264.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "d2/df5/a14264.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "d2/df5/a14264.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "d2/df5/a14264.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "d2/df5/a14264.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_amanishi_scout", "d2/df5/a14264.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d2/df5/a14264.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d2/df5/a14264.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d2/df5/a14264.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d2/df5/a14264.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d2/df5/a14264.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

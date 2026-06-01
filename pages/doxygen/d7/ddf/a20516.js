@@ -1,5 +1,7 @@
 var a20516 =
 [
-    [ "achievement_ignis_shattered", "d7/ddf/a20516.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "d7/ddf/a20516.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "boss_thorim_trap", "d7/ddf/a20516.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "d7/ddf/a20516.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "d7/ddf/a20516.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "d7/ddf/a20516.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

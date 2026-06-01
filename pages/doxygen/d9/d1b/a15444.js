@@ -1,5 +1,6 @@
 var a15444 =
 [
-    [ "npc_hive_zara_swarmer", "d9/d1b/a15444.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d9/d1b/a15444.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "HandleScriptEffect", "d9/d1b/a15444.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d9/d1b/a15444.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d9/d1b/a15444.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

@@ -1,9 +1,7 @@
 var a18280 =
 [
-    [ "CountTargets", "d3/d41/a18280.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d3/d41/a18280.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d3/d41/a18280.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d3/d41/a18280.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d3/d41/a18280.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d3/d41/a18280.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "IceTombSummonEvent", "d3/d41/a18280.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d3/d41/a18280.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d3/d41/a18280.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d3/d41/a18280.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

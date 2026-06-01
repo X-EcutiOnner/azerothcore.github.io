@@ -1,6 +1,6 @@
 var a11436 =
 [
-    [ "AccountData", "d2/d61/a11436.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "d2/d61/a11436.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "d2/d61/a11436.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "PetLearnedSpell", "d2/d61/a11436.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d2/d61/a11436.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d2/d61/a11436.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

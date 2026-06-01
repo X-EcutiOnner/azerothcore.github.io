@@ -1,9 +1,12 @@
 var a09512 =
 [
-    [ "PlayerSearcher", "de/d11/a09512.html#a7247fcab3841996ed5d699696fb21557", null ],
-    [ "Visit", "de/d11/a09512.html#ab2544b79869ba4de9772b1bff7c40704", null ],
-    [ "Visit", "de/d11/a09512.html#abdb4dfeb80101e9e4bf0e46cab5a1f7b", null ],
-    [ "i_check", "de/d11/a09512.html#a58c24b81eec33c9ba8fe8145ee3679b4", null ],
-    [ "i_object", "de/d11/a09512.html#a70b071a2fccb4ff29fd614d1447e87ad", null ],
-    [ "i_phaseMask", "de/d11/a09512.html#a6dd83612b7f0d00035a7efb8d970afc6", null ]
+    [ "VisibleNotifier", "de/d11/a09512.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "de/d11/a09512.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "de/d11/a09512.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "de/d11/a09512.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "de/d11/a09512.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "de/d11/a09512.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "de/d11/a09512.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "de/d11/a09512.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "de/d11/a09512.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

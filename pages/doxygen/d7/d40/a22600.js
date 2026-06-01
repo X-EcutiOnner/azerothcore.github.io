@@ -1,8 +1,10 @@
 var a22600 =
 [
-    [ "FilterTargets", "d7/d40/a22600.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d7/d40/a22600.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d7/d40/a22600.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d7/d40/a22600.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d7/d40/a22600.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "CalculateAmount", "d7/d40/a22600.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d7/d40/a22600.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d7/d40/a22600.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d7/d40/a22600.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d7/d40/a22600.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d7/d40/a22600.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d7/d40/a22600.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

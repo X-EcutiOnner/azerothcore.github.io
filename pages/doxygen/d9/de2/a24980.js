@@ -1,6 +1,7 @@
 var a24980 =
 [
-    [ "CheckProc", "d9/de2/a24980.html#afa477049b9a4fa18594b203a6066d205", null ],
-    [ "PrepareAuraScript", "d9/de2/a24980.html#a9fff895957dfedb5d975e4a8e9588aa9", null ],
-    [ "Register", "d9/de2/a24980.html#ab0746e7fa614f09708f89ed3ef93fca9", null ]
+    [ "HandleDummy", "d9/de2/a24980.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "d9/de2/a24980.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "d9/de2/a24980.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "d9/de2/a24980.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

@@ -1,5 +1,6 @@
 var a24140 =
 [
-    [ "creature", "dc/da2/a24140.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
-    [ "Timer", "dc/da2/a24140.html#a2be497dc190c1f01f939e12083739882", null ]
+    [ "HandleAfterCast", "dc/da2/a24140.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "dc/da2/a24140.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "dc/da2/a24140.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

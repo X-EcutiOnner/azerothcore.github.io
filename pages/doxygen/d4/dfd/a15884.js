@@ -1,7 +1,10 @@
 var a15884 =
 [
-    [ "npc_cork_gizeltonAI", "d5/de5/a15888.html", "d5/de5/a15888" ],
-    [ "npc_cork_gizelton", "d4/dfd/a15884.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d4/dfd/a15884.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d4/dfd/a15884.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "CreatureId", "d4/dfd/a15884.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d4/dfd/a15884.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d4/dfd/a15884.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d4/dfd/a15884.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d4/dfd/a15884.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d4/dfd/a15884.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d4/dfd/a15884.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

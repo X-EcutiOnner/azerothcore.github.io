@@ -1,6 +1,6 @@
 var a27816 =
 [
-    [ "HandleDummy", "d3/da7/a27816.html#a68a86f7f86324336dc837622e01fa6af", null ],
-    [ "PrepareSpellScript", "d3/da7/a27816.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
-    [ "Register", "d3/da7/a27816.html#ad168c9164d1edd23abfbf05141b96de4", null ]
+    [ "go_flamesAI", "d3/da7/a27816.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "d3/da7/a27816.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "d3/da7/a27816.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

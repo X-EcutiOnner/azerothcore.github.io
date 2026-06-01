@@ -1,6 +1,5 @@
 var a27600 =
 [
-    [ "HandleAuraApply", "d8/ddc/a27600.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d8/ddc/a27600.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d8/ddc/a27600.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "achievement_bg_ic_resource_glut", "d8/ddc/a27600.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d8/ddc/a27600.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

@@ -1,10 +1,18 @@
 var a15372 =
 [
-    [ "instance_maraudon_InstanceMapScript", "d5/d3e/a15372.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "d5/d3e/a15372.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "d5/d3e/a15372.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "d5/d3e/a15372.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "d5/d3e/a15372.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "d5/d3e/a15372.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "d5/d3e/a15372.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "boss_ossirian", "d5/d3e/a15372.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
+    [ "InitializeAI", "d5/d3e/a15372.html#a76731e2594cfadf5305d8abc502f665a", null ],
+    [ "JustEngagedWith", "d5/d3e/a15372.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
+    [ "JustSummoned", "d5/d3e/a15372.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
+    [ "KilledUnit", "d5/d3e/a15372.html#a716acecfc8e38eb663557fafb56719fd", null ],
+    [ "MoveInLineOfSight", "d5/d3e/a15372.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
+    [ "Reset", "d5/d3e/a15372.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
+    [ "SetGUID", "d5/d3e/a15372.html#a87369e8995c096301908ec209e17b274", null ],
+    [ "SpawnNextCrystal", "d5/d3e/a15372.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
+    [ "SpellHit", "d5/d3e/a15372.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
+    [ "SummonedCreatureDespawn", "d5/d3e/a15372.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
+    [ "UpdateAI", "d5/d3e/a15372.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
+    [ "_crystalIterator", "d5/d3e/a15372.html#adc049248fa851c954d5fcbf643d47c16", null ],
+    [ "_firstCrystalGUID", "d5/d3e/a15372.html#a498d562d4ceeaecc6a01047bc4559235", null ],
+    [ "_saidIntro", "d5/d3e/a15372.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
 ];

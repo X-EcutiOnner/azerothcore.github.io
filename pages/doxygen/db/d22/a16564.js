@@ -1,7 +1,6 @@
 var a16564 =
 [
-    [ "npc_orb_carrierAI", "db/d22/a16564.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "db/d22/a16564.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "db/d22/a16564.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "db/d22/a16564.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "npc_argent_soldierAI", "d3/d38/a16568.html", "d3/d38/a16568" ],
+    [ "npc_argent_soldier", "db/d22/a16564.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "db/d22/a16564.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

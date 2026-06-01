@@ -1,6 +1,7 @@
 var a23736 =
 [
-    [ "HandlePeriodic", "dc/da1/a23736.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "dc/da1/a23736.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "dc/da1/a23736.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "dc/da1/a23736.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "dc/da1/a23736.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "dc/da1/a23736.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "dc/da1/a23736.html#a29132346f117ba785039057619edb9e7", null ]
 ];

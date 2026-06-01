@@ -1,6 +1,8 @@
 var a21568 =
 [
-    [ "HandleEffect", "d9/dae/a21568.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "d9/dae/a21568.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "d9/dae/a21568.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "OnRemove", "d9/dae/a21568.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d9/dae/a21568.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d9/dae/a21568.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d9/dae/a21568.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d9/dae/a21568.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

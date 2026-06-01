@@ -1,5 +1,6 @@
 var a19956 =
 [
-    [ "at_hol_hall_of_watchers", "d6/db7/a19956.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d6/db7/a19956.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "achievement_assembly_of_iron", "d6/db7/a19956.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d6/db7/a19956.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d6/db7/a19956.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

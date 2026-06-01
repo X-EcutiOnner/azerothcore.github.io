@@ -1,5 +1,6 @@
 var a15948 =
 [
-    [ "at_ancient_leaf", "de/d2c/a15948.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "de/d2c/a15948.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_custodian_of_timeAI", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "npc_custodian_of_time", "de/d2c/a15948.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "de/d2c/a15948.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

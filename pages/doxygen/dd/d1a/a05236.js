@@ -1,13 +1,15 @@
 var a05236 =
 [
-    [ "GroupModel_Raw", "dd/d1a/a05236.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "dd/d1a/a05236.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "dd/d1a/a05236.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "dd/d1a/a05236.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "dd/d1a/a05236.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "dd/d1a/a05236.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "dd/d1a/a05236.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "dd/d1a/a05236.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "dd/d1a/a05236.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "dd/d1a/a05236.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "IVMapMgr", "dd/d1a/a05236.html#a8fcc2ababfadc1bf662c56645c04841e", null ],
+    [ "~IVMapMgr", "dd/d1a/a05236.html#adbc38672af6f30bc4887d2737e6097e5", null ],
+    [ "existsMap", "dd/d1a/a05236.html#a5eaf056f98ad00308f22cad73ee80f15", null ],
+    [ "getDirFileName", "dd/d1a/a05236.html#a6fb9bd31760b72279499e5e884d12a04", null ],
+    [ "isHeightCalcEnabled", "dd/d1a/a05236.html#a0a3b250f0674709fac851c6e63bedd51", null ],
+    [ "isLineOfSightCalcEnabled", "dd/d1a/a05236.html#a9b88973ec447dee3a990e11f1fa74873", null ],
+    [ "isMapLoadingEnabled", "dd/d1a/a05236.html#ae327405db5140e3a27fe767be8ca8a66", null ],
+    [ "processCommand", "dd/d1a/a05236.html#a8697455fead0cfed30ba955c9abf934f", null ],
+    [ "setEnableHeightCalc", "dd/d1a/a05236.html#a5642a08f1cbd688985314fb821525c95", null ],
+    [ "setEnableLineOfSightCalc", "dd/d1a/a05236.html#a7984e19b44c6f8ce16ecea8e823a4b14", null ],
+    [ "iEnableHeightCalc", "dd/d1a/a05236.html#a3ce407c232386fbe00958660457474e4", null ],
+    [ "iEnableLineOfSightCalc", "dd/d1a/a05236.html#a83c2317151591bf2c72d33e19007125a", null ]
 ];

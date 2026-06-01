@@ -1,6 +1,6 @@
 var a18256 =
 [
-    [ "npc_bone_spikeAI", "d9/d64/a18260.html", "d9/d64/a18260" ],
-    [ "npc_bone_spike", "dd/d24/a18256.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "dd/d24/a18256.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "CheckTarget", "dd/d24/a18256.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "dd/d24/a18256.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "dd/d24/a18256.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

@@ -1,5 +1,5 @@
 var a28904 =
 [
-    [ "Deep", "d5/d2c/a28904.html#a9efcd2f19d9701713666f1ad2285d992", null ],
-    [ "Fishable", "d5/d2c/a28904.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
+    [ "id", "d5/d2c/a28904.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d5/d2c/a28904.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

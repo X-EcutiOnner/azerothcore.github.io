@@ -1,7 +1,5 @@
 var a23048 =
 [
-    [ "HandleProc", "d0/ddb/a23048.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d0/ddb/a23048.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d0/ddb/a23048.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d0/ddb/a23048.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "go_main_chambers_access_panel", "d0/ddb/a23048.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d0/ddb/a23048.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

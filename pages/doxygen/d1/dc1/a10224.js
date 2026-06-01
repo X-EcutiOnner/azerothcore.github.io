@@ -1,8 +1,7 @@
 var a10224 =
 [
-    [ "Finalize", "d1/dc1/a10224.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "d1/dc1/a10224.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "d1/dc1/a10224.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "d1/dc1/a10224.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "d1/dc1/a10224.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "flags", "d1/dc1/a10224.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
+    [ "groupId", "d1/dc1/a10224.html#ac7efc48c61e715027a8d651fda543ada", null ],
+    [ "mapId", "d1/dc1/a10224.html#ad53e068ead632ca66fbebe81e783fc52", null ],
+    [ "name", "d1/dc1/a10224.html#a55368217a847f946def13b2123b22ed3", null ]
 ];

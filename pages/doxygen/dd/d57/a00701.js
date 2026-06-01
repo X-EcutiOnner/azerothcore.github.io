@@ -1,4 +1,5 @@
 var a00701 =
 [
-    [ "DEBUG_WRITE", "dd/d57/a00701.html#a4ebf72895c1d62f0bc7d45804db4bc91", null ]
+    [ "honor_commandscript", "d1/da9/a12272.html", "d1/da9/a12272" ],
+    [ "AddSC_honor_commandscript", "dd/d57/a00701.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

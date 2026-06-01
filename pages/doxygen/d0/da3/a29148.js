@@ -1,4 +1,5 @@
 var a29148 =
 [
-    [ "ratio", "d0/da3/a29148.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "type", "d0/da3/a29148.html#af749459df7757d1bab17a54be813f6b6", null ],
+    [ "_type", "d0/da3/a29148.html#ab0344571616786baef4511c647a3abea", null ]
 ];

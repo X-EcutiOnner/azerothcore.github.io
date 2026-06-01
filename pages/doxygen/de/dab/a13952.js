@@ -1,9 +1,17 @@
 var a13952 =
 [
-    [ "spell_sunwell_teleport", "de/dab/a13952.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
-    [ "HandleScript", "de/dab/a13952.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
-    [ "PrepareSpellScript", "de/dab/a13952.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
-    [ "Register", "de/dab/a13952.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
-    [ "Validate", "de/dab/a13952.html#a351a2beced058f9354515baa38b0292e", null ],
-    [ "_triggeredSpellId", "de/dab/a13952.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
+    [ "npc_rinjiAI", "de/dab/a13952.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "de/dab/a13952.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "de/dab/a13952.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "de/dab/a13952.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "de/dab/a13952.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "de/dab/a13952.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "de/dab/a13952.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "de/dab/a13952.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "de/dab/a13952.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "WaypointReached", "de/dab/a13952.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_IsByOutrunner", "de/dab/a13952.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "de/dab/a13952.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "de/dab/a13952.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "de/dab/a13952.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

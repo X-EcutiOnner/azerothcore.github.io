@@ -1,6 +1,7 @@
 var a25136 =
 [
-    [ "HandleScript", "d7/d36/a25136.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d7/d36/a25136.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d7/d36/a25136.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "OnRemove", "d7/d36/a25136.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
+    [ "PrepareAuraScript", "d7/d36/a25136.html#ac2b1a2311f97ab427439b45fb0770063", null ],
+    [ "Register", "d7/d36/a25136.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
+    [ "Validate", "d7/d36/a25136.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
 ];

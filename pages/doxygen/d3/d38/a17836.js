@@ -1,6 +1,12 @@
 var a17836 =
 [
-    [ "FilterTargets", "d3/d38/a17836.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "d3/d38/a17836.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "d3/d38/a17836.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "gunship_npc_AI", "d3/d38/a17836.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d3/d38/a17836.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d3/d38/a17836.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d3/d38/a17836.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d3/d38/a17836.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d3/d38/a17836.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d3/d38/a17836.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d3/d38/a17836.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d3/d38/a17836.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

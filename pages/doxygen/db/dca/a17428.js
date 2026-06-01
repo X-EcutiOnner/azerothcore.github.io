@@ -1,5 +1,7 @@
 var a17428 =
 [
-    [ "at_hor_battered_hilt_start", "db/dca/a17428.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "db/dca/a17428.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "HandleDummy", "db/dca/a17428.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "db/dca/a17428.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "db/dca/a17428.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "db/dca/a17428.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

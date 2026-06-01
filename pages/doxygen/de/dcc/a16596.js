@@ -1,7 +1,9 @@
 var a16596 =
 [
-    [ "HandleScriptEffect", "de/dcc/a16596.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "de/dcc/a16596.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "de/dcc/a16596.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "de/dcc/a16596.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "de/dcc/a16596.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "de/dcc/a16596.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "de/dcc/a16596.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "de/dcc/a16596.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "de/dcc/a16596.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "de/dcc/a16596.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,6 +1,6 @@
 var a21780 =
 [
-    [ "npc_q24545_vegard_dummyAI", "df/d4a/a21784.html", "df/d4a/a21784" ],
-    [ "npc_q24545_vegard_dummy", "da/deb/a21780.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "da/deb/a21780.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "npc_infra_green_bomber_genericAI", "df/d4a/a21784.html", "df/d4a/a21784" ],
+    [ "npc_infra_green_bomber_generic", "da/deb/a21780.html#a39134a09376c35f15e99377cd28ac6ff", null ],
+    [ "GetAI", "da/deb/a21780.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
 ];

@@ -1,6 +1,7 @@
 var a13176 =
 [
-    [ "HandleCast", "de/d5a/a13176.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "de/d5a/a13176.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "de/d5a/a13176.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "PeriodicTick", "de/d5a/a13176.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "de/d5a/a13176.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "de/d5a/a13176.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "de/d5a/a13176.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

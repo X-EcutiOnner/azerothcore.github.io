@@ -1,11 +1,10 @@
 var a24620 =
 [
-    [ "CalcPeriodic", "de/d4c/a24620.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "de/d4c/a24620.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "de/d4c/a24620.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "de/d4c/a24620.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "de/d4c/a24620.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "de/d4c/a24620.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "de/d4c/a24620.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "de/d4c/a24620.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "FilterTargets", "de/d4c/a24620.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "de/d4c/a24620.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "de/d4c/a24620.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "de/d4c/a24620.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "de/d4c/a24620.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "de/d4c/a24620.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "de/d4c/a24620.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

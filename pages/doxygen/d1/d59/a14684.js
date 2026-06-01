@@ -1,7 +1,6 @@
 var a14684 =
 [
-    [ "GetEmptyEntry", "d1/d59/a14684.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "d1/d59/a14684.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "d1/d59/a14684.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "d1/d59/a14684.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "gameobjectId", "d1/d59/a14684.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d1/d59/a14684.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d1/d59/a14684.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

@@ -1,9 +1,16 @@
 var a20012 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "de/d2f/a20012.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "de/d2f/a20012.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "de/d2f/a20012.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "de/d2f/a20012.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "de/d2f/a20012.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "de/d2f/a20012.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "npc_mimirons_inferno", "de/d2f/a20012.html#aedcded9302c0cb9e29475f471bd0612e", null ],
+    [ "AttackStart", "de/d2f/a20012.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
+    [ "DoAction", "de/d2f/a20012.html#ade97188bb54f7b5a15a8a596355e4170", null ],
+    [ "JustSummoned", "de/d2f/a20012.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
+    [ "MoveInLineOfSight", "de/d2f/a20012.html#acc2e756af50ebde8300c46ec6f369760", null ],
+    [ "Reset", "de/d2f/a20012.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
+    [ "SummonedCreatureDespawn", "de/d2f/a20012.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
+    [ "UpdateAI", "de/d2f/a20012.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
+    [ "WaypointReached", "de/d2f/a20012.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
+    [ "WaypointReached", "de/d2f/a20012.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_recastTimer", "de/d2f/a20012.html#ac74ee90383d6ac140d6187c6115716ed", null ],
+    [ "_spellTimer", "de/d2f/a20012.html#a0683c956325801b63e7e31b8485f35bd", null ],
+    [ "summons", "de/d2f/a20012.html#a7a0be8291200404285277c3689c54106", null ]
 ];

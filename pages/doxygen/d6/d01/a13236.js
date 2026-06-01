@@ -1,8 +1,6 @@
 var a13236 =
 [
-    [ "npc_cyclone", "d6/d01/a13236.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d6/d01/a13236.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d6/d01/a13236.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d6/d01/a13236.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d6/d01/a13236.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "boss_kagani_nightstrike", "d6/d01/a13236.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d6/d01/a13236.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d6/d01/a13236.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

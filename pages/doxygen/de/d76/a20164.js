@@ -1,7 +1,8 @@
 var a20164 =
 [
-    [ "npc_auriaya_sanctum_sentry", "de/d76/a20164.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "de/d76/a20164.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "de/d76/a20164.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "de/d76/a20164.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "OnApply", "de/d76/a20164.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "de/d76/a20164.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "de/d76/a20164.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "de/d76/a20164.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "de/d76/a20164.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

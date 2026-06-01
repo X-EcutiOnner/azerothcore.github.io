@@ -1,6 +1,6 @@
 var a16092 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d4/d8c/a16092.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d4/d8c/a16092.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d4/d8c/a16092.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "HandleOpenLock", "d4/d8c/a16092.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d4/d8c/a16092.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d4/d8c/a16092.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

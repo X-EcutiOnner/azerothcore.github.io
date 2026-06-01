@@ -1,5 +1,5 @@
 var a02303 =
 [
-    [ "Movement::SplineBase", "d2/df6/a10446.html", "d2/df6/a10446" ],
-    [ "Movement::Spline< length_type >", "de/d72/a10450.html", "de/d72/a10450" ]
+    [ "WorldPackets::LFG::LFGJoin", "d0/d66/a11264.html", "d0/d66/a11264" ],
+    [ "WorldPackets::LFG::LFGLeave", "d5/d14/a11268.html", "d5/d14/a11268" ]
 ];

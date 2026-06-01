@@ -1,7 +1,9 @@
 var a15928 =
 [
-    [ "HandleDummy", "d4/dc7/a15928.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d4/dc7/a15928.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d4/dc7/a15928.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d4/dc7/a15928.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "go_wind_stoneAI", "d4/dc7/a15928.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d4/dc7/a15928.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d4/dc7/a15928.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d4/dc7/a15928.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d4/dc7/a15928.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d4/dc7/a15928.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

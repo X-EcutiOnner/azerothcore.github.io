@@ -1,7 +1,8 @@
 var a26748 =
 [
-    [ "OnProc", "df/d14/a26748.html#a00545522da76162e837a3f9ce1f38988", null ],
-    [ "PrepareAuraScript", "df/d14/a26748.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
-    [ "Register", "df/d14/a26748.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
-    [ "Validate", "df/d14/a26748.html#af5525b7097363c3357db853b46a26bd7", null ]
+    [ "HandleDummy", "df/d14/a26748.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
+    [ "Load", "df/d14/a26748.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
+    [ "PrepareSpellScript", "df/d14/a26748.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
+    [ "Register", "df/d14/a26748.html#afb1c744f263b21c30a5dfd3675acb364", null ],
+    [ "Validate", "df/d14/a26748.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
 ];

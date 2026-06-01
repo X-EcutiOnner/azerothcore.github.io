@@ -1,8 +1,9 @@
 var a24340 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d5/d5d/a24340.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d5/d5d/a24340.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d5/d5d/a24340.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d5/d5d/a24340.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d5/d5d/a24340.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "CheckProc", "d5/d5d/a24340.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
+    [ "HandleProc", "d5/d5d/a24340.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
+    [ "Load", "d5/d5d/a24340.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
+    [ "PeriodicTick", "d5/d5d/a24340.html#a1621c06bce0a28a2416385563b989cbf", null ],
+    [ "PrepareAuraScript", "d5/d5d/a24340.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
+    [ "Register", "d5/d5d/a24340.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
 ];

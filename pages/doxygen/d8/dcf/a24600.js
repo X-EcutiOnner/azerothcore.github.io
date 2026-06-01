@@ -1,7 +1,6 @@
 var a24600 =
 [
-    [ "HandleProc", "d8/dcf/a24600.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
-    [ "PrepareAuraScript", "d8/dcf/a24600.html#adf8a9d15a105bb639ae240d6062a7041", null ],
-    [ "Register", "d8/dcf/a24600.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
-    [ "Validate", "d8/dcf/a24600.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
+    [ "HandleHeal", "d8/dcf/a24600.html#a682a496d59201774de50951ffd2c7c0d", null ],
+    [ "PrepareSpellScript", "d8/dcf/a24600.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
+    [ "Register", "d8/dcf/a24600.html#abc29f509e703f3807241b63f728a69af", null ]
 ];

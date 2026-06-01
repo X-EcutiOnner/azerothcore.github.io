@@ -1,8 +1,7 @@
 var a09480 =
 [
-    [ "GameObjectWorker", "d3/d46/a09480.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "d3/d46/a09480.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "d3/d46/a09480.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "d3/d46/a09480.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "d3/d46/a09480.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "V8Type", "d3/d46/a09480.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "d3/d46/a09480.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "d3/d46/a09480.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "d3/d46/a09480.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

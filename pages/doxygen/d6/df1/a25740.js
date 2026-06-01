@@ -1,7 +1,9 @@
 var a25740 =
 [
-    [ "CalcPeriodic", "d6/df1/a25740.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "d6/df1/a25740.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "d6/df1/a25740.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "d6/df1/a25740.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "CheckRequirement", "d6/df1/a25740.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "d6/df1/a25740.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "d6/df1/a25740.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "d6/df1/a25740.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "d6/df1/a25740.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "d6/df1/a25740.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

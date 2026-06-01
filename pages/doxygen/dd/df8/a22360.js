@@ -1,6 +1,6 @@
 var a22360 =
 [
-    [ "HandlePeriodicDummy", "dd/df8/a22360.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "dd/df8/a22360.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "dd/df8/a22360.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "PrepareSpellScript", "dd/df8/a22360.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "dd/df8/a22360.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "dd/df8/a22360.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

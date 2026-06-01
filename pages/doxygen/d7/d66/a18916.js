@@ -1,6 +1,6 @@
 var a18916 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d1/d85/a18920.html", "d1/d85/a18920" ],
-    [ "boss_valithria_dreamwalker", "d7/d66/a18916.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d7/d66/a18916.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_captain_rupertAI", "d7/d66/a18916.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d7/d66/a18916.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d7/d66/a18916.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

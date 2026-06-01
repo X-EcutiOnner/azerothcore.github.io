@@ -1,6 +1,11 @@
 var a18144 =
 [
-    [ "BurningPitchFilterCheck", "dc/d52/a18144.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "dc/d52/a18144.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "dc/d52/a18144.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "Load", "dc/d52/a18144.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "dc/d52/a18144.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "dc/d52/a18144.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "dc/d52/a18144.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "dc/d52/a18144.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "dc/d52/a18144.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "dc/d52/a18144.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "dc/d52/a18144.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

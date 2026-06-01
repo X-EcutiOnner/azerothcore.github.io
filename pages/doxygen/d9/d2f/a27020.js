@@ -1,5 +1,7 @@
 var a27020 =
 [
-    [ "PrepareSpellScript", "d9/d2f/a27020.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "d9/d2f/a27020.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleProc", "d9/d2f/a27020.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "d9/d2f/a27020.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "d9/d2f/a27020.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "d9/d2f/a27020.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

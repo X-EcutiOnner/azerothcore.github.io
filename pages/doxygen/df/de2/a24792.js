@@ -1,7 +1,8 @@
 var a24792 =
 [
-    [ "FilterTargets", "df/de2/a24792.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "df/de2/a24792.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "df/de2/a24792.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "df/de2/a24792.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "CheckIfCorpseNear", "df/de2/a24792.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "df/de2/a24792.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "df/de2/a24792.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "df/de2/a24792.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "df/de2/a24792.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

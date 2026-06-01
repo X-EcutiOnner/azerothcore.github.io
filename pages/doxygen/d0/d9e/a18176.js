@@ -1,5 +1,6 @@
 var a18176 =
 [
-    [ "achievement_im_on_a_boat", "d0/d9e/a18176.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d0/d9e/a18176.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "OnRemove", "d0/d9e/a18176.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "d0/d9e/a18176.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "d0/d9e/a18176.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

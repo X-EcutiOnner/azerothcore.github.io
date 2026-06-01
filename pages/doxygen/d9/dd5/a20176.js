@@ -1,5 +1,7 @@
 var a20176 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d9/dd5/a20176.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d9/dd5/a20176.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "HandleAfterEffectApply", "d9/dd5/a20176.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d9/dd5/a20176.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d9/dd5/a20176.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d9/dd5/a20176.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

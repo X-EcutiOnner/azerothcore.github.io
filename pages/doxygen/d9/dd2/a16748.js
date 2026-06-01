@@ -1,6 +1,6 @@
 var a16748 =
 [
-    [ "HandleSpellHit", "d9/dd2/a16748.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d9/dd2/a16748.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d9/dd2/a16748.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "npc_toc_shadow_priestAI", "db/d38/a16752.html", "db/d38/a16752" ],
+    [ "npc_toc_shadow_priest", "d9/dd2/a16748.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d9/dd2/a16748.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

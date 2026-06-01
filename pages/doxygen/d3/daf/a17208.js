@@ -1,7 +1,8 @@
 var a17208 =
 [
-    [ "HandleScriptEffect", "d3/daf/a17208.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "d3/daf/a17208.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "d3/daf/a17208.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "d3/daf/a17208.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "npc_hor_raging_ghoul", "d3/daf/a17208.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d3/daf/a17208.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d3/daf/a17208.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d3/daf/a17208.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d3/daf/a17208.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

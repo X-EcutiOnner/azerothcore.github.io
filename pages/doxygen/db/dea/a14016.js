@@ -1,5 +1,14 @@
 var a14016 =
 [
-    [ "at_twilight_grove", "db/dea/a14016.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "db/dea/a14016.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "npc_lord_gregor_lescovarAI", "db/dea/a14016.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
+    [ "DoGuardsDisappearAndDie", "db/dea/a14016.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
+    [ "EnterEvadeMode", "db/dea/a14016.html#a95e60614808191e4c1f909f5e38e4741", null ],
+    [ "JustEngagedWith", "db/dea/a14016.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
+    [ "Reset", "db/dea/a14016.html#a06df695e9acd96b07f4e58c9461a708c", null ],
+    [ "UpdateAI", "db/dea/a14016.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
+    [ "WaypointReached", "db/dea/a14016.html#ad91850dc72d0307e28b881717bfba6db", null ],
+    [ "WaypointReached", "db/dea/a14016.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "MarzonGUID", "db/dea/a14016.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
+    [ "uiPhase", "db/dea/a14016.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
+    [ "uiTimer", "db/dea/a14016.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
 ];

@@ -1,6 +1,6 @@
 var a13852 =
 [
-    [ "HandlePeriodic", "dd/d36/a13852.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "dd/d36/a13852.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "dd/d36/a13852.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "instance_uldaman_InstanceMapScript", "d1/d3b/a13856.html", "d1/d3b/a13856" ],
+    [ "instance_uldaman", "dd/d36/a13852.html#a854807db729d15aa4a09aad051fe3bda", null ],
+    [ "GetInstanceScript", "dd/d36/a13852.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
 ];

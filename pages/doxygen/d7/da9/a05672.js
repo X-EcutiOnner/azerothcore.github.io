@@ -1,4 +1,4 @@
 var a05672 =
 [
-    [ "~Base", "d7/da9/a05672.html#a124eb44dd53aa6e964e691b12bcb8d57", null ]
+    [ "getCost", "d7/da9/a05672.html#a0845f84350babaebbf0254c3d0f215e1", null ]
 ];

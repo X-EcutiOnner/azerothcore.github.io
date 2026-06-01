@@ -1,7 +1,6 @@
 var a15832 =
 [
-    [ "HandleEffectRemove", "d6/d5a/a15832.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d6/d5a/a15832.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d6/d5a/a15832.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d6/d5a/a15832.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_bunthen_plainswind", "d6/d5a/a15832.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d6/d5a/a15832.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d6/d5a/a15832.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

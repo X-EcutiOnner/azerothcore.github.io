@@ -1,7 +1,6 @@
 var a15840 =
 [
-    [ "npc_webbed_creatureAI", "da/d7c/a15840.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "da/d7c/a15840.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "da/d7c/a15840.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "da/d7c/a15840.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_clintar_spiritAI", "d5/d15/a15844.html", "d5/d15/a15844" ],
+    [ "npc_clintar_spirit", "da/d7c/a15840.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "da/d7c/a15840.html#a118198504f6f93c86302275a11582d60", null ]
 ];

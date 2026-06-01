@@ -1,6 +1,6 @@
 var a29480 =
 [
-    [ "SetUp", "d3/d26/a29480.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "d3/d26/a29480.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "d3/d26/a29480.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "hasAttr", "d3/d26/a29480.html#aec6e687803471c9e36fb371be3994db9", null ],
+    [ "name", "d3/d26/a29480.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
+    [ "spellId", "d3/d26/a29480.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
 ];

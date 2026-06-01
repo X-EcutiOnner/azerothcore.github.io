@@ -1,6 +1,8 @@
 var a23248 =
 [
-    [ "go_ahune_ice_stone", "d4/d2c/a23248.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "d4/d2c/a23248.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "d4/d2c/a23248.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d2c/a23248.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d4/d2c/a23248.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d4/d2c/a23248.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d4/d2c/a23248.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d4/d2c/a23248.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

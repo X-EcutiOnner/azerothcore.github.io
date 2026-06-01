@@ -1,7 +1,6 @@
 var a15692 =
 [
-    [ "boss_glob_of_viscidus", "d8/d7d/a15692.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d8/d7d/a15692.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d8/d7d/a15692.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d8/d7d/a15692.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "npc_stillpine_capitiveAI", "d6/d63/a15696.html", "d6/d63/a15696" ],
+    [ "npc_stillpine_capitive", "d8/d7d/a15692.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d8/d7d/a15692.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

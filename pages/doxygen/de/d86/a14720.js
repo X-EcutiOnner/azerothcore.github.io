@@ -1,6 +1,6 @@
 var a14720 =
 [
-    [ "npc_direbrew_antagonist", "de/d86/a14720.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "de/d86/a14720.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "de/d86/a14720.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "HandleScript", "de/d86/a14720.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "de/d86/a14720.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "de/d86/a14720.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

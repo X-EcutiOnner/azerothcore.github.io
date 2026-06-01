@@ -1,7 +1,10 @@
 var a19400 =
 [
-    [ "HandleGameObjectDamage", "d7/d66/a19400.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d7/d66/a19400.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d7/d66/a19400.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d7/d66/a19400.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "boss_razuvious_minionAI", "d7/d66/a19400.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
+    [ "DoAction", "d7/d66/a19400.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
+    [ "JustEngagedWith", "d7/d66/a19400.html#ada2e7a5ac1f129572a0689afce49d310", null ],
+    [ "KilledUnit", "d7/d66/a19400.html#ab1a6f582098c9d1218551af0aae1815d", null ],
+    [ "Reset", "d7/d66/a19400.html#a170de8517a03a0e78b1e67652869fd9a", null ],
+    [ "ScheduleAttackDummy", "d7/d66/a19400.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
+    [ "UpdateAI", "d7/d66/a19400.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
 ];

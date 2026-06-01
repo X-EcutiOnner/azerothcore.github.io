@@ -1,7 +1,6 @@
 var a16656 =
 [
-    [ "HandleDummy", "d9/d6e/a16656.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d9/d6e/a16656.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d9/d6e/a16656.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d9/d6e/a16656.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "HideNpcEvent", "d9/d6e/a16656.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d9/d6e/a16656.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d9/d6e/a16656.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

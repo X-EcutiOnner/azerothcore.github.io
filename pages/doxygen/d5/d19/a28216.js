@@ -1,5 +1,6 @@
 var a28216 =
 [
-    [ "go_southfury_moonstone", "d5/d19/a28216.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d5/d19/a28216.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "npc_experience", "d5/d19/a28216.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d5/d19/a28216.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d5/d19/a28216.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

@@ -1,6 +1,5 @@
 var a15956 =
 [
-    [ "npc_bunthen_plainswind", "d8/d67/a15956.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d8/d67/a15956.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d8/d67/a15956.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_steward_of_time", "d8/d67/a15956.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnQuestAccept", "d8/d67/a15956.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

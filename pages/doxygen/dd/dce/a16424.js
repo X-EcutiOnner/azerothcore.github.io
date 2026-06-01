@@ -1,7 +1,6 @@
 var a16424 =
 [
-    [ "OnRemove", "dd/dce/a16424.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "dd/dce/a16424.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "dd/dce/a16424.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "dd/dce/a16424.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "npc_orb_carrierAI", "d3/d9e/a16428.html", "d3/d9e/a16428" ],
+    [ "npc_orb_carrier", "dd/dce/a16424.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "dd/dce/a16424.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

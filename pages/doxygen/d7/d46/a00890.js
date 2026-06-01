@@ -1,23 +1,33 @@
 var a00890 =
 [
-    [ "BattlegroundBE", "d8/db1/a07686.html", "d8/db1/a07686" ],
-    [ "BattlegroundBEGameObjects", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575e", [
-      [ "BG_BE_OBJECT_TYPE_DOOR_1", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575ea7668b0cb45bb8fcb5d169d52601f8ffc", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_2", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575ea4f5f05ba355663c10696918af17e7285", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_3", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575ea46f638ce865d69bfd79373d8105a8e83", null ],
-      [ "BG_BE_OBJECT_TYPE_DOOR_4", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575eabd8ea2d0bde54698184bcfff07ffb6f6", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_1", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575ea828640a929b6a7559e1828cfdbf95f10", null ],
-      [ "BG_BE_OBJECT_TYPE_BUFF_2", "d7/d46/a00890.html#a1b0280d2208da5214e6132c85687575eac4122fbc499fb8d6ca4de47dfa6f3bab", null ]
+    [ "npc_pos_leader", "d5/db3/a17292.html", "d5/db3/a17292" ],
+    [ "npc_pos_leader::npc_pos_leaderAI", "d6/d9b/a17296.html", "d6/d9b/a17296" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d9/d00/a17300.html", "d9/d00/a17300" ],
+    [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d3/d23/a17304.html", "d3/d23/a17304" ],
+    [ "npc_pos_after_first_boss", "da/ddd/a17308.html", "da/ddd/a17308" ],
+    [ "npc_pos_after_first_boss::npc_pos_after_first_bossAI", "da/dc7/a17312.html", "da/dc7/a17312" ],
+    [ "npc_pos_tyrannus_events", "db/dba/a17316.html", "db/dba/a17316" ],
+    [ "npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI", "d1/dea/a17320.html", "d1/dea/a17320" ],
+    [ "npc_pos_icicle_trigger", "d6/d28/a17324.html", "d6/d28/a17324" ],
+    [ "npc_pos_icicle_trigger::npc_pos_icicle_triggerAI", "d4/d87/a17328.html", "d4/d87/a17328" ],
+    [ "npc_pos_collapsing_icicle", "d1/dad/a17332.html", "d1/dad/a17332" ],
+    [ "npc_pos_collapsing_icicle::npc_pos_collapsing_icicleAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
+    [ "npc_pos_martin_or_gorkun_second", "d2/d9c/a17340.html", "d2/d9c/a17340" ],
+    [ "npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
+    [ "npc_pos_freed_slave", "d8/d36/a17348.html", "d8/d36/a17348" ],
+    [ "npc_pos_freed_slave::npc_pos_freed_slaveAI", "d5/d89/a17352.html", "d5/d89/a17352" ],
+    [ "npc_pos_leader_second", "da/d02/a17356.html", "da/d02/a17356" ],
+    [ "npc_pos_leader_second::npc_pos_leader_secondAI", "de/d57/a17360.html", "de/d57/a17360" ],
+    [ "spell_pos_empowered_blizzard_aura", "d6/d9c/a17364.html", "d6/d9c/a17364" ],
+    [ "SlaveRunEvent", "d0/dca/a17368.html", "d0/dca/a17368" ],
+    [ "spell_pos_slave_trigger_closest", "df/dc5/a17372.html", "df/dc5/a17372" ],
+    [ "spell_pos_rimefang_frost_nova", "db/d58/a17376.html", "db/d58/a17376" ],
+    [ "spell_pos_blight_aura", "d8/d8c/a17380.html", "d8/d8c/a17380" ],
+    [ "spell_pos_glacial_strike_aura", "d1/dbd/a17384.html", "d1/dbd/a17384" ],
+    [ "at_tyrannus_event_starter", "dc/d26/a17388.html", "dc/d26/a17388" ],
+    [ "EmpoweredBlizzard", "d7/d46/a00890.html#a8fcef7a07939b8b584fe27646f0e409b", [
+      [ "SPELL_EMPOWERED_BLIZZARD", "d7/d46/a00890.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab", null ]
     ] ],
-    [ "BattlegroundBEObjectTypes", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6", [
-      [ "BG_BE_OBJECT_DOOR_1", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a0df93d02d5b293963bebae8c18c3ae17", null ],
-      [ "BG_BE_OBJECT_DOOR_2", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a1bc43e32d61d4d2a6e605214b3498d0e", null ],
-      [ "BG_BE_OBJECT_DOOR_3", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a65b47239921b2cc82d549ec06684dcbb", null ],
-      [ "BG_BE_OBJECT_DOOR_4", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
-      [ "BG_BE_OBJECT_BUFF_1", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
-      [ "BG_BE_OBJECT_BUFF_2", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
-      [ "BG_BE_OBJECT_MAX", "d7/d46/a00890.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
-    ] ]
+    [ "AddSC_pit_of_saron", "d7/d46/a00890.html#ad9b4c5bfe589f9f6b1ea405752347585", null ],
+    [ "slaveFreePos", "d7/d46/a00890.html#a302aeb8575da3775869e8ba2aa788da0", null ]
 ];

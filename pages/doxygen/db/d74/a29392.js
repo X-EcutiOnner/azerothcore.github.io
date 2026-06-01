@@ -1,9 +1,5 @@
 var a29392 =
 [
-    [ "adtId", "db/d74/a29392.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
-    [ "areaId", "db/d74/a29392.html#a7f652c68036429350543fc5a2cc6861e", null ],
-    [ "Flags", "db/d74/a29392.html#a60f9a61948d1e28587c9d1a338730f37", null ],
-    [ "groupId", "db/d74/a29392.html#a09052bad3028899580ffedd556672b64", null ],
-    [ "Id", "db/d74/a29392.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
-    [ "rootId", "db/d74/a29392.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
+    [ "SetUp", "db/d74/a29392.html#ae5842e5b3c254af015d2232902d01536", null ],
+    [ "TearDown", "db/d74/a29392.html#a689588bbf5aef06487c9f8d729e254f4", null ]
 ];

@@ -1,6 +1,6 @@
 var a27860 =
 [
-    [ "HandleEffectCalcSpellMod", "d1/dbd/a27860.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "d1/dbd/a27860.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "d1/dbd/a27860.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "go_darkmoon_faire_musicAI", "d7/d20/a27864.html", "d7/d20/a27864" ],
+    [ "go_darkmoon_faire_music", "d1/dbd/a27860.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d1/dbd/a27860.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

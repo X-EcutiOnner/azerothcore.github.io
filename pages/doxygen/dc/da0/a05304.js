@@ -1,6 +1,11 @@
 var a05304 =
 [
-    [ "NodeArray", "dc/da0/a05304.html#ad14de28828d5dd9c425e47a261125423", null ],
-    [ "AddNode", "dc/da0/a05304.html#a370b6e8633c2c739ff68c0399e315a7e", null ],
-    [ "_nodes", "dc/da0/a05304.html#a581a71d15d245efc585297c218313134", null ]
+    [ "ModelPosition", "dc/da0/a05304.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "dc/da0/a05304.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "dc/da0/a05304.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "dc/da0/a05304.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "dc/da0/a05304.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "dc/da0/a05304.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "dc/da0/a05304.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "dc/da0/a05304.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

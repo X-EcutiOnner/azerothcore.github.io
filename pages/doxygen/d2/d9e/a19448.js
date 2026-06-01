@@ -1,7 +1,5 @@
 var a19448 =
 [
-    [ "HandleScriptEffect", "d2/d9e/a19448.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d2/d9e/a19448.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d2/d9e/a19448.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d2/d9e/a19448.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "at_thaddius_entrance", "d2/d9e/a19448.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "d2/d9e/a19448.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

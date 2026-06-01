@@ -1,5 +1,6 @@
 var a24304 =
 [
-    [ "npc_pet_dk_risen_ally", "d8/d25/a24304.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d8/d25/a24304.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "CalculateAmount", "d8/d25/a24304.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "d8/d25/a24304.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "d8/d25/a24304.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

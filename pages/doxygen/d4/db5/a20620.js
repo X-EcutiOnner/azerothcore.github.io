@@ -1,5 +1,5 @@
 var a20620 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d4/db5/a20620.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d4/db5/a20620.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "achievement_xt002_nerf_engineering", "d4/db5/a20620.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d4/db5/a20620.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

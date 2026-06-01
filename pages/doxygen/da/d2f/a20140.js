@@ -1,7 +1,9 @@
 var a20140 =
 [
-    [ "OnRemove", "da/d2f/a20140.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "da/d2f/a20140.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "da/d2f/a20140.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "da/d2f/a20140.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_freya_nature_bomb", "da/d2f/a20140.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "da/d2f/a20140.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "da/d2f/a20140.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "da/d2f/a20140.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "da/d2f/a20140.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "da/d2f/a20140.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

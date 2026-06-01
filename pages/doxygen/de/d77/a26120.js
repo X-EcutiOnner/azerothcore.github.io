@@ -1,9 +1,6 @@
 var a26120 =
 [
-    [ "OnEffectHitTargetDisarm", "de/d77/a26120.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "de/d77/a26120.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "de/d77/a26120.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "de/d77/a26120.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "de/d77/a26120.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "de/d77/a26120.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "CheckProc", "de/d77/a26120.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "de/d77/a26120.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "de/d77/a26120.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

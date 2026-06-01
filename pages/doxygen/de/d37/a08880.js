@@ -1,11 +1,18 @@
 var a08880 =
 [
-    [ "FriendInfo", "de/d37/a08880.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "de/d37/a08880.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "de/d37/a08880.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "de/d37/a08880.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "de/d37/a08880.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "de/d37/a08880.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "de/d37/a08880.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "de/d37/a08880.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "PlayerInfo", "de/d37/a08880.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "de/d37/a08880.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "de/d37/a08880.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "de/d37/a08880.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "de/d37/a08880.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "de/d37/a08880.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "de/d37/a08880.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "de/d37/a08880.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "de/d37/a08880.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "de/d37/a08880.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "de/d37/a08880.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "de/d37/a08880.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "de/d37/a08880.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "de/d37/a08880.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "de/d37/a08880.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

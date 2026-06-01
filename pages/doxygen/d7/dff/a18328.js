@@ -1,6 +1,6 @@
 var a18328 =
 [
-    [ "PrepareSpellScript", "d7/dff/a18328.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d7/dff/a18328.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d7/dff/a18328.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleSpecial", "d7/dff/a18328.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d7/dff/a18328.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d7/dff/a18328.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

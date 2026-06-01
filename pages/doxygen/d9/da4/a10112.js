@@ -1,6 +1,8 @@
 var a10112 =
 [
-    [ "SplineRawInitializer", "d9/da4/a10112.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "d9/da4/a10112.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "d9/da4/a10112.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "EllipseBoundary", "d9/da4/a10112.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d9/da4/a10112.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d9/da4/a10112.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d9/da4/a10112.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d9/da4/a10112.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

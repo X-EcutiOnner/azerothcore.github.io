@@ -1,6 +1,7 @@
 var a18604 =
 [
-    [ "OrderWhelpTargetSelector", "de/de5/a18604.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "de/de5/a18604.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "de/de5/a18604.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "CheckTargetCount", "de/de5/a18604.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "de/de5/a18604.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "de/de5/a18604.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "de/de5/a18604.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

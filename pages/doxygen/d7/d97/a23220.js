@@ -1,6 +1,12 @@
 var a23220 =
 [
-    [ "HandlePeriodic", "d7/d97/a23220.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d7/d97/a23220.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d7/d97/a23220.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "boss_nazan", "d7/d97/a23220.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d7/d97/a23220.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d7/d97/a23220.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d7/d97/a23220.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d7/d97/a23220.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d7/d97/a23220.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d7/d97/a23220.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d7/d97/a23220.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d7/d97/a23220.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

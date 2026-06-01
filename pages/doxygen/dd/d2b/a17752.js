@@ -1,10 +1,7 @@
 var a17752 =
 [
-    [ "npc_dark_nucleusAI", "dd/d2b/a17752.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "dd/d2b/a17752.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "dd/d2b/a17752.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "dd/d2b/a17752.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "dd/d2b/a17752.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "dd/d2b/a17752.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "dd/d2b/a17752.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "ExtraEffect", "dd/d2b/a17752.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "dd/d2b/a17752.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "dd/d2b/a17752.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "dd/d2b/a17752.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

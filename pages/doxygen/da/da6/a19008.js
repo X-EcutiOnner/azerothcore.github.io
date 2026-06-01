@@ -1,6 +1,7 @@
 var a19008 =
 [
-    [ "PeriodicTick", "da/da6/a19008.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "da/da6/a19008.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "da/da6/a19008.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "HandleEffectPeriodic", "da/da6/a19008.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "da/da6/a19008.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "da/da6/a19008.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "da/da6/a19008.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

@@ -1,8 +1,9 @@
 var a11608 =
 [
-    [ "ReflectEvent", "d6/d12/a11608.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "d6/d12/a11608.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "d6/d12/a11608.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "d6/d12/a11608.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "d6/d12/a11608.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "EncryptableAndCompressiblePacket", "d6/d12/a11608.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
+    [ "CompressIfNeeded", "d6/d12/a11608.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
+    [ "NeedsCompression", "d6/d12/a11608.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
+    [ "NeedsEncryption", "d6/d12/a11608.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
+    [ "_encrypt", "d6/d12/a11608.html#a37a68eddad23001a85a4a2f77e237810", null ],
+    [ "SocketQueueLink", "d6/d12/a11608.html#a88f11ce75f439fd290bdc09156d559c2", null ]
 ];

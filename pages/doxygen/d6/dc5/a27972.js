@@ -1,5 +1,6 @@
 var a27972 =
 [
-    [ "achievement_fa_la_la_la_ogrila", "d6/dc5/a27972.html#ab98a8ab33fec62936bf3c235659c1445", null ],
-    [ "OnCheck", "d6/dc5/a27972.html#ad9f33606fcacfd698ed3a9fa22545022", null ]
+    [ "guard_shattrath_scryerAI", "d5/d1d/a27976.html", "d5/d1d/a27976" ],
+    [ "guard_shattrath_scryer", "d6/dc5/a27972.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d6/dc5/a27972.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

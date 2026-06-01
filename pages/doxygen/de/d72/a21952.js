@@ -1,6 +1,9 @@
 var a21952 =
 [
-    [ "npc_razael_and_lyana", "de/d72/a21952.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "de/d72/a21952.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "de/d72/a21952.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "HandlePeriodic", "de/d72/a21952.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "de/d72/a21952.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "de/d72/a21952.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "de/d72/a21952.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "de/d72/a21952.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "de/d72/a21952.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

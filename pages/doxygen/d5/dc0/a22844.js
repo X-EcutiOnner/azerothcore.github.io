@@ -1,6 +1,6 @@
 var a22844 =
 [
-    [ "boss_essence_of_sufferingAI", "d2/d1c/a22848.html", "d2/d1c/a22848" ],
-    [ "boss_essence_of_suffering", "d5/dc0/a22844.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d5/dc0/a22844.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "HandleEffectRemove", "d5/dc0/a22844.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "d5/dc0/a22844.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "d5/dc0/a22844.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

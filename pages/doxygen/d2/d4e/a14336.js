@@ -1,7 +1,5 @@
 var a14336 =
 [
-    [ "npc_zuljin_vortex", "d2/d4e/a14336.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "d2/d4e/a14336.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "d2/d4e/a14336.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "d2/d4e/a14336.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "at_zulgurub_temple_speech", "d2/d4e/a14336.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "d2/d4e/a14336.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

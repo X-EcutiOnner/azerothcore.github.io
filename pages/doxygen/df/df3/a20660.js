@@ -1,8 +1,8 @@
 var a20660 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "dd/db5/a20664.html", "dd/db5/a20664" ],
-    [ "npc_ulduar_expedition_commander", "df/df3/a20660.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "df/df3/a20660.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "df/df3/a20660.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "df/df3/a20660.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "df/df3/a20660.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "df/df3/a20660.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "df/df3/a20660.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "df/df3/a20660.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "df/df3/a20660.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

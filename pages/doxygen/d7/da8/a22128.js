@@ -1,6 +1,9 @@
 var a22128 =
 [
-    [ "npc_avatar_of_freya", "d7/da8/a22128.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d7/da8/a22128.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d7/da8/a22128.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_crusade_recruitAI", "d7/da8/a22128.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "d7/da8/a22128.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "d7/da8/a22128.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "d7/da8/a22128.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "d7/da8/a22128.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "d7/da8/a22128.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

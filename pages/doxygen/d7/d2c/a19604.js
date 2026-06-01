@@ -1,10 +1,6 @@
 var a19604 =
 [
-    [ "boss_razuvious_minionAI", "d7/d2c/a19604.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d7/d2c/a19604.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d7/d2c/a19604.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d7/d2c/a19604.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d7/d2c/a19604.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d7/d2c/a19604.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d7/d2c/a19604.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "npc_oculus_unstable_sphereAI", "d2/d98/a19608.html", "d2/d98/a19608" ],
+    [ "npc_oculus_unstable_sphere", "d7/d2c/a19604.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d7/d2c/a19604.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

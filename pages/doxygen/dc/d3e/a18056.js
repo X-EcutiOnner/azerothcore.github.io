@@ -1,6 +1,10 @@
 var a18056 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d2/d88/a18060.html", "d2/d88/a18060" ],
-    [ "npc_gunship_boarding_add", "dc/d3e/a18056.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "dc/d3e/a18056.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "npc_bone_spikeAI", "dc/d3e/a18056.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "dc/d3e/a18056.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "dc/d3e/a18056.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "dc/d3e/a18056.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "dc/d3e/a18056.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "dc/d3e/a18056.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "dc/d3e/a18056.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

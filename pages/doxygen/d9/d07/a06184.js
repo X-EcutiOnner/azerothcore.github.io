@@ -1,8 +1,7 @@
 var a06184 =
 [
-    [ "PassiveAI", "d9/d07/a06184.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d9/d07/a06184.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d9/d07/a06184.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d9/d07/a06184.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d9/d07/a06184.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "TransactionWithResultTask", "d9/d07/a06184.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d9/d07/a06184.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d9/d07/a06184.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d9/d07/a06184.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

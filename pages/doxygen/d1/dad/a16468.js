@@ -1,6 +1,7 @@
 var a16468 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "da/d85/a16472.html", "da/d85/a16472" ],
-    [ "instance_obsidian_sanctum", "d1/dad/a16468.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "d1/dad/a16468.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "OnApply", "d1/dad/a16468.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "d1/dad/a16468.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "d1/dad/a16468.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "d1/dad/a16468.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

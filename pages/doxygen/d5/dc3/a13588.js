@@ -1,7 +1,8 @@
 var a13588 =
 [
-    [ "OnApply", "d5/dc3/a13588.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d5/dc3/a13588.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d5/dc3/a13588.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d5/dc3/a13588.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "npc_madrigosa", "d5/dc3/a13588.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d5/dc3/a13588.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d5/dc3/a13588.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d5/dc3/a13588.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d5/dc3/a13588.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

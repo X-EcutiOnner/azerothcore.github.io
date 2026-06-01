@@ -1,13 +1,11 @@
 var a09128 =
 [
-    [ "QuestPOI", "d7/dd2/a09128.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "d7/dd2/a09128.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "d7/dd2/a09128.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "d7/dd2/a09128.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "d7/dd2/a09128.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "d7/dd2/a09128.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "d7/dd2/a09128.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "d7/dd2/a09128.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "d7/dd2/a09128.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "d7/dd2/a09128.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "VehicleSeatAddon", "d7/dd2/a09128.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d7/dd2/a09128.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d7/dd2/a09128.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d7/dd2/a09128.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d7/dd2/a09128.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d7/dd2/a09128.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d7/dd2/a09128.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d7/dd2/a09128.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

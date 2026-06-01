@@ -1,10 +1,15 @@
 var a10060 =
 [
-    [ "ZoneDynamicInfo", "d9/d4e/a10060.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d9/d4e/a10060.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d9/d4e/a10060.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d9/d4e/a10060.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d9/d4e/a10060.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d9/d4e/a10060.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d9/d4e/a10060.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "MailSender", "d9/d4e/a10060.html#a16466924bf75ea8203ba27c0f3e6188b", null ],
+    [ "MailSender", "d9/d4e/a10060.html#a735cfef6950357644d6965978dde0309", null ],
+    [ "MailSender", "d9/d4e/a10060.html#a145000f5ef63627ee26a5699846e06cf", null ],
+    [ "MailSender", "d9/d4e/a10060.html#a9ddda06cf5ecc55efdc4525353471c5b", null ],
+    [ "MailSender", "d9/d4e/a10060.html#a7d5a5e40aa20de720f310b739f159225", null ],
+    [ "MailSender", "d9/d4e/a10060.html#a12c87bb414a3e8889c95091f3b51716b", null ],
+    [ "GetMailMessageType", "d9/d4e/a10060.html#a64c99a49ec01d2226b6bf740edb380fb", null ],
+    [ "GetSenderId", "d9/d4e/a10060.html#a03145c3fdc5bbabc64019e63e121132b", null ],
+    [ "GetStationery", "d9/d4e/a10060.html#a6a4446e52e20ad7ab4817bf024b38631", null ],
+    [ "m_messageType", "d9/d4e/a10060.html#a45a312eda342d2197f15d73b47d7787b", null ],
+    [ "m_senderId", "d9/d4e/a10060.html#a0954b3514cfcba4258b1b266dfd71ddb", null ],
+    [ "m_stationery", "d9/d4e/a10060.html#a1bbced35b4600f9a45a421d28a33393b", null ]
 ];

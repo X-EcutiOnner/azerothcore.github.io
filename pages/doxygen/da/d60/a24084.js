@@ -1,7 +1,8 @@
 var a24084 =
 [
-    [ "HandleScriptEffect", "da/d60/a24084.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "da/d60/a24084.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "da/d60/a24084.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "da/d60/a24084.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "CheckProc", "da/d60/a24084.html#a746a3e24e07ef9a6ddecef80621768f0", null ],
+    [ "HandleProc", "da/d60/a24084.html#aa0c2bbb60940982e14ae98799fb220a6", null ],
+    [ "PrepareAuraScript", "da/d60/a24084.html#a0d9decd8a0901b7ab35de6af120baf34", null ],
+    [ "Register", "da/d60/a24084.html#aae146676b2ca0f29b1712b774b7f9148", null ],
+    [ "Validate", "da/d60/a24084.html#a7725ff69907bb8328c5f7dffaf941478", null ]
 ];

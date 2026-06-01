@@ -1,6 +1,5 @@
 var a27648 =
 [
-    [ "FilterTargets", "d6/d56/a27648.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d6/d56/a27648.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d6/d56/a27648.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d6/d56/a27648.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d6/d56/a27648.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

@@ -1,8 +1,7 @@
 var a09640 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "df/df9/a09640.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "df/df9/a09640.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "df/df9/a09640.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "df/df9/a09640.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "df/df9/a09640.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "GameObjectFocusCheck", "df/df9/a09640.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "df/df9/a09640.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "df/df9/a09640.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "df/df9/a09640.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

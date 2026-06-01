@@ -1,6 +1,9 @@
 var a17780 =
 [
-    [ "HandleScript", "d3/d3a/a17780.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "d3/d3a/a17780.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "d3/d3a/a17780.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "BattleExperienceEvent", "d3/d3a/a17780.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d3/d3a/a17780.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d3/d3a/a17780.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d3/d3a/a17780.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d3/d3a/a17780.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d3/d3a/a17780.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

@@ -1,9 +1,9 @@
 var a29016 =
 [
-    [ "CinematicSequence", "d3/dd2/a29016.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d3/dd2/a29016.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d3/dd2/a29016.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d3/dd2/a29016.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d3/dd2/a29016.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d3/dd2/a29016.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "Category", "d3/dd2/a29016.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d3/dd2/a29016.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d3/dd2/a29016.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d3/dd2/a29016.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d3/dd2/a29016.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d3/dd2/a29016.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

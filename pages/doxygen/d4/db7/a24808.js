@@ -1,6 +1,7 @@
 var a24808 =
 [
-    [ "OnHit", "d4/db7/a24808.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "d4/db7/a24808.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "d4/db7/a24808.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleScript", "d4/db7/a24808.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "d4/db7/a24808.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "d4/db7/a24808.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "d4/db7/a24808.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

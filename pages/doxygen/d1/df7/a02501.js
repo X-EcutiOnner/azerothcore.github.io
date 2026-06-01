@@ -1,8 +1,7 @@
 var a02501 =
 [
-    [ "MovementHandlerScript", "d1/de3/a10718.html", "d1/de3/a10718" ],
-    [ "MovementHook", "d1/df7/a02501.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d1/df7/a02501.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "d1/df7/a02501.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "Movement::TransportPathTransform", "d9/dbb/a10436.html", "d9/dbb/a10436" ],
+    [ "Movement::HoverMovementTransform", "dd/d72/a10440.html", "dd/d72/a10440" ],
+    [ "Movement::MoveSplineInit", "dd/d31/a10444.html", "dd/d31/a10444" ],
+    [ "SelectSpeedType", "d1/df7/a02501.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
 ];

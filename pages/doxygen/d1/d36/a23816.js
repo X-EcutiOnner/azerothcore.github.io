@@ -1,6 +1,6 @@
 var a23816 =
 [
-    [ "HandleScriptEffect", "d1/d36/a23816.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d1/d36/a23816.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d1/d36/a23816.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "npc_infernal_attackerAI", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
+    [ "npc_infernal_attacker", "d1/d36/a23816.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d1/d36/a23816.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

@@ -1,9 +1,5 @@
 var a20284 =
 [
-    [ "Absorb", "db/d90/a20284.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "db/d90/a20284.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "db/d90/a20284.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "db/d90/a20284.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "db/d90/a20284.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "db/d90/a20284.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "achievement_i_have_the_coolest_friends", "db/d90/a20284.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "db/d90/a20284.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

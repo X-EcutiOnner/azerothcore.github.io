@@ -1,12 +1,10 @@
 var a19480 =
 [
-    [ "npc_gothik_triggerAI", "d8/d5e/a19480.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d8/d5e/a19480.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d8/d5e/a19480.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d8/d5e/a19480.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d8/d5e/a19480.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d8/d5e/a19480.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d8/d5e/a19480.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d8/d5e/a19480.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d8/d5e/a19480.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "npc_power_spark", "d8/d5e/a19480.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d8/d5e/a19480.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d8/d5e/a19480.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d8/d5e/a19480.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d8/d5e/a19480.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d8/d5e/a19480.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d8/d5e/a19480.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

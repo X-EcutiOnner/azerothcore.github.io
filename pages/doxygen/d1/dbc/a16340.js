@@ -1,6 +1,7 @@
 var a16340 =
 [
-    [ "HandlePeriodic", "d1/dbc/a16340.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "d1/dbc/a16340.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "d1/dbc/a16340.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "DelayedTalk", "d1/dbc/a16340.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d1/dbc/a16340.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d1/dbc/a16340.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d1/dbc/a16340.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

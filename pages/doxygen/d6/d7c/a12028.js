@@ -1,7 +1,7 @@
 var a12028 =
 [
-    [ "map", "d6/d7c/a12028.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "d6/d7c/a12028.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "d6/d7c/a12028.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "d6/d7c/a12028.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "StringTransaction", "d6/d7c/a12028.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "d6/d7c/a12028.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "d6/d7c/a12028.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "d6/d7c/a12028.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

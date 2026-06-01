@@ -1,9 +1,7 @@
 var a06196 =
 [
-    [ "CritterAI", "dc/de5/a06196.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
-    [ "EnterEvadeMode", "dc/de5/a06196.html#a989d1fc00af900320dcf27cce7f247dc", null ],
-    [ "JustEngagedWith", "dc/de5/a06196.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
-    [ "MovementInform", "dc/de5/a06196.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
-    [ "Permissible", "dc/de5/a06196.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
-    [ "UpdateAI", "dc/de5/a06196.html#af860be127a671f5448cb731aa2f701b0", null ]
+    [ "UpdateException", "dc/de5/a06196.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "dc/de5/a06196.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "dc/de5/a06196.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "dc/de5/a06196.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

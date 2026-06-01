@@ -1,6 +1,5 @@
 var a15552 =
 [
-    [ "HandleScript", "dc/ddc/a15552.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "dc/ddc/a15552.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "dc/ddc/a15552.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "at_twin_emperors", "dc/ddc/a15552.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "dc/ddc/a15552.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

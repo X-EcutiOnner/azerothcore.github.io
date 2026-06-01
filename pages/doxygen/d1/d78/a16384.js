@@ -1,11 +1,11 @@
 var a16384 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d1/d78/a16384.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "d1/d78/a16384.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d1/d78/a16384.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d1/d78/a16384.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d1/d78/a16384.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d1/d78/a16384.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d1/d78/a16384.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "d1/d78/a16384.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "boss_general_zarithrianAI", "d1/d78/a16384.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d1/d78/a16384.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d1/d78/a16384.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d1/d78/a16384.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d1/d78/a16384.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d1/d78/a16384.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d1/d78/a16384.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d1/d78/a16384.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

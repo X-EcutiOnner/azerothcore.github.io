@@ -1,14 +1,6 @@
 var a13224 =
 [
-    [ "boss_strawman", "db/d02/a13224.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "db/d02/a13224.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "db/d02/a13224.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "db/d02/a13224.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "db/d02/a13224.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "db/d02/a13224.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "db/d02/a13224.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "db/d02/a13224.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "db/d02/a13224.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "db/d02/a13224.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "db/d02/a13224.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "HandleAfterCast", "db/d02/a13224.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "db/d02/a13224.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "db/d02/a13224.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

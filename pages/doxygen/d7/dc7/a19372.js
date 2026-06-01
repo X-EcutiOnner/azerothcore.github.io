@@ -1,6 +1,6 @@
 var a19372 =
 [
-    [ "npc_four_car_garageAI", "dd/d78/a19376.html", "dd/d78/a19376" ],
-    [ "npc_four_car_garage", "d7/dc7/a19372.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d7/dc7/a19372.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "boss_nothAI", "dd/d78/a19376.html", "dd/d78/a19376" ],
+    [ "boss_noth", "d7/dc7/a19372.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d7/dc7/a19372.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

@@ -1,11 +1,13 @@
 var a14652 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d7/d49/a14652.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d7/d49/a14652.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d7/d49/a14652.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d7/d49/a14652.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d7/d49/a14652.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d7/d49/a14652.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d7/d49/a14652.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d7/d49/a14652.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "npc_alexstraza_the_lifebinder", "d7/d49/a14652.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d7/d49/a14652.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d7/d49/a14652.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d7/d49/a14652.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d7/d49/a14652.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d7/d49/a14652.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d7/d49/a14652.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d7/d49/a14652.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d7/d49/a14652.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d7/d49/a14652.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

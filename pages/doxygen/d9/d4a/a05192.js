@@ -1,11 +1,9 @@
 var a05192 =
 [
-    [ "MmapTileHeader", "d9/d4a/a05192.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "d9/d4a/a05192.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "d9/d4a/a05192.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "d9/d4a/a05192.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "d9/d4a/a05192.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "d9/d4a/a05192.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "d9/d4a/a05192.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "d9/d4a/a05192.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "MDLCallback", "d9/d4a/a05192.html#a241899d601778892a72080cceaa96318", null ],
+    [ "operator()", "d9/d4a/a05192.html#a7e65ac1aebc8ac951303ee8e7cd85623", null ],
+    [ "operator()", "d9/d4a/a05192.html#a2130223692a9d0f8491f7ea7ae24270c", null ],
+    [ "_callback", "d9/d4a/a05192.html#a8eae05fc208dcc7f50147bf55c47764c", null ],
+    [ "objects", "d9/d4a/a05192.html#a297d43aa55ffbb4f69f8e5888c8e116f", null ],
+    [ "objects_size", "d9/d4a/a05192.html#a92fa352db4ba43afd590677d0ae1e5d9", null ]
 ];

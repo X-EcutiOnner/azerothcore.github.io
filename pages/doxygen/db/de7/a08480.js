@@ -1,13 +1,13 @@
 var a08480 =
 [
-    [ "FlaggedValuesArray32", "db/de7/a08480.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "db/de7/a08480.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "db/de7/a08480.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "db/de7/a08480.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "db/de7/a08480.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "db/de7/a08480.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "db/de7/a08480.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "db/de7/a08480.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "db/de7/a08480.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "db/de7/a08480.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "AnimationInfo", "db/de7/a08480.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "db/de7/a08480.html#a53c177a0b800f7e0952bff948fca636c", null ],
+    [ "CapturePoint", "db/de7/a08480.html#a200f05ff1207f21ef67cb9c14d3a4767", null ],
+    [ "FishingHole", "db/de7/a08480.html#a1ccae6fe25f6c9377c5c2933b6301254", null ],
+    [ "Health", "db/de7/a08480.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "db/de7/a08480.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "db/de7/a08480.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "db/de7/a08480.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "db/de7/a08480.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "db/de7/a08480.html#a0e552fe0bfca9c74cbe9c6f72fc044e5", null ]
 ];

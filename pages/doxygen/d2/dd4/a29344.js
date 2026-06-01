@@ -1,9 +1,12 @@
 var a29344 =
 [
-    [ "Category", "d2/dd4/a29344.html#acd933f251a1faa1f705420307136681d", null ],
-    [ "Faction", "d2/dd4/a29344.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
-    [ "Flags", "d2/dd4/a29344.html#a8b41ed573eae71196664a61bac83fe3e", null ],
-    [ "Id", "d2/dd4/a29344.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
-    [ "Slot", "d2/dd4/a29344.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
-    [ "Type", "d2/dd4/a29344.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
+    [ "SetUp", "d2/dd4/a29344.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
+    [ "TearDown", "d2/dd4/a29344.html#aaf740c51d0319f7116097a94fa55b8be", null ],
+    [ "PERM_BAN", "d2/dd4/a29344.html#a865f9650e6ce11f3feb66ee87969d402", null ],
+    [ "PERM_KICK", "d2/dd4/a29344.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
+    [ "PERM_MUTE", "d2/dd4/a29344.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
+    [ "PERM_SHUTDOWN", "d2/dd4/a29344.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
+    [ "rbacData", "d2/dd4/a29344.html#ace7a8836853498b4785b85eca7c71e96", null ],
+    [ "ROLE_ADMIN", "d2/dd4/a29344.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
+    [ "ROLE_MOD", "d2/dd4/a29344.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
 ];

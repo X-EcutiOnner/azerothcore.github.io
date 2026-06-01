@@ -1,8 +1,8 @@
 var a16784 =
 [
-    [ "npc_announcer_toc5AI", "df/d10/a16788.html", "df/d10/a16788" ],
-    [ "npc_announcer_toc5", "d6/d6f/a16784.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d6/d6f/a16784.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d6/d6f/a16784.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d6/d6f/a16784.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "npc_toc_boomkinAI", "d6/d6f/a16784.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d6/d6f/a16784.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d6/d6f/a16784.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d6/d6f/a16784.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d6/d6f/a16784.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

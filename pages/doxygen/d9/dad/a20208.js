@@ -1,15 +1,6 @@
 var a20208 =
 [
-    [ "npc_mimirons_inferno", "d9/dad/a20208.html#aedcded9302c0cb9e29475f471bd0612e", null ],
-    [ "AttackStart", "d9/dad/a20208.html#a43a03388c06ef38ab29a1b4d5bc701c6", null ],
-    [ "DoAction", "d9/dad/a20208.html#ade97188bb54f7b5a15a8a596355e4170", null ],
-    [ "JustSummoned", "d9/dad/a20208.html#a77ddb0fbd9f0c2334df122d91913300b", null ],
-    [ "MoveInLineOfSight", "d9/dad/a20208.html#acc2e756af50ebde8300c46ec6f369760", null ],
-    [ "Reset", "d9/dad/a20208.html#afbd0bcdbb24bf1dbdaacecf4b602922b", null ],
-    [ "SummonedCreatureDespawn", "d9/dad/a20208.html#a9b5176d6f1712d36283b0ebeeddee5b2", null ],
-    [ "UpdateAI", "d9/dad/a20208.html#afd800c3a1430fe19edf6fe21763b15d8", null ],
-    [ "WaypointReached", "d9/dad/a20208.html#a13cda9fcb49493477e4a4111d9858ec1", null ],
-    [ "_recastTimer", "d9/dad/a20208.html#ac74ee90383d6ac140d6187c6115716ed", null ],
-    [ "_spellTimer", "d9/dad/a20208.html#a0683c956325801b63e7e31b8485f35bd", null ],
-    [ "summons", "d9/dad/a20208.html#a7a0be8291200404285277c3689c54106", null ]
+    [ "npc_ulduar_toasty_fire", "d9/dad/a20208.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d9/dad/a20208.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d9/dad/a20208.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

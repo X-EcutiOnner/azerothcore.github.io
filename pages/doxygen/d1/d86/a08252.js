@@ -1,10 +1,10 @@
 var a08252 =
 [
-    [ "CreatureModel", "d1/d86/a08252.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "d1/d86/a08252.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "d1/d86/a08252.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "d1/d86/a08252.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "d1/d86/a08252.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "d1/d86/a08252.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "d1/d86/a08252.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LfgUpdateData", "d1/d86/a08252.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d1/d86/a08252.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d1/d86/a08252.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d1/d86/a08252.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d1/d86/a08252.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d1/d86/a08252.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d1/d86/a08252.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

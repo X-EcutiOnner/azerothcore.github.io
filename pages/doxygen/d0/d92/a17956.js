@@ -1,7 +1,7 @@
 var a17956 =
 [
-    [ "ExtraEffect", "d0/d92/a17956.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d0/d92/a17956.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d0/d92/a17956.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d0/d92/a17956.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleScript", "d0/d92/a17956.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d0/d92/a17956.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d0/d92/a17956.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d0/d92/a17956.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

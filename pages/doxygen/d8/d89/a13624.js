@@ -1,8 +1,6 @@
 var a13624 =
 [
-    [ "FilterTargets", "d8/d89/a13624.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d8/d89/a13624.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d8/d89/a13624.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d8/d89/a13624.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d8/d89/a13624.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "FilterTargets", "d8/d89/a13624.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d8/d89/a13624.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d8/d89/a13624.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

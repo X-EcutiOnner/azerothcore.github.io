@@ -1,7 +1,7 @@
 var a14396 =
 [
-    [ "HandleTriggerSpell", "df/d34/a14396.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "df/d34/a14396.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "df/d34/a14396.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "df/d34/a14396.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "HandleOnHit", "df/d34/a14396.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "df/d34/a14396.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "df/d34/a14396.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "df/d34/a14396.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

@@ -1,5 +1,8 @@
 var a29808 =
 [
-    [ "height", "d7/dc1/a29808.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
-    [ "light", "d7/dc1/a29808.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
+    [ "TileInfo", "d7/dc1/a29808.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "d7/dc1/a29808.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "d7/dc1/a29808.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "d7/dc1/a29808.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "d7/dc1/a29808.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

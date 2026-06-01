@@ -1,10 +1,9 @@
 var a06368 =
 [
-    [ "PowerUsersSelector", "d6/de0/a06368.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "d6/de0/a06368.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d6/de0/a06368.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d6/de0/a06368.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d6/de0/a06368.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d6/de0/a06368.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "d6/de0/a06368.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "AddonInfo", "d6/de0/a06368.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d6/de0/a06368.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d6/de0/a06368.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d6/de0/a06368.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d6/de0/a06368.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d6/de0/a06368.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

@@ -1,6 +1,6 @@
 var a13300 =
 [
-    [ "HandleProc", "d9/d0e/a13300.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "d9/d0e/a13300.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "d9/d0e/a13300.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "npc_scarlet_ghoulAI", "d0/d57/a13304.html", "d0/d57/a13304" ],
+    [ "npc_scarlet_ghoul", "d9/d0e/a13300.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "d9/d0e/a13300.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

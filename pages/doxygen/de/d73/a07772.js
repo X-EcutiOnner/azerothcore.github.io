@@ -1,11 +1,11 @@
 var a07772 =
 [
-    [ "wrapper_func", "de/d73/a07772.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "de/d73/a07772.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "de/d73/a07772.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "de/d73/a07772.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "de/d73/a07772.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "de/d73/a07772.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "de/d73/a07772.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "de/d73/a07772.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "BattlegroundSAScore", "de/d73/a07772.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "de/d73/a07772.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "de/d73/a07772.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "de/d73/a07772.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "de/d73/a07772.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "de/d73/a07772.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "de/d73/a07772.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "de/d73/a07772.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

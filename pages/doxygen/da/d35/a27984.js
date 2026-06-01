@@ -1,7 +1,10 @@
 var a27984 =
 [
-    [ "CharacterDeleteActionIpLogger", "da/d35/a27984.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "da/d35/a27984.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "da/d35/a27984.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "da/d35/a27984.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "guard_shattrath_aldorAI", "da/d35/a27984.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "da/d35/a27984.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "da/d35/a27984.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "da/d35/a27984.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "da/d35/a27984.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "da/d35/a27984.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "da/d35/a27984.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

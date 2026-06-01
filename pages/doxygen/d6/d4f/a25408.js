@@ -1,7 +1,8 @@
 var a25408 =
 [
-    [ "OnPeriodic", "d6/d4f/a25408.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "d6/d4f/a25408.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "d6/d4f/a25408.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "d6/d4f/a25408.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "CheckProc", "d6/d4f/a25408.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "d6/d4f/a25408.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "d6/d4f/a25408.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "d6/d4f/a25408.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "d6/d4f/a25408.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

@@ -1,6 +1,7 @@
 var a20808 =
 [
-    [ "PrepareSpellScript", "de/da0/a20808.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "de/da0/a20808.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "de/da0/a20808.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "HandleEffectPeriodic", "de/da0/a20808.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
+    [ "PrepareAuraScript", "de/da0/a20808.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
+    [ "Register", "de/da0/a20808.html#a74052d7da1523b3c4010465510e5fe04", null ],
+    [ "Validate", "de/da0/a20808.html#a587a469c649877f80e8fe80062e8b5d4", null ]
 ];

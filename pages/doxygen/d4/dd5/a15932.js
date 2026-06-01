@@ -1,8 +1,7 @@
 var a15932 =
 [
-    [ "CheckRequirement", "d4/dd5/a15932.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d4/dd5/a15932.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d4/dd5/a15932.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d4/dd5/a15932.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d4/dd5/a15932.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_kaya_flathoofAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
+    [ "npc_kaya_flathoof", "d4/dd5/a15932.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d4/dd5/a15932.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d4/dd5/a15932.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

@@ -1,10 +1,6 @@
 var a29356 =
 [
-    [ "ID", "df/d98/a29356.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "df/d98/a29356.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "df/d98/a29356.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "df/d98/a29356.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "df/d98/a29356.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "df/d98/a29356.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "df/d98/a29356.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "SetUp", "df/d98/a29356.html#ac4e6ae8a500400a1e133c1630f064e3b", null ],
+    [ "TearDown", "df/d98/a29356.html#aa3c2026d7506be72d67c6d583751c550", null ],
+    [ "rbacData", "df/d98/a29356.html#a4318e5c5d8137feb011a25c2d4a3c28a", null ]
 ];

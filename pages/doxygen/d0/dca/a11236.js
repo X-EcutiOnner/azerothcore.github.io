@@ -1,8 +1,9 @@
 var a11236 =
 [
-    [ "TrainerBuyFailed", "d0/dca/a11236.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
-    [ "Write", "d0/dca/a11236.html#a75c3bff5da4699fc412793caef1b75af", null ],
-    [ "SpellID", "d0/dca/a11236.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
-    [ "TrainerFailedReason", "d0/dca/a11236.html#a746ff497fba16adb16bbb647dff385df", null ],
-    [ "TrainerGUID", "d0/dca/a11236.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
+    [ "EnchantmentLog", "d0/dca/a11236.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d0/dca/a11236.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d0/dca/a11236.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d0/dca/a11236.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d0/dca/a11236.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d0/dca/a11236.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

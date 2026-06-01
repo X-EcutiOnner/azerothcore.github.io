@@ -1,6 +1,5 @@
 var a19984 =
 [
-    [ "boss_sjonnirAI", "d7/d22/a19988.html", "d7/d22/a19988" ],
-    [ "boss_sjonnir", "d2/dab/a19984.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d2/dab/a19984.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "achievement_auriaya_nine_lives", "d2/dab/a19984.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d2/dab/a19984.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

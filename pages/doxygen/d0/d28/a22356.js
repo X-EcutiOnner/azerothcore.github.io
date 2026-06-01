@@ -1,6 +1,7 @@
 var a22356 =
 [
-    [ "CheckCast", "d0/d28/a22356.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d0/d28/a22356.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d0/d28/a22356.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "HandleOnHit", "d0/d28/a22356.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d0/d28/a22356.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d0/d28/a22356.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d0/d28/a22356.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

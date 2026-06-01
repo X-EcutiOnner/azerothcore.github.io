@@ -1,6 +1,8 @@
 var a24324 =
 [
-    [ "achievement", "d2/d1e/a24324.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d2/d1e/a24324.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d2/d1e/a24324.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "CheckProc", "d2/d1e/a24324.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
+    [ "HandleProc", "d2/d1e/a24324.html#a03f5428462b132c438b40575182e5081", null ],
+    [ "PrepareAuraScript", "d2/d1e/a24324.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
+    [ "Register", "d2/d1e/a24324.html#a9b3793739de21b5117e4a66e2951f939", null ],
+    [ "Validate", "d2/d1e/a24324.html#acc50882146bad569108852b207d519fd", null ]
 ];

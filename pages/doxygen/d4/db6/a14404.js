@@ -1,7 +1,6 @@
 var a14404 =
 [
-    [ "HandleEffect", "d4/db6/a14404.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "d4/db6/a14404.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "d4/db6/a14404.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "d4/db6/a14404.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "boss_mandokirAI", "d2/d6f/a14408.html", "d2/d6f/a14408" ],
+    [ "boss_mandokir", "d4/db6/a14404.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "d4/db6/a14404.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

@@ -1,9 +1,10 @@
 var a11184 =
 [
-    [ "RandomRoll", "d3/d0e/a11184.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d3/d0e/a11184.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d3/d0e/a11184.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d3/d0e/a11184.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d3/d0e/a11184.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d3/d0e/a11184.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "SplitItem", "d3/d0e/a11184.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
+    [ "Read", "d3/d0e/a11184.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
+    [ "Count", "d3/d0e/a11184.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
+    [ "DestinationBag", "d3/d0e/a11184.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
+    [ "DestinationSlot", "d3/d0e/a11184.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
+    [ "SourceBag", "d3/d0e/a11184.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
+    [ "SourceSlot", "d3/d0e/a11184.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
 ];

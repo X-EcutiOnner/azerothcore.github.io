@@ -1,6 +1,6 @@
 var a24940 =
 [
-    [ "PrepareSpellScript", "d1/d3f/a24940.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d1/d3f/a24940.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d1/d3f/a24940.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "HandleScriptEffect", "d1/d3f/a24940.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
+    [ "PrepareSpellScript", "d1/d3f/a24940.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
+    [ "Register", "d1/d3f/a24940.html#ae01695fd336fca36a7d2569ca741fba5", null ]
 ];

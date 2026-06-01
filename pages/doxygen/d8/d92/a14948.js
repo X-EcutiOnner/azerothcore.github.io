@@ -1,8 +1,9 @@
 var a14948 =
 [
-    [ "OnApply", "d8/d92/a14948.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d8/d92/a14948.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d8/d92/a14948.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d8/d92/a14948.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d8/d92/a14948.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "boss_azuregosAI", "d8/d92/a14948.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d8/d92/a14948.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d8/d92/a14948.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d8/d92/a14948.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d8/d92/a14948.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d8/d92/a14948.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

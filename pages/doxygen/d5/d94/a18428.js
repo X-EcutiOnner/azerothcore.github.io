@@ -1,6 +1,6 @@
 var a18428 =
 [
-    [ "npc_big_oozeAI", "d1/d22/a18432.html", "d1/d22/a18432" ],
-    [ "npc_big_ooze", "d5/d94/a18428.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d5/d94/a18428.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "DefileTargetSelector", "d5/d94/a18428.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
+    [ "operator()", "d5/d94/a18428.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
+    [ "_source", "d5/d94/a18428.html#a427b4304b5a93f26741eda90d20ff13b", null ]
 ];

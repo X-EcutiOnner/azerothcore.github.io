@@ -1,14 +1,15 @@
 var a10024 =
 [
-    [ "TriangleBoundary", "d3/da1/a10024.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "d3/da1/a10024.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "d3/da1/a10024.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "d3/da1/a10024.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "d3/da1/a10024.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "d3/da1/a10024.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "d3/da1/a10024.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "d3/da1/a10024.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "d3/da1/a10024.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "d3/da1/a10024.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "d3/da1/a10024.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "LootStoreItem", "d3/da1/a10024.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "d3/da1/a10024.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "d3/da1/a10024.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "d3/da1/a10024.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "d3/da1/a10024.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "d3/da1/a10024.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "d3/da1/a10024.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "d3/da1/a10024.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "d3/da1/a10024.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "d3/da1/a10024.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "d3/da1/a10024.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "d3/da1/a10024.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

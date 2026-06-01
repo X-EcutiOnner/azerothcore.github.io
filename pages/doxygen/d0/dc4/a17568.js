@@ -1,11 +1,6 @@
 var a17568 =
 [
-    [ "npc_pos_leader_secondAI", "d0/dc4/a17568.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d0/dc4/a17568.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d0/dc4/a17568.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d0/dc4/a17568.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d0/dc4/a17568.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d0/dc4/a17568.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d0/dc4/a17568.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d0/dc4/a17568.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "AddExtraDamage", "d0/dc4/a17568.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d0/dc4/a17568.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d0/dc4/a17568.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

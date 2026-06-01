@@ -1,15 +1,12 @@
 var a22620 =
 [
-    [ "boss_grandmaster_vorpil", "da/d16/a22620.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "da/d16/a22620.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "da/d16/a22620.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "da/d16/a22620.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "da/d16/a22620.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "da/d16/a22620.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "da/d16/a22620.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "da/d16/a22620.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "da/d16/a22620.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "da/d16/a22620.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "da/d16/a22620.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "da/d16/a22620.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "npc_creature_generator_akama", "da/d16/a22620.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "da/d16/a22620.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "da/d16/a22620.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "da/d16/a22620.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "da/d16/a22620.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "da/d16/a22620.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "da/d16/a22620.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "da/d16/a22620.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "da/d16/a22620.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

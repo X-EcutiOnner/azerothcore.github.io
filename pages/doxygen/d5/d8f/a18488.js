@@ -1,6 +1,6 @@
 var a18488 =
 [
-    [ "LastPhaseIceTombTargetSelector", "d5/d8f/a18488.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "d5/d8f/a18488.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "d5/d8f/a18488.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "HandleScript", "d5/d8f/a18488.html#a6f9b2c00cdc050ff25ec37f5b7610c71", null ],
+    [ "PrepareSpellScript", "d5/d8f/a18488.html#a5405e4547ec6cbc05acceb72d1b16530", null ],
+    [ "Register", "d5/d8f/a18488.html#a172490b953b958df354394e947b7cfd0", null ]
 ];

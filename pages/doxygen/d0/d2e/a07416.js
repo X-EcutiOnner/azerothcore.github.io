@@ -1,12 +1,14 @@
 var a07416 =
 [
-    [ "damageText", "d0/d2e/a07416.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d0/d2e/a07416.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d0/d2e/a07416.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d0/d2e/a07416.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d0/d2e/a07416.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d0/d2e/a07416.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d0/d2e/a07416.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d0/d2e/a07416.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d0/d2e/a07416.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "getAll", "d0/d2e/a07416.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "d0/d2e/a07416.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "d0/d2e/a07416.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "d0/d2e/a07416.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "d0/d2e/a07416.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "d0/d2e/a07416.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "d0/d2e/a07416.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "d0/d2e/a07416.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "d0/d2e/a07416.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "d0/d2e/a07416.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "d0/d2e/a07416.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

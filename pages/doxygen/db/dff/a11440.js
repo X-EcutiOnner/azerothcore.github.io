@@ -1,8 +1,6 @@
 var a11440 =
 [
-    [ "PacketFilter", "db/dff/a11440.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "db/dff/a11440.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "db/dff/a11440.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "db/dff/a11440.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "db/dff/a11440.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "PetUnlearnedSpell", "db/dff/a11440.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "db/dff/a11440.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "db/dff/a11440.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

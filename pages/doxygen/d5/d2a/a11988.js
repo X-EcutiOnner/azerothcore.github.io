@@ -1,5 +1,8 @@
 var a11988 =
 [
-    [ "data", "d1/d34/a04957.html#ga4e97bd1d129d33b86a11c79c8cfa437b", null ],
-    [ "ScriptId", "d1/d34/a04957.html#gaa452a9be01e00154512cb55980737ae6", null ]
+    [ "CreatureTextId", "d5/d2a/a11988.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d5/d2a/a11988.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d5/d2a/a11988.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d5/d2a/a11988.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d5/d2a/a11988.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

@@ -1,6 +1,14 @@
 var a16052 =
 [
-    [ "go_wind_stoneAI", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
-    [ "go_wind_stone", "db/db7/a16052.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
-    [ "GetAI", "db/db7/a16052.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
+    [ "npc_ringoAI", "db/db7/a16052.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "db/db7/a16052.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "db/db7/a16052.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "db/db7/a16052.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "db/db7/a16052.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "db/db7/a16052.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "db/db7/a16052.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "db/db7/a16052.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "db/db7/a16052.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "db/db7/a16052.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "db/db7/a16052.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

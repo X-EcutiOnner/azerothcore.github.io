@@ -1,8 +1,9 @@
 var a29064 =
 [
-    [ "difficulty", "d0/dbd/a29064.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d0/dbd/a29064.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d0/dbd/a29064.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d0/dbd/a29064.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d0/dbd/a29064.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "adtId", "d0/dbd/a29064.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d0/dbd/a29064.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d0/dbd/a29064.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d0/dbd/a29064.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d0/dbd/a29064.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d0/dbd/a29064.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

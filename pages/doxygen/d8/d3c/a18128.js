@@ -1,6 +1,7 @@
 var a18128 =
 [
-    [ "HandlePeriodicTick", "d8/d3c/a18128.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d8/d3c/a18128.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d8/d3c/a18128.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "HandleTriggerSpell", "d8/d3c/a18128.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d8/d3c/a18128.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d8/d3c/a18128.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d8/d3c/a18128.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

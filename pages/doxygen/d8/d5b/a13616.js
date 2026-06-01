@@ -1,8 +1,9 @@
 var a13616 =
 [
-    [ "npc_apothecary_baxter", "d8/d5b/a13616.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d8/d5b/a13616.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d8/d5b/a13616.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d8/d5b/a13616.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d8/d5b/a13616.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "spell_eredar_twins_apply_touch", "d8/d5b/a13616.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d8/d5b/a13616.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d8/d5b/a13616.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d8/d5b/a13616.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d8/d5b/a13616.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d8/d5b/a13616.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

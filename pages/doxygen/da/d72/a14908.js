@@ -1,8 +1,5 @@
 var a14908 =
 [
-    [ "npc_love_in_air_snivel_real", "da/d72/a14908.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "da/d72/a14908.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "da/d72/a14908.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "da/d72/a14908.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "da/d72/a14908.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "achievement_pb_pilgrims_peril", "da/d72/a14908.html#a9516eab18d7e1401a5637913d8ec9595", null ],
+    [ "OnCheck", "da/d72/a14908.html#a78c92eab532448080c1d28dc8fcabaca", null ]
 ];

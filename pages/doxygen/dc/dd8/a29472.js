@@ -1,11 +1,8 @@
 var a29472 =
 [
-    [ "IsAvailable", "dc/dd8/a29472.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "dc/dd8/a29472.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "dc/dd8/a29472.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "dc/dd8/a29472.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "dc/dd8/a29472.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "dc/dd8/a29472.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "dc/dd8/a29472.html#a87dfa4e0dea4892689d328d4ca27af75", null ],
-    [ "value", "dc/dd8/a29472.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "CreateCCEffect", "dc/dd8/a29472.html#a90bb496c51cd49d187389e714360afca", null ],
+    [ "SetUp", "dc/dd8/a29472.html#af90043fc0fe122bcbb1c60efcb56a92b", null ],
+    [ "TearDown", "dc/dd8/a29472.html#a7c3946d9acc7dbcc36c56071e165f6d9", null ],
+    [ "_originalWorld", "dc/dd8/a29472.html#a2006a12966a8875132c3a2c0b905e1f8", null ],
+    [ "_worldMock", "dc/dd8/a29472.html#ad18ef661fd5ab748c1c2c5d193b2a7d0", null ]
 ];

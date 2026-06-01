@@ -1,5 +1,6 @@
 var a28780 =
 [
-    [ "ByteBufferInvalidValueException", "df/ddb/a28780.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "df/ddb/a28780.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "Id", "df/ddb/a28780.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "df/ddb/a28780.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "df/ddb/a28780.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

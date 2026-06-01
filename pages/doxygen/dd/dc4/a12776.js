@@ -1,7 +1,19 @@
 var a12776 =
 [
-    [ "HandlePeriodic", "dd/dc4/a12776.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "dd/dc4/a12776.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "dd/dc4/a12776.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "dd/dc4/a12776.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_razorgore", "dd/dc4/a12776.html#adde8b3a9e9feb6d90da59774650f4eff", null ],
+    [ "CanAIAttack", "dd/dc4/a12776.html#abf08ab33c063890839e342decee78aca", null ],
+    [ "DamageTaken", "dd/dc4/a12776.html#a77abd52a929b3f0c11c48b00230f53b9", null ],
+    [ "DoAction", "dd/dc4/a12776.html#aae5c7ab0f9577a3827eb444fc78dd5da", null ],
+    [ "DoChangePhase", "dd/dc4/a12776.html#a12d65de9cb7d7a1832fbfc97a282a3ef", null ],
+    [ "JustDied", "dd/dc4/a12776.html#a9bc297ea52c1d7265f21c4ddc7aceafb", null ],
+    [ "JustEngagedWith", "dd/dc4/a12776.html#a394cab33de1aa498e9e36c58a9ce8bbf", null ],
+    [ "JustSummoned", "dd/dc4/a12776.html#adafe9dd1781bb85e697ed193b61da9b1", null ],
+    [ "OnCharmed", "dd/dc4/a12776.html#aedb56ab80ad9608cc8221c618059ed8f", null ],
+    [ "Reset", "dd/dc4/a12776.html#a9f68a4e84b1bd9af42af2b94565c4bda", null ],
+    [ "SetGUID", "dd/dc4/a12776.html#af5af46c895361c9eceb4e82d45b3243a", null ],
+    [ "SummonMovementInform", "dd/dc4/a12776.html#abe7d64db167bfee7cbf734573613ce16", null ],
+    [ "UpdateAI", "dd/dc4/a12776.html#a3320568d7cca02b452e12d15f9f7a5c3", null ],
+    [ "_charmerGUID", "dd/dc4/a12776.html#af08b3c1fc68a1374606ea4c5f9dc7ab0", null ],
+    [ "_summonGUIDS", "dd/dc4/a12776.html#ac7613919bc48071fb5ef10427320b65c", null ],
+    [ "secondPhase", "dd/dc4/a12776.html#a9bd9429aefc4ea9fdf5d3cb2471ac4ec", null ]
 ];

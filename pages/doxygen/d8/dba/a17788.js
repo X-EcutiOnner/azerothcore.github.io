@@ -1,6 +1,7 @@
 var a17788 =
 [
-    [ "ModAuraStack", "d8/dba/a17788.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "d8/dba/a17788.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "d8/dba/a17788.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "DelayedMovementEvent", "d8/dba/a17788.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d8/dba/a17788.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d8/dba/a17788.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d8/dba/a17788.html#a046942728282a997068de447271f3cbe", null ]
 ];

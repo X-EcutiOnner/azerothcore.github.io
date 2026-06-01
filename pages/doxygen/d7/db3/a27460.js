@@ -1,7 +1,8 @@
 var a27460 =
 [
-    [ "HandleEffectProc", "d7/db3/a27460.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "d7/db3/a27460.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "d7/db3/a27460.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "d7/db3/a27460.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "CheckProc", "d7/db3/a27460.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "d7/db3/a27460.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "d7/db3/a27460.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "d7/db3/a27460.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "d7/db3/a27460.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

@@ -1,10 +1,7 @@
 var a09520 =
 [
-    [ "PlayerListSearcherWithSharedVision", "d7/d73/a09520.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "d7/d73/a09520.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "d7/d73/a09520.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "d7/d73/a09520.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "d7/d73/a09520.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "d7/d73/a09520.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "d7/d73/a09520.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "PlayerRelocationNotifier", "d7/d73/a09520.html#afa316348fb6151cc992b0da7aab39ec3", null ],
+    [ "Visit", "d7/d73/a09520.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
+    [ "Visit", "d7/d73/a09520.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
+    [ "Visit", "d7/d73/a09520.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
 ];

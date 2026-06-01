@@ -1,7 +1,6 @@
 var a22832 =
 [
-    [ "SuckBackEvent", "db/db1/a22832.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "db/db1/a22832.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "db/db1/a22832.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "db/db1/a22832.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "HandleScriptEffect", "db/db1/a22832.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "db/db1/a22832.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "db/db1/a22832.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

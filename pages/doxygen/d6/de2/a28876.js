@@ -1,5 +1,7 @@
 var a28876 =
 [
-    [ "height", "d6/de2/a28876.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
-    [ "light", "d6/de2/a28876.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
+    [ "ID", "d6/de2/a28876.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d6/de2/a28876.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d6/de2/a28876.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d6/de2/a28876.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

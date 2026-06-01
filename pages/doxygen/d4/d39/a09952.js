@@ -1,6 +1,7 @@
 var a09952 =
 [
-    [ "LootValidatorRef", "d4/d39/a09952.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
-    [ "sourceObjectDestroyLink", "d4/d39/a09952.html#a8833022cf1acf786c06f1580fbe11c24", null ],
-    [ "targetObjectDestroyLink", "d4/d39/a09952.html#a93baac45dcb801215c28ac0dba097eba", null ]
+    [ "InstancePlayerBind", "d4/d39/a09952.html#abc20bba094d04eb724d03b8290102981", null ],
+    [ "extended", "d4/d39/a09952.html#a9327f62b74eea3a1a525b2fec6d90b69", null ],
+    [ "perm", "d4/d39/a09952.html#ab35249eb791941b484ecc321b1102b24", null ],
+    [ "save", "d4/d39/a09952.html#a24ef1e0e0a38033a16b697c32e3d8234", null ]
 ];

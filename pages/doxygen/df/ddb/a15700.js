@@ -1,6 +1,5 @@
 var a15700 =
 [
-    [ "HandleOnHit", "df/ddb/a15700.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "df/ddb/a15700.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "df/ddb/a15700.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "go_bristlelimb_cage", "df/ddb/a15700.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "df/ddb/a15700.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

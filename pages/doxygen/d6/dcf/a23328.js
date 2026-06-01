@@ -1,5 +1,7 @@
 var a23328 =
 [
-    [ "go_main_chambers_access_panel", "d6/dcf/a23328.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d6/dcf/a23328.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleOnApply", "d6/dcf/a23328.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "d6/dcf/a23328.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "d6/dcf/a23328.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "d6/dcf/a23328.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

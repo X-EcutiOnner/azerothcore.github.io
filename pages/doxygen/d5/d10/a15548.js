@@ -1,8 +1,8 @@
 var a15548 =
 [
-    [ "npc_obsidian_destroyer", "d5/d10/a15548.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d5/d10/a15548.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d5/d10/a15548.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d5/d10/a15548.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d5/d10/a15548.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "boss_veklor", "d5/d10/a15548.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d5/d10/a15548.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d5/d10/a15548.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d5/d10/a15548.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d5/d10/a15548.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

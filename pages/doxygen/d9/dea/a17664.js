@@ -1,5 +1,7 @@
 var a17664 =
 [
-    [ "achievement_share_the_love", "d9/dea/a17664.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d9/dea/a17664.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "achievement_once_bitten_twice_shy", "d9/dea/a17664.html#ac5799e847f8ee1e2b562e4a58a00df16", null ],
+    [ "OnCheck", "d9/dea/a17664.html#aa2e3ac3e8a14b06446174e475ac18af3", null ],
+    [ "_spawnMode", "d9/dea/a17664.html#a6f02f5ab07143ddff553279049714902", null ],
+    [ "_wasVampire", "d9/dea/a17664.html#a297cf6da45b0cddb4dc9fc888919bdda", null ]
 ];

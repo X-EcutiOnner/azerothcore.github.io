@@ -1,13 +1,6 @@
 var a09004 =
 [
-    [ "MMapTargetData", "de/d91/a09004.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "de/d91/a09004.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "de/d91/a09004.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "de/d91/a09004.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "de/d91/a09004.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "de/d91/a09004.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "de/d91/a09004.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "de/d91/a09004.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "de/d91/a09004.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "de/d91/a09004.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "GlobalCooldown", "de/d91/a09004.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "de/d91/a09004.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "de/d91/a09004.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/TempestKeep/Eye/instance_the_eye.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Metric/Metric.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,174 +106,476 @@ $(document).ready(function(){initNavTree('d5/d13/a04739.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_the_eye.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">Metric.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">the_eye.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MPSCQueue.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/steady_timer.hpp&gt;</code><br />
+<code>#include &lt;functional&gt;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9e/a23534.html">instance_the_eye</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/de8/a05660.html">MetricData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dfa/a23538.html">instance_the_eye::instance_the_eye_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d56/a05664.html">Metric</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/df1/a05668.html">MetricStopWatch&lt; LoggerType &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d20/a05034"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d1/d9f/a05035"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d9f/a05035.html">Acore::Asio</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a4e89926204845a9c9e315d6f0abec5ef"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>&#160;&#160;&#160;<a class="el" href="../../d0/d56/a05664.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td></tr>
+<tr class="separator:a4e89926204845a9c9e315d6f0abec5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(name,  value)&#160;&#160;&#160;{ name, value }</td></tr>
+<tr class="separator:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa861206b38b55c4f39f1ed649defb338"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a,  b)&#160;&#160;&#160;a##b</td></tr>
+<tr class="separator:aa861206b38b55c4f39f1ed649defb338"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad81585df46d4cee988a1222012dbabf1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(a,  b)&#160;&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td></tr>
+<tr class="separator:ad81585df46d4cee988a1222012dbabf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf91483a75eca0531263536ce38d9339"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(name)&#160;&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td></tr>
+<tr class="separator:adf91483a75eca0531263536ce38d9339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad57573999508dbc7a2c953379996b542"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a>(category,  title,  description)</td></tr>
+<tr class="separator:ad57573999508dbc7a2c953379996b542"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92aedc832ddfc479ecc61289f12be449"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a92aedc832ddfc479ecc61289f12be449">METRIC_VALUE</a>(category,  value, ...)</td></tr>
+<tr class="separator:a92aedc832ddfc479ecc61289f12be449"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad88ae7d281622a32a700443aa3dc51f9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ad88ae7d281622a32a700443aa3dc51f9">METRIC_TIMER</a>(category, ...)</td></tr>
+<tr class="separator:ad88ae7d281622a32a700443aa3dc51f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac782d1c3265f7b707782545777d49d05"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ac782d1c3265f7b707782545777d49d05">METRIC_DETAILED_EVENT</a>(category,  title,  description)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:ac782d1c3265f7b707782545777d49d05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a22dcbf78f0d280a4b2b4e0662034efe9">METRIC_DETAILED_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a281633f6f8b252d96029ce8fd29da746"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a281633f6f8b252d96029ce8fd29da746">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:a281633f6f8b252d96029ce8fd29da746"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td></tr>
+<tr class="separator:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a> { <br />
+&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a>
+<br />
+ }</td></tr>
+<tr class="separator:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a2edbd129d024cabd379cca055dd3e341"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a2edbd129d024cabd379cca055dd3e341">AddSC_instance_the_eye</a> ()</td></tr>
-<tr class="separator:a2edbd129d024cabd379cca055dd3e341"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1461582839e3b7fdbb7397e5d2086e31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a1461582839e3b7fdbb7397e5d2086e31">gameObjectData</a> []</td></tr>
-<tr class="separator:a1461582839e3b7fdbb7397e5d2086e31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dbc/a09958.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d5b/a09966.html">BossBoundaryData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#aa75d7d0ffe0cef214f982966c33db1c1">boundaries</a></td></tr>
-<tr class="separator:aa75d7d0ffe0cef214f982966c33db1c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplParams" colspan="2">template&lt;typename LoggerType &gt; </td></tr>
+<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../da/df1/a05668.html">MetricStopWatch</a>&lt; LoggerType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d5/d13/a04739.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a> (LoggerType &amp;&amp;loggerFunc)</td></tr>
+<tr class="separator:ab339934305abce426aa1d43c99d65e9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a2edbd129d024cabd379cca055dd3e341" name="a2edbd129d024cabd379cca055dd3e341"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2edbd129d024cabd379cca055dd3e341">&#9670;&#160;</a></span>AddSC_instance_the_eye()</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ad81585df46d4cee988a1222012dbabf1" name="ad81585df46d4cee988a1222012dbabf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad81585df46d4cee988a1222012dbabf1">&#9670;&#160;</a></span>METRIC_CONCAT</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_the_eye </td>
+          <td class="memname">#define METRIC_CONCAT</td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">a, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">b&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac782d1c3265f7b707782545777d49d05" name="ac782d1c3265f7b707782545777d49d05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac782d1c3265f7b707782545777d49d05">&#9670;&#160;</a></span>METRIC_DETAILED_EVENT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_EVENT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">title, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">description&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a281633f6f8b252d96029ce8fd29da746" name="a281633f6f8b252d96029ce8fd29da746"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a281633f6f8b252d96029ce8fd29da746">&#9670;&#160;</a></span>METRIC_DETAILED_NO_THRESHOLD_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_NO_THRESHOLD_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a22dcbf78f0d280a4b2b4e0662034efe9" name="a22dcbf78f0d280a4b2b4e0662034efe9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22dcbf78f0d280a4b2b4e0662034efe9">&#9670;&#160;</a></span>METRIC_DETAILED_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa861206b38b55c4f39f1ed649defb338" name="aa861206b38b55c4f39f1ed649defb338"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa861206b38b55c4f39f1ed649defb338">&#9670;&#160;</a></span>METRIC_DO_CONCAT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DO_CONCAT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">a, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">b&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;a##b</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad57573999508dbc7a2c953379996b542" name="ad57573999508dbc7a2c953379996b542"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad57573999508dbc7a2c953379996b542">&#9670;&#160;</a></span>METRIC_EVENT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_EVENT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">title, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">description&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
+<div class="line">        __pragma(warning(disable:4127))                                \</div>
+<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
+<div class="line">            if (<a class="code hl_define" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
+<div class="line">                <a class="code hl_define" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogEvent(category, title, description);       \</div>
+<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
+<div class="line">        __pragma(warning(pop))</div>
+<div class="ttc" id="aa04739_html_a4e89926204845a9c9e315d6f0abec5ef"><div class="ttname"><a href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a></div><div class="ttdeci">#define sMetric</div><div class="ttdef"><b>Definition:</b> Metric.h:134</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab81b5769123c1e5e3870b9b05f25fe0a" name="ab81b5769123c1e5e3870b9b05f25fe0a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab81b5769123c1e5e3870b9b05f25fe0a">&#9670;&#160;</a></span>METRIC_TAG</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_TAG</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">name, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">value&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;{ name, value }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad88ae7d281622a32a700443aa3dc51f9" name="ad88ae7d281622a32a700443aa3dc51f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad88ae7d281622a32a700443aa3dc51f9">&#9670;&#160;</a></span>METRIC_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">        <a class="code hl_class" href="../../da/df1/a05668.html">MetricStopWatch</a> <a class="code hl_define" href="../../d5/d13/a04739.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(__ac_metric_stop_watch) = <a class="code hl_function" href="../../d5/d13/a04739.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a>([&amp;](<a class="code hl_typedef" href="../../d6/df1/a04535.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> start) \</div>
+<div class="line">        {                                                                                                        \</div>
+<div class="line">            <a class="code hl_define" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, std::chrono::steady_clock::now() - start, { __VA_ARGS__ });              \</div>
+<div class="line">        });</div>
+<div class="ttc" id="aa04535_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d6/df1/a04535.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
+<div class="ttc" id="aa04739_html_ab339934305abce426aa1d43c99d65e9f"><div class="ttname"><a href="../../d5/d13/a04739.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a></div><div class="ttdeci">MetricStopWatch&lt; LoggerType &gt; MakeMetricStopWatch(LoggerType &amp;&amp;loggerFunc)</div><div class="ttdef"><b>Definition:</b> Metric.h:158</div></div>
+<div class="ttc" id="aa04739_html_adf91483a75eca0531263536ce38d9339"><div class="ttname"><a href="../../d5/d13/a04739.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a></div><div class="ttdeci">#define METRIC_UNIQUE_NAME(name)</div><div class="ttdef"><b>Definition:</b> Metric.h:167</div></div>
+<div class="ttc" id="aa05668_html"><div class="ttname"><a href="../../da/df1/a05668.html">MetricStopWatch</a></div><div class="ttdef"><b>Definition:</b> Metric.h:138</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="adf91483a75eca0531263536ce38d9339" name="adf91483a75eca0531263536ce38d9339"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf91483a75eca0531263536ce38d9339">&#9670;&#160;</a></span>METRIC_UNIQUE_NAME</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_UNIQUE_NAME</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">name</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../d5/d13/a04739.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a92aedc832ddfc479ecc61289f12be449" name="a92aedc832ddfc479ecc61289f12be449"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92aedc832ddfc479ecc61289f12be449">&#9670;&#160;</a></span>METRIC_VALUE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_VALUE</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">value, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
+<div class="line">        __pragma(warning(disable:4127))                                \</div>
+<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
+<div class="line">            if (<a class="code hl_define" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
+<div class="line">                <a class="code hl_define" href="../../d5/d13/a04739.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, value, { __VA_ARGS__ });   \</div>
+<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
+<div class="line">        __pragma(warning(pop))</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a4e89926204845a9c9e315d6f0abec5ef" name="a4e89926204845a9c9e315d6f0abec5ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e89926204845a9c9e315d6f0abec5ef">&#9670;&#160;</a></span>sMetric</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sMetric&#160;&#160;&#160;<a class="el" href="../../d0/d56/a05664.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a8fdc9a93c03faef11e4c36679e79e3f1" name="a8fdc9a93c03faef11e4c36679e79e3f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fdc9a93c03faef11e4c36679e79e3f1">&#9670;&#160;</a></span>MetricTag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::pair&lt;std::string, std::string&gt; <a class="el" href="../../d5/d13/a04739.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a0bb9cc086e32544cb0e43338f83d8e62" name="a0bb9cc086e32544cb0e43338f83d8e62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0bb9cc086e32544cb0e43338f83d8e62">&#9670;&#160;</a></span>MetricDataType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155" name="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"></a>METRIC_DATA_VALUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2" name="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"></a>METRIC_DATA_EVENT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div>
+<div class="line"><span class="lineno">   40</span>};</div>
+<div class="ttc" id="aa04739_html_a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"><div class="ttname"><a href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div><div class="ttdeci">@ METRIC_DATA_EVENT</div><div class="ttdef"><b>Definition:</b> Metric.h:39</div></div>
+<div class="ttc" id="aa04739_html_a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"><div class="ttname"><a href="../../d5/d13/a04739.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a></div><div class="ttdeci">@ METRIC_DATA_VALUE</div><div class="ttdef"><b>Definition:</b> Metric.h:38</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ab339934305abce426aa1d43c99d65e9f" name="ab339934305abce426aa1d43c99d65e9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab339934305abce426aa1d43c99d65e9f">&#9670;&#160;</a></span>MakeMetricStopWatch()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename LoggerType &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../da/df1/a05668.html">MetricStopWatch</a>&lt; LoggerType &gt; MakeMetricStopWatch </td>
+          <td>(</td>
+          <td class="paramtype">LoggerType &amp;&amp;&#160;</td>
+          <td class="paramname"><em>loggerFunc</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  114</span>{</div>
-<div class="line"><span class="lineno">  115</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d9e/a23534.html">instance_the_eye</a>();</div>
-<div class="line"><span class="lineno">  116</span>}</div>
-<div class="ttc" id="aa23534_html"><div class="ttname"><a href="../../d1/d9e/a23534.html">instance_the_eye</a></div><div class="ttdef"><b>Definition:</b> instance_the_eye.cpp:55</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="keywordflow">return</span> { std::forward&lt;LoggerType&gt;(loggerFunc) };</div>
+<div class="line"><span class="lineno">  161</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00122">AddOutlandScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="aa75d7d0ffe0cef214f982966c33db1c1" name="aa75d7d0ffe0cef214f982966c33db1c1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa75d7d0ffe0cef214f982966c33db1c1">&#9670;&#160;</a></span>boundaries</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../df/d5b/a09966.html">BossBoundaryData</a> const boundaries</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f">DATA_REAVER</a>,      <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d08/a10094.html">CircleBoundary</a>(<a class="code hl_struct" href="../../d6/d2d/a08766.html">Position</a>(432.741809f, 371.8595890f), 115.0f)     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea">DATA_ALAR</a>,        <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d08/a10094.html">CircleBoundary</a>(<a class="code hl_struct" href="../../d6/d2d/a08766.html">Position</a>(331.000000f, -2.38000000f), 108.29246f) },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9">DATA_ASTROMANCER</a>, <span class="keyword">new</span> <a class="code hl_class" href="../../d6/d08/a10094.html">CircleBoundary</a>(<a class="code hl_struct" href="../../d6/d2d/a08766.html">Position</a>(432.869202f, -374.213806f), 103.74374f) }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a2a5e1f51e98d708c07843e2dacf7007f">DATA_REAVER</a></div><div class="ttdeci">@ DATA_REAVER</div><div class="ttdef"><b>Definition:</b> the_eye.h:31</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea">DATA_ALAR</a></div><div class="ttdeci">@ DATA_ALAR</div><div class="ttdef"><b>Definition:</b> the_eye.h:29</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3ae1fb90732fdb89170e0805914fa500b9">DATA_ASTROMANCER</a></div><div class="ttdeci">@ DATA_ASTROMANCER</div><div class="ttdef"><b>Definition:</b> the_eye.h:30</div></div>
-<div class="ttc" id="aa08766_html"><div class="ttname"><a href="../../d6/d2d/a08766.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
-<div class="ttc" id="aa10094_html"><div class="ttname"><a href="../../d6/d08/a10094.html">CircleBoundary</a></div><div class="ttdef"><b>Definition:</b> AreaBoundary.h:89</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">instance_the_eye::instance_the_eye_InstanceMapScript::instance_the_eye_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const creatureData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80ab6eed3856fd4b4cd6397c3c87b1005c8">NPC_ALAR</a>,             <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a66655c20f692a6d808496086aa954bea">DATA_ALAR</a>           },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a3d3f4ffdbd8e886f3c232368fb4245b4">NPC_KAELTHAS</a>,         <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3">DATA_KAELTHAS</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a7cde7fc8bff2cb085f1b995f6a970708">NPC_THALADRED</a>,        <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82">DATA_THALADRED</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80ac8af45bb65099dd8c9f13b621a15548b">NPC_LORD_SANGUINAR</a>,   <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e">DATA_LORD_SANGUINAR</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a537a4c939a96c3ee07e1ff7f60218696">NPC_CAPERNIAN</a>,        <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea">DATA_CAPERNIAN</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a17c6b5b4f2493d2542833fbec1139a74">NPC_TELONICUS</a>,        <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e">DATA_TELONICUS</a>      },</div>
-<div class="line">    { 0,                    0                   }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa04319_html_abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3"><div class="ttname"><a href="../../de/dc3/a04319.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3">DATA_KAELTHAS</a></div><div class="ttdeci">@ DATA_KAELTHAS</div><div class="ttdef"><b>Definition:</b> magisters_terrace.h:31</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80a17c6b5b4f2493d2542833fbec1139a74"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a17c6b5b4f2493d2542833fbec1139a74">NPC_TELONICUS</a></div><div class="ttdeci">@ NPC_TELONICUS</div><div class="ttdef"><b>Definition:</b> the_eye.h:51</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80a3d3f4ffdbd8e886f3c232368fb4245b4"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a3d3f4ffdbd8e886f3c232368fb4245b4">NPC_KAELTHAS</a></div><div class="ttdeci">@ NPC_KAELTHAS</div><div class="ttdef"><b>Definition:</b> the_eye.h:47</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80a537a4c939a96c3ee07e1ff7f60218696"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a537a4c939a96c3ee07e1ff7f60218696">NPC_CAPERNIAN</a></div><div class="ttdeci">@ NPC_CAPERNIAN</div><div class="ttdef"><b>Definition:</b> the_eye.h:50</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80a7cde7fc8bff2cb085f1b995f6a970708"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80a7cde7fc8bff2cb085f1b995f6a970708">NPC_THALADRED</a></div><div class="ttdeci">@ NPC_THALADRED</div><div class="ttdef"><b>Definition:</b> the_eye.h:48</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80ab6eed3856fd4b4cd6397c3c87b1005c8"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80ab6eed3856fd4b4cd6397c3c87b1005c8">NPC_ALAR</a></div><div class="ttdeci">@ NPC_ALAR</div><div class="ttdef"><b>Definition:</b> the_eye.h:46</div></div>
-<div class="ttc" id="aa04742_html_a98f711e2be2bce9d46cfe27d8755ec80ac8af45bb65099dd8c9f13b621a15548b"><div class="ttname"><a href="../../d4/dc9/a04742.html#a98f711e2be2bce9d46cfe27d8755ec80ac8af45bb65099dd8c9f13b621a15548b">NPC_LORD_SANGUINAR</a></div><div class="ttdeci">@ NPC_LORD_SANGUINAR</div><div class="ttdef"><b>Definition:</b> the_eye.h:49</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3a8ec7795431936ffcd2799d536112657e">DATA_TELONICUS</a></div><div class="ttdeci">@ DATA_TELONICUS</div><div class="ttdef"><b>Definition:</b> the_eye.h:38</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3aa3a2a8c4f3a3d06e90f1888bd958e82e">DATA_LORD_SANGUINAR</a></div><div class="ttdeci">@ DATA_LORD_SANGUINAR</div><div class="ttdef"><b>Definition:</b> the_eye.h:36</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3adba63d90b0527273ece37f96679725ea">DATA_CAPERNIAN</a></div><div class="ttdeci">@ DATA_CAPERNIAN</div><div class="ttdef"><b>Definition:</b> the_eye.h:37</div></div>
-<div class="ttc" id="aa04742_html_aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82"><div class="ttname"><a href="../../d4/dc9/a04742.html#aeff27095b590ff4ec45857b5b09879a3ae2ed8de980552f6a962032d1c5d09e82">DATA_THALADRED</a></div><div class="ttdeci">@ DATA_THALADRED</div><div class="ttdef"><b>Definition:</b> the_eye.h:35</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">instance_the_eye::instance_the_eye_InstanceMapScript::instance_the_eye_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dd/dbc/a09958.html">DoorData</a> const doorData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374">GO_KAEL_DOOR_1</a>, <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3">DATA_KAELTHAS</a>, <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/dc9/a04742.html#abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536">GO_KAEL_DOOR_2</a>, <a class="code hl_enumvalue" href="../../de/dc3/a04319.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3">DATA_KAELTHAS</a>, <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a> },</div>
-<div class="line">    { 0,              0,             <a class="code hl_enumvalue" href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a> }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01226_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../dd/d9e/a01226.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
-<div class="ttc" id="aa04742_html_abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374"><div class="ttname"><a href="../../d4/dc9/a04742.html#abd7b2582f2ee738e1a53e2e92a6f654aa2a88b3366d09af56089aa586daf1e374">GO_KAEL_DOOR_1</a></div><div class="ttdeci">@ GO_KAEL_DOOR_1</div><div class="ttdef"><b>Definition:</b> the_eye.h:59</div></div>
-<div class="ttc" id="aa04742_html_abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536"><div class="ttname"><a href="../../d4/dc9/a04742.html#abd7b2582f2ee738e1a53e2e92a6f654aa509b917488bf30db3c305b4c32649536">GO_KAEL_DOOR_2</a></div><div class="ttdeci">@ GO_KAEL_DOOR_2</div><div class="ttdef"><b>Definition:</b> the_eye.h:60</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">instance_the_eye::instance_the_eye_InstanceMapScript::instance_the_eye_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a1461582839e3b7fdbb7397e5d2086e31" name="a1461582839e3b7fdbb7397e5d2086e31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1461582839e3b7fdbb7397e5d2086e31">&#9670;&#160;</a></span>gameObjectData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/da8/a09974.html">ObjectData</a> const gameObjectData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { 0,              0,               }</div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00061">instance_the_eye::instance_the_eye_InstanceMapScript::instance_the_eye_InstanceMapScript()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -281,8 +583,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_a6196a4e0c27f9c5f415985d4d3c16ae.html">TempestKeep</a></li><li class="navelem"><a class="el" href="../../dir_efb9d7c5ce6f8141e7a681492cf39a92.html">Eye</a></li><li class="navelem"><a class="el" href="../../d5/d13/a04739.html">instance_the_eye.cpp</a></li>
-    <li class="footer">Generated on Mon May 25 2026 21:49:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html">Metric</a></li><li class="navelem"><a class="el" href="../../d5/d13/a04739.html">Metric.h</a></li>
+    <li class="footer">Generated on Mon Jun 1 2026 22:44:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

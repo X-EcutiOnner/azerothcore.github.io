@@ -1,7 +1,6 @@
 var a18376 =
 [
-    [ "CheckRequirement", "dd/de2/a18376.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "dd/de2/a18376.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "dd/de2/a18376.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "dd/de2/a18376.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_rimefangAI", "d5/dd6/a18380.html", "d5/dd6/a18380" ],
+    [ "npc_rimefang", "dd/de2/a18376.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "dd/de2/a18376.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

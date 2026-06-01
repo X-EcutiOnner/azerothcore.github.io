@@ -1,8 +1,7 @@
 var a17848 =
 [
-    [ "OnApply", "dd/d3f/a17848.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "dd/d3f/a17848.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "dd/d3f/a17848.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "dd/d3f/a17848.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "dd/d3f/a17848.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "npc_gunship_boarding_leaderAI", "dd/d3f/a17848.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "dd/d3f/a17848.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "dd/d3f/a17848.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "dd/d3f/a17848.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

@@ -1,14 +1,16 @@
 var a10008 =
 [
-    [ "DoublePosition", "d6/d89/a10008.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d6/d89/a10008.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d6/d89/a10008.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d6/d89/a10008.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d6/d89/a10008.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d6/d89/a10008.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d6/d89/a10008.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d6/d89/a10008.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d6/d89/a10008.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d6/d89/a10008.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d6/d89/a10008.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "StoredLootItem", "d6/d89/a10008.html#a32da4030f3e58b7fae5001511c6caa40", null ],
+    [ "conditionLootId", "d6/d89/a10008.html#a9be27c3407923df6b15bef993dd58830", null ],
+    [ "count", "d6/d89/a10008.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
+    [ "follow_loot_rules", "d6/d89/a10008.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
+    [ "freeforall", "d6/d89/a10008.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
+    [ "is_blocked", "d6/d89/a10008.html#a895cc61dd542959c3726dbc54abf7434", null ],
+    [ "is_counted", "d6/d89/a10008.html#a801a125a5035167f3f511560a29808c4", null ],
+    [ "is_underthreshold", "d6/d89/a10008.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
+    [ "itemid", "d6/d89/a10008.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
+    [ "itemIndex", "d6/d89/a10008.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
+    [ "needs_quest", "d6/d89/a10008.html#ae7530d417ac10c5766fc25664b427d50", null ],
+    [ "randomPropertyId", "d6/d89/a10008.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
+    [ "randomSuffix", "d6/d89/a10008.html#a2588c810dcd51a5c0c6558b99493602b", null ]
 ];

@@ -1,8 +1,14 @@
 var a23616 =
 [
-    [ "npc_warchief_portal", "d0/ddc/a23616.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d0/ddc/a23616.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d0/ddc/a23616.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d0/ddc/a23616.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d0/ddc/a23616.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d0/ddc/a23616.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d0/ddc/a23616.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d0/ddc/a23616.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d0/ddc/a23616.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d0/ddc/a23616.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d0/ddc/a23616.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d0/ddc/a23616.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d0/ddc/a23616.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d0/ddc/a23616.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d0/ddc/a23616.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d0/ddc/a23616.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

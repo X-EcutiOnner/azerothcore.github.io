@@ -1,9 +1,7 @@
 var a19232 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d3/dbf/a19232.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d3/dbf/a19232.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d3/dbf/a19232.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d3/dbf/a19232.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d3/dbf/a19232.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d3/dbf/a19232.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "OnApply", "d3/dbf/a19232.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d3/dbf/a19232.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d3/dbf/a19232.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d3/dbf/a19232.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

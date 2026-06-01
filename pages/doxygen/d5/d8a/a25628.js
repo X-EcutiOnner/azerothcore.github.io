@@ -1,9 +1,8 @@
 var a25628 =
 [
-    [ "CheckProc", "d5/d8a/a25628.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
-    [ "HandleProc", "d5/d8a/a25628.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
-    [ "OnRemove", "d5/d8a/a25628.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
-    [ "PrepareAuraScript", "d5/d8a/a25628.html#a2e13f63459342fb749594f7fbb517c80", null ],
-    [ "Register", "d5/d8a/a25628.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
-    [ "Validate", "d5/d8a/a25628.html#a008ec43da50deb568ec453e992f89887", null ]
+    [ "HandleDummy", "d5/d8a/a25628.html#ad303a5c1bbbab3766bd5e9ab753b2a01", null ],
+    [ "Load", "d5/d8a/a25628.html#a054d9083b24183f4427fc0cb4985ba62", null ],
+    [ "PrepareSpellScript", "d5/d8a/a25628.html#aa4904ed55b5e216e0af5e32508372d4e", null ],
+    [ "Register", "d5/d8a/a25628.html#a5679f34290f90dbcaf15f09eca0fb20f", null ],
+    [ "Validate", "d5/d8a/a25628.html#a0a01f5e290b91e58b4b0f8ba443eb7bf", null ]
 ];

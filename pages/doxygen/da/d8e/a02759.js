@@ -1,6 +1,7 @@
 var a02759 =
 [
-    [ "CharacterDatabase", "da/d8e/a02759.html#af8239cd04c4137e1e621226a6d919ed4", null ],
-    [ "LoginDatabase", "da/d8e/a02759.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
-    [ "WorldDatabase", "da/d8e/a02759.html#af42e9d262f732792d1e81568ae38ea2e", null ]
+    [ "MMapTargetData", "d7/dc5/a09100.html", "d7/dc5/a09100" ],
+    [ "SafeUnitPointer", "d7/ded/a09104.html", "d7/ded/a09104" ],
+    [ "BuildValuesCachePosPointers", "d2/d53/a09108.html", "d2/d53/a09108" ],
+    [ "BuildValuesCachedBuffer", "d6/dc2/a09112.html", "d6/dc2/a09112" ]
 ];

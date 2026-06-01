@@ -1,6 +1,6 @@
 var a14576 =
 [
-    [ "HandleObjectAreaTargetSelect", "d0/d09/a14576.html#aa7695bddd766d5adefb04710d41894f6", null ],
-    [ "PrepareSpellScript", "d0/d09/a14576.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
-    [ "Register", "d0/d09/a14576.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
+    [ "CheckItem", "d0/d09/a14576.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
+    [ "PrepareSpellScript", "d0/d09/a14576.html#a0fa160f1218cf838444f894716cb8aed", null ],
+    [ "Register", "d0/d09/a14576.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
 ];

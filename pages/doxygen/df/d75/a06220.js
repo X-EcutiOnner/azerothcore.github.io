@@ -1,10 +1,11 @@
 var a06220 =
 [
-    [ "DefaultTargetSelector", "df/d75/a06220.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "df/d75/a06220.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "df/d75/a06220.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "df/d75/a06220.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "df/d75/a06220.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "df/d75/a06220.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "df/d75/a06220.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "AppliedFileEntry", "df/d75/a06220.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "df/d75/a06220.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "df/d75/a06220.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "df/d75/a06220.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "df/d75/a06220.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "df/d75/a06220.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "df/d75/a06220.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "df/d75/a06220.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

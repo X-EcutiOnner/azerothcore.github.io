@@ -1,7 +1,11 @@
 var a17536 =
 [
-    [ "npc_pos_icicle_triggerAI", "d5/d41/a17536.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d5/d41/a17536.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d5/d41/a17536.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d5/d41/a17536.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_blood_queen_lana_thelAI", "d5/d41/a17536.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "d5/d41/a17536.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "d5/d41/a17536.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "d5/d41/a17536.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "d5/d41/a17536.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "d5/d41/a17536.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "d5/d41/a17536.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "d5/d41/a17536.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

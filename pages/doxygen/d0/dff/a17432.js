@@ -1,5 +1,7 @@
 var a17432 =
 [
-    [ "at_hor_battered_hilt_throw", "d0/dff/a17432.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d0/dff/a17432.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "HandleDummy", "d0/dff/a17432.html#a367f4ebd296aa0fd54ff9ef6185a1c92", null ],
+    [ "PrepareSpellScript", "d0/dff/a17432.html#ab6e33bf137a54c9cd792aefb0ecd2ef1", null ],
+    [ "Register", "d0/dff/a17432.html#a371073fb37337719115242fc8758026f", null ],
+    [ "Validate", "d0/dff/a17432.html#ad5df08da54defc89a7a552c39de089c3", null ]
 ];

@@ -1,9 +1,12 @@
 var a07448 =
 [
-    [ "ArenaScore", "d7/d79/a07448.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "d7/d79/a07448.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "d7/d79/a07448.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "d7/d79/a07448.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "d7/d79/a07448.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "d7/d79/a07448.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "Type", "d7/d79/a07448.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d7/d79/a07448.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d7/d79/a07448.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d7/d79/a07448.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d7/d79/a07448.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d7/d79/a07448.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d7/d79/a07448.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d7/d79/a07448.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

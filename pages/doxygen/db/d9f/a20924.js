@@ -1,6 +1,6 @@
 var a20924 =
 [
-    [ "FilterTargets", "db/d9f/a20924.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "db/d9f/a20924.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "db/d9f/a20924.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "npc_frenzied_worgenAI", "dd/d10/a20928.html", "dd/d10/a20928" ],
+    [ "npc_frenzied_worgen", "db/d9f/a20924.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "db/d9f/a20924.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

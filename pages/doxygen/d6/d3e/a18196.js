@@ -1,6 +1,6 @@
 var a18196 =
 [
-    [ "npc_cult_fanaticAI", "d4/db8/a18200.html", "d4/db8/a18200" ],
-    [ "npc_cult_fanatic", "d6/d3e/a18196.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/d3e/a18196.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "ExtraEffect", "d6/d3e/a18196.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d6/d3e/a18196.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d6/d3e/a18196.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

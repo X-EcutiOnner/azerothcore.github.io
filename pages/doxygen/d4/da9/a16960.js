@@ -1,7 +1,6 @@
 var a16960 =
 [
-    [ "npc_toc_retro_paladinAI", "d4/da9/a16960.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d4/da9/a16960.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d4/da9/a16960.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d4/da9/a16960.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "HandleEffectPeriodic", "d4/da9/a16960.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d4/da9/a16960.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d4/da9/a16960.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

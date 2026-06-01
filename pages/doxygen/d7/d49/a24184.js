@@ -1,9 +1,6 @@
 var a24184 =
 [
-    [ "npc_enraged_spiritAI", "d7/d49/a24184.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d7/d49/a24184.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d7/d49/a24184.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d7/d49/a24184.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d7/d49/a24184.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d7/d49/a24184.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "CheckProc", "d7/d49/a24184.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d7/d49/a24184.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d7/d49/a24184.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

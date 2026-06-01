@@ -1,20 +1,20 @@
 var a02381 =
 [
-    [ "WorldScript", "d3/d6f/a10774.html", "d3/d6f/a10774" ],
-    [ "WorldHook", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493", [
-      [ "WORLDHOOK_ON_OPEN_STATE_CHANGE", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a1115383e9c9ccf62f08548733c8f5f1c", null ],
-      [ "WORLDHOOK_ON_AFTER_CONFIG_LOAD", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493af6efa892b7f5bfd295f23a9b8afc6ad7", null ],
-      [ "WORLDHOOK_ON_LOAD_CUSTOM_DATABASE_TABLE", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493ab212a383f870b580ecf69fd1df3f9213", null ],
-      [ "WORLDHOOK_ON_BEFORE_CONFIG_LOAD", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493ac0d62a83ca416843503c5c9eac516901", null ],
-      [ "WORLDHOOK_ON_MOTD_CHANGE", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a7080a363df28c0ffb71d52ee18b85f8c", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_INITIATE", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493ab554902e66fb497dbb3ac74151fe8bb7", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN_CANCEL", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a86b7bcb6f946ccb6d6c444773054ecb6", null ],
-      [ "WORLDHOOK_ON_UPDATE", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a891997df42f33b397fe3c92cf68e3aca", null ],
-      [ "WORLDHOOK_ON_STARTUP", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493abaa74ee704d5eb3634a515fe131e66fa", null ],
-      [ "WORLDHOOK_ON_SHUTDOWN", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a804c550dd48cb62983e43dfed1ba2176", null ],
-      [ "WORLDHOOK_ON_AFTER_UNLOAD_ALL_MAPS", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a02253717dde1cc98a2643eefd76f0d91", null ],
-      [ "WORLDHOOK_ON_BEFORE_FINALIZE_PLAYER_WORLD_SESSION", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a962dfc07ec34ca7510d8759c193ba56e", null ],
-      [ "WORLDHOOK_ON_BEFORE_WORLD_INITIALIZED", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a2e95fec6ec46709803e187fe3c60f427", null ],
-      [ "WORLDHOOK_END", "d7/d1a/a02381.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800", null ]
-    ] ]
+    [ "WorldPackets::Misc::Weather", "d8/dcf/a11272.html", "d8/dcf/a11272" ],
+    [ "WorldPackets::Misc::LevelUpInfo", "d8/d40/a11276.html", "d8/d40/a11276" ],
+    [ "WorldPackets::Misc::PlayMusic", "d2/d50/a11280.html", "d2/d50/a11280" ],
+    [ "WorldPackets::Misc::PlayObjectSound", "d9/da9/a11284.html", "d9/da9/a11284" ],
+    [ "WorldPackets::Misc::Playsound", "dd/d1d/a11288.html", "dd/d1d/a11288" ],
+    [ "WorldPackets::Misc::MinimapPingClient", "d1/dac/a11292.html", "d1/dac/a11292" ],
+    [ "WorldPackets::Misc::MinimapPing", "de/d3e/a11296.html", "de/d3e/a11296" ],
+    [ "WorldPackets::Misc::RandomRollClient", "de/d47/a11300.html", "de/d47/a11300" ],
+    [ "WorldPackets::Misc::RandomRoll", "d6/dd0/a11304.html", "d6/dd0/a11304" ],
+    [ "WorldPackets::Misc::StartMirrorTimer", "d6/d96/a11308.html", "d6/d96/a11308" ],
+    [ "WorldPackets::Misc::PauseMirrorTimer", "d6/dfb/a11312.html", "d6/dfb/a11312" ],
+    [ "WorldPackets::Misc::StopMirrorTimer", "d0/d7b/a11316.html", "d0/d7b/a11316" ],
+    [ "WorldPackets::Misc::DurabilityDamageDeath", "d6/df4/a11320.html", "d6/df4/a11320" ],
+    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d3/d54/a11324.html", "d3/d54/a11324" ],
+    [ "WorldPackets::Misc::UITime", "d1/d5a/a11328.html", "d1/d5a/a11328" ],
+    [ "WorldPackets::Misc::Complain", "d4/dc4/a11332.html", "d4/dc4/a11332" ],
+    [ "WorldPackets::Misc::ComplainResult", "df/dd3/a11336.html", "df/dd3/a11336" ]
 ];

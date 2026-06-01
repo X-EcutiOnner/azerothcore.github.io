@@ -1,6 +1,7 @@
 var a14556 =
 [
-    [ "OnRemove", "dd/d40/a14556.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "dd/d40/a14556.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "dd/d40/a14556.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "GetEmptyEntry", "dd/d40/a14556.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "dd/d40/a14556.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "dd/d40/a14556.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "dd/d40/a14556.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

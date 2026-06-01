@@ -1,6 +1,6 @@
 var a17516 =
 [
-    [ "npc_pos_after_first_bossAI", "df/dcc/a17520.html", "df/dcc/a17520" ],
-    [ "npc_pos_after_first_boss", "d3/d02/a17516.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d3/d02/a17516.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "boss_prince_taldaramAI", "df/dcc/a17520.html", "df/dcc/a17520" ],
+    [ "boss_prince_taldaram_icc", "d3/d02/a17516.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d3/d02/a17516.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

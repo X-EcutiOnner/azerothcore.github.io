@@ -1,12 +1,7 @@
 var a19300 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d1/d40/a19300.html#a2e3abb6f8889b8df818e8260e6428375", null ],
-    [ "InitializeAI", "d1/d40/a19300.html#ac39bb8074ebb7106b426f507b73b368e", null ],
-    [ "JustEngagedWith", "d1/d40/a19300.html#ae69a8fd357856d0ec6a944ca8c0007ca", null ],
-    [ "MoveInLineOfSight", "d1/d40/a19300.html#a846fe2784308eb694f5f482133a33a7f", null ],
-    [ "MovementInform", "d1/d40/a19300.html#a9a5584eea4bc08f55ddfd7efe23bce2e", null ],
-    [ "Reset", "d1/d40/a19300.html#afbb260e4968865e7c4141e73a050e663", null ],
-    [ "UpdateAI", "d1/d40/a19300.html#ad63d3a91bdd677a9cdd497198860cac6", null ],
-    [ "_didWebBeam", "d1/d40/a19300.html#a8772cf938d30ddcc439d3912db578dfa", null ],
-    [ "events", "d1/d40/a19300.html#ac1b5b05f9fbaf1879c95bc7127fcb6e9", null ]
+    [ "HandleRemove", "d1/d40/a19300.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d1/d40/a19300.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d1/d40/a19300.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d1/d40/a19300.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

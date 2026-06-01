@@ -1,8 +1,9 @@
 var a14872 =
 [
-    [ "npc_hallows_end_train_fire", "d0/d97/a14872.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d0/d97/a14872.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d0/d97/a14872.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d0/d97/a14872.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d0/d97/a14872.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "HandlePeriodic", "d0/d97/a14872.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d0/d97/a14872.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d0/d97/a14872.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d0/d97/a14872.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d0/d97/a14872.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d0/d97/a14872.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

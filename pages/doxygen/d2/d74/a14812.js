@@ -1,6 +1,5 @@
 var a14812 =
 [
-    [ "gameobjectId", "d2/d74/a14812.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d2/d74/a14812.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d2/d74/a14812.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "PrepareSpellScript", "d2/d74/a14812.html#a50ee42c11937759b6c52c2ab994481c4", null ],
+    [ "Register", "d2/d74/a14812.html#a8dc12a723c2da948c38119e3fc34df35", null ]
 ];

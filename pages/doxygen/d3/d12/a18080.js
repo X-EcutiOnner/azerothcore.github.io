@@ -1,6 +1,6 @@
 var a18080 =
 [
-    [ "npc_gunship_rocketeerAI", "d6/da1/a18084.html", "d6/da1/a18084" ],
-    [ "npc_gunship_rocketeer", "d3/d12/a18080.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d3/d12/a18080.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "AbominationDespawner", "d3/d12/a18080.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d3/d12/a18080.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d3/d12/a18080.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

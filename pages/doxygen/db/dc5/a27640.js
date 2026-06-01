@@ -1,6 +1,5 @@
 var a27640 =
 [
-    [ "HandleScriptEffect", "db/dc5/a27640.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "db/dc5/a27640.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "db/dc5/a27640.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "achievement_not_even_a_scratch", "db/dc5/a27640.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "db/dc5/a27640.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

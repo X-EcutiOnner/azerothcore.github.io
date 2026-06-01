@@ -1,9 +1,7 @@
 var a13704 =
 [
-    [ "boss_brutallus", "d8/dec/a13704.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "d8/dec/a13704.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "d8/dec/a13704.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "d8/dec/a13704.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "d8/dec/a13704.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "d8/dec/a13704.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "OnRemove", "d8/dec/a13704.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d8/dec/a13704.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d8/dec/a13704.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d8/dec/a13704.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

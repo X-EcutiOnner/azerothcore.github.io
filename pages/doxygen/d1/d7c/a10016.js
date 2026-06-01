@@ -1,8 +1,7 @@
 var a10016 =
 [
-    [ "CircleBoundary", "d1/d7c/a10016.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d1/d7c/a10016.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d1/d7c/a10016.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d1/d7c/a10016.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d1/d7c/a10016.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "LootGroupInvalidSelector", "d1/d7c/a10016.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
+    [ "operator()", "d1/d7c/a10016.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
+    [ "_loot", "d1/d7c/a10016.html#a67b9d223426512af79bbf5b035c18a6d", null ],
+    [ "_lootMode", "d1/d7c/a10016.html#a10e307846a0731aa812388c29c0d4bc8", null ]
 ];

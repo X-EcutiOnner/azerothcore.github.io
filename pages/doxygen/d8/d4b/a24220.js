@@ -1,6 +1,7 @@
 var a24220 =
 [
-    [ "npc_kservantAI", "d8/d86/a24224.html", "d8/d86/a24224" ],
-    [ "npc_kservant", "d8/d4b/a24220.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d8/d4b/a24220.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "CorpseExplosionCheck", "d8/d4b/a24220.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d8/d4b/a24220.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d8/d4b/a24220.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d8/d4b/a24220.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

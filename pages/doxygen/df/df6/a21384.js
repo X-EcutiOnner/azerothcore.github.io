@@ -1,15 +1,14 @@
 var a21384 =
 [
-    [ "npc_vh_teleportation_portalAI", "df/df6/a21384.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
-    [ "JustDied", "df/df6/a21384.html#aab2cc259d78492c54e21b4279697f909", null ],
-    [ "JustSummoned", "df/df6/a21384.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
-    [ "SummonedMobDied", "df/df6/a21384.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
-    [ "UpdateAI", "df/df6/a21384.html#a812e330e20924cc34262363ecc0a3fc1", null ],
-    [ "addValue", "df/df6/a21384.html#aa52f29a41d12320516737b437af62fc3", null ],
-    [ "bKorG", "df/df6/a21384.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
-    [ "events", "df/df6/a21384.html#a329635246e80e7264cad6749ee70be40", null ],
-    [ "listOfMobs", "df/df6/a21384.html#a470a61cf7d424711b07770fd56c74b29", null ],
-    [ "pInstance", "df/df6/a21384.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
-    [ "spawned", "df/df6/a21384.html#a8921c314c2f4b958e11136504971f427", null ],
-    [ "wave", "df/df6/a21384.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
+    [ "npc_dalaran_mageAI", "df/df6/a21384.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "df/df6/a21384.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "df/df6/a21384.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "df/df6/a21384.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "df/df6/a21384.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "df/df6/a21384.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "df/df6/a21384.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "df/df6/a21384.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "df/df6/a21384.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "df/df6/a21384.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "df/df6/a21384.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

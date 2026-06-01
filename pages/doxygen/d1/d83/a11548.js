@@ -1,12 +1,17 @@
 var a11548 =
 [
-    [ "SpellDestination", "d1/d83/a11548.html#aa91f31101de3139b2e2d2976dac94686", null ],
-    [ "SpellDestination", "d1/d83/a11548.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
-    [ "SpellDestination", "d1/d83/a11548.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
-    [ "SpellDestination", "d1/d83/a11548.html#a7b8949fa80249aee8bebc56620ec746c", null ],
-    [ "Relocate", "d1/d83/a11548.html#ab565861d5013130639013e3c4d22d712", null ],
-    [ "RelocateOffset", "d1/d83/a11548.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
-    [ "_position", "d1/d83/a11548.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
-    [ "_transportGUID", "d1/d83/a11548.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
-    [ "_transportOffset", "d1/d83/a11548.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
+    [ "WorldPacket", "d1/d83/a11548.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d1/d83/a11548.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d1/d83/a11548.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d1/d83/a11548.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d1/d83/a11548.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d1/d83/a11548.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d1/d83/a11548.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d1/d83/a11548.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d1/d83/a11548.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d1/d83/a11548.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d1/d83/a11548.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d1/d83/a11548.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d1/d83/a11548.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d1/d83/a11548.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

@@ -1,10 +1,14 @@
 var a22880 =
 [
-    [ "CalculateAmount", "dd/d2b/a22880.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "dd/d2b/a22880.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "dd/d2b/a22880.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "dd/d2b/a22880.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "dd/d2b/a22880.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "dd/d2b/a22880.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "dd/d2b/a22880.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_the_lurker_below", "dd/d2b/a22880.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "dd/d2b/a22880.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "dd/d2b/a22880.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "dd/d2b/a22880.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "dd/d2b/a22880.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "dd/d2b/a22880.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "dd/d2b/a22880.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "dd/d2b/a22880.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "dd/d2b/a22880.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "dd/d2b/a22880.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "dd/d2b/a22880.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

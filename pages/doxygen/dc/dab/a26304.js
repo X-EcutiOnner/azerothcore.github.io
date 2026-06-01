@@ -1,7 +1,7 @@
 var a26304 =
 [
-    [ "HandleProc", "dc/dab/a26304.html#ac00d9d4e8eee65a66b3429809debbda1", null ],
-    [ "PrepareAuraScript", "dc/dab/a26304.html#a5def77211bfb06120a05999d7defbea3", null ],
-    [ "Register", "dc/dab/a26304.html#a38afbc38532160763df6db8b37c33163", null ],
-    [ "Validate", "dc/dab/a26304.html#ad59dce623cc1569bb4d9867f528a4fa8", null ]
+    [ "HandleDummy", "dc/dab/a26304.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "dc/dab/a26304.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "dc/dab/a26304.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "dc/dab/a26304.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

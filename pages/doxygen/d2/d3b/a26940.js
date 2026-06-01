@@ -1,6 +1,9 @@
 var a26940 =
 [
-    [ "HandleDummyEffect", "d2/d3b/a26940.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "d2/d3b/a26940.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "d2/d3b/a26940.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "Absorb", "d2/d3b/a26940.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d2/d3b/a26940.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d2/d3b/a26940.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d2/d3b/a26940.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d2/d3b/a26940.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d2/d3b/a26940.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

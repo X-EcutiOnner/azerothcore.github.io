@@ -1,7 +1,9 @@
 var a13924 =
 [
-    [ "HandlePull", "d4/d48/a13924.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d4/d48/a13924.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d4/d48/a13924.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d4/d48/a13924.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "npc_partygoer", "d4/d48/a13924.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d4/d48/a13924.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d4/d48/a13924.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d4/d48/a13924.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d4/d48/a13924.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d4/d48/a13924.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

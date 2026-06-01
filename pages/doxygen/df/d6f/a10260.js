@@ -1,6 +1,6 @@
 var a10260 =
 [
-    [ "TargetedMovementGeneratorBase", "df/d6f/a10260.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "df/d6f/a10260.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "df/d6f/a10260.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "aiNotifyDelay", "df/d6f/a10260.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "df/d6f/a10260.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "df/d6f/a10260.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

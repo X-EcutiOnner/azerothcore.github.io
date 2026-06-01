@@ -1,7 +1,8 @@
 var a25400 =
 [
-    [ "HandleDummy", "db/d96/a25400.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "db/d96/a25400.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "db/d96/a25400.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "db/d96/a25400.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "HandleRapidFireProc", "db/d96/a25400.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "db/d96/a25400.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "db/d96/a25400.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "db/d96/a25400.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "db/d96/a25400.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

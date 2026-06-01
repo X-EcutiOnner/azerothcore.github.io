@@ -1,5 +1,6 @@
 var a15828 =
 [
-    [ "go_bristlelimb_cage", "d5/db8/a15828.html#ab965b9c529577a5e58639285fa35d3d7", null ],
-    [ "OnGossipHello", "d5/db8/a15828.html#a6f29e07550767c1c0610f46e4921503f", null ]
+    [ "HandleDummy", "d5/db8/a15828.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
+    [ "PrepareSpellScript", "d5/db8/a15828.html#adc581ed46587afcc8be3800ae79105f6", null ],
+    [ "Register", "d5/db8/a15828.html#a7d09808ea2fdec450fcd129e996bd245", null ]
 ];

@@ -1,6 +1,7 @@
 var a25564 =
 [
-    [ "PrepareAuraScript", "dd/d5c/a25564.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "dd/d5c/a25564.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "dd/d5c/a25564.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "OnRemove", "dd/d5c/a25564.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "dd/d5c/a25564.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "dd/d5c/a25564.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "dd/d5c/a25564.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

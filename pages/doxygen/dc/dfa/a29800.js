@@ -1,13 +1,9 @@
 var a29800 =
 [
-    [ "liquid_data", "d7/dc1/a29808.html", "d7/dc1/a29808" ],
-    [ "prepareLoadedData", "dc/dfa/a29800.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "dc/dfa/a29800.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "dc/dfa/a29800.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "dc/dfa/a29800.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "dc/dfa/a29800.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "dc/dfa/a29800.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "dc/dfa/a29800.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "dc/dfa/a29800.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "dc/dfa/a29800.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "MapTiles", "dc/dfa/a29800.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "dc/dfa/a29800.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "dc/dfa/a29800.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "dc/dfa/a29800.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "dc/dfa/a29800.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "dc/dfa/a29800.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

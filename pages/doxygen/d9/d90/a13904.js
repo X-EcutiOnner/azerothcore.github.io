@@ -1,9 +1,11 @@
 var a13904 =
 [
-    [ "npc_dark_fiend", "d9/d90/a13904.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d9/d90/a13904.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d9/d90/a13904.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d9/d90/a13904.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d9/d90/a13904.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d9/d90/a13904.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d9/d90/a13904.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d9/d90/a13904.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d9/d90/a13904.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d9/d90/a13904.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d9/d90/a13904.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d9/d90/a13904.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d9/d90/a13904.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d9/d90/a13904.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

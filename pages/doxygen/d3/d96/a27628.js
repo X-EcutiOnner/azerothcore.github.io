@@ -1,6 +1,5 @@
 var a27628 =
 [
-    [ "HandleBanish", "d3/d96/a27628.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d3/d96/a27628.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d3/d96/a27628.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "achievement_bg_av_perfection", "d3/d96/a27628.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d3/d96/a27628.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

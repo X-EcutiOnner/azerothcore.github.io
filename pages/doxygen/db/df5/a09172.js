@@ -1,11 +1,9 @@
 var a09172 =
 [
-    [ "~GridCell", "db/df5/a09172.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "db/df5/a09172.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "db/df5/a09172.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "db/df5/a09172.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "db/df5/a09172.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "db/df5/a09172.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "db/df5/a09172.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "db/df5/a09172.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "day", "db/df5/a09172.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "db/df5/a09172.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "db/df5/a09172.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "db/df5/a09172.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "db/df5/a09172.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "db/df5/a09172.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

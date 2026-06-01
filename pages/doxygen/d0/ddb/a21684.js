@@ -1,6 +1,7 @@
 var a21684 =
 [
-    [ "npc_future_youAI", "dc/d97/a21688.html", "dc/d97/a21688" ],
-    [ "npc_future_you", "d0/ddb/a21684.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d0/ddb/a21684.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_plaguehound_trackerAI", "d0/ddb/a21684.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d0/ddb/a21684.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d0/ddb/a21684.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d0/ddb/a21684.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,9 +1,7 @@
 var a19500 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d5/df0/a19500.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d5/df0/a19500.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d5/df0/a19500.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d5/df0/a19500.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d5/df0/a19500.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d5/df0/a19500.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "d5/df0/a19500.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "d5/df0/a19500.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "d5/df0/a19500.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "d5/df0/a19500.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

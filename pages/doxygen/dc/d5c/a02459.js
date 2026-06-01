@@ -1,4 +1,6 @@
 var a02459 =
 [
-    [ "ScriptRegistry< UnitScript >", "dc/d5c/a02459.html#aced42ee6099fa72848b9b4aef527ebc3", null ]
+    [ "PointMovementGenerator< T >", "db/d97/a10364.html", "db/d97/a10364" ],
+    [ "AssistanceMovementGenerator", "d4/d9d/a10368.html", "d4/d9d/a10368" ],
+    [ "EffectMovementGenerator", "d6/d14/a10372.html", "d6/d14/a10372" ]
 ];

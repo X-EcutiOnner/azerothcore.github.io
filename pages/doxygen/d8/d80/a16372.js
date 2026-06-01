@@ -1,6 +1,10 @@
 var a16372 =
 [
-    [ "npc_anub_ar_crusher_champion", "d8/d80/a16372.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "d8/d80/a16372.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "d8/d80/a16372.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "npc_xerestraszaAI", "d8/d80/a16372.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d8/d80/a16372.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d8/d80/a16372.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d8/d80/a16372.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d8/d80/a16372.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d8/d80/a16372.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d8/d80/a16372.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

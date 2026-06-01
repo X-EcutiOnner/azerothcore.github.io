@@ -1,6 +1,9 @@
 var a19044 =
 [
-    [ "CaptainSurviveTalk", "da/dbd/a19044.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "da/dbd/a19044.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "da/dbd/a19044.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_icc_skybreaker_vicarAI", "da/dbd/a19044.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "da/dbd/a19044.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "da/dbd/a19044.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "da/dbd/a19044.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "da/dbd/a19044.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "da/dbd/a19044.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

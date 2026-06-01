@@ -1,6 +1,11 @@
 var a26448 =
 [
-    [ "OnRemove", "d7/d4c/a26448.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "d7/d4c/a26448.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "d7/d4c/a26448.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "CheckProc", "d7/d4c/a26448.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "d7/d4c/a26448.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "d7/d4c/a26448.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "d7/d4c/a26448.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "d7/d4c/a26448.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "d7/d4c/a26448.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "d7/d4c/a26448.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "d7/d4c/a26448.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

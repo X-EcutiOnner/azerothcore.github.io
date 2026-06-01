@@ -1,7 +1,6 @@
 var a19536 =
 [
-    [ "FilterTargets", "d2/d78/a19536.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d2/d78/a19536.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d2/d78/a19536.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d2/d78/a19536.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "ChargeRifts", "d2/d78/a19536.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "d2/d78/a19536.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "d2/d78/a19536.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

@@ -1,9 +1,10 @@
 var a08756 =
 [
-    [ "category", "d3/dd2/a08756.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
-    [ "end", "d3/dd2/a08756.html#a8cc857ef51745900398765164a450a50", null ],
-    [ "itemid", "d3/dd2/a08756.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
-    [ "maxduration", "d3/dd2/a08756.html#a94b98afb7651e2c6b99ee79f85702259", null ],
-    [ "needSendToClient", "d3/dd2/a08756.html#a678f56b6723567f984a0188b85a6f9df", null ],
-    [ "sendToSpectator", "d3/dd2/a08756.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
+    [ "ObjectGuidGeneratorBase", "d3/dd2/a08756.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "d3/dd2/a08756.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "d3/dd2/a08756.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "d3/dd2/a08756.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "d3/dd2/a08756.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "d3/dd2/a08756.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "d3/dd2/a08756.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

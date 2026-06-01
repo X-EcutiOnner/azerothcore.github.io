@@ -1,4 +1,5 @@
 var a02465 =
 [
-    [ "ScriptRegistry< CommandScript >", "d4/d73/a02465.html#a2d714ec85ac23255244ecf61e4f48244", null ]
+    [ "ConfusedMovementGenerator< T >", "dc/d18/a10316.html", "dc/d18/a10316" ],
+    [ "MAX_CONF_WAYPOINTS", "d4/d73/a02465.html#ad4f7a217e114623ec80b1743f39ed3ea", null ]
 ];

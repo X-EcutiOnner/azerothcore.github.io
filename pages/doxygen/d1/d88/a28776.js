@@ -1,5 +1,6 @@
 var a28776 =
 [
-    [ "ByteBufferSourceException", "d1/d88/a28776.html#ad021dff8a62dfc170ef0233294b707f6", null ],
-    [ "~ByteBufferSourceException", "d1/d88/a28776.html#afaf57c545141703ffbe696cfbee6de0f", null ]
+    [ "Id", "d1/d88/a28776.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d1/d88/a28776.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d1/d88/a28776.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

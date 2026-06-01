@@ -1,9 +1,6 @@
 var a27388 =
 [
-    [ "Absorb", "dc/da9/a27388.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "dc/da9/a27388.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "dc/da9/a27388.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "dc/da9/a27388.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "dc/da9/a27388.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "dc/da9/a27388.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "PrepareAuraScript", "dc/da9/a27388.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "dc/da9/a27388.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "dc/da9/a27388.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

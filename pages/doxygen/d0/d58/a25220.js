@@ -1,8 +1,8 @@
 var a25220 =
 [
-    [ "OnApply", "d0/d58/a25220.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d0/d58/a25220.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d0/d58/a25220.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d0/d58/a25220.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d0/d58/a25220.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "CheckProc", "d0/d58/a25220.html#a15a781accded2e018cbf306e7a129eb9", null ],
+    [ "HandleProc", "d0/d58/a25220.html#ad818c89e7d351b5528e4fd8b99c65cc2", null ],
+    [ "PrepareAuraScript", "d0/d58/a25220.html#ab64670a7714248d9bfb52d96cf7a6c70", null ],
+    [ "Register", "d0/d58/a25220.html#a4ed5d197b1d62bec0fec20f8cce90b7a", null ],
+    [ "Validate", "d0/d58/a25220.html#a0185b616c63a3e9c20495b1c89ec6c68", null ]
 ];

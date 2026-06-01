@@ -1,7 +1,9 @@
 var a27316 =
 [
-    [ "HandleProc", "da/d47/a27316.html#a297383c7eae5cc846be4a0f9e28c7e52", null ],
-    [ "PrepareAuraScript", "da/d47/a27316.html#a00a68329e8ab03cb5e38b1ad85932a57", null ],
-    [ "Register", "da/d47/a27316.html#a813cb759ccbe0464334890008d5e5a7a", null ],
-    [ "Validate", "da/d47/a27316.html#a41590ae5cb30b97cdf1db02266dd2c7c", null ]
+    [ "CheckCast", "da/d47/a27316.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "da/d47/a27316.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "da/d47/a27316.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "da/d47/a27316.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "da/d47/a27316.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "da/d47/a27316.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

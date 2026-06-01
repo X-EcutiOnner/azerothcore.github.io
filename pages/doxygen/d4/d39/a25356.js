@@ -1,7 +1,10 @@
 var a25356 =
 [
-    [ "EjectPassenger", "d4/d39/a25356.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d4/d39/a25356.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d4/d39/a25356.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d4/d39/a25356.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "CheckPeriodicProc", "d4/d39/a25356.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "d4/d39/a25356.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "d4/d39/a25356.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "d4/d39/a25356.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "d4/d39/a25356.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d4/d39/a25356.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d4/d39/a25356.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

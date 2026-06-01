@@ -1,7 +1,8 @@
 var a26476 =
 [
-    [ "CalculateAmount", "d3/dad/a26476.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d3/dad/a26476.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d3/dad/a26476.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d3/dad/a26476.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "CheckProc", "d3/dad/a26476.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "d3/dad/a26476.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "d3/dad/a26476.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "d3/dad/a26476.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "d3/dad/a26476.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

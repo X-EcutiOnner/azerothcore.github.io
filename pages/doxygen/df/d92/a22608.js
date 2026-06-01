@@ -1,5 +1,7 @@
 var a22608 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "df/d92/a22608.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "df/d92/a22608.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "HandleEffectRemove", "df/d92/a22608.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "df/d92/a22608.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "df/d92/a22608.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "df/d92/a22608.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

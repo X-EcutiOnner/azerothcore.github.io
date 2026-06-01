@@ -1,6 +1,6 @@
 var a11456 =
 [
-    [ "WorldSession", "d8/d0c/a11456.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "d8/d0c/a11456.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "d8/d0c/a11456.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "NameQuery", "d8/d0c/a11456.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "d8/d0c/a11456.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "d8/d0c/a11456.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

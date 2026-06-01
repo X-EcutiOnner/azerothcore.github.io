@@ -1,8 +1,6 @@
 var a14364 =
 [
-    [ "npc_zulaman_hostageAI", "de/d21/a14368.html", "de/d21/a14368" ],
-    [ "npc_zulaman_hostage", "df/dad/a14364.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "df/dad/a14364.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "df/dad/a14364.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "df/dad/a14364.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "FilterTargets", "df/dad/a14364.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "df/dad/a14364.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "df/dad/a14364.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

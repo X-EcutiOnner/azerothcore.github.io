@@ -1,6 +1,5 @@
 var a12676 =
 [
-    [ "boss_broodlordAI", "de/de1/a12680.html", "de/de1/a12680" ],
-    [ "boss_broodlord", "d4/dbb/a12676.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "d4/dbb/a12676.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "at_scarshield_infiltrator", "d4/dbb/a12676.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d4/dbb/a12676.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

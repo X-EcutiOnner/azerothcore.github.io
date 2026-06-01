@@ -1,5 +1,7 @@
 var a03047 =
 [
-    [ "quest_commandscript", "d8/d14/a12354.html", "d8/d14/a12354" ],
-    [ "AddSC_quest_commandscript", "d2/de4/a03047.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "StaticVMapCollisionData", "db/d67/a10172.html", "db/d67/a10172" ],
+    [ "DynamicVMapCollisionData", "d6/d23/a10176.html", "d6/d23/a10176" ],
+    [ "MMapData", "d2/d42/a10180.html", "d2/d42/a10180" ],
+    [ "MapCollisionData", "d9/da3/a10184.html", "d9/da3/a10184" ]
 ];

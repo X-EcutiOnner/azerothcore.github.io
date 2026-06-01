@@ -1,5 +1,8 @@
 var a13692 =
 [
-    [ "at_malfurion_stormrage", "d9/d9a/a13692.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d9/d9a/a13692.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "FilterTargets", "d9/d9a/a13692.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d9/d9a/a13692.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d9/d9a/a13692.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d9/d9a/a13692.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d9/d9a/a13692.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

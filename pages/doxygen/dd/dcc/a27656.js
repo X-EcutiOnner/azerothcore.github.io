@@ -1,8 +1,11 @@
 var a27656 =
 [
-    [ "CheckProc", "dd/dcc/a27656.html#afcda3b112699e108e2db6270836fce1b", null ],
-    [ "OnProc", "dd/dcc/a27656.html#ab953f817368120933828d6b3e5e200c0", null ],
-    [ "PrepareAuraScript", "dd/dcc/a27656.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
-    [ "Register", "dd/dcc/a27656.html#abfdd5179215432a3e89ea7b498d49867", null ],
-    [ "Validate", "dd/dcc/a27656.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
+    [ "AccountActionIpLogger", "dd/dcc/a27656.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
+    [ "AccountIPLogAction", "dd/dcc/a27656.html#a9c978dafb71e67b8b278806df507e34b", null ],
+    [ "OnAccountLogin", "dd/dcc/a27656.html#a2952adcd73d775b924671e5a69adaccb", null ],
+    [ "OnEmailChange", "dd/dcc/a27656.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
+    [ "OnFailedAccountLogin", "dd/dcc/a27656.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
+    [ "OnFailedEmailChange", "dd/dcc/a27656.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
+    [ "OnFailedPasswordChange", "dd/dcc/a27656.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
+    [ "OnPasswordChange", "dd/dcc/a27656.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
 ];

@@ -1,6 +1,6 @@
 var a15672 =
 [
-    [ "boss_veknilash", "d2/d81/a15672.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d2/d81/a15672.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d2/d81/a15672.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "npc_magwinAI", "d3/ddc/a15676.html", "d3/ddc/a15676" ],
+    [ "npc_magwin", "d2/d81/a15672.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "d2/d81/a15672.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

@@ -1,13 +1,14 @@
 var a19084 =
 [
-    [ "boss_sister_svalnaAI", "dd/de1/a19084.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "dd/de1/a19084.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "dd/de1/a19084.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "dd/de1/a19084.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "dd/de1/a19084.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "dd/de1/a19084.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "dd/de1/a19084.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "dd/de1/a19084.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "dd/de1/a19084.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "dd/de1/a19084.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "dd/de1/a19084.html#a4a459289a55871990abc0adc4ba8278c", null ],
+    [ "AttackStart", "dd/de1/a19084.html#a3412c5664c1c1354b615e8f798824b91", null ],
+    [ "JustReachedHome", "dd/de1/a19084.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
+    [ "MoveInLineOfSight", "dd/de1/a19084.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
+    [ "MovementInform", "dd/de1/a19084.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
+    [ "Reset", "dd/de1/a19084.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
+    [ "UpdateAI", "dd/de1/a19084.html#a8946357cad01050641bcdf51edce192f", null ],
+    [ "currPipeWP", "dd/de1/a19084.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
+    [ "events", "dd/de1/a19084.html#aa39171910383c74583f24663d6c23f3b", null ],
+    [ "forward", "dd/de1/a19084.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
+    [ "needMove", "dd/de1/a19084.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
 ];

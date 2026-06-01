@@ -1,12 +1,8 @@
 var a13312 =
 [
-    [ "boss_felblood_kaelthas", "da/daa/a13312.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "da/daa/a13312.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "da/daa/a13312.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "da/daa/a13312.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "da/daa/a13312.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "da/daa/a13312.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "da/daa/a13312.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "da/daa/a13312.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "da/daa/a13312.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "npc_dkc1_gothikAI", "da/daa/a13312.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "da/daa/a13312.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "da/daa/a13312.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "da/daa/a13312.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "da/daa/a13312.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

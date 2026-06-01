@@ -1,10 +1,11 @@
 var a08752 =
 [
-    [ "SpellModifier", "df/d50/a08752.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "mask", "df/d50/a08752.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "df/d50/a08752.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "df/d50/a08752.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "spellId", "df/d50/a08752.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "df/d50/a08752.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "df/d50/a08752.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "PackedGuid", "df/d50/a08752.html#a9268f8d34f24ef52369d605f94986a8d", null ],
+    [ "PackedGuid", "df/d50/a08752.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
+    [ "PackedGuid", "df/d50/a08752.html#adf388e273472f2699348c7a4361ebac4", null ],
+    [ "Set", "df/d50/a08752.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
+    [ "Set", "df/d50/a08752.html#ae5d174d63a0b9d33b919f05760290bea", null ],
+    [ "size", "df/d50/a08752.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
+    [ "operator<<", "df/d50/a08752.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "_packedGuid", "df/d50/a08752.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
 ];

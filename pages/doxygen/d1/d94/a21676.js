@@ -1,6 +1,10 @@
 var a21676 =
 [
-    [ "npc_hourglass_of_eternityAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
-    [ "npc_hourglass_of_eternity", "d1/d94/a21676.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d1/d94/a21676.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_Apothecary_HanesAI", "d1/d94/a21676.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d1/d94/a21676.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d1/d94/a21676.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d1/d94/a21676.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d1/d94/a21676.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "d1/d94/a21676.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "d1/d94/a21676.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

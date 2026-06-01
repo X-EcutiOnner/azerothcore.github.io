@@ -1,6 +1,5 @@
 var a05110 =
 [
-    [ "Resolver", "db/da9/a05110.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
-    [ "Resolve", "db/da9/a05110.html#ab190f885c84753fe65405db6fb04bf7c", null ],
-    [ "_impl", "db/da9/a05110.html#a08ed9183a6338606524c44f0fd5695a0", null ]
+    [ "TotemCreated", "d7/d4b/a11480.html", "d7/d4b/a11480" ],
+    [ "TotemDestroyed", "dc/d6f/a11476.html", "dc/d6f/a11476" ]
 ];

@@ -1,12 +1,11 @@
 var a17360 =
 [
-    [ "npc_tortured_riflemanAI", "de/d57/a17360.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "de/d57/a17360.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "de/d57/a17360.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "de/d57/a17360.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "de/d57/a17360.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "de/d57/a17360.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "de/d57/a17360.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "de/d57/a17360.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "de/d57/a17360.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_pos_leader_secondAI", "de/d57/a17360.html#a2ded8591da2548921cd016d592d1f1c8", null ],
+    [ "DoAction", "de/d57/a17360.html#a941d3b42d6a0e58496b724af56fee44a", null ],
+    [ "MovementInform", "de/d57/a17360.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
+    [ "SpellHitTarget", "de/d57/a17360.html#ae630b7b225379831d15a11f66507bc6a", null ],
+    [ "UpdateAI", "de/d57/a17360.html#a640aea9ce4a47dd13d417748e533fc33", null ],
+    [ "barrierGUID", "de/d57/a17360.html#a452c096475581c12bf2f4ccb12448026", null ],
+    [ "events", "de/d57/a17360.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
+    [ "pInstance", "de/d57/a17360.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
 ];

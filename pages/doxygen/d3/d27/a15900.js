@@ -1,6 +1,6 @@
 var a15900 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d3/d27/a15900.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d3/d27/a15900.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d3/d27/a15900.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "npc_qiraj_war_spawnAI", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
+    [ "npc_qiraj_war_spawn", "d3/d27/a15900.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d3/d27/a15900.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

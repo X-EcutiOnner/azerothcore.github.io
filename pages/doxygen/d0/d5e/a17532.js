@@ -1,6 +1,6 @@
 var a17532 =
 [
-    [ "npc_pos_icicle_triggerAI", "d5/d41/a17536.html", "d5/d41/a17536" ],
-    [ "npc_pos_icicle_trigger", "d0/d5e/a17532.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d0/d5e/a17532.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_blood_queen_lana_thelAI", "d5/d41/a17536.html", "d5/d41/a17536" ],
+    [ "npc_blood_queen_lana_thel", "d0/d5e/a17532.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "d0/d5e/a17532.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

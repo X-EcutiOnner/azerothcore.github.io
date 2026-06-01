@@ -1,12 +1,10 @@
 var a02522 =
 [
-    [ "WorldObjectScript", "dd/d60/a10770.html", "dd/d60/a10770" ],
-    [ "WorldObjectHook", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1c", [
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
-      [ "WORLDOBJECTHOOK_END", "d7/da8/a02522.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
-    ] ]
+    [ "MovementGenerator", "df/d24/a10300.html", "df/d24/a10300" ],
+    [ "MovementGeneratorMedium< T, D >", "dc/d36/a10304.html", "dc/d36/a10304" ],
+    [ "MovementGeneratorFactory< Movement >", "dc/d4c/a10308.html", "dc/d4c/a10308" ],
+    [ "IdleMovementFactory", "d4/d39/a10312.html", "d4/d39/a10312" ],
+    [ "sMovementGeneratorRegistry", "d7/da8/a02522.html#aa270c1b96e4671274975a07340ba687a", null ],
+    [ "MovementGeneratorCreator", "d7/da8/a02522.html#ae7a6c44762ef974149bfb8d00247a013", null ],
+    [ "MovementGeneratorRegistry", "d7/da8/a02522.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
 ];

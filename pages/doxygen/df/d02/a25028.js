@@ -1,6 +1,7 @@
 var a25028 =
 [
-    [ "PrepareAuraScript", "df/d02/a25028.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "df/d02/a25028.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "df/d02/a25028.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "CalculateAmount", "df/d02/a25028.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "df/d02/a25028.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "df/d02/a25028.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "df/d02/a25028.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

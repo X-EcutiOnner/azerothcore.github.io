@@ -1,6 +1,6 @@
 var a25852 =
 [
-    [ "HandleSummon", "d4/d05/a25852.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d4/d05/a25852.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d4/d05/a25852.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "PrepareSpellScript", "d4/d05/a25852.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d4/d05/a25852.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d4/d05/a25852.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

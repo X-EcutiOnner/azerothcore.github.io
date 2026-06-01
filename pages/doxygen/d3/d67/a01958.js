@@ -1,8 +1,6 @@
 var a01958 =
 [
-    [ "VisibilitySettingData", "db/d0e/a10246.html", "db/d0e/a10246" ],
-    [ "DynamicVisibilityMgr", "d6/d7b/a10250.html", "d6/d7b/a10250" ],
-    [ "VISIBILITY_SETTINGS_MAX_INTERVAL_NUM", "d3/d67/a01958.html#ae515340ce2037b26a80e4db46e653b59", null ],
-    [ "VISIBILITY_SETTINGS_PLAYER_INTERVAL", "d3/d67/a01958.html#a2733c1a6a4018078df00a4c426661436", null ],
-    [ "VisibilitySettings", "d3/d67/a01958.html#ab01e98c3eef9241e381bb20d29d66cbd", null ]
+    [ "instance_razorfen_kraul", "de/d54/a15300.html", "de/d54/a15300" ],
+    [ "instance_razorfen_kraul::instance_razorfen_kraul_InstanceMapScript", "dc/d2b/a15304.html", "dc/d2b/a15304" ],
+    [ "AddSC_instance_razorfen_kraul", "d3/d67/a01958.html#a27080d618fc76ad4f3d6b9e8ad4cc3c0", null ]
 ];

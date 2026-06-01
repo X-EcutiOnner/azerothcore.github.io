@@ -1,8 +1,6 @@
 var a08188 =
 [
-    [ "cancelTime", "db/d54/a08188.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "db/d54/a08188.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "db/d54/a08188.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "db/d54/a08188.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "db/d54/a08188.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "ConditionSourceInfo", "db/d54/a08188.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "db/d54/a08188.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "db/d54/a08188.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

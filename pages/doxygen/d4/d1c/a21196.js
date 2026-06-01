@@ -1,8 +1,8 @@
 var a21196 =
 [
-    [ "CheckProc", "d4/d1c/a21196.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d4/d1c/a21196.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d4/d1c/a21196.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d4/d1c/a21196.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d4/d1c/a21196.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "npc_azure_sorceror", "d4/d1c/a21196.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d4/d1c/a21196.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d4/d1c/a21196.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d4/d1c/a21196.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d4/d1c/a21196.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

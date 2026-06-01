@@ -1,20 +1,23 @@
 var a01646 =
 [
-    [ "WardenCheck", "d5/d24/a12062.html", "d5/d24/a12062" ],
-    [ "WardenCheckResult", "dd/d80/a12066.html", "dd/d80/a12066" ],
-    [ "WardenCheckMgr", "d5/d30/a12070.html", "d5/d30/a12070" ],
-    [ "sWardenCheckMgr", "df/dee/a01646.html#a367963ecc82479f8bea3aea9e235a85c", null ],
-    [ "WardenActions", "df/dee/a01646.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
-      [ "WARDEN_ACTION_LOG", "df/dee/a01646.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
-      [ "WARDEN_ACTION_KICK", "df/dee/a01646.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
-      [ "WARDEN_ACTION_BAN", "df/dee/a01646.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
-    ] ],
-    [ "WardenCheckTypes", "df/dee/a01646.html#ad353d1b1b229bf72b97440ac296da2f0", [
-      [ "WARDEN_CHECK_MEM_TYPE", "df/dee/a01646.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
-      [ "WARDEN_CHECK_LUA_TYPE", "df/dee/a01646.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
-      [ "WARDEN_CHECK_OTHER_TYPE", "df/dee/a01646.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
-    ] ],
-    [ "MAX_WARDEN_ACTION", "df/dee/a01646.html#afa0b1cff6db4dd71ef500011182f2834", null ],
-    [ "MAX_WARDEN_CHECK_TYPES", "df/dee/a01646.html#a80604a840828219101f07100a7a48dad", null ],
-    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "df/dee/a01646.html#a005df8388201fb598a4eedfeac422fbc", null ]
+    [ "instance_black_temple", "df/de2/a22696.html", "df/de2/a22696" ],
+    [ "instance_black_temple::instance_black_temple_InstanceMapScript", "d5/d03/a22700.html", "d5/d03/a22700" ],
+    [ "spell_black_template_harpooners_mark_aura", "d3/dfc/a22704.html", "d3/dfc/a22704" ],
+    [ "spell_black_template_free_friend", "d8/dde/a22708.html", "d8/dde/a22708" ],
+    [ "spell_black_temple_curse_of_the_bleakheart_aura", "d3/d04/a22712.html", "d3/d04/a22712" ],
+    [ "spell_black_temple_skeleton_shot_aura", "d0/dbc/a22716.html", "d0/dbc/a22716" ],
+    [ "spell_black_temple_wyvern_sting_aura", "d3/d4a/a22720.html", "d3/d4a/a22720" ],
+    [ "spell_black_temple_charge_rage_aura", "d6/d1f/a22724.html", "d6/d1f/a22724" ],
+    [ "spell_black_temple_shadow_inferno_aura", "d0/dbe/a22728.html", "d0/dbe/a22728" ],
+    [ "spell_black_temple_spell_absorption_aura", "de/d32/a22732.html", "de/d32/a22732" ],
+    [ "spell_black_temple_bloodbolt", "de/d7c/a22736.html", "de/d7c/a22736" ],
+    [ "spell_black_temple_consuming_strikes_aura", "d4/d90/a22740.html", "d4/d90/a22740" ],
+    [ "spell_black_temple_curse_of_vitality_aura", "d2/da0/a22744.html", "d2/da0/a22744" ],
+    [ "spell_black_temple_summon_shadowfiends", "d6/df9/a22748.html", "d6/df9/a22748" ],
+    [ "spell_black_temple_l5_arcane_charge", "de/d26/a22752.html", "de/d26/a22752" ],
+    [ "AddSC_instance_black_temple", "df/dee/a01646.html#a15f766c45ce62741982e2a1711514aa8", null ],
+    [ "boundaries", "df/dee/a01646.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "df/dee/a01646.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "df/dee/a01646.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "summonData", "df/dee/a01646.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

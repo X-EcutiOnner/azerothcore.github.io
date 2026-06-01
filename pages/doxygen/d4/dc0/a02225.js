@@ -1,9 +1,12 @@
 var a02225 =
 [
-    [ "GetChaseRange", "d4/dc0/a02225.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "d4/dc0/a02225.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "d4/dc0/a02225.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "d4/dc0/a02225.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "d4/dc0/a02225.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d4/dc0/a02225.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "CliCommandHolder", "d5/d41/a12132.html", "d5/d41/a12132" ],
+    [ "IWorld", "d5/d98/a12136.html", "d5/d98/a12136" ],
+    [ "ServerMessageType", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798f", [
+      [ "SERVER_MSG_SHUTDOWN_TIME", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
+      [ "SERVER_MSG_RESTART_TIME", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
+      [ "SERVER_MSG_STRING", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
+      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
+      [ "SERVER_MSG_RESTART_CANCELLED", "d4/dc0/a02225.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
+    ] ]
 ];

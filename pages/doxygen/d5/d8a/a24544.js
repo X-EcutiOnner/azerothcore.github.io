@@ -1,9 +1,10 @@
 var a24544 =
 [
-    [ "CheckCast", "d5/d8a/a24544.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d5/d8a/a24544.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d5/d8a/a24544.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d5/d8a/a24544.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d5/d8a/a24544.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d5/d8a/a24544.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CheckProc", "d5/d8a/a24544.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d5/d8a/a24544.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d5/d8a/a24544.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d5/d8a/a24544.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d5/d8a/a24544.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d5/d8a/a24544.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d5/d8a/a24544.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

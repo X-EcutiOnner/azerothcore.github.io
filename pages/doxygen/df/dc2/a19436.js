@@ -1,7 +1,8 @@
 var a19436 =
 [
-    [ "OnApply", "df/dc2/a19436.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "df/dc2/a19436.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "df/dc2/a19436.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "df/dc2/a19436.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "HandleAfterCast", "df/dc2/a19436.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "df/dc2/a19436.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "df/dc2/a19436.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "df/dc2/a19436.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "df/dc2/a19436.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

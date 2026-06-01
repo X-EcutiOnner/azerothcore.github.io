@@ -1,7 +1,8 @@
 var a22292 =
 [
-    [ "HandleDummy", "d4/d0d/a22292.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d4/d0d/a22292.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d4/d0d/a22292.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d4/d0d/a22292.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "boss_tavarok", "d4/d0d/a22292.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d4/d0d/a22292.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d4/d0d/a22292.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d4/d0d/a22292.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d4/d0d/a22292.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

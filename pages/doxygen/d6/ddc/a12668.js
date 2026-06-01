@@ -1,6 +1,5 @@
 var a12668 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/df3/a12672.html", "d9/df3/a12672" ],
-    [ "npc_vaelastrasz_the_red", "d6/ddc/a12668.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "d6/ddc/a12668.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "go_father_flame", "d6/ddc/a12668.html#aa23829f617c48bb6da57ff7977886e75", null ],
+    [ "OnStateChanged", "d6/ddc/a12668.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
 ];

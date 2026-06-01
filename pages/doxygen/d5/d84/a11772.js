@@ -1,6 +1,7 @@
 var a11772 =
 [
-    [ "EffectCalcAmountHandler", "d5/d84/a11772.html#a4fe66bbf0433e80b602683a278e3a709", null ],
-    [ "Call", "d5/d84/a11772.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
-    [ "pEffectHandlerScript", "d5/d84/a11772.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
+    [ "attributeMask", "d5/d84/a11772.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d5/d84/a11772.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d5/d84/a11772.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d5/d84/a11772.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

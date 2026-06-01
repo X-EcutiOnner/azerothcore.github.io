@@ -1,6 +1,7 @@
 var a27364 =
 [
-    [ "CheckCast", "d4/da8/a27364.html#aecbecbd753b8ed32d51971a090063ef4", null ],
-    [ "PrepareSpellScript", "d4/da8/a27364.html#a0efb319154edb2c798460de72d6a56ed", null ],
-    [ "Register", "d4/da8/a27364.html#acd6ecb0204dd369c410e465551328f56", null ]
+    [ "HandleDispel", "d4/da8/a27364.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "d4/da8/a27364.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "d4/da8/a27364.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "d4/da8/a27364.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

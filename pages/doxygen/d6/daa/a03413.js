@@ -1,10 +1,9 @@
 var a03413 =
 [
-    [ "instance_ahnkahet", "d8/deb/a16174.html", "d8/deb/a16174" ],
-    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "d7/da2/a16178.html", "d7/da2/a16178" ],
-    [ "spell_shadow_sickle_periodic_damage", "d7/d98/a16182.html", "d7/d98/a16182" ],
-    [ "AddSC_instance_ahnkahet", "d6/daa/a03413.html#a33aed24f64879c91101f7420c4d49cc3", null ],
-    [ "boundaries", "d6/daa/a03413.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d6/daa/a03413.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d6/daa/a03413.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "MapType", "d6/daa/a03413.html#a2a540ae6cb73c9914f0253464b155227", null ],
+    [ "Find", "d6/daa/a03413.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
+    [ "Insert", "d6/daa/a03413.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
+    [ "Remove", "d6/daa/a03413.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
+    [ "RemoveByName", "d6/daa/a03413.html#a9c5298580060e7a6078ffb5f4008c549", null ],
+    [ "PlayerNameMap", "d6/daa/a03413.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
 ];

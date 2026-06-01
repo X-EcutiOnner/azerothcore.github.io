@@ -1,6 +1,7 @@
 var a14076 =
 [
-    [ "npc_rinjiAI", "dc/df8/a14080.html", "dc/df8/a14080" ],
-    [ "npc_rinji", "d7/d77/a14076.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "d7/d77/a14076.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d7/d77/a14076.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d7/d77/a14076.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d7/d77/a14076.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d7/d77/a14076.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

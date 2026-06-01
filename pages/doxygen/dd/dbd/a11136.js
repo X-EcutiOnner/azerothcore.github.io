@@ -1,6 +1,6 @@
 var a11136 =
 [
-    [ "ItemRefundInfo", "dd/dbd/a11136.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "dd/dbd/a11136.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "dd/dbd/a11136.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "GuildSetGuildMaster", "dd/dbd/a11136.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "dd/dbd/a11136.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "dd/dbd/a11136.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

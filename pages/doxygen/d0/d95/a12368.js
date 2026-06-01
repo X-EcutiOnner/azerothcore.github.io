@@ -1,6 +1,6 @@
 var a12368 =
 [
-    [ "npc_burning_spiritAI", "d7/d3a/a12372.html", "d7/d3a/a12372" ],
-    [ "npc_burning_spirit", "d0/d95/a12368.html#a596e654486c82d15d7a37b069a99856d", null ],
-    [ "GetAI", "d0/d95/a12368.html#a3c704a0856d669a1e684e5a858bc4334", null ]
+    [ "CapturedGroups", "d0/d95/a12368.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "d0/d95/a12368.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "d0/d95/a12368.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

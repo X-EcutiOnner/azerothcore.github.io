@@ -1,6 +1,8 @@
 var a23136 =
 [
-    [ "HandleScriptEffect", "d9/d68/a23136.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
-    [ "PrepareSpellScript", "d9/d68/a23136.html#ae80b4ca96692035c399d1621b632fe66", null ],
-    [ "Register", "d9/d68/a23136.html#ac655157c74104a51f045e114fc63a42d", null ]
+    [ "ApplyStun", "d9/d68/a23136.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d9/d68/a23136.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d9/d68/a23136.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d9/d68/a23136.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d9/d68/a23136.html#a66d91a87078c663903cd836344eec867", null ]
 ];

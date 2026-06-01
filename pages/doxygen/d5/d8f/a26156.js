@@ -1,6 +1,7 @@
 var a26156 =
 [
-    [ "PrepareSpellScript", "d5/d8f/a26156.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d5/d8f/a26156.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d5/d8f/a26156.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CalculateSpellAmount", "d5/d8f/a26156.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d5/d8f/a26156.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d5/d8f/a26156.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d5/d8f/a26156.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

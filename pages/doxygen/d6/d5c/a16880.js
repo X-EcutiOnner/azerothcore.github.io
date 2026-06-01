@@ -1,7 +1,6 @@
 var a16880 =
 [
-    [ "npc_toc_priestAI", "d6/d5c/a16880.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d6/d5c/a16880.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d6/d5c/a16880.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d6/d5c/a16880.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_snobold_vassalAI", "de/d2f/a16884.html", "de/d2f/a16884" ],
+    [ "npc_snobold_vassal", "d6/d5c/a16880.html#a243cefbc15931ebbb555936d54583314", null ],
+    [ "GetAI", "d6/d5c/a16880.html#a77976a59f600591454fac197ded613ef", null ]
 ];

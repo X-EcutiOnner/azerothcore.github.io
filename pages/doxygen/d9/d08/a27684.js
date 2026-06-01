@@ -1,7 +1,5 @@
 var a27684 =
 [
-    [ "HandleDispel", "d9/d08/a27684.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d9/d08/a27684.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d9/d08/a27684.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d9/d08/a27684.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "AreaTrigger_at_last_rites", "d9/d08/a27684.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "d9/d08/a27684.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

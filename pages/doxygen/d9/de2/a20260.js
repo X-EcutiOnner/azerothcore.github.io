@@ -1,6 +1,7 @@
 var a20260 =
 [
-    [ "OnPeriodic", "d9/de2/a20260.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d9/de2/a20260.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d9/de2/a20260.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "HandleEffectPeriodic", "d9/de2/a20260.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d9/de2/a20260.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d9/de2/a20260.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d9/de2/a20260.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

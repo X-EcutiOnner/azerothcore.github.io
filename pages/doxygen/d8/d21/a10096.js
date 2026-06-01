@@ -1,9 +1,10 @@
 var a10096 =
 [
-    [ "MapUpdateRequest", "d8/d21/a10096.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d8/d21/a10096.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d8/d21/a10096.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d8/d21/a10096.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d8/d21/a10096.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d8/d21/a10096.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "DoublePosition", "d3/d00/a10100.html", "d3/d00/a10100" ],
+    [ "~AreaBoundary", "d8/d21/a10096.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d8/d21/a10096.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d8/d21/a10096.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d8/d21/a10096.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d8/d21/a10096.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d8/d21/a10096.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

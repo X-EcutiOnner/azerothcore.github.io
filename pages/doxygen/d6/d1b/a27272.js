@@ -1,7 +1,7 @@
 var a27272 =
 [
-    [ "HandleEffectPeriodic", "d6/d1b/a27272.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "d6/d1b/a27272.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "d6/d1b/a27272.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "d6/d1b/a27272.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "HandleAuraApply", "d6/d1b/a27272.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d6/d1b/a27272.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d6/d1b/a27272.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d6/d1b/a27272.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

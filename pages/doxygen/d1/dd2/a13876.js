@@ -1,8 +1,10 @@
 var a13876 =
 [
-    [ "HandleApply", "d1/dd2/a13876.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d1/dd2/a13876.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d1/dd2/a13876.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d1/dd2/a13876.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d1/dd2/a13876.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "npc_professor_phizzlethorpeAI", "d1/dd2/a13876.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "d1/dd2/a13876.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "d1/dd2/a13876.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "d1/dd2/a13876.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "d1/dd2/a13876.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "d1/dd2/a13876.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "d1/dd2/a13876.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

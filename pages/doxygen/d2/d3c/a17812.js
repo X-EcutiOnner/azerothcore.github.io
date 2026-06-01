@@ -1,6 +1,6 @@
 var a17812 =
 [
-    [ "PrepareSpellScript", "d2/d3c/a17812.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d2/d3c/a17812.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d2/d3c/a17812.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
+    [ "npc_muradin_bronzebeard_igb", "d2/d3c/a17812.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "d2/d3c/a17812.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

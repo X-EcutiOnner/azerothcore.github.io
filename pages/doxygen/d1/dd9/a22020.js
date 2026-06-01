@@ -1,7 +1,7 @@
 var a22020 =
 [
-    [ "npc_tirions_gambit_tirionAI", "da/dab/a22024.html", "da/dab/a22024" ],
-    [ "npc_tirions_gambit_tirion", "d1/dd9/a22020.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d1/dd9/a22020.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d1/dd9/a22020.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_wg_demolisher_engineer", "d1/dd9/a22020.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d1/dd9/a22020.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d1/dd9/a22020.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d1/dd9/a22020.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

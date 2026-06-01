@@ -1,11 +1,18 @@
 var a14980 =
 [
-    [ "HandleFinish", "da/d7d/a14980.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
-    [ "HandleScript", "da/d7d/a14980.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
-    [ "Load", "da/d7d/a14980.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
-    [ "PrepareSpellScript", "da/d7d/a14980.html#a9714f48de3982feb245f78efb8008f1b", null ],
-    [ "Register", "da/d7d/a14980.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
-    [ "ThrowNextTorch", "da/d7d/a14980.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
-    [ "Validate", "da/d7d/a14980.html#a026fbf7123f6780459c19ff04b370b08", null ],
-    [ "handled", "da/d7d/a14980.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
+    [ "boss_archimonde", "da/d7d/a14980.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "da/d7d/a14980.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "da/d7d/a14980.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "da/d7d/a14980.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "da/d7d/a14980.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "da/d7d/a14980.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "da/d7d/a14980.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "da/d7d/a14980.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "da/d7d/a14980.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
+    [ "UnleashSoulCharge", "da/d7d/a14980.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "da/d7d/a14980.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "da/d7d/a14980.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "da/d7d/a14980.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "da/d7d/a14980.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "da/d7d/a14980.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

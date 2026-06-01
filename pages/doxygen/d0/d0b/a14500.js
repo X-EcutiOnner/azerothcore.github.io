@@ -1,10 +1,5 @@
 var a14500 =
 [
-    [ "npc_batrider", "d0/d0b/a14500.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d0/d0b/a14500.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d0/d0b/a14500.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d0/d0b/a14500.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d0/d0b/a14500.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d0/d0b/a14500.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d0/d0b/a14500.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "go_brazier_of_madness", "d0/d0b/a14500.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d0/d0b/a14500.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

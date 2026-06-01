@@ -1,5 +1,5 @@
 var a00638 =
 [
-    [ "ACORE_LINKAGE_TYPE_STR", "d1/daa/a00638.html#a498cc8d79612cf645e7afc2ceb4174f3", null ],
-    [ "AZEROTH_PLATFORM_STR", "d1/daa/a00638.html#af7cd76a18bc19a0ec34ac7693e406971", null ]
+    [ "wp_commandscript", "db/dd1/a12428.html", "db/dd1/a12428" ],
+    [ "AddSC_wp_commandscript", "d1/daa/a00638.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

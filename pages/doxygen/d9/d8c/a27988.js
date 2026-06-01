@@ -1,5 +1,5 @@
 var a27988 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d9/d8c/a27988.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d9/d8c/a27988.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "item_only_for_flight", "d9/d8c/a27988.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d9/d8c/a27988.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

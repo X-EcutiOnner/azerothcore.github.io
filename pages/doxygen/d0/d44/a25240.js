@@ -1,6 +1,7 @@
 var a25240 =
 [
-    [ "HandleEffectPeriodic", "d0/d44/a25240.html#a248ba0e88498e36355491b2b89063e17", null ],
-    [ "PrepareAuraScript", "d0/d44/a25240.html#ac9aed434fe7602ef846e9f052402620e", null ],
-    [ "Register", "d0/d44/a25240.html#a039eec910c802276b9e979253141cdee", null ]
+    [ "HandleProc", "d0/d44/a25240.html#a107d4e1650c6044b60ab711b01c607f6", null ],
+    [ "PrepareAuraScript", "d0/d44/a25240.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
+    [ "Register", "d0/d44/a25240.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
+    [ "Validate", "d0/d44/a25240.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
 ];

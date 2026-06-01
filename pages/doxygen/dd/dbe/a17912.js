@@ -1,6 +1,6 @@
 var a17912 =
 [
-    [ "ModAuraValue", "dd/dbe/a17912.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "dd/dbe/a17912.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "dd/dbe/a17912.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "PrepareSpellScript", "dd/dbe/a17912.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "dd/dbe/a17912.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "dd/dbe/a17912.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

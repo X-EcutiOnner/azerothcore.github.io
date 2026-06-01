@@ -1,6 +1,6 @@
 var a17508 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "d1/d80/a17512.html", "d1/d80/a17512" ],
-    [ "npc_pos_deathwhisper_necrolyte", "d9/d7b/a17508.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
-    [ "GetAI", "d9/d7b/a17508.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
+    [ "boss_prince_kelesethAI", "d1/d80/a17512.html", "d1/d80/a17512" ],
+    [ "boss_prince_keleseth_icc", "d9/d7b/a17508.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d9/d7b/a17508.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

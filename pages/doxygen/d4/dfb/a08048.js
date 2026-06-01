@@ -1,7 +1,5 @@
 var a08048 =
 [
-    [ "HyperlinkDataTokenizer", "d4/dfb/a08048.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "d4/dfb/a08048.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "d4/dfb/a08048.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "d4/dfb/a08048.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "IsColorValid", "d4/dfb/a08048.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "d4/dfb/a08048.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

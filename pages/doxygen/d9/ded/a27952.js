@@ -1,5 +1,5 @@
 var a27952 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d9/ded/a27952.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d9/ded/a27952.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "go_massive_seaforium_charge", "d9/ded/a27952.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d9/ded/a27952.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

@@ -1,6 +1,7 @@
 var a14944 =
 [
-    [ "OnApply", "d4/d8f/a14944.html#a30d33268b58507c228a4628031bffca0", null ],
-    [ "PrepareAuraScript", "d4/d8f/a14944.html#a16dc3f52152d63b5512690c761f9915a", null ],
-    [ "Register", "d4/d8f/a14944.html#a6494e4d7277e910ffa3b30c333117f00", null ]
+    [ "boss_azuregosAI", "d8/d92/a14948.html", "d8/d92/a14948" ],
+    [ "boss_azuregos", "d4/d8f/a14944.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d4/d8f/a14944.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d4/d8f/a14944.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

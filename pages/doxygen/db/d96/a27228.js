@@ -1,6 +1,7 @@
 var a27228 =
 [
-    [ "HandleScript", "db/d96/a27228.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "db/d96/a27228.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "db/d96/a27228.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleBonus", "db/d96/a27228.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "db/d96/a27228.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "db/d96/a27228.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "db/d96/a27228.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

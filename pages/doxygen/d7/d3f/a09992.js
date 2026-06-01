@@ -1,6 +1,8 @@
 var a09992 =
 [
-    [ "ServerMailItems", "d7/d3f/a09992.html#a95cb2278da300c6b0385241f5a3950c1", null ],
-    [ "item", "d7/d3f/a09992.html#ae03738595a87a47e831bcbeea6f97d34", null ],
-    [ "itemCount", "d7/d3f/a09992.html#a4475d65dd5721d4af323ae93d15f4170", null ]
+    [ "BossInfo", "d7/d3f/a09992.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d7/d3f/a09992.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d7/d3f/a09992.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d7/d3f/a09992.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d7/d3f/a09992.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

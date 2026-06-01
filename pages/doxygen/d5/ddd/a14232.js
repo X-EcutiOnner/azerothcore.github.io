@@ -1,10 +1,12 @@
 var a14232 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d5/ddd/a14232.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d5/ddd/a14232.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d5/ddd/a14232.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d5/ddd/a14232.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d5/ddd/a14232.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d5/ddd/a14232.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d5/ddd/a14232.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_forest_frog", "d5/ddd/a14232.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "d5/ddd/a14232.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "d5/ddd/a14232.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "d5/ddd/a14232.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "d5/ddd/a14232.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "d5/ddd/a14232.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "d5/ddd/a14232.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "d5/ddd/a14232.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "d5/ddd/a14232.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

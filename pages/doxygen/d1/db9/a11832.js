@@ -1,10 +1,10 @@
 var a11832 =
 [
-    [ "AcoreStringChatBuilder", "d1/db9/a11832.html#a7e280083c80fd119d365649fd4578fc9", null ],
-    [ "operator()", "d1/db9/a11832.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
-    [ "_args", "d1/db9/a11832.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
-    [ "_msgType", "d1/db9/a11832.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
-    [ "_source", "d1/db9/a11832.html#ac5222737ea1b95b6d75afc532838f8be", null ],
-    [ "_target", "d1/db9/a11832.html#ab659b7c7bd6426a023cf8668322327b8", null ],
-    [ "_textId", "d1/db9/a11832.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
+    [ "EffectHook", "d1/db9/a11832.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d1/db9/a11832.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d1/db9/a11832.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d1/db9/a11832.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d1/db9/a11832.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d1/db9/a11832.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d1/db9/a11832.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

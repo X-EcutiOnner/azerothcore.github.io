@@ -1,5 +1,7 @@
 var a08772 =
 [
-    [ "PlayerClassInfo", "df/ddb/a08772.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "df/ddb/a08772.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "UsedPos", "df/ddb/a08772.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "df/ddb/a08772.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "df/ddb/a08772.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "df/ddb/a08772.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

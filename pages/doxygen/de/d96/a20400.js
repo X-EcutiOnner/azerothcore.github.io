@@ -1,7 +1,8 @@
 var a20400 =
 [
-    [ "npc_ulduar_icicle", "de/d96/a20400.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
-    [ "UpdateAI", "de/d96/a20400.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "de/d96/a20400.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "de/d96/a20400.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "npc_ulduar_mimiron_rocket", "de/d96/a20400.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "de/d96/a20400.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "de/d96/a20400.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "de/d96/a20400.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "de/d96/a20400.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

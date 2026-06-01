@@ -1,8 +1,9 @@
 var a09516 =
 [
-    [ "PlayerListSearcher", "d1/d98/a09516.html#a82520531c26a6c9645956739538cd286", null ],
-    [ "Visit", "d1/d98/a09516.html#a5cec285c685fce6ac215ac0cde740168", null ],
-    [ "Visit", "d1/d98/a09516.html#a87980d05e12069a42baea27ee0e937d3", null ],
-    [ "i_check", "d1/d98/a09516.html#ad49658237a1e6bf54852d4fc127ea660", null ],
-    [ "i_phaseMask", "d1/d98/a09516.html#ae61e586baa621b0dbd15d453d1320091", null ]
+    [ "VisibleChangesNotifier", "d1/d98/a09516.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d1/d98/a09516.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d1/d98/a09516.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d1/d98/a09516.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d1/d98/a09516.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d1/d98/a09516.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

@@ -1,17 +1,9 @@
 var a22528 =
 [
-    [ "OPvPCapturePointZM_Graveyard", "d2/df4/a22528.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
-    [ "CanTalkTo", "d2/df4/a22528.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
-    [ "ChangeState", "d2/df4/a22528.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
-    [ "FillInitialWorldStates", "d2/df4/a22528.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
-    [ "GetGraveyardState", "d2/df4/a22528.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
-    [ "HandleDropFlag", "d2/df4/a22528.html#a87fb109fcc88099406d9f189333aef7c", null ],
-    [ "HandleGossipOption", "d2/df4/a22528.html#a132a6beb8a265dc614763a5f8e510173", null ],
-    [ "HandleOpenGo", "d2/df4/a22528.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
-    [ "SetBeaconState", "d2/df4/a22528.html#a7d7fc3041c753918c6e13e49a691674a", null ],
-    [ "Update", "d2/df4/a22528.html#a19d09f296598b83079eb2545b3d2caff", null ],
-    [ "UpdateTowerState", "d2/df4/a22528.html#ae907325621c0c0a40fc1e7761b81e832", null ],
-    [ "m_BothControllingFactionId", "d2/df4/a22528.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
-    [ "m_FlagCarrierGUID", "d2/df4/a22528.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
-    [ "m_GraveyardState", "d2/df4/a22528.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
+    [ "boss_mother_shahraz", "d2/df4/a22528.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d2/df4/a22528.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d2/df4/a22528.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d2/df4/a22528.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d2/df4/a22528.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d2/df4/a22528.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

@@ -1,8 +1,6 @@
 var a01355 =
 [
-    [ "CorpseUpdateFieldFlags", "d8/d4e/a01355.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "d8/d4e/a01355.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "d8/d4e/a01355.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "d8/d4e/a01355.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "d8/d4e/a01355.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "instance_hellfire_ramparts", "de/d4f/a23244.html", "de/d4f/a23244" ],
+    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "d4/d2c/a23248.html", "d4/d2c/a23248" ],
+    [ "AddSC_instance_hellfire_ramparts", "d8/d4e/a01355.html#a4172290a7e1e8ffcbf19519225978acf", null ]
 ];

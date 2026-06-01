@@ -1,11 +1,6 @@
 var a11084 =
 [
-    [ "DestroyItem", "da/de1/a11084.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
-    [ "Read", "da/de1/a11084.html#a9f7fa7614db176262437478b4d92e9f9", null ],
-    [ "Bag", "da/de1/a11084.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
-    [ "Count", "da/de1/a11084.html#af18875aa85f12191a47d97380f459c45", null ],
-    [ "Data1", "da/de1/a11084.html#a34fa30122f101e15de6252c289b82680", null ],
-    [ "Data2", "da/de1/a11084.html#a227470a5932383e0ab7b9a369dfb3445", null ],
-    [ "Data3", "da/de1/a11084.html#a019a891e4906ce9dafef6e276d635df7", null ],
-    [ "Slot", "da/de1/a11084.html#af8274f1ded5565dc0f79e28948825ea2", null ]
+    [ "GuildBankRemainingWithdrawMoney", "da/de1/a11084.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
+    [ "Write", "da/de1/a11084.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
+    [ "RemainingWithdrawMoney", "da/de1/a11084.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
 ];

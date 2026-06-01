@@ -1,10 +1,10 @@
 var a24616 =
 [
-    [ "Absorb", "d6/d6a/a24616.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
-    [ "CalculateAmount", "d6/d6a/a24616.html#aed6e525b71f18dafb6f458bc255a6495", null ],
-    [ "Load", "d6/d6a/a24616.html#af73fcf4a73ba60e214c045471569f7b0", null ],
-    [ "PrepareAuraScript", "d6/d6a/a24616.html#a884927612b8ab2712a057da72f8180c6", null ],
-    [ "Register", "d6/d6a/a24616.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
-    [ "Validate", "d6/d6a/a24616.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
-    [ "absorbPct", "d6/d6a/a24616.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
+    [ "HandleEffectApply", "d6/d6a/a24616.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "d6/d6a/a24616.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "d6/d6a/a24616.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "d6/d6a/a24616.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "d6/d6a/a24616.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "d6/d6a/a24616.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "d6/d6a/a24616.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

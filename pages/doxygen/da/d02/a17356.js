@@ -1,6 +1,6 @@
 var a17356 =
 [
-    [ "npc_tortured_riflemanAI", "de/d57/a17360.html", "de/d57/a17360" ],
-    [ "npc_tortured_rifleman", "da/d02/a17356.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "da/d02/a17356.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "npc_pos_leader_secondAI", "de/d57/a17360.html", "de/d57/a17360" ],
+    [ "npc_pos_leader_second", "da/d02/a17356.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "da/d02/a17356.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

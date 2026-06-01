@@ -1,4 +1,7 @@
 var a28872 =
 [
-    [ "SetType", "d7/d35/a28872.html#ad2fd1d002f4a95b778a8d5ba819eba42", null ]
+    [ "Id", "d7/d35/a28872.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "d7/d35/a28872.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "d7/d35/a28872.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "d7/d35/a28872.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

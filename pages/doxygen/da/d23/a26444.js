@@ -1,6 +1,8 @@
 var a26444 =
 [
-    [ "CheckProc", "da/d23/a26444.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "da/d23/a26444.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "da/d23/a26444.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "HandleProc", "da/d23/a26444.html#a95553bc0c973be3a2e3911602e4067c8", null ],
+    [ "PrepareAuraScript", "da/d23/a26444.html#a99ea6943a3e8d4105b4187d8ea1a298d", null ],
+    [ "Register", "da/d23/a26444.html#aad50f19b0c854b7f9c5d81cd2e86bdfa", null ],
+    [ "Validate", "da/d23/a26444.html#aad1324e94920136258c419094cfca4c3", null ],
+    [ "_cooldownEnd", "da/d23/a26444.html#a4f19a965ed8ddab712633abdb761d210", null ]
 ];

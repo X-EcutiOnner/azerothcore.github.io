@@ -1,6 +1,6 @@
 var a23960 =
 [
-    [ "npc_aeranasAI", "d6/d6b/a23964.html", "d6/d6b/a23964" ],
-    [ "npc_aeranas", "d3/d42/a23960.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d3/d42/a23960.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "PrepareSpellScript", "d3/d42/a23960.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "d3/d42/a23960.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "d3/d42/a23960.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

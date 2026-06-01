@@ -1,9 +1,5 @@
 var a00602 =
 [
-    [ "DatabaseScript", "d7/d7b/a10650.html", "d7/d7b/a10650" ],
-    [ "DatabaseHook", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_END", "d5/d0a/a00602.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
-    ] ]
+    [ "modify_commandscript", "d5/d2d/a12324.html", "d5/d2d/a12324" ],
+    [ "AddSC_modify_commandscript", "d5/d0a/a00602.html#a9cbb6ad3c630cbeb9ba39b4552f72e87", null ]
 ];

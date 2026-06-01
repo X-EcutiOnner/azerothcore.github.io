@@ -1,8 +1,6 @@
 var a11164 =
 [
-    [ "PlayObjectSound", "d8/da5/a11164.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d8/da5/a11164.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d8/da5/a11164.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d8/da5/a11164.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d8/da5/a11164.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "ResetFailedNotify", "d8/da5/a11164.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "d8/da5/a11164.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "d8/da5/a11164.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

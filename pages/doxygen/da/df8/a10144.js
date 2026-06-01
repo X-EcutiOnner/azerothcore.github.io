@@ -1,8 +1,8 @@
 var a10144 =
 [
-    [ "GetAINotifyDelay", "da/df8/a10144.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
-    [ "GetReqMoveDistSq", "da/df8/a10144.html#a58687646bbf83723e8ad2925ee50452c", null ],
-    [ "GetVisibilityNotifyDelay", "da/df8/a10144.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
-    [ "Update", "da/df8/a10144.html#aa95443d7050249a44cad2f16fa0026e5", null ],
-    [ "visibilitySettingsIndex", "da/df8/a10144.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
+    [ "PositionFullTerrainStatus", "da/df8/a10144.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "da/df8/a10144.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "da/df8/a10144.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "da/df8/a10144.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "da/df8/a10144.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

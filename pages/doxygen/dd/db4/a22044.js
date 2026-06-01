@@ -1,6 +1,6 @@
 var a22044 =
 [
-    [ "HandleDummy", "dd/db4/a22044.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "dd/db4/a22044.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "dd/db4/a22044.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_wg_siege_machineAI", "d0/d40/a22048.html", "d0/d40/a22048" ],
+    [ "npc_wg_siege_machine", "dd/db4/a22044.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "dd/db4/a22044.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

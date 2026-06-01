@@ -1,7 +1,7 @@
 var a16140 =
 [
-    [ "npc_lakota_windsongAI", "d3/d8c/a16140.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "d3/d8c/a16140.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "d3/d8c/a16140.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "d3/d8c/a16140.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_ahnkahar_nerubian", "d3/d8c/a16140.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d3/d8c/a16140.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d3/d8c/a16140.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d3/d8c/a16140.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

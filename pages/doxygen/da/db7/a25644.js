@@ -1,6 +1,7 @@
 var a25644 =
 [
-    [ "CheckCast", "da/db7/a25644.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "da/db7/a25644.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "da/db7/a25644.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleDummy", "da/db7/a25644.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
+    [ "PrepareSpellScript", "da/db7/a25644.html#abde4e8528f1af9a595fb32741e397397", null ],
+    [ "Register", "da/db7/a25644.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
+    [ "Validate", "da/db7/a25644.html#af1658e856195d22042de5beab1eec212", null ]
 ];

@@ -1,13 +1,15 @@
 var a14804 =
 [
-    [ "go_firework_show", "d6/d09/a14804.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d6/d09/a14804.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d6/d09/a14804.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d6/d09/a14804.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d6/d09/a14804.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d6/d09/a14804.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d6/d09/a14804.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d6/d09/a14804.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d6/d09/a14804.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d6/d09/a14804.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_midsummer_bonfire", "d6/d09/a14804.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "d6/d09/a14804.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "d6/d09/a14804.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "d6/d09/a14804.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "d6/d09/a14804.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "d6/d09/a14804.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "d6/d09/a14804.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "d6/d09/a14804.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "d6/d09/a14804.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "d6/d09/a14804.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "d6/d09/a14804.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "d6/d09/a14804.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

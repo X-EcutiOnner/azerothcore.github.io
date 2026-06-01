@@ -1,6 +1,5 @@
 var a00647 =
 [
-    [ "LinkedListElement", "d3/dc0/a05502.html", "d3/dc0/a05502" ],
-    [ "LinkedListHead", "d0/dac/a05506.html", "d0/dac/a05506" ],
-    [ "LinkedListHead::Iterator< _Ty >", "da/d88/a05510.html", "da/d88/a05510" ]
+    [ "arena_commandscript", "dd/d14/a12184.html", "dd/d14/a12184" ],
+    [ "AddSC_arena_commandscript", "d3/d8e/a00647.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

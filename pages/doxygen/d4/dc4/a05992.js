@@ -1,8 +1,6 @@
 var a05992 =
 [
-    [ "UpdateResult", "d4/dc4/a05992.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "d4/dc4/a05992.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "d4/dc4/a05992.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "d4/dc4/a05992.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "d4/dc4/a05992.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "Append", "d4/dc4/a05992.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "d4/dc4/a05992.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d4/dc4/a05992.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

@@ -1,7 +1,6 @@
 var a18164 =
 [
-    [ "DamageGunship", "d6/d35/a18164.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d6/d35/a18164.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d6/d35/a18164.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d6/d35/a18164.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "HandleScript", "d6/d35/a18164.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d6/d35/a18164.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d6/d35/a18164.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

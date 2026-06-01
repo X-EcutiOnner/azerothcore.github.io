@@ -1,10 +1,9 @@
 var a01349 =
 [
-    [ "QEmote", "dc/dfb/a09918.html", "dc/dfb/a09918" ],
-    [ "GossipTextOption", "d9/d45/a09922.html", "d9/d45/a09922" ],
-    [ "GossipText", "db/d15/a09926.html", "db/d15/a09926" ],
-    [ "PageTextLocale", "d3/d6f/a09930.html", "d3/d6f/a09930" ],
-    [ "NpcTextLocale", "d9/d8b/a09934.html", "d9/d8b/a09934" ],
-    [ "MAX_GOSSIP_TEXT_EMOTES", "de/d6c/a01349.html#a705783094711e028814c1c59a16c2c4f", null ],
-    [ "MAX_GOSSIP_TEXT_OPTIONS", "de/d6c/a01349.html#a114c9636000e930cd1dc1ef7e444814f", null ]
+    [ "instance_blood_furnace", "d9/d5f/a23204.html", "d9/d5f/a23204" ],
+    [ "instance_blood_furnace::instance_blood_furnace_InstanceMapScript", "d9/d2f/a23208.html", "d9/d2f/a23208" ],
+    [ "AddSC_instance_blood_furnace", "de/d6c/a01349.html#af803a0e2dfb7f53b6682e02b90bef865", null ],
+    [ "creatureData", "de/d6c/a01349.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "de/d6c/a01349.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameobjectData", "de/d6c/a01349.html#a845a92716bd40c99a93eb0715cd737b0", null ]
 ];

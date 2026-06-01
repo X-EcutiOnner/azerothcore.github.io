@@ -1,6 +1,6 @@
 var a24596 =
 [
-    [ "CheckTargets", "d2/dee/a24596.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d2/dee/a24596.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d2/dee/a24596.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "CalculateAmount", "d2/dee/a24596.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
+    [ "PrepareAuraScript", "d2/dee/a24596.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
+    [ "Register", "d2/dee/a24596.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
 ];

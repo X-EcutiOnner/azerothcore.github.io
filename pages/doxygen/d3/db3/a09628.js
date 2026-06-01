@@ -1,8 +1,10 @@
 var a09628 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d3/db3/a09628.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d3/db3/a09628.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d3/db3/a09628.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d3/db3/a09628.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d3/db3/a09628.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d3/db3/a09628.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d3/db3/a09628.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d3/db3/a09628.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d3/db3/a09628.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d3/db3/a09628.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d3/db3/a09628.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d3/db3/a09628.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

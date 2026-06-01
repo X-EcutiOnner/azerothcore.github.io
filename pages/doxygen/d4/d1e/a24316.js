@@ -1,6 +1,7 @@
 var a24316 =
 [
-    [ "HandleDamageCalc", "d4/d1e/a24316.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d4/d1e/a24316.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d4/d1e/a24316.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "HandleProc", "d4/d1e/a24316.html#a60def76554cd5cf94d84ec1240d651dc", null ],
+    [ "PrepareAuraScript", "d4/d1e/a24316.html#ae78484c4af6ddfcd6bf60df191f9db48", null ],
+    [ "Register", "d4/d1e/a24316.html#a276526f7f988ce579dc67dc37eebbe87", null ],
+    [ "Validate", "d4/d1e/a24316.html#a65986abd9db0dcfb70c8c8b21ff208ac", null ]
 ];

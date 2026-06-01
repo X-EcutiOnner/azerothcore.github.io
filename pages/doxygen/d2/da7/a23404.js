@@ -1,7 +1,7 @@
 var a23404 =
 [
-    [ "CalcPeriodic", "d2/da7/a23404.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d2/da7/a23404.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d2/da7/a23404.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d2/da7/a23404.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "AfterApply", "d2/da7/a23404.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/da7/a23404.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/da7/a23404.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/da7/a23404.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

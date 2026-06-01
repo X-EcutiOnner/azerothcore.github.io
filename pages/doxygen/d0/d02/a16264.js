@@ -1,11 +1,6 @@
 var a16264 =
 [
-    [ "boss_amanitar", "d0/d02/a16264.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d0/d02/a16264.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d0/d02/a16264.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d0/d02/a16264.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d0/d02/a16264.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d0/d02/a16264.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d0/d02/a16264.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d0/d02/a16264.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "boss_krik_thirAI", "dd/d79/a16268.html", "dd/d79/a16268" ],
+    [ "boss_krik_thir", "d0/d02/a16264.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d0/d02/a16264.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

@@ -1,7 +1,5 @@
 var a22884 =
 [
-    [ "CalculateAmount", "d8/d0d/a22884.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d8/d0d/a22884.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d8/d0d/a22884.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d8/d0d/a22884.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "go_strange_pool", "d8/d0d/a22884.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d8/d0d/a22884.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

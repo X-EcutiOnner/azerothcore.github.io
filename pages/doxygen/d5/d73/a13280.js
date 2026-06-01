@@ -1,8 +1,5 @@
 var a13280 =
 [
-    [ "npc_barnesAI", "da/d7b/a13284.html", "da/d7b/a13284" ],
-    [ "npc_barnes", "d5/d73/a13280.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d5/d73/a13280.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d5/d73/a13280.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d5/d73/a13280.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d5/d73/a13280.html#ad083ab5aa00902987e18f4e9423a705a", null ],
+    [ "ProcessEvent", "d5/d73/a13280.html#a8dbe1537ea00412a6fa366891204d645", null ]
 ];

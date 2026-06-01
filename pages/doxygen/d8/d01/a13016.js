@@ -1,8 +1,6 @@
 var a13016 =
 [
-    [ "npc_lava_spawn", "d8/d01/a13016.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d8/d01/a13016.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d8/d01/a13016.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d8/d01/a13016.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d8/d01/a13016.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "HandleApply", "d8/d01/a13016.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d8/d01/a13016.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d8/d01/a13016.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

@@ -1,7 +1,6 @@
 var a26400 =
 [
-    [ "HandleProc", "d8/da8/a26400.html#a296b2622253bae04cb797cad703bd2f1", null ],
-    [ "PrepareAuraScript", "d8/da8/a26400.html#af4f7eca08c657fe0195b29c9e59b886b", null ],
-    [ "Register", "d8/da8/a26400.html#af09d94a90a098ef0ec69653d0393d868", null ],
-    [ "Validate", "d8/da8/a26400.html#a6da970621e4d1a898be940a09023e7cd", null ]
+    [ "CheckCast", "d8/da8/a26400.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "d8/da8/a26400.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "d8/da8/a26400.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

@@ -1,19 +1,8 @@
 var a11856 =
 [
-    [ "CreatureTextMgr", "d4/d3b/a11856.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
-    [ "~CreatureTextMgr", "d4/d3b/a11856.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
-    [ "GetLocalizedChatString", "d4/d3b/a11856.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
-    [ "GetRangeForChatType", "d4/d3b/a11856.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
-    [ "GetTextMap", "d4/d3b/a11856.html#a5237341864a3082126bed703d68312b2", null ],
-    [ "instance", "d4/d3b/a11856.html#a92acbdab30a8942859e01526144b9989", null ],
-    [ "LoadCreatureTextLocales", "d4/d3b/a11856.html#a826a3cd2e991c358a98fced5512297dd", null ],
-    [ "LoadCreatureTexts", "d4/d3b/a11856.html#a129039b5a7d2de067656cd6e47de43dd", null ],
-    [ "SendChat", "d4/d3b/a11856.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
-    [ "SendChatPacket", "d4/d3b/a11856.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
-    [ "SendEmote", "d4/d3b/a11856.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
-    [ "SendNonChatPacket", "d4/d3b/a11856.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
-    [ "SendSound", "d4/d3b/a11856.html#aa36b6dd5010eea049973122bec4fceb1", null ],
-    [ "TextExist", "d4/d3b/a11856.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
-    [ "mLocaleTextMap", "d4/d3b/a11856.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
-    [ "mTextMap", "d4/d3b/a11856.html#ad25faab453d0f5d6270797eeeb5e2e40", null ]
+    [ "EffectHandler", "d4/d3b/a11856.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d4/d3b/a11856.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d4/d3b/a11856.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d4/d3b/a11856.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d4/d3b/a11856.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

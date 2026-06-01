@@ -1,6 +1,10 @@
 var a20876 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "dd/d45/a20876.html#ad770f3c3e63240e50c965f277b2324ea", null ],
-    [ "DamageTaken", "dd/d45/a20876.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "dd/d45/a20876.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "npc_dragonflayer_forge_master", "dd/d45/a20876.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "dd/d45/a20876.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "dd/d45/a20876.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "dd/d45/a20876.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "dd/d45/a20876.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "dd/d45/a20876.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "dd/d45/a20876.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

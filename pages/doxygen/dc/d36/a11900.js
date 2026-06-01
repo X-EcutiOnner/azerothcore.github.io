@@ -1,7 +1,6 @@
 var a11900 =
 [
-    [ "FieldIndices", "dc/d36/a11900.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "dc/d36/a11900.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "dc/d36/a11900.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "dc/d36/a11900.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "EffectPeriodicHandler", "dc/d36/a11900.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "dc/d36/a11900.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "dc/d36/a11900.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

@@ -1,6 +1,6 @@
 var a18368 =
 [
-    [ "HandleScript", "d5/dc6/a18368.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "d5/dc6/a18368.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "d5/dc6/a18368.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "npc_spinestalkerAI", "dd/da3/a18372.html", "dd/da3/a18372" ],
+    [ "npc_spinestalker", "d5/dc6/a18368.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d5/dc6/a18368.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

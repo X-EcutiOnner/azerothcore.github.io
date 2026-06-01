@@ -1,7 +1,11 @@
 var a23684 =
 [
-    [ "AfterApply", "d0/da7/a23684.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d0/da7/a23684.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d0/da7/a23684.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d0/da7/a23684.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "npc_aeranasAI", "d0/da7/a23684.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d0/da7/a23684.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d0/da7/a23684.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d0/da7/a23684.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d0/da7/a23684.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d0/da7/a23684.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d0/da7/a23684.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d0/da7/a23684.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

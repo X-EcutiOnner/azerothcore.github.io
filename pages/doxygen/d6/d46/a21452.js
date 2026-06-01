@@ -1,9 +1,6 @@
 var a21452 =
 [
-    [ "npc_azure_sorcerorAI", "d6/d46/a21452.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d6/d46/a21452.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d6/d46/a21452.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d6/d46/a21452.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d6/d46/a21452.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d6/d46/a21452.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "CheckCast", "d6/d46/a21452.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d6/d46/a21452.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d6/d46/a21452.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

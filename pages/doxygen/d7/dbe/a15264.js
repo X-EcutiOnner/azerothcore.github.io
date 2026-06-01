@@ -1,6 +1,12 @@
 var a15264 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d2/d78/a15268.html", "d2/d78/a15268" ],
-    [ "npc_cos_stratholme_citizien", "d7/dbe/a15264.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d7/dbe/a15264.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d7/dbe/a15264.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "d7/dbe/a15264.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "d7/dbe/a15264.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d7/dbe/a15264.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d7/dbe/a15264.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d7/dbe/a15264.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "d7/dbe/a15264.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "d7/dbe/a15264.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "d7/dbe/a15264.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

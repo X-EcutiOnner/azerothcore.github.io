@@ -1,11 +1,9 @@
 var a14776 =
 [
-    [ "npc_the_etymidian", "db/d3c/a14776.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "db/d3c/a14776.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "db/d3c/a14776.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "db/d3c/a14776.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "db/d3c/a14776.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "db/d3c/a14776.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "db/d3c/a14776.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "db/d3c/a14776.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_love_in_air_snivel", "db/d3c/a14776.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "db/d3c/a14776.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "db/d3c/a14776.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "db/d3c/a14776.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "db/d3c/a14776.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "db/d3c/a14776.html#a548db6245ef875ec47279246e437934c", null ]
 ];

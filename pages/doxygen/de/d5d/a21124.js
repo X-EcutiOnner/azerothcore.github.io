@@ -1,13 +1,12 @@
 var a21124 =
 [
-    [ "npc_frenzied_worgenAI", "de/d5d/a21124.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
-    [ "DoAction", "de/d5d/a21124.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
-    [ "JustDied", "de/d5d/a21124.html#a33b723baef468ef79e67aaadba1b2691", null ],
-    [ "JustEngagedWith", "de/d5d/a21124.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
-    [ "JustReachedHome", "de/d5d/a21124.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
-    [ "MoveInLineOfSight", "de/d5d/a21124.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
-    [ "Reset", "de/d5d/a21124.html#adccac21b6eff18db096eb79dab4a27a0", null ],
-    [ "UpdateAI", "de/d5d/a21124.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
-    [ "events", "de/d5d/a21124.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
-    [ "m_pInstance", "de/d5d/a21124.html#a425720ce11714b145685f6d9c78a3dc1", null ]
+    [ "npc_ichor_globule", "de/d5d/a21124.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "de/d5d/a21124.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "de/d5d/a21124.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "de/d5d/a21124.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "de/d5d/a21124.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "de/d5d/a21124.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "de/d5d/a21124.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "de/d5d/a21124.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "de/d5d/a21124.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

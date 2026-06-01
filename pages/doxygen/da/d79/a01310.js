@@ -1,20 +1,23 @@
 var a01310 =
 [
-    [ "CreatureTextEntry", "d0/d4c/a11962.html", "d0/d4c/a11962" ],
-    [ "CreatureTextLocale", "d6/d4f/a11966.html", "d6/d4f/a11966" ],
-    [ "CreatureTextId", "db/d54/a11970.html", "db/d54/a11970" ],
-    [ "CreatureTextMgr", "d7/d70/a11974.html", "d7/d70/a11974" ],
-    [ "CreatureTextLocalizer< Builder >", "d8/dd5/a11978.html", "d8/dd5/a11978" ],
-    [ "sCreatureTextMgr", "da/d79/a01310.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "da/d79/a01310.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "da/d79/a01310.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "da/d79/a01310.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "LocaleCreatureTextMap", "da/d79/a01310.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "da/d79/a01310.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "AddSC_achievement_scripts", "da/d79/a01310.html#a5091d6f933800f3313078304ad5c38ca", null ],
+    [ "AddSC_action_ip_logger", "da/d79/a01310.html#a530be5efb251d5ca58e97804e48ad953", null ],
+    [ "AddSC_areatrigger_scripts", "da/d79/a01310.html#a992f2da647f1f8748c7c9239b52079ad", null ],
+    [ "AddSC_chat_log", "da/d79/a01310.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
+    [ "AddSC_emerald_dragons", "da/d79/a01310.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
+    [ "AddSC_generic_creature", "da/d79/a01310.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
+    [ "AddSC_go_scripts", "da/d79/a01310.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
+    [ "AddSC_guards", "da/d79/a01310.html#acba582cbc90c710c629dd30926acdca4", null ],
+    [ "AddSC_item_scripts", "da/d79/a01310.html#a3e28ebf5a580887bb117f786689a34c6", null ],
+    [ "AddSC_npc_innkeeper", "da/d79/a01310.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "AddSC_npc_professions", "da/d79/a01310.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
+    [ "AddSC_npc_stave_of_ancients", "da/d79/a01310.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
+    [ "AddSC_npc_taxi", "da/d79/a01310.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
+    [ "AddSC_npcs_special", "da/d79/a01310.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
+    [ "AddSC_player_scripts", "da/d79/a01310.html#a1f476a8466c12651b57fd55bf13b9617", null ],
+    [ "AddSC_scourge_invasion", "da/d79/a01310.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
+    [ "AddSC_server_mail", "da/d79/a01310.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
+    [ "AddSC_suns_reach_reclamation", "da/d79/a01310.html#ae3e186d64e39803c404f1afb2144557b", null ],
+    [ "AddSC_transport_zeppelins", "da/d79/a01310.html#a29051596b0a3382db98c6b72f7ff3173", null ],
+    [ "AddWorldScripts", "da/d79/a01310.html#a5e7b18db76511725a47c51e9ce748575", null ]
 ];

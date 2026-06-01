@@ -1,8 +1,8 @@
 var a25656 =
 [
-    [ "CheckProc", "d2/deb/a25656.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
-    [ "HandleProc", "d2/deb/a25656.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
-    [ "PrepareAuraScript", "d2/deb/a25656.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
-    [ "Register", "d2/deb/a25656.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
-    [ "Validate", "d2/deb/a25656.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
+    [ "HandleDummy", "d2/deb/a25656.html#a57897df074b7766c022526e082b4a13b", null ],
+    [ "Load", "d2/deb/a25656.html#a47cbade67be124496c6194391ab51794", null ],
+    [ "PrepareSpellScript", "d2/deb/a25656.html#af5e5a22976adfa5588ca8e054e19a669", null ],
+    [ "Register", "d2/deb/a25656.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
+    [ "Validate", "d2/deb/a25656.html#a97d037267e385e0d3fd80543a5ddb366", null ]
 ];

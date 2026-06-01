@@ -1,10 +1,9 @@
 var a18076 =
 [
-    [ "npc_gunship_gunnerAI", "df/d82/a18076.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "df/d82/a18076.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "df/d82/a18076.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "df/d82/a18076.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "df/d82/a18076.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "df/d82/a18076.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "df/d82/a18076.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "CountTargets", "df/d82/a18076.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "df/d82/a18076.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "df/d82/a18076.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "df/d82/a18076.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "df/d82/a18076.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "df/d82/a18076.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

@@ -1,6 +1,7 @@
 var a18864 =
 [
-    [ "HandleScript", "df/d4f/a18864.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "df/d4f/a18864.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "df/d4f/a18864.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "npc_frost_freeze_trapAI", "df/d4f/a18864.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "df/d4f/a18864.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "df/d4f/a18864.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "df/d4f/a18864.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

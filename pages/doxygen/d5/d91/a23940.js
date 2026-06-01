@@ -1,6 +1,6 @@
 var a23940 =
 [
-    [ "go_apexis_relic", "d5/d91/a23940.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
-    [ "OnGossipHello", "d5/d91/a23940.html#ae8f7167ba5b973881e32d604691dc15a", null ],
-    [ "OnGossipSelect", "d5/d91/a23940.html#a025cc7cc9c69f0eb461445170972ab52", null ]
+    [ "PrepareSpellScript", "d5/d91/a23940.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d5/d91/a23940.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d5/d91/a23940.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

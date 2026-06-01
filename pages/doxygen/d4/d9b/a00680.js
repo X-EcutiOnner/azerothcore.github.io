@@ -1,4 +1,5 @@
 var a00680 =
 [
-    [ "ScriptRegistry< AchievementScript >", "d4/d9b/a00680.html#ac6173262cca5c83f03287161a75446ab", null ]
+    [ "lookup_commandscript", "d6/d17/a12300.html", "d6/d17/a12300" ],
+    [ "AddSC_lookup_commandscript", "d4/d9b/a00680.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

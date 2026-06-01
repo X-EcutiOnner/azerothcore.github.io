@@ -1,6 +1,6 @@
 var a21224 =
 [
-    [ "HandleOnHit", "d4/d0c/a21224.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d4/d0c/a21224.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d4/d0c/a21224.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_khunok_the_behemothAI", "dd/da6/a21228.html", "dd/da6/a21228" ],
+    [ "npc_khunok_the_behemoth", "d4/d0c/a21224.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d4/d0c/a21224.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

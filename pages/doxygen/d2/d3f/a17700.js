@@ -1,6 +1,9 @@
 var a17700 =
 [
-    [ "instance_gundrak_InstanceMapScript", "d8/d85/a17704.html", "d8/d85/a17704" ],
-    [ "instance_gundrak", "d2/d3f/a17700.html#ad6acbbcd96740a011f2a72a63fb211c3", null ],
-    [ "GetInstanceScript", "d2/d3f/a17700.html#a738b4ea54d1e0d7b1db90b9cc3a9c83c", null ]
+    [ "CheckProc", "d2/d3f/a17700.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d2/d3f/a17700.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d2/d3f/a17700.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d2/d3f/a17700.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d2/d3f/a17700.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d2/d3f/a17700.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

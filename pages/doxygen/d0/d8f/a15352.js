@@ -1,8 +1,7 @@
 var a15352 =
 [
-    [ "Load", "d0/d8f/a15352.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d0/d8f/a15352.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d0/d8f/a15352.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d0/d8f/a15352.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d0/d8f/a15352.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "boss_kurinnaxx", "d0/d8f/a15352.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d0/d8f/a15352.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d0/d8f/a15352.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d0/d8f/a15352.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

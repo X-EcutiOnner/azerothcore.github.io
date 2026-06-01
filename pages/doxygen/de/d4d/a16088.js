@@ -1,7 +1,6 @@
 var a16088 =
 [
-    [ "npc_steward_of_time", "de/d4d/a16088.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "de/d4d/a16088.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "de/d4d/a16088.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "de/d4d/a16088.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "HandleSummon", "de/d4d/a16088.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "de/d4d/a16088.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "de/d4d/a16088.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

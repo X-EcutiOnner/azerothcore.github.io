@@ -1,5 +1,5 @@
 var a27928 =
 [
-    [ "achievement_bg_ic_mowed_down", "d3/df4/a27928.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d3/df4/a27928.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "go_table_theka", "d3/df4/a27928.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d3/df4/a27928.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

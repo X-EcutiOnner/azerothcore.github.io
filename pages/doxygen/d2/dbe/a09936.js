@@ -1,24 +1,9 @@
 var a09936 =
 [
-    [ "LootItem", "d2/dbe/a09936.html#a35e11d01d30ca234c533f6bb0bdb6748", null ],
-    [ "LootItem", "d2/dbe/a09936.html#a6c7ebacba676e5e109eab812546c91c2", null ],
-    [ "AddAllowedLooter", "d2/dbe/a09936.html#a1912ff0623715b0e5266379fcf8d7170", null ],
-    [ "AllowedForPlayer", "d2/dbe/a09936.html#a594fbfb2bdf1506dc9aa4433f1c83202", null ],
-    [ "GetAllowedLooters", "d2/dbe/a09936.html#ab84a909c705155c4e9aa1b59fd38ae52", null ],
-    [ "allowedGUIDs", "d2/dbe/a09936.html#a04c38e7bde56fff42ed3fdd59fa2ec3c", null ],
-    [ "conditions", "d2/dbe/a09936.html#ac89b265105cce50b87fae1e75cf23b4f", null ],
-    [ "count", "d2/dbe/a09936.html#a8b08275cd4e1ebabc389fc2e933b1be5", null ],
-    [ "follow_loot_rules", "d2/dbe/a09936.html#a3dfa14b4a36b8750892b9cf6f3814ec9", null ],
-    [ "freeforall", "d2/dbe/a09936.html#ae9f49e27fd81c235fdc2c754918f55c4", null ],
-    [ "groupid", "d2/dbe/a09936.html#a25903e281fe742404fd8ddef6c3c53bd", null ],
-    [ "is_blocked", "d2/dbe/a09936.html#a0e1dbe84cef1c5f3111b08f25dbb859d", null ],
-    [ "is_counted", "d2/dbe/a09936.html#af50758cf8e8ad77e42197b13d849ae08", null ],
-    [ "is_looted", "d2/dbe/a09936.html#a9021fa353f7538706349702498a4e778", null ],
-    [ "is_underthreshold", "d2/dbe/a09936.html#a4d18c53f68ff454b7521e8afcab85b24", null ],
-    [ "itemid", "d2/dbe/a09936.html#a03aad2576badecebacfb0f4658fdbf4c", null ],
-    [ "itemIndex", "d2/dbe/a09936.html#a688e1b5f1a3ae5b4215b330bc2969777", null ],
-    [ "needs_quest", "d2/dbe/a09936.html#a37ee3823a2144ed57f754d826fcbc093", null ],
-    [ "randomPropertyId", "d2/dbe/a09936.html#a665a75643f49ee93f469b7b7bc52a928", null ],
-    [ "randomSuffix", "d2/dbe/a09936.html#aec6043508b50b16f04e9b4fbf8742677", null ],
-    [ "rollWinnerGUID", "d2/dbe/a09936.html#a2d10d36b949b8adc0c463912b3f04768", null ]
+    [ "BroadcastTextID", "d2/dbe/a09936.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d2/dbe/a09936.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d2/dbe/a09936.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d2/dbe/a09936.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d2/dbe/a09936.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d2/dbe/a09936.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

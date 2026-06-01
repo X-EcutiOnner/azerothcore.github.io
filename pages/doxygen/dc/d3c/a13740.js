@@ -1,7 +1,6 @@
 var a13740 =
 [
-    [ "CheckCast", "dc/d3c/a13740.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "dc/d3c/a13740.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "dc/d3c/a13740.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "dc/d3c/a13740.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "FilterTargets", "dc/d3c/a13740.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
+    [ "PrepareSpellScript", "dc/d3c/a13740.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
+    [ "Register", "dc/d3c/a13740.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
 ];

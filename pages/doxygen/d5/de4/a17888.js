@@ -1,8 +1,9 @@
 var a17888 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "dd/d30/a17892.html", "dd/d30/a17892" ],
-    [ "npc_muradin_bronzebeard_icc", "d5/de4/a17888.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d5/de4/a17888.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d5/de4/a17888.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d5/de4/a17888.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "CheckAreaTarget", "d5/de4/a17888.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d5/de4/a17888.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d5/de4/a17888.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d5/de4/a17888.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d5/de4/a17888.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d5/de4/a17888.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

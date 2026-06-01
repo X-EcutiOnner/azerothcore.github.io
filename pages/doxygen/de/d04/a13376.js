@@ -1,7 +1,7 @@
 var a13376 =
 [
-    [ "HandleScriptEffect", "de/d04/a13376.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "de/d04/a13376.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "de/d04/a13376.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "de/d04/a13376.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "CheckCast", "de/d04/a13376.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
+    [ "HandleScriptEffect", "de/d04/a13376.html#af265f0bba7028f45763a7f9afea2d051", null ],
+    [ "PrepareSpellScript", "de/d04/a13376.html#a27518fd5482e65e0324100057e747d68", null ],
+    [ "Register", "de/d04/a13376.html#a07789d7d092eb1b6633200442466c52b", null ]
 ];

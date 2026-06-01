@@ -1,7 +1,8 @@
 var a21924 =
 [
-    [ "HandleScript", "d4/db5/a21924.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d4/db5/a21924.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d4/db5/a21924.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d4/db5/a21924.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_time_lost_proto_drakeAI", "d4/db5/a21924.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d4/db5/a21924.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d4/db5/a21924.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d4/db5/a21924.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d4/db5/a21924.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

@@ -1,10 +1,6 @@
 var a11568 =
 [
-    [ "TriggeredByAuraSpellData", "df/d3e/a11568.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "df/d3e/a11568.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "df/d3e/a11568.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "df/d3e/a11568.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "df/d3e/a11568.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "df/d3e/a11568.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "df/d3e/a11568.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "WorldSessionFilter", "df/d3e/a11568.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "df/d3e/a11568.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "df/d3e/a11568.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

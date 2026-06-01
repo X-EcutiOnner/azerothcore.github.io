@@ -1,47 +1,42 @@
 var a01889 =
 [
-    [ "MailSender", "dc/d25/a10046.html", "dc/d25/a10046" ],
-    [ "MailReceiver", "de/dff/a10050.html", "de/dff/a10050" ],
-    [ "MailDraft", "df/d38/a10054.html", "df/d38/a10054" ],
-    [ "MailItemInfo", "d4/d9c/a10058.html", "d4/d9c/a10058" ],
-    [ "Mail", "d0/d65/a10062.html", "d0/d65/a10062" ],
-    [ "MAIL_BODY_ITEM_TEMPLATE", "d9/d9b/a01889.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
-    [ "MAX_MAIL_ITEMS", "d9/d9b/a01889.html#a92d79b5b2210d828abe28a8834a50770", null ],
-    [ "MailItemInfoVec", "d9/d9b/a01889.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
-    [ "MailCheckMask", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
-      [ "MAIL_CHECK_MASK_NONE", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
-      [ "MAIL_CHECK_MASK_READ", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
-      [ "MAIL_CHECK_MASK_RETURNED", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
-      [ "MAIL_CHECK_MASK_COPIED", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
-      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
-      [ "MAIL_CHECK_MASK_HAS_BODY", "d9/d9b/a01889.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
+    [ "npc_lakota_windsong", "d3/d9b/a16004.html", "d3/d9b/a16004" ],
+    [ "npc_lakota_windsong::npc_lakota_windsongAI", "d7/dc2/a16008.html", "d7/dc2/a16008" ],
+    [ "npc_paoka_swiftmountain", "db/dd6/a16012.html", "db/dd6/a16012" ],
+    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "d5/d7c/a16016.html", "d5/d7c/a16016" ],
+    [ "npc_plucky", "d3/d1a/a16020.html", "d3/d1a/a16020" ],
+    [ "npc_plucky::npc_pluckyAI", "d9/d26/a16024.html", "d9/d26/a16024" ],
+    [ "spell_panther_cage_key", "d2/d8b/a16028.html", "d2/d8b/a16028" ],
+    [ "GOSSIP_P", "d9/d9b/a01889.html#abe76f0bf6cd768a947537874b5a56330", null ],
+    [ "Lakota", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
+      [ "SAY_LAKO_START", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
+      [ "SAY_LAKO_LOOK_OUT", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
+      [ "SAY_LAKO_HERE_COME", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
+      [ "SAY_LAKO_MORE", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
+      [ "SAY_LAKO_END", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
+      [ "QUEST_FREE_AT_LAST", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
+      [ "NPC_GRIM_BANDIT", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
+      [ "ID_AMBUSH_1", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
+      [ "ID_AMBUSH_2", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
+      [ "ID_AMBUSH_3", "d9/d9b/a01889.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
     ] ],
-    [ "MailMessageType", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
-      [ "MAIL_NORMAL", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
-      [ "MAIL_AUCTION", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
-      [ "MAIL_CREATURE", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
-      [ "MAIL_GAMEOBJECT", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
-      [ "MAIL_CALENDAR", "d9/d9b/a01889.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
+    [ "Packa", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102", [
+      [ "SAY_START", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_WYVERN", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
+      [ "SAY_COMPLETE", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "QUEST_HOMEWARD", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
+      [ "NPC_WYVERN", "d9/d9b/a01889.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
     ] ],
-    [ "MailShowFlags", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
-      [ "MAIL_SHOW_UNK0", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
-      [ "MAIL_SHOW_DELETE", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
-      [ "MAIL_SHOW_AUCTION", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
-      [ "MAIL_SHOW_UNK2", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
-      [ "MAIL_SHOW_RETURN", "d9/d9b/a01889.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
+    [ "PantherCage", "d9/d9b/a01889.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
+      [ "NPC_ENRAGED_PANTHER", "d9/d9b/a01889.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
+      [ "QUEST_HYPERCAPACITOR_GIZMO", "d9/d9b/a01889.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
     ] ],
-    [ "MailState", "d9/d9b/a01889.html#a38d587a785c6fa4c4342574233684a20", [
-      [ "MAIL_STATE_UNCHANGED", "d9/d9b/a01889.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
-      [ "MAIL_STATE_CHANGED", "d9/d9b/a01889.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
-      [ "MAIL_STATE_DELETED", "d9/d9b/a01889.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
+    [ "Plucky", "d9/d9b/a01889.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
+      [ "QUEST_SCOOP", "d9/d9b/a01889.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
+      [ "SPELL_PLUCKY_HUMAN", "d9/d9b/a01889.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
+      [ "SPELL_PLUCKY_CHICKEN", "d9/d9b/a01889.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
     ] ],
-    [ "MailStationery", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094", [
-      [ "MAIL_STATIONERY_TEST", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
-      [ "MAIL_STATIONERY_DEFAULT", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
-      [ "MAIL_STATIONERY_GM", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
-      [ "MAIL_STATIONERY_AUCTION", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
-      [ "MAIL_STATIONERY_VAL", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
-      [ "MAIL_STATIONERY_CHR", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
-      [ "MAIL_STATIONERY_ORP", "d9/d9b/a01889.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
-    ] ]
+    [ "AddSC_thousand_needles", "d9/d9b/a01889.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
+    [ "BanditLoc", "d9/d9b/a01889.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
+    [ "WyvernLoc", "d9/d9b/a01889.html#aca7b1639e471cc34f43cd5768265d02a", null ]
 ];

@@ -1,6 +1,16 @@
 var a21756 =
 [
-    [ "SACActivateEvent", "d5/df5/a21756.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "d5/df5/a21756.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "d5/df5/a21756.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_tirions_gambit_tirionAI", "d5/df5/a21756.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d5/df5/a21756.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d5/df5/a21756.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d5/df5/a21756.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d5/df5/a21756.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d5/df5/a21756.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d5/df5/a21756.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d5/df5/a21756.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d5/df5/a21756.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "WaypointReached", "d5/df5/a21756.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_eventOver", "d5/df5/a21756.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "d5/df5/a21756.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d5/df5/a21756.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

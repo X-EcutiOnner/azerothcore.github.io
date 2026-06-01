@@ -1,6 +1,5 @@
 var a20560 =
 [
-    [ "OnPeriodic", "d8/d9b/a20560.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d8/d9b/a20560.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d8/d9b/a20560.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d8/d9b/a20560.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d8/d9b/a20560.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

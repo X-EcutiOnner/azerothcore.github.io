@@ -1,6 +1,6 @@
 var a17468 =
 [
-    [ "boss_krickAI", "df/dca/a17472.html", "df/dca/a17472" ],
-    [ "boss_krick", "db/dcc/a17468.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "db/dcc/a17468.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "HandlePeriodic", "db/dcc/a17468.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "db/dcc/a17468.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "db/dcc/a17468.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

@@ -1,33 +1,5 @@
 var a03230 =
 [
-    [ "npc_dragonflayer_forge_master", "de/da7/a20854.html", "de/da7/a20854" ],
-    [ "npc_enslaved_proto_drake", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "spell_uk_second_wind", "dd/d3f/a20862.html", "dd/d3f/a20862" ],
-    [ "spell_ticking_time_bomb_aura", "da/d1f/a20866.html", "da/d1f/a20866" ],
-    [ "EnslavedProtoDrake", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "SPELL_REND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "EVENT_REND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "EVENT_PRE_LAND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
-      [ "EVENT_LAND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
-      [ "TYPE_PROTODRAKE_AT", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "POINT_TAKE_OFF", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
-      [ "POINT_PRE_LAND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
-      [ "POINT_LAND", "df/dc9/a03230.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
-    ] ],
-    [ "SecondWind", "df/dc9/a03230.html#aad6ea2c0a908d8b75abb381baf0c2045", [
-      [ "SPELL_SECOND_WIND_TRIGGER", "df/dc9/a03230.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
-    ] ],
-    [ "TickingTimeBomb", "df/dc9/a03230.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "df/dc9/a03230.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
-    ] ],
-    [ "AddSC_utgarde_keep", "df/dc9/a03230.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "df/dc9/a03230.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
-    [ "protodrakeLandPos", "df/dc9/a03230.html#a1a48021562fd573e8e0e970124788afd", null ],
-    [ "protodrakePreLandPos", "df/dc9/a03230.html#aa19590ca509e049e2c92b727b48b6649", null ],
-    [ "protodrakeTakeOffPos", "df/dc9/a03230.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
+    [ "HyperlinkDataTokenizer", "d0/db0/a08148.html", "d0/db0/a08148" ],
+    [ "HYPERLINK_DATA_DELIMITER", "df/dc9/a03230.html#a306ae32a610f410bc85994a15699c867", null ]
 ];

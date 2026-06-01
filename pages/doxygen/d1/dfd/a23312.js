@@ -1,7 +1,6 @@
 var a23312 =
 [
-    [ "boss_hydromancer_thespia", "d1/dfd/a23312.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d1/dfd/a23312.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d1/dfd/a23312.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d1/dfd/a23312.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_porung", "d1/dfd/a23312.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d1/dfd/a23312.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d1/dfd/a23312.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

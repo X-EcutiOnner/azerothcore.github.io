@@ -1,6 +1,8 @@
 var a19488 =
 [
-    [ "boss_grobbulusAI", "dd/d36/a19492.html", "dd/d36/a19492" ],
-    [ "boss_grobbulus", "d6/de1/a19488.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "d6/de1/a19488.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "npc_scion_of_eternity", "d6/de1/a19488.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d6/de1/a19488.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d6/de1/a19488.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d6/de1/a19488.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d6/de1/a19488.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

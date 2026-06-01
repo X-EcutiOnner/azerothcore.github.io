@@ -1,7 +1,10 @@
 var a15096 =
 [
-    [ "HandleProc", "d1/db8/a15096.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d1/db8/a15096.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d1/db8/a15096.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d1/db8/a15096.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "boss_meathookAI", "d1/db8/a15096.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d1/db8/a15096.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d1/db8/a15096.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d1/db8/a15096.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d1/db8/a15096.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d1/db8/a15096.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d1/db8/a15096.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

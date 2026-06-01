@@ -1,6 +1,6 @@
 var a16524 =
 [
-    [ "npc_onyx_flamecallerAI", "dd/d1c/a16528.html", "dd/d1c/a16528" ],
-    [ "npc_onyx_flamecaller", "de/d16/a16524.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "de/d16/a16524.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "HandleScript", "de/d16/a16524.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "de/d16/a16524.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "de/d16/a16524.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

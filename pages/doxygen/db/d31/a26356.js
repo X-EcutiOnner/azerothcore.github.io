@@ -1,6 +1,9 @@
 var a26356 =
 [
-    [ "CheckProc", "db/d31/a26356.html#adb21bbda83cf0fdc30e64cabc0fb0d1c", null ],
-    [ "PrepareAuraScript", "db/d31/a26356.html#a5fd08c4ff5ba410458a67eb91e612267", null ],
-    [ "Register", "db/d31/a26356.html#a13c9e5a0a2a6945dfa5a4425be08703d", null ]
+    [ "spell_pal_judgement", "db/d31/a26356.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "db/d31/a26356.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "db/d31/a26356.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "db/d31/a26356.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "db/d31/a26356.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "db/d31/a26356.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

@@ -1,7 +1,6 @@
 var a06208 =
 [
-    [ "ReactorAI", "df/df2/a06208.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "df/df2/a06208.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "df/df2/a06208.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "df/df2/a06208.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "DirectoryEntry", "df/df2/a06208.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "df/df2/a06208.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "df/df2/a06208.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

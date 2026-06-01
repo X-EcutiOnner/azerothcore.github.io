@@ -1,6 +1,6 @@
 var a17064 =
 [
-    [ "boss_eydisAI", "d4/d6e/a17068.html", "d4/d6e/a17068" ],
-    [ "boss_eydis", "da/dce/a17064.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "da/dce/a17064.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "instance_drak_tharon_keep", "da/dce/a17064.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "da/dce/a17064.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "da/dce/a17064.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

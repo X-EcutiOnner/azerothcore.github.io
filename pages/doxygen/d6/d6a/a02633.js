@@ -1,18 +1,20 @@
 var a02633 =
 [
-    [ "AuctionHouseScript", "de/dbd/a10614.html", "de/dbd/a10614" ],
-    [ "AuctionHouseHook", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9", [
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_ADD", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e", null ],
-      [ "AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9", null ],
-      [ "AUCTIONHOUSEHOOK_END", "d6/d6a/a02633.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc", null ]
+    [ "CreatureTextEntry", "d3/d20/a11980.html", "d3/d20/a11980" ],
+    [ "CreatureTextLocale", "da/d29/a11984.html", "da/d29/a11984" ],
+    [ "CreatureTextId", "d5/d2a/a11988.html", "d5/d2a/a11988" ],
+    [ "CreatureTextMgr", "df/d0e/a11992.html", "df/d0e/a11992" ],
+    [ "CreatureTextLocalizer< Builder >", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
+    [ "sCreatureTextMgr", "d6/d6a/a02633.html#a2dc428da007cefe454220dcb355a1cde", null ],
+    [ "CreatureTextGroup", "d6/d6a/a02633.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
+    [ "CreatureTextHolder", "d6/d6a/a02633.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
+    [ "CreatureTextMap", "d6/d6a/a02633.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
+    [ "LocaleCreatureTextMap", "d6/d6a/a02633.html#ab39b2d82775a84108d19ed009bd14747", null ],
+    [ "CreatureTextRange", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052", [
+      [ "TEXT_RANGE_NORMAL", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
+      [ "TEXT_RANGE_AREA", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
+      [ "TEXT_RANGE_ZONE", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
+      [ "TEXT_RANGE_MAP", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
+      [ "TEXT_RANGE_WORLD", "d6/d6a/a02633.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
     ] ]
 ];

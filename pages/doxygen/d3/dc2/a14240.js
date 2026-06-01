@@ -1,8 +1,9 @@
 var a14240 =
 [
-    [ "npc_the_scourge_cauldronAI", "d3/dc2/a14240.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d3/dc2/a14240.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d3/dc2/a14240.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d3/dc2/a14240.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d3/dc2/a14240.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_zulaman_hostageAI", "d3/dc2/a14240.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "d3/dc2/a14240.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "d3/dc2/a14240.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "d3/dc2/a14240.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "d3/dc2/a14240.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "d3/dc2/a14240.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

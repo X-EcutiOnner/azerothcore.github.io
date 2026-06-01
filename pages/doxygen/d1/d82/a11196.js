@@ -1,7 +1,9 @@
 var a11196 =
 [
-    [ "StopMirrorTimer", "d1/d82/a11196.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
-    [ "StopMirrorTimer", "d1/d82/a11196.html#a25f930852c7124cdfbf73687e62a26d1", null ],
-    [ "Write", "d1/d82/a11196.html#ae99dab4406316eac99a6e0e0146d879e", null ],
-    [ "Timer", "d1/d82/a11196.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
+    [ "SwapItem", "d1/d82/a11196.html#a603871bfd69a2bcc2083de350f48875a", null ],
+    [ "Read", "d1/d82/a11196.html#a475122a155c96446ecad1b92ef5c7a19", null ],
+    [ "DestinationBag", "d1/d82/a11196.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
+    [ "DestinationSlot", "d1/d82/a11196.html#a0cf0b21ebfccb843ee23831e17982081", null ],
+    [ "SourceBag", "d1/d82/a11196.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
+    [ "SourceSlot", "d1/d82/a11196.html#ab080d55f63eb07c8db090123260bee23", null ]
 ];

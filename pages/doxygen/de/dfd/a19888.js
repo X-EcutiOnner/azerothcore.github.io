@@ -1,6 +1,6 @@
 var a19888 =
 [
-    [ "PrepareSpellScript", "de/dfd/a19888.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "de/dfd/a19888.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "de/dfd/a19888.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandlePeriodic", "de/dfd/a19888.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "de/dfd/a19888.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "de/dfd/a19888.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

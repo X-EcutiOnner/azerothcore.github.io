@@ -1,6 +1,6 @@
 var a14840 =
 [
-    [ "HandleDummy", "d6/df4/a14840.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "d6/df4/a14840.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "d6/df4/a14840.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "HandleAfterEffectApply", "d6/df4/a14840.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d6/df4/a14840.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d6/df4/a14840.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

@@ -1,9 +1,8 @@
 var a05392 =
 [
-    [ "SessionKeyGenerator", "da/dc0/a05392.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
-    [ "Generate", "da/dc0/a05392.html#a2162fde8dbb84fc165faedaafed706b5", null ],
-    [ "o0", "da/dc0/a05392.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
-    [ "o0it", "da/dc0/a05392.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
-    [ "o1", "da/dc0/a05392.html#a462354aed63797a90fc228e6399cb740", null ],
-    [ "o2", "da/dc0/a05392.html#a617205c872f2163026d511809776a775", null ]
+    [ "ComputeCell", "da/dc0/a05392.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "da/dc0/a05392.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "da/dc0/a05392.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "da/dc0/a05392.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "da/dc0/a05392.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

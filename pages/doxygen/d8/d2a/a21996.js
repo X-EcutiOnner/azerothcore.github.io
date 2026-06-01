@@ -1,6 +1,6 @@
 var a21996 =
 [
-    [ "npc_llod_genericAI", "d3/ddf/a22000.html", "d3/ddf/a22000" ],
-    [ "npc_llod_generic", "d8/d2a/a21996.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "d8/d2a/a21996.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleDamage", "d8/d2a/a21996.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d8/d2a/a21996.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d8/d2a/a21996.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

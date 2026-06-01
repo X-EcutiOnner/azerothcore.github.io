@@ -1,9 +1,10 @@
 var a08844 =
 [
-    [ "EntryPointData", "d7/dc3/a08844.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d7/dc3/a08844.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d7/dc3/a08844.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d7/dc3/a08844.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d7/dc3/a08844.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d7/dc3/a08844.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "SpellModifier", "d7/dc3/a08844.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "d7/dc3/a08844.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "d7/dc3/a08844.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "d7/dc3/a08844.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "d7/dc3/a08844.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "d7/dc3/a08844.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "d7/dc3/a08844.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

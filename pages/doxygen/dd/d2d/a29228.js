@@ -1,4 +1,5 @@
 var a29228 =
 [
-    [ "Pattern", "dd/d2d/a29228.html#abcd404cd99f0a41b266db09ddae4da68", null ]
+    [ "auraHasDisableProcAttr", "dd/d2d/a29228.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
+    [ "triggeringSpellIsProcDisabled", "dd/d2d/a29228.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
 ];

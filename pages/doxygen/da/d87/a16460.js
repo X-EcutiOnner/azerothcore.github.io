@@ -1,7 +1,7 @@
 var a16460 =
 [
-    [ "HandleHit", "da/d87/a16460.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "da/d87/a16460.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "da/d87/a16460.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "da/d87/a16460.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandleScriptEffect", "da/d87/a16460.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "da/d87/a16460.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "da/d87/a16460.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "da/d87/a16460.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

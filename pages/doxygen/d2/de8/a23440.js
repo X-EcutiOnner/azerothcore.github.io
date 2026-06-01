@@ -1,13 +1,9 @@
 var a23440 =
 [
-    [ "boss_olm_the_summoner", "d2/de8/a23440.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "d2/de8/a23440.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "d2/de8/a23440.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "d2/de8/a23440.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "d2/de8/a23440.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "d2/de8/a23440.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "d2/de8/a23440.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "d2/de8/a23440.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "d2/de8/a23440.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "d2/de8/a23440.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "HandleEffectApply", "d2/de8/a23440.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d2/de8/a23440.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d2/de8/a23440.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d2/de8/a23440.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d2/de8/a23440.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d2/de8/a23440.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

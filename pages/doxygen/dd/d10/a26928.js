@@ -1,6 +1,9 @@
 var a26928 =
 [
-    [ "CheckDummy", "dd/d10/a26928.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "dd/d10/a26928.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "dd/d10/a26928.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "HandleAfterHit", "dd/d10/a26928.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "dd/d10/a26928.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "dd/d10/a26928.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "dd/d10/a26928.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "dd/d10/a26928.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "dd/d10/a26928.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

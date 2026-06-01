@@ -1,4 +1,5 @@
 var a00632 =
 [
-    [ "ScriptRegistry< ModuleScript >", "d4/d2a/a00632.html#a7749cbcc2b6820dc30c515ebb6cefe36", null ]
+    [ "list_commandscript", "df/de1/a12296.html", "df/de1/a12296" ],
+    [ "AddSC_list_commandscript", "d4/d2a/a00632.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

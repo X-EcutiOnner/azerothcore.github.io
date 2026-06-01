@@ -1,7 +1,10 @@
 var a25276 =
 [
-    [ "HandleApplyEffect", "df/ddd/a25276.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "df/ddd/a25276.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "df/ddd/a25276.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "df/ddd/a25276.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "CheckProc", "df/ddd/a25276.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "df/ddd/a25276.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "df/ddd/a25276.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "df/ddd/a25276.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "df/ddd/a25276.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "df/ddd/a25276.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "df/ddd/a25276.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

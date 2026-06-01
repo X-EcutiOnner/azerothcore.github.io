@@ -1,5 +1,6 @@
 var a28096 =
 [
-    [ "go_seer_of_zebhalak", "d6/d37/a28096.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d6/d37/a28096.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "npc_taxi", "d6/d37/a28096.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d6/d37/a28096.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d6/d37/a28096.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

@@ -1,10 +1,9 @@
 var a07600 =
 [
-    [ "BattlegroundBE", "d3/dc9/a07600.html#a4b29ebe897de3109b165607de957fae2", null ],
-    [ "FillInitialWorldStates", "d3/dc9/a07600.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
-    [ "HandleAreaTrigger", "d3/dc9/a07600.html#a6216e25edd0057b9599efc787045505e", null ],
-    [ "HandlePlayerUnderMap", "d3/dc9/a07600.html#ab004984d4b882e72471b0b5a8fca9632", null ],
-    [ "SetupBattleground", "d3/dc9/a07600.html#a2eed1be4672539674e092edb6a6a9627", null ],
-    [ "StartingEventCloseDoors", "d3/dc9/a07600.html#a2379fda6296fcdbde68fad362e858621", null ],
-    [ "StartingEventOpenDoors", "d3/dc9/a07600.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
+    [ "Rank", "d3/dc9/a07600.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "d3/dc9/a07600.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "d3/dc9/a07600.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "d3/dc9/a07600.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "d3/dc9/a07600.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "d3/dc9/a07600.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

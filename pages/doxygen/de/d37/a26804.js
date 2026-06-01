@@ -1,6 +1,6 @@
 var a26804 =
 [
-    [ "FilterTargets", "de/d37/a26804.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "de/d37/a26804.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "de/d37/a26804.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "OnApply", "de/d37/a26804.html#a50ced6d5a475ccad9429dfbb05130394", null ],
+    [ "PrepareAuraScript", "de/d37/a26804.html#abd02e129b1201449d473a66aea77d569", null ],
+    [ "Register", "de/d37/a26804.html#a8c09775f642335252c6e548900dc9d3a", null ]
 ];

@@ -1,8 +1,5 @@
 var a11092 =
 [
-    [ "SellItem", "db/d20/a11092.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
-    [ "Read", "db/d20/a11092.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
-    [ "Count", "db/d20/a11092.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
-    [ "ItemGuid", "db/d20/a11092.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
-    [ "VendorGuid", "db/d20/a11092.html#a13200b200096a11e93a6d23fd6122378", null ]
+    [ "SocketEnchantID", "db/d20/a11092.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "db/d20/a11092.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

@@ -1,5 +1,5 @@
 var a11056 =
 [
-    [ "ResetInstances", "d3/d7a/a11056.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "d3/d7a/a11056.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "GuildLeave", "d3/d7a/a11056.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "d3/d7a/a11056.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

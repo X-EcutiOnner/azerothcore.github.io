@@ -1,7 +1,8 @@
 var a24540 =
 [
-    [ "CheckClass", "da/db3/a24540.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "da/db3/a24540.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "da/db3/a24540.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "da/db3/a24540.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "CheckProc", "da/db3/a24540.html#ab960abbaa9d2728ff1c471e491844e2f", null ],
+    [ "HandleProc", "da/db3/a24540.html#a23746c343ca01160b73822e3457514d5", null ],
+    [ "PrepareAuraScript", "da/db3/a24540.html#a2ddb4cb53c7aabb8e1e09eb1036fafe0", null ],
+    [ "Register", "da/db3/a24540.html#a78dbfa8833c8f8958e8e9a38cc9812a7", null ],
+    [ "Validate", "da/db3/a24540.html#a715de16d0510d8b2cbd9e281c3e3274a", null ]
 ];

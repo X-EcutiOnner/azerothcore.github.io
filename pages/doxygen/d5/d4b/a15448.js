@@ -1,5 +1,6 @@
 var a15448 =
 [
-    [ "pathId", "d5/d4b/a15448.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
-    [ "spellId", "d5/d4b/a15448.html#af495f984d5b81baeaa61ddca127a9508", null ]
+    [ "FilterTargets", "d5/d4b/a15448.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d5/d4b/a15448.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d5/d4b/a15448.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

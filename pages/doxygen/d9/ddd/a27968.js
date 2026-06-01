@@ -1,5 +1,5 @@
 var a27968 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d9/ddd/a27968.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d9/ddd/a27968.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "go_duskwither_spire_power_source", "d9/ddd/a27968.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d9/ddd/a27968.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

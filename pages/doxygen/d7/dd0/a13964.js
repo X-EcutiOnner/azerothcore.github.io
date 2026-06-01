@@ -1,6 +1,16 @@
 var a13964 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "df/d00/a13968.html", "df/d00/a13968" ],
-    [ "instance_the_stockade", "d7/dd0/a13964.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "d7/dd0/a13964.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d7/dd0/a13964.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d7/dd0/a13964.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d7/dd0/a13964.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d7/dd0/a13964.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d7/dd0/a13964.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d7/dd0/a13964.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d7/dd0/a13964.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d7/dd0/a13964.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d7/dd0/a13964.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d7/dd0/a13964.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d7/dd0/a13964.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d7/dd0/a13964.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d7/dd0/a13964.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

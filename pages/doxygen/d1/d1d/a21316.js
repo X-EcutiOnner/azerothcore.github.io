@@ -1,11 +1,6 @@
 var a21316 =
 [
-    [ "npc_ichor_globuleAI", "d1/d1d/a21316.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "d1/d1d/a21316.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "d1/d1d/a21316.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "d1/d1d/a21316.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "d1/d1d/a21316.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "d1/d1d/a21316.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "d1/d1d/a21316.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "d1/d1d/a21316.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "PrepareSpellScript", "d1/d1d/a21316.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d1/d1d/a21316.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d1/d1d/a21316.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

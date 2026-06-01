@@ -1,7 +1,6 @@
 var a25132 =
 [
-    [ "HandleScript", "de/d68/a25132.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "de/d68/a25132.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "de/d68/a25132.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "de/d68/a25132.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "CalculateDamage", "de/d68/a25132.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "de/d68/a25132.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "de/d68/a25132.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

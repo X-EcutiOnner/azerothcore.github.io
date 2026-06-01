@@ -1,6 +1,6 @@
 var a20988 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d7/df9/a20992.html", "d7/df9/a20992" ],
-    [ "instance_ulduar", "d8/deb/a20988.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d8/deb/a20988.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "npc_ritual_channelerAI", "d7/df9/a20992.html", "d7/df9/a20992" ],
+    [ "npc_ritual_channeler", "d8/deb/a20988.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d8/deb/a20988.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

@@ -1,10 +1,7 @@
 var a02513 =
 [
-    [ "GameEventScript", "db/d96/a10662.html", "db/d96/a10662" ],
-    [ "GameEventHook", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "dc/de1/a02513.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
-    ] ]
+    [ "Movement::FallInitializer", "d1/d11/a10416.html", "d1/d11/a10416" ],
+    [ "Movement::CommonInitializer", "d3/d90/a10420.html", "d3/d90/a10420" ],
+    [ "CHECK", "dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
+    [ "computeDuration", "dc/de1/a02513.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
 ];

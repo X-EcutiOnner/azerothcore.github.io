@@ -1,9 +1,18 @@
 var a09316 =
 [
-    [ "GridReference", "dc/dd3/a09316.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "dc/dd3/a09316.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "dc/dd3/a09316.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "dc/dd3/a09316.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "dc/dd3/a09316.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "dc/dd3/a09316.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "BroadcastText", "dc/dd3/a09316.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "dc/dd3/a09316.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "dc/dd3/a09316.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "dc/dd3/a09316.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "dc/dd3/a09316.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "dc/dd3/a09316.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "dc/dd3/a09316.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "dc/dd3/a09316.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "dc/dd3/a09316.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "dc/dd3/a09316.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "dc/dd3/a09316.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "dc/dd3/a09316.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "dc/dd3/a09316.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "dc/dd3/a09316.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "dc/dd3/a09316.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

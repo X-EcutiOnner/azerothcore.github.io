@@ -1,5 +1,6 @@
 var a13336 =
 [
-    [ "boss_eramas_brightblaze", "d3/d9a/a13336.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "d3/d9a/a13336.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "npc_scarlet_courierAI", "d9/d8d/a13340.html", "d9/d8d/a13340" ],
+    [ "npc_scarlet_courier", "d3/d9a/a13336.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "d3/d9a/a13336.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

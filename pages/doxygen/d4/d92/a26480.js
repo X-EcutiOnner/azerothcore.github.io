@@ -1,7 +1,6 @@
 var a26480 =
 [
-    [ "CalculateSpellAmount", "d4/d92/a26480.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d4/d92/a26480.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d4/d92/a26480.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d4/d92/a26480.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "FilterTargets", "d4/d92/a26480.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d4/d92/a26480.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d4/d92/a26480.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

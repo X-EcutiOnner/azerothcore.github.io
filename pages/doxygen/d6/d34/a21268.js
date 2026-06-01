@@ -1,6 +1,8 @@
 var a21268 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d6/d34/a21268.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d6/d34/a21268.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d6/d34/a21268.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "npc_mootoo_the_youngerAI", "d6/d34/a21268.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d6/d34/a21268.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d6/d34/a21268.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d6/d34/a21268.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "d6/d34/a21268.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

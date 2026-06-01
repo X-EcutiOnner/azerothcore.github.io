@@ -1,6 +1,9 @@
 var a26656 =
 [
-    [ "FilterTargets", "d8/dba/a26656.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "d8/dba/a26656.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "d8/dba/a26656.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "HandleAfterCast", "d8/dba/a26656.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d8/dba/a26656.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d8/dba/a26656.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d8/dba/a26656.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d8/dba/a26656.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d8/dba/a26656.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

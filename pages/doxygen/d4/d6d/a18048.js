@@ -1,6 +1,7 @@
 var a18048 =
 [
-    [ "npc_gunship_boarding_leaderAI", "de/ddf/a18052.html", "de/ddf/a18052" ],
-    [ "npc_gunship_boarding_leader", "d4/d6d/a18048.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d4/d6d/a18048.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "npc_coldflameAI", "d4/d6d/a18048.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d4/d6d/a18048.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d4/d6d/a18048.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d4/d6d/a18048.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

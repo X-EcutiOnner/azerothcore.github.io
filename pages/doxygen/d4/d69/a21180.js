@@ -1,6 +1,7 @@
 var a21180 =
 [
-    [ "boss_ymironAI", "d8/d6d/a21184.html", "d8/d6d/a21184" ],
-    [ "boss_ymiron", "d4/d69/a21180.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d4/d69/a21180.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "npc_azure_raider", "d4/d69/a21180.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "d4/d69/a21180.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "d4/d69/a21180.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "d4/d69/a21180.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

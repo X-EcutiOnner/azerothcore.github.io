@@ -1,12 +1,14 @@
 var a22228 =
 [
-    [ "npc_icefangAI", "d6/dbc/a22228.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d6/dbc/a22228.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d6/dbc/a22228.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d6/dbc/a22228.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d6/dbc/a22228.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d6/dbc/a22228.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d6/dbc/a22228.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d6/dbc/a22228.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d6/dbc/a22228.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "OPvPCapturePointTF", "d6/dbc/a22228.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "d6/dbc/a22228.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "d6/dbc/a22228.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "d6/dbc/a22228.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "d6/dbc/a22228.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "d6/dbc/a22228.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "d6/dbc/a22228.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "d6/dbc/a22228.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "d6/dbc/a22228.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "d6/dbc/a22228.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "d6/dbc/a22228.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

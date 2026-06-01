@@ -1,6 +1,6 @@
 var a13436 =
 [
-    [ "HandleScriptEffect", "da/d04/a13436.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "da/d04/a13436.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "da/d04/a13436.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "boss_kirtonos_the_heraldAI", "d1/df9/a13440.html", "d1/df9/a13440" ],
+    [ "boss_kirtonos_the_herald", "da/d04/a13436.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "da/d04/a13436.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

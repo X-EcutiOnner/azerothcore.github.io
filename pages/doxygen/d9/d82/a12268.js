@@ -1,12 +1,12 @@
 var a12268 =
 [
-    [ "wp_commandscript", "d9/d82/a12268.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d9/d82/a12268.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d9/d82/a12268.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d9/d82/a12268.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d9/d82/a12268.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d9/d82/a12268.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d9/d82/a12268.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d9/d82/a12268.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d9/d82/a12268.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "guild_commandscript", "d9/d82/a12268.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d9/d82/a12268.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d9/d82/a12268.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d9/d82/a12268.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d9/d82/a12268.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d9/d82/a12268.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d9/d82/a12268.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d9/d82/a12268.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d9/d82/a12268.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

@@ -1,10 +1,8 @@
 var a05656 =
 [
-    [ "AsyncCallbackProcessor", "d3/ddb/a05656.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "d3/ddb/a05656.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "d3/ddb/a05656.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "d3/ddb/a05656.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "d3/ddb/a05656.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "d3/ddb/a05656.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "d3/ddb/a05656.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "LogOperation", "d3/ddb/a05656.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d3/ddb/a05656.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d3/ddb/a05656.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d3/ddb/a05656.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d3/ddb/a05656.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

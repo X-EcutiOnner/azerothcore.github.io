@@ -1,5 +1,7 @@
 var a12648 =
 [
-    [ "at_blackrock_stadium", "d0/d41/a12648.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "d0/d41/a12648.html#a26e43099d9253ea44060194e3b38c656", null ]
+    [ "boss_urok_doomhowl", "d0/d41/a12648.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d0/d41/a12648.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d0/d41/a12648.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d0/d41/a12648.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

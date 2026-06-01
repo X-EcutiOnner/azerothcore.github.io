@@ -1,7 +1,8 @@
 var a27000 =
 [
-    [ "CheckTarget", "db/d45/a27000.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "db/d45/a27000.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "db/d45/a27000.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "db/d45/a27000.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "CheckProc", "db/d45/a27000.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "db/d45/a27000.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "db/d45/a27000.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "db/d45/a27000.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "db/d45/a27000.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

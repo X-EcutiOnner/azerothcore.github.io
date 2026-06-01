@@ -1,11 +1,5 @@
 var a19980 =
 [
-    [ "boss_maiden_of_griefAI", "df/d0c/a19980.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "df/d0c/a19980.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "df/d0c/a19980.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "df/d0c/a19980.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "df/d0c/a19980.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "df/d0c/a19980.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "df/d0c/a19980.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "df/d0c/a19980.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "df/d0c/a19980.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "df/d0c/a19980.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

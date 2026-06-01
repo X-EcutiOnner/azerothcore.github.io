@@ -1,6 +1,5 @@
 var a26132 =
 [
-    [ "HandleScriptEffect", "d9/de8/a26132.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "d9/de8/a26132.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "d9/de8/a26132.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "Trigger", "d9/de8/a26132.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "d9/de8/a26132.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

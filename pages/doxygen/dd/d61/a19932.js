@@ -1,12 +1,16 @@
 var a19932 =
 [
-    [ "boss_loken", "dd/d61/a19932.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "dd/d61/a19932.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "dd/d61/a19932.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "dd/d61/a19932.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "dd/d61/a19932.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "dd/d61/a19932.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "dd/d61/a19932.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "dd/d61/a19932.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "dd/d61/a19932.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "boss_runemaster_molgeim", "dd/d61/a19932.html#ae465b567aeba025d2fde3baa94e55e1e", null ],
+    [ "JustDied", "dd/d61/a19932.html#af278ce3237940684aa9909915e6d6962", null ],
+    [ "JustEngagedWith", "dd/d61/a19932.html#a2d779d09adfd1f19ce3655d8e9740a9f", null ],
+    [ "JustReachedHome", "dd/d61/a19932.html#a0597a7360c24899e9f74f1d3f289e9c5", null ],
+    [ "KilledUnit", "dd/d61/a19932.html#a33c0a2d070cf6d3d850c840b048de251", null ],
+    [ "Reset", "dd/d61/a19932.html#a9f8cca601307af0475141d6b8370199a", null ],
+    [ "SpellHit", "dd/d61/a19932.html#a8d05dd3f38eb24cf5be700328a874ff1", null ],
+    [ "UpdateAI", "dd/d61/a19932.html#ad8f1b523299c7a2c3dd9013fa211a090", null ],
+    [ "UpdatePhase", "dd/d61/a19932.html#a40d0466bfbe6fae8435fb4921bca6c1a", null ],
+    [ "_phase", "dd/d61/a19932.html#af1a8f1bf6dbf24890686c8acbf83dc2d", null ],
+    [ "events", "dd/d61/a19932.html#a277b45a2b2399b91650907de2fb86b89", null ],
+    [ "pInstance", "dd/d61/a19932.html#adfbc84f0922e69b38723ecbc7eeead62", null ],
+    [ "summons", "dd/d61/a19932.html#a148c913fcc44c8dfd05260d76d389538", null ]
 ];

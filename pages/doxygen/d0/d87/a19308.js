@@ -1,19 +1,15 @@
 var a19308 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d0/d87/a19308.html#adbbf6f95a44678d914726fa52486228f", null ],
-    [ "DoAction", "d0/d87/a19308.html#adaa7997c59f72f7823f232a6f455a0af", null ],
-    [ "JustDied", "d0/d87/a19308.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
-    [ "JustReachedHome", "d0/d87/a19308.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
-    [ "JustSummoned", "d0/d87/a19308.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
-    [ "Reset", "d0/d87/a19308.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
-    [ "ScheduleBroodlings", "d0/d87/a19308.html#a528438f30ae06119b09c69319e7c534a", null ],
-    [ "SpidersMoveDown", "d0/d87/a19308.html#a8c92d94464461c36c97d435e8738323b", null ],
-    [ "SummonBroodling", "d0/d87/a19308.html#a625cce7142666144af0d6f1e81f56979", null ],
-    [ "SummonedCreatureDies", "d0/d87/a19308.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
-    [ "SummonFrostwardens", "d0/d87/a19308.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
-    [ "SummonSpiders", "d0/d87/a19308.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
-    [ "UpdateAI", "d0/d87/a19308.html#a141faa27c651b9d1512c6b5861f511d9", null ],
-    [ "events", "d0/d87/a19308.html#a5f883ab0efea055ebb07e118ab857378", null ],
-    [ "instance", "d0/d87/a19308.html#ac13065009325babb60746630518cfc3b", null ],
-    [ "summons", "d0/d87/a19308.html#ad2203400007c842b181ab62ba710cc69", null ]
+    [ "boss_heigan", "d0/d87/a19308.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d0/d87/a19308.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d0/d87/a19308.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d0/d87/a19308.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d0/d87/a19308.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d0/d87/a19308.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d0/d87/a19308.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d0/d87/a19308.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d0/d87/a19308.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d0/d87/a19308.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d0/d87/a19308.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d0/d87/a19308.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

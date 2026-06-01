@@ -1,7 +1,12 @@
 var a11540 =
 [
-    [ "DynObjAura", "d2/db3/a11540.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d2/db3/a11540.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d2/db3/a11540.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d2/db3/a11540.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "PacketLog", "d2/db3/a11540.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d2/db3/a11540.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d2/db3/a11540.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d2/db3/a11540.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d2/db3/a11540.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d2/db3/a11540.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d2/db3/a11540.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d2/db3/a11540.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d2/db3/a11540.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

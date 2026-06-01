@@ -1,11 +1,8 @@
 var a09032 =
 [
-    [ "VehicleSeatAddon", "d3/dd0/a09032.html#a307b278917998116156e41f9189a582c", null ],
-    [ "VehicleSeatAddon", "d3/dd0/a09032.html#adaec12df869a9ffc81174f5ef1f65606", null ],
-    [ "ExitParameter", "d3/dd0/a09032.html#afbb8de193522f1182efff50064e5f83d", null ],
-    [ "ExitParameterO", "d3/dd0/a09032.html#a06e385ea5cf0441721432925251a5a63", null ],
-    [ "ExitParameterX", "d3/dd0/a09032.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
-    [ "ExitParameterY", "d3/dd0/a09032.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
-    [ "ExitParameterZ", "d3/dd0/a09032.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
-    [ "SeatOrientationOffset", "d3/dd0/a09032.html#a374c73b40f6e6dad103b172d1829a31d", null ]
+    [ "DiminishingReturn", "d3/dd0/a09032.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d3/dd0/a09032.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d3/dd0/a09032.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d3/dd0/a09032.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d3/dd0/a09032.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

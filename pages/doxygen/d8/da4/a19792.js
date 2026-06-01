@@ -1,6 +1,12 @@
 var a19792 =
 [
-    [ "boss_drakosAI", "da/d9d/a19796.html", "da/d9d/a19796" ],
-    [ "boss_drakos", "d8/da4/a19792.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d8/da4/a19792.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "boss_sjonnirAI", "d8/da4/a19792.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d8/da4/a19792.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d8/da4/a19792.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d8/da4/a19792.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d8/da4/a19792.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d8/da4/a19792.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d8/da4/a19792.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d8/da4/a19792.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d8/da4/a19792.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

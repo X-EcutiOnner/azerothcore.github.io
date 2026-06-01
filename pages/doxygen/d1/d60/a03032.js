@@ -1,5 +1,7 @@
 var a03032 =
 [
-    [ "cheat_commandscript", "d2/db3/a12202.html", "d2/db3/a12202" ],
-    [ "AddSC_cheat_commandscript", "d1/d60/a03032.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
+    [ "UpdateRequest", "d2/d77/a10204.html", "d2/d77/a10204" ],
+    [ "MapUpdateRequest", "dc/de2/a10208.html", "dc/de2/a10208" ],
+    [ "MapPreloadRequest", "d1/daa/a10212.html", "d1/daa/a10212" ],
+    [ "LFGUpdateRequest", "d4/d29/a10216.html", "d4/d29/a10216" ]
 ];

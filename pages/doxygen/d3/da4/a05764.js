@@ -1,6 +1,6 @@
 var a05764 =
 [
-    [ "FromString", "d3/da4/a05764.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
-    [ "FromString", "d3/da4/a05764.html#a465a6f446d3482578b583d54f0109516", null ],
-    [ "ToString", "d3/da4/a05764.html#a8e3130708d0068bd82f9c2861b130303", null ]
+    [ "operator()", "d3/da4/a05764.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "d3/da4/a05764.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "d3/da4/a05764.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

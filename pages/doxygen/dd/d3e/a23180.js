@@ -1,9 +1,8 @@
 var a23180 =
 [
-    [ "FilterTargets", "dd/d3e/a23180.html#a9049c113d65b15a9a8e1143980a84b23", null ],
-    [ "HandleDummy", "dd/d3e/a23180.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
-    [ "Load", "dd/d3e/a23180.html#a8cad82701e0147e14f826243175e1c32", null ],
-    [ "PrepareSpellScript", "dd/d3e/a23180.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
-    [ "Register", "dd/d3e/a23180.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
-    [ "_targetNumber", "dd/d3e/a23180.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "dd/d3e/a23180.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "dd/d3e/a23180.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "dd/d3e/a23180.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "dd/d3e/a23180.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "dd/d3e/a23180.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

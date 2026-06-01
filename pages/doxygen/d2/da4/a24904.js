@@ -1,6 +1,7 @@
 var a24904 =
 [
-    [ "CalculateAmount", "d2/da4/a24904.html#af8b61cade7f9daae4b982c2a4c8b4a73", null ],
-    [ "PrepareAuraScript", "d2/da4/a24904.html#a3e1d132745f4739b8a3423cb55b0fc9d", null ],
-    [ "Register", "d2/da4/a24904.html#a642ce3a74d7163b264ed4674e14fafbc", null ]
+    [ "CalculateAmount", "d2/da4/a24904.html#a40ba021accd581745f07f2586545853c", null ],
+    [ "Load", "d2/da4/a24904.html#aa963b658637360305bb5f3d59eb9d061", null ],
+    [ "PrepareAuraScript", "d2/da4/a24904.html#a8fedbff305709145a7c004787ee50402", null ],
+    [ "Register", "d2/da4/a24904.html#ade9b6a408a1d5a83bdadd5bd2b0fbb2a", null ]
 ];

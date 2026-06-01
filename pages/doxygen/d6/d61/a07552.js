@@ -1,10 +1,14 @@
 var a07552 =
 [
-    [ "SelectionPool", "d6/d61/a07552.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d6/d61/a07552.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d6/d61/a07552.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d6/d61/a07552.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d6/d61/a07552.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d6/d61/a07552.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d6/d61/a07552.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "ArenaTeamScore", "d6/d61/a07552.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "d6/d61/a07552.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "d6/d61/a07552.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "d6/d61/a07552.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "d6/d61/a07552.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "d6/d61/a07552.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "d6/d61/a07552.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "d6/d61/a07552.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "d6/d61/a07552.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "d6/d61/a07552.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "d6/d61/a07552.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

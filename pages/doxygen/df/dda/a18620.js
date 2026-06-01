@@ -1,7 +1,6 @@
 var a18620 =
 [
-    [ "HandleInfusion", "df/dda/a18620.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "df/dda/a18620.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "df/dda/a18620.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "df/dda/a18620.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "npc_terenas_menethilAI", "dc/daf/a18624.html", "dc/daf/a18624" ],
+    [ "npc_terenas_menethil", "df/dda/a18620.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "df/dda/a18620.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

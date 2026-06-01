@@ -1,9 +1,7 @@
 var a21576 =
 [
-    [ "npc_bloodmage_laurithAI", "df/d7b/a21576.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "df/d7b/a21576.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "df/d7b/a21576.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
-    [ "UpdateAI", "df/d7b/a21576.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "df/d7b/a21576.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "df/d7b/a21576.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "OnRemove", "df/d7b/a21576.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "df/d7b/a21576.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "df/d7b/a21576.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "df/d7b/a21576.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

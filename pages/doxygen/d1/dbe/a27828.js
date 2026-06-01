@@ -1,7 +1,6 @@
 var a27828 =
 [
-    [ "HandleEffect", "d1/dbe/a27828.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d1/dbe/a27828.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d1/dbe/a27828.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d1/dbe/a27828.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "go_bear_trapAI", "df/dd6/a27832.html", "df/dd6/a27832" ],
+    [ "go_bear_trap", "d1/dbe/a27828.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d1/dbe/a27828.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

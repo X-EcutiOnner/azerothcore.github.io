@@ -1,9 +1,6 @@
 var a13900 =
 [
-    [ "boss_entropius", "dd/d4d/a13900.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "dd/d4d/a13900.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "dd/d4d/a13900.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "dd/d4d/a13900.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "dd/d4d/a13900.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "dd/d4d/a13900.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d9/d90/a13904.html", "d9/d90/a13904" ],
+    [ "npc_balance_of_light_and_shadow", "dd/d4d/a13900.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "dd/d4d/a13900.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

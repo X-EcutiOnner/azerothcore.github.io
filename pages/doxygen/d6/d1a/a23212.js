@@ -1,7 +1,12 @@
 var a23212 =
 [
-    [ "HandleEffectRemove", "d6/d1a/a23212.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d6/d1a/a23212.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d6/d1a/a23212.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d6/d1a/a23212.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "boss_omor_the_unscarred", "d6/d1a/a23212.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d6/d1a/a23212.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d6/d1a/a23212.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d6/d1a/a23212.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d6/d1a/a23212.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d6/d1a/a23212.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d6/d1a/a23212.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d6/d1a/a23212.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d6/d1a/a23212.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

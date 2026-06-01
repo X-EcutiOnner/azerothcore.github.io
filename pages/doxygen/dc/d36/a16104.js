@@ -1,7 +1,6 @@
 var a16104 =
 [
-    [ "npc_giltharesAI", "dd/d4a/a16108.html", "dd/d4a/a16108" ],
-    [ "npc_gilthares", "dc/d36/a16104.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "dc/d36/a16104.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "dc/d36/a16104.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "go_troll_cageAI", "dd/d4a/a16108.html", "dd/d4a/a16108" ],
+    [ "go_troll_cage", "dc/d36/a16104.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "dc/d36/a16104.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

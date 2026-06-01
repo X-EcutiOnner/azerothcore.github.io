@@ -1,6 +1,6 @@
 var a17400 =
 [
-    [ "npc_hor_raging_ghoulAI", "d9/dea/a17404.html", "d9/dea/a17404" ],
-    [ "npc_hor_raging_ghoul", "de/d36/a17400.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "de/d36/a17400.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "entry", "de/d36/a17400.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "de/d36/a17400.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "de/d36/a17400.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

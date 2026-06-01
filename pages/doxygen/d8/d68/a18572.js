@@ -1,6 +1,6 @@
 var a18572 =
 [
-    [ "npc_spinestalkerAI", "d0/dd1/a18576.html", "d0/dd1/a18576" ],
-    [ "npc_spinestalker", "d8/d68/a18572.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d8/d68/a18572.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "ModDestHeight", "d8/d68/a18572.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d8/d68/a18572.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d8/d68/a18572.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

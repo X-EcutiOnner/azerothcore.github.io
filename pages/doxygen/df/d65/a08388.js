@@ -1,13 +1,11 @@
 var a08388 =
 [
-    [ "AnimationInfo", "df/d65/a08388.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "df/d65/a08388.html#aef41ba6d4c2602b60bc2a6effcb1566a", null ],
-    [ "CapturePoint", "df/d65/a08388.html#a9c5d239c211fd341300a77a53a87734d", null ],
-    [ "FishingHole", "df/d65/a08388.html#a207f6a3102fb04285c05b83c5234dbec", null ],
-    [ "Health", "df/d65/a08388.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "df/d65/a08388.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "df/d65/a08388.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "df/d65/a08388.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "df/d65/a08388.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "df/d65/a08388.html#a049255e30486113c3337079edbd80ff9", null ]
+    [ "AddItem", "df/d65/a08388.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "df/d65/a08388.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "df/d65/a08388.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "df/d65/a08388.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "df/d65/a08388.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "df/d65/a08388.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "df/d65/a08388.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "df/d65/a08388.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

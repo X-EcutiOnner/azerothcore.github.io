@@ -1,9 +1,6 @@
 var a17976 =
 [
-    [ "npc_stinky_iccAI", "d0/d32/a17976.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/d32/a17976.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/d32/a17976.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/d32/a17976.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/d32/a17976.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/d32/a17976.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "CheckProc", "d0/d32/a17976.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d0/d32/a17976.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d0/d32/a17976.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

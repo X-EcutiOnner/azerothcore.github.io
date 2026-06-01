@@ -1,12 +1,6 @@
 var a18224 =
 [
-    [ "npc_darnavanAI", "d0/daf/a18224.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d0/daf/a18224.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d0/daf/a18224.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d0/daf/a18224.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d0/daf/a18224.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d0/daf/a18224.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d0/daf/a18224.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d0/daf/a18224.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d0/daf/a18224.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "npc_big_oozeAI", "dc/d3f/a18228.html", "dc/d3f/a18228" ],
+    [ "npc_big_ooze", "d0/daf/a18224.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "d0/daf/a18224.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

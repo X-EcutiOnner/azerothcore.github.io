@@ -1,15 +1,9 @@
 var a17652 =
 [
-    [ "boss_gal_darah", "d7/dc6/a17652.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "d7/dc6/a17652.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "d7/dc6/a17652.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "d7/dc6/a17652.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "d7/dc6/a17652.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "d7/dc6/a17652.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "d7/dc6/a17652.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "d7/dc6/a17652.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "d7/dc6/a17652.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "d7/dc6/a17652.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "d7/dc6/a17652.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "d7/dc6/a17652.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "CheckTarget", "d7/dc6/a17652.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d7/dc6/a17652.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d7/dc6/a17652.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d7/dc6/a17652.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d7/dc6/a17652.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d7/dc6/a17652.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

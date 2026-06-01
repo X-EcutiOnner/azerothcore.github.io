@@ -1,5 +1,6 @@
 var a25504 =
 [
-    [ "PrepareSpellScript", "d5/da1/a25504.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "d5/da1/a25504.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "HandleScriptEffect", "d5/da1/a25504.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d5/da1/a25504.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d5/da1/a25504.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

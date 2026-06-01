@@ -1,11 +1,17 @@
 var a22188 =
 [
-    [ "npc_iron_watcherAI", "de/db8/a22188.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "de/db8/a22188.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "de/db8/a22188.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "de/db8/a22188.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "de/db8/a22188.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "de/db8/a22188.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "de/db8/a22188.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "de/db8/a22188.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "OutdoorPvPHP", "de/db8/a22188.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "de/db8/a22188.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "de/db8/a22188.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "de/db8/a22188.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "de/db8/a22188.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "de/db8/a22188.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "de/db8/a22188.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "de/db8/a22188.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "de/db8/a22188.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "de/db8/a22188.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "de/db8/a22188.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "de/db8/a22188.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "de/db8/a22188.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "de/db8/a22188.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

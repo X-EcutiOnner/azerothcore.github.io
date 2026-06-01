@@ -1,8 +1,6 @@
 var a17308 =
 [
-    [ "npc_hor_leaderAI", "da/dc7/a17312.html", "da/dc7/a17312" ],
-    [ "npc_hor_leader", "da/ddd/a17308.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "da/ddd/a17308.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "da/ddd/a17308.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "da/ddd/a17308.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "npc_pos_after_first_bossAI", "da/dc7/a17312.html", "da/dc7/a17312" ],
+    [ "npc_pos_after_first_boss", "da/ddd/a17308.html#a76ae57195ceca454928245f2db12f68c", null ],
+    [ "GetAI", "da/ddd/a17308.html#a3f807335f79218ecc70c32f5496267a6", null ]
 ];

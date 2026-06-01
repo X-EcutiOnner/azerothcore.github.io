@@ -1,14 +1,13 @@
 var a23160 =
 [
-    [ "boss_the_lurker_below", "d3/dcc/a23160.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
-    [ "AttackStart", "d3/dcc/a23160.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
-    [ "DamageTaken", "d3/dcc/a23160.html#ae7c05744013753b29072ec1b5d9f2570", null ],
-    [ "DoAction", "d3/dcc/a23160.html#a30e07055aa632066a75ad48f3e8109e2", null ],
-    [ "EnterEvadeMode", "d3/dcc/a23160.html#a522164e819db5062225f7d5704cdaa36", null ],
-    [ "JustEngagedWith", "d3/dcc/a23160.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
-    [ "Reset", "d3/dcc/a23160.html#ae592707182d64689e6578813b3617ee3", null ],
-    [ "SchedulerPhaseOne", "d3/dcc/a23160.html#a42dd2ed36209e7be61788d054e2754b5", null ],
-    [ "SchedulerPhaseTwo", "d3/dcc/a23160.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
-    [ "SummonedCreatureDies", "d3/dcc/a23160.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
-    [ "UpdateAI", "d3/dcc/a23160.html#a92d854cb21b272bd09674c724b1aa862", null ]
+    [ "boss_olm_the_summoner", "d3/dcc/a23160.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "d3/dcc/a23160.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "d3/dcc/a23160.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d3/dcc/a23160.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d3/dcc/a23160.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d3/dcc/a23160.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d3/dcc/a23160.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d3/dcc/a23160.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d3/dcc/a23160.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d3/dcc/a23160.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

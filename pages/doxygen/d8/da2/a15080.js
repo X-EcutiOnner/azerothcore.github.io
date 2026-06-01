@@ -1,7 +1,13 @@
 var a15080 =
 [
-    [ "HandleOnHit", "d8/da2/a15080.html#ae3241486a612293b5421a523f6d854d9", null ],
-    [ "PrepareSpellScript", "d8/da2/a15080.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
-    [ "Register", "d8/da2/a15080.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
-    [ "Validate", "d8/da2/a15080.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
+    [ "boss_infinite_corruptorAI", "d8/da2/a15080.html#add36192941eaabf7f3d1d41c572783bd", null ],
+    [ "DoAction", "d8/da2/a15080.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
+    [ "JustDied", "d8/da2/a15080.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
+    [ "JustEngagedWith", "d8/da2/a15080.html#a644725505db4fc7a98c4255d0eb34616", null ],
+    [ "JustSummoned", "d8/da2/a15080.html#a2b12c03184b169a56a0e6696a107dc35", null ],
+    [ "Reset", "d8/da2/a15080.html#a4dbff495bfcda6fb715dec68616e1764", null ],
+    [ "UpdateAI", "d8/da2/a15080.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
+    [ "beamTimer", "d8/da2/a15080.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
+    [ "events", "d8/da2/a15080.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
+    [ "summons", "d8/da2/a15080.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
 ];

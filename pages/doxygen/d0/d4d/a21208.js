@@ -1,7 +1,7 @@
 var a21208 =
 [
-    [ "HandleScript", "d0/d4d/a21208.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d0/d4d/a21208.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d0/d4d/a21208.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d0/d4d/a21208.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "npc_violet_hold_defense_system", "d0/d4d/a21208.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d0/d4d/a21208.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d0/d4d/a21208.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "d0/d4d/a21208.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

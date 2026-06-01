@@ -1,6 +1,6 @@
 var a24764 =
 [
-    [ "PrepareAuraScript", "d4/dfa/a24764.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "d4/dfa/a24764.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "d4/dfa/a24764.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "HandleScriptEffect", "d4/dfa/a24764.html#af8f2f4c4459204aa766a41dc4003581c", null ],
+    [ "PrepareSpellScript", "d4/dfa/a24764.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
+    [ "Register", "d4/dfa/a24764.html#a034e52b435b6f4586084cb831e162c40", null ]
 ];

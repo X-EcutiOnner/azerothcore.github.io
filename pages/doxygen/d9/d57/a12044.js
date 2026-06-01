@@ -1,7 +1,13 @@
 var a12044 =
 [
-    [ "achievement_commandscript", "d9/d57/a12044.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d9/d57/a12044.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d9/d57/a12044.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d9/d57/a12044.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "PlayerDumpWriter", "d9/d57/a12044.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d9/d57/a12044.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d9/d57/a12044.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d9/d57/a12044.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d9/d57/a12044.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d9/d57/a12044.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d9/d57/a12044.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d9/d57/a12044.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d9/d57/a12044.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d9/d57/a12044.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

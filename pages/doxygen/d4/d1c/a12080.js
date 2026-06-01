@@ -1,13 +1,12 @@
 var a12080 =
 [
-    [ "cheat_commandscript", "d4/d1c/a12080.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d4/d1c/a12080.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d4/d1c/a12080.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d4/d1c/a12080.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d4/d1c/a12080.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d4/d1c/a12080.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d4/d1c/a12080.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d4/d1c/a12080.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d4/d1c/a12080.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d4/d1c/a12080.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "Action", "d4/d1c/a12080.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d4/d1c/a12080.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d4/d1c/a12080.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d4/d1c/a12080.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d4/d1c/a12080.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d4/d1c/a12080.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d4/d1c/a12080.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d4/d1c/a12080.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d4/d1c/a12080.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

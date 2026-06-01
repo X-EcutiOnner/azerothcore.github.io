@@ -1,9 +1,12 @@
 var a09344 =
 [
-    [ "GridReference", "d4/dad/a09344.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d4/dad/a09344.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d4/dad/a09344.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d4/dad/a09344.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d4/dad/a09344.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d4/dad/a09344.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "IsTeamAward1", "d4/dad/a09344.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d4/dad/a09344.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d4/dad/a09344.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d4/dad/a09344.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d4/dad/a09344.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d4/dad/a09344.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d4/dad/a09344.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d4/dad/a09344.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d4/dad/a09344.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

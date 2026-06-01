@@ -1,10 +1,7 @@
 var a17624 =
 [
-    [ "boss_drakkari_elementalAI", "d5/d42/a17624.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d5/d42/a17624.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d5/d42/a17624.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d5/d42/a17624.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d5/d42/a17624.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d5/d42/a17624.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d5/d42/a17624.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "PeriodicTick", "d5/d42/a17624.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d5/d42/a17624.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d5/d42/a17624.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d5/d42/a17624.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

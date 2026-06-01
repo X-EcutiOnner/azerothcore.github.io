@@ -1,5 +1,7 @@
 var a24376 =
 [
-    [ "npc_pet_proto_drake_whelp", "d2/d6a/a24376.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d2/d6a/a24376.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "CalculateAmount", "d2/d6a/a24376.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
+    [ "PrepareAuraScript", "d2/d6a/a24376.html#aaf070525419cc8af56cd0002bbef2391", null ],
+    [ "Register", "d2/d6a/a24376.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
+    [ "Validate", "d2/d6a/a24376.html#a3b8d5d04ec015240d941790bd02598f8", null ]
 ];

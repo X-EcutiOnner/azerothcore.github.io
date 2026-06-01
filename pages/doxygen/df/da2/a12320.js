@@ -1,8 +1,10 @@
 var a12320 =
 [
-    [ "ironhand_guardianAI", "df/da2/a12320.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "df/da2/a12320.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "df/da2/a12320.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "df/da2/a12320.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "df/da2/a12320.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "mmaps_commandscript", "df/da2/a12320.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "df/da2/a12320.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "df/da2/a12320.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "df/da2/a12320.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "df/da2/a12320.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "df/da2/a12320.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "df/da2/a12320.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

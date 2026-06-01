@@ -1,10 +1,6 @@
 var a03158 =
 [
-    [ "OutdoorPvP_nagrand", "dc/d99/a22170.html", "dc/d99/a22170" ],
-    [ "outdoorpvp_na_halaa_creatures", "d2/df6/a22174.html", "d2/df6/a22174" ],
-    [ "AddSC_outdoorpvp_na", "da/d8d/a03158.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "da/d8d/a03158.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "da/d8d/a03158.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "da/d8d/a03158.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "da/d8d/a03158.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "BG_SA_BOAT_START", "da/d8d/a03158.html#a2ec6635cf59771fcfd56b16cd670eebc", null ],
+    [ "BG_SA_ROUNDLENGTH", "da/d8d/a03158.html#a1197e8f288608511601a41e8e8ea80ce", null ],
+    [ "BG_SA_WARMUPLENGTH", "da/d8d/a03158.html#a7447506b77b9babea7568349335ea705", null ]
 ];

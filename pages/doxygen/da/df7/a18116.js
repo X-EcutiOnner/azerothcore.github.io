@@ -1,6 +1,6 @@
 var a18116 =
 [
-    [ "PrepareSpellScript", "da/df7/a18116.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "da/df7/a18116.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "da/df7/a18116.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "npc_gas_cloudAI", "da/df7/a18116.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "da/df7/a18116.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "da/df7/a18116.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

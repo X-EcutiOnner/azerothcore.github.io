@@ -1,5 +1,9 @@
 var a20492 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "df/d11/a20492.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "df/d11/a20492.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "df/d11/a20492.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "df/d11/a20492.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "df/d11/a20492.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "df/d11/a20492.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "df/d11/a20492.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "df/d11/a20492.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

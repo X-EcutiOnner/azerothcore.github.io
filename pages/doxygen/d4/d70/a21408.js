@@ -1,6 +1,5 @@
 var a21408 =
 [
-    [ "npc_azure_mage_slayerAI", "d7/d7c/a21412.html", "d7/d7c/a21412" ],
-    [ "npc_azure_mage_slayer", "d4/d70/a21408.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d4/d70/a21408.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "go_the_pearl_of_the_depths", "d4/d70/a21408.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "d4/d70/a21408.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

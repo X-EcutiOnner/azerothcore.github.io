@@ -1,8 +1,9 @@
 var a29540 =
 [
-    [ "auraHasCanProcFromProcs", "d3/d91/a29540.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "d3/d91/a29540.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "d3/d91/a29540.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "d3/d91/a29540.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "d3/d91/a29540.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "defaultHitMask", "d3/d91/a29540.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "d3/d91/a29540.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "d3/d91/a29540.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "d3/d91/a29540.html#a78f8589133427f536f15ea05672ad42f", null ],
+    [ "procFlag", "d3/d91/a29540.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "d3/d91/a29540.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

@@ -1,13 +1,7 @@
 var a22428 =
 [
-    [ "OPvPCapturePointEP_EWT", "dc/d62/a22428.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "dc/d62/a22428.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "dc/d62/a22428.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "dc/d62/a22428.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "dc/d62/a22428.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "dc/d62/a22428.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "dc/d62/a22428.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "dc/d62/a22428.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "dc/d62/a22428.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "dc/d62/a22428.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "HandleEffectRemove", "dc/d62/a22428.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "dc/d62/a22428.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "dc/d62/a22428.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "dc/d62/a22428.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

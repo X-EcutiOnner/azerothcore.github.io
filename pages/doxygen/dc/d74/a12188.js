@@ -1,5 +1,9 @@
 var a12188 =
 [
-    [ "flag", "dc/d74/a12188.html#a6cae645736c697e2c2bf51a70c230070", null ],
-    [ "text", "dc/d74/a12188.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
+    [ "autobroadcast_commandscript", "dc/d74/a12188.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "dc/d74/a12188.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "dc/d74/a12188.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "dc/d74/a12188.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "dc/d74/a12188.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "dc/d74/a12188.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

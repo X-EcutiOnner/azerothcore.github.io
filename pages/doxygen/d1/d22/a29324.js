@@ -1,5 +1,9 @@
 var a29324 =
 [
-    [ "Duration", "d1/d22/a29324.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d1/d22/a29324.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "SetUp", "d1/d22/a29324.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "d1/d22/a29324.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "d1/d22/a29324.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "d1/d22/a29324.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "d1/d22/a29324.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "d1/d22/a29324.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

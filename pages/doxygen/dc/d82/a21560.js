@@ -1,6 +1,8 @@
 var a21560 =
 [
-    [ "npc_hidden_cultistAI", "d7/d41/a21564.html", "d7/d41/a21564" ],
-    [ "npc_hidden_cultist", "dc/d82/a21560.html#ab455b35fea966360e01fb8975adad989", null ],
-    [ "GetAI", "dc/d82/a21560.html#a4897006d9416f1177b0bc0e41df60293", null ]
+    [ "AfterApply", "dc/d82/a21560.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "dc/d82/a21560.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "dc/d82/a21560.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "dc/d82/a21560.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "dc/d82/a21560.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

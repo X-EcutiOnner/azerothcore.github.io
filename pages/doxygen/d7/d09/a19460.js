@@ -1,6 +1,5 @@
 var a19460 =
 [
-    [ "boss_gothikAI", "da/df2/a19464.html", "da/df2/a19464" ],
-    [ "boss_gothik", "d7/d09/a19460.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "d7/d09/a19460.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "npc_mr_bigglesworth", "d7/d09/a19460.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "d7/d09/a19460.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

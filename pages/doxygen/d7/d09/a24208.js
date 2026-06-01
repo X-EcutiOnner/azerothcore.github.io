@@ -1,15 +1,10 @@
 var a24208 =
 [
-    [ "dragonmaw_race_npc", "d7/d09/a24208.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "d7/d09/a24208.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "d7/d09/a24208.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "d7/d09/a24208.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "d7/d09/a24208.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "d7/d09/a24208.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "d7/d09/a24208.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "d7/d09/a24208.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "d7/d09/a24208.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "d7/d09/a24208.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "d7/d09/a24208.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "d7/d09/a24208.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "Absorb", "d7/d09/a24208.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "d7/d09/a24208.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "d7/d09/a24208.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "d7/d09/a24208.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "d7/d09/a24208.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "d7/d09/a24208.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "d7/d09/a24208.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

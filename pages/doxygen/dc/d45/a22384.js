@@ -1,14 +1,6 @@
 var a22384 =
 [
-    [ "npc_finklesteinAI", "dc/d45/a22384.html#a075481689af110f8c20cd5ca13258ba3", null ],
-    [ "ClearPlayerOnTask", "dc/d45/a22384.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
-    [ "GetTaskAura", "dc/d45/a22384.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
-    [ "GetTaskCounter", "dc/d45/a22384.html#a240e8f556176b9571bd08407276402be", null ],
-    [ "GetTaskItemEntry", "dc/d45/a22384.html#a08a3005db6d192663a835b9ee192352b", null ],
-    [ "GetTaskItemName", "dc/d45/a22384.html#adce990629aa1833dc07c7dbb1297cead", null ],
-    [ "IsPlayerOnTask", "dc/d45/a22384.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
-    [ "RightClickCauldron", "dc/d45/a22384.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
-    [ "SelectRandomCode", "dc/d45/a22384.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
-    [ "StartNextTask", "dc/d45/a22384.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
-    [ "questList", "dc/d45/a22384.html#a5c3a3237579721b94dd433841b83bb02", null ]
+    [ "HandleScriptEffect", "dc/d45/a22384.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "dc/d45/a22384.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "dc/d45/a22384.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

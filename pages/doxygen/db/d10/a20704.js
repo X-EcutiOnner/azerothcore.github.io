@@ -1,11 +1,8 @@
 var a20704 =
 [
-    [ "boss_thorim_sif", "db/d10/a20704.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
-    [ "AttackStart", "db/d10/a20704.html#a3da2809c4e7aa0c051647be354ade759", null ],
-    [ "DoAction", "db/d10/a20704.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
-    [ "MoveInLineOfSight", "db/d10/a20704.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
-    [ "Reset", "db/d10/a20704.html#a3f747b6da8db72fd61c50a24096834c2", null ],
-    [ "UpdateAI", "db/d10/a20704.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
-    [ "_allowCast", "db/d10/a20704.html#a6081345415b9ae3892d4f150a195908c", null ],
-    [ "events", "db/d10/a20704.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
+    [ "OnApply", "db/d10/a20704.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "db/d10/a20704.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "db/d10/a20704.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "db/d10/a20704.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "db/d10/a20704.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

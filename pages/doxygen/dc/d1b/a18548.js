@@ -1,9 +1,12 @@
 var a18548 =
 [
-    [ "FilterTargets", "dc/d1b/a18548.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "dc/d1b/a18548.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "dc/d1b/a18548.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "dc/d1b/a18548.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "dc/d1b/a18548.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "dc/d1b/a18548.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_raging_spiritAI", "dc/d1b/a18548.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "dc/d1b/a18548.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "dc/d1b/a18548.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "dc/d1b/a18548.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "dc/d1b/a18548.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "dc/d1b/a18548.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "dc/d1b/a18548.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "dc/d1b/a18548.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "dc/d1b/a18548.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

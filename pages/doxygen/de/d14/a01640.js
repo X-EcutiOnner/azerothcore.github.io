@@ -1,30 +1,26 @@
 var a01640 =
 [
-    [ "DisableData", "d1/d41/a08186.html", "d1/d41/a08186" ],
-    [ "DisableMgr", "db/d40/a08190.html", "db/d40/a08190" ],
-    [ "sDisableMgr", "de/d14/a01640.html#a1a184d22bd27210ea5af79573927826a", null ],
-    [ "DisableType", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
-      [ "DISABLE_TYPE_SPELL", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
-      [ "DISABLE_TYPE_QUEST", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
-      [ "DISABLE_TYPE_MAP", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
-      [ "DISABLE_TYPE_BATTLEGROUND", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
-      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
-      [ "DISABLE_TYPE_OUTDOORPVP", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
-      [ "DISABLE_TYPE_VMAP", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
-      [ "DISABLE_TYPE_GO_LOS", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
-      [ "DISABLE_TYPE_LFG_MAP", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
-      [ "DISABLE_TYPE_GAME_EVENT", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
-      [ "DISABLE_TYPE_LOOT", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
-      [ "MAX_DISABLE_TYPES", "de/d14/a01640.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
+    [ "boss_supremus", "dc/df5/a22640.html", "dc/df5/a22640" ],
+    [ "npc_supremus_punch_invisible_stalker", "d1/d4b/a22644.html", "d1/d4b/a22644" ],
+    [ "Supremus", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1ab", [
+      [ "EMOTE_NEW_TARGET", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
+      [ "EMOTE_PUNCH_GROUND", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
+      [ "EMOTE_GROUND_CRACK", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
+      [ "EMOTE_BERSERK", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "SPELL_SNARE_SELF", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
+      [ "SPELL_MOLTEN_PUNCH", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
+      [ "SPELL_MOLTEN_FLAME", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
+      [ "SPELL_HATEFUL_STRIKE", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
+      [ "SPELL_VOLCANIC_ERUPTION", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
+      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
+      [ "SPELL_VOLCANIC_GEYSER", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
+      [ "SPELL_BERSERK", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CHARGE", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
+      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
+      [ "NPC_SUPREMUS_VOLCANO", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
+      [ "GROUP_ABILITIES", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
+      [ "GROUP_MOLTEN_PUNCH", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
+      [ "GROUP_PHASE_CHANGE", "de/d14/a01640.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
     ] ],
-    [ "SpellDisableTypes", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
-      [ "SPELL_DISABLE_PLAYER", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
-      [ "SPELL_DISABLE_CREATURE", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
-      [ "SPELL_DISABLE_PET", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
-      [ "SPELL_DISABLE_DEPRECATED_SPELL", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
-      [ "SPELL_DISABLE_MAP", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
-      [ "SPELL_DISABLE_AREA", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
-      [ "SPELL_DISABLE_LOS", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
-      [ "MAX_SPELL_DISABLE_TYPE", "de/d14/a01640.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
-    ] ]
+    [ "AddSC_boss_supremus", "de/d14/a01640.html#aca4140213fae739c682d7d7e241294e0", null ]
 ];

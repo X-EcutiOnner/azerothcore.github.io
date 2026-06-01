@@ -1,4 +1,4 @@
 var a02606 =
 [
-    [ "ScriptRegistry< BattlefieldScript >", "d2/dca/a02606.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
+    [ "GetAge", "d2/dca/a02606.html#a347e0449afd73dbcc6c084dbe72af6c8", null ]
 ];

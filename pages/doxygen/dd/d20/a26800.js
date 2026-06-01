@@ -1,8 +1,9 @@
 var a26800 =
 [
-    [ "CheckProc", "dd/d20/a26800.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "dd/d20/a26800.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "dd/d20/a26800.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "dd/d20/a26800.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "dd/d20/a26800.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "CheckCast", "dd/d20/a26800.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "dd/d20/a26800.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "dd/d20/a26800.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "dd/d20/a26800.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "dd/d20/a26800.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "dd/d20/a26800.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

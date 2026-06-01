@@ -1,6 +1,5 @@
 var a08016 =
 [
-    [ "value_type", "d1/dbb/a08016.html#a9297944511f34279a6439ade9d83b0c6", null ],
-    [ "StoreTo", "d1/dbb/a08016.html#a1f5494d3c3472abbf8783026015b5f70", null ],
-    [ "tag", "d1/dbb/a08016.html#a08484916162055a368e768b9f5300047", null ]
+    [ "value_type", "d1/dbb/a08016.html#ae75362e108b0a7323fe92cae75c4729c", null ],
+    [ "TryConsume", "d1/dbb/a08016.html#a19112294c2e36c8e36fb3f77f2ccabba", null ]
 ];

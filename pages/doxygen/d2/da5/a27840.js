@@ -1,6 +1,6 @@
 var a27840 =
 [
-    [ "HandleScript", "d2/da5/a27840.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d2/da5/a27840.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d2/da5/a27840.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "go_l70_etc_musicAI", "d2/da5/a27840.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "d2/da5/a27840.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "d2/da5/a27840.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

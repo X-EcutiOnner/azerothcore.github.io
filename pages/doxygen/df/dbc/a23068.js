@@ -1,19 +1,8 @@
 var a23068 =
 [
-    [ "boss_fathomguard_tidalvess", "df/dbc/a23068.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
-    [ "DoAction", "df/dbc/a23068.html#a909601091c25285e0a6c9773b61ff049", null ],
-    [ "EnterEvadeMode", "df/dbc/a23068.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
-    [ "JustDied", "df/dbc/a23068.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
-    [ "JustEngagedWith", "df/dbc/a23068.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
-    [ "JustSummoned", "df/dbc/a23068.html#a1dc16180610c742e98a93f87653e93e9", null ],
-    [ "Reset", "df/dbc/a23068.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
-    [ "ScheduleRemoval", "df/dbc/a23068.html#a07c887552c8705b52caf9e102788a781", null ],
-    [ "SummonTotem", "df/dbc/a23068.html#adb4d877f50ba5653d699a0a123f5961c", null ],
-    [ "UpdateAI", "df/dbc/a23068.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
-    [ "_choice", "df/dbc/a23068.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
-    [ "_entryList", "df/dbc/a23068.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
-    [ "_instance", "df/dbc/a23068.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
-    [ "_scheduler", "df/dbc/a23068.html#ae1652d83938dc820255e383870b957a7", null ],
-    [ "_summons", "df/dbc/a23068.html#aea75646687854c08eaee75c55718376d", null ],
-    [ "_totemScheduler", "df/dbc/a23068.html#a1b4ace7575946c585cc63057e81a1529", null ]
+    [ "boss_hungarfen", "df/dbc/a23068.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "df/dbc/a23068.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "df/dbc/a23068.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "df/dbc/a23068.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "df/dbc/a23068.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

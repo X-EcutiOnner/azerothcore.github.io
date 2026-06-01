@@ -1,13 +1,16 @@
 var a08204 =
 [
-    [ "LfgQueueData", "d3/d6d/a08204.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
-    [ "LfgQueueData", "d3/d6d/a08204.html#a363aa2cc53bce304893335ca93755103", null ],
-    [ "bestCompatible", "d3/d6d/a08204.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
-    [ "dps", "d3/d6d/a08204.html#ab78711eaf7285a5d4821e52354124646", null ],
-    [ "dungeons", "d3/d6d/a08204.html#a6b115f3a5e0ff996279db044f47f5823", null ],
-    [ "healers", "d3/d6d/a08204.html#a8b2049474102332ddca53f0892565216", null ],
-    [ "joinTime", "d3/d6d/a08204.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
-    [ "lastRefreshTime", "d3/d6d/a08204.html#a727d35760b716270c5f326f343106d0c", null ],
-    [ "roles", "d3/d6d/a08204.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
-    [ "tanks", "d3/d6d/a08204.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
+    [ "DisableMap", "d3/d6d/a08204.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d3/d6d/a08204.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d3/d6d/a08204.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d3/d6d/a08204.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d3/d6d/a08204.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d3/d6d/a08204.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d3/d6d/a08204.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d3/d6d/a08204.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d3/d6d/a08204.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d3/d6d/a08204.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d3/d6d/a08204.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d3/d6d/a08204.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d3/d6d/a08204.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

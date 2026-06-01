@@ -1,9 +1,5 @@
 var a20776 =
 [
-    [ "npc_xt002_pummeller", "d8/df3/a20776.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
-    [ "Reset", "d8/df3/a20776.html#a6140f9b246abeba75c291aa7e9624217", null ],
-    [ "UpdateAI", "d8/df3/a20776.html#a90c16a2da7c6c28759a89580736d34e8", null ],
-    [ "_arcingSmashTimer", "d8/df3/a20776.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
-    [ "_trampleTimer", "d8/df3/a20776.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
-    [ "_uppercutTimer", "d8/df3/a20776.html#a4a2427392e5531a4cab88243150f1ecf", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d8/df3/a20776.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d8/df3/a20776.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

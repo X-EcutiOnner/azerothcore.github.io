@@ -1,10 +1,7 @@
 var a17004 =
 [
-    [ "npc_mistress_of_painAI", "de/d22/a17004.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "de/d22/a17004.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "de/d22/a17004.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "de/d22/a17004.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "de/d22/a17004.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "de/d22/a17004.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "de/d22/a17004.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "HandleScriptEffect", "de/d22/a17004.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "de/d22/a17004.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "de/d22/a17004.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "de/d22/a17004.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

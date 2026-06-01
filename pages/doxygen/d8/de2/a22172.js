@@ -1,6 +1,7 @@
 var a22172 =
 [
-    [ "HandleScript", "d8/de2/a22172.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d8/de2/a22172.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d8/de2/a22172.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "OutdoorPvPGH", "d8/de2/a22172.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "HandleKill", "d8/de2/a22172.html#a78cf572faf727c302f9be496d91004e0", null ],
+    [ "SendRemoveWorldStates", "d8/de2/a22172.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d8/de2/a22172.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

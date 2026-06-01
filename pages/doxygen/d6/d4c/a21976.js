@@ -1,7 +1,14 @@
 var a21976 =
 [
-    [ "HandleScript", "d6/d4c/a21976.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d6/d4c/a21976.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d6/d4c/a21976.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d6/d4c/a21976.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "npc_wild_wyrm", "d6/d4c/a21976.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d6/d4c/a21976.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d6/d4c/a21976.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d6/d4c/a21976.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d6/d4c/a21976.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d6/d4c/a21976.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d6/d4c/a21976.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d6/d4c/a21976.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d6/d4c/a21976.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d6/d4c/a21976.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d6/d4c/a21976.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

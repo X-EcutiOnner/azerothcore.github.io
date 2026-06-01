@@ -1,6 +1,6 @@
 var a23624 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "df/de4/a23628.html", "df/de4/a23628" ],
-    [ "instance_shattered_halls", "d3/dcc/a23624.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d3/dcc/a23624.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "npc_deaths_fel_cannonAI", "d3/dcc/a23624.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d3/dcc/a23624.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d3/dcc/a23624.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

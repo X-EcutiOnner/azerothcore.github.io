@@ -1,5 +1,4 @@
 var a07972 =
 [
-    [ "IsColorValid", "df/d10/a07972.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
-    [ "IsTextValid", "df/d10/a07972.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
+    [ "type", "df/d10/a07972.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9", null ]
 ];

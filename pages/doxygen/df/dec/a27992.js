@@ -1,5 +1,5 @@
 var a27992 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "df/dec/a27992.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "df/dec/a27992.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "item_incendiary_explosives", "df/dec/a27992.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "df/dec/a27992.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,7 +1,7 @@
 var a05396 =
 [
-    [ "Secret", "db/d21/a05396.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "db/d21/a05396.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "db/d21/a05396.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "db/d21/a05396.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "operator()", "db/d21/a05396.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
+    [ "closestEntity", "db/d21/a05396.html#ab377424b7edd0274f61967619700f841", null ],
+    [ "hitLocation", "db/d21/a05396.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
+    [ "hitNormal", "db/d21/a05396.html#a57f40f48c26829f7da9e48efd839d773", null ]
 ];

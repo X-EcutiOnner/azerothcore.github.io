@@ -1,6 +1,6 @@
 var a15292 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d6/d74/a15296.html", "d6/d74/a15296" ],
-    [ "instance_old_hillsbrad", "d6/dab/a15292.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d6/dab/a15292.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "npc_idol_room_spawnerAI", "d6/d74/a15296.html", "d6/d74/a15296" ],
+    [ "npc_idol_room_spawner", "d6/dab/a15292.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d6/dab/a15292.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

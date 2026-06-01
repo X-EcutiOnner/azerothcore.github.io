@@ -1,6 +1,7 @@
 var a20596 =
 [
-    [ "HandleDamage", "dd/d9a/a20596.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "dd/d9a/a20596.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "dd/d9a/a20596.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "FilterTargets", "dd/d9a/a20596.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "dd/d9a/a20596.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "dd/d9a/a20596.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "dd/d9a/a20596.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

@@ -1,7 +1,6 @@
 var a15260 =
 [
-    [ "npc_cos_chromie_middle", "d1/d42/a15260.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d1/d42/a15260.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d1/d42/a15260.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d1/d42/a15260.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d7/dbe/a15264.html", "d7/dbe/a15264" ],
+    [ "instance_onyxias_lair", "d1/d42/a15260.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d1/d42/a15260.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

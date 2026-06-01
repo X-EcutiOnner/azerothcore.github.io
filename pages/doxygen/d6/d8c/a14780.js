@@ -1,12 +1,8 @@
 var a14780 =
 [
-    [ "npc_alexstraza_the_lifebinder", "d6/d8c/a14780.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "d6/d8c/a14780.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "d6/d8c/a14780.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "d6/d8c/a14780.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "d6/d8c/a14780.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "d6/d8c/a14780.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "d6/d8c/a14780.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "d6/d8c/a14780.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "d6/d8c/a14780.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "npc_love_in_air_snivel_real", "d6/d8c/a14780.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
+    [ "Talk", "d6/d8c/a14780.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
+    [ "UpdateAI", "d6/d8c/a14780.html#a22ed25da8fe3441ef0e4183390983f40", null ],
+    [ "actionCounter", "d6/d8c/a14780.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
+    [ "actionTimer", "d6/d8c/a14780.html#a3bbee1ff355581772b337268775b8fbc", null ]
 ];

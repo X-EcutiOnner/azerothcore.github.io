@@ -1,6 +1,6 @@
 var a22064 =
 [
-    [ "npc_guardian_pavilionAI", "df/d89/a22068.html", "df/d89/a22068" ],
-    [ "npc_guardian_pavilion", "dd/d61/a22064.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "dd/d61/a22064.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "HandleSummon", "dd/d61/a22064.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
+    [ "PrepareSpellScript", "dd/d61/a22064.html#ae7f071e9d9a82892be31090385679c9f", null ],
+    [ "Register", "dd/d61/a22064.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
 ];

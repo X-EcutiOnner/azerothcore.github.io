@@ -1,7 +1,29 @@
 var a29256 =
 [
-    [ "EpicPropertiesPoints", "db/dea/a29256.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "db/dea/a29256.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "db/dea/a29256.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "db/dea/a29256.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "ProcEventInfoBuilder", "db/dea/a29256.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
+    [ "Build", "db/dea/a29256.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
+    [ "WithActionTarget", "db/dea/a29256.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
+    [ "WithActor", "db/dea/a29256.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
+    [ "WithDamageInfo", "db/dea/a29256.html#a4d207196177033340282dd33b11c9d82", null ],
+    [ "WithHealInfo", "db/dea/a29256.html#a3883e3ba66735492617a9907cdde3794", null ],
+    [ "WithHitMask", "db/dea/a29256.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
+    [ "WithProcAuraEffectIndex", "db/dea/a29256.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
+    [ "WithProcTarget", "db/dea/a29256.html#af39d23e9a51f924215a20a578062a9db", null ],
+    [ "WithSpell", "db/dea/a29256.html#a42ec10664e0fdad98e02267099f0e73c", null ],
+    [ "WithSpellPhaseMask", "db/dea/a29256.html#a2247bbb4936f6d48c4214641a5a466af", null ],
+    [ "WithSpellTypeMask", "db/dea/a29256.html#aebac87d053e09dba16456a9f49322973", null ],
+    [ "WithTriggeredByAuraSpell", "db/dea/a29256.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
+    [ "WithTypeMask", "db/dea/a29256.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
+    [ "_actionTarget", "db/dea/a29256.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
+    [ "_actor", "db/dea/a29256.html#a03c844febd2cafe041e5426a02816633", null ],
+    [ "_damageInfo", "db/dea/a29256.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
+    [ "_healInfo", "db/dea/a29256.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
+    [ "_hitMask", "db/dea/a29256.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
+    [ "_procAuraEffectIndex", "db/dea/a29256.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
+    [ "_procTarget", "db/dea/a29256.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
+    [ "_spell", "db/dea/a29256.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
+    [ "_spellPhaseMask", "db/dea/a29256.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
+    [ "_spellTypeMask", "db/dea/a29256.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
+    [ "_triggeredByAuraSpell", "db/dea/a29256.html#a71180307b8e60ec02f11f388f43df126", null ],
+    [ "_typeMask", "db/dea/a29256.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
 ];

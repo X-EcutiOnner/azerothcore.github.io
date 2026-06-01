@@ -1,6 +1,6 @@
 var a19144 =
 [
-    [ "npc_arthas_teleport_visualAI", "d2/d3f/a19148.html", "d2/d3f/a19148" ],
-    [ "npc_arthas_teleport_visual", "dc/d53/a19144.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "dc/d53/a19144.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "RespawnEvent", "dc/d53/a19144.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "dc/d53/a19144.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "dc/d53/a19144.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

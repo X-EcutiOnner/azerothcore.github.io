@@ -1,5 +1,5 @@
 var a28260 =
 [
-    [ "go_dragonflayer_cage", "d8/d91/a28260.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
-    [ "OnGossipHello", "d8/d91/a28260.html#a542530a0b84879b21a4b9982cf4300d0", null ]
+    [ "npc_controller", "d8/d91/a28260.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d8/d91/a28260.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

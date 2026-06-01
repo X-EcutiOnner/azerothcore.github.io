@@ -1,4 +1,6 @@
 var a11256 =
 [
-    [ "IllegalHyperlinkException", "d1/dd7/a11256.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "ItemRefundInfo", "d1/dd7/a11256.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "d1/dd7/a11256.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "d1/dd7/a11256.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

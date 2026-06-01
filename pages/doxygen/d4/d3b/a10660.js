@@ -1,6 +1,5 @@
 var a10660 =
 [
-    [ "WorldMapScript", "d4/d3b/a10660.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d4/d3b/a10660.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d4/d3b/a10660.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "FactoryCreatureScript", "d4/d3b/a10660.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "d4/d3b/a10660.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

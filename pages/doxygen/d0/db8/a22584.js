@@ -1,12 +1,12 @@
 var a22584 =
 [
-    [ "boss_anzu", "d0/db8/a22584.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d0/db8/a22584.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d0/db8/a22584.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d0/db8/a22584.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d0/db8/a22584.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d0/db8/a22584.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d0/db8/a22584.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d0/db8/a22584.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d0/db8/a22584.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_essence_of_angerAI", "d0/db8/a22584.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d0/db8/a22584.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d0/db8/a22584.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d0/db8/a22584.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d0/db8/a22584.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d0/db8/a22584.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d0/db8/a22584.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "d0/db8/a22584.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "d0/db8/a22584.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

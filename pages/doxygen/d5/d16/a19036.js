@@ -1,7 +1,9 @@
 var a19036 =
 [
-    [ "FrostwingVrykulSearcher", "d5/d16/a19036.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d5/d16/a19036.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d5/d16/a19036.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d5/d16/a19036.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d5/d16/a19036.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "d5/d16/a19036.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "d5/d16/a19036.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "d5/d16/a19036.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "d5/d16/a19036.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "d5/d16/a19036.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

@@ -1,5 +1,5 @@
 var a15680 =
 [
-    [ "at_twin_emperors", "de/d35/a15680.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "de/d35/a15680.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "go_ravager_cage", "de/d35/a15680.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "de/d35/a15680.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

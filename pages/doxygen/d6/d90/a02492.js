@@ -1,8 +1,5 @@
 var a02492 =
 [
-    [ "GameObjectScript", "da/dd1/a10666.html", "da/dd1/a10666" ],
-    [ "GenericGameObjectScript< AI >", "de/d0e/a10670.html", "de/d0e/a10670" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "d6/d40/a10674.html", "d6/d40/a10674" ],
-    [ "RegisterGameObjectAI", "d6/d90/a02492.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "d6/d90/a02492.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "Movement::SplineBase", "d1/d2a/a10460.html", "d1/d2a/a10460" ],
+    [ "Movement::Spline< length_type >", "db/da2/a10464.html", "db/da2/a10464" ]
 ];

@@ -1,6 +1,7 @@
 var a24908 =
 [
-    [ "HandleHeal", "dd/d3f/a24908.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "dd/d3f/a24908.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "dd/d3f/a24908.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "HandleDummy", "dd/d3f/a24908.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
+    [ "Load", "dd/d3f/a24908.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
+    [ "PrepareSpellScript", "dd/d3f/a24908.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
+    [ "Register", "dd/d3f/a24908.html#a4d683270dc086454630475d39f0105e8", null ]
 ];

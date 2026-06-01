@@ -1,12 +1,16 @@
 var a19924 =
 [
-    [ "npc_spark_of_ionar", "d4/d90/a19924.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "d4/d90/a19924.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "d4/d90/a19924.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "d4/d90/a19924.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "d4/d90/a19924.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "d4/d90/a19924.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d4/d90/a19924.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "d4/d90/a19924.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "d4/d90/a19924.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "boss_steelbreaker", "d4/d90/a19924.html#a724e315f9508b02cadc5560f6525afc7", null ],
+    [ "DoAction", "d4/d90/a19924.html#a2f945dac566b3d24009b486cb4e37cd3", null ],
+    [ "JustDied", "d4/d90/a19924.html#af69b423bd844f946dede44e136344077", null ],
+    [ "JustEngagedWith", "d4/d90/a19924.html#afa14e6571e7772d9c978d45a94a40afa", null ],
+    [ "JustReachedHome", "d4/d90/a19924.html#ad73d9abcfdf9a2fcf3345a024db1f653", null ],
+    [ "KilledUnit", "d4/d90/a19924.html#a153f72f75fc0758591b418fe82c2628d", null ],
+    [ "Reset", "d4/d90/a19924.html#a66e5f9c30d30ed7dc42b8ae3ef4f46b6", null ],
+    [ "SpellHit", "d4/d90/a19924.html#adf32e50b2fc6f8d373933cc0295c7d54", null ],
+    [ "UpdateAI", "d4/d90/a19924.html#ad96ac1dcde103ddf71b2ded15e757834", null ],
+    [ "UpdatePhase", "d4/d90/a19924.html#a42ab7be0d80ece19dd726ed29d425183", null ],
+    [ "_phase", "d4/d90/a19924.html#a1b94dfb3b76278475aae50720a2e85c0", null ],
+    [ "events", "d4/d90/a19924.html#add48973c02460691e0f32a3ae3897836", null ],
+    [ "pInstance", "d4/d90/a19924.html#acf1e2229be9f931d0825ce252116b499", null ]
 ];

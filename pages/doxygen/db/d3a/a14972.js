@@ -1,5 +1,9 @@
 var a14972 =
 [
-    [ "PrepareSpellScript", "db/d3a/a14972.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "db/d3a/a14972.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "npc_ancient_wisp", "db/d3a/a14972.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "db/d3a/a14972.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "db/d3a/a14972.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "db/d3a/a14972.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "db/d3a/a14972.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "db/d3a/a14972.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

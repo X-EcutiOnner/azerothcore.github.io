@@ -1,6 +1,7 @@
 var a19496 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d5/df0/a19500.html", "d5/df0/a19500" ],
-    [ "boss_grobbulus_poison_cloud", "d4/dc8/a19496.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "d4/dc8/a19496.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "npc_alexstrasza", "d4/dc8/a19496.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d4/dc8/a19496.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d4/dc8/a19496.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d4/dc8/a19496.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

@@ -1,15 +1,17 @@
 var a05676 =
 [
-    [ "EnumFlag", "d6/d0e/a05676.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
-    [ "AsUnderlyingType", "d6/d0e/a05676.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
-    [ "HasAllFlags", "d6/d0e/a05676.html#adb5b65ab4a3d827882634d94774a912b", null ],
-    [ "HasFlag", "d6/d0e/a05676.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
-    [ "operator T", "d6/d0e/a05676.html#a13022712c9634c84907b906e55aebe28", null ],
-    [ "operator&=", "d6/d0e/a05676.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
-    [ "operator|=", "d6/d0e/a05676.html#ab49498ed668ee324702c4beadf4de999", null ],
-    [ "operator~", "d6/d0e/a05676.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
-    [ "RemoveFlag", "d6/d0e/a05676.html#a106a00ee4112382aa0120489551bf50a", null ],
-    [ "operator&", "d6/d0e/a05676.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
-    [ "operator|", "d6/d0e/a05676.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
-    [ "_value", "d6/d0e/a05676.html#a55353d720942d68d0dea86837aaca7c5", null ]
+    [ "LockedQueue", "d6/d0e/a05676.html#a5ce001c1fba3468b513aa7e345113128", null ],
+    [ "~LockedQueue", "d6/d0e/a05676.html#a259a03cc68a36181edebe088ef669c46", null ],
+    [ "add", "d6/d0e/a05676.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
+    [ "cancel", "d6/d0e/a05676.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
+    [ "cancelled", "d6/d0e/a05676.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
+    [ "empty", "d6/d0e/a05676.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
+    [ "next", "d6/d0e/a05676.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
+    [ "next", "d6/d0e/a05676.html#acaade33a01794600c72efbf389fe7664", null ],
+    [ "peek", "d6/d0e/a05676.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
+    [ "pop_front", "d6/d0e/a05676.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
+    [ "readd", "d6/d0e/a05676.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
+    [ "_canceled", "d6/d0e/a05676.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
+    [ "_lock", "d6/d0e/a05676.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
+    [ "_queue", "d6/d0e/a05676.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
 ];

@@ -1,7 +1,6 @@
 var a22636 =
 [
-    [ "HandleOnHit", "d6/d37/a22636.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d6/d37/a22636.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d6/d37/a22636.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d6/d37/a22636.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "PrepareSpellScript", "d6/d37/a22636.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "d6/d37/a22636.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "d6/d37/a22636.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

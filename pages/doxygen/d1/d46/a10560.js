@@ -1,17 +1,10 @@
 var a10560 =
 [
-    [ "GameObjectScript", "d1/d46/a10560.html#a9d9cf73435a16d7fef450134c03980bb", null ],
-    [ "GetAI", "d1/d46/a10560.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
-    [ "GetDialogStatus", "d1/d46/a10560.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
-    [ "IsDatabaseBound", "d1/d46/a10560.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
-    [ "OnDamaged", "d1/d46/a10560.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
-    [ "OnDestroyed", "d1/d46/a10560.html#a042676e98453494ab49bb90216755052", null ],
-    [ "OnGameObjectStateChanged", "d1/d46/a10560.html#a4992d88f026bf906852f085db4e8768e", null ],
-    [ "OnGossipHello", "d1/d46/a10560.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
-    [ "OnGossipSelect", "d1/d46/a10560.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
-    [ "OnGossipSelectCode", "d1/d46/a10560.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
-    [ "OnLootStateChanged", "d1/d46/a10560.html#ab93c178f2137e92da28665d28bfec1d5", null ],
-    [ "OnModifyHealth", "d1/d46/a10560.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
-    [ "OnQuestAccept", "d1/d46/a10560.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
-    [ "OnQuestReward", "d1/d46/a10560.html#a233712ff412081583a8295cf512da48d", null ]
+    [ "Flags", "d1/d46/a10560.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "d1/d46/a10560.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "d1/d46/a10560.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "d1/d46/a10560.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "d1/d46/a10560.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "d1/d46/a10560.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "d1/d46/a10560.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

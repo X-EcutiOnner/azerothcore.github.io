@@ -1,6 +1,6 @@
 var a25056 =
 [
-    [ "ModDest", "d4/d0a/a25056.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d4/d0a/a25056.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d4/d0a/a25056.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "OnApply", "d4/d0a/a25056.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d4/d0a/a25056.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d4/d0a/a25056.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

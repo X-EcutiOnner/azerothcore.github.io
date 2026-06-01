@@ -1,6 +1,7 @@
 var a20028 =
 [
-    [ "HandleScript", "d0/d98/a20028.html#a992dbad02eab01824d870bdd3fca93d0", null ],
-    [ "PrepareSpellScript", "d0/d98/a20028.html#a0e6b4d1f59896a255929556baa943bdb", null ],
-    [ "Register", "d0/d98/a20028.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
+    [ "boss_flame_leviathan_safety_container", "d0/d98/a20028.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
+    [ "MovementInform", "d0/d98/a20028.html#a42842de299fd9346cc0d61b649b652a4", null ],
+    [ "UpdateAI", "d0/d98/a20028.html#a55119d077f905a8207ad2afbe31f17a4", null ],
+    [ "_allowTimer", "d0/d98/a20028.html#a70134398c054c837407d6a22591a2d96", null ]
 ];

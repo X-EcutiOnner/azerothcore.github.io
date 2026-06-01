@@ -1,8 +1,8 @@
 var a25404 =
 [
-    [ "HandleApply", "d2/d79/a25404.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d2/d79/a25404.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d2/d79/a25404.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d2/d79/a25404.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d2/d79/a25404.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "CheckProc", "d2/d79/a25404.html#a86e6da13f7162318e5c0a7c6f89c69c2", null ],
+    [ "HandleProc", "d2/d79/a25404.html#a4ac70c7765266f36b7689ffcc2bed15d", null ],
+    [ "PrepareAuraScript", "d2/d79/a25404.html#acc41c53bf96695dc8cc43ccaf08e4125", null ],
+    [ "Register", "d2/d79/a25404.html#a1dcd66a66f7b069fede39b57f0abbb56", null ],
+    [ "Validate", "d2/d79/a25404.html#a269711969d98851c8275e3f44a706b97", null ]
 ];

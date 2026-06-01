@@ -1,4 +1,5 @@
 var a00659 =
 [
-    [ "RefMgr< TO, FROM >", "d3/d29/a05518.html", "d3/d29/a05518" ]
+    [ "item_commandscript", "d5/d4f/a12284.html", "d5/d4f/a12284" ],
+    [ "AddSC_item_commandscript", "dc/d91/a00659.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
 ];

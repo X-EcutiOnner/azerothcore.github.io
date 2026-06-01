@@ -1,8 +1,9 @@
 var a09692 =
 [
-    [ "MostHPMissingGroupInRange", "d0/d31/a09692.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d0/d31/a09692.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d0/d31/a09692.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d0/d31/a09692.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d0/d31/a09692.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d0/d31/a09692.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d0/d31/a09692.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d0/d31/a09692.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d0/d31/a09692.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d0/d31/a09692.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d0/d31/a09692.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

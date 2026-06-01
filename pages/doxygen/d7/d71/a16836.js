@@ -1,7 +1,6 @@
 var a16836 =
 [
-    [ "HandleEffectPeriodic", "d7/d71/a16836.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d7/d71/a16836.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d7/d71/a16836.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d7/d71/a16836.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_toc_pet_hunterAI", "d0/d7a/a16840.html", "d0/d7a/a16840" ],
+    [ "npc_toc_pet_hunter", "d7/d71/a16836.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d7/d71/a16836.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

@@ -1,9 +1,6 @@
 var a18804 =
 [
-    [ "HandleScript", "da/d5f/a18804.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "da/d5f/a18804.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "da/d5f/a18804.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "da/d5f/a18804.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "da/d5f/a18804.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "da/d5f/a18804.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "PeriodicTick", "da/d5f/a18804.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "da/d5f/a18804.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "da/d5f/a18804.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

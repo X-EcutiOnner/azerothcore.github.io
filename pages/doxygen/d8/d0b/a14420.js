@@ -1,12 +1,12 @@
 var a14420 =
 [
-    [ "npc_zulian_prowlerAI", "d8/d0b/a14420.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d8/d0b/a14420.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d8/d0b/a14420.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d8/d0b/a14420.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d8/d0b/a14420.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d8/d0b/a14420.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d8/d0b/a14420.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d8/d0b/a14420.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d8/d0b/a14420.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_chained_spirit", "d8/d0b/a14420.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d8/d0b/a14420.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d8/d0b/a14420.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d8/d0b/a14420.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d8/d0b/a14420.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d8/d0b/a14420.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d8/d0b/a14420.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d8/d0b/a14420.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d8/d0b/a14420.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

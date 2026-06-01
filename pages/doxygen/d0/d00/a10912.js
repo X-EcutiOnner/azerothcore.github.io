@@ -1,6 +1,6 @@
 var a10912 =
 [
-    [ "GuildUpdateInfoText", "d0/d00/a10912.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "d0/d00/a10912.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "d0/d00/a10912.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "EmoteClient", "d0/d00/a10912.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "d0/d00/a10912.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "d0/d00/a10912.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

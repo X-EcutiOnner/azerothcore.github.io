@@ -1,6 +1,8 @@
 var a12588 =
 [
-    [ "boss_solakar_flamewreathAI", "db/d68/a12592.html", "db/d68/a12592" ],
-    [ "boss_solakar_flamewreath", "d8/d29/a12588.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d8/d29/a12588.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "boss_highlord_omokk", "d8/d29/a12588.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
+    [ "JustDied", "d8/d29/a12588.html#a2a8931227eb65759ceebd27919976cb5", null ],
+    [ "JustEngagedWith", "d8/d29/a12588.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
+    [ "Reset", "d8/d29/a12588.html#ada6bf702dc1827e60b558b4fb752b789", null ],
+    [ "UpdateAI", "d8/d29/a12588.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
 ];

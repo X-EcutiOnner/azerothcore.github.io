@@ -1,7 +1,6 @@
 var a18712 =
 [
-    [ "OnRemove", "d8/ded/a18712.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d8/ded/a18712.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d8/ded/a18712.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d8/ded/a18712.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "boss_valithria_dreamwalkerAI", "d9/ddb/a18716.html", "d9/ddb/a18716" ],
+    [ "boss_valithria_dreamwalker", "d8/ded/a18712.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d8/ded/a18712.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

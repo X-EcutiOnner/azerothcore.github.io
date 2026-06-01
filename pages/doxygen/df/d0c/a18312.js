@@ -1,5 +1,6 @@
 var a18312 =
 [
-    [ "npc_volatile_oozeAI", "df/d0c/a18312.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "df/d0c/a18312.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "FilterTargets", "df/d0c/a18312.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "df/d0c/a18312.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "df/d0c/a18312.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

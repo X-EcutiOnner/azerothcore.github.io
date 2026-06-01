@@ -1,6 +1,6 @@
 var a18184 =
 [
-    [ "DaranavanMoveEvent", "d8/d91/a18184.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d8/d91/a18184.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d8/d91/a18184.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "OnRemove", "d8/d91/a18184.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d8/d91/a18184.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d8/d91/a18184.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

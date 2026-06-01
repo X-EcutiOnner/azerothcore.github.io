@@ -1,17 +1,13 @@
 var a15584 =
 [
-    [ "boss_eye_of_cthun", "db/d1d/a15584.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
-    [ "DamageTaken", "db/d1d/a15584.html#a1a28da1eefd61303201d1f3150fe405f", null ],
-    [ "DoAction", "db/d1d/a15584.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
-    [ "JustDied", "db/d1d/a15584.html#a4dec255ac49195d835390772a8f1f517", null ],
-    [ "JustEngagedWith", "db/d1d/a15584.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
-    [ "JustSummoned", "db/d1d/a15584.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
-    [ "MoveInLineOfSight", "db/d1d/a15584.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
-    [ "Reset", "db/d1d/a15584.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
-    [ "ScheduleTask", "db/d1d/a15584.html#a14e5b518f2c8534096b8a8059458636d", null ],
-    [ "_beamTarget", "db/d1d/a15584.html#a2c217290b988d06397c52e3485a7dae8", null ],
-    [ "_eyeTentacleCounter", "db/d1d/a15584.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
-    [ "ClockWise", "db/d1d/a15584.html#a701a24f3a06657467b8665d2e4216710", null ],
-    [ "DarkGlareAngle", "db/d1d/a15584.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
-    [ "DarkGlareTick", "db/d1d/a15584.html#af546d3325ad456d335148cd7284f7cad", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "db/d1d/a15584.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "db/d1d/a15584.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "db/d1d/a15584.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "db/d1d/a15584.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "db/d1d/a15584.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "db/d1d/a15584.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "db/d1d/a15584.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "db/d1d/a15584.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "db/d1d/a15584.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "db/d1d/a15584.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

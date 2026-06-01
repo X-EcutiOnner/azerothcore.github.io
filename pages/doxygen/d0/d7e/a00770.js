@@ -1,8 +1,6 @@
 var a00770 =
 [
-    [ "fixname2", "d0/d7e/a00770.html#ac0029be4572a61d00eb1435db5526a74", null ],
-    [ "fixnamen", "d0/d7e/a00770.html#abdc56edc46e0804c456749761cff8daf", null ],
-    [ "GetExtension", "d0/d7e/a00770.html#ac3f75fc482c41471364c2c3e8bd1dd96", null ],
-    [ "GetPlainName", "d0/d7e/a00770.html#a5e577b4c8e75312883ba4e8c571908ca", null ],
-    [ "GetPlainName", "d0/d7e/a00770.html#a939d4568b4058bf826a517f55cb963af", null ]
+    [ "instance_oculus", "dc/d75/a19636.html", "dc/d75/a19636" ],
+    [ "instance_oculus::instance_oculus_InstanceMapScript", "d2/dc7/a19640.html", "d2/dc7/a19640" ],
+    [ "AddSC_instance_oculus", "d0/d7e/a00770.html#affab733b7501171ef164fa0b308883a7", null ]
 ];

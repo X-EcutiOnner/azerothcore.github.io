@@ -1,6 +1,9 @@
 var a23892 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d6/d90/a23896.html", "d6/d90/a23896" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "da/de4/a23892.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "da/de4/a23892.html#a250707096229da28024960beeb7725bf", null ]
+    [ "npc_enraged_spiritAI", "da/de4/a23892.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "da/de4/a23892.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "da/de4/a23892.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "da/de4/a23892.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "da/de4/a23892.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "da/de4/a23892.html#afa6825696b0622849f877b392df4b326", null ]
 ];

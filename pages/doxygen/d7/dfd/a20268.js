@@ -1,7 +1,6 @@
 var a20268 =
 [
-    [ "OnPeriodic", "d7/dfd/a20268.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d7/dfd/a20268.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d7/dfd/a20268.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d7/dfd/a20268.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "HandleAfterEffectApply", "d7/dfd/a20268.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d7/dfd/a20268.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d7/dfd/a20268.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

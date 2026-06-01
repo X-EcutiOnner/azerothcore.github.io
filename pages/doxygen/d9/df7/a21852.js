@@ -1,6 +1,5 @@
 var a21852 =
 [
-    [ "npc_mrfloppyAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
-    [ "npc_mrfloppy", "d9/df7/a21852.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d9/df7/a21852.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "go_brazier", "d9/df7/a21852.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "d9/df7/a21852.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

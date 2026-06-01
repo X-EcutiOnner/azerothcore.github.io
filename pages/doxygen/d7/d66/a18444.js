@@ -1,7 +1,7 @@
 var a18444 =
 [
-    [ "HandleScript", "d7/d66/a18444.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "d7/d66/a18444.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "d7/d66/a18444.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "d7/d66/a18444.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "TriggerWickedSpirit", "d7/d66/a18444.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d7/d66/a18444.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d7/d66/a18444.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d7/d66/a18444.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

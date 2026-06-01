@@ -1,7 +1,6 @@
 var a26280 =
 [
-    [ "HandlePeriodicDummy", "dd/dac/a26280.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "dd/dac/a26280.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "dd/dac/a26280.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "CalculateAmount", "dd/dac/a26280.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "dd/dac/a26280.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

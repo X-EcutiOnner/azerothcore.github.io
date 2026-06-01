@@ -1,15 +1,14 @@
 var a22840 =
 [
-    [ "boss_reliquary_of_soulsAI", "d9/d0e/a22840.html#abee29aab1d28a168be3b381d0765a804", null ],
-    [ "AttackStart", "d9/d0e/a22840.html#af59a9972dfdb264248e78206ea0d834c", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d9/d0e/a22840.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
-    [ "DoAction", "d9/d0e/a22840.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
-    [ "JustDied", "d9/d0e/a22840.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
-    [ "JustEngagedWith", "d9/d0e/a22840.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
-    [ "JustSummoned", "d9/d0e/a22840.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
-    [ "MoveInLineOfSight", "d9/d0e/a22840.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
-    [ "PhaseTransitionSpawns", "d9/d0e/a22840.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
-    [ "Reset", "d9/d0e/a22840.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
-    [ "SummonedCreatureDies", "d9/d0e/a22840.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
-    [ "UpdateAI", "d9/d0e/a22840.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
+    [ "SpellIds", "d9/d0e/a22840.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "d9/d0e/a22840.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "d9/d0e/a22840.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "d9/d0e/a22840.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "d9/d0e/a22840.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "d9/d0e/a22840.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "d9/d0e/a22840.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "d9/d0e/a22840.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "d9/d0e/a22840.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "d9/d0e/a22840.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

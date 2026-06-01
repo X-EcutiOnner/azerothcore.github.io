@@ -1,8 +1,9 @@
 var a20404 =
 [
-    [ "npc_ulduar_flash_freeze", "d8/dd9/a20404.html#a71c3a5c17af15cc75955d565a5d32b05", null ],
-    [ "DamageTaken", "d8/dd9/a20404.html#af381d671e1b64c6135ed6c76b1eef213", null ],
-    [ "UpdateAI", "d8/dd9/a20404.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
-    [ "pInstance", "d8/dd9/a20404.html#aa763071062842e656c5db9f7ba6bbafe", null ],
-    [ "timer", "d8/dd9/a20404.html#a016272492e1843b09c7c8b40537a463a", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d8/dd9/a20404.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d8/dd9/a20404.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d8/dd9/a20404.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d8/dd9/a20404.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d8/dd9/a20404.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d8/dd9/a20404.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

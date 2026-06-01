@@ -1,6 +1,6 @@
 var a28228 =
 [
-    [ "go_fel_crystalforge", "da/dec/a28228.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "da/dec/a28228.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "da/dec/a28228.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "npc_spring_rabbitAI", "dc/d6e/a28232.html", "dc/d6e/a28232" ],
+    [ "npc_spring_rabbit", "da/dec/a28228.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "da/dec/a28228.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

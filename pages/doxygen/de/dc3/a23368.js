@@ -1,8 +1,14 @@
 var a23368 =
 [
-    [ "boss_the_black_stalker", "de/dc3/a23368.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "de/dc3/a23368.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "de/dc3/a23368.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "de/dc3/a23368.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "de/dc3/a23368.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "npc_warden_mellicharAI", "de/dc3/a23368.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
+    [ "AttackStart", "de/dc3/a23368.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
+    [ "DamageTaken", "de/dc3/a23368.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
+    [ "JustDied", "de/dc3/a23368.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
+    [ "JustEngagedWith", "de/dc3/a23368.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
+    [ "JustSummoned", "de/dc3/a23368.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
+    [ "MoveInLineOfSight", "de/dc3/a23368.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
+    [ "Reset", "de/dc3/a23368.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
+    [ "SetData", "de/dc3/a23368.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
+    [ "SummonedCreatureDies", "de/dc3/a23368.html#a58e1011986be65725d4db3d782bc72ac", null ],
+    [ "UpdateAI", "de/dc3/a23368.html#a944cff5367213d561a7e6df5faf2a216", null ]
 ];

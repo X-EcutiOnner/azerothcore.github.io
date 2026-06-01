@@ -1,8 +1,8 @@
 var a22312 =
 [
-    [ "npc_wg_queueAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
-    [ "npc_wg_queue", "de/d84/a22312.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "de/d84/a22312.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "de/d84/a22312.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "de/d84/a22312.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "boss_darkweaver_syth", "de/d84/a22312.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "de/d84/a22312.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "de/d84/a22312.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "de/d84/a22312.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "de/d84/a22312.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

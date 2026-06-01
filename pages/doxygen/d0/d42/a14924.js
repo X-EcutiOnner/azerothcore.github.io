@@ -1,8 +1,6 @@
 var a14924 =
 [
-    [ "OnApply", "d0/d42/a14924.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d0/d42/a14924.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d0/d42/a14924.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d0/d42/a14924.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d0/d42/a14924.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "HandleTriggerSpell", "d0/d42/a14924.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
+    [ "PrepareSpellScript", "d0/d42/a14924.html#a76a070da8e719198463010499f595599", null ],
+    [ "Register", "d0/d42/a14924.html#ae237c4972167a5a17b59800983496a9d", null ]
 ];

@@ -1,11 +1,5 @@
 var a14764 =
 [
-    [ "npc_the_biggest_tree", "df/d1f/a14764.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
-    [ "MoveInLineOfSight", "df/d1f/a14764.html#a572c0b146d461b6a8504163452570954", null ],
-    [ "Reset", "df/d1f/a14764.html#a3fd4c5e522e8945925124426a8ff870b", null ],
-    [ "UpdateAI", "df/d1f/a14764.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
-    [ "orphanGUID", "df/d1f/a14764.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
-    [ "phase", "df/d1f/a14764.html#a7101fe10b15ce1779d3d131e597ef636", null ],
-    [ "playerGUID", "df/d1f/a14764.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
-    [ "timer", "df/d1f/a14764.html#a7525783692c3bc9642f534296b71a5f5", null ]
+    [ "go_loosely_turned_soilAI", "df/d1f/a14764.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "df/d1f/a14764.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

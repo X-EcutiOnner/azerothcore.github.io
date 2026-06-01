@@ -1,8 +1,9 @@
 var a28284 =
 [
-    [ "go_bellsAI", "dc/d26/a28284.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "dc/d26/a28284.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "dc/d26/a28284.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "dc/d26/a28284.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "dc/d26/a28284.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "npc_necropolis_health", "dc/d26/a28284.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "dc/d26/a28284.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "dc/d26/a28284.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "dc/d26/a28284.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "dc/d26/a28284.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "dc/d26/a28284.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

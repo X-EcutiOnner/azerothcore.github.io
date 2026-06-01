@@ -1,6 +1,6 @@
 var a17820 =
 [
-    [ "boss_blood_queen_lana_thelAI", "df/d60/a17824.html", "df/d60/a17824" ],
-    [ "boss_blood_queen_lana_thel", "dc/df2/a17820.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "dc/df2/a17820.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "npc_zafod_boomboxAI", "df/d60/a17824.html", "df/d60/a17824" ],
+    [ "npc_zafod_boombox", "dc/df2/a17820.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "dc/df2/a17820.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

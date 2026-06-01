@@ -1,7 +1,6 @@
 var a12724 =
 [
-    [ "boss_ebonrocAI", "da/d4a/a12724.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "da/d4a/a12724.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "da/d4a/a12724.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "da/d4a/a12724.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "boss_flamegor", "da/d4a/a12724.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "da/d4a/a12724.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "da/d4a/a12724.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

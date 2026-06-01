@@ -1,7 +1,6 @@
 var a18448 =
 [
-    [ "HandleScript", "d5/d57/a18448.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d5/d57/a18448.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d5/d57/a18448.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d5/d57/a18448.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "LichKingDeathEvent", "d5/d57/a18448.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d5/d57/a18448.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d5/d57/a18448.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

@@ -1,6 +1,9 @@
 var a06396 =
 [
-    [ "CreatureAIFactory", "d8/d31/a06396.html#a978af64c2793b92ee2fe57763500f8d9", null ],
-    [ "Create", "d8/d31/a06396.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
-    [ "Permit", "d8/d31/a06396.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
+    [ "TurretAI", "d8/d31/a06396.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "d8/d31/a06396.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "d8/d31/a06396.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "d8/d31/a06396.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "d8/d31/a06396.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "d8/d31/a06396.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

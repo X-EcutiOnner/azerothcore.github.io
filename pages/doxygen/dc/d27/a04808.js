@@ -1,7 +1,23 @@
 var a04808 =
 [
-    [ "instance_mechanar", "d6/d19/a23582.html", "d6/d19/a23582" ],
-    [ "instance_mechanar::instance_mechanar_InstanceMapScript", "d4/d22/a23586.html", "d4/d22/a23586" ],
-    [ "AddSC_instance_mechanar", "dc/d27/a04808.html#a23f3274fbd28e19fae6647987fcdf0b9", null ],
-    [ "doorData", "dc/d27/a04808.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "ProcFlagScenario", "d3/d91/a29540.html", "d3/d91/a29540" ],
+    [ "SpellProcDatabaseTest", "d4/de7/a29544.html", "d4/de7/a29544" ],
+    [ "TEST_F", "dc/d27/a04808.html#a0b5b8d274c47bc86db574620f695c2b6", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a7e7a38efd8e5e25ff2069b885f19c281", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a7567757723eb6accfeedcb21c604f0df", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a03034fc12b64bd4c50f7617855062eb2", null ],
+    [ "TEST_F", "dc/d27/a04808.html#aa0d9411f4bb497661e6fc7e2c80e70b8", null ],
+    [ "TEST_F", "dc/d27/a04808.html#ade9e3c555c602d8dc3d48aeb2880f9e3", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a7ccb74b90d9c4622d4c93a805dd5bcb7", null ],
+    [ "TEST_F", "dc/d27/a04808.html#ab81dcf2a3bae744ae0dd72df2621bf41", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a29570fd862ac0b1cb7e8598a63cf9cb3", null ],
+    [ "TEST_F", "dc/d27/a04808.html#aa4b2611edf9da1a82947b3ef91d4300f", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a4e0a769ef32d9c506c85d7c37f43e69c", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a8160f6dd75399af97f608204cc8c628d", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a6cef918a1138c8d061d712c83b815ade", null ],
+    [ "TEST_F", "dc/d27/a04808.html#af19b76fda089568c8f35bafb48da71dd", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a3af47a3780558b73350c1d46d609de77", null ],
+    [ "TEST_F", "dc/d27/a04808.html#a0e7a4faf11231646940f63c7df7a8e65", null ],
+    [ "HIT_MASK_SCENARIOS", "dc/d27/a04808.html#a46d18d926208a684776339a2bc9dbeea", null ],
+    [ "PROC_FLAG_SCENARIOS", "dc/d27/a04808.html#af191df4d9a6c137921b953a96941fe03", null ]
 ];

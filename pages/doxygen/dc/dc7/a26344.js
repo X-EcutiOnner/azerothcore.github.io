@@ -1,6 +1,6 @@
 var a26344 =
 [
-    [ "CheckProc", "dc/dc7/a26344.html#a32944bc11db6436123d0ae58dc69049e", null ],
-    [ "PrepareAuraScript", "dc/dc7/a26344.html#a3ff37b99957c2b48b1794085a4043372", null ],
-    [ "Register", "dc/dc7/a26344.html#ada958db35d6079e25109cb06e5da209e", null ]
+    [ "CheckTarget", "dc/dc7/a26344.html#af1dae4f351ccaa7bc9b2ea315f0752c5", null ],
+    [ "PrepareSpellScript", "dc/dc7/a26344.html#a8f4075c80c7dcaa16f71bc1b396d005f", null ],
+    [ "Register", "dc/dc7/a26344.html#af4a27df3090a45ebd5db29c58e9ea47f", null ]
 ];

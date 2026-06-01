@@ -1,4 +1,7 @@
 var a02489 =
 [
-    [ "AchievementCriteriaScript", "de/deb/a10558.html", "de/deb/a10558" ]
+    [ "C_Evaluate", "da/dbe/a02489.html#a409e47c24c7802840315c6e4c75725cc", null ],
+    [ "C_Evaluate_Derivative", "da/dbe/a02489.html#a318f60ef13751f5cf60cdb79cf353faa", null ],
+    [ "s_Bezier3Coeffs", "da/dbe/a02489.html#a508e01047096fea2dbd9e0fedf6d75cb", null ],
+    [ "s_catmullRomCoeffs", "da/dbe/a02489.html#aff10e913762216c0735a8a3530ee25d2", null ]
 ];

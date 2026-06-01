@@ -1,9 +1,22 @@
 var a05508 =
 [
-    [ "Count", "d7/d56/a05508.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d7/d56/a05508.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d7/d56/a05508.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "d7/d56/a05508.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d7/d56/a05508.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d7/d56/a05508.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "LinkedListElement", "d7/d56/a05508.html#ac1194068a8be3b5633aee45147bdcdc3", null ],
+    [ "~LinkedListElement", "d7/d56/a05508.html#a3c4918a1ef71822c094efab28cd18c33", null ],
+    [ "delink", "d7/d56/a05508.html#a56583d2ad1e6e3b9b37d1dcbf55d2a10", null ],
+    [ "hasNext", "d7/d56/a05508.html#a6a31a6cb9b48a00ceeb0c05506020fad", null ],
+    [ "hasPrev", "d7/d56/a05508.html#a9aa9698ff9aab072a12bb38fab4533b5", null ],
+    [ "insertAfter", "d7/d56/a05508.html#a5815d1c7015ca4671993137703dc3fc1", null ],
+    [ "insertBefore", "d7/d56/a05508.html#ac1a009d1d2f1c782d7882e5990854bf9", null ],
+    [ "isInList", "d7/d56/a05508.html#ac1f61be0f1b485899870ddafec4f0daf", null ],
+    [ "next", "d7/d56/a05508.html#acbcdd7cb06a928d4d3c23b017abd715d", null ],
+    [ "next", "d7/d56/a05508.html#a7e17b9a27128db95781737096401ae6f", null ],
+    [ "nocheck_next", "d7/d56/a05508.html#a36ba2530546c52b5ef3ea91bb45f7c9c", null ],
+    [ "nocheck_next", "d7/d56/a05508.html#aa5de440f42d0df69d021d1fdbde96dee", null ],
+    [ "nocheck_prev", "d7/d56/a05508.html#abe1be90c1bf7b22096e611ef46b5dfb4", null ],
+    [ "nocheck_prev", "d7/d56/a05508.html#ae8c8580dfa196cc39385d8d171375545", null ],
+    [ "prev", "d7/d56/a05508.html#a78fb6e3984ca951c45fb48781f2a6861", null ],
+    [ "prev", "d7/d56/a05508.html#aad9ba71b4169621a6be2881c5883d147", null ],
+    [ "LinkedListHead", "d7/d56/a05508.html#a3e79720cb367ba3c26eeeee4536473e7", null ],
+    [ "iNext", "d7/d56/a05508.html#adbad5e71eaae55ad05b8fd836e1da809", null ],
+    [ "iPrev", "d7/d56/a05508.html#a3d763a3685504dab0940d2201052b990", null ]
 ];

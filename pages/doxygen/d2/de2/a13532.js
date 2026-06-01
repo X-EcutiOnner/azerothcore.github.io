@@ -1,6 +1,8 @@
 var a13532 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "de/d98/a13536.html", "de/d98/a13536" ],
-    [ "instance_scarlet_monastery", "d2/de2/a13532.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d2/de2/a13532.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "CalcPeriodic", "d2/de2/a13532.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d2/de2/a13532.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d2/de2/a13532.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d2/de2/a13532.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d2/de2/a13532.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

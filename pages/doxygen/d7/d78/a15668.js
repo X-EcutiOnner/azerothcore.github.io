@@ -1,14 +1,8 @@
 var a15668 =
 [
-    [ "boss_twinemperorsAI", "d7/d78/a15668.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d7/d78/a15668.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d7/d78/a15668.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d7/d78/a15668.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d7/d78/a15668.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d7/d78/a15668.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d7/d78/a15668.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d7/d78/a15668.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d7/d78/a15668.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d7/d78/a15668.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d7/d78/a15668.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "npc_injured_draeneiAI", "d7/d78/a15668.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d7/d78/a15668.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d7/d78/a15668.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d7/d78/a15668.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d7/d78/a15668.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

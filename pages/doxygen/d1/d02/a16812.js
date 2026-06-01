@@ -1,6 +1,6 @@
 var a16812 =
 [
-    [ "npc_frost_sphereAI", "da/d42/a16816.html", "da/d42/a16816" ],
-    [ "npc_frost_sphere", "d1/d02/a16812.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "d1/d02/a16812.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "npc_toc_enh_shamanAI", "da/d42/a16816.html", "da/d42/a16816" ],
+    [ "npc_toc_enh_shaman", "d1/d02/a16812.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d1/d02/a16812.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

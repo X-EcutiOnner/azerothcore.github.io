@@ -1,5 +1,6 @@
 var a22120 =
 [
-    [ "go_brazier", "d6/d2b/a22120.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d6/d2b/a22120.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_released_offspring_harkoaAI", "d6/d2b/a22120.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d6/d2b/a22120.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d6/d2b/a22120.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

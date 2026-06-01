@@ -1,5 +1,6 @@
 var a27908 =
 [
-    [ "achievement_resilient_victory", "da/df2/a27908.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "da/df2/a27908.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "go_fel_crystalforge", "da/df2/a27908.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "da/df2/a27908.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "da/df2/a27908.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

@@ -1,9 +1,6 @@
 var a22824 =
 [
-    [ "FilterTargets", "da/dc5/a22824.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "da/dc5/a22824.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "da/dc5/a22824.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "da/dc5/a22824.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "da/dc5/a22824.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "da/dc5/a22824.html#a814083360970284a325621f45e109b5b", null ]
+    [ "HandleEffectRemove", "da/dc5/a22824.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "da/dc5/a22824.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "da/dc5/a22824.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

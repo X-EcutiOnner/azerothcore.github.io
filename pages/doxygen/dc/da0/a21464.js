@@ -1,6 +1,6 @@
 var a21464 =
 [
-    [ "HandleEffectPeriodic", "dc/da0/a21464.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "dc/da0/a21464.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "dc/da0/a21464.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_heated_battleAI", "dc/da0/a21464.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "dc/da0/a21464.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "dc/da0/a21464.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

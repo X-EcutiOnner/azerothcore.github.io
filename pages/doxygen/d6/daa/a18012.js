@@ -1,20 +1,12 @@
 var a18012 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d6/daa/a18012.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
-    [ "AttackStart", "d6/daa/a18012.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
-    [ "CanAIAttack", "d6/daa/a18012.html#a58b5476b42ea1d249cb3795da86509db", null ],
-    [ "DamageTaken", "d6/daa/a18012.html#ae2715e5410ddf25734469594f72c7373", null ],
-    [ "DoAction", "d6/daa/a18012.html#acf222bf3f1204215918e339d57e6ee37", null ],
-    [ "EnterEvadeMode", "d6/daa/a18012.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
-    [ "JustEngagedWith", "d6/daa/a18012.html#aa98690c2c7002915c72e68f9136a9ace", null ],
-    [ "SetData", "d6/daa/a18012.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
-    [ "sGossipSelect", "d6/daa/a18012.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
-    [ "UpdateAI", "d6/daa/a18012.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
-    [ "_axethrowersYellCooldown", "d6/daa/a18012.html#ad98e613c8d4625687f9ab16979d21707", null ],
-    [ "_controller", "d6/daa/a18012.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
-    [ "_events", "d6/daa/a18012.html#a132fc1f697d32c76c10766c71948fe01", null ],
-    [ "_firstMageCooldown", "d6/daa/a18012.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
-    [ "_instance", "d6/daa/a18012.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
-    [ "_rocketeersYellCooldown", "d6/daa/a18012.html#a0435dba6aff5287b1d10420a54a72d28", null ],
-    [ "checkTimer", "d6/daa/a18012.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
+    [ "npc_vengeful_shadeAI", "d6/daa/a18012.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "d6/daa/a18012.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "d6/daa/a18012.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "d6/daa/a18012.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "d6/daa/a18012.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "d6/daa/a18012.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "d6/daa/a18012.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "d6/daa/a18012.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "d6/daa/a18012.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

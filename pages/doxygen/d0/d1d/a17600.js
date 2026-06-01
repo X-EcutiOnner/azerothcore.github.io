@@ -1,5 +1,6 @@
 var a17600 =
 [
-    [ "endPosition", "d0/d1d/a17600.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d0/d1d/a17600.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "KnockIntoAir", "d0/d1d/a17600.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d0/d1d/a17600.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d0/d1d/a17600.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

@@ -1,15 +1,12 @@
 var a19264 =
 [
-    [ "npc_icc_valkyr_heraldAI", "d6/d0c/a19264.html#afd9cd5e7f1048940cdc46d1b7e93d2a1", null ],
-    [ "CanAIAttack", "d6/d0c/a19264.html#a80efc0d2e192c316640c8136c533aa6b", null ],
-    [ "JustEngagedWith", "d6/d0c/a19264.html#aee4e6801cb31ed631568a32c22aa809b", null ],
-    [ "JustReachedHome", "d6/d0c/a19264.html#a84da1485b45ab1229fc2ca6e2e6564f8", null ],
-    [ "JustSummoned", "d6/d0c/a19264.html#af63753b3de60bcdb79989bfa8d582176", null ],
-    [ "MoveInLineOfSight", "d6/d0c/a19264.html#ab048b3536a8b169e85ee4297f04005ba", null ],
-    [ "Reset", "d6/d0c/a19264.html#a0eefcf657c8b00b8f4a586f72467e1ca", null ],
-    [ "SpellHitTarget", "d6/d0c/a19264.html#aab96b7e137f9348ab4d33629c198f011", null ],
-    [ "SummonedCreatureDespawn", "d6/d0c/a19264.html#ae3e1b98b21f46d9d7c895c1e03794696", null ],
-    [ "UpdateAI", "d6/d0c/a19264.html#a55cbb21aecfd78efc96d465cf61728ae", null ],
-    [ "events", "d6/d0c/a19264.html#a28b3fdd5f60a2277604b9c4a4766f7bc", null ],
-    [ "summons", "d6/d0c/a19264.html#a379afe20ef8acbbc510485da74a41487", null ]
+    [ "npc_boss_gothik_minionAI", "d6/d0c/a19264.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d6/d0c/a19264.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d6/d0c/a19264.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d6/d0c/a19264.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d6/d0c/a19264.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d6/d0c/a19264.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d6/d0c/a19264.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d6/d0c/a19264.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d6/d0c/a19264.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

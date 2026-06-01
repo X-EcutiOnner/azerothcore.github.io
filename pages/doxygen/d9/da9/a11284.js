@@ -1,4 +1,8 @@
 var a11284 =
 [
-    [ "PacketArrayMaxCapacityException", "d9/da9/a11284.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
+    [ "PlayObjectSound", "d9/da9/a11284.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d9/da9/a11284.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d9/da9/a11284.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d9/da9/a11284.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d9/da9/a11284.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

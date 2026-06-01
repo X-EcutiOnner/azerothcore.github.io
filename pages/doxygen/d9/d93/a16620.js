@@ -1,7 +1,8 @@
 var a16620 =
 [
-    [ "TwilightCutterSelector", "d9/d93/a16620.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d9/d93/a16620.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d9/d93/a16620.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d9/d93/a16620.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "npc_toc5_player_vehicleAI", "d9/d93/a16620.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d9/d93/a16620.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d9/d93/a16620.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d9/d93/a16620.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d9/d93/a16620.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

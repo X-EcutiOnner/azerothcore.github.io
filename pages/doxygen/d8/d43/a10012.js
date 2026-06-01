@@ -1,9 +1,14 @@
 var a10012 =
 [
-    [ "RectangleBoundary", "d8/d43/a10012.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d8/d43/a10012.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d8/d43/a10012.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d8/d43/a10012.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d8/d43/a10012.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d8/d43/a10012.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "LootItemStorage", "d8/d43/a10012.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "d8/d43/a10012.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "d8/d43/a10012.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "d8/d43/a10012.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "d8/d43/a10012.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "d8/d43/a10012.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "d8/d43/a10012.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "d8/d43/a10012.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "d8/d43/a10012.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "d8/d43/a10012.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "d8/d43/a10012.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

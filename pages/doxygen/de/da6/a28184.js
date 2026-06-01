@@ -1,7 +1,7 @@
 var a28184 =
 [
-    [ "go_darkmoon_faire_musicAI", "de/da6/a28184.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "de/da6/a28184.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "de/da6/a28184.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "de/da6/a28184.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "npc_sayge", "de/da6/a28184.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "de/da6/a28184.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "de/da6/a28184.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "de/da6/a28184.html#aed1988335672423d024546654aa95298", null ]
 ];

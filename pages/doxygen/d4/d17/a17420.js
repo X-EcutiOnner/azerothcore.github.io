@@ -1,9 +1,6 @@
 var a17420 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d4/d17/a17420.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d4/d17/a17420.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d4/d17/a17420.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d4/d17/a17420.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d4/d17/a17420.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d4/d17/a17420.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "npc_living_mojoAI", "d3/d9d/a17424.html", "d3/d9d/a17424" ],
+    [ "npc_living_mojo", "d4/d17/a17420.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d4/d17/a17420.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

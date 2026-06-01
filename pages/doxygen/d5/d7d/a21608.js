@@ -1,6 +1,7 @@
 var a21608 =
 [
-    [ "npc_mei_francis_mountAI", "d8/d5b/a21612.html", "d8/d5b/a21612" ],
-    [ "npc_mei_francis_mount", "d5/d7d/a21608.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d5/d7d/a21608.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "HandleScriptEffect", "d5/d7d/a21608.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d5/d7d/a21608.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d5/d7d/a21608.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d5/d7d/a21608.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

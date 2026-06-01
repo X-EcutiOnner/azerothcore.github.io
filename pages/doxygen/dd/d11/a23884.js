@@ -1,6 +1,5 @@
 var a23884 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d2/daf/a23888.html", "d2/daf/a23888" ],
-    [ "instance_mechanar", "dd/d11/a23884.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "dd/d11/a23884.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "go_crystal_prison", "dd/d11/a23884.html#a0faca8b76f9650ee5cc7825b90463365", null ],
+    [ "OnQuestAccept", "dd/d11/a23884.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
 ];

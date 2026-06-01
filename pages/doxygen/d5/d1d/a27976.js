@@ -1,11 +1,10 @@
 var a27976 =
 [
-    [ "AccountActionIpLogger", "d5/d1d/a27976.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "d5/d1d/a27976.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "d5/d1d/a27976.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "d5/d1d/a27976.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "d5/d1d/a27976.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "d5/d1d/a27976.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "d5/d1d/a27976.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "d5/d1d/a27976.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "guard_shattrath_scryerAI", "d5/d1d/a27976.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d5/d1d/a27976.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d5/d1d/a27976.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d5/d1d/a27976.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d5/d1d/a27976.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d5/d1d/a27976.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d5/d1d/a27976.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

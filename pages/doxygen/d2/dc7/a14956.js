@@ -1,5 +1,7 @@
 var a14956 =
 [
-    [ "PrepareSpellScript", "d2/dc7/a14956.html#af219083d127afe24b2541a95bfd449ff", null ],
-    [ "Register", "d2/dc7/a14956.html#a03f7ac8d5968970f769191c7df7f5899", null ]
+    [ "HandleOnHit", "d2/dc7/a14956.html#a9f1d78b4a98bc76877903b79923c1634", null ],
+    [ "PrepareSpellScript", "d2/dc7/a14956.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
+    [ "Register", "d2/dc7/a14956.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
+    [ "Validate", "d2/dc7/a14956.html#a57d85b1702e5c89d72972505121180ed", null ]
 ];

@@ -1,6 +1,7 @@
 var a21760 =
 [
-    [ "SACDeactivateEvent", "dd/dab/a21760.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "dd/dab/a21760.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "dd/dab/a21760.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "GetSeatNumber", "dd/dab/a21760.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "dd/dab/a21760.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "dd/dab/a21760.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "dd/dab/a21760.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

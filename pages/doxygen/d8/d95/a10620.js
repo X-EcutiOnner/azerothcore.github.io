@@ -1,11 +1,12 @@
 var a10620 =
 [
-    [ "PetScript", "d8/d95/a10620.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d8/d95/a10620.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d8/d95/a10620.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d8/d95/a10620.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d8/d95/a10620.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d8/d95/a10620.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d8/d95/a10620.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d8/d95/a10620.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "ArenaScript", "d8/d95/a10620.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d8/d95/a10620.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d8/d95/a10620.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d8/d95/a10620.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d8/d95/a10620.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d8/d95/a10620.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d8/d95/a10620.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d8/d95/a10620.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d8/d95/a10620.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

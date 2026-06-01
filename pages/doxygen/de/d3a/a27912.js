@@ -1,5 +1,6 @@
 var a27912 =
 [
-    [ "achievement_bg_control_all_nodes", "de/d3a/a27912.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "de/d3a/a27912.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "go_bashir_crystalforge", "de/d3a/a27912.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "de/d3a/a27912.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "de/d3a/a27912.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

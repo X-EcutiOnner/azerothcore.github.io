@@ -1,6 +1,6 @@
 var a25440 =
 [
-    [ "CalculateDamage", "dc/da2/a25440.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "dc/da2/a25440.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "dc/da2/a25440.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandlePreventAura", "dc/da2/a25440.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "dc/da2/a25440.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "dc/da2/a25440.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

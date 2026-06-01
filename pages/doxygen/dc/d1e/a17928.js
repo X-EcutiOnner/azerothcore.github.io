@@ -1,5 +1,9 @@
 var a17928 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "dc/d1e/a17928.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "dc/d1e/a17928.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "HandleApply", "dc/d1e/a17928.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "dc/d1e/a17928.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "dc/d1e/a17928.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "dc/d1e/a17928.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "dc/d1e/a17928.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "dc/d1e/a17928.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

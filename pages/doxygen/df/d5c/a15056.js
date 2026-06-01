@@ -1,6 +1,10 @@
 var a15056 =
 [
-    [ "HandleScriptEffect", "df/d5c/a15056.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
-    [ "PrepareSpellScript", "df/d5c/a15056.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
-    [ "Register", "df/d5c/a15056.html#aee5d9189b6df318b57e919511a185a99", null ]
+    [ "npc_hyjal_frost_wyrm", "df/d5c/a15056.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "df/d5c/a15056.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "df/d5c/a15056.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "df/d5c/a15056.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "df/d5c/a15056.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "df/d5c/a15056.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "df/d5c/a15056.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

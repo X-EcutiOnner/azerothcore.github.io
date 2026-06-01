@@ -1,15 +1,7 @@
 var a23568 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d4/d75/a23568.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d4/d75/a23568.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d4/d75/a23568.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d4/d75/a23568.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d4/d75/a23568.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d4/d75/a23568.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d4/d75/a23568.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d4/d75/a23568.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d4/d75/a23568.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d4/d75/a23568.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d4/d75/a23568.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d4/d75/a23568.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "boss_gatewatcher_iron_hand", "d4/d75/a23568.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d4/d75/a23568.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d4/d75/a23568.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d4/d75/a23568.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

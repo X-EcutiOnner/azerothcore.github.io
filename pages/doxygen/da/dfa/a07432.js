@@ -1,7 +1,6 @@
 var a07432 =
 [
-    [ "attackText", "da/dfa/a07432.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "da/dfa/a07432.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "da/dfa/a07432.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "da/dfa/a07432.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "AuctionSearchListRequest", "da/dfa/a07432.html#ac619da4568504e2d25a0f90a4f8d1f0a", null ],
+    [ "playerInfo", "da/dfa/a07432.html#a73178eac3df25fd103b20b5894e8c4d8", null ],
+    [ "searchInfo", "da/dfa/a07432.html#a1e9d71ab67e1a9eb50333d620c4b170c", null ]
 ];

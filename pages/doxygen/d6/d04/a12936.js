@@ -1,7 +1,6 @@
 var a12936 =
 [
-    [ "HandleHit", "d6/d04/a12936.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d6/d04/a12936.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d6/d04/a12936.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d6/d04/a12936.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "instance_deadmines_InstanceMapScript", "d2/df5/a12940.html", "d2/df5/a12940" ],
+    [ "instance_deadmines", "d6/d04/a12936.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
+    [ "GetInstanceScript", "d6/d04/a12936.html#ac5cb65972d52324cedf662cc44dca626", null ]
 ];

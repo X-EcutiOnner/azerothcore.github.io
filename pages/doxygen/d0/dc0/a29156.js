@@ -1,12 +1,9 @@
 var a29156 =
 [
-    [ "CalendarFilterType", "d0/dc0/a29156.html#a082b59a0ead8223e590cbb371f3ad122", null ],
-    [ "CalendarFlags", "d0/dc0/a29156.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
-    [ "Date", "d0/dc0/a29156.html#ac5b08b086ef0668508ea9da48642e95b", null ],
-    [ "Duration", "d0/dc0/a29156.html#a10cae1b1fbb91930209a714c545b129b", null ],
-    [ "Id", "d0/dc0/a29156.html#a1119824959b87fb312209a998a5869b1", null ],
-    [ "Looping", "d0/dc0/a29156.html#afa2d93998650f88e62bfa76807961274", null ],
-    [ "Priority", "d0/dc0/a29156.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
-    [ "Region", "d0/dc0/a29156.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
-    [ "TextureFilename", "d0/dc0/a29156.html#a2209ecbb78f1f467491506cc97df57e4", null ]
+    [ "chargeConsumed", "d0/dc0/a29156.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
+    [ "cooldownSet", "d0/dc0/a29156.html#a60219087858953e3ea124b1b784516b2", null ],
+    [ "effectMask", "d0/dc0/a29156.html#ae0feb161d225551bba25d466541cde84", null ],
+    [ "procChance", "d0/dc0/a29156.html#a0299896836a739f2601a5ee1078f53bb", null ],
+    [ "shouldProc", "d0/dc0/a29156.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
+    [ "spellsCast", "d0/dc0/a29156.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
 ];

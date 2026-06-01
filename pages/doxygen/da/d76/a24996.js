@@ -1,5 +1,7 @@
 var a24996 =
 [
-    [ "PrepareSpellScript", "da/d76/a24996.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "da/d76/a24996.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "HandleProc", "da/d76/a24996.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
+    [ "PrepareAuraScript", "da/d76/a24996.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
+    [ "Register", "da/d76/a24996.html#af02b0af51a1fece0780414ab45c8d31e", null ],
+    [ "Validate", "da/d76/a24996.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
 ];

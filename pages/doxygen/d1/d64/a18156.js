@@ -1,6 +1,8 @@
 var a18156 =
 [
-    [ "IgbArtilleryCheck", "d1/d64/a18156.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d1/d64/a18156.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d1/d64/a18156.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "FilterTargets", "d1/d64/a18156.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "d1/d64/a18156.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "d1/d64/a18156.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "d1/d64/a18156.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "d1/d64/a18156.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

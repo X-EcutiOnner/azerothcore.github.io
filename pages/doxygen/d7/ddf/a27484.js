@@ -1,7 +1,8 @@
 var a27484 =
 [
-    [ "AfterRemove", "d7/ddf/a27484.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d7/ddf/a27484.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d7/ddf/a27484.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d7/ddf/a27484.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleDummy", "d7/ddf/a27484.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d7/ddf/a27484.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d7/ddf/a27484.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d7/ddf/a27484.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d7/ddf/a27484.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

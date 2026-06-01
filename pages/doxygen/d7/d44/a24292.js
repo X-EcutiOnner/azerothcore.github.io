@@ -1,6 +1,7 @@
 var a24292 =
 [
-    [ "npc_slim", "d7/d44/a24292.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d7/d44/a24292.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d7/d44/a24292.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "HandleProc", "d7/d44/a24292.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
+    [ "PrepareAuraScript", "d7/d44/a24292.html#adf8a9d15a105bb639ae240d6062a7041", null ],
+    [ "Register", "d7/d44/a24292.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
+    [ "Validate", "d7/d44/a24292.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
 ];

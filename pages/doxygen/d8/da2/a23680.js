@@ -1,8 +1,6 @@
 var a23680 =
 [
-    [ "boss_commander_sarannis", "d8/da2/a23680.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d8/da2/a23680.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d8/da2/a23680.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d8/da2/a23680.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d8/da2/a23680.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_aeranasAI", "d0/da7/a23684.html", "d0/da7/a23684" ],
+    [ "npc_aeranas", "d8/da2/a23680.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d8/da2/a23680.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

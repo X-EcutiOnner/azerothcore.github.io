@@ -1,6 +1,6 @@
 var a20072 =
 [
-    [ "go_celestial_planetarium_accessAI", "d0/d4f/a20076.html", "d0/d4f/a20076" ],
-    [ "go_celestial_planetarium_access", "d7/d5a/a20072.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d7/d5a/a20072.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "CheckAreaTarget", "d7/d5a/a20072.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d7/d5a/a20072.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d7/d5a/a20072.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

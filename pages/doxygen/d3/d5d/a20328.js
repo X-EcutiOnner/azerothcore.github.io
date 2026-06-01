@@ -1,7 +1,10 @@
 var a20328 =
 [
-    [ "boss_freya_lifebinder", "d3/d5d/a20328.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "d3/d5d/a20328.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "d3/d5d/a20328.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "d3/d5d/a20328.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "boss_kologarn_eyebeam", "d3/d5d/a20328.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "d3/d5d/a20328.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "d3/d5d/a20328.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "d3/d5d/a20328.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "d3/d5d/a20328.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "d3/d5d/a20328.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "d3/d5d/a20328.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

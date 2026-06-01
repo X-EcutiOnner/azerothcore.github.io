@@ -1,15 +1,10 @@
 var a00122 =
 [
-    [ "SpellProcCooldownTest", "d4/d70/a29514.html", "d4/d70/a29514" ],
-    [ "TEST_F", "df/dc8/a00122.html#ac30c03da32748e0bf7f658b9eff19f67", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a877730b0890fd65b53503d867be13db2", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a46fee264bedefac5bf751dc80e5175ca", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a370529a902674d7c3d85a958b68f014a", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a63a215a846e19ee49b60cd43e3a95dbb", null ],
-    [ "TEST_F", "df/dc8/a00122.html#af3b499c25e76cc981b8b7c898e661285", null ],
-    [ "TEST_F", "df/dc8/a00122.html#aa2595c13ca0ad6ce6afda0196d0c86ae", null ],
-    [ "TEST_F", "df/dc8/a00122.html#afba7de9d87f646093469d0f6820b2217", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a64a32de59b301ddb3b2a8827bacd43cf", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a4828c96b86819a1f862c5c123463c3f6", null ],
-    [ "TEST_F", "df/dc8/a00122.html#a980784573aa4ae1d2fda4349c9290425", null ]
+    [ "spell_razelikh_teleport_group", "de/d8d/a13880.html", "de/d8d/a13880" ],
+    [ "DeathlyUsher", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "df/dc8/a00122.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

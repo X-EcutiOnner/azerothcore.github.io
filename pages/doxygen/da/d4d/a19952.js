@@ -1,8 +1,8 @@
 var a19952 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "da/d4d/a19952.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "da/d4d/a19952.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "da/d4d/a19952.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "da/d4d/a19952.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "da/d4d/a19952.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "OnPeriodic", "da/d4d/a19952.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "da/d4d/a19952.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "da/d4d/a19952.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "da/d4d/a19952.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "da/d4d/a19952.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

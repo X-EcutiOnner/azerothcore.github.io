@@ -1,6 +1,5 @@
 var a20144 =
 [
-    [ "HandleInstaKill", "d6/d35/a20144.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d6/d35/a20144.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d6/d35/a20144.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "achievement_freya_getting_back_to_nature", "d6/d35/a20144.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d6/d35/a20144.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

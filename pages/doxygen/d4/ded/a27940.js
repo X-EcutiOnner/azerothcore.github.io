@@ -1,5 +1,5 @@
 var a27940 =
 [
-    [ "achievement_sickly_gazelle", "d4/ded/a27940.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d4/ded/a27940.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "go_dragonflayer_cage", "d4/ded/a27940.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d4/ded/a27940.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

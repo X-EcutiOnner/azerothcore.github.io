@@ -1,8 +1,6 @@
 var a27804 =
 [
-    [ "HandleDummy", "d5/d1c/a27804.html#ad2eec86cff225cc0bd806e31596fb127", null ],
-    [ "PrepareSpellScript", "d5/d1c/a27804.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
-    [ "Register", "d5/d1c/a27804.html#a6c72b4c813368774283ae94036a43ee2", null ],
-    [ "SendMiss", "d5/d1c/a27804.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
-    [ "Validate", "d5/d1c/a27804.html#a9a5014de08f73ad5dad29354812030ac", null ]
+    [ "go_tadpole_cageAI", "d1/d8b/a27808.html", "d1/d8b/a27808" ],
+    [ "go_tadpole_cage", "d5/d1c/a27804.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d5/d1c/a27804.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

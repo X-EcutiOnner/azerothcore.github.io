@@ -1,5 +1,8 @@
 var a20644 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "db/d97/a20644.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "db/d97/a20644.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "db/d97/a20644.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "db/d97/a20644.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "db/d97/a20644.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "db/d97/a20644.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "db/d97/a20644.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];

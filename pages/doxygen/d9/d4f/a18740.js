@@ -1,9 +1,13 @@
 var a18740 =
 [
-    [ "npc_icc_ice_sphereAI", "d9/d4f/a18740.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d9/d4f/a18740.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d9/d4f/a18740.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d9/d4f/a18740.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d9/d4f/a18740.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d9/d4f/a18740.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "npc_risen_archmageAI", "d9/d4f/a18740.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d9/d4f/a18740.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d9/d4f/a18740.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEnteredCombat", "d9/d4f/a18740.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
+    [ "JustSummoned", "d9/d4f/a18740.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d9/d4f/a18740.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d9/d4f/a18740.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d9/d4f/a18740.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d9/d4f/a18740.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
+    [ "_isInitialArchmage", "d9/d4f/a18740.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
 ];

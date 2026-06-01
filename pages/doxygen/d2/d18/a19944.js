@@ -1,10 +1,7 @@
 var a19944 =
 [
-    [ "npc_molten_golem", "d2/d18/a19944.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d2/d18/a19944.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d2/d18/a19944.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d2/d18/a19944.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d2/d18/a19944.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d2/d18/a19944.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d2/d18/a19944.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "OnRemove", "d2/d18/a19944.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d2/d18/a19944.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d2/d18/a19944.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d2/d18/a19944.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

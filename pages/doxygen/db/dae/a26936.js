@@ -1,6 +1,9 @@
 var a26936 =
 [
-    [ "CheckCast", "db/dae/a26936.html#a624ee45c92b37da12204dcc95dc815ca", null ],
-    [ "PrepareSpellScript", "db/dae/a26936.html#acdbb427ed3ebe9e2b8089a5bb50489a9", null ],
-    [ "Register", "db/dae/a26936.html#abc4e276c4759bad63b692a467f2f88f2", null ]
+    [ "CheckCast", "db/dae/a26936.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "db/dae/a26936.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "db/dae/a26936.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "db/dae/a26936.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "db/dae/a26936.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "db/dae/a26936.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

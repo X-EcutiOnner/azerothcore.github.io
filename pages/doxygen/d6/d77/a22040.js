@@ -1,7 +1,7 @@
 var a22040 =
 [
-    [ "HandleDummy", "d6/d77/a22040.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d6/d77/a22040.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d6/d77/a22040.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d6/d77/a22040.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_wg_quest_giver", "d6/d77/a22040.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d6/d77/a22040.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d6/d77/a22040.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d6/d77/a22040.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

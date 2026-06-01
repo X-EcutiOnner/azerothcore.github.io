@@ -1,5 +1,7 @@
 var a12868 =
 [
-    [ "npc_garr_fireswornAI", "d2/def/a12868.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d2/def/a12868.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "HandleHit", "d2/def/a12868.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d2/def/a12868.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d2/def/a12868.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d2/def/a12868.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

@@ -1,12 +1,12 @@
 var a22848 =
 [
-    [ "boss_essence_of_sufferingAI", "d2/d1c/a22848.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d2/d1c/a22848.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d2/d1c/a22848.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d2/d1c/a22848.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d2/d1c/a22848.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d2/d1c/a22848.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d2/d1c/a22848.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d2/d1c/a22848.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d2/d1c/a22848.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "boss_leotheras_the_blind", "d2/d1c/a22848.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d2/d1c/a22848.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d2/d1c/a22848.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d2/d1c/a22848.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d2/d1c/a22848.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d2/d1c/a22848.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d2/d1c/a22848.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d2/d1c/a22848.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d2/d1c/a22848.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

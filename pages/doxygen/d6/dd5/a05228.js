@@ -1,11 +1,10 @@
 var a05228 =
 [
-    [ "ModelPosition", "d6/dd5/a05228.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
-    [ "init", "d6/dd5/a05228.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
-    [ "moveToBasePos", "d6/dd5/a05228.html#a2fe1b48319a056f110ef700877257731", null ],
-    [ "transform", "d6/dd5/a05228.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
-    [ "iDir", "d6/dd5/a05228.html#a24ba62281166e60036ac8a57b26c6abd", null ],
-    [ "iPos", "d6/dd5/a05228.html#a36a3bd930273e0313e3b09c1289e9317", null ],
-    [ "iRotation", "d6/dd5/a05228.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
-    [ "iScale", "d6/dd5/a05228.html#a81bb029dce2aadec2f147a1329ee285e", null ]
+    [ "AreaInfo", "d6/dd5/a05228.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "d6/dd5/a05228.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "d6/dd5/a05228.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "d6/dd5/a05228.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "d6/dd5/a05228.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "d6/dd5/a05228.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "d6/dd5/a05228.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

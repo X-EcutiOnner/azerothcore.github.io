@@ -1,6 +1,11 @@
 var a17896 =
 [
-    [ "npc_saurfang_eventAI", "dd/dd4/a17900.html", "dd/dd4/a17900" ],
-    [ "npc_saurfang_event", "d1/d5e/a17896.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d1/d5e/a17896.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "CountTargets", "d1/d5e/a17896.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d1/d5e/a17896.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d1/d5e/a17896.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d1/d5e/a17896.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d1/d5e/a17896.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d1/d5e/a17896.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d1/d5e/a17896.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d1/d5e/a17896.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

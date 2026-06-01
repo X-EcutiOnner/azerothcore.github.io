@@ -1,7 +1,8 @@
 var a27548 =
 [
-    [ "HandleBonus", "d6/d76/a27548.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "d6/d76/a27548.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "d6/d76/a27548.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "d6/d76/a27548.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "CheckProc", "d6/d76/a27548.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d6/d76/a27548.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d6/d76/a27548.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d6/d76/a27548.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d6/d76/a27548.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

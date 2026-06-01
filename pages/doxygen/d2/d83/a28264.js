@@ -1,6 +1,8 @@
 var a28264 =
 [
-    [ "go_amberpine_outhouse", "d2/d83/a28264.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d2/d83/a28264.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d2/d83/a28264.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "npc_traveler_mammoth_vendor", "d2/d83/a28264.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "d2/d83/a28264.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "d2/d83/a28264.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "d2/d83/a28264.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "d2/d83/a28264.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

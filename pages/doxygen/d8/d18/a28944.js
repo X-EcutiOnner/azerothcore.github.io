@@ -1,6 +1,8 @@
 var a28944 =
 [
-    [ "AreaGroupId", "d8/d18/a28944.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d8/d18/a28944.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d8/d18/a28944.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "canLink", "d8/d18/a28944.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d8/d18/a28944.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d8/d18/a28944.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d8/d18/a28944.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d8/d18/a28944.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

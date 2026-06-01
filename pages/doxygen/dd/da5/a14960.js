@@ -1,7 +1,11 @@
 var a14960 =
 [
-    [ "HandleEffectApply", "dd/da5/a14960.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "dd/da5/a14960.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "dd/da5/a14960.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "dd/da5/a14960.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "boss_anetheron", "dd/da5/a14960.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "dd/da5/a14960.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "dd/da5/a14960.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "dd/da5/a14960.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "dd/da5/a14960.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "dd/da5/a14960.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "dd/da5/a14960.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "dd/da5/a14960.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

@@ -1,6 +1,6 @@
 var a15632 =
 [
-    [ "OnRemove", "d3/d99/a15632.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d3/d99/a15632.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d3/d99/a15632.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "HandleApply", "d3/d99/a15632.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "d3/d99/a15632.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "d3/d99/a15632.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

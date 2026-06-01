@@ -1,6 +1,6 @@
 var a14072 =
 [
-    [ "x", "da/d98/a14072.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "da/d98/a14072.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "da/d98/a14072.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d7/d77/a14076.html", "d7/d77/a14076" ],
+    [ "npc_jaina_proudmoore_bfu", "da/d98/a14072.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "da/d98/a14072.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

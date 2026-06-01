@@ -1,19 +1,4 @@
 var a03671 =
 [
-    [ "LivingPoisonData", "de/db7/a19430.html", "de/db7/a19430" ],
-    [ "instance_naxxramas", "d0/d67/a19434.html", "d0/d67/a19434" ],
-    [ "npc_mr_bigglesworth", "de/df8/a19438.html", "de/df8/a19438" ],
-    [ "npc_living_poison", "d2/d34/a19442.html", "d2/d34/a19442" ],
-    [ "npc_naxxramas_trigger", "d4/dd0/a19446.html", "d4/dd0/a19446" ],
-    [ "at_naxxramas_hub_portal", "d2/d5c/a19450.html", "d2/d5c/a19450" ],
-    [ "AddSC_instance_naxxramas", "d0/ded/a03671.html#aba1e1afda4423e51a1849a33da49a334", null ],
-    [ "boundaries", "d0/ded/a03671.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d0/ded/a03671.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d0/ded/a03671.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d0/ded/a03671.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
-    [ "HeiganEruptionSlope", "d0/ded/a03671.html#afc813e25da4423b11b3f71a4c3434b43", null ],
-    [ "HeiganPos", "d0/ded/a03671.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
-    [ "HorsemanDataGroup", "d0/ded/a03671.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
-    [ "LivingPoisonDataList", "d0/ded/a03671.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
-    [ "SapphironTeleportPos", "d0/ded/a03671.html#a4b033537221c1c9063ff056950ac6fdb", null ]
+    [ "AllGameObjectScript", "de/d2b/a10596.html", "de/d2b/a10596" ]
 ];

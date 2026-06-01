@@ -1,9 +1,7 @@
 var a24820 =
 [
-    [ "FilterTargets", "df/d6e/a24820.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "df/d6e/a24820.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "df/d6e/a24820.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "df/d6e/a24820.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "df/d6e/a24820.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "df/d6e/a24820.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandleEffectPeriodic", "df/d6e/a24820.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "df/d6e/a24820.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "df/d6e/a24820.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "df/d6e/a24820.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

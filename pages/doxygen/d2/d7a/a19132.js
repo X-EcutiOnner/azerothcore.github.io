@@ -1,6 +1,6 @@
 var a19132 =
 [
-    [ "npc_impaling_spearAI", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
-    [ "npc_impaling_spear", "d2/d7a/a19132.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d2/d7a/a19132.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "icecrown_citadel_teleport", "d2/d7a/a19132.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d2/d7a/a19132.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d2/d7a/a19132.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

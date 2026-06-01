@@ -1,6 +1,5 @@
 var a17192 =
 [
-    [ "HandleScriptEffect", "d7/d48/a17192.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d7/d48/a17192.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d7/d48/a17192.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "at_hor_shadow_throne", "d7/d48/a17192.html#a342808808be75079acf6a2f930afe930", null ],
+    [ "OnTrigger", "d7/d48/a17192.html#a0166b1a58f4171c4d9893010df5831c4", null ]
 ];

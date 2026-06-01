@@ -1,6 +1,5 @@
 var a00032 =
 [
-    [ "UnitStub", "d6/d33/a29258.html", "d6/d33/a29258" ],
-    [ "UnitStub::CastRecord", "d6/db1/a29262.html", "d6/db1/a29262" ],
-    [ "MockUnitStub", "d6/d32/a29266.html", "d6/d32/a29266" ]
+    [ "AuthSocketMgr", "dd/d44/a05968.html", "dd/d44/a05968" ],
+    [ "sAuthSocketMgr", "dc/d87/a00032.html#abd297ee25e8d77bf56f22d43561d9451", null ]
 ];

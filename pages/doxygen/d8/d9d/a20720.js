@@ -1,8 +1,8 @@
 var a20720 =
 [
-    [ "boss_thorim_pillar", "d8/d9d/a20720.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "d8/d9d/a20720.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "d8/d9d/a20720.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "d8/d9d/a20720.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "d8/d9d/a20720.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "FilterTargets", "d8/d9d/a20720.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
+    [ "HandleDummyEffect", "d8/d9d/a20720.html#afbf3aab6724d12426ab0197fb9459562", null ],
+    [ "PrepareSpellScript", "d8/d9d/a20720.html#a7ec441904bc100c6b15ee219617489ff", null ],
+    [ "Register", "d8/d9d/a20720.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
+    [ "Validate", "d8/d9d/a20720.html#a85388adbc15d449e687f9f463cce3833", null ]
 ];

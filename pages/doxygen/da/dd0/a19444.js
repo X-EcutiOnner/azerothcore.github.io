@@ -1,15 +1,8 @@
 var a19444 =
 [
-    [ "boss_gluthAI", "da/dd0/a19444.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "da/dd0/a19444.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "da/dd0/a19444.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "da/dd0/a19444.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "da/dd0/a19444.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "da/dd0/a19444.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "da/dd0/a19444.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "da/dd0/a19444.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "da/dd0/a19444.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "da/dd0/a19444.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "da/dd0/a19444.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "da/dd0/a19444.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "npc_teslaAI", "da/dd0/a19444.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "da/dd0/a19444.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "da/dd0/a19444.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "da/dd0/a19444.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "da/dd0/a19444.html#a962745569b07e368067ee483d2379840", null ]
 ];

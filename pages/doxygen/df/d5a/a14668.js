@@ -1,6 +1,6 @@
 var a14668 =
 [
-    [ "HandleEffectRemove", "df/d5a/a14668.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "df/d5a/a14668.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "df/d5a/a14668.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "db/d19/a14672.html", "db/d19/a14672" ],
+    [ "npc_grizzlemaw_cw_trigger", "df/d5a/a14668.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "df/d5a/a14668.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

@@ -1,5 +1,8 @@
 var a15040 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d6/def/a15040.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d6/def/a15040.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "hyjalTyrandeAI", "d6/def/a15040.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "d6/def/a15040.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "d6/def/a15040.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "d6/def/a15040.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "d6/def/a15040.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

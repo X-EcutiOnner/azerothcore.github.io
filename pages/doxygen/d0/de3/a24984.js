@@ -1,6 +1,8 @@
 var a24984 =
 [
-    [ "CheckAreaTarget", "d0/de3/a24984.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "d0/de3/a24984.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "d0/de3/a24984.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "CheckCast", "d0/de3/a24984.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d0/de3/a24984.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d0/de3/a24984.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d0/de3/a24984.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d0/de3/a24984.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

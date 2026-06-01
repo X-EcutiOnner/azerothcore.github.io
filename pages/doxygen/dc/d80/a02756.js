@@ -1,24 +1,37 @@
 var a02756 =
 [
-    [ "CharacterDatabasePreparedStatement", "dc/d80/a02756.html#adabd50def0511ee540f8e1296c8cf782", null ],
-    [ "CharacterDatabaseQueryHolder", "dc/d80/a02756.html#a350c68a4024b7fe5ae02a70f35c149d8", null ],
-    [ "CharacterDatabaseTransaction", "dc/d80/a02756.html#a96bac9a371212c6bab7a9448214666c0", null ],
-    [ "LoginDatabasePreparedStatement", "dc/d80/a02756.html#acd39cc80301f953b6d9adfee2f9585c8", null ],
-    [ "LoginDatabaseQueryHolder", "dc/d80/a02756.html#a3e04fac4bd7cb26970c374dd1787cbbb", null ],
-    [ "LoginDatabaseTransaction", "dc/d80/a02756.html#aa0ef7192ac59bc820849e5e21e3e08b7", null ],
-    [ "PreparedQueryResult", "dc/d80/a02756.html#ac6110b8d867b5f84f677555d07037acb", null ],
-    [ "PreparedQueryResultFuture", "dc/d80/a02756.html#a2011f9efd3a5d95695395eba86e79fab", null ],
-    [ "PreparedQueryResultPromise", "dc/d80/a02756.html#a1b3aab1f5d953820d83af94034da3da2", null ],
-    [ "QueryCallbackProcessor", "dc/d80/a02756.html#ab28e91495454917e2f4623ba259c3b2a", null ],
-    [ "QueryResult", "dc/d80/a02756.html#ab0c9feeec448a181290fcb39565b8253", null ],
-    [ "QueryResultFuture", "dc/d80/a02756.html#aaafe95f05c6db404e8bb61be587c7ca1", null ],
-    [ "QueryResultHolderFuture", "dc/d80/a02756.html#afa682c0dbd4467d34bc28101c82c8959", null ],
-    [ "QueryResultHolderPromise", "dc/d80/a02756.html#ad57a63776c96b99707576dd6f1ff7c29", null ],
-    [ "QueryResultPromise", "dc/d80/a02756.html#a57de3b80b12c90e51398bf934fdc828b", null ],
-    [ "SQLTransaction", "dc/d80/a02756.html#ab2badaea4b4827995daef3e2dec0f9cd", null ],
-    [ "TransactionFuture", "dc/d80/a02756.html#ad8826e834522c9cacfd021d4529b4f87", null ],
-    [ "TransactionPromise", "dc/d80/a02756.html#a363198b2c33dce9fd461ffd94bf063ac", null ],
-    [ "WorldDatabasePreparedStatement", "dc/d80/a02756.html#a9a67db2ce35b3ac1d187318422f3ee95", null ],
-    [ "WorldDatabaseQueryHolder", "dc/d80/a02756.html#a671c534314a7e095bb2bf72e2cc0fcbb", null ],
-    [ "WorldDatabaseTransaction", "dc/d80/a02756.html#a858dac975c33053feb33400380cec907", null ]
+    [ "GlobalCooldown", "de/d91/a09004.html", "de/d91/a09004" ],
+    [ "GlobalCooldownMgr", "dd/d73/a09008.html", "dd/d73/a09008" ],
+    [ "UnitActionBarEntry", "d4/d5d/a09012.html", "d4/d5d/a09012" ],
+    [ "CharmInfo", "db/d55/a09016.html", "db/d55/a09016" ],
+    [ "MAKE_UNIT_ACTION_BUTTON", "dc/d80/a02756.html#aa4580ef0cb84c2cc5983e75cb92e3ed1", null ],
+    [ "MAX_SPELL_CHARM", "dc/d80/a02756.html#a05307279d313f131c83ace9bf30d5722", null ],
+    [ "MAX_SPELL_CONTROL_BAR", "dc/d80/a02756.html#af3f4a89bfde2856dbf998cc7d89f8c51", null ],
+    [ "MAX_SPELL_POSSESS", "dc/d80/a02756.html#a19b65e7e2b9f40fcfa66e74212d561c9", null ],
+    [ "MAX_SPELL_VEHICLE", "dc/d80/a02756.html#a6b632c5f71fb4538f4477a66a9ac63f4", null ],
+    [ "MAX_UNIT_ACTION_BAR_INDEX", "dc/d80/a02756.html#a155b8633f243004497699c184b903901", null ],
+    [ "UNIT_ACTION_BUTTON_ACTION", "dc/d80/a02756.html#a374f41406d42023d52c29bb269ccb2b3", null ],
+    [ "UNIT_ACTION_BUTTON_TYPE", "dc/d80/a02756.html#ab00914d5fa4caf6cad7209786ffaf17c", null ],
+    [ "CharmSpellInfo", "dc/d80/a02756.html#a127d601b79cebafada7224b7b4e0c4a2", null ],
+    [ "GlobalCooldownList", "dc/d80/a02756.html#a2f37b877a5fc8dc31f4543660a5b1af9", null ],
+    [ "ActionBarIndex", "dc/d80/a02756.html#a5656c6dd354cdc76da16094dd6f96724", [
+      [ "ACTION_BAR_INDEX_START", "dc/d80/a02756.html#a5656c6dd354cdc76da16094dd6f96724ac963f447654b9785c3236c79ea310b09", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_START", "dc/d80/a02756.html#a5656c6dd354cdc76da16094dd6f96724a1b9025dc7f8331f6ca9fd0cfce1b0ae9", null ],
+      [ "ACTION_BAR_INDEX_PET_SPELL_END", "dc/d80/a02756.html#a5656c6dd354cdc76da16094dd6f96724a56eab700626db82e8012fc8daac5cee9", null ],
+      [ "ACTION_BAR_INDEX_END", "dc/d80/a02756.html#a5656c6dd354cdc76da16094dd6f96724a64eaabebc81e8d02513089d4d5591264", null ]
+    ] ],
+    [ "ActiveStates", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46da", [
+      [ "ACT_PASSIVE", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daad917b891f555940a135b2634d2e72b3b", null ],
+      [ "ACT_DISABLED", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daadeaf81cdbd16fe7cfbb9afd2ae17cc17", null ],
+      [ "ACT_ENABLED", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daa60dbce51e005270fd5bc183457883952", null ],
+      [ "ACT_COMMAND", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daa33c1330b175929e3016c6bb437b60ae8", null ],
+      [ "ACT_REACTION", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daa0435ad3a133e548a54374e9d90d39f0d", null ],
+      [ "ACT_DECIDE", "dc/d80/a02756.html#aaec28a439b9086a5fd69bd5358bb46daa24d8db1d523431e423ef8354296ed162", null ]
+    ] ],
+    [ "CharmType", "dc/d80/a02756.html#a8a31720d588fad9fce4a74dabc39df8b", [
+      [ "CHARM_TYPE_CHARM", "dc/d80/a02756.html#a8a31720d588fad9fce4a74dabc39df8ba1a1eeed651d163cde9401370f9684249", null ],
+      [ "CHARM_TYPE_POSSESS", "dc/d80/a02756.html#a8a31720d588fad9fce4a74dabc39df8ba2a5727b1c99073b12be5d2e5413cc9eb", null ],
+      [ "CHARM_TYPE_VEHICLE", "dc/d80/a02756.html#a8a31720d588fad9fce4a74dabc39df8ba5db5c00596b83fd1ed870c3fea737fa6", null ],
+      [ "CHARM_TYPE_CONVERT", "dc/d80/a02756.html#a8a31720d588fad9fce4a74dabc39df8ba3086533ebf4fa00b6546f53176b512db", null ]
+    ] ]
 ];

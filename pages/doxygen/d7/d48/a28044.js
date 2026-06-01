@@ -1,6 +1,10 @@
 var a28044 =
 [
-    [ "boss_lethonAI", "d9/de3/a28048.html", "d9/de3/a28048" ],
-    [ "boss_lethon", "d7/d48/a28044.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d7/d48/a28044.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "npc_prof_tailor", "d7/d48/a28044.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
+    [ "HasTailorSpell", "d7/d48/a28044.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
+    [ "OnGossipHello", "d7/d48/a28044.html#a686098ac43916ea2f82b7c321527863d", null ],
+    [ "OnGossipSelect", "d7/d48/a28044.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
+    [ "SendActionMenu", "d7/d48/a28044.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
+    [ "SendConfirmLearn", "d7/d48/a28044.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
+    [ "SendConfirmUnlearn", "d7/d48/a28044.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
 ];

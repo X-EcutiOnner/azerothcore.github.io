@@ -1,5 +1,4 @@
 var a29476 =
 [
-    [ "type", "da/ddc/a29476.html#af749459df7757d1bab17a54be813f6b6", null ],
-    [ "_type", "da/ddc/a29476.html#ab0344571616786baef4511c647a3abea", null ]
+    [ "MakeConfig", "da/ddc/a29476.html#a4497365ace6ba22681024b5d3cb745c8", null ]
 ];

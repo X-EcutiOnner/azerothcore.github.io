@@ -1,5 +1,6 @@
 var a28212 =
 [
-    [ "go_sacred_fire_of_life", "d9/d39/a28212.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d9/d39/a28212.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "npc_locksmith", "d9/d39/a28212.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d9/d39/a28212.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d9/d39/a28212.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

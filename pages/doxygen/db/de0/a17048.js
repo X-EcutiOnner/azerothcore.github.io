@@ -1,4 +1,7 @@
 var a17048 =
 [
-    [ "boss_dreadscaleAI", "db/de0/a17048.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
+    [ "HandleScriptEffect", "db/de0/a17048.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "db/de0/a17048.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "db/de0/a17048.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "db/de0/a17048.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

@@ -1,8 +1,6 @@
 var a18664 =
 [
-    [ "HeightDifferenceCheck", "d7/d53/a18664.html#aa8b61811e435cce456e5cb1d798be66e", null ],
-    [ "operator()", "d7/d53/a18664.html#a1db203642683f85176f2a35eb3d10c34", null ],
-    [ "_baseObject", "d7/d53/a18664.html#a7c274be02ca58429dffaee2ea34153c6", null ],
-    [ "_difference", "d7/d53/a18664.html#af95e2bf67c8316dda982896978c45a68", null ],
-    [ "_reverse", "d7/d53/a18664.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
+    [ "npc_lk_spirit_bombAI", "d0/de3/a18668.html", "d0/de3/a18668" ],
+    [ "npc_lk_spirit_bomb", "d7/d53/a18664.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d7/d53/a18664.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

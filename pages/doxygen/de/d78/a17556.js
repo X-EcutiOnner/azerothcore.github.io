@@ -1,6 +1,6 @@
 var a17556 =
 [
-    [ "npc_pos_freed_slaveAI", "d6/d85/a17560.html", "d6/d85/a17560" ],
-    [ "npc_pos_freed_slave", "de/d78/a17556.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "de/d78/a17556.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "npc_kinetic_bombAI", "d6/d85/a17560.html", "d6/d85/a17560" ],
+    [ "npc_kinetic_bomb", "de/d78/a17556.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "de/d78/a17556.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

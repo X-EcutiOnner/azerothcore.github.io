@@ -1,5 +1,4 @@
 var a02960 =
 [
-    [ "mail_commandscript", "de/db5/a12282.html", "de/db5/a12282" ],
-    [ "AddSC_mail_commandscript", "db/d1b/a02960.html#a60390ceaf08c6b305bdc77fd27243938", null ]
+    [ "AddSC_LFGScripts", "db/d1b/a02960.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

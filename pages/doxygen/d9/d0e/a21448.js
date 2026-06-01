@@ -1,6 +1,7 @@
 var a21448 =
 [
-    [ "npc_azure_sorcerorAI", "d6/d46/a21452.html", "d6/d46/a21452" ],
-    [ "npc_azure_sorceror", "d9/d0e/a21448.html#ab81ec144680a37312b0a5e0110365a1a", null ],
-    [ "GetAI", "d9/d0e/a21448.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
+    [ "CheckCast", "d9/d0e/a21448.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d9/d0e/a21448.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d9/d0e/a21448.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d9/d0e/a21448.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

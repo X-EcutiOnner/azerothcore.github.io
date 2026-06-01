@@ -1,6 +1,6 @@
 var a22800 =
 [
-    [ "HandleScriptEffect", "d9/d45/a22800.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d9/d45/a22800.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d9/d45/a22800.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "OnPeriodic", "d9/d45/a22800.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d9/d45/a22800.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d9/d45/a22800.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

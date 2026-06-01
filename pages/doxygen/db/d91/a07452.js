@@ -1,14 +1,5 @@
 var a07452 =
 [
-    [ "ArenaTeamScore", "db/d91/a07452.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "db/d91/a07452.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "db/d91/a07452.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "db/d91/a07452.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "db/d91/a07452.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "db/d91/a07452.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "db/d91/a07452.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "db/d91/a07452.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "db/d91/a07452.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "db/d91/a07452.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "db/d91/a07452.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "AuctionSearchAdd", "db/d91/a07452.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "db/d91/a07452.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

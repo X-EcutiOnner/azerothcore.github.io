@@ -1,8 +1,7 @@
 var a10212 =
 [
-    [ "TimedFleeingMovementGenerator", "d1/daa/a10212.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d1/daa/a10212.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d1/daa/a10212.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d1/daa/a10212.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d1/daa/a10212.html#a2858047459ff675383e7b86805702369", null ]
+    [ "MapPreloadRequest", "d1/daa/a10212.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d1/daa/a10212.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d1/daa/a10212.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d1/daa/a10212.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

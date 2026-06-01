@@ -1,8 +1,5 @@
 var a27672 =
 [
-    [ "CheckProc", "df/dad/a27672.html#a610313f5085c7c0109b5936e94de00fe", null ],
-    [ "OnProc", "df/dad/a27672.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
-    [ "PrepareAuraScript", "df/dad/a27672.html#aae4d26e262f80681811c9b50c2a63642", null ],
-    [ "Register", "df/dad/a27672.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
-    [ "Validate", "df/dad/a27672.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
+    [ "AreaTrigger_at_legion_teleporter", "df/dad/a27672.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "df/dad/a27672.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

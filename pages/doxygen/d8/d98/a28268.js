@@ -1,5 +1,5 @@
 var a28268 =
 [
-    [ "go_hive_pod", "d8/d98/a28268.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d8/d98/a28268.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d8/d98/a28268.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d8/d98/a28268.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

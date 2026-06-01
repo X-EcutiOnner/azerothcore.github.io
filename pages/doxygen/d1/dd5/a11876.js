@@ -1,11 +1,6 @@
 var a11876 =
 [
-    [ "WorldUpdateTime", "d1/dd5/a11876.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d1/dd5/a11876.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d1/dd5/a11876.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d1/dd5/a11876.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d1/dd5/a11876.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d1/dd5/a11876.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d1/dd5/a11876.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d1/dd5/a11876.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "ObjectTargetSelectHandler", "d1/dd5/a11876.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d1/dd5/a11876.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d1/dd5/a11876.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

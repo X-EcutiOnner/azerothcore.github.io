@@ -1,6 +1,5 @@
 var a29372 =
 [
-    [ "categoryMask", "da/d54/a29372.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "da/d54/a29372.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "da/d54/a29372.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "SetUp", "da/d54/a29372.html#ab7ca64790f3bf45fee5bfa47cc123f9e", null ],
+    [ "TearDown", "da/d54/a29372.html#ab25eaec6e37e6e315df357f8a1e51924", null ]
 ];

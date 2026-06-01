@@ -1,11 +1,7 @@
 var a08660 =
 [
-    [ "PackedGuid", "d9/dcd/a08660.html#a9268f8d34f24ef52369d605f94986a8d", null ],
-    [ "PackedGuid", "d9/dcd/a08660.html#a6d4559bc2a1d8c27247329c95c2b6156", null ],
-    [ "PackedGuid", "d9/dcd/a08660.html#adf388e273472f2699348c7a4361ebac4", null ],
-    [ "Set", "d9/dcd/a08660.html#aecbb8650ca713c175c30cd3ebe86b5d5", null ],
-    [ "Set", "d9/dcd/a08660.html#ae5d174d63a0b9d33b919f05760290bea", null ],
-    [ "size", "d9/dcd/a08660.html#a22ac06b7072951e84bbf69abcd7d58f6", null ],
-    [ "operator<<", "d9/dcd/a08660.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "_packedGuid", "d9/dcd/a08660.html#aeb0e51f1667a2627aabffd6d7cb1779c", null ]
+    [ "EnchStoreItem", "d9/dcd/a08660.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d9/dcd/a08660.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d9/dcd/a08660.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d9/dcd/a08660.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

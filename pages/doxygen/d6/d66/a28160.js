@@ -1,6 +1,6 @@
 var a28160 =
 [
-    [ "go_l70_etc_musicAI", "d6/d66/a28160.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d6/d66/a28160.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d6/d66/a28160.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "npc_injured_patientAI", "d4/d1d/a28164.html", "d4/d1d/a28164" ],
+    [ "npc_injured_patient", "d6/d66/a28160.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "d6/d66/a28160.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

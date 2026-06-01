@@ -1,6 +1,6 @@
 var a22080 =
 [
-    [ "npc_blessed_bannerAI", "da/db8/a22084.html", "da/db8/a22084" ],
-    [ "npc_blessed_banner", "d3/da2/a22080.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d3/da2/a22080.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "HandlePeriodicDummy", "d3/da2/a22080.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d3/da2/a22080.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d3/da2/a22080.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

@@ -1,11 +1,18 @@
 var a08976 =
 [
-    [ "SpellPeriodicAuraLogInfo", "de/d35/a08976.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "de/d35/a08976.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "de/d35/a08976.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "de/d35/a08976.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "de/d35/a08976.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "de/d35/a08976.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "de/d35/a08976.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "de/d35/a08976.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "PlayerSocialMap", "de/d35/a08976.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "de/d35/a08976.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "de/d35/a08976.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
+    [ "AddToSocialList", "de/d35/a08976.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
+    [ "GetNumberOfSocialsWithFlag", "de/d35/a08976.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "de/d35/a08976.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
+    [ "HasFriend", "de/d35/a08976.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
+    [ "HasIgnore", "de/d35/a08976.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
+    [ "RemoveFromSocialList", "de/d35/a08976.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
+    [ "SendSocialList", "de/d35/a08976.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "de/d35/a08976.html#ace28c99a43b6c9645550d0c30f8184df", null ],
+    [ "SetPlayerGUID", "de/d35/a08976.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
+    [ "SocialMgr", "de/d35/a08976.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "de/d35/a08976.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "de/d35/a08976.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

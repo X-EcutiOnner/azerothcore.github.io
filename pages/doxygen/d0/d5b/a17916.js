@@ -1,6 +1,6 @@
 var a17916 =
 [
-    [ "PrepareAuraScript", "d0/d5b/a17916.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d0/d5b/a17916.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d0/d5b/a17916.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "IgbTeleportOnVictoryCheck", "d0/d5b/a17916.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "d0/d5b/a17916.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "d0/d5b/a17916.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

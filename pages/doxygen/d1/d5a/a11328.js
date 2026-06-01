@@ -1,7 +1,6 @@
 var a11328 =
 [
-    [ "PetActionSound", "d1/d5a/a11328.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d1/d5a/a11328.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d1/d5a/a11328.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d1/d5a/a11328.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "UITime", "d1/d5a/a11328.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
+    [ "Write", "d1/d5a/a11328.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
+    [ "Time", "d1/d5a/a11328.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
 ];

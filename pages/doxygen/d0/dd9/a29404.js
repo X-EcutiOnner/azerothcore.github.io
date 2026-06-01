@@ -1,8 +1,7 @@
 var a29404 =
 [
-    [ "MapDifficulty", "d0/dd9/a29404.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "d0/dd9/a29404.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "d0/dd9/a29404.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "d0/dd9/a29404.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "d0/dd9/a29404.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "EnsureScriptRegistriesInitialized", "d0/dd9/a29404.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
+    [ "SetUp", "d0/dd9/a29404.html#a6934840a3250922d4de42044dd35211c", null ],
+    [ "TearDown", "d0/dd9/a29404.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
+    [ "previousWorld_", "d0/dd9/a29404.html#adff0b9d4abad7843811c543dfd10572e", null ]
 ];

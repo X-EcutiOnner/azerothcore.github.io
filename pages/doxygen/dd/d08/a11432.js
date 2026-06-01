@@ -1,5 +1,8 @@
 var a11432 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "dd/d08/a11432.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "dd/d08/a11432.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "PetSpellAutocast", "dd/d08/a11432.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "dd/d08/a11432.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "dd/d08/a11432.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "dd/d08/a11432.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "dd/d08/a11432.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

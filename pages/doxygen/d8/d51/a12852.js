@@ -1,7 +1,6 @@
 var a12852 =
 [
-    [ "HandleAfterApply", "d8/d51/a12852.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d8/d51/a12852.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d8/d51/a12852.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d8/d51/a12852.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "boss_magmadar", "d8/d51/a12852.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d8/d51/a12852.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d8/d51/a12852.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

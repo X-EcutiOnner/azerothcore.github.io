@@ -1,8 +1,10 @@
 var a17996 =
 [
-    [ "ResetEncounterEvent", "d7/d91/a17996.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d7/d91/a17996.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d7/d91/a17996.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d7/d91/a17996.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d7/d91/a17996.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "npc_cult_fanaticAI", "d7/d91/a17996.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "d7/d91/a17996.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "d7/d91/a17996.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "d7/d91/a17996.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "d7/d91/a17996.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "d7/d91/a17996.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "d7/d91/a17996.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

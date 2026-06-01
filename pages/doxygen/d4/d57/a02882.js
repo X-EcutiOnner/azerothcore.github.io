@@ -1,11 +1,11 @@
 var a02882 =
 [
-    [ "npc_innkeeper", "d0/da7/a28002.html", "d0/da7/a28002" ],
-    [ "AddSC_npc_innkeeper", "d4/d57/a02882.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "GOSSIP_MENU", "d4/d57/a02882.html#a3115623eb3e0408aad7cd637686aaaee", null ],
-    [ "GOSSIP_MENU_EVENT", "d4/d57/a02882.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
-    [ "HALLOWEEN_EVENTID", "d4/d57/a02882.html#a2e23760d3d379f3fa92c139f067b5984", null ],
-    [ "SPELL_TREAT", "d4/d57/a02882.html#a072a033da374692139d9d33e63be89ca", null ],
-    [ "SPELL_TRICK", "d4/d57/a02882.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
-    [ "SPELL_TRICKED_OR_TREATED", "d4/d57/a02882.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
+    [ "Creature", "d9/d1e/a08320.html", "d9/d1e/a08320" ],
+    [ "AssistDelayEvent", "dc/d43/a08328.html", "dc/d43/a08328" ],
+    [ "ForcedDespawnDelayEvent", "de/d5e/a08332.html", "de/d5e/a08332" ],
+    [ "TemporaryThreatModifierEvent", "da/d1c/a08336.html", "da/d1c/a08336" ],
+    [ "CREATURE_Z_ATTACK_RANGE", "d4/d57/a02882.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
+    [ "MAX_VENDOR_ITEMS", "d4/d57/a02882.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
+    [ "CreatureTextRepeatGroup", "d4/d57/a02882.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "d4/d57/a02882.html#a4a74e5d0af63228e47e1f663570018ae", null ]
 ];

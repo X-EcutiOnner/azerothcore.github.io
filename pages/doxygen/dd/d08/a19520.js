@@ -1,6 +1,7 @@
 var a19520 =
 [
-    [ "boss_kelthuzadAI", "d4/df8/a19524.html", "d4/df8/a19524" ],
-    [ "boss_kelthuzad", "dd/d08/a19520.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "dd/d08/a19520.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "FilterTargets", "dd/d08/a19520.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "dd/d08/a19520.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "dd/d08/a19520.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "dd/d08/a19520.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

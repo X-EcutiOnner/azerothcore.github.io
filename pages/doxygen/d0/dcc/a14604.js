@@ -1,10 +1,7 @@
 var a14604 =
 [
-    [ "npc_zealot_zath", "d0/dcc/a14604.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d0/dcc/a14604.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d0/dcc/a14604.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d0/dcc/a14604.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d0/dcc/a14604.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d0/dcc/a14604.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d0/dcc/a14604.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "HandleScriptEffect", "d0/dcc/a14604.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "d0/dcc/a14604.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "d0/dcc/a14604.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "d0/dcc/a14604.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

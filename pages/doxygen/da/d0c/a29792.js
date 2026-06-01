@@ -1,8 +1,10 @@
 var a29792 =
 [
-    [ "prepareLoadedData", "da/d0c/a29792.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "da/d0c/a29792.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "da/d0c/a29792.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "da/d0c/a29792.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "da/d0c/a29792.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "maxSimplificationError", "da/d0c/a29792.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "da/d0c/a29792.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "da/d0c/a29792.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "da/d0c/a29792.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "da/d0c/a29792.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "da/d0c/a29792.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "da/d0c/a29792.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

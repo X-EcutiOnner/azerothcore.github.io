@@ -1,11 +1,7 @@
 var a18628 =
 [
-    [ "NonTankLKTargetSelector", "d9/d7a/a18628.html#a41c5372505c0c74e93f2c583a0259777", null ],
-    [ "operator()", "d9/d7a/a18628.html#a2e496088092b9885f8e2391c2df91993", null ],
-    [ "_exclude1", "d9/d7a/a18628.html#abe4e56597fa2918b15a003413887ac71", null ],
-    [ "_exclude2", "d9/d7a/a18628.html#a6aa63c93c4e68998f621349760d9ab43", null ],
-    [ "_maxDist", "d9/d7a/a18628.html#ac7e28c908079fbd2e1ca5374731d521e", null ],
-    [ "_playerOnly", "d9/d7a/a18628.html#a5ab89af79aa4840c9a024996a848540c", null ],
-    [ "_reqLOS", "d9/d7a/a18628.html#a61966d6b825f25b6bbf589676cef19f9", null ],
-    [ "_source", "d9/d7a/a18628.html#a86e3ebd2425b76103df7413b5ed4af70", null ]
+    [ "CalculateBonus", "d9/d7a/a18628.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d9/d7a/a18628.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d9/d7a/a18628.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d9/d7a/a18628.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

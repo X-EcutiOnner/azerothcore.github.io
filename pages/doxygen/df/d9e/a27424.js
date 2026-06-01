@@ -1,7 +1,8 @@
 var a27424 =
 [
-    [ "CheckProc", "df/d9e/a27424.html#a4efa486733390dea566e1169902db915", null ],
-    [ "PrepareAuraScript", "df/d9e/a27424.html#a241b65bdcb6aefa4e37b61c5007149f6", null ],
-    [ "Register", "df/d9e/a27424.html#a5c70bb3ff8d2c3d9a2ab8aad729917bb", null ],
-    [ "Validate", "df/d9e/a27424.html#a7c5d82eba0bba896294cffc94843414c", null ]
+    [ "CalculateBuffer", "df/d9e/a27424.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "HandleProc", "df/d9e/a27424.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "PrepareAuraScript", "df/d9e/a27424.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "df/d9e/a27424.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "df/d9e/a27424.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

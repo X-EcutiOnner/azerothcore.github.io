@@ -1,17 +1,12 @@
 var a06444 =
 [
-    [ "WorldBossAI", "d3/da4/a06444.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
-    [ "~WorldBossAI", "d3/da4/a06444.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
-    [ "_JustDied", "d3/da4/a06444.html#a72e92da9585e41f742ee0ff964340230", null ],
-    [ "_JustEngagedWith", "d3/da4/a06444.html#a451c933079bd3b887079b15b74c22b5e", null ],
-    [ "_Reset", "d3/da4/a06444.html#ac11f7b51038891d8e10427ca10aa516c", null ],
-    [ "ExecuteEvent", "d3/da4/a06444.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
-    [ "JustDied", "d3/da4/a06444.html#a012c70e390c46b8f326b91014091b3d7", null ],
-    [ "JustEngagedWith", "d3/da4/a06444.html#ab84cb945e773c41d22b682996c744768", null ],
-    [ "JustSummoned", "d3/da4/a06444.html#aa783665ce6e43e76a18515f511f82efb", null ],
-    [ "Reset", "d3/da4/a06444.html#ad19a91bf2344f531e01db07efd04c395", null ],
-    [ "SummonedCreatureDespawn", "d3/da4/a06444.html#af7a1e062b13d997def99c077a79cd12f", null ],
-    [ "UpdateAI", "d3/da4/a06444.html#a31686947c399d780ea5220dae5e4820b", null ],
-    [ "events", "d3/da4/a06444.html#abba6c74269442b0bbfe94ab583904485", null ],
-    [ "summons", "d3/da4/a06444.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
+    [ "TotemAI", "d3/da4/a06444.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
+    [ "AttackStart", "d3/da4/a06444.html#aa5bb81b51ec79a4328016cca34363880", null ],
+    [ "DoAction", "d3/da4/a06444.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
+    [ "EnterEvadeMode", "d3/da4/a06444.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
+    [ "MoveInLineOfSight", "d3/da4/a06444.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
+    [ "Permissible", "d3/da4/a06444.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
+    [ "SpellHit", "d3/da4/a06444.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
+    [ "UpdateAI", "d3/da4/a06444.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
+    [ "i_victimGuid", "d3/da4/a06444.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
 ];

@@ -1,8 +1,11 @@
 var a07420 =
 [
-    [ "entry", "db/d03/a07420.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
-    [ "o", "db/d03/a07420.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
-    [ "x", "db/d03/a07420.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
-    [ "y", "db/d03/a07420.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
-    [ "z", "db/d03/a07420.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
+    [ "GetSkillValue", "db/d03/a07420.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "db/d03/a07420.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "db/d03/a07420.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "db/d03/a07420.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "db/d03/a07420.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "db/d03/a07420.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "db/d03/a07420.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "db/d03/a07420.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

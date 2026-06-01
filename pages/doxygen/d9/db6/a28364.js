@@ -1,10 +1,19 @@
 var a28364 =
 [
-    [ "npc_prof_tailor", "d9/db6/a28364.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d9/db6/a28364.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d9/db6/a28364.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d9/db6/a28364.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d9/db6/a28364.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d9/db6/a28364.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d9/db6/a28364.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "difference_type", "d9/db6/a28364.html#ae4b37510a14d178636d2caeb518152d8", null ],
+    [ "iterator_category", "d9/db6/a28364.html#a1b18e314fae6548a7b7a2a9bb1eff74d", null ],
+    [ "pointer", "d9/db6/a28364.html#a734ca6242c1ab2c6ac1b3126f6ee81f0", null ],
+    [ "reference", "d9/db6/a28364.html#a17541a5d418dd9835eab783fc5c50b4e", null ],
+    [ "value_type", "d9/db6/a28364.html#a5f84eca02dd9a1a3003cd6cf748c4be7", null ],
+    [ "DBCStorageIterator", "d9/db6/a28364.html#a5d579fb01742b5b7bbd92de4d44b0ca4", null ],
+    [ "DBCStorageIterator", "d9/db6/a28364.html#a76f99de60a6ff7306b0e585b0a49def9", null ],
+    [ "operator!=", "d9/db6/a28364.html#afc1a89496edd42c09ef4d4c11a384d81", null ],
+    [ "operator*", "d9/db6/a28364.html#a3b70157f0d4ebfb0d3df49e1c528767b", null ],
+    [ "operator++", "d9/db6/a28364.html#a88bf008d6f2d553a22f41a2bc1777a7d", null ],
+    [ "operator++", "d9/db6/a28364.html#a10439a8b58f835bd5bbda9af42536eea", null ],
+    [ "operator->", "d9/db6/a28364.html#adb031d50b1a6e19300fdd713101d7cfc", null ],
+    [ "operator==", "d9/db6/a28364.html#a4d25ca9a7f276d71a39fc8f05ac2ec8f", null ],
+    [ "_end", "d9/db6/a28364.html#aa6463048b19614ca3703bd840bee5060", null ],
+    [ "_index", "d9/db6/a28364.html#a93c4239222a0dcac3051bd97f4e60b24", null ],
+    [ "_pos", "d9/db6/a28364.html#a3b7fdda5aed3be63b253912d25f3a02a", null ]
 ];

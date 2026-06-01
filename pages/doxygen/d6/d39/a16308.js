@@ -1,6 +1,7 @@
 var a16308 =
 [
-    [ "ModDestHeight", "d6/d39/a16308.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "d6/d39/a16308.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "d6/d39/a16308.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "boss_sartharion_shadron", "d6/d39/a16308.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d6/d39/a16308.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d6/d39/a16308.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d6/d39/a16308.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

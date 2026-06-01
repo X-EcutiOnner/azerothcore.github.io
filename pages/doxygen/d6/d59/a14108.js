@@ -1,6 +1,6 @@
 var a14108 =
 [
-    [ "npc_corporal_keeshanAI", "dd/d3b/a14112.html", "dd/d3b/a14112" ],
-    [ "npc_corporal_keeshan", "d6/d59/a14108.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d6/d59/a14108.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "npc_the_scourge_cauldronAI", "dd/d3b/a14112.html", "dd/d3b/a14112" ],
+    [ "npc_the_scourge_cauldron", "d6/d59/a14108.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d6/d59/a14108.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

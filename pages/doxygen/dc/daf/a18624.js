@@ -1,9 +1,11 @@
 var a18624 =
 [
-    [ "ShadowTrapLKTargetSelector", "dc/daf/a18624.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "dc/daf/a18624.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "dc/daf/a18624.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "dc/daf/a18624.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "dc/daf/a18624.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "dc/daf/a18624.html#af416013aabf3b217b07228072076603d", null ]
+    [ "npc_terenas_menethilAI", "dc/daf/a18624.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "dc/daf/a18624.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "dc/daf/a18624.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "dc/daf/a18624.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "dc/daf/a18624.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "dc/daf/a18624.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "dc/daf/a18624.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "dc/daf/a18624.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

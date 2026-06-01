@@ -1,6 +1,8 @@
 var a16648 =
 [
-    [ "boss_saviana_ragefireAI", "d4/d21/a16652.html", "d4/d21/a16652" ],
-    [ "boss_saviana_ragefire", "dd/d91/a16648.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "dd/d91/a16648.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "npc_announcer_toc5AI", "d4/d21/a16652.html", "d4/d21/a16652" ],
+    [ "npc_announcer_toc5", "dd/d91/a16648.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "dd/d91/a16648.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "dd/d91/a16648.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "dd/d91/a16648.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

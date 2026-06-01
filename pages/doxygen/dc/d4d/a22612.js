@@ -1,17 +1,12 @@
 var a22612 =
 [
-    [ "boss_ambassador_hellmaw", "dc/d4d/a22612.html#ae774dfa4379b7321ff194a796c9eb842", null ],
-    [ "AttackStart", "dc/d4d/a22612.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
-    [ "CanAIAttack", "dc/d4d/a22612.html#a35579b31dec1d0c110b459230ee129e4", null ],
-    [ "DoAction", "dc/d4d/a22612.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
-    [ "DoMeleeAttackIfReady", "dc/d4d/a22612.html#a8dd75d368f0f567561db45e1c53ad785", null ],
-    [ "InitializeAI", "dc/d4d/a22612.html#a9b0170a49751def614126265240bb87c", null ],
-    [ "JustDied", "dc/d4d/a22612.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
-    [ "JustEngagedWith", "dc/d4d/a22612.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
-    [ "KilledUnit", "dc/d4d/a22612.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
-    [ "MoveInLineOfSight", "dc/d4d/a22612.html#af3949b46f82863af699396729e88928b", null ],
-    [ "PathEndReached", "dc/d4d/a22612.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
-    [ "Reset", "dc/d4d/a22612.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
-    [ "UpdateAI", "dc/d4d/a22612.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
-    [ "isBanished", "dc/d4d/a22612.html#a4805244997c42f5791400c5b1f5e6204", null ]
+    [ "boss_shade_of_akama", "dc/d4d/a22612.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "dc/d4d/a22612.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "dc/d4d/a22612.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "dc/d4d/a22612.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "dc/d4d/a22612.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "dc/d4d/a22612.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "dc/d4d/a22612.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "dc/d4d/a22612.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "dc/d4d/a22612.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

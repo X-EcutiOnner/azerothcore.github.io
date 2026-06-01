@@ -1,7 +1,7 @@
 var a23956 =
 [
-    [ "HandleDummy", "d1/d8f/a23956.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d1/d8f/a23956.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d1/d8f/a23956.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d1/d8f/a23956.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "HandlePeriodic", "d1/d8f/a23956.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d1/d8f/a23956.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d1/d8f/a23956.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d1/d8f/a23956.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

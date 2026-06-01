@@ -1,10 +1,9 @@
 var a05584 =
 [
-    [ "Category", "da/d9f/a05584.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "da/d9f/a05584.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "da/d9f/a05584.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "da/d9f/a05584.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "da/d9f/a05584.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "da/d9f/a05584.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "da/d9f/a05584.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Count", "da/d9f/a05584.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "da/d9f/a05584.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "da/d9f/a05584.html#ae04b24e63268c7b60bea36beec148a8a", null ],
+    [ "Insert", "da/d9f/a05584.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "da/d9f/a05584.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "da/d9f/a05584.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

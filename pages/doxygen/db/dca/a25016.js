@@ -1,7 +1,7 @@
 var a25016 =
 [
-    [ "HandleApply", "db/dca/a25016.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "db/dca/a25016.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "db/dca/a25016.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "db/dca/a25016.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "HandleScript", "db/dca/a25016.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "db/dca/a25016.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "db/dca/a25016.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "db/dca/a25016.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

@@ -1,17 +1,11 @@
 var a07748 =
 [
-    [ "ChatHandler", "d7/dc7/a07748.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "d7/dc7/a07748.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "d7/dc7/a07748.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "d7/dc7/a07748.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "d7/dc7/a07748.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "d7/dc7/a07748.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "d7/dc7/a07748.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "d7/dc7/a07748.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "d7/dc7/a07748.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "d7/dc7/a07748.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "d7/dc7/a07748.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "d7/dc7/a07748.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "d7/dc7/a07748.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "d7/dc7/a07748.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "BattlegroundICScore", "d7/dc7/a07748.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "d7/dc7/a07748.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "d7/dc7/a07748.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "d7/dc7/a07748.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "d7/dc7/a07748.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "d7/dc7/a07748.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "d7/dc7/a07748.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "d7/dc7/a07748.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

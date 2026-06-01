@@ -1,7 +1,17 @@
 var a09360 =
 [
-    [ "flags", "dc/dd6/a09360.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "dc/dd6/a09360.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "dc/dd6/a09360.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "dc/dd6/a09360.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "ActionMenuID", "dc/dd6/a09360.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "dc/dd6/a09360.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "dc/dd6/a09360.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "dc/dd6/a09360.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "dc/dd6/a09360.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "dc/dd6/a09360.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "dc/dd6/a09360.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "dc/dd6/a09360.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "dc/dd6/a09360.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "dc/dd6/a09360.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "dc/dd6/a09360.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "dc/dd6/a09360.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "dc/dd6/a09360.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "dc/dd6/a09360.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

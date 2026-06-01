@@ -1,6 +1,8 @@
 var a24268 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d7/d7b/a24272.html", "d7/d7b/a24272" ],
-    [ "npc_unkor_the_ruthless", "dd/dee/a24268.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "dd/dee/a24268.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "HandleEffectApply", "dd/dee/a24268.html#a8134145c22b99c7b75537091c386bcd1", null ],
+    [ "HandleEffectRemove", "dd/dee/a24268.html#a5d24ca41dcc75a11077da691abd902e0", null ],
+    [ "PrepareAuraScript", "dd/dee/a24268.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
+    [ "Register", "dd/dee/a24268.html#acff27aac4af2b0a0530348371fcb55b2", null ],
+    [ "Validate", "dd/dee/a24268.html#af656fbf06181436bbb020282160c1293", null ]
 ];

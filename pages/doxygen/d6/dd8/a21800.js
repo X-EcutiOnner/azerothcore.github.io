@@ -1,6 +1,5 @@
 var a21800 =
 [
-    [ "npc_spiritual_insightAI", "d6/dd8/a21800.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d6/dd8/a21800.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d6/dd8/a21800.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_guardian_pavilionAI", "d6/dd8/a21800.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d6/dd8/a21800.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

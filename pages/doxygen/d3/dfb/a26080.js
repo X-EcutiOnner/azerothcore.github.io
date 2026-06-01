@@ -1,7 +1,7 @@
 var a26080 =
 [
-    [ "HandleHeal", "d3/dfb/a26080.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d3/dfb/a26080.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d3/dfb/a26080.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d3/dfb/a26080.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleProc", "d3/dfb/a26080.html#a00864fa29b0f4e01f0ec3b007ba56913", null ],
+    [ "PrepareAuraScript", "d3/dfb/a26080.html#a83020e052309f9905adde86bac3ef925", null ],
+    [ "Register", "d3/dfb/a26080.html#a7d0a5ebb4f9f9742694967bf23a76ba8", null ],
+    [ "Validate", "d3/dfb/a26080.html#ac296ca5433b5bf1fc0d8c3401e43d912", null ]
 ];

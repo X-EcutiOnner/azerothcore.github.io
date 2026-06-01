@@ -1,6 +1,8 @@
 var a27216 =
 [
-    [ "PrepareAuraScript", "dc/d0b/a27216.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "dc/d0b/a27216.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "dc/d0b/a27216.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "CheckProc", "dc/d0b/a27216.html#addcb648b62f4503f090c248b8d97eb4e", null ],
+    [ "HandleProc", "dc/d0b/a27216.html#ad37f40743c1435df6e89187e2677a3f8", null ],
+    [ "PrepareAuraScript", "dc/d0b/a27216.html#ac1f447ca57dd6410d9c8686c7c2b7b2a", null ],
+    [ "Register", "dc/d0b/a27216.html#a9b8c97a29af60ec4a72d2ea85f5c08c4", null ],
+    [ "Validate", "dc/d0b/a27216.html#afec1afc80df1793d98371609e31b1401", null ]
 ];

@@ -1,20 +1,9 @@
 var a13104 =
 [
-    [ "boss_netherspite", "db/df8/a13104.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
-    [ "DestroyPortals", "db/df8/a13104.html#aef861122117f86230157dfba2aae4b84", null ],
-    [ "dist", "db/df8/a13104.html#a01862bcde441d4873e2f01d65726b7c7", null ],
-    [ "HandleDoors", "db/df8/a13104.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
-    [ "IsBetween", "db/df8/a13104.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
-    [ "JustDied", "db/df8/a13104.html#abf986442648091792058cff6110bc670", null ],
-    [ "JustEngagedWith", "db/df8/a13104.html#a49a114ce9744c1758294f56088f91348", null ],
-    [ "Reset", "db/df8/a13104.html#a24b4282d0004fe07810f9210211a28f4", null ],
-    [ "SummonPortals", "db/df8/a13104.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
-    [ "SwitchToBanishPhase", "db/df8/a13104.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
-    [ "SwitchToPortalPhase", "db/df8/a13104.html#ae347618233c5c15f73056629512fcdfa", null ],
-    [ "UpdateAI", "db/df8/a13104.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
-    [ "UpdatePortals", "db/df8/a13104.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
-    [ "BeamerGUID", "db/df8/a13104.html#af0f9b48c0ef7af916d14681473681744", null ],
-    [ "BeamTarget", "db/df8/a13104.html#a61cf090860a7866ca0222dd79b697b13", null ],
-    [ "berserk", "db/df8/a13104.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
-    [ "PortalGUID", "db/df8/a13104.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
+    [ "go_blood_drenched_doorAI", "db/df8/a13104.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "db/df8/a13104.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "db/df8/a13104.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "db/df8/a13104.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "db/df8/a13104.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "db/df8/a13104.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

@@ -1,6 +1,7 @@
 var a25780 =
 [
-    [ "CheckProc", "de/d22/a25780.html#a8158e7338b29b072f0c851771d0e8eee", null ],
-    [ "PrepareAuraScript", "de/d22/a25780.html#a44a18144e276e7bdc80c5a19f1d442e2", null ],
-    [ "Register", "de/d22/a25780.html#ae24336f87db322e546bd858bc50f2351", null ]
+    [ "HandleEnergize", "de/d22/a25780.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "de/d22/a25780.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "de/d22/a25780.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "de/d22/a25780.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

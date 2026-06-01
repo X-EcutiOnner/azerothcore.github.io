@@ -1,13 +1,7 @@
 var a22932 =
 [
-    [ "boss_teron_gorefiend", "da/da6/a22932.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "da/da6/a22932.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "da/da6/a22932.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "da/da6/a22932.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "da/da6/a22932.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "da/da6/a22932.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "da/da6/a22932.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "da/da6/a22932.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "da/da6/a22932.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "da/da6/a22932.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "HandleEffectRemove", "da/da6/a22932.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "da/da6/a22932.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "da/da6/a22932.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "da/da6/a22932.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

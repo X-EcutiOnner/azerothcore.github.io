@@ -1,7 +1,9 @@
 var a16952 =
 [
-    [ "npc_toc_enh_shamanAI", "db/d58/a16952.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "db/d58/a16952.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "db/d58/a16952.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "db/d58/a16952.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "npc_concentrated_ballAI", "db/d58/a16952.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "db/d58/a16952.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "db/d58/a16952.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "db/d58/a16952.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "db/d58/a16952.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "db/d58/a16952.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

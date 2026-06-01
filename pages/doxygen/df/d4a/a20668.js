@@ -1,10 +1,10 @@
 var a20668 =
 [
-    [ "npc_ulduar_harpoonfirestate", "df/d4a/a20668.html#a2456fbee16367a524f26873da99247e8", null ],
-    [ "GetData", "df/d4a/a20668.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
-    [ "GetHarpoonGunIdForThisHFS", "df/d4a/a20668.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
-    [ "Reset", "df/d4a/a20668.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
-    [ "SetData", "df/d4a/a20668.html#a338c6cb2be0e05726f372344fdc2b436", null ],
-    [ "pInstance", "df/d4a/a20668.html#aee0914001b38be87976cd44b6bbaf276", null ],
-    [ "repairPoints", "df/d4a/a20668.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "df/d4a/a20668.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "df/d4a/a20668.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "df/d4a/a20668.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "df/d4a/a20668.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "df/d4a/a20668.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "df/d4a/a20668.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "df/d4a/a20668.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

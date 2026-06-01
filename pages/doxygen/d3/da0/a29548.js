@@ -1,7 +1,5 @@
 var a29548 =
 [
-    [ "flatModifier", "d3/da0/a29548.html#a781485dfaede63716eddba66971600e3", null ],
-    [ "hasSpellModOwner", "d3/da0/a29548.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
-    [ "hasSpellProto", "d3/da0/a29548.html#a96607da311b5774eeaa01674d32ab22e", null ],
-    [ "pctModifier", "d3/da0/a29548.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
+    [ "SetUp", "d3/da0/a29548.html#aa4192b0ae6f716449e20ead2b5a5a387", null ],
+    [ "_allEntries", "d3/da0/a29548.html#a7c06feea09d0606a50198a307e43b989", null ]
 ];

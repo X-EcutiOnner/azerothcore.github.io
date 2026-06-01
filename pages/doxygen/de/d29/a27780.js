@@ -1,8 +1,6 @@
 var a27780 =
 [
-    [ "CheckProc", "de/d29/a27780.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
-    [ "OnProc", "de/d29/a27780.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
-    [ "PrepareAuraScript", "de/d29/a27780.html#a8bf573bb900773d4669708536b0b8011", null ],
-    [ "Register", "de/d29/a27780.html#ae8ddcb6329088f904cbae3292ff92023", null ],
-    [ "Validate", "de/d29/a27780.html#a918c9334b7f20710c0d6448a33c94601", null ]
+    [ "go_witherbark_totem_bundleAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
+    [ "go_witherbark_totem_bundle", "de/d29/a27780.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "de/d29/a27780.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

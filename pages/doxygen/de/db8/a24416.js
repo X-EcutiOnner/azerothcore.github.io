@@ -1,6 +1,6 @@
 var a24416 =
 [
-    [ "FilterTargets", "de/db8/a24416.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "de/db8/a24416.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "de/db8/a24416.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "CalculateAmount", "de/db8/a24416.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "de/db8/a24416.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "de/db8/a24416.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

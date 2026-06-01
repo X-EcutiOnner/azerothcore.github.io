@@ -1,8 +1,6 @@
 var a11424 =
 [
-    [ "ServerPktHeader", "d6/dc7/a11424.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "d6/dc7/a11424.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "d6/dc7/a11424.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "d6/dc7/a11424.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "d6/dc7/a11424.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "PetAbandon", "d6/dc7/a11424.html#aeac05969ce6bdb41a02f7ffe56126dfd", null ],
+    [ "Read", "d6/dc7/a11424.html#a58ebb244de4bd65a85f75dcc24250883", null ],
+    [ "PetGUID", "d6/dc7/a11424.html#a7175c081b7cb691ceb4729c1abc5028e", null ]
 ];

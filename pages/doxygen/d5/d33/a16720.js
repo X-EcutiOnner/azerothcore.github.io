@@ -1,6 +1,7 @@
 var a16720 =
 [
-    [ "boss_black_knightAI", "da/d86/a16724.html", "da/d86/a16724" ],
-    [ "boss_black_knight", "d5/d33/a16720.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d5/d33/a16720.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "npc_toc_druidAI", "d5/d33/a16720.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d5/d33/a16720.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d5/d33/a16720.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d5/d33/a16720.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

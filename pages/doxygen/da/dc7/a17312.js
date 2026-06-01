@@ -1,11 +1,9 @@
 var a17312 =
 [
-    [ "npc_hor_leaderAI", "da/dc7/a17312.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "da/dc7/a17312.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "da/dc7/a17312.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "da/dc7/a17312.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "da/dc7/a17312.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "da/dc7/a17312.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "da/dc7/a17312.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "da/dc7/a17312.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "npc_pos_after_first_bossAI", "da/dc7/a17312.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "da/dc7/a17312.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "da/dc7/a17312.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "da/dc7/a17312.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "da/dc7/a17312.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "da/dc7/a17312.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

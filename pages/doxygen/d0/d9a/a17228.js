@@ -1,6 +1,5 @@
 var a17228 =
 [
-    [ "PrepareSpellScript", "d0/d9a/a17228.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d0/d9a/a17228.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d0/d9a/a17228.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "at_hor_battered_hilt_throw", "d0/d9a/a17228.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d0/d9a/a17228.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

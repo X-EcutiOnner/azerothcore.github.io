@@ -1,14 +1,7 @@
 var a21284 =
 [
-    [ "boss_cyanigosaAI", "db/d4d/a21284.html#a4b24132889b17b3e682a15009a1ae910", null ],
-    [ "EnterEvadeMode", "db/d4d/a21284.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
-    [ "JustDied", "db/d4d/a21284.html#a805117db567dd3d529a1c862bc24179c", null ],
-    [ "JustEngagedWith", "db/d4d/a21284.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
-    [ "KilledUnit", "db/d4d/a21284.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
-    [ "MoveInLineOfSight", "db/d4d/a21284.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
-    [ "Reset", "db/d4d/a21284.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
-    [ "SpellHitTarget", "db/d4d/a21284.html#ae8218b69e6dc7489e65d891048d84da1", null ],
-    [ "UpdateAI", "db/d4d/a21284.html#ae69afba77636c962045160b610177bd9", null ],
-    [ "events", "db/d4d/a21284.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
-    [ "pInstance", "db/d4d/a21284.html#a075f4a592202dc73d9b5d63ca5178093", null ]
+    [ "npc_valiance_keep_cannoneerAI", "db/d4d/a21284.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "db/d4d/a21284.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "db/d4d/a21284.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "db/d4d/a21284.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

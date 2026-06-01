@@ -1,7 +1,6 @@
 var a18084 =
 [
-    [ "npc_gunship_rocketeerAI", "d6/da1/a18084.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d6/da1/a18084.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d6/da1/a18084.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d6/da1/a18084.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "UnboundPlagueTargetSelector", "d6/da1/a18084.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d6/da1/a18084.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d6/da1/a18084.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

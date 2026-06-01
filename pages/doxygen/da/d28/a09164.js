@@ -1,11 +1,8 @@
 var a09164 =
 [
-    [ "~GridCell", "da/d28/a09164.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "da/d28/a09164.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "da/d28/a09164.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "da/d28/a09164.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "da/d28/a09164.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "da/d28/a09164.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "da/d28/a09164.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "da/d28/a09164.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "Entry", "da/d28/a09164.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "da/d28/a09164.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "da/d28/a09164.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "da/d28/a09164.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "da/d28/a09164.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

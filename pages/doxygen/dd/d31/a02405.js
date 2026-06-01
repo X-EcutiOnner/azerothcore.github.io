@@ -1,4 +1,7 @@
 var a02405 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "dd/d31/a02405.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "WorldPackets::Calendar::GetEvent", "dd/d04/a10852.html", "dd/d04/a10852" ],
+    [ "WorldPackets::Calendar::GuildFilter", "d8/d88/a10856.html", "d8/d88/a10856" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "d8/dde/a10860.html", "d8/dde/a10860" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "d8/d09/a10864.html", "d8/d09/a10864" ]
 ];

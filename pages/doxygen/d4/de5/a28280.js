@@ -1,6 +1,5 @@
 var a28280 =
 [
-    [ "go_bellsAI", "dc/d26/a28284.html", "dc/d26/a28284" ],
-    [ "go_bells", "d4/de5/a28280.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d4/de5/a28280.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "npc_necropolis", "d4/de5/a28280.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d4/de5/a28280.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

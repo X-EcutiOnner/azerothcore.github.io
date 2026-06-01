@@ -1,10 +1,8 @@
 var a14064 =
 [
-    [ "npc_sentinel_leader", "d0/d9c/a14064.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d0/d9c/a14064.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d0/d9c/a14064.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d0/d9c/a14064.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d0/d9c/a14064.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d0/d9c/a14064.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d0/d9c/a14064.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_varian_wrynnAI", "da/d50/a14068.html", "da/d50/a14068" ],
+    [ "npc_varian_wrynn", "d0/d9c/a14064.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d0/d9c/a14064.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d0/d9c/a14064.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d0/d9c/a14064.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

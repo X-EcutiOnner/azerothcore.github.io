@@ -1,12 +1,8 @@
 var a05096 =
 [
-    [ "InstanceLockResponse", "de/df4/a11166.html", "de/df4/a11166" ],
-    [ "InstanceReset", "d3/d4b/a11134.html", "d3/d4b/a11134" ],
-    [ "InstanceResetFailed", "dd/dfb/a11138.html", "dd/dfb/a11138" ],
-    [ "ResetFailedNotify", "d3/dfc/a11150.html", "d3/dfc/a11150" ],
-    [ "ResetInstances", "de/d4c/a11162.html", "de/d4c/a11162" ],
-    [ "SetDungeonDifficulty", "d4/d25/a11142.html", "d4/d25/a11142" ],
-    [ "SetDungeonDifficultyClient", "d2/d4b/a11146.html", "d2/d4b/a11146" ],
-    [ "SetRaidDifficulty", "df/d70/a11154.html", "df/d70/a11154" ],
-    [ "SetRaidDifficultyClient", "dd/d1c/a11158.html", "dd/d1c/a11158" ]
+    [ "AutoBankItem", "d2/d46/a10832.html", "d2/d46/a10832" ],
+    [ "AutoStoreBankItem", "d6/da8/a10836.html", "d6/da8/a10836" ],
+    [ "BuyBankSlot", "da/df0/a10840.html", "da/df0/a10840" ],
+    [ "BuyBankSlotResult", "df/d5e/a10844.html", "df/d5e/a10844" ],
+    [ "ShowBank", "d0/d35/a10848.html", "d0/d35/a10848" ]
 ];

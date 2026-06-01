@@ -1,6 +1,8 @@
 var a22136 =
 [
-    [ "npc_bushwhackerAI", "d3/dc2/a22136.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "d3/dc2/a22136.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "d3/dc2/a22136.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "HandleApply", "d3/dc2/a22136.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d3/dc2/a22136.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d3/dc2/a22136.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d3/dc2/a22136.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d3/dc2/a22136.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

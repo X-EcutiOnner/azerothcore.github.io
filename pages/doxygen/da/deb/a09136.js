@@ -1,8 +1,9 @@
 var a09136 =
 [
-    [ "DungeonEncounter", "da/deb/a09136.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "da/deb/a09136.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "da/deb/a09136.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "da/deb/a09136.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "da/deb/a09136.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "VehicleAccessory", "da/deb/a09136.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "da/deb/a09136.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "da/deb/a09136.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "da/deb/a09136.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "da/deb/a09136.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "da/deb/a09136.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

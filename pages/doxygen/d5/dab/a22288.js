@@ -1,7 +1,8 @@
 var a22288 =
 [
-    [ "HandleDummy", "d5/dab/a22288.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "d5/dab/a22288.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "d5/dab/a22288.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "d5/dab/a22288.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "boss_pandemonius", "d5/dab/a22288.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d5/dab/a22288.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d5/dab/a22288.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d5/dab/a22288.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d5/dab/a22288.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

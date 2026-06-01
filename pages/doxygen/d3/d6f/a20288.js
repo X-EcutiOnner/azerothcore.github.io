@@ -1,6 +1,5 @@
 var a20288 =
 [
-    [ "CheckCast", "d3/d6f/a20288.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d3/d6f/a20288.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d3/d6f/a20288.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "achievement_staying_buffed_all_winter_10", "d3/d6f/a20288.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "d3/d6f/a20288.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

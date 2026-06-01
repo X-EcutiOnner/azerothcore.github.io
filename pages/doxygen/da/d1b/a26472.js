@@ -1,10 +1,7 @@
 var a26472 =
 [
-    [ "CheckProc", "da/d1b/a26472.html#a787008462dce35eb27deda41301b146d", null ],
-    [ "HandleProc", "da/d1b/a26472.html#a5b791c7cb8dae574fef801ce42dc6aa1", null ],
-    [ "Load", "da/d1b/a26472.html#a9760351c28f5f9948f0b64ae2ca91c24", null ],
-    [ "PrepareAuraScript", "da/d1b/a26472.html#ab3d5e71597c67ec0aed70f7e5d2319ac", null ],
-    [ "Register", "da/d1b/a26472.html#aa4ef731870355dc386fcd07c5f19d090", null ],
-    [ "Validate", "da/d1b/a26472.html#ad04864f0710262364cf40e071446d87c", null ],
-    [ "_procTarget", "da/d1b/a26472.html#a9383231fc71c6239507fdf8765d63f3d", null ]
+    [ "FilterTargets", "da/d1b/a26472.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "da/d1b/a26472.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "da/d1b/a26472.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "da/d1b/a26472.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

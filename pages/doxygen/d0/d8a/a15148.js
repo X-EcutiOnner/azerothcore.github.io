@@ -1,7 +1,28 @@
 var a15148 =
 [
-    [ "hyjalJainaAI", "d1/d3d/a15152.html", "d1/d3d/a15152" ],
-    [ "npc_hyjal_jaina", "d0/d8a/a15148.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d0/d8a/a15148.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d0/d8a/a15148.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d0/d8a/a15148.html#ab14fa9416d0971ed84d659cad15f7065", null ],
+    [ "ChromieWhisper", "d0/d8a/a15148.html#ae97d05afd1cb4b8d665ad3361a517781", null ],
+    [ "FillInitialWorldStates", "d0/d8a/a15148.html#aa3433b8a185c31d8c00ae1ffab10baa2", null ],
+    [ "GetData", "d0/d8a/a15148.html#aaea6ab9b71d52377ddebd7b54b354c1e", null ],
+    [ "GetGuidData", "d0/d8a/a15148.html#adc795bd78af72bd6bda8546a756a94e0", null ],
+    [ "GetSaveData", "d0/d8a/a15148.html#ad0d4cd6646c52dba390193b38df00d6f", null ],
+    [ "IsEncounterInProgress", "d0/d8a/a15148.html#ad64c44c62f429cbca6c2e720a35a7b41", null ],
+    [ "Load", "d0/d8a/a15148.html#a7981d6fc2a4f4113d9844ffd9a917473", null ],
+    [ "OnCreatureCreate", "d0/d8a/a15148.html#a160e3b02d40abecbc16533972433fe9b", null ],
+    [ "OnGameObjectCreate", "d0/d8a/a15148.html#a6fe2831227ec9f43882cf19849689a45", null ],
+    [ "OnPlayerEnter", "d0/d8a/a15148.html#a09088000395dbd2b1255c02b4867898d", null ],
+    [ "Reposition", "d0/d8a/a15148.html#a32218976e637b9499bcbd8f1e4d9c8c8", null ],
+    [ "SetData", "d0/d8a/a15148.html#a02fc56dddc6b300f06c7cc5f8fb3ded7", null ],
+    [ "Update", "d0/d8a/a15148.html#a9e90b4dd34a8a81b499b1402fbbaf218", null ],
+    [ "UpdateEventState", "d0/d8a/a15148.html#aff8e5df41dd304df32a6ad3ac185b672", null ],
+    [ "_arthasGUID", "d0/d8a/a15148.html#a1047f207de079d1cad0fc6976ab2d3f9", null ],
+    [ "_crateCount", "d0/d8a/a15148.html#a7cdab6cdc847b4b3c434ee42ff458dae", null ],
+    [ "_encounterState", "d0/d8a/a15148.html#a0a5afd0104654aea57479fa3f4d1e36a", null ],
+    [ "_exitGateGUID", "d0/d8a/a15148.html#ab671339f99ddc498950ef868042fd4a4", null ],
+    [ "_guardianTimer", "d0/d8a/a15148.html#aaf1409ef7e2c3ef43d0704f586a75312", null ],
+    [ "_infiniteGUID", "d0/d8a/a15148.html#a96d30d5f0dabb385f36e4b0a0762a16a", null ],
+    [ "_loadTimer", "d0/d8a/a15148.html#a87002a39776087346791b9026c6e2e07", null ],
+    [ "_respawnAndReposition", "d0/d8a/a15148.html#af768b50e85b799d35844b173d94e578d", null ],
+    [ "_shkafGateGUID", "d0/d8a/a15148.html#a4a7fd8572c70c16853cf7cd410197e52", null ],
+    [ "_showCrateTimer", "d0/d8a/a15148.html#ae6948cd547db988418c5d98f435ef2b8", null ]
 ];

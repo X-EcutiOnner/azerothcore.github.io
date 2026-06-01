@@ -1,6 +1,6 @@
 var a11044 =
 [
-    [ "ResetFailedNotify", "dc/d4d/a11044.html#a82e12a0f207590b6176253cf36a22d2f", null ],
-    [ "Write", "dc/d4d/a11044.html#af03055514ef0e1e97f24c66d2cd94185", null ],
-    [ "MapId", "dc/d4d/a11044.html#a17f065fc6d5438d74f38bde67a841be7", null ]
+    [ "GuildDemoteMember", "dc/d4d/a11044.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "dc/d4d/a11044.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "dc/d4d/a11044.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

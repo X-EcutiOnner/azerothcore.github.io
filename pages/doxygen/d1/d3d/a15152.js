@@ -1,10 +1,14 @@
 var a15152 =
 [
-    [ "hyjalJainaAI", "d1/d3d/a15152.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d1/d3d/a15152.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d1/d3d/a15152.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d1/d3d/a15152.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d1/d3d/a15152.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d1/d3d/a15152.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d1/d3d/a15152.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "boss_captain_skarloc", "d1/d3d/a15152.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "d1/d3d/a15152.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "d1/d3d/a15152.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "d1/d3d/a15152.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "d1/d3d/a15152.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "d1/d3d/a15152.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "d1/d3d/a15152.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "d1/d3d/a15152.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "d1/d3d/a15152.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "d1/d3d/a15152.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "d1/d3d/a15152.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

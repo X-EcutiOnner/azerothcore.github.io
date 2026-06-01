@@ -1,6 +1,9 @@
 var a27076 =
 [
-    [ "HandleDummy", "d4/d07/a27076.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "d4/d07/a27076.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "d4/d07/a27076.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "HandleHeal", "d4/d07/a27076.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d4/d07/a27076.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d4/d07/a27076.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d4/d07/a27076.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d4/d07/a27076.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d4/d07/a27076.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

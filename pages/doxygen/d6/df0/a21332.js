@@ -1,12 +1,7 @@
 var a21332 =
 [
-    [ "boss_moraggAI", "d6/df0/a21332.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d6/df0/a21332.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d6/df0/a21332.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d6/df0/a21332.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d6/df0/a21332.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d6/df0/a21332.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d6/df0/a21332.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d6/df0/a21332.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d6/df0/a21332.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_warmage_violetstand", "d6/df0/a21332.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d6/df0/a21332.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d6/df0/a21332.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d6/df0/a21332.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

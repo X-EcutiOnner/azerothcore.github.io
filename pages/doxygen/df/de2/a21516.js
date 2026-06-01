@@ -1,7 +1,6 @@
 var a21516 =
 [
-    [ "HandleScriptEffect", "df/de2/a21516.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "df/de2/a21516.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "df/de2/a21516.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "df/de2/a21516.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_q24545_vegard_dummyAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
+    [ "npc_q24545_vegard_dummy", "df/de2/a21516.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "df/de2/a21516.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

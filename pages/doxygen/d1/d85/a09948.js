@@ -1,21 +1,6 @@
 var a09948 =
 [
-    [ "LootGroup", "dd/d9c/a09928.html", "dd/d9c/a09928" ],
-    [ "LootGroups", "d1/d85/a09948.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
-    [ "LootTemplate", "d1/d85/a09948.html#a533d3acacc8086a6f8f75013dd790a94", null ],
-    [ "~LootTemplate", "d1/d85/a09948.html#a90b641a69173129d7114c303cd5a31b5", null ],
-    [ "LootTemplate", "d1/d85/a09948.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
-    [ "addConditionItem", "d1/d85/a09948.html#afb33c896a89f0fe14e2b565bb746119e", null ],
-    [ "AddEntry", "d1/d85/a09948.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
-    [ "CheckLootRefs", "d1/d85/a09948.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
-    [ "CopyConditions", "d1/d85/a09948.html#a5935f936e90ecc860c49d256127d9726", null ],
-    [ "CopyConditions", "d1/d85/a09948.html#a477c848bcf79153cc430c8d03bbea054", null ],
-    [ "HasQuestDrop", "d1/d85/a09948.html#ae88cc77aa554940030613a15cc05c045", null ],
-    [ "HasQuestDropForPlayer", "d1/d85/a09948.html#a7835ebf003ae3d665656efcc923daaeb", null ],
-    [ "isReference", "d1/d85/a09948.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
-    [ "operator=", "d1/d85/a09948.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
-    [ "Process", "d1/d85/a09948.html#ae3f86961858f299f8e7ca683733bb127", null ],
-    [ "Verify", "d1/d85/a09948.html#adedb1f03278aaeac63deb3dd32e07329", null ],
-    [ "Entries", "d1/d85/a09948.html#aba1fdfb69c34a9d4a09428114d385621", null ],
-    [ "Groups", "d1/d85/a09948.html#aec4552a98c1e27935da8ef29c9449f87", null ]
+    [ "NpcTextLocale", "d1/d85/a09948.html#af1ddddeff75a1a51c51ebb1fec3f4f05", null ],
+    [ "Text_0", "d1/d85/a09948.html#adf17307b9d00e0b63b9c2827fca96320", null ],
+    [ "Text_1", "d1/d85/a09948.html#a40f69a13a202c350fdce2177288727e9", null ]
 ];

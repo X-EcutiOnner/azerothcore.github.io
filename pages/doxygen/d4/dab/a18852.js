@@ -1,7 +1,6 @@
 var a18852 =
 [
-    [ "OnPeriodic", "d4/dab/a18852.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d4/dab/a18852.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d4/dab/a18852.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d4/dab/a18852.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_rotting_frost_giantAI", "de/db7/a18856.html", "de/db7/a18856" ],
+    [ "npc_rotting_frost_giant", "d4/dab/a18852.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d4/dab/a18852.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

@@ -1,6 +1,6 @@
 var a19312 =
 [
-    [ "npc_icc_putricades_trapAI", "d0/dcf/a19316.html", "d0/dcf/a19316" ],
-    [ "npc_icc_putricades_trap", "da/dae/a19312.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "da/dae/a19312.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "boss_kelthuzadAI", "d0/dcf/a19316.html", "d0/dcf/a19316" ],
+    [ "boss_kelthuzad", "da/dae/a19312.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "da/dae/a19312.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

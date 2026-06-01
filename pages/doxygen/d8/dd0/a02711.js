@@ -1,5 +1,5 @@
 var a02711 =
 [
-    [ "RASession", "d7/d14/a05966.html", "d7/d14/a05966" ],
-    [ "bufferSize", "d8/dd0/a02711.html#af86f08ffe713b38f728cb02c7f06c0e1", null ]
+    [ "RaceMgr", "dd/d24/a08968.html", "dd/d24/a08968" ],
+    [ "sRaceMgr", "d8/dd0/a02711.html#a01771033df72a93fd53fc0caecbb5118", null ]
 ];

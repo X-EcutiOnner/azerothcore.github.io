@@ -1,10 +1,11 @@
 var a04499 =
 [
-    [ "MCBossObject", "dc/dc1/a12886.html", "dc/dc1/a12886" ],
-    [ "instance_molten_core", "d9/dd9/a12890.html", "d9/dd9/a12890" ],
-    [ "AddSC_instance_molten_core", "da/dec/a04499.html#aa908fb56c2f024e5bfcb38bc98b849ab", null ],
-    [ "linkedBossObjData", "da/dec/a04499.html#a69ab269a27b57bb4b00d3eee95db589e", null ],
-    [ "MAX_MC_LINKED_BOSS_OBJ", "da/dec/a04499.html#a398f000c29691c6a24707190dc4a4024", null ],
-    [ "minionData", "da/dec/a04499.html#a6720238df140a3c574a711042b7f5bd3", null ],
-    [ "SAY_SPAWN", "da/dec/a04499.html#a1712840a822c3d823764d3c974c6ea31", null ]
+    [ "VMAP::ModelPosition", "dc/da0/a05304.html", "dc/da0/a05304" ],
+    [ "VMAP::MapSpawns", "d6/d72/a05308.html", "d6/d72/a05308" ],
+    [ "VMAP::GroupModel_Raw", "d7/d32/a05312.html", "d7/d32/a05312" ],
+    [ "VMAP::WorldModel_Raw", "d8/df6/a05316.html", "d8/df6/a05316" ],
+    [ "VMAP::TileAssembler", "dc/d0e/a05320.html", "dc/d0e/a05320" ],
+    [ "MapData", "da/dec/a04499.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "da/dec/a04499.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "da/dec/a04499.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

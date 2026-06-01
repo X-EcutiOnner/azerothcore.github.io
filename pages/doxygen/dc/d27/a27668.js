@@ -1,7 +1,5 @@
 var a27668 =
 [
-    [ "HandleTeleport", "dc/d27/a27668.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "dc/d27/a27668.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "dc/d27/a27668.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "dc/d27/a27668.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "dc/d27/a27668.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "dc/d27/a27668.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

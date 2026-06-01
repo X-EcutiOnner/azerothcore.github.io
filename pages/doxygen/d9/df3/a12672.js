@@ -1,9 +1,6 @@
 var a12672 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/df3/a12672.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d9/df3/a12672.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d9/df3/a12672.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d9/df3/a12672.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d9/df3/a12672.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d9/df3/a12672.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "near_scarshield_infiltrator", "d9/df3/a12672.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d9/df3/a12672.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d9/df3/a12672.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

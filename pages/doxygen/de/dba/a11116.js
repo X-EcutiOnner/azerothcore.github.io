@@ -1,9 +1,10 @@
 var a11116 =
 [
-    [ "EnchantmentLog", "de/dba/a11116.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "de/dba/a11116.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "de/dba/a11116.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "de/dba/a11116.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "de/dba/a11116.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "de/dba/a11116.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "Count", "de/dba/a11116.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "de/dba/a11116.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "de/dba/a11116.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "de/dba/a11116.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "de/dba/a11116.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "de/dba/a11116.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "de/dba/a11116.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

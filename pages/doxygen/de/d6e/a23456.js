@@ -1,6 +1,6 @@
 var a23456 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d3/dd2/a23460.html", "d3/dd2/a23460" ],
-    [ "instance_gruuls_lair", "de/d6e/a23456.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "de/d6e/a23456.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "HandlePeriodic", "de/d6e/a23456.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "de/d6e/a23456.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "de/d6e/a23456.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

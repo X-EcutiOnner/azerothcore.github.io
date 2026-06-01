@@ -1,7 +1,10 @@
 var a08344 =
 [
-    [ "entry", "d9/d12/a08344.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
-    [ "pos", "d9/d12/a08344.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
-    [ "time", "d9/d12/a08344.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
-    [ "type", "d9/d12/a08344.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
+    [ "CreatureModel", "d9/d12/a08344.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "d9/d12/a08344.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "d9/d12/a08344.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "d9/d12/a08344.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "d9/d12/a08344.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "d9/d12/a08344.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "d9/d12/a08344.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

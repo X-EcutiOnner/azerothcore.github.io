@@ -1,5 +1,5 @@
 var a20444 =
 [
-    [ "FlashFreezeCheck", "dc/d76/a20444.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
-    [ "operator()", "dc/d76/a20444.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
+    [ "achievement_mimiron_firefighter", "dc/d76/a20444.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "dc/d76/a20444.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

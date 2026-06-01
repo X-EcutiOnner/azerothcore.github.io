@@ -1,12 +1,11 @@
 var a12608 =
 [
-    [ "boss_thebeastAI", "d3/da7/a12608.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "d3/da7/a12608.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "d3/da7/a12608.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "d3/da7/a12608.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "d3/da7/a12608.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "d3/da7/a12608.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "d3/da7/a12608.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "d3/da7/a12608.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "d3/da7/a12608.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "npc_blackhand_incarcerator", "d3/da7/a12608.html#af44831badd703bf8c5275c749fd61d2a", null ],
+    [ "DamageTaken", "d3/da7/a12608.html#af28b787db83769685d90cf7950d8f825", null ],
+    [ "JustEngagedWith", "d3/da7/a12608.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
+    [ "Reset", "d3/da7/a12608.html#a89befac34c050f9229961782156c7adf", null ],
+    [ "SetData", "d3/da7/a12608.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
+    [ "UpdateAI", "d3/da7/a12608.html#a83bad94665e11bcb55498bad5fb055a9", null ],
+    [ "_events", "d3/da7/a12608.html#a2c980622c898df77f3ed46cae1224c2f", null ],
+    [ "_fleedForAssistance", "d3/da7/a12608.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
 ];

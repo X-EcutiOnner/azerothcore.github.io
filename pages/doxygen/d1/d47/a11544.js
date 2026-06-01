@@ -1,9 +1,8 @@
 var a11544 =
 [
-    [ "SpellEvent", "d1/d47/a11544.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d1/d47/a11544.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d1/d47/a11544.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d1/d47/a11544.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d1/d47/a11544.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d1/d47/a11544.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "ServerPktHeader", "d1/d47/a11544.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d1/d47/a11544.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d1/d47/a11544.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d1/d47/a11544.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d1/d47/a11544.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

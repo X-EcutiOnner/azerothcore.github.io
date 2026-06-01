@@ -1,6 +1,11 @@
 var a16248 =
 [
-    [ "npc_weegli_blastfuseAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
-    [ "npc_weegli_blastfuse", "d8/ddd/a16248.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d8/ddd/a16248.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d8/ddd/a16248.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "d8/ddd/a16248.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d8/ddd/a16248.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d8/ddd/a16248.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d8/ddd/a16248.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d8/ddd/a16248.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d8/ddd/a16248.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "d8/ddd/a16248.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

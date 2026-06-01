@@ -1,6 +1,8 @@
 var a20036 =
 [
-    [ "HandleApplyTouch", "d0/d8f/a20036.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "d0/d8f/a20036.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "d0/d8f/a20036.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "OnApply", "d0/d8f/a20036.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
+    [ "OnRemove", "d0/d8f/a20036.html#ab967233994aa3ff07b272f010b2c1545", null ],
+    [ "PrepareAuraScript", "d0/d8f/a20036.html#a788480ec4aaa57e643f55daca17c6ded", null ],
+    [ "Register", "d0/d8f/a20036.html#a63a3e30704b282a430dcdbb9073a66df", null ],
+    [ "Validate", "d0/d8f/a20036.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
 ];

@@ -1,10 +1,16 @@
 var a29240 =
 [
-    [ "PvPDifficultyEntry", "d1/d6b/a29240.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d1/d6b/a29240.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d1/d6b/a29240.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d1/d6b/a29240.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d1/d6b/a29240.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d1/d6b/a29240.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d1/d6b/a29240.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "ProcTestScenario", "d1/d6b/a29240.html#aba69369df56d3d631a9a62bcde791537", null ],
+    [ "AdvanceTime", "d1/d6b/a29240.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
+    [ "GetActor", "d1/d6b/a29240.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
+    [ "GetActor", "d1/d6b/a29240.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
+    [ "GetAura", "d1/d6b/a29240.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
+    [ "GetNow", "d1/d6b/a29240.html#a014a9082421c022c2fac91070f8f062e", null ],
+    [ "SimulateProc", "d1/d6b/a29240.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
+    [ "WithActorLevel", "d1/d6b/a29240.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
+    [ "WithAura", "d1/d6b/a29240.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
+    [ "WithWeaponSpeed", "d1/d6b/a29240.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
+    [ "_actor", "d1/d6b/a29240.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
+    [ "_aura", "d1/d6b/a29240.html#a81e71f6e78e8c715899c85dcb9423589", null ],
+    [ "_now", "d1/d6b/a29240.html#ae20c57ecb893219e52fe055d1662e527", null ]
 ];

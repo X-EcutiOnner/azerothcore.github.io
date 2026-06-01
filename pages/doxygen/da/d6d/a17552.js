@@ -1,13 +1,14 @@
 var a17552 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "da/d6d/a17552.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "da/d6d/a17552.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "da/d6d/a17552.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "da/d6d/a17552.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "da/d6d/a17552.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "da/d6d/a17552.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "da/d6d/a17552.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "da/d6d/a17552.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "da/d6d/a17552.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "da/d6d/a17552.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "npc_ball_of_flameAI", "da/d6d/a17552.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "da/d6d/a17552.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "da/d6d/a17552.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "da/d6d/a17552.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "da/d6d/a17552.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "da/d6d/a17552.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "da/d6d/a17552.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "da/d6d/a17552.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "da/d6d/a17552.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "da/d6d/a17552.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "da/d6d/a17552.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

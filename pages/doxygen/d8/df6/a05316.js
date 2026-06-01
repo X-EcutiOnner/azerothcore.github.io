@@ -1,8 +1,6 @@
 var a05316 =
 [
-    [ "ComputeCell", "d8/df6/a05316.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
-    [ "isValid", "d8/df6/a05316.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
-    [ "operator==", "d8/df6/a05316.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
-    [ "x", "d8/df6/a05316.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
-    [ "y", "d8/df6/a05316.html#af3d5ae020727d58286ef7725958063a9", null ]
+    [ "Read", "d8/df6/a05316.html#a652bcf37d435efc3fb82f4d8cbf00e51", null ],
+    [ "groupsArray", "d8/df6/a05316.html#a79b2d93c2929aaddac1004aed4ecdd85", null ],
+    [ "RootWMOID", "d8/df6/a05316.html#a6b9058e7062c970438c79f08103c3c61", null ]
 ];

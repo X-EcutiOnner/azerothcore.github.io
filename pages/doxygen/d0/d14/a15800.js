@@ -1,6 +1,7 @@
 var a15800 =
 [
-    [ "npc_magwinAI", "d2/daf/a15804.html", "d2/daf/a15804" ],
-    [ "npc_magwin", "d0/d14/a15800.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d0/d14/a15800.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "HandleDummy", "d0/d14/a15800.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d0/d14/a15800.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d0/d14/a15800.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d0/d14/a15800.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

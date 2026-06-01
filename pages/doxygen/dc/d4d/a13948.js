@@ -1,10 +1,6 @@
 var a13948 =
 [
-    [ "npc_sunblade_scout", "dc/d4d/a13948.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "dc/d4d/a13948.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "dc/d4d/a13948.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "dc/d4d/a13948.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "dc/d4d/a13948.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "dc/d4d/a13948.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "dc/d4d/a13948.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "npc_rinjiAI", "de/dab/a13952.html", "de/dab/a13952" ],
+    [ "npc_rinji", "dc/d4d/a13948.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "dc/d4d/a13948.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

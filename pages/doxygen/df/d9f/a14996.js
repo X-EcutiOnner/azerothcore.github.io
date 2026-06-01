@@ -1,8 +1,6 @@
 var a14996 =
 [
-    [ "CheckCast", "df/d9f/a14996.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "df/d9f/a14996.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "df/d9f/a14996.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "df/d9f/a14996.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "df/d9f/a14996.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "FilterTargets", "df/d9f/a14996.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "df/d9f/a14996.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "df/d9f/a14996.html#a164b8b946dc801db878603488c978adb", null ]
 ];

@@ -1,20 +1,11 @@
 var a12576 =
 [
-    [ "boss_rend_blackhandAI", "d1/d68/a12576.html#a2814a327bc7a9f757f7a05912a662f44", null ],
-    [ "EnterEvadeMode", "d1/d68/a12576.html#a144c325de23530f4d77d6ab0a82bd341", null ],
-    [ "IsSummonedBy", "d1/d68/a12576.html#aaa526ce953dd90de0d2459e74b96d3b7", null ],
-    [ "JustDied", "d1/d68/a12576.html#a4e41038af6075585346ce7acc40f5d16", null ],
-    [ "JustEngagedWith", "d1/d68/a12576.html#ad2800c1ca9785cf9a4445bb298635464", null ],
-    [ "JustSummoned", "d1/d68/a12576.html#ab003c8952ff1d7c71295621967a29bbd", null ],
-    [ "MovementInform", "d1/d68/a12576.html#a0219dfff536ebb0663dbd575c2955630", null ],
-    [ "Reset", "d1/d68/a12576.html#adf7859684e871f844db8d39ae29d4229", null ],
-    [ "SetData", "d1/d68/a12576.html#ae8da177a417f420f63b318477ad2fa9c", null ],
-    [ "SummonedCreatureDespawn", "d1/d68/a12576.html#a09f814167a86eed5e13dec8a34a5d2e8", null ],
-    [ "SummonedCreatureDies", "d1/d68/a12576.html#af0467f9f8cf7f552cd90994b6a208394", null ],
-    [ "SummonWave", "d1/d68/a12576.html#a51a96beb5c271191c52a0b12d3824043", null ],
-    [ "UpdateAI", "d1/d68/a12576.html#a89970f47673bc2ce1290900251970fe4", null ],
-    [ "_currentWave", "d1/d68/a12576.html#aff4797532d1ab098dc8f52454c2ecd05", null ],
-    [ "gythEvent", "d1/d68/a12576.html#ac5c2ee831c560ef96338dd08a61ec4c1", null ],
-    [ "victorGUID", "d1/d68/a12576.html#a414de083616e4b77a84af8617a3b5f8e", null ],
-    [ "waveDoorGUID", "d1/d68/a12576.html#a0f426a5f2cde0f522ba2a236d34f9d5a", null ]
+    [ "boss_gyth", "d1/d68/a12576.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "d1/d68/a12576.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "d1/d68/a12576.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "d1/d68/a12576.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "d1/d68/a12576.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "d1/d68/a12576.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "d1/d68/a12576.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "d1/d68/a12576.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

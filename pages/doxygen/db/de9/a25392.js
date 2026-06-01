@@ -1,7 +1,6 @@
 var a25392 =
 [
-    [ "ModDest", "db/de9/a25392.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "db/de9/a25392.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "db/de9/a25392.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "db/de9/a25392.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "CheckCast", "db/de9/a25392.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "db/de9/a25392.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "db/de9/a25392.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

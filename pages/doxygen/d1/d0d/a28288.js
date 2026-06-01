@@ -1,5 +1,6 @@
 var a28288 =
 [
-    [ "go_duskwither_spire_power_source", "d1/d0d/a28288.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d1/d0d/a28288.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "npc_necropolis_proxy", "d1/d0d/a28288.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d1/d0d/a28288.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d1/d0d/a28288.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

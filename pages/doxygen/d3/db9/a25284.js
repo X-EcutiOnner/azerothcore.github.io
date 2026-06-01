@@ -1,7 +1,8 @@
 var a25284 =
 [
-    [ "PrepareSpellScript", "d3/db9/a25284.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "d3/db9/a25284.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "d3/db9/a25284.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "d3/db9/a25284.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "CheckProc", "d3/db9/a25284.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
+    [ "HandleProc", "d3/db9/a25284.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
+    [ "PrepareAuraScript", "d3/db9/a25284.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
+    [ "Register", "d3/db9/a25284.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
+    [ "Validate", "d3/db9/a25284.html#a7762ce25775b98dba14b4ac465cad711", null ]
 ];

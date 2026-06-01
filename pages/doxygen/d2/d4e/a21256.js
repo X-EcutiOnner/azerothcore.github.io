@@ -1,6 +1,6 @@
 var a21256 =
 [
-    [ "npc_frozen_orbAI", "da/d91/a21260.html", "da/d91/a21260" ],
-    [ "npc_frozen_orb", "d2/d4e/a21256.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "d2/d4e/a21256.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "da/d91/a21260.html", "da/d91/a21260" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d2/d4e/a21256.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d2/d4e/a21256.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

@@ -1,5 +1,10 @@
 var a22936 =
 [
-    [ "npc_vengeful_spirit", "d0/dc7/a22936.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d0/dc7/a22936.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "Spells", "d0/dc7/a22936.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "d0/dc7/a22936.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "d0/dc7/a22936.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "d0/dc7/a22936.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "d0/dc7/a22936.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "d0/dc7/a22936.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

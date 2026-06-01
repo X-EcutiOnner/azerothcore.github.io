@@ -1,6 +1,8 @@
 var a17212 =
 [
-    [ "boss_bronjahmAI", "db/dc0/a17216.html", "db/dc0/a17216" ],
-    [ "boss_bronjahm", "df/d58/a17212.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "df/d58/a17212.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "npc_hor_risen_witch_doctor", "df/d58/a17212.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "df/d58/a17212.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "df/d58/a17212.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "df/d58/a17212.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "df/d58/a17212.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

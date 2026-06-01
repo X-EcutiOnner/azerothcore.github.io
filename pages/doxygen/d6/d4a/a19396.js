@@ -1,7 +1,6 @@
 var a19396 =
 [
-    [ "OnRemove", "d6/d4a/a19396.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d6/d4a/a19396.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d6/d4a/a19396.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d6/d4a/a19396.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "boss_razuvious_minionAI", "d7/d66/a19400.html", "d7/d66/a19400" ],
+    [ "boss_razuvious_minion", "d6/d4a/a19396.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d6/d4a/a19396.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

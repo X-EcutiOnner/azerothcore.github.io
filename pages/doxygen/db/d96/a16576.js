@@ -1,7 +1,6 @@
 var a16576 =
 [
-    [ "HandlePeriodic", "db/d96/a16576.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "db/d96/a16576.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "db/d96/a16576.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "db/d96/a16576.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "FilterTargets", "db/d96/a16576.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "db/d96/a16576.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "db/d96/a16576.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

@@ -1,11 +1,5 @@
 var a08632 =
 [
-    [ "MovableMapObject", "d7/dac/a08632.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "d7/dac/a08632.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "d7/dac/a08632.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "d7/dac/a08632.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "d7/dac/a08632.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "d7/dac/a08632.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "d7/dac/a08632.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "d7/dac/a08632.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "CastBarCaption", "d7/dac/a08632.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "d7/dac/a08632.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

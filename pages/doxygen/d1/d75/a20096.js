@@ -1,6 +1,5 @@
 var a20096 =
 [
-    [ "PrepareSpellScript", "d1/d75/a20096.html#af7426e99a49f8618fc38242ded7132f1", null ],
-    [ "RecalculateDamage", "d1/d75/a20096.html#a94e70b20f2139f668227dccb623c1af6", null ],
-    [ "Register", "d1/d75/a20096.html#acd911f78780e052d88f5f47574092d62", null ]
+    [ "achievement_flame_leviathan_shutout", "d1/d75/a20096.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d1/d75/a20096.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

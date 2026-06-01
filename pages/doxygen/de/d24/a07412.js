@@ -1,9 +1,16 @@
 var a07412 =
 [
-    [ "entryAlliance", "de/d24/a07412.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "de/d24/a07412.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "de/d24/a07412.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "de/d24/a07412.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "de/d24/a07412.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "de/d24/a07412.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "BuildAuctionInfo", "de/d24/a07412.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "de/d24/a07412.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "de/d24/a07412.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "de/d24/a07412.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "de/d24/a07412.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "de/d24/a07412.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "de/d24/a07412.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "de/d24/a07412.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "de/d24/a07412.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "de/d24/a07412.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "de/d24/a07412.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "de/d24/a07412.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "de/d24/a07412.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

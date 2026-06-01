@@ -1,6 +1,6 @@
 var a20408 =
 [
-    [ "npc_ulduar_toasty_fire", "d2/df1/a20408.html#aa4447547d1689440813877ddd0347d5a", null ],
-    [ "DoAction", "d2/df1/a20408.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d2/df1/a20408.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "ModDest", "d2/df1/a20408.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d2/df1/a20408.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d2/df1/a20408.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

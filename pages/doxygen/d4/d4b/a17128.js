@@ -1,6 +1,6 @@
 var a17128 =
 [
-    [ "HandleDummy", "d4/d4b/a17128.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d4/d4b/a17128.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d4/d4b/a17128.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "entry", "d4/d4b/a17128.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d4/d4b/a17128.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d4/d4b/a17128.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

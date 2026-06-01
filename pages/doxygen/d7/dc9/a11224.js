@@ -1,11 +1,10 @@
 var a11224 =
 [
-    [ "MoneyCost", "d7/dc9/a11224.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "d7/dc9/a11224.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "d7/dc9/a11224.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "d7/dc9/a11224.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "d7/dc9/a11224.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "d7/dc9/a11224.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "d7/dc9/a11224.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "d7/dc9/a11224.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "BuyItem", "d7/dc9/a11224.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "d7/dc9/a11224.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "d7/dc9/a11224.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "d7/dc9/a11224.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "d7/dc9/a11224.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "d7/dc9/a11224.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "d7/dc9/a11224.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

@@ -1,26 +1,7 @@
 var a08224 =
 [
-    [ "Corpse", "d7/d3b/a08224.html#a2f7783ce9a9be85c3212fe86a349766d", null ],
-    [ "~Corpse", "d7/d3b/a08224.html#a38729445517f20d2427c115364da045f", null ],
-    [ "AddToWorld", "d7/d3b/a08224.html#a8c5111652979636e59e655eedf47f978", null ],
-    [ "BuildValuesUpdate", "d7/d3b/a08224.html#ab30d247f740518529f51dc8bccdd8a75", null ],
-    [ "Create", "d7/d3b/a08224.html#a34e2fc9d1f64dedd9da4428b532f145c", null ],
-    [ "Create", "d7/d3b/a08224.html#a0f709c964269b438fcc2562868e72834", null ],
-    [ "DeleteFromDB", "d7/d3b/a08224.html#af1d47fcea8651554eb239bb7d9816491", null ],
-    [ "DeleteFromDB", "d7/d3b/a08224.html#a0797893bed1654fac3a6bd7a0cbd7225", null ],
-    [ "GetCellCoord", "d7/d3b/a08224.html#a9345be6ba96317ba7efc9ef1bbbf9b44", null ],
-    [ "GetGhostTime", "d7/d3b/a08224.html#a92e3fd5bebe85204829e5ff97bd3c44f", null ],
-    [ "GetOwnerGUID", "d7/d3b/a08224.html#a50a75a8cf344fdb395d456d5cc947489", null ],
-    [ "GetType", "d7/d3b/a08224.html#ade09571ad69b115ad968e11fd85c480c", null ],
-    [ "IsExpired", "d7/d3b/a08224.html#a025404f6d3fcd7392960b48d636236d4", null ],
-    [ "LoadCorpseFromDB", "d7/d3b/a08224.html#ab2a0905d1f24692065227e7bbfe4e5c4", null ],
-    [ "RemoveFromWorld", "d7/d3b/a08224.html#a659f796ae11a5872226a6aa64323be59", null ],
-    [ "ResetGhostTime", "d7/d3b/a08224.html#a28d222b38b604d2ecc566ef78b4eb8f9", null ],
-    [ "SaveToDB", "d7/d3b/a08224.html#a10bff6f7d0e2597ef9db67aafd8249ea", null ],
-    [ "SetCellCoord", "d7/d3b/a08224.html#abc0a2bc92c1344f9af6b53e8ecdf70f1", null ],
-    [ "_cellCoord", "d7/d3b/a08224.html#a0196d9ba2d908262a65ff8fa8f34b76b", null ],
-    [ "loot", "d7/d3b/a08224.html#a7f839a667b4a10014760a0f4451298b1", null ],
-    [ "lootRecipient", "d7/d3b/a08224.html#a57a9b6a244d82265bd625bb465e6cc9d", null ],
-    [ "m_time", "d7/d3b/a08224.html#a97122518c52f502e7c38753805d76472", null ],
-    [ "m_type", "d7/d3b/a08224.html#a6017c84645e7e633871c92786ed25838", null ]
+    [ "global_sequence", "d7/d3b/a08224.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "d7/d3b/a08224.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "d7/d3b/a08224.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "d7/d3b/a08224.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

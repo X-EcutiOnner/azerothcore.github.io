@@ -1,5 +1,6 @@
 var a29252 =
 [
-    [ "id", "d7/d90/a29252.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d7/d90/a29252.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "canProcDuringTrigger", "d7/d90/a29252.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "d7/d90/a29252.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "d7/d90/a29252.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

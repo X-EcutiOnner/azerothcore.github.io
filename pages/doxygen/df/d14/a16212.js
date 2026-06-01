@@ -1,6 +1,5 @@
 var a16212 =
 [
-    [ "creatureID", "df/d14/a16212.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "df/d14/a16212.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "df/d14/a16212.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "PrepareAuraScript", "df/d14/a16212.html#a912a1aa9a77edfa672b70588c17e8002", null ],
+    [ "Register", "df/d14/a16212.html#a92ee242ff7e474858465b5d4cd408a48", null ]
 ];

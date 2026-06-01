@@ -1,11 +1,7 @@
 var a28984 =
 [
-    [ "icon", "dc/d0c/a28984.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "dc/d0c/a28984.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "dc/d0c/a28984.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "dc/d0c/a28984.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "dc/d0c/a28984.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "dc/d0c/a28984.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "dc/d0c/a28984.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "dc/d0c/a28984.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "Flags", "dc/d0c/a28984.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "dc/d0c/a28984.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "dc/d0c/a28984.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "dc/d0c/a28984.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

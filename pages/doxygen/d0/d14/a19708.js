@@ -1,7 +1,9 @@
 var a19708 =
 [
-    [ "HandleScript", "d0/d14/a19708.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d0/d14/a19708.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d0/d14/a19708.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d0/d14/a19708.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "HandleOnEffectApply", "d0/d14/a19708.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d0/d14/a19708.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d0/d14/a19708.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d0/d14/a19708.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d0/d14/a19708.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d0/d14/a19708.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

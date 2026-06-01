@@ -1,6 +1,5 @@
 var a15636 =
 [
-    [ "FilterTargets", "dc/ddc/a15636.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "dc/ddc/a15636.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "dc/ddc/a15636.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "at_battleguard_sartura", "dc/ddc/a15636.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "dc/ddc/a15636.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

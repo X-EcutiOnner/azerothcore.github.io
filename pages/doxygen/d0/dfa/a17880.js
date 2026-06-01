@@ -1,8 +1,7 @@
 var a17880 =
 [
-    [ "npc_high_overlord_saurfangAI", "d6/dc8/a17884.html", "d6/dc8/a17884" ],
-    [ "npc_high_overlord_saurfang_icc", "d0/dfa/a17880.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d0/dfa/a17880.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d0/dfa/a17880.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d0/dfa/a17880.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "npc_gunship_rocketeerAI", "d0/dfa/a17880.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d0/dfa/a17880.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d0/dfa/a17880.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d0/dfa/a17880.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

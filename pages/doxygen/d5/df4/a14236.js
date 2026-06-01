@@ -1,6 +1,8 @@
 var a14236 =
 [
-    [ "npc_the_scourge_cauldronAI", "d3/dc2/a14240.html", "d3/dc2/a14240" ],
-    [ "npc_the_scourge_cauldron", "d5/df4/a14236.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d5/df4/a14236.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "npc_zulaman_hostageAI", "d3/dc2/a14240.html", "d3/dc2/a14240" ],
+    [ "npc_zulaman_hostage", "d5/df4/a14236.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d5/df4/a14236.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d5/df4/a14236.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d5/df4/a14236.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

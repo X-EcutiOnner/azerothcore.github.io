@@ -1,8 +1,7 @@
 var a25084 =
 [
-    [ "Absorb", "df/dc3/a25084.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "df/dc3/a25084.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "df/dc3/a25084.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "df/dc3/a25084.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "df/dc3/a25084.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "ModDest", "df/dc3/a25084.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "df/dc3/a25084.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "df/dc3/a25084.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "df/dc3/a25084.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

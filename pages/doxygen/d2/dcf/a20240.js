@@ -1,8 +1,6 @@
 var a20240 =
 [
-    [ "FilterTargets", "d2/dcf/a20240.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d2/dcf/a20240.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d2/dcf/a20240.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d2/dcf/a20240.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d2/dcf/a20240.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "FilterTargets", "d2/dcf/a20240.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d2/dcf/a20240.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d2/dcf/a20240.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

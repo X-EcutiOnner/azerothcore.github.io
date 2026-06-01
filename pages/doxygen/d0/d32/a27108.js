@@ -1,7 +1,8 @@
 var a27108 =
 [
-    [ "HandleDummy", "d0/d32/a27108.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
-    [ "Load", "d0/d32/a27108.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
-    [ "PrepareSpellScript", "d0/d32/a27108.html#aeffcc8db6125a35227545911fa03a850", null ],
-    [ "Register", "d0/d32/a27108.html#a1de981482ebb05b8507b308dba7a426b", null ]
+    [ "CheckFireTotem", "d0/d32/a27108.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d0/d32/a27108.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d0/d32/a27108.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d0/d32/a27108.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d0/d32/a27108.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

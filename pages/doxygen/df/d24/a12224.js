@@ -1,10 +1,13 @@
 var a12224 =
 [
-    [ "quest_commandscript", "df/d24/a12224.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "df/d24/a12224.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "df/d24/a12224.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "df/d24/a12224.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "df/d24/a12224.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "df/d24/a12224.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
-    [ "HandleQuestStatus", "df/d24/a12224.html#adbba92d0cf47879e94710c971fd994ff", null ]
+    [ "cheat_commandscript", "df/d24/a12224.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "df/d24/a12224.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "df/d24/a12224.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "df/d24/a12224.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "df/d24/a12224.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "df/d24/a12224.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "df/d24/a12224.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "df/d24/a12224.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "df/d24/a12224.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "df/d24/a12224.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

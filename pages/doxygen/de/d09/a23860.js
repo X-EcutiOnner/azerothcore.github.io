@@ -1,6 +1,6 @@
 var a23860 =
 [
-    [ "HandleAfterRemove", "de/d09/a23860.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "de/d09/a23860.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "de/d09/a23860.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_torloth_the_magnificentAI", "d9/df3/a23864.html", "d9/df3/a23864" ],
+    [ "npc_torloth_the_magnificent", "de/d09/a23860.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "de/d09/a23860.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

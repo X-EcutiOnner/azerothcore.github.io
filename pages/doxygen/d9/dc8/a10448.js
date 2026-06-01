@@ -1,13 +1,12 @@
 var a10448 =
 [
-    [ "AccountScript", "d9/dc8/a10448.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
-    [ "CanAccountCreateCharacter", "d9/dc8/a10448.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
-    [ "OnAccountLogin", "d9/dc8/a10448.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
-    [ "OnBeforeAccountDelete", "d9/dc8/a10448.html#a631f7deca08644da2613142c667618a8", null ],
-    [ "OnEmailChange", "d9/dc8/a10448.html#adf20bd20cdc97b91db664dca95f82670", null ],
-    [ "OnFailedAccountLogin", "d9/dc8/a10448.html#aae3401d74bdc9e8328a5f084462ae740", null ],
-    [ "OnFailedEmailChange", "d9/dc8/a10448.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
-    [ "OnFailedPasswordChange", "d9/dc8/a10448.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
-    [ "OnLastIpUpdate", "d9/dc8/a10448.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
-    [ "OnPasswordChange", "d9/dc8/a10448.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
+    [ "FacingInfo", "d9/dc8/a10448.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "d9/dc8/a10448.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "d9/dc8/a10448.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "d9/dc8/a10448.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "d9/dc8/a10448.html#a811011ef77b57be8ae86de7396f67d51", null ],
+    [ "target", "d9/dc8/a10448.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "d9/dc8/a10448.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "d9/dc8/a10448.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "d9/dc8/a10448.html#a5ff017b732d47684f675041e44227754", null ]
 ];

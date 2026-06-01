@@ -1,7 +1,6 @@
 var a14736 =
 [
-    [ "FilterTargets", "d2/de9/a14736.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d2/de9/a14736.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d2/de9/a14736.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d2/de9/a14736.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "npc_soh_fire_trigger", "d2/de9/a14736.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "d2/de9/a14736.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "d2/de9/a14736.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

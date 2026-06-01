@@ -1,7 +1,7 @@
 var a24960 =
 [
-    [ "CheckRequirement", "de/d44/a24960.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "de/d44/a24960.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "de/d44/a24960.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "de/d44/a24960.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "CheckIfLanceEquipped", "de/d44/a24960.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "de/d44/a24960.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "de/d44/a24960.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "de/d44/a24960.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

@@ -1,7 +1,5 @@
 var a13640 =
 [
-    [ "OnPeriodic", "d5/d25/a13640.html#ab193b7cf8a8fe91879317e7d21522976", null ],
-    [ "PrepareAuraScript", "d5/d25/a13640.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
-    [ "Register", "d5/d25/a13640.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
-    [ "Validate", "d5/d25/a13640.html#a290b864756ceff85d52ba3f974a28217", null ]
+    [ "go_eredar_twins_blaze", "d5/d25/a13640.html#a19d28875d3506d337e0ecbd93169f140", null ],
+    [ "InitializeAI", "d5/d25/a13640.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
 ];

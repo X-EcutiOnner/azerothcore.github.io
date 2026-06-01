@@ -1,7 +1,6 @@
 var a23556 =
 [
-    [ "FilterTargets", "d9/da4/a23556.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d9/da4/a23556.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d9/da4/a23556.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d9/da4/a23556.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "instance_the_eye_InstanceMapScript", "d0/d97/a23560.html", "d0/d97/a23560" ],
+    [ "instance_the_eye", "d9/da4/a23556.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d9/da4/a23556.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

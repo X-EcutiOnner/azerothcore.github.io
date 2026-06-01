@@ -1,7 +1,6 @@
 var a09124 =
 [
-    [ "QuestPOIPoint", "d8/d42/a09124.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
-    [ "QuestPOIPoint", "d8/d42/a09124.html#a2e80e5a83ab336a8b019f38297862efa", null ],
-    [ "x", "d8/d42/a09124.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
-    [ "y", "d8/d42/a09124.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
+    [ "Reset", "d8/d42/a09124.html#acccf504073283011dc32b05a5a87b85a", null ],
+    [ "Guid", "d8/d42/a09124.html#a738a014abc8cb5df525642acc218576b", null ],
+    [ "IsUnselectable", "d8/d42/a09124.html#a037411c58c414d0c5a39915b7acd578d", null ]
 ];

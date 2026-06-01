@@ -1,7 +1,9 @@
 var a23376 =
 [
-    [ "HandleScript", "d6/d8d/a23376.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d6/d8d/a23376.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d6/d8d/a23376.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d6/d8d/a23376.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "boss_dalliah_the_doomsayer", "d6/d8d/a23376.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "d6/d8d/a23376.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "d6/d8d/a23376.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "d6/d8d/a23376.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "d6/d8d/a23376.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "d6/d8d/a23376.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

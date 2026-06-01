@@ -1,8 +1,9 @@
 var a16336 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d7/da0/a16336.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d7/da0/a16336.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d7/da0/a16336.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d7/da0/a16336.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d7/da0/a16336.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d7/da0/a16336.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d7/da0/a16336.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d7/da0/a16336.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d7/da0/a16336.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d7/da0/a16336.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d7/da0/a16336.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

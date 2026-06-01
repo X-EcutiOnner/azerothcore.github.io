@@ -1,6 +1,11 @@
 var a21032 =
 [
-    [ "CheckRequirement", "d9/dd4/a21032.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d9/dd4/a21032.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d9/dd4/a21032.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "boss_archavonAI", "d9/dd4/a21032.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d9/dd4/a21032.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d9/dd4/a21032.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d9/dd4/a21032.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d9/dd4/a21032.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d9/dd4/a21032.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d9/dd4/a21032.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d9/dd4/a21032.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

@@ -1,7 +1,11 @@
 var a28056 =
 [
-    [ "npc_spirit_shadeAI", "d5/d23/a28056.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d5/d23/a28056.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d5/d23/a28056.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d5/d23/a28056.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "npc_artoriusAI", "d5/d23/a28056.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d5/d23/a28056.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d5/d23/a28056.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d5/d23/a28056.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d5/d23/a28056.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d5/d23/a28056.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d5/d23/a28056.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d5/d23/a28056.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

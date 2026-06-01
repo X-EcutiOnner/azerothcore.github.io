@@ -1,7 +1,6 @@
 var a22940 =
 [
-    [ "Absorb", "d5/d95/a22940.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d5/d95/a22940.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d5/d95/a22940.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d5/d95/a22940.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "HandlePeriodic", "d5/d95/a22940.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "d5/d95/a22940.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "d5/d95/a22940.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

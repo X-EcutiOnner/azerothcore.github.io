@@ -1,6 +1,7 @@
 var a27164 =
 [
-    [ "PrepareSpellScript", "d9/d4c/a27164.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "d9/d4c/a27164.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "d9/d4c/a27164.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "AfterRemove", "d9/d4c/a27164.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d9/d4c/a27164.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d9/d4c/a27164.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d9/d4c/a27164.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

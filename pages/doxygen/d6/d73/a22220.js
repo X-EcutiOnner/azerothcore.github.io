@@ -1,8 +1,5 @@
 var a22220 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d73/a22220.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d6/d73/a22220.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d6/d73/a22220.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d6/d73/a22220.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d6/d73/a22220.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/d73/a22220.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d6/d73/a22220.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

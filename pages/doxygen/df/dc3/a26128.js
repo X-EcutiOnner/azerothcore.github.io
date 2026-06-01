@@ -1,6 +1,7 @@
 var a26128 =
 [
-    [ "CalculateDamage", "df/dc3/a26128.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "df/dc3/a26128.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "OnRemove", "df/dc3/a26128.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
+    [ "PrepareAuraScript", "df/dc3/a26128.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
+    [ "Register", "df/dc3/a26128.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
+    [ "Validate", "df/dc3/a26128.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
 ];

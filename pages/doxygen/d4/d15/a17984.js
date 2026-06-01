@@ -1,9 +1,6 @@
 var a17984 =
 [
-    [ "BattleExperienceEvent", "d4/d15/a17984.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d4/d15/a17984.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d4/d15/a17984.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d4/d15/a17984.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d4/d15/a17984.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d4/d15/a17984.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "boss_lady_deathwhisperAI", "d8/da4/a17988.html", "d8/da4/a17988" ],
+    [ "boss_lady_deathwhisper", "d4/d15/a17984.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "d4/d15/a17984.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

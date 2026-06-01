@@ -1,6 +1,8 @@
 var a23752 =
 [
-    [ "AfterRemove", "da/dc2/a23752.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "da/dc2/a23752.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "da/dc2/a23752.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "npc_captain_saeedAI", "d6/d42/a23756.html", "d6/d42/a23756" ],
+    [ "npc_captain_saeed", "da/dc2/a23752.html#a8a5bee9f908b10451b8d4720dff85670", null ],
+    [ "GetAI", "da/dc2/a23752.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
+    [ "OnGossipHello", "da/dc2/a23752.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
+    [ "OnGossipSelect", "da/dc2/a23752.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
 ];

@@ -1,13 +1,17 @@
 var a15652 =
 [
-    [ "boss_sartura", "de/dbd/a15652.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "de/dbd/a15652.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "de/dbd/a15652.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "de/dbd/a15652.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "de/dbd/a15652.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "de/dbd/a15652.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "de/dbd/a15652.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "de/dbd/a15652.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "de/dbd/a15652.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "de/dbd/a15652.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "npc_muglashAI", "de/dbd/a15652.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "de/dbd/a15652.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "de/dbd/a15652.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "de/dbd/a15652.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "de/dbd/a15652.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "de/dbd/a15652.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "de/dbd/a15652.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "de/dbd/a15652.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "de/dbd/a15652.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "de/dbd/a15652.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "WaypointReached", "de/dbd/a15652.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_isBrazierExtinguished", "de/dbd/a15652.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "de/dbd/a15652.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "de/dbd/a15652.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

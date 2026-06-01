@@ -1,6 +1,6 @@
 var a18980 =
 [
-    [ "npc_blistering_zombieAI", "db/da3/a18984.html", "db/da3/a18984" ],
-    [ "npc_blistering_zombie", "d0/dd4/a18980.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "d0/dd4/a18980.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "PrepareSpellScript", "d0/dd4/a18980.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d0/dd4/a18980.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d0/dd4/a18980.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

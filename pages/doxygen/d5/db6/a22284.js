@@ -1,7 +1,8 @@
 var a22284 =
 [
-    [ "OnApply", "d5/db6/a22284.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "d5/db6/a22284.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "d5/db6/a22284.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "d5/db6/a22284.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_yor", "d5/db6/a22284.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d5/db6/a22284.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d5/db6/a22284.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d5/db6/a22284.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d5/db6/a22284.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

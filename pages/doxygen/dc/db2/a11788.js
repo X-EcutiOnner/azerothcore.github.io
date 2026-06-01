@@ -1,6 +1,8 @@
 var a11788 =
 [
-    [ "EffectAbsorbHandler", "dc/db2/a11788.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "dc/db2/a11788.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "dc/db2/a11788.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "target_mapId", "dc/db2/a11788.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "dc/db2/a11788.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "dc/db2/a11788.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "dc/db2/a11788.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "dc/db2/a11788.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

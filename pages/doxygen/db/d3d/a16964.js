@@ -1,6 +1,7 @@
 var a16964 =
 [
-    [ "npc_toc_pet_warlockAI", "d2/d7c/a16968.html", "d2/d7c/a16968" ],
-    [ "npc_toc_pet_warlock", "db/d3d/a16964.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "db/d3d/a16964.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "HandleEffectPeriodic", "db/d3d/a16964.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "db/d3d/a16964.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "db/d3d/a16964.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "db/d3d/a16964.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

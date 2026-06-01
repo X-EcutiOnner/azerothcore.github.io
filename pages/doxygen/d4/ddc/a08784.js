@@ -1,5 +1,5 @@
 var a08784 =
 [
-    [ "Rank", "d4/ddc/a08784.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d4/ddc/a08784.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "PositionXYStreamer", "d4/ddc/a08784.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "d4/ddc/a08784.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

@@ -1,7 +1,6 @@
 var a19352 =
 [
-    [ "DelayedCastMincharEvent", "dd/dbf/a19352.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "dd/dbf/a19352.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "dd/dbf/a19352.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "dd/dbf/a19352.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "boss_maexxnaAI", "d0/d95/a19356.html", "d0/d95/a19356" ],
+    [ "boss_maexxna", "dd/dbf/a19352.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "dd/dbf/a19352.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

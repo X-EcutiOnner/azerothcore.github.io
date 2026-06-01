@@ -1,7 +1,7 @@
 var a17960 =
 [
-    [ "HandleScript", "dd/d12/a17960.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "dd/d12/a17960.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "dd/d12/a17960.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "dd/d12/a17960.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "DamageGunship", "dd/d12/a17960.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "dd/d12/a17960.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "dd/d12/a17960.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "dd/d12/a17960.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

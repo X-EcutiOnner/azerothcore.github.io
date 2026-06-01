@@ -1,9 +1,5 @@
 var a01988 =
 [
-    [ "PetSpell", "d1/d7d/a08798.html", "d1/d7d/a08798" ],
-    [ "Pet", "de/d38/a08802.html", "de/d38/a08802" ],
-    [ "AutoSpellList", "d5/da1/a01988.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
-    [ "PetSpellMap", "d5/da1/a01988.html#a5b33058abef8c309621a9029df331c0e", null ],
-    [ "HAPPINESS_LEVEL_SIZE", "d5/da1/a01988.html#a892e58d225a828ccac38c7d241365e30", null ],
-    [ "PET_LOSE_HAPPINES_INTERVAL", "d5/da1/a01988.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
+    [ "OutdoorPvP_terokkar_forest", "d6/d73/a22220.html", "d6/d73/a22220" ],
+    [ "AddSC_outdoorpvp_tf", "d5/da1/a01988.html#a6df553c8dd6e9b81e83110e7beab3646", null ]
 ];

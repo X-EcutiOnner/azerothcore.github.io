@@ -1,10 +1,12 @@
 var a20528 =
 [
-    [ "boss_kologarn_eyebeam", "d5/d30/a20528.html#ae51ea98b22b3a0734347825b3a0346be", null ],
-    [ "DamageDealt", "d5/d30/a20528.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
-    [ "IsSummonedBy", "d5/d30/a20528.html#a1640ef2ca2a58803786a6c675191676c", null ],
-    [ "UpdateAI", "d5/d30/a20528.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
-    [ "_damaged", "d5/d30/a20528.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
-    [ "_timer", "d5/d30/a20528.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
-    [ "m_pInstance", "d5/d30/a20528.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
+    [ "boss_thorim_start_npcs", "d5/d30/a20528.html#a3ed7da48fc86ea00124181bb943a778d", null ],
+    [ "DamageTaken", "d5/d30/a20528.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
+    [ "JustDied", "d5/d30/a20528.html#af5a00c3bc633464e9fd5d02991845294", null ],
+    [ "JustEngagedWith", "d5/d30/a20528.html#a636dd7264dd01aa5fc3c69af17425103", null ],
+    [ "Reset", "d5/d30/a20528.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
+    [ "UpdateAI", "d5/d30/a20528.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
+    [ "_isCaster", "d5/d30/a20528.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
+    [ "_playerAttack", "d5/d30/a20528.html#ab1bf0c011692377fc591610c5131d5e2", null ],
+    [ "events", "d5/d30/a20528.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
 ];

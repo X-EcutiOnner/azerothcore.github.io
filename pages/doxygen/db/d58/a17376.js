@@ -1,10 +1,6 @@
 var a17376 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "db/d58/a17376.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "db/d58/a17376.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "db/d58/a17376.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "db/d58/a17376.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "db/d58/a17376.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "db/d58/a17376.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "db/d58/a17376.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "HandleDummy", "db/d58/a17376.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "db/d58/a17376.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "db/d58/a17376.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

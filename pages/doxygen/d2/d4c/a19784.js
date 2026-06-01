@@ -1,12 +1,11 @@
 var a19784 =
 [
-    [ "instance_nexus_InstanceMapScript", "d2/d4c/a19784.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "d2/d4c/a19784.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "KillAllFrayers", "d2/d4c/a19784.html#a7c696467deba7a2f15d5175e3427bd20", null ],
-    [ "OnCreatureCreate", "d2/d4c/a19784.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "d2/d4c/a19784.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "d2/d4c/a19784.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "d2/d4c/a19784.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "d2/d4c/a19784.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
-    [ "_frayerGUIDs", "d2/d4c/a19784.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
+    [ "boss_maiden_of_griefAI", "d2/d4c/a19784.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d2/d4c/a19784.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d2/d4c/a19784.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d2/d4c/a19784.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d2/d4c/a19784.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d2/d4c/a19784.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d2/d4c/a19784.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d2/d4c/a19784.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

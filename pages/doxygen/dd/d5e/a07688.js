@@ -1,14 +1,10 @@
 var a07688 =
 [
-    [ "AccountId", "dd/d5e/a07688.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "dd/d5e/a07688.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "dd/d5e/a07688.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "dd/d5e/a07688.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "dd/d5e/a07688.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "dd/d5e/a07688.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "dd/d5e/a07688.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "dd/d5e/a07688.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "dd/d5e/a07688.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "dd/d5e/a07688.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "dd/d5e/a07688.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "OwnerId", "dd/d5e/a07688.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "dd/d5e/a07688.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "dd/d5e/a07688.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "dd/d5e/a07688.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "dd/d5e/a07688.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "dd/d5e/a07688.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "dd/d5e/a07688.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

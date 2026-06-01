@@ -1,7 +1,7 @@
 var a14716 =
 [
-    [ "npc_direbrew_minion", "d5/dd8/a14716.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "d5/dd8/a14716.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "d5/dd8/a14716.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "d5/dd8/a14716.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "HandleEffectApply", "d5/dd8/a14716.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d5/dd8/a14716.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d5/dd8/a14716.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d5/dd8/a14716.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

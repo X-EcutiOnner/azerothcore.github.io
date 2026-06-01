@@ -1,8 +1,6 @@
 var a20916 =
 [
-    [ "FilterTargets", "d4/d85/a20916.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d4/d85/a20916.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d4/d85/a20916.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d4/d85/a20916.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d4/d85/a20916.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_ravenous_furbolgAI", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "npc_ravenous_furbolg", "d4/d85/a20916.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d4/d85/a20916.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

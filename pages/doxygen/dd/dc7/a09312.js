@@ -1,10 +1,13 @@
 var a09312 =
 [
-    [ "iterator", "dd/dc7/a09312.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "dd/dc7/a09312.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "dd/dc7/a09312.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "dd/dc7/a09312.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "dd/dc7/a09312.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "dd/dc7/a09312.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "dd/dc7/a09312.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "entry", "dd/dc7/a09312.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "dd/dc7/a09312.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "dd/dc7/a09312.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "dd/dc7/a09312.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "dd/dc7/a09312.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "dd/dc7/a09312.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "dd/dc7/a09312.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "dd/dc7/a09312.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "dd/dc7/a09312.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "dd/dc7/a09312.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

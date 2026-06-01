@@ -1,7 +1,6 @@
 var a19864 =
 [
-    [ "Apply", "db/d62/a19864.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "db/d62/a19864.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "db/d62/a19864.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "db/d62/a19864.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "npc_collapsing_star", "db/d62/a19864.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "db/d62/a19864.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "db/d62/a19864.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

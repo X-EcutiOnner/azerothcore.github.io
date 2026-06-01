@@ -1,6 +1,6 @@
 var a17712 =
 [
-    [ "ShockVortexExplodeEvent", "dd/d40/a17712.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "dd/d40/a17712.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "dd/d40/a17712.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "PrepareAuraScript", "dd/d40/a17712.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "dd/d40/a17712.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "dd/d40/a17712.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

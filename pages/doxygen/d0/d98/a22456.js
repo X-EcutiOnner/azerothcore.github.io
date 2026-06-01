@@ -1,9 +1,7 @@
 var a22456 =
 [
-    [ "OPvPCapturePointGH", "d0/d98/a22456.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "d0/d98/a22456.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "d0/d98/a22456.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "d0/d98/a22456.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "d0/d98/a22456.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "d0/d98/a22456.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "HandleScriptEffect", "d0/d98/a22456.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "d0/d98/a22456.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "d0/d98/a22456.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "d0/d98/a22456.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

@@ -1,14 +1,14 @@
 var a12700 =
 [
-    [ "boss_chromaggusAI", "d9/d2a/a12700.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
-    [ "CanAIAttack", "d9/d2a/a12700.html#a4643974601831ced1f6173965009ad20", null ],
-    [ "Initialize", "d9/d2a/a12700.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
-    [ "JustEngagedWith", "d9/d2a/a12700.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
-    [ "PathEndReached", "d9/d2a/a12700.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
-    [ "Reset", "d9/d2a/a12700.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
-    [ "SetGUID", "d9/d2a/a12700.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
-    [ "UpdateAI", "d9/d2a/a12700.html#a4a120f99c6586fd06af6699bfe913d24", null ],
-    [ "_breathSpells", "d9/d2a/a12700.html#a10e18592d163d4be586701de47da48c9", null ],
-    [ "_playerGUID", "d9/d2a/a12700.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
-    [ "Enraged", "d9/d2a/a12700.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
+    [ "boss_chromaggus", "d9/d2a/a12700.html#a2da694ece234807365ce4f22e067eb5c", null ],
+    [ "CanAIAttack", "d9/d2a/a12700.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
+    [ "Initialize", "d9/d2a/a12700.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
+    [ "JustEngagedWith", "d9/d2a/a12700.html#a7a9e301d17657ace82b4243814cbb52c", null ],
+    [ "PathEndReached", "d9/d2a/a12700.html#a790a3e06fb4db275bb447b15bb838508", null ],
+    [ "Reset", "d9/d2a/a12700.html#a003db2053b634c969499d45f7f65be6e", null ],
+    [ "SetGUID", "d9/d2a/a12700.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
+    [ "UpdateAI", "d9/d2a/a12700.html#abc27a22d82555fe3301708e9aaa61997", null ],
+    [ "_breathSpells", "d9/d2a/a12700.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
+    [ "_playerGUID", "d9/d2a/a12700.html#a3c04a19e87a122c12508e181319411a0", null ],
+    [ "Enraged", "d9/d2a/a12700.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
 ];

@@ -1,6 +1,7 @@
 var a27152 =
 [
-    [ "HandleEffectPeriodic", "d9/d14/a27152.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d9/d14/a27152.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d9/d14/a27152.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "PeriodicTick", "d9/d14/a27152.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
+    [ "PrepareAuraScript", "d9/d14/a27152.html#afd362a7dd0373e9480445a99023a5c8c", null ],
+    [ "Register", "d9/d14/a27152.html#a0332788648661d5c2665c5d1431e4ca7", null ],
+    [ "Validate", "d9/d14/a27152.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
 ];

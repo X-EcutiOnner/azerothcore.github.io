@@ -1,12 +1,6 @@
 var a19852 =
 [
-    [ "npc_oculus_drakeAI", "dd/d72/a19852.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "dd/d72/a19852.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "dd/d72/a19852.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "dd/d72/a19852.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "dd/d72/a19852.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "dd/d72/a19852.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "dd/d72/a19852.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "dd/d72/a19852.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "dd/d72/a19852.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "CosmicSmashDamageEvent", "dd/d72/a19852.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "dd/d72/a19852.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "dd/d72/a19852.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

@@ -1,9 +1,7 @@
 var a10124 =
 [
-    [ "TransportAnimation", "da/d8f/a10124.html#a775b84b54deefd38af40222afd82d572", null ],
-    [ "GetAnimNode", "da/d8f/a10124.html#a73b56750c90afce38dbf57793bae16f3", null ],
-    [ "GetAnimRotation", "da/d8f/a10124.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
-    [ "Path", "da/d8f/a10124.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
-    [ "Rotations", "da/d8f/a10124.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
-    [ "TotalTime", "da/d8f/a10124.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
+    [ "ZRangeBoundary", "da/d8f/a10124.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "da/d8f/a10124.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "da/d8f/a10124.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "da/d8f/a10124.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

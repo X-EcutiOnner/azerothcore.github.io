@@ -1,12 +1,13 @@
 var a17344 =
 [
-    [ "npc_shadowy_mercenaryAI", "d1/dc5/a17344.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d1/dc5/a17344.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d1/dc5/a17344.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d1/dc5/a17344.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d1/dc5/a17344.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d1/dc5/a17344.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d1/dc5/a17344.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d1/dc5/a17344.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d1/dc5/a17344.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "d1/dc5/a17344.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
+    [ "DoAction", "d1/dc5/a17344.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
+    [ "JustSummoned", "d1/dc5/a17344.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "MovementInform", "d1/dc5/a17344.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
+    [ "SummonedCreatureDespawn", "d1/dc5/a17344.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "UpdateAI", "d1/dc5/a17344.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
+    [ "events", "d1/dc5/a17344.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
+    [ "i", "d1/dc5/a17344.html#aa185914ee8a2352e4d233f1fc4800390", null ],
+    [ "pInstance", "d1/dc5/a17344.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
+    [ "summons", "d1/dc5/a17344.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
 ];

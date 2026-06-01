@@ -1,7 +1,10 @@
 var a06344 =
 [
-    [ "ReactorAI", "d6/d70/a06344.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d6/d70/a06344.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d6/d70/a06344.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d6/d70/a06344.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "Storage", "d6/d70/a06344.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
+    [ "AchievementCriteriaDataSet", "d6/d70/a06344.html#a5055f8710c48379035e132e8f20577dc", null ],
+    [ "Add", "d6/d70/a06344.html#a297f02665679b19961998fb529d064e4", null ],
+    [ "Meets", "d6/d70/a06344.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
+    [ "SetCriteriaId", "d6/d70/a06344.html#addedfd39d9948923a2704b51eaacecbc", null ],
+    [ "_criteria_id", "d6/d70/a06344.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
+    [ "_storage", "d6/d70/a06344.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
 ];

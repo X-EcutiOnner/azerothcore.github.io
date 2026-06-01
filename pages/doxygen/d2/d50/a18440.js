@@ -1,6 +1,6 @@
 var a18440 =
 [
-    [ "ExtraRemoveEffect", "d2/d50/a18440.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "d2/d50/a18440.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "d2/d50/a18440.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "VileSpiritActivateEvent", "d2/d50/a18440.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "d2/d50/a18440.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "d2/d50/a18440.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

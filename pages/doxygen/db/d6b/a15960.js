@@ -1,6 +1,7 @@
 var a15960 =
 [
-    [ "npc_great_bear_spirit", "db/d6b/a15960.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "db/d6b/a15960.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "db/d6b/a15960.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_toogaAI", "dd/dba/a15964.html", "dd/dba/a15964" ],
+    [ "npc_tooga", "db/d6b/a15960.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "db/d6b/a15960.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "db/d6b/a15960.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

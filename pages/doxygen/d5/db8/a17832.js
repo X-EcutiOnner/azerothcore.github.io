@@ -1,6 +1,6 @@
 var a17832 =
 [
-    [ "FilterTargets", "d5/db8/a17832.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d5/db8/a17832.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d5/db8/a17832.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "npc_igb_ship_crewAI", "d5/db8/a17832.html#a3ca741b305e3235b0521f094d7abe732", null ],
+    [ "CanAIAttack", "d5/db8/a17832.html#a2c834dc151493957fc116865699ae7f5", null ],
+    [ "_instance", "d5/db8/a17832.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
 ];

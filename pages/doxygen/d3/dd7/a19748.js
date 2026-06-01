@@ -1,14 +1,10 @@
 var a19748 =
 [
-    [ "boss_keristrasza", "d3/dd7/a19748.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d3/dd7/a19748.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d3/dd7/a19748.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d3/dd7/a19748.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d3/dd7/a19748.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d3/dd7/a19748.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d3/dd7/a19748.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d3/dd7/a19748.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d3/dd7/a19748.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d3/dd7/a19748.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d3/dd7/a19748.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "npc_molten_golem", "d3/dd7/a19748.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d3/dd7/a19748.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d3/dd7/a19748.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d3/dd7/a19748.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d3/dd7/a19748.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d3/dd7/a19748.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d3/dd7/a19748.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

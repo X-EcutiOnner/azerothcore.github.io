@@ -1,7 +1,8 @@
 var a21528 =
 [
-    [ "npc_mootoo_the_youngerAI", "d0/d3d/a21532.html", "d0/d3d/a21532" ],
-    [ "npc_mootoo_the_younger", "d6/d83/a21528.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d6/d83/a21528.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d6/d83/a21528.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_q24545_vegardAI", "d6/d83/a21528.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d6/d83/a21528.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d6/d83/a21528.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d6/d83/a21528.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d6/d83/a21528.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

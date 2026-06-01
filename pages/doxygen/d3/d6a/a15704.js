@@ -1,6 +1,7 @@
 var a15704 =
 [
-    [ "HandleOnHit", "d3/d6a/a15704.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d3/d6a/a15704.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d3/d6a/a15704.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "HandleEffectRemove", "d3/d6a/a15704.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d3/d6a/a15704.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d3/d6a/a15704.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d3/d6a/a15704.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

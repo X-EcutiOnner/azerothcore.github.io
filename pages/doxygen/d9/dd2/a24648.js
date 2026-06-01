@@ -1,9 +1,9 @@
 var a24648 =
 [
-    [ "CheckProc", "d9/dd2/a24648.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
-    [ "HandleProc", "d9/dd2/a24648.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
-    [ "Load", "d9/dd2/a24648.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
-    [ "PeriodicTick", "d9/dd2/a24648.html#a1621c06bce0a28a2416385563b989cbf", null ],
-    [ "PrepareAuraScript", "d9/dd2/a24648.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
-    [ "Register", "d9/dd2/a24648.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
+    [ "PrepareAuraScript", "d9/dd2/a24648.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d9/dd2/a24648.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d9/dd2/a24648.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d9/dd2/a24648.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d9/dd2/a24648.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d9/dd2/a24648.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

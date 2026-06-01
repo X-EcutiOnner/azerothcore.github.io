@@ -1,6 +1,6 @@
 var a13256 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d5/dac/a13260.html", "d5/dac/a13260" ],
-    [ "instance_karazhan", "db/d4f/a13256.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "db/d4f/a13256.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "boss_garaxxas", "db/d4f/a13256.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "db/d4f/a13256.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "db/d4f/a13256.html#a56e6489ce49971cb066444888355626e", null ]
 ];

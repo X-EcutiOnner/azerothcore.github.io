@@ -1,6 +1,8 @@
 var a15112 =
 [
-    [ "HandleHit", "d6/d7b/a15112.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d6/d7b/a15112.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d6/d7b/a15112.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "npc_arthasAI", "d0/d37/a15116.html", "d0/d37/a15116" ],
+    [ "npc_arthas", "d6/d7b/a15112.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d6/d7b/a15112.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d6/d7b/a15112.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d6/d7b/a15112.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

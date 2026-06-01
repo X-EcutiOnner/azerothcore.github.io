@@ -1,7 +1,6 @@
 var a18696 =
 [
-    [ "HandleScript", "d5/d4e/a18696.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d5/d4e/a18696.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d5/d4e/a18696.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d5/d4e/a18696.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "ManaVoidSelector", "d5/d4e/a18696.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d5/d4e/a18696.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d5/d4e/a18696.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

@@ -1,6 +1,5 @@
 var a21340 =
 [
-    [ "boss_xevozzAI", "da/da5/a21344.html", "da/da5/a21344" ],
-    [ "boss_xevozz", "d8/d9d/a21340.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d8/d9d/a21340.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "npc_steam_powered_auctioneerAI", "d8/d9d/a21340.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d8/d9d/a21340.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

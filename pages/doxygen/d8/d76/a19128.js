@@ -1,15 +1,9 @@
 var a19128 =
 [
-    [ "npc_frostwing_vrykulAI", "d8/d76/a19128.html#ab68f844aa58f5d22586ba6d7526fc7ae", null ],
-    [ "AttackStart", "d8/d76/a19128.html#a42a53fedc36aa71f52900a416e414fc6", null ],
-    [ "CanAIAttack", "d8/d76/a19128.html#a91300d1178a2b433bd8830ec1066368e", null ],
-    [ "JustEngagedWith", "d8/d76/a19128.html#abc75688914cd4f984448dd3f21527d89", null ],
-    [ "JustSummoned", "d8/d76/a19128.html#a116908f5689d6d75570379f13ed0bd90", null ],
-    [ "Reset", "d8/d76/a19128.html#a4baa20089b50acee617c4b85bc6b8478", null ],
-    [ "SpellHitTarget", "d8/d76/a19128.html#a645dd6d85676cdd7ec1845c184dd2f93", null ],
-    [ "UpdateAI", "d8/d76/a19128.html#a810d1b1829623836f88b5a3ddfc277c5", null ],
-    [ "events", "d8/d76/a19128.html#accae0992a349361d85200863f5ac4f81", null ],
-    [ "events2", "d8/d76/a19128.html#a16682657d7cfb03ccd9f31d481c7af83", null ],
-    [ "isRanged", "d8/d76/a19128.html#a6f2e29ca9c859fe96648a2b55ccb773f", null ],
-    [ "summons", "d8/d76/a19128.html#ac75d1c18a8f70ff88f5925a3df6e5924", null ]
+    [ "spell_trigger_spell_from_caster", "d8/d76/a19128.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d8/d76/a19128.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d8/d76/a19128.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d8/d76/a19128.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d8/d76/a19128.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d8/d76/a19128.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

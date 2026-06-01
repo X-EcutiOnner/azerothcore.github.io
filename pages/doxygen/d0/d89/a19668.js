@@ -1,5 +1,7 @@
 var a19668 =
 [
-    [ "npc_living_poison", "d0/d89/a19668.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "d0/d89/a19668.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "Apply", "d0/d89/a19668.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d0/d89/a19668.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d0/d89/a19668.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d0/d89/a19668.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

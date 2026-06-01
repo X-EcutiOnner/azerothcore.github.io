@@ -1,11 +1,7 @@
 var a23408 =
 [
-    [ "boss_gruul", "dc/db0/a23408.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "dc/db0/a23408.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "dc/db0/a23408.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "dc/db0/a23408.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "dc/db0/a23408.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "dc/db0/a23408.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "dc/db0/a23408.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "dc/db0/a23408.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "HandleCast", "dc/db0/a23408.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "dc/db0/a23408.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "dc/db0/a23408.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "dc/db0/a23408.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

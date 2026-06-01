@@ -1,7 +1,7 @@
 var a18152 =
 [
-    [ "HandleDummy", "df/dab/a18152.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "df/dab/a18152.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "df/dab/a18152.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "df/dab/a18152.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "HandleTriggerSpell", "df/dab/a18152.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "df/dab/a18152.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "df/dab/a18152.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "df/dab/a18152.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

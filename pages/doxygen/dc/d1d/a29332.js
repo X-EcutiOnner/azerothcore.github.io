@@ -1,8 +1,10 @@
 var a29332 =
 [
-    [ "Color", "dc/d1d/a29332.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "dc/d1d/a29332.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "dc/d1d/a29332.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "dc/d1d/a29332.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "dc/d1d/a29332.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "SetUp", "dc/d1d/a29332.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
+    [ "TearDown", "dc/d1d/a29332.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
+    [ "PERM_A", "dc/d1d/a29332.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
+    [ "PERM_B", "dc/d1d/a29332.html#a358884a8d08637d7358803127c87c808", null ],
+    [ "PERM_C", "dc/d1d/a29332.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
+    [ "rbacData", "dc/d1d/a29332.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
+    [ "ROLE_R", "dc/d1d/a29332.html#abe95477afdf283e406df55eac7f146cf", null ]
 ];

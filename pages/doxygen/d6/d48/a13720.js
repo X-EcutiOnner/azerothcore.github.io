@@ -1,7 +1,10 @@
 var a13720 =
 [
-    [ "HandleScriptEffect", "d6/d48/a13720.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "d6/d48/a13720.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "d6/d48/a13720.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "d6/d48/a13720.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "MoveDelayed", "d6/d48/a13720.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "d6/d48/a13720.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "d6/d48/a13720.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "d6/d48/a13720.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "d6/d48/a13720.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "d6/d48/a13720.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "d6/d48/a13720.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

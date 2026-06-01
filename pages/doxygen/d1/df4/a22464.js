@@ -1,10 +1,8 @@
 var a22464 =
 [
-    [ "OPvPCapturePointHP", "d1/df4/a22464.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d1/df4/a22464.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d1/df4/a22464.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d1/df4/a22464.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d1/df4/a22464.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d1/df4/a22464.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d1/df4/a22464.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "HandleScriptEffect", "d1/df4/a22464.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d1/df4/a22464.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d1/df4/a22464.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d1/df4/a22464.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d1/df4/a22464.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

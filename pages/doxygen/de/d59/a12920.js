@@ -1,7 +1,9 @@
 var a12920 =
 [
-    [ "HandleDummy", "de/d59/a12920.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "de/d59/a12920.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "de/d59/a12920.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "de/d59/a12920.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "HandleEffectApply", "de/d59/a12920.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "de/d59/a12920.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "de/d59/a12920.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "de/d59/a12920.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "de/d59/a12920.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "de/d59/a12920.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

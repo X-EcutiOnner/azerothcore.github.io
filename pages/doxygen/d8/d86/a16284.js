@@ -1,5 +1,6 @@
 var a16284 =
 [
-    [ "achievement_respect_your_elders", "d8/d86/a16284.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d8/d86/a16284.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "HandleScriptEffect", "d8/d86/a16284.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d8/d86/a16284.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d8/d86/a16284.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

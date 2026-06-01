@@ -1,6 +1,8 @@
 var a14724 =
 [
-    [ "go_direbrew_mole_machineAI", "de/d64/a14728.html", "de/d64/a14728" ],
-    [ "go_direbrew_mole_machine", "d4/d19/a14724.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d4/d19/a14724.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "HandleDummy", "d4/d19/a14724.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d4/d19/a14724.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d4/d19/a14724.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d4/d19/a14724.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d4/d19/a14724.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

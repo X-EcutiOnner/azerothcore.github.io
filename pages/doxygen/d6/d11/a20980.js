@@ -1,6 +1,6 @@
 var a20980 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d6/d11/a20980.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d6/d11/a20980.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d6/d11/a20980.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "boss_svalaAI", "d1/d1b/a20984.html", "d1/d1b/a20984" ],
+    [ "boss_svala", "d6/d11/a20980.html#a7ac5866eb6a013cb03f3d459b13b4a62", null ],
+    [ "GetAI", "d6/d11/a20980.html#a0c3b94635eca667a28496cf799efad25", null ]
 ];

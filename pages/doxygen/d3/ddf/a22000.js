@@ -1,8 +1,7 @@
 var a22000 =
 [
-    [ "npc_llod_genericAI", "d3/ddf/a22000.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d3/ddf/a22000.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d3/ddf/a22000.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d3/ddf/a22000.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d3/ddf/a22000.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "OnApply", "d3/ddf/a22000.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "d3/ddf/a22000.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "d3/ddf/a22000.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "d3/ddf/a22000.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

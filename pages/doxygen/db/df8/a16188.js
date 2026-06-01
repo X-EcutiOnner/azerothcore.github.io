@@ -1,6 +1,7 @@
 var a16188 =
 [
-    [ "npc_rivern_frostwind", "db/df8/a16188.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "db/df8/a16188.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "db/df8/a16188.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "HandleScript", "db/df8/a16188.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "db/df8/a16188.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "db/df8/a16188.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "db/df8/a16188.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

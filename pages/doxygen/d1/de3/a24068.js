@@ -1,10 +1,8 @@
 var a24068 =
 [
-    [ "npc_maxx_a_million_escortAI", "d1/de3/a24068.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d1/de3/a24068.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d1/de3/a24068.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d1/de3/a24068.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d1/de3/a24068.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d1/de3/a24068.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d1/de3/a24068.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_pet_darting_hatchling", "d1/de3/a24068.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d1/de3/a24068.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d1/de3/a24068.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d1/de3/a24068.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d1/de3/a24068.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

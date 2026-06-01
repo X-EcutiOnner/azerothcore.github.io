@@ -1,6 +1,8 @@
 var a21944 =
 [
-    [ "npc_plaguehound_trackerAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
-    [ "npc_plaguehound_tracker", "d9/dcf/a21944.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d9/dcf/a21944.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "npc_freed_protodrakeAI", "d9/dcf/a21944.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d9/dcf/a21944.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d9/dcf/a21944.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d9/dcf/a21944.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d9/dcf/a21944.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

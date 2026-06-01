@@ -1,7 +1,7 @@
 var a28152 =
 [
-    [ "go_bear_trapAI", "df/dbd/a28152.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "df/dbd/a28152.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "df/dbd/a28152.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "df/dbd/a28152.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "npc_doctorAI", "d5/dd6/a28156.html", "d5/dd6/a28156" ],
+    [ "npc_doctor", "df/dbd/a28152.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "df/dbd/a28152.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "df/dbd/a28152.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

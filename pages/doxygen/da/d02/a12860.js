@@ -1,8 +1,8 @@
 var a12860 =
 [
-    [ "boss_garrAI", "da/d02/a12860.html#a12d403a90bf4920763ddd87b252f544a", null ],
-    [ "JustEngagedWith", "da/d02/a12860.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
-    [ "Reset", "da/d02/a12860.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
-    [ "UpdateAI", "da/d02/a12860.html#aca82837e143f4509db221de15276b90c", null ],
-    [ "massEruptionTimer", "da/d02/a12860.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
+    [ "MajordomoAddData", "da/d02/a12860.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "da/d02/a12860.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "da/d02/a12860.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "da/d02/a12860.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "da/d02/a12860.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

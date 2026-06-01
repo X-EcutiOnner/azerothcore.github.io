@@ -1,5 +1,5 @@
 var a10896 =
 [
-    [ "Flags", "df/da4/a10896.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "df/da4/a10896.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "PlayerLogout", "df/da4/a10896.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
+    [ "Read", "df/da4/a10896.html#accbe1ced6a10ea2fa699df5e74575795", null ]
 ];

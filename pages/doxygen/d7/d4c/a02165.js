@@ -1,4 +1,5 @@
 var a02165 =
 [
-    [ "VisibilityDistances", "d7/d4c/a02165.html#a6165c6736a6e152a38f7dea1aa2c956b", null ]
+    [ "CellArea", "df/daa/a09400.html", "df/daa/a09400" ],
+    [ "Cell", "d6/d43/a09404.html", "d6/d43/a09404" ]
 ];

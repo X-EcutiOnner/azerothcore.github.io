@@ -1,7 +1,7 @@
 var a15156 =
 [
-    [ "hyjalThrallAI", "d8/df3/a15160.html", "d8/df3/a15160" ],
-    [ "npc_hyjal_thrall", "d0/dea/a15156.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d0/dea/a15156.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d0/dea/a15156.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "boss_epoch_hunter", "d0/dea/a15156.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d0/dea/a15156.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d0/dea/a15156.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d0/dea/a15156.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

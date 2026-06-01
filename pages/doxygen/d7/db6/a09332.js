@@ -1,5 +1,10 @@
 var a09332 =
 [
-    [ "Visit", "d7/db6/a09332.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "d7/db6/a09332.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "PetLevelInfo", "d7/db6/a09332.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "d7/db6/a09332.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "d7/db6/a09332.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "d7/db6/a09332.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "d7/db6/a09332.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "d7/db6/a09332.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "d7/db6/a09332.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

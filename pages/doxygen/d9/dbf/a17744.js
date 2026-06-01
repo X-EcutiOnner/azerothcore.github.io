@@ -1,11 +1,17 @@
 var a17744 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d9/dbf/a17744.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "d9/dbf/a17744.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "d9/dbf/a17744.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "d9/dbf/a17744.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "d9/dbf/a17744.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "d9/dbf/a17744.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "d9/dbf/a17744.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "d9/dbf/a17744.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "boss_festergutAI", "d9/dbf/a17744.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
+    [ "EnterEvadeMode", "d9/dbf/a17744.html#a001e00435bb01b464573dbff8338c64a", null ],
+    [ "GetData", "d9/dbf/a17744.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
+    [ "JustDied", "d9/dbf/a17744.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
+    [ "JustEngagedWith", "d9/dbf/a17744.html#ad5538ae8933a4fd492ab45560dea785e", null ],
+    [ "JustReachedHome", "d9/dbf/a17744.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
+    [ "KilledUnit", "d9/dbf/a17744.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
+    [ "RemoveBlight", "d9/dbf/a17744.html#a5807cd013ebe935f69bc1824386afd72", null ],
+    [ "Reset", "d9/dbf/a17744.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
+    [ "SetData", "d9/dbf/a17744.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
+    [ "UpdateAI", "d9/dbf/a17744.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
+    [ "_gasDummyGUID", "d9/dbf/a17744.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
+    [ "_inhaleCounter", "d9/dbf/a17744.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
+    [ "_maxInoculatedStack", "d9/dbf/a17744.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
 ];

@@ -1,6 +1,6 @@
 var a20552 =
 [
-    [ "HandleInstaKill", "d8/d92/a20552.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d8/d92/a20552.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d8/d92/a20552.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "OnPeriodic", "d8/d92/a20552.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d8/d92/a20552.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d8/d92/a20552.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

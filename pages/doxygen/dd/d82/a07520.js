@@ -1,7 +1,8 @@
 var a07520 =
 [
-    [ "BattlegroundObjectInfo", "dd/d82/a07520.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "dd/d82/a07520.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "dd/d82/a07520.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "dd/d82/a07520.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "entry", "dd/d82/a07520.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
+    [ "o", "dd/d82/a07520.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
+    [ "x", "dd/d82/a07520.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
+    [ "y", "dd/d82/a07520.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
+    [ "z", "dd/d82/a07520.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
 ];

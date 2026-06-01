@@ -1,8 +1,8 @@
 var a12476 =
 [
-    [ "boss_doomrelAI", "df/d87/a12480.html", "df/d87/a12480" ],
-    [ "boss_doomrel", "dd/d2f/a12476.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "dd/d2f/a12476.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "dd/d2f/a12476.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "dd/d2f/a12476.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "brd_ironhand_guardian", "dd/d2f/a12476.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "dd/d2f/a12476.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "dd/d2f/a12476.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "dd/d2f/a12476.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "dd/d2f/a12476.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

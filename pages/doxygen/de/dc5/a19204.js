@@ -1,7 +1,7 @@
 var a19204 =
 [
-    [ "OnRemove", "de/dc5/a19204.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "de/dc5/a19204.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "de/dc5/a19204.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "de/dc5/a19204.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "HandleTriggerSpell", "de/dc5/a19204.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "de/dc5/a19204.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "de/dc5/a19204.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "de/dc5/a19204.html#a813bad39641956fff697580f271416d2", null ]
 ];

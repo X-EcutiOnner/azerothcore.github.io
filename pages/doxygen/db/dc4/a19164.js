@@ -1,8 +1,9 @@
 var a19164 =
 [
-    [ "CountTargets", "db/dc4/a19164.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "db/dc4/a19164.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "db/dc4/a19164.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "db/dc4/a19164.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "db/dc4/a19164.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_isle_of_conquest_turretAI", "db/dc4/a19164.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "db/dc4/a19164.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "db/dc4/a19164.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "db/dc4/a19164.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "db/dc4/a19164.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "db/dc4/a19164.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

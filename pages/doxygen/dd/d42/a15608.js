@@ -1,6 +1,7 @@
 var a15608 =
 [
-    [ "FilterTargets", "dd/d42/a15608.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "dd/d42/a15608.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "dd/d42/a15608.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "npc_vekniss_stinger", "dd/d42/a15608.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "dd/d42/a15608.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "dd/d42/a15608.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "dd/d42/a15608.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

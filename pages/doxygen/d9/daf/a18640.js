@@ -1,7 +1,9 @@
 var a18640 =
 [
-    [ "StartMovementEvent", "d9/daf/a18640.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "d9/daf/a18640.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "d9/daf/a18640.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "d9/daf/a18640.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "npc_spirit_wardenAI", "d9/daf/a18640.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d9/daf/a18640.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d9/daf/a18640.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d9/daf/a18640.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d9/daf/a18640.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d9/daf/a18640.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

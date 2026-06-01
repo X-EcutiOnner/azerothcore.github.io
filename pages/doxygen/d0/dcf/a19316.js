@@ -1,13 +1,17 @@
 var a19316 =
 [
-    [ "npc_icc_putricades_trapAI", "d0/dcf/a19316.html#a9252a83e3deee62d5796e9f283662771", null ],
-    [ "DoAction", "d0/dcf/a19316.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
-    [ "JustReachedHome", "d0/dcf/a19316.html#a98f908e89630b23584982e298193cc0e", null ],
-    [ "JustSummoned", "d0/dcf/a19316.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
-    [ "Reset", "d0/dcf/a19316.html#a3430515c94fd419bd2c59113b3f4e625", null ],
-    [ "SummonedCreatureDies", "d0/dcf/a19316.html#a2e49dc8924da5d5537c33f7306287963", null ],
-    [ "UpdateAI", "d0/dcf/a19316.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
-    [ "events", "d0/dcf/a19316.html#a3249114a5b208109ec2c2a23533ede82", null ],
-    [ "instance", "d0/dcf/a19316.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
-    [ "summons", "d0/dcf/a19316.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
+    [ "boss_kelthuzadAI", "d0/dcf/a19316.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "d0/dcf/a19316.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "d0/dcf/a19316.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "d0/dcf/a19316.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "d0/dcf/a19316.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "d0/dcf/a19316.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "d0/dcf/a19316.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "d0/dcf/a19316.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "d0/dcf/a19316.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "d0/dcf/a19316.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "d0/dcf/a19316.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "d0/dcf/a19316.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "d0/dcf/a19316.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "d0/dcf/a19316.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

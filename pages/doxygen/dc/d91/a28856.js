@@ -1,6 +1,7 @@
 var a28856 =
 [
-    [ "ExpectDate", "dc/d91/a28856.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
-    [ "IsLeapYear", "dc/d91/a28856.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "dc/d91/a28856.html#af1ee91196bfb749605bf98f4441a03a4", null ]
+    [ "AllocationPct", "dc/d91/a28856.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "dc/d91/a28856.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "dc/d91/a28856.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "dc/d91/a28856.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

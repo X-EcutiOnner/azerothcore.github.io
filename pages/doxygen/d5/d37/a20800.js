@@ -1,8 +1,8 @@
 var a20800 =
 [
-    [ "OnPeriodic", "d5/d37/a20800.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d5/d37/a20800.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d5/d37/a20800.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d5/d37/a20800.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d5/d37/a20800.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_ulduar_keeperAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
+    [ "npc_ulduar_keeper", "d5/d37/a20800.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d5/d37/a20800.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d5/d37/a20800.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d5/d37/a20800.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

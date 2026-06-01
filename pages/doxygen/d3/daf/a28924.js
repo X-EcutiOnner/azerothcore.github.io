@@ -1,6 +1,5 @@
 var a28924 =
 [
-    [ "OffsetAttributes", "d3/daf/a28924.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "d3/daf/a28924.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "d3/daf/a28924.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "id", "d3/daf/a28924.html#a4667f55651f20c85f5b3da9384bac078", null ],
+    [ "QuestRewFactionValue", "d3/daf/a28924.html#a9a42feddeef8e054cd52b72cfc812867", null ]
 ];

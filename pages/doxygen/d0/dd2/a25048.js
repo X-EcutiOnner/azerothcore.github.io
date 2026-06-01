@@ -1,6 +1,7 @@
 var a25048 =
 [
-    [ "CheckProc", "d0/dd2/a25048.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "d0/dd2/a25048.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "d0/dd2/a25048.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "EjectPassenger", "d0/dd2/a25048.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d0/dd2/a25048.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d0/dd2/a25048.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d0/dd2/a25048.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

@@ -1,7 +1,5 @@
 var a24008 =
 [
-    [ "npc_maghar_captiveAI", "d0/db5/a24012.html", "d0/db5/a24012" ],
-    [ "npc_maghar_captive", "d3/d9a/a24008.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d3/d9a/a24008.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d3/d9a/a24008.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "d3/d9a/a24008.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "d3/d9a/a24008.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

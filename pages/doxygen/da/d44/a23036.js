@@ -1,6 +1,8 @@
 var a23036 =
 [
-    [ "boss_doomlordkazzakAI", "d4/d3c/a23040.html", "d4/d3c/a23040" ],
-    [ "boss_doomlord_kazzak", "da/d44/a23036.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "da/d44/a23036.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "boss_mekgineer_steamrigger", "da/d44/a23036.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "da/d44/a23036.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "da/d44/a23036.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "da/d44/a23036.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "da/d44/a23036.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

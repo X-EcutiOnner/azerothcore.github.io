@@ -1,7 +1,6 @@
 var a18912 =
 [
-    [ "ValithriaDespawner", "d0/d03/a18912.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d0/d03/a18912.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d0/d03/a18912.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d0/d03/a18912.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_captain_rupertAI", "d7/d66/a18916.html", "d7/d66/a18916" ],
+    [ "npc_captain_rupert", "d0/d03/a18912.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
+    [ "GetAI", "d0/d03/a18912.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
 ];

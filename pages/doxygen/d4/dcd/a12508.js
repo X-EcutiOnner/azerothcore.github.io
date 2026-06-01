@@ -1,11 +1,6 @@
 var a12508 =
 [
-    [ "boss_gythAI", "d4/dcd/a12508.html#aeec049af24b3a6f94051f1008ce107e6", null ],
-    [ "EnterEvadeMode", "d4/dcd/a12508.html#a20296c618ad366d7ac956f16671cc408", null ],
-    [ "IsSummonedBy", "d4/dcd/a12508.html#a6800421a2e9e889e649e792ee642d8ac", null ],
-    [ "JustDied", "d4/dcd/a12508.html#a979da1f3922d9575b6c237b85952fb6c", null ],
-    [ "JustEngagedWith", "d4/dcd/a12508.html#a6c0ca15d87851c205d94679ea65e5193", null ],
-    [ "JustSummoned", "d4/dcd/a12508.html#ab9024ce261129c82d4304d2a13834a5f", null ],
-    [ "Reset", "d4/dcd/a12508.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
-    [ "UpdateAI", "d4/dcd/a12508.html#a66f27f6d49b40dcc2894f177b281570f", null ]
+    [ "boss_anubshiah", "d4/dcd/a12508.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "d4/dcd/a12508.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "d4/dcd/a12508.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

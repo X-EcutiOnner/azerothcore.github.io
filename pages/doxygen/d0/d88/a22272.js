@@ -1,8 +1,6 @@
 var a22272 =
 [
-    [ "spell_loosen_grip", "d0/d88/a22272.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d0/d88/a22272.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d0/d88/a22272.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d0/d88/a22272.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d0/d88/a22272.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d3/de9/a22276.html", "d3/de9/a22276" ],
+    [ "instance_auchenai_crypts", "d0/d88/a22272.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d0/d88/a22272.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

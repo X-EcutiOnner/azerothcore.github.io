@@ -1,8 +1,11 @@
 var a24640 =
 [
-    [ "CheckProc", "db/d82/a24640.html#a1b2746e9013ecfbbc112d74a9229719f", null ],
-    [ "HandleProc", "db/d82/a24640.html#ad100e3d9794da0fac5802e9d059609a8", null ],
-    [ "PrepareAuraScript", "db/d82/a24640.html#a3867a6c8278dc85b3a429652a7b5e81c", null ],
-    [ "Register", "db/d82/a24640.html#ab38f961abbef4271df4ddce139d890df", null ],
-    [ "Validate", "db/d82/a24640.html#ac5020d66d7fca6246a4ccbbf5c681fee", null ]
+    [ "spell_gen_relocaste_dest", "db/d82/a24640.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
+    [ "PrepareSpellScript", "db/d82/a24640.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
+    [ "Register", "db/d82/a24640.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
+    [ "RelocateDest", "db/d82/a24640.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
+    [ "_o", "db/d82/a24640.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
+    [ "_x", "db/d82/a24640.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
+    [ "_y", "db/d82/a24640.html#a0152bc47b5950546d9e9505512ed842b", null ],
+    [ "_z", "db/d82/a24640.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
 ];

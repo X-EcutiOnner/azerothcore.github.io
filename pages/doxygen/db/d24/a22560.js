@@ -1,14 +1,15 @@
 var a22560 =
 [
-    [ "boss_nexusprince_shaffar", "db/d24/a22560.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "db/d24/a22560.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "db/d24/a22560.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "db/d24/a22560.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "db/d24/a22560.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "db/d24/a22560.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "db/d24/a22560.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "db/d24/a22560.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "db/d24/a22560.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "db/d24/a22560.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "db/d24/a22560.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "boss_reliquary_of_soulsAI", "db/d24/a22560.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "db/d24/a22560.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "db/d24/a22560.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "db/d24/a22560.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "db/d24/a22560.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "db/d24/a22560.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "db/d24/a22560.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "db/d24/a22560.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "db/d24/a22560.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "db/d24/a22560.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "db/d24/a22560.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "db/d24/a22560.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

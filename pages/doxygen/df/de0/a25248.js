@@ -1,6 +1,6 @@
 var a25248 =
 [
-    [ "HandleScriptEffect", "df/de0/a25248.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "df/de0/a25248.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "df/de0/a25248.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "CheckCast", "df/de0/a25248.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "df/de0/a25248.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "df/de0/a25248.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

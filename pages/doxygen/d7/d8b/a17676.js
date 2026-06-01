@@ -1,6 +1,8 @@
 var a17676 =
 [
-    [ "HandlePeriodic", "d7/d8b/a17676.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d7/d8b/a17676.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d7/d8b/a17676.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "npc_high_overlord_saurfangAI", "d2/d80/a17680.html", "d2/d80/a17680" ],
+    [ "npc_high_overlord_saurfang_icc", "d7/d8b/a17676.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d7/d8b/a17676.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d7/d8b/a17676.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d7/d8b/a17676.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

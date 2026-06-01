@@ -1,7 +1,6 @@
 var a02852 =
 [
-    [ "UpdateResult", "df/d12/a06198.html", "df/d12/a06198" ],
-    [ "UpdateFetcher", "dd/d7d/a06202.html", "dd/d7d/a06202" ],
-    [ "UpdateFetcher::AppliedFileEntry", "da/d67/a06206.html", "da/d67/a06206" ],
-    [ "UpdateFetcher::PathCompare", "dd/dab/a06210.html", "dd/dab/a06210" ]
+    [ "GenerateEnchSuffixFactor", "da/de8/a02852.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "da/de8/a02852.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "da/de8/a02852.html#a376fabf7bba54eaf928217f860f1c33b", null ]
 ];

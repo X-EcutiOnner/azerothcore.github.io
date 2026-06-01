@@ -1,6 +1,5 @@
 var a10732 =
 [
-    [ "GetEvent", "d2/d32/a10732.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d2/d32/a10732.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d2/d32/a10732.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "MovementHandlerScript", "d2/d32/a10732.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d2/d32/a10732.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

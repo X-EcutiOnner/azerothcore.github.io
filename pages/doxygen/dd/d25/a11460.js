@@ -1,11 +1,14 @@
 var a11460 =
 [
-    [ "Player", "dd/d25/a11460.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "dd/d25/a11460.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "dd/d25/a11460.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "dd/d25/a11460.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "dd/d25/a11460.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "dd/d25/a11460.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "dd/d25/a11460.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "dd/d25/a11460.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "NameQueryResponse", "dd/d25/a11460.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "dd/d25/a11460.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "dd/d25/a11460.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "dd/d25/a11460.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "dd/d25/a11460.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "dd/d25/a11460.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "dd/d25/a11460.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "dd/d25/a11460.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "dd/d25/a11460.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "dd/d25/a11460.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "dd/d25/a11460.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

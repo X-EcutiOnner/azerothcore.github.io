@@ -1,6 +1,6 @@
 var a23788 =
 [
-    [ "HandleScriptEffect", "d8/d00/a23788.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "d8/d00/a23788.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "d8/d00/a23788.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "CheckCast", "d8/d00/a23788.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d8/d00/a23788.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d8/d00/a23788.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

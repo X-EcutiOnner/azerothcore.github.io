@@ -1,9 +1,7 @@
 var a24320 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "dc/d04/a24320.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "dc/d04/a24320.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "dc/d04/a24320.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "dc/d04/a24320.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "dc/d04/a24320.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "dc/d04/a24320.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "HandleProc", "dc/d04/a24320.html#a1c9c503e64b8e9060e7af700aabdf30b", null ],
+    [ "PrepareAuraScript", "dc/d04/a24320.html#a9aa6b540ab7061d48290eb2a49113adf", null ],
+    [ "Register", "dc/d04/a24320.html#a142a1a5d27b714935aa5e05619e06ae3", null ],
+    [ "Validate", "dc/d04/a24320.html#a88cb3af37d3133f95355634c8bd98d61", null ]
 ];

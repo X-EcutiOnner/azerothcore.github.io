@@ -1,10 +1,6 @@
 var a10356 =
 [
-    [ "WaypointMgr", "db/d5f/a10356.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "~WaypointMgr", "db/d5f/a10356.html#a7b0fed55791df7ab040a46984700d18e", null ],
-    [ "GetPath", "db/d5f/a10356.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "db/d5f/a10356.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "db/d5f/a10356.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "ReloadPath", "db/d5f/a10356.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "db/d5f/a10356.html#af70ce7663d7f132339ea8d163311c248", null ]
+    [ "AssistanceDistractMovementGenerator", "db/d5f/a10356.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
+    [ "Finalize", "db/d5f/a10356.html#a1511f74a52e5ad92471e554eb77c235a", null ],
+    [ "GetMovementGeneratorType", "db/d5f/a10356.html#a233eb9333ea365955589932ddbd18d8a", null ]
 ];

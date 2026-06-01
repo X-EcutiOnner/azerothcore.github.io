@@ -1,6 +1,8 @@
 var a26188 =
 [
-    [ "CalculateAmount", "de/dea/a26188.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "de/dea/a26188.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "de/dea/a26188.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "CheckProc", "de/dea/a26188.html#a9895aa713e01c6322363c743049c1bc8", null ],
+    [ "HandleProc", "de/dea/a26188.html#ab75f7630b98e266b08d0317bd852b1a9", null ],
+    [ "PrepareAuraScript", "de/dea/a26188.html#a7a1066e9cde0a782db105ef32003274d", null ],
+    [ "Register", "de/dea/a26188.html#aac269ad519a8c15334526629786b60b3", null ],
+    [ "Validate", "de/dea/a26188.html#a42f67d758360e142c9434186a07c1a71", null ]
 ];

@@ -1,10 +1,9 @@
 var a24104 =
 [
-    [ "npc_infernal_attackerAI", "d5/dde/a24104.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "d5/dde/a24104.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "d5/dde/a24104.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "d5/dde/a24104.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "d5/dde/a24104.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "d5/dde/a24104.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "d5/dde/a24104.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_pet_shaman_earth_elemental", "d5/dde/a24104.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d5/dde/a24104.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d5/dde/a24104.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d5/dde/a24104.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d5/dde/a24104.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d5/dde/a24104.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

@@ -1,8 +1,6 @@
 var a18660 =
 [
-    [ "NecroticPlagueTargetCheck", "d8/d73/a18660.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d8/d73/a18660.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d8/d73/a18660.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d8/d73/a18660.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d8/d73/a18660.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "HandleScript", "d8/d73/a18660.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d8/d73/a18660.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d8/d73/a18660.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

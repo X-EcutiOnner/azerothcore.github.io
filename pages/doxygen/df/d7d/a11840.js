@@ -1,13 +1,7 @@
 var a11840 =
 [
-    [ "PlayerTextBuilder", "df/d7d/a11840.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "df/d7d/a11840.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "df/d7d/a11840.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "df/d7d/a11840.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "df/d7d/a11840.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "df/d7d/a11840.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "df/d7d/a11840.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "df/d7d/a11840.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "df/d7d/a11840.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "df/d7d/a11840.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "EffectAuraNameCheck", "df/d7d/a11840.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "df/d7d/a11840.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "df/d7d/a11840.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "df/d7d/a11840.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

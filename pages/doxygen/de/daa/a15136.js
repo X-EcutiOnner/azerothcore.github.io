@@ -1,6 +1,6 @@
 var a15136 =
 [
-    [ "FilterTargets", "de/daa/a15136.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "de/daa/a15136.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "de/daa/a15136.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/d7d/a15140.html", "dd/d7d/a15140" ],
+    [ "npc_cos_stratholme_citizien", "de/daa/a15136.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "de/daa/a15136.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

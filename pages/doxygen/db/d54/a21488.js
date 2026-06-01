@@ -1,5 +1,5 @@
 var a21488 =
 [
-    [ "npc_khunok_the_behemothAI", "db/d54/a21488.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "db/d54/a21488.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "at_q24545_frostmourne_cavern", "db/d54/a21488.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "db/d54/a21488.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

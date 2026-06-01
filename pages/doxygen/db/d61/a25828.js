@@ -1,5 +1,6 @@
 var a25828 =
 [
-    [ "PrepareSpellScript", "db/d61/a25828.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "db/d61/a25828.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "HandleScriptEffect", "db/d61/a25828.html#a14df2ed73118826254a6ffa923063f6c", null ],
+    [ "PrepareSpellScript", "db/d61/a25828.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
+    [ "Register", "db/d61/a25828.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
 ];

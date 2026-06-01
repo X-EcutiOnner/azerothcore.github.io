@@ -1,6 +1,7 @@
 var a20468 =
 [
-    [ "HandleAfterEffectApply", "d1/d84/a20468.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d1/d84/a20468.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d1/d84/a20468.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d1/d84/a20468.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d1/d84/a20468.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d1/d84/a20468.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d1/d84/a20468.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

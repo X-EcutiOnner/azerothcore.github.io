@@ -1,11 +1,6 @@
 var a12564 =
 [
-    [ "npc_blackhand_incarceratorAI", "dd/d25/a12564.html#adecfd5bcc6bf5fee0688459ebac03e18", null ],
-    [ "DamageTaken", "dd/d25/a12564.html#a3bc090518cba2bc64fb5c454bbb47b72", null ],
-    [ "JustEngagedWith", "dd/d25/a12564.html#a2026328f428c4e5c15551773255da21f", null ],
-    [ "Reset", "dd/d25/a12564.html#a3a98f2d5fd764c852a1d9418315cd56b", null ],
-    [ "SetData", "dd/d25/a12564.html#ae9d92237c6327abd78ada9a306ee8a09", null ],
-    [ "UpdateAI", "dd/d25/a12564.html#a1bc6aa88d7bc5163e2cc4e2cc1779076", null ],
-    [ "_events", "dd/d25/a12564.html#abcd817233c0cb85656856c4107d86793", null ],
-    [ "_fleedForAssistance", "dd/d25/a12564.html#ab4e59b91b47dffc19db6b49ecd4c9fd8", null ]
+    [ "RestoreAttack", "dd/d25/a12564.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "dd/d25/a12564.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "dd/d25/a12564.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

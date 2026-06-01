@@ -1,7 +1,9 @@
 var a27808 =
 [
-    [ "OnProc", "d1/d8b/a27808.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "d1/d8b/a27808.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "d1/d8b/a27808.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "d1/d8b/a27808.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "go_tadpole_cageAI", "d1/d8b/a27808.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d1/d8b/a27808.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d1/d8b/a27808.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d1/d8b/a27808.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d1/d8b/a27808.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d1/d8b/a27808.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

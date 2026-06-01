@@ -1,8 +1,8 @@
 var a27072 =
 [
-    [ "HandleDummy", "d3/dea/a27072.html#a923fa966dc7109f7cb02c25bbd23b0ff", null ],
-    [ "Load", "d3/dea/a27072.html#a5b336f402a256c80d8d3f8c5b1cbda2f", null ],
-    [ "PrepareSpellScript", "d3/dea/a27072.html#a79dc24ba1f2f059d77a06b457a78fcf1", null ],
-    [ "Register", "d3/dea/a27072.html#afb1c744f263b21c30a5dfd3675acb364", null ],
-    [ "Validate", "d3/dea/a27072.html#acaaeacf371538cafbbb4cc7cc036280e", null ]
+    [ "ApplyDebuff", "d3/dea/a27072.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d3/dea/a27072.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d3/dea/a27072.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d3/dea/a27072.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d3/dea/a27072.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

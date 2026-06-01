@@ -1,7 +1,5 @@
 var a15452 =
 [
-    [ "HandleScript", "d8/d69/a15452.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d8/d69/a15452.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d8/d69/a15452.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d8/d69/a15452.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "NotInStomachSelector", "d8/d69/a15452.html#a766a75e73261ac8bb76c90e8befd21ad", null ],
+    [ "operator()", "d8/d69/a15452.html#a189c90e585ecef8ffbcbe9227c588946", null ]
 ];

@@ -1,6 +1,7 @@
 var a14200 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d9/d14/a14204.html", "d9/d14/a14204" ],
-    [ "npc_jaina_proudmoore_bfu", "dd/d06/a14200.html#af96c4fac318f44cf6e70817b6960999f", null ],
-    [ "GetAI", "dd/d06/a14200.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
+    [ "spell", "dd/d06/a14200.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "dd/d06/a14200.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "dd/d06/a14200.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "dd/d06/a14200.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

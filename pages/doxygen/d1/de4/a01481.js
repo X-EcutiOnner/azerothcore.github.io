@@ -1,21 +1,14 @@
 var a01481 =
 [
-    [ "Trainer::Spell", "d6/dbc/a08425.html", "d6/dbc/a08425" ],
-    [ "Trainer::Trainer", "d6/d80/a08429.html", "d6/d80/a08429" ],
-    [ "FailReason", "d1/de4/a01481.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d1/de4/a01481.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d1/de4/a01481.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d1/de4/a01481.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    [ "go_main_chambers_access_panel", "d0/ddb/a23048.html", "d0/ddb/a23048" ],
+    [ "instance_steam_vault", "d4/ddd/a23052.html", "d4/ddd/a23052" ],
+    [ "instance_steam_vault::instance_steam_vault_InstanceMapScript", "d8/def/a23056.html", "d8/def/a23056" ],
+    [ "MainChambersAccessPanelSays", "d1/de4/a01481.html#aa8d293574a308aad41f620556eb63b6a", [
+      [ "SAY_FAINT_ECHO", "d1/de4/a01481.html#aa8d293574a308aad41f620556eb63b6aadbbafef44899cd7d93e10aaa27f52992", null ],
+      [ "SAY_LOUD_RUMBLE", "d1/de4/a01481.html#aa8d293574a308aad41f620556eb63b6aa420e4ca090aea66dfe08994ddce97884", null ]
     ] ],
-    [ "SpellState", "d1/de4/a01481.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d1/de4/a01481.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d1/de4/a01481.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d1/de4/a01481.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d1/de4/a01481.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d1/de4/a01481.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d1/de4/a01481.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d1/de4/a01481.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d1/de4/a01481.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
-    ] ]
+    [ "AddSC_instance_steam_vault", "d1/de4/a01481.html#a944f7f7f41e047f2a4f82fb9af0b4829", null ],
+    [ "creatureData", "d1/de4/a01481.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "minionData", "d1/de4/a01481.html#a6720238df140a3c574a711042b7f5bd3", null ],
+    [ "objectData", "d1/de4/a01481.html#a59ddfa91084111da23b5d47482e4ff8d", null ]
 ];

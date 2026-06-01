@@ -1,7 +1,6 @@
 var a21588 =
 [
-    [ "HandleEffectHit", "d0/dc2/a21588.html#a8d7dd2411c3b786e682260eb30862602", null ],
-    [ "PrepareSpellScript", "d0/dc2/a21588.html#a49b6d005013e480f8161779119bc9b2d", null ],
-    [ "Register", "d0/dc2/a21588.html#a017ae25fead98a5c18cdb83128085ddd", null ],
-    [ "Validate", "d0/dc2/a21588.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
+    [ "npc_mrfloppyAI", "d6/d2e/a21592.html", "d6/d2e/a21592" ],
+    [ "npc_mrfloppy", "d0/dc2/a21588.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d0/dc2/a21588.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

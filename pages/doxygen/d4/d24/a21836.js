@@ -1,7 +1,6 @@
 var a21836 =
 [
-    [ "HandleScriptEffect", "d4/d24/a21836.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d4/d24/a21836.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d4/d24/a21836.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d4/d24/a21836.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_still_at_it_triggerAI", "db/d4b/a21840.html", "db/d4b/a21840" ],
+    [ "npc_still_at_it_trigger", "d4/d24/a21836.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "d4/d24/a21836.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

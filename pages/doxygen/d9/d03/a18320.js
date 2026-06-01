@@ -1,6 +1,7 @@
 var a18320 =
 [
-    [ "npc_gas_cloudAI", "d9/d03/a18320.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "d9/d03/a18320.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "d9/d03/a18320.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "OnRemove", "d9/d03/a18320.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d9/d03/a18320.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d9/d03/a18320.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d9/d03/a18320.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

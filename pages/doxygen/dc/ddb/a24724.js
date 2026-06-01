@@ -1,6 +1,6 @@
 var a24724 =
 [
-    [ "CalculateAmount", "dc/ddb/a24724.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "dc/ddb/a24724.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "dc/ddb/a24724.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "CheckLevel", "dc/ddb/a24724.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "dc/ddb/a24724.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "dc/ddb/a24724.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

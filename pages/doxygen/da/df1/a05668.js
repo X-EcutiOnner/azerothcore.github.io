@@ -1,9 +1,7 @@
 var a05668 =
 [
-    [ "Base", "d7/da9/a05672.html", "d7/da9/a05672" ],
-    [ "Erase", "da/df1/a05668.html#a2c7b450c8781824135765e5d82b0272e", null ],
-    [ "Get", "da/df1/a05668.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
-    [ "GetDefault", "da/df1/a05668.html#ad53ddbe486c994277adbb96e1c644112", null ],
-    [ "Set", "da/df1/a05668.html#a93bf2535b14236df9703e485ef816b36", null ],
-    [ "Container", "da/df1/a05668.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
+    [ "MetricStopWatch", "da/df1/a05668.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "da/df1/a05668.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "da/df1/a05668.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "da/df1/a05668.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

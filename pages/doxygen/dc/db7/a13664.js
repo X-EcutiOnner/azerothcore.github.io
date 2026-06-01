@@ -1,11 +1,8 @@
 var a13664 =
 [
-    [ "boss_baroness_anastariAI", "dc/db7/a13664.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "dc/db7/a13664.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "dc/db7/a13664.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "dc/db7/a13664.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "dc/db7/a13664.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "dc/db7/a13664.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "dc/db7/a13664.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "dc/db7/a13664.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "HandleApply", "dc/db7/a13664.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "dc/db7/a13664.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "dc/db7/a13664.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "dc/db7/a13664.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "dc/db7/a13664.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

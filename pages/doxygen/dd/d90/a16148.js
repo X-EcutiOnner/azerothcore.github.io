@@ -1,7 +1,5 @@
 var a16148 =
 [
-    [ "npc_paoka_swiftmountainAI", "dd/d90/a16148.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "dd/d90/a16148.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "dd/d90/a16148.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "dd/d90/a16148.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "achievement_respect_your_elders", "dd/d90/a16148.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "dd/d90/a16148.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

@@ -1,6 +1,6 @@
 var a25840 =
 [
-    [ "PrepareSpellScript", "db/d30/a25840.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "db/d30/a25840.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "db/d30/a25840.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "CheckProc", "db/d30/a25840.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "db/d30/a25840.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "db/d30/a25840.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

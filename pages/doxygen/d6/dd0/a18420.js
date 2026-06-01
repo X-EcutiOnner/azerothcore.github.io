@@ -1,6 +1,9 @@
 var a18420 =
 [
-    [ "npc_little_oozeAI", "d8/ddb/a18424.html", "d8/ddb/a18424" ],
-    [ "npc_little_ooze", "d6/dd0/a18420.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "d6/dd0/a18420.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "ShadowTrapLKTargetSelector", "d6/dd0/a18420.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "d6/dd0/a18420.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "d6/dd0/a18420.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "d6/dd0/a18420.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "d6/dd0/a18420.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "d6/dd0/a18420.html#af416013aabf3b217b07228072076603d", null ]
 ];

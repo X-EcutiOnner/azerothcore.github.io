@@ -1,6 +1,7 @@
 var a13644 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d8/d1b/a13648.html", "d8/d1b/a13648" ],
-    [ "instance_shadowfang_keep", "d2/d24/a13644.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d2/d24/a13644.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "CorruptTriggers", "d2/d24/a13644.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d2/d24/a13644.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d2/d24/a13644.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d2/d24/a13644.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

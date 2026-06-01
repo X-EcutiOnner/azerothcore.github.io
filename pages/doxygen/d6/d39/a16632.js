@@ -1,7 +1,6 @@
 var a16632 =
 [
-    [ "HandleDummy", "d6/d39/a16632.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "d6/d39/a16632.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "d6/d39/a16632.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "d6/d39/a16632.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "boss_grand_championAI", "da/d4d/a16636.html", "da/d4d/a16636" ],
+    [ "boss_grand_champion", "d6/d39/a16632.html#a9577f8af5e234b3aebd7567841b867e2", null ],
+    [ "GetAI", "d6/d39/a16632.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
 ];

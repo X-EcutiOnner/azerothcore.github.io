@@ -1,7 +1,6 @@
 var a24696 =
 [
-    [ "AfterApply", "d7/dde/a24696.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "d7/dde/a24696.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "d7/dde/a24696.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "d7/dde/a24696.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "CheckProc", "d7/dde/a24696.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "d7/dde/a24696.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "d7/dde/a24696.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

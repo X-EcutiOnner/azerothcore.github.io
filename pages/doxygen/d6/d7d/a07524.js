@@ -1,10 +1,10 @@
 var a07524 =
 [
-    [ "ArenaLogEntryData", "d6/d7d/a07524.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d6/d7d/a07524.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d6/d7d/a07524.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d6/d7d/a07524.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d6/d7d/a07524.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d6/d7d/a07524.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d6/d7d/a07524.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "CreatureBottom", "d6/d7d/a07524.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d6/d7d/a07524.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d6/d7d/a07524.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d6/d7d/a07524.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d6/d7d/a07524.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d6/d7d/a07524.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d6/d7d/a07524.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

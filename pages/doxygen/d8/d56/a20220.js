@@ -1,8 +1,15 @@
 var a20220 =
 [
-    [ "npc_brann_radio", "d8/d56/a20220.html#ac0f1b9db5b095ea5e97f49a5ef3588a0", null ],
-    [ "MoveInLineOfSight", "d8/d56/a20220.html#a482ab5ff1f6be5d2b57641d5e33a3b1b", null ],
-    [ "Reset", "d8/d56/a20220.html#a9363543a849ecb8ca98667139e20fbfd", null ],
-    [ "_helpLock", "d8/d56/a20220.html#a98a53f2d964550aad50cdef15b5352a7", null ],
-    [ "_lock", "d8/d56/a20220.html#a11d11dac41498eb97bff3892e29d49d4", null ]
+    [ "npc_ulduar_hodir_shaman", "d8/d56/a20220.html#a3277cda17d5409be3426bdaa61e092cd", null ],
+    [ "AttackStart", "d8/d56/a20220.html#a933908d61afac33002411874060c0f74", null ],
+    [ "CanAIAttack", "d8/d56/a20220.html#a8907c7300cef735a70b088de3c16cfb9", null ],
+    [ "EnterEvadeMode", "d8/d56/a20220.html#afa6124e630cd878659172a06df68d39f", null ],
+    [ "JustDied", "d8/d56/a20220.html#a08af85d3446c86443ff5a620b159d000", null ],
+    [ "MoveInLineOfSight", "d8/d56/a20220.html#a29de52dcae485f00403dae8e28ff1395", null ],
+    [ "ScheduleAbilities", "d8/d56/a20220.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
+    [ "SpellHit", "d8/d56/a20220.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
+    [ "SpellHitTarget", "d8/d56/a20220.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
+    [ "UpdateAI", "d8/d56/a20220.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
+    [ "_instance", "d8/d56/a20220.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
+    [ "events", "d8/d56/a20220.html#a7e147f6f230513cfb666473c61ab4be4", null ]
 ];

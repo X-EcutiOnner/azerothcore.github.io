@@ -1,12 +1,10 @@
 var a14172 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dc/de1/a14172.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "dc/de1/a14172.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dc/de1/a14172.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dc/de1/a14172.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dc/de1/a14172.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "dc/de1/a14172.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dc/de1/a14172.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dc/de1/a14172.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dc/de1/a14172.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "boss_alyson_antille", "dc/de1/a14172.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "dc/de1/a14172.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "dc/de1/a14172.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "dc/de1/a14172.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "dc/de1/a14172.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "dc/de1/a14172.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "dc/de1/a14172.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

@@ -1,9 +1,8 @@
 var a16156 =
 [
-    [ "npc_pluckyAI", "d8/de2/a16156.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d8/de2/a16156.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d8/de2/a16156.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d8/de2/a16156.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d8/de2/a16156.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d8/de2/a16156.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "HandleAfterCast", "d8/de2/a16156.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d8/de2/a16156.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d8/de2/a16156.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d8/de2/a16156.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d8/de2/a16156.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

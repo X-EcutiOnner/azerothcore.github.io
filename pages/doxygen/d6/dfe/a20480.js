@@ -1,5 +1,5 @@
 var a20480 =
 [
-    [ "achievement_i_could_say_that_this_cache_was_rare", "d6/dfe/a20480.html#a8ec1949d92f21fe57f967e510453da3e", null ],
-    [ "OnCheck", "d6/dfe/a20480.html#af68ad314c9b7be57964ca9baa8015bc9", null ]
+    [ "go_ulduar_working_harpoon", "d6/dfe/a20480.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
+    [ "OnGossipHello", "d6/dfe/a20480.html#a164bdd0a9538293699665a821c4f25f3", null ]
 ];

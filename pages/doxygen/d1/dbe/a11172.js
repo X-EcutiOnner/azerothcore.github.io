@@ -1,7 +1,6 @@
 var a11172 =
 [
-    [ "MinimapPingClient", "d1/dbe/a11172.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d1/dbe/a11172.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d1/dbe/a11172.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d1/dbe/a11172.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "SetRaidDifficultyClient", "d1/dbe/a11172.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "d1/dbe/a11172.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "d1/dbe/a11172.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

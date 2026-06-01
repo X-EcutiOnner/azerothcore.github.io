@@ -1,6 +1,5 @@
 var a27608 =
 [
-    [ "CheckCast", "d0/d60/a27608.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "d0/d60/a27608.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "d0/d60/a27608.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "achievement_bg_ic_mowed_down", "d0/d60/a27608.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "d0/d60/a27608.html#a385e09c605084900f374090e5e19c24f", null ]
 ];

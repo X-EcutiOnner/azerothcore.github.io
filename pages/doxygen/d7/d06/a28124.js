@@ -1,6 +1,6 @@
 var a28124 =
 [
-    [ "go_tadpole_cageAI", "d5/dac/a28128.html", "d5/dac/a28128" ],
-    [ "go_tadpole_cage", "d7/d06/a28124.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d7/d06/a28124.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "spawnedCreatureEntry", "d7/d06/a28124.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d7/d06/a28124.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d7/d06/a28124.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

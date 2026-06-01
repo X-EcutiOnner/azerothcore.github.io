@@ -1,12 +1,13 @@
 var a10120 =
 [
-    [ "TransportTemplate", "d4/dc0/a10120.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d4/dc0/a10120.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d4/dc0/a10120.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d4/dc0/a10120.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d4/dc0/a10120.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d4/dc0/a10120.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d4/dc0/a10120.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d4/dc0/a10120.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d4/dc0/a10120.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "ParallelogramBoundary", "d4/dc0/a10120.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d4/dc0/a10120.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d4/dc0/a10120.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d4/dc0/a10120.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d4/dc0/a10120.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d4/dc0/a10120.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d4/dc0/a10120.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d4/dc0/a10120.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d4/dc0/a10120.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d4/dc0/a10120.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

@@ -1,5 +1,8 @@
 var a15620 =
 [
-    [ "at_cthun_center", "d2/df3/a15620.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
-    [ "OnTrigger", "d2/df3/a15620.html#af744df9577e84ab64749076324e574c9", null ]
+    [ "npc_obsidian_nullifier", "d2/df3/a15620.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d2/df3/a15620.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d2/df3/a15620.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d2/df3/a15620.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d2/df3/a15620.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

@@ -1,10 +1,14 @@
 var a29320 =
 [
-    [ "attackSpeed", "d9/d87/a29320.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "d9/d87/a29320.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "d9/d87/a29320.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "d9/d87/a29320.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "d9/d87/a29320.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "d9/d87/a29320.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "d9/d87/a29320.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "SetUp", "d9/d87/a29320.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
+    [ "TearDown", "d9/d87/a29320.html#adc8da5178618fb9742ea60920560d6ff", null ],
+    [ "PERM_ADMIN_1", "d9/d87/a29320.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
+    [ "PERM_GM_1", "d9/d87/a29320.html#a378e309848a3ee8b3f0e610572ba6124", null ],
+    [ "PERM_MOD_1", "d9/d87/a29320.html#a05f115edd8aa321527de060f17c2e956", null ],
+    [ "PERM_PLAYER_1", "d9/d87/a29320.html#a2c61447c90608ed3b714ba4e28efca76", null ],
+    [ "PERM_PLAYER_2", "d9/d87/a29320.html#a31cc52a84454c48879c558f9698cd29b", null ],
+    [ "SEC_ADMINISTRATOR", "d9/d87/a29320.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
+    [ "SEC_GAMEMASTER", "d9/d87/a29320.html#ac922fc5904bb31a878f28a210b1a5740", null ],
+    [ "SEC_MODERATOR", "d9/d87/a29320.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
+    [ "SEC_PLAYER", "d9/d87/a29320.html#ad8c087c8b8503262387306039b44f09c", null ]
 ];

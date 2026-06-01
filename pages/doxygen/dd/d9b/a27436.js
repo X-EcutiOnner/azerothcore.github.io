@@ -1,7 +1,7 @@
 var a27436 =
 [
-    [ "HandleDummy", "dd/d9b/a27436.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "dd/d9b/a27436.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "dd/d9b/a27436.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "dd/d9b/a27436.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "HandleProc", "dd/d9b/a27436.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "dd/d9b/a27436.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "dd/d9b/a27436.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "dd/d9b/a27436.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

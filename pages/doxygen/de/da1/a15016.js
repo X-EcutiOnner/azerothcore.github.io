@@ -1,6 +1,10 @@
 var a15016 =
 [
-    [ "HandleDummy", "de/da1/a15016.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "de/da1/a15016.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "de/da1/a15016.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "boss_rage_winterchill", "de/da1/a15016.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "de/da1/a15016.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "de/da1/a15016.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "de/da1/a15016.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "de/da1/a15016.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "de/da1/a15016.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "de/da1/a15016.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

@@ -1,7 +1,7 @@
 var a13488 =
 [
-    [ "HandleHit", "d9/dd0/a13488.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
-    [ "Load", "d9/dd0/a13488.html#affe2cd261752db89b1b418eb18a3370c", null ],
-    [ "PrepareSpellScript", "d9/dd0/a13488.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
-    [ "Register", "d9/dd0/a13488.html#aaadaf49a3757e78d69ffc32768945d16", null ]
+    [ "npc_apothecary_genericAI", "d9/dd0/a13488.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d9/dd0/a13488.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d9/dd0/a13488.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d9/dd0/a13488.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

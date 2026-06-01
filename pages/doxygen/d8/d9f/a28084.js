@@ -1,7 +1,8 @@
 var a28084 =
 [
-    [ "HandlePeriodic", "d8/d9f/a28084.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d8/d9f/a28084.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d8/d9f/a28084.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d8/d9f/a28084.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "npc_franklinAI", "d7/d00/a28088.html", "d7/d00/a28088" ],
+    [ "npc_franklin", "d8/d9f/a28084.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "d8/d9f/a28084.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "d8/d9f/a28084.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "d8/d9f/a28084.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

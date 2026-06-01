@@ -1,10 +1,14 @@
 var a20864 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "d0/dad/a20864.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
-    [ "DoAction", "d0/dad/a20864.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "JustDied", "d0/dad/a20864.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "SelectConstrictTarget", "d0/dad/a20864.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "UpdateAI", "d0/dad/a20864.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
-    [ "_checkTimer", "d0/dad/a20864.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
-    [ "_playerGUID", "d0/dad/a20864.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_dalronn_the_controller", "d0/dad/a20864.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d0/dad/a20864.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d0/dad/a20864.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d0/dad/a20864.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d0/dad/a20864.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d0/dad/a20864.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d0/dad/a20864.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d0/dad/a20864.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d0/dad/a20864.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d0/dad/a20864.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d0/dad/a20864.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

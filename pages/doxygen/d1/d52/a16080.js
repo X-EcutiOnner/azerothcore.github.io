@@ -1,6 +1,6 @@
 var a16080 =
 [
-    [ "npc_custodian_of_timeAI", "d1/d91/a16084.html", "d1/d91/a16084" ],
-    [ "npc_custodian_of_time", "d1/d52/a16080.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "d1/d52/a16080.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "instance_zulfarrak_InstanceMapScript", "d1/d91/a16084.html", "d1/d91/a16084" ],
+    [ "instance_zulfarrak", "d1/d52/a16080.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
+    [ "GetInstanceScript", "d1/d52/a16080.html#a5f092341e49848c9d321452be2193d56", null ]
 ];

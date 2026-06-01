@@ -1,14 +1,10 @@
 var a11484 =
 [
-    [ "Account", "d1/d2a/a11484.html#acb9382abe66dd43176fb7af1f3020388", null ],
-    [ "AddonInfo", "d1/d2a/a11484.html#ad39c1b9e73d5bbbe45114e3358126d73", null ],
-    [ "BattlegroupID", "d1/d2a/a11484.html#aa09cd28d82e9d96d96a1ccefc4a313ca", null ],
-    [ "Build", "d1/d2a/a11484.html#ae4a83f8e8c81c1d797512245392fd582", null ],
-    [ "Digest", "d1/d2a/a11484.html#a6b795f38fb996534f502e1fa5de9e48e", null ],
-    [ "DosResponse", "d1/d2a/a11484.html#afe2b4146ef592a7067ddaeac449b0644", null ],
-    [ "LocalChallenge", "d1/d2a/a11484.html#a5c8c57127a0b1cd3cfa63503018c8ae3", null ],
-    [ "LoginServerID", "d1/d2a/a11484.html#a155f8107ac5a637501a169cfaf43c4b9", null ],
-    [ "LoginServerType", "d1/d2a/a11484.html#aea79adfcdb6acd5b6bf34fc9175cca3c", null ],
-    [ "RealmID", "d1/d2a/a11484.html#a944915bd95665075fdf4b6fa01de9a9f", null ],
-    [ "RegionID", "d1/d2a/a11484.html#a4052be051b41e931747b1956dc145d64", null ]
+    [ "WorldStateInfo", "d0/d24/a11488.html", "d0/d24/a11488" ],
+    [ "InitWorldStates", "d1/d2a/a11484.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d1/d2a/a11484.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d1/d2a/a11484.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d1/d2a/a11484.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d1/d2a/a11484.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d1/d2a/a11484.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

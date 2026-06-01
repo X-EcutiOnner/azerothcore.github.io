@@ -1,8 +1,6 @@
 var a17404 =
 [
-    [ "npc_hor_raging_ghoulAI", "d9/dea/a17404.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "d9/dea/a17404.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "d9/dea/a17404.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "d9/dea/a17404.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "d9/dea/a17404.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "boss_drakkari_colossusAI", "da/dfe/a17408.html", "da/dfe/a17408" ],
+    [ "boss_drakkari_colossus", "d9/dea/a17404.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d9/dea/a17404.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

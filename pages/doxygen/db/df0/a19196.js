@@ -1,5 +1,7 @@
 var a19196 =
 [
-    [ "at_icc_start_blood_quickening", "db/df0/a19196.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "db/df0/a19196.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "HandleGameObjectDamage", "db/df0/a19196.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "db/df0/a19196.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "db/df0/a19196.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "db/df0/a19196.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

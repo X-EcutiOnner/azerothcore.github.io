@@ -1,7 +1,7 @@
 var a29032 =
 [
-    [ "Displayid", "d3/d62/a29032.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d3/d62/a29032.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d3/d62/a29032.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d3/d62/a29032.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "from", "d3/d62/a29032.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "d3/d62/a29032.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "d3/d62/a29032.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "d3/d62/a29032.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

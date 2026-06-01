@@ -1,9 +1,11 @@
 var a20688 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "d6/d86/a20688.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "d6/d86/a20688.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "d6/d86/a20688.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "d6/d86/a20688.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "d6/d86/a20688.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "d6/d86/a20688.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "boss_yoggsaron_lich_king", "d6/d86/a20688.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "d6/d86/a20688.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "d6/d86/a20688.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "d6/d86/a20688.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "d6/d86/a20688.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "d6/d86/a20688.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "d6/d86/a20688.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

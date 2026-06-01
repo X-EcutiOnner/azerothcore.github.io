@@ -1,6 +1,8 @@
 var a13400 =
 [
-    [ "npc_scarlet_ghoulAI", "d6/dfc/a13404.html", "d6/dfc/a13404" ],
-    [ "npc_scarlet_ghoul", "d2/d94/a13400.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d2/d94/a13400.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "HandleHit", "d2/d94/a13400.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d2/d94/a13400.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d2/d94/a13400.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d2/d94/a13400.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d2/d94/a13400.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

@@ -1,6 +1,7 @@
 var a14588 =
 [
-    [ "boss_renatakiAI", "d6/d0f/a14592.html", "d6/d0f/a14592" ],
-    [ "boss_renataki", "d9/d64/a14588.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d9/d64/a14588.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "npc_direbrew_minion", "d9/d64/a14588.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d9/d64/a14588.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d9/d64/a14588.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d9/d64/a14588.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

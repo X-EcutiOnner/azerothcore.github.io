@@ -1,7 +1,13 @@
 var a19212 =
 [
-    [ "HandleEffectPeriodic", "d2/df2/a19212.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d2/df2/a19212.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d2/df2/a19212.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d2/df2/a19212.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "boss_anubrekhan", "d2/df2/a19212.html#ad748de528ca78739236b9586ddaa19bd", null ],
+    [ "JustDied", "d2/df2/a19212.html#a9dfb1b89c4f47235e463d90f17522113", null ],
+    [ "JustEngagedWith", "d2/df2/a19212.html#a97d56653381e7a7f8c724263148cd61e", null ],
+    [ "JustSummoned", "d2/df2/a19212.html#af1a01ff6c9790e1660619767c16cfd94", null ],
+    [ "KilledUnit", "d2/df2/a19212.html#a73906e3681c767e5818d380e77525ba2", null ],
+    [ "MoveInLineOfSight", "d2/df2/a19212.html#a9fcbc921973e0bd02867217d15efcc64", null ],
+    [ "Reset", "d2/df2/a19212.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
+    [ "SummonCryptGuards", "d2/df2/a19212.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
+    [ "SummonedCreatureDies", "d2/df2/a19212.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
+    [ "_sayGreet", "d2/df2/a19212.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
 ];

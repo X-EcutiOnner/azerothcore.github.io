@@ -1,9 +1,9 @@
 var a15464 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d4/d7f/a15464.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d4/d7f/a15464.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d4/d7f/a15464.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d4/d7f/a15464.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d4/d7f/a15464.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d4/d7f/a15464.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "npc_eye_tentacle", "d4/d7f/a15464.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "d4/d7f/a15464.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "d4/d7f/a15464.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "d4/d7f/a15464.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "d4/d7f/a15464.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "d4/d7f/a15464.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

@@ -1,7 +1,18 @@
 var a12788 =
 [
-    [ "HandleDummy", "dc/de0/a12788.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "dc/de0/a12788.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "dc/de0/a12788.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "dc/de0/a12788.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_vaelastrasz", "dc/de0/a12788.html#a34f13f4de3f268c8fe034e8577186966", null ],
+    [ "BeginSpeech", "dc/de0/a12788.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
+    [ "Initialize", "dc/de0/a12788.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
+    [ "JustEngagedWith", "dc/de0/a12788.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
+    [ "JustSummoned", "dc/de0/a12788.html#a73f72d397a277301d1b5e2020f0f6146", null ],
+    [ "KilledUnit", "dc/de0/a12788.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
+    [ "Reset", "dc/de0/a12788.html#ac496730fdeb5e55c125a1880626c76e4", null ],
+    [ "sGossipSelect", "dc/de0/a12788.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
+    [ "UpdateAI", "dc/de0/a12788.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
+    [ "_burningAdrenalineCast", "dc/de0/a12788.html#acb5c8baf13a39d560447f3e16f07966c", null ],
+    [ "_eventsIntro", "dc/de0/a12788.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
+    [ "_introDone", "dc/de0/a12788.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
+    [ "HasYelled", "dc/de0/a12788.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
+    [ "m_nefariusGuid", "dc/de0/a12788.html#ae1a22491288380cb50264a51e0b624f6", null ],
+    [ "PlayerGUID", "dc/de0/a12788.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
 ];

@@ -1,6 +1,6 @@
 var a18288 =
 [
-    [ "UnboundPlagueTargetSelector", "de/df0/a18288.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "de/df0/a18288.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "de/df0/a18288.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "boss_sindragosaAI", "d0/d77/a18292.html", "d0/d77/a18292" ],
+    [ "boss_sindragosa", "de/df0/a18288.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "de/df0/a18288.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

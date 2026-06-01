@@ -1,8 +1,8 @@
 var a26988 =
 [
-    [ "HandleEffectRemove", "db/df2/a26988.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "db/df2/a26988.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "db/df2/a26988.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "db/df2/a26988.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "db/df2/a26988.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "AfterApply", "db/df2/a26988.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "db/df2/a26988.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "db/df2/a26988.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "db/df2/a26988.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "db/df2/a26988.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

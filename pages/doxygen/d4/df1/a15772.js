@@ -1,13 +1,6 @@
 var a15772 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d4/df1/a15772.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d4/df1/a15772.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d4/df1/a15772.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d4/df1/a15772.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d4/df1/a15772.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d4/df1/a15772.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d4/df1/a15772.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d4/df1/a15772.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d4/df1/a15772.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d4/df1/a15772.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_tiger_matriarch_creditAI", "d0/d14/a15776.html", "d0/d14/a15776" ],
+    [ "npc_tiger_matriarch_credit", "d4/df1/a15772.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d4/df1/a15772.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

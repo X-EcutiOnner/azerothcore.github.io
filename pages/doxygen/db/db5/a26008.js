@@ -1,6 +1,7 @@
 var a26008 =
 [
-    [ "CheckSinkholes", "db/db5/a26008.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "db/db5/a26008.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "db/db5/a26008.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleProc", "db/db5/a26008.html#ab422b4755673f8af691d2672b0cb28a1", null ],
+    [ "PrepareAuraScript", "db/db5/a26008.html#a16098a3b719adcf3c63a09deb5ca7c80", null ],
+    [ "Register", "db/db5/a26008.html#a56a8e3400c89867951305494964077a4", null ],
+    [ "Validate", "db/db5/a26008.html#a0843ac6c6171f1f22712175d96fbafba", null ]
 ];

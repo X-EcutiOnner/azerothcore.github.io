@@ -1,8 +1,6 @@
 var a18088 =
 [
-    [ "HandlePeriodic", "de/d93/a18088.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "de/d93/a18088.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "de/d93/a18088.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "de/d93/a18088.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "de/d93/a18088.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "MalleableGooSelector", "de/d93/a18088.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "de/d93/a18088.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "de/d93/a18088.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

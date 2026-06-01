@@ -1,7 +1,8 @@
 var a18480 =
 [
-    [ "FrostBombExplosion", "df/d30/a18480.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "df/d30/a18480.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "df/d30/a18480.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "df/d30/a18480.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "FilterTargets", "df/d30/a18480.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "df/d30/a18480.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "df/d30/a18480.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "df/d30/a18480.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "df/d30/a18480.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

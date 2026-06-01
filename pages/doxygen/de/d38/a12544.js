@@ -1,6 +1,7 @@
 var a12544 =
 [
-    [ "boss_overlordwyrmthalakAI", "dd/d28/a12548.html", "dd/d28/a12548" ],
-    [ "boss_overlord_wyrmthalak", "de/d38/a12544.html#a2af6edf776c189d43cb82cc35bb838fe", null ],
-    [ "GetAI", "de/d38/a12544.html#a56de538f25cbabc9346b987dbfe680a1", null ]
+    [ "boss_moira_bronzebeard", "de/d38/a12544.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "de/d38/a12544.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "de/d38/a12544.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "de/d38/a12544.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

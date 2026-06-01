@@ -1,5 +1,5 @@
 var a12804 =
 [
-    [ "go_orb_of_domination", "df/d05/a12804.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "df/d05/a12804.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "at_orb_of_command", "df/d05/a12804.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "df/d05/a12804.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

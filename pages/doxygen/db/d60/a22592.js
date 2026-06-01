@@ -1,8 +1,6 @@
 var a22592 =
 [
-    [ "boss_darkweaver_syth", "db/d60/a22592.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "db/d60/a22592.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "db/d60/a22592.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "db/d60/a22592.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "db/d60/a22592.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "FilterTargets", "db/d60/a22592.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "db/d60/a22592.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "db/d60/a22592.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

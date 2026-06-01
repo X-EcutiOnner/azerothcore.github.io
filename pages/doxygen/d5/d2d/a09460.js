@@ -1,13 +1,12 @@
 var a09460 =
 [
-    [ "WorldObjectListSearcher", "d5/d2d/a09460.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "d5/d2d/a09460.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "d5/d2d/a09460.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "d5/d2d/a09460.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "d5/d2d/a09460.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "d5/d2d/a09460.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "d5/d2d/a09460.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "d5/d2d/a09460.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "d5/d2d/a09460.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "d5/d2d/a09460.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "flags", "d5/d2d/a09460.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d5/d2d/a09460.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d5/d2d/a09460.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d5/d2d/a09460.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d5/d2d/a09460.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d5/d2d/a09460.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d5/d2d/a09460.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d5/d2d/a09460.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d5/d2d/a09460.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

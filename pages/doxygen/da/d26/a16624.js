@@ -1,6 +1,6 @@
 var a16624 =
 [
-    [ "PrepareSpellScript", "da/d26/a16624.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "da/d26/a16624.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "da/d26/a16624.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "npc_toc5_grand_champion_minionAI", "d6/d41/a16628.html", "d6/d41/a16628" ],
+    [ "npc_toc5_grand_champion_minion", "da/d26/a16624.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "da/d26/a16624.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

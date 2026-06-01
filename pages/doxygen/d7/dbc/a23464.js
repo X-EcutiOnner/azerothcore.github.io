@@ -1,8 +1,6 @@
 var a23464 =
 [
-    [ "boss_broggok", "d7/dbc/a23464.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d7/dbc/a23464.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d7/dbc/a23464.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d7/dbc/a23464.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d7/dbc/a23464.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "OnApply", "d7/dbc/a23464.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d7/dbc/a23464.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d7/dbc/a23464.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

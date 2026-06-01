@@ -1,6 +1,7 @@
 var a22004 =
 [
-    [ "npc_lord_areteAI", "d2/dc1/a22008.html", "d2/dc1/a22008" ],
-    [ "npc_lord_arete", "de/d9f/a22004.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "de/d9f/a22004.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleDummy", "de/d9f/a22004.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "de/d9f/a22004.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "de/d9f/a22004.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "de/d9f/a22004.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

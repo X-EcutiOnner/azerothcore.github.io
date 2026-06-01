@@ -1,7 +1,7 @@
 var a16108 =
 [
-    [ "npc_giltharesAI", "dd/d4a/a16108.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "dd/d4a/a16108.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "dd/d4a/a16108.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "dd/d4a/a16108.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "go_troll_cageAI", "dd/d4a/a16108.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "dd/d4a/a16108.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "dd/d4a/a16108.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "dd/d4a/a16108.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

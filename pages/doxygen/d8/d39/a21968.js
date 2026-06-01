@@ -1,8 +1,6 @@
 var a21968 =
 [
-    [ "AfterApply", "d8/d39/a21968.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d8/d39/a21968.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d8/d39/a21968.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d8/d39/a21968.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d8/d39/a21968.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "CheckCast", "d8/d39/a21968.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d8/d39/a21968.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d8/d39/a21968.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

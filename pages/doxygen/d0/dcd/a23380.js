@@ -1,7 +1,10 @@
 var a23380 =
 [
-    [ "HandleScript", "d0/dcd/a23380.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d0/dcd/a23380.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d0/dcd/a23380.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d0/dcd/a23380.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "boss_harbinger_skyriss", "d0/dcd/a23380.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d0/dcd/a23380.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d0/dcd/a23380.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d0/dcd/a23380.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d0/dcd/a23380.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d0/dcd/a23380.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d0/dcd/a23380.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

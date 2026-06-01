@@ -1,6 +1,8 @@
 var a12580 =
 [
-    [ "npc_rookery_hatcherAI", "d3/d39/a12584.html", "d3/d39/a12584" ],
-    [ "npc_rookery_hatcher", "d5/dc3/a12580.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "d5/dc3/a12580.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "CheckProc", "d5/dc3/a12580.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d5/dc3/a12580.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d5/dc3/a12580.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d5/dc3/a12580.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d5/dc3/a12580.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

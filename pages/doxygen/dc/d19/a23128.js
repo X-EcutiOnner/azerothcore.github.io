@@ -1,12 +1,11 @@
 var a23128 =
 [
-    [ "boss_leotheras_the_blind", "dc/d19/a23128.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "dc/d19/a23128.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "dc/d19/a23128.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "dc/d19/a23128.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "dc/d19/a23128.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "dc/d19/a23128.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "dc/d19/a23128.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "dc/d19/a23128.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "dc/d19/a23128.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "boss_gruul", "dc/d19/a23128.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "dc/d19/a23128.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "dc/d19/a23128.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "dc/d19/a23128.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "dc/d19/a23128.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "dc/d19/a23128.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "dc/d19/a23128.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "dc/d19/a23128.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

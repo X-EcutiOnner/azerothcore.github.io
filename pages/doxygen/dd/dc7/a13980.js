@@ -1,6 +1,6 @@
 var a13980 =
 [
-    [ "HandleSendEvent", "dd/dc7/a13980.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "dd/dc7/a13980.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "dd/dc7/a13980.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "CheckProc", "dd/dc7/a13980.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "dd/dc7/a13980.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "dd/dc7/a13980.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

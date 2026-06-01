@@ -1,7 +1,9 @@
 var a24684 =
 [
-    [ "CalculateAmount", "d3/dff/a24684.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "d3/dff/a24684.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "d3/dff/a24684.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "d3/dff/a24684.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "spell_gen_select_target_count", "d3/dff/a24684.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d3/dff/a24684.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d3/dff/a24684.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d3/dff/a24684.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d3/dff/a24684.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d3/dff/a24684.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

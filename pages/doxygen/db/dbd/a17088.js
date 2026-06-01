@@ -1,9 +1,7 @@
 var a17088 =
 [
-    [ "npc_concentrated_ballAI", "db/dbd/a17088.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "db/dbd/a17088.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "db/dbd/a17088.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "db/dbd/a17088.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "db/dbd/a17088.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "db/dbd/a17088.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "HandlePeriodicTick", "db/dbd/a17088.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "db/dbd/a17088.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "db/dbd/a17088.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "db/dbd/a17088.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

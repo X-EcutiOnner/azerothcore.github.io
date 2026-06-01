@@ -1,7 +1,8 @@
 var a05608 =
 [
-    [ "Node", "d8/d10/a05608.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "d8/d10/a05608.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "d8/d10/a05608.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "d8/d10/a05608.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "Decode", "d8/d10/a05608.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "d8/d10/a05608.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "d8/d10/a05608.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "d8/d10/a05608.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "d8/d10/a05608.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

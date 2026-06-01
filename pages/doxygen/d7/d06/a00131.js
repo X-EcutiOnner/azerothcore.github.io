@@ -1,14 +1,43 @@
 var a00131 =
 [
-    [ "ExtraAttackChainProcTest", "d0/ddd/a29466.html", "d0/ddd/a29466" ],
-    [ "TEST_F", "d7/d06/a00131.html#abc49b8d509a71311b8f4ab364e4da973", null ],
-    [ "TEST_F", "d7/d06/a00131.html#a42dbae4a1b1bebe552097cb6d7192996", null ],
-    [ "TEST_F", "d7/d06/a00131.html#a496682ab03245df2e7c1e539fe7a1b3c", null ],
-    [ "TEST_F", "d7/d06/a00131.html#ae45135f1555115aa04a957f7786ef8eb", null ],
-    [ "TEST_F", "d7/d06/a00131.html#a510139ca0dbe6b263f79cdf71e8f3104", null ],
-    [ "TEST_F", "d7/d06/a00131.html#aca644b360370337d76d0d1f955f4bf91", null ],
-    [ "TEST_F", "d7/d06/a00131.html#a9dbad8c1ef4a5f8cd46f58762938ef28", null ],
-    [ "TEST_F", "d7/d06/a00131.html#ae32b028257e04cd926bd3c20a6a63a02", null ],
-    [ "SPELL_HAND_OF_JUSTICE", "d7/d06/a00131.html#a82bc87ae06a613c804e98c7f1584cebd", null ],
-    [ "SPELL_RECKONING", "d7/d06/a00131.html#a3d5a3ceb207bb46f5ccfce1e6c3e3a48", null ]
+    [ "npc_lord_gregor_lescovar", "da/d46/a14012.html", "da/d46/a14012" ],
+    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "db/dea/a14016.html", "db/dea/a14016" ],
+    [ "npc_marzon_silent_blade", "de/dcb/a14020.html", "de/dcb/a14020" ],
+    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d8/d6a/a14024.html", "d8/d6a/a14024" ],
+    [ "npc_tyrion_spybot", "d7/d9c/a14028.html", "d7/d9c/a14028" ],
+    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "dc/db8/a14032.html", "dc/db8/a14032" ],
+    [ "npc_tyrion", "de/d7b/a14036.html", "de/d7b/a14036" ],
+    [ "npc_king_varian_wrynn", "d4/d75/a14040.html", "d4/d75/a14040" ],
+    [ "KingVarianWrynn", "d7/d06/a00131.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
+      [ "QUEST_WHERE_KINGS_WALK", "d7/d06/a00131.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
+    ] ],
+    [ "LordGregorLescovar", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7", [
+      [ "SAY_GUARD_2", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
+      [ "SAY_LESCOVAR_2", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
+      [ "SAY_LESCOVAR_3", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
+      [ "SAY_LESCOVAR_4", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
+      [ "SAY_MARZON_1", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
+      [ "SAY_MARZON_2", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
+      [ "SAY_TYRION_2", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
+      [ "NPC_STORMWIND_ROYAL", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
+      [ "NPC_MARZON_BLADE", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
+      [ "NPC_TYRION", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
+      [ "QUEST_THE_ATTACK", "d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
+    ] ],
+    [ "Tyrion", "d7/d06/a00131.html#affa30c579e72ac17979d6590547e9cde", [
+      [ "NPC_TYRION_SPYBOT", "d7/d06/a00131.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
+    ] ],
+    [ "TyrionSpybot", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82", [
+      [ "SAY_QUEST_ACCEPT_ATTACK", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
+      [ "SAY_SPYBOT_1", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
+      [ "SAY_SPYBOT_2", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
+      [ "SAY_SPYBOT_3", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
+      [ "SAY_SPYBOT_4", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
+      [ "SAY_TYRION_1", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
+      [ "SAY_GUARD_1", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
+      [ "SAY_LESCOVAR_1", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
+      [ "NPC_PRIESTESS_TYRIONA", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
+      [ "NPC_LORD_GREGOR_LESCOVAR", "d7/d06/a00131.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
+    ] ],
+    [ "AddSC_stormwind_city", "d7/d06/a00131.html#ac865e7add4724f06be48735f6bf1a542", null ]
 ];

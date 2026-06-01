@@ -1,7 +1,7 @@
 var a15860 =
 [
-    [ "npc_prospector_remtravelAI", "d0/d94/a15864.html", "d0/d94/a15864" ],
-    [ "npc_prospector_remtravel", "da/d76/a15860.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "da/d76/a15860.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "da/d76/a15860.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_giant_spotlightAI", "da/d76/a15860.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "da/d76/a15860.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "da/d76/a15860.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "da/d76/a15860.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

@@ -1,22 +1,36 @@
 var a01892 =
 [
-    [ "ServerMailCondition", "d8/d5b/a10066.html", "d8/d5b/a10066" ],
-    [ "ServerMailItems", "df/d2c/a10070.html", "df/d2c/a10070" ],
-    [ "ServerMail", "de/df4/a10074.html", "de/df4/a10074" ],
-    [ "ServerMailMgr", "d6/dd8/a10078.html", "d6/dd8/a10078" ],
-    [ "sServerMailMgr", "dc/d31/a01892.html#a6423d219eaead162b40b6021eadca0c4", null ],
-    [ "ServerMailContainer", "dc/d31/a01892.html#a9c10c94a0a8508b3af2e92d3455d063b", null ],
-    [ "ServerMailConditionType", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2b", [
-      [ "Invalid", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba4bbb8f967da6d1a610596d7257179c2b", null ],
-      [ "Level", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2baa0db49ba470c1c9ae2128c3470339153", null ],
-      [ "PlayTime", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2bad50a5da6b13baa381b72761aae02cde3", null ],
-      [ "Quest", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba07bf513a88c3df282a30cb374f8a933d", null ],
-      [ "Achievement", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2bae29be78e8cf65f9f1a934917f9e0903e", null ],
-      [ "Reputation", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba8d9bec4f224970e231041639de877092", null ],
-      [ "Faction", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba3dcd53a8339c060c69c660b1b89b5201", null ],
-      [ "Race", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba4e221fc084bb69a82315a154d6dd7879", null ],
-      [ "Class", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "AccountFlags", "dc/d31/a01892.html#ab25c41bc314095f74fe678a33e086a2ba1c14759edfa3dbd063ee9d758a175225", null ]
+    [ "npc_bunthen_plainswind", "d6/d5a/a15832.html", "d6/d5a/a15832" ],
+    [ "npc_silva_filnaveth", "d7/db2/a15836.html", "d7/db2/a15836" ],
+    [ "npc_clintar_spirit", "da/d7c/a15840.html", "da/d7c/a15840" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d5/d15/a15844.html", "d5/d15/a15844" ],
+    [ "npc_omen", "d3/de7/a15848.html", "d3/de7/a15848" ],
+    [ "npc_omen::npc_omenAI", "d3/db1/a15852.html", "d3/db1/a15852" ],
+    [ "npc_giant_spotlight", "df/d55/a15856.html", "df/d55/a15856" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "da/d76/a15860.html", "da/d76/a15860" ],
+    [ "Bunthen", "dc/d31/a01892.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "dc/d31/a01892.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "dc/d31/a01892.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "dc/d31/a01892.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "dc/d31/a01892.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "ServerMailConditionTypePairs", "dc/d31/a01892.html#af981b509cb816fa6720cf16cceaa9081", null ]
+    [ "ClintarSpirit", "dc/d31/a01892.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "dc/d31/a01892.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "dc/d31/a01892.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    ] ],
+    [ "Omen", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "dc/d31/a01892.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "dc/d31/a01892.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "dc/d31/a01892.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "dc/d31/a01892.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

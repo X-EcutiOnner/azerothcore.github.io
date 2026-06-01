@@ -1,6 +1,6 @@
 var a16356 =
 [
-    [ "PrepareSpellScript", "dd/dcb/a16356.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "dd/dcb/a16356.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "dd/dcb/a16356.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d7/d18/a16360.html", "d7/d18/a16360" ],
+    [ "npc_baltharus_the_warborn_clone", "dd/dcb/a16356.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "dd/dcb/a16356.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

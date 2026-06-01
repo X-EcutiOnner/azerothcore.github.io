@@ -1,7 +1,6 @@
 var a16716 =
 [
-    [ "HandleAfterEffectAbsorb", "db/dcc/a16716.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "db/dcc/a16716.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "db/dcc/a16716.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "db/dcc/a16716.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "npc_toc_druidAI", "d5/d33/a16720.html", "d5/d33/a16720" ],
+    [ "npc_toc_druid", "db/dcc/a16716.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "db/dcc/a16716.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

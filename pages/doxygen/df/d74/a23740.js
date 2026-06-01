@@ -1,6 +1,7 @@
 var a23740 =
 [
-    [ "HandleCast", "df/d74/a23740.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "df/d74/a23740.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "df/d74/a23740.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "npc_kurenai_captiveAI", "d9/d8d/a23744.html", "d9/d8d/a23744" ],
+    [ "npc_kurenai_captive", "df/d74/a23740.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "df/d74/a23740.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "df/d74/a23740.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

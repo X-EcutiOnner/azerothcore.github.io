@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ProcChainGuardSimulator Class Reference</title>
+<title>AzerothCore: SpellProcIntegrationTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,63 +105,58 @@ $(document).ready(function(){initNavTree('de/d46/a29572.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d8/d94/a29569.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ProcChainGuardSimulator Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellProcIntegrationTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>Simulates the proc chain guard logic from <a class="el" href="../../d7/d19/a08988.html#ae70846e14ba5bb30c24ed937e2e1ec7d">Unit::TriggerAurasProcOnEvent</a>.  
+<p>Integration tests for the proc system.  
  <a href="../../de/d46/a29572.html#details">More...</a></p>
-
-<p><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for SpellProcIntegrationTest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../de/d46/a29572.png" usemap="#SpellProcIntegrationTest_map" alt=""/>
+  <map id="SpellProcIntegrationTest_map" name="SpellProcIntegrationTest_map">
+<area href="../../d6/ddd/a29164.html" title="Base fixture for AuraScript proc testing." alt="AuraScriptProcTestFixture" shape="rect" coords="0,56,162,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d53/a29576.html">AuraConfig</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/df9/a29580.html">ProcRecord</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:ad729e5f44922b9b6c44c9a4d732818e7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#ad729e5f44922b9b6c44c9a4d732818e7">ProcChainGuardSimulator</a> ()</td></tr>
-<tr class="separator:ad729e5f44922b9b6c44c9a4d732818e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab0a0af1461f0f94a87273f468bc5454d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#ab0a0af1461f0f94a87273f468bc5454d">SimulateTriggerAurasProc</a> (bool triggeringSpellHasDisallowProcEvents, std::vector&lt; <a class="el" href="../../d9/d53/a29576.html">AuraConfig</a> &gt; const &amp;auras)</td></tr>
-<tr class="memdesc:ab0a0af1461f0f94a87273f468bc5454d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Simulate <a class="el" href="../../d7/d19/a08988.html#ae70846e14ba5bb30c24ed937e2e1ec7d">Unit::TriggerAurasProcOnEvent</a>.  <a href="../../de/d46/a29572.html#ab0a0af1461f0f94a87273f468bc5454d">More...</a><br /></td></tr>
-<tr class="separator:ab0a0af1461f0f94a87273f468bc5454d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae21baa9f43fb78e30dedfc6608684e9e"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/df9/a29580.html">ProcRecord</a> &gt; const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#ae21baa9f43fb78e30dedfc6608684e9e">GetRecords</a> () const</td></tr>
-<tr class="separator:ae21baa9f43fb78e30dedfc6608684e9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe8e4320a882c474f883347860ad4d47"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#afe8e4320a882c474f883347860ad4d47">GetProcDeep</a> () const</td></tr>
-<tr class="separator:afe8e4320a882c474f883347860ad4d47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a267703c4a51bf3e8020e3298c85b74b3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#a267703c4a51bf3e8020e3298c85b74b3">CanProc</a> () const</td></tr>
-<tr class="separator:a267703c4a51bf3e8020e3298c85b74b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ab479d1a30e547ce04775abe397cfea14"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">SetCantProc</a> (bool apply)</td></tr>
-<tr class="separator:ab479d1a30e547ce04775abe397cfea14"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a5fd0de564b32520971082df9620d40b4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a></td></tr>
-<tr class="separator:a5fd0de564b32520971082df9620d40b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abdecfb4d1da86f5a5d4cd7c92c228617"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d4/df9/a29580.html">ProcRecord</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#abdecfb4d1da86f5a5d4cd7c92c228617">_records</a></td></tr>
-<tr class="separator:abdecfb4d1da86f5a5d4cd7c92c228617"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a5d3dc5ba1a52545537d327fec12ea1cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d46/a29572.html#a5d3dc5ba1a52545537d327fec12ea1cb">SetUp</a> () override</td></tr>
+<tr class="separator:a5d3dc5ba1a52545537d327fec12ea1cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a29164"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a29164')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d6/ddd/a29164.html">AuraScriptProcTestFixture</a></td></tr>
+<tr class="memitem:a65b0d4a0beb4c2f986f71ff5732e0f3c inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a65b0d4a0beb4c2f986f71ff5732e0f3c">SetUp</a> () override</td></tr>
+<tr class="separator:a65b0d4a0beb4c2f986f71ff5732e0f3c inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a782580d41f8233b93d51fe347601e730 inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a782580d41f8233b93d51fe347601e730">TearDown</a> () override</td></tr>
+<tr class="separator:a782580d41f8233b93d51fe347601e730 inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dd9f22f9528a05b229828e4a2c97757 inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/df7/a29160.html">ProcTestContext</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a0dd9f22f9528a05b229828e4a2c97757">Context</a> ()</td></tr>
+<tr class="separator:a0dd9f22f9528a05b229828e4a2c97757 inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adee75944dc2e9a3fff7848d0ccfff527 inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d31/a11764.html">SpellInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#adee75944dc2e9a3fff7848d0ccfff527">CreateSpellInfo</a> (uint32_t id, uint32_t familyName=0, uint32_t familyFlags0=0, uint32_t familyFlags1=0, uint32_t familyFlags2=0)</td></tr>
+<tr class="separator:adee75944dc2e9a3fff7848d0ccfff527 inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26531bd3f3256075455b32b42a172f6a inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/de7/a11768.html">SpellProcEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a26531bd3f3256075455b32b42a172f6a">CreateProcEntry</a> ()</td></tr>
+<tr class="separator:a26531bd3f3256075455b32b42a172f6a inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81032fc22ce45902d34cf897606bd966 inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d3d/a09052.html">ProcEventInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a81032fc22ce45902d34cf897606bd966">CreateEventInfo</a> (uint32_t typeMask, uint32_t hitMask, uint32_t <a class="el" href="../../d6/d73/a04025.html#aacbfece2441a495ad1e709acd28bc9b7">spellTypeMask</a>=<a class="el" href="../../df/d58/a03998.html#acb2f59f82f5d44cf14104713821f0527a8b2234b4443b9668e2bea3394c9fd860">PROC_SPELL_TYPE_MASK_ALL</a>, uint32_t spellPhaseMask=<a class="el" href="../../df/d58/a03998.html#addbb65f0e6c920d8577112d9dd55beb4a8ccd2b9dede0fefcf6eb07b8e6753f34">PROC_SPELL_PHASE_HIT</a>)</td></tr>
+<tr class="separator:a81032fc22ce45902d34cf897606bd966 inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a409ccb130f529cb20e5164b465e05ca6 inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a409ccb130f529cb20e5164b465e05ca6">TestCanProc</a> (<a class="el" href="../../d7/de7/a11768.html">SpellProcEntry</a> const &amp;procEntry, uint32_t typeMask, uint32_t hitMask, <a class="el" href="../../d0/d31/a11764.html">SpellInfo</a> const *triggerSpell=nullptr)</td></tr>
+<tr class="separator:a409ccb130f529cb20e5164b465e05ca6 inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97d06c4fdf207051543fbf8c9207242e inherit pro_methods_a29164"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/ddd/a29164.html#a97d06c4fdf207051543fbf8c9207242e">TestSpellFamilyMatch</a> (uint32_t procFamilyName, <a class="el" href="../../dc/dc3/a05932.html">flag96</a> const &amp;procFamilyMask, <a class="el" href="../../d0/d31/a11764.html">SpellInfo</a> const *triggerSpell)</td></tr>
+<tr class="separator:a97d06c4fdf207051543fbf8c9207242e inherit pro_methods_a29164"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Simulates the proc chain guard logic from <a class="el" href="../../d7/d19/a08988.html#ae70846e14ba5bb30c24ed937e2e1ec7d">Unit::TriggerAurasProcOnEvent</a>. </p>
-<p >Tracks the m_procDeep counter to verify that:</p><ul>
-<li>TRIGGERED_DISALLOW_PROC_EVENTS on the triggering spell disables procs for all auras in the container</li>
-<li>SPELL_ATTR3_INSTANT_TARGET_PROCS on individual auras disables procs only during that specific aura's TriggerProcOnEvent call</li>
-<li>The counter is properly balanced (returns to 0 after function exits) </li>
+<div class="textblock"><p >Integration tests for the proc system. </p>
+<p >These tests verify that the proc system correctly integrates:</p><ul>
+<li><a class="el" href="../../d7/de7/a11768.html">SpellProcEntry</a> configuration</li>
+<li>CanSpellTriggerProcOnEvent logic</li>
+<li>Proc flag combinations</li>
+<li><a class="el" href="../../dc/d5d/a11692.html">Spell</a> family matching</li>
+<li>Hit mask filtering </li>
 </ul>
-</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad729e5f44922b9b6c44c9a4d732818e7" name="ad729e5f44922b9b6c44c9a4d732818e7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad729e5f44922b9b6c44c9a4d732818e7">&#9670;&#160;</a></span>ProcChainGuardSimulator()</h2>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5d3dc5ba1a52545537d327fec12ea1cb" name="a5d3dc5ba1a52545537d327fec12ea1cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d3dc5ba1a52545537d327fec12ea1cb">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -170,7 +165,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ProcChainGuardSimulator::ProcChainGuardSimulator </td>
+          <td class="memname">void SpellProcIntegrationTest::SetUp </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -178,265 +173,16 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  719</span>: <a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a>(0) {}</div>
-<div class="ttc" id="aa29572_html_a5fd0de564b32520971082df9620d40b4"><div class="ttname"><a href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">ProcChainGuardSimulator::_procDeep</a></div><div class="ttdeci">int32 _procDeep</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:778</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
+<div class="line"><span class="lineno">   40</span>        <a class="code hl_function" href="../../d6/ddd/a29164.html#a65b0d4a0beb4c2f986f71ff5732e0f3c">AuraScriptProcTestFixture::SetUp</a>();</div>
+<div class="line"><span class="lineno">   41</span>    }</div>
+<div class="ttc" id="aa29164_html_a65b0d4a0beb4c2f986f71ff5732e0f3c"><div class="ttname"><a href="../../d6/ddd/a29164.html#a65b0d4a0beb4c2f986f71ff5732e0f3c">AuraScriptProcTestFixture::SetUp</a></div><div class="ttdeci">void SetUp() override</div><div class="ttdef"><b>Definition:</b> AuraScriptTestFramework.h:145</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a267703c4a51bf3e8020e3298c85b74b3" name="a267703c4a51bf3e8020e3298c85b74b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a267703c4a51bf3e8020e3298c85b74b3">&#9670;&#160;</a></span>CanProc()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool ProcChainGuardSimulator::CanProc </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  767</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a> == 0; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">_procDeep</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00728">SimulateTriggerAurasProc()</a>.</p>
-
-</div>
-</div>
-<a id="afe8e4320a882c474f883347860ad4d47" name="afe8e4320a882c474f883347860ad4d47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afe8e4320a882c474f883347860ad4d47">&#9670;&#160;</a></span>GetProcDeep()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ProcChainGuardSimulator::GetProcDeep </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  766</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">_procDeep</a>.</p>
-
-</div>
-</div>
-<a id="ae21baa9f43fb78e30dedfc6608684e9e" name="ae21baa9f43fb78e30dedfc6608684e9e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae21baa9f43fb78e30dedfc6608684e9e">&#9670;&#160;</a></span>GetRecords()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt; <a class="el" href="../../d4/df9/a29580.html">ProcRecord</a> &gt; const  &amp; ProcChainGuardSimulator::GetRecords </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  762</span>    {</div>
-<div class="line"><span class="lineno">  763</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d46/a29572.html#abdecfb4d1da86f5a5d4cd7c92c228617">_records</a>;</div>
-<div class="line"><span class="lineno">  764</span>    }</div>
-<div class="ttc" id="aa29572_html_abdecfb4d1da86f5a5d4cd7c92c228617"><div class="ttname"><a href="../../de/d46/a29572.html#abdecfb4d1da86f5a5d4cd7c92c228617">ProcChainGuardSimulator::_records</a></div><div class="ttdeci">std::vector&lt; ProcRecord &gt; _records</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:779</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00779">_records</a>.</p>
-
-</div>
-</div>
-<a id="ab479d1a30e547ce04775abe397cfea14" name="ab479d1a30e547ce04775abe397cfea14"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab479d1a30e547ce04775abe397cfea14">&#9670;&#160;</a></span>SetCantProc()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ProcChainGuardSimulator::SetCantProc </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>apply</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  771</span>    {</div>
-<div class="line"><span class="lineno">  772</span>        <span class="keywordflow">if</span> (apply)</div>
-<div class="line"><span class="lineno">  773</span>            ++<a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a>;</div>
-<div class="line"><span class="lineno">  774</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  775</span>            --<a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a>;</div>
-<div class="line"><span class="lineno">  776</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">_procDeep</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00728">SimulateTriggerAurasProc()</a>.</p>
-
-</div>
-</div>
-<a id="ab0a0af1461f0f94a87273f468bc5454d" name="ab0a0af1461f0f94a87273f468bc5454d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab0a0af1461f0f94a87273f468bc5454d">&#9670;&#160;</a></span>SimulateTriggerAurasProc()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ProcChainGuardSimulator::SimulateTriggerAurasProc </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>triggeringSpellHasDisallowProcEvents</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::vector&lt; <a class="el" href="../../d9/d53/a29576.html">AuraConfig</a> &gt; const &amp;&#160;</td>
-          <td class="paramname"><em>auras</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Simulate <a class="el" href="../../d7/d19/a08988.html#ae70846e14ba5bb30c24ed937e2e1ec7d">Unit::TriggerAurasProcOnEvent</a>. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">triggeringSpellHasDisallowProcEvents</td><td>Whether the triggering spell has TRIGGERED_DISALLOW_PROC_EVENTS cast flag </td></tr>
-    <tr><td class="paramname">auras</td><td>List of auras in the proc container </td></tr>
-  </table>
-  </dd>
-</dl>
-<div class="fragment"><div class="line"><span class="lineno">  731</span>    {</div>
-<div class="line"><span class="lineno">  732</span>        <a class="code hl_variable" href="../../de/d46/a29572.html#abdecfb4d1da86f5a5d4cd7c92c228617">_records</a>.clear();</div>
-<div class="line"><span class="lineno">  733</span> </div>
-<div class="line"><span class="lineno">  734</span>        <span class="keywordtype">bool</span> <span class="keyword">const</span> disableProcs = triggeringSpellHasDisallowProcEvents;</div>
-<div class="line"><span class="lineno">  735</span>        <span class="keywordflow">if</span> (disableProcs)</div>
-<div class="line"><span class="lineno">  736</span>            <a class="code hl_function" href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">SetCantProc</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  737</span> </div>
-<div class="line"><span class="lineno">  738</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; aura : auras)</div>
-<div class="line"><span class="lineno">  739</span>        {</div>
-<div class="line"><span class="lineno">  740</span>            <span class="keywordflow">if</span> (aura.isRemoved)</div>
-<div class="line"><span class="lineno">  741</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  742</span> </div>
-<div class="line"><span class="lineno">  743</span>            <span class="keywordflow">if</span> (aura.hasInstantTargetProcs)</div>
-<div class="line"><span class="lineno">  744</span>                <a class="code hl_function" href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">SetCantProc</a>(<span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  745</span> </div>
-<div class="line"><span class="lineno">  746</span>            <span class="comment">// Record CanProc() state during TriggerProcOnEvent</span></div>
-<div class="line"><span class="lineno">  747</span>            <a class="code hl_variable" href="../../de/d46/a29572.html#abdecfb4d1da86f5a5d4cd7c92c228617">_records</a>.push_back({</div>
-<div class="line"><span class="lineno">  748</span>                aura.spellId,</div>
-<div class="line"><span class="lineno">  749</span>                <a class="code hl_function" href="../../de/d46/a29572.html#a267703c4a51bf3e8020e3298c85b74b3">CanProc</a>(),</div>
-<div class="line"><span class="lineno">  750</span>                <a class="code hl_variable" href="../../de/d46/a29572.html#a5fd0de564b32520971082df9620d40b4">_procDeep</a></div>
-<div class="line"><span class="lineno">  751</span>            });</div>
-<div class="line"><span class="lineno">  752</span> </div>
-<div class="line"><span class="lineno">  753</span>            <span class="keywordflow">if</span> (aura.hasInstantTargetProcs)</div>
-<div class="line"><span class="lineno">  754</span>                <a class="code hl_function" href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">SetCantProc</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  755</span>        }</div>
-<div class="line"><span class="lineno">  756</span> </div>
-<div class="line"><span class="lineno">  757</span>        <span class="keywordflow">if</span> (disableProcs)</div>
-<div class="line"><span class="lineno">  758</span>            <a class="code hl_function" href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">SetCantProc</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  759</span>    }</div>
-<div class="ttc" id="aa29572_html_a267703c4a51bf3e8020e3298c85b74b3"><div class="ttname"><a href="../../de/d46/a29572.html#a267703c4a51bf3e8020e3298c85b74b3">ProcChainGuardSimulator::CanProc</a></div><div class="ttdeci">bool CanProc() const</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:767</div></div>
-<div class="ttc" id="aa29572_html_ab479d1a30e547ce04775abe397cfea14"><div class="ttname"><a href="../../de/d46/a29572.html#ab479d1a30e547ce04775abe397cfea14">ProcChainGuardSimulator::SetCantProc</a></div><div class="ttdeci">void SetCantProc(bool apply)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:770</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00778">_procDeep</a>, <a class="el" href="../../#l00779">_records</a>, <a class="el" href="../../#l00767">CanProc()</a>, and <a class="el" href="../../#l00770">SetCantProc()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5fd0de564b32520971082df9620d40b4" name="a5fd0de564b32520971082df9620d40b4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fd0de564b32520971082df9620d40b4">&#9670;&#160;</a></span>_procDeep</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d1a/a00485.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ProcChainGuardSimulator::_procDeep</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00767">CanProc()</a>, <a class="el" href="../../#l00766">GetProcDeep()</a>, <a class="el" href="../../#l00770">SetCantProc()</a>, and <a class="el" href="../../#l00728">SimulateTriggerAurasProc()</a>.</p>
-
-</div>
-</div>
-<a id="abdecfb4d1da86f5a5d4cd7c92c228617" name="abdecfb4d1da86f5a5d4cd7c92c228617"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abdecfb4d1da86f5a5d4cd7c92c228617">&#9670;&#160;</a></span>_records</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d4/df9/a29580.html">ProcRecord</a>&gt; ProcChainGuardSimulator::_records</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00761">GetRecords()</a>, and <a class="el" href="../../#l00728">SimulateTriggerAurasProc()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">AuraScriptProcTestFixture::SetUp()</a>.</p>
 
 </div>
 </div>
@@ -445,8 +191,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d46/a29572.html">ProcChainGuardSimulator</a></li>
-    <li class="footer">Generated on Mon Mar 2 2026 21:05:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d46/a29572.html">SpellProcIntegrationTest</a></li>
+    <li class="footer">Generated on Mon Jun 1 2026 22:46:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

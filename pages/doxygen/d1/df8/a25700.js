@@ -1,6 +1,6 @@
 var a25700 =
 [
-    [ "CheckCast", "d1/df8/a25700.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
-    [ "PrepareSpellScript", "d1/df8/a25700.html#a481f9d36567607697c3ad5d9501bba48", null ],
-    [ "Register", "d1/df8/a25700.html#afff66ccf4f6596475f4b58c529472f26", null ]
+    [ "CheckSinkholes", "d1/df8/a25700.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d1/df8/a25700.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d1/df8/a25700.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

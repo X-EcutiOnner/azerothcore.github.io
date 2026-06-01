@@ -1,9 +1,10 @@
 var a20684 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "d3/d48/a20684.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "d3/d48/a20684.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "d3/d48/a20684.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "d3/d48/a20684.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "d3/d48/a20684.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "d3/d48/a20684.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "boss_yoggsaron_immortal_guardian", "d3/d48/a20684.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "d3/d48/a20684.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "d3/d48/a20684.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "d3/d48/a20684.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "d3/d48/a20684.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "d3/d48/a20684.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "d3/d48/a20684.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

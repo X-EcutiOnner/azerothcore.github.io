@@ -1,10 +1,7 @@
 var a15872 =
 [
-    [ "npc_rabid_thistle_bearAI", "d9/d47/a15872.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d9/d47/a15872.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d9/d47/a15872.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d9/d47/a15872.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d9/d47/a15872.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d9/d47/a15872.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d9/d47/a15872.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_thrall_warchiefAI", "d1/d97/a15876.html", "d1/d97/a15876" ],
+    [ "npc_thrall_warchief", "d9/d47/a15872.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
+    [ "GetAI", "d9/d47/a15872.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
+    [ "OnQuestReward", "d9/d47/a15872.html#a6576664c201d62cab1fa2f073cddee6e", null ]
 ];

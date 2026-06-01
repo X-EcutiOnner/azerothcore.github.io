@@ -1,5 +1,5 @@
 var a28000 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "de/d33/a28000.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "de/d33/a28000.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "item_disgusting_jar", "de/d33/a28000.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "de/d33/a28000.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

@@ -1,7 +1,6 @@
 var a11576 =
 [
-    [ "effectMask", "d5/d6b/a11576.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d5/d6b/a11576.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d5/d6b/a11576.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d5/d6b/a11576.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "WorldSession", "d5/d6b/a11576.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d5/d6b/a11576.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d5/d6b/a11576.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

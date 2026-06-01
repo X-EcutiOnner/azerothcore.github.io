@@ -1,11 +1,9 @@
 var a20672 =
 [
-    [ "npc_ulduar_expedition_engineer", "d6/dfa/a20672.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "d6/dfa/a20672.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "d6/dfa/a20672.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "d6/dfa/a20672.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "d6/dfa/a20672.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "d6/dfa/a20672.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "d6/dfa/a20672.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "d6/dfa/a20672.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "boss_yoggsaron_keeper", "d6/dfa/a20672.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d6/dfa/a20672.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d6/dfa/a20672.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d6/dfa/a20672.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d6/dfa/a20672.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d6/dfa/a20672.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

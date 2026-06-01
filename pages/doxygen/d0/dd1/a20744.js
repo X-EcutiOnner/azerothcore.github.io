@@ -1,5 +1,6 @@
 var a20744 =
 [
-    [ "go_thorim_lever", "d0/dd1/a20744.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "d0/dd1/a20744.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "OnRemove", "d0/dd1/a20744.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "d0/dd1/a20744.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "d0/dd1/a20744.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

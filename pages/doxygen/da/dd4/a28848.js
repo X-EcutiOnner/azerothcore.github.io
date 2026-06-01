@@ -1,6 +1,6 @@
 var a28848 =
 [
-    [ "ForceInitValues", "da/dd4/a28848.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "da/dd4/a28848.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "da/dd4/a28848.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "ID", "da/dd4/a28848.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "da/dd4/a28848.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "da/dd4/a28848.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

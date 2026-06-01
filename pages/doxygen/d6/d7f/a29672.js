@@ -1,6 +1,6 @@
 var a29672 =
 [
-    [ "hasAttr", "d6/d7f/a29672.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "d6/d7f/a29672.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
-    [ "spellId", "d6/d7f/a29672.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "OffsetAttributes", "d6/d7f/a29672.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "d6/d7f/a29672.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "d6/d7f/a29672.html#a20a458e613639ea26255dd772824a642", null ]
 ];

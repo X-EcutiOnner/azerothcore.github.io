@@ -1,9 +1,8 @@
 var a09600 =
 [
-    [ "AnyFriendlyUnitInObjectRangeCheck", "d8/ddc/a09600.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
-    [ "operator()", "d8/ddc/a09600.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
-    [ "i_funit", "d8/ddc/a09600.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
-    [ "i_obj", "d8/ddc/a09600.html#adacade7450b0af19540ea705e1bd438b", null ],
-    [ "i_playerOnly", "d8/ddc/a09600.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
-    [ "i_range", "d8/ddc/a09600.html#a2af638499152888a698b0fc1570e46ed", null ]
+    [ "CreatureWorker", "d8/ddc/a09600.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d8/ddc/a09600.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d8/ddc/a09600.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d8/ddc/a09600.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d8/ddc/a09600.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

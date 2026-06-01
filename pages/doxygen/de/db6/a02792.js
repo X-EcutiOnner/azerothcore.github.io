@@ -1,9 +1,8 @@
 var a02792 =
 [
-    [ "SQLElementData", "de/d33/a06154.html", "de/d33/a06154" ],
-    [ "SQLOperation", "d6/d0c/a06158.html", "d6/d0c/a06158" ],
-    [ "SQLElementDataType", "de/db6/a02792.html#abb4a6cfcce013f18b29779f1f435e627", [
-      [ "SQL_ELEMENT_RAW", "de/db6/a02792.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
-      [ "SQL_ELEMENT_PREPARED", "de/db6/a02792.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
-    ] ]
+    [ "GUID_TRAIT_INSTANTIATE_GUID", "de/db6/a02792.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
+    [ "operator<<", "de/db6/a02792.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "de/db6/a02792.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "de/db6/a02792.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "de/db6/a02792.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

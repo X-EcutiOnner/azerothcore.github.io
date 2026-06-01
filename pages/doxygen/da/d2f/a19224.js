@@ -1,7 +1,6 @@
 var a19224 =
 [
-    [ "HandleDummy", "da/d2f/a19224.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "da/d2f/a19224.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "da/d2f/a19224.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "da/d2f/a19224.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "boss_four_horsemenAI", "d2/ddc/a19228.html", "d2/ddc/a19228" ],
+    [ "boss_four_horsemen", "da/d2f/a19224.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "da/d2f/a19224.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

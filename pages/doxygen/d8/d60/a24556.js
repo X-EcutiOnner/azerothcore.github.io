@@ -1,8 +1,7 @@
 var a24556 =
 [
-    [ "HandleDamage", "d8/d60/a24556.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d8/d60/a24556.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d8/d60/a24556.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d8/d60/a24556.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d8/d60/a24556.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "HandleProc", "d8/d60/a24556.html#a0f6b9ad6208ff008ac71161e6062158f", null ],
+    [ "PrepareAuraScript", "d8/d60/a24556.html#a3dad1a05159064843463c3d043f2c161", null ],
+    [ "Register", "d8/d60/a24556.html#a0ab7dd9dc217b31ca1f9b25505f6b22e", null ],
+    [ "Validate", "d8/d60/a24556.html#ab7b1f2a007eef4dca7194dc534a5e6fe", null ]
 ];

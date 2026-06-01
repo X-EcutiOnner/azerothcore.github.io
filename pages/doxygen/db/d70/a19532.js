@@ -1,15 +1,15 @@
 var a19532 =
 [
-    [ "boss_kelthuzad_minionAI", "db/d70/a19532.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "db/d70/a19532.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "db/d70/a19532.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "db/d70/a19532.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "db/d70/a19532.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "db/d70/a19532.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "db/d70/a19532.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "db/d70/a19532.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "db/d70/a19532.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "db/d70/a19532.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "db/d70/a19532.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "db/d70/a19532.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "instance_eye_of_eternity", "db/d70/a19532.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
+    [ "CheckAchievementCriteriaMeet", "db/d70/a19532.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
+    [ "GetGuidData", "db/d70/a19532.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
+    [ "OnCreatureCreate", "db/d70/a19532.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
+    [ "OnGameObjectCreate", "db/d70/a19532.html#a276b14a880ac762439213f85b17c5b8b", null ],
+    [ "OnPlayerEnter", "db/d70/a19532.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
+    [ "ProcessEvent", "db/d70/a19532.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
+    [ "SetBossState", "db/d70/a19532.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
+    [ "SetData", "db/d70/a19532.html#a361bf36921e723ff38005d43be1c900b", null ],
+    [ "VortexHandling", "db/d70/a19532.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
+    [ "_pokeAchievementValid", "db/d70/a19532.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
+    [ "_vortexTriggers", "db/d70/a19532.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
 ];

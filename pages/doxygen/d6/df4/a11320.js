@@ -1,6 +1,5 @@
 var a11320 =
 [
-    [ "PetUnlearnedSpell", "d6/df4/a11320.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d6/df4/a11320.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d6/df4/a11320.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "DurabilityDamageDeath", "d6/df4/a11320.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "d6/df4/a11320.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

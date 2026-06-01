@@ -1,5 +1,6 @@
 var a28236 =
 [
-    [ "go_scourge_cage", "da/d49/a28236.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "da/d49/a28236.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "npc_stable_masterAI", "da/d64/a28240.html", "da/d64/a28240" ],
+    [ "npc_stable_master", "da/d49/a28236.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "da/d49/a28236.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

@@ -1,12 +1,5 @@
 var a13244 =
 [
-    [ "boss_bigbadwolf", "db/d49/a13244.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "db/d49/a13244.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "db/d49/a13244.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "db/d49/a13244.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "db/d49/a13244.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "db/d49/a13244.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "db/d49/a13244.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "db/d49/a13244.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "db/d49/a13244.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_eramas_brightblaze", "db/d49/a13244.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "db/d49/a13244.html#ad34613d2795f7371a43891488044392a", null ]
 ];

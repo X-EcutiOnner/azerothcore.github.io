@@ -1,10 +1,6 @@
 var a16508 =
 [
-    [ "npc_xerestraszaAI", "d5/d35/a16508.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d5/d35/a16508.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d5/d35/a16508.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d5/d35/a16508.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d5/d35/a16508.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d5/d35/a16508.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d5/d35/a16508.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "npc_living_infernoAI", "d5/d35/a16508.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d5/d35/a16508.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d5/d35/a16508.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

@@ -1,13 +1,16 @@
 var a13648 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d8/d1b/a13648.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "d8/d1b/a13648.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "d8/d1b/a13648.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "d8/d1b/a13648.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "d8/d1b/a13648.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "d8/d1b/a13648.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "d8/d1b/a13648.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "d8/d1b/a13648.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "d8/d1b/a13648.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "d8/d1b/a13648.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "boss_felmyst", "d8/d1b/a13648.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "d8/d1b/a13648.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "d8/d1b/a13648.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "d8/d1b/a13648.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "d8/d1b/a13648.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "d8/d1b/a13648.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "d8/d1b/a13648.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "d8/d1b/a13648.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "d8/d1b/a13648.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "d8/d1b/a13648.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "d8/d1b/a13648.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "d8/d1b/a13648.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "d8/d1b/a13648.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

@@ -1,11 +1,13 @@
 var a28948 =
 [
-    [ "icon", "d0/db3/a28948.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "d0/db3/a28948.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "d0/db3/a28948.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "d0/db3/a28948.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "d0/db3/a28948.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "d0/db3/a28948.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "d0/db3/a28948.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "d0/db3/a28948.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "AcquireMethod", "d0/db3/a28948.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
+    [ "ClassMask", "d0/db3/a28948.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
+    [ "ID", "d0/db3/a28948.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
+    [ "MinSkillLineRank", "d0/db3/a28948.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
+    [ "RaceMask", "d0/db3/a28948.html#acfd38780584b90ca40a1e1cd59605832", null ],
+    [ "SkillLine", "d0/db3/a28948.html#a0050dcf5c82f785dfc93079debe54a13", null ],
+    [ "Spell", "d0/db3/a28948.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
+    [ "SupercededBySpell", "d0/db3/a28948.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
+    [ "TrivialSkillLineRankHigh", "d0/db3/a28948.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
+    [ "TrivialSkillLineRankLow", "d0/db3/a28948.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
 ];

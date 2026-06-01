@@ -1,6 +1,7 @@
 var a11740 =
 [
-    [ "ObjectTargetSelectHandler", "d2/d0a/a11740.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "d2/d0a/a11740.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "d2/d0a/a11740.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "DiminishDurationLimit", "d2/d0a/a11740.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "d2/d0a/a11740.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "d2/d0a/a11740.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "d2/d0a/a11740.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

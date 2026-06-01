@@ -1,36 +1,72 @@
 var a01934 =
 [
-    [ "BfCapturePoint", "db/d86/a07466.html", "db/d86/a07466" ],
-    [ "BfGraveyard", "d8/dd6/a07470.html", "d8/dd6/a07470" ],
-    [ "Battlefield", "d4/d7b/a07474.html", "d4/d7b/a07474" ],
-    [ "GraveyardVect", "de/da9/a01934.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
-    [ "PlayerTimerMap", "de/da9/a01934.html#afedbb171b4e4bd0bce549b015440ce95", null ],
-    [ "BattlefieldIDs", "de/da9/a01934.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "de/da9/a01934.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "npc_murkdeep", "d8/d4e/a15720.html", "d8/d4e/a15720" ],
+    [ "npc_murkdeep::npc_murkdeepAI", "d8/da8/a15724.html", "d8/da8/a15724" ],
+    [ "npc_kerlonian", "d8/d57/a15728.html", "d8/d57/a15728" ],
+    [ "npc_kerlonian::npc_kerlonianAI", "df/d8b/a15732.html", "df/d8b/a15732" ],
+    [ "npc_prospector_remtravel", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
+    [ "npc_prospector_remtravel::npc_prospector_remtravelAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
+    [ "npc_rabid_thistle_bear", "dd/d34/a15744.html", "dd/d34/a15744" ],
+    [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "d0/d96/a15748.html", "d0/d96/a15748" ],
+    [ "npc_tharnarian", "dd/d49/a15752.html", "dd/d49/a15752" ],
+    [ "npc_tharnarian::npc_tharnarianAI", "d8/d50/a15756.html", "d8/d50/a15756" ],
+    [ "eRabidThistleBear", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113", [
+      [ "EVENT_CHECK_FOLLOWING", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773", null ],
+      [ "NPC_RABID_THISTLE_BEAR", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29", null ],
+      [ "NPC_CAPTURED_RABID_THISTLE_BEAR", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a82376446e39e8a31814c9a9bdbb072cd", null ],
+      [ "OBJECT_BEAR_TRAP", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a582cc04fae035c7d569841f59fc2e7ec", null ],
+      [ "QUEST_PLAGUED_LANDS", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a7e08bbd5183ab9db7b82183b0e522ced", null ],
+      [ "SPELL_BEAR_CAPTURED_IN_TRAP", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973", null ],
+      [ "SPELL_THARNARIUMS_HEAL", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "de/da9/a01934.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    [ "eTharnarian", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8d", [
+      [ "EVENT_POST_QUEST_ONE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da8f0c38f6926a9d2ea4c92a385b85576e", null ],
+      [ "EVENT_POST_QUEST_TWO", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da8a18edfe68309d79d2422870dfeb24fa", null ],
+      [ "EVENT_POST_QUEST_THREE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8daa0a2f7760b9fc9df9d7b4255b3976abe", null ],
+      [ "ITEM_THARNARIUMS_HOPE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8dac5c8eb102b15e74d556b069cac6ddc25", null ],
+      [ "GUID_SCRIPT_INVOKER", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0", null ],
+      [ "SAY_BE_CLEANSED", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8daffaa4db0aeaf6f79c1138ddb1c41ba00", null ]
     ] ],
-    [ "BattlefieldSounds", "de/da9/a01934.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "de/da9/a01934.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "de/da9/a01934.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "de/da9/a01934.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    [ "Kerlonian", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39b", [
+      [ "SAY_KER_START", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39babc3ac66a100caa89874b07646256039b", null ],
+      [ "EMOTE_KER_SLEEP", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39baded26e804078d12b45f712b505fbf25e", null ],
+      [ "SAY_KER_SLEEP", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bab9c834eabdfaafbe7767d905507ca5ad", null ],
+      [ "SAY_KER_ALERT_1", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba36911462093829fe884e4cb6a2e127af", null ],
+      [ "SAY_KER_END", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39baf7e03539ce3753f881a9dd3e893b7ba3", null ],
+      [ "EMOTE_KER_AWAKEN", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bac2881d53a673452d7258ee2bef83a84f", null ],
+      [ "SPELL_SLEEP_VISUAL", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba1f4283bc035f04b15b35f91f5bdbea9a", null ],
+      [ "SPELL_AWAKEN", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba76e1fd225869c359917096a4030f4799", null ],
+      [ "SPELL_BEAR_FORM", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba3061724d7785d585b14cfc45699157cf", null ],
+      [ "QUEST_SLEEPER_AWAKENED", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba702550ccecae90a75919e9f9b665d436", null ],
+      [ "NPC_LILADRIS", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bab51082ac5d4aacd1d44e0406af8e5358", null ]
     ] ],
-    [ "BattlefieldTimerGroups", "de/da9/a01934.html#a77a99318a19e388592eb16534ef2005a", [
-      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "de/da9/a01934.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_WAR", "de/da9/a01934.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "de/da9/a01934.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
+    [ "murkdeep", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22", [
+      [ "NPC_GREYMIST_HUNTER", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a7baf0aab301c57d676de1ce0f3a36839", null ],
+      [ "NPC_GREYMIST_WARRIOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22ab68a89ef67b8c9488015e04f7631d449", null ],
+      [ "NPC_GREYMIST_COASTRUNNER", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a7ca2c4b7931eee3f66055780c5e0ebac", null ],
+      [ "SPELL_SUNDER_ARMOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a99eaf912c120c7fa6d85748ebf96aebb", null ],
+      [ "SPELL_NET", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22ad629b7c9e5a74890e7d6a77a13a38bcf", null ],
+      [ "EVENT_SPELL_SUNDER_ARMOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22acda9c7ee6bb48504f6800c78f59f881a", null ],
+      [ "EVENT_SPELL_NET", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a3390cb09d109972288a2c865f7ce297d", null ]
     ] ],
-    [ "BattlefieldTypes", "de/da9/a01934.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "de/da9/a01934.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "de/da9/a01934.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    [ "Remtravel", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56", [
+      [ "SAY_REM_START", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a62a229671a25cfaddf81e1a1cc12742d", null ],
+      [ "SAY_REM_AGGRO", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aed18934bce8f8e8f07d934c5ade27be4", null ],
+      [ "SAY_REM_RAMP1_1", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a563fab7afb0590de4521bbd73728998b", null ],
+      [ "SAY_REM_RAMP1_2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a4e8e2f5b39b89c40c050971d3767a745", null ],
+      [ "SAY_REM_BOOK", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a965facd3db5184c90115e1a829b99cf0", null ],
+      [ "SAY_REM_TENT1_1", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56ad3345c1e7f8e714d0e9118c1c1ccdb79", null ],
+      [ "SAY_REM_TENT1_2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aa157db4b86b4d1de81e174d18934d2dc", null ],
+      [ "SAY_REM_MOSS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a538e937677e0f34b53fd87d21dede8bb", null ],
+      [ "EMOTE_REM_MOSS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a33b775990c585ad8d13c71081dc3b1c4", null ],
+      [ "SAY_REM_MOSS_PROGRESS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a1275f169479aee3e508a7c8cc63528ae", null ],
+      [ "SAY_REM_PROGRESS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56afe4a0e889c848aa951c477b92846a808", null ],
+      [ "SAY_REM_REMEMBER", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56ac35ea1e7f866d747cbdee9f0d5bb6bac", null ],
+      [ "EMOTE_REM_END", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a3d07e1988da097fde7e1fb3b569be5ef", null ],
+      [ "QUEST_ABSENT_MINDED_PT2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aef8f51392044131efa5c56c2e87b1185", null ],
+      [ "NPC_GRAVEL_SCOUT", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aed815d857586fe880614e6b84a935d35", null ],
+      [ "NPC_GRAVEL_BONE", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a720b19c0296bc27aa09d85fc7c020307", null ],
+      [ "NPC_GRAVEL_GEO", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a33fbb8b046204271ed26d265cbf6c9d3", null ]
     ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "de/da9/a01934.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "de/da9/a01934.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "AddSC_darkshore", "de/da9/a01934.html#aea2746bdf2fc046053c962d9025651d1", null ]
 ];

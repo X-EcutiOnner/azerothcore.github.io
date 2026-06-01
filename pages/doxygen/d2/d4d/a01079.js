@@ -1,7 +1,10 @@
 var a01079 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d9/d64/a10838.html", "d9/d64/a10838" ],
-    [ "WorldPackets::Calendar::GuildFilter", "da/dce/a10842.html", "da/dce/a10842" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d5/d56/a10846.html", "d5/d56/a10846" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "d1/d17/a10850.html", "d1/d17/a10850" ]
+    [ "spell_utgarde_pinnacle_beast_mark", "d1/d91/a21024.html", "d1/d91/a21024" ],
+    [ "UtgardeSpells", "d2/d4d/a01079.html#ae8fa29243650c07aed99f9ee3cad321a", [
+      [ "SPELL_BEAST_MARK_NORMAL", "d2/d4d/a01079.html#ae8fa29243650c07aed99f9ee3cad321aa515971380a351ffe4dc21aefd7d9a8aa", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_N", "d2/d4d/a01079.html#ae8fa29243650c07aed99f9ee3cad321aa519ee30eba59f71f788bd5aaa9ea8a4f", null ],
+      [ "SPELL_BEAST_MARK_DAMAGE_H", "d2/d4d/a01079.html#ae8fa29243650c07aed99f9ee3cad321aa28cc83c9c8ba75d8dd51298affc35aa7", null ]
+    ] ],
+    [ "AddSC_utgarde_pinnacle", "d2/d4d/a01079.html#aa865b80ad4fb44b0c96fa45f08d06d71", null ]
 ];

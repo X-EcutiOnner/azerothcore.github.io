@@ -1,5 +1,8 @@
 var a06416 =
 [
-    [ "Effects", "dd/daf/a06416.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
-    [ "Targets", "dd/daf/a06416.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
+    [ "PassiveAI", "dd/daf/a06416.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "dd/daf/a06416.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "dd/daf/a06416.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "dd/daf/a06416.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "dd/daf/a06416.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

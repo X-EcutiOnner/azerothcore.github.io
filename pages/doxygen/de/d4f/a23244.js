@@ -1,7 +1,6 @@
 var a23244 =
 [
-    [ "go_ahune_ice_spear", "de/d4f/a23244.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "de/d4f/a23244.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "de/d4f/a23244.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "de/d4f/a23244.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d2c/a23248.html", "d4/d2c/a23248" ],
+    [ "instance_hellfire_ramparts", "de/d4f/a23244.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "de/d4f/a23244.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

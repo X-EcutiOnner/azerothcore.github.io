@@ -1,6 +1,6 @@
 var a20348 =
 [
-    [ "achievement_freya_knock_on_wood", "d3/dc3/a20348.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "d3/dc3/a20348.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "d3/dc3/a20348.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "OnRemoveStun", "d3/dc3/a20348.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d3/dc3/a20348.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d3/dc3/a20348.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

@@ -1,10 +1,10 @@
 var a09340 =
 [
-    [ "iterator", "d3/d98/a09340.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d3/d98/a09340.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d3/d98/a09340.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d3/d98/a09340.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d3/d98/a09340.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d3/d98/a09340.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d3/d98/a09340.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "creatureRate", "d3/d98/a09340.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d3/d98/a09340.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d3/d98/a09340.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d3/d98/a09340.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d3/d98/a09340.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d3/d98/a09340.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d3/d98/a09340.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

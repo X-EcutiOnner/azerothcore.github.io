@@ -1,11 +1,6 @@
 var a13732 =
 [
-    [ "boss_alythess", "de/d2f/a13732.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "de/d2f/a13732.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "de/d2f/a13732.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "de/d2f/a13732.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "de/d2f/a13732.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "de/d2f/a13732.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "de/d2f/a13732.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "de/d2f/a13732.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "HandlePeriodic", "de/d2f/a13732.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "de/d2f/a13732.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "de/d2f/a13732.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

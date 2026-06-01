@@ -1,6 +1,6 @@
 var a21728 =
 [
-    [ "npc_heated_battleAI", "df/d22/a21728.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "df/d22/a21728.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "df/d22/a21728.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "npc_llod_genericAI", "d3/d4b/a21732.html", "d3/d4b/a21732" ],
+    [ "npc_llod_generic", "df/d22/a21728.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "df/d22/a21728.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

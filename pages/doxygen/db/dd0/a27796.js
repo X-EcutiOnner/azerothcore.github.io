@@ -1,7 +1,5 @@
 var a27796 =
 [
-    [ "HandleDummy", "db/dd0/a27796.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "db/dd0/a27796.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "db/dd0/a27796.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "db/dd0/a27796.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "go_ethereum_stasis", "db/dd0/a27796.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "db/dd0/a27796.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

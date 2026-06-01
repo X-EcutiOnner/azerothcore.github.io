@@ -1,13 +1,11 @@
 var a09012 =
 [
-    [ "BuildValuesCachePosPointers", "d4/d5d/a09012.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d4/d5d/a09012.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d4/d5d/a09012.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d4/d5d/a09012.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d4/d5d/a09012.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d4/d5d/a09012.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d4/d5d/a09012.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d4/d5d/a09012.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d4/d5d/a09012.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d4/d5d/a09012.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "UnitActionBarEntry", "d4/d5d/a09012.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d4/d5d/a09012.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d4/d5d/a09012.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d4/d5d/a09012.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d4/d5d/a09012.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d4/d5d/a09012.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d4/d5d/a09012.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d4/d5d/a09012.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

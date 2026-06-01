@@ -1,6 +1,8 @@
 var a16760 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "db/d4f/a16764.html", "db/d4f/a16764" ],
-    [ "npc_toc5_grand_champion_minion", "d9/dc4/a16760.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d9/dc4/a16760.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "npc_toc_warlockAI", "d9/dc4/a16760.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d9/dc4/a16760.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d9/dc4/a16760.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d9/dc4/a16760.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d9/dc4/a16760.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

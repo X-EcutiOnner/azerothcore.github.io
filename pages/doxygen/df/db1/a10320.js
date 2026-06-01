@@ -1,7 +1,15 @@
 var a10320 =
 [
-    [ "TransportPathTransform", "df/db1/a10320.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "df/db1/a10320.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "df/db1/a10320.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "df/db1/a10320.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "EscortMovementGenerator", "df/db1/a10320.html#a91a6caae81e7715fdcf4c7134f88bc0b", null ],
+    [ "DoFinalize", "df/db1/a10320.html#a4c191a86f5ecc30ae5b34d7578d58d3e", null ],
+    [ "DoInitialize", "df/db1/a10320.html#ad068798c6e186c1eb1a79f3872955e97", null ],
+    [ "DoReset", "df/db1/a10320.html#ac4934d70ab62e08488cfc29c13355a7f", null ],
+    [ "DoUpdate", "df/db1/a10320.html#a524bb8f72836dc5d1b63e429436b3a77", null ],
+    [ "GetMovementGeneratorType", "df/db1/a10320.html#a0733162a5a0cab2593150f288edeb27b", null ],
+    [ "GetSplineId", "df/db1/a10320.html#a61d74b098d1ae692ce305fa493aaa6d2", null ],
+    [ "unitSpeedChanged", "df/db1/a10320.html#a235e330c4c3368af00d37028915684ff", null ],
+    [ "_forcedMovement", "df/db1/a10320.html#a44019e4185abeb123a163a20c8f47d18", null ],
+    [ "_splineId", "df/db1/a10320.html#af6286fa4ed6afcc8a6c5f03575c774e6", null ],
+    [ "i_recalculateSpeed", "df/db1/a10320.html#a9f7048c5e49cc09f809496312a0c6550", null ],
+    [ "m_precomputedPath", "df/db1/a10320.html#a46eb2812a1b2a56e584b925cae2169eb", null ]
 ];

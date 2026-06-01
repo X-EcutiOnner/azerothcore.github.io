@@ -1,17 +1,25 @@
 var a04097 =
 [
-    [ "AddSC_deathknight_spell_scripts", "dd/d44/a04097.html#adcd4982e9aa1bb7ee8b4b39976cb7273", null ],
-    [ "AddSC_druid_spell_scripts", "dd/d44/a04097.html#a27c286499ee0c44de84c8f14e5c82d50", null ],
-    [ "AddSC_generic_spell_scripts", "dd/d44/a04097.html#ac2941716297c47e58e65de027a53ce16", null ],
-    [ "AddSC_hunter_spell_scripts", "dd/d44/a04097.html#af7e6bdb12ab989b575a1dca18382ea7c", null ],
-    [ "AddSC_item_spell_scripts", "dd/d44/a04097.html#a7c83be18daa3cdaab096b0caf49520a2", null ],
-    [ "AddSC_mage_spell_scripts", "dd/d44/a04097.html#a504d82c8e95f93fa88a54d34e919ed57", null ],
-    [ "AddSC_paladin_spell_scripts", "dd/d44/a04097.html#a1b3a1eb790e51c96829e92e5c922f437", null ],
-    [ "AddSC_priest_spell_scripts", "dd/d44/a04097.html#a0b0a2df1c9b8607784e59887025677c4", null ],
-    [ "AddSC_quest_spell_scripts", "dd/d44/a04097.html#aeb9d6863ab0326c3d6f1ac2c16d9f75c", null ],
-    [ "AddSC_rogue_spell_scripts", "dd/d44/a04097.html#a540405afe3345e19487d2db693272b2a", null ],
-    [ "AddSC_shaman_spell_scripts", "dd/d44/a04097.html#a3082f46075e4e453c37bc429c9d57a1a", null ],
-    [ "AddSC_warlock_spell_scripts", "dd/d44/a04097.html#a2054657c41c2347732a7d2903e3b8138", null ],
-    [ "AddSC_warrior_spell_scripts", "dd/d44/a04097.html#a9c003dba1ff10c2e27f5ee3d4109549f", null ],
-    [ "AddSpellsScripts", "dd/d44/a04097.html#aed7f09583615630437020215a3851296", null ]
+    [ "Socket< T >", "df/d22/a29092.html", "df/d22/a29092" ],
+    [ "READ_BLOCK_SIZE", "dd/d44/a04097.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
+    [ "IoContextTcpSocket", "dd/d44/a04097.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
+    [ "ProxyHeaderAddressFamilyAndProtocol", "dd/d44/a04097.html#a7ddce6d0420753babeb6258ada50eec1", [
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "dd/d44/a04097.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
+      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "dd/d44/a04097.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
+    ] ],
+    [ "ProxyHeaderReadingState", "dd/d44/a04097.html#aa514bb66fa404b5b180297bb005c3272", [
+      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "dd/d44/a04097.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
+      [ "PROXY_HEADER_READING_STATE_STARTED", "dd/d44/a04097.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
+      [ "PROXY_HEADER_READING_STATE_FINISHED", "dd/d44/a04097.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
+      [ "PROXY_HEADER_READING_STATE_FAILED", "dd/d44/a04097.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
+    ] ],
+    [ "SocketReadCallbackResult", "dd/d44/a04097.html#a28a77649fbf17e65bca542516efff3e3", [
+      [ "KeepReading", "dd/d44/a04097.html#a28a77649fbf17e65bca542516efff3e3a0d4c2f1850364968984f50e42be91be5", null ],
+      [ "Stop", "dd/d44/a04097.html#a28a77649fbf17e65bca542516efff3e3a11a755d598c0c417f9a36758c3da7481", null ]
+    ] ],
+    [ "SocketState", "dd/d44/a04097.html#af8f6bcfe82815814726ab4f90ea013e7", [
+      [ "Open", "dd/d44/a04097.html#af8f6bcfe82815814726ab4f90ea013e7ac3bf447eabe632720a3aa1a7ce401274", null ],
+      [ "Closing", "dd/d44/a04097.html#af8f6bcfe82815814726ab4f90ea013e7a5c8de6f894682fdb1786037b2040a26e", null ],
+      [ "Closed", "dd/d44/a04097.html#af8f6bcfe82815814726ab4f90ea013e7a03f4a47830f97377a35321051685071e", null ]
+    ] ]
 ];

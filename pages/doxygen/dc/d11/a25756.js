@@ -1,6 +1,10 @@
 var a25756 =
 [
-    [ "HandleDummyTick", "dc/d11/a25756.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "dc/d11/a25756.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "dc/d11/a25756.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "CalcPeriodic", "dc/d11/a25756.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "dc/d11/a25756.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "dc/d11/a25756.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "dc/d11/a25756.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "dc/d11/a25756.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "dc/d11/a25756.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "dc/d11/a25756.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

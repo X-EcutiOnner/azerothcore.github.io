@@ -1,6 +1,6 @@
 var a15776 =
 [
-    [ "npc_muglashAI", "db/d32/a15780.html", "db/d32/a15780" ],
-    [ "npc_muglash", "d0/d14/a15776.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d0/d14/a15776.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_tiger_matriarch_creditAI", "d0/d14/a15776.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "d0/d14/a15776.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "d0/d14/a15776.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

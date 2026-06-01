@@ -1,7 +1,6 @@
 var a24748 =
 [
-    [ "HandleProc", "dd/d7a/a24748.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "dd/d7a/a24748.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "dd/d7a/a24748.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "dd/d7a/a24748.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "ModDest", "dd/d7a/a24748.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "dd/d7a/a24748.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "dd/d7a/a24748.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

@@ -1,9 +1,7 @@
 var a24364 =
 [
-    [ "npc_pet_gen_fetch_ball", "db/dfb/a24364.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "db/dfb/a24364.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "db/dfb/a24364.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "db/dfb/a24364.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "db/dfb/a24364.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "db/dfb/a24364.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "HandleProc", "db/dfb/a24364.html#afc5208979ec0ce81e2bb88b3bd429012", null ],
+    [ "PrepareAuraScript", "db/dfb/a24364.html#a9eebffe3b716f7de63bfd6617e6ecf3b", null ],
+    [ "Register", "db/dfb/a24364.html#a1f364414b053ffc92c2a219b713e8c38", null ],
+    [ "Validate", "db/dfb/a24364.html#a12912ba28210850b8bc0b568357794af", null ]
 ];

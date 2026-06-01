@@ -1,14 +1,18 @@
 var a16184 =
 [
-    [ "npc_ringoAI", "d8/db6/a16184.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d8/db6/a16184.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d8/db6/a16184.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d8/db6/a16184.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d8/db6/a16184.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d8/db6/a16184.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d8/db6/a16184.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d8/db6/a16184.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d8/db6/a16184.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d8/db6/a16184.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d8/db6/a16184.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "boss_taldaram", "d8/db6/a16184.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
+    [ "DamageTaken", "d8/db6/a16184.html#a2252fef717c2da047dc2d823e70660c0", null ],
+    [ "DoAction", "d8/db6/a16184.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
+    [ "InitializeAI", "d8/db6/a16184.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
+    [ "JustDied", "d8/db6/a16184.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
+    [ "JustEngagedWith", "d8/db6/a16184.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
+    [ "JustSummoned", "d8/db6/a16184.html#a5ae9201a71fa665908f924647b262825", null ],
+    [ "KilledUnit", "d8/db6/a16184.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
+    [ "MovementInform", "d8/db6/a16184.html#a17ca98f742a06b1496b2216e984811d8", null ],
+    [ "OnAuraRemove", "d8/db6/a16184.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
+    [ "Reset", "d8/db6/a16184.html#ae26fec572206d2f1f9acc229ee797496", null ],
+    [ "ScheduleCombatEvents", "d8/db6/a16184.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
+    [ "SpellHitTarget", "d8/db6/a16184.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
+    [ "vanishDamage", "d8/db6/a16184.html#a85d8c95320e6f1f486a39043218f0350", null ],
+    [ "victimSperePos", "d8/db6/a16184.html#a06efb376b0d08207a0efce74770f21dc", null ]
 ];

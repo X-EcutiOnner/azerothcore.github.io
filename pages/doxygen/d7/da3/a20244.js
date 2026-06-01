@@ -1,8 +1,5 @@
 var a20244 =
 [
-    [ "OnApply", "d7/da3/a20244.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d7/da3/a20244.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d7/da3/a20244.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d7/da3/a20244.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d7/da3/a20244.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "FlashFreezeCheck", "d7/da3/a20244.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d7/da3/a20244.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

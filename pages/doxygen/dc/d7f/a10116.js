@@ -1,20 +1,14 @@
 var a10116 =
 [
-    [ "KeyFrame", "dc/d7f/a10116.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
-    [ "IsStopFrame", "dc/d7f/a10116.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
-    [ "IsTeleportFrame", "dc/d7f/a10116.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
-    [ "ArriveTime", "dc/d7f/a10116.html#afc5d26078e42a2170d43c864542f676f", null ],
-    [ "DepartureTime", "dc/d7f/a10116.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
-    [ "DistFromPrev", "dc/d7f/a10116.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
-    [ "DistSinceStop", "dc/d7f/a10116.html#a60502cefa4387ffd815ba88530123ac6", null ],
-    [ "DistUntilStop", "dc/d7f/a10116.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
-    [ "Index", "dc/d7f/a10116.html#a1176b2e4067a4e330db280514ca66d43", null ],
-    [ "InitialOrientation", "dc/d7f/a10116.html#a9af26b07943f22473526463f7a0f7c6b", null ],
-    [ "NextArriveTime", "dc/d7f/a10116.html#a51fb15713126d4890bfe99dc00e421f7", null ],
-    [ "NextDistFromPrev", "dc/d7f/a10116.html#a23823648385abc72ffd8372468b98915", null ],
-    [ "Node", "dc/d7f/a10116.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
-    [ "Spline", "dc/d7f/a10116.html#aee298cdd32a7593baf6ad00234120781", null ],
-    [ "Teleport", "dc/d7f/a10116.html#ad57abe67a7e4771a35621b4204bfe347", null ],
-    [ "TimeFrom", "dc/d7f/a10116.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
-    [ "TimeTo", "dc/d7f/a10116.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
+    [ "TriangleBoundary", "dc/d7f/a10116.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
+    [ "IsWithinBoundaryArea", "dc/d7f/a10116.html#aaebce21d60856976db921e22a871aae6", null ],
+    [ "_a", "dc/d7f/a10116.html#a11a5e1e039d39205450e8fde526f23c9", null ],
+    [ "_abx", "dc/d7f/a10116.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
+    [ "_aby", "dc/d7f/a10116.html#a50c9a60be77846c736cf278eac263b44", null ],
+    [ "_b", "dc/d7f/a10116.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
+    [ "_bcx", "dc/d7f/a10116.html#a043b7c018baed6b098f93b667f47baed", null ],
+    [ "_bcy", "dc/d7f/a10116.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
+    [ "_c", "dc/d7f/a10116.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
+    [ "_cax", "dc/d7f/a10116.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
+    [ "_cay", "dc/d7f/a10116.html#acbb7a9e61dd4e6188837461821843b9a", null ]
 ];

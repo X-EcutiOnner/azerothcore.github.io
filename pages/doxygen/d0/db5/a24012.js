@@ -1,14 +1,6 @@
 var a24012 =
 [
-    [ "npc_maghar_captiveAI", "d0/db5/a24012.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "d0/db5/a24012.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "d0/db5/a24012.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "d0/db5/a24012.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "d0/db5/a24012.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "d0/db5/a24012.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "d0/db5/a24012.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "d0/db5/a24012.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "d0/db5/a24012.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "d0/db5/a24012.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "d0/db5/a24012.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "HandleDamageCalc", "d0/db5/a24012.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d0/db5/a24012.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d0/db5/a24012.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

@@ -1,13 +1,10 @@
 var a07700 =
 [
-    [ "WhoListCacheMgr", "df/de3/a07700.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "df/de3/a07700.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "df/de3/a07700.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "df/de3/a07700.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "df/de3/a07700.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "df/de3/a07700.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "df/de3/a07700.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "df/de3/a07700.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "df/de3/a07700.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "df/de3/a07700.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "BattlegroundBE", "df/de3/a07700.html#a4b29ebe897de3109b165607de957fae2", null ],
+    [ "FillInitialWorldStates", "df/de3/a07700.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
+    [ "HandleAreaTrigger", "df/de3/a07700.html#a6216e25edd0057b9599efc787045505e", null ],
+    [ "HandlePlayerUnderMap", "df/de3/a07700.html#ab004984d4b882e72471b0b5a8fca9632", null ],
+    [ "SetupBattleground", "df/de3/a07700.html#a2eed1be4672539674e092edb6a6a9627", null ],
+    [ "StartingEventCloseDoors", "df/de3/a07700.html#a2379fda6296fcdbde68fad362e858621", null ],
+    [ "StartingEventOpenDoors", "df/de3/a07700.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
 ];

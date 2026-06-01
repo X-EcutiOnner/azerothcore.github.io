@@ -1,12 +1,15 @@
 var a07560 =
 [
-    [ "BGQueueRemoveEvent", "dc/d12/a07560.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "dc/d12/a07560.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "dc/d12/a07560.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "dc/d12/a07560.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "dc/d12/a07560.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "dc/d12/a07560.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "dc/d12/a07560.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "dc/d12/a07560.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "dc/d12/a07560.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "ArenaSeasonRewardGroup", "dc/d12/a07560.html#a128e78db84f099d91e21da77b2147e82", null ],
+    [ "operator==", "dc/d12/a07560.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
+    [ "achievementRewards", "dc/d12/a07560.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
+    [ "criteriaType", "dc/d12/a07560.html#a16261356df6f5aed35bc3ec06ab49560", null ],
+    [ "goldReward", "dc/d12/a07560.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
+    [ "itemRewards", "dc/d12/a07560.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
+    [ "maxCriteria", "dc/d12/a07560.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
+    [ "minCriteria", "dc/d12/a07560.html#a07507bd59265508a463aa328f343afa0", null ],
+    [ "rewardMailBody", "dc/d12/a07560.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
+    [ "rewardMailSubject", "dc/d12/a07560.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
+    [ "rewardMailTemplateID", "dc/d12/a07560.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
+    [ "season", "dc/d12/a07560.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
 ];

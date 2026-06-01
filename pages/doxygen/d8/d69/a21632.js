@@ -1,6 +1,11 @@
 var a21632 =
 [
-    [ "npc_mageguard_dalaranAI", "da/d1a/a21636.html", "da/d1a/a21636" ],
-    [ "npc_mageguard_dalaran", "d8/d69/a21632.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "d8/d69/a21632.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_lake_frogAI", "d8/d69/a21632.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d8/d69/a21632.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d8/d69/a21632.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d8/d69/a21632.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d8/d69/a21632.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d8/d69/a21632.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d8/d69/a21632.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d8/d69/a21632.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

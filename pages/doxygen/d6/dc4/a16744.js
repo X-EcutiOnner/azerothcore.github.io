@@ -1,6 +1,7 @@
 var a16744 =
 [
-    [ "HandleSpellHit", "d6/dc4/a16744.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "d6/dc4/a16744.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "d6/dc4/a16744.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "npc_toc_priestAI", "d6/dc4/a16744.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d6/dc4/a16744.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d6/dc4/a16744.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d6/dc4/a16744.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

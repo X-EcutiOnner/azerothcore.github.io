@@ -1,12 +1,18 @@
 var a18040 =
 [
-    [ "gunship_npc_AI", "de/d05/a18040.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "de/d05/a18040.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "de/d05/a18040.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "de/d05/a18040.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "de/d05/a18040.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "de/d05/a18040.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "de/d05/a18040.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "de/d05/a18040.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "de/d05/a18040.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "boss_lord_marrowgar", "de/d05/a18040.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
+    [ "CanAIAttack", "de/d05/a18040.html#a019816e930781889f39c561577eaecc0", null ],
+    [ "GetGUID", "de/d05/a18040.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
+    [ "JustDied", "de/d05/a18040.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
+    [ "JustEngagedWith", "de/d05/a18040.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
+    [ "JustReachedHome", "de/d05/a18040.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
+    [ "KilledUnit", "de/d05/a18040.html#acfe53ec83fa2056b37269608182fb25b", null ],
+    [ "MoveInLineOfSight", "de/d05/a18040.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
+    [ "MovementInform", "de/d05/a18040.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
+    [ "Reset", "de/d05/a18040.html#a2692d00185ef27f50af01d125e39d549", null ],
+    [ "SpellHitTarget", "de/d05/a18040.html#adf886210abbd492f897b39145748f78a", null ],
+    [ "UpdateAI", "de/d05/a18040.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
+    [ "_boneSlice", "de/d05/a18040.html#a50478639cd1f13732646fcc2349c5474", null ],
+    [ "_introDone", "de/d05/a18040.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
+    [ "_lastBoneSliceTargets", "de/d05/a18040.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
 ];

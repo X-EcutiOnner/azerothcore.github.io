@@ -1,11 +1,12 @@
 var a15088 =
 [
-    [ "boss_anetheron", "dc/df1/a15088.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "dc/df1/a15088.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "dc/df1/a15088.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "dc/df1/a15088.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "dc/df1/a15088.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "dc/df1/a15088.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "dc/df1/a15088.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "dc/df1/a15088.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "boss_mal_ganisAI", "dc/df1/a15088.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "dc/df1/a15088.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "dc/df1/a15088.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "dc/df1/a15088.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "dc/df1/a15088.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "dc/df1/a15088.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "dc/df1/a15088.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "dc/df1/a15088.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "dc/df1/a15088.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

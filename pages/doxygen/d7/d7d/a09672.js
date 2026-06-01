@@ -1,6 +1,8 @@
 var a09672 =
 [
-    [ "AllFriendlyCreaturesInGrid", "d7/d7d/a09672.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "d7/d7d/a09672.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "d7/d7d/a09672.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "FriendlyMissingBuffInRange", "d7/d7d/a09672.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d7/d7d/a09672.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d7/d7d/a09672.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d7/d7d/a09672.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d7/d7d/a09672.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

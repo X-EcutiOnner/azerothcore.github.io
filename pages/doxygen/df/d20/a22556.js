@@ -1,4 +1,6 @@
 var a22556 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "df/d20/a22556.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
+    [ "boss_reliquary_of_soulsAI", "db/d24/a22560.html", "db/d24/a22560" ],
+    [ "boss_reliquary_of_souls", "df/d20/a22556.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "df/d20/a22556.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

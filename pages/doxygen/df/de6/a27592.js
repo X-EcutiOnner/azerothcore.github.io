@@ -1,7 +1,5 @@
 var a27592 =
 [
-    [ "HandleAuraApply", "df/de6/a27592.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "df/de6/a27592.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "df/de6/a27592.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "df/de6/a27592.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "achievement_bg_control_all_nodes", "df/de6/a27592.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "df/de6/a27592.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

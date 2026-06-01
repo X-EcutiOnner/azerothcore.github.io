@@ -1,6 +1,6 @@
 var a16240 =
 [
-    [ "go_troll_cageAI", "dc/d9d/a16244.html", "dc/d9d/a16244" ],
-    [ "go_troll_cage", "da/de1/a16240.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "da/de1/a16240.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "da/de1/a16240.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "da/de1/a16240.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "da/de1/a16240.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

@@ -1,7 +1,10 @@
 var a16604 =
 [
-    [ "OnApply", "da/dfa/a16604.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "da/dfa/a16604.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "da/dfa/a16604.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "da/dfa/a16604.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "npc_black_knight_ghoulAI", "da/dfa/a16604.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "da/dfa/a16604.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "da/dfa/a16604.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "da/dfa/a16604.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "da/dfa/a16604.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "da/dfa/a16604.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "da/dfa/a16604.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

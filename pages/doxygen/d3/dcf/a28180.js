@@ -1,6 +1,7 @@
 var a28180 =
 [
-    [ "go_darkmoon_faire_musicAI", "de/da6/a28184.html", "de/da6/a28184" ],
-    [ "go_darkmoon_faire_music", "d3/dcf/a28180.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "d3/dcf/a28180.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "npc_guardianAI", "d3/dcf/a28180.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d3/dcf/a28180.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d3/dcf/a28180.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d3/dcf/a28180.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

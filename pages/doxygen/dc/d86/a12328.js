@@ -1,5 +1,5 @@
 var a12328 =
 [
-    [ "at_ring_of_law", "dc/d86/a12328.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "dc/d86/a12328.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "flag", "dc/d86/a12328.html#ae1419ecdb46b888ad0250ff77ccb9b6e", null ],
+    [ "text", "dc/d86/a12328.html#a87700bc5f863f448b346c2aec2152ba4", null ]
 ];

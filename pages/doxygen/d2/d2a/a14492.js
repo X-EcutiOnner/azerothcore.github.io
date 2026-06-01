@@ -1,6 +1,6 @@
 var a14492 =
 [
-    [ "FilterTargets", "d2/d2a/a14492.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d2/d2a/a14492.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d2/d2a/a14492.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d5/d05/a14496.html", "d5/d05/a14496" ],
+    [ "instance_zulgurub", "d2/d2a/a14492.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "d2/d2a/a14492.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

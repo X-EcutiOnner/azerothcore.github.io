@@ -1,5 +1,9 @@
 var a19292 =
 [
-    [ "npc_icc_buff_switcher", "d9/d6a/a19292.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d9/d6a/a19292.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d9/d6a/a19292.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d9/d6a/a19292.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d9/d6a/a19292.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d9/d6a/a19292.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d9/d6a/a19292.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d9/d6a/a19292.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

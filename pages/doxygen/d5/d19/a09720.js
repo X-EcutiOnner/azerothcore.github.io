@@ -1,9 +1,8 @@
 var a09720 =
 [
-    [ "UnitAuraCheck", "d5/d19/a09720.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "d5/d19/a09720.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "d5/d19/a09720.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "d5/d19/a09720.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "d5/d19/a09720.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "d5/d19/a09720.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "CallOfHelpCreatureInRangeDo", "d5/d19/a09720.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
+    [ "operator()", "d5/d19/a09720.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
+    [ "i_enemy", "d5/d19/a09720.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
+    [ "i_funit", "d5/d19/a09720.html#aff1768cd844e4e23821cf78f9d360e06", null ],
+    [ "i_range", "d5/d19/a09720.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
 ];

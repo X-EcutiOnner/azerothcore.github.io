@@ -1,11 +1,10 @@
 var a14756 =
 [
-    [ "npc_winterfin_playmate", "d3/d27/a14756.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "d3/d27/a14756.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "d3/d27/a14756.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "d3/d27/a14756.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "d3/d27/a14756.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "d3/d27/a14756.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "d3/d27/a14756.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "d3/d27/a14756.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "boss_headless_horseman_pumpkin", "d3/d27/a14756.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d3/d27/a14756.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d3/d27/a14756.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d3/d27/a14756.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d3/d27/a14756.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d3/d27/a14756.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d3/d27/a14756.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

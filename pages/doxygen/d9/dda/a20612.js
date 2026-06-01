@@ -1,7 +1,6 @@
 var a20612 =
 [
-    [ "HandleEffectPeriodic", "d9/dda/a20612.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "d9/dda/a20612.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "d9/dda/a20612.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "d9/dda/a20612.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "PrepareSpellScript", "d9/dda/a20612.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d9/dda/a20612.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d9/dda/a20612.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

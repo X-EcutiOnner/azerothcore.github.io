@@ -1,13 +1,12 @@
 var a23236 =
 [
-    [ "npc_earthen_ring_flamecaller", "dd/d9b/a23236.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "dd/d9b/a23236.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "dd/d9b/a23236.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "dd/d9b/a23236.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "dd/d9b/a23236.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "dd/d9b/a23236.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "dd/d9b/a23236.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "dd/d9b/a23236.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "dd/d9b/a23236.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "dd/d9b/a23236.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "boss_watchkeeper_gargolmar", "dd/d9b/a23236.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "dd/d9b/a23236.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "dd/d9b/a23236.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "dd/d9b/a23236.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "dd/d9b/a23236.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "dd/d9b/a23236.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "dd/d9b/a23236.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "dd/d9b/a23236.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "dd/d9b/a23236.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

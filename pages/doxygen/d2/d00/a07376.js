@@ -1,14 +1,9 @@
 var a07376 =
 [
-    [ "AutobroadcastsMap", "d2/d00/a07376.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "d2/d00/a07376.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "d2/d00/a07376.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "d2/d00/a07376.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "d2/d00/a07376.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "d2/d00/a07376.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "d2/d00/a07376.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "d2/d00/a07376.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "d2/d00/a07376.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "d2/d00/a07376.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "d2/d00/a07376.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "ObjectGuidVector", "d2/d00/a07376.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d2/d00/a07376.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d2/d00/a07376.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d2/d00/a07376.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d2/d00/a07376.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d2/d00/a07376.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

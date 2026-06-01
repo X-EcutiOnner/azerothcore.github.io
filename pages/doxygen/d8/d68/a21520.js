@@ -1,6 +1,6 @@
 var a21520 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d3/dc4/a21524.html", "d3/dc4/a21524" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d8/d68/a21520.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d8/d68/a21520.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_q24545_vegard_dummyAI", "d8/d68/a21520.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d8/d68/a21520.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d8/d68/a21520.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

@@ -1,16 +1,11 @@
 var a08088 =
 [
-    [ "DisableMap", "de/d0b/a08088.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "de/d0b/a08088.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "de/d0b/a08088.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "de/d0b/a08088.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "de/d0b/a08088.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "de/d0b/a08088.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "de/d0b/a08088.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "de/d0b/a08088.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "de/d0b/a08088.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "de/d0b/a08088.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "de/d0b/a08088.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "de/d0b/a08088.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "de/d0b/a08088.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "EnchantId", "de/d0b/a08088.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
+    [ "GemEnchantId", "de/d0b/a08088.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
+    [ "IsBuggedInspectLink", "de/d0b/a08088.html#a1db96c31b140774302c633e99bcea93f", null ],
+    [ "Item", "de/d0b/a08088.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
+    [ "RandomProperty", "de/d0b/a08088.html#a07871677ea967da347a6debafa7c91e7", null ],
+    [ "RandomSuffix", "de/d0b/a08088.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
+    [ "RandomSuffixBaseAmount", "de/d0b/a08088.html#aa9a99d071ee623b0df6f456199e1262a", null ],
+    [ "RenderLevel", "de/d0b/a08088.html#acb1024455a3b847ea13390c05b79cd0c", null ]
 ];

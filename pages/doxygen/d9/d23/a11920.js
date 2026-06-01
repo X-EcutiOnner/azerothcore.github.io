@@ -1,9 +1,7 @@
 var a11920 =
 [
-    [ "bytes", "d9/d23/a11920.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d9/d23/a11920.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d9/d23/a11920.html#a811f59fc775a37c7c9eaaae2f175c864", null ],
-    [ "ints", "d9/d23/a11920.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d9/d23/a11920.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d9/d23/a11920.html#a6b901fe41612a05e97dff474fbeff7f6", null ]
+    [ "EffectApplyHandler", "d9/d23/a11920.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d9/d23/a11920.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d9/d23/a11920.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d9/d23/a11920.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

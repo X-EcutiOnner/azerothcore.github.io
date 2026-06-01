@@ -1,7 +1,12 @@
 var a08476 =
 [
-    [ "AddToGrid", "da/d4a/a08476.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "da/d4a/a08476.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "da/d4a/a08476.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "da/d4a/a08476.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "GameObjectModelOwnerImpl", "da/d4a/a08476.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "da/d4a/a08476.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "da/d4a/a08476.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "da/d4a/a08476.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "da/d4a/a08476.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "da/d4a/a08476.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "da/d4a/a08476.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "da/d4a/a08476.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "da/d4a/a08476.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

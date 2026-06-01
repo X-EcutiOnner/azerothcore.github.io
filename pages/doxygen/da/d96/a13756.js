@@ -1,5 +1,8 @@
 var a13756 =
 [
-    [ "at_sunwell_eredar_twins", "da/d96/a13756.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "da/d96/a13756.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "HandleApply", "da/d96/a13756.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "da/d96/a13756.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "da/d96/a13756.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "da/d96/a13756.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "da/d96/a13756.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];
