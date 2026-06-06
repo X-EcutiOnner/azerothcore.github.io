@@ -69,20 +69,18 @@ jobs:
           # Build production bundles (ensures correct environment and hashing)
           npm run build -- --configuration=production
 
-          # Copy and rename hashed JS bundles to fixed names expected by the layout
+          # Copy JS bundles to the fixed names expected by the layout.
+          # The build now emits single, unhashed bundles (no es2015/es5
+          # differential builds), so the filenames are stable.
           mkdir -p ../javascripts/catalogue
-          cp "$(ls dist/git-catalogue/runtime-es2015*.js | head -n1)" ../javascripts/catalogue/runtime-es2015.js
-          cp "$(ls dist/git-catalogue/runtime-es5*.js | head -n1)" ../javascripts/catalogue/runtime-es5.js
-          cp "$(ls dist/git-catalogue/polyfills-es2015*.js | head -n1)" ../javascripts/catalogue/polyfills-es2015.js
-          cp "$(ls dist/git-catalogue/polyfills-es5*.js | head -n1)" ../javascripts/catalogue/polyfills-es5.js
-          cp "$(ls dist/git-catalogue/vendor-es2015*.js | head -n1)" ../javascripts/catalogue/vendor-es2015.js || true
-          cp "$(ls dist/git-catalogue/vendor-es5*.js | head -n1)" ../javascripts/catalogue/vendor-es5.js || true
-          cp "$(ls dist/git-catalogue/scripts*.js | head -n1)" ../javascripts/catalogue/scripts.js || true
-          cp "$(ls dist/git-catalogue/main-es2015*.js | head -n1)" ../javascripts/catalogue/main-es2015.js
-          cp "$(ls dist/git-catalogue/main-es5*.js | head -n1)" ../javascripts/catalogue/main-es5.js
+          cp dist/git-catalogue/runtime.js   ../javascripts/catalogue/runtime.js
+          cp dist/git-catalogue/polyfills.js ../javascripts/catalogue/polyfills.js
+          cp dist/git-catalogue/scripts.js   ../javascripts/catalogue/scripts.js
+          cp dist/git-catalogue/vendor.js    ../javascripts/catalogue/vendor.js
+          cp dist/git-catalogue/main.js      ../javascripts/catalogue/main.js
 
           # Copy CSS into the expected filename
-          cp "$(ls dist/git-catalogue/styles*.css | head -n1)" ../stylesheets/catalogue_style.css
+          cp dist/git-catalogue/styles.css ../stylesheets/catalogue_style.css
 
           # Copy Angular assets so /assets/config.json is served by Pages
           mkdir -p ../assets

@@ -17,21 +17,11 @@ layout: default
 />
 
 <script
-  src="{{ '/javascripts/catalogue/runtime-es2015.js' | relative_url }}"
+  src="{{ '/javascripts/catalogue/runtime.js' | relative_url }}"
   type="module"
 ></script>
 <script
-  src="{{ '/javascripts/catalogue/runtime-es5.js' | relative_url }}"
-  nomodule
-  defer
-></script>
-<script
-  src="{{ '/javascripts/catalogue/polyfills-es5.js' | relative_url }}"
-  nomodule
-  defer
-></script>
-<script
-  src="{{ '/javascripts/catalogue/polyfills-es2015.js' | relative_url }}"
+  src="{{ '/javascripts/catalogue/polyfills.js' | relative_url }}"
   type="module"
 ></script>
 <script
@@ -39,22 +29,12 @@ layout: default
   defer
 ></script>
 <script
-  src="{{ '/javascripts/catalogue/vendor-es2015.js' | relative_url }}"
+  src="{{ '/javascripts/catalogue/vendor.js' | relative_url }}"
   type="module"
 ></script>
 <script
-  src="{{ '/javascripts/catalogue/vendor-es5.js' | relative_url }}"
-  nomodule
-  defer
-></script>
-<script
-  src="{{ '/javascripts/catalogue/main-es2015.js' | relative_url }}"
+  src="{{ '/javascripts/catalogue/main.js' | relative_url }}"
   type="module"
-></script>
-<script
-  src="{{ '/javascripts/catalogue/main-es5.js' | relative_url }}"
-  nomodule
-  defer
 ></script>
 
 <div class="header">
@@ -75,7 +55,8 @@ layout: default
   <app-root></app-root>
   <noscript>
     <div class="alert alert-warning mt-3">
-      This catalogue requires JavaScript to run. Please enable JavaScript in your browser.
+      This catalogue requires JavaScript to run. Please enable JavaScript in
+      your browser.
     </div>
   </noscript>
 </div>
