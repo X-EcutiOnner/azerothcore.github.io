@@ -66,17 +66,12 @@ jobs:
           }
           JSON
 
-          # Build production bundles (ensures correct environment and hashing)
-          npm run build -- --configuration=production
+          npm run build -- --configuration=production --output-hashing=none
 
-          # Copy JS bundles to the fixed names expected by the layout.
-          # The build now emits single, unhashed bundles (no es2015/es5
-          # differential builds), so the filenames are stable.
           mkdir -p ../javascripts/catalogue
           cp dist/git-catalogue/runtime.js   ../javascripts/catalogue/runtime.js
           cp dist/git-catalogue/polyfills.js ../javascripts/catalogue/polyfills.js
           cp dist/git-catalogue/scripts.js   ../javascripts/catalogue/scripts.js
-          cp dist/git-catalogue/vendor.js    ../javascripts/catalogue/vendor.js
           cp dist/git-catalogue/main.js      ../javascripts/catalogue/main.js
 
           # Copy CSS into the expected filename
