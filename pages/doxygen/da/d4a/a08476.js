@@ -1,12 +1,10 @@
 var a08476 =
 [
-    [ "GameObjectModelOwnerImpl", "da/d4a/a08476.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "da/d4a/a08476.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "da/d4a/a08476.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "da/d4a/a08476.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "da/d4a/a08476.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "da/d4a/a08476.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "da/d4a/a08476.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "da/d4a/a08476.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "da/d4a/a08476.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "IsCastable", "da/d4a/a08476.html#a677b21866e24d2c94de28d96db07aafd", null ],
+    [ "MoneyCost", "da/d4a/a08476.html#af20caa962ba1f5edb376b78b6b35b119", null ],
+    [ "ReqAbility", "da/d4a/a08476.html#a101686190208be6fb46a46768ca779f9", null ],
+    [ "ReqLevel", "da/d4a/a08476.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
+    [ "ReqSkillLine", "da/d4a/a08476.html#a008ff0df36f2e19534a5fda97616f14f", null ],
+    [ "ReqSkillRank", "da/d4a/a08476.html#aa151d559cb276797a39dd203fd1b24c2", null ],
+    [ "SpellId", "da/d4a/a08476.html#ac289744925387c199fde756867bbfc57", null ]
 ];

@@ -1,23 +1,10 @@
 var a08468 =
 [
-    [ "Trainer", "d1/dbc/a08468.html#a8851a0e9cddd2d698dfb59293e7a51ec", null ],
-    [ "AddGreetingLocale", "d1/dbc/a08468.html#a8b3b7849084ae4ded822b9e2124cf93d", null ],
-    [ "CanTeachSpell", "d1/dbc/a08468.html#a5530f841bdf7e7135bc56b686b555815", null ],
-    [ "GetGreeting", "d1/dbc/a08468.html#ab8a22da42d8087d0f4cfe4dc338d1c20", null ],
-    [ "GetSpell", "d1/dbc/a08468.html#a500cc19073a49d772d4cb0645415aedc", null ],
-    [ "GetSpells", "d1/dbc/a08468.html#ab489dbe1c41096ef281e42c594bd874c", null ],
-    [ "GetSpellState", "d1/dbc/a08468.html#ab44c7fbe56a974250bcf6ad731e9bf98", null ],
-    [ "GetTrainerRequirement", "d1/dbc/a08468.html#a6a59a206c63636fa63c1c29708ad4562", null ],
-    [ "GetTrainerType", "d1/dbc/a08468.html#ac55224a416d8fd686a6cce6bbb63e1fd", null ],
-    [ "IsTrainerValidForPlayer", "d1/dbc/a08468.html#a2f09c1fb84497b1c1fa2f598dbb1b4cb", null ],
-    [ "SendSpells", "d1/dbc/a08468.html#ab6b3b04ead675db50fa4dc4f4f5786e7", null ],
-    [ "SendTeachFailure", "d1/dbc/a08468.html#a6e21d0855b3890a906b02b72b09d5a0d", null ],
-    [ "SendTeachSucceeded", "d1/dbc/a08468.html#ae9545ccf3ded3e9cb04322b5dcdde4b0", null ],
-    [ "TeachSpell", "d1/dbc/a08468.html#a5dd7c4f98ab73b970399794e9360398d", null ],
-    [ "_greeting", "d1/dbc/a08468.html#af1dfa43f6492caaea62648f010cbaf63", null ],
-    [ "_requirement", "d1/dbc/a08468.html#af4794d9ee20344f56855eac931f6cefb", null ],
-    [ "_spells", "d1/dbc/a08468.html#a75ce4ff1f7b4d1a46eaab8f2d1ea1ea9", null ],
-    [ "_trainerId", "d1/dbc/a08468.html#a13d0f21d8623533f671acf50eb19bbec", null ],
-    [ "_type", "d1/dbc/a08468.html#a8d079e748448aa728aa9e45b4a32009f", null ],
-    [ "ObjectMgr", "d1/dbc/a08468.html#ad8fa6def3f3df45863381fd178d292f4", null ]
+    [ "Puppet", "d1/dbc/a08468.html#ab0082936291e6b7f5370656c7c9ed948", null ],
+    [ "GetOwner", "d1/dbc/a08468.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
+    [ "InitStats", "d1/dbc/a08468.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
+    [ "InitSummon", "d1/dbc/a08468.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
+    [ "RemoveFromWorld", "d1/dbc/a08468.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
+    [ "Update", "d1/dbc/a08468.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
+    [ "m_owner", "d1/dbc/a08468.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
 ];

@@ -1,12 +1,9 @@
 var a19724 =
 [
-    [ "boss_ionar", "d9/d2e/a19724.html#a323da67c3ff33d09d07cf0369600a473", null ],
-    [ "JustDied", "d9/d2e/a19724.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
-    [ "JustEngagedWith", "d9/d2e/a19724.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
-    [ "KilledUnit", "d9/d2e/a19724.html#ae6b1225147bc146066185d4d21c19f14", null ],
-    [ "Reset", "d9/d2e/a19724.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
-    [ "ScheduleEvents", "d9/d2e/a19724.html#af74dda7ad9cd156036689694b3bb9986", null ],
-    [ "SpellHit", "d9/d2e/a19724.html#a85c0ba28de5a684435246539d2106dcd", null ],
-    [ "Split", "d9/d2e/a19724.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
-    [ "UpdateAI", "d9/d2e/a19724.html#ad6fb218e743bad9fec357ea7d862744d", null ]
+    [ "HandleOnEffectApply", "d9/d2e/a19724.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d9/d2e/a19724.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d9/d2e/a19724.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d9/d2e/a19724.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d9/d2e/a19724.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d9/d2e/a19724.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

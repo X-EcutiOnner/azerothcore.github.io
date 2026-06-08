@@ -1,7 +1,9 @@
 var a15396 =
 [
-    [ "boss_rajaxx", "d0/ddb/a15396.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "d0/ddb/a15396.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "d0/ddb/a15396.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "d0/ddb/a15396.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "go_ossirian_crystalAI", "d0/ddb/a15396.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d0/ddb/a15396.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d0/ddb/a15396.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d0/ddb/a15396.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d0/ddb/a15396.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d0/ddb/a15396.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

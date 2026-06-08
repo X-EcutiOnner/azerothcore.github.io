@@ -1,12 +1,12 @@
 var a10632 =
 [
-    [ "BattlefieldScript", "d5/d9e/a10632.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
-    [ "IsDatabaseBound", "d5/d9e/a10632.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "d5/d9e/a10632.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "d5/d9e/a10632.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "d5/d9e/a10632.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerKill", "d5/d9e/a10632.html#a835001d04260cafe35021108e2ede851", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "d5/d9e/a10632.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "d5/d9e/a10632.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
-    [ "OnBattlefieldWarEnd", "d5/d9e/a10632.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
+    [ "ArenaScript", "d5/d9e/a10632.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "d5/d9e/a10632.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveArenaStatsForMember", "d5/d9e/a10632.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
+    [ "CanSaveToDB", "d5/d9e/a10632.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "d5/d9e/a10632.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "d5/d9e/a10632.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "d5/d9e/a10632.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnBeforeArenaTeamMemberUpdate", "d5/d9e/a10632.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
+    [ "OnGetPoints", "d5/d9e/a10632.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

@@ -1,10 +1,25 @@
 var a09908 =
 [
-    [ "PlayerMoveItemData", "dd/d44/a09908.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "dd/d44/a09908.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "dd/d44/a09908.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "dd/d44/a09908.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "dd/d44/a09908.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "dd/d44/a09908.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "dd/d44/a09908.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "RankInfo", "dd/d44/a09908.html#a4b97f6372e87ab4061748cc58bd00096", null ],
+    [ "RankInfo", "dd/d44/a09908.html#a02c7283862334b5133f5971cee5da927", null ],
+    [ "RankInfo", "dd/d44/a09908.html#aaacf8ce1bfa6429cb5980d74f076cbd3", null ],
+    [ "CreateMissingTabsIfNeeded", "dd/d44/a09908.html#a17e8ee39681804bac73a2c699b470c37", null ],
+    [ "GetBankMoneyPerDay", "dd/d44/a09908.html#adb568b8ad70d0b42d834af5e2bf528d2", null ],
+    [ "GetBankTabRights", "dd/d44/a09908.html#a5be65cec8e2e82c027ef4062ea63c1f1", null ],
+    [ "GetBankTabSlotsPerDay", "dd/d44/a09908.html#a7cc652b0170a7f786a5a0263b4251d2d", null ],
+    [ "GetId", "dd/d44/a09908.html#a1a99822f0c886d59ac57b6eb73ff2b42", null ],
+    [ "GetName", "dd/d44/a09908.html#a3cfcabc23d610dd6130333edcd482485", null ],
+    [ "GetRights", "dd/d44/a09908.html#a59565228481689cdc073e7120a6de9f3", null ],
+    [ "LoadFromDB", "dd/d44/a09908.html#ae9f8001f2546582256b7d916d4f2b1d6", null ],
+    [ "SaveToDB", "dd/d44/a09908.html#a9fb87796b8e18ed9dd2fee53844c243f", null ],
+    [ "SetBankMoneyPerDay", "dd/d44/a09908.html#a1c553e020fe7d79564ddfc3aa74bbfae", null ],
+    [ "SetBankTabSlotsAndRights", "dd/d44/a09908.html#a9f1c622c8af7a8f7f9af027eb01b9dc6", null ],
+    [ "SetName", "dd/d44/a09908.html#a30e276b031dc1e279cfbf38aa1c9b851", null ],
+    [ "SetRights", "dd/d44/a09908.html#a8b46f3a8f91cd3a187e00d37a6ddd419", null ],
+    [ "m_bankMoneyPerDay", "dd/d44/a09908.html#a715985e1b8e8e2aa2d0b48877ae37e8f", null ],
+    [ "m_bankTabRightsAndSlots", "dd/d44/a09908.html#aeb209d1e53f55b5b48bcd00979014eb8", null ],
+    [ "m_guildId", "dd/d44/a09908.html#a86f162bdf86255f89666e20f44d114a0", null ],
+    [ "m_name", "dd/d44/a09908.html#a96281f4a307ca7657a3ba9f04c9331c3", null ],
+    [ "m_rankId", "dd/d44/a09908.html#ad7ff7ee31212be87b5cb580edef3cc16", null ],
+    [ "m_rights", "dd/d44/a09908.html#a058febd98eb3d116acbe1bc0d04a983c", null ]
 ];

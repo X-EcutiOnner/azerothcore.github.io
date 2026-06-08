@@ -1,11 +1,12 @@
 var a17160 =
 [
-    [ "npc_ghostly_priest", "d1/d17/a17160.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "d1/d17/a17160.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "d1/d17/a17160.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "d1/d17/a17160.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "d1/d17/a17160.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "d1/d17/a17160.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "d1/d17/a17160.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "d1/d17/a17160.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "boss_marwyn", "d1/d17/a17160.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "d1/d17/a17160.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "d1/d17/a17160.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "d1/d17/a17160.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "d1/d17/a17160.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "d1/d17/a17160.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "d1/d17/a17160.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "d1/d17/a17160.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "d1/d17/a17160.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

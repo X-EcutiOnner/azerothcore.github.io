@@ -1,7 +1,7 @@
 var a05080 =
 [
-    [ "Spell", "d8/d05/a08464.html", "d8/d05/a08464" ],
-    [ "Trainer", "d1/dbc/a08468.html", "d1/dbc/a08468" ],
+    [ "Spell", "da/d4a/a08476.html", "da/d4a/a08476" ],
+    [ "Trainer", "db/de7/a08480.html", "db/de7/a08480" ],
     [ "FailReason", "de/d0b/a05080.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
       [ "Unavailable", "de/d0b/a05080.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
       [ "NotEnoughMoney", "de/d0b/a05080.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],

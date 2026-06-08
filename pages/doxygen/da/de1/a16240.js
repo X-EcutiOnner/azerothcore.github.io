@@ -1,6 +1,19 @@
 var a16240 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "da/de1/a16240.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "da/de1/a16240.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "da/de1/a16240.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "boss_hadronox", "da/de1/a16240.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "da/de1/a16240.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "da/de1/a16240.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "da/de1/a16240.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "da/de1/a16240.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "da/de1/a16240.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "da/de1/a16240.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "da/de1/a16240.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "da/de1/a16240.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "da/de1/a16240.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "da/de1/a16240.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "da/de1/a16240.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "da/de1/a16240.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "da/de1/a16240.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "da/de1/a16240.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "da/de1/a16240.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

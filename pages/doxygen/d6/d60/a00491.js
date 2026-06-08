@@ -1,14 +1,14 @@
 var a00491 =
 [
-    [ "boss_tenris_mirkblood", "dc/d03/a13072.html", "dc/d03/a13072" ],
-    [ "npc_sanguine_spirit", "d6/d18/a13076.html", "d6/d18/a13076" ],
-    [ "spell_mirkblood_blood_mirror_target_picker", "d1/d2a/a13080.html", "d1/d2a/a13080" ],
-    [ "spell_mirkblood_dash_gash_return_to_tank_pre_spell", "d6/dab/a13084.html", "d6/dab/a13084" ],
-    [ "spell_mirkblood_exsanguinate", "dc/d7c/a13088.html", "dc/d7c/a13088" ],
-    [ "at_karazhan_mirkblood_approach", "d4/d79/a13092.html", "d4/d79/a13092" ],
-    [ "at_karazhan_mirkblood_entrance", "d1/d15/a13096.html", "d1/d15/a13096" ],
-    [ "go_blood_drenched_door", "d0/d96/a13100.html", "d0/d96/a13100" ],
-    [ "go_blood_drenched_door::go_blood_drenched_doorAI", "db/df8/a13104.html", "db/df8/a13104" ],
+    [ "boss_tenris_mirkblood", "dc/d7c/a13088.html", "dc/d7c/a13088" ],
+    [ "npc_sanguine_spirit", "d4/d79/a13092.html", "d4/d79/a13092" ],
+    [ "spell_mirkblood_blood_mirror_target_picker", "d1/d15/a13096.html", "d1/d15/a13096" ],
+    [ "spell_mirkblood_dash_gash_return_to_tank_pre_spell", "d0/d96/a13100.html", "d0/d96/a13100" ],
+    [ "spell_mirkblood_exsanguinate", "db/df8/a13104.html", "db/df8/a13104" ],
+    [ "at_karazhan_mirkblood_approach", "d6/d65/a13108.html", "d6/d65/a13108" ],
+    [ "at_karazhan_mirkblood_entrance", "da/d52/a13112.html", "da/d52/a13112" ],
+    [ "go_blood_drenched_door", "d6/d8e/a13116.html", "d6/d8e/a13116" ],
+    [ "go_blood_drenched_door::go_blood_drenched_doorAI", "db/da4/a13120.html", "db/da4/a13120" ],
     [ "Events", "d6/d60/a00491.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

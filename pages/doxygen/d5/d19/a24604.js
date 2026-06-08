@@ -1,10 +1,8 @@
 var a24604 =
 [
-    [ "HandleTickUpdate", "d5/d19/a24604.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "d5/d19/a24604.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "d5/d19/a24604.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "d5/d19/a24604.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "d5/d19/a24604.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "d5/d19/a24604.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "d5/d19/a24604.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "CheckProc", "d5/d19/a24604.html#aa3b4d0bb214146b14d7a991c12f2f38d", null ],
+    [ "HandleProc", "d5/d19/a24604.html#a020b3e9890b8ef88887ec3cf35f7ca6d", null ],
+    [ "PrepareAuraScript", "d5/d19/a24604.html#aee9068453d0c16088eb120da65657903", null ],
+    [ "Register", "d5/d19/a24604.html#ad87e455c7e09c040f574140921b4e406", null ],
+    [ "Validate", "d5/d19/a24604.html#a1075a61443eba3609f4d0602fb4f1144", null ]
 ];

@@ -1,7 +1,8 @@
 var a21284 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "db/d4d/a21284.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "db/d4d/a21284.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "db/d4d/a21284.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "db/d4d/a21284.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_mootoo_the_youngerAI", "db/d4d/a21284.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "db/d4d/a21284.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "db/d4d/a21284.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "db/d4d/a21284.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "db/d4d/a21284.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

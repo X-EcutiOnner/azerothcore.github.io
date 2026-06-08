@@ -1,7 +1,6 @@
 var a21072 =
 [
-    [ "PrepareAuraScript", "d3/dad/a21072.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d3/dad/a21072.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d3/dad/a21072.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d3/dad/a21072.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "boss_koralonAI", "d0/d95/a21076.html", "d0/d95/a21076" ],
+    [ "boss_koralon", "d3/dad/a21072.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d3/dad/a21072.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

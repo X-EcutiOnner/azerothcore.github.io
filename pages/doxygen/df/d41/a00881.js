@@ -1,6 +1,6 @@
 var a00881 =
 [
-    [ "boss_falric", "d3/d45/a17140.html", "d3/d45/a17140" ],
+    [ "boss_falric", "de/d5d/a17156.html", "de/d5d/a17156" ],
     [ "Events", "df/d41/a00881.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,8 +1,6 @@
 var a20628 =
 [
-    [ "CheckProc", "d1/dad/a20628.html#a2bbcd3aca15eb271759c2a64276bb9d3", null ],
-    [ "HandleProc", "d1/dad/a20628.html#a6761dd910808090d78c9b9ad88ba7bda", null ],
-    [ "PrepareAuraScript", "d1/dad/a20628.html#ab9f98c6a93f31b2c76ca75c8fe7c2c60", null ],
-    [ "Register", "d1/dad/a20628.html#a430a5c4d0e3f77d4d966a4bf8f629e1e", null ],
-    [ "Validate", "d1/dad/a20628.html#a683a37c787ae5797d8c68aca1af0742a", null ]
+    [ "PrepareSpellScript", "d1/dad/a20628.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "d1/dad/a20628.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "d1/dad/a20628.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

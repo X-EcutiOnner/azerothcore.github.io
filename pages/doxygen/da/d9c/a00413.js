@@ -1,8 +1,8 @@
 var a00413 =
 [
-    [ "boss_thekal", "de/d04/a14468.html", "de/d04/a14468" ],
-    [ "npc_zealot_lorkhan", "d6/db8/a14472.html", "d6/db8/a14472" ],
-    [ "npc_zealot_zath", "db/d07/a14476.html", "db/d07/a14476" ],
+    [ "boss_thekal", "dd/ddc/a14484.html", "dd/ddc/a14484" ],
+    [ "npc_zealot_lorkhan", "d5/dac/a14488.html", "d5/dac/a14488" ],
+    [ "npc_zealot_zath", "d2/d2a/a14492.html", "d2/d2a/a14492" ],
     [ "Actions", "da/d9c/a00413.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

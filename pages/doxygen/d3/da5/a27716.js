@@ -1,6 +1,6 @@
 var a27716 =
 [
-    [ "boss_ysondreAI", "d4/dd2/a27720.html", "d4/dd2/a27720" ],
-    [ "boss_ysondre", "d3/da5/a27716.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
-    [ "GetAI", "d3/da5/a27716.html#a0da215d7bc8ee86216887e682b9335c3", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d3/da5/a27716.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d3/da5/a27716.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d3/da5/a27716.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

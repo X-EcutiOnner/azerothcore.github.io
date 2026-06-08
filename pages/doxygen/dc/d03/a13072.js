@@ -1,11 +1,20 @@
 var a13072 =
 [
-    [ "boss_tenris_mirkblood", "dc/d03/a13072.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "dc/d03/a13072.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "dc/d03/a13072.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "dc/d03/a13072.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "dc/d03/a13072.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "dc/d03/a13072.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "dc/d03/a13072.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "dc/d03/a13072.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "boss_shade_of_aran", "dc/d03/a13072.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "dc/d03/a13072.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "dc/d03/a13072.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "dc/d03/a13072.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "dc/d03/a13072.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "dc/d03/a13072.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "dc/d03/a13072.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "dc/d03/a13072.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "dc/d03/a13072.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "dc/d03/a13072.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "dc/d03/a13072.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "dc/d03/a13072.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "dc/d03/a13072.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "dc/d03/a13072.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "dc/d03/a13072.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "dc/d03/a13072.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "dc/d03/a13072.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

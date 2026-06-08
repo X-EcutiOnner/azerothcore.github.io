@@ -1,6 +1,6 @@
 var a18652 =
 [
-    [ "npc_icc_lk_checktargetAI", "de/d99/a18656.html", "de/d99/a18656" ],
-    [ "npc_icc_lk_checktarget", "db/d50/a18652.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "db/d50/a18652.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_spirit_wardenAI", "de/d99/a18656.html", "de/d99/a18656" ],
+    [ "npc_spirit_warden", "db/d50/a18652.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "db/d50/a18652.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

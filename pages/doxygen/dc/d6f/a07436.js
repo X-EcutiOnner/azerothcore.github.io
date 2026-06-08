@@ -1,5 +1,8 @@
 var a07436 =
 [
-    [ "AuctionSearchOwnerListRequest", "dc/d6f/a07436.html#a1b774f8d2f77886669b8724be58713ef", null ],
-    [ "ownerGuid", "dc/d6f/a07436.html#a37d5d9356fa738e8263fdf7eb9c015a5", null ]
+    [ "faction", "dc/d6f/a07436.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "dc/d6f/a07436.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "dc/d6f/a07436.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "dc/d6f/a07436.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "dc/d6f/a07436.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

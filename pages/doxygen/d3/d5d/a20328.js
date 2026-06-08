@@ -1,10 +1,9 @@
 var a20328 =
 [
-    [ "boss_kologarn_eyebeam", "d3/d5d/a20328.html#ae51ea98b22b3a0734347825b3a0346be", null ],
-    [ "DamageDealt", "d3/d5d/a20328.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
-    [ "IsSummonedBy", "d3/d5d/a20328.html#a1640ef2ca2a58803786a6c675191676c", null ],
-    [ "UpdateAI", "d3/d5d/a20328.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
-    [ "_damaged", "d3/d5d/a20328.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
-    [ "_instance", "d3/d5d/a20328.html#a600467b5bb551022d7e0b12ce739b672", null ],
-    [ "_timer", "d3/d5d/a20328.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
+    [ "HandleEffectPeriodic", "d3/d5d/a20328.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d3/d5d/a20328.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d3/d5d/a20328.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d3/d5d/a20328.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d3/d5d/a20328.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d3/d5d/a20328.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

@@ -1,7 +1,8 @@
 var a19504 =
 [
-    [ "HandleScript", "d7/d23/a19504.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d7/d23/a19504.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d7/d23/a19504.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d7/d23/a19504.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "npc_scion_of_eternity", "d7/d23/a19504.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d7/d23/a19504.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d7/d23/a19504.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d7/d23/a19504.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d7/d23/a19504.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

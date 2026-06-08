@@ -1,6 +1,6 @@
 var a08920 =
 [
-    [ "SavedItem", "d8/d05/a08920.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "d8/d05/a08920.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "d8/d05/a08920.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "SkillStatusData", "d8/d05/a08920.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d8/d05/a08920.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d8/d05/a08920.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

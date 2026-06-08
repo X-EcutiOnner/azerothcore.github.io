@@ -1,7 +1,10 @@
 var a21264 =
 [
-    [ "npc_mootoo_the_youngerAI", "d6/d34/a21268.html", "d6/d34/a21268" ],
-    [ "npc_mootoo_the_younger", "db/ded/a21264.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "db/ded/a21264.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "db/ded/a21264.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "npc_jenny", "db/ded/a21264.html#ab845ba4551900a03c5a995d348a1be55", null ],
+    [ "DamageTaken", "db/ded/a21264.html#a8700091c82bfff473f3d5563deb69e0b", null ],
+    [ "Initialize", "db/ded/a21264.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
+    [ "MoveInLineOfSight", "db/ded/a21264.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
+    [ "UpdateFollowerAI", "db/ded/a21264.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
+    [ "_events", "db/ded/a21264.html#aa98caf8b706551470c943b4b722a85ae", null ],
+    [ "_fezzix", "db/ded/a21264.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
 ];

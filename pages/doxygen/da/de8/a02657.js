@@ -1,6 +1,6 @@
 var a02657 =
 [
-    [ "Corpse", "dd/de3/a08316.html", "dd/de3/a08316" ],
+    [ "Corpse", "dc/d43/a08328.html", "dc/d43/a08328" ],
     [ "CORPSE_RECLAIM_RADIUS", "da/de8/a02657.html#a1cebf109f41dcdac8a90086696642782", null ],
     [ "MAX_CORPSE_TYPE", "da/de8/a02657.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
     [ "CorpseFlags", "da/de8/a02657.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [

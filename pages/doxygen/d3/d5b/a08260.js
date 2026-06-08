@@ -1,8 +1,7 @@
 var a08260 =
 [
-    [ "LfgPlayerRewardData", "d3/d5b/a08260.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d3/d5b/a08260.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d3/d5b/a08260.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d3/d5b/a08260.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d3/d5b/a08260.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "LfgJoinResultData", "d3/d5b/a08260.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d3/d5b/a08260.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d3/d5b/a08260.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d3/d5b/a08260.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

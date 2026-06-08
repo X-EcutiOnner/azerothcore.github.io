@@ -1,9 +1,9 @@
 var a03389 =
 [
-    [ "go_type", "d5/d94/a10480.html", "d5/d94/a10480" ],
-    [ "creature_type", "d3/de2/a10484.html", "d3/de2/a10484" ],
-    [ "OPvPCapturePoint", "dd/d99/a10488.html", "dd/d99/a10488" ],
-    [ "OutdoorPvP", "dc/da9/a10492.html", "dc/da9/a10492" ],
+    [ "go_type", "dc/da9/a10492.html", "dc/da9/a10492" ],
+    [ "creature_type", "d8/d92/a10496.html", "d8/d92/a10496" ],
+    [ "OPvPCapturePoint", "d7/d14/a10500.html", "d7/d14/a10500" ],
+    [ "OutdoorPvP", "d5/d30/a10504.html", "d5/d30/a10504" ],
     [ "MAX_OUTDOORPVP_TYPES", "d2/dce/a03389.html#a61d2d26058751cc92ed3744e7216a061", null ],
     [ "PlayerSet", "d2/dce/a03389.html#a080aeb08f4e15904e94076846a03e927", null ],
     [ "ObjectiveStates", "d2/dce/a03389.html#a7908847b61cb33598912d94a2c0d153a", [

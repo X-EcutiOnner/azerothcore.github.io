@@ -1,19 +1,11 @@
 var a10184 =
 [
-    [ "MapCollisionData", "d9/da3/a10184.html#a4e894d4a959f3295d1e2c5245b9996a7", null ],
-    [ "~MapCollisionData", "d9/da3/a10184.html#a3c8a129c38560fe00b5ecbdab08da733", null ],
-    [ "GetDynamicTree", "d9/da3/a10184.html#a40d40d192d17ac69f933ab7c17887608", null ],
-    [ "GetDynamicTree", "d9/da3/a10184.html#a2c1408b48e83bc609023f41027c89064", null ],
-    [ "GetMMapData", "d9/da3/a10184.html#accd50059c333a678e03637bc9b012e4e", null ],
-    [ "GetMMapData", "d9/da3/a10184.html#ae5f0ccd86069905b9630204ee1e7ca08", null ],
-    [ "GetMMapNavMeshSharedPtr", "d9/da3/a10184.html#aac380a18735172b58bb9b35a56dc3544", null ],
-    [ "GetStaticTree", "d9/da3/a10184.html#a805068c70a0e02a58a1dbad8b5f32911", null ],
-    [ "GetStaticTree", "d9/da3/a10184.html#ad22d3261667975e3eb0cad94966a7754", null ],
-    [ "GetStaticTreeSharedPtr", "d9/da3/a10184.html#adfee9be1a687b889b7fbd155f187347a", null ],
-    [ "LoadMMapTile", "d9/da3/a10184.html#a661a7c3ee6f24c33b5598db5c87e968c", null ],
-    [ "LoadVMapTile", "d9/da3/a10184.html#a0a9ed3fdca779f0f8681d6685d295e2d", null ],
-    [ "_dynamicVMapData", "d9/da3/a10184.html#a13f5d030bee357ad4aaa97011e3d168e", null ],
-    [ "_map", "d9/da3/a10184.html#af6e685ca98230858dd13b08eb5d6175c", null ],
-    [ "_mmapData", "d9/da3/a10184.html#a8a417dcd2e8df672602954f5e3bc3153", null ],
-    [ "_staticVMapData", "d9/da3/a10184.html#ab55e6ca04cccbde9d9564194e9392b5c", null ]
+    [ "StaticVMapCollisionData", "d9/da3/a10184.html#a5955532316bc6409c104197b086d3e3b", null ],
+    [ "GetAreaAndLiquidData", "d9/da3/a10184.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
+    [ "getHeight", "d9/da3/a10184.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
+    [ "GetObjectHitPos", "d9/da3/a10184.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
+    [ "isInLineOfSight", "d9/da3/a10184.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
+    [ "MapCollisionData", "d9/da3/a10184.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_mapId", "d9/da3/a10184.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
+    [ "_staticTree", "d9/da3/a10184.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
 ];

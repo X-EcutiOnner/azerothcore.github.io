@@ -1,6 +1,6 @@
 var a17812 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
-    [ "npc_muradin_bronzebeard_igb", "d2/d3c/a17812.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d2/d3c/a17812.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_gunshipAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
+    [ "npc_gunship", "d2/d3c/a17812.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "d2/d3c/a17812.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

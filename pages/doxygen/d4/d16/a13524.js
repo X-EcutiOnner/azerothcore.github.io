@@ -1,6 +1,7 @@
 var a13524 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dc/deb/a13528.html", "dc/deb/a13528" ],
-    [ "instance_shadowfang_keep", "d4/d16/a13524.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d4/d16/a13524.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "HandleScript", "d4/d16/a13524.html#acbff60b24bd0239880378b48cb97b6a4", null ],
+    [ "PrepareSpellScript", "d4/d16/a13524.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
+    [ "Register", "d4/d16/a13524.html#a132d35555f1d589caa65ecd3728976d5", null ],
+    [ "Validate", "d4/d16/a13524.html#a503ce41357f8195837c9b14f2468fb5b", null ]
 ];

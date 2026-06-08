@@ -1,6 +1,8 @@
 var a14012 =
 [
-    [ "npc_lord_gregor_lescovarAI", "db/dea/a14016.html", "db/dea/a14016" ],
-    [ "npc_lord_gregor_lescovar", "da/d46/a14012.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "da/d46/a14012.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_deathstalker_erlandAI", "da/d46/a14012.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "da/d46/a14012.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "da/d46/a14012.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "da/d46/a14012.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "da/d46/a14012.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,14 +1,18 @@
 var a08164 =
 [
-    [ "LfgQueueStatusData", "d0/dba/a08164.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
-    [ "dps", "d0/dba/a08164.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
-    [ "dungeonId", "d0/dba/a08164.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
-    [ "healers", "d0/dba/a08164.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
-    [ "queuedTime", "d0/dba/a08164.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
-    [ "tanks", "d0/dba/a08164.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
-    [ "waitTime", "d0/dba/a08164.html#aa794f234bf93e66916f7eadb986f17ef", null ],
-    [ "waitTimeAvg", "d0/dba/a08164.html#af44b91dd7ddfb702662663f989f026fc", null ],
-    [ "waitTimeDps", "d0/dba/a08164.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
-    [ "waitTimeHealer", "d0/dba/a08164.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
-    [ "waitTimeTank", "d0/dba/a08164.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
+    [ "CombatReference", "d0/dba/a08164.html#a6640ef9042145388483ee1b0ebba2142", null ],
+    [ "CombatReference", "d0/dba/a08164.html#a7872f44776ee0bc2716ca1406597bf58", null ],
+    [ "EndCombat", "d0/dba/a08164.html#a9cf5d802eb7e1eb51259e98fac1eb7f8", null ],
+    [ "GetOther", "d0/dba/a08164.html#a61c70264912f26b7c5af5b11c1764626", null ],
+    [ "IsSuppressedFor", "d0/dba/a08164.html#a5f0ae30ffd9015cded12c487ccaacbda", null ],
+    [ "operator=", "d0/dba/a08164.html#a51bdb6b52ff1ff0e0bd64e2aab68528e", null ],
+    [ "Refresh", "d0/dba/a08164.html#aa5b1b591d371ff34bea9ffecbf76842f", null ],
+    [ "Suppress", "d0/dba/a08164.html#a923ecc13bec9370a226d2052a8098c8d", null ],
+    [ "SuppressFor", "d0/dba/a08164.html#a3e90cc2c7cc3edddadd4d8d8a712b4be", null ],
+    [ "CombatManager", "d0/dba/a08164.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_isPvP", "d0/dba/a08164.html#a0c0570a2acff79babb17f20a789b6a89", null ],
+    [ "_suppressFirst", "d0/dba/a08164.html#a4be6390bcfab905aa65a925194582dd4", null ],
+    [ "_suppressSecond", "d0/dba/a08164.html#a1c327a45889405e7d92d2eb468cb36cc", null ],
+    [ "first", "d0/dba/a08164.html#a353dd1fb9729fadb3dc6f3356f27373b", null ],
+    [ "second", "d0/dba/a08164.html#a226199d73dab2ac6b939a1900b338e09", null ]
 ];

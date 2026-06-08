@@ -1,6 +1,10 @@
 var a15968 =
 [
-    [ "npc_tyrande_whisperwind", "df/d6e/a15968.html#af716e954e59221d26ee88032e895fa18", null ],
-    [ "JustDied", "df/d6e/a15968.html#a707f6167de4eafc6d81613d0edc29436", null ],
-    [ "UpdateAI", "df/d6e/a15968.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
+    [ "npc_custodian_of_timeAI", "df/d6e/a15968.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "df/d6e/a15968.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "df/d6e/a15968.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "df/d6e/a15968.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "df/d6e/a15968.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "df/d6e/a15968.html#a963736e62fbd0caea631ee3fb69fca46", null ],
+    [ "WaypointReached", "df/d6e/a15968.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

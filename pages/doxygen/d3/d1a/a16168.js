@@ -1,12 +1,15 @@
 var a16168 =
 [
-    [ "npc_twilight_volunteer", "d3/d1a/a16168.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "d3/d1a/a16168.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "d3/d1a/a16168.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "d3/d1a/a16168.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "d3/d1a/a16168.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "d3/d1a/a16168.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "d3/d1a/a16168.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "d3/d1a/a16168.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "d3/d1a/a16168.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "boss_volazj", "d3/d1a/a16168.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
+    [ "CheckPhaseMinions", "d3/d1a/a16168.html#aa79bf97b6772956795bd2f16b85e061f", null ],
+    [ "GetPlrInsanityAuraId", "d3/d1a/a16168.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
+    [ "JustDied", "d3/d1a/a16168.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
+    [ "JustEngagedWith", "d3/d1a/a16168.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
+    [ "KilledUnit", "d3/d1a/a16168.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
+    [ "Reset", "d3/d1a/a16168.html#a0377375b89b02db3cae01390fdd13ee2", null ],
+    [ "ResetPlayersPhaseMask", "d3/d1a/a16168.html#afbfa62f2b72a95434348f74fdda46da6", null ],
+    [ "ScheduleTasks", "d3/d1a/a16168.html#a44a8aa836a45e5a9827814bb731d2882", null ],
+    [ "SetData", "d3/d1a/a16168.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
+    [ "UpdateAI", "d3/d1a/a16168.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
+    [ "insanityPhase", "d3/d1a/a16168.html#ae90de1e956eb3653c8c2f0c04d89585b", null ]
 ];

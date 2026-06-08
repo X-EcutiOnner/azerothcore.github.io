@@ -1,6 +1,6 @@
 var a11864 =
 [
-    [ "HitHandler", "d5/d16/a11864.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "d5/d16/a11864.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "d5/d16/a11864.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "CastHandler", "d5/d16/a11864.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
+    [ "Call", "d5/d16/a11864.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
+    [ "pCastHandlerScript", "d5/d16/a11864.html#a091c494c18bc81968a386bc5f2565905", null ]
 ];

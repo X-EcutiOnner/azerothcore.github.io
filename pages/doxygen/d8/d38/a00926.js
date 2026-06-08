@@ -1,14 +1,14 @@
 var a00926 =
 [
-    [ "boss_sartharion", "d8/df4/a16296.html", "d8/df4/a16296" ],
-    [ "boss_sartharion_dragonAI", "d1/dd4/a16300.html", "d1/dd4/a16300" ],
-    [ "boss_sartharion_tenebron", "d4/d5f/a16304.html", "d4/d5f/a16304" ],
-    [ "boss_sartharion_shadron", "d6/d39/a16308.html", "d6/d39/a16308" ],
-    [ "boss_sartharion_vesperon", "d6/dd6/a16312.html", "d6/dd6/a16312" ],
-    [ "npc_twilight_summon", "d2/d06/a16316.html", "d2/d06/a16316" ],
-    [ "spell_sartharion_lava_strike", "d2/d36/a16320.html", "d2/d36/a16320" ],
-    [ "spell_obsidian_sanctum_flame_tsunami", "d7/ded/a16324.html", "d7/ded/a16324" ],
-    [ "spell_obsidian_sanctum_flame_tsunami_leap", "db/dd9/a16328.html", "db/dd9/a16328" ],
+    [ "boss_sartharion", "d6/dd6/a16312.html", "d6/dd6/a16312" ],
+    [ "boss_sartharion_dragonAI", "d2/d06/a16316.html", "d2/d06/a16316" ],
+    [ "boss_sartharion_tenebron", "d2/d36/a16320.html", "d2/d36/a16320" ],
+    [ "boss_sartharion_shadron", "d7/ded/a16324.html", "d7/ded/a16324" ],
+    [ "boss_sartharion_vesperon", "db/dd9/a16328.html", "db/dd9/a16328" ],
+    [ "npc_twilight_summon", "d9/d4c/a16332.html", "d9/d4c/a16332" ],
+    [ "spell_sartharion_lava_strike", "d7/da0/a16336.html", "d7/da0/a16336" ],
+    [ "spell_obsidian_sanctum_flame_tsunami", "d1/dbc/a16340.html", "d1/dbc/a16340" ],
+    [ "spell_obsidian_sanctum_flame_tsunami_leap", "d5/d52/a16344.html", "d5/d52/a16344" ],
     [ "Events", "d8/d38/a00926.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,8 +1,9 @@
 var a12204 =
 [
-    [ "cache_commandscript", "d6/d10/a12204.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "d6/d10/a12204.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "d6/d10/a12204.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "d6/d10/a12204.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "d6/d10/a12204.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "autobroadcast_commandscript", "d6/d10/a12204.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "d6/d10/a12204.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "d6/d10/a12204.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "d6/d10/a12204.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "d6/d10/a12204.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "d6/d10/a12204.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

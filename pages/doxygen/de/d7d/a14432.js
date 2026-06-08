@@ -1,6 +1,13 @@
 var a14432 =
 [
-    [ "LaunchHit", "de/d7d/a14432.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "de/d7d/a14432.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "de/d7d/a14432.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "npc_ohganAI", "de/d7d/a14432.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "de/d7d/a14432.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "de/d7d/a14432.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "de/d7d/a14432.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "de/d7d/a14432.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "de/d7d/a14432.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "de/d7d/a14432.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "de/d7d/a14432.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "de/d7d/a14432.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "de/d7d/a14432.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

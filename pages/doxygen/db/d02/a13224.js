@@ -1,6 +1,6 @@
 var a13224 =
 [
-    [ "HandleAfterCast", "db/d02/a13224.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "db/d02/a13224.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "db/d02/a13224.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "HandleProc", "db/d02/a13224.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "db/d02/a13224.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "db/d02/a13224.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

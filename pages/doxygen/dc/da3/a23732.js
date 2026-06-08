@@ -1,6 +1,6 @@
 var a23732 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "dc/da1/a23736.html", "dc/da1/a23736" ],
-    [ "npc_creditmarker_visit_with_ancestors", "dc/da3/a23732.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "dc/da3/a23732.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "go_beaconAI", "dc/da3/a23732.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "dc/da3/a23732.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "dc/da3/a23732.html#a083094ececd327c833649da6a755c635", null ]
 ];

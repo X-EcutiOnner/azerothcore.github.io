@@ -1,9 +1,7 @@
 var a10484 =
 [
-    [ "entry", "d3/de2/a10484.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "d3/de2/a10484.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "d3/de2/a10484.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "d3/de2/a10484.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "d3/de2/a10484.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "d3/de2/a10484.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "WaypointPath", "d3/de2/a10484.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "d3/de2/a10484.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "d3/de2/a10484.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "d3/de2/a10484.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

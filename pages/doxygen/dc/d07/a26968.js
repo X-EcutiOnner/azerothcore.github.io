@@ -1,6 +1,7 @@
 var a26968 =
 [
-    [ "HandleRemove", "dc/d07/a26968.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "dc/d07/a26968.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "dc/d07/a26968.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "CalculateAmount", "dc/d07/a26968.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "dc/d07/a26968.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "dc/d07/a26968.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "dc/d07/a26968.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

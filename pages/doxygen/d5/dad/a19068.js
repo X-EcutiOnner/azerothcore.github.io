@@ -1,6 +1,9 @@
 var a19068 =
 [
-    [ "npc_icc_severed_essenceAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
-    [ "npc_icc_severed_essence", "d5/dad/a19068.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d5/dad/a19068.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d5/dad/a19068.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d5/dad/a19068.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d5/dad/a19068.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d5/dad/a19068.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d5/dad/a19068.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d5/dad/a19068.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

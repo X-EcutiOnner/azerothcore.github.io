@@ -1,12 +1,6 @@
 var a11960 =
 [
-    [ "BroadcastTextBuilder", "d4/d71/a11960.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "d4/d71/a11960.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "d4/d71/a11960.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "d4/d71/a11960.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "d4/d71/a11960.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "d4/d71/a11960.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "d4/d71/a11960.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "d4/d71/a11960.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "d4/d71/a11960.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "AfterCheckProcHandler", "d4/d71/a11960.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
+    [ "Call", "d4/d71/a11960.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
+    [ "_HandlerScript", "d4/d71/a11960.html#af5a393efc729e8588c0fc425fdfead99", null ]
 ];

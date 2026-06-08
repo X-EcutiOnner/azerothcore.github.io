@@ -1,6 +1,7 @@
 var a19584 =
 [
-    [ "instance_nexus_InstanceMapScript", "df/dbd/a19588.html", "df/dbd/a19588" ],
-    [ "instance_nexus", "de/df9/a19584.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "de/df9/a19584.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "HandlePull", "de/df9/a19584.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "de/df9/a19584.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "de/df9/a19584.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "de/df9/a19584.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

@@ -1,8 +1,9 @@
 var a19580 =
 [
-    [ "npc_crystal_spike", "de/ddf/a19580.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "de/ddf/a19580.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "de/ddf/a19580.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "de/ddf/a19580.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "de/ddf/a19580.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "HandleApply", "de/ddf/a19580.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "de/ddf/a19580.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "de/ddf/a19580.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "de/ddf/a19580.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "de/ddf/a19580.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "de/ddf/a19580.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

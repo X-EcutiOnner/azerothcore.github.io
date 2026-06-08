@@ -1,6 +1,6 @@
 var a21984 =
 [
-    [ "HandleScript", "d1/ded/a21984.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d1/ded/a21984.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d1/ded/a21984.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "CheckCast", "d1/ded/a21984.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d1/ded/a21984.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d1/ded/a21984.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

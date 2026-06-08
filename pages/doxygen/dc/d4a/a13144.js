@@ -1,8 +1,13 @@
 var a13144 =
 [
-    [ "npc_cyclone", "dc/d4a/a13144.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "dc/d4a/a13144.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "dc/d4a/a13144.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "dc/d4a/a13144.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "dc/d4a/a13144.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "boss_roar", "dc/d4a/a13144.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "dc/d4a/a13144.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "dc/d4a/a13144.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "dc/d4a/a13144.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "dc/d4a/a13144.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "dc/d4a/a13144.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "dc/d4a/a13144.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "dc/d4a/a13144.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "dc/d4a/a13144.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "dc/d4a/a13144.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

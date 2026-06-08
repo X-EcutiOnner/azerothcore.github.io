@@ -1,6 +1,6 @@
 var a19440 =
 [
-    [ "npc_teslaAI", "da/dd0/a19444.html", "da/dd0/a19444" ],
-    [ "npc_tesla", "d9/dc6/a19440.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d9/dc6/a19440.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_thaddius_summonAI", "da/dd0/a19444.html", "da/dd0/a19444" ],
+    [ "boss_thaddius_summon", "d9/dc6/a19440.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d9/dc6/a19440.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

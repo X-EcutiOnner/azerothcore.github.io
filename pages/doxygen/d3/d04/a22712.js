@@ -1,8 +1,6 @@
 var a22712 =
 [
-    [ "CalcPeriodic", "d3/d04/a22712.html#aad87c25b9b3255a4871bec39d9787299", null ],
-    [ "PrepareAuraScript", "d3/d04/a22712.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
-    [ "Register", "d3/d04/a22712.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
-    [ "Update", "d3/d04/a22712.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
-    [ "Validate", "d3/d04/a22712.html#ae4f7bfb1cd95666acada217173876352", null ]
+    [ "instance_black_temple_InstanceMapScript", "d0/dbc/a22716.html", "d0/dbc/a22716" ],
+    [ "instance_black_temple", "d3/d04/a22712.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d3/d04/a22712.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

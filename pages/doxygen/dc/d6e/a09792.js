@@ -1,7 +1,8 @@
 var a09792 =
 [
-    [ "PlayerAtMinimumRangeAway", "dc/d6e/a09792.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "dc/d6e/a09792.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "dc/d6e/a09792.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "dc/d6e/a09792.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "dc/d6e/a09792.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "dc/d6e/a09792.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "dc/d6e/a09792.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "dc/d6e/a09792.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "dc/d6e/a09792.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

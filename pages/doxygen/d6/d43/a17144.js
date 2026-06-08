@@ -1,12 +1,6 @@
 var a17144 =
 [
-    [ "boss_marwyn", "d6/d43/a17144.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
-    [ "DoAction", "d6/d43/a17144.html#a7bd848b407d33942f05b48b6284506bb", null ],
-    [ "EnterEvadeMode", "d6/d43/a17144.html#a93849e995d62ba5a220e08157d8758fa", null ],
-    [ "JustDied", "d6/d43/a17144.html#a89fd620d0e74675d671cb69cc917d024", null ],
-    [ "JustEngagedWith", "d6/d43/a17144.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
-    [ "KilledUnit", "d6/d43/a17144.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
-    [ "Reset", "d6/d43/a17144.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
-    [ "UpdateAI", "d6/d43/a17144.html#ae8d1b8908983af8bff1f13641472817f", null ],
-    [ "_startingFight", "d6/d43/a17144.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
+    [ "entry", "d6/d43/a17144.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d6/d43/a17144.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d6/d43/a17144.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

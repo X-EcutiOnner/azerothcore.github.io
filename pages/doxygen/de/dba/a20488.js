@@ -1,9 +1,10 @@
 var a20488 =
 [
-    [ "npc_ulduar_dark_rune_watcher", "de/dba/a20488.html#aaddea3969eaab06df6b7e5d08f6ad626", null ],
-    [ "CanAIAttack", "de/dba/a20488.html#ae87ae4e671855f9e18eef6ba7f455463", null ],
-    [ "Reset", "de/dba/a20488.html#a66ac44c21691994b0b45c096dd7a0d56", null ],
-    [ "UpdateAI", "de/dba/a20488.html#a008399ff99fbf7c298485450cd3bd4e3", null ],
-    [ "timer1", "de/dba/a20488.html#a8e7520f4f33604ebd8177b12ca610ea3", null ],
-    [ "timer2", "de/dba/a20488.html#a1be016384a7fd92e96786ff6caf6c77d", null ]
+    [ "npc_ulduar_harpoonfirestate", "de/dba/a20488.html#a2456fbee16367a524f26873da99247e8", null ],
+    [ "GetData", "de/dba/a20488.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
+    [ "GetHarpoonGunIdForThisHFS", "de/dba/a20488.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
+    [ "Reset", "de/dba/a20488.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
+    [ "SetData", "de/dba/a20488.html#a338c6cb2be0e05726f372344fdc2b436", null ],
+    [ "pInstance", "de/dba/a20488.html#aee0914001b38be87976cd44b6bbaf276", null ],
+    [ "repairPoints", "de/dba/a20488.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
 ];

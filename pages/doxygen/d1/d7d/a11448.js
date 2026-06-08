@@ -1,7 +1,8 @@
 var a11448 =
 [
-    [ "PetActionSound", "d1/d7d/a11448.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d1/d7d/a11448.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d1/d7d/a11448.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d1/d7d/a11448.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "PetSpellAutocast", "d1/d7d/a11448.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "d1/d7d/a11448.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "d1/d7d/a11448.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "d1/d7d/a11448.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "d1/d7d/a11448.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

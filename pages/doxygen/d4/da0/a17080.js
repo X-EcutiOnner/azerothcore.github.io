@@ -1,8 +1,6 @@
 var a17080 =
 [
-    [ "npc_fos_corrupted_soul_fragment", "d4/da0/a17080.html#a1fef6c180e9fc6e8d8d316d45b5066f9", null ],
-    [ "Reset", "d4/da0/a17080.html#ad318f80454cf17b2b9d39a02a83e6e92", null ],
-    [ "UpdateAI", "d4/da0/a17080.html#a8dd94bd36392c75c4971aa50b83a5ada", null ],
-    [ "Instance", "d4/da0/a17080.html#a34d1912b83f9da8335ab3e7d527e5e01", null ],
-    [ "Timer", "d4/da0/a17080.html#a82a7ce4a8d07e7d4dab30d4f11aeb006", null ]
+    [ "instance_drak_tharon_keep", "d4/da0/a17080.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d4/da0/a17080.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d4/da0/a17080.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

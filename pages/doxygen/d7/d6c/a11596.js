@@ -1,19 +1,11 @@
 var a11596 =
 [
-    [ "PacketThrottlingMap", "d7/d6c/a11596.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "d7/d6c/a11596.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "d7/d6c/a11596.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "d7/d6c/a11596.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "d7/d6c/a11596.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "d7/d6c/a11596.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "d7/d6c/a11596.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "d7/d6c/a11596.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "d7/d6c/a11596.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "Player", "d7/d6c/a11596.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d7/d6c/a11596.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Face", "d7/d6c/a11596.html#a6334464eea38be514f3faa7538b39a5a", null ],
+    [ "FacialHair", "d7/d6c/a11596.html#a44643270b211d275eb94283842791407", null ],
+    [ "Gender", "d7/d6c/a11596.html#a14321ea3595debe2836eceab8a82f944", null ],
+    [ "HairColor", "d7/d6c/a11596.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
+    [ "HairStyle", "d7/d6c/a11596.html#ade5b2dff213547ab4d707070f8979085", null ],
+    [ "Skin", "d7/d6c/a11596.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
 ];

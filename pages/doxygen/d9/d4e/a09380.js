@@ -1,8 +1,7 @@
 var a09380 =
 [
-    [ "DungeonEncounter", "d9/d4e/a09380.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d9/d4e/a09380.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d9/d4e/a09380.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d9/d4e/a09380.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d9/d4e/a09380.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "QuestPOIPoint", "d9/d4e/a09380.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "d9/d4e/a09380.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "d9/d4e/a09380.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "d9/d4e/a09380.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

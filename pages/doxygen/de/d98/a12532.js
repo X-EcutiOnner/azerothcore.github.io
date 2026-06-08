@@ -1,6 +1,8 @@
 var a12532 =
 [
-    [ "boss_hedrum", "de/d98/a12532.html#adf610c943b7644aa2805934f54571492", null ],
-    [ "JustEngagedWith", "de/d98/a12532.html#a18dd15e991417b68569b5a0e93499c0f", null ],
-    [ "UpdateAI", "de/d98/a12532.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
+    [ "boss_eviscerator", "de/d98/a12532.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
+    [ "DamageTaken", "de/d98/a12532.html#af31de4643026e44c80252e156a39bc69", null ],
+    [ "JustEngagedWith", "de/d98/a12532.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
+    [ "UpdateAI", "de/d98/a12532.html#af974908902d30b8144d1b734e795d6ea", null ],
+    [ "SpellShieldReady", "de/d98/a12532.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
 ];

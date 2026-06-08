@@ -1,8 +1,6 @@
 var a27344 =
 [
-    [ "HandleDummyTick", "d6/d21/a27344.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
-    [ "HandleRemove", "d6/d21/a27344.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
-    [ "PrepareAuraScript", "d6/d21/a27344.html#a06e45d5f63ef1395b5949482e8393098", null ],
-    [ "Register", "d6/d21/a27344.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
-    [ "Validate", "d6/d21/a27344.html#a9a2da4d163a96526e14f5de76798a784", null ]
+    [ "FilterTargets", "d6/d21/a27344.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d6/d21/a27344.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d6/d21/a27344.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

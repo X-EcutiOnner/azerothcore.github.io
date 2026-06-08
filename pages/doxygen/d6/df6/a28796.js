@@ -1,4 +1,6 @@
 var a28796 =
 [
-    [ "ratio", "d6/df6/a28796.html#a4df2f98014dd653657b80b4d98e54896", null ]
+    [ "Id", "d6/df6/a28796.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d6/df6/a28796.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d6/df6/a28796.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

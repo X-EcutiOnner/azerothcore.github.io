@@ -1,7 +1,7 @@
 var a00782 =
 [
-    [ "boss_urom", "d0/dbf/a19620.html", "d0/dbf/a19620" ],
-    [ "boss_urom::boss_uromAI", "dd/ddf/a19624.html", "dd/ddf/a19624" ],
+    [ "boss_urom", "dc/d75/a19636.html", "dc/d75/a19636" ],
+    [ "boss_urom::boss_uromAI", "d2/dc7/a19640.html", "d2/dc7/a19640" ],
     [ "Events", "da/d96/a00782.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,9 +1,9 @@
 var a20436 =
 [
-    [ "npc_ulduar_emergency_fire_bot", "de/d21/a20436.html#ae6e7e18bae098db633de891ab52ca0d3", null ],
-    [ "AttackStart", "de/d21/a20436.html#ab319353cab89d6f1bcb9be7f8e273600", null ],
-    [ "MoveInLineOfSight", "de/d21/a20436.html#a1d217847b4aa4d199bc7060820b2d0fb", null ],
-    [ "MovementInform", "de/d21/a20436.html#a6f7306e3da54511ddbef772044f76950", null ],
-    [ "UpdateAI", "de/d21/a20436.html#a653df31873aca5acb86020cc1e14f4a0", null ],
-    [ "_events", "de/d21/a20436.html#a99f051bd7a1136375103005f0615c4f2", null ]
+    [ "HandleEffectPeriodic", "de/d21/a20436.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "de/d21/a20436.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "de/d21/a20436.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "de/d21/a20436.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "de/d21/a20436.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "de/d21/a20436.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

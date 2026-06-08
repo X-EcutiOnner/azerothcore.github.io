@@ -1,6 +1,7 @@
 var a12724 =
 [
-    [ "boss_flamegor", "da/d4a/a12724.html#a721c23d631d305c102117566f609f10a", null ],
-    [ "JustEngagedWith", "da/d4a/a12724.html#aebbcd35868c64d2a0b1f660720f84575", null ],
-    [ "UpdateAI", "da/d4a/a12724.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
+    [ "HandleScript", "da/d4a/a12724.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "da/d4a/a12724.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "da/d4a/a12724.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "da/d4a/a12724.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

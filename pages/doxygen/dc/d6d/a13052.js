@@ -1,10 +1,19 @@
 var a13052 =
 [
-    [ "boss_servant_quarters", "dc/d6d/a13052.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "dc/d6d/a13052.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "dc/d6d/a13052.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "dc/d6d/a13052.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "dc/d6d/a13052.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "dc/d6d/a13052.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "dc/d6d/a13052.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "boss_malchezaar", "dc/d6d/a13052.html#a68adb0f05177316f9e39a48669f60829", null ],
+    [ "clearweapons", "dc/d6d/a13052.html#a354e07cb1f9ae86d96d07cb80f911474", null ],
+    [ "EnfeebleResetHealth", "dc/d6d/a13052.html#a7fcaec7c991f9d6df816aef650e53855", null ],
+    [ "Initialize", "dc/d6d/a13052.html#a1b48e2c117ac4c60f11310e43d34264b", null ],
+    [ "JustDied", "dc/d6d/a13052.html#aee066b4a67c61ae70fc487adf0be00e0", null ],
+    [ "JustEngagedWith", "dc/d6d/a13052.html#a5cfd1284c572f72ecde9d9ad94922d2b", null ],
+    [ "KilledUnit", "dc/d6d/a13052.html#a0d91be1d9ad3a0876bec8b694edd44be", null ],
+    [ "MaxSpawns", "dc/d6d/a13052.html#a25ef9558fcccee430ef92703af903d91", null ],
+    [ "PickTarget", "dc/d6d/a13052.html#a2c825f7f116891601ef2c3809c7db15c", null ],
+    [ "Reset", "dc/d6d/a13052.html#a72b54fd786c064114df3b8a09835e841", null ],
+    [ "SpawnInfernal", "dc/d6d/a13052.html#a58d1823940988f6f55aec8a5da44fd54", null ],
+    [ "SpellHitTarget", "dc/d6d/a13052.html#a9eb75b54ea480b38590695635a9cb4fe", null ],
+    [ "_enfeebleTargets", "dc/d6d/a13052.html#adc405cdbcc17eabade5794a7801c5323", null ],
+    [ "_phase", "dc/d6d/a13052.html#a94be6cf7bb8cd7857fe82638d0d0e853", null ],
+    [ "infernalTargets", "dc/d6d/a13052.html#a55b8c2dd25af193e078fdb0315863783", null ],
+    [ "relays", "dc/d6d/a13052.html#a7695c12779ada381cb04085dcf8dbb2c", null ]
 ];

@@ -1,8 +1,12 @@
 var a28396 =
 [
-    [ "npc_nelsonAI", "de/d61/a28400.html", "de/d61/a28400" ],
-    [ "npc_nelson", "de/d0a/a28396.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "de/d0a/a28396.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "de/d0a/a28396.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "de/d0a/a28396.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "categoryId", "de/d0a/a28396.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "de/d0a/a28396.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "de/d0a/a28396.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "de/d0a/a28396.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "de/d0a/a28396.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "de/d0a/a28396.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "de/d0a/a28396.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "de/d0a/a28396.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "de/d0a/a28396.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

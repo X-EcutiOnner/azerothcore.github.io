@@ -1,10 +1,6 @@
 var a11868 =
 [
-    [ "TargetHook", "d5/dc5/a11868.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d5/dc5/a11868.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d5/dc5/a11868.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d5/dc5/a11868.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d5/dc5/a11868.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d5/dc5/a11868.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d5/dc5/a11868.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "CheckCastHandler", "d5/dc5/a11868.html#a8647582abeea09779e05d809cbdb0d06", null ],
+    [ "Call", "d5/dc5/a11868.html#a805de70601b15de19639ca01c75ae7f7", null ],
+    [ "_checkCastHandlerScript", "d5/dc5/a11868.html#af13f11d14772afbea06f0020df4bbe6c", null ]
 ];

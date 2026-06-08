@@ -1,7 +1,6 @@
 var a27764 =
 [
-    [ "HandlePeriodic", "dc/dc5/a27764.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "dc/dc5/a27764.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "dc/dc5/a27764.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "dc/dc5/a27764.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "boss_taerarAI", "dd/db1/a27768.html", "dd/db1/a27768" ],
+    [ "boss_taerar", "dc/dc5/a27764.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "dc/dc5/a27764.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

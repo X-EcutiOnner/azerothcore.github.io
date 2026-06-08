@@ -1,8 +1,10 @@
 var a24628 =
 [
-    [ "HandleSchoolDMG", "d8/dc3/a24628.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "d8/dc3/a24628.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "d8/dc3/a24628.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "d8/dc3/a24628.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "d8/dc3/a24628.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "CalcAmount", "d8/dc3/a24628.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d8/dc3/a24628.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d8/dc3/a24628.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d8/dc3/a24628.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d8/dc3/a24628.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d8/dc3/a24628.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d8/dc3/a24628.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

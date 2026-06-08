@@ -1,6 +1,10 @@
 var a15376 =
 [
-    [ "go_ossirian_crystalAI", "d5/dbd/a15380.html", "d5/dbd/a15380" ],
-    [ "go_ossirian_crystal", "d3/dbe/a15376.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d3/dbe/a15376.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "boss_moam", "d3/dbe/a15376.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d3/dbe/a15376.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d3/dbe/a15376.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d3/dbe/a15376.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d3/dbe/a15376.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d3/dbe/a15376.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d3/dbe/a15376.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

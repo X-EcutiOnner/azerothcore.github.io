@@ -1,11 +1,6 @@
 var a21632 =
 [
-    [ "npc_lake_frogAI", "d8/d69/a21632.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d8/d69/a21632.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d8/d69/a21632.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d8/d69/a21632.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d8/d69/a21632.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d8/d69/a21632.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d8/d69/a21632.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d8/d69/a21632.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "CheckRequirement", "d8/d69/a21632.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "d8/d69/a21632.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "d8/d69/a21632.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

@@ -1,7 +1,7 @@
 var a00272 =
 [
-    [ "boss_ambassador_flamelash", "d6/d49/a12500.html", "d6/d49/a12500" ],
-    [ "npc_burning_spirit", "d7/d32/a12504.html", "d7/d32/a12504" ],
+    [ "boss_ambassador_flamelash", "df/d4f/a12516.html", "df/d4f/a12516" ],
+    [ "npc_burning_spirit", "d1/da6/a12520.html", "d1/da6/a12520" ],
     [ "AmbassadorEvents", "d9/dd6/a00272.html#a6408fb2256d254e95ca33854b1e92f3e", [
       [ "AGGRO_TEXT", "d9/dd6/a00272.html#a6408fb2256d254e95ca33854b1e92f3ea5b8aad11d0c55c9f7c0a9a6f2fa819d9", null ],
       [ "EVENT_SPELL_FIREBLAST", "d9/dd6/a00272.html#a6408fb2256d254e95ca33854b1e92f3eaf938480f48b00e9201b4290fa26de919", null ],

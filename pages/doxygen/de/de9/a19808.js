@@ -1,9 +1,12 @@
 var a19808 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "de/de9/a19808.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "de/de9/a19808.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "de/de9/a19808.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "de/de9/a19808.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "de/de9/a19808.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "de/de9/a19808.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "boss_sjonnirAI", "de/de9/a19808.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "de/de9/a19808.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "de/de9/a19808.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "de/de9/a19808.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "de/de9/a19808.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "de/de9/a19808.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "de/de9/a19808.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "de/de9/a19808.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "de/de9/a19808.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

@@ -1,7 +1,17 @@
 var a20664 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "dd/db5/a20664.html#afc092be8079630b1214c98b8896a22c3", null ],
-    [ "DoAction", "dd/db5/a20664.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "dd/db5/a20664.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "dd/db5/a20664.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_yoggsaron", "dd/db5/a20664.html#a28abd29c2f570dd5f6f56289a6cc5e9e", null ],
+    [ "AttackStart", "dd/db5/a20664.html#a8110dc78a8e60d25df6195107960365a", null ],
+    [ "DoAction", "dd/db5/a20664.html#a647c5cf55081ec4d66ae75be5d471210", null ],
+    [ "GetData", "dd/db5/a20664.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
+    [ "JustDied", "dd/db5/a20664.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
+    [ "JustSummoned", "dd/db5/a20664.html#af641e349634bc2977fd2fe7b7edad310", null ],
+    [ "SpellHit", "dd/db5/a20664.html#ab477975d288844051b22991649bdedd4", null ],
+    [ "SummonImmortalGuardian", "dd/db5/a20664.html#ad8ba569e58047dcfff8d764489f024ad", null ],
+    [ "UpdateAI", "dd/db5/a20664.html#a395114524b73f0176aa9ed331cc0683f", null ],
+    [ "_instance", "dd/db5/a20664.html#aa9878513823c8f3f71a5dd5b80ae20f4", null ],
+    [ "_thirdPhase", "dd/db5/a20664.html#a0d76e9ae977a2165d52413807897604e", null ],
+    [ "_usedInsane", "dd/db5/a20664.html#a28191094a0252d5af48f5b046013eb3e", null ],
+    [ "events", "dd/db5/a20664.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
+    [ "summons", "dd/db5/a20664.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
 ];

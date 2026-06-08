@@ -1,5 +1,5 @@
 var a12040 =
 [
-    [ "PlayerDump", "dc/d61/a12040.html#a457c89834631206d39453721e41af28e", null ],
-    [ "InitializeTables", "dc/d61/a12040.html#a69c8e6c412ac09099752a3ad388f5467", null ]
+    [ "Name", "dc/d61/a12040.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "dc/d61/a12040.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

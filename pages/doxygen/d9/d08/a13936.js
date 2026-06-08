@@ -1,10 +1,10 @@
 var a13936 =
 [
-    [ "npc_sentinel_leader", "d9/d08/a13936.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d9/d08/a13936.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d9/d08/a13936.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d9/d08/a13936.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d9/d08/a13936.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d9/d08/a13936.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d9/d08/a13936.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_partygoer_pather", "d9/d08/a13936.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "d9/d08/a13936.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "d9/d08/a13936.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "d9/d08/a13936.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "d9/d08/a13936.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "d9/d08/a13936.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "d9/d08/a13936.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

@@ -1,9 +1,9 @@
 var a07732 =
 [
-    [ "entry", "dd/dfe/a07732.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "dd/dfe/a07732.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "dd/dfe/a07732.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "dd/dfe/a07732.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "dd/dfe/a07732.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "dd/dfe/a07732.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "BattlegroundEYScore", "dd/dfe/a07732.html#a91c17f1ff1924439b05840cd11ede36f", null ],
+    [ "BuildObjectivesBlock", "dd/dfe/a07732.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
+    [ "GetAttr1", "dd/dfe/a07732.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
+    [ "UpdateScore", "dd/dfe/a07732.html#afad034f453c54587b86532a37335ab18", null ],
+    [ "BattlegroundEY", "dd/dfe/a07732.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
+    [ "FlagCaptures", "dd/dfe/a07732.html#a057a335c7491c1031666e6d10cf314b2", null ]
 ];

@@ -1,6 +1,6 @@
 var a16504 =
 [
-    [ "npc_living_infernoAI", "d5/d35/a16508.html", "d5/d35/a16508" ],
-    [ "npc_living_inferno", "d9/d59/a16504.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d9/d59/a16504.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "PrepareSpellScript", "d9/d59/a16504.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d9/d59/a16504.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d9/d59/a16504.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

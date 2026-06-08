@@ -1,7 +1,6 @@
 var a19192 =
 [
-    [ "OnRemove", "d4/d6a/a19192.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d4/d6a/a19192.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d4/d6a/a19192.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d4/d6a/a19192.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "npc_ioc_gunship_captainAI", "db/df0/a19196.html", "db/df0/a19196" ],
+    [ "npc_ioc_gunship_captain", "d4/d6a/a19192.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
+    [ "GetAI", "d4/d6a/a19192.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
 ];

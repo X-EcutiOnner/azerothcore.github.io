@@ -1,6 +1,6 @@
 var a03635 =
 [
-    [ "PlayerScript", "d9/dc8/a10744.html", "d9/dc8/a10744" ],
+    [ "PlayerScript", "dc/d2d/a10756.html", "dc/d2d/a10756" ],
     [ "PlayerHook", "dc/d6c/a03635.html#a7d525e751616f7554a64c9ae6e12a357", [
       [ "PLAYERHOOK_ON_PLAYER_JUST_DIED", "dc/d6c/a03635.html#a7d525e751616f7554a64c9ae6e12a357a5b36d5121754e80347cec73da33b380e", null ],
       [ "PLAYERHOOK_ON_CALCULATE_TALENTS_POINTS", "dc/d6c/a03635.html#a7d525e751616f7554a64c9ae6e12a357aff039f45bb556c0812237f31d398672f", null ],

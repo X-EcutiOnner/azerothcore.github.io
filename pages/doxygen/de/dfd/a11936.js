@@ -1,6 +1,7 @@
 var a11936 =
 [
-    [ "CheckProcHandler", "de/dfd/a11936.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "de/dfd/a11936.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "de/dfd/a11936.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "EffectApplyHandler", "de/dfd/a11936.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "de/dfd/a11936.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "de/dfd/a11936.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "de/dfd/a11936.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

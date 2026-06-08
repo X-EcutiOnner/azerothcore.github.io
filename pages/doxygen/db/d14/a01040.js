@@ -1,9 +1,9 @@
 var a01040 =
 [
-    [ "boss_razuvious", "df/d6a/a19388.html", "df/d6a/a19388" ],
-    [ "boss_razuvious::boss_razuviousAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
-    [ "boss_razuvious_minion", "d6/d4a/a19396.html", "d6/d4a/a19396" ],
-    [ "boss_razuvious_minion::boss_razuvious_minionAI", "d7/d66/a19400.html", "d7/d66/a19400" ],
+    [ "boss_razuvious", "da/d89/a19404.html", "da/d89/a19404" ],
+    [ "boss_razuvious::boss_razuviousAI", "dc/dbe/a19408.html", "dc/dbe/a19408" ],
+    [ "boss_razuvious_minion", "dc/d17/a19412.html", "dc/d17/a19412" ],
+    [ "boss_razuvious_minion::boss_razuvious_minionAI", "db/d88/a19416.html", "db/d88/a19416" ],
     [ "Actions", "db/d14/a01040.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

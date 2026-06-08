@@ -1,6 +1,6 @@
 var a11472 =
 [
-    [ "CorpseMapPositionQuery", "dc/dd5/a11472.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "dc/dd5/a11472.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "dc/dd5/a11472.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "NameQuery", "dc/dd5/a11472.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "dc/dd5/a11472.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "dc/dd5/a11472.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

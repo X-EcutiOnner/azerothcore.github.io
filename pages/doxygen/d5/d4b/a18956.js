@@ -1,6 +1,6 @@
 var a18956 =
 [
-    [ "HandleEvent", "d5/d4b/a18956.html#a7936a64a1142a47b2addfd746dccfcef", null ],
-    [ "PrepareSpellScript", "d5/d4b/a18956.html#a00e2be07131c674558d0364df98849ab", null ],
-    [ "Register", "d5/d4b/a18956.html#a89364583504d2eaa75473586850bc3d5", null ]
+    [ "npc_arthas_teleport_visualAI", "dc/dde/a18960.html", "dc/dde/a18960" ],
+    [ "npc_arthas_teleport_visual", "d5/d4b/a18956.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d5/d4b/a18956.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

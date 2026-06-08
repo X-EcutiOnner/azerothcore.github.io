@@ -1,8 +1,5 @@
 var a20848 =
 [
-    [ "boss_keleseth", "d0/d94/a20848.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "d0/d94/a20848.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "d0/d94/a20848.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "d0/d94/a20848.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "d0/d94/a20848.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "npc_salvaged_siege_engine", "d0/d94/a20848.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "d0/d94/a20848.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

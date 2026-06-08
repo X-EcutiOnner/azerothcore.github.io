@@ -1,7 +1,10 @@
 var a17200 =
 [
-    [ "npc_hor_leader_secondAI", "d6/de5/a17204.html", "d6/de5/a17204" ],
-    [ "npc_hor_leader_second", "da/d73/a17200.html#a9fa1f38ab8a0b5d2207857b75e272ee0", null ],
-    [ "GetAI", "da/d73/a17200.html#af5b97ecca35501a75658919d384a18f7", null ],
-    [ "OnGossipSelect", "da/d73/a17200.html#a8355f7f2f8e7655c7ebc7145a847ab87", null ]
+    [ "boss_frostsworn_general", "da/d73/a17200.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "da/d73/a17200.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "da/d73/a17200.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "da/d73/a17200.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "da/d73/a17200.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "da/d73/a17200.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "da/d73/a17200.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

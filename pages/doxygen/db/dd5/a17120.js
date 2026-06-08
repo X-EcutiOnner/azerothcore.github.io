@@ -1,5 +1,9 @@
 var a17120 =
 [
-    [ "npc_fos_leader_secondAI", "db/dd5/a17120.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "db/dd5/a17120.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "HandlePeriodicTick", "db/dd5/a17120.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "db/dd5/a17120.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "db/dd5/a17120.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "db/dd5/a17120.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "db/dd5/a17120.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "db/dd5/a17120.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

@@ -1,8 +1,12 @@
 var a20604 =
 [
-    [ "OnPeriodic", "d3/de4/a20604.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d3/de4/a20604.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d3/de4/a20604.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d3/de4/a20604.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d3/de4/a20604.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_xt002_boombot", "d3/de4/a20604.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "d3/de4/a20604.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "d3/de4/a20604.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "d3/de4/a20604.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "d3/de4/a20604.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "d3/de4/a20604.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "d3/de4/a20604.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "d3/de4/a20604.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "d3/de4/a20604.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

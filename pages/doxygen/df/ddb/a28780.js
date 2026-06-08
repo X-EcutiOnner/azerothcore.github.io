@@ -1,6 +1,4 @@
 var a28780 =
 [
-    [ "Id", "df/ddb/a28780.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "df/ddb/a28780.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "df/ddb/a28780.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "ID", "df/ddb/a28780.html#a7d31bf2a11559873fc410d4cb32c5f54", null ]
 ];

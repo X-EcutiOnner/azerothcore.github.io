@@ -1,12 +1,12 @@
 var a01331 =
 [
-    [ "npc_maghar_captive", "d3/da2/a23724.html", "d3/da2/a23724" ],
-    [ "npc_maghar_captive::npc_maghar_captiveAI", "de/d3f/a23728.html", "de/d3f/a23728" ],
-    [ "npc_creditmarker_visit_with_ancestors", "dc/da3/a23732.html", "dc/da3/a23732" ],
-    [ "npc_creditmarker_visit_with_ancestors::npc_creditmarker_visit_with_ancestorsAI", "dc/da1/a23736.html", "dc/da1/a23736" ],
-    [ "npc_kurenai_captive", "df/d74/a23740.html", "df/d74/a23740" ],
-    [ "npc_kurenai_captive::npc_kurenai_captiveAI", "d9/d8d/a23744.html", "d9/d8d/a23744" ],
-    [ "go_warmaul_prison", "d2/dbe/a23748.html", "d2/dbe/a23748" ],
+    [ "npc_maghar_captive", "df/d74/a23740.html", "df/d74/a23740" ],
+    [ "npc_maghar_captive::npc_maghar_captiveAI", "d9/d8d/a23744.html", "d9/d8d/a23744" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d2/dbe/a23748.html", "d2/dbe/a23748" ],
+    [ "npc_creditmarker_visit_with_ancestors::npc_creditmarker_visit_with_ancestorsAI", "da/dc2/a23752.html", "da/dc2/a23752" ],
+    [ "npc_kurenai_captive", "d6/d42/a23756.html", "d6/d42/a23756" ],
+    [ "npc_kurenai_captive::npc_kurenai_captiveAI", "d9/d1e/a23760.html", "d9/d1e/a23760" ],
+    [ "go_warmaul_prison", "d0/d4f/a23764.html", "d0/d4f/a23764" ],
     [ "FindingTheSurvivorsData", "dc/d8e/a01331.html#a05f629c8a0695e51bcc6a217d469c6d6", [
       [ "QUEST_FINDING_THE_SURVIVORS", "dc/d8e/a01331.html#a05f629c8a0695e51bcc6a217d469c6d6a9065a5318b6cfd6783abc721a30c2ce5", null ],
       [ "NPC_MAGHAR_PRISONER", "dc/d8e/a01331.html#a05f629c8a0695e51bcc6a217d469c6d6adcae59340797ae5aaa36b217e81dbe0f", null ],

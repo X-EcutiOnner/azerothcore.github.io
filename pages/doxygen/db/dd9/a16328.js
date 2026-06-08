@@ -1,6 +1,8 @@
 var a16328 =
 [
-    [ "HandleLeapBack", "db/dd9/a16328.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "db/dd9/a16328.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "db/dd9/a16328.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "boss_sartharion_vesperon", "db/dd9/a16328.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "db/dd9/a16328.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "db/dd9/a16328.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "db/dd9/a16328.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "db/dd9/a16328.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

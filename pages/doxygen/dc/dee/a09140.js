@@ -1,9 +1,11 @@
 var a09140 =
 [
-    [ "TransportBase", "dc/dee/a09140.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "dc/dee/a09140.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "dc/dee/a09140.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "dc/dee/a09140.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "dc/dee/a09140.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "dc/dee/a09140.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "VehicleSeatAddon", "dc/dee/a09140.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "dc/dee/a09140.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "dc/dee/a09140.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "dc/dee/a09140.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "dc/dee/a09140.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "dc/dee/a09140.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "dc/dee/a09140.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "dc/dee/a09140.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

@@ -1,6 +1,8 @@
 var a19452 =
 [
-    [ "DespawnTime", "d3/dc4/a19452.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d3/dc4/a19452.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d3/dc4/a19452.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "HandleAfterCast", "d3/dc4/a19452.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d3/dc4/a19452.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d3/dc4/a19452.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d3/dc4/a19452.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d3/dc4/a19452.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

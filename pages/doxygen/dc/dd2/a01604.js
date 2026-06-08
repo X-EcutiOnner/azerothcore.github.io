@@ -1,7 +1,7 @@
 var a01604 =
 [
-    [ "LajTransformData", "da/dd2/a23416.html", "da/dd2/a23416" ],
-    [ "boss_laj", "da/d97/a23420.html", "da/d97/a23420" ],
+    [ "LajTransformData", "da/d1e/a23432.html", "da/d1e/a23432" ],
+    [ "boss_laj", "d4/d19/a23436.html", "d4/d19/a23436" ],
     [ "Misc", "dc/dd2/a01604.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

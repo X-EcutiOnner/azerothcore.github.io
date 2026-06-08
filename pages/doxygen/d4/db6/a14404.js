@@ -1,6 +1,9 @@
 var a14404 =
 [
-    [ "boss_mandokirAI", "d2/d6f/a14408.html", "d2/d6f/a14408" ],
-    [ "boss_mandokir", "d4/db6/a14404.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "d4/db6/a14404.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_shade_of_jindo", "d4/db6/a14404.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d4/db6/a14404.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d4/db6/a14404.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d4/db6/a14404.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d4/db6/a14404.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d4/db6/a14404.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

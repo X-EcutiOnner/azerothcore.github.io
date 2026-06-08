@@ -1,7 +1,7 @@
 var a25396 =
 [
-    [ "HandleProc", "d6/d7a/a25396.html#a675a17a574539f2da85a5401afc18fec", null ],
-    [ "PrepareAuraScript", "d6/d7a/a25396.html#a9e5ea1da302356a41b4eff338956ab93", null ],
-    [ "Register", "d6/d7a/a25396.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
-    [ "Validate", "d6/d7a/a25396.html#aec327c219229ae9d59cb491eef2d95d3", null ]
+    [ "HandlePeriodic", "d6/d7a/a25396.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "d6/d7a/a25396.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "d6/d7a/a25396.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "d6/d7a/a25396.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

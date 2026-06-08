@@ -1,4 +1,4 @@
 var a28800 =
 [
-    [ "base", "d7/d6a/a28800.html#ad5e8b55760b9007284e8acf719d7647c", null ]
+    [ "cost", "d7/d6a/a28800.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

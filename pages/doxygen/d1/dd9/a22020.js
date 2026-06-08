@@ -1,7 +1,7 @@
 var a22020 =
 [
-    [ "npc_wg_demolisher_engineer", "d1/dd9/a22020.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d1/dd9/a22020.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d1/dd9/a22020.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d1/dd9/a22020.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "HandleDummy", "d1/dd9/a22020.html#acdf98990ad575fec751a541cac3bcffa", null ],
+    [ "PrepareSpellScript", "d1/dd9/a22020.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
+    [ "Register", "d1/dd9/a22020.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
+    [ "Validate", "d1/dd9/a22020.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
 ];

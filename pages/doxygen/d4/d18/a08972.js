@@ -1,11 +1,10 @@
 var a08972 =
 [
-    [ "FriendInfo", "d4/d18/a08972.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d4/d18/a08972.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d4/d18/a08972.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d4/d18/a08972.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d4/d18/a08972.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d4/d18/a08972.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d4/d18/a08972.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "PlayerSetting", "d4/d18/a08972.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "d4/d18/a08972.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "d4/d18/a08972.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "d4/d18/a08972.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "d4/d18/a08972.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "d4/d18/a08972.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "d4/d18/a08972.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

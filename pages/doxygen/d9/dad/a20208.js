@@ -1,6 +1,6 @@
 var a20208 =
 [
-    [ "npc_ulduar_toasty_fire", "d9/dad/a20208.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d9/dad/a20208.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d9/dad/a20208.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "id", "d9/dad/a20208.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d9/dad/a20208.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d9/dad/a20208.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

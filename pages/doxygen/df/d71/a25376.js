@@ -1,7 +1,6 @@
 var a25376 =
 [
-    [ "HandleProc", "df/d71/a25376.html#a202ed9cca388b984f0dfebb64a512c47", null ],
-    [ "PrepareAuraScript", "df/d71/a25376.html#a133ff30c99bd6521d83e2de2361a5123", null ],
-    [ "Register", "df/d71/a25376.html#a6cab1853296da43b4a4cb39bedb20ffa", null ],
-    [ "Validate", "df/d71/a25376.html#a39b41d1560869ef9a1231fd39d0a652f", null ]
+    [ "CheckProc", "df/d71/a25376.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "df/d71/a25376.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "df/d71/a25376.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

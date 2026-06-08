@@ -1,7 +1,6 @@
 var a16700 =
 [
-    [ "HandleEffectPeriodic", "d3/d43/a16700.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d3/d43/a16700.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d3/d43/a16700.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d3/d43/a16700.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_nerubian_burrowerAI", "da/d31/a16704.html", "da/d31/a16704" ],
+    [ "npc_nerubian_burrower", "d3/d43/a16700.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d3/d43/a16700.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

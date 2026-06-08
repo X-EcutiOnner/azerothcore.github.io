@@ -1,6 +1,7 @@
 var a14412 =
 [
-    [ "npc_ohganAI", "db/d5b/a14416.html", "db/d5b/a14416" ],
-    [ "npc_ohgan", "d9/d67/a14412.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "d9/d67/a14412.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "HandleOnHit", "d9/d67/a14412.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d9/d67/a14412.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d9/d67/a14412.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d9/d67/a14412.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

@@ -1,6 +1,7 @@
 var a27244 =
 [
-    [ "HandleProc", "d2/d43/a27244.html#afb4fb2152937e62982aab2a17820d1d9", null ],
-    [ "PrepareAuraScript", "d2/d43/a27244.html#a43ec587b6e8ac94baba7253dfec47640", null ],
-    [ "Register", "d2/d43/a27244.html#ad0824cc4c53915239d609aa117fc4691", null ]
+    [ "HandleBonus", "d2/d43/a27244.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
+    [ "PrepareAuraScript", "d2/d43/a27244.html#aebf4afa25b50be9b99900ef830f26f04", null ],
+    [ "Register", "d2/d43/a27244.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
+    [ "Validate", "d2/d43/a27244.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
 ];

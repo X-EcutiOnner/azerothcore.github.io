@@ -1,10 +1,10 @@
 var a00287 =
 [
-    [ "MajordomoAddData", "da/d02/a12860.html", "da/d02/a12860" ],
-    [ "boss_majordomo", "d4/dc0/a12864.html", "d4/dc0/a12864" ],
-    [ "spell_hate_to_zero", "d2/def/a12868.html", "d2/def/a12868" ],
-    [ "spell_majordomo_separation_anxiety_aura", "d1/d4f/a12872.html", "d1/d4f/a12872" ],
-    [ "spell_summon_ragnaros", "d1/d26/a12876.html", "d1/d26/a12876" ],
+    [ "MajordomoAddData", "d1/d26/a12876.html", "d1/d26/a12876" ],
+    [ "boss_majordomo", "df/de1/a12880.html", "df/de1/a12880" ],
+    [ "spell_hate_to_zero", "dd/d16/a12884.html", "dd/d16/a12884" ],
+    [ "spell_majordomo_separation_anxiety_aura", "d6/d86/a12888.html", "d6/d86/a12888" ],
+    [ "spell_summon_ragnaros", "d5/df0/a12892.html", "d5/df0/a12892" ],
     [ "Events", "d6/d7f/a00287.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

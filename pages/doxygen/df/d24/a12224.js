@@ -1,13 +1,14 @@
 var a12224 =
 [
-    [ "cheat_commandscript", "df/d24/a12224.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "df/d24/a12224.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "df/d24/a12224.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "df/d24/a12224.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "df/d24/a12224.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "df/d24/a12224.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "df/d24/a12224.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "df/d24/a12224.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "df/d24/a12224.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "df/d24/a12224.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "cast_commandscript", "df/d24/a12224.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "df/d24/a12224.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "df/d24/a12224.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "df/d24/a12224.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "df/d24/a12224.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "df/d24/a12224.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "df/d24/a12224.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "df/d24/a12224.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "df/d24/a12224.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "df/d24/a12224.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "df/d24/a12224.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

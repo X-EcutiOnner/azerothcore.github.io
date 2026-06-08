@@ -1,6 +1,7 @@
 var a17776 =
 [
-    [ "Cooldown", "d3/dad/a17776.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d3/dad/a17776.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d3/dad/a17776.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "HandleScript", "d3/dad/a17776.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "d3/dad/a17776.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "d3/dad/a17776.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "d3/dad/a17776.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

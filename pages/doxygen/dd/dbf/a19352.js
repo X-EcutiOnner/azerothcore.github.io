@@ -1,6 +1,6 @@
 var a19352 =
 [
-    [ "boss_maexxnaAI", "d0/d95/a19356.html", "d0/d95/a19356" ],
-    [ "boss_maexxna", "dd/dbf/a19352.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "dd/dbf/a19352.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "HandleAfterHit", "dd/dbf/a19352.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "dd/dbf/a19352.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "dd/dbf/a19352.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

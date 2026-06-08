@@ -1,8 +1,9 @@
 var a10424 =
 [
-    [ "Location", "d5/d7a/a10424.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "d5/d7a/a10424.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "d5/d7a/a10424.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "d5/d7a/a10424.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "d5/d7a/a10424.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "counter", "d5/d7a/a10424.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "d5/d7a/a10424.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "d5/d7a/a10424.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "d5/d7a/a10424.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "d5/d7a/a10424.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "d5/d7a/a10424.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

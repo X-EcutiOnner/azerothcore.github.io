@@ -1,5 +1,9 @@
 var a11496 =
 [
-    [ "PacketHandler", "de/def/a11496.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "de/def/a11496.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "TotemCreated", "de/def/a11496.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "de/def/a11496.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "de/def/a11496.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "de/def/a11496.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "de/def/a11496.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "de/def/a11496.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

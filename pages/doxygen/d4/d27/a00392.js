@@ -1,7 +1,7 @@
 var a00392 =
 [
-    [ "npc_rookery_hatcher", "d1/d72/a12620.html", "d1/d72/a12620" ],
-    [ "boss_solakar_flamewreath", "d6/dbc/a12624.html", "d6/dbc/a12624" ],
+    [ "npc_rookery_hatcher", "db/d10/a12636.html", "db/d10/a12636" ],
+    [ "boss_solakar_flamewreath", "dc/d48/a12640.html", "dc/d48/a12640" ],
     [ "Says", "d4/d27/a00392.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d0/d27/a00239.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d4/d13/a00377.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

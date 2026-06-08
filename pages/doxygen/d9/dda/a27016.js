@@ -1,6 +1,8 @@
 var a27016 =
 [
-    [ "HandleEffectApply", "d9/dda/a27016.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "d9/dda/a27016.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "d9/dda/a27016.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "CheckProc", "d9/dda/a27016.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "d9/dda/a27016.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "d9/dda/a27016.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "d9/dda/a27016.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "d9/dda/a27016.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

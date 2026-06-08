@@ -1,6 +1,6 @@
 var a00248 =
 [
-    [ "boss_grizzle", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
+    [ "boss_grizzle", "de/d38/a12544.html", "de/d38/a12544" ],
     [ "Grizzle", "dd/dd7/a00248.html#acfff5d4b983e4db1d5efb6bd5da7e7aa", [
       [ "SPELL_GROUNDTREMOR", "dd/dd7/a00248.html#acfff5d4b983e4db1d5efb6bd5da7e7aaa4426ae7fabf4ddb0d8355b0049b5a6bb", null ],
       [ "SPELL_FRENZY", "dd/dd7/a00248.html#acfff5d4b983e4db1d5efb6bd5da7e7aaab54f261ba282273bed875abe6642a293", null ],

@@ -1,11 +1,7 @@
 var a11580 =
 [
-    [ "Player", "df/d37/a11580.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "df/d37/a11580.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Face", "df/d37/a11580.html#a6334464eea38be514f3faa7538b39a5a", null ],
-    [ "FacialHair", "df/d37/a11580.html#a44643270b211d275eb94283842791407", null ],
-    [ "Gender", "df/d37/a11580.html#a14321ea3595debe2836eceab8a82f944", null ],
-    [ "HairColor", "df/d37/a11580.html#aeaa7ce4ecea7f42def63049424a2dd6b", null ],
-    [ "HairStyle", "df/d37/a11580.html#ade5b2dff213547ab4d707070f8979085", null ],
-    [ "Skin", "df/d37/a11580.html#a2876110e687e7248e8c64fcb3a3a80db", null ]
+    [ "MapSessionFilter", "df/d37/a11580.html#ad11a700c36f8f45640402e96edc74b49", null ],
+    [ "~MapSessionFilter", "df/d37/a11580.html#a82960e741c8f64d24a764a915f14e2b8", null ],
+    [ "Process", "df/d37/a11580.html#a54483596fe2a5a0d30fab9a13506b375", null ],
+    [ "ProcessUnsafe", "df/d37/a11580.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
 ];

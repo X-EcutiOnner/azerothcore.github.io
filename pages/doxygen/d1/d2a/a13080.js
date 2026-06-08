@@ -1,6 +1,7 @@
 var a13080 =
 [
-    [ "HandleHit", "d1/d2a/a13080.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
-    [ "PrepareSpellScript", "d1/d2a/a13080.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
-    [ "Register", "d1/d2a/a13080.html#a84853f416eb8250dc3d863dbe22a157f", null ]
+    [ "OnRemove", "d1/d2a/a13080.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d1/d2a/a13080.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d1/d2a/a13080.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d1/d2a/a13080.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

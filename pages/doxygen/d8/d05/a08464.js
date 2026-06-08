@@ -1,10 +1,15 @@
 var a08464 =
 [
-    [ "IsCastable", "d8/d05/a08464.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d8/d05/a08464.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d8/d05/a08464.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d8/d05/a08464.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d8/d05/a08464.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d8/d05/a08464.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d8/d05/a08464.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "Guardian", "d8/d05/a08464.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "d8/d05/a08464.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "d8/d05/a08464.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "d8/d05/a08464.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "d8/d05/a08464.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "d8/d05/a08464.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "d8/d05/a08464.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "d8/d05/a08464.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "d8/d05/a08464.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "d8/d05/a08464.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "d8/d05/a08464.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "d8/d05/a08464.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

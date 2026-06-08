@@ -1,5 +1,6 @@
 var a13572 =
 [
-    [ "at_malfurion_stormrage", "dc/d65/a13572.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "dc/d65/a13572.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "instance_stratholme_InstanceMapScript", "d9/dbb/a13576.html", "d9/dbb/a13576" ],
+    [ "instance_stratholme", "dc/d65/a13572.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "dc/d65/a13572.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

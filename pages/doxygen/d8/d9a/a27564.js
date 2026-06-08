@@ -1,6 +1,8 @@
 var a27564 =
 [
-    [ "HandleProc", "d8/d9a/a27564.html#a6b321d6ee3002f32b546aeaed0925183", null ],
-    [ "PrepareAuraScript", "d8/d9a/a27564.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
-    [ "Register", "d8/d9a/a27564.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
+    [ "CheckProc", "d8/d9a/a27564.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d8/d9a/a27564.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d8/d9a/a27564.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d8/d9a/a27564.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d8/d9a/a27564.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

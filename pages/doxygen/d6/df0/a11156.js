@@ -1,8 +1,11 @@
 var a11156 =
 [
-    [ "SetDungeonDifficulty", "d6/df0/a11156.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "d6/df0/a11156.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "d6/df0/a11156.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "d6/df0/a11156.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "d6/df0/a11156.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "SaveGuildEmblem", "d6/df0/a11156.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "d6/df0/a11156.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "d6/df0/a11156.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "d6/df0/a11156.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "d6/df0/a11156.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "d6/df0/a11156.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "d6/df0/a11156.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "d6/df0/a11156.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

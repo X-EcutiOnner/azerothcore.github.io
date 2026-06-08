@@ -1,6 +1,7 @@
 var a24608 =
 [
-    [ "HandleScript", "d4/d75/a24608.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d4/d75/a24608.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d4/d75/a24608.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "HandlePeriodic", "d4/d75/a24608.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "d4/d75/a24608.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "d4/d75/a24608.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "d4/d75/a24608.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

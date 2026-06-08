@@ -1,6 +1,9 @@
 var a29480 =
 [
-    [ "hasAttr", "d3/d26/a29480.html#aec6e687803471c9e36fb371be3994db9", null ],
-    [ "name", "d3/d26/a29480.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
-    [ "spellId", "d3/d26/a29480.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
+    [ "SetUp", "d3/d26/a29480.html#a20b3a8161766a47ae37349f02cbe5b90", null ],
+    [ "TearDown", "d3/d26/a29480.html#a9b41e4a95a6ca160c70272dfb90b5f8a", null ],
+    [ "creatureQuestMap", "d3/d26/a29480.html#ae8b815994792f237cf6e1803b9eaa7f7", null ],
+    [ "TEST_CREATURE_ID", "d3/d26/a29480.html#a80a79959d4b5520f7acf671677a671e9", null ],
+    [ "TEST_POOL_ID", "d3/d26/a29480.html#aa81759d0539b72ad3cdda7d2231f8e63", null ],
+    [ "TEST_QUEST_ID", "d3/d26/a29480.html#a26e68107bb625d0c5b6281c7df9199be", null ]
 ];

@@ -1,5 +1,5 @@
 var a08700 =
 [
-    [ "PositionXYZOStreamer", "d7/d6b/a08700.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "d7/d6b/a08700.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "InventoryType", "d7/d6b/a08700.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "d7/d6b/a08700.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

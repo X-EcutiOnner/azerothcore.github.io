@@ -1,14 +1,14 @@
 var a00062 =
 [
-    [ "boss_sacrolash", "d1/dc9/a13608.html", "d1/dc9/a13608" ],
-    [ "boss_alythess", "d8/d49/a13612.html", "d8/d49/a13612" ],
-    [ "spell_eredar_twins_apply_touch", "d8/d5b/a13616.html", "d8/d5b/a13616" ],
-    [ "spell_eredar_twins_handle_touch", "d0/dd7/a13620.html", "d0/dd7/a13620" ],
-    [ "spell_eredar_twins_flame_sear", "d8/d89/a13624.html", "d8/d89/a13624" ],
-    [ "spell_eredar_twins_blaze", "d2/def/a13628.html", "d2/def/a13628" ],
-    [ "spell_eredar_twins_handle_touch_periodic", "d1/de1/a13632.html", "d1/de1/a13632" ],
-    [ "at_sunwell_eredar_twins", "db/ded/a13636.html", "db/ded/a13636" ],
-    [ "go_eredar_twins_blaze", "d5/d25/a13640.html", "d5/d25/a13640" ],
+    [ "boss_sacrolash", "d8/d89/a13624.html", "d8/d89/a13624" ],
+    [ "boss_alythess", "d2/def/a13628.html", "d2/def/a13628" ],
+    [ "spell_eredar_twins_apply_touch", "d1/de1/a13632.html", "d1/de1/a13632" ],
+    [ "spell_eredar_twins_handle_touch", "db/ded/a13636.html", "db/ded/a13636" ],
+    [ "spell_eredar_twins_flame_sear", "d5/d25/a13640.html", "d5/d25/a13640" ],
+    [ "spell_eredar_twins_blaze", "d2/d24/a13644.html", "d2/d24/a13644" ],
+    [ "spell_eredar_twins_handle_touch_periodic", "d8/d1b/a13648.html", "d8/d1b/a13648" ],
+    [ "at_sunwell_eredar_twins", "dd/d57/a13652.html", "dd/d57/a13652" ],
+    [ "go_eredar_twins_blaze", "d3/ddf/a13656.html", "d3/ddf/a13656" ],
     [ "Quotes", "df/d03/a00062.html#a3f2ffdc8d4bc224b9ab0264dab54463c", [
       [ "YELL_INTRO", "d9/d2e/a00056.html#a3f2ffdc8d4bc224b9ab0264dab54463ca0ec13a75093f46a55544f192e307c7df", null ],
       [ "YELL_INTRO_BREAK_ICE", "d9/d2e/a00056.html#a3f2ffdc8d4bc224b9ab0264dab54463ca1a97163364826a65825f8e71976362c8", null ],

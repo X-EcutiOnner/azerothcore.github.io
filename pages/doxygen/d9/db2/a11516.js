@@ -1,6 +1,5 @@
 var a11516 =
 [
-    [ "ClientOpcodeHandler", "dc/d61/a05028.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "dc/d61/a05028.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "dc/d61/a05028.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "PacketHandler", "d9/db2/a11516.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "d9/db2/a11516.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

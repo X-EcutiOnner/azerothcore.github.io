@@ -1,7 +1,6 @@
 var a13212 =
 [
-    [ "HandleDummy", "d2/d43/a13212.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
-    [ "PrepareSpellScript", "d2/d43/a13212.html#a5738144c85424e11f33aada38273e24e", null ],
-    [ "Register", "d2/d43/a13212.html#a206a4d40e082246193ba36c9080cdac1", null ],
-    [ "Validate", "d2/d43/a13212.html#a0718461731d563d2c948848f60101d49", null ]
+    [ "npc_image_of_medivhAI", "de/d62/a13216.html", "de/d62/a13216" ],
+    [ "npc_image_of_medivh", "d2/d43/a13212.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d2/d43/a13212.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

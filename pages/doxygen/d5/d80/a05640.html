@@ -272,7 +272,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   57</span> </div>
 <div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (5 &lt; args.size())</div>
 <div class="line"><span class="lineno">   59</span>    {</div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> size = Acore::StringTo&lt;uint32&gt;(args[5]))</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint32&gt;</a> size = Acore::StringTo&lt;uint32&gt;(args[5]))</div>
 <div class="line"><span class="lineno">   61</span>        {</div>
 <div class="line"><span class="lineno">   62</span>            <a class="code hl_variable" href="../../d5/d80/a05640.html#a271930a4cb21d7efdc2243b6d33d177f">_maxFileSize</a> = *size;</div>
 <div class="line"><span class="lineno">   63</span>        }</div>
@@ -293,7 +293,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04373_html_ab5487500f5b4b12072043104b916d582"><div class="ttname"><a href="../../d9/db6/a04373.html#ab5487500f5b4b12072043104b916d582">sLog</a></div><div class="ttdeci">#define sLog</div><div class="ttdef"><b>Definition:</b> Log.h:127</div></div>
 <div class="ttc" id="aa04394_html_a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2"><div class="ttname"><a href="../../d5/d22/a04394.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2">APPENDER_FLAGS_MAKE_FILE_BACKUP</a></div><div class="ttdeci">@ APPENDER_FLAGS_MAKE_FILE_BACKUP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:57</div></div>
 <div class="ttc" id="aa04394_html_a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3"><div class="ttname"><a href="../../d5/d22/a04394.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3">APPENDER_FLAGS_USE_TIMESTAMP</a></div><div class="ttdeci">@ APPENDER_FLAGS_USE_TIMESTAMP</div><div class="ttdef"><b>Definition:</b> LogCommon.h:56</div></div>
-<div class="ttc" id="aa04592_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa04595_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
 <div class="ttc" id="aa05034_html_a1b97349dfcb88c6974882d7e34c55895"><div class="ttname"><a href="../../db/d20/a05034.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatStringView fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:44</div></div>
 <div class="ttc" id="aa05628_html"><div class="ttname"><a href="../../d3/d0c/a05628.html">Appender</a></div><div class="ttdef"><b>Definition:</b> Appender.h:29</div></div>
 <div class="ttc" id="aa05628_html_a0d47660ee41c8816342001825f626a8b"><div class="ttname"><a href="../../d3/d0c/a05628.html#a0d47660ee41c8816342001825f626a8b">Appender::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> Appender.h:49</div></div>
@@ -510,7 +510,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  127</span>        <a class="code hl_function" href="../../d5/d80/a05640.html#a039659a1e8e340c9522ff99f119ff5c8">CloseFile</a>();</div>
 <div class="line"><span class="lineno">  128</span>        std::string newName(fullName);</div>
 <div class="line"><span class="lineno">  129</span>        newName.push_back(<span class="charliteral">&#39;.&#39;</span>);</div>
-<div class="line"><span class="lineno">  130</span>        newName.append(<a class="code hl_function" href="../../d4/d20/a05652.html#aaeca452ae2fe32e7412f4abc30642da2">LogMessage::getTimeStr</a>(<a class="code hl_function" href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()));</div>
+<div class="line"><span class="lineno">  130</span>        newName.append(<a class="code hl_function" href="../../d4/d20/a05652.html#aaeca452ae2fe32e7412f4abc30642da2">LogMessage::getTimeStr</a>(<a class="code hl_function" href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()));</div>
 <div class="line"><span class="lineno">  131</span>        std::replace(newName.begin(), newName.end(), <span class="charliteral">&#39;:&#39;</span>, <span class="charliteral">&#39;-&#39;</span>);</div>
 <div class="line"><span class="lineno">  132</span>        rename(fullName.c_str(), newName.c_str()); <span class="comment">// no error handling... if we couldn&#39;t make a backup, just ignore</span></div>
 <div class="line"><span class="lineno">  133</span>    }</div>
@@ -523,7 +523,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  140</span> </div>
 <div class="line"><span class="lineno">  141</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  142</span>}</div>
-<div class="ttc" id="aa04595_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
+<div class="ttc" id="aa04598_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
 <div class="ttc" id="aa05652_html_aaeca452ae2fe32e7412f4abc30642da2"><div class="ttname"><a href="../../d4/d20/a05652.html#aaeca452ae2fe32e7412f4abc30642da2">LogMessage::getTimeStr</a></div><div class="ttdeci">std::string getTimeStr() const</div><div class="ttdef"><b>Definition:</b> LogMessage.cpp:32</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00044">_fileSize</a>, <a class="el" href="../../#l00040">_logDir</a>, <a class="el" href="../../#l00144">CloseFile()</a>, <a class="el" href="../../#l00141">GetEpochTime()</a>, and <a class="el" href="../../#l00032">LogMessage::getTimeStr()</a>.</p>
@@ -731,7 +731,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d80/a05640.html">AppenderFile</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:45:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:14:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

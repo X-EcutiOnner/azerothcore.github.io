@@ -1,8 +1,19 @@
 var a17212 =
 [
-    [ "npc_hor_risen_witch_doctor", "df/d58/a17212.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
-    [ "JustDied", "df/d58/a17212.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
-    [ "JustEngagedWith", "df/d58/a17212.html#ae612bec2e909abb2574298f4a34116f3", null ],
-    [ "Reset", "df/d58/a17212.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
-    [ "UpdateAI", "df/d58/a17212.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
+    [ "npc_hor_lich_king", "df/d58/a17212.html#a2d062432ca688b498c99b1a404939482", null ],
+    [ "DoAction", "df/d58/a17212.html#ad6c3d39fa2762b82af94c75cb13e5293", null ],
+    [ "JustSummoned", "df/d58/a17212.html#a616641dc2e0f46d3f0a86edc87a9a301", null ],
+    [ "MovementInform", "df/d58/a17212.html#ae7f41d3aaa28699aee477dfada1a962f", null ],
+    [ "Reset", "df/d58/a17212.html#a5c9512ccad51c881c9e8759341fd9d14", null ],
+    [ "SpellHitTarget", "df/d58/a17212.html#a44b63fa387d05676c992cc100fb92806", null ],
+    [ "SummonedCreatureDespawn", "df/d58/a17212.html#ac261de86ded5c319226867dfc3a5f42f", null ],
+    [ "SummonedCreatureDies", "df/d58/a17212.html#a56b91c8d991778306bfea3702d94f1e7", null ],
+    [ "UpdateAI", "df/d58/a17212.html#a0b5247d0e23ede8b867343803cec9774", null ],
+    [ "WallCompleted", "df/d58/a17212.html#ad668e38cc7c651700686665d088d3a1d", null ],
+    [ "currentWall", "df/d58/a17212.html#a5bac2be147e9725b68f56f056a341442", null ],
+    [ "div2", "df/d58/a17212.html#af656d33ad0117378a75551d54d2a376f", null ],
+    [ "events", "df/d58/a17212.html#acab01caba2cf66c21fe8a164f77491f1", null ],
+    [ "instance", "df/d58/a17212.html#acaf28a6ecc646d551795bcb10d803923", null ],
+    [ "summons", "df/d58/a17212.html#ad7c511cfa480c3b6801b63e63c0013c6", null ],
+    [ "summonsCount", "df/d58/a17212.html#aa2e468e58f92cbdf7377805d5711c45e", null ]
 ];

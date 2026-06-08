@@ -1,6 +1,6 @@
 var a16748 =
 [
-    [ "npc_toc_shadow_priestAI", "db/d38/a16752.html", "db/d38/a16752" ],
-    [ "npc_toc_shadow_priest", "d9/dd2/a16748.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "d9/dd2/a16748.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "npc_toc_paladinAI", "db/d38/a16752.html", "db/d38/a16752" ],
+    [ "npc_toc_paladin", "d9/dd2/a16748.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d9/dd2/a16748.html#a15766ea4414701040c738251302177af", null ]
 ];

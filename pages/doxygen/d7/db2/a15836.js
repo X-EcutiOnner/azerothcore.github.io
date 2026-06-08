@@ -1,6 +1,6 @@
 var a15836 =
 [
-    [ "npc_silva_filnaveth", "d7/db2/a15836.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d7/db2/a15836.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d7/db2/a15836.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npcs_riverbreeze_and_silversky", "d7/db2/a15836.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d7/db2/a15836.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d7/db2/a15836.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

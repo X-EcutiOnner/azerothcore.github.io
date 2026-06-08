@@ -1,7 +1,8 @@
 var a22040 =
 [
-    [ "npc_wg_quest_giver", "d6/d77/a22040.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d6/d77/a22040.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d6/d77/a22040.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d6/d77/a22040.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_spirit_guideAI", "dd/db4/a22044.html", "dd/db4/a22044" ],
+    [ "npc_wg_spirit_guide", "d6/d77/a22040.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d6/d77/a22040.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d6/d77/a22040.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d6/d77/a22040.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

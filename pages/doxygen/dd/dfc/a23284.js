@@ -1,6 +1,7 @@
 var a23284 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d2/d0e/a23288.html", "d2/d0e/a23288" ],
-    [ "instance_magtheridons_lair", "dd/dfc/a23284.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "dd/dfc/a23284.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "HandleDummyApply", "dd/dfc/a23284.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "dd/dfc/a23284.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "dd/dfc/a23284.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "dd/dfc/a23284.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

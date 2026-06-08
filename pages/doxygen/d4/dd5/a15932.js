@@ -1,7 +1,5 @@
 var a15932 =
 [
-    [ "npc_kaya_flathoofAI", "db/dcb/a15936.html", "db/dcb/a15936" ],
-    [ "npc_kaya_flathoof", "d4/dd5/a15932.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d4/dd5/a15932.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d4/dd5/a15932.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "go_crystalline_tear", "d4/dd5/a15932.html#a9e19c6538ecd1a758f2639171321d965", null ],
+    [ "OnQuestAccept", "d4/dd5/a15932.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
 ];

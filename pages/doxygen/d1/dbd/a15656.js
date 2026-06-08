@@ -1,6 +1,6 @@
 var a15656 =
 [
-    [ "npc_draenei_survivorAI", "d0/db9/a15660.html", "d0/db9/a15660" ],
-    [ "npc_draenei_survivor", "d1/dbd/a15656.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d1/dbd/a15656.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d0/db9/a15660.html", "d0/db9/a15660" ],
+    [ "instance_wailing_caverns", "d1/dbd/a15656.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d1/dbd/a15656.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

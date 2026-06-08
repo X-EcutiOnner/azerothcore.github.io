@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WaypointNode Struct Reference</title>
+<title>AzerothCore: Movement::MoveSplineInitArgs Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,51 +107,58 @@ $(document).ready(function(){initNavTree('dc/dce/a10468.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d9/db1/a10465.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WaypointNode Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Movement::MoveSplineInitArgs Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WaypointDefines.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">MoveSplineInitArgs.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8f4aa765b3bedfec2a11da0c8ce2c116"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a8f4aa765b3bedfec2a11da0c8ce2c116">WaypointNode</a> ()</td></tr>
-<tr class="separator:a8f4aa765b3bedfec2a11da0c8ce2c116"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab57dd64800b87f26256509533dc31f5c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ab57dd64800b87f26256509533dc31f5c">WaypointNode</a> (<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, float x, float y, float z, std::optional&lt; float &gt; orientation={ }, float velocity=0.f, <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay=0, bool smoothTransition=false)</td></tr>
-<tr class="separator:ab57dd64800b87f26256509533dc31f5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2b6c8940e7dc8bdd4ea6047a5ff1a68"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68">MoveSplineInitArgs</a> (std::size_t path_capacity=16)</td></tr>
+<tr class="separator:aa2b6c8940e7dc8bdd4ea6047a5ff1a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17beca23a7a7eaa298debb5e9638daca"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a17beca23a7a7eaa298debb5e9638daca">Validate</a> (<a class="el" href="../../d9/ddc/a09092.html">Unit</a> *unit) const</td></tr>
+<tr class="memdesc:a17beca23a7a7eaa298debb5e9638daca"><td class="mdescLeft">&#160;</td><td class="mdescRight">============================================================================================  <a href="../../dc/dce/a10468.html#a17beca23a7a7eaa298debb5e9638daca">More...</a><br /></td></tr>
+<tr class="separator:a17beca23a7a7eaa298debb5e9638daca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aec030367189f87dec789df49303916ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aec030367189f87dec789df49303916ed">Id</a></td></tr>
-<tr class="separator:aec030367189f87dec789df49303916ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa62bd26c57e5cfbe62de0eb2d63e4610"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a></td></tr>
-<tr class="separator:aa62bd26c57e5cfbe62de0eb2d63e4610"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba6568aff3a204c9e4ad8bfaeeaabc56"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a></td></tr>
-<tr class="separator:aba6568aff3a204c9e4ad8bfaeeaabc56"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab4756345912b48fd2f352464e24bc1a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aab4756345912b48fd2f352464e24bc1a">Z</a></td></tr>
-<tr class="separator:aab4756345912b48fd2f352464e24bc1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91fd08cd83ae7bb1b27563c38e674722"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a></td></tr>
-<tr class="separator:a91fd08cd83ae7bb1b27563c38e674722"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab353b7326bb6bdbd5efd35574dcebbc0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a></td></tr>
-<tr class="separator:ab353b7326bb6bdbd5efd35574dcebbc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03268e85010c56f29325b80a9624a73b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a03268e85010c56f29325b80a9624a73b">Delay</a></td></tr>
-<tr class="separator:a03268e85010c56f29325b80a9624a73b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a244afd47ae7c71a15c82d9ee7036ebdb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a></td></tr>
-<tr class="separator:a244afd47ae7c71a15c82d9ee7036ebdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd3a16c9a60b7f05816ab935b3578b8a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a></td></tr>
-<tr class="separator:afd3a16c9a60b7f05816ab935b3578b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2bffe84cee4076217d7c9cc09b880ad2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a></td></tr>
-<tr class="separator:a2bffe84cee4076217d7c9cc09b880ad2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c9c60d5c5b0941291b6e3ba0cbece5f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a></td></tr>
-<tr class="separator:a8c9c60d5c5b0941291b6e3ba0cbece5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a9c709edeb58be70f51da2079bba579"><td class="memItemLeft" align="right" valign="top">std::vector&lt; G3D::Vector3 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a1a9c709edeb58be70f51da2079bba579">SplinePoints</a></td></tr>
-<tr class="separator:a1a9c709edeb58be70f51da2079bba579"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3857df1ab2d6dafef4a6d796e6593341"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/de9/a05083.html#a86528b2e04ddf38b80888e45d6b9c37d">PointsArray</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a></td></tr>
+<tr class="separator:a3857df1ab2d6dafef4a6d796e6593341"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8800fca5b50ab5123e92b28e921ec8b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d2a/a10460.html">FacingInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a8800fca5b50ab5123e92b28e921ec8b0">facing</a></td></tr>
+<tr class="separator:a8800fca5b50ab5123e92b28e921ec8b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4271ed0434fc8e7f7a70e8869d81a0e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d31/a10444.html">MoveSplineFlag</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ac4271ed0434fc8e7f7a70e8869d81a0e">flags</a></td></tr>
+<tr class="separator:ac4271ed0434fc8e7f7a70e8869d81a0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b6aaf43685649798db46d7b409d3e32"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a6b6aaf43685649798db46d7b409d3e32">path_Idx_offset</a> {0}</td></tr>
+<tr class="separator:a6b6aaf43685649798db46d7b409d3e32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af042454593bfd4dc888c1700af437933"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#af042454593bfd4dc888c1700af437933">velocity</a> {0.f}</td></tr>
+<tr class="separator:af042454593bfd4dc888c1700af437933"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a133d1d0172fde0564a58a004cb354ed0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a133d1d0172fde0564a58a004cb354ed0">parabolic_amplitude</a> {0.f}</td></tr>
+<tr class="separator:a133d1d0172fde0564a58a004cb354ed0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe51d24d71b71e87015eeb4851418503"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#afe51d24d71b71e87015eeb4851418503">time_perc</a> {0.f}</td></tr>
+<tr class="separator:afe51d24d71b71e87015eeb4851418503"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8c84e828c23801a68524c9811f0336b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ac8c84e828c23801a68524c9811f0336b">splineId</a> {0}</td></tr>
+<tr class="separator:ac8c84e828c23801a68524c9811f0336b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0b66cba791fc206be5b64310480cb88"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ab0b66cba791fc206be5b64310480cb88">initialOrientation</a> {0.f}</td></tr>
+<tr class="separator:ab0b66cba791fc206be5b64310480cb88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acad05815ff039fe1fea3d7cf56afb4f2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#acad05815ff039fe1fea3d7cf56afb4f2">HasVelocity</a> {false}</td></tr>
+<tr class="separator:acad05815ff039fe1fea3d7cf56afb4f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9e8518e61b2f5f6ff8380518a6ad0cc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#ad9e8518e61b2f5f6ff8380518a6ad0cc">TransformForTransport</a> {true}</td></tr>
+<tr class="separator:ad9e8518e61b2f5f6ff8380518a6ad0cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa58f23e75134e46a9ccbb2c563ecdc22"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#aa58f23e75134e46a9ccbb2c563ecdc22">walk</a></td></tr>
+<tr class="separator:aa58f23e75134e46a9ccbb2c563ecdc22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a984db18cdbd061605a9d486b061dc7c0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dce/a10468.html#a984db18cdbd061605a9d486b061dc7c0">_checkPathBounds</a> () const</td></tr>
+<tr class="separator:a984db18cdbd061605a9d486b061dc7c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8f4aa765b3bedfec2a11da0c8ce2c116" name="a8f4aa765b3bedfec2a11da0c8ce2c116"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f4aa765b3bedfec2a11da0c8ce2c116">&#9670;&#160;</a></span>WaypointNode() <span class="overload">[1/2]</span></h2>
+<a id="aa2b6c8940e7dc8bdd4ea6047a5ff1a68" name="aa2b6c8940e7dc8bdd4ea6047a5ff1a68"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2b6c8940e7dc8bdd4ea6047a5ff1a68">&#9670;&#160;</a></span>MoveSplineInitArgs()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -160,306 +167,313 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">WaypointNode::WaypointNode </td>
+          <td class="memname">Movement::MoveSplineInitArgs::MoveSplineInitArgs </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>path_capacity</em> = <code>16</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>        {</div>
+<div class="line"><span class="lineno">   48</span>            <a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.reserve(path_capacity);</div>
+<div class="line"><span class="lineno">   49</span>        }</div>
+<div class="ttc" id="aa10468_html_a3857df1ab2d6dafef4a6d796e6593341"><div class="ttname"><a href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">Movement::MoveSplineInitArgs::path</a></div><div class="ttdeci">PointsArray path</div><div class="ttdef"><b>Definition:</b> MoveSplineInitArgs.h:51</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00051">path</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a984db18cdbd061605a9d486b061dc7c0" name="a984db18cdbd061605a9d486b061dc7c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a984db18cdbd061605a9d486b061dc7c0">&#9670;&#160;</a></span>_checkPathBounds()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Movement::MoveSplineInitArgs::_checkPathBounds </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   38</span>: <a class="code hl_variable" href="../../dc/dce/a10468.html#aec030367189f87dec789df49303916ed">Id</a>(0), <a class="code hl_variable" href="../../dc/dce/a10468.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>(0.f), <a class="code hl_variable" href="../../dc/dce/a10468.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>(0.f), <a class="code hl_variable" href="../../dc/dce/a10468.html#aab4756345912b48fd2f352464e24bc1a">Z</a>(0.f), <a class="code hl_variable" href="../../dc/dce/a10468.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>(0.f), <a class="code hl_variable" href="../../dc/dce/a10468.html#a03268e85010c56f29325b80a9624a73b">Delay</a>(0), <a class="code hl_variable" href="../../dc/dce/a10468.html#a244afd47ae7c71a15c82d9ee7036ebdb">EventId</a>(0), <a class="code hl_variable" href="../../dc/dce/a10468.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a>(<a class="code hl_enumvalue" href="../../d8/d65/a02528.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a>), <a class="code hl_variable" href="../../dc/dce/a10468.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a>(0), <a class="code hl_variable" href="../../dc/dce/a10468.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa02528_html_ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55"><div class="ttname"><a href="../../d8/d65/a02528.html#ac26115060a1cd0169937b206edddd863a1a68f8f06e0a7c3d6f9b007c79630f55">WAYPOINT_MOVE_TYPE_RUN</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_RUN</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:29</div></div>
-<div class="ttc" id="aa10468_html_a03268e85010c56f29325b80a9624a73b"><div class="ttname"><a href="../../dc/dce/a10468.html#a03268e85010c56f29325b80a9624a73b">WaypointNode::Delay</a></div><div class="ttdeci">uint32 Delay</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:51</div></div>
-<div class="ttc" id="aa10468_html_a244afd47ae7c71a15c82d9ee7036ebdb"><div class="ttname"><a href="../../dc/dce/a10468.html#a244afd47ae7c71a15c82d9ee7036ebdb">WaypointNode::EventId</a></div><div class="ttdeci">uint32 EventId</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:52</div></div>
-<div class="ttc" id="aa10468_html_a2bffe84cee4076217d7c9cc09b880ad2"><div class="ttname"><a href="../../dc/dce/a10468.html#a2bffe84cee4076217d7c9cc09b880ad2">WaypointNode::EventChance</a></div><div class="ttdeci">uint8 EventChance</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:54</div></div>
-<div class="ttc" id="aa10468_html_a8c9c60d5c5b0941291b6e3ba0cbece5f"><div class="ttname"><a href="../../dc/dce/a10468.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">WaypointNode::SmoothTransition</a></div><div class="ttdeci">bool SmoothTransition</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:55</div></div>
-<div class="ttc" id="aa10468_html_aa62bd26c57e5cfbe62de0eb2d63e4610"><div class="ttname"><a href="../../dc/dce/a10468.html#aa62bd26c57e5cfbe62de0eb2d63e4610">WaypointNode::X</a></div><div class="ttdeci">float X</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
-<div class="ttc" id="aa10468_html_aab4756345912b48fd2f352464e24bc1a"><div class="ttname"><a href="../../dc/dce/a10468.html#aab4756345912b48fd2f352464e24bc1a">WaypointNode::Z</a></div><div class="ttdeci">float Z</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
-<div class="ttc" id="aa10468_html_ab353b7326bb6bdbd5efd35574dcebbc0"><div class="ttname"><a href="../../dc/dce/a10468.html#ab353b7326bb6bdbd5efd35574dcebbc0">WaypointNode::Velocity</a></div><div class="ttdeci">float Velocity</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:50</div></div>
-<div class="ttc" id="aa10468_html_aba6568aff3a204c9e4ad8bfaeeaabc56"><div class="ttname"><a href="../../dc/dce/a10468.html#aba6568aff3a204c9e4ad8bfaeeaabc56">WaypointNode::Y</a></div><div class="ttdeci">float Y</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:48</div></div>
-<div class="ttc" id="aa10468_html_aec030367189f87dec789df49303916ed"><div class="ttname"><a href="../../dc/dce/a10468.html#aec030367189f87dec789df49303916ed">WaypointNode::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:47</div></div>
-<div class="ttc" id="aa10468_html_afd3a16c9a60b7f05816ab935b3578b8a"><div class="ttname"><a href="../../dc/dce/a10468.html#afd3a16c9a60b7f05816ab935b3578b8a">WaypointNode::MoveType</a></div><div class="ttdeci">uint32 MoveType</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:53</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  224</span>    {</div>
+<div class="line"><span class="lineno">  225</span>        <span class="keywordflow">if</span> (!(<a class="code hl_variable" href="../../dc/dce/a10468.html#ac4271ed0434fc8e7f7a70e8869d81a0e">flags</a> &amp; <a class="code hl_enumvalue" href="../../dd/d31/a10444.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca1ef583343de87bfa9866a64ca0506c8e">MoveSplineFlag::Mask_CatmullRom</a>) &amp;&amp; <a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.size() &gt; 2)</div>
+<div class="line"><span class="lineno">  226</span>        {</div>
+<div class="line"><span class="lineno">  227</span>            <span class="keyword">constexpr</span> <span class="keyword">auto</span> MAX_OFFSET = (1 &lt;&lt; 11) / 2;</div>
+<div class="line"><span class="lineno">  228</span>            Vector3 middle = (<a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.front() + <a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.back()) / 2;</div>
+<div class="line"><span class="lineno">  229</span>            Vector3 offset;</div>
+<div class="line"><span class="lineno">  230</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 1; i &lt; <a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.size() - 1; ++i)</div>
+<div class="line"><span class="lineno">  231</span>            {</div>
+<div class="line"><span class="lineno">  232</span>                offset = <a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>[i] - middle;</div>
+<div class="line"><span class="lineno">  233</span>                <span class="keywordflow">if</span> (std::fabs(offset.x) &gt;= MAX_OFFSET || std::fabs(offset.y) &gt;= MAX_OFFSET || std::fabs(offset.z) &gt;= MAX_OFFSET)</div>
+<div class="line"><span class="lineno">  234</span>                {</div>
+<div class="line"><span class="lineno">  235</span>                    <a class="code hl_define" href="../../d9/db6/a04373.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;movement&quot;</span>, <span class="stringliteral">&quot;MoveSplineInitArgs::_checkPathBounds check failed&quot;</span>);</div>
+<div class="line"><span class="lineno">  236</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  237</span>                }</div>
+<div class="line"><span class="lineno">  238</span>            }</div>
+<div class="line"><span class="lineno">  239</span>        }</div>
+<div class="line"><span class="lineno">  240</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  241</span>    }</div>
+<div class="ttc" id="aa04373_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/db6/a04373.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:145</div></div>
+<div class="ttc" id="aa04415_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa10444_html_a9a8b47cc7b2fe7a9cb43e89ed9010f3ca1ef583343de87bfa9866a64ca0506c8e"><div class="ttname"><a href="../../dd/d31/a10444.html#a9a8b47cc7b2fe7a9cb43e89ed9010f3ca1ef583343de87bfa9866a64ca0506c8e">Movement::MoveSplineFlag::Mask_CatmullRom</a></div><div class="ttdeci">@ Mask_CatmullRom</div><div class="ttdef"><b>Definition:</b> MoveSplineFlag.h:71</div></div>
+<div class="ttc" id="aa10468_html_ac4271ed0434fc8e7f7a70e8869d81a0e"><div class="ttname"><a href="../../dc/dce/a10468.html#ac4271ed0434fc8e7f7a70e8869d81a0e">Movement::MoveSplineInitArgs::flags</a></div><div class="ttdeci">MoveSplineFlag flags</div><div class="ttdef"><b>Definition:</b> MoveSplineInitArgs.h:53</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">flags</a>, <a class="el" href="../../#l00145">LOG_ERROR</a>, <a class="el" href="../../#l00071">Movement::MoveSplineFlag::Mask_CatmullRom</a>, and <a class="el" href="../../#l00051">path</a>.</p>
+
 </div>
 </div>
-<a id="ab57dd64800b87f26256509533dc31f5c" name="ab57dd64800b87f26256509533dc31f5c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab57dd64800b87f26256509533dc31f5c">&#9670;&#160;</a></span>WaypointNode() <span class="overload">[2/2]</span></h2>
+<a id="a17beca23a7a7eaa298debb5e9638daca" name="a17beca23a7a7eaa298debb5e9638daca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17beca23a7a7eaa298debb5e9638daca">&#9670;&#160;</a></span>Validate()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">WaypointNode::WaypointNode </td>
+          <td class="memname">bool Movement::MoveSplineInitArgs::Validate </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>id</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>z</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::optional&lt; float &gt;&#160;</td>
-          <td class="paramname"><em>orientation</em> = <code>{&#160;}</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>velocity</em> = <code>0.f</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>delay</em> = <code>0</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>smoothTransition</em> = <code>false</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramtype"><a class="el" href="../../d9/ddc/a09092.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>unit</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>                                                                                        { }, <span class="keywordtype">float</span> velocity = 0.f, <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> delay = 0, <span class="keywordtype">bool</span> smoothTransition = <span class="keyword">false</span>) :</div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_variable" href="../../dc/dce/a10468.html#aec030367189f87dec789df49303916ed">Id</a>(<span class="keywordtype">id</span>), <a class="code hl_variable" href="../../dc/dce/a10468.html#aa62bd26c57e5cfbe62de0eb2d63e4610">X</a>(x), <a class="code hl_variable" href="../../dc/dce/a10468.html#aba6568aff3a204c9e4ad8bfaeeaabc56">Y</a>(y), <a class="code hl_variable" href="../../dc/dce/a10468.html#aab4756345912b48fd2f352464e24bc1a">Z</a>(z), <a class="code hl_variable" href="../../dc/dce/a10468.html#a91fd08cd83ae7bb1b27563c38e674722">Orientation</a>(orientation), <a class="code hl_variable" href="../../dc/dce/a10468.html#ab353b7326bb6bdbd5efd35574dcebbc0">Velocity</a>(velocity), <a class="code hl_variable" href="../../dc/dce/a10468.html#a03268e85010c56f29325b80a9624a73b">Delay</a>(delay), <a class="code hl_variable" href="../../dc/dce/a10468.html#a8c9c60d5c5b0941291b6e3ba0cbece5f">SmoothTransition</a>(smoothTransition)</div>
-<div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <a class="code hl_enumeration" href="../../d6/dae/a04043.html#a4cf8d4a4d56e9f795518b6541ddeb5bf">EventId</a> = 0;</div>
-<div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../dc/dce/a10468.html#afd3a16c9a60b7f05816ab935b3578b8a">MoveType</a> = <a class="code hl_enumvalue" href="../../d8/d65/a02528.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a>;</div>
-<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../dc/dce/a10468.html#a2bffe84cee4076217d7c9cc09b880ad2">EventChance</a> = 100;</div>
-<div class="line"><span class="lineno">   45</span>    }</div>
-<div class="ttc" id="aa02528_html_ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff"><div class="ttname"><a href="../../d8/d65/a02528.html#ac26115060a1cd0169937b206edddd863acc641c64fa11ca399fe52e963d2ad1ff">WAYPOINT_MOVE_TYPE_WALK</a></div><div class="ttdeci">@ WAYPOINT_MOVE_TYPE_WALK</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:28</div></div>
-<div class="ttc" id="aa04043_html_a4cf8d4a4d56e9f795518b6541ddeb5bf"><div class="ttname"><a href="../../d6/dae/a04043.html#a4cf8d4a4d56e9f795518b6541ddeb5bf">EventId</a></div><div class="ttdeci">EventId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3559</div></div>
-<div class="ttc" id="aa04415_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa10468_html_a91fd08cd83ae7bb1b27563c38e674722"><div class="ttname"><a href="../../dc/dce/a10468.html#a91fd08cd83ae7bb1b27563c38e674722">WaypointNode::Orientation</a></div><div class="ttdeci">std::optional&lt; float &gt; Orientation</div><div class="ttdef"><b>Definition:</b> WaypointDefines.h:49</div></div>
+
+<p>============================================================================================ </p>
+<p >Returns true to show that the arguments were configured correctly and <a class="el" href="../../dd/d72/a10440.html">MoveSpline</a> initialization will succeed. </p>
+<div class="fragment"><div class="line"><span class="lineno">  203</span>    {</div>
+<div class="line"><span class="lineno">  204</span><span class="preprocessor">#define CHECK(exp) \</span></div>
+<div class="line"><span class="lineno">  205</span><span class="preprocessor">        if (!(exp)) \</span></div>
+<div class="line"><span class="lineno">  206</span><span class="preprocessor">        { \</span></div>
+<div class="line"><span class="lineno">  207</span><span class="preprocessor">            if (unit) \</span></div>
+<div class="line"><span class="lineno">  208</span><span class="preprocessor">                LOG_ERROR(&quot;misc.movesplineinitargs&quot;</span>, &quot;MoveSplineInitArgs::Validate: expression &#39;{}&#39; failed for {}&quot;, #exp, unit-&gt;GetGUID().ToString()); \</div>
+<div class="line"><span class="lineno">  209</span>            else \</div>
+<div class="line"><span class="lineno">  210</span>                LOG_ERROR(&quot;misc.movesplineinitargs&quot;, &quot;MoveSplineInitArgs::Validate: expression &#39;{}&#39; failed for cyclic spline continuation&quot;, #exp); \</div>
+<div class="line"><span class="lineno">  211</span>            return false;\</div>
+<div class="line"><span class="lineno">  212</span>        }</div>
+<div class="line"><span class="lineno">  213</span>        <a class="code hl_define" href="../../dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a>(<a class="code hl_variable" href="../../dc/dce/a10468.html#a3857df1ab2d6dafef4a6d796e6593341">path</a>.size() &gt; 1);</div>
+<div class="line"><span class="lineno">  214</span>        <a class="code hl_define" href="../../dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a>(<a class="code hl_variable" href="../../dc/dce/a10468.html#af042454593bfd4dc888c1700af437933">velocity</a> &gt; 0.01f);</div>
+<div class="line"><span class="lineno">  215</span>        <a class="code hl_define" href="../../dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a>(<a class="code hl_variable" href="../../dc/dce/a10468.html#afe51d24d71b71e87015eeb4851418503">time_perc</a> &gt;= 0.f &amp;&amp; <a class="code hl_variable" href="../../dc/dce/a10468.html#afe51d24d71b71e87015eeb4851418503">time_perc</a> &lt;= 1.f);</div>
+<div class="line"><span class="lineno">  216</span>        <span class="comment">//CHECK(_checkPathBounds());</span></div>
+<div class="line"><span class="lineno">  217</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  218</span><span class="preprocessor">#undef CHECK</span></div>
+<div class="line"><span class="lineno">  219</span>    }</div>
+<div class="ttc" id="aa02513_html_a4005b3acaa5011bfc2cc027562c04dfb"><div class="ttname"><a href="../../dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a></div><div class="ttdeci">#define CHECK(exp)</div></div>
+<div class="ttc" id="aa10468_html_af042454593bfd4dc888c1700af437933"><div class="ttname"><a href="../../dc/dce/a10468.html#af042454593bfd4dc888c1700af437933">Movement::MoveSplineInitArgs::velocity</a></div><div class="ttdeci">float velocity</div><div class="ttdef"><b>Definition:</b> MoveSplineInitArgs.h:55</div></div>
+<div class="ttc" id="aa10468_html_afe51d24d71b71e87015eeb4851418503"><div class="ttname"><a href="../../dc/dce/a10468.html#afe51d24d71b71e87015eeb4851418503">Movement::MoveSplineInitArgs::time_perc</a></div><div class="ttdeci">float time_perc</div><div class="ttdef"><b>Definition:</b> MoveSplineInitArgs.h:57</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../dc/de1/a02513.html#a4005b3acaa5011bfc2cc027562c04dfb">CHECK</a>, <a class="el" href="../../#l00051">path</a>, <a class="el" href="../../#l00057">time_perc</a>, and <a class="el" href="../../#l00055">velocity</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a03268e85010c56f29325b80a9624a73b" name="a03268e85010c56f29325b80a9624a73b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03268e85010c56f29325b80a9624a73b">&#9670;&#160;</a></span>Delay</h2>
+<a id="a8800fca5b50ab5123e92b28e921ec8b0" name="a8800fca5b50ab5123e92b28e921ec8b0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8800fca5b50ab5123e92b28e921ec8b0">&#9670;&#160;</a></span>facing</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::Delay</td>
+          <td class="memname"><a class="el" href="../../d1/d2a/a10460.html">FacingInfo</a> Movement::MoveSplineInitArgs::facing</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, and <a class="el" href="../../#l00182">Movement::MoveSplineInit::SetFacing()</a>.</p>
 
 </div>
 </div>
-<a id="a2bffe84cee4076217d7c9cc09b880ad2" name="a2bffe84cee4076217d7c9cc09b880ad2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2bffe84cee4076217d7c9cc09b880ad2">&#9670;&#160;</a></span>EventChance</h2>
+<a id="ac4271ed0434fc8e7f7a70e8869d81a0e" name="ac4271ed0434fc8e7f7a70e8869d81a0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4271ed0434fc8e7f7a70e8869d81a0e">&#9670;&#160;</a></span>flags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> WaypointNode::EventChance</td>
+          <td class="memname"><a class="el" href="../../dd/d31/a10444.html">MoveSplineFlag</a> Movement::MoveSplineInitArgs::flags</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, and <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00223">_checkPathBounds()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>, <a class="el" href="../../#l00187">Movement::MoveSplineInit::SetAnimation()</a>, <a class="el" href="../../#l00160">Movement::MoveSplineInit::SetCyclic()</a>, <a class="el" href="../../#l00182">Movement::MoveSplineInit::SetFacing()</a>, <a class="el" href="../../#l00161">Movement::MoveSplineInit::SetFall()</a>, <a class="el" href="../../#l00157">Movement::MoveSplineInit::SetFly()</a>, <a class="el" href="../../#l00166">Movement::MoveSplineInit::SetOrientationFixed()</a>, <a class="el" href="../../#l00163">Movement::MoveSplineInit::SetOrientationInversed()</a>, <a class="el" href="../../#l00180">Movement::MoveSplineInit::SetParabolic()</a>, <a class="el" href="../../#l00159">Movement::MoveSplineInit::SetSmooth()</a>, <a class="el" href="../../#l00164">Movement::MoveSplineInit::SetTransportEnter()</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetTransportExit()</a>, and <a class="el" href="../../#l00129">Movement::MoveSplineInit::Stop()</a>.</p>
 
 </div>
 </div>
-<a id="a244afd47ae7c71a15c82d9ee7036ebdb" name="a244afd47ae7c71a15c82d9ee7036ebdb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a244afd47ae7c71a15c82d9ee7036ebdb">&#9670;&#160;</a></span>EventId</h2>
+<a id="acad05815ff039fe1fea3d7cf56afb4f2" name="acad05815ff039fe1fea3d7cf56afb4f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acad05815ff039fe1fea3d7cf56afb4f2">&#9670;&#160;</a></span>HasVelocity</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::EventId</td>
+          <td class="memname">bool Movement::MoveSplineInitArgs::HasVelocity {false}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, and <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, and <a class="el" href="../../#l00162">Movement::MoveSplineInit::SetVelocity()</a>.</p>
 
 </div>
 </div>
-<a id="aec030367189f87dec789df49303916ed" name="aec030367189f87dec789df49303916ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec030367189f87dec789df49303916ed">&#9670;&#160;</a></span>Id</h2>
+<a id="ab0b66cba791fc206be5b64310480cb88" name="ab0b66cba791fc206be5b64310480cb88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab0b66cba791fc206be5b64310480cb88">&#9670;&#160;</a></span>initialOrientation</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::Id</td>
+          <td class="memname">float Movement::MoveSplineInitArgs::initialOrientation {0.f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00152">SmartAI::GetNextWayPoint()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00135">WaypointMovementGenerator&lt; Creature &gt;::ProcessWaypointArrival()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, and <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>.</p>
 
 </div>
 </div>
-<a id="afd3a16c9a60b7f05816ab935b3578b8a" name="afd3a16c9a60b7f05816ab935b3578b8a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd3a16c9a60b7f05816ab935b3578b8a">&#9670;&#160;</a></span>MoveType</h2>
+<a id="a133d1d0172fde0564a58a004cb354ed0" name="a133d1d0172fde0564a58a004cb354ed0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a133d1d0172fde0564a58a004cb354ed0">&#9670;&#160;</a></span>parabolic_amplitude</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WaypointNode::MoveType</td>
+          <td class="memname">float Movement::MoveSplineInitArgs::parabolic_amplitude {0.f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, and <a class="el" href="../../#l00180">Movement::MoveSplineInit::SetParabolic()</a>.</p>
 
 </div>
 </div>
-<a id="a91fd08cd83ae7bb1b27563c38e674722" name="a91fd08cd83ae7bb1b27563c38e674722"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a91fd08cd83ae7bb1b27563c38e674722">&#9670;&#160;</a></span>Orientation</h2>
+<a id="a3857df1ab2d6dafef4a6d796e6593341" name="a3857df1ab2d6dafef4a6d796e6593341"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3857df1ab2d6dafef4a6d796e6593341">&#9670;&#160;</a></span>path</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; WaypointNode::Orientation</td>
+          <td class="memname"><a class="el" href="../../d6/de9/a05083.html#a86528b2e04ddf38b80888e45d6b9c37d">PointsArray</a> Movement::MoveSplineInitArgs::path</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00356">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00300">SmartAI::PausePath()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00223">_checkPathBounds()</a>, <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00168">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00046">MoveSplineInitArgs()</a>, <a class="el" href="../../#l00202">Movement::MoveSplineInit::MoveTo()</a>, <a class="el" href="../../#l00147">Movement::MoveSplineInit::Path()</a>, and <a class="el" href="../../#l00202">Validate()</a>.</p>
 
 </div>
 </div>
-<a id="a8c9c60d5c5b0941291b6e3ba0cbece5f" name="a8c9c60d5c5b0941291b6e3ba0cbece5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8c9c60d5c5b0941291b6e3ba0cbece5f">&#9670;&#160;</a></span>SmoothTransition</h2>
+<a id="a6b6aaf43685649798db46d7b409d3e32" name="a6b6aaf43685649798db46d7b409d3e32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b6aaf43685649798db46d7b409d3e32">&#9670;&#160;</a></span>path_Idx_offset</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool WaypointNode::SmoothTransition</td>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> Movement::MoveSplineInitArgs::path_Idx_offset {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, <a class="el" href="../../#l00168">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00202">Movement::MoveSplineInit::MoveTo()</a>, and <a class="el" href="../../#l00109">Movement::MoveSplineInit::SetFirstPointId()</a>.</p>
 
 </div>
 </div>
-<a id="a1a9c709edeb58be70f51da2079bba579" name="a1a9c709edeb58be70f51da2079bba579"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a9c709edeb58be70f51da2079bba579">&#9670;&#160;</a></span>SplinePoints</h2>
+<a id="ac8c84e828c23801a68524c9811f0336b" name="ac8c84e828c23801a68524c9811f0336b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8c84e828c23801a68524c9811f0336b">&#9670;&#160;</a></span>splineId</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;G3D::Vector3&gt; WaypointNode::SplinePoints</td>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Movement::MoveSplineInitArgs::splineId {0}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>, and <a class="el" href="../../#l00129">Movement::MoveSplineInit::Stop()</a>.</p>
 
 </div>
 </div>
-<a id="ab353b7326bb6bdbd5efd35574dcebbc0" name="ab353b7326bb6bdbd5efd35574dcebbc0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab353b7326bb6bdbd5efd35574dcebbc0">&#9670;&#160;</a></span>Velocity</h2>
+<a id="afe51d24d71b71e87015eeb4851418503" name="afe51d24d71b71e87015eeb4851418503"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afe51d24d71b71e87015eeb4851418503">&#9670;&#160;</a></span>time_perc</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float WaypointNode::Velocity</td>
+          <td class="memname">float Movement::MoveSplineInitArgs::time_perc {0.f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, and <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, <a class="el" href="../../#l00187">Movement::MoveSplineInit::SetAnimation()</a>, <a class="el" href="../../#l00180">Movement::MoveSplineInit::SetParabolic()</a>, and <a class="el" href="../../#l00202">Validate()</a>.</p>
 
 </div>
 </div>
-<a id="aa62bd26c57e5cfbe62de0eb2d63e4610" name="aa62bd26c57e5cfbe62de0eb2d63e4610"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa62bd26c57e5cfbe62de0eb2d63e4610">&#9670;&#160;</a></span>X</h2>
+<a id="ad9e8518e61b2f5f6ff8380518a6ad0cc" name="ad9e8518e61b2f5f6ff8380518a6ad0cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9e8518e61b2f5f6ff8380518a6ad0cc">&#9670;&#160;</a></span>TransformForTransport</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float WaypointNode::X</td>
+          <td class="memname">bool Movement::MoveSplineInitArgs::TransformForTransport {true}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00203">Movement::MoveSplineInit::DisableTransportPathTransformations()</a>, <a class="el" href="../../#l00168">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>, <a class="el" href="../../#l00202">Movement::MoveSplineInit::MoveTo()</a>, and <a class="el" href="../../#l00188">Movement::MoveSplineInit::SetFacing()</a>.</p>
 
 </div>
 </div>
-<a id="aba6568aff3a204c9e4ad8bfaeeaabc56" name="aba6568aff3a204c9e4ad8bfaeeaabc56"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba6568aff3a204c9e4ad8bfaeeaabc56">&#9670;&#160;</a></span>Y</h2>
+<a id="af042454593bfd4dc888c1700af437933" name="af042454593bfd4dc888c1700af437933"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af042454593bfd4dc888c1700af437933">&#9670;&#160;</a></span>velocity</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float WaypointNode::Y</td>
+          <td class="memname">float Movement::MoveSplineInitArgs::velocity {0.f}</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00122">Movement::MoveSpline::init_spline()</a>, <a class="el" href="../../#l00158">Movement::MoveSpline::Initialize()</a>, <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00162">Movement::MoveSplineInit::SetVelocity()</a>, and <a class="el" href="../../#l00202">Validate()</a>.</p>
 
 </div>
 </div>
-<a id="aab4756345912b48fd2f352464e24bc1a" name="aab4756345912b48fd2f352464e24bc1a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab4756345912b48fd2f352464e24bc1a">&#9670;&#160;</a></span>Z</h2>
+<a id="aa58f23e75134e46a9ccbb2c563ecdc22" name="aa58f23e75134e46a9ccbb2c563ecdc22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa58f23e75134e46a9ccbb2c563ecdc22">&#9670;&#160;</a></span>walk</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">float WaypointNode::Z</td>
+          <td class="memname">bool Movement::MoveSplineInitArgs::walk</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00171">SmartAI::GenerateWayPointArray()</a>, <a class="el" href="../../#l00505">WaypointMovementGenerator&lt; Creature &gt;::GetResetPosition()</a>, <a class="el" href="../../#l00031">WaypointMgr::Load()</a>, <a class="el" href="../../#l00047">SmartWaypointMgr::LoadFromDB()</a>, <a class="el" href="../../#l00640">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00152">WaypointMgr::ReloadPath()</a>, <a class="el" href="../../#l00208">WaypointMovementGenerator&lt; Creature &gt;::StartMove()</a>, and <a class="el" href="../../#l00113">UpdateHomePosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00035">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00173">Movement::MoveSplineInit::MoveSplineInit()</a>, and <a class="el" href="../../#l00158">Movement::MoveSplineInit::SetWalk()</a>.</p>
 
 </div>
 </div>
@@ -468,8 +482,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/dce/a10468.html">WaypointNode</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:46:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/de9/a05083.html">Movement</a></li><li class="navelem"><a class="el" href="../../dc/dce/a10468.html">MoveSplineInitArgs</a></li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

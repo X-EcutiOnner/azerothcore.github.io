@@ -1,7 +1,6 @@
 var a11452 =
 [
-    [ "PetDismissSound", "d7/dd8/a11452.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
-    [ "Write", "d7/dd8/a11452.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
-    [ "ModelId", "d7/dd8/a11452.html#aba65e6547adde55978ce7b2abb779d51", null ],
-    [ "ModelPosition", "d7/dd8/a11452.html#a06e6bff9d70996ba890c31ea74363dad", null ]
+    [ "PetLearnedSpell", "d7/dd8/a11452.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d7/dd8/a11452.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d7/dd8/a11452.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

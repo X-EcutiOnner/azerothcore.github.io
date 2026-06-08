@@ -1,7 +1,6 @@
 var a11188 =
 [
-    [ "SwapInventoryItem", "dd/dd0/a11188.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "dd/dd0/a11188.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "dd/dd0/a11188.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "dd/dd0/a11188.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "SetRaidDifficultyClient", "dd/dd0/a11188.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "dd/dd0/a11188.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "dd/dd0/a11188.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

@@ -1,10 +1,7 @@
 var a06468 =
 [
-    [ "RangeSelector", "dd/dad/a06468.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "dd/dad/a06468.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "dd/dad/a06468.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "dd/dad/a06468.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "dd/dad/a06468.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "dd/dad/a06468.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "dd/dad/a06468.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "SpellTargetSelector", "dd/dad/a06468.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "dd/dad/a06468.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "dd/dad/a06468.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "dd/dad/a06468.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

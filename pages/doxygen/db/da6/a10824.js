@@ -1,9 +1,15 @@
 var a10824 =
 [
-    [ "ServerPacket", "db/da6/a10824.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
-    [ "Clear", "db/da6/a10824.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
-    [ "GetOpcode", "db/da6/a10824.html#a639ab6c078d7c746bcb328526df705be", null ],
-    [ "Move", "db/da6/a10824.html#a659397042201ae571bb564872e54d2c6", null ],
-    [ "Read", "db/da6/a10824.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
-    [ "ShrinkToFit", "db/da6/a10824.html#a6fa19a94d57484aaff3498be01495258", null ]
+    [ "MapScript", "db/da6/a10824.html#a1932ac48acf7c937c060ee35804e79da", null ],
+    [ "checkMap", "db/da6/a10824.html#abf3fbb90119e1ac5d13455217ac95a2f", null ],
+    [ "GetEntry", "db/da6/a10824.html#aa2da3eeec627cb67719d774d35f03488", null ],
+    [ "OnCreate", "db/da6/a10824.html#a8132edffb918e8b3b1131ae29a8d9e9b", null ],
+    [ "OnDestroy", "db/da6/a10824.html#a4631768d457c2804f057c565d6e8fb7a", null ],
+    [ "OnLoadGridMap", "db/da6/a10824.html#a77381401d4638c6149f21836f1ca6676", null ],
+    [ "OnPlayerEnter", "db/da6/a10824.html#a9cef8253d591e729b4119312ec0b670a", null ],
+    [ "OnPlayerLeave", "db/da6/a10824.html#a3d74ae0f2535cda31cf2d4125600f3e2", null ],
+    [ "OnUnloadGridMap", "db/da6/a10824.html#a657bcd69e932d358e2c66daa6f571cfe", null ],
+    [ "OnUpdate", "db/da6/a10824.html#a4e447511780a0c561e16b9e118361f63", null ],
+    [ "_mapEntry", "db/da6/a10824.html#a280ca8d9bfa672c10d34a99db53d2959", null ],
+    [ "_mapId", "db/da6/a10824.html#a1cbe9ae08f6e1c129df8d2277366eb1a", null ]
 ];

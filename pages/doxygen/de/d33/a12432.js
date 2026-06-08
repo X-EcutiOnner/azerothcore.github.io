@@ -1,5 +1,25 @@
 var a12432 =
 [
-    [ "npcEntry", "de/d33/a12432.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "de/d33/a12432.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "ticket_commandscript", "de/d33/a12432.html#a67842c302b12e19d41c74740db425a94", null ],
+    [ "GetCommands", "de/d33/a12432.html#a8db36489c60473f6f3fed73011c5f7ab", null ],
+    [ "HandleGMTicketAssignToCommand", "de/d33/a12432.html#a20e307317e082667b420562802b25eed", null ],
+    [ "HandleGMTicketCloseByIdCommand", "de/d33/a12432.html#a18a65dc2e01aa1bfbf9be20e312fb29f", null ],
+    [ "HandleGMTicketCommentCommand", "de/d33/a12432.html#a69d76ba54dc776f35a200b79d3383109", null ],
+    [ "HandleGMTicketCompleteCommand", "de/d33/a12432.html#a6fee1c90d90c733d2c554389e305a767", null ],
+    [ "HandleGMTicketDeleteByIdCommand", "de/d33/a12432.html#a5caaf9293917036dd957d2b0a4bb61d1", null ],
+    [ "HandleGMTicketEscalateCommand", "de/d33/a12432.html#a12b04f7113a53d5974e6faffe3286119", null ],
+    [ "HandleGMTicketGetByIdCommand", "de/d33/a12432.html#ae0686f933ff941c8ba36a727b703cdd9", null ],
+    [ "HandleGMTicketGetByNameCommand", "de/d33/a12432.html#af38ad7d982f8cf16523ed62677f2c0e1", null ],
+    [ "HandleGMTicketListClosedCommand", "de/d33/a12432.html#a5c6c12b2aa84984f2c2fada59673f29c", null ],
+    [ "HandleGMTicketListCommand", "de/d33/a12432.html#aa622eb1c1f53c41b2af78667800a5389", null ],
+    [ "HandleGMTicketListEscalatedCommand", "de/d33/a12432.html#a756a9a38b724526d6713dad186689090", null ],
+    [ "HandleGMTicketListOnlineCommand", "de/d33/a12432.html#a71491d4987e7e7a4b73f798d3d8ec81e", null ],
+    [ "HandleGMTicketResetCommand", "de/d33/a12432.html#a6bf98525629aa9d045abe84cf8e320c9", null ],
+    [ "HandleGMTicketResponseAppendCommand", "de/d33/a12432.html#a5596c5be64f75c0bf67e88fabb05a060", null ],
+    [ "HandleGMTicketResponseAppendLnCommand", "de/d33/a12432.html#a1f0f24f48a37726dbc7e5e6b89740261", null ],
+    [ "HandleGMTicketResponseDeleteCommand", "de/d33/a12432.html#acfcbea533c3306d9a2746c3ee318ddbd", null ],
+    [ "HandleGMTicketResponseShowCommand", "de/d33/a12432.html#a7bf924ff31d957220f15d2be0c5aeb8a", null ],
+    [ "HandleGMTicketUnAssignCommand", "de/d33/a12432.html#afc1a25ed1d1a966d5afaa6dbd1070fda", null ],
+    [ "HandleToggleGMTicketSystem", "de/d33/a12432.html#a5dcc80f5e050e0c5dced93bf8fa3c908", null ],
+    [ "TicketResponseAppend", "de/d33/a12432.html#aac1c7b72a4cea7da0965dfceb65039fc", null ]
 ];

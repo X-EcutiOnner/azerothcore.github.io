@@ -1,11 +1,9 @@
 var a29428 =
 [
-    [ "SetUp", "d1/d67/a29428.html#a6905326495d9902c04075e1278ceee09", null ],
-    [ "TearDown", "d1/d67/a29428.html#a93922bbc8b0748ea2744da16bb9be908", null ],
-    [ "_map", "d1/d67/a29428.html#a7488073f59af18ddff83352153bce0f9", null ],
-    [ "_previousWorld", "d1/d67/a29428.html#a5098326e6ea76115910d5d87e9146106", null ],
-    [ "_snake", "d1/d67/a29428.html#a8fa5bbd89471aa9b332b27d2183b823d", null ],
-    [ "_targetA", "d1/d67/a29428.html#a57f036093e543f841c808380d3bb6708", null ],
-    [ "_targetB", "d1/d67/a29428.html#ae722aaab98cdbd47252f6b95df507679", null ],
-    [ "_worldMock", "d1/d67/a29428.html#ac4ea643a5b5a1e40790a254b2809c11b", null ]
+    [ "SetUp", "d1/d67/a29428.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d1/d67/a29428.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d1/d67/a29428.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d1/d67/a29428.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d1/d67/a29428.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d1/d67/a29428.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

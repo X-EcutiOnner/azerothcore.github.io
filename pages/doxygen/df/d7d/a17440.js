@@ -1,8 +1,11 @@
 var a17440 =
 [
-    [ "boss_eck", "df/d7d/a17440.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "df/d7d/a17440.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "df/d7d/a17440.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "df/d7d/a17440.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "df/d7d/a17440.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "npc_living_mojoAI", "df/d7d/a17440.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "df/d7d/a17440.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "df/d7d/a17440.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "JustEngagedWith", "df/d7d/a17440.html#adbc665cfba933007e3f630676ab75656", null ],
+    [ "MoveInLineOfSight", "df/d7d/a17440.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "df/d7d/a17440.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "df/d7d/a17440.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "df/d7d/a17440.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

@@ -1,5 +1,6 @@
 var a18032 =
 [
-    [ "at_lady_deathwhisper_entrance", "d4/d95/a18032.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "d4/d95/a18032.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "npc_darnavanAI", "d3/d16/a18036.html", "d3/d16/a18036" ],
+    [ "npc_darnavan", "d4/d95/a18032.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d4/d95/a18032.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

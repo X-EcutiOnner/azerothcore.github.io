@@ -1,6 +1,6 @@
 var a17584 =
 [
-    [ "HandleStackDrop", "de/d2a/a17584.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "de/d2a/a17584.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "de/d2a/a17584.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "AddExtraDamage", "de/d2a/a17584.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "de/d2a/a17584.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "de/d2a/a17584.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

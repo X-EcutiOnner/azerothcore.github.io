@@ -1,12 +1,9 @@
 var a10256 =
 [
-    [ "BanAccount", "db/d38/a10256.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "db/d38/a10256.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "db/d38/a10256.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "db/d38/a10256.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "db/d38/a10256.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "db/d38/a10256.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "db/d38/a10256.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "db/d38/a10256.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "db/d38/a10256.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "TransportAnimation", "db/d38/a10256.html#a775b84b54deefd38af40222afd82d572", null ],
+    [ "GetAnimNode", "db/d38/a10256.html#a73b56750c90afce38dbf57793bae16f3", null ],
+    [ "GetAnimRotation", "db/d38/a10256.html#aa2c892f14712828acaa85fa6e6d919bb", null ],
+    [ "Path", "db/d38/a10256.html#a7c45df781dda8058d281a2cf7e5fe5fb", null ],
+    [ "Rotations", "db/d38/a10256.html#a5fa771fb487c437d7d6229eadf7d90c3", null ],
+    [ "TotalTime", "db/d38/a10256.html#a59a31ffc2e642a3950b0509130a76ad4", null ]
 ];

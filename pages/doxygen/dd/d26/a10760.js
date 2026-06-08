@@ -1,10 +1,11 @@
 var a10760 =
 [
-    [ "TicketScript", "dd/d26/a10760.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "dd/d26/a10760.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "dd/d26/a10760.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "dd/d26/a10760.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "dd/d26/a10760.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "dd/d26/a10760.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "dd/d26/a10760.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "ServerScript", "dd/d26/a10760.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "dd/d26/a10760.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "dd/d26/a10760.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "dd/d26/a10760.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "dd/d26/a10760.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "dd/d26/a10760.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "dd/d26/a10760.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "dd/d26/a10760.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

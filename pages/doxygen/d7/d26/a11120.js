@@ -1,7 +1,13 @@
 var a11120 =
 [
-    [ "GuildBankLogQueryResults", "d7/d26/a11120.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "d7/d26/a11120.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "d7/d26/a11120.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "d7/d26/a11120.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildBankQueryResults", "d7/d26/a11120.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "d7/d26/a11120.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "d7/d26/a11120.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "d7/d26/a11120.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "d7/d26/a11120.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "d7/d26/a11120.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "d7/d26/a11120.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "d7/d26/a11120.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "d7/d26/a11120.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "d7/d26/a11120.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

@@ -1,6 +1,7 @@
 var a26280 =
 [
-    [ "CalculateAmount", "dd/dac/a26280.html#acc2c4cea16dfa30c49387ac166cef560", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a8d7e840994ba5034a249171dbfc016a6", null ],
-    [ "Register", "dd/dac/a26280.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
+    [ "CheckProc", "dd/dac/a26280.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "dd/dac/a26280.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "dd/dac/a26280.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

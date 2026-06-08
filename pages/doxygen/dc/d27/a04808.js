@@ -1,7 +1,7 @@
 var a04808 =
 [
-    [ "ProcFlagScenario", "d3/d91/a29540.html", "d3/d91/a29540" ],
-    [ "SpellProcDatabaseTest", "d4/de7/a29544.html", "d4/de7/a29544" ],
+    [ "ProcFlagScenario", "d6/db8/a29556.html", "d6/db8/a29556" ],
+    [ "SpellProcDatabaseTest", "d4/dfa/a29560.html", "d4/dfa/a29560" ],
     [ "TEST_F", "dc/d27/a04808.html#a0b5b8d274c47bc86db574620f695c2b6", null ],
     [ "TEST_F", "dc/d27/a04808.html#a7e7a38efd8e5e25ff2069b885f19c281", null ],
     [ "TEST_F", "dc/d27/a04808.html#a7567757723eb6accfeedcb21c604f0df", null ],

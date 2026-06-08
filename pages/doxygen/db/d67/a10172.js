@@ -1,11 +1,7 @@
 var a10172 =
 [
-    [ "StaticVMapCollisionData", "db/d67/a10172.html#a5955532316bc6409c104197b086d3e3b", null ],
-    [ "GetAreaAndLiquidData", "db/d67/a10172.html#afcbfd82bc43ad5dbce5edc35608a0d38", null ],
-    [ "getHeight", "db/d67/a10172.html#ad5b245ec62bf370a479c8fdb0eec1f40", null ],
-    [ "GetObjectHitPos", "db/d67/a10172.html#aacf3e526a4e52c8515b3a8004e6b0a1a", null ],
-    [ "isInLineOfSight", "db/d67/a10172.html#a79f47e4eafe0db4e449ec202ad3ef580", null ],
-    [ "MapCollisionData", "db/d67/a10172.html#a472038a89678719bf8868ab0c75e394f", null ],
-    [ "_mapId", "db/d67/a10172.html#a9ea6ece2bfd70cb74cbd4f6a9060e5eb", null ],
-    [ "_staticTree", "db/d67/a10172.html#a4d73d970aa85dbbd9c70633addcdaf13", null ]
+    [ "operator<", "db/d67/a10172.html#adb62060523d8d5b11f16f3202a157f26", null ],
+    [ "respawnTime", "db/d67/a10172.html#aaed69c7c6f9f78ecb365e233f1ff6dab", null ],
+    [ "spawnId", "db/d67/a10172.html#a6faeab5132f3e539848ebe29cee5a5a4", null ],
+    [ "type", "db/d67/a10172.html#a1400b212e0889c54047225ba57e95c94", null ]
 ];

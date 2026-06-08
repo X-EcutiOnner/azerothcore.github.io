@@ -1,6 +1,7 @@
 var a16028 =
 [
-    [ "HandleDummy", "d2/d8b/a16028.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d2/d8b/a16028.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d2/d8b/a16028.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_paoka_swiftmountainAI", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
+    [ "npc_paoka_swiftmountain", "d2/d8b/a16028.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "d2/d8b/a16028.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "d2/d8b/a16028.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

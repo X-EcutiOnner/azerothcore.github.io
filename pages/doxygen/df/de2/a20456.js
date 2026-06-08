@@ -1,5 +1,5 @@
 var a20456 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "df/de2/a20456.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "df/de2/a20456.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_rocket_strike_trigger", "df/de2/a20456.html#a14fc5830fe192856bd7c99f78de91070", null ],
+    [ "SpellHitTarget", "df/de2/a20456.html#ad4a438c5143a6de2b469baa28f0893c5", null ]
 ];

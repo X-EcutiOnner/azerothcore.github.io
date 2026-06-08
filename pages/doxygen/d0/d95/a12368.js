@@ -1,6 +1,6 @@
 var a12368 =
 [
-    [ "CapturedGroups", "d0/d95/a12368.html#a6842947e5fbe26c2c4aadc1209395902", null ],
-    [ "CurrentTemplate", "d0/d95/a12368.html#a6915499b95c29a00cde15c5a7f562158", null ],
-    [ "ZoneName", "d0/d95/a12368.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
+    [ "player_settings_commandscript", "d0/d95/a12368.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "d0/d95/a12368.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "d0/d95/a12368.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

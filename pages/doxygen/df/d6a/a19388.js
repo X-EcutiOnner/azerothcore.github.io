@@ -1,6 +1,6 @@
 var a19388 =
 [
-    [ "boss_razuviousAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
-    [ "boss_razuvious", "df/d6a/a19388.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "df/d6a/a19388.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "boss_nothAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
+    [ "boss_noth", "df/d6a/a19388.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "df/d6a/a19388.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

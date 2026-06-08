@@ -1,8 +1,11 @@
 var a20704 =
 [
-    [ "OnApply", "db/d10/a20704.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "db/d10/a20704.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "db/d10/a20704.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "db/d10/a20704.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "db/d10/a20704.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_yoggsaron_lich_king", "db/d10/a20704.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "db/d10/a20704.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "db/d10/a20704.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "db/d10/a20704.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "db/d10/a20704.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "db/d10/a20704.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "db/d10/a20704.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "db/d10/a20704.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

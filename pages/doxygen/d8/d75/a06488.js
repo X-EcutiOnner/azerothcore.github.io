@@ -1,4 +1,6 @@
 var a06488 =
 [
-    [ "SelectableAI", "d8/d75/a06488.html#af34ed4ae0c831a3dd41585704488528f", null ]
+    [ "PlayerAI", "d8/d75/a06488.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "d8/d75/a06488.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "d8/d75/a06488.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

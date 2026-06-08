@@ -1,8 +1,6 @@
 var a16344 =
 [
-    [ "RestoreFight", "d5/d52/a16344.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d5/d52/a16344.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d5/d52/a16344.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d5/d52/a16344.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d5/d52/a16344.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "HandleLeapBack", "d5/d52/a16344.html#a71a9b9967528c1153ad1215635bc7d01", null ],
+    [ "PrepareSpellScript", "d5/d52/a16344.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
+    [ "Register", "d5/d52/a16344.html#a6ef11d0538616315fa7cf098748aa01f", null ]
 ];

@@ -1,6 +1,6 @@
 var a03560 =
 [
-    [ "GroupScript", "dc/d3e/a10696.html", "dc/d3e/a10696" ],
+    [ "GroupScript", "d0/d91/a10708.html", "d0/d91/a10708" ],
     [ "GroupHook", "d5/dda/a03560.html#a373b3fe6b402e8321892b8c1be74ab5d", [
       [ "GROUPHOOK_ON_ADD_MEMBER", "d5/dda/a03560.html#a373b3fe6b402e8321892b8c1be74ab5da3800aeea2a91eebb3ccdd533a8dfc681", null ],
       [ "GROUPHOOK_ON_INVITE_MEMBER", "d5/dda/a03560.html#a373b3fe6b402e8321892b8c1be74ab5da4f30d67b987f0ade961e34bce95e85fe", null ],

@@ -1,5 +1,8 @@
 var a09488 =
 [
-    [ "HolesType", "d3/d6b/a09488.html#a72531c15631ba45fe0c0ed962557e993", null ],
-    [ "holes", "d3/d6b/a09488.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
+    [ "V8Type", "d3/d6b/a09488.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
+    [ "V9Type", "d3/d6b/a09488.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
+    [ "gridIntHeightMultiplier", "d3/d6b/a09488.html#a626b7ad6821722d17bab6e21db618615", null ],
+    [ "v8", "d3/d6b/a09488.html#a8b352fc11c1e705277f8d81b512e3103", null ],
+    [ "v9", "d3/d6b/a09488.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
 ];

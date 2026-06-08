@@ -1,5 +1,8 @@
 var a19448 =
 [
-    [ "at_thaddius_entrance", "d2/d9e/a19448.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "_OnTrigger", "d2/d9e/a19448.html#acc869cade2b48ceb782d78aa7df6f246", null ]
+    [ "HandleDamage", "d2/d9e/a19448.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d2/d9e/a19448.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d2/d9e/a19448.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d2/d9e/a19448.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d2/d9e/a19448.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

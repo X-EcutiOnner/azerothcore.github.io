@@ -1,6 +1,6 @@
 var a18052 =
 [
-    [ "npc_bone_spikeAI", "dc/d3e/a18056.html", "dc/d3e/a18056" ],
-    [ "npc_bone_spike", "de/ddf/a18052.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "de/ddf/a18052.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "BoneStormMoveTargetSelector", "de/ddf/a18052.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "de/ddf/a18052.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "de/ddf/a18052.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

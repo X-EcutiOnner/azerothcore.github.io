@@ -1,6 +1,6 @@
 var a23948 =
 [
-    [ "HandleSendEvent", "da/d8c/a23948.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "da/d8c/a23948.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "da/d8c/a23948.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "PrepareSpellScript", "da/d8c/a23948.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "da/d8c/a23948.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "da/d8c/a23948.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

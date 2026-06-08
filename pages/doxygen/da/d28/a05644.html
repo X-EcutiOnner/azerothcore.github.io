@@ -521,7 +521,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   69</span>    <span class="comment">// Format = type, level, flags, optional1, optional2</span></div>
 <div class="line"><span class="lineno">   70</span>    <span class="comment">// if type = File. optional1 = file and option2 = mode</span></div>
 <div class="line"><span class="lineno">   71</span>    <span class="comment">// if type = Console. optional1 = Color</span></div>
-<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   73</span> </div>
 <div class="line"><span class="lineno">   74</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../db/d20/a05034.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(options, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">   75</span> </div>
@@ -553,7 +553,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  101</span> </div>
 <div class="line"><span class="lineno">  102</span>    <span class="keywordflow">if</span> (size &gt; 2)</div>
 <div class="line"><span class="lineno">  103</span>    {</div>
-<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint8&gt;</a> flagsVal = Acore::StringTo&lt;uint8&gt;(tokens[2]))</div>
+<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;uint8&gt;</a> flagsVal = Acore::StringTo&lt;uint8&gt;(tokens[2]))</div>
 <div class="line"><span class="lineno">  105</span>        {</div>
 <div class="line"><span class="lineno">  106</span>            flags = <a class="code hl_enumeration" href="../../d5/d22/a04394.html#a94c1c25ceab6db205eb6a5d5a2e0e803">AppenderFlags</a>(*flagsVal);</div>
 <div class="line"><span class="lineno">  107</span>        }</div>
@@ -581,14 +581,14 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa04394_html_ad26ed09e30f81a5d2172b4793a3f2781"><div class="ttname"><a href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a></div><div class="ttdeci">LogLevel</div><div class="ttdef"><b>Definition:</b> LogCommon.h:25</div></div>
 <div class="ttc" id="aa04394_html_ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d"><div class="ttname"><a href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d">NUM_ENABLED_LOG_LEVELS</a></div><div class="ttdeci">@ NUM_ENABLED_LOG_LEVELS</div><div class="ttdef"><b>Definition:</b> LogCommon.h:34</div></div>
 <div class="ttc" id="aa04394_html_ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96"><div class="ttname"><a href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96">LOG_LEVEL_INVALID</a></div><div class="ttdeci">@ LOG_LEVEL_INVALID</div><div class="ttdef"><b>Definition:</b> LogCommon.h:35</div></div>
-<div class="ttc" id="aa04592_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
+<div class="ttc" id="aa04595_html_aaf8f4d77efd311ec7818ab421294ef82"><div class="ttname"><a href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a></div><div class="ttdeci">std::optional&lt; T &gt; Optional</div><div class="ttdoc">Optional helper class to wrap optional values within.</div><div class="ttdef"><b>Definition:</b> Optional.h:24</div></div>
 <div class="ttc" id="aa05034_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../db/d20/a05034.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
 <div class="ttc" id="aa05628_html"><div class="ttname"><a href="../../d3/d0c/a05628.html">Appender</a></div><div class="ttdef"><b>Definition:</b> Appender.h:29</div></div>
 <div class="ttc" id="aa05628_html_a643046505390b3988572c53051d7d4c1"><div class="ttname"><a href="../../d3/d0c/a05628.html#a643046505390b3988572c53051d7d4c1">Appender::getId</a></div><div class="ttdeci">uint8 getId() const</div><div class="ttdef"><b>Definition:</b> Appender.cpp:28</div></div>
 <div class="ttc" id="aa05632_html"><div class="ttname"><a href="../../dd/da7/a05632.html">InvalidAppenderArgsException</a></div><div class="ttdef"><b>Definition:</b> Appender.h:55</div></div>
 <div class="ttc" id="aa05644_html_a20f1c9877dbe19a75a46d756757d3fc2"><div class="ttname"><a href="../../da/d28/a05644.html#a20f1c9877dbe19a75a46d756757d3fc2">Log::NextAppenderId</a></div><div class="ttdeci">uint8 NextAppenderId()</div><div class="ttdef"><b>Definition:</b> Log.cpp:46</div></div>
 <div class="ttc" id="aa05644_html_aea6024bb1b054aef15a7851238721d24"><div class="ttname"><a href="../../da/d28/a05644.html#aea6024bb1b054aef15a7851238721d24">Log::appenderFactory</a></div><div class="ttdeci">std::unordered_map&lt; uint8, AppenderCreatorFn &gt; appenderFactory</div><div class="ttdef"><b>Definition:</b> Log.h:114</div></div>
-<div class="ttc" id="aa30707_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa30724_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">APPENDER_FLAGS_NONE</a>, <a class="el" href="../../#l00046">APPENDER_INVALID</a>, <a class="el" href="../../#l00114">appenderFactory</a>, <a class="el" href="../../#l00115">appenders</a>, <a class="el" href="../../#l00028">Appender::getId()</a>, <a class="el" href="../../#l00035">LOG_LEVEL_INVALID</a>, <a class="el" href="../../#l00046">NextAppenderId()</a>, <a class="el" href="../../#l00034">NUM_ENABLED_LOG_LEVELS</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
@@ -627,7 +627,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  132</span> </div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_enumeration" href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> level = <a class="code hl_enumvalue" href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>;</div>
 <div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  136</span>    std::string name = appenderName.substr(7);</div>
 <div class="line"><span class="lineno">  137</span> </div>
 <div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (options.empty())</div>
@@ -858,9 +858,9 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  281</span>{</div>
-<div class="line"><span class="lineno">  282</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/de9/a05059.html#a0f9116e063a085b763f9c19ba37f9a44">Acore::Time::TimeToTimestampStr</a>(<a class="code hl_function" href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>(), <span class="stringliteral">&quot;%Y-%m-%d_%H_%M_%S&quot;</span>);</div>
+<div class="line"><span class="lineno">  282</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d6/de9/a05059.html#a0f9116e063a085b763f9c19ba37f9a44">Acore::Time::TimeToTimestampStr</a>(<a class="code hl_function" href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>(), <span class="stringliteral">&quot;%Y-%m-%d_%H_%M_%S&quot;</span>);</div>
 <div class="line"><span class="lineno">  283</span>}</div>
-<div class="ttc" id="aa04595_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
+<div class="ttc" id="aa04598_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
 <div class="ttc" id="aa05059_html_a0f9116e063a085b763f9c19ba37f9a44"><div class="ttname"><a href="../../d6/de9/a05059.html#a0f9116e063a085b763f9c19ba37f9a44">Acore::Time::TimeToTimestampStr</a></div><div class="ttdeci">AC_COMMON_API std::string TimeToTimestampStr(Seconds time=0s, std::string_view fmt={})</div><div class="ttdef"><b>Definition:</b> Timer.cpp:272</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00141">GetEpochTime()</a>, and <a class="el" href="../../#l00272">Acore::Time::TimeToTimestampStr()</a>.</p>
@@ -955,7 +955,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  390</span> </div>
 <div class="line"><span class="lineno">  391</span>    <a class="code hl_variable" href="../../da/d28/a05644.html#ad4124d370aa4aa47c2172c5dd9cede17">highestLogLevel</a> = <a class="code hl_enumvalue" href="../../d5/d22/a04394.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a>;</div>
 <div class="line"><span class="lineno">  392</span>    <a class="code hl_variable" href="../../da/d28/a05644.html#a90022da6d95dcba62a2b1a57c351939b">AppenderId</a> = 0;</div>
-<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  394</span> </div>
 <div class="line"><span class="lineno">  395</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.empty())</div>
 <div class="line"><span class="lineno">  396</span>        <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (<a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../da/d28/a05644.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
@@ -1195,7 +1195,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  187</span>{</div>
-<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
+<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
 <div class="line"><span class="lineno">  189</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; appenderName : keys)</div>
 <div class="line"><span class="lineno">  190</span>    {</div>
 <div class="line"><span class="lineno">  191</span>        <a class="code hl_function" href="../../da/d28/a05644.html#a2aa9a587a843e3a83659e8c795e7d59e">CreateAppenderFromConfig</a>(appenderName);</div>
@@ -1232,7 +1232,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
+<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
 <div class="line"><span class="lineno">  198</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; loggerName : keys)</div>
 <div class="line"><span class="lineno">  199</span>    {</div>
 <div class="line"><span class="lineno">  200</span>        <a class="code hl_function" href="../../da/d28/a05644.html#ad86e5e34ed5c40bf22467bd33c90c69a">CreateLoggerFromConfig</a>(loggerName);</div>
@@ -1800,7 +1800,7 @@ template&lt;class AppenderImpl &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d28/a05644.html">Log</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:45:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:14:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

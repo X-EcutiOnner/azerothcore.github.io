@@ -1,7 +1,5 @@
 var a20516 =
 [
-    [ "boss_thorim_trap", "d7/ddf/a20516.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d7/ddf/a20516.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d7/ddf/a20516.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d7/ddf/a20516.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d7/ddf/a20516.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d7/ddf/a20516.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

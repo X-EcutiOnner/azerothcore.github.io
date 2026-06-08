@@ -1,7 +1,8 @@
 var a11300 =
 [
-    [ "RandomRollClient", "de/d47/a11300.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "de/d47/a11300.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "de/d47/a11300.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "de/d47/a11300.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "PlayObjectSound", "de/d47/a11300.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "de/d47/a11300.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "de/d47/a11300.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "de/d47/a11300.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "de/d47/a11300.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

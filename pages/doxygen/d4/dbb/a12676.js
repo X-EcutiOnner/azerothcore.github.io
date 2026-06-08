@@ -1,5 +1,5 @@
 var a12676 =
 [
-    [ "at_scarshield_infiltrator", "d4/dbb/a12676.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d4/dbb/a12676.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "at_dragonspire_hall", "d4/dbb/a12676.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d4/dbb/a12676.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

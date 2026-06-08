@@ -1,7 +1,5 @@
 var a11740 =
 [
-    [ "DiminishDurationLimit", "d2/d0a/a11740.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
-    [ "DiminishGroup", "d2/d0a/a11740.html#ad48e4fbc6984602d0196accea51867de", null ],
-    [ "DiminishMaxLevel", "d2/d0a/a11740.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
-    [ "DiminishReturnType", "d2/d0a/a11740.html#a64a6fc19521245f1145ab6c769175803", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d2/d0a/a11740.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d2/d0a/a11740.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

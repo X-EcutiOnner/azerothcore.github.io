@@ -1,7 +1,6 @@
 var a20808 =
 [
-    [ "HandleEffectPeriodic", "de/da0/a20808.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "de/da0/a20808.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "de/da0/a20808.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "de/da0/a20808.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "instance_ulduar_InstanceMapScript", "dd/d7c/a20812.html", "dd/d7c/a20812" ],
+    [ "instance_ulduar", "de/da0/a20808.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "de/da0/a20808.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

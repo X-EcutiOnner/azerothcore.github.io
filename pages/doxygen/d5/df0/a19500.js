@@ -1,7 +1,9 @@
 var a19500 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d5/df0/a19500.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d5/df0/a19500.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d5/df0/a19500.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d5/df0/a19500.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "npc_nexus_lord", "d5/df0/a19500.html#ab66ba12059e8a028972d21afc11fb309", null ],
+    [ "AttackStart", "d5/df0/a19500.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
+    [ "JustDied", "d5/df0/a19500.html#ae97f816c5fcb71343d8483345723c300", null ],
+    [ "JustEngagedWith", "d5/df0/a19500.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
+    [ "UpdateAI", "d5/df0/a19500.html#acdd7954382f0de84e90d329ec0720a6d", null ],
+    [ "timer", "d5/df0/a19500.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
 ];

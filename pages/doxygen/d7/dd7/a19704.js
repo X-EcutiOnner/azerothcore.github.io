@@ -1,8 +1,6 @@
 var a19704 =
 [
-    [ "HandleEffectPeriodic", "d7/dd7/a19704.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d7/dd7/a19704.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d7/dd7/a19704.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d7/dd7/a19704.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d7/dd7/a19704.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "HandleEffectCalcAmount", "d7/dd7/a19704.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "d7/dd7/a19704.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "d7/dd7/a19704.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

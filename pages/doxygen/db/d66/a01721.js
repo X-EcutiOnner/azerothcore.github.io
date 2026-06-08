@@ -1,8 +1,8 @@
 var a01721 =
 [
-    [ "boss_anetheron", "dd/da5/a14960.html", "dd/da5/a14960" ],
-    [ "spell_anetheron_sleep", "d3/d00/a14964.html", "d3/d00/a14964" ],
-    [ "spell_anetheron_vampiric_aura", "dd/d0f/a14968.html", "dd/d0f/a14968" ],
+    [ "boss_anetheron", "da/d70/a14976.html", "da/d70/a14976" ],
+    [ "spell_anetheron_sleep", "da/d7d/a14980.html", "da/d7d/a14980" ],
+    [ "spell_anetheron_vampiric_aura", "dc/da3/a14984.html", "dc/da3/a14984" ],
     [ "Spells", "db/d66/a01721.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

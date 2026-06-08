@@ -1,6 +1,6 @@
 var a21844 =
 [
-    [ "npc_mcmanus", "df/db2/a21844.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
-    [ "OnGossipHello", "df/db2/a21844.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
-    [ "OnGossipSelect", "df/db2/a21844.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
+    [ "PrepareSpellScript", "df/db2/a21844.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "df/db2/a21844.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "df/db2/a21844.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

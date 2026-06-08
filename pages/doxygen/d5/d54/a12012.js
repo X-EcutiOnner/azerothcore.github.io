@@ -1,11 +1,9 @@
 var a12012 =
 [
-    [ "WorldUpdateTime", "d5/d54/a12012.html#a97552c4ce99bd40919f199c17fe203ed", null ],
-    [ "LoadFromConfig", "d5/d54/a12012.html#acb2b9d56504fc760e7df1c93621ab788", null ],
-    [ "RecordUpdateTime", "d5/d54/a12012.html#a88d773c8029cebeab6b99444c25c8379", null ],
-    [ "RecordUpdateTimeDuration", "d5/d54/a12012.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
-    [ "SetRecordUpdateTimeInterval", "d5/d54/a12012.html#ada81050229ccacc49d5b6a9f6101174c", null ],
-    [ "_lastRecordTime", "d5/d54/a12012.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
-    [ "_recordUpdateTimeInverval", "d5/d54/a12012.html#a5486477b0a604f0207336e423f42c2b1", null ],
-    [ "_recordUpdateTimeMin", "d5/d54/a12012.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
+    [ "CreatureTextLocalizer", "d5/d54/a12012.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d5/d54/a12012.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d5/d54/a12012.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d5/d54/a12012.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d5/d54/a12012.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d5/d54/a12012.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

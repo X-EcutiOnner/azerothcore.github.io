@@ -1,11 +1,12 @@
 var a13348 =
 [
-    [ "npc_a_special_surpriseAI", "da/dcc/a13348.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "da/dcc/a13348.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "da/dcc/a13348.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "da/dcc/a13348.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "da/dcc/a13348.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "da/dcc/a13348.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "da/dcc/a13348.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "da/dcc/a13348.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "npc_koltira_deathweaverAI", "da/dcc/a13348.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "da/dcc/a13348.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "da/dcc/a13348.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "da/dcc/a13348.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "da/dcc/a13348.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "da/dcc/a13348.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "da/dcc/a13348.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "da/dcc/a13348.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "da/dcc/a13348.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

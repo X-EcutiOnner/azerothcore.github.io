@@ -1,7 +1,12 @@
 var a12708 =
 [
-    [ "HandleScript", "d5/dac/a12708.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d5/dac/a12708.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d5/dac/a12708.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d5/dac/a12708.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "go_suppression_device", "d5/dac/a12708.html#ae8d3a5e9ca0bd621065bad9b8ee2733b", null ],
+    [ "Activate", "d5/dac/a12708.html#aab10f7c30f4c7fcf89aa295d830da56f", null ],
+    [ "Deactivate", "d5/dac/a12708.html#aaf01b7e3317e4b032e7c202ebfcb9a68", null ],
+    [ "DoAction", "d5/dac/a12708.html#a036467db9b2661e7048216b03451861b", null ],
+    [ "InitializeAI", "d5/dac/a12708.html#a6f40d8e47699b711466d8d36bdaa424c", null ],
+    [ "UpdateAI", "d5/dac/a12708.html#a00fb90b16c82f9d968cc29275c05675a", null ],
+    [ "_active", "d5/dac/a12708.html#a1accabc06137c07e9f74ea91d068672c", null ],
+    [ "_events", "d5/dac/a12708.html#a43fc9da45057e18811a0efc69e01edc8", null ],
+    [ "_instance", "d5/dac/a12708.html#a8c6b389e2df34d5f47b2599fc78ad072", null ]
 ];

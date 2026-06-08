@@ -1,6 +1,6 @@
 var a13344 =
 [
-    [ "npc_a_special_surpriseAI", "da/dcc/a13348.html", "da/dcc/a13348" ],
-    [ "npc_a_special_surprise", "dd/d5c/a13344.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "dd/d5c/a13344.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_koltira_deathweaverAI", "da/dcc/a13348.html", "da/dcc/a13348" ],
+    [ "npc_koltira_deathweaver", "dd/d5c/a13344.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
+    [ "GetAI", "dd/d5c/a13344.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
 ];

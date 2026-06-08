@@ -1,6 +1,6 @@
 var a00251 =
 [
-    [ "boss_gorosh_the_dervish", "db/d64/a12524.html", "db/d64/a12524" ],
+    [ "boss_gorosh_the_dervish", "dd/d5f/a12540.html", "dd/d5f/a12540" ],
     [ "Spells", "d3/d1a/a00251.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

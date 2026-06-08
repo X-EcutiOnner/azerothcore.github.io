@@ -1,6 +1,6 @@
 var a19652 =
 [
-    [ "npc_oculus_drakeAI", "df/deb/a19656.html", "df/deb/a19656" ],
-    [ "npc_oculus_drake", "d6/d1b/a19652.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d6/d1b/a19652.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "instance_oculus_InstanceMapScript", "df/deb/a19656.html", "df/deb/a19656" ],
+    [ "instance_oculus", "d6/d1b/a19652.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "d6/d1b/a19652.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

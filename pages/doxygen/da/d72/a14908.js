@@ -1,5 +1,6 @@
 var a14908 =
 [
-    [ "achievement_pb_pilgrims_peril", "da/d72/a14908.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "da/d72/a14908.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "HandleScriptEffect", "da/d72/a14908.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "da/d72/a14908.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "da/d72/a14908.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

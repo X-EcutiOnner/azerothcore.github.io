@@ -1,6 +1,6 @@
 var a16104 =
 [
-    [ "go_troll_cageAI", "dd/d4a/a16108.html", "dd/d4a/a16108" ],
-    [ "go_troll_cage", "dc/d36/a16104.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "dc/d36/a16104.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "HandleSummon", "dc/d36/a16104.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "dc/d36/a16104.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "dc/d36/a16104.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

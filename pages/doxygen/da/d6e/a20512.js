@@ -1,12 +1,5 @@
 var a20512 =
 [
-    [ "boss_thorim_lightning_orb", "da/d6e/a20512.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
-    [ "AttackStart", "da/d6e/a20512.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
-    [ "EnterEvadeMode", "da/d6e/a20512.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
-    [ "InitWaypoint", "da/d6e/a20512.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
-    [ "MoveInLineOfSight", "da/d6e/a20512.html#a3577618ff9d5bdea191d840b6c968fad", null ],
-    [ "Reset", "da/d6e/a20512.html#adeefc7cd014021305b77cc9c52102ce6", null ],
-    [ "WaypointReached", "da/d6e/a20512.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
-    [ "WaypointReached", "da/d6e/a20512.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Timer", "da/d6e/a20512.html#a79c24c42364c9932199ece2775f7a7f2", null ]
+    [ "achievement_quick_shave", "da/d6e/a20512.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "da/d6e/a20512.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

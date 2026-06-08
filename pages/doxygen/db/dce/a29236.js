@@ -1,6 +1,7 @@
 var a29236 =
 [
-    [ "conditionsMet", "db/dce/a29236.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
-    [ "hasConditions", "db/dce/a29236.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
-    [ "sourceType", "db/dce/a29236.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
+    [ "flatModifier", "db/dce/a29236.html#a781485dfaede63716eddba66971600e3", null ],
+    [ "hasSpellModOwner", "db/dce/a29236.html#aa80132f8b5cb980a4a703810fe3fa1a4", null ],
+    [ "hasSpellProto", "db/dce/a29236.html#a96607da311b5774eeaa01674d32ab22e", null ],
+    [ "pctModifier", "db/dce/a29236.html#aaf5a1e1118b0dcd155529978bdc172db", null ]
 ];

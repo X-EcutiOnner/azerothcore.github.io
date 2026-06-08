@@ -1,6 +1,5 @@
 var a23080 =
 [
-    [ "HandleScript", "d3/d5d/a23080.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d3/d5d/a23080.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d3/d5d/a23080.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "at_underbog_ghazan", "d3/d5d/a23080.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d3/d5d/a23080.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

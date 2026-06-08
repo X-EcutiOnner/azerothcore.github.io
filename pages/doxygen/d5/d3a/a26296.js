@@ -1,7 +1,6 @@
 var a26296 =
 [
-    [ "PeriodicTick", "d5/d3a/a26296.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
-    [ "PrepareAuraScript", "d5/d3a/a26296.html#ad332660b3b30ecb7b5c949c702574879", null ],
-    [ "Register", "d5/d3a/a26296.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
-    [ "Validate", "d5/d3a/a26296.html#a426b39c9733464c5d69d707d4e931f64", null ]
+    [ "CalculateAmount", "d5/d3a/a26296.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "d5/d3a/a26296.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "d5/d3a/a26296.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

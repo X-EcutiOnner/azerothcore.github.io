@@ -1,7 +1,5 @@
 var a15972 =
 [
-    [ "npc_giltharesAI", "d5/dc9/a15976.html", "d5/dc9/a15976" ],
-    [ "npc_gilthares", "db/d21/a15972.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "db/d21/a15972.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "db/d21/a15972.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_steward_of_time", "db/d21/a15972.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnQuestAccept", "db/d21/a15972.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

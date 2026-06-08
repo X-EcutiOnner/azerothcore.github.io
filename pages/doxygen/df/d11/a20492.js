@@ -1,9 +1,11 @@
 var a20492 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "df/d11/a20492.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "df/d11/a20492.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "df/d11/a20492.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "df/d11/a20492.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "df/d11/a20492.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "df/d11/a20492.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "npc_ulduar_expedition_engineer", "df/d11/a20492.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "df/d11/a20492.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "df/d11/a20492.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "df/d11/a20492.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "df/d11/a20492.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "df/d11/a20492.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "df/d11/a20492.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "df/d11/a20492.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

@@ -1,7 +1,6 @@
 var a21928 =
 [
-    [ "HandleDummy", "d9/dac/a21928.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d9/dac/a21928.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d9/dac/a21928.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d9/dac/a21928.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_iron_watcherAI", "da/d4a/a21932.html", "da/d4a/a21932" ],
+    [ "npc_iron_watcher", "d9/dac/a21928.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d9/dac/a21928.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

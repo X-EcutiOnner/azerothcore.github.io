@@ -1,6 +1,6 @@
 var a18464 =
 [
-    [ "boss_the_lich_kingAI", "d1/dbc/a18468.html", "d1/dbc/a18468" ],
-    [ "boss_the_lich_king", "d8/d54/a18464.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d8/d54/a18464.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "LichKingDeathEvent", "d8/d54/a18464.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d8/d54/a18464.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d8/d54/a18464.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

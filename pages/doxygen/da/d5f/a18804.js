@@ -1,6 +1,9 @@
 var a18804 =
 [
-    [ "PeriodicTick", "da/d5f/a18804.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "da/d5f/a18804.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "da/d5f/a18804.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_gluttonous_abominationAI", "da/d5f/a18804.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "da/d5f/a18804.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "da/d5f/a18804.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "da/d5f/a18804.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "da/d5f/a18804.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "da/d5f/a18804.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

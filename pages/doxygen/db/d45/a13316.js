@@ -1,6 +1,6 @@
 var a13316 =
 [
-    [ "HandleScriptEffect", "db/d45/a13316.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "db/d45/a13316.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "db/d45/a13316.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_scarlet_ghoulAI", "d0/d1e/a13320.html", "d0/d1e/a13320" ],
+    [ "npc_scarlet_ghoul", "db/d45/a13316.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "db/d45/a13316.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

@@ -1,6 +1,6 @@
 var a19412 =
 [
-    [ "FilterTargets", "dc/d17/a19412.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "dc/d17/a19412.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "dc/d17/a19412.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_razuvious_minionAI", "db/d88/a19416.html", "db/d88/a19416" ],
+    [ "boss_razuvious_minion", "dc/d17/a19412.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "dc/d17/a19412.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

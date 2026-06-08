@@ -1,6 +1,6 @@
 var a13100 =
 [
-    [ "go_blood_drenched_doorAI", "db/df8/a13104.html", "db/df8/a13104" ],
-    [ "go_blood_drenched_door", "d0/d96/a13100.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d0/d96/a13100.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "HandleCast", "d0/d96/a13100.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d0/d96/a13100.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d0/d96/a13100.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

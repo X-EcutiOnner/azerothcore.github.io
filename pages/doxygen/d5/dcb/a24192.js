@@ -1,8 +1,8 @@
 var a24192 =
 [
-    [ "CheckProc", "d5/dcb/a24192.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
-    [ "HandleProc", "d5/dcb/a24192.html#a7682ed37759329da8e4e475e98a23161", null ],
-    [ "PrepareAuraScript", "d5/dcb/a24192.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
-    [ "Register", "d5/dcb/a24192.html#a5ab16c8eb40822679739e15a2ceac715", null ],
-    [ "Validate", "d5/dcb/a24192.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
+    [ "CheckProc", "d5/dcb/a24192.html#a6b62e970a78ae8187989f566e6d47317", null ],
+    [ "HandleApply", "d5/dcb/a24192.html#a1a3550f989d9e97d17d3ae811371013a", null ],
+    [ "HandleProc", "d5/dcb/a24192.html#a21000167be45c4a5503813e5a508b8fd", null ],
+    [ "PrepareAuraScript", "d5/dcb/a24192.html#a7f8fea0f52ed4c98120195f205d6c0d7", null ],
+    [ "Register", "d5/dcb/a24192.html#a8d97a7638c682b99e466155bd819df53", null ]
 ];

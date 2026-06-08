@@ -1,6 +1,6 @@
 var a11932 =
 [
-    [ "EffectSplitHandler", "da/d1e/a11932.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "da/d1e/a11932.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "da/d1e/a11932.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "EffectCalcSpellModHandler", "da/d1e/a11932.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "da/d1e/a11932.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "da/d1e/a11932.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

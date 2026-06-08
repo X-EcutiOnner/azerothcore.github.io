@@ -1,6 +1,9 @@
 var a28292 =
 [
-    [ "npc_necropolis_relay", "da/dda/a28292.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "da/dda/a28292.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "da/dda/a28292.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_herald_of_the_lich_king", "da/dda/a28292.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "da/dda/a28292.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "da/dda/a28292.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "da/dda/a28292.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "da/dda/a28292.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "da/dda/a28292.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

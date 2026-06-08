@@ -1,7 +1,8 @@
 var a15564 =
 [
-    [ "boss_glob_of_viscidus", "d3/d25/a15564.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
-    [ "InitializeAI", "d3/d25/a15564.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
-    [ "MovementInform", "d3/d25/a15564.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
-    [ "UpdateAI", "d3/d25/a15564.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
+    [ "boss_veklor", "d3/d25/a15564.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d3/d25/a15564.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d3/d25/a15564.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d3/d25/a15564.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d3/d25/a15564.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

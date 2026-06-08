@@ -1,6 +1,7 @@
 var a18196 =
 [
-    [ "ExtraEffect", "d6/d3e/a18196.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d6/d3e/a18196.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d6/d3e/a18196.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "HandleSummon", "d6/d3e/a18196.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "d6/d3e/a18196.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "d6/d3e/a18196.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "d6/d3e/a18196.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

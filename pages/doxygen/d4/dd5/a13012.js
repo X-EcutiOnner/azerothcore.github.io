@@ -1,20 +1,14 @@
 var a13012 =
 [
-    [ "boss_netherspite", "d4/dd5/a13012.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
-    [ "DestroyPortals", "d4/dd5/a13012.html#aef861122117f86230157dfba2aae4b84", null ],
-    [ "dist", "d4/dd5/a13012.html#a01862bcde441d4873e2f01d65726b7c7", null ],
-    [ "HandleDoors", "d4/dd5/a13012.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
-    [ "IsBetween", "d4/dd5/a13012.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
-    [ "JustDied", "d4/dd5/a13012.html#abf986442648091792058cff6110bc670", null ],
-    [ "JustEngagedWith", "d4/dd5/a13012.html#a49a114ce9744c1758294f56088f91348", null ],
-    [ "Reset", "d4/dd5/a13012.html#a24b4282d0004fe07810f9210211a28f4", null ],
-    [ "SummonPortals", "d4/dd5/a13012.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
-    [ "SwitchToBanishPhase", "d4/dd5/a13012.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
-    [ "SwitchToPortalPhase", "d4/dd5/a13012.html#ae347618233c5c15f73056629512fcdfa", null ],
-    [ "UpdateAI", "d4/dd5/a13012.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
-    [ "UpdatePortals", "d4/dd5/a13012.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
-    [ "BeamerGUID", "d4/dd5/a13012.html#af0f9b48c0ef7af916d14681473681744", null ],
-    [ "BeamTarget", "d4/dd5/a13012.html#a61cf090860a7866ca0222dd79b697b13", null ],
-    [ "berserk", "d4/dd5/a13012.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
-    [ "PortalGUID", "d4/dd5/a13012.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
+    [ "boss_midnight", "d4/dd5/a13012.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d4/dd5/a13012.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d4/dd5/a13012.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d4/dd5/a13012.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d4/dd5/a13012.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d4/dd5/a13012.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d4/dd5/a13012.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d4/dd5/a13012.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d4/dd5/a13012.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d4/dd5/a13012.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d4/dd5/a13012.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

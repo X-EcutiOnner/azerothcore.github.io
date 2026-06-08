@@ -1,7 +1,6 @@
 var a11352 =
 [
-    [ "TrainerBuySpell", "de/deb/a11352.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "de/deb/a11352.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "de/deb/a11352.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "de/deb/a11352.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "ComplainResult", "de/deb/a11352.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "de/deb/a11352.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "de/deb/a11352.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

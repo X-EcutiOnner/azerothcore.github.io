@@ -1,7 +1,7 @@
 var a28324 =
 [
-    [ "HandleDummy", "d1/d87/a28324.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d1/d87/a28324.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d1/d87/a28324.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d1/d87/a28324.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_flameshocker", "d1/d87/a28324.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d1/d87/a28324.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d1/d87/a28324.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d1/d87/a28324.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

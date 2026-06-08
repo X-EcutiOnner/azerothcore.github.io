@@ -1,8 +1,8 @@
 var a00737 =
 [
-    [ "boss_volazj", "db/de3/a16152.html", "db/de3/a16152" ],
-    [ "spell_herald_volzaj_insanity", "d8/de2/a16156.html", "d8/de2/a16156" ],
-    [ "spell_volazj_whisper", "d2/d83/a16160.html", "d2/d83/a16160" ],
+    [ "boss_volazj", "d3/d1a/a16168.html", "d3/d1a/a16168" ],
+    [ "spell_herald_volzaj_insanity", "df/dc2/a16172.html", "df/dc2/a16172" ],
+    [ "spell_volazj_whisper", "da/d75/a16176.html", "da/d75/a16176" ],
     [ "Misc", "dd/db2/a00737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

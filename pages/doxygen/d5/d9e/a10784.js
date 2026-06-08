@@ -1,10 +1,10 @@
 var a10784 =
 [
-    [ "WorldObjectScript", "d5/d9e/a10784.html#af044c3699a591c137abc5e03c772890b", null ],
-    [ "IsDatabaseBound", "d5/d9e/a10784.html#a48f037dd6152ff68ebef672de68df45e", null ],
-    [ "OnWorldObjectCreate", "d5/d9e/a10784.html#a2b32bc661e5a377de98902f3bc16679b", null ],
-    [ "OnWorldObjectDestroy", "d5/d9e/a10784.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
-    [ "OnWorldObjectResetMap", "d5/d9e/a10784.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
-    [ "OnWorldObjectSetMap", "d5/d9e/a10784.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
-    [ "OnWorldObjectUpdate", "d5/d9e/a10784.html#abc139d1aa728f8a70886eed65d28f566", null ]
+    [ "VehicleScript", "d5/d9e/a10784.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d5/d9e/a10784.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d5/d9e/a10784.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d5/d9e/a10784.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d5/d9e/a10784.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d5/d9e/a10784.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d5/d9e/a10784.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

@@ -1,6 +1,15 @@
 var a21500 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "dc/d40/a21504.html", "dc/d40/a21504" ],
-    [ "npc_q24545_wretched_ghoul", "d3/d34/a21500.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d3/d34/a21500.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_q24545_lich_kingAI", "d3/d34/a21500.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d3/d34/a21500.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d3/d34/a21500.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d3/d34/a21500.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d3/d34/a21500.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d3/d34/a21500.html#ac7c41ebfa7979907aea246af20bcf368", null ],
+    [ "SpellHitTarget", "d3/d34/a21500.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d3/d34/a21500.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d3/d34/a21500.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d3/d34/a21500.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d3/d34/a21500.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d3/d34/a21500.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

@@ -1,6 +1,9 @@
 var a21996 =
 [
-    [ "HandleDamage", "d8/d2a/a21996.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d8/d2a/a21996.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d8/d2a/a21996.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "HandlePeriodic", "d8/d2a/a21996.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "d8/d2a/a21996.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "d8/d2a/a21996.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "d8/d2a/a21996.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "d8/d2a/a21996.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "d8/d2a/a21996.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

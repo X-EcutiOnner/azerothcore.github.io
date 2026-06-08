@@ -1,7 +1,7 @@
 var a00506 =
 [
-    [ "boss_moroes", "de/d59/a13004.html", "de/d59/a13004" ],
-    [ "spell_moroes_vanish", "d2/da5/a13008.html", "d2/da5/a13008" ],
+    [ "boss_moroes", "d5/d4b/a13020.html", "d5/d4b/a13020" ],
+    [ "spell_moroes_vanish", "d2/dd2/a13024.html", "d2/dd2/a13024" ],
     [ "Groups", "d4/d1f/a00506.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "d4/d1f/a00506.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "dc/d8e/a00473.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

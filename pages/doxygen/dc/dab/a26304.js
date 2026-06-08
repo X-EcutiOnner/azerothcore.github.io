@@ -1,7 +1,8 @@
 var a26304 =
 [
-    [ "HandleDummy", "dc/dab/a26304.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "dc/dab/a26304.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "dc/dab/a26304.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "dc/dab/a26304.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleEffectApply", "dc/dab/a26304.html#a1182bd57a03ad093b53e3864bdff127c", null ],
+    [ "HandleEffectRemove", "dc/dab/a26304.html#a6374ece2a04c3d5bc81bb31cc5bc78e1", null ],
+    [ "PrepareAuraScript", "dc/dab/a26304.html#acbe4a19f4f2502fc1ae4e13a2c8906ab", null ],
+    [ "Register", "dc/dab/a26304.html#ac3a9249da3071736026d66a9551ca16d", null ],
+    [ "Validate", "dc/dab/a26304.html#a0ebac0cb6933ac4c562c3c91e06614dd", null ]
 ];

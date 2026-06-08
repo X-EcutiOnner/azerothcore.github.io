@@ -1,7 +1,6 @@
 var a16004 =
 [
-    [ "npc_lakota_windsongAI", "d7/dc2/a16008.html", "d7/dc2/a16008" ],
-    [ "npc_lakota_windsong", "d3/d9b/a16004.html#a08a585ac36189ec23354c7acb26d223d", null ],
-    [ "GetAI", "d3/d9b/a16004.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
-    [ "OnQuestAccept", "d3/d9b/a16004.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
+    [ "npc_twiggy_flatheadAI", "d7/dc2/a16008.html", "d7/dc2/a16008" ],
+    [ "npc_twiggy_flathead", "d3/d9b/a16004.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d3/d9b/a16004.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

@@ -1,6 +1,6 @@
 var a17132 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
-    [ "instance_forge_of_souls", "da/d42/a17132.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "da/d42/a17132.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "npc_fos_leader_secondAI", "dc/dfe/a17136.html", "dc/dfe/a17136" ],
+    [ "npc_fos_leader_second", "da/d42/a17132.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
+    [ "GetAI", "da/d42/a17132.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
 ];

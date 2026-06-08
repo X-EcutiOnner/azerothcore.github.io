@@ -1,9 +1,8 @@
 var a17700 =
 [
-    [ "CheckProc", "d2/d3f/a17700.html#a13426f7a45e9434f980b42f174b22da8", null ],
-    [ "HandlePeriodicTick", "d2/d3f/a17700.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
-    [ "HandleProc", "d2/d3f/a17700.html#abf744d64dae5835bff3877eeaa919af3", null ],
-    [ "PrepareAuraScript", "d2/d3f/a17700.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
-    [ "Register", "d2/d3f/a17700.html#a1b72c10256365de71b8f9fadf5886338", null ],
-    [ "Validate", "d2/d3f/a17700.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d8/d85/a17704.html", "d8/d85/a17704" ],
+    [ "npc_muradin_bronzebeard_icc", "d2/d3f/a17700.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d2/d3f/a17700.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d2/d3f/a17700.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d2/d3f/a17700.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

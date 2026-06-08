@@ -1,5 +1,5 @@
 var a10656 =
 [
-    [ "GenericCreatureScript", "d9/de1/a10656.html#a52157430320e253a5897612623eb796c", null ],
-    [ "GetAI", "d9/de1/a10656.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
+    [ "CommandScript", "d9/de1/a10656.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "d9/de1/a10656.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

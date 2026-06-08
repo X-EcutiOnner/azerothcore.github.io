@@ -1,6 +1,6 @@
 var a04148 =
 [
-    [ "CharacterDatabaseConnection", "d4/d91/a06028.html", "d4/d91/a06028" ],
+    [ "CharacterDatabaseConnection", "d5/d32/a06040.html", "d5/d32/a06040" ],
     [ "CharacterDatabaseStatements", "dc/d9e/a04148.html#a76116b4fa282d8e35bf8f8e940b5cba7", [
       [ "CHAR_DEL_QUEST_POOL_SAVE", "dc/d9e/a04148.html#a76116b4fa282d8e35bf8f8e940b5cba7a494e95a33cf6fd5a044ae914d78eba5f", null ],
       [ "CHAR_INS_QUEST_POOL_SAVE", "dc/d9e/a04148.html#a76116b4fa282d8e35bf8f8e940b5cba7ad81f4bf1ca36a95f1881b582d1a52f08", null ],

@@ -1,6 +1,7 @@
 var a20148 =
 [
-    [ "achievement_freya_knock_on_wood", "dd/d79/a20148.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "dd/d79/a20148.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "dd/d79/a20148.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "boss_freya_healthy_spore", "dd/d79/a20148.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "dd/d79/a20148.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "dd/d79/a20148.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "dd/d79/a20148.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

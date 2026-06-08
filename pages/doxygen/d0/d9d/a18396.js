@@ -1,15 +1,17 @@
 var a18396 =
 [
-    [ "npc_sindragosa_trashAI", "d0/d9d/a18396.html#a7401a422bc4c2140c631bc118f396f25", null ],
-    [ "GetData", "d0/d9d/a18396.html#a701b8189869bf20d2b3da31b73aed9da", null ],
-    [ "InitializeAI", "d0/d9d/a18396.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
-    [ "JustEngagedWith", "d0/d9d/a18396.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
-    [ "JustRespawned", "d0/d9d/a18396.html#a6438b9f864f178dc4e35e24a48066980", null ],
-    [ "Reset", "d0/d9d/a18396.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
-    [ "SetData", "d0/d9d/a18396.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
-    [ "UpdateAI", "d0/d9d/a18396.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
-    [ "_events", "d0/d9d/a18396.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
-    [ "_frostwyrmId", "d0/d9d/a18396.html#ac2853246532bd913211fc743f4723ce0", null ],
-    [ "_instance", "d0/d9d/a18396.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
-    [ "_isTaunted", "d0/d9d/a18396.html#a50632ee1a85936748aabc5fb10f5e982", null ]
+    [ "npc_rimefangAI", "d0/d9d/a18396.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
+    [ "DoAction", "d0/d9d/a18396.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
+    [ "InitializeAI", "d0/d9d/a18396.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
+    [ "JustDied", "d0/d9d/a18396.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
+    [ "JustEngagedWith", "d0/d9d/a18396.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
+    [ "JustReachedHome", "d0/d9d/a18396.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
+    [ "JustRespawned", "d0/d9d/a18396.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
+    [ "MovementInform", "d0/d9d/a18396.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
+    [ "Reset", "d0/d9d/a18396.html#a8956324e2806393d26bf146f4e2c48b0", null ],
+    [ "UpdateAI", "d0/d9d/a18396.html#a00872042199924a14089c1057c479ff7", null ],
+    [ "_events", "d0/d9d/a18396.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
+    [ "_icyBlastCounter", "d0/d9d/a18396.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
+    [ "_instance", "d0/d9d/a18396.html#ad12541907c439117cf8c8a6741c07445", null ],
+    [ "_summoned", "d0/d9d/a18396.html#aa27dd1e338145a65915262a8d44f7519", null ]
 ];

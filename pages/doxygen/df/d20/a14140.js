@@ -1,5 +1,7 @@
 var a14140 =
 [
-    [ "npc_mikhail", "df/d20/a14140.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "df/d20/a14140.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "npc_daphne_stilwellAI", "d4/d38/a14144.html", "d4/d38/a14144" ],
+    [ "npc_daphne_stilwell", "df/d20/a14140.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "df/d20/a14140.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "df/d20/a14140.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

@@ -1,6 +1,7 @@
 var a16888 =
 [
-    [ "boss_gormokAI", "dc/d25/a16892.html", "dc/d25/a16892" ],
-    [ "boss_gormok", "df/dbf/a16888.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "df/dbf/a16888.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "HandleEffectPeriodic", "df/dbf/a16888.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "df/dbf/a16888.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "df/dbf/a16888.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "df/dbf/a16888.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

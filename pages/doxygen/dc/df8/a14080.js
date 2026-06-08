@@ -1,6 +1,8 @@
 var a14080 =
 [
-    [ "boss_blight_wormAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
-    [ "boss_blight_worm", "dc/df8/a14080.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dc/df8/a14080.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_varian_wrynnAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
+    [ "npc_varian_wrynn", "dc/df8/a14080.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "dc/df8/a14080.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "dc/df8/a14080.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "dc/df8/a14080.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

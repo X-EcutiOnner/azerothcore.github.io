@@ -1,6 +1,10 @@
 var a10612 =
 [
-    [ "AreaTriggerScript", "de/d69/a10612.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
-    [ "IsDatabaseBound", "de/d69/a10612.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
-    [ "OnTrigger", "de/d69/a10612.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
+    [ "AllItemScript", "de/d69/a10612.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "de/d69/a10612.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "de/d69/a10612.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "de/d69/a10612.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "de/d69/a10612.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "de/d69/a10612.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "de/d69/a10612.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

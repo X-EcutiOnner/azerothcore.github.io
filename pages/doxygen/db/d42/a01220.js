@@ -1,9 +1,9 @@
 var a01220 =
 [
-    [ "boss_gal_darah", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
-    [ "spell_galdarah_impaling_charge", "d6/dfb/a17448.html", "d6/dfb/a17448" ],
-    [ "spell_galdarah_transform", "d2/d4c/a17452.html", "d2/d4c/a17452" ],
-    [ "achievement_share_the_love", "da/d12/a17456.html", "da/d12/a17456" ],
+    [ "boss_gal_darah", "d6/dc0/a17460.html", "d6/dc0/a17460" ],
+    [ "spell_galdarah_impaling_charge", "dd/d82/a17464.html", "dd/d82/a17464" ],
+    [ "spell_galdarah_transform", "db/dcc/a17468.html", "db/dcc/a17468" ],
+    [ "achievement_share_the_love", "df/dca/a17472.html", "df/dca/a17472" ],
     [ "Events", "db/d42/a01220.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

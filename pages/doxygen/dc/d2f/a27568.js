@@ -1,7 +1,6 @@
 var a27568 =
 [
-    [ "HandleProc", "dc/d2f/a27568.html#a41b42a2d219904cdaf2a714d97e500f7", null ],
-    [ "PrepareAuraScript", "dc/d2f/a27568.html#a95c26300614ecdab588ddcc256fc1fd6", null ],
-    [ "Register", "dc/d2f/a27568.html#afb32150ac10ad392b63f40db05433835", null ],
-    [ "Validate", "dc/d2f/a27568.html#ab012775206fb6011eff8fbed293319c8", null ]
+    [ "HandleOnHit", "dc/d2f/a27568.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "dc/d2f/a27568.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "dc/d2f/a27568.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

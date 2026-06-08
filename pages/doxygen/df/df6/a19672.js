@@ -1,7 +1,12 @@
 var a19672 =
 [
-    [ "HandleProc", "df/df6/a19672.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "df/df6/a19672.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "df/df6/a19672.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "df/df6/a19672.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "npc_oculus_drakeAI", "df/df6/a19672.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/df6/a19672.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/df6/a19672.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/df6/a19672.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/df6/a19672.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/df6/a19672.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/df6/a19672.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/df6/a19672.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/df6/a19672.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

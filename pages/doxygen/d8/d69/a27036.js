@@ -1,6 +1,7 @@
 var a27036 =
 [
-    [ "HandleAfterCast", "d8/d69/a27036.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d8/d69/a27036.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d8/d69/a27036.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "HandleProc", "d8/d69/a27036.html#adec7010a0de4ab9e8756d345c4adff14", null ],
+    [ "PrepareAuraScript", "d8/d69/a27036.html#a16986cb0bf0e46d44a640486580480aa", null ],
+    [ "Register", "d8/d69/a27036.html#a093cac6e19a12d01b7dba974b595502e", null ],
+    [ "Validate", "d8/d69/a27036.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
 ];

@@ -1,6 +1,6 @@
 var a29456 =
 [
-    [ "SetUp", "de/de5/a29456.html#ac7db18817aa330aedefd1f688d53219b", null ],
-    [ "TearDown", "de/de5/a29456.html#a0cb70a624f55509497866a1fac787800", null ],
-    [ "_previousWorld", "de/de5/a29456.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
+    [ "ForceInitValues", "de/de5/a29456.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "de/de5/a29456.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "de/de5/a29456.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

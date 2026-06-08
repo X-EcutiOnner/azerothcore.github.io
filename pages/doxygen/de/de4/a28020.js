@@ -1,8 +1,5 @@
 var a28020 =
 [
-    [ "trigger_periodicAI", "de/de4/a28020.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "de/de4/a28020.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "de/de4/a28020.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "de/de4/a28020.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "de/de4/a28020.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "item_petrov_cluster_bombs", "de/de4/a28020.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "de/de4/a28020.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

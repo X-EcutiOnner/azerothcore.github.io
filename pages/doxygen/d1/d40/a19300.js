@@ -1,7 +1,15 @@
 var a19300 =
 [
-    [ "HandleRemove", "d1/d40/a19300.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d1/d40/a19300.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d1/d40/a19300.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d1/d40/a19300.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_grobbulusAI", "d1/d40/a19300.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d1/d40/a19300.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d1/d40/a19300.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d1/d40/a19300.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d1/d40/a19300.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d1/d40/a19300.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
+    [ "Reset", "d1/d40/a19300.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SummonedCreatureDespawn", "d1/d40/a19300.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d1/d40/a19300.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d1/d40/a19300.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d1/d40/a19300.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d1/d40/a19300.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

@@ -1,8 +1,7 @@
 var a26624 =
 [
-    [ "HandleEffectApply", "d9/dba/a26624.html#aed959961fcd07649cd4914fcd38a3214", null ],
-    [ "if", "d9/dba/a26624.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
-    [ "PrepareAuraScript", "d9/dba/a26624.html#a42167bc6bf7992debea8582680251da4", null ],
-    [ "Register", "d9/dba/a26624.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
-    [ "AuraEffectHandleModes", "d9/dba/a26624.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
+    [ "HandleProc", "d9/dba/a26624.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d9/dba/a26624.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d9/dba/a26624.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d9/dba/a26624.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

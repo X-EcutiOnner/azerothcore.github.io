@@ -1,5 +1,7 @@
 var a27596 =
 [
-    [ "achievement_save_the_day", "db/df9/a27596.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "db/df9/a27596.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "HandleProc", "db/df9/a27596.html#a39a69b837c5844d345f5a311f5760bf6", null ],
+    [ "PrepareAuraScript", "db/df9/a27596.html#a673557238631dbca8954f516718f0eb2", null ],
+    [ "Register", "db/df9/a27596.html#aa9f71fd65dd63f66a7ff3c7757174e67", null ],
+    [ "Validate", "db/df9/a27596.html#aedf17c34772c0e2030388fc9b17aec38", null ]
 ];

@@ -1,6 +1,7 @@
 var a20968 =
 [
-    [ "CanBeAppliedOn", "db/d4d/a20968.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "db/d4d/a20968.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "db/d4d/a20968.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "FilterTargets", "db/d4d/a20968.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "db/d4d/a20968.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "db/d4d/a20968.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "db/d4d/a20968.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

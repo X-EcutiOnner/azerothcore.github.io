@@ -1,12 +1,12 @@
 var a00068 =
 [
-    [ "instance_sunwell_plateau", "d0/d6a/a13816.html", "d0/d6a/a13816" ],
-    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "de/db6/a13820.html", "de/db6/a13820" ],
-    [ "spell_cataclysm_breath", "d7/d67/a13824.html", "d7/d67/a13824" ],
-    [ "npc_sunblade_scout", "d7/d4d/a13828.html", "d7/d4d/a13828" ],
-    [ "spell_sunwell_teleport", "df/d98/a13832.html", "df/d98/a13832" ],
-    [ "npc_sunblade_arch_mage", "db/d55/a13836.html", "db/d55/a13836" ],
-    [ "spell_spell_fury_aura", "db/dde/a13840.html", "db/dde/a13840" ],
+    [ "instance_sunwell_plateau", "df/d98/a13832.html", "df/d98/a13832" ],
+    [ "instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript", "db/d55/a13836.html", "db/d55/a13836" ],
+    [ "spell_cataclysm_breath", "db/dde/a13840.html", "db/dde/a13840" ],
+    [ "npc_sunblade_scout", "df/de6/a13844.html", "df/de6/a13844" ],
+    [ "spell_sunwell_teleport", "d4/d20/a13848.html", "d4/d20/a13848" ],
+    [ "npc_sunblade_arch_mage", "dd/d36/a13852.html", "dd/d36/a13852" ],
+    [ "spell_spell_fury_aura", "d1/d3b/a13856.html", "d1/d3b/a13856" ],
     [ "cataclysmBreath", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901c", [
       [ "SPELL_CORROSIVE_POISON", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3", null ],
       [ "SPELL_FEVERED_FATIGUE", "da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222", null ],

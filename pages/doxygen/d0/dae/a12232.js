@@ -1,8 +1,9 @@
 var a12232 =
 [
-    [ "CreatureCountWorker", "d0/dae/a12232.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d0/dae/a12232.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d0/dae/a12232.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d0/dae/a12232.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d0/dae/a12232.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "accountId", "d0/dae/a12232.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "d0/dae/a12232.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "d0/dae/a12232.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "level", "d0/dae/a12232.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
+    [ "lowGuid", "d0/dae/a12232.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "d0/dae/a12232.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

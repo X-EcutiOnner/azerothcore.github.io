@@ -1,7 +1,7 @@
 var a16324 =
 [
-    [ "HandleHit", "d7/ded/a16324.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d7/ded/a16324.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d7/ded/a16324.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d7/ded/a16324.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "boss_sartharion_shadron", "d7/ded/a16324.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d7/ded/a16324.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d7/ded/a16324.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d7/ded/a16324.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

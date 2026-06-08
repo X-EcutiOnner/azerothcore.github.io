@@ -1,7 +1,17 @@
 var a19244 =
 [
-    [ "HandleScriptEffect", "d1/dc5/a19244.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "d1/dc5/a19244.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "d1/dc5/a19244.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "d1/dc5/a19244.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "boss_four_horsemenAI", "d1/dc5/a19244.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "d1/dc5/a19244.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "EnterEvadeMode", "d1/dc5/a19244.html#a86f458f0413cab4c8129affff1b73a70", null ],
+    [ "JustDied", "d1/dc5/a19244.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "d1/dc5/a19244.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "d1/dc5/a19244.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "d1/dc5/a19244.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "d1/dc5/a19244.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "d1/dc5/a19244.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "d1/dc5/a19244.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "d1/dc5/a19244.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "d1/dc5/a19244.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "d1/dc5/a19244.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "d1/dc5/a19244.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

@@ -1,6 +1,8 @@
 var a27004 =
 [
-    [ "CheckProc", "d9/d9f/a27004.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
-    [ "PrepareAuraScript", "d9/d9f/a27004.html#a13ccd1c89767d0dcf041217466390759", null ],
-    [ "Register", "d9/d9f/a27004.html#a4f29ca53813534b1af20e09281288e95", null ]
+    [ "AfterApply", "d9/d9f/a27004.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "d9/d9f/a27004.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "d9/d9f/a27004.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "d9/d9f/a27004.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "d9/d9f/a27004.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

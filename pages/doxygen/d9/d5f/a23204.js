@@ -1,6 +1,5 @@
 var a23204 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d9/d2f/a23208.html", "d9/d2f/a23208" ],
-    [ "instance_blood_furnace", "d9/d5f/a23204.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d9/d5f/a23204.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "go_broggok_lever", "d9/d5f/a23204.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d9/d5f/a23204.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

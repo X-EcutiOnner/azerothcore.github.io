@@ -1,6 +1,6 @@
 var a13960 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d7/dd0/a13964.html", "d7/dd0/a13964" ],
-    [ "npc_bh_thalorien_dawnseeker", "d4/d8c/a13960.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d4/d8c/a13960.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "x", "d4/d8c/a13960.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d4/d8c/a13960.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d4/d8c/a13960.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

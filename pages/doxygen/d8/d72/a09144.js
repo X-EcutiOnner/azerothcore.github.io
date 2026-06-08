@@ -1,9 +1,8 @@
 var a09144 =
 [
-    [ "GameEventAIHookWorker", "d8/d72/a09144.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "d8/d72/a09144.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "d8/d72/a09144.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "d8/d72/a09144.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "d8/d72/a09144.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "d8/d72/a09144.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "VehicleSeat", "d8/d72/a09144.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d8/d72/a09144.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d8/d72/a09144.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d8/d72/a09144.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d8/d72/a09144.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

@@ -1,6 +1,5 @@
 var a17412 =
 [
-    [ "boss_drakkari_elementalAI", "d7/dbd/a17416.html", "d7/dbd/a17416" ],
-    [ "boss_drakkari_elemental", "d9/d1c/a17412.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d9/d1c/a17412.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "entry", "d9/d1c/a17412.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "d9/d1c/a17412.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

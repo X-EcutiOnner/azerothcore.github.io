@@ -1,7 +1,9 @@
 var a23576 =
 [
-    [ "HandleDamage", "db/d9f/a23576.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "db/d9f/a23576.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "db/d9f/a23576.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "db/d9f/a23576.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "instance_the_eye_InstanceMapScript", "db/d9f/a23576.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
+    [ "GetGuidData", "db/d9f/a23576.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
+    [ "OnGameObjectCreate", "db/d9f/a23576.html#a56c6933c2c231c228ca147107fbfc930", null ],
+    [ "BridgeWindowGUID", "db/d9f/a23576.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
+    [ "KaelStateLeftGUID", "db/d9f/a23576.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
+    [ "KaelStateRightGUID", "db/d9f/a23576.html#a25ba703325800d2976eff860437f3d57", null ]
 ];

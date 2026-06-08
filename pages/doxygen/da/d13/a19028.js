@@ -1,9 +1,7 @@
 var a19028 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "da/d13/a19028.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "da/d13/a19028.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "da/d13/a19028.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "da/d13/a19028.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "da/d13/a19028.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "da/d13/a19028.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "HandleEffectPeriodic", "da/d13/a19028.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "da/d13/a19028.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "da/d13/a19028.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "da/d13/a19028.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

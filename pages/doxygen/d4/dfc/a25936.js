@@ -1,7 +1,7 @@
 var a25936 =
 [
-    [ "HandleDummy", "d4/dfc/a25936.html#a14bf65690e857c6a16dfcd8e036abbbb", null ],
-    [ "PrepareSpellScript", "d4/dfc/a25936.html#a2ec497a2dfe2364ad9011aba8532e73c", null ],
-    [ "Register", "d4/dfc/a25936.html#afca09c1e1c5389db67d081d6e033f025", null ],
-    [ "Validate", "d4/dfc/a25936.html#af54f926b69002b2277dad34e1773e450", null ]
+    [ "HandleDummy", "d4/dfc/a25936.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "d4/dfc/a25936.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "d4/dfc/a25936.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "d4/dfc/a25936.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

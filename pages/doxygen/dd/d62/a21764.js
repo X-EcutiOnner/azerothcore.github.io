@@ -1,7 +1,6 @@
 var a21764 =
 [
-    [ "HandleDummy", "dd/d62/a21764.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "dd/d62/a21764.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "dd/d62/a21764.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "dd/d62/a21764.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_boneguard_footmanAI", "dd/d62/a21764.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "dd/d62/a21764.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "dd/d62/a21764.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

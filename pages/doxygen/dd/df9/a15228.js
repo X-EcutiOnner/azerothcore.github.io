@@ -1,12 +1,16 @@
 var a15228 =
 [
-    [ "boss_isalien", "dd/df9/a15228.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "dd/df9/a15228.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "dd/df9/a15228.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "dd/df9/a15228.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "dd/df9/a15228.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "dd/df9/a15228.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "dd/df9/a15228.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "dd/df9/a15228.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "dd/df9/a15228.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "npc_medivh_bm", "dd/df9/a15228.html#a23f04c433faf7da663b2edffb2a0440d", null ],
+    [ "AttackStart", "dd/df9/a15228.html#a8eb87f4d80d83725af017657c599d458", null ],
+    [ "DoAction", "dd/df9/a15228.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
+    [ "JustDied", "dd/df9/a15228.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
+    [ "JustSummoned", "dd/df9/a15228.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
+    [ "MoveInLineOfSight", "dd/df9/a15228.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
+    [ "Reset", "dd/df9/a15228.html#a1a33f613b083763c952882cdb82a35c1", null ],
+    [ "SummonOrcs", "dd/df9/a15228.html#a13964b4c460a664442be7eebe768edf5", null ],
+    [ "UpdateAI", "dd/df9/a15228.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
+    [ "_airArray", "dd/df9/a15228.html#a6e766596b69b52690635ee91e6e8d164", null ],
+    [ "_events", "dd/df9/a15228.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
+    [ "_groundArray", "dd/df9/a15228.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
+    [ "_instance", "dd/df9/a15228.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

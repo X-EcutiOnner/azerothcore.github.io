@@ -1,5 +1,6 @@
 var a16148 =
 [
-    [ "achievement_respect_your_elders", "dd/d90/a16148.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "dd/d90/a16148.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "HandleApply", "dd/d90/a16148.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "dd/d90/a16148.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "dd/d90/a16148.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

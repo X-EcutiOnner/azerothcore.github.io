@@ -1,6 +1,6 @@
 var a18068 =
 [
-    [ "HandleScriptEffect", "d9/d53/a18068.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d9/d53/a18068.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d9/d53/a18068.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "npc_bone_spikeAI", "da/d64/a18072.html", "da/d64/a18072" ],
+    [ "npc_bone_spike", "d9/d53/a18068.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "d9/d53/a18068.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

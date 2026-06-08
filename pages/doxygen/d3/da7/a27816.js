@@ -1,6 +1,5 @@
 var a27816 =
 [
-    [ "go_flamesAI", "d3/da7/a27816.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d3/da7/a27816.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d3/da7/a27816.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_resonite_cask", "d3/da7/a27816.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d3/da7/a27816.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

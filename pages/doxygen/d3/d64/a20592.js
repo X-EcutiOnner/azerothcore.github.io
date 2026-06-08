@@ -1,7 +1,9 @@
 var a20592 =
 [
-    [ "npc_xt002_life_spark", "d3/d64/a20592.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d3/d64/a20592.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d3/d64/a20592.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d3/d64/a20592.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "npc_xt002_scrapbot", "d3/d64/a20592.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d3/d64/a20592.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d3/d64/a20592.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d3/d64/a20592.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d3/d64/a20592.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d3/d64/a20592.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

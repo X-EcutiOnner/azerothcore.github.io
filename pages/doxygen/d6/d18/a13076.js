@@ -1,6 +1,9 @@
 var a13076 =
 [
-    [ "npc_sanguine_spirit", "d6/d18/a13076.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d6/d18/a13076.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d6/d18/a13076.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "FilterTargets", "d6/d18/a13076.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d6/d18/a13076.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d6/d18/a13076.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d6/d18/a13076.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d6/d18/a13076.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d6/d18/a13076.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

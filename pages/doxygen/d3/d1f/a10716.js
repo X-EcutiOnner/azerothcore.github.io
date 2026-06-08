@@ -1,6 +1,7 @@
 var a10716 =
 [
-    [ "LootScript", "d3/d1f/a10716.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d3/d1f/a10716.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d3/d1f/a10716.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "InstanceMapScript", "d3/d1f/a10716.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "d3/d1f/a10716.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "d3/d1f/a10716.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "d3/d1f/a10716.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

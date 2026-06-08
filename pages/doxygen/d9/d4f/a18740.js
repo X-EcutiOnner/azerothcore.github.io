@@ -1,13 +1,9 @@
 var a18740 =
 [
-    [ "npc_risen_archmageAI", "d9/d4f/a18740.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "d9/d4f/a18740.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "d9/d4f/a18740.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEnteredCombat", "d9/d4f/a18740.html#a50bd33c1b28b3691f42a5f167f27e342", null ],
-    [ "JustSummoned", "d9/d4f/a18740.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "d9/d4f/a18740.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "d9/d4f/a18740.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "d9/d4f/a18740.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "d9/d4f/a18740.html#a1b4e12b199bf3ada517c895c5f387c4a", null ],
-    [ "_isInitialArchmage", "d9/d4f/a18740.html#ac871eeab6510fa9f5e8f38f35f299149", null ]
+    [ "npc_green_dragon_combat_triggerAI", "d9/d4f/a18740.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
+    [ "DoAction", "d9/d4f/a18740.html#abbd08537ed245084ca7d4cf852a749a2", null ],
+    [ "JustEnteredCombat", "d9/d4f/a18740.html#ae25ca99139f8bb0082b97599cb924bd9", null ],
+    [ "JustExitedCombat", "d9/d4f/a18740.html#add8ce38b4a75947dc0170c7aba9c5589", null ],
+    [ "MoveInLineOfSight", "d9/d4f/a18740.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
+    [ "Reset", "d9/d4f/a18740.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ]
 ];

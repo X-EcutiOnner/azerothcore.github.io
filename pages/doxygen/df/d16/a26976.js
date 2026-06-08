@@ -1,8 +1,10 @@
 var a26976 =
 [
-    [ "HandleRootRemove", "df/d16/a26976.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "df/d16/a26976.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "df/d16/a26976.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "df/d16/a26976.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "df/d16/a26976.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "HandleProc", "df/d16/a26976.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "df/d16/a26976.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "df/d16/a26976.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "df/d16/a26976.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "df/d16/a26976.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "df/d16/a26976.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "df/d16/a26976.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

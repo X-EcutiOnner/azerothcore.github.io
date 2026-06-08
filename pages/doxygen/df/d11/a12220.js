@@ -1,8 +1,8 @@
 var a12220 =
 [
-    [ "chatfilter_commandscript", "df/d11/a12220.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
-    [ "GetCommands", "df/d11/a12220.html#aa7553c0fc74103773edeaac9195e4414", null ],
-    [ "HandleChatFilterAddCommand", "df/d11/a12220.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
-    [ "HandleChatFilterListCommand", "df/d11/a12220.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
-    [ "HandleChatFilterRemoveCommand", "df/d11/a12220.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
+    [ "cache_commandscript", "df/d11/a12220.html#a709e1d02632aed18113c1adb52e962b5", null ],
+    [ "GetCommands", "df/d11/a12220.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
+    [ "HandleCacheDeleteCommand", "df/d11/a12220.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
+    [ "HandleCacheInfoCommand", "df/d11/a12220.html#aa9bce5578450a35909a4e481bc21867f", null ],
+    [ "HandleCacheRefreshCommand", "df/d11/a12220.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
 ];

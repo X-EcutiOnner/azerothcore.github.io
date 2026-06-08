@@ -1,8 +1,7 @@
 var a22016 =
 [
-    [ "npc_oathbound_warder", "d2/ddd/a22016.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
-    [ "AttackStart", "d2/ddd/a22016.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
-    [ "InitializeAI", "d2/ddd/a22016.html#a62c4c568ad615013afa46c7da84d057a", null ],
-    [ "JustEngagedWith", "d2/ddd/a22016.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
-    [ "UpdateAI", "d2/ddd/a22016.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
+    [ "OnApply", "d2/ddd/a22016.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "d2/ddd/a22016.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "d2/ddd/a22016.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "d2/ddd/a22016.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

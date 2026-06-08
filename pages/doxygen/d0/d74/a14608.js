@@ -1,7 +1,6 @@
 var a14608 =
 [
-    [ "FilterTargets", "d0/d74/a14608.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
-    [ "HandleDummy", "d0/d74/a14608.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
-    [ "PrepareSpellScript", "d0/d74/a14608.html#a6ac4db072beae6ae7a700774667da613", null ],
-    [ "Register", "d0/d74/a14608.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
+    [ "npc_direbrew_antagonist", "d0/d74/a14608.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d0/d74/a14608.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d0/d74/a14608.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

@@ -1,10 +1,4 @@
 var a28912 =
 [
-    [ "PvPDifficultyEntry", "da/d20/a28912.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "da/d20/a28912.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "da/d20/a28912.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "da/d20/a28912.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "da/d20/a28912.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "da/d20/a28912.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "da/d20/a28912.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "Pattern", "da/d20/a28912.html#a6a13e445a1c894f95105f6dd4f0f24ba", null ]
 ];

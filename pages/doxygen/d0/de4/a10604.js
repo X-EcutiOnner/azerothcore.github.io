@@ -1,11 +1,17 @@
 var a10604 =
 [
-    [ "AllMapScript", "d0/de4/a10604.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "d0/de4/a10604.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "d0/de4/a10604.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "d0/de4/a10604.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "d0/de4/a10604.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "d0/de4/a10604.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "d0/de4/a10604.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "d0/de4/a10604.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "AllCreatureScript", "d0/de4/a10604.html#ae933414c901fc5d3606fd5c239156f1b", null ],
+    [ "CanCreatureGossipHello", "d0/de4/a10604.html#a2cf3bd5ad27bf97fde905bc69a6dec5e", null ],
+    [ "CanCreatureGossipSelect", "d0/de4/a10604.html#a551633c543dd01e876ee10452b98fb5e", null ],
+    [ "CanCreatureGossipSelectCode", "d0/de4/a10604.html#aa193e968ecc1639ca33fee052dafb0b3", null ],
+    [ "CanCreatureQuestAccept", "d0/de4/a10604.html#af45ef5e7a0a6b3ca6126d5af87753b5c", null ],
+    [ "CanCreatureQuestReward", "d0/de4/a10604.html#a31659a18df4206122a56ce69f3e4809d", null ],
+    [ "GetCreatureAI", "d0/de4/a10604.html#a1e568b6f85a8b60a65a987c8d081ca3e", null ],
+    [ "OnAllCreatureUpdate", "d0/de4/a10604.html#abba47678a4f5e73c2db3b27b4cfa3dbe", null ],
+    [ "OnBeforeCreatureSelectLevel", "d0/de4/a10604.html#a136f18625787127115566bb4625fc490", null ],
+    [ "OnCreatureAddWorld", "d0/de4/a10604.html#aa5ba65ba430a95724a814311382c9a67", null ],
+    [ "OnCreatureRemoveWorld", "d0/de4/a10604.html#aba119c6b59f3dd4a489bb227c1b1208d", null ],
+    [ "OnCreatureSaveToDB", "d0/de4/a10604.html#acad4f67abbd5906f38be136be2ae1f53", null ],
+    [ "OnCreatureSelectLevel", "d0/de4/a10604.html#a72e4b4f205e153cb72c3401028b065c9", null ],
+    [ "OnFfaPvpStateUpdate", "d0/de4/a10604.html#a8022ccb5b3d0b6d900512f3d8ea6dbfa", null ]
 ];

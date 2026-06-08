@@ -1,5 +1,6 @@
 var a13252 =
 [
-    [ "boss_warlord_salaris", "d1/d0e/a13252.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "d1/d0e/a13252.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "boss_kagani_nightstrike", "d1/d0e/a13252.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d1/d0e/a13252.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d1/d0e/a13252.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

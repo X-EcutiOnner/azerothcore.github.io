@@ -1,7 +1,7 @@
 var a27472 =
 [
-    [ "HandleDummy", "de/de4/a27472.html#a0eae8fe2faee05bad7a34e84dddd3317", null ],
-    [ "PrepareSpellScript", "de/de4/a27472.html#a24634405a8d0ccdd22f4832815262446", null ],
-    [ "Register", "de/de4/a27472.html#a3394b9b9e5899550251d553ac9f77f8a", null ],
-    [ "Validate", "de/de4/a27472.html#ae56a900b3484fd6397d38c4ad8efe5c2", null ]
+    [ "HandleApplyAura", "de/de4/a27472.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "de/de4/a27472.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "de/de4/a27472.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "de/de4/a27472.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

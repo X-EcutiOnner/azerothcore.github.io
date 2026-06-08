@@ -1,9 +1,7 @@
 var a19484 =
 [
-    [ "npc_nexus_lord", "d3/d8d/a19484.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d3/d8d/a19484.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d3/d8d/a19484.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d3/d8d/a19484.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d3/d8d/a19484.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d3/d8d/a19484.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "npc_naxxramas_trigger", "d3/d8d/a19484.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d3/d8d/a19484.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d3/d8d/a19484.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d3/d8d/a19484.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

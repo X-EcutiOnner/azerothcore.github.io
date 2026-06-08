@@ -1,6 +1,10 @@
 var a23460 =
 [
-    [ "HandleCast", "d3/dd2/a23460.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d3/dd2/a23460.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d3/dd2/a23460.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "CheckProc", "d3/dd2/a23460.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d3/dd2/a23460.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d3/dd2/a23460.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d3/dd2/a23460.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d3/dd2/a23460.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d3/dd2/a23460.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d3/dd2/a23460.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

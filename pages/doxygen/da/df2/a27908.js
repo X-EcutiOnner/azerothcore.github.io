@@ -1,6 +1,5 @@
 var a27908 =
 [
-    [ "go_fel_crystalforge", "da/df2/a27908.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "da/df2/a27908.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "da/df2/a27908.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_sacred_fire_of_life", "da/df2/a27908.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "da/df2/a27908.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

@@ -1,6 +1,6 @@
 var a18636 =
 [
-    [ "npc_spirit_wardenAI", "d9/daf/a18640.html", "d9/daf/a18640" ],
-    [ "npc_spirit_warden", "d2/d64/a18636.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d2/d64/a18636.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "npc_terenas_menethilAI", "d9/daf/a18640.html", "d9/daf/a18640" ],
+    [ "npc_terenas_menethil", "d2/d64/a18636.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "d2/d64/a18636.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

@@ -118,7 +118,7 @@ Functions</h2></td></tr>
 <tr class="memitem:a61bef7957f008e8cd937746ba03feb73"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a61bef7957f008e8cd937746ba03feb73"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d59/a05062.html#a61bef7957f008e8cd937746ba03feb73">IsCorrectFieldType</a> (<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> type)</td></tr>
 <tr class="separator:a61bef7957f008e8cd937746ba03feb73"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae187308862c39923e2b843bc9d4c989c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string_view &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d59/a05062.html#ae187308862c39923e2b843bc9d4c989c">GetCleanAliasName</a> (std::string_view alias)</td></tr>
+<tr class="memitem:ae187308862c39923e2b843bc9d4c989c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string_view &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d59/a05062.html#ae187308862c39923e2b843bc9d4c989c">GetCleanAliasName</a> (std::string_view alias)</td></tr>
 <tr class="separator:ae187308862c39923e2b843bc9d4c989c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a56e834d391c0eb5187d3c7dd0dad88b7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a56e834d391c0eb5187d3c7dd0dad88b7"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d59/a05062.html#a56e834d391c0eb5187d3c7dd0dad88b7">IsCorrectAlias</a> (<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> type, std::string_view alias)</td></tr>
@@ -135,7 +135,7 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string_view &gt; anonymous_namespace{Field.cpp}::GetCleanAliasName </td>
+          <td class="memname"><a class="el" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; std::string_view &gt; anonymous_namespace{Field.cpp}::GetCleanAliasName </td>
           <td>(</td>
           <td class="paramtype">std::string_view&#160;</td>
           <td class="paramname"><em>alias</em></td><td>)</td>
@@ -240,7 +240,7 @@ template&lt;typename T &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">  120</span>    {</div>
 <div class="line"><span class="lineno">  121</span>        <span class="keywordflow">if</span> <span class="keyword">constexpr</span> (std::is_same_v&lt;T, double&gt;)</div>
 <div class="line"><span class="lineno">  122</span>        {</div>
-<div class="line"><span class="lineno">  123</span>            <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;sum&quot;</span>) || <a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;avg&quot;</span>)) &amp;&amp; type == <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">DatabaseFieldTypes::Decimal</a>)</div>
+<div class="line"><span class="lineno">  123</span>            <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;sum&quot;</span>) || <a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;avg&quot;</span>)) &amp;&amp; type == <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">DatabaseFieldTypes::Decimal</a>)</div>
 <div class="line"><span class="lineno">  124</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  125</span> </div>
 <div class="line"><span class="lineno">  126</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
@@ -248,13 +248,13 @@ template&lt;typename T &gt; </div>
 <div class="line"><span class="lineno">  128</span> </div>
 <div class="line"><span class="lineno">  129</span>        <span class="keywordflow">if</span> <span class="keyword">constexpr</span> (std::is_same_v&lt;T, uint64&gt;)</div>
 <div class="line"><span class="lineno">  130</span>        {</div>
-<div class="line"><span class="lineno">  131</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;count&quot;</span>) &amp;&amp; type == <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">DatabaseFieldTypes::Int64</a>)</div>
+<div class="line"><span class="lineno">  131</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;count&quot;</span>) &amp;&amp; type == <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">DatabaseFieldTypes::Int64</a>)</div>
 <div class="line"><span class="lineno">  132</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  133</span> </div>
 <div class="line"><span class="lineno">  134</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  135</span>        }</div>
 <div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;min&quot;</span>) || <a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;max&quot;</span>)) &amp;&amp; IsCorrectFieldType&lt;T&gt;(type))</div>
+<div class="line"><span class="lineno">  137</span>        <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;min&quot;</span>) || <a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(alias, <span class="stringliteral">&quot;max&quot;</span>)) &amp;&amp; IsCorrectFieldType&lt;T&gt;(type))</div>
 <div class="line"><span class="lineno">  138</span>        {</div>
 <div class="line"><span class="lineno">  139</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  140</span>        }</div>
@@ -263,7 +263,7 @@ template&lt;typename T &gt; </div>
 <div class="line"><span class="lineno">  143</span>    }</div>
 <div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">DatabaseFieldTypes::Decimal</a></div><div class="ttdeci">@ Decimal</div></div>
 <div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">DatabaseFieldTypes::Int64</a></div><div class="ttdeci">@ Int64</div></div>
-<div class="ttc" id="aa04562_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
+<div class="ttc" id="aa04565_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">Decimal</a>, <a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">Int64</a>, and <a class="el" href="../../#l00592">StringEqualI()</a>.</p>
 
@@ -363,7 +363,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d59/a05062.html">anonymous_namespace{Field.cpp}</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:47:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

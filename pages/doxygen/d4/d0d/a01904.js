@@ -1,13 +1,13 @@
 var a01904 =
 [
-    [ "boss_ayamiss", "dd/d0f/a15308.html", "dd/d0f/a15308" ],
-    [ "npc_hive_zara_larva", "d4/d2f/a15312.html", "d4/d2f/a15312" ],
-    [ "npc_hive_zara_swarmer", "d3/d42/a15316.html", "d3/d42/a15316" ],
-    [ "WaspTeleportData", "de/d0a/a15320.html", "de/d0a/a15320" ],
-    [ "spell_ayamiss_swarmer_teleport_trigger", "df/d87/a15324.html", "df/d87/a15324" ],
-    [ "spell_ayamiss_swarmer_swarm", "d5/db2/a15328.html", "d5/db2/a15328" ],
-    [ "spell_ayamiss_swarmer_start_loop", "d8/dc7/a15332.html", "d8/dc7/a15332" ],
-    [ "spell_gen_ayamiss_swarmer_loop", "d8/d1f/a15336.html", "d8/d1f/a15336" ],
+    [ "boss_ayamiss", "df/d87/a15324.html", "df/d87/a15324" ],
+    [ "npc_hive_zara_larva", "d5/db2/a15328.html", "d5/db2/a15328" ],
+    [ "npc_hive_zara_swarmer", "d8/dc7/a15332.html", "d8/dc7/a15332" ],
+    [ "WaspTeleportData", "d8/d1f/a15336.html", "d8/d1f/a15336" ],
+    [ "spell_ayamiss_swarmer_teleport_trigger", "d7/d6b/a15340.html", "d7/d6b/a15340" ],
+    [ "spell_ayamiss_swarmer_swarm", "d9/dbd/a15344.html", "d9/dbd/a15344" ],
+    [ "spell_ayamiss_swarmer_start_loop", "d1/dac/a15348.html", "d1/dac/a15348" ],
+    [ "spell_gen_ayamiss_swarmer_loop", "d0/d8f/a15352.html", "d0/d8f/a15352" ],
     [ "Emotes", "d4/d0d/a01904.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "dd/d4e/a00329.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "dd/d4e/a00329.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

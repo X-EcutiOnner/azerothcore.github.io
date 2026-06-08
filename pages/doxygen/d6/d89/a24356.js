@@ -1,7 +1,9 @@
 var a24356 =
 [
-    [ "HandleProc", "d6/d89/a24356.html#a393909e3765443aa4930d8036c36b132", null ],
-    [ "PrepareAuraScript", "d6/d89/a24356.html#aeaacd337fd8a02e7c19ead8912fc68d9", null ],
-    [ "Register", "d6/d89/a24356.html#af37fd1db3dc6cbbe985734853ea59109", null ],
-    [ "Validate", "d6/d89/a24356.html#a0966b67c38486fb32c3e442f388320b1", null ]
+    [ "CheckProc", "d6/d89/a24356.html#a13245a545210eed1ddfd7c49c4a43f6b", null ],
+    [ "HandleProc", "d6/d89/a24356.html#aeec6c9e949d1edc09259a55583b3bae2", null ],
+    [ "Load", "d6/d89/a24356.html#ae3ffe29eef4f803f08ab728d959f1932", null ],
+    [ "PeriodicTick", "d6/d89/a24356.html#a1621c06bce0a28a2416385563b989cbf", null ],
+    [ "PrepareAuraScript", "d6/d89/a24356.html#a79a8c2a9ef00a9c1a2bba481e9cc522f", null ],
+    [ "Register", "d6/d89/a24356.html#ad47775cc21d4d5e0c28b68c68d595a39", null ]
 ];

@@ -1,6 +1,27 @@
 var a29356 =
 [
-    [ "SetUp", "df/d98/a29356.html#ac4e6ae8a500400a1e133c1630f064e3b", null ],
-    [ "TearDown", "df/d98/a29356.html#aa3c2026d7506be72d67c6d583751c550", null ],
-    [ "rbacData", "df/d98/a29356.html#a4318e5c5d8137feb011a25c2d4a3c28a", null ]
+    [ "SetUp", "df/d98/a29356.html#a0eefe9b7b4497a75efebd4ca91d4f6ed", null ],
+    [ "TearDown", "df/d98/a29356.html#a237dbb583b1564484e9739ca59fece4b", null ],
+    [ "PERM_A", "df/d98/a29356.html#a1fc9533576c68ee441de16fd7e038f59", null ],
+    [ "PERM_B", "df/d98/a29356.html#a70e510c619690350744799d7f8e97cf7", null ],
+    [ "PERM_C", "df/d98/a29356.html#a9abb4ece545ecb67249e317723702cb4", null ],
+    [ "PERM_D", "df/d98/a29356.html#a7c2a7a5a9c9e2f3dbb3fa9494db077ee", null ],
+    [ "PERM_E", "df/d98/a29356.html#a17cfdd0a89114a75411de4614bc9db98", null ],
+    [ "PERM_F", "df/d98/a29356.html#a602f5f79207205eda248271837081bd4", null ],
+    [ "PERM_G", "df/d98/a29356.html#a48a7d54c6e548dbeccede65b1ba2612e", null ],
+    [ "PERM_H", "df/d98/a29356.html#a5edb227a8269aee83223475a55ac8cd8", null ],
+    [ "PERM_I", "df/d98/a29356.html#a24da9a3e6f10a45b79cb209b493b6628", null ],
+    [ "PERM_J", "df/d98/a29356.html#a9d1703fda8ddb98c33c46048ec4b8fdf", null ],
+    [ "PERM_K", "df/d98/a29356.html#a495ee2480a4850cce08d494c24d7bb1c", null ],
+    [ "PERM_L", "df/d98/a29356.html#ae469e8421e7d70a77bf651e8133dcdac", null ],
+    [ "PERM_SHARED", "df/d98/a29356.html#a253a44cc831cf63ad57323548a898196", null ],
+    [ "PERM_X_ONLY", "df/d98/a29356.html#a780d92eed0b3b6672cf395c190e951c0", null ],
+    [ "PERM_Y_ONLY", "df/d98/a29356.html#a4c2f70a1774c7a5a23f9bc834c58a2a1", null ],
+    [ "rbacData", "df/d98/a29356.html#a285dcbd1e3ac6b99fabb82eeb069c58d", null ],
+    [ "ROLE_ADMIN", "df/d98/a29356.html#a53219b4436fac5bccc69cec6d3cc87e4", null ],
+    [ "ROLE_GM", "df/d98/a29356.html#a206a3a695b956928aec6a99be602a052", null ],
+    [ "ROLE_MOD", "df/d98/a29356.html#a07cbaddec2d3691c8096fa2d2726256c", null ],
+    [ "ROLE_WIDE", "df/d98/a29356.html#ae0fe907ef77603231bdfd4d97e803db9", null ],
+    [ "ROLE_X", "df/d98/a29356.html#a7e62357282332e1319976f28f244735f", null ],
+    [ "ROLE_Y", "df/d98/a29356.html#adab2b79b452662af8804e70db8f61bbe", null ]
 ];

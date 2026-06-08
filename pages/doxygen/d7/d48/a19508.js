@@ -1,8 +1,11 @@
 var a19508 =
 [
-    [ "Load", "d7/d48/a19508.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "d7/d48/a19508.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "d7/d48/a19508.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "d7/d48/a19508.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "d7/d48/a19508.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "npc_hover_disk", "d7/d48/a19508.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "d7/d48/a19508.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "d7/d48/a19508.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "d7/d48/a19508.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "d7/d48/a19508.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "d7/d48/a19508.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "d7/d48/a19508.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "d7/d48/a19508.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

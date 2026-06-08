@@ -1,5 +1,6 @@
 var a12480 =
 [
-    [ "amount", "df/d87/a12480.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "df/d87/a12480.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "boss_vanndarAI", "d7/d8f/a12484.html", "d7/d8f/a12484" ],
+    [ "boss_vanndar", "df/d87/a12480.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "df/d87/a12480.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

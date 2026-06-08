@@ -1,9 +1,5 @@
 var a18700 =
 [
-    [ "DelayedCastEvent", "df/d7a/a18700.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "df/d7a/a18700.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "df/d7a/a18700.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "df/d7a/a18700.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "df/d7a/a18700.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "df/d7a/a18700.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "achievement_been_waiting_long_time", "df/d7a/a18700.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "df/d7a/a18700.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

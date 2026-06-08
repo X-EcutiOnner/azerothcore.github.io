@@ -1,7 +1,6 @@
 var a21672 =
 [
-    [ "npc_Apothecary_HanesAI", "d1/d94/a21676.html", "d1/d94/a21676" ],
-    [ "npc_apothecary_hanes", "d7/df2/a21672.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d7/df2/a21672.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d7/df2/a21672.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "HandleOnEffectRemove", "d7/df2/a21672.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "d7/df2/a21672.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "d7/df2/a21672.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

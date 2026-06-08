@@ -1,8 +1,11 @@
 var a20524 =
 [
-    [ "boss_thorim_pillar", "d2/d5c/a20524.html#aec2fc6e420499c9ce991753b912bef1e", null ],
-    [ "Reset", "d2/d5c/a20524.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
-    [ "SpellHit", "d2/d5c/a20524.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
-    [ "UpdateAI", "d2/d5c/a20524.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
-    [ "_resetTimer", "d2/d5c/a20524.html#ac9c8ef8622496593b5f91611d22120b3", null ]
+    [ "boss_thorim_sif", "d2/d5c/a20524.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "d2/d5c/a20524.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "d2/d5c/a20524.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "MoveInLineOfSight", "d2/d5c/a20524.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "d2/d5c/a20524.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "d2/d5c/a20524.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "d2/d5c/a20524.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "d2/d5c/a20524.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

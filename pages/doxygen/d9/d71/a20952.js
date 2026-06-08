@@ -1,7 +1,6 @@
 var a20952 =
 [
-    [ "FilterTargets", "d9/d71/a20952.html#aacfc70299b20cfef5b2feac954779f1c", null ],
-    [ "HandleDamageCalc", "d9/d71/a20952.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
-    [ "PrepareSpellScript", "d9/d71/a20952.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
-    [ "Register", "d9/d71/a20952.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
+    [ "boss_skadiAI", "d0/d35/a20956.html", "d0/d35/a20956" ],
+    [ "boss_skadi", "d9/d71/a20952.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d9/d71/a20952.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
 ];

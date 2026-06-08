@@ -1,7 +1,6 @@
 var a22012 =
 [
-    [ "HandleScript", "d1/d55/a22012.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "d1/d55/a22012.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "d1/d55/a22012.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "d1/d55/a22012.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "HandleDamage", "d1/d55/a22012.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "d1/d55/a22012.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "d1/d55/a22012.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

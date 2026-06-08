@@ -1,6 +1,14 @@
 var a28188 =
 [
-    [ "npc_steam_tonkAI", "dd/d2d/a28192.html", "dd/d2d/a28192" ],
-    [ "npc_steam_tonk", "dc/db6/a28188.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "dc/db6/a28188.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_garments_of_questsAI", "dc/db6/a28188.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "dc/db6/a28188.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "dc/db6/a28188.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "dc/db6/a28188.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "dc/db6/a28188.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "dc/db6/a28188.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "WaypointReached", "dc/db6/a28188.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "CanRun", "dc/db6/a28188.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "dc/db6/a28188.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "dc/db6/a28188.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "dc/db6/a28188.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

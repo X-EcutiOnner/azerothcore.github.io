@@ -1,6 +1,7 @@
 var a11720 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "da/d4f/a11720.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "da/d4f/a11720.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "da/d4f/a11720.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "chance", "da/d4f/a11720.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "da/d4f/a11720.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "da/d4f/a11720.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "da/d4f/a11720.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

@@ -1,8 +1,9 @@
 var a26428 =
 [
-    [ "CheckProc", "d5/de6/a26428.html#af8998dee977a1ac3ab16077558b8bc1d", null ],
-    [ "HandleProc", "d5/de6/a26428.html#abd8ff13c602931f0601f3440b13fd87b", null ],
-    [ "PrepareAuraScript", "d5/de6/a26428.html#ae2be03a9b723caaee90fc497da4b0069", null ],
-    [ "Register", "d5/de6/a26428.html#a1a98679fdf2d18df0101c3d56308be7b", null ],
-    [ "Validate", "d5/de6/a26428.html#afb9d057bd6b06804ec42b0ff723fd022", null ]
+    [ "CheckProc", "d5/de6/a26428.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d5/de6/a26428.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d5/de6/a26428.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d5/de6/a26428.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d5/de6/a26428.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d5/de6/a26428.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

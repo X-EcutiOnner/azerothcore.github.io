@@ -1,6 +1,5 @@
 var a19776 =
 [
-    [ "CalculateDamage", "da/d2a/a19776.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "da/d2a/a19776.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "da/d2a/a19776.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "at_hol_hall_of_watchers", "da/d2a/a19776.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "da/d2a/a19776.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

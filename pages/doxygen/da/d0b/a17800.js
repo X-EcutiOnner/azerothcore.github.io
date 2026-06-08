@@ -1,14 +1,13 @@
 var a17800 =
 [
-    [ "npc_gunshipAI", "da/d0b/a17800.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "da/d0b/a17800.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "da/d0b/a17800.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "da/d0b/a17800.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "da/d0b/a17800.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "da/d0b/a17800.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "da/d0b/a17800.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "da/d0b/a17800.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "da/d0b/a17800.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "da/d0b/a17800.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "da/d0b/a17800.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "PassengerController", "da/d0b/a17800.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
+    [ "ClearSlot", "da/d0b/a17800.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
+    [ "ResetSlots", "da/d0b/a17800.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
+    [ "SelectSpawnPoint", "da/d0b/a17800.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
+    [ "SummonCreatures", "da/d0b/a17800.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
+    [ "_controlledSlots", "da/d0b/a17800.html#af4271e53792477394a5c1022ed8fb30f", null ],
+    [ "_respawnCooldowns", "da/d0b/a17800.html#a98a6d819ec193d5a1e96739ac507b146", null ],
+    [ "_slotInfo", "da/d0b/a17800.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
+    [ "_spawnPoint", "da/d0b/a17800.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
+    [ "_transport", "da/d0b/a17800.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
 ];

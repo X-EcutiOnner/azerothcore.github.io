@@ -1,6 +1,8 @@
 var a20900 =
 [
-    [ "npc_massive_jormungarAI", "d8/d8f/a20904.html", "d8/d8f/a20904" ],
-    [ "npc_massive_jormungar", "de/dd3/a20900.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "de/dd3/a20900.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "CheckProc", "de/dd3/a20900.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "de/dd3/a20900.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "de/dd3/a20900.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "de/dd3/a20900.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "de/dd3/a20900.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

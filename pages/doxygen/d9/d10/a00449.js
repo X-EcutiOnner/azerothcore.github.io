@@ -1,6 +1,6 @@
 var a00449 =
 [
-    [ "boss_selin_fireheart", "dc/d46/a13268.html", "dc/d46/a13268" ],
+    [ "boss_selin_fireheart", "da/d7b/a13284.html", "da/d7b/a13284" ],
     [ "Says", "d9/d10/a00449.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d0/d27/a00239.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d4/d13/a00377.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

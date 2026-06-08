@@ -1,6 +1,5 @@
 var a19132 =
 [
-    [ "icecrown_citadel_teleport", "d2/d7a/a19132.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "d2/d7a/a19132.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "d2/d7a/a19132.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "at_icc_gauntlet_event", "d2/d7a/a19132.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d2/d7a/a19132.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

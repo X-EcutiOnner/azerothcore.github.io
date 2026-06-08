@@ -1,6 +1,7 @@
 var a23868 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d9/d18/a23872.html", "d9/d18/a23872" ],
-    [ "npc_lord_illidan_stormrage", "d3/df5/a23868.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d3/df5/a23868.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "o", "d3/df5/a23868.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d3/df5/a23868.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d3/df5/a23868.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d3/df5/a23868.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

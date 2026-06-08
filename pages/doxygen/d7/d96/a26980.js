@@ -1,7 +1,6 @@
 var a26980 =
 [
-    [ "HandleEffect", "d7/d96/a26980.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "d7/d96/a26980.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "d7/d96/a26980.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "d7/d96/a26980.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "DoAfterHit", "d7/d96/a26980.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "d7/d96/a26980.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "d7/d96/a26980.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

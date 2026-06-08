@@ -1,5 +1,6 @@
 var a17388 =
 [
-    [ "at_tyrannus_event_starter", "dc/d26/a17388.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "dc/d26/a17388.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "HandleDummy", "dc/d26/a17388.html#aef592aafe931351186edf98f7aba7e22", null ],
+    [ "PrepareSpellScript", "dc/d26/a17388.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
+    [ "Register", "dc/d26/a17388.html#a7594952f23cba22b886c2c3b10f363d4", null ]
 ];

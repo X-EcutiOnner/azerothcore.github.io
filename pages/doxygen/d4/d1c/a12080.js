@@ -1,12 +1,6 @@
 var a12080 =
 [
-    [ "Action", "d4/d1c/a12080.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "d4/d1c/a12080.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "d4/d1c/a12080.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "d4/d1c/a12080.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "d4/d1c/a12080.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "d4/d1c/a12080.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "d4/d1c/a12080.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "d4/d1c/a12080.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "d4/d1c/a12080.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "Command", "d4/d1c/a12080.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d4/d1c/a12080.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d4/d1c/a12080.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

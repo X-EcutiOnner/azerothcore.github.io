@@ -1,7 +1,6 @@
 var a25620 =
 [
-    [ "HandleDummy", "db/d99/a25620.html#a3f9d43d11b344e3eb02fdc088506008e", null ],
-    [ "PrepareSpellScript", "db/d99/a25620.html#a1fb13b562c5d4f905739e193bc5292dd", null ],
-    [ "Register", "db/d99/a25620.html#a581e04721eb9564d1300ddd78c805368", null ],
-    [ "Validate", "db/d99/a25620.html#a18a648ebf1dbc9a11d09e457a33d0e33", null ]
+    [ "PartyTimeEmoteEvent", "db/d99/a25620.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "db/d99/a25620.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "db/d99/a25620.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

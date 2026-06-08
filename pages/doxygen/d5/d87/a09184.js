@@ -1,5 +1,9 @@
 var a09184 =
 [
-    [ "NextPage", "d5/d87/a09184.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "d5/d87/a09184.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "day", "d5/d87/a09184.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "d5/d87/a09184.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "d5/d87/a09184.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "d5/d87/a09184.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "d5/d87/a09184.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "d5/d87/a09184.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

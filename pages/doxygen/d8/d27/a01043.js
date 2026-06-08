@@ -1,7 +1,7 @@
 var a01043 =
 [
-    [ "boss_noth", "d7/dc7/a19372.html", "d7/dc7/a19372" ],
-    [ "boss_noth::boss_nothAI", "dd/d78/a19376.html", "dd/d78/a19376" ],
+    [ "boss_noth", "df/d6a/a19388.html", "df/d6a/a19388" ],
+    [ "boss_noth::boss_nothAI", "d8/dd8/a19392.html", "d8/dd8/a19392" ],
     [ "Events", "d8/d27/a01043.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

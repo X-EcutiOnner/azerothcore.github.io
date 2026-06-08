@@ -1,7 +1,9 @@
 var a14040 =
 [
-    [ "npc_king_varian_wrynn", "d4/d75/a14040.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "d4/d75/a14040.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "d4/d75/a14040.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "d4/d75/a14040.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "npc_marzon_silent_bladeAI", "d4/d75/a14040.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d4/d75/a14040.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d4/d75/a14040.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d4/d75/a14040.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d4/d75/a14040.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d4/d75/a14040.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

@@ -1,9 +1,5 @@
 var a20576 =
 [
-    [ "npc_xt002_scrapbot", "df/d2f/a20576.html#a0c7270ccbac5c12af8aaec998408046f", null ],
-    [ "JustDied", "df/d2f/a20576.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
-    [ "MovementInform", "df/d2f/a20576.html#a7c167b396927f73736531b53056bc262", null ],
-    [ "Reset", "df/d2f/a20576.html#aa9753f72910da1bb56a090e77fc029fb", null ],
-    [ "UpdateAI", "df/d2f/a20576.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
-    [ "_locked", "df/d2f/a20576.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "df/d2f/a20576.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "df/d2f/a20576.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

@@ -1,5 +1,6 @@
 var a06256 =
 [
-    [ "Subject", "db/d2c/a06256.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "db/d2c/a06256.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "changed", "db/d2c/a06256.html#af0cf916cd514f64f53f98c108ff63591", null ],
+    [ "counter", "db/d2c/a06256.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
+    [ "date", "db/d2c/a06256.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
 ];

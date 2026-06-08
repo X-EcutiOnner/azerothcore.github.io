@@ -1,15 +1,9 @@
 var a19308 =
 [
-    [ "boss_heigan", "d0/d87/a19308.html#a402b76bd927dd738bdbdf7faff93394c", null ],
-    [ "CheckSafetyDance", "d0/d87/a19308.html#a378397cc91408b812c76f657a96285e1", null ],
-    [ "JustDied", "d0/d87/a19308.html#a259c99e12b92ccb99af16949e37b5c48", null ],
-    [ "JustEngagedWith", "d0/d87/a19308.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
-    [ "KilledUnit", "d0/d87/a19308.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
-    [ "Reset", "d0/d87/a19308.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
-    [ "StartFightPhase", "d0/d87/a19308.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
-    [ "UpdateAI", "d0/d87/a19308.html#a36c0bc5abff61b435f2a8163687b122a", null ],
-    [ "_currentPhase", "d0/d87/a19308.html#a1065c6221b30536344e7d4d0779abd17", null ],
-    [ "_currentSection", "d0/d87/a19308.html#adcf2448a0868ea3e900609c8e7e34154", null ],
-    [ "_eruptionScheduler", "d0/d87/a19308.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
-    [ "_moveRight", "d0/d87/a19308.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d0/d87/a19308.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d0/d87/a19308.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d0/d87/a19308.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d0/d87/a19308.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d0/d87/a19308.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d0/d87/a19308.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

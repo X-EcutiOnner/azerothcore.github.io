@@ -1,7 +1,6 @@
 var a14916 =
 [
-    [ "HandleScript", "de/d23/a14916.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "de/d23/a14916.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "de/d23/a14916.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "de/d23/a14916.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "PrepareAuraScript", "de/d23/a14916.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
+    [ "RecalculateHook", "de/d23/a14916.html#af3952993947dfb24381083d21a9e64cb", null ],
+    [ "Register", "de/d23/a14916.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
 ];

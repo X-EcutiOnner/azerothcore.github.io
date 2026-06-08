@@ -1,6 +1,6 @@
 var a11456 =
 [
-    [ "NameQuery", "d8/d0c/a11456.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
-    [ "Read", "d8/d0c/a11456.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
-    [ "Guid", "d8/d0c/a11456.html#a52528a68f1c86196e7428f196f93d12b", null ]
+    [ "PetUnlearnedSpell", "d8/d0c/a11456.html#aa2b125a271228aee0d942a207de170b7", null ],
+    [ "Write", "d8/d0c/a11456.html#a11cf7780eba530026a0898bfafd27109", null ],
+    [ "SpellID", "d8/d0c/a11456.html#adfca5feb5be2408e489edc44e9cd215b", null ]
 ];

@@ -1,6 +1,13 @@
 var a14004 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/dc6/a14008.html", "db/dc6/a14008" ],
-    [ "npc_ravenclaw_apparition", "de/d32/a14004.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "de/d32/a14004.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "npc_corporal_keeshanAI", "de/d32/a14004.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "de/d32/a14004.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "de/d32/a14004.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "de/d32/a14004.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "de/d32/a14004.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "de/d32/a14004.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "de/d32/a14004.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "de/d32/a14004.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "de/d32/a14004.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "de/d32/a14004.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

@@ -1,7 +1,7 @@
 var a12544 =
 [
-    [ "boss_moira_bronzebeard", "de/d38/a12544.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "de/d38/a12544.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "de/d38/a12544.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "de/d38/a12544.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "boss_grizzle", "de/d38/a12544.html#af5d864d2e06859a3c21506b8def424d0", null ],
+    [ "JustEngagedWith", "de/d38/a12544.html#ad925b3a8190037e1768b1c5565656be7", null ],
+    [ "UpdateAI", "de/d38/a12544.html#a72c28686adf331ed291585f830041041", null ],
+    [ "nextTremorTime", "de/d38/a12544.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
 ];

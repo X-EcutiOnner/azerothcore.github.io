@@ -23,7 +23,7 @@ var searchData=
   ['acore_5fbigendian_20',['ACORE_BIGENDIAN',['../d0/dc5/a04415.html#a1ea3ec26cc8112e6b4750ed2e3099e23',1,'Define.h']]],
   ['acore_5fendian_21',['ACORE_ENDIAN',['../d0/dc5/a04415.html#a31363a4567529bac0c62af57b8249f37',1,'Define.h']]],
   ['acore_5finline_22',['ACORE_INLINE',['../d0/dc5/a04415.html#ae4e9017a1f7c4a30d42240994c73707d',1,'Define.h']]],
-  ['acore_5flinkage_5ftype_5fstr_23',['ACORE_LINKAGE_TYPE_STR',['../d1/d2b/a04652.html#a498cc8d79612cf645e7afc2ceb4174f3',1,'GitRevision.cpp']]],
+  ['acore_5flinkage_5ftype_5fstr_23',['ACORE_LINKAGE_TYPE_STR',['../d0/d5e/a04655.html#a498cc8d79612cf645e7afc2ceb4174f3',1,'GitRevision.cpp']]],
   ['acore_5flittleendian_24',['ACORE_LITTLEENDIAN',['../d0/dc5/a04415.html#aa52f254470010db28f546a042d5d2dd3',1,'Define.h']]],
   ['acore_5fpath_5fmax_25',['ACORE_PATH_MAX',['../d0/dc5/a04415.html#a0e8f3cfd1a18017c3996550aed13d45b',1,'Define.h']]],
   ['acore_5ftrainer_5fstart_5fref_26',['ACORE_TRAINER_START_REF',['../d5/d6b/a03428.html#aef0c23fca606edfe93ff1ea3d8afacd3',1,'ObjectMgr.h']]],
@@ -70,6 +70,6 @@ var searchData=
   ['aurascript_5ffunction_5ftype_5fdefines_67',['AURASCRIPT_FUNCTION_TYPE_DEFINES',['../dd/d81/a04001.html#a3101f4f4902188b1fc7c024f151b638b',1,'SpellScript.h']]],
   ['auth_5flogon_5fchallenge_5finitial_5fsize_68',['AUTH_LOGON_CHALLENGE_INITIAL_SIZE',['../d5/d16/a00029.html#a38c5f396c839f5f22ec0ec7a5b2a5019',1,'AuthSession.cpp']]],
   ['av_5fevent_5fstart_5fbattle_69',['AV_EVENT_START_BATTLE',['../d2/d94/a03167.html#a333f1c045e3883c4f54cc0de87aa6dc3',1,'BattlegroundAV.h']]],
-  ['azeroth_5fplatform_5fstr_70',['AZEROTH_PLATFORM_STR',['../d1/d2b/a04652.html#af7cd76a18bc19a0ec34ac7693e406971',1,'GitRevision.cpp']]],
+  ['azeroth_5fplatform_5fstr_70',['AZEROTH_PLATFORM_STR',['../d0/d5e/a04655.html#af7cd76a18bc19a0ec34ac7693e406971',1,'GitRevision.cpp']]],
   ['azjolnerubscriptname_71',['AzjolNerubScriptName',['../d2/d94/a00716.html#a49c3c3627ce229fce6b1f55755bcb7d7',1,'azjol_nerub.h']]]
 ];

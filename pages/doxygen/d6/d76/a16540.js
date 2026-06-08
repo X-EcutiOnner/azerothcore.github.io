@@ -1,6 +1,6 @@
 var a16540 =
 [
-    [ "boss_eadricAI", "dd/d0e/a16544.html", "dd/d0e/a16544" ],
-    [ "boss_eadric", "d6/d76/a16540.html#ad32a08ec9fc2a31b5bcdcff67d0127d2", null ],
-    [ "GetAI", "d6/d76/a16540.html#a15235e86d0bdff0bd3fef5dbff3abb27", null ]
+    [ "HandleScript", "d6/d76/a16540.html#a647f39eb125537cd7545ab4115be1091", null ],
+    [ "PrepareSpellScript", "d6/d76/a16540.html#a55dec84643f9bd536c7c73b5909ab303", null ],
+    [ "Register", "d6/d76/a16540.html#a0077abbe11092b9636c3bb7b5c367946", null ]
 ];

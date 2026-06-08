@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SocialMgr Class Reference</title>
+<title>AzerothCore: RaceMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,59 +105,55 @@ $(document).ready(function(){initNavTree('d9/ddb/a08980.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="../../dc/d4d/a08977.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SocialMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">RaceMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SocialMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">RaceMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:af537c83cc3d481dde68d0a60aa122289"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#af537c83cc3d481dde68d0a60aa122289">RemovePlayerSocial</a> (<a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;guid)</td></tr>
-<tr class="separator:af537c83cc3d481dde68d0a60aa122289"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af30fe2f3223dc7ad9094e44393420d3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#af30fe2f3223dc7ad9094e44393420d3a">MakeFriendStatusPacket</a> (<a class="el" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a> result, <a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;friend_guid, <a class="el" href="../../d1/d83/a11548.html">WorldPacket</a> *data)</td></tr>
-<tr class="separator:af30fe2f3223dc7ad9094e44393420d3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf245ca689bd5c0efe4a791b9e0e3c5f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#acf245ca689bd5c0efe4a791b9e0e3c5f">SendFriendStatus</a> (<a class="el" href="../../d8/d06/a08948.html">Player</a> *player, <a class="el" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a> result, <a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;friend_guid, bool broadcast)</td></tr>
-<tr class="separator:acf245ca689bd5c0efe4a791b9e0e3c5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55b35ea17ebfea4ff31710186b87865f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a55b35ea17ebfea4ff31710186b87865f">BroadcastToFriendListers</a> (<a class="el" href="../../d8/d06/a08948.html">Player</a> *player, <a class="el" href="../../d1/d83/a11548.html">WorldPacket</a> *packet)</td></tr>
-<tr class="separator:a55b35ea17ebfea4ff31710186b87865f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab17f5c27494cfdf2b1c5d5038f446a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d35/a08976.html">PlayerSocial</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#aab17f5c27494cfdf2b1c5d5038f446a0">LoadFromDB</a> (<a class="el" href="../../dc/d95/a04160.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a> result, <a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;guid)</td></tr>
-<tr class="separator:aab17f5c27494cfdf2b1c5d5038f446a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a223f3d7811d8c360da7f467b70af808f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a223f3d7811d8c360da7f467b70af808f">instance</a> ()</td></tr>
-<tr class="separator:a223f3d7811d8c360da7f467b70af808f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d0c4638b6fde1bf614d90492160ee55"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a7d0c4638b6fde1bf614d90492160ee55">GetFriendInfo</a> (<a class="el" href="../../d8/d06/a08948.html">Player</a> *player, <a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;friendGUID, <a class="el" href="../../d4/d18/a08972.html">FriendInfo</a> &amp;friendInfo)</td></tr>
-<tr class="separator:a7d0c4638b6fde1bf614d90492160ee55"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a2b80fa18a6f1ed54fda7719867f45ebd"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a>, <a class="el" href="../../de/d35/a08976.html">PlayerSocial</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a></td></tr>
-<tr class="separator:a2b80fa18a6f1ed54fda7719867f45ebd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac54cc09b38129b4d7cfc02767c8ba41e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a> ()</td></tr>
+<tr class="separator:ac54cc09b38129b4d7cfc02767c8ba41e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93d2f89ab56fa6d4c20547b411b0a812"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a93d2f89ab56fa6d4c20547b411b0a812">LoadRaces</a> ()</td></tr>
+<tr class="separator:a93d2f89ab56fa6d4c20547b411b0a812"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cf45d0a57727daee3432fca51479c32"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a5cf45d0a57727daee3432fca51479c32">GetMaxRaces</a> ()</td></tr>
+<tr class="separator:a5cf45d0a57727daee3432fca51479c32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3789528cb72e6f837633b8f3692ea36b"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a> (<a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> max)</td></tr>
+<tr class="separator:a3789528cb72e6f837633b8f3692ea36b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ba5fec061f9bbd2ccbfcad2ea29cd8a"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a">GetPlayableRaceMask</a> ()</td></tr>
+<tr class="separator:a0ba5fec061f9bbd2ccbfcad2ea29cd8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e8a0ba72a13d62321246cb4c11a6f4d"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a6e8a0ba72a13d62321246cb4c11a6f4d">GetAllianceRaceMask</a> ()</td></tr>
+<tr class="separator:a6e8a0ba72a13d62321246cb4c11a6f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab783bff98d389f35ef89f45327cec299"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#ab783bff98d389f35ef89f45327cec299">GetHordeRaceMask</a> ()</td></tr>
+<tr class="separator:ab783bff98d389f35ef89f45327cec299"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a3cff8262ce10d2e8c8c38dc834230545"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a3cff8262ce10d2e8c8c38dc834230545">SocialMgr</a> ()</td></tr>
-<tr class="separator:a3cff8262ce10d2e8c8c38dc834230545"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef859e6c923a6ba4bb7ac0049f17463d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#aef859e6c923a6ba4bb7ac0049f17463d">~SocialMgr</a> ()</td></tr>
-<tr class="separator:aef859e6c923a6ba4bb7ac0049f17463d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78e384652a5e52776f13085d14e6037a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a78e384652a5e52776f13085d14e6037a">RaceMgr</a> ()</td></tr>
+<tr class="separator:a78e384652a5e52776f13085d14e6037a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3abfe795c417bf794f3b38a23deac7a3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a3abfe795c417bf794f3b38a23deac7a3">~RaceMgr</a> ()</td></tr>
+<tr class="separator:a3abfe795c417bf794f3b38a23deac7a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a2f8a276598ad01d350aa245fcef82a7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/ddb/a08980.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a></td></tr>
-<tr class="separator:a2f8a276598ad01d350aa245fcef82a7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
+Static Private Attributes</h2></td></tr>
+<tr class="memitem:af5b87bbc81180f92f18424dfb0181569"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a> = 0</td></tr>
+<tr class="separator:af5b87bbc81180f92f18424dfb0181569"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ddd9c8393001fc41b14dd95eece8400"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> = 0</td></tr>
+<tr class="separator:a0ddd9c8393001fc41b14dd95eece8400"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a694fca25b429d99dad214ea277ade0c7"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> = 0</td></tr>
+<tr class="separator:a694fca25b429d99dad214ea277ade0c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f27d5d4ae27c1ebe2462f35dbace85e"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a> = 0</td></tr>
+<tr class="separator:a3f27d5d4ae27c1ebe2462f35dbace85e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a2b80fa18a6f1ed54fda7719867f45ebd" name="a2b80fa18a6f1ed54fda7719867f45ebd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b80fa18a6f1ed54fda7719867f45ebd">&#9670;&#160;</a></span>SocialMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a78e384652a5e52776f13085d14e6037a" name="a78e384652a5e52776f13085d14e6037a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78e384652a5e52776f13085d14e6037a">&#9670;&#160;</a></span>RaceMgr()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -166,30 +162,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a>, <a class="el" href="../../de/d35/a08976.html">PlayerSocial</a>&gt; <a class="el" href="../../d9/ddb/a08980.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMgr::SocialMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a3cff8262ce10d2e8c8c38dc834230545" name="a3cff8262ce10d2e8c8c38dc834230545"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3cff8262ce10d2e8c8c38dc834230545">&#9670;&#160;</a></span>SocialMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">SocialMgr::SocialMgr </td>
+          <td class="memname">RaceMgr::RaceMgr </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -201,13 +174,13 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="aef859e6c923a6ba4bb7ac0049f17463d" name="aef859e6c923a6ba4bb7ac0049f17463d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aef859e6c923a6ba4bb7ac0049f17463d">&#9670;&#160;</a></span>~SocialMgr()</h2>
+<a id="a3abfe795c417bf794f3b38a23deac7a3" name="a3abfe795c417bf794f3b38a23deac7a3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3abfe795c417bf794f3b38a23deac7a3">&#9670;&#160;</a></span>~RaceMgr()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -216,7 +189,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">SocialMgr::~SocialMgr </td>
+          <td class="memname">RaceMgr::~RaceMgr </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -228,94 +201,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  204</span>{</div>
-<div class="line"><span class="lineno">  205</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a55b35ea17ebfea4ff31710186b87865f" name="a55b35ea17ebfea4ff31710186b87865f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55b35ea17ebfea4ff31710186b87865f">&#9670;&#160;</a></span>BroadcastToFriendListers()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::BroadcastToFriendListers </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d06/a08948.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/d83/a11548.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>packet</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  301</span>{</div>
-<div class="line"><span class="lineno">  302</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  303</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  304</span> </div>
-<div class="line"><span class="lineno">  305</span>    <a class="code hl_enumeration" href="../../d6/dae/a04043.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId = player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>();</div>
-<div class="line"><span class="lineno">  306</span>    <a class="code hl_enumeration" href="../../dc/dd9/a04247.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> gmLevelInWhoList = <a class="code hl_enumeration" href="../../dc/dd9/a04247.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(<a class="code hl_define" href="../../dd/dbe/a05029.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a>));</div>
-<div class="line"><span class="lineno">  307</span> </div>
-<div class="line"><span class="lineno">  308</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_variable" href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>)</div>
-<div class="line"><span class="lineno">  309</span>    {</div>
-<div class="line"><span class="lineno">  310</span>        <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr2 = itr.second.m_playerSocialMap.find(player-&gt;<a class="code hl_function" href="../../d3/d01/a08696.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  311</span>        <span class="keywordflow">if</span> (itr2 != itr.second.m_playerSocialMap.end() &amp;&amp; (itr2-&gt;second.Flags &amp; <a class="code hl_enumvalue" href="../../de/db4/a02684.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a>))</div>
-<div class="line"><span class="lineno">  312</span>        {</div>
-<div class="line"><span class="lineno">  313</span>            <a class="code hl_class" href="../../d8/d06/a08948.html">Player</a>* pFriend = <a class="code hl_function" href="../../dc/d88/a05085.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a>(itr.first);</div>
-<div class="line"><span class="lineno">  314</span>            <span class="keywordflow">if</span> (!pFriend)</div>
-<div class="line"><span class="lineno">  315</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  316</span> </div>
-<div class="line"><span class="lineno">  317</span>            <a class="code hl_class" href="../../d7/d24/a11592.html">WorldSession</a>* session = pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>();</div>
-<div class="line"><span class="lineno">  318</span>            <span class="comment">// PLAYER see his team only and PLAYER can&#39;t see MODERATOR, GAME MASTER, ADMINISTRATOR characters</span></div>
-<div class="line"><span class="lineno">  319</span>            <span class="comment">// MODERATOR, GAME MASTER, ADMINISTRATOR can see all</span></div>
-<div class="line"><span class="lineno">  320</span>            <span class="keywordflow">if</span> (!session-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a9ab658193351b87ad3a277fafe2ef2e1">HasPermission</a>(<a class="code hl_enumvalue" href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04a7fd46771f73c39740ee899fd3f17df5d">rbac::RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</a>) &amp;&amp; player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>() &gt; gmLevelInWhoList)</div>
-<div class="line"><span class="lineno">  321</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  322</span> </div>
-<div class="line"><span class="lineno">  323</span>            <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() != teamId &amp;&amp; !session-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a9ab658193351b87ad3a277fafe2ef2e1">HasPermission</a>(<a class="code hl_enumvalue" href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04ad954e4611d687fd5e5254c8187c8edee">rbac::RBAC_PERM_TWO_SIDE_WHO_LIST</a>))</div>
-<div class="line"><span class="lineno">  324</span>                <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  325</span> </div>
-<div class="line"><span class="lineno">  326</span>            <span class="keywordflow">if</span> (player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#aa88ab08ee98b707c9db24ec8642379f7">IsVisibleGloballyFor</a>(pFriend))</div>
-<div class="line"><span class="lineno">  327</span>                pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(packet);</div>
-<div class="line"><span class="lineno">  328</span>        }</div>
-<div class="line"><span class="lineno">  329</span>    }</div>
-<div class="line"><span class="lineno">  330</span>}</div>
-<div class="ttc" id="aa02228_html_a468ad15992691eb97dd20680046832e0acda928b24f31ffa5a03deaae20f0bbca"><div class="ttname"><a href="../../de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a></div><div class="ttdeci">@ CONFIG_GM_LEVEL_IN_WHO_LIST</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:216</div></div>
-<div class="ttc" id="aa02684_html_ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63"><div class="ttname"><a href="../../de/db4/a02684.html#ad0ac931a69e6d8885728cb1fca06fc6ea88e902cf380604f7dde5102ae54cfb63">SOCIAL_FLAG_FRIEND</a></div><div class="ttdeci">@ SOCIAL_FLAG_FRIEND</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:39</div></div>
-<div class="ttc" id="aa04043_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../d6/dae/a04043.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:747</div></div>
-<div class="ttc" id="aa04247_html_adaa1cabfe05f8df3c272bdcfd89cdac7"><div class="ttname"><a href="../../dc/dd9/a04247.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a></div><div class="ttdeci">AccountTypes</div><div class="ttdef"><b>Definition:</b> Common.h:56</div></div>
-<div class="ttc" id="aa05029_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../dd/dbe/a05029.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
-<div class="ttc" id="aa05067_html_aa12620253ec88ac8516c1341cf7d8e04a7fd46771f73c39740ee899fd3f17df5d"><div class="ttname"><a href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04a7fd46771f73c39740ee899fd3f17df5d">rbac::RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</a></div><div class="ttdeci">@ RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</div><div class="ttdef"><b>Definition:</b> RBAC.h:86</div></div>
-<div class="ttc" id="aa05067_html_aa12620253ec88ac8516c1341cf7d8e04ad954e4611d687fd5e5254c8187c8edee"><div class="ttname"><a href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04ad954e4611d687fd5e5254c8187c8edee">rbac::RBAC_PERM_TWO_SIDE_WHO_LIST</a></div><div class="ttdeci">@ RBAC_PERM_TWO_SIDE_WHO_LIST</div><div class="ttdef"><b>Definition:</b> RBAC.h:79</div></div>
-<div class="ttc" id="aa05085_html_a9ede56180a13f102ad195136eadb97ee"><div class="ttname"><a href="../../dc/d88/a05085.html#a9ede56180a13f102ad195136eadb97ee">ObjectAccessor::FindPlayer</a></div><div class="ttdeci">Player * FindPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:245</div></div>
-<div class="ttc" id="aa08696_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../d3/d01/a08696.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:114</div></div>
-<div class="ttc" id="aa08948_html"><div class="ttname"><a href="../../d8/d06/a08948.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
-<div class="ttc" id="aa08948_html_a2ad9b8f6c94365d5afe104567198aba8"><div class="ttname"><a href="../../d8/d06/a08948.html#a2ad9b8f6c94365d5afe104567198aba8">Player::SendDirectMessage</a></div><div class="ttdeci">void SendDirectMessage(WorldPacket const *data) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5694</div></div>
-<div class="ttc" id="aa08948_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../d8/d06/a08948.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2131</div></div>
-<div class="ttc" id="aa08948_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:2023</div></div>
-<div class="ttc" id="aa08948_html_aa88ab08ee98b707c9db24ec8642379f7"><div class="ttname"><a href="../../d8/d06/a08948.html#aa88ab08ee98b707c9db24ec8642379f7">Player::IsVisibleGloballyFor</a></div><div class="ttdeci">bool IsVisibleGloballyFor(Player const *player) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:11463</div></div>
-<div class="ttc" id="aa08980_html_a2f8a276598ad01d350aa245fcef82a7a"><div class="ttname"><a href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">SocialMgr::m_socialMap</a></div><div class="ttdeci">SocialMap m_socialMap</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:144</div></div>
-<div class="ttc" id="aa11592_html"><div class="ttname"><a href="../../d7/d24/a11592.html">WorldSession</a></div><div class="ttdoc">Player session in the World.</div><div class="ttdef"><b>Definition:</b> WorldSession.h:384</div></div>
-<div class="ttc" id="aa11592_html_a38f29ba7dc5216093dd812cf3e7861df"><div class="ttname"><a href="../../d7/d24/a11592.html#a38f29ba7dc5216093dd812cf3e7861df">WorldSession::GetSecurity</a></div><div class="ttdeci">AccountTypes GetSecurity() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:441</div></div>
-<div class="ttc" id="aa11592_html_a9ab658193351b87ad3a277fafe2ef2e1"><div class="ttname"><a href="../../d7/d24/a11592.html#a9ab658193351b87ad3a277fafe2ef2e1">WorldSession::HasPermission</a></div><div class="ttdeci">bool HasPermission(uint32 permissionId)</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:1551</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00216">CONFIG_GM_LEVEL_IN_WHO_LIST</a>, <a class="el" href="../../#l00245">ObjectAccessor::FindPlayer()</a>, <a class="el" href="../../#l00114">Object::GetGUID()</a>, <a class="el" href="../../#l00441">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l02023">Player::GetSession()</a>, <a class="el" href="../../#l02131">Player::GetTeamId()</a>, <a class="el" href="../../#l01551">WorldSession::HasPermission()</a>, <a class="el" href="../../#l11463">Player::IsVisibleGloballyFor()</a>, <a class="el" href="../../#l00144">m_socialMap</a>, <a class="el" href="../../#l00079">rbac::RBAC_PERM_TWO_SIDE_WHO_LIST</a>, <a class="el" href="../../#l00086">rbac::RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</a>, <a class="el" href="../../#l05694">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00039">SOCIAL_FLAG_FRIEND</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00263">SendFriendStatus()</a>.</p>
-
-</div>
-</div>
-<a id="a7d0c4638b6fde1bf614d90492160ee55" name="a7d0c4638b6fde1bf614d90492160ee55"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7d0c4638b6fde1bf614d90492160ee55">&#9670;&#160;</a></span>GetFriendInfo()</h2>
+<a id="a6e8a0ba72a13d62321246cb4c11a6f4d" name="a6e8a0ba72a13d62321246cb4c11a6f4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e8a0ba72a13d62321246cb4c11a6f4d">&#9670;&#160;</a></span>GetAllianceRaceMask()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -324,103 +217,27 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SocialMgr::GetFriendInfo </td>
+          <td class="memname">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetAllianceRaceMask </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d06/a08948.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>friendGUID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d18/a08972.html">FriendInfo</a> &amp;&#160;</td>
-          <td class="paramname"><em>friendInfo</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  214</span>{</div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">if</span> (!player)</div>
-<div class="line"><span class="lineno">  216</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  217</span> </div>
-<div class="line"><span class="lineno">  218</span>    friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da">FRIEND_STATUS_OFFLINE</a>;</div>
-<div class="line"><span class="lineno">  219</span>    friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#adf16884b55545ed9302dbb54d653867b">Area</a> = 0;</div>
-<div class="line"><span class="lineno">  220</span>    friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a70d9a74f4587f648db5bf49b61091213">Level</a> = 0;</div>
-<div class="line"><span class="lineno">  221</span>    friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a8b797fcfda05d52d4297f32e458be519">Class</a> = 0;</div>
-<div class="line"><span class="lineno">  222</span> </div>
-<div class="line"><span class="lineno">  223</span>    <a class="code hl_class" href="../../d8/d06/a08948.html">Player</a>* pFriend = <a class="code hl_function" href="../../dc/d88/a05085.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a>(friendGUID);</div>
-<div class="line"><span class="lineno">  224</span>    <span class="keywordflow">if</span> (!pFriend || pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a5f0e0c87ce30591b6fc4e9c711fcedd4">IsGMAccount</a>())</div>
-<div class="line"><span class="lineno">  225</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  226</span> </div>
-<div class="line"><span class="lineno">  227</span>    <a class="code hl_enumeration" href="../../d6/dae/a04043.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId = player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>();</div>
-<div class="line"><span class="lineno">  228</span>    <a class="code hl_enumeration" href="../../dc/dd9/a04247.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a> gmLevelInWhoList = <a class="code hl_enumeration" href="../../dc/dd9/a04247.html#adaa1cabfe05f8df3c272bdcfd89cdac7">AccountTypes</a>(<a class="code hl_define" href="../../dd/dbe/a05029.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0acda928b24f31ffa5a03deaae20f0bbca">CONFIG_GM_LEVEL_IN_WHO_LIST</a>));</div>
-<div class="line"><span class="lineno">  229</span> </div>
-<div class="line"><span class="lineno">  230</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">GetSocial</a>()-&gt;<a class="code hl_variable" href="../../de/d35/a08976.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.find(friendGUID);</div>
-<div class="line"><span class="lineno">  231</span>    <span class="keywordflow">if</span> (itr != player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">GetSocial</a>()-&gt;<a class="code hl_variable" href="../../de/d35/a08976.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>.end())</div>
-<div class="line"><span class="lineno">  232</span>        friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#aa9aea70eba08de460ff9cc5c622ca75f">Note</a> = itr-&gt;second.Note;</div>
-<div class="line"><span class="lineno">  233</span> </div>
-<div class="line"><span class="lineno">  234</span>    <span class="comment">// PLAYER see his team only and PLAYER can&#39;t see MODERATOR, GAME MASTER, ADMINISTRATOR characters</span></div>
-<div class="line"><span class="lineno">  235</span>    <span class="comment">// MODERATOR, GAME MASTER, ADMINISTRATOR can see all</span></div>
-<div class="line"><span class="lineno">  236</span>    <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a9ab658193351b87ad3a277fafe2ef2e1">HasPermission</a>(<a class="code hl_enumvalue" href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04a7fd46771f73c39740ee899fd3f17df5d">rbac::RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</a>) &amp;&amp;</div>
-<div class="line"><span class="lineno">  237</span>        pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a38f29ba7dc5216093dd812cf3e7861df">GetSecurity</a>() &gt; gmLevelInWhoList)</div>
-<div class="line"><span class="lineno">  238</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  239</span> </div>
-<div class="line"><span class="lineno">  240</span>    <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() != teamId &amp;&amp; !player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d24/a11592.html#a9ab658193351b87ad3a277fafe2ef2e1">HasPermission</a>(<a class="code hl_enumvalue" href="../../d3/df0/a05067.html#aa12620253ec88ac8516c1341cf7d8e04ad954e4611d687fd5e5254c8187c8edee">rbac::RBAC_PERM_TWO_SIDE_WHO_LIST</a>))</div>
-<div class="line"><span class="lineno">  241</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  242</span> </div>
-<div class="line"><span class="lineno">  243</span>    <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#aa88ab08ee98b707c9db24ec8642379f7">IsVisibleGloballyFor</a>(player))</div>
-<div class="line"><span class="lineno">  244</span>    {</div>
-<div class="line"><span class="lineno">  245</span>        friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31">FRIEND_STATUS_ONLINE</a>;</div>
-<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#ad372accc95ab6fb468c784bad6acee86">isAFK</a>())</div>
-<div class="line"><span class="lineno">  247</span>            friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710">FRIEND_STATUS_AFK</a>;</div>
-<div class="line"><span class="lineno">  248</span>        <span class="keywordflow">if</span> (pFriend-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#ab30ba59ac679fdc6ef38e4c85e708b44">isDND</a>())</div>
-<div class="line"><span class="lineno">  249</span>            friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">Status</a> = <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10">FRIEND_STATUS_DND</a>;</div>
-<div class="line"><span class="lineno">  250</span>        friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#adf16884b55545ed9302dbb54d653867b">Area</a> = pFriend-&gt;<a class="code hl_function" href="../../dc/d0b/a08732.html#ad498d690fbe69bb99a8a2ffdcb2f5169">GetZoneId</a>();</div>
-<div class="line"><span class="lineno">  251</span>        friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a70d9a74f4587f648db5bf49b61091213">Level</a> = pFriend-&gt;<a class="code hl_function" href="../../d1/da1/a09080.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>();</div>
-<div class="line"><span class="lineno">  252</span>        friendInfo.<a class="code hl_variable" href="../../d4/d18/a08972.html#a8b797fcfda05d52d4297f32e458be519">Class</a> = pFriend-&gt;<a class="code hl_function" href="../../d1/da1/a09080.html#a58a507ebe628930b8a506144b364d84b">getClass</a>();</div>
-<div class="line"><span class="lineno">  253</span>    }</div>
-<div class="line"><span class="lineno">  254</span>}</div>
-<div class="ttc" id="aa02684_html_a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710"><div class="ttname"><a href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104a6c9b961dd0ede1a38e8c396c8bca4710">FRIEND_STATUS_AFK</a></div><div class="ttdeci">@ FRIEND_STATUS_AFK</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:32</div></div>
-<div class="ttc" id="aa02684_html_a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10"><div class="ttname"><a href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104a92eb4c542ce8c83e92fac0bc11257b10">FRIEND_STATUS_DND</a></div><div class="ttdeci">@ FRIEND_STATUS_DND</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:33</div></div>
-<div class="ttc" id="aa02684_html_a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da"><div class="ttname"><a href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104ab799ab9b3c4a9ce9cac3a328d9d864da">FRIEND_STATUS_OFFLINE</a></div><div class="ttdeci">@ FRIEND_STATUS_OFFLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:30</div></div>
-<div class="ttc" id="aa02684_html_a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31"><div class="ttname"><a href="../../de/db4/a02684.html#a55ec778c8e53f4a36f26e03a8f130104af68a6671b04623c1cef7abcf00bbea31">FRIEND_STATUS_ONLINE</a></div><div class="ttdeci">@ FRIEND_STATUS_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:31</div></div>
-<div class="ttc" id="aa05085_html_a354f7e7aaf4b12d6ad8fe8ef6291eaa0"><div class="ttname"><a href="../../dc/d88/a05085.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0">ObjectAccessor::FindConnectedPlayer</a></div><div class="ttdeci">Player * FindConnectedPlayer(ObjectGuid const guid)</div><div class="ttdef"><b>Definition:</b> ObjectAccessor.cpp:257</div></div>
-<div class="ttc" id="aa08732_html_ad498d690fbe69bb99a8a2ffdcb2f5169"><div class="ttname"><a href="../../dc/d0b/a08732.html#ad498d690fbe69bb99a8a2ffdcb2f5169">WorldObject::GetZoneId</a></div><div class="ttdeci">uint32 GetZoneId() const</div><div class="ttdef"><b>Definition:</b> Object.cpp:3111</div></div>
-<div class="ttc" id="aa08948_html_ab30ba59ac679fdc6ef38e4c85e708b44"><div class="ttname"><a href="../../d8/d06/a08948.html#ab30ba59ac679fdc6ef38e4c85e708b44">Player::isDND</a></div><div class="ttdeci">bool isDND() const</div><div class="ttdef"><b>Definition:</b> Player.h:1150</div></div>
-<div class="ttc" id="aa08948_html_ac0a2e3d06c31e2d9286edca3ffcaf74d"><div class="ttname"><a href="../../d8/d06/a08948.html#ac0a2e3d06c31e2d9286edca3ffcaf74d">Player::GetSocial</a></div><div class="ttdeci">PlayerSocial * GetSocial()</div><div class="ttdef"><b>Definition:</b> Player.h:1156</div></div>
-<div class="ttc" id="aa08948_html_ad372accc95ab6fb468c784bad6acee86"><div class="ttname"><a href="../../d8/d06/a08948.html#ad372accc95ab6fb468c784bad6acee86">Player::isAFK</a></div><div class="ttdeci">bool isAFK() const</div><div class="ttdef"><b>Definition:</b> Player.h:1149</div></div>
-<div class="ttc" id="aa08972_html_a380f11d65b34e1e598b7861987cecfe6"><div class="ttname"><a href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">FriendInfo::Status</a></div><div class="ttdeci">FriendStatus Status</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:49</div></div>
-<div class="ttc" id="aa08972_html_a70d9a74f4587f648db5bf49b61091213"><div class="ttname"><a href="../../d4/d18/a08972.html#a70d9a74f4587f648db5bf49b61091213">FriendInfo::Level</a></div><div class="ttdeci">uint8 Level</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:52</div></div>
-<div class="ttc" id="aa08972_html_a8b797fcfda05d52d4297f32e458be519"><div class="ttname"><a href="../../d4/d18/a08972.html#a8b797fcfda05d52d4297f32e458be519">FriendInfo::Class</a></div><div class="ttdeci">uint8 Class</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:53</div></div>
-<div class="ttc" id="aa08972_html_aa9aea70eba08de460ff9cc5c622ca75f"><div class="ttname"><a href="../../d4/d18/a08972.html#aa9aea70eba08de460ff9cc5c622ca75f">FriendInfo::Note</a></div><div class="ttdeci">std::string Note</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:54</div></div>
-<div class="ttc" id="aa08972_html_adf16884b55545ed9302dbb54d653867b"><div class="ttname"><a href="../../d4/d18/a08972.html#adf16884b55545ed9302dbb54d653867b">FriendInfo::Area</a></div><div class="ttdeci">uint32 Area</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:51</div></div>
-<div class="ttc" id="aa08976_html_a608444605a276e67a868b7ceac94a954"><div class="ttname"><a href="../../de/d35/a08976.html#a608444605a276e67a868b7ceac94a954">PlayerSocial::m_playerSocialMap</a></div><div class="ttdeci">PlayerSocialMap m_playerSocialMap</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:121</div></div>
-<div class="ttc" id="aa09080_html_a58a507ebe628930b8a506144b364d84b"><div class="ttname"><a href="../../d1/da1/a09080.html#a58a507ebe628930b8a506144b364d84b">Unit::getClass</a></div><div class="ttdeci">uint8 getClass() const</div><div class="ttdef"><b>Definition:</b> Unit.h:843</div></div>
-<div class="ttc" id="aa09080_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../d1/da1/a09080.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1103</div></div>
-<div class="ttc" id="aa11592_html_a5f0e0c87ce30591b6fc4e9c711fcedd4"><div class="ttname"><a href="../../d7/d24/a11592.html#a5f0e0c87ce30591b6fc4e9c711fcedd4">WorldSession::IsGMAccount</a></div><div class="ttdeci">bool IsGMAccount() const</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:210</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a>; }</div>
+<div class="ttc" id="aa08980_html_a694fca25b429d99dad214ea277ade0c7"><div class="ttname"><a href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">RaceMgr::_allianceRaceMask</a></div><div class="ttdeci">static uint32 _allianceRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:48</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00216">CONFIG_GM_LEVEL_IN_WHO_LIST</a>, <a class="el" href="../../#l00257">ObjectAccessor::FindConnectedPlayer()</a>, <a class="el" href="../../#l00032">FRIEND_STATUS_AFK</a>, <a class="el" href="../../#l00033">FRIEND_STATUS_DND</a>, <a class="el" href="../../#l00030">FRIEND_STATUS_OFFLINE</a>, <a class="el" href="../../#l00031">FRIEND_STATUS_ONLINE</a>, <a class="el" href="../../#l00843">Unit::getClass()</a>, <a class="el" href="../../#l01103">Unit::GetLevel()</a>, <a class="el" href="../../#l00441">WorldSession::GetSecurity()</a>, <a class="el" href="../../#l02023">Player::GetSession()</a>, <a class="el" href="../../#l01156">Player::GetSocial()</a>, <a class="el" href="../../#l02131">Player::GetTeamId()</a>, <a class="el" href="../../#l03111">WorldObject::GetZoneId()</a>, <a class="el" href="../../#l01551">WorldSession::HasPermission()</a>, <a class="el" href="../../#l01149">Player::isAFK()</a>, <a class="el" href="../../#l01150">Player::isDND()</a>, <a class="el" href="../../#l00210">WorldSession::IsGMAccount()</a>, <a class="el" href="../../#l11463">Player::IsVisibleGloballyFor()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l00079">rbac::RBAC_PERM_TWO_SIDE_WHO_LIST</a>, <a class="el" href="../../#l00086">rbac::RBAC_PERM_WHO_SEE_ALL_SEC_LEVELS</a>, <a class="el" href="../../#l00049">FriendInfo::Status</a>, and <a class="el" href="../../#l00317">sWorld</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00263">SendFriendStatus()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00048">_allianceRaceMask</a>.</p>
 
 </div>
 </div>
-<a id="a223f3d7811d8c360da7f467b70af808f" name="a223f3d7811d8c360da7f467b70af808f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a223f3d7811d8c360da7f467b70af808f">&#9670;&#160;</a></span>instance()</h2>
+<a id="ab783bff98d389f35ef89f45327cec299" name="ab783bff98d389f35ef89f45327cec299"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab783bff98d389f35ef89f45327cec299">&#9670;&#160;</a></span>GetHordeRaceMask()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -429,7 +246,96 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a> * SocialMgr::instance </td>
+          <td class="memname">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetHordeRaceMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a>; }</div>
+<div class="ttc" id="aa08980_html_a3f27d5d4ae27c1ebe2462f35dbace85e"><div class="ttname"><a href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">RaceMgr::_hordeRaceMask</a></div><div class="ttdeci">static uint32 _hordeRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:49</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">_hordeRaceMask</a>.</p>
+
+</div>
+</div>
+<a id="a5cf45d0a57727daee3432fca51479c32" name="a5cf45d0a57727daee3432fca51479c32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5cf45d0a57727daee3432fca51479c32">&#9670;&#160;</a></span>GetMaxRaces()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> RaceMgr::GetMaxRaces </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/ddb/a08980.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a>; }</div>
+<div class="ttc" id="aa08980_html_af5b87bbc81180f92f18424dfb0181569"><div class="ttname"><a href="../../d9/ddb/a08980.html#af5b87bbc81180f92f18424dfb0181569">RaceMgr::_maxRaces</a></div><div class="ttdeci">static uint8 _maxRaces</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:45</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">_maxRaces</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a0ba5fec061f9bbd2ccbfcad2ea29cd8a" name="a0ba5fec061f9bbd2ccbfcad2ea29cd8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ba5fec061f9bbd2ccbfcad2ea29cd8a">&#9670;&#160;</a></span>GetPlayableRaceMask()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::GetPlayableRaceMask </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a>; }</div>
+<div class="ttc" id="aa08980_html_a0ddd9c8393001fc41b14dd95eece8400"><div class="ttname"><a href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">RaceMgr::_playableRaceMask</a></div><div class="ttdeci">static uint32 _playableRaceMask</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:47</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00047">_playableRaceMask</a>.</p>
+
+</div>
+</div>
+<a id="ac54cc09b38129b4d7cfc02767c8ba41e" name="ac54cc09b38129b4d7cfc02767c8ba41e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac54cc09b38129b4d7cfc02767c8ba41e">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a> * RaceMgr::instance </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -441,120 +347,21 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d9/ddb/a08980.html">SocialMgr</a> <a class="code hl_function" href="../../d9/ddb/a08980.html#a223f3d7811d8c360da7f467b70af808f">instance</a>;</div>
-<div class="line"><span class="lineno">  210</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d9/ddb/a08980.html#a223f3d7811d8c360da7f467b70af808f">instance</a>;</div>
-<div class="line"><span class="lineno">  211</span>}</div>
-<div class="ttc" id="aa08980_html"><div class="ttname"><a href="../../d9/ddb/a08980.html">SocialMgr</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:126</div></div>
-<div class="ttc" id="aa08980_html_a223f3d7811d8c360da7f467b70af808f"><div class="ttname"><a href="../../d9/ddb/a08980.html#a223f3d7811d8c360da7f467b70af808f">SocialMgr::instance</a></div><div class="ttdeci">static SocialMgr * instance()</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:207</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d9/ddb/a08980.html">RaceMgr</a> <a class="code hl_function" href="../../d9/ddb/a08980.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a>;</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d9/ddb/a08980.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a>;</div>
+<div class="line"><span class="lineno">   45</span>}</div>
+<div class="ttc" id="aa08980_html"><div class="ttname"><a href="../../d9/ddb/a08980.html">RaceMgr</a></div><div class="ttdef"><b>Definition:</b> RaceMgr.h:30</div></div>
+<div class="ttc" id="aa08980_html_ac54cc09b38129b4d7cfc02767c8ba41e"><div class="ttname"><a href="../../d9/ddb/a08980.html#ac54cc09b38129b4d7cfc02767c8ba41e">RaceMgr::instance</a></div><div class="ttdeci">static RaceMgr * instance()</div><div class="ttdef"><b>Definition:</b> RaceMgr.cpp:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00207">instance()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00041">instance()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00207">instance()</a>.</p>
-
-</div>
-</div>
-<a id="aab17f5c27494cfdf2b1c5d5038f446a0" name="aab17f5c27494cfdf2b1c5d5038f446a0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab17f5c27494cfdf2b1c5d5038f446a0">&#9670;&#160;</a></span>LoadFromDB()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d35/a08976.html">PlayerSocial</a> * SocialMgr::LoadFromDB </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d95/a04160.html#ac6110b8d867b5f84f677555d07037acb">PreparedQueryResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  333</span>{</div>
-<div class="line"><span class="lineno">  334</span>    <a class="code hl_class" href="../../de/d35/a08976.html">PlayerSocial</a>* social = &amp;<a class="code hl_variable" href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>[guid];</div>
-<div class="line"><span class="lineno">  335</span>    social-&gt;<a class="code hl_function" href="../../de/d35/a08976.html#a1206fafb9f3ea29ee954e4f7684e0051">SetPlayerGUID</a>(guid);</div>
-<div class="line"><span class="lineno">  336</span> </div>
-<div class="line"><span class="lineno">  337</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  338</span>        <span class="keywordflow">return</span> social;</div>
-<div class="line"><span class="lineno">  339</span> </div>
-<div class="line"><span class="lineno">  340</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  341</span>    {</div>
-<div class="line"><span class="lineno">  342</span>        <a class="code hl_class" href="../../d7/d13/a06020.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  343</span> </div>
-<div class="line"><span class="lineno">  344</span>        <span class="keyword">auto</span> friendGuid = ObjectGuid::Create&lt;HighGuid::Player&gt;(fields[0].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  345</span>        <span class="keyword">auto</span> flags = fields[1].<a class="code hl_function" href="../../d7/d13/a06020.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">  346</span>        <span class="keyword">auto</span> note = fields[2].<a class="code hl_function" href="../../d7/d13/a06020.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">  347</span> </div>
-<div class="line"><span class="lineno">  348</span>        social-&gt;<a class="code hl_variable" href="../../de/d35/a08976.html#a608444605a276e67a868b7ceac94a954">m_playerSocialMap</a>[friendGuid] = <a class="code hl_struct" href="../../d4/d18/a08972.html">FriendInfo</a>(flags, note);</div>
-<div class="line"><span class="lineno">  349</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  350</span> </div>
-<div class="line"><span class="lineno">  351</span>    <span class="keywordflow">return</span> social;</div>
-<div class="line"><span class="lineno">  352</span>}</div>
-<div class="ttc" id="aa04415_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa06020_html"><div class="ttname"><a href="../../d7/d13/a06020.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa06020_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d13/a06020.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa08972_html"><div class="ttname"><a href="../../d4/d18/a08972.html">FriendInfo</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:48</div></div>
-<div class="ttc" id="aa08976_html"><div class="ttname"><a href="../../de/d35/a08976.html">PlayerSocial</a></div><div class="ttdef"><b>Definition:</b> SocialMgr.h:101</div></div>
-<div class="ttc" id="aa08976_html_a1206fafb9f3ea29ee954e4f7684e0051"><div class="ttname"><a href="../../de/d35/a08976.html#a1206fafb9f3ea29ee954e4f7684e0051">PlayerSocial::SetPlayerGUID</a></div><div class="ttdeci">void SetPlayerGUID(ObjectGuid const &amp;guid)</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:116</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00121">PlayerSocial::m_playerSocialMap</a>, <a class="el" href="../../#l00144">m_socialMap</a>, and <a class="el" href="../../#l00116">PlayerSocial::SetPlayerGUID()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00041">instance()</a>.</p>
 
 </div>
 </div>
-<a id="af30fe2f3223dc7ad9094e44393420d3a" name="af30fe2f3223dc7ad9094e44393420d3a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af30fe2f3223dc7ad9094e44393420d3a">&#9670;&#160;</a></span>MakeFriendStatusPacket()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void SocialMgr::MakeFriendStatusPacket </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>friend_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/d83/a11548.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>data</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  257</span>{</div>
-<div class="line"><span class="lineno">  258</span>    data-&gt;<a class="code hl_function" href="../../d1/d83/a11548.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../dc/d61/a05028.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a>, 9);</div>
-<div class="line"><span class="lineno">  259</span>    *data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(result);</div>
-<div class="line"><span class="lineno">  260</span>    *data &lt;&lt; guid;</div>
-<div class="line"><span class="lineno">  261</span>}</div>
-<div class="ttc" id="aa05028_html_gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5"><div class="ttname"><a href="../../dc/d61/a05028.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a></div><div class="ttdeci">@ SMSG_FRIEND_STATUS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:134</div></div>
-<div class="ttc" id="aa11548_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d1/d83/a11548.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, and <a class="el" href="../../#l00134">SMSG_FRIEND_STATUS</a>.</p>
-
-</div>
-</div>
-<a id="af537c83cc3d481dde68d0a60aa122289" name="af537c83cc3d481dde68d0a60aa122289"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af537c83cc3d481dde68d0a60aa122289">&#9670;&#160;</a></span>RemovePlayerSocial()</h2>
+<a id="a93d2f89ab56fa6d4c20547b411b0a812" name="a93d2f89ab56fa6d4c20547b411b0a812"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a93d2f89ab56fa6d4c20547b411b0a812">&#9670;&#160;</a></span>LoadRaces()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -563,112 +370,95 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SocialMgr::RemovePlayerSocial </td>
+          <td class="memname">void RaceMgr::LoadRaces </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{ <a class="code hl_variable" href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a>.erase(guid); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_function" href="../../d9/ddb/a08980.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a>(0 + 1);</div>
+<div class="line"><span class="lineno">   50</span>    <a class="code hl_variable" href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> = 0;</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_variable" href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a>    = 0;</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_variable" href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> = 0;</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; raceEntry : <a class="code hl_variable" href="../../d1/d03/a02582.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a>)</div>
+<div class="line"><span class="lineno">   55</span>    {</div>
+<div class="line"><span class="lineno">   56</span>        <span class="keywordflow">if</span> (!raceEntry)</div>
+<div class="line"><span class="lineno">   57</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>        <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> alliance = raceEntry-&gt;alliance;</div>
+<div class="line"><span class="lineno">   60</span>        <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> raceId = raceEntry-&gt;RaceID;</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">if</span> (raceEntry-&gt;Flags &amp; <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a>)</div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/ddb/a08980.html#a5cf45d0a57727daee3432fca51479c32">GetMaxRaces</a>() &lt;= raceId)</div>
+<div class="line"><span class="lineno">   66</span>            <a class="code hl_function" href="../../d9/ddb/a08980.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a>(raceId + 1);</div>
+<div class="line"><span class="lineno">   67</span> </div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> raceBit = (1 &lt;&lt; (raceId - 1));</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>        <a class="code hl_variable" href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>        <span class="keywordflow">if</span> (alliance == <a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd">ALLIANCE_HORDE</a>)</div>
+<div class="line"><span class="lineno">   73</span>            <a class="code hl_variable" href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (alliance == <a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245">ALLIANCE_ALLIANCE</a>)</div>
+<div class="line"><span class="lineno">   75</span>            <a class="code hl_variable" href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a> |= raceBit;</div>
+<div class="line"><span class="lineno">   76</span>    }</div>
+<div class="line"><span class="lineno">   77</span>}</div>
+<div class="ttc" id="aa02582_html_a65f7a499e3030205871c757cd69867db"><div class="ttname"><a href="../../d1/d03/a02582.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a></div><div class="ttdeci">DBCStorage&lt; ChrRacesEntry &gt; sChrRacesStore(ChrRacesEntryfmt)</div></div>
+<div class="ttc" id="aa04043_html_a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd"><div class="ttname"><a href="../../d6/dae/a04043.html#a796ad9c090eebb8bc66086d5e0bf8ccca128ca86620ed164f3b36035ef62606dd">ALLIANCE_HORDE</a></div><div class="ttdeci">@ ALLIANCE_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3697</div></div>
+<div class="ttc" id="aa04043_html_a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245"><div class="ttname"><a href="../../d6/dae/a04043.html#a796ad9c090eebb8bc66086d5e0bf8cccaeefb5bb552b08f1c8368a0aa39118245">ALLIANCE_ALLIANCE</a></div><div class="ttdeci">@ ALLIANCE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3696</div></div>
+<div class="ttc" id="aa04055_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:673</div></div>
+<div class="ttc" id="aa04415_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04415_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa08980_html_a3789528cb72e6f837633b8f3692ea36b"><div class="ttname"><a href="../../d9/ddb/a08980.html#a3789528cb72e6f837633b8f3692ea36b">RaceMgr::SetMaxRaces</a></div><div class="ttdeci">static void SetMaxRaces(uint8 max)</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:40</div></div>
+<div class="ttc" id="aa08980_html_a5cf45d0a57727daee3432fca51479c32"><div class="ttname"><a href="../../d9/ddb/a08980.html#a5cf45d0a57727daee3432fca51479c32">RaceMgr::GetMaxRaces</a></div><div class="ttdeci">static uint8 GetMaxRaces()</div><div class="ttdef"><b>Definition:</b> RaceMgr.h:39</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00144">m_socialMap</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00048">_allianceRaceMask</a>, <a class="el" href="../../#l00049">_hordeRaceMask</a>, <a class="el" href="../../#l00047">_playableRaceMask</a>, <a class="el" href="../../#l03696">ALLIANCE_ALLIANCE</a>, <a class="el" href="../../#l03697">ALLIANCE_HORDE</a>, <a class="el" href="../../#l00673">CHRRACES_FLAGS_NOT_PLAYABLE</a>, <a class="el" href="../../#l00039">GetMaxRaces()</a>, <a class="el" href="../../d1/d03/a02582.html#a65f7a499e3030205871c757cd69867db">sChrRacesStore</a>, and <a class="el" href="../../#l00040">SetMaxRaces()</a>.</p>
 
 </div>
 </div>
-<a id="acf245ca689bd5c0efe4a791b9e0e3c5f" name="acf245ca689bd5c0efe4a791b9e0e3c5f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf245ca689bd5c0efe4a791b9e0e3c5f">&#9670;&#160;</a></span>SendFriendStatus()</h2>
+<a id="a3789528cb72e6f837633b8f3692ea36b" name="a3789528cb72e6f837633b8f3692ea36b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3789528cb72e6f837633b8f3692ea36b">&#9670;&#160;</a></span>SetMaxRaces()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void SocialMgr::SendFriendStatus </td>
+          <td class="memname">static void RaceMgr::SetMaxRaces </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d8/d06/a08948.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>player</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>max</em></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6">FriendsResult</a>&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/dd6/a08748.html">ObjectGuid</a> const &amp;&#160;</td>
-          <td class="paramname"><em>friend_guid</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>broadcast</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  264</span>{</div>
-<div class="line"><span class="lineno">  265</span>    <a class="code hl_struct" href="../../d4/d18/a08972.html">FriendInfo</a> fi;</div>
-<div class="line"><span class="lineno">  266</span>    <a class="code hl_function" href="../../d9/ddb/a08980.html#a7d0c4638b6fde1bf614d90492160ee55">GetFriendInfo</a>(player, friendGuid, fi);</div>
-<div class="line"><span class="lineno">  267</span> </div>
-<div class="line"><span class="lineno">  268</span>    <a class="code hl_class" href="../../d1/d83/a11548.html">WorldPacket</a> data(<a class="code hl_enumvalue" href="../../dc/d61/a05028.html#gga1073b6abb3a749f18bf1633020879e9bae9914a40c09c3c4e346e7d6e9a5bb5a5">SMSG_FRIEND_STATUS</a>, 9);</div>
-<div class="line"><span class="lineno">  269</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(result);</div>
-<div class="line"><span class="lineno">  270</span>    data &lt;&lt; friendGuid;</div>
-<div class="line"><span class="lineno">  271</span>    <span class="keywordflow">switch</span> (result)</div>
-<div class="line"><span class="lineno">  272</span>    {</div>
-<div class="line"><span class="lineno">  273</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd">FRIEND_ADDED_OFFLINE</a>:</div>
-<div class="line"><span class="lineno">  274</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  275</span>            data &lt;&lt; fi.<a class="code hl_variable" href="../../d4/d18/a08972.html#aa9aea70eba08de460ff9cc5c622ca75f">Note</a>;</div>
-<div class="line"><span class="lineno">  276</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  277</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  278</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  279</span>    }</div>
-<div class="line"><span class="lineno">  280</span> </div>
-<div class="line"><span class="lineno">  281</span>    <span class="keywordflow">switch</span> (result)</div>
-<div class="line"><span class="lineno">  282</span>    {</div>
-<div class="line"><span class="lineno">  283</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  284</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d">FRIEND_ONLINE</a>:</div>
-<div class="line"><span class="lineno">  285</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(fi.<a class="code hl_variable" href="../../d4/d18/a08972.html#a380f11d65b34e1e598b7861987cecfe6">Status</a>);</div>
-<div class="line"><span class="lineno">  286</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../d4/d18/a08972.html#adf16884b55545ed9302dbb54d653867b">Area</a>);</div>
-<div class="line"><span class="lineno">  287</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../d4/d18/a08972.html#a70d9a74f4587f648db5bf49b61091213">Level</a>);</div>
-<div class="line"><span class="lineno">  288</span>            data &lt;&lt; <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(fi.<a class="code hl_variable" href="../../d4/d18/a08972.html#a8b797fcfda05d52d4297f32e458be519">Class</a>);</div>
-<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  290</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  292</span>    }</div>
-<div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>    <span class="keywordflow">if</span> (broadcast)</div>
-<div class="line"><span class="lineno">  295</span>        <a class="code hl_function" href="../../d9/ddb/a08980.html#a55b35ea17ebfea4ff31710186b87865f">BroadcastToFriendListers</a>(player, &amp;data);</div>
-<div class="line"><span class="lineno">  296</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  297</span>        player-&gt;<a class="code hl_function" href="../../d8/d06/a08948.html#a2ad9b8f6c94365d5afe104567198aba8">SendDirectMessage</a>(&amp;data);</div>
-<div class="line"><span class="lineno">  298</span>}</div>
-<div class="ttc" id="aa02684_html_a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d"><div class="ttname"><a href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a203bccef891dbbf575e4c76373f0f19d">FRIEND_ONLINE</a></div><div class="ttdeci">@ FRIEND_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:68</div></div>
-<div class="ttc" id="aa02684_html_a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd"><div class="ttname"><a href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a32b4a0f96afd3fb80c64a5cb8d9b0fbd">FRIEND_ADDED_OFFLINE</a></div><div class="ttdeci">@ FRIEND_ADDED_OFFLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:73</div></div>
-<div class="ttc" id="aa02684_html_a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504"><div class="ttname"><a href="../../de/db4/a02684.html#a0e8e0c842aa4e8be9a854c430b3af9b6a4b28b362520b714bca328eca6606a504">FRIEND_ADDED_ONLINE</a></div><div class="ttdeci">@ FRIEND_ADDED_ONLINE</div><div class="ttdef"><b>Definition:</b> SocialMgr.h:72</div></div>
-<div class="ttc" id="aa04415_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa08980_html_a55b35ea17ebfea4ff31710186b87865f"><div class="ttname"><a href="../../d9/ddb/a08980.html#a55b35ea17ebfea4ff31710186b87865f">SocialMgr::BroadcastToFriendListers</a></div><div class="ttdeci">void BroadcastToFriendListers(Player *player, WorldPacket *packet)</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:300</div></div>
-<div class="ttc" id="aa08980_html_a7d0c4638b6fde1bf614d90492160ee55"><div class="ttname"><a href="../../d9/ddb/a08980.html#a7d0c4638b6fde1bf614d90492160ee55">SocialMgr::GetFriendInfo</a></div><div class="ttdeci">static void GetFriendInfo(Player *player, ObjectGuid const &amp;friendGUID, FriendInfo &amp;friendInfo)</div><div class="ttdef"><b>Definition:</b> SocialMgr.cpp:213</div></div>
-<div class="ttc" id="aa11548_html"><div class="ttname"><a href="../../d1/d83/a11548.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{ <a class="code hl_variable" href="../../d9/ddb/a08980.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a> = max; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">FriendInfo::Area</a>, <a class="el" href="../../#l00300">BroadcastToFriendListers()</a>, <a class="el" href="../../#l00053">FriendInfo::Class</a>, <a class="el" href="../../#l00073">FRIEND_ADDED_OFFLINE</a>, <a class="el" href="../../#l00072">FRIEND_ADDED_ONLINE</a>, <a class="el" href="../../#l00068">FRIEND_ONLINE</a>, <a class="el" href="../../#l00213">GetFriendInfo()</a>, <a class="el" href="../../#l00052">FriendInfo::Level</a>, <a class="el" href="../../#l00054">FriendInfo::Note</a>, <a class="el" href="../../#l05694">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00134">SMSG_FRIEND_STATUS</a>, and <a class="el" href="../../#l00049">FriendInfo::Status</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00045">_maxRaces</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a2f8a276598ad01d350aa245fcef82a7a" name="a2f8a276598ad01d350aa245fcef82a7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f8a276598ad01d350aa245fcef82a7a">&#9670;&#160;</a></span>m_socialMap</h2>
+<a id="a694fca25b429d99dad214ea277ade0c7" name="a694fca25b429d99dad214ea277ade0c7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a694fca25b429d99dad214ea277ade0c7">&#9670;&#160;</a></span>_allianceRaceMask</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -677,17 +467,89 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/ddb/a08980.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a> SocialMgr::m_socialMap</td>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_allianceRaceMask = 0</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00300">BroadcastToFriendListers()</a>, <a class="el" href="../../#l00332">LoadFromDB()</a>, and <a class="el" href="../../#l00134">RemovePlayerSocial()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00042">GetAllianceRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a3f27d5d4ae27c1ebe2462f35dbace85e" name="a3f27d5d4ae27c1ebe2462f35dbace85e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3f27d5d4ae27c1ebe2462f35dbace85e">&#9670;&#160;</a></span>_hordeRaceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_hordeRaceMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetHordeRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
+
+</div>
+</div>
+<a id="af5b87bbc81180f92f18424dfb0181569" name="af5b87bbc81180f92f18424dfb0181569"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5b87bbc81180f92f18424dfb0181569">&#9670;&#160;</a></span>_maxRaces</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> RaceMgr::_maxRaces = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">GetMaxRaces()</a>, and <a class="el" href="../../#l00040">SetMaxRaces()</a>.</p>
+
+</div>
+</div>
+<a id="a0ddd9c8393001fc41b14dd95eece8400" name="a0ddd9c8393001fc41b14dd95eece8400"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0ddd9c8393001fc41b14dd95eece8400">&#9670;&#160;</a></span>_playableRaceMask</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> RaceMgr::_playableRaceMask = 0</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00041">GetPlayableRaceMask()</a>, and <a class="el" href="../../#l00047">LoadRaces()</a>.</p>
 
 </div>
 </div>
@@ -696,8 +558,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

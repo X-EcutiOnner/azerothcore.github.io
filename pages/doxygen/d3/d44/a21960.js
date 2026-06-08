@@ -1,6 +1,8 @@
 var a21960 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/dcd/a21964.html", "db/dcd/a21964" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d3/d44/a21960.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d3/d44/a21960.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_freed_protodrakeAI", "d3/d44/a21960.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d3/d44/a21960.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d3/d44/a21960.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d3/d44/a21960.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d3/d44/a21960.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

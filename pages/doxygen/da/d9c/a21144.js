@@ -1,12 +1,8 @@
 var a21144 =
 [
-    [ "boss_zuramat", "da/d9c/a21144.html#af033b96498fb71059701caad1fed8f8a", null ],
-    [ "EnterEvadeMode", "da/d9c/a21144.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
-    [ "ExecuteEvent", "da/d9c/a21144.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
-    [ "JustDied", "da/d9c/a21144.html#a1917921efc7a44c3cc3a799187c1718a", null ],
-    [ "JustEngagedWith", "da/d9c/a21144.html#a4c448c8b51795943a6e746479f3ad121", null ],
-    [ "JustSummoned", "da/d9c/a21144.html#a76c2de51333f57db6612effb92d07bd1", null ],
-    [ "KilledUnit", "da/d9c/a21144.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
-    [ "MoveInLineOfSight", "da/d9c/a21144.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
-    [ "SummonedCreatureDespawn", "da/d9c/a21144.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
+    [ "boss_lavanthor", "da/d9c/a21144.html#ad264818ef0f539c48160de9dbebeac7f", null ],
+    [ "EnterEvadeMode", "da/d9c/a21144.html#aee499fcde639aaca7131dba9cca1d4d0", null ],
+    [ "ExecuteEvent", "da/d9c/a21144.html#a16d7cd5596c20c3663d63549b33c8b4a", null ],
+    [ "JustEngagedWith", "da/d9c/a21144.html#a4bc5fa66192daab98027539efda37bdc", null ],
+    [ "MoveInLineOfSight", "da/d9c/a21144.html#a6f68cd280561b428400a08a155f83ccb", null ]
 ];

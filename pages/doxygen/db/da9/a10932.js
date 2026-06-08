@@ -1,11 +1,7 @@
 var a10932 =
 [
-    [ "BackgroundColor", "db/da9/a10932.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "db/da9/a10932.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "db/da9/a10932.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "db/da9/a10932.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "db/da9/a10932.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "db/da9/a10932.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "db/da9/a10932.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "db/da9/a10932.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "ChatServerMessage", "db/da9/a10932.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "db/da9/a10932.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "db/da9/a10932.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "db/da9/a10932.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

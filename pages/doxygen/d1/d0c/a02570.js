@@ -1,6 +1,6 @@
 var a02570 =
 [
-    [ "AutobroadcastMgr", "d7/dac/a07476.html", "d7/dac/a07476" ],
+    [ "AutobroadcastMgr", "df/d26/a07488.html", "df/d26/a07488" ],
     [ "sAutobroadcastMgr", "d1/d0c/a02570.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

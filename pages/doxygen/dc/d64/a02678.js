@@ -43,5 +43,10 @@ var a02678 =
     ] ],
     [ "GetAnyFactionTemplateForFaction", "dc/d64/a02678.html#aaf34abebbe803c845754a0b3d9d408f4", null ],
     [ "copseReclaimDelay", "dc/d64/a02678.html#abc12a88106c15ea8ca079d4ddcf9c620", null ],
-    [ "runeSlotTypes", "dc/d64/a02678.html#a3c9e0541a7758d9d6e543e883b89d62f", null ]
+    [ "FALL_DMG_EQU_INTERCEPT", "dc/d64/a02678.html#ac63379cd87b9dfd031f82a5dd4d8678d", null ],
+    [ "FALL_DMG_EQU_SLOPE", "dc/d64/a02678.html#ad4d1960f0531122cdfa132782de41164", null ],
+    [ "MIN_FALL_DMG_DIST", "dc/d64/a02678.html#ac6348ab1205dfbd9510236ae4f14d02e", null ],
+    [ "runeSlotTypes", "dc/d64/a02678.html#a3c9e0541a7758d9d6e543e883b89d62f", null ],
+    [ "SPELL_DIVINE_PROTECTION", "dc/d64/a02678.html#a1d068feb6f7e09d87a98c1eba867596e", null ],
+    [ "SPELL_GUST_OF_WIND", "dc/d64/a02678.html#a8f0bd87c555c2d2be08ec5d8d14bdfbd", null ]
 ];

@@ -1,5 +1,6 @@
 var a20364 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d6/d26/a20364.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d6/d26/a20364.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "OnRemoveStun", "d6/d26/a20364.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "d6/d26/a20364.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "d6/d26/a20364.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

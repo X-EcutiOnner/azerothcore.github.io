@@ -1,5 +1,5 @@
 var a02492 =
 [
-    [ "Movement::SplineBase", "d1/d2a/a10460.html", "d1/d2a/a10460" ],
-    [ "Movement::Spline< length_type >", "db/da2/a10464.html", "db/da2/a10464" ]
+    [ "Movement::SplineBase", "d4/d25/a10472.html", "d4/d25/a10472" ],
+    [ "Movement::Spline< length_type >", "d6/d30/a10476.html", "d6/d30/a10476" ]
 ];

@@ -1,11 +1,23 @@
 var a20476 =
 [
-    [ "npc_ulduar_expedition_engineer", "d5/d7f/a20476.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "d5/d7f/a20476.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "d5/d7f/a20476.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "d5/d7f/a20476.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "d5/d7f/a20476.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "d5/d7f/a20476.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "d5/d7f/a20476.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "d5/d7f/a20476.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "boss_razorscale", "d5/d7f/a20476.html#aa60eb42c00c6d801a7b716cea40412d2", null ],
+    [ "AttackStart", "d5/d7f/a20476.html#a7f122fe5073065319280c11698181438", null ],
+    [ "DamageTaken", "d5/d7f/a20476.html#a60d1cf4ce139f3a02d185a61efe2e0b2", null ],
+    [ "EnterEvadeMode", "d5/d7f/a20476.html#acc55c1b00fbf1cdea8761eabe29a55d2", null ],
+    [ "GetData", "d5/d7f/a20476.html#ae32fe4aba366d47133974787a250e9ac", null ],
+    [ "InitializeAI", "d5/d7f/a20476.html#aeab4670beaeb71866f6da0495947dae4", null ],
+    [ "JustEngagedWith", "d5/d7f/a20476.html#ae30c01218215370bab7c5a139847c9dd", null ],
+    [ "JustReachedHome", "d5/d7f/a20476.html#a8b36e360a09ec3615d74882b065ca8f3", null ],
+    [ "KilledUnit", "d5/d7f/a20476.html#ad4a662e3ba265946ad068db388255cf0", null ],
+    [ "MoveInLineOfSight", "d5/d7f/a20476.html#aaad46ac423a77f3d09cd6c0032e36b2e", null ],
+    [ "MovementInform", "d5/d7f/a20476.html#af0200b6d909059f91ea725ff81b552dc", null ],
+    [ "Reset", "d5/d7f/a20476.html#a4fc8f1ff4490d419fd6fec0e4ed15a8b", null ],
+    [ "SpellHit", "d5/d7f/a20476.html#a322291034a13dcd409aedf0a1f3bfa21", null ],
+    [ "UpdateAI", "d5/d7f/a20476.html#ab86a057182e956b50dd6a3016f6e2ffe", null ],
+    [ "bGroundPhase", "d5/d7f/a20476.html#aca43c6d64a163f2025af4fcb62f784e8", null ],
+    [ "CommanderGUID", "d5/d7f/a20476.html#a79dfe493d44a4e86cc38e5d87ccdafc7", null ],
+    [ "cords", "d5/d7f/a20476.html#acb1bade8c17a3d564374a60fb7ffc1db", null ],
+    [ "ExpeditionEngineerGUIDs", "d5/d7f/a20476.html#a670334a69ff8442caf6051a2ece06627", null ],
+    [ "flyTimes", "d5/d7f/a20476.html#a97fe8a82efcb3aee9bb65ca30d583dce", null ],
+    [ "startPath", "d5/d7f/a20476.html#a675981185287cbaf8f105b25c3cc9866", null ]
 ];

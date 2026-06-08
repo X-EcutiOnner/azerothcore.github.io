@@ -1,7 +1,6 @@
 var a14504 =
 [
-    [ "FilterTargets", "d1/dee/a14504.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d1/dee/a14504.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d1/dee/a14504.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d1/dee/a14504.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "boss_wushoolayAI", "d1/dee/a14504.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d1/dee/a14504.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d1/dee/a14504.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

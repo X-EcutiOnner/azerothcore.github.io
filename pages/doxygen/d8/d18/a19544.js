@@ -1,5 +1,6 @@
 var a19544 =
 [
-    [ "achievement_chaos_theory", "d8/d18/a19544.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d8/d18/a19544.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "HandleScript", "d8/d18/a19544.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d8/d18/a19544.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d8/d18/a19544.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

@@ -1,9 +1,7 @@
 var a09492 =
 [
-    [ "LiquidData", "d2/da7/a09492.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d2/da7/a09492.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d2/da7/a09492.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d2/da7/a09492.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d2/da7/a09492.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d2/da7/a09492.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "V8Type", "d2/da7/a09492.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "d2/da7/a09492.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "d2/da7/a09492.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "d2/da7/a09492.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

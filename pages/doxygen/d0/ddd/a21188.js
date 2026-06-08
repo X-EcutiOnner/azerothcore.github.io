@@ -1,7 +1,7 @@
 var a21188 =
 [
-    [ "npc_azure_spellbreaker", "d0/ddd/a21188.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "d0/ddd/a21188.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "d0/ddd/a21188.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "d0/ddd/a21188.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "npc_azure_binder", "d0/ddd/a21188.html#ae273e78765faeb3e9604b7ce89ef6e6c", null ],
+    [ "Reset", "d0/ddd/a21188.html#a0a11617ac11bf6aacacc3b36ce90fdca", null ],
+    [ "UpdateAI", "d0/ddd/a21188.html#add9f304212a1a10267e564cd939f3751", null ],
+    [ "_events", "d0/ddd/a21188.html#a0026fdd57e09f02b46010d696bb0a5da", null ]
 ];

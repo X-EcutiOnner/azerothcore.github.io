@@ -1,6 +1,6 @@
 var a25788 =
 [
-    [ "HandleDummy", "d1/df6/a25788.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "d1/df6/a25788.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "d1/df6/a25788.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "CheckCast", "d1/df6/a25788.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
+    [ "PrepareSpellScript", "d1/df6/a25788.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
+    [ "Register", "d1/df6/a25788.html#a2ef6ded94a244c51ed71315b39e85636", null ]
 ];

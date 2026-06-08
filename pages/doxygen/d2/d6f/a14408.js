@@ -1,20 +1,6 @@
 var a14408 =
 [
-    [ "boss_mandokirAI", "d2/d6f/a14408.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "d2/d6f/a14408.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d2/d6f/a14408.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
-    [ "DoAction", "d2/d6f/a14408.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "d2/d6f/a14408.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "d2/d6f/a14408.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "d2/d6f/a14408.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "d2/d6f/a14408.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "d2/d6f/a14408.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "d2/d6f/a14408.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "d2/d6f/a14408.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "d2/d6f/a14408.html#ad496b4bd7e97988b44357ac91ac3701c", null ],
-    [ "UpdateAI", "d2/d6f/a14408.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "d2/d6f/a14408.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "d2/d6f/a14408.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "d2/d6f/a14408.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "d2/d6f/a14408.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "HandleOnHit", "d2/d6f/a14408.html#a76b09288d14d399735250607e2105eb3", null ],
+    [ "PrepareSpellScript", "d2/d6f/a14408.html#a2270ce546ae286ffa701d094df591aa2", null ],
+    [ "Register", "d2/d6f/a14408.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
 ];

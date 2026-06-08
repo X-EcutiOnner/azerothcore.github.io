@@ -1,13 +1,10 @@
 var a17140 =
 [
-    [ "boss_falric", "d3/d45/a17140.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
-    [ "DoAction", "d3/d45/a17140.html#a9acd7854d725b07df53ae60538df27b1", null ],
-    [ "EnterEvadeMode", "d3/d45/a17140.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
-    [ "JustDied", "d3/d45/a17140.html#a4ade4a16095031988e2ae50602cd0da8", null ],
-    [ "JustEngagedWith", "d3/d45/a17140.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
-    [ "KilledUnit", "d3/d45/a17140.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
-    [ "Reset", "d3/d45/a17140.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
-    [ "UpdateAI", "d3/d45/a17140.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
-    [ "_hopelessnessCount", "d3/d45/a17140.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
-    [ "_startingFight", "d3/d45/a17140.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
+    [ "HandleAfterEffectAbsorb", "d3/d45/a17140.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "d3/d45/a17140.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "d3/d45/a17140.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "d3/d45/a17140.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "d3/d45/a17140.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "d3/d45/a17140.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "d3/d45/a17140.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

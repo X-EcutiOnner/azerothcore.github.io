@@ -1,8 +1,7 @@
 var a20484 =
 [
-    [ "npc_ulduar_dark_rune_guardian", "d4/ddc/a20484.html#a225445f5593694dd6b7d9c338735690f", null ],
-    [ "CanAIAttack", "d4/ddc/a20484.html#a0e739a36a33d7ab401a55d629230e2df", null ],
-    [ "Reset", "d4/ddc/a20484.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
-    [ "UpdateAI", "d4/ddc/a20484.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
-    [ "timer2", "d4/ddc/a20484.html#a5a3af42aaff640e8e286eda5a658c411", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d4/ddc/a20484.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d4/ddc/a20484.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d4/ddc/a20484.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d4/ddc/a20484.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

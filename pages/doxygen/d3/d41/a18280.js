@@ -1,7 +1,6 @@
 var a18280 =
 [
-    [ "IceTombSummonEvent", "d3/d41/a18280.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d3/d41/a18280.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d3/d41/a18280.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d3/d41/a18280.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "npc_precious_iccAI", "d9/d68/a18284.html", "d9/d68/a18284" ],
+    [ "npc_precious_icc", "d3/d41/a18280.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d3/d41/a18280.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

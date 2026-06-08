@@ -1,7 +1,7 @@
 var a14968 =
 [
-    [ "HandleProc", "dd/d0f/a14968.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "dd/d0f/a14968.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "dd/d0f/a14968.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "dd/d0f/a14968.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "HandleOnHit", "dd/d0f/a14968.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "dd/d0f/a14968.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "dd/d0f/a14968.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "dd/d0f/a14968.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

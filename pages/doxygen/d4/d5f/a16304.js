@@ -1,10 +1,7 @@
 var a16304 =
 [
-    [ "boss_sartharion_tenebron", "d4/d5f/a16304.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d4/d5f/a16304.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d4/d5f/a16304.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d4/d5f/a16304.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d4/d5f/a16304.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d4/d5f/a16304.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d4/d5f/a16304.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "OnRemove", "d4/d5f/a16304.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d4/d5f/a16304.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d4/d5f/a16304.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d4/d5f/a16304.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

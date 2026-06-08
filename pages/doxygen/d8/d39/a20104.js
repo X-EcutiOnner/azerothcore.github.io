@@ -1,5 +1,6 @@
 var a20104 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d8/d39/a20104.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d8/d39/a20104.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "CheckCast", "d8/d39/a20104.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d8/d39/a20104.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d8/d39/a20104.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

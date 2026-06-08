@@ -1,13 +1,13 @@
 var a00350 =
 [
-    [ "instance_blackrock_spire", "d1/d9f/a12656.html", "d1/d9f/a12656" ],
-    [ "at_dragonspire_hall", "d5/d81/a12660.html", "d5/d81/a12660" ],
-    [ "at_blackrock_stadium", "dc/d5d/a12664.html", "dc/d5d/a12664" ],
-    [ "go_father_flame", "d6/ddc/a12668.html", "d6/ddc/a12668" ],
-    [ "near_scarshield_infiltrator", "d9/df3/a12672.html", "d9/df3/a12672" ],
-    [ "at_scarshield_infiltrator", "d4/dbb/a12676.html", "d4/dbb/a12676" ],
-    [ "spell_blackrock_spire_call_of_vaelastrasz", "de/de1/a12680.html", "de/de1/a12680" ],
-    [ "npc_vaelastrasz_the_red", "d5/dc8/a12684.html", "d5/dc8/a12684" ],
+    [ "instance_blackrock_spire", "d9/df3/a12672.html", "d9/df3/a12672" ],
+    [ "at_dragonspire_hall", "d4/dbb/a12676.html", "d4/dbb/a12676" ],
+    [ "at_blackrock_stadium", "de/de1/a12680.html", "de/de1/a12680" ],
+    [ "go_father_flame", "d5/dc8/a12684.html", "d5/dc8/a12684" ],
+    [ "near_scarshield_infiltrator", "d4/d31/a12688.html", "d4/d31/a12688" ],
+    [ "at_scarshield_infiltrator", "d8/df7/a12692.html", "d8/df7/a12692" ],
+    [ "spell_blackrock_spire_call_of_vaelastrasz", "d6/de5/a12696.html", "d6/de5/a12696" ],
+    [ "npc_vaelastrasz_the_red", "d9/d2a/a12700.html", "d9/d2a/a12700" ],
     [ "EventIds", "db/d10/a00350.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "db/d10/a00350.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "db/d10/a00350.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],

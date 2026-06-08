@@ -1,7 +1,6 @@
 var a29404 =
 [
-    [ "EnsureScriptRegistriesInitialized", "d0/dd9/a29404.html#ae5a5b6e47735560ea83b9458fb7dd7f4", null ],
-    [ "SetUp", "d0/dd9/a29404.html#a6934840a3250922d4de42044dd35211c", null ],
-    [ "TearDown", "d0/dd9/a29404.html#a8d33dfa0c7dcd81ea426e107beb4b3fa", null ],
-    [ "previousWorld_", "d0/dd9/a29404.html#adff0b9d4abad7843811c543dfd10572e", null ]
+    [ "SetUp", "d0/dd9/a29404.html#a60fc4f7f53b77970978550bc56069471", null ],
+    [ "TearDown", "d0/dd9/a29404.html#a8a288d56ca736bae3783789840c37d0e", null ],
+    [ "rbacData", "d0/dd9/a29404.html#acb1cc06942d4460d964fd507d5d33464", null ]
 ];

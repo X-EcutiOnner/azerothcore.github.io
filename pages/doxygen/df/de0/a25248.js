@@ -1,6 +1,7 @@
 var a25248 =
 [
-    [ "CheckCast", "df/de0/a25248.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "df/de0/a25248.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "df/de0/a25248.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleProc", "df/de0/a25248.html#a8713f0e7fae54fc4f5ead19351bec0d8", null ],
+    [ "PrepareAuraScript", "df/de0/a25248.html#ac2a7ac008dca96bb8dc272118d184f3d", null ],
+    [ "Register", "df/de0/a25248.html#a36160ed669487cd87be364c2e37c0b0e", null ],
+    [ "Validate", "df/de0/a25248.html#acc97118979bfbcbb1d9fbd88e12c9650", null ]
 ];

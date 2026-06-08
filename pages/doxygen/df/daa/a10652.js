@@ -1,15 +1,6 @@
 var a10652 =
 [
-    [ "CreatureScript", "df/daa/a10652.html#afa0053e299f9125cc288ea38652edecb", null ],
-    [ "GetAI", "df/daa/a10652.html#a24ba3529655943afdf6598450d14e6c2", null ],
-    [ "GetDialogStatus", "df/daa/a10652.html#a41562245c4a44843363d6b0ce32ce48d", null ],
-    [ "IsDatabaseBound", "df/daa/a10652.html#af19c64d23391f8b835f79bc6cf315caa", null ],
-    [ "OnFfaPvpStateUpdate", "df/daa/a10652.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
-    [ "OnGossipHello", "df/daa/a10652.html#a6268b132444845302ada504f48629a4f", null ],
-    [ "OnGossipSelect", "df/daa/a10652.html#a30f160576b4cb97d940ecf3468834667", null ],
-    [ "OnGossipSelectCode", "df/daa/a10652.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
-    [ "OnQuestAccept", "df/daa/a10652.html#a6b106a237886f49e523ae7b07e9c5979", null ],
-    [ "OnQuestComplete", "df/daa/a10652.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
-    [ "OnQuestReward", "df/daa/a10652.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
-    [ "OnQuestSelect", "df/daa/a10652.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
+    [ "BattlegroundScript", "df/daa/a10652.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "df/daa/a10652.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "df/daa/a10652.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

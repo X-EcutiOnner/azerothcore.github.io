@@ -1,7 +1,6 @@
 var a23628 =
 [
-    [ "OnPeriodic", "df/de4/a23628.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "df/de4/a23628.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "df/de4/a23628.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "df/de4/a23628.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d8/d9f/a23632.html", "d8/d9f/a23632" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "df/de4/a23628.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "df/de4/a23628.html#a250707096229da28024960beeb7725bf", null ]
 ];

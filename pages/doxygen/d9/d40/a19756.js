@@ -1,8 +1,6 @@
 var a19756 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d9/d40/a19756.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "d9/d40/a19756.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "d9/d40/a19756.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "d9/d40/a19756.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "d9/d40/a19756.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "CalculateDamage", "d9/d40/a19756.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d9/d40/a19756.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d9/d40/a19756.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

@@ -1,6 +1,6 @@
 var a10648 =
 [
-    [ "ConditionScript", "d2/d86/a10648.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "d2/d86/a10648.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "d2/d86/a10648.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "BattlegroundMapScript", "d2/d86/a10648.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "d2/d86/a10648.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d2/d86/a10648.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

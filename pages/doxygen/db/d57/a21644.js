@@ -1,7 +1,6 @@
 var a21644 =
 [
-    [ "HandleDummy", "db/d57/a21644.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "db/d57/a21644.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "db/d57/a21644.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "db/d57/a21644.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "npc_lake_frogAI", "d6/db0/a21648.html", "d6/db0/a21648" ],
+    [ "npc_lake_frog", "db/d57/a21644.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "db/d57/a21644.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

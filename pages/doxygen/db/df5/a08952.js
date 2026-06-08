@@ -1,10 +1,10 @@
 var a08952 =
 [
-    [ "Index", "db/df5/a08952.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "db/df5/a08952.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "db/df5/a08952.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "db/df5/a08952.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "db/df5/a08952.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "db/df5/a08952.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "TradeStatusInfo", "db/df5/a08952.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "db/df5/a08952.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "db/df5/a08952.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "db/df5/a08952.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "db/df5/a08952.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "db/df5/a08952.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "db/df5/a08952.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

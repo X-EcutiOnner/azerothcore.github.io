@@ -1,6 +1,6 @@
 var a13860 =
 [
-    [ "HandleSendEvent", "d7/d03/a13860.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d7/d03/a13860.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d7/d03/a13860.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d7/d81/a13864.html", "d7/d81/a13864" ],
+    [ "instance_the_stockade", "d7/d03/a13860.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d7/d03/a13860.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

@@ -1,6 +1,15 @@
 var a15232 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "da/dd8/a15236.html", "da/dd8/a15236" ],
-    [ "instance_dire_maul", "d6/d47/a15232.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d6/d47/a15232.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "npc_time_rift", "d6/d47/a15232.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d6/d47/a15232.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d6/d47/a15232.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d6/d47/a15232.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d6/d47/a15232.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d6/d47/a15232.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d6/d47/a15232.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d6/d47/a15232.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d6/d47/a15232.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d6/d47/a15232.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d6/d47/a15232.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d6/d47/a15232.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

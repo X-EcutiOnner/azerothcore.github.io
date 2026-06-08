@@ -1,8 +1,10 @@
 var a13736 =
 [
-    [ "FilterTargets", "d6/d7a/a13736.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d6/d7a/a13736.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d6/d7a/a13736.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d6/d7a/a13736.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d6/d7a/a13736.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "MoveDelayed", "d6/d7a/a13736.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "d6/d7a/a13736.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "d6/d7a/a13736.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "d6/d7a/a13736.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "d6/d7a/a13736.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "d6/d7a/a13736.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "d6/d7a/a13736.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

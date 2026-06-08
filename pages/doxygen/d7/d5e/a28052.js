@@ -1,8 +1,7 @@
 var a28052 =
 [
-    [ "npc_artoriusAI", "d5/d23/a28056.html", "d5/d23/a28056" ],
-    [ "npc_artorius", "d7/d5e/a28052.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d7/d5e/a28052.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d7/d5e/a28052.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d7/d5e/a28052.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "npc_engineering_tele_trinket", "d7/d5e/a28052.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d7/d5e/a28052.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d7/d5e/a28052.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d7/d5e/a28052.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

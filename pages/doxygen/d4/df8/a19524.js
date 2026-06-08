@@ -1,7 +1,8 @@
 var a19524 =
 [
-    [ "Load", "d4/df8/a19524.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "d4/df8/a19524.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "d4/df8/a19524.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "d4/df8/a19524.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "Load", "d4/df8/a19524.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "d4/df8/a19524.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "d4/df8/a19524.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "d4/df8/a19524.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "d4/df8/a19524.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

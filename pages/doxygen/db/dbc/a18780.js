@@ -1,8 +1,7 @@
 var a18780 =
 [
-    [ "npc_blistering_zombieAI", "db/dbc/a18780.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "db/dbc/a18780.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "db/dbc/a18780.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "db/dbc/a18780.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "db/dbc/a18780.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "npc_blazing_skeletonAI", "db/dbc/a18780.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "db/dbc/a18780.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "db/dbc/a18780.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "db/dbc/a18780.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

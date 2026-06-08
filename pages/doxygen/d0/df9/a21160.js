@@ -1,15 +1,12 @@
 var a21160 =
 [
-    [ "npc_vh_teleportation_portal", "d0/df9/a21160.html#ae4ed2aebf39ab2593c07ba3098341c91", null ],
-    [ "JustDied", "d0/df9/a21160.html#af86eefc8c9e4187e52c4dd88c41cbc38", null ],
-    [ "JustSummoned", "d0/df9/a21160.html#ad3606d29d814232a492e9e3e85048bd7", null ],
-    [ "SummonedMobDied", "d0/df9/a21160.html#aa58672b2022e44b90adc8bf331ee84fc", null ],
-    [ "UpdateAI", "d0/df9/a21160.html#a3bb6021855bed917fdd2ef47f8ddca29", null ],
-    [ "_addValue", "d0/df9/a21160.html#ad71dd5636c683cfac15423375c0dcc6d", null ],
-    [ "_events", "d0/df9/a21160.html#a1eb415b24f794c8cbb0d01084eb09669", null ],
-    [ "_instance", "d0/df9/a21160.html#acf09515827ae926fe83ffc87a7e35ac5", null ],
-    [ "_isKeeperOrGuardian", "d0/df9/a21160.html#a7483553634133f980929aaeef39bd6a6", null ],
-    [ "_listOfMobs", "d0/df9/a21160.html#a8856350d299bfb25a4e77bb8753afa14", null ],
-    [ "_spawned", "d0/df9/a21160.html#ac89ccf4030e5dffe15d0b24b991176de", null ],
-    [ "_wave", "d0/df9/a21160.html#a0d82b870a2f6bc0de62502f02fd8c1b4", null ]
+    [ "boss_zuramat", "d0/df9/a21160.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "d0/df9/a21160.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "d0/df9/a21160.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "d0/df9/a21160.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "d0/df9/a21160.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "d0/df9/a21160.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "d0/df9/a21160.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "d0/df9/a21160.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "d0/df9/a21160.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

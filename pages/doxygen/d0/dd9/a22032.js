@@ -1,8 +1,8 @@
 var a22032 =
 [
-    [ "npc_wg_queueAI", "d7/dbe/a22036.html", "d7/dbe/a22036" ],
-    [ "npc_wg_queue", "d0/dd9/a22032.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "d0/dd9/a22032.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "d0/dd9/a22032.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "d0/dd9/a22032.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "npc_oathbound_warder", "d0/dd9/a22032.html#af4e56bd77dc1c12e795736f117a9b7f1", null ],
+    [ "AttackStart", "d0/dd9/a22032.html#afa3e523d3c4b7659df3d06be11eea7e4", null ],
+    [ "InitializeAI", "d0/dd9/a22032.html#a62c4c568ad615013afa46c7da84d057a", null ],
+    [ "JustEngagedWith", "d0/dd9/a22032.html#af5c0cb0f8cd8bf5a77bf7460dc576a6f", null ],
+    [ "UpdateAI", "d0/dd9/a22032.html#a2e97b16356a6aec04c7c0b1a2d872070", null ]
 ];

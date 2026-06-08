@@ -1,9 +1,21 @@
 var a20404 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "d8/dd9/a20404.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "d8/dd9/a20404.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "d8/dd9/a20404.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "d8/dd9/a20404.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "d8/dd9/a20404.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "d8/dd9/a20404.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "npc_ulduar_aerial_command_unit", "d8/dd9/a20404.html#a7db419befea7054118ebd2b1d7835a38", null ],
+    [ "DamageTaken", "d8/dd9/a20404.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
+    [ "DoAction", "d8/dd9/a20404.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
+    [ "EnterEvadeMode", "d8/dd9/a20404.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
+    [ "JustSummoned", "d8/dd9/a20404.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
+    [ "KilledUnit", "d8/dd9/a20404.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
+    [ "MoveInLineOfSight", "d8/dd9/a20404.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
+    [ "Reset", "d8/dd9/a20404.html#a51a2ad26cba213816a207f7f69591b4a", null ],
+    [ "SetData", "d8/dd9/a20404.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
+    [ "SpellHit", "d8/dd9/a20404.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
+    [ "SummonedCreatureDespawn", "d8/dd9/a20404.html#a429da72273b2126452eef1e9b724b40b", null ],
+    [ "UpdateAI", "d8/dd9/a20404.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
+    [ "_events", "d8/dd9/a20404.html#a4832f888cc77613d99ff165e5bf47022", null ],
+    [ "_isDefeated", "d8/dd9/a20404.html#a8272d619675b54d454b825efdf1357e6", null ],
+    [ "_isEvading", "d8/dd9/a20404.html#a6976c445331a25cd2735e963a102157c", null ],
+    [ "_phase", "d8/dd9/a20404.html#a7947005a05430e9734db3cf14eac0d17", null ],
+    [ "_summons", "d8/dd9/a20404.html#ac961aedcde178320276eeaf0fa8a8675", null ],
+    [ "instance", "d8/dd9/a20404.html#a36f7e3b4228aca4adf092c14827fa072", null ]
 ];

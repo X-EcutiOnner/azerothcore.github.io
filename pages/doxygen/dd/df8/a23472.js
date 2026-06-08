@@ -1,6 +1,6 @@
 var a23472 =
 [
-    [ "AfterRemove", "dd/df8/a23472.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "dd/df8/a23472.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "dd/df8/a23472.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "HandlePeriodic", "dd/df8/a23472.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
+    [ "PrepareAuraScript", "dd/df8/a23472.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
+    [ "Register", "dd/df8/a23472.html#acf77c76f02671da215c7103b60ed77ac", null ]
 ];

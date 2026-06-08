@@ -1,8 +1,6 @@
 var a21696 =
 [
-    [ "CheckCast", "d9/d2f/a21696.html#a49e425fa95e5107f38aa16e546674b7d", null ],
-    [ "HandleScript", "d9/d2f/a21696.html#a38e8d469e10470b448c0947c6bdbe4bb", null ],
-    [ "PrepareSpellScript", "d9/d2f/a21696.html#a9e7a1239e165131b70c437793b5371d0", null ],
-    [ "Register", "d9/d2f/a21696.html#a3d80b43080e0d81cbb45ed665efcda2a", null ],
-    [ "Validate", "d9/d2f/a21696.html#aa3153a940a762a7ee09e7c62b6b61053", null ]
+    [ "npc_plaguehound_trackerAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
+    [ "npc_plaguehound_tracker", "d9/d2f/a21696.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "d9/d2f/a21696.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

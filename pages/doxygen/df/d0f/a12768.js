@@ -1,7 +1,7 @@
 var a12768 =
 [
-    [ "HandleDummy", "df/d0f/a12768.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "df/d0f/a12768.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "df/d0f/a12768.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "df/d0f/a12768.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "HandlePeriodic", "df/d0f/a12768.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "df/d0f/a12768.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "df/d0f/a12768.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "df/d0f/a12768.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

@@ -1,10 +1,8 @@
 var a17184 =
 [
-    [ "boss_frostsworn_general", "d9/d06/a17184.html#adae1b1d60e78a33b875ac08312a454cf", null ],
-    [ "EnterEvadeMode", "d9/d06/a17184.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
-    [ "JustDied", "d9/d06/a17184.html#a14741cafce857fa819418ec3208c62fc", null ],
-    [ "JustEngagedWith", "d9/d06/a17184.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
-    [ "Reset", "d9/d06/a17184.html#a1576562e5fe2247235b152029aa8edce", null ],
-    [ "UpdateAI", "d9/d06/a17184.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
-    [ "instance", "d9/d06/a17184.html#ab04347cee4d7542171d622cfde936cb1", null ]
+    [ "npc_phantom_hallucination", "d9/d06/a17184.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "d9/d06/a17184.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "d9/d06/a17184.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "d9/d06/a17184.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "d9/d06/a17184.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

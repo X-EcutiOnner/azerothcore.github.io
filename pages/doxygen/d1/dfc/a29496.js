@@ -1,5 +1,6 @@
 var a29496 =
 [
-    [ "aura", "d1/dfc/a29496.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "d1/dfc/a29496.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "hasAttr", "d1/dfc/a29496.html#aec6e687803471c9e36fb371be3994db9", null ],
+    [ "name", "d1/dfc/a29496.html#aff9bdbf422a9e22dacc2bbbea0c99a73", null ],
+    [ "spellId", "d1/dfc/a29496.html#a6b7e7e5d028fb5c006f8785a53394535", null ]
 ];

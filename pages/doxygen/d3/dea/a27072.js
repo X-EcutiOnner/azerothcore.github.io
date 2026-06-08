@@ -1,8 +1,12 @@
 var a27072 =
 [
-    [ "ApplyDebuff", "d3/dea/a27072.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d3/dea/a27072.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d3/dea/a27072.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d3/dea/a27072.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d3/dea/a27072.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CalcPeriodic", "d3/dea/a27072.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d3/dea/a27072.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d3/dea/a27072.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d3/dea/a27072.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d3/dea/a27072.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d3/dea/a27072.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d3/dea/a27072.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d3/dea/a27072.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d3/dea/a27072.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

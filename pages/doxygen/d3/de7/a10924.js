@@ -1,6 +1,7 @@
 var a10924 =
 [
-    [ "SetSheathed", "d3/de7/a10924.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "d3/de7/a10924.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "d3/de7/a10924.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "Emote", "d3/de7/a10924.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d3/de7/a10924.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d3/de7/a10924.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d3/de7/a10924.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

@@ -1,7 +1,7 @@
 var a03041 =
 [
-    [ "SpawnGroupTemplateData", "d1/dc1/a10224.html", "d1/dc1/a10224" ],
-    [ "SpawnData", "d5/d82/a10228.html", "d5/d82/a10228" ],
+    [ "SpawnGroupTemplateData", "d4/da2/a10236.html", "d4/da2/a10236" ],
+    [ "SpawnData", "df/d3d/a10240.html", "df/d3d/a10240" ],
     [ "SpawnGroupFlags", "dc/d23/a03041.html#a4d92d9f9c1ddb3ba951f249d8c3a9567", [
       [ "SPAWNGROUP_FLAG_NONE", "dc/d23/a03041.html#a4d92d9f9c1ddb3ba951f249d8c3a9567a8e60132edd361c998c88ad58f487ff01", null ],
       [ "SPAWNGROUP_FLAG_SYSTEM", "dc/d23/a03041.html#a4d92d9f9c1ddb3ba951f249d8c3a9567ac7f000051c11e8e64e44d8e559df0769", null ],

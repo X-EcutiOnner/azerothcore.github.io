@@ -1,13 +1,6 @@
 var a06532 =
 [
-    [ "HealthCheckEventData", "d0/d9a/a06532.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "d0/d9a/a06532.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "d0/d9a/a06532.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "d0/d9a/a06532.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "d0/d9a/a06532.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "d0/d9a/a06532.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "d0/d9a/a06532.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "d0/d9a/a06532.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "d0/d9a/a06532.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "d0/d9a/a06532.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "EntryCheckPredicate", "d0/d9a/a06532.html#a23365e4591c0906f5d04db7dc6599fbf", null ],
+    [ "operator()", "d0/d9a/a06532.html#ab384b205f8a719e1b5b0d0ab00575313", null ],
+    [ "_entry", "d0/d9a/a06532.html#aa83f4537369e740de2d689252409d269", null ]
 ];

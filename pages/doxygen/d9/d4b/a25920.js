@@ -1,7 +1,7 @@
 var a25920 =
 [
-    [ "HandleDummy", "d9/d4b/a25920.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
-    [ "PrepareSpellScript", "d9/d4b/a25920.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
-    [ "Register", "d9/d4b/a25920.html#acfafbf43e12f72131e58434051dcc510", null ],
-    [ "Validate", "d9/d4b/a25920.html#a73458b57dc107b3215cf5d44567d330f", null ]
+    [ "HandleProc", "d9/d4b/a25920.html#ac162e47e5334e15865a315b1a30fc645", null ],
+    [ "PrepareAuraScript", "d9/d4b/a25920.html#a0d30a007e3f67b78197ac0cae83e2976", null ],
+    [ "Register", "d9/d4b/a25920.html#aad337f75e2132940ed3cfef209e1c73b", null ],
+    [ "Validate", "d9/d4b/a25920.html#afc4741f952c253924de7397d991a24ac", null ]
 ];

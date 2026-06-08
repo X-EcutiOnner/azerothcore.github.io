@@ -1,5 +1,6 @@
 var a12976 =
 [
-    [ "npc_chess_move_trigger", "db/d38/a12976.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "db/d38/a12976.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "HandleTriggerSpell", "db/d38/a12976.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "db/d38/a12976.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "db/d38/a12976.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

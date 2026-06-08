@@ -1,5 +1,6 @@
 var a14328 =
 [
-    [ "at_zulgurub_entrance_speech", "d3/d06/a14328.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d3/d06/a14328.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "boss_grilekAI", "d0/d8e/a14332.html", "d0/d8e/a14332" ],
+    [ "boss_grilek", "d3/d06/a14328.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d3/d06/a14328.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

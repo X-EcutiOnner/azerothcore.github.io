@@ -1,6 +1,5 @@
 var a23504 =
 [
-    [ "HandlePeriodic", "df/d29/a23504.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "df/d29/a23504.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "df/d29/a23504.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "npc_lord_sanguinar", "df/d29/a23504.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "df/d29/a23504.html#af9231da98547875527a519c5884cbec0", null ]
 ];

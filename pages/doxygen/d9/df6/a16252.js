@@ -1,7 +1,6 @@
 var a16252 =
 [
-    [ "HandleEffectRemove", "d9/df6/a16252.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "d9/df6/a16252.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "d9/df6/a16252.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "d9/df6/a16252.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "npc_anub_ar_crusher_champion", "d9/df6/a16252.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "d9/df6/a16252.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "d9/df6/a16252.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

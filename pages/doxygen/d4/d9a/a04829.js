@@ -1,6 +1,6 @@
 var a04829 =
 [
-    [ "WildGrowthTickScalingTest", "da/d17/a29612.html", null ],
+    [ "WildGrowthTickScalingTest", "d4/d12/a29628.html", null ],
     [ "CalcAllTicks", "d4/d9a/a04829.html#a7d72b7a206fea0eaa814a190c35a0e29", null ],
     [ "CalcPct", "d4/d9a/a04829.html#a95e4d56dd3e5ff9502c8bb2627784cd5", null ],
     [ "CalcWildGrowthTickAmount", "d4/d9a/a04829.html#addfd88f5be5daae3a078cbade7aed80e", null ],

@@ -1,8 +1,11 @@
 var a19884 =
 [
-    [ "HandlePeriodic", "d9/df6/a19884.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d9/df6/a19884.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d9/df6/a19884.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d9/df6/a19884.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d9/df6/a19884.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "npc_living_constellation", "d9/df6/a19884.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
+    [ "DoAction", "d9/df6/a19884.html#a45ba20e86f9d3c041260c88130521a61", null ],
+    [ "GetData", "d9/df6/a19884.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
+    [ "Reset", "d9/df6/a19884.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
+    [ "SpellHit", "d9/df6/a19884.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
+    [ "UpdateAI", "d9/df6/a19884.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
+    [ "_isActive", "d9/df6/a19884.html#a810c918ac2523f04d8364f507e6c01bb", null ],
+    [ "events", "d9/df6/a19884.html#aaa9152db699878d67e8b8288d729fca3", null ]
 ];

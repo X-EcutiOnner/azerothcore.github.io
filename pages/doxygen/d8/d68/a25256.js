@@ -1,6 +1,7 @@
 var a25256 =
 [
-    [ "PrepareAuraScript", "d8/d68/a25256.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d8/d68/a25256.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d8/d68/a25256.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "HandleProc", "d8/d68/a25256.html#a107d4e1650c6044b60ab711b01c607f6", null ],
+    [ "PrepareAuraScript", "d8/d68/a25256.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
+    [ "Register", "d8/d68/a25256.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
+    [ "Validate", "d8/d68/a25256.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
 ];

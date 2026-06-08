@@ -1,7 +1,7 @@
 var a00107 =
 [
-    [ "boss_galvangar", "d6/d1b/a12456.html", "d6/d1b/a12456" ],
-    [ "boss_galvangar::boss_galvangarAI", "dd/d65/a12460.html", "dd/d65/a12460" ],
+    [ "boss_galvangar", "d2/d6d/a12472.html", "d2/d6d/a12472" ],
+    [ "boss_galvangar::boss_galvangarAI", "dd/d2f/a12476.html", "dd/d2f/a12476" ],
     [ "Spells", "df/d98/a00107.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

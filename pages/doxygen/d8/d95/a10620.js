@@ -1,12 +1,19 @@
 var a10620 =
 [
-    [ "ArenaScript", "d8/d95/a10620.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "d8/d95/a10620.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveArenaStatsForMember", "d8/d95/a10620.html#a73719d3e62d1f7cf1f174292975f0f4f", null ],
-    [ "CanSaveToDB", "d8/d95/a10620.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "d8/d95/a10620.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "d8/d95/a10620.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "d8/d95/a10620.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnBeforeArenaTeamMemberUpdate", "d8/d95/a10620.html#a548ac21d5bd9be263935a298a3b5cd16", null ],
-    [ "OnGetPoints", "d8/d95/a10620.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllSpellScript", "d8/d95/a10620.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanPrepare", "d8/d95/a10620.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "d8/d95/a10620.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "d8/d95/a10620.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "d8/d95/a10620.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "d8/d95/a10620.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "d8/d95/a10620.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "d8/d95/a10620.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "d8/d95/a10620.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "d8/d95/a10620.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "d8/d95/a10620.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "d8/d95/a10620.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "d8/d95/a10620.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "d8/d95/a10620.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "d8/d95/a10620.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "d8/d95/a10620.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

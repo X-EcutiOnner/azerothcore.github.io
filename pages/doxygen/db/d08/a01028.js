@@ -1,6 +1,6 @@
 var a01028 =
 [
-    [ "boss_anubrekhan", "d2/df2/a19212.html", "d2/df2/a19212" ],
+    [ "boss_anubrekhan", "d2/ddc/a19228.html", "d2/ddc/a19228" ],
     [ "GuardSays", "db/d08/a01028.html#a36f4d95de326f7b4132b469869110c12", [
       [ "EMOTE_SPAWN", "db/d08/a01028.html#a36f4d95de326f7b4132b469869110c12ade276b5b81b86907f260bb442ccf97ed", null ],
       [ "EMOTE_SCARAB", "db/d08/a01028.html#a36f4d95de326f7b4132b469869110c12a268b84956ae24cf9c5237ba0a2850f8f", null ]

@@ -1,6 +1,7 @@
 var a14224 =
 [
-    [ "instance_zulaman_InstanceMapScript", "df/d11/a14228.html", "df/d11/a14228" ],
-    [ "instance_zulaman", "d5/d2a/a14224.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "d5/d2a/a14224.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "npc_zuljin_vortex", "d5/d2a/a14224.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d5/d2a/a14224.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d5/d2a/a14224.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d5/d2a/a14224.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

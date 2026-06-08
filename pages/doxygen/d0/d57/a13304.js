@@ -1,11 +1,7 @@
 var a13304 =
 [
-    [ "npc_scarlet_ghoulAI", "d0/d57/a13304.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d0/d57/a13304.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d0/d57/a13304.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d0/d57/a13304.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d0/d57/a13304.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "d0/d57/a13304.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d0/d57/a13304.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d0/d57/a13304.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "HandleScriptEffect", "d0/d57/a13304.html#a1cdba27f7311021407307bcd35235fed", null ],
+    [ "PrepareSpellScript", "d0/d57/a13304.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
+    [ "Register", "d0/d57/a13304.html#a9794991aa1710ce37112888eeb572796", null ],
+    [ "Validate", "d0/d57/a13304.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
 ];

@@ -1,7 +1,6 @@
 var a12868 =
 [
-    [ "HandleHit", "d2/def/a12868.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d2/def/a12868.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d2/def/a12868.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d2/def/a12868.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "boss_magmadar", "d2/def/a12868.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d2/def/a12868.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d2/def/a12868.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

@@ -1,5 +1,5 @@
 var a11552 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "dc/dca/a11552.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "dc/dca/a11552.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "SocketIPBytes", "dc/dca/a11552.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "dc/dca/a11552.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

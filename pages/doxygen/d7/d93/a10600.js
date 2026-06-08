@@ -1,10 +1,8 @@
 var a10600 =
 [
-    [ "AllItemScript", "d7/d93/a10600.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "d7/d93/a10600.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "d7/d93/a10600.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "d7/d93/a10600.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "d7/d93/a10600.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "d7/d93/a10600.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "d7/d93/a10600.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "AllCommandScript", "d7/d93/a10600.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d7/d93/a10600.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d7/d93/a10600.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d7/d93/a10600.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d7/d93/a10600.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

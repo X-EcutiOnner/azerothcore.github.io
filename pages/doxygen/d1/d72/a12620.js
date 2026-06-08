@@ -1,10 +1,12 @@
 var a12620 =
 [
-    [ "npc_rookery_hatcher", "d1/d72/a12620.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "d1/d72/a12620.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "d1/d72/a12620.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "d1/d72/a12620.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "d1/d72/a12620.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "d1/d72/a12620.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "d1/d72/a12620.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_pyroguard_emberseer", "d1/d72/a12620.html#a4c1bd9e71776fa088a84009565dc527d", null ],
+    [ "JustDied", "d1/d72/a12620.html#a6f0e58c7107563f40e864eede5a907d5", null ],
+    [ "JustEngagedWith", "d1/d72/a12620.html#a1c9662393ea5862ee26f5242e184fd74", null ],
+    [ "OpenDoors", "d1/d72/a12620.html#a80761b3fad5864ce80dae81d31df748c", null ],
+    [ "Reset", "d1/d72/a12620.html#a7eda06b39dc920040e205595a0f8efa2", null ],
+    [ "SetData", "d1/d72/a12620.html#a533c643c9b65813f48fd92ee73670fae", null ],
+    [ "SpellHit", "d1/d72/a12620.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
+    [ "UpdateAI", "d1/d72/a12620.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
+    [ "UpdateRunes", "d1/d72/a12620.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
 ];

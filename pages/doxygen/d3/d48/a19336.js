@@ -1,6 +1,6 @@
 var a19336 =
 [
-    [ "HandleAfterHit", "d3/d48/a19336.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
-    [ "PrepareSpellScript", "d3/d48/a19336.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
-    [ "Register", "d3/d48/a19336.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
+    [ "boss_kelthuzad_minionAI", "d2/d03/a19340.html", "d2/d03/a19340" ],
+    [ "boss_kelthuzad_minion", "d3/d48/a19336.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d3/d48/a19336.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

@@ -1,9 +1,9 @@
 var a21952 =
 [
-    [ "HandlePeriodic", "de/d72/a21952.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
-    [ "Load", "de/d72/a21952.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
-    [ "PrepareAuraScript", "de/d72/a21952.html#a1057e5262d413149a023bc904a3c3751", null ],
-    [ "Register", "de/d72/a21952.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
-    [ "Validate", "de/d72/a21952.html#a85d7ac258d50f690574ad7656256cd05", null ],
-    [ "_counter", "de/d72/a21952.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
+    [ "npc_brunnhildar_prisonerAI", "de/d72/a21952.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "de/d72/a21952.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "de/d72/a21952.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "de/d72/a21952.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "de/d72/a21952.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "de/d72/a21952.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

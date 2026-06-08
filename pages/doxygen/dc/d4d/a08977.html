@@ -104,29 +104,31 @@ $(document).ready(function(){initNavTree('d9/ddb/a08980.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">SocialMgr Member List</div></div>
+  <div class="headertitle"><div class="title">RaceMgr Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a55b35ea17ebfea4ff31710186b87865f">BroadcastToFriendListers</a>(Player *player, WorldPacket *packet)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a7d0c4638b6fde1bf614d90492160ee55">GetFriendInfo</a>(Player *player, ObjectGuid const &amp;friendGUID, FriendInfo &amp;friendInfo)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a223f3d7811d8c360da7f467b70af808f">instance</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#aab17f5c27494cfdf2b1c5d5038f446a0">LoadFromDB</a>(PreparedQueryResult result, ObjectGuid const &amp;guid)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a2f8a276598ad01d350aa245fcef82a7a">m_socialMap</a></td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#af30fe2f3223dc7ad9094e44393420d3a">MakeFriendStatusPacket</a>(FriendsResult result, ObjectGuid const &amp;friend_guid, WorldPacket *data)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#af537c83cc3d481dde68d0a60aa122289">RemovePlayerSocial</a>(ObjectGuid const &amp;guid)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#acf245ca689bd5c0efe4a791b9e0e3c5f">SendFriendStatus</a>(Player *player, FriendsResult result, ObjectGuid const &amp;friend_guid, bool broadcast)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a2b80fa18a6f1ed54fda7719867f45ebd">SocialMap</a> typedef</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a3cff8262ce10d2e8c8c38dc834230545">SocialMgr</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#aef859e6c923a6ba4bb7ac0049f17463d">~SocialMgr</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">SocialMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a694fca25b429d99dad214ea277ade0c7">_allianceRaceMask</a></td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a3f27d5d4ae27c1ebe2462f35dbace85e">_hordeRaceMask</a></td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#af5b87bbc81180f92f18424dfb0181569">_maxRaces</a></td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a0ddd9c8393001fc41b14dd95eece8400">_playableRaceMask</a></td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a6e8a0ba72a13d62321246cb4c11a6f4d">GetAllianceRaceMask</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#ab783bff98d389f35ef89f45327cec299">GetHordeRaceMask</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a5cf45d0a57727daee3432fca51479c32">GetMaxRaces</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a">GetPlayableRaceMask</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#ac54cc09b38129b4d7cfc02767c8ba41e">instance</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a93d2f89ab56fa6d4c20547b411b0a812">LoadRaces</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a78e384652a5e52776f13085d14e6037a">RaceMgr</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a3789528cb72e6f837633b8f3692ea36b">SetMaxRaces</a>(uint8 max)</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d9/ddb/a08980.html#a3abfe795c417bf794f3b38a23deac7a3">~RaceMgr</a>()</td><td class="entry"><a class="el" href="../../d9/ddb/a08980.html">RaceMgr</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jun 1 2026 22:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

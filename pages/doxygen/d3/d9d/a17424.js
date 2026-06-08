@@ -1,11 +1,14 @@
 var a17424 =
 [
-    [ "npc_living_mojoAI", "d3/d9d/a17424.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "d3/d9d/a17424.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "d3/d9d/a17424.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "JustEngagedWith", "d3/d9d/a17424.html#adbc665cfba933007e3f630676ab75656", null ],
-    [ "MoveInLineOfSight", "d3/d9d/a17424.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "d3/d9d/a17424.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "d3/d9d/a17424.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "d3/d9d/a17424.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "boss_drakkari_colossusAI", "d3/d9d/a17424.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
+    [ "DoAction", "d3/d9d/a17424.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
+    [ "JustReachedHome", "d3/d9d/a17424.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
+    [ "JustSummoned", "d3/d9d/a17424.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
+    [ "MoveInLineOfSight", "d3/d9d/a17424.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
+    [ "Reset", "d3/d9d/a17424.html#a5e9c6da15df58a206533a7c718056c3e", null ],
+    [ "ScheduleTasks", "d3/d9d/a17424.html#afefbba70f93142110dcf9d7940d91d2c", null ],
+    [ "SummonedCreatureDespawn", "d3/d9d/a17424.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
+    [ "SummonedCreatureDies", "d3/d9d/a17424.html#a59f9efbc2964eec057606d69458b4402", null ],
+    [ "UpdateAI", "d3/d9d/a17424.html#afc816b7d1c2705675560ddd13ecce22d", null ],
+    [ "_secondEmerge", "d3/d9d/a17424.html#a2e97f8f1f5c53efba04afc213f410870", null ]
 ];

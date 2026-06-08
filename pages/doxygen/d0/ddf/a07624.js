@@ -1,10 +1,10 @@
 var a07624 =
 [
-    [ "ArenaLogEntryData", "d0/ddf/a07624.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d0/ddf/a07624.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d0/ddf/a07624.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d0/ddf/a07624.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d0/ddf/a07624.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d0/ddf/a07624.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d0/ddf/a07624.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "BattlegroundChatBuilder", "d0/ddf/a07624.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d0/ddf/a07624.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d0/ddf/a07624.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d0/ddf/a07624.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d0/ddf/a07624.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d0/ddf/a07624.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d0/ddf/a07624.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

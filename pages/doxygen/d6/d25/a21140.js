@@ -1,12 +1,12 @@
 var a21140 =
 [
-    [ "boss_xevozz", "d6/d25/a21140.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "d6/d25/a21140.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "d6/d25/a21140.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "d6/d25/a21140.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "d6/d25/a21140.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "d6/d25/a21140.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "d6/d25/a21140.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "d6/d25/a21140.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "d6/d25/a21140.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "npc_ichor_globule", "d6/d25/a21140.html#a59443a6748d81ef27a030f8656697fc1", null ],
+    [ "AttackStart", "d6/d25/a21140.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
+    [ "JustDied", "d6/d25/a21140.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
+    [ "MoveInLineOfSight", "d6/d25/a21140.html#af14fada689a1a6a780ae44865d16e465", null ],
+    [ "Reset", "d6/d25/a21140.html#a78030360fcd39754744384cdba17fd9e", null ],
+    [ "SpellHit", "d6/d25/a21140.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
+    [ "UpdateAI", "d6/d25/a21140.html#acccc54db59a18e78330011465e109439", null ],
+    [ "_events", "d6/d25/a21140.html#a221c58177666ea1eb4a6b831916297eb", null ],
+    [ "_instance", "d6/d25/a21140.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
 ];

@@ -1,7 +1,6 @@
 var a11128 =
 [
-    [ "GuildBankTextQueryResult", "d4/d4b/a11128.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d4/d4b/a11128.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d4/d4b/a11128.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d4/d4b/a11128.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankLogQuery", "d4/d4b/a11128.html#ab094e91a48d0259b4247157b92997bb2", null ],
+    [ "Read", "d4/d4b/a11128.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
+    [ "Tab", "d4/d4b/a11128.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
 ];

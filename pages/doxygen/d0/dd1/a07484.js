@@ -1,17 +1,15 @@
 var a07484 =
 [
-    [ "BfGraveyard", "d0/dd1/a07484.html#a47eb2f535fdce943de03d8daca7f0fd8", null ],
-    [ "~BfGraveyard", "d0/dd1/a07484.html#a18171fd6fbfe7529bb61fd444e762f36", null ],
-    [ "GetControlTeamId", "d0/dd1/a07484.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
-    [ "GetDistance", "d0/dd1/a07484.html#ae290db2a83278c27803d62267aebfb71", null ],
-    [ "GetGraveyardId", "d0/dd1/a07484.html#ac7944db0403c37282ca90550f8ca4118", null ],
-    [ "GetSpiritGuide", "d0/dd1/a07484.html#a30536791ab71cc2a0a73cdf0993ca2d3", null ],
-    [ "GiveControlTo", "d0/dd1/a07484.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
-    [ "HasNpc", "d0/dd1/a07484.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
-    [ "Initialize", "d0/dd1/a07484.html#a348c0a492efab96df8855f94969c7300", null ],
-    [ "SetSpirit", "d0/dd1/a07484.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
-    [ "Bf", "d0/dd1/a07484.html#a30abf6abb0dc36c9376f6f405a0a9f4e", null ],
-    [ "ControlTeam", "d0/dd1/a07484.html#a4d97eae10ede29d7e617b237e2c3fe20", null ],
-    [ "GraveyardId", "d0/dd1/a07484.html#a06d1c713e7180a9b4c32882835122212", null ],
-    [ "SpiritGuide", "d0/dd1/a07484.html#a528a36fbd481cb5173d742ac125a2f62", null ]
+    [ "AuctionHouseSearcher", "d0/dd1/a07484.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d0/dd1/a07484.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d0/dd1/a07484.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d0/dd1/a07484.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d0/dd1/a07484.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d0/dd1/a07484.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d0/dd1/a07484.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d0/dd1/a07484.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d0/dd1/a07484.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d0/dd1/a07484.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d0/dd1/a07484.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d0/dd1/a07484.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

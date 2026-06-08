@@ -1,5 +1,26 @@
 var a20124 =
 [
-    [ "boss_freya_iron_root", "d3/d05/a20124.html#af35a268c89c025d95c13ea8c87d6516e", null ],
-    [ "JustDied", "d3/d05/a20124.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
+    [ "boss_freya", "d3/d05/a20124.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d3/d05/a20124.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "d3/d05/a20124.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "d3/d05/a20124.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "d3/d05/a20124.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "d3/d05/a20124.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "d3/d05/a20124.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "JustSummoned", "d3/d05/a20124.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
+    [ "KilledUnit", "d3/d05/a20124.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "MovementInform", "d3/d05/a20124.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
+    [ "Reset", "d3/d05/a20124.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "d3/d05/a20124.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "d3/d05/a20124.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "d3/d05/a20124.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "d3/d05/a20124.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_backToNature", "d3/d05/a20124.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_deforestation", "d3/d05/a20124.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "d3/d05/a20124.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "d3/d05/a20124.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_respawningTrio", "d3/d05/a20124.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_spawnedAmount", "d3/d05/a20124.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioKilled", "d3/d05/a20124.html#ae141a7cf3554c606738774fe96a371dc", null ],
+    [ "_waveNumber", "d3/d05/a20124.html#af4e2576558c3c15303245f76c6e30aa0", null ]
 ];

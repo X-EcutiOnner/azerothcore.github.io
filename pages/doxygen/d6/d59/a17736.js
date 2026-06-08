@@ -1,7 +1,7 @@
 var a17736 =
 [
-    [ "HandleProc", "d6/d59/a17736.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d6/d59/a17736.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d6/d59/a17736.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d6/d59/a17736.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "FilterTargets", "d6/d59/a17736.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/d59/a17736.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/d59/a17736.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/d59/a17736.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

@@ -1,8 +1,7 @@
 var a21088 =
 [
-    [ "npc_frozen_orbAI", "df/d4b/a21088.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "df/d4b/a21088.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "df/d4b/a21088.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "df/d4b/a21088.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "df/d4b/a21088.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "PrepareAuraScript", "df/d4b/a21088.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
+    [ "Register", "df/d4b/a21088.html#a7225d1f83921e4de06516c1db5a5038a", null ],
+    [ "TriggerFists", "df/d4b/a21088.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
+    [ "Validate", "df/d4b/a21088.html#a977897c569245148eb94892bb42d4ca5", null ]
 ];

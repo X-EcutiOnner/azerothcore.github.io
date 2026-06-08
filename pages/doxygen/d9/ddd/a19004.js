@@ -1,6 +1,5 @@
 var a19004 =
 [
-    [ "HandleScript", "d9/ddd/a19004.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d9/ddd/a19004.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d9/ddd/a19004.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "at_icc_shutdown_traps", "d9/ddd/a19004.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d9/ddd/a19004.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

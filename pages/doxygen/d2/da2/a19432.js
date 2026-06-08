@@ -1,8 +1,6 @@
 var a19432 =
 [
-    [ "HandleDamage", "d2/da2/a19432.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "d2/da2/a19432.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "d2/da2/a19432.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "d2/da2/a19432.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "d2/da2/a19432.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "boss_thaddiusAI", "df/dc2/a19436.html", "df/dc2/a19436" ],
+    [ "boss_thaddius", "d2/da2/a19432.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d2/da2/a19432.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

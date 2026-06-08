@@ -1,7 +1,7 @@
 var a17752 =
 [
-    [ "ExtraEffect", "dd/d2b/a17752.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "dd/d2b/a17752.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "dd/d2b/a17752.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "dd/d2b/a17752.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleProc", "dd/d2b/a17752.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "dd/d2b/a17752.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "dd/d2b/a17752.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "dd/d2b/a17752.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

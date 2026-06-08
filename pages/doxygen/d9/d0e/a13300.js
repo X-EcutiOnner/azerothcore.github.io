@@ -1,6 +1,7 @@
 var a13300 =
 [
-    [ "npc_scarlet_ghoulAI", "d0/d57/a13304.html", "d0/d57/a13304" ],
-    [ "npc_scarlet_ghoul", "d9/d0e/a13300.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d9/d0e/a13300.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "HandleScriptEffect", "d9/d0e/a13300.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d9/d0e/a13300.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d9/d0e/a13300.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d9/d0e/a13300.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

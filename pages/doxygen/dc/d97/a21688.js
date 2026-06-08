@@ -1,7 +1,7 @@
 var a21688 =
 [
-    [ "npc_rodin_lightning_enabler", "dc/d97/a21688.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "dc/d97/a21688.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "dc/d97/a21688.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "dc/d97/a21688.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_Apothecary_HanesAI", "d5/d25/a21692.html", "d5/d25/a21692" ],
+    [ "npc_apothecary_hanes", "dc/d97/a21688.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "dc/d97/a21688.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "dc/d97/a21688.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

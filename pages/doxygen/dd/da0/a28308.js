@@ -1,7 +1,6 @@
 var a28308 =
 [
-    [ "npc_flameshocker", "dd/da0/a28308.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "dd/da0/a28308.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "dd/da0/a28308.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "dd/da0/a28308.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_necropolis_relay", "dd/da0/a28308.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "dd/da0/a28308.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "dd/da0/a28308.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

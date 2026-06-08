@@ -1,8 +1,6 @@
 var a18480 =
 [
-    [ "FilterTargets", "df/d30/a18480.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "df/d30/a18480.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "df/d30/a18480.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "df/d30/a18480.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "df/d30/a18480.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "boss_the_lich_kingAI", "d0/daa/a18484.html", "d0/daa/a18484" ],
+    [ "boss_the_lich_king", "df/d30/a18480.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "df/d30/a18480.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

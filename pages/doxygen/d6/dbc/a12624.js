@@ -1,11 +1,11 @@
 var a12624 =
 [
-    [ "boss_solakar_flamewreath", "d6/dbc/a12624.html#aff732901de1306b363e5a3d9994b3c9b", null ],
-    [ "ExecuteEvent", "d6/dbc/a12624.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
-    [ "InitializeAI", "d6/dbc/a12624.html#a21875946b8e9cfa8711f36f98a61a034", null ],
-    [ "JustDied", "d6/dbc/a12624.html#ae4d59238a359487e44985e040ee27732", null ],
-    [ "JustEngagedWith", "d6/dbc/a12624.html#af6a0c97341547ea852d9a09d3b66358e", null ],
-    [ "Reset", "d6/dbc/a12624.html#ae83c926a718af8ee0d90b8a9be800031", null ],
-    [ "UpdateAI", "d6/dbc/a12624.html#ad211f24ce4019724060441529ceaa780", null ],
-    [ "resetTimer", "d6/dbc/a12624.html#a602092d8262420bc51eef286b7c96d84", null ]
+    [ "npc_blackhand_incarcerator", "d6/dbc/a12624.html#af44831badd703bf8c5275c749fd61d2a", null ],
+    [ "DamageTaken", "d6/dbc/a12624.html#af28b787db83769685d90cf7950d8f825", null ],
+    [ "JustEngagedWith", "d6/dbc/a12624.html#a9f4ab7c404a71da418c81b37dd14a7da", null ],
+    [ "Reset", "d6/dbc/a12624.html#a89befac34c050f9229961782156c7adf", null ],
+    [ "SetData", "d6/dbc/a12624.html#a9716a5bcc7101e9a39280ab7afd26540", null ],
+    [ "UpdateAI", "d6/dbc/a12624.html#a83bad94665e11bcb55498bad5fb055a9", null ],
+    [ "_events", "d6/dbc/a12624.html#a2c980622c898df77f3ed46cae1224c2f", null ],
+    [ "_fleedForAssistance", "d6/dbc/a12624.html#abb52cd563252e5d00e256faf6e3cd3d3", null ]
 ];

@@ -1,13 +1,10 @@
 var a20136 =
 [
-    [ "boss_freya_summons", "d6/d0f/a20136.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "DoAction", "d6/d0f/a20136.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
-    [ "JustDied", "d6/d0f/a20136.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "d6/d0f/a20136.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "d6/d0f/a20136.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "UpdateAI", "d6/d0f/a20136.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "d6/d0f/a20136.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "d6/d0f/a20136.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_stackCount", "d6/d0f/a20136.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
-    [ "events", "d6/d0f/a20136.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "boss_freya_elder_ironbranch", "d6/d0f/a20136.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
+    [ "JustDied", "d6/d0f/a20136.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
+    [ "JustEngagedWith", "d6/d0f/a20136.html#a34d87135b8dac114a8783941dba69559", null ],
+    [ "KilledUnit", "d6/d0f/a20136.html#a20b5a622ac233d1280169f54942c894f", null ],
+    [ "Reset", "d6/d0f/a20136.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
+    [ "UpdateAI", "d6/d0f/a20136.html#a00dade8af24a2240187fb4e52138c0d1", null ],
+    [ "events", "d6/d0f/a20136.html#a8693a800da6890004f3ae82fd9898480", null ]
 ];

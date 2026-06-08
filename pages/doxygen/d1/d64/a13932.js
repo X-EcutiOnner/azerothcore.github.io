@@ -1,8 +1,12 @@
 var a13932 =
 [
-    [ "npc_ranger_lilatha", "d1/d64/a13932.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d1/d64/a13932.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d1/d64/a13932.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d1/d64/a13932.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "d1/d64/a13932.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_eastvale_peasent", "d1/d64/a13932.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d1/d64/a13932.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d1/d64/a13932.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d1/d64/a13932.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d1/d64/a13932.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d1/d64/a13932.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d1/d64/a13932.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d1/d64/a13932.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d1/d64/a13932.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

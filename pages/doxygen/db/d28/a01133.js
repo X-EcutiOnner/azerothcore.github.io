@@ -1,11 +1,11 @@
 var a01133 =
 [
-    [ "boss_auriaya", "de/d2e/a19964.html", "de/d2e/a19964" ],
-    [ "npc_auriaya_sanctum_sentry", "de/de0/a19968.html", "de/de0/a19968" ],
-    [ "npc_auriaya_feral_defender", "d3/d79/a19972.html", "d3/d79/a19972" ],
-    [ "spell_auriaya_sentinel_blast", "d6/dec/a19976.html", "d6/dec/a19976" ],
-    [ "achievement_auriaya_crazy_cat_lady", "df/d0c/a19980.html", "df/d0c/a19980" ],
-    [ "achievement_auriaya_nine_lives", "d2/dab/a19984.html", "d2/dab/a19984" ],
+    [ "boss_auriaya", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "npc_auriaya_sanctum_sentry", "d2/dab/a19984.html", "d2/dab/a19984" ],
+    [ "npc_auriaya_feral_defender", "d7/d22/a19988.html", "d7/d22/a19988" ],
+    [ "spell_auriaya_sentinel_blast", "dd/dbb/a19992.html", "dd/dbb/a19992" ],
+    [ "achievement_auriaya_crazy_cat_lady", "d9/d65/a19996.html", "d9/d65/a19996" ],
+    [ "achievement_auriaya_nine_lives", "d9/d70/a20000.html", "d9/d70/a20000" ],
     [ "AuriayaEvents", "db/d28/a01133.html#a7e23dcf30d7d2163bfeb660ab6e77eac", [
       [ "EVENT_SUMMON_FERAL_DEFENDER", "db/d28/a01133.html#a7e23dcf30d7d2163bfeb660ab6e77eacafe6d3d06c62342e7ad92842f6977317d", null ],
       [ "EVENT_TERRIFYING_SCREECH", "db/d28/a01133.html#a7e23dcf30d7d2163bfeb660ab6e77eacadae3b32642ab8b6c6e415f0570d70e94", null ],

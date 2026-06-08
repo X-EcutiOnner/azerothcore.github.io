@@ -1,6 +1,6 @@
 var a29252 =
 [
-    [ "canProcDuringTrigger", "d7/d90/a29252.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "d7/d90/a29252.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "d7/d90/a29252.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "conditionsMet", "d7/d90/a29252.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "d7/d90/a29252.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "d7/d90/a29252.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

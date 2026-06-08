@@ -1,6 +1,6 @@
 var a11180 =
 [
-    [ "InstanceLockResponse", "df/de8/a11180.html#a375d48ef2bc703f0223db82738016c6e", null ],
-    [ "Read", "df/de8/a11180.html#a954b3d4521bc48ba5ee9807cc935e484", null ],
-    [ "Accept", "df/de8/a11180.html#a23cd7f483abfaede6df7a51b083a4477", null ]
+    [ "ResetFailedNotify", "df/de8/a11180.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "df/de8/a11180.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "df/de8/a11180.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

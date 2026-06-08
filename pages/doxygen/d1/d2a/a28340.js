@@ -1,5 +1,7 @@
 var a28340 =
 [
-    [ "npc_sunwell_gate", "d1/d2a/a28340.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d1/d2a/a28340.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "HandleDummy", "d1/d2a/a28340.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d1/d2a/a28340.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d1/d2a/a28340.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d1/d2a/a28340.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,19 +1,11 @@
 var a21164 =
 [
-    [ "violet_hold_trashAI", "d5/d66/a21164.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d5/d66/a21164.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d5/d66/a21164.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d5/d66/a21164.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d5/d66/a21164.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d5/d66/a21164.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d5/d66/a21164.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d5/d66/a21164.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d5/d66/a21164.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d5/d66/a21164.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d5/d66/a21164.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "d5/d66/a21164.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "AddedWaypoints", "d5/d66/a21164.html#a726bade10ce5bc233864240fafa65fc1", null ],
-    [ "Instance", "d5/d66/a21164.html#a9ebdc7d8619de49dcd742a1c08005770", null ],
-    [ "PortalLoc", "d5/d66/a21164.html#a17d81d130cfeff5b5ae0ee30c594f5ca", null ],
-    [ "UseAlternate", "d5/d66/a21164.html#aa584f9f52bfc3e37a6d3a80958e51e48", null ]
+    [ "npc_vh_void_sentry", "d5/d66/a21164.html#adeb66953fb7540aab5190b825ff98ec8", null ],
+    [ "DoAction", "d5/d66/a21164.html#a37ed72c221f23cd653694c10d536eec4", null ],
+    [ "JustDied", "d5/d66/a21164.html#aabf96934586d38d6f958c1571c0b3b56", null ],
+    [ "SummonedCreatureDespawn", "d5/d66/a21164.html#aa0ac1eb51911672653ec6fd48d2ef316", null ],
+    [ "UpdateAI", "d5/d66/a21164.html#a417af2ca21310ca105d7561e3ab21272", null ],
+    [ "_events", "d5/d66/a21164.html#a30899a2d4d8a82b26251911dc3b48008", null ],
+    [ "_instance", "d5/d66/a21164.html#a80dc77a2deaf0f922f3f096f40b253e1", null ],
+    [ "_summonedGuid", "d5/d66/a21164.html#a223e85ca87d89c51d0bc02e00d591aec", null ]
 ];

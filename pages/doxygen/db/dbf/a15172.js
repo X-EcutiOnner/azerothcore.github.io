@@ -1,8 +1,7 @@
 var a15172 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d8/d47/a15176.html", "d8/d47/a15176" ],
-    [ "npc_thrall_old_hillsbrad", "db/dbf/a15172.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "db/dbf/a15172.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "db/dbf/a15172.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "db/dbf/a15172.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "boss_epoch_hunter", "db/dbf/a15172.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "db/dbf/a15172.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "db/dbf/a15172.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "db/dbf/a15172.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

@@ -1,12 +1,12 @@
 var a00233 =
 [
-    [ "go_shadowforge_brazier", "d2/d6d/a12472.html", "d2/d6d/a12472" ],
-    [ "brd_ironhand_guardian", "dd/d2f/a12476.html", "dd/d2f/a12476" ],
-    [ "WaveCreature", "df/d87/a12480.html", "df/d87/a12480" ],
-    [ "at_ring_of_law", "d7/d8f/a12484.html", "d7/d8f/a12484" ],
-    [ "npc_grimstone", "da/da0/a12488.html", "da/da0/a12488" ],
-    [ "npc_phalanx", "d5/d97/a12492.html", "d5/d97/a12492" ],
-    [ "npc_rocknot", "db/deb/a12496.html", "db/deb/a12496" ],
+    [ "go_shadowforge_brazier", "da/da0/a12488.html", "da/da0/a12488" ],
+    [ "brd_ironhand_guardian", "d5/d97/a12492.html", "d5/d97/a12492" ],
+    [ "WaveCreature", "db/deb/a12496.html", "db/deb/a12496" ],
+    [ "at_ring_of_law", "d6/d49/a12500.html", "d6/d49/a12500" ],
+    [ "npc_grimstone", "d7/d32/a12504.html", "d7/d32/a12504" ],
+    [ "npc_phalanx", "d4/dcd/a12508.html", "d4/dcd/a12508" ],
+    [ "npc_rocknot", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
     [ "GrimstoneTexts", "d6/de1/a00233.html#a0c9ac53db659fd636b9dc88ea37a3954", [
       [ "SAY_TEXT1", "d6/de1/a00233.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
       [ "SAY_TEXT2", "d6/de1/a00233.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],

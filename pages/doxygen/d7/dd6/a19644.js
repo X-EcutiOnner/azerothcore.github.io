@@ -1,10 +1,6 @@
 var a19644 =
 [
-    [ "npc_oculus_drakegiverAI", "de/dab/a19648.html", "de/dab/a19648" ],
-    [ "npc_oculus_drakegiver", "d7/dd6/a19644.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d7/dd6/a19644.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d7/dd6/a19644.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d7/dd6/a19644.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d7/dd6/a19644.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d7/dd6/a19644.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "boss_varosAI", "de/dab/a19648.html", "de/dab/a19648" ],
+    [ "boss_varos", "d7/dd6/a19644.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
+    [ "GetAI", "d7/dd6/a19644.html#a36733c4eb6179e43d61a1c37480666ea", null ]
 ];

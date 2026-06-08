@@ -1,10 +1,7 @@
 var a26312 =
 [
-    [ "Load", "dd/d8a/a26312.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "dd/d8a/a26312.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "dd/d8a/a26312.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "dd/d8a/a26312.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "dd/d8a/a26312.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "dd/d8a/a26312.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "dd/d8a/a26312.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "PeriodicTick", "dd/d8a/a26312.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "dd/d8a/a26312.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "dd/d8a/a26312.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "dd/d8a/a26312.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

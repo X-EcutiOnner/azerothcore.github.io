@@ -1,8 +1,9 @@
 var a13000 =
 [
-    [ "HandleEffectRemove", "d4/d6f/a13000.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d4/d6f/a13000.html#a9e9aec7bc2773270c1063b1a3c44c07a", null ],
-    [ "PrepareAuraScript", "d4/d6f/a13000.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d4/d6f/a13000.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d4/d6f/a13000.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "boss_curator", "d4/d6f/a13000.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d4/d6f/a13000.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d4/d6f/a13000.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d4/d6f/a13000.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d4/d6f/a13000.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d4/d6f/a13000.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

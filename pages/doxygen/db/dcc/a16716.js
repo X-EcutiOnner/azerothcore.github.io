@@ -1,6 +1,7 @@
 var a16716 =
 [
-    [ "npc_toc_druidAI", "d5/d33/a16720.html", "d5/d33/a16720" ],
-    [ "npc_toc_druid", "db/dcc/a16716.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "db/dcc/a16716.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "HandleEffectPeriodic", "db/dcc/a16716.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
+    [ "PrepareAuraScript", "db/dcc/a16716.html#a4506f7d723b85c7555296f5ade11cd29", null ],
+    [ "Register", "db/dcc/a16716.html#aeac7e6abc89209e14451439cdf1d416e", null ],
+    [ "Validate", "db/dcc/a16716.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
 ];

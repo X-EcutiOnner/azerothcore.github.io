@@ -1,9 +1,6 @@
 var a20852 =
 [
-    [ "npc_vrykul_skeleton", "d3/d75/a20852.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "d3/d75/a20852.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "d3/d75/a20852.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "d3/d75/a20852.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "d3/d75/a20852.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "d3/d75/a20852.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "CheckRequirement", "d3/d75/a20852.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "d3/d75/a20852.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "d3/d75/a20852.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

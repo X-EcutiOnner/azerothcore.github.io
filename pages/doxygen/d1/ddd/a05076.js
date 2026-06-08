@@ -1,14 +1,14 @@
 var a05076 =
 [
-    [ "AccountIdentifier", "d8/d4f/a08024.html", "d8/d4f/a08024" ],
-    [ "ChatCommandBuilder", "d1/d74/a07884.html", "d1/d74/a07884" ],
-    [ "ExactSequence", "dd/d54/a08008.html", "dd/d54/a08008" ],
-    [ "Hyperlink", "dd/da6/a08032.html", "dd/da6/a08032" ],
-    [ "PlayerIdentifier", "db/d70/a08028.html", "db/d70/a08028" ],
-    [ "QuotedString", "da/d1f/a08020.html", "da/d1f/a08020" ],
-    [ "Tail", "d3/d4c/a08012.html", "d3/d4c/a08012" ],
-    [ "Variant", "dd/d0b/a08040.html", "dd/d0b/a08040" ],
-    [ "WTail", "d1/dbb/a08016.html", "d1/dbb/a08016" ],
+    [ "AccountIdentifier", "d4/d28/a08036.html", "d4/d28/a08036" ],
+    [ "ChatCommandBuilder", "de/d51/a07896.html", "de/d51/a07896" ],
+    [ "ExactSequence", "da/d1f/a08020.html", "da/d1f/a08020" ],
+    [ "Hyperlink", "df/d6a/a08044.html", "df/d6a/a08044" ],
+    [ "PlayerIdentifier", "dd/d0b/a08040.html", "dd/d0b/a08040" ],
+    [ "QuotedString", "dd/da6/a08032.html", "dd/da6/a08032" ],
+    [ "Tail", "d8/d4f/a08024.html", "d8/d4f/a08024" ],
+    [ "Variant", "db/d5c/a08052.html", "db/d5c/a08052" ],
+    [ "WTail", "db/d70/a08028.html", "db/d70/a08028" ],
     [ "ChatCommandTable", "d1/ddd/a05076.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
     [ "Console", "d1/ddd/a05076.html#a6f2659123367a36f37046e5604215d6b", [
       [ "No", "d1/ddd/a05076.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],

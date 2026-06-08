@@ -1,5 +1,6 @@
 var a11176 =
 [
-    [ "ResetInstances", "d6/def/a11176.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "d6/def/a11176.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "SetDungeonDifficultyClient", "d6/def/a11176.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d6/def/a11176.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d6/def/a11176.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

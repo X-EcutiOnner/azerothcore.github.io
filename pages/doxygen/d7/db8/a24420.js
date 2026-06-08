@@ -1,9 +1,7 @@
 var a24420 =
 [
-    [ "HandleApply", "d7/db8/a24420.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d7/db8/a24420.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d7/db8/a24420.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d7/db8/a24420.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d7/db8/a24420.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d7/db8/a24420.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "HandleProc", "d7/db8/a24420.html#ae8764fc6c284a13f610e55933b24102e", null ],
+    [ "PrepareAuraScript", "d7/db8/a24420.html#a9ea55387324cbcecc72b82a58bcd9a48", null ],
+    [ "Register", "d7/db8/a24420.html#ae65e0a22aab9802ed869b7fb6e823d9e", null ],
+    [ "Validate", "d7/db8/a24420.html#aafa30eef7a8c8aac3699edc4afb97f19", null ]
 ];

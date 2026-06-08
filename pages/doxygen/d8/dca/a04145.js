@@ -1,6 +1,6 @@
 var a04145 =
 [
-    [ "LoginDatabaseConnection", "d4/ddf/a06032.html", "d4/ddf/a06032" ],
+    [ "LoginDatabaseConnection", "d1/dc9/a06044.html", "d1/dc9/a06044" ],
     [ "LoginDatabaseStatements", "d8/dca/a04145.html#a2bc6eef17d8ecd1b7027058f5fecc9fb", [
       [ "LOGIN_SEL_REALMLIST", "d8/dca/a04145.html#a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9", null ],
       [ "LOGIN_DEL_EXPIRED_IP_BANS", "d8/dca/a04145.html#a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721", null ],

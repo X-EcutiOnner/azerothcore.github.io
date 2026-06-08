@@ -1,6 +1,5 @@
 var a15448 =
 [
-    [ "FilterTargets", "d5/d4b/a15448.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d5/d4b/a15448.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d5/d4b/a15448.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "boss_kri", "d5/d4b/a15448.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "d5/d4b/a15448.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

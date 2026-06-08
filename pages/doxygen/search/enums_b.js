@@ -67,6 +67,6 @@ var searchData=
   ['lootstate_64',['LootState',['../d3/d7e/a02768.html#a08733f20cea1f77cc9f1a549f8ce9f07',1,'GameObject.h']]],
   ['loottype_65',['LootType',['../dc/d86/a02909.html#ae2b3575d3c08cdf3eb5d3fe7c52ed0d9',1,'LootMgr.h']]],
   ['lordgregorlescovar_66',['LordGregorLescovar',['../d7/d06/a00131.html#a1e4dca432ca60e815b6e871483cbe4e7',1,'zone_stormwind_city.cpp']]],
-  ['loshostilitymode_67',['LOSHostilityMode',['../dc/d52/a06576.html#a383f63ef0e7a093c1fdda34d3050d22d',1,'SmartEvent']]],
+  ['loshostilitymode_67',['LOSHostilityMode',['../d6/ddc/a06588.html#a383f63ef0e7a093c1fdda34d3050d22d',1,'SmartEvent']]],
   ['lurgglbr_68',['Lurgglbr',['../d6/dea/a01094.html#a566e76eccb635130a0299f291b4e1af8',1,'zone_borean_tundra.cpp']]]
 ];

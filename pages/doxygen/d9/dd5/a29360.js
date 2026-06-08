@@ -1,8 +1,12 @@
 var a29360 =
 [
-    [ "SetUp", "d9/dd5/a29360.html#a72263bcd7a57c9dde376a55d491c16be", null ],
-    [ "TearDown", "d9/dd5/a29360.html#a0212d5e3ace33a35adce8dfc782babf9", null ],
-    [ "PERM_A", "d9/dd5/a29360.html#af731a3059dc701385facc03041a6c9b5", null ],
-    [ "PERM_B", "d9/dd5/a29360.html#aaa3046adc81ef5afaf83d914638a46d4", null ],
-    [ "PERM_C", "d9/dd5/a29360.html#a9a9e678ca868669ec99f8e2fc0348372", null ]
+    [ "SetUp", "d9/dd5/a29360.html#a67c12a7a60e9c4a17ddddd7f2825b029", null ],
+    [ "TearDown", "d9/dd5/a29360.html#aaf740c51d0319f7116097a94fa55b8be", null ],
+    [ "PERM_BAN", "d9/dd5/a29360.html#a865f9650e6ce11f3feb66ee87969d402", null ],
+    [ "PERM_KICK", "d9/dd5/a29360.html#a5ac4c3503b0daa3280b097858380e8b5", null ],
+    [ "PERM_MUTE", "d9/dd5/a29360.html#a467f6ed1f2c9296bc6d630a13860c09b", null ],
+    [ "PERM_SHUTDOWN", "d9/dd5/a29360.html#a1b891d364bcc7786a9a3f3f8c2dbccf4", null ],
+    [ "rbacData", "d9/dd5/a29360.html#ace7a8836853498b4785b85eca7c71e96", null ],
+    [ "ROLE_ADMIN", "d9/dd5/a29360.html#a2f66e37c22a953a8f9c8cd831a7e6b93", null ],
+    [ "ROLE_MOD", "d9/dd5/a29360.html#ac9e1278f18b05d1ed0be1f277813c939", null ]
 ];

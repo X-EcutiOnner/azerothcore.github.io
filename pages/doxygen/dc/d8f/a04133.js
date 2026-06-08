@@ -1,6 +1,6 @@
 var a04133 =
 [
-    [ "WorldDatabaseConnection", "d6/d18/a06036.html", "d6/d18/a06036" ],
+    [ "WorldDatabaseConnection", "dd/d34/a06048.html", "dd/d34/a06048" ],
     [ "WorldDatabaseStatements", "dc/d8f/a04133.html#a736c0fca3c789518de967ddf4d44fc32", [
       [ "WORLD_SEL_QUEST_POOLS", "dc/d8f/a04133.html#a736c0fca3c789518de967ddf4d44fc32a3118e05fb78f0cbb8246213722964db3", null ],
       [ "WORLD_DEL_CRELINKED_RESPAWN", "dc/d8f/a04133.html#a736c0fca3c789518de967ddf4d44fc32aeadd642135eb3d6d44554c8536ce54b2", null ],

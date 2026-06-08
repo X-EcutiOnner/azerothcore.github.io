@@ -1,7 +1,6 @@
 var a13180 =
 [
-    [ "HandleDummy", "d6/d5a/a13180.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d6/d5a/a13180.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d6/d5a/a13180.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d6/d5a/a13180.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "instance_karazhan_InstanceMapScript", "d1/d71/a13184.html", "d1/d71/a13184" ],
+    [ "instance_karazhan", "d6/d5a/a13180.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "d6/d5a/a13180.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

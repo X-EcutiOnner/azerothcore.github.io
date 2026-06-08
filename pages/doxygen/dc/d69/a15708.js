@@ -1,7 +1,6 @@
 var a15708 =
 [
-    [ "npc_prophet_velen", "dc/d69/a15708.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
-    [ "JustDied", "dc/d69/a15708.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
-    [ "Reset", "dc/d69/a15708.html#a5beec39fd545129d0f124bb19524f95c", null ],
-    [ "UpdateAI", "dc/d69/a15708.html#a2d016ecfedc5c7e886e7412081b54792", null ]
+    [ "npc_stillpine_capitiveAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "npc_stillpine_capitive", "dc/d69/a15708.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "dc/d69/a15708.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

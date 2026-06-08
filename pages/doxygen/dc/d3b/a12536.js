@@ -1,11 +1,14 @@
 var a12536 =
 [
-    [ "boss_high_interrogator_gerstahn", "dc/d3b/a12536.html#afaff4a9b18a2dc433ad9cfc73cd2cc01", null ],
-    [ "JustEngagedWith", "dc/d3b/a12536.html#ae8dae4df2f6c3b935382ae4ef473c55c", null ],
-    [ "Reset", "dc/d3b/a12536.html#acfc4e4c44d2eca050b2bdb558729dd6f", null ],
-    [ "UpdateAI", "dc/d3b/a12536.html#a5e13ecedeb376b86c91787d4f6b51db8", null ],
-    [ "_manaBurnTimer", "dc/d3b/a12536.html#a0c3eb9b1aefb055f8c97d723c536d1ab", null ],
-    [ "_psychicScreamTimer", "dc/d3b/a12536.html#a48508fa92aee209ea58257a1376ab7fb", null ],
-    [ "_shadowShieldTimer", "dc/d3b/a12536.html#abc4c2027036e1d79b88b29883d59565e", null ],
-    [ "_shadowWordPainTimer", "dc/d3b/a12536.html#aedd3fd6f34db795625835ac12c4c9bd8", null ]
+    [ "boss_general_angerforge", "dc/d3b/a12536.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
+    [ "JustEngagedWith", "dc/d3b/a12536.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
+    [ "Reset", "dc/d3b/a12536.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
+    [ "SummonAdds", "dc/d3b/a12536.html#a723891cc60b4d84b29d395e4ddffff57", null ],
+    [ "SummonMedics", "dc/d3b/a12536.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
+    [ "UpdateAI", "dc/d3b/a12536.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
+    [ "_addsTimer", "dc/d3b/a12536.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
+    [ "_cleaveTimer", "dc/d3b/a12536.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
+    [ "_hamStringTimer", "dc/d3b/a12536.html#adaa360262079ea390077cea70e401da5", null ],
+    [ "_medics", "dc/d3b/a12536.html#ac1039c144c16e70818a199d91cace370", null ],
+    [ "_mightyBlowTimer", "dc/d3b/a12536.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
 ];

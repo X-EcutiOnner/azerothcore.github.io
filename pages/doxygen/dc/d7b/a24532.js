@@ -1,8 +1,6 @@
 var a24532 =
 [
-    [ "CheckProc", "dc/d7b/a24532.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
-    [ "HandleProc", "dc/d7b/a24532.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
-    [ "PrepareAuraScript", "dc/d7b/a24532.html#a01c53cd13316af74cfe27603e70ab468", null ],
-    [ "Register", "dc/d7b/a24532.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
-    [ "Validate", "dc/d7b/a24532.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
+    [ "HandleAfterCast", "dc/d7b/a24532.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "dc/d7b/a24532.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "dc/d7b/a24532.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

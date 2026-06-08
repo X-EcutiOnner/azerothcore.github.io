@@ -1,6 +1,6 @@
 var a01064 =
 [
-    [ "boss_ingvar_the_plunderer", "df/dcd/a20840.html", "df/dcd/a20840" ],
+    [ "boss_ingvar_the_plunderer", "dc/d4f/a20856.html", "dc/d4f/a20856" ],
     [ "eDisplayId", "d9/db3/a01064.html#a4d66f142b59aac5af3614d297e9f885e", [
       [ "DISPLAYID_DEFAULT", "d9/db3/a01064.html#a4d66f142b59aac5af3614d297e9f885ea5747813f8d3e4e2d108069263d2b4baf", null ],
       [ "DISPLAYID_UNDEAD", "d9/db3/a01064.html#a4d66f142b59aac5af3614d297e9f885eae473fac59eb688ccd47ee0e5552a5d49", null ]

@@ -1,8 +1,8 @@
 var a00341 =
 [
-    [ "boss_broodlord", "d4/d31/a12688.html", "d4/d31/a12688" ],
-    [ "go_suppression_device", "d8/df7/a12692.html", "d8/df7/a12692" ],
-    [ "spell_suppression_aura", "d6/de5/a12696.html", "d6/de5/a12696" ],
+    [ "boss_broodlord", "d0/dd4/a12704.html", "d0/dd4/a12704" ],
+    [ "go_suppression_device", "d5/dac/a12708.html", "d5/dac/a12708" ],
+    [ "spell_suppression_aura", "d0/d6c/a12712.html", "d0/d6c/a12712" ],
     [ "Actions", "d3/d93/a00341.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

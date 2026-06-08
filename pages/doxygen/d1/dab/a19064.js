@@ -1,8 +1,6 @@
 var a19064 =
 [
-    [ "Class", "d1/dab/a19064.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "d1/dab/a19064.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
-    [ "id", "d1/dab/a19064.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "d1/dab/a19064.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "d1/dab/a19064.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d5/dad/a19068.html", "d5/dad/a19068" ],
+    [ "npc_icc_skybreaker_luminary", "d1/dab/a19064.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d1/dab/a19064.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

@@ -1,7 +1,7 @@
 var a12364 =
 [
-    [ "FoundObjects", "d5/d57/a12364.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
-    [ "X", "d5/d57/a12364.html#a9a184093c44a45addd7a7bae891496c0", null ],
-    [ "Y", "d5/d57/a12364.html#a86ac02df716e991f629647941dcb29cb", null ],
-    [ "Z", "d5/d57/a12364.html#a50477b2e983580c94b348f7e408a8363", null ]
+    [ "player_commandscript", "d5/d57/a12364.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "d5/d57/a12364.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "d5/d57/a12364.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "d5/d57/a12364.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

@@ -1,11 +1,6 @@
 var a10748 =
 [
-    [ "ServerScript", "d9/dab/a10748.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "d9/dab/a10748.html#ada6045c5dcd48a011d66bd2998000d27", null ],
-    [ "CanPacketSend", "d9/dab/a10748.html#ae7d02121a95adcc53263d006bc14da2f", null ],
-    [ "OnNetworkStart", "d9/dab/a10748.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStart", "d9/dab/a10748.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
-    [ "OnNetworkStop", "d9/dab/a10748.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d9/dab/a10748.html#a8386aef9c139f06732a5f36eadccec6c", null ],
-    [ "OnSocketOpen", "d9/dab/a10748.html#a22e84aee366a0010a753b7ed3403172f", null ]
+    [ "OutdoorPvPScript", "d9/dab/a10748.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "d9/dab/a10748.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d9/dab/a10748.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

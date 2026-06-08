@@ -1,9 +1,8 @@
 var a19720 =
 [
-    [ "npc_stormforged_lieutenant", "dd/d91/a19720.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "dd/d91/a19720.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "dd/d91/a19720.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "dd/d91/a19720.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "dd/d91/a19720.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "dd/d91/a19720.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "HandleEffectPeriodic", "dd/d91/a19720.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "dd/d91/a19720.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "dd/d91/a19720.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "dd/d91/a19720.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "dd/d91/a19720.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

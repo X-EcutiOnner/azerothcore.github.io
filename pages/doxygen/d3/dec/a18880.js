@@ -1,17 +1,7 @@
 var a18880 =
 [
-    [ "boss_sister_svalnaAI", "d3/dec/a18880.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "d3/dec/a18880.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "InitializeAI", "d3/dec/a18880.html#a6b709adc055b4be2824319d9ee881993", null ],
-    [ "JustDied", "d3/dec/a18880.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "d3/dec/a18880.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "JustExitedCombat", "d3/dec/a18880.html#a0555e77ec8a37965ff32d5b4e58ab12b", null ],
-    [ "JustReachedHome", "d3/dec/a18880.html#a48aa3470b84686a6277616ed1b2d8364", null ],
-    [ "KilledUnit", "d3/dec/a18880.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "d3/dec/a18880.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "d3/dec/a18880.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "d3/dec/a18880.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "d3/dec/a18880.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "d3/dec/a18880.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ],
-    [ "_isEventInProgress", "d3/dec/a18880.html#a0da237e729301c8db3ceccea2b0988b1", null ]
+    [ "npc_frost_freeze_trapAI", "d3/dec/a18880.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d3/dec/a18880.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d3/dec/a18880.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d3/dec/a18880.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

@@ -1,13 +1,8 @@
 var a09108 =
 [
-    [ "BuildValuesCachePosPointers", "d2/d53/a09108.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d2/d53/a09108.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d2/d53/a09108.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d2/d53/a09108.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d2/d53/a09108.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d2/d53/a09108.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d2/d53/a09108.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d2/d53/a09108.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d2/d53/a09108.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d2/d53/a09108.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "RedirectSpellEvent", "d2/d53/a09108.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d2/d53/a09108.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d2/d53/a09108.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d2/d53/a09108.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d2/d53/a09108.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

@@ -1,12 +1,9 @@
 var a13940 =
 [
-    [ "npc_sentinel_infiltrator", "de/dc3/a13940.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "de/dc3/a13940.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "de/dc3/a13940.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "de/dc3/a13940.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "de/dc3/a13940.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "de/dc3/a13940.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "de/dc3/a13940.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "de/dc3/a13940.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "de/dc3/a13940.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_partygoer", "de/dc3/a13940.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "de/dc3/a13940.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "de/dc3/a13940.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "de/dc3/a13940.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "de/dc3/a13940.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "de/dc3/a13940.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

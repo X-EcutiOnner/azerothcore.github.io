@@ -1,4 +1,5 @@
 var a10668 =
 [
-    [ "DynamicObjectScript", "df/de3/a10668.html#a8bbdc4e8f2da8ab49b817ca5d7f89f6f", null ]
+    [ "GenericCreatureScript", "df/de3/a10668.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "df/de3/a10668.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

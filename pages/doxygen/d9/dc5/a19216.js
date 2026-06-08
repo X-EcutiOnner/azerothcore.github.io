@@ -1,6 +1,8 @@
 var a19216 =
 [
-    [ "boss_faerlinaAI", "d0/dcb/a19220.html", "d0/dcb/a19220" ],
-    [ "boss_faerlina", "d9/dc5/a19216.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d9/dc5/a19216.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "HandleScript", "d9/dc5/a19216.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "d9/dc5/a19216.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "d9/dc5/a19216.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "d9/dc5/a19216.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "d9/dc5/a19216.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

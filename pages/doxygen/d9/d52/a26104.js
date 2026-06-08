@@ -1,7 +1,8 @@
 var a26104 =
 [
-    [ "CalcPeriodic", "d9/d52/a26104.html#a404e5309016cfcaa3071c0216978699e", null ],
-    [ "PrepareAuraScript", "d9/d52/a26104.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
-    [ "Register", "d9/d52/a26104.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
-    [ "AuraEffectHandleModes", "d9/d52/a26104.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
+    [ "CheckProc", "d9/d52/a26104.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
+    [ "HandleProc", "d9/d52/a26104.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
+    [ "PrepareAuraScript", "d9/d52/a26104.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
+    [ "Register", "d9/d52/a26104.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
+    [ "Validate", "d9/d52/a26104.html#a69daf001676f73289682ff63897e81cb", null ]
 ];

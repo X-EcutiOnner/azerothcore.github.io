@@ -1,13 +1,9 @@
 var a20820 =
 [
-    [ "npc_ulduar_arachnopod_destroyer", "d4/d81/a20820.html#a13422abe59c4aa11bee16225d689c054", null ],
-    [ "AttackStart", "d4/d81/a20820.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
-    [ "DamageTaken", "d4/d81/a20820.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
-    [ "EnterEvadeMode", "d4/d81/a20820.html#acb089a5226af27005ac2356e84e976aa", null ],
-    [ "OnCharmed", "d4/d81/a20820.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
-    [ "PassengerBoarded", "d4/d81/a20820.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
-    [ "Reset", "d4/d81/a20820.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
-    [ "UpdateAI", "d4/d81/a20820.html#a87d4086066ac53697793152fdcebf841", null ],
-    [ "_spawnedMechanic", "d4/d81/a20820.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
-    [ "events", "d4/d81/a20820.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
+    [ "npc_ulduar_keeperAI", "d4/d81/a20820.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d4/d81/a20820.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d4/d81/a20820.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d4/d81/a20820.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d4/d81/a20820.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d4/d81/a20820.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

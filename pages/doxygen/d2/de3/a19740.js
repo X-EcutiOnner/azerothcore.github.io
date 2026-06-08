@@ -1,6 +1,12 @@
 var a19740 =
 [
-    [ "CalculateDamage", "d2/de3/a19740.html#ae38f8cfb44de2798d7a284c942617678", null ],
-    [ "PrepareSpellScript", "d2/de3/a19740.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
-    [ "Register", "d2/de3/a19740.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
+    [ "boss_ionar", "d2/de3/a19740.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d2/de3/a19740.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d2/de3/a19740.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d2/de3/a19740.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d2/de3/a19740.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d2/de3/a19740.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d2/de3/a19740.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d2/de3/a19740.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d2/de3/a19740.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

@@ -1,8 +1,7 @@
 var a27396 =
 [
-    [ "ApplyEffect", "d9/d5d/a27396.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "d9/d5d/a27396.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "d9/d5d/a27396.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "d9/d5d/a27396.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "d9/d5d/a27396.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "HandleProc", "d9/d5d/a27396.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "d9/d5d/a27396.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "d9/d5d/a27396.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "d9/d5d/a27396.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

@@ -1,13 +1,7 @@
 var a14008 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/dc6/a14008.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "db/dc6/a14008.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "db/dc6/a14008.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "db/dc6/a14008.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "db/dc6/a14008.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "db/dc6/a14008.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "db/dc6/a14008.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "db/dc6/a14008.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "db/dc6/a14008.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "db/dc6/a14008.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_deathstalker_erlandAI", "da/d46/a14012.html", "da/d46/a14012" ],
+    [ "npc_deathstalker_erland", "db/dc6/a14008.html#ad49faf068e982f245f0d1e21f0700c40", null ],
+    [ "GetAI", "db/dc6/a14008.html#ab59235f212ddb985056cb8e32719b723", null ],
+    [ "OnQuestAccept", "db/dc6/a14008.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
 ];

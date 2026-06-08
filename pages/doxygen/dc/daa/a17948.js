@@ -1,7 +1,9 @@
 var a17948 =
 [
-    [ "HandleDummy", "dc/daa/a17948.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "dc/daa/a17948.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "dc/daa/a17948.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "dc/daa/a17948.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "CalculatePower", "dc/daa/a17948.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "dc/daa/a17948.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "dc/daa/a17948.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "dc/daa/a17948.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "dc/daa/a17948.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "dc/daa/a17948.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

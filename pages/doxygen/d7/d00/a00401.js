@@ -1,6 +1,6 @@
 var a00401 =
 [
-    [ "spell_axe_flurry", "d1/dee/a14504.html", "d1/dee/a14504" ],
+    [ "spell_axe_flurry", "dd/d49/a14520.html", "dd/d49/a14520" ],
     [ "Spells", "d7/d00/a00401.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

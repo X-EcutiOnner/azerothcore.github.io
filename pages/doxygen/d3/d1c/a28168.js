@@ -1,6 +1,7 @@
 var a28168 =
 [
-    [ "npc_garments_of_questsAI", "d8/d74/a28172.html", "d8/d74/a28172" ],
-    [ "npc_garments_of_quests", "d3/d1c/a28168.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d3/d1c/a28168.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_doctorAI", "d8/d74/a28172.html", "d8/d74/a28172" ],
+    [ "npc_doctor", "d3/d1c/a28168.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d3/d1c/a28168.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d3/d1c/a28168.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

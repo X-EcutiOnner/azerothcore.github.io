@@ -1,16 +1,16 @@
 var a01235 =
 [
-    [ "npc_finklestein", "d8/da7/a22100.html", "d8/da7/a22100" ],
-    [ "npc_finklestein::npc_finklesteinAI", "d7/dea/a22104.html", "d7/dea/a22104" ],
-    [ "go_finklestein_cauldron", "d2/d99/a22108.html", "d2/d99/a22108" ],
-    [ "npc_overlord_drakuru_betrayal", "d8/d46/a22112.html", "d8/d46/a22112" ],
-    [ "npc_released_offspring_harkoa", "d9/d90/a22116.html", "d9/d90/a22116" ],
-    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
-    [ "npc_crusade_recruit", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
-    [ "npc_crusade_recruit::npc_crusade_recruitAI", "d7/da8/a22128.html", "d7/da8/a22128" ],
-    [ "go_scourge_enclosure", "de/da6/a22132.html", "de/da6/a22132" ],
-    [ "spell_scourge_disguise_instability", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
-    [ "spell_blight_fog", "df/df1/a22140.html", "df/df1/a22140" ],
+    [ "npc_finklestein", "d9/d90/a22116.html", "d9/d90/a22116" ],
+    [ "npc_finklestein::npc_finklesteinAI", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
+    [ "go_finklestein_cauldron", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
+    [ "npc_overlord_drakuru_betrayal", "d7/da8/a22128.html", "d7/da8/a22128" ],
+    [ "npc_released_offspring_harkoa", "de/da6/a22132.html", "de/da6/a22132" ],
+    [ "npc_released_offspring_harkoa::npc_released_offspring_harkoaAI", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
+    [ "npc_crusade_recruit", "df/df1/a22140.html", "df/df1/a22140" ],
+    [ "npc_crusade_recruit::npc_crusade_recruitAI", "df/da9/a22144.html", "df/da9/a22144" ],
+    [ "go_scourge_enclosure", "d8/daf/a22148.html", "d8/daf/a22148" ],
+    [ "spell_scourge_disguise_instability", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
+    [ "spell_blight_fog", "d6/dda/a22156.html", "d6/dda/a22156" ],
     [ "AlchemistItemRequirements", "dd/dad/a01235.html#ab81a0db27941af407a22b4297fae4c08", [
       [ "QUEST_ALCHEMIST_APPRENTICE", "dd/dad/a01235.html#ab81a0db27941af407a22b4297fae4c08acc34c525966e25184f9fe99e22f2d192", null ],
       [ "NPC_FINKLESTEIN", "dd/dad/a01235.html#ab81a0db27941af407a22b4297fae4c08a5cf7fdaa2ca28bb570bd1dd8edab09e6", null ]

@@ -1,9 +1,6 @@
 var a17932 =
 [
-    [ "CalculatePower", "db/d27/a17932.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "db/d27/a17932.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "db/d27/a17932.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "db/d27/a17932.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "db/d27/a17932.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "db/d27/a17932.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "IgbTeleportOnVictoryCheck", "db/d27/a17932.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "db/d27/a17932.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "db/d27/a17932.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

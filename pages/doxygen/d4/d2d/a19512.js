@@ -1,6 +1,7 @@
 var a19512 =
 [
-    [ "FilterTargets", "d4/d2d/a19512.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "PrepareSpellScript", "d4/d2d/a19512.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d4/d2d/a19512.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "npc_alexstrasza", "d4/d2d/a19512.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
+    [ "AttackStart", "d4/d2d/a19512.html#ab47f439968b7e9358158eae3e31f4e29", null ],
+    [ "MoveInLineOfSight", "d4/d2d/a19512.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
+    [ "UpdateAI", "d4/d2d/a19512.html#aec1c93eee408ecefbceec22be4b90dba", null ]
 ];

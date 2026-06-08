@@ -1,5 +1,5 @@
 var a11056 =
 [
-    [ "GuildLeave", "d3/d7a/a11056.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "d3/d7a/a11056.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "GuildDelete", "d3/d7a/a11056.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d3/d7a/a11056.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

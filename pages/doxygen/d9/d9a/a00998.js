@@ -1,14 +1,14 @@
 var a00998 =
 [
-    [ "boss_festergut", "d0/dcd/a17740.html", "d0/dcd/a17740" ],
-    [ "boss_festergut::boss_festergutAI", "d9/dbf/a17744.html", "d9/dbf/a17744" ],
-    [ "spell_festergut_pungent_blight", "d0/d6e/a17748.html", "d0/d6e/a17748" ],
-    [ "spell_festergut_blighted_spores_aura", "dd/d2b/a17752.html", "dd/d2b/a17752" ],
-    [ "spell_festergut_gastric_bloat", "da/dc5/a17756.html", "da/dc5/a17756" ],
-    [ "spell_festergut_gaseous_blight", "d3/d05/a17760.html", "d3/d05/a17760" ],
-    [ "achievement_flu_shot_shortage", "db/dc1/a17764.html", "db/dc1/a17764" ],
-    [ "npc_stinky_icc", "d5/ded/a17768.html", "d5/ded/a17768" ],
-    [ "npc_stinky_icc::npc_stinky_iccAI", "de/d8d/a17772.html", "de/d8d/a17772" ],
+    [ "boss_festergut", "da/dc5/a17756.html", "da/dc5/a17756" ],
+    [ "boss_festergut::boss_festergutAI", "d3/d05/a17760.html", "d3/d05/a17760" ],
+    [ "spell_festergut_pungent_blight", "db/dc1/a17764.html", "db/dc1/a17764" ],
+    [ "spell_festergut_blighted_spores_aura", "d5/ded/a17768.html", "d5/ded/a17768" ],
+    [ "spell_festergut_gastric_bloat", "de/d8d/a17772.html", "de/d8d/a17772" ],
+    [ "spell_festergut_gaseous_blight", "d3/dad/a17776.html", "d3/dad/a17776" ],
+    [ "achievement_flu_shot_shortage", "d3/d3a/a17780.html", "d3/d3a/a17780" ],
+    [ "npc_stinky_icc", "d2/dfc/a17784.html", "d2/dfc/a17784" ],
+    [ "npc_stinky_icc::npc_stinky_iccAI", "d8/dba/a17788.html", "d8/dba/a17788" ],
     [ "DATA_INOCULATED_STACK", "d9/d9a/a00998.html#a4c63550ddce95e903059115c58318cb5", null ],
     [ "Events", "d9/d9a/a00998.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],

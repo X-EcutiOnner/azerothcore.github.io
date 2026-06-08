@@ -1,6 +1,6 @@
 var a11488 =
 [
-    [ "WorldStateInfo", "d0/d24/a11488.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
-    [ "Value", "d0/d24/a11488.html#afe5a0e98713c986a17f431795c488c6c", null ],
-    [ "VariableID", "d0/d24/a11488.html#a627bba237bce23aff74fd2bf7a274657", null ]
+    [ "CorpseMapPositionQuery", "d0/d24/a11488.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d0/d24/a11488.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d0/d24/a11488.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

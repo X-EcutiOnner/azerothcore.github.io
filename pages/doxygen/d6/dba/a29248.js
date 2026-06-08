@@ -1,6 +1,6 @@
 var a29248 =
 [
-    [ "hasInstantTargetProcs", "d6/dba/a29248.html#a043a2884a456208d85bc3bf8d4733682", null ],
-    [ "isRemoved", "d6/dba/a29248.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
-    [ "spellId", "d6/dba/a29248.html#aee26a119051d638047018aeb93d593f6", null ]
+    [ "auraName", "d6/dba/a29248.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "d6/dba/a29248.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "d6/dba/a29248.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

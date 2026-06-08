@@ -1,5 +1,4 @@
 var a08048 =
 [
-    [ "IsColorValid", "d4/dfb/a08048.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "d4/dfb/a08048.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "operator()", "d4/dfb/a08048.html#a1c1e59697194005023a42873b8856a50", null ]
 ];

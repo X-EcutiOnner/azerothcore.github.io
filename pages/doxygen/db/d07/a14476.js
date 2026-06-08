@@ -1,10 +1,6 @@
 var a14476 =
 [
-    [ "npc_zealot_zath", "db/d07/a14476.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "db/d07/a14476.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "db/d07/a14476.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "db/d07/a14476.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "db/d07/a14476.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "db/d07/a14476.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "db/d07/a14476.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "boss_renatakiAI", "db/d08/a14480.html", "db/d08/a14480" ],
+    [ "boss_renataki", "db/d07/a14476.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "db/d07/a14476.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

@@ -1,12 +1,12 @@
 var a01667 =
 [
-    [ "boss_shade_of_akama", "dc/d4d/a22612.html", "dc/d4d/a22612" ],
-    [ "npc_akama_shade", "d3/dba/a22616.html", "d3/dba/a22616" ],
-    [ "npc_creature_generator_akama", "da/d16/a22620.html", "da/d16/a22620" ],
-    [ "npc_ashtongue_sorcerer", "d6/d38/a22624.html", "d6/d38/a22624" ],
-    [ "npc_ashtongue_channeler", "d6/dd6/a22628.html", "d6/dd6/a22628" ],
-    [ "spell_shade_of_akama_shade_soul_channel", "da/d0b/a22632.html", "da/d0b/a22632" ],
-    [ "spell_shade_of_akama_akama_soul_expel", "d6/d37/a22636.html", "d6/d37/a22636" ],
+    [ "boss_shade_of_akama", "d6/dd6/a22628.html", "d6/dd6/a22628" ],
+    [ "npc_akama_shade", "da/d0b/a22632.html", "da/d0b/a22632" ],
+    [ "npc_creature_generator_akama", "d6/d37/a22636.html", "d6/d37/a22636" ],
+    [ "npc_ashtongue_sorcerer", "dc/df5/a22640.html", "dc/df5/a22640" ],
+    [ "npc_ashtongue_channeler", "d1/d4b/a22644.html", "d1/d4b/a22644" ],
+    [ "spell_shade_of_akama_shade_soul_channel", "d9/dce/a22648.html", "d9/dce/a22648" ],
+    [ "spell_shade_of_akama_akama_soul_expel", "d9/d45/a22652.html", "d9/d45/a22652" ],
     [ "Creatures", "dd/d8d/a01667.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "df/d6a/a00119.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "df/d6a/a00119.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

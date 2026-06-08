@@ -1,5 +1,7 @@
 var a11464 =
 [
-    [ "TimeQuery", "d8/d59/a11464.html#a90c467ab19d96b96ace5b50bad617095", null ],
-    [ "Read", "d8/d59/a11464.html#aae26e83828fc6118dea64f8861170868", null ]
+    [ "PetActionSound", "d8/d59/a11464.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d8/d59/a11464.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d8/d59/a11464.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d8/d59/a11464.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

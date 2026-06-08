@@ -1,7 +1,6 @@
 var a17452 =
 [
-    [ "HandleScriptEffect", "d2/d4c/a17452.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "d2/d4c/a17452.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "d2/d4c/a17452.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "d2/d4c/a17452.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "HandleScriptEffect", "d2/d4c/a17452.html#ab9c289e946cfaf2b63f2526914d79812", null ],
+    [ "PrepareSpellScript", "d2/d4c/a17452.html#a832f8ab737254760fe2b91f19d119781", null ],
+    [ "Register", "d2/d4c/a17452.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
 ];

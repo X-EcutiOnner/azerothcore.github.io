@@ -1,10 +1,8 @@
 var a08884 =
 [
-    [ "PvPInfo", "d9/d0e/a08884.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d9/d0e/a08884.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d9/d0e/a08884.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d9/d0e/a08884.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d9/d0e/a08884.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d9/d0e/a08884.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d9/d0e/a08884.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "PlayerCreateInfoAction", "d9/d0e/a08884.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d9/d0e/a08884.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d9/d0e/a08884.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d9/d0e/a08884.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d9/d0e/a08884.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

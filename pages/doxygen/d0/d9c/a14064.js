@@ -1,8 +1,13 @@
 var a14064 =
 [
-    [ "npc_varian_wrynnAI", "da/d50/a14068.html", "da/d50/a14068" ],
-    [ "npc_varian_wrynn", "d0/d9c/a14064.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d0/d9c/a14064.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d0/d9c/a14064.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d0/d9c/a14064.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d0/d9c/a14064.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustDied", "d0/d9c/a14064.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
+    [ "JustEngagedWith", "d0/d9c/a14064.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d0/d9c/a14064.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d0/d9c/a14064.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d0/d9c/a14064.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d0/d9c/a14064.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d0/d9c/a14064.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d0/d9c/a14064.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d0/d9c/a14064.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

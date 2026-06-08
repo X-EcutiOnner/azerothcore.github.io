@@ -1,6 +1,7 @@
 var a13972 =
 [
-    [ "npc_grand_magister_rommathAI", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
-    [ "npc_grand_magister_rommath", "dc/df4/a13972.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "dc/df4/a13972.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_king_magni_bronzebeard", "dc/df4/a13972.html#af100ccf11c9d266be439318519280a9a", null ],
+    [ "JustDied", "dc/df4/a13972.html#a3323285cc5c4cee9df001e83584b8114", null ],
+    [ "JustEngagedWith", "dc/df4/a13972.html#a8c92169605d30c82f4699ff2b29101a6", null ],
+    [ "UpdateAI", "dc/df4/a13972.html#ad23891becf07d991c5ffc4f89719fa04", null ]
 ];

@@ -1,6 +1,7 @@
 var a24416 =
 [
-    [ "CalculateAmount", "de/db8/a24416.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "de/db8/a24416.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "de/db8/a24416.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "OnRemove", "de/db8/a24416.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
+    [ "PrepareAuraScript", "de/db8/a24416.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "de/db8/a24416.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
+    [ "Validate", "de/db8/a24416.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
 ];

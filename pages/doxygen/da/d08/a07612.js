@@ -1,10 +1,9 @@
 var a07612 =
 [
-    [ "BattlegroundChatBuilder", "da/d08/a07612.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "da/d08/a07612.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "da/d08/a07612.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "da/d08/a07612.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "da/d08/a07612.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "da/d08/a07612.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "da/d08/a07612.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "Rank", "da/d08/a07612.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "da/d08/a07612.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "da/d08/a07612.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "da/d08/a07612.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "da/d08/a07612.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "da/d08/a07612.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

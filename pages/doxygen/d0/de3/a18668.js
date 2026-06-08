@@ -1,8 +1,6 @@
 var a18668 =
 [
-    [ "npc_lk_spirit_bombAI", "d0/de3/a18668.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d0/de3/a18668.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d0/de3/a18668.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d0/de3/a18668.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d0/de3/a18668.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "npc_icc_lk_checktargetAI", "d2/d36/a18672.html", "d2/d36/a18672" ],
+    [ "npc_icc_lk_checktarget", "d0/de3/a18668.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d0/de3/a18668.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

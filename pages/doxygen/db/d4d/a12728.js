@@ -1,7 +1,7 @@
 var a12728 =
 [
-    [ "ClassCallSelector", "db/d4d/a12728.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "db/d4d/a12728.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "db/d4d/a12728.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "db/d4d/a12728.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "HandleScript", "db/d4d/a12728.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "db/d4d/a12728.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "db/d4d/a12728.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "db/d4d/a12728.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

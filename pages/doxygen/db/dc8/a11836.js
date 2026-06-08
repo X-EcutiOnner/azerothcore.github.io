@@ -1,7 +1,7 @@
 var a11836 =
 [
-    [ "EffectNameCheck", "db/dc8/a11836.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "db/dc8/a11836.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "db/dc8/a11836.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "db/dc8/a11836.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "CategoryRecoveryTime", "db/dc8/a11836.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "db/dc8/a11836.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "db/dc8/a11836.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "db/dc8/a11836.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

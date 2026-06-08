@@ -1,6 +1,6 @@
 var a01223 =
 [
-    [ "boss_eck", "df/d7d/a17440.html", "df/d7d/a17440" ],
+    [ "boss_eck", "da/d12/a17456.html", "da/d12/a17456" ],
     [ "Misc", "d7/ddd/a01223.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

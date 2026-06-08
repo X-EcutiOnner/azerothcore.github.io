@@ -1,12 +1,12 @@
 var a20528 =
 [
-    [ "boss_thorim_start_npcs", "d5/d30/a20528.html#a3ed7da48fc86ea00124181bb943a778d", null ],
-    [ "DamageTaken", "d5/d30/a20528.html#a4821ee0619dac4cdcd9434f57d83f0c9", null ],
-    [ "JustDied", "d5/d30/a20528.html#af5a00c3bc633464e9fd5d02991845294", null ],
-    [ "JustEngagedWith", "d5/d30/a20528.html#a636dd7264dd01aa5fc3c69af17425103", null ],
-    [ "Reset", "d5/d30/a20528.html#a37092466e579fe54a1dffe2ae0a2f689", null ],
-    [ "UpdateAI", "d5/d30/a20528.html#a7cca60ceab19727e68fcd4a3629978c4", null ],
-    [ "_isCaster", "d5/d30/a20528.html#aa3c48c6d8d548cb39a6c7eea8f807dde", null ],
-    [ "_playerAttack", "d5/d30/a20528.html#ab1bf0c011692377fc591610c5131d5e2", null ],
-    [ "events", "d5/d30/a20528.html#affdeecbfa6bb62659c4a2f5ef1d1fafa", null ]
+    [ "boss_thorim_lightning_orb", "d5/d30/a20528.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d5/d30/a20528.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d5/d30/a20528.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d5/d30/a20528.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d5/d30/a20528.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d5/d30/a20528.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d5/d30/a20528.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d5/d30/a20528.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Timer", "d5/d30/a20528.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

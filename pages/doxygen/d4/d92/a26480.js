@@ -1,6 +1,8 @@
 var a26480 =
 [
-    [ "FilterTargets", "d4/d92/a26480.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d4/d92/a26480.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d4/d92/a26480.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckProc", "d4/d92/a26480.html#acfdb90639eb05a5ec252c20c9f302fed", null ],
+    [ "HandleProc", "d4/d92/a26480.html#aa2e48771627700ee12153b13a094cea8", null ],
+    [ "PrepareAuraScript", "d4/d92/a26480.html#a0fec47a0918ecfe3517c63190b27e91c", null ],
+    [ "Register", "d4/d92/a26480.html#a88b06e814ade33fad51c8036d963f654", null ],
+    [ "Validate", "d4/d92/a26480.html#ae9911ba6c95cfc6c345743b0f970062b", null ]
 ];

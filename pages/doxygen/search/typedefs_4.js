@@ -1,16 +1,16 @@
 var searchData=
 [
   ['days_0',['Days',['../d6/df1/a04535.html#af5dc5e7ad7b3f6d8e84530de842d125b',1,'Duration.h']]],
-  ['deletedinfolist_1',['DeletedInfoList',['../d9/de5/a12212.html#afea1b495e99ebd5b9b1481caf700aa42',1,'character_commandscript']]],
-  ['dfquestsdonelist_2',['DFQuestsDoneList',['../d8/d06/a08948.html#a4976a84f1a7e5019ccccdad3cba0e743',1,'Player']]],
-  ['difference_5ftype_3',['difference_type',['../d3/dd7/a05516.html#ad9960b552714f9d608e1a3d1b42b4d1f',1,'LinkedListHead::Iterator::difference_type()'],['../db/d37/a05748.html#aeb2086c6034a734b92b3cb8d0382a293',1,'Acore::CheckedBufferOutputIterator::difference_type()'],['../d9/d0b/a05820.html#a87c56269252a45d93cb7a6817d851d9b',1,'EnumUtils::Iterator::difference_type()'],['../d4/dac/a06156.html#aa5abd2b7fa1dc64ac1eb085521b27d6f',1,'ResultIterator::difference_type()'],['../d9/db6/a28364.html#ae4b37510a14d178636d2caeb518152d8',1,'DBCStorageIterator::difference_type()']]],
-  ['difftablearray_4',['DiffTableArray',['../d5/dcf/a12008.html#a38ae34827b0de71df0eeb31c1af9e07e',1,'UpdateTime']]],
+  ['deletedinfolist_1',['DeletedInfoList',['../d9/df7/a12228.html#afea1b495e99ebd5b9b1481caf700aa42',1,'character_commandscript']]],
+  ['dfquestsdonelist_2',['DFQuestsDoneList',['../d4/d43/a08960.html#a4976a84f1a7e5019ccccdad3cba0e743',1,'Player']]],
+  ['difference_5ftype_3',['difference_type',['../d3/dd7/a05516.html#ad9960b552714f9d608e1a3d1b42b4d1f',1,'LinkedListHead::Iterator::difference_type()'],['../db/d37/a05748.html#aeb2086c6034a734b92b3cb8d0382a293',1,'Acore::CheckedBufferOutputIterator::difference_type()'],['../d9/d0b/a05820.html#a87c56269252a45d93cb7a6817d851d9b',1,'EnumUtils::Iterator::difference_type()'],['../d3/df8/a06168.html#aa5abd2b7fa1dc64ac1eb085521b27d6f',1,'ResultIterator::difference_type()'],['../d2/d20/a28380.html#ae4b37510a14d178636d2caeb518152d8',1,'DBCStorageIterator::difference_type()']]],
+  ['difftablearray_4',['DiffTableArray',['../d2/de0/a12024.html#a38ae34827b0de71df0eeb31c1af9e07e',1,'UpdateTime']]],
   ['digest_5',['Digest',['../db/d6b/a05460.html#abf69027dd4096b1bda0e5d78fbceba05',1,'Acore::Impl::GenericHash::Digest()'],['../d1/d22/a05464.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd',1,'Acore::Impl::GenericHMAC::Digest()']]],
-  ['diminishing_6',['Diminishing',['../d1/da1/a09080.html#aaf1c713aad9b5f1f34bc0983b6f136dd',1,'Unit']]],
-  ['directorystorage_7',['DirectoryStorage',['../d5/d74/a06216.html#aba8b6a3e4101d39c2ce7ddd6856c7ad1',1,'UpdateFetcher']]],
-  ['disablemap_8',['DisableMap',['../d3/d6d/a08204.html#adf2cad99fa4b2b3ddbff05931928c1c5',1,'DisableMgr']]],
-  ['disabletypemap_9',['DisableTypeMap',['../d3/d6d/a08204.html#a70c68e93cdd77f5e54bae1b96c66da13',1,'DisableMgr']]],
-  ['disconnectmap_10',['DisconnectMap',['../d8/d0a/a11600.html#a87b26d470986090c226cc144c5f6af36',1,'WorldSessionMgr']]],
+  ['diminishing_6',['Diminishing',['../d9/ddc/a09092.html#aaf1c713aad9b5f1f34bc0983b6f136dd',1,'Unit']]],
+  ['directorystorage_7',['DirectoryStorage',['../db/dce/a06228.html#aba8b6a3e4101d39c2ce7ddd6856c7ad1',1,'UpdateFetcher']]],
+  ['disablemap_8',['DisableMap',['../d4/d29/a08216.html#adf2cad99fa4b2b3ddbff05931928c1c5',1,'DisableMgr']]],
+  ['disabletypemap_9',['DisableTypeMap',['../d4/d29/a08216.html#a70c68e93cdd77f5e54bae1b96c66da13',1,'DisableMgr']]],
+  ['disconnectmap_10',['DisconnectMap',['../df/d4b/a11616.html#a87b26d470986090c226cc144c5f6af36',1,'WorldSessionMgr']]],
   ['dispelchargeslist_11',['DispelChargesList',['../d5/dc7/a02744.html#ac60ae645aa0b9216de7dac56c3ed8c37',1,'Unit.h']]],
   ['dispellist_12',['DispelList',['../db/d69/a04040.html#a711d5a2b2f8cbeb49153d9e33ea51bf1',1,'SpellEffects.cpp']]],
   ['distance_5ftype_13',['distance_type',['../d3/dd7/a05516.html#ae9542dfc90ba68a923d41092a7b56c76',1,'LinkedListHead::Iterator']]],
@@ -19,8 +19,8 @@ var searchData=
   ['doorset_16',['DoorSet',['../db/d06/a03866.html#a17be047bdb4b0361cdee9637ff279e9f',1,'InstanceScript.h']]],
   ['dungeonencountercontainer_17',['DungeonEncounterContainer',['../d5/d6b/a03428.html#a876f6d2b05951f015c0982bec4b71d49',1,'ObjectMgr.h']]],
   ['dungeonencounterlist_18',['DungeonEncounterList',['../d5/d6b/a03428.html#aebea323597e23bf0f45fd9c0c6bd78f5',1,'ObjectMgr.h']]],
-  ['dungeonprogressionrequirementscontainer_19',['DungeonProgressionRequirementsContainer',['../d5/d37/a09384.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
+  ['dungeonprogressionrequirementscontainer_19',['DungeonProgressionRequirementsContainer',['../df/d28/a09396.html#af9d25a87c05988cfaf58425a28716c03',1,'ObjectMgr']]],
   ['duration_5ft_20',['duration_t',['../df/d3a/a05852.html#a9c6be5fc079684953f911548fb66cb21',1,'TaskScheduler']]],
   ['dynamicobjectmaptype_21',['DynamicObjectMapType',['../d3/d90/a02177.html#a5957bb381cc7067b3da243bb5999e870',1,'GridDefines.h']]],
-  ['dynobjectlist_22',['DynObjectList',['../d1/da1/a09080.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
+  ['dynobjectlist_22',['DynObjectList',['../d9/ddc/a09092.html#ae8858c524be551c72bf88127c354c990',1,'Unit']]]
 ];

@@ -1,7 +1,6 @@
 var a11152 =
 [
-    [ "InstanceResetFailed", "da/d8e/a11152.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
-    [ "Write", "da/d8e/a11152.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
-    [ "MapId", "da/d8e/a11152.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
-    [ "Reason", "da/d8e/a11152.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
+    [ "GuildSetGuildMaster", "da/d8e/a11152.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "da/d8e/a11152.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "da/d8e/a11152.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

@@ -1,10 +1,8 @@
 var a28132 =
 [
-    [ "npc_air_force_botsAI", "d7/d23/a28132.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d7/d23/a28132.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d7/d23/a28132.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d7/d23/a28132.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d7/d23/a28132.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d7/d23/a28132.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d7/d23/a28132.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_training_dummy", "d7/d23/a28132.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
+    [ "DamageTaken", "d7/d23/a28132.html#accd7c39cd7b22b30e654288b034f1319", null ],
+    [ "JustEnteredCombat", "d7/d23/a28132.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
+    [ "UpdateAI", "d7/d23/a28132.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
+    [ "_combatTimer", "d7/d23/a28132.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
 ];

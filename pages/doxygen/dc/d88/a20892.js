@@ -1,6 +1,10 @@
 var a20892 =
 [
-    [ "boss_palehoofAI", "d8/d69/a20896.html", "d8/d69/a20896" ],
-    [ "boss_palehoof", "dc/d88/a20892.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "dc/d88/a20892.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "npc_dragonflayer_forge_master", "dc/d88/a20892.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "dc/d88/a20892.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "dc/d88/a20892.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "dc/d88/a20892.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "dc/d88/a20892.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "dc/d88/a20892.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "dc/d88/a20892.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

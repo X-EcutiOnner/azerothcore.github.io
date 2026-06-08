@@ -1,11 +1,13 @@
 var a12512 =
 [
-    [ "boss_emperor_dagran_thaurissan", "d6/d5a/a12512.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
-    [ "JustDied", "d6/d5a/a12512.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
-    [ "JustEngagedWith", "d6/d5a/a12512.html#a182564d95dc677ea33e47995638a9a58", null ],
-    [ "KilledUnit", "d6/d5a/a12512.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
-    [ "SetData", "d6/d5a/a12512.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
-    [ "UpdateAI", "d6/d5a/a12512.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
-    [ "hasYelled", "d6/d5a/a12512.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
-    [ "SenatorYells", "d6/d5a/a12512.html#ad94aef1875a5a863f78dc84a964638f9", null ]
+    [ "npc_rocknot", "d6/d5a/a12512.html#a890eaac55162130b05c7d2dba26cc872", null ],
+    [ "DoGo", "d6/d5a/a12512.html#a242e871de8e19462fcab6fb9eae1039e", null ],
+    [ "Reset", "d6/d5a/a12512.html#afaa1977f370fe699c75ebb83c0d291dd", null ],
+    [ "sQuestReward", "d6/d5a/a12512.html#a633123eb64bd6d46ace12fd0e1853aef", null ],
+    [ "UpdateAI", "d6/d5a/a12512.html#a15755c98f937784f538d547b15c2d192", null ],
+    [ "WaypointReached", "d6/d5a/a12512.html#a3711cae23b14dcce2ac1938aaeb9b961", null ],
+    [ "WaypointReached", "d6/d5a/a12512.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_breakDoorTimer", "d6/d5a/a12512.html#a44955a4ef0e730f72848e582892380b5", null ],
+    [ "_breakKegTimer", "d6/d5a/a12512.html#ad6e48e6f81521b89da9f528e079c1c90", null ],
+    [ "instance", "d6/d5a/a12512.html#a71e6532128131a10aae575d1bac023d0", null ]
 ];

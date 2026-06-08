@@ -1,7 +1,7 @@
 var a04799 =
 [
-    [ "HolidayDateCalculatorTest", "d7/d7d/a29448.html", "d7/d7d/a29448" ],
-    [ "FindStartTimeForStageTest", "db/dd5/a29452.html", "db/dd5/a29452" ],
+    [ "HolidayDateCalculatorTest", "d5/d58/a29464.html", "d5/d58/a29464" ],
+    [ "FindStartTimeForStageTest", "d2/d9f/a29468.html", "d2/d9f/a29468" ],
     [ "TEST_F", "d5/d6b/a04799.html#a16adef8669d17e4aac23d942cf71573e", null ],
     [ "TEST_F", "d5/d6b/a04799.html#a5f6cead798a7f7186f2c82d3e55e3dba", null ],
     [ "TEST_F", "d5/d6b/a04799.html#a79c8e85eb8522e0bf11a7807ddc64da6", null ],

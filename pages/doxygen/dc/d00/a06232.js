@@ -1,12 +1,11 @@
 var a06232 =
 [
-    [ "RBACPermission", "dc/d00/a06232.html#ab7e942f35ee798e52b6e44b5eb35957d", null ],
-    [ "AddLinkedPermission", "dc/d00/a06232.html#abadc5213769b1aa15ed3fea56087760e", null ],
-    [ "GetId", "dc/d00/a06232.html#ac9626c0aae11a3189fc15d086fb0bd96", null ],
-    [ "GetLinkedPermissions", "dc/d00/a06232.html#aabdbec412cd1a1192c8fb4089ab268aa", null ],
-    [ "GetName", "dc/d00/a06232.html#a39784b6e1cb1018dd47a1f223bcf8ac3", null ],
-    [ "RemoveLinkedPermission", "dc/d00/a06232.html#a31dcbc98d2a850f5924c0183c90fd58a", null ],
-    [ "_id", "dc/d00/a06232.html#ab467166c941c8dc01d3d2bd3ce7a06fc", null ],
-    [ "_name", "dc/d00/a06232.html#ae02a379ae6f8bee804942a4ca6d98aba", null ],
-    [ "_perms", "dc/d00/a06232.html#a2c9bd034968018bb631f4d5145c16fff", null ]
+    [ "AppliedFileEntry", "dc/d00/a06232.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
+    [ "GetStateAsString", "dc/d00/a06232.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
+    [ "StateConvert", "dc/d00/a06232.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
+    [ "StateConvert", "dc/d00/a06232.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
+    [ "hash", "dc/d00/a06232.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
+    [ "name", "dc/d00/a06232.html#a8fc429eae6816054b5828952a5698a4c", null ],
+    [ "state", "dc/d00/a06232.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
+    [ "timestamp", "dc/d00/a06232.html#a13703e88b76f26858696b33a8bc8f862", null ]
 ];

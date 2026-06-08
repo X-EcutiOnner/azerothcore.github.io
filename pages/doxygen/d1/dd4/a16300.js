@@ -1,20 +1,6 @@
 var a16300 =
 [
-    [ "boss_sartharion_dragonAI", "d1/dd4/a16300.html#ac77eaacb9a5360802e862c95e54ec8ef", null ],
-    [ "ClearInstance", "d1/dd4/a16300.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "d1/dd4/a16300.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "d1/dd4/a16300.html#a152126a6deb6b79943f667e1dccfe7e5", null ],
-    [ "JustDied", "d1/dd4/a16300.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "d1/dd4/a16300.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "d1/dd4/a16300.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "d1/dd4/a16300.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "d1/dd4/a16300.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "d1/dd4/a16300.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "d1/dd4/a16300.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "d1/dd4/a16300.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "d1/dd4/a16300.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "currentPatrolPoint", "d1/dd4/a16300.html#a308e282df080758c41c70f49f8977098", null ],
-    [ "extraEvents", "d1/dd4/a16300.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "d1/dd4/a16300.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "d1/dd4/a16300.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "HandleScriptEffect", "d1/dd4/a16300.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d1/dd4/a16300.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d1/dd4/a16300.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

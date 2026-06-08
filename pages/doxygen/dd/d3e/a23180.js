@@ -1,8 +1,11 @@
 var a23180 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "dd/d3e/a23180.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "dd/d3e/a23180.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "dd/d3e/a23180.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "dd/d3e/a23180.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "dd/d3e/a23180.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_kiggler_the_crazed", "dd/d3e/a23180.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "dd/d3e/a23180.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "dd/d3e/a23180.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "dd/d3e/a23180.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "dd/d3e/a23180.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "dd/d3e/a23180.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "dd/d3e/a23180.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "dd/d3e/a23180.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

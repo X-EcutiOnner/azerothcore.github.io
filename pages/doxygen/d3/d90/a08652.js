@@ -1,6 +1,6 @@
 var a08652 =
 [
-    [ "item_count", "d3/d90/a08652.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
-    [ "setid", "d3/d90/a08652.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
-    [ "spells", "d3/d90/a08652.html#af8156bad9771ed816fd861d3eb992aaa", null ]
+    [ "invisibilityType", "d3/d90/a08652.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d3/d90/a08652.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d3/d90/a08652.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

@@ -1,6 +1,7 @@
 var a21780 =
 [
-    [ "npc_infra_green_bomber_genericAI", "df/d4a/a21784.html", "df/d4a/a21784" ],
-    [ "npc_infra_green_bomber_generic", "da/deb/a21780.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "da/deb/a21780.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "HandleDummy", "da/deb/a21780.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "da/deb/a21780.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "da/deb/a21780.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "da/deb/a21780.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

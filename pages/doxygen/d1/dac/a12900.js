@@ -1,6 +1,7 @@
 var a12900 =
 [
-    [ "boss_sulfuron", "d1/dac/a12900.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "d1/dac/a12900.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "d1/dac/a12900.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "HandleScript", "d1/dac/a12900.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "d1/dac/a12900.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "d1/dac/a12900.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "d1/dac/a12900.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

@@ -1,26 +1,6 @@
 var a20108 =
 [
-    [ "boss_freya", "df/d5c/a20108.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/d5c/a20108.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
-    [ "DamageTaken", "df/d5c/a20108.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
-    [ "DoAction", "df/d5c/a20108.html#a099f983a17e002990aaecbb0995bb3b0", null ],
-    [ "GetData", "df/d5c/a20108.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
-    [ "JustEngagedWith", "df/d5c/a20108.html#a85a00b03079df9ce9b8fa035820c959b", null ],
-    [ "JustReachedHome", "df/d5c/a20108.html#a577c8714fef829a57533c1cfbd400dc0", null ],
-    [ "JustSummoned", "df/d5c/a20108.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
-    [ "KilledUnit", "df/d5c/a20108.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
-    [ "MovementInform", "df/d5c/a20108.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
-    [ "Reset", "df/d5c/a20108.html#abadf6447f33116039e82065ce44f4322", null ],
-    [ "SpawnWave", "df/d5c/a20108.html#af1f486e8725a2710b237fe233f7fe181", null ],
-    [ "SpellHit", "df/d5c/a20108.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
-    [ "SpellHitTarget", "df/d5c/a20108.html#a22c4097731727de032fd6db3c9cef7cf", null ],
-    [ "UpdateAI", "df/d5c/a20108.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
-    [ "_backToNature", "df/d5c/a20108.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
-    [ "_deforestation", "df/d5c/a20108.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
-    [ "_elderGUID", "df/d5c/a20108.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
-    [ "_lumberjacked", "df/d5c/a20108.html#aa35101951b2d47848b69170ab36ae414", null ],
-    [ "_respawningTrio", "df/d5c/a20108.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
-    [ "_spawnedAmount", "df/d5c/a20108.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
-    [ "_trioKilled", "df/d5c/a20108.html#ae141a7cf3554c606738774fe96a371dc", null ],
-    [ "_waveNumber", "df/d5c/a20108.html#af4e2576558c3c15303245f76c6e30aa0", null ]
+    [ "achievement_flame_leviathan_towers", "df/d5c/a20108.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "df/d5c/a20108.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "df/d5c/a20108.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

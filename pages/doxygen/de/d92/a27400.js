@@ -1,7 +1,10 @@
 var a27400 =
 [
-    [ "HandleProc", "de/d92/a27400.html#a864e976a61091512a7eab904e5390234", null ],
-    [ "PrepareAuraScript", "de/d92/a27400.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
-    [ "Register", "de/d92/a27400.html#a8509759360e3443ceca9a9fcbd729996", null ],
-    [ "Validate", "de/d92/a27400.html#a7687471989fc9595e36201dba74b8689", null ]
+    [ "CheckProc", "de/d92/a27400.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "de/d92/a27400.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "de/d92/a27400.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "de/d92/a27400.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "de/d92/a27400.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "de/d92/a27400.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "de/d92/a27400.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

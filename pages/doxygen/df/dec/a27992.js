@@ -1,5 +1,10 @@
 var a27992 =
 [
-    [ "item_incendiary_explosives", "df/dec/a27992.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "df/dec/a27992.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "guard_shattrath_scryerAI", "df/dec/a27992.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "df/dec/a27992.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "df/dec/a27992.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "df/dec/a27992.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "df/dec/a27992.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "df/dec/a27992.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "df/dec/a27992.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

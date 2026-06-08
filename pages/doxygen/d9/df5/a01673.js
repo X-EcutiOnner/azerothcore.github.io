@@ -1,8 +1,8 @@
 var a01673 =
 [
-    [ "npc_kservant", "d4/da7/a23920.html", "d4/da7/a23920" ],
-    [ "npc_kservant::npc_kservantAI", "d7/d77/a23924.html", "d7/d77/a23924" ],
-    [ "npc_shattrath_daily_quest", "d8/d6e/a23928.html", "d8/d6e/a23928" ],
+    [ "npc_kservant", "d3/d01/a23936.html", "d3/d01/a23936" ],
+    [ "npc_kservant::npc_kservantAI", "d5/d91/a23940.html", "d5/d91/a23940" ],
+    [ "npc_shattrath_daily_quest", "de/db9/a23944.html", "de/db9/a23944" ],
     [ "KServant", "d9/df5/a01673.html#a44d53e3bd4dd0381b62455517ce5e04b", [
       [ "SAY1", "d9/df5/a01673.html#a44d53e3bd4dd0381b62455517ce5e04bae4faba91f216dc9ffa804d762e82e09a", null ],
       [ "WHISP1", "d9/df5/a01673.html#a44d53e3bd4dd0381b62455517ce5e04ba852626a57853588410e9702e8834a782", null ],

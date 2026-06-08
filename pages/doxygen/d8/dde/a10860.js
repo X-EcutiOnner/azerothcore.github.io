@@ -1,6 +1,6 @@
 var a10860 =
 [
-    [ "ArenaTeam", "d8/dde/a10860.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "d8/dde/a10860.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "d8/dde/a10860.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "BuyBankSlotResult", "d8/dde/a10860.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d8/dde/a10860.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d8/dde/a10860.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

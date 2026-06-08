@@ -1,4 +1,7 @@
 var a29668 =
 [
-    [ "MakeConfig", "d4/dc9/a29668.html#a4497365ace6ba22681024b5d3cb745c8", null ]
+    [ "asyncId", "d4/dc9/a29668.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "d4/dc9/a29668.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "d4/dc9/a29668.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "d4/dc9/a29668.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

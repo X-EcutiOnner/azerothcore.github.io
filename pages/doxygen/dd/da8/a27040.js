@@ -1,6 +1,6 @@
 var a27040 =
 [
-    [ "HandleAfterCast", "dd/da8/a27040.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "dd/da8/a27040.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "dd/da8/a27040.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "FilterTargets", "dd/da8/a27040.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "dd/da8/a27040.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "dd/da8/a27040.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

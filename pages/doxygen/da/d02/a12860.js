@@ -1,8 +1,10 @@
 var a12860 =
 [
-    [ "MajordomoAddData", "da/d02/a12860.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "da/d02/a12860.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "da/d02/a12860.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "da/d02/a12860.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "da/d02/a12860.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "npc_core_rager", "da/d02/a12860.html#a91aec4d96359a88ee8ac70b58353d488", null ],
+    [ "DamageTaken", "da/d02/a12860.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
+    [ "Reset", "da/d02/a12860.html#a5a565f93e2b60ee0883d740cf751c143", null ],
+    [ "UpdateAI", "da/d02/a12860.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
+    [ "instance", "da/d02/a12860.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
+    [ "mangleTimer", "da/d02/a12860.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
+    [ "rangeCheckTimer", "da/d02/a12860.html#abac888dc4c885921540ba7107d0bd732", null ]
 ];

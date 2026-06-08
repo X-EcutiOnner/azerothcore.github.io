@@ -1,7 +1,7 @@
 var a21720 =
 [
-    [ "npc_battle_at_valhalasAI", "db/d99/a21724.html", "db/d99/a21724" ],
-    [ "npc_battle_at_valhalas", "d4/d58/a21720.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d4/d58/a21720.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d4/d58/a21720.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "HandleScript", "d4/d58/a21720.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
+    [ "PrepareSpellScript", "d4/d58/a21720.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
+    [ "Register", "d4/d58/a21720.html#a9b8efef83b515f2250bda500ff741aa3", null ],
+    [ "Validate", "d4/d58/a21720.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
 ];

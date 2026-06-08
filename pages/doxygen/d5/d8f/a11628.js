@@ -1,8 +1,7 @@
 var a11628 =
 [
-    [ "SkillDiscoveryEntry", "d5/d8f/a11628.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "d5/d8f/a11628.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "d5/d8f/a11628.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "d5/d8f/a11628.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "d5/d8f/a11628.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "IsValidOpcode", "d5/d8f/a11628.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d5/d8f/a11628.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d5/d8f/a11628.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d5/d8f/a11628.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

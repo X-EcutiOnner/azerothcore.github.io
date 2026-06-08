@@ -1,5 +1,5 @@
 var a10732 =
 [
-    [ "MovementHandlerScript", "d2/d32/a10732.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "d2/d32/a10732.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "MailScript", "d2/d32/a10732.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
+    [ "OnBeforeMailDraftSendMailTo", "d2/d32/a10732.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
 ];

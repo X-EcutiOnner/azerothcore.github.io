@@ -1,6 +1,6 @@
 var a11164 =
 [
-    [ "ResetFailedNotify", "d8/da5/a11164.html#a82e12a0f207590b6176253cf36a22d2f", null ],
-    [ "Write", "d8/da5/a11164.html#af03055514ef0e1e97f24c66d2cd94185", null ],
-    [ "MapId", "d8/da5/a11164.html#a17f065fc6d5438d74f38bde67a841be7", null ]
+    [ "InstanceReset", "d8/da5/a11164.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
+    [ "Write", "d8/da5/a11164.html#a0809c4de226d3aaab9817c393cef6055", null ],
+    [ "MapId", "d8/da5/a11164.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
 ];

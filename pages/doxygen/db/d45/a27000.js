@@ -1,8 +1,6 @@
 var a27000 =
 [
-    [ "CheckProc", "db/d45/a27000.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
-    [ "HandleProc", "db/d45/a27000.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
-    [ "PrepareAuraScript", "db/d45/a27000.html#a91ef63b96918e797e677423d51f94112", null ],
-    [ "Register", "db/d45/a27000.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
-    [ "Validate", "db/d45/a27000.html#ab6178007664afc34556336ec9620cd4f", null ]
+    [ "HandleProc", "db/d45/a27000.html#a34fc7c89e962791d76c24c40bbdba827", null ],
+    [ "PrepareAuraScript", "db/d45/a27000.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
+    [ "Register", "db/d45/a27000.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
 ];

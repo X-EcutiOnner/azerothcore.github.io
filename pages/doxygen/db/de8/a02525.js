@@ -1,8 +1,8 @@
 var a02525 =
 [
-    [ "ChaseRange", "de/dbf/a10288.html", "de/dbf/a10288" ],
-    [ "ChaseAngle", "d8/d7f/a10292.html", "d8/d7f/a10292" ],
-    [ "MotionMaster", "db/def/a10296.html", "db/def/a10296" ],
+    [ "ChaseRange", "df/d24/a10300.html", "df/d24/a10300" ],
+    [ "ChaseAngle", "dc/d36/a10304.html", "dc/d36/a10304" ],
+    [ "MotionMaster", "dc/d4c/a10308.html", "dc/d4c/a10308" ],
     [ "SPEED_CHARGE", "db/de8/a02525.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
     [ "VISUAL_WAYPOINT", "db/de8/a02525.html#af0544189c7fc748059c3075861102b40", null ],
     [ "AnimTier", "db/de8/a02525.html#ae799184a3f3653b4b574f6df7a414255", [

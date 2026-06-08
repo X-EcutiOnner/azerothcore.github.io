@@ -1,14 +1,13 @@
 var a10100 =
 [
-    [ "DoublePosition", "d3/d00/a10100.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d3/d00/a10100.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d3/d00/a10100.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d3/d00/a10100.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d3/d00/a10100.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d3/d00/a10100.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d3/d00/a10100.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d3/d00/a10100.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d3/d00/a10100.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d3/d00/a10100.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d3/d00/a10100.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "ServerMail", "d3/d00/a10100.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d3/d00/a10100.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d3/d00/a10100.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d3/d00/a10100.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d3/d00/a10100.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d3/d00/a10100.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d3/d00/a10100.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d3/d00/a10100.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d3/d00/a10100.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d3/d00/a10100.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

@@ -1,10 +1,13 @@
 var a17156 =
 [
-    [ "npc_hor_leaderAI", "de/d5d/a17156.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "de/d5d/a17156.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "de/d5d/a17156.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "de/d5d/a17156.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "de/d5d/a17156.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "instance", "de/d5d/a17156.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
-    [ "shortver", "de/d5d/a17156.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "boss_falric", "de/d5d/a17156.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
+    [ "DoAction", "de/d5d/a17156.html#a9acd7854d725b07df53ae60538df27b1", null ],
+    [ "EnterEvadeMode", "de/d5d/a17156.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
+    [ "JustDied", "de/d5d/a17156.html#a4ade4a16095031988e2ae50602cd0da8", null ],
+    [ "JustEngagedWith", "de/d5d/a17156.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
+    [ "KilledUnit", "de/d5d/a17156.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
+    [ "Reset", "de/d5d/a17156.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
+    [ "UpdateAI", "de/d5d/a17156.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
+    [ "_hopelessnessCount", "de/d5d/a17156.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
+    [ "_startingFight", "de/d5d/a17156.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
 ];

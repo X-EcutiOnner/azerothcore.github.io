@@ -1,6 +1,6 @@
 var a23720 =
 [
-    [ "go_magtheridons_head", "d6/dea/a23720.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d6/dea/a23720.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d6/dea/a23720.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_fel_guard_houndAI", "d3/da2/a23724.html", "d3/da2/a23724" ],
+    [ "npc_fel_guard_hound", "d6/dea/a23720.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d6/dea/a23720.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

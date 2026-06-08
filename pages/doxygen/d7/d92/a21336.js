@@ -1,6 +1,7 @@
 var a21336 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
-    [ "npc_steam_powered_auctioneer", "d7/d92/a21336.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "d7/d92/a21336.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "HandleProc", "d7/d92/a21336.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "d7/d92/a21336.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "d7/d92/a21336.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "d7/d92/a21336.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

@@ -1,7 +1,10 @@
 var a16704 =
 [
-    [ "HandleEffectPeriodic", "da/d31/a16704.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "da/d31/a16704.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "da/d31/a16704.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "da/d31/a16704.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "npc_nerubian_burrowerAI", "da/d31/a16704.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "da/d31/a16704.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "da/d31/a16704.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "da/d31/a16704.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "da/d31/a16704.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "da/d31/a16704.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "da/d31/a16704.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

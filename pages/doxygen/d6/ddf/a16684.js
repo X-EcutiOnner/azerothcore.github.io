@@ -1,6 +1,6 @@
 var a16684 =
 [
-    [ "npc_nerubian_burrowerAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
-    [ "npc_nerubian_burrower", "d6/ddf/a16684.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "d6/ddf/a16684.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_swarm_scarabAI", "df/dd9/a16688.html", "df/dd9/a16688" ],
+    [ "npc_swarm_scarab", "d6/ddf/a16684.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "d6/ddf/a16684.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

@@ -1,7 +1,7 @@
 var a01100 =
 [
-    [ "boss_zuramat", "da/d9c/a21144.html", "da/d9c/a21144" ],
-    [ "npc_vh_void_sentry", "d1/dbe/a21148.html", "d1/dbe/a21148" ],
+    [ "boss_zuramat", "d0/df9/a21160.html", "d0/df9/a21160" ],
+    [ "npc_vh_void_sentry", "d5/d66/a21164.html", "d5/d66/a21164" ],
     [ "eCreatures", "d3/dbd/a01100.html#a59602e8f26d052c0b6f6bdfe896510b8", [
       [ "NPC_ONYXIA", "db/dbe/a01706.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e", null ],
       [ "NPC_ONYXIAN_WHELP", "db/dbe/a01706.html#a59602e8f26d052c0b6f6bdfe896510b8a29f399e186a17314b99be364d738371a", null ],

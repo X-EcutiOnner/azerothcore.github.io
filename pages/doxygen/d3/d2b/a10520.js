@@ -1,6 +1,5 @@
 var a10520 =
 [
-    [ "PoolObject", "d3/d2b/a10520.html#a772dc7bc9e1ce25edba89977bf87e3f0", null ],
-    [ "chance", "d3/d2b/a10520.html#ae129795bb2f358af900dbc8892502123", null ],
-    [ "guid", "d3/d2b/a10520.html#ae10fa01f5959e231fe2c16d38d9f3615", null ]
+    [ "petitionGuid", "d3/d2b/a10520.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "d3/d2b/a10520.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

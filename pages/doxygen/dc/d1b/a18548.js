@@ -1,12 +1,6 @@
 var a18548 =
 [
-    [ "npc_raging_spiritAI", "dc/d1b/a18548.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "dc/d1b/a18548.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "dc/d1b/a18548.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "dc/d1b/a18548.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "dc/d1b/a18548.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "dc/d1b/a18548.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "dc/d1b/a18548.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "dc/d1b/a18548.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "dc/d1b/a18548.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "npc_icc_ice_sphereAI", "df/d02/a18552.html", "df/d02/a18552" ],
+    [ "npc_icc_ice_sphere", "dc/d1b/a18548.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "dc/d1b/a18548.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

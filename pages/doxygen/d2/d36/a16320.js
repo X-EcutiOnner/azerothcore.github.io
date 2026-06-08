@@ -1,10 +1,10 @@
 var a16320 =
 [
-    [ "HandleDummy", "d2/d36/a16320.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d2/d36/a16320.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d2/d36/a16320.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d2/d36/a16320.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d2/d36/a16320.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d2/d36/a16320.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d2/d36/a16320.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "boss_sartharion_tenebron", "d2/d36/a16320.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d2/d36/a16320.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d2/d36/a16320.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d2/d36/a16320.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d2/d36/a16320.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d2/d36/a16320.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d2/d36/a16320.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

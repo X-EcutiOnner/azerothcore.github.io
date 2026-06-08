@@ -1,7 +1,12 @@
 var a08440 =
 [
-    [ "entry", "d3/d5b/a08440.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d3/d5b/a08440.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d3/d5b/a08440.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d3/d5b/a08440.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "QuestMenu", "d3/d5b/a08440.html#a60ba5b35499c6a9ed510300d3300421e", null ],
+    [ "~QuestMenu", "d3/d5b/a08440.html#a14df9b6699c327853121ae032704db8d", null ],
+    [ "AddMenuItem", "d3/d5b/a08440.html#ac8735756bbf9f2fa799c505bd740e070", null ],
+    [ "ClearMenu", "d3/d5b/a08440.html#ab3d3881aabe000694acab37a3774507e", null ],
+    [ "Empty", "d3/d5b/a08440.html#a1a850cb70956f299ea91cb0d732ad202", null ],
+    [ "GetItem", "d3/d5b/a08440.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
+    [ "GetMenuItemCount", "d3/d5b/a08440.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
+    [ "HasItem", "d3/d5b/a08440.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
+    [ "_questMenuItems", "d3/d5b/a08440.html#a49279a3943009f2d1475d792c2c3d21a", null ]
 ];

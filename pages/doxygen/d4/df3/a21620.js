@@ -1,6 +1,7 @@
 var a21620 =
 [
-    [ "npc_venture_co_stragglerAI", "df/dc7/a21624.html", "df/dc7/a21624" ],
-    [ "npc_venture_co_straggler", "d4/df3/a21620.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d4/df3/a21620.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "HandleScriptEffect", "d4/df3/a21620.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d4/df3/a21620.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d4/df3/a21620.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d4/df3/a21620.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

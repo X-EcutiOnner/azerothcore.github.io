@@ -1,6 +1,6 @@
 var a19108 =
 [
-    [ "npc_icc_putricades_trapAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_icc_putricades_trap", "d6/de1/a19108.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d6/de1/a19108.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
+    [ "npc_icc_nerubar_broodkeeper", "d6/de1/a19108.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "d6/de1/a19108.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

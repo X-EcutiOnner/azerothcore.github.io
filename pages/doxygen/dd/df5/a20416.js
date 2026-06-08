@@ -1,7 +1,8 @@
 var a20416 =
 [
-    [ "HandleEffectPeriodic", "dd/df5/a20416.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
-    [ "PrepareAuraScript", "dd/df5/a20416.html#af432e810a46e35f95bb0b3b2eaada132", null ],
-    [ "Register", "dd/df5/a20416.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
-    [ "Validate", "dd/df5/a20416.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
+    [ "npc_ulduar_mimiron_rocket", "dd/df5/a20416.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "dd/df5/a20416.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "dd/df5/a20416.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "dd/df5/a20416.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "dd/df5/a20416.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

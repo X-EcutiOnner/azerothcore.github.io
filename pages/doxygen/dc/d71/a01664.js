@@ -1,8 +1,8 @@
 var a01664 =
 [
-    [ "boss_gurtogg_bloodboil", "d8/dee/a22376.html", "d8/dee/a22376" ],
-    [ "spell_gurtogg_bloodboil", "d4/d9b/a22380.html", "d4/d9b/a22380" ],
-    [ "spell_gurtogg_eject", "dc/d45/a22384.html", "dc/d45/a22384" ],
+    [ "boss_gurtogg_bloodboil", "da/d8d/a22392.html", "da/d8d/a22392" ],
+    [ "spell_gurtogg_bloodboil", "d7/d1c/a22396.html", "d7/d1c/a22396" ],
+    [ "spell_gurtogg_eject", "d9/da7/a22400.html", "d9/da7/a22400" ],
     [ "Misc", "dc/d71/a01664.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

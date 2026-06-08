@@ -1,8 +1,15 @@
 var a20964 =
 [
-    [ "FilterTargets", "de/dfd/a20964.html#a028ef84c884536a28650ace1e56f8061", null ],
-    [ "HandleScript", "de/dfd/a20964.html#a16466b4c07c06c57493082b0e84b3c66", null ],
-    [ "PrepareSpellScript", "de/dfd/a20964.html#ad43892487ca38342a61522548b34cd2c", null ],
-    [ "Register", "de/dfd/a20964.html#a90470761baccdcf8c5430006004abf29", null ],
-    [ "Validate", "de/dfd/a20964.html#a1664dcb92887f6974e1750472c02d168", null ]
+    [ "boss_skadi_graufAI", "de/dfd/a20964.html#a852687a2fa6ed97aefa230db8ff73b72", null ],
+    [ "DoAction", "de/dfd/a20964.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
+    [ "JustDied", "de/dfd/a20964.html#a64a4e6cd927f89c11ec55806e403588f", null ],
+    [ "MovementInform", "de/dfd/a20964.html#a081fed07ce51e3bfd7a4ce051a4d79ee", null ],
+    [ "Reset", "de/dfd/a20964.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
+    [ "UpdateAI", "de/dfd/a20964.html#add5671b1f9e20590e1121f8c18d064cc", null ],
+    [ "_events", "de/dfd/a20964.html#a446de23b703512497888b42ff781da39", null ],
+    [ "_flyingToSide", "de/dfd/a20964.html#a92b1963484d7d88f6b4904039db10c9e", null ],
+    [ "_instance", "de/dfd/a20964.html#adfcccde7d61c9fa8e850e3d4678d1ad0", null ],
+    [ "_lastSide", "de/dfd/a20964.html#a6b4ef194bf96b7fc8dae2b22536e31b1", null ],
+    [ "_passFreshStart", "de/dfd/a20964.html#a5c49a178b6729cd555c38e106deeb0a5", null ],
+    [ "_summons", "de/dfd/a20964.html#abacd3a15554571bce8f70a519ce1bb0b", null ]
 ];

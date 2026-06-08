@@ -1,9 +1,11 @@
 var a14696 =
 [
-    [ "npc_brew_bubble", "db/d15/a14696.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "db/d15/a14696.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "db/d15/a14696.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "db/d15/a14696.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "db/d15/a14696.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "db/d15/a14696.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "o", "db/d15/a14696.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "db/d15/a14696.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "db/d15/a14696.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "db/d15/a14696.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "db/d15/a14696.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "db/d15/a14696.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "db/d15/a14696.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "db/d15/a14696.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

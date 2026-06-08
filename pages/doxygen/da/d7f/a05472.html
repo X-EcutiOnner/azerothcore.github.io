@@ -239,14 +239,14 @@ Static Public Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    time_t now = <a class="code hl_function" href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>().count();</div>
+<div class="line"><span class="lineno">   46</span>    time_t now = <a class="code hl_function" href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>().count();</div>
 <div class="line"><span class="lineno">   47</span>    <span class="keywordflow">return</span> (</div>
 <div class="line"><span class="lineno">   48</span>        (token == <a class="code hl_function" href="../../da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now - <a class="code hl_variable" href="../../d5/d25/a04322.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a>)) ||</div>
 <div class="line"><span class="lineno">   49</span>        (token == <a class="code hl_function" href="../../da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now)) ||</div>
 <div class="line"><span class="lineno">   50</span>        (token == <a class="code hl_function" href="../../da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now + <a class="code hl_variable" href="../../d5/d25/a04322.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a>))</div>
 <div class="line"><span class="lineno">   51</span>    );</div>
 <div class="line"><span class="lineno">   52</span>}</div>
-<div class="ttc" id="aa04595_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../dd/dec/a04595.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
+<div class="ttc" id="aa04598_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../d6/d71/a04598.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
 <div class="ttc" id="aa05472_html_a44829d44e78247991d9c3dde270cab5c"><div class="ttname"><a href="../../da/d7f/a05472.html#a44829d44e78247991d9c3dde270cab5c">Acore::Crypto::TOTP::GenerateToken</a></div><div class="ttdeci">static uint32 GenerateToken(Secret const &amp;key, time_t timestamp)</div><div class="ttdef"><b>Definition:</b> TOTP.cpp:27</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00141">GetEpochTime()</a>, and <a class="el" href="../../#l00024">TOTP_INTERVAL</a>.</p>
@@ -286,7 +286,7 @@ Static Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d20/a05034.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d03/a05045.html">Crypto</a></li><li class="navelem"><a class="el" href="../../da/d7f/a05472.html">TOTP</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:47:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

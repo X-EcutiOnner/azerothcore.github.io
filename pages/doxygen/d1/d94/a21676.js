@@ -1,10 +1,7 @@
 var a21676 =
 [
-    [ "npc_Apothecary_HanesAI", "d1/d94/a21676.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d1/d94/a21676.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d1/d94/a21676.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d1/d94/a21676.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d1/d94/a21676.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "WaypointReached", "d1/d94/a21676.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "PotTimer", "d1/d94/a21676.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "HandleScript", "d1/d94/a21676.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d1/d94/a21676.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d1/d94/a21676.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d1/d94/a21676.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

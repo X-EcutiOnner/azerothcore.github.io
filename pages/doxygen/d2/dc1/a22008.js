@@ -1,7 +1,7 @@
 var a22008 =
 [
-    [ "HandleDummy", "d2/dc1/a22008.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d2/dc1/a22008.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d2/dc1/a22008.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d2/dc1/a22008.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "HandleScript", "d2/dc1/a22008.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "d2/dc1/a22008.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "d2/dc1/a22008.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "d2/dc1/a22008.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

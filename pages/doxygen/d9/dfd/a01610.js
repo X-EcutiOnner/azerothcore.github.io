@@ -1,6 +1,6 @@
 var a01610 =
 [
-    [ "boss_warp_splinter", "d4/d34/a23428.html", "d4/d34/a23428" ],
+    [ "boss_warp_splinter", "d1/d9f/a23444.html", "d1/d9f/a23444" ],
     [ "Says", "d9/dfd/a01610.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d0/d27/a00239.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "d4/d13/a00377.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

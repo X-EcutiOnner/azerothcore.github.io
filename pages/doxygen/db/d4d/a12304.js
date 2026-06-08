@@ -1,10 +1,18 @@
 var a12304 =
 [
-    [ "mail_commandscript", "db/d4d/a12304.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
-    [ "GetCommands", "db/d4d/a12304.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
-    [ "GetItemListString", "db/d4d/a12304.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
-    [ "GetMailStationeryString", "db/d4d/a12304.html#af016c0c682c94250cdb26eea3377ec6e", null ],
-    [ "GetMailTypeString", "db/d4d/a12304.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
-    [ "HandleMailListCommand", "db/d4d/a12304.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
-    [ "HandleMailReturnCommand", "db/d4d/a12304.html#acbdb7a0ea15ed5202866355d4839948c", null ]
+    [ "learn_commandscript", "db/d4d/a12304.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "db/d4d/a12304.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "db/d4d/a12304.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "db/d4d/a12304.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "db/d4d/a12304.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "db/d4d/a12304.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "db/d4d/a12304.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "db/d4d/a12304.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMyQuestSpells", "db/d4d/a12304.html#af7393dfd87f9742cfc7220896c4eeb1b", null ],
+    [ "HandleLearnAllMyTalentsCommand", "db/d4d/a12304.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllMyTrainerSpellsCommand", "db/d4d/a12304.html#a1e08e9289a6dccde021f3712db106c64", null ],
+    [ "HandleLearnAllRecipesCommand", "db/d4d/a12304.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "db/d4d/a12304.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "db/d4d/a12304.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "db/d4d/a12304.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

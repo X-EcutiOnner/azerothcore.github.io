@@ -1,5 +1,5 @@
 var a12660 =
 [
-    [ "at_dragonspire_hall", "d5/d81/a12660.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "d5/d81/a12660.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "at_the_beast_room", "d5/d81/a12660.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d5/d81/a12660.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

@@ -1,6 +1,6 @@
 var a22140 =
 [
-    [ "FilterTargets", "df/df1/a22140.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "df/df1/a22140.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "df/df1/a22140.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "npc_crusade_recruitAI", "df/da9/a22144.html", "df/da9/a22144" ],
+    [ "npc_crusade_recruit", "df/df1/a22140.html#a6e130f153c506255ef5ece1baf006028", null ],
+    [ "GetAI", "df/df1/a22140.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
 ];

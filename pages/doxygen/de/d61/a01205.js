@@ -1,8 +1,8 @@
 var a01205 =
 [
-    [ "boss_ionar", "d9/d2e/a19724.html", "d9/d2e/a19724" ],
-    [ "npc_spark_of_ionar", "d9/dea/a19728.html", "d9/dea/a19728" ],
-    [ "spell_ionar_static_overload", "d7/d35/a19732.html", "d7/d35/a19732" ],
+    [ "boss_ionar", "d2/de3/a19740.html", "d2/de3/a19740" ],
+    [ "npc_spark_of_ionar", "d2/d18/a19744.html", "d2/d18/a19744" ],
+    [ "spell_ionar_static_overload", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
     [ "IonarEvents", "de/d61/a01205.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "de/d61/a01205.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "de/d61/a01205.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],

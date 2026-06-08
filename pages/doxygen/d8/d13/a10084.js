@@ -1,6 +1,5 @@
 var a10084 =
 [
-    [ "ServerMailItems", "d8/d13/a10084.html#a95cb2278da300c6b0385241f5a3950c1", null ],
-    [ "item", "d8/d13/a10084.html#ae03738595a87a47e831bcbeea6f97d34", null ],
-    [ "itemCount", "d8/d13/a10084.html#a4475d65dd5721d4af323ae93d15f4170", null ]
+    [ "item_guid", "d8/d13/a10084.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "d8/d13/a10084.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

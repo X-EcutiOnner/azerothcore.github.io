@@ -1,7 +1,7 @@
 var a10880 =
 [
-    [ "LogoutResponse", "d7/db8/a10880.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d7/db8/a10880.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d7/db8/a10880.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d7/db8/a10880.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "CalendarComplain", "d7/db8/a10880.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "d7/db8/a10880.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "d7/db8/a10880.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "d7/db8/a10880.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

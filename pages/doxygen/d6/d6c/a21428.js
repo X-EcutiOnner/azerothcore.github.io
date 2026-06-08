@@ -1,6 +1,6 @@
 var a21428 =
 [
-    [ "npc_mindless_ghoulAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
-    [ "npc_mindless_ghoul", "d6/d6c/a21428.html#ac5bf71e719c0df04687f426a022fd65e", null ],
-    [ "GetAI", "d6/d6c/a21428.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
+    [ "npc_hourglass_of_eternityAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
+    [ "npc_hourglass_of_eternity", "d6/d6c/a21428.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "d6/d6c/a21428.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

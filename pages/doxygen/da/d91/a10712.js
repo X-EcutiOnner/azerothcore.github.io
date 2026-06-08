@@ -1,12 +1,17 @@
 var a10712 =
 [
-    [ "ItemScript", "da/d91/a10712.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "da/d91/a10712.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "da/d91/a10712.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "da/d91/a10712.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "da/d91/a10712.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "da/d91/a10712.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "da/d91/a10712.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "da/d91/a10712.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "da/d91/a10712.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "GuildScript", "da/d91/a10712.html#a9f2e849a2fb4a1cb901080f129692482", null ],
+    [ "CanGuildSendBankList", "da/d91/a10712.html#a293f3d822ae075246f1a7552ce9b0424", null ],
+    [ "IsDatabaseBound", "da/d91/a10712.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
+    [ "OnAddMember", "da/d91/a10712.html#a908df71c0d9be1258e624f4e977e8d75", null ],
+    [ "OnBankEvent", "da/d91/a10712.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
+    [ "OnCreate", "da/d91/a10712.html#acfc89fe841629beca8de15c23c48a6c7", null ],
+    [ "OnDisband", "da/d91/a10712.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
+    [ "OnEvent", "da/d91/a10712.html#ad0733568cee8ded5c89d8404166201bb", null ],
+    [ "OnInfoChanged", "da/d91/a10712.html#a3ce284c112b61c6077b509d55a52f388", null ],
+    [ "OnItemMove", "da/d91/a10712.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
+    [ "OnMemberDepositMoney", "da/d91/a10712.html#a64d676d964b408b6fde7ab9185951eb0", null ],
+    [ "OnMemberWitdrawMoney", "da/d91/a10712.html#a503c5116512f8ac45506732674aa5635", null ],
+    [ "OnMOTDChanged", "da/d91/a10712.html#ac5886f63fbc5da499843677339f4944b", null ],
+    [ "OnRemoveMember", "da/d91/a10712.html#a0231be74a2625a91fc617980dfc41ca3", null ]
 ];

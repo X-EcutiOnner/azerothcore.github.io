@@ -1,7 +1,6 @@
 var a16292 =
 [
-    [ "HandleScriptEffect", "d5/d30/a16292.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d5/d30/a16292.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d5/d30/a16292.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d5/d30/a16292.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d8/df4/a16296.html", "d8/df4/a16296" ],
+    [ "instance_azjol_nerub", "d5/d30/a16292.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d5/d30/a16292.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

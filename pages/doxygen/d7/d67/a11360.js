@@ -1,7 +1,11 @@
 var a11360 =
 [
-    [ "TrainerBuySucceeded", "d7/d67/a11360.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d7/d67/a11360.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d7/d67/a11360.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d7/d67/a11360.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "MoneyCost", "d7/d67/a11360.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "d7/d67/a11360.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "d7/d67/a11360.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "d7/d67/a11360.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "d7/d67/a11360.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "d7/d67/a11360.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "d7/d67/a11360.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "d7/d67/a11360.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

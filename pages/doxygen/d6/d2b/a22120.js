@@ -1,6 +1,14 @@
 var a22120 =
 [
-    [ "npc_released_offspring_harkoaAI", "d6/d2b/a22120.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d6/d2b/a22120.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d6/d2b/a22120.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_finklesteinAI", "d6/d2b/a22120.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d6/d2b/a22120.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d6/d2b/a22120.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d6/d2b/a22120.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d6/d2b/a22120.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d6/d2b/a22120.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d6/d2b/a22120.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d6/d2b/a22120.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d6/d2b/a22120.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d6/d2b/a22120.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d6/d2b/a22120.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

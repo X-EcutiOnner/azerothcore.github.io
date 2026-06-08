@@ -12,8 +12,12 @@ var namespaces_dup =
     ] ],
     [ "anonymous_namespace{BattlegroundSpamProtect.cpp}", "d1/dd2/a05073.html", [
       [ "AddTime", "d1/dd2/a05073.html#aae074176c44fa3d99280320c869fde46", null ],
+      [ "AddTime", "d1/dd2/a05073.html#a430fcc06d66963c8dbbd1c988923511e", null ],
       [ "GetTime", "d1/dd2/a05073.html#ae44f550ac340528abe454269c2273d73", null ],
+      [ "GetTime", "d1/dd2/a05073.html#a0bc4b2da3db35b3fbcd4dbe01181f05f", null ],
       [ "IsCorrectDelay", "d1/dd2/a05073.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
+      [ "IsCorrectDelay", "d1/dd2/a05073.html#ab753898b2bbc94059274e9a9483b0e70", null ],
+      [ "_brackets", "d1/dd2/a05073.html#a57b562a95d0fb9c2ee34520175d63a92", null ],
       [ "_players", "d1/dd2/a05073.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
     ] ],
     [ "anonymous_namespace{BinarySpellDetectionTest.cpp}", "d0/d42/a05127.html", [
@@ -88,9 +92,7 @@ var namespaces_dup =
       [ "NewResetFormula", "d9/d0b/a05125.html#aae298365d32c23f29d12e5f81b91db99", null ],
       [ "OldResetFormula", "d9/d0b/a05125.html#ab75ddecb6b6e4a6ea3bd62e8a45d2ba2", null ]
     ] ],
-    [ "anonymous_namespace{ScriptMgr.cpp}", "de/d11/a05095.html", [
-      [ "SCR_CLEAR", "de/d11/a05095.html#ab71e08e3f39b7ee7bda0306cd39b96a0", null ]
-    ] ],
+    [ "anonymous_namespace{ScriptMgr.cpp}", "de/d11/a05095.html", "de/d11/a05095" ],
     [ "anonymous_namespace{SnakeTrapEvadeTest.cpp}", "dc/d0c/a05122.html", "dc/d0c/a05122" ],
     [ "anonymous_namespace{SpellImmunityTest.cpp}", "d8/d2c/a05128.html", "d8/d2c/a05128" ],
     [ "anonymous_namespace{SpellProcArcanePotencyTest.cpp}", "d5/df0/a05129.html", [

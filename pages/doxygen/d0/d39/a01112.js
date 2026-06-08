@@ -1,7 +1,7 @@
 var a01112 =
 [
-    [ "boss_ichoron", "d4/d9a/a21120.html", "d4/d9a/a21120" ],
-    [ "npc_ichor_globule", "de/d5d/a21124.html", "de/d5d/a21124" ],
+    [ "boss_ichoron", "d1/ddf/a21136.html", "d1/ddf/a21136" ],
+    [ "npc_ichor_globule", "d6/d25/a21140.html", "d6/d25/a21140" ],
     [ "ACTION_WATER_ELEMENT_HIT", "d0/d39/a01112.html#a604a96878790aff47651e4539253d716", null ],
     [ "ACTION_WATER_ELEMENT_KILLED", "d0/d39/a01112.html#a0819f535f9b98d41695eeb883e6d94a4", null ],
     [ "MAX_SPAWN_LOC", "d0/d39/a01112.html#a986d752f01bfa1c34b10e82145538920", null ],

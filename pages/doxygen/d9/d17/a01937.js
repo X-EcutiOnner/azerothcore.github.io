@@ -1,10 +1,10 @@
 var a01937 =
 [
-    [ "DialogueEntry", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
-    [ "DialogueHelper", "d7/de2/a16060.html", "d7/de2/a16060" ],
-    [ "npc_ranshalla", "d9/d73/a16064.html", "d9/d73/a16064" ],
-    [ "npc_ranshalla::npc_ranshallaAI", "d9/d48/a16068.html", "d9/d48/a16068" ],
-    [ "go_elune_fire", "dd/db5/a16072.html", "dd/db5/a16072" ],
+    [ "DialogueEntry", "dd/db5/a16072.html", "dd/db5/a16072" ],
+    [ "DialogueHelper", "d6/dc9/a16076.html", "d6/dc9/a16076" ],
+    [ "npc_ranshalla", "d1/d52/a16080.html", "d1/d52/a16080" ],
+    [ "npc_ranshalla::npc_ranshallaAI", "d1/d91/a16084.html", "d1/d91/a16084" ],
+    [ "go_elune_fire", "de/d4d/a16088.html", "de/d4d/a16088" ],
     [ "Dummies", "d9/d17/a01937.html#a2bbe982dfe66b7d2feb6449e4b33ac2e", [
       [ "NPC_PRIESTESS_DATA_1", "d9/d17/a01937.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea0594ed0eed6a55af01b29286273cadef", null ],
       [ "NPC_PRIESTESS_DATA_2", "d9/d17/a01937.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea4236792aa6debd5b26af8a27358513fc", null ],

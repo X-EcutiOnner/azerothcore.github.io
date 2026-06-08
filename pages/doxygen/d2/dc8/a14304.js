@@ -1,8 +1,6 @@
 var a14304 =
 [
-    [ "FilterTargets", "d2/dc8/a14304.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d2/dc8/a14304.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d2/dc8/a14304.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d2/dc8/a14304.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d2/dc8/a14304.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_zulian_prowlerAI", "d5/dfd/a14308.html", "d5/dfd/a14308" ],
+    [ "npc_zulian_prowler", "d2/dc8/a14304.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d2/dc8/a14304.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

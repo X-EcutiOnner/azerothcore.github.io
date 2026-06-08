@@ -1,7 +1,11 @@
 var a13320 =
 [
-    [ "HandleEffectApply", "d0/d1e/a13320.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d0/d1e/a13320.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d0/d1e/a13320.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d0/d1e/a13320.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_scarlet_ghoulAI", "d0/d1e/a13320.html#a194795143717de5aa8f0ca4c4e516136", null ],
+    [ "InitializeAI", "d0/d1e/a13320.html#ad0fd204d15350332508b0c9d9decefb1", null ],
+    [ "MovementInform", "d0/d1e/a13320.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
+    [ "OwnerAttackedBy", "d0/d1e/a13320.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
+    [ "SetGUID", "d0/d1e/a13320.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
+    [ "UpdateAI", "d0/d1e/a13320.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
+    [ "events", "d0/d1e/a13320.html#a105ac0982d28be590d514d2e452109c0", null ],
+    [ "gothikGUID", "d0/d1e/a13320.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
 ];

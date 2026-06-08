@@ -1,10 +1,7 @@
 var a15724 =
 [
-    [ "npc_murkdeepAI", "d8/da8/a15724.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d8/da8/a15724.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d8/da8/a15724.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d8/da8/a15724.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d8/da8/a15724.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d8/da8/a15724.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d8/da8/a15724.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_prophet_velen", "d8/da8/a15724.html#a6f35fa9af478e1bb8fbbdda97845d067", null ],
+    [ "JustDied", "d8/da8/a15724.html#a8f1e689b5597bc1c8c810bafe2ad0330", null ],
+    [ "Reset", "d8/da8/a15724.html#a5beec39fd545129d0f124bb19524f95c", null ],
+    [ "UpdateAI", "d8/da8/a15724.html#a2d016ecfedc5c7e886e7412081b54792", null ]
 ];

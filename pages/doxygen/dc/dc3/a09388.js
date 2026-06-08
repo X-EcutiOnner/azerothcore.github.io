@@ -1,6 +1,6 @@
 var a09388 =
 [
-    [ "m_guid", "dc/dc3/a09388.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "dc/dc3/a09388.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "dc/dc3/a09388.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "lang_id", "dc/dc3/a09388.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "dc/dc3/a09388.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "dc/dc3/a09388.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

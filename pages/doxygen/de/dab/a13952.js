@@ -1,17 +1,10 @@
 var a13952 =
 [
-    [ "npc_rinjiAI", "de/dab/a13952.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "de/dab/a13952.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "de/dab/a13952.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "de/dab/a13952.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "de/dab/a13952.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "de/dab/a13952.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "de/dab/a13952.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "de/dab/a13952.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "de/dab/a13952.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "WaypointReached", "de/dab/a13952.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_IsByOutrunner", "de/dab/a13952.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "de/dab/a13952.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "de/dab/a13952.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "de/dab/a13952.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "npc_sentinel_leader", "de/dab/a13952.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "de/dab/a13952.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "de/dab/a13952.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "de/dab/a13952.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "de/dab/a13952.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "de/dab/a13952.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "de/dab/a13952.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

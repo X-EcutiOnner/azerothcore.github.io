@@ -1,7 +1,11 @@
 var a12528 =
 [
-    [ "boss_grizzle", "d8/dbf/a12528.html#af5d864d2e06859a3c21506b8def424d0", null ],
-    [ "JustEngagedWith", "d8/dbf/a12528.html#ad925b3a8190037e1768b1c5565656be7", null ],
-    [ "UpdateAI", "d8/dbf/a12528.html#a72c28686adf331ed291585f830041041", null ],
-    [ "nextTremorTime", "d8/dbf/a12528.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
+    [ "boss_emperor_dagran_thaurissan", "d8/dbf/a12528.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "d8/dbf/a12528.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "d8/dbf/a12528.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "d8/dbf/a12528.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "d8/dbf/a12528.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "d8/dbf/a12528.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "d8/dbf/a12528.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "d8/dbf/a12528.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

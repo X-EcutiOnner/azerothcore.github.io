@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/mpq_libmpq.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/TypeList.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,46 +105,84 @@ $(document).ready(function(){initNavTree('dd/d85/a30733.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#concepts">Concepts</a> &#124;
+<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">mpq_libmpq.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">TypeList.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code><br />
-<code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;cstdio&gt;</code><br />
-<code>#include &lt;deque&gt;</code><br />
+<div class="textblock"><code>#include &lt;cstddef&gt;</code><br />
+<code>#include &lt;utility&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d2a/a05904.html">Acore::type_list&lt; Ts &gt;</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Provide an empty tag type containing the specified <code>Ts</code>.  <a href="../../dd/d2a/a05904.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4c/a05912.html">Acore::Impl::list_size&lt; type_list&lt; Ts... &gt; &gt;</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:db/d20/a05034"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d8/d5f/a05046"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html">Acore::Impl</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="concepts" name="concepts"></a>
+Concepts</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">concept &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d42/a29913.html">Acore::AnyTypeList</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Satisfied only by <a class="el" href="../../dd/d2a/a05904.html" title="Provide an empty tag type containing the specified Ts.">Acore::type_list</a> specializations. <br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:af3502a542fe8940c5967acc190cef55a"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Func &gt; </td></tr>
+<tr class="memitem:af3502a542fe8940c5967acc190cef55a"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html#af3502a542fe8940c5967acc190cef55a">Acore::Impl::for_each</a> (type_list&lt; Ts... &gt;, Func &amp;&amp;f)</td></tr>
+<tr class="separator:af3502a542fe8940c5967acc190cef55a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f33370510f6a20f2c280ddb7aee8113"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Pred &gt; </td></tr>
+<tr class="memitem:a3f33370510f6a20f2c280ddb7aee8113"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html#a3f33370510f6a20f2c280ddb7aee8113">Acore::Impl::count_if</a> (type_list&lt; Ts... &gt;, Pred pred)</td></tr>
+<tr class="separator:a3f33370510f6a20f2c280ddb7aee8113"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memTemplParams" colspan="2">template&lt;typename... Ts, typename Pred &gt; </td></tr>
+<tr class="memitem:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html#af5885336c2d6f4bac05b7ab6a79d1ba9">Acore::Impl::any_of</a> (type_list&lt; Ts... &gt;, Pred pred)</td></tr>
+<tr class="separator:af5885336c2d6f4bac05b7ab6a79d1ba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Func &gt; </td></tr>
+<tr class="memitem:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memTemplItemLeft" align="right" valign="top">constexpr void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html#a63f3ebca59abc8aeb41648f6f79da7f3">Acore::for_each</a> (Func &amp;&amp;f)</td></tr>
+<tr class="memdesc:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Invoke the specified <code>f</code> once for each type in the specified <code>List</code>, in declaration order.  <a href="../../db/d20/a05034.html#a63f3ebca59abc8aeb41648f6f79da7f3">More...</a><br /></td></tr>
+<tr class="separator:a63f3ebca59abc8aeb41648f6f79da7f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html#a86386611f0e1cc0f7e33cb9bc0403679">Acore::count_if</a> (Pred pred)</td></tr>
+<tr class="memdesc:a86386611f0e1cc0f7e33cb9bc0403679"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return the number of types in the specified <code>List</code> for which the specified <code>pred</code> returns true.  <a href="../../db/d20/a05034.html#a86386611f0e1cc0f7e33cb9bc0403679">More...</a><br /></td></tr>
+<tr class="separator:a86386611f0e1cc0f7e33cb9bc0403679"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List, typename Pred &gt; </td></tr>
+<tr class="memitem:a47058396f75885b2327eea9530b910d7"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html#a47058396f75885b2327eea9530b910d7">Acore::any_of</a> (Pred pred)</td></tr>
+<tr class="memdesc:a47058396f75885b2327eea9530b910d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Return true if the specified <code>pred</code> returns true for any type in the specified <code>List</code>, and false otherwise.  <a href="../../db/d20/a05034.html#a47058396f75885b2327eea9530b910d7">More...</a><br /></td></tr>
+<tr class="separator:a47058396f75885b2327eea9530b910d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/dac/a30736.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d85/a30733.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></td></tr>
-<tr class="separator:a8ae40ebe73635e831bc65b70e7f97f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af90fd778c5d0004ab7da96e3250e1186"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:af90fd778c5d0004ab7da96e3250e1186"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html#af90fd778c5d0004ab7da96e3250e1186">Acore::Impl::is_type_list</a> = false</td></tr>
+<tr class="separator:af90fd778c5d0004ab7da96e3250e1186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6a868461567e901fbc55cdc2377b4ec"><td class="memTemplParams" colspan="2">template&lt;typename... Ts&gt; </td></tr>
+<tr class="memitem:ab6a868461567e901fbc55cdc2377b4ec"><td class="memTemplItemLeft" align="right" valign="top">constexpr bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d8/d5f/a05046.html#ab6a868461567e901fbc55cdc2377b4ec">Acore::Impl::is_type_list&lt; type_list&lt; Ts... &gt; &gt;</a> = true</td></tr>
+<tr class="separator:ab6a868461567e901fbc55cdc2377b4ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplParams" colspan="2">template&lt;AnyTypeList List&gt; </td></tr>
+<tr class="memitem:a9c605be8d96841d40f90f900dfdae16a"><td class="memTemplItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html#a9c605be8d96841d40f90f900dfdae16a">Acore::size_v</a> = Impl::list_size&lt;List&gt;::value</td></tr>
+<tr class="memdesc:a9c605be8d96841d40f90f900dfdae16a"><td class="mdescLeft">&#160;</td><td class="mdescRight">The number of types in the specified <code>List</code>.  <a href="../../db/d20/a05034.html#a9c605be8d96841d40f90f900dfdae16a">More...</a><br /></td></tr>
+<tr class="separator:a9c605be8d96841d40f90f900dfdae16a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a8ae40ebe73635e831bc65b70e7f97f3c" name="a8ae40ebe73635e831bc65b70e7f97f3c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ae40ebe73635e831bc65b70e7f97f3c">&#9670;&#160;</a></span>gOpenArchives</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/dac/a30736.html#a8d76af4bfff910da40b4f93a1c465744">ArchiveSet</a> gOpenArchives</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01175">CloseMPQFiles()</a>, <a class="el" href="../../#l01038">ExtractDBCFiles()</a>, and <a class="el" href="../../#l00427">main()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../dd/d85/a30733.html">mpq_libmpq.cpp</a></li>
-    <li class="footer">Generated on Mon May 25 2026 21:49:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../dd/d85/a30733.html">TypeList.h</a></li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:13:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

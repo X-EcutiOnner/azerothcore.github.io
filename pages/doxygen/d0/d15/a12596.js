@@ -1,14 +1,8 @@
 var a12596 =
 [
-    [ "boss_mor_grayhoof", "d0/d15/a12596.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d0/d15/a12596.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d0/d15/a12596.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d0/d15/a12596.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d0/d15/a12596.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d0/d15/a12596.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d0/d15/a12596.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d0/d15/a12596.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d0/d15/a12596.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d0/d15/a12596.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d0/d15/a12596.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "CheckProc", "d0/d15/a12596.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d0/d15/a12596.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d0/d15/a12596.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d0/d15/a12596.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d0/d15/a12596.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

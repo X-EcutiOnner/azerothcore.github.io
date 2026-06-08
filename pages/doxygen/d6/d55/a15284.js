@@ -1,6 +1,6 @@
 var a15284 =
 [
-    [ "npc_belnistraszAI", "de/d36/a15288.html", "de/d36/a15288" ],
-    [ "npc_belnistrasz", "d6/d55/a15284.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "d6/d55/a15284.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "instance_ragefire_chasm_InstanceMapScript", "de/d36/a15288.html", "de/d36/a15288" ],
+    [ "instance_ragefire_chasm", "d6/d55/a15284.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
+    [ "GetInstanceScript", "d6/d55/a15284.html#a0568996a61ef91688b9f223cb3782e5a", null ]
 ];

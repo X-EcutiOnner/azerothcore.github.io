@@ -1,11 +1,6 @@
 var a19868 =
 [
-    [ "npc_living_constellation", "db/dea/a19868.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
-    [ "DoAction", "db/dea/a19868.html#a45ba20e86f9d3c041260c88130521a61", null ],
-    [ "GetData", "db/dea/a19868.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
-    [ "Reset", "db/dea/a19868.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
-    [ "SpellHit", "db/dea/a19868.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
-    [ "UpdateAI", "db/dea/a19868.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
-    [ "_isActive", "db/dea/a19868.html#a810c918ac2523f04d8364f507e6c01bb", null ],
-    [ "events", "db/dea/a19868.html#aaa9152db699878d67e8b8288d729fca3", null ]
+    [ "CosmicSmashDamageEvent", "db/dea/a19868.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "db/dea/a19868.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "db/dea/a19868.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

@@ -1,12 +1,7 @@
 var a19728 =
 [
-    [ "npc_spark_of_ionar", "d9/dea/a19728.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "d9/dea/a19728.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "d9/dea/a19728.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "d9/dea/a19728.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "d9/dea/a19728.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "d9/dea/a19728.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "d9/dea/a19728.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "d9/dea/a19728.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "d9/dea/a19728.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "HandleOnEffectApply", "d9/dea/a19728.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d9/dea/a19728.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d9/dea/a19728.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d9/dea/a19728.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

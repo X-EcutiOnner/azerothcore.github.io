@@ -1,7 +1,5 @@
 var a23512 =
 [
-    [ "HandleEffect", "dc/d97/a23512.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "dc/d97/a23512.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "dc/d97/a23512.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "dc/d97/a23512.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "npc_telonicus", "dc/d97/a23512.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "dc/d97/a23512.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

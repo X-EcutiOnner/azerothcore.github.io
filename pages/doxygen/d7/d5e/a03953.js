@@ -1,6 +1,6 @@
 var a03953 =
 [
-    [ "AISpellInfoType", "d5/d47/a06496.html", "d5/d47/a06496" ],
+    [ "AISpellInfoType", "d3/dcd/a06508.html", "d3/dcd/a06508" ],
     [ "AI_DEFAULT_COOLDOWN", "d7/d5e/a03953.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
     [ "AICondition", "d7/d5e/a03953.html#ac43b18581ae7a7b66984b1003502d5af", [
       [ "AICOND_AGGRO", "d7/d5e/a03953.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],

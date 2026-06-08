@@ -1,6 +1,6 @@
 var a01754 =
 [
-    [ "boss_captain_skarloc", "d1/d3d/a15152.html", "d1/d3d/a15152" ],
+    [ "boss_captain_skarloc", "db/d76/a15168.html", "db/d76/a15168" ],
     [ "Misc", "d9/d37/a01754.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

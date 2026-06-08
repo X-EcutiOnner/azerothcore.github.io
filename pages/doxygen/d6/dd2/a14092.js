@@ -1,9 +1,7 @@
 var a14092 =
 [
-    [ "npc_thrall_bfuAI", "d4/df9/a14096.html", "d4/df9/a14096" ],
-    [ "npc_thrall_bfu", "d6/dd2/a14092.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
-    [ "GetAI", "d6/dd2/a14092.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
-    [ "OnGossipHello", "d6/dd2/a14092.html#a71a7108464de9245879c8a1c08932e2a", null ],
-    [ "OnGossipSelect", "d6/dd2/a14092.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
-    [ "OnQuestReward", "d6/dd2/a14092.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d6/dd2/a14092.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d6/dd2/a14092.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d6/dd2/a14092.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d6/dd2/a14092.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

@@ -1,15 +1,15 @@
 var a19324 =
 [
-    [ "boss_kelthuzad_minionAI", "da/d3c/a19324.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "da/d3c/a19324.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "da/d3c/a19324.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "da/d3c/a19324.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "da/d3c/a19324.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "da/d3c/a19324.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "da/d3c/a19324.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "da/d3c/a19324.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "da/d3c/a19324.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "da/d3c/a19324.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "da/d3c/a19324.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "da/d3c/a19324.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "boss_heigan", "da/d3c/a19324.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "da/d3c/a19324.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "da/d3c/a19324.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "da/d3c/a19324.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "da/d3c/a19324.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "da/d3c/a19324.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "da/d3c/a19324.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "da/d3c/a19324.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "da/d3c/a19324.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "da/d3c/a19324.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "da/d3c/a19324.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "da/d3c/a19324.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

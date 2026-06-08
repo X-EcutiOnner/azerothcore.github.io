@@ -1,7 +1,7 @@
 var a01871 =
 [
-    [ "boss_skeram", "d2/d2c/a15532.html", "d2/d2c/a15532" ],
-    [ "spell_skeram_arcane_explosion", "d0/db9/a15536.html", "d0/db9/a15536" ],
+    [ "boss_skeram", "d5/d10/a15548.html", "d5/d10/a15548" ],
+    [ "spell_skeram_arcane_explosion", "dc/ddc/a15552.html", "dc/ddc/a15552" ],
     [ "Events", "da/d8b/a01871.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

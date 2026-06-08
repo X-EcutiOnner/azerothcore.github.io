@@ -1,14 +1,8 @@
 var a12520 =
 [
-    [ "boss_general_angerforge", "d1/da6/a12520.html#a0f65a3a8acdca0361f468538b4c8bb5e", null ],
-    [ "JustEngagedWith", "d1/da6/a12520.html#a5b2e7aead30ad3c07786c616c0b2f44e", null ],
-    [ "Reset", "d1/da6/a12520.html#a8f05f134eb43a6812bc2d41734d2429e", null ],
-    [ "SummonAdds", "d1/da6/a12520.html#a723891cc60b4d84b29d395e4ddffff57", null ],
-    [ "SummonMedics", "d1/da6/a12520.html#ac21b4424cdf3e5e336970e1f8d5aea98", null ],
-    [ "UpdateAI", "d1/da6/a12520.html#ae37de4567bf4a03779a87e9d650ac1ea", null ],
-    [ "_addsTimer", "d1/da6/a12520.html#a1ddffcd960d1c06ade7b6de70faeb46d", null ],
-    [ "_cleaveTimer", "d1/da6/a12520.html#a47958223deb7aa97aaf331bdffd9dd2d", null ],
-    [ "_hamStringTimer", "d1/da6/a12520.html#adaa360262079ea390077cea70e401da5", null ],
-    [ "_medics", "d1/da6/a12520.html#ac1039c144c16e70818a199d91cace370", null ],
-    [ "_mightyBlowTimer", "d1/da6/a12520.html#a7bd4ccf9648804c972dec5d7a35eaaa4", null ]
+    [ "npc_burning_spirit", "d1/da6/a12520.html#acb0a685ea9aaddd23580ebeb4a0f1e45", null ],
+    [ "EnterEvadeMode", "d1/da6/a12520.html#a162d280d1fc53de0655c99efce81c539", null ],
+    [ "IsSummonedBy", "d1/da6/a12520.html#a3ef47ad5f1697f3a890469412e43c452", null ],
+    [ "MovementInform", "d1/da6/a12520.html#a4c001de653aa8b096552247f5cbf1573", null ],
+    [ "_flamelasherGUID", "d1/da6/a12520.html#aea694b777b8437b5909bd668279837b1", null ]
 ];

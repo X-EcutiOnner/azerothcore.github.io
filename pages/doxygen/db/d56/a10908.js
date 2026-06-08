@@ -1,7 +1,5 @@
 var a10908 =
 [
-    [ "Emote", "db/d56/a10908.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "db/d56/a10908.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "db/d56/a10908.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "db/d56/a10908.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "LogoutCancelAck", "db/d56/a10908.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "db/d56/a10908.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

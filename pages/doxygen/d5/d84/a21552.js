@@ -1,6 +1,6 @@
 var a21552 =
 [
-    [ "npc_torturer_lecraftAI", "d9/dce/a21556.html", "d9/dce/a21556" ],
-    [ "npc_torturer_lecraft", "d5/d84/a21552.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d5/d84/a21552.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_spiritual_insightAI", "d5/d84/a21552.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d5/d84/a21552.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d5/d84/a21552.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

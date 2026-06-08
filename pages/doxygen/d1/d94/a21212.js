@@ -1,8 +1,8 @@
 var a21212 =
 [
-    [ "HandleEffectRemove", "d1/d94/a21212.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d1/d94/a21212.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d1/d94/a21212.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d1/d94/a21212.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d1/d94/a21212.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_azure_sorceror", "d1/d94/a21212.html#afd53ae322f8387b5e5fe55e28612ce2f", null ],
+    [ "Reset", "d1/d94/a21212.html#af4bc0ff9b938302c399bff528dd06769", null ],
+    [ "UpdateAI", "d1/d94/a21212.html#a36675e89aab24a92589a33f88fbec2bd", null ],
+    [ "_arcaneStreamOnCooldown", "d1/d94/a21212.html#a462d57b8e8cd01a9ec1bd59a453f6ab5", null ],
+    [ "_events", "d1/d94/a21212.html#a3bd018057b31c90afd19ac6943d44591", null ]
 ];

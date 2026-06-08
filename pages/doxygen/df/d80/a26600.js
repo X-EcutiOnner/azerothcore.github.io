@@ -1,8 +1,7 @@
 var a26600 =
 [
-    [ "CheckProc", "df/d80/a26600.html#ab37749506a197a97cb3cc567cdff199c", null ],
-    [ "HandleProc", "df/d80/a26600.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
-    [ "PrepareAuraScript", "df/d80/a26600.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
-    [ "Register", "df/d80/a26600.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
-    [ "Validate", "df/d80/a26600.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
+    [ "CheckProc", "df/d80/a26600.html#adc34c24521c893499c72bc0fe8a946eb", null ],
+    [ "PrepareAuraScript", "df/d80/a26600.html#a1e7cf41ceb818d7d234c1b998e7280be", null ],
+    [ "Register", "df/d80/a26600.html#a60a2902196abf3239fe6b8f7defcd609", null ],
+    [ "Validate", "df/d80/a26600.html#a13e108f88a07f0b46291cdc718022437", null ]
 ];

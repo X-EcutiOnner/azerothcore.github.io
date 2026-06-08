@@ -1,7 +1,6 @@
 var a17428 =
 [
-    [ "HandleDummy", "db/dca/a17428.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "db/dca/a17428.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "db/dca/a17428.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "db/dca/a17428.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "boss_drakkari_elementalAI", "d0/dff/a17432.html", "d0/dff/a17432" ],
+    [ "boss_drakkari_elemental", "db/dca/a17428.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "db/dca/a17428.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

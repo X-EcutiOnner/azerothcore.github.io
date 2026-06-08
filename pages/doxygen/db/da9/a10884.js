@@ -1,5 +1,6 @@
 var a10884 =
 [
-    [ "LogoutComplete", "db/da9/a10884.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "db/da9/a10884.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "ShowingCloak", "db/da9/a10884.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "db/da9/a10884.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "db/da9/a10884.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

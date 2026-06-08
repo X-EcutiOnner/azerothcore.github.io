@@ -1,14 +1,11 @@
 var a13132 =
 [
-    [ "boss_strawman", "d8/d61/a13132.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
-    [ "DoAction", "d8/d61/a13132.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
-    [ "EnterEvadeMode", "d8/d61/a13132.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
-    [ "JustDied", "d8/d61/a13132.html#ab175b0104d316b8929e32d9eb939780f", null ],
-    [ "JustEngagedWith", "d8/d61/a13132.html#a40657516c4f1b049dd0514a50e299a10", null ],
-    [ "JustReachedHome", "d8/d61/a13132.html#a4235b2de2540199f9570cbadb7326871", null ],
-    [ "KilledUnit", "d8/d61/a13132.html#a06b92dbb6907ace60df7e10893be7af0", null ],
-    [ "SpellHit", "d8/d61/a13132.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
-    [ "UpdateAI", "d8/d61/a13132.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
-    [ "_scheduler", "d8/d61/a13132.html#a409539c771b373c165bdbccac8a59e7f", null ],
-    [ "instance", "d8/d61/a13132.html#a157a6faacf83432b8227173f6b14a7d3", null ]
+    [ "boss_terestian_illhoof", "d8/d61/a13132.html#a5750bf4f12ac01216335a926f885e136", null ],
+    [ "JustDied", "d8/d61/a13132.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
+    [ "JustEngagedWith", "d8/d61/a13132.html#adc1f9195954eda7ec406ac9a084b7508", null ],
+    [ "JustSummoned", "d8/d61/a13132.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
+    [ "KilledUnit", "d8/d61/a13132.html#ab7de8b406de200eec981fab79a56dcd7", null ],
+    [ "Reset", "d8/d61/a13132.html#a685b00f0e3317740412adfc48df1c3fb", null ],
+    [ "SpellHit", "d8/d61/a13132.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
+    [ "SummonKilrek", "d8/d61/a13132.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
 ];

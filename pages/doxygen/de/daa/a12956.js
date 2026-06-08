@@ -1,8 +1,10 @@
 var a12956 =
 [
-    [ "npc_kernobeeAI", "de/daa/a12956.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "de/daa/a12956.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "de/daa/a12956.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "de/daa/a12956.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "de/daa/a12956.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "instance_deadmines_InstanceMapScript", "de/daa/a12956.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "de/daa/a12956.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "de/daa/a12956.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "de/daa/a12956.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "de/daa/a12956.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "de/daa/a12956.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "de/daa/a12956.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

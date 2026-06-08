@@ -1,7 +1,7 @@
 var a00209 =
 [
-    [ "boss_kirtonos_the_herald", "da/d04/a13436.html", "da/d04/a13436" ],
-    [ "boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI", "d1/df9/a13440.html", "d1/df9/a13440" ],
+    [ "boss_kirtonos_the_herald", "d9/d20/a13452.html", "d9/d20/a13452" ],
+    [ "boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI", "db/dba/a13456.html", "db/dba/a13456" ],
     [ "Events", "d3/de5/a00209.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

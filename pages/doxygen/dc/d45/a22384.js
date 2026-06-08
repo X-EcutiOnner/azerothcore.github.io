@@ -1,6 +1,9 @@
 var a22384 =
 [
-    [ "HandleScriptEffect", "dc/d45/a22384.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "dc/d45/a22384.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "dc/d45/a22384.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/d45/a22384.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "dc/d45/a22384.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "dc/d45/a22384.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "dc/d45/a22384.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "dc/d45/a22384.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "dc/d45/a22384.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

@@ -1,13 +1,17 @@
 var a10480 =
 [
-    [ "entry", "d5/d94/a10480.html#a300fb240386044aab139e777d6244d19", null ],
-    [ "map", "d5/d94/a10480.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
-    [ "o", "d5/d94/a10480.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
-    [ "rot0", "d5/d94/a10480.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
-    [ "rot1", "d5/d94/a10480.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
-    [ "rot2", "d5/d94/a10480.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
-    [ "rot3", "d5/d94/a10480.html#a60460fc3030b24eef0246dae28af2282", null ],
-    [ "x", "d5/d94/a10480.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
-    [ "y", "d5/d94/a10480.html#ab42ebe981ba589e3d67110487bd88255", null ],
-    [ "z", "d5/d94/a10480.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
+    [ "WaypointNode", "d5/d94/a10480.html#a8f4aa765b3bedfec2a11da0c8ce2c116", null ],
+    [ "WaypointNode", "d5/d94/a10480.html#ab57dd64800b87f26256509533dc31f5c", null ],
+    [ "Delay", "d5/d94/a10480.html#a03268e85010c56f29325b80a9624a73b", null ],
+    [ "EventChance", "d5/d94/a10480.html#a2bffe84cee4076217d7c9cc09b880ad2", null ],
+    [ "EventId", "d5/d94/a10480.html#a244afd47ae7c71a15c82d9ee7036ebdb", null ],
+    [ "Id", "d5/d94/a10480.html#aec030367189f87dec789df49303916ed", null ],
+    [ "MoveType", "d5/d94/a10480.html#afd3a16c9a60b7f05816ab935b3578b8a", null ],
+    [ "Orientation", "d5/d94/a10480.html#a91fd08cd83ae7bb1b27563c38e674722", null ],
+    [ "SmoothTransition", "d5/d94/a10480.html#a8c9c60d5c5b0941291b6e3ba0cbece5f", null ],
+    [ "SplinePoints", "d5/d94/a10480.html#a1a9c709edeb58be70f51da2079bba579", null ],
+    [ "Velocity", "d5/d94/a10480.html#ab353b7326bb6bdbd5efd35574dcebbc0", null ],
+    [ "X", "d5/d94/a10480.html#aa62bd26c57e5cfbe62de0eb2d63e4610", null ],
+    [ "Y", "d5/d94/a10480.html#aba6568aff3a204c9e4ad8bfaeeaabc56", null ],
+    [ "Z", "d5/d94/a10480.html#aab4756345912b48fd2f352464e24bc1a", null ]
 ];

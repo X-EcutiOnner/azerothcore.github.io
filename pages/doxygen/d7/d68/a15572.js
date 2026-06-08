@@ -1,6 +1,7 @@
 var a15572 =
 [
-    [ "HandleOnHit", "d7/d68/a15572.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d7/d68/a15572.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d7/d68/a15572.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "FilterTargets", "d7/d68/a15572.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "d7/d68/a15572.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "d7/d68/a15572.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "d7/d68/a15572.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

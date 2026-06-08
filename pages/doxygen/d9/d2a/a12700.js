@@ -1,14 +1,9 @@
 var a12700 =
 [
-    [ "boss_chromaggus", "d9/d2a/a12700.html#a2da694ece234807365ce4f22e067eb5c", null ],
-    [ "CanAIAttack", "d9/d2a/a12700.html#aed1d8ef49450c5495045bd62f0f3e2e6", null ],
-    [ "Initialize", "d9/d2a/a12700.html#ac8d72d4c3b265abca798c9ddc166df3b", null ],
-    [ "JustEngagedWith", "d9/d2a/a12700.html#a7a9e301d17657ace82b4243814cbb52c", null ],
-    [ "PathEndReached", "d9/d2a/a12700.html#a790a3e06fb4db275bb447b15bb838508", null ],
-    [ "Reset", "d9/d2a/a12700.html#a003db2053b634c969499d45f7f65be6e", null ],
-    [ "SetGUID", "d9/d2a/a12700.html#afec7a40681ff89c4712bc50b7bc49d6a", null ],
-    [ "UpdateAI", "d9/d2a/a12700.html#abc27a22d82555fe3301708e9aaa61997", null ],
-    [ "_breathSpells", "d9/d2a/a12700.html#a5d46c6903fd106fd83f8115b48d40cf9", null ],
-    [ "_playerGUID", "d9/d2a/a12700.html#a3c04a19e87a122c12508e181319411a0", null ],
-    [ "Enraged", "d9/d2a/a12700.html#a4c19a112decabb38f1bca7dc60d622ef", null ]
+    [ "npc_vaelastrasz_the_red", "d9/d2a/a12700.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
+    [ "IsSummonedBy", "d9/d2a/a12700.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
+    [ "UpdateAI", "d9/d2a/a12700.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
+    [ "_combatEnabled", "d9/d2a/a12700.html#a373fe15d1e754f11db59186517783a40", null ],
+    [ "_events2", "d9/d2a/a12700.html#acecc982854e9d587112e9117e7d7a3fa", null ],
+    [ "_victorGUID", "d9/d2a/a12700.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
 ];

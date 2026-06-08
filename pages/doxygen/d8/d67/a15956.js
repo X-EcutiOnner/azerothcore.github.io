@@ -1,5 +1,6 @@
 var a15956 =
 [
-    [ "npc_steward_of_time", "d8/d67/a15956.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "d8/d67/a15956.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_aquementasAI", "db/d6b/a15960.html", "db/d6b/a15960" ],
+    [ "npc_aquementas", "d8/d67/a15956.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d8/d67/a15956.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

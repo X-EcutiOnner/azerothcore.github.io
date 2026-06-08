@@ -1,6 +1,6 @@
 var a16396 =
 [
-    [ "SendEncounterUnit", "d0/d5d/a16396.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d0/d5d/a16396.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d0/d5d/a16396.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "boss_general_zarithrianAI", "d3/d6f/a16400.html", "d3/d6f/a16400" ],
+    [ "boss_general_zarithrian", "d0/d5d/a16396.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "d0/d5d/a16396.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

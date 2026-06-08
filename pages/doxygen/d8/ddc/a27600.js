@@ -1,5 +1,7 @@
 var a27600 =
 [
-    [ "achievement_bg_ic_resource_glut", "d8/ddc/a27600.html#ace247962dccee2601ceade593b0874d4", null ],
-    [ "OnCheck", "d8/ddc/a27600.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
+    [ "HandleDummy", "d8/ddc/a27600.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d8/ddc/a27600.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d8/ddc/a27600.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d8/ddc/a27600.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

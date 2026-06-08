@@ -1,6 +1,6 @@
 var a13420 =
 [
-    [ "boss_darkmaster_gandlingAI", "d5/d12/a13424.html", "d5/d12/a13424" ],
-    [ "boss_darkmaster_gandling", "d0/de5/a13420.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d0/de5/a13420.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "npc_valkyr_battle_maidenAI", "d5/d12/a13424.html", "d5/d12/a13424" ],
+    [ "npc_valkyr_battle_maiden", "d0/de5/a13420.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "d0/de5/a13420.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

@@ -1,8 +1,6 @@
 var a14724 =
 [
-    [ "HandleDummy", "d4/d19/a14724.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
-    [ "Load", "d4/d19/a14724.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
-    [ "PrepareSpellScript", "d4/d19/a14724.html#af1d1ad32d41d79008d650b388353346b", null ],
-    [ "Register", "d4/d19/a14724.html#a53a7c4c025324b205a29f92dd48aefde", null ],
-    [ "handled", "d4/d19/a14724.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
+    [ "HandleScript", "d4/d19/a14724.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d4/d19/a14724.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d4/d19/a14724.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

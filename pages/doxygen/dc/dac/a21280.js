@@ -1,6 +1,7 @@
 var a21280 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "db/d4d/a21284.html", "db/d4d/a21284" ],
-    [ "npc_valiance_keep_cannoneer", "dc/dac/a21280.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "dc/dac/a21280.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_mootoo_the_youngerAI", "db/d4d/a21284.html", "db/d4d/a21284" ],
+    [ "npc_mootoo_the_younger", "dc/dac/a21280.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "dc/dac/a21280.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "dc/dac/a21280.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

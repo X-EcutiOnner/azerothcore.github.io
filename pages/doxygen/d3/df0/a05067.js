@@ -1,7 +1,7 @@
 var a05067 =
 [
-    [ "RBACData", "dd/dd3/a06236.html", "dd/dd3/a06236" ],
-    [ "RBACPermission", "dc/d00/a06232.html", "dc/d00/a06232" ],
+    [ "RBACData", "dd/d91/a06248.html", "dd/d91/a06248" ],
+    [ "RBACPermission", "da/da7/a06244.html", "da/da7/a06244" ],
     [ "RBACDefaultPermissionsContainer", "d3/df0/a05067.html#ac0b6edf00d4a9c1e3c496e98fdf865aa", null ],
     [ "RBACPermissionContainer", "d3/df0/a05067.html#af0c998db2902079aaa8ce1c4939335a7", null ],
     [ "RBACPermissionsContainer", "d3/df0/a05067.html#a1296774e1021cb68d7829832d153b2e3", null ],

@@ -1,7 +1,8 @@
 var a18976 =
 [
-    [ "HandleScript", "d5/d23/a18976.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d5/d23/a18976.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d5/d23/a18976.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d5/d23/a18976.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "CountTargets", "d5/d23/a18976.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d5/d23/a18976.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d5/d23/a18976.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d5/d23/a18976.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d5/d23/a18976.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

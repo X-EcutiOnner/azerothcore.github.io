@@ -1,6 +1,6 @@
 var a18728 =
 [
-    [ "npc_the_lich_king_controllerAI", "dc/d3e/a18732.html", "dc/d3e/a18732" ],
-    [ "npc_the_lich_king_controller", "df/daf/a18728.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "df/daf/a18728.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "boss_valithria_dreamwalkerAI", "dc/d3e/a18732.html", "dc/d3e/a18732" ],
+    [ "boss_valithria_dreamwalker", "df/daf/a18728.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "df/daf/a18728.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

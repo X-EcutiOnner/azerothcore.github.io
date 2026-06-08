@@ -1,10 +1,6 @@
 var a12740 =
 [
-    [ "npc_corrupted_totem", "d2/dac/a12740.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "d2/dac/a12740.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "d2/dac/a12740.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "d2/dac/a12740.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "d2/dac/a12740.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "d2/dac/a12740.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "d2/dac/a12740.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "boss_flamegor", "d2/dac/a12740.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d2/dac/a12740.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d2/dac/a12740.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

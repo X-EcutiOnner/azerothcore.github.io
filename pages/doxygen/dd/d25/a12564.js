@@ -1,6 +1,6 @@
 var a12564 =
 [
-    [ "RestoreAttack", "dd/d25/a12564.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
-    [ "Execute", "dd/d25/a12564.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
-    [ "_boss", "dd/d25/a12564.html#a493ef909da834b0befd90f57f54fb10c", null ]
+    [ "boss_high_priestess_thaurissan", "dd/d25/a12564.html#a72b25580dc84301be59d72df45a3ac87", null ],
+    [ "JustEngagedWith", "dd/d25/a12564.html#aa8ba467dd5633e96a20c634880710936", null ],
+    [ "UpdateAI", "dd/d25/a12564.html#a66612582a2362e4f07d7a2bda529af06", null ]
 ];

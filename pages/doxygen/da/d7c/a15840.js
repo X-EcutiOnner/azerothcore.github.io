@@ -1,6 +1,5 @@
 var a15840 =
 [
-    [ "npc_clintar_spiritAI", "d5/d15/a15844.html", "d5/d15/a15844" ],
-    [ "npc_clintar_spirit", "da/d7c/a15840.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "da/d7c/a15840.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "at_ancient_leaf", "da/d7c/a15840.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "da/d7c/a15840.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

@@ -1,9 +1,13 @@
 var a06544 =
 [
-    [ "Escort_Waypoint", "db/d1f/a06544.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "db/d1f/a06544.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "db/d1f/a06544.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "db/d1f/a06544.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "db/d1f/a06544.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "db/d1f/a06544.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "HealthCheckEventData", "db/d1f/a06544.html#a2610f9688b27212eb3470f55718c61f0", null ],
+    [ "GetDelay", "db/d1f/a06544.html#a9bab6c9834517c4260f814f258d52d5c", null ],
+    [ "HasBeenProcessed", "db/d1f/a06544.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
+    [ "IsPending", "db/d1f/a06544.html#a367c865eb488a2a95ce7e98536ccb311", null ],
+    [ "UpdateStatus", "db/d1f/a06544.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
+    [ "_allowedWhileCasting", "db/d1f/a06544.html#aff327c455fbd912579725956c99c3a2d", null ],
+    [ "_delay", "db/d1f/a06544.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
+    [ "_exec", "db/d1f/a06544.html#a66c38460690d77fb021c91fa676c3a12", null ],
+    [ "_healthPct", "db/d1f/a06544.html#a420edc39ff982d55ae82207a0cfe7689", null ],
+    [ "_status", "db/d1f/a06544.html#a787509d0963c134539e4dec7525b5608", null ]
 ];

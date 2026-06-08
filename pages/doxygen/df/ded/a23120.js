@@ -1,7 +1,7 @@
 var a23120 =
 [
-    [ "OnApply", "df/ded/a23120.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "df/ded/a23120.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "df/ded/a23120.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "df/ded/a23120.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "HandleScript", "df/ded/a23120.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "df/ded/a23120.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "df/ded/a23120.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "df/ded/a23120.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

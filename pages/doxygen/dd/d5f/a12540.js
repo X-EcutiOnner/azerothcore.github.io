@@ -1,7 +1,7 @@
 var a12540 =
 [
-    [ "boss_magmus", "dd/d5f/a12540.html#aacd115473f44148837153a3a5842748c", null ],
-    [ "JustEngagedWith", "dd/d5f/a12540.html#a810cd11145957fe02f2099e9db7e59c8", null ],
-    [ "Reset", "dd/d5f/a12540.html#af12976d66c690add0d08968799946174", null ],
-    [ "UpdateAI", "dd/d5f/a12540.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
+    [ "boss_gorosh_the_dervish", "dd/d5f/a12540.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "dd/d5f/a12540.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "dd/d5f/a12540.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "dd/d5f/a12540.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

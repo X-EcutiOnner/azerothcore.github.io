@@ -1,8 +1,11 @@
 var a29904 =
 [
-    [ "TileInfo", "d9/ddc/a29904.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "d9/ddc/a29904.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "d9/ddc/a29904.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "d9/ddc/a29904.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "d9/ddc/a29904.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "material", "d9/ddc/a29904.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d9/ddc/a29904.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d9/ddc/a29904.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d9/ddc/a29904.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d9/ddc/a29904.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d9/ddc/a29904.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d9/ddc/a29904.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d9/ddc/a29904.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

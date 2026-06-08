@@ -1,6 +1,5 @@
 var a12448 =
 [
-    [ "boss_drektharAI", "d4/d4a/a12452.html", "d4/d4a/a12452" ],
-    [ "boss_drekthar", "db/de4/a12448.html#ac9296654b10191ac9d58219ba36f57b3", null ],
-    [ "GetAI", "db/de4/a12448.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
+    [ "npcEntry", "db/de4/a12448.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "db/de4/a12448.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

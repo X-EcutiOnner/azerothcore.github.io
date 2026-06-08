@@ -1,7 +1,8 @@
 var a11248 =
 [
-    [ "SocketGems", "d1/d9f/a11248.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
-    [ "Read", "d1/d9f/a11248.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
-    [ "GemGuids", "d1/d9f/a11248.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
-    [ "ItemGuid", "d1/d9f/a11248.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
+    [ "AutoStoreBagItem", "d1/d9f/a11248.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d1/d9f/a11248.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d1/d9f/a11248.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d1/d9f/a11248.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d1/d9f/a11248.html#a517202ccb270d78289630404beb61afc", null ]
 ];

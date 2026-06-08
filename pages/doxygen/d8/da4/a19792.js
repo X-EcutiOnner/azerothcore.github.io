@@ -1,12 +1,6 @@
 var a19792 =
 [
-    [ "boss_sjonnirAI", "d8/da4/a19792.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d8/da4/a19792.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d8/da4/a19792.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d8/da4/a19792.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d8/da4/a19792.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d8/da4/a19792.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d8/da4/a19792.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "d8/da4/a19792.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "d8/da4/a19792.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "CalculateDamage", "d8/da4/a19792.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d8/da4/a19792.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d8/da4/a19792.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

@@ -1,8 +1,5 @@
 var a11716 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d1/d05/a11716.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
-    [ "operator()", "d1/d05/a11716.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d1/d05/a11716.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d1/d05/a11716.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
-    [ "_searchReason", "d1/d05/a11716.html#aad544cdfe9423a7967dfed64aeaed995", null ]
+    [ "effectMask", "d1/d05/a11716.html#a3161ec2ffdf794c000cc94b91519d009", null ],
+    [ "item", "d1/d05/a11716.html#afce5eba99c3dc33698dd12af8432f357", null ]
 ];

@@ -1,6 +1,13 @@
 var a15772 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d0/d14/a15776.html", "d0/d14/a15776" ],
-    [ "npc_tiger_matriarch_credit", "d4/df1/a15772.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d4/df1/a15772.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_tharnarianAI", "d4/df1/a15772.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "d4/df1/a15772.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "d4/df1/a15772.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "d4/df1/a15772.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "d4/df1/a15772.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "d4/df1/a15772.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "d4/df1/a15772.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "d4/df1/a15772.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "d4/df1/a15772.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "d4/df1/a15772.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

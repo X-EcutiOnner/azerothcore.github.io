@@ -1,8 +1,10 @@
 var a15112 =
 [
-    [ "npc_arthasAI", "d0/d37/a15116.html", "d0/d37/a15116" ],
-    [ "npc_arthas", "d6/d7b/a15112.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d6/d7b/a15112.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d6/d7b/a15112.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d6/d7b/a15112.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "boss_meathookAI", "d6/d7b/a15112.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d6/d7b/a15112.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d6/d7b/a15112.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d6/d7b/a15112.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d6/d7b/a15112.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d6/d7b/a15112.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d6/d7b/a15112.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

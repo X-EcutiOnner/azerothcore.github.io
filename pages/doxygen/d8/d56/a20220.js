@@ -1,15 +1,8 @@
 var a20220 =
 [
-    [ "npc_ulduar_hodir_shaman", "d8/d56/a20220.html#a3277cda17d5409be3426bdaa61e092cd", null ],
-    [ "AttackStart", "d8/d56/a20220.html#a933908d61afac33002411874060c0f74", null ],
-    [ "CanAIAttack", "d8/d56/a20220.html#a8907c7300cef735a70b088de3c16cfb9", null ],
-    [ "EnterEvadeMode", "d8/d56/a20220.html#afa6124e630cd878659172a06df68d39f", null ],
-    [ "JustDied", "d8/d56/a20220.html#a08af85d3446c86443ff5a620b159d000", null ],
-    [ "MoveInLineOfSight", "d8/d56/a20220.html#a29de52dcae485f00403dae8e28ff1395", null ],
-    [ "ScheduleAbilities", "d8/d56/a20220.html#ab9aa67f07721c0bf60e9db75b5b3e888", null ],
-    [ "SpellHit", "d8/d56/a20220.html#a02476e4ddb2287c647a2a4bd7e342150", null ],
-    [ "SpellHitTarget", "d8/d56/a20220.html#a29dcb1ff2d532fa491fcdbdfcac4fbfa", null ],
-    [ "UpdateAI", "d8/d56/a20220.html#adf8d9895cdd35712fa44e4a19de1315a", null ],
-    [ "_instance", "d8/d56/a20220.html#aa09753bc9b54ea8dcc9b61a9ace77ae3", null ],
-    [ "events", "d8/d56/a20220.html#a7e147f6f230513cfb666473c61ab4be4", null ]
+    [ "npc_ulduar_flash_freeze", "d8/d56/a20220.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d8/d56/a20220.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d8/d56/a20220.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d8/d56/a20220.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d8/d56/a20220.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

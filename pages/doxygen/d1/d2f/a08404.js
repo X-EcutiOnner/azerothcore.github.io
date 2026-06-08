@@ -1,10 +1,7 @@
 var a08404 =
 [
-    [ "FormationMgr", "d1/d2f/a08404.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "d1/d2f/a08404.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "d1/d2f/a08404.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "d1/d2f/a08404.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "d1/d2f/a08404.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "d1/d2f/a08404.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "d1/d2f/a08404.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "VendorItemCount", "d1/d2f/a08404.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d1/d2f/a08404.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d1/d2f/a08404.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d1/d2f/a08404.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

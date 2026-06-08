@@ -1,6 +1,6 @@
 var a21452 =
 [
-    [ "CheckCast", "d6/d46/a21452.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d6/d46/a21452.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d6/d46/a21452.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d0/dd8/a21456.html", "d0/dd8/a21456" ],
+    [ "npc_injured_7th_legion_soldier", "d6/d46/a21452.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d6/d46/a21452.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

@@ -1,7 +1,14 @@
 var a22416 =
 [
-    [ "HandleScriptEffect", "d0/d0b/a22416.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "d0/d0b/a22416.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "d0/d0b/a22416.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "d0/d0b/a22416.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "npc_maiev_illidan", "d0/d0b/a22416.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
+    [ "DamageTaken", "d0/d0b/a22416.html#a780cc558c483efa3293d798cc6048a33", null ],
+    [ "DoAction", "d0/d0b/a22416.html#a53607a158edf8fd772908b5d7af6edf1", null ],
+    [ "IsSummonedBy", "d0/d0b/a22416.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
+    [ "JustEngagedWith", "d0/d0b/a22416.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
+    [ "JustExitedCombat", "d0/d0b/a22416.html#a5606060b12e17edfd6ad05f4f01dd339", null ],
+    [ "Reset", "d0/d0b/a22416.html#a100db757c89634a58b9382216e2791ec", null ],
+    [ "SpellHit", "d0/d0b/a22416.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
+    [ "UpdateAI", "d0/d0b/a22416.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
+    [ "_outroActive", "d0/d0b/a22416.html#af0f1e48d3712039cb110d5a69a464009", null ],
+    [ "instance", "d0/d0b/a22416.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
 ];

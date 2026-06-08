@@ -1,9 +1,9 @@
 var a00728 =
 [
-    [ "npc_taldaram_flamesphere", "df/d8f/a16180.html", "df/d8f/a16180" ],
-    [ "boss_taldaram", "d8/db6/a16184.html", "d8/db6/a16184" ],
-    [ "spell_prince_taldaram_conjure_flame_sphere", "db/df8/a16188.html", "db/df8/a16188" ],
-    [ "spell_prince_taldaram_flame_sphere_summon", "de/d8e/a16192.html", "de/d8e/a16192" ],
+    [ "npc_taldaram_flamesphere", "da/d2a/a16196.html", "da/d2a/a16196" ],
+    [ "boss_taldaram", "da/df5/a16200.html", "da/df5/a16200" ],
+    [ "spell_prince_taldaram_conjure_flame_sphere", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
+    [ "spell_prince_taldaram_flame_sphere_summon", "dd/da8/a16208.html", "dd/da8/a16208" ],
     [ "DATA_SPHERE_ANGLE_OFFSET", "df/d3b/a00728.html#abba5e7f7dee2d39e8b41c5ac0f4b1746", null ],
     [ "Actions", "df/d3b/a00728.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "da/dfb/a03188.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],

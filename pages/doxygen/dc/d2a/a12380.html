@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: RBACCommandData Struct Reference</title>
+<title>AzerothCore: NodeGroup Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,157 +105,86 @@ $(document).ready(function(){initNavTree('dc/d2a/a12380.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/da3/a12377.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">RBACCommandData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">NodeGroup Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a05b9fb0ce4d459f4f4bf6fab258b0737"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a05b9fb0ce4d459f4f4bf6fab258b0737">RBACCommandData</a> (<a class="el" href="../../dd/dd3/a06236.html">rbac::RBACData</a> *rbac_, bool needDelete_)</td></tr>
-<tr class="separator:a05b9fb0ce4d459f4f4bf6fab258b0737"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae871dc19c052c205378810f91534caf6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#ae871dc19c052c205378810f91534caf6">RBACCommandData</a> (<a class="el" href="../../dc/d2a/a12380.html">RBACCommandData</a> const &amp;)=delete</td></tr>
-<tr class="separator:ae871dc19c052c205378810f91534caf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf59e804b6cc4779da75f07f8e904f43"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#adf59e804b6cc4779da75f07f8e904f43">~RBACCommandData</a> ()</td></tr>
-<tr class="separator:adf59e804b6cc4779da75f07f8e904f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ac681f852bea86d3bd1e290c93cf5e285"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/dd3/a06236.html">rbac::RBACData</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#ac681f852bea86d3bd1e290c93cf5e285">rbac</a> = nullptr</td></tr>
-<tr class="separator:ac681f852bea86d3bd1e290c93cf5e285"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a97e567ffef62804e327d909ad4c2a385"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a97e567ffef62804e327d909ad4c2a385">needDelete</a> = false</td></tr>
-<tr class="separator:a97e567ffef62804e327d909ad4c2a385"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a184093c44a45addd7a7bae891496c0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a9a184093c44a45addd7a7bae891496c0">X</a> = 0.0f</td></tr>
+<tr class="separator:a9a184093c44a45addd7a7bae891496c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86ac02df716e991f629647941dcb29cb"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a86ac02df716e991f629647941dcb29cb">Y</a> = 0.0f</td></tr>
+<tr class="separator:a86ac02df716e991f629647941dcb29cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50477b2e983580c94b348f7e408a8363"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a50477b2e983580c94b348f7e408a8363">Z</a> = 0.0f</td></tr>
+<tr class="separator:a50477b2e983580c94b348f7e408a8363"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a061c4e27b4a9646bc3636b7642ad9fce"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::pair&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d2a/a12380.html#a061c4e27b4a9646bc3636b7642ad9fce">FoundObjects</a></td></tr>
+<tr class="separator:a061c4e27b4a9646bc3636b7642ad9fce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a05b9fb0ce4d459f4f4bf6fab258b0737" name="a05b9fb0ce4d459f4f4bf6fab258b0737"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05b9fb0ce4d459f4f4bf6fab258b0737">&#9670;&#160;</a></span>RBACCommandData() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">RBACCommandData::RBACCommandData </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/dd3/a06236.html">rbac::RBACData</a> *&#160;</td>
-          <td class="paramname"><em>rbac_</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>needDelete_</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   32</span>: <a class="code hl_variable" href="../../dc/d2a/a12380.html#ac681f852bea86d3bd1e290c93cf5e285">rbac</a>(rbac_), <a class="code hl_variable" href="../../dc/d2a/a12380.html#a97e567ffef62804e327d909ad4c2a385">needDelete</a>(needDelete_) { }</div>
-<div class="ttc" id="aa12380_html_a97e567ffef62804e327d909ad4c2a385"><div class="ttname"><a href="../../dc/d2a/a12380.html#a97e567ffef62804e327d909ad4c2a385">RBACCommandData::needDelete</a></div><div class="ttdeci">bool needDelete</div><div class="ttdef"><b>Definition:</b> cs_rbac.cpp:41</div></div>
-<div class="ttc" id="aa12380_html_ac681f852bea86d3bd1e290c93cf5e285"><div class="ttname"><a href="../../dc/d2a/a12380.html#ac681f852bea86d3bd1e290c93cf5e285">RBACCommandData::rbac</a></div><div class="ttdeci">rbac::RBACData * rbac</div><div class="ttdef"><b>Definition:</b> cs_rbac.cpp:40</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae871dc19c052c205378810f91534caf6" name="ae871dc19c052c205378810f91534caf6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae871dc19c052c205378810f91534caf6">&#9670;&#160;</a></span>RBACCommandData() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">RBACCommandData::RBACCommandData </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d2a/a12380.html">RBACCommandData</a> const &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">delete</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="adf59e804b6cc4779da75f07f8e904f43" name="adf59e804b6cc4779da75f07f8e904f43"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf59e804b6cc4779da75f07f8e904f43">&#9670;&#160;</a></span>~RBACCommandData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">RBACCommandData::~RBACCommandData </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
-<div class="line"><span class="lineno">   36</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d2a/a12380.html#a97e567ffef62804e327d909ad4c2a385">needDelete</a>)</div>
-<div class="line"><span class="lineno">   37</span>            <span class="keyword">delete</span> <a class="code hl_variable" href="../../dc/d2a/a12380.html#ac681f852bea86d3bd1e290c93cf5e285">rbac</a>;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">needDelete</a>, and <a class="el" href="../../#l00040">rbac</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a97e567ffef62804e327d909ad4c2a385" name="a97e567ffef62804e327d909ad4c2a385"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97e567ffef62804e327d909ad4c2a385">&#9670;&#160;</a></span>needDelete</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a061c4e27b4a9646bc3636b7642ad9fce" name="a061c4e27b4a9646bc3636b7642ad9fce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a061c4e27b4a9646bc3636b7642ad9fce">&#9670;&#160;</a></span>FoundObjects</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool RBACCommandData::needDelete = false</td>
+          <td class="memname">std::vector&lt;std::pair&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; &gt; NodeGroup::FoundObjects</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00034">~RBACCommandData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00135">pooltools_commandscript::HandlePoolAdd()</a>, and <a class="el" href="../../#l00256">pooltools_commandscript::HandlePoolRemove()</a>.</p>
 
 </div>
 </div>
-<a id="ac681f852bea86d3bd1e290c93cf5e285" name="ac681f852bea86d3bd1e290c93cf5e285"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac681f852bea86d3bd1e290c93cf5e285">&#9670;&#160;</a></span>rbac</h2>
+<a id="a9a184093c44a45addd7a7bae891496c0" name="a9a184093c44a45addd7a7bae891496c0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a184093c44a45addd7a7bae891496c0">&#9670;&#160;</a></span>X</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/dd3/a06236.html">rbac::RBACData</a>* RBACCommandData::rbac = nullptr</td>
+          <td class="memname">float NodeGroup::X = 0.0f</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00125">rbac_commandscript::HandleRBACPermDenyCommand()</a>, <a class="el" href="../../#l00088">rbac_commandscript::HandleRBACPermGrantCommand()</a>, <a class="el" href="../../#l00208">rbac_commandscript::HandleRBACPermListCommand()</a>, <a class="el" href="../../#l00162">rbac_commandscript::HandleRBACPermRevokeCommand()</a>, and <a class="el" href="../../#l00034">~RBACCommandData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00135">pooltools_commandscript::HandlePoolAdd()</a>.</p>
+
+</div>
+</div>
+<a id="a86ac02df716e991f629647941dcb29cb" name="a86ac02df716e991f629647941dcb29cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a86ac02df716e991f629647941dcb29cb">&#9670;&#160;</a></span>Y</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float NodeGroup::Y = 0.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00135">pooltools_commandscript::HandlePoolAdd()</a>.</p>
+
+</div>
+</div>
+<a id="a50477b2e983580c94b348f7e408a8363" name="a50477b2e983580c94b348f7e408a8363"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50477b2e983580c94b348f7e408a8363">&#9670;&#160;</a></span>Z</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float NodeGroup::Z = 0.0f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00135">pooltools_commandscript::HandlePoolAdd()</a>.</p>
 
 </div>
 </div>
@@ -264,8 +193,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d2a/a12380.html">RBACCommandData</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:46:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/d2a/a12380.html">NodeGroup</a></li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:14:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

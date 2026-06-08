@@ -1,5 +1,9 @@
 var a22144 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "df/da9/a22144.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "df/da9/a22144.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_crusade_recruitAI", "df/da9/a22144.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "df/da9/a22144.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "df/da9/a22144.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "df/da9/a22144.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "df/da9/a22144.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "df/da9/a22144.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

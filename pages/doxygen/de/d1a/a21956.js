@@ -1,6 +1,6 @@
 var a21956 =
 [
-    [ "HandleScriptEffect", "de/d1a/a21956.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "de/d1a/a21956.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "de/d1a/a21956.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_freed_protodrakeAI", "d3/d44/a21960.html", "d3/d44/a21960" ],
+    [ "npc_freed_protodrake", "de/d1a/a21956.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "de/d1a/a21956.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

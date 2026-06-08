@@ -1,7 +1,6 @@
 var a12648 =
 [
-    [ "boss_urok_doomhowl", "d0/d41/a12648.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
-    [ "InitializeAI", "d0/d41/a12648.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
-    [ "JustEngagedWith", "d0/d41/a12648.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
-    [ "UpdateAI", "d0/d41/a12648.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
+    [ "OrcDeathEvent", "d0/d41/a12648.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
+    [ "Execute", "d0/d41/a12648.html#a293ec6667da669a27fe75965f919cd68", null ],
+    [ "_me", "d0/d41/a12648.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
 ];

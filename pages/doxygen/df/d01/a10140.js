@@ -1,7 +1,8 @@
 var a10140 =
 [
-    [ "ownerGUID", "df/d01/a10140.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "df/d01/a10140.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "df/d01/a10140.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "df/d01/a10140.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "BoundaryUnionBoundary", "df/d01/a10140.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "df/d01/a10140.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "df/d01/a10140.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "df/d01/a10140.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "df/d01/a10140.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

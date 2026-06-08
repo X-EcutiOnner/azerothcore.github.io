@@ -1,13 +1,6 @@
 var a13988 =
 [
-    [ "npc_corporal_keeshanAI", "db/d48/a13988.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "db/d48/a13988.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "db/d48/a13988.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "db/d48/a13988.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "db/d48/a13988.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "WaypointReached", "db/d48/a13988.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "mockingBlowTimer", "db/d48/a13988.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "db/d48/a13988.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "db/d48/a13988.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "db/d48/a13988.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_grand_magister_rommathAI", "db/d8e/a13992.html", "db/d8e/a13992" ],
+    [ "npc_grand_magister_rommath", "db/d48/a13988.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "db/d48/a13988.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

@@ -1,6 +1,7 @@
 var a21664 =
 [
-    [ "npc_attracted_reef_bullAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
-    [ "npc_attracted_reef_bull", "dc/dc4/a21664.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "dc/dc4/a21664.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "HandleDummy", "dc/dc4/a21664.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "dc/dc4/a21664.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "dc/dc4/a21664.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "dc/dc4/a21664.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

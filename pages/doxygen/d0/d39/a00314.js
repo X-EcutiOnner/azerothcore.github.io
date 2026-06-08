@@ -1,8 +1,8 @@
 var a00314 =
 [
-    [ "npc_mc_core_hound", "dc/d0b/a12916.html", "dc/d0b/a12916" ],
-    [ "spell_mc_play_dead_aura", "de/d59/a12920.html", "de/d59/a12920" ],
-    [ "npc_lava_spawn", "d8/d9a/a12924.html", "d8/d9a/a12924" ],
+    [ "npc_mc_core_hound", "d2/d75/a12932.html", "d2/d75/a12932" ],
+    [ "spell_mc_play_dead_aura", "d6/d04/a12936.html", "d6/d04/a12936" ],
+    [ "npc_lava_spawn", "d2/df5/a12940.html", "d2/df5/a12940" ],
     [ "Spells", "d0/d39/a00314.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

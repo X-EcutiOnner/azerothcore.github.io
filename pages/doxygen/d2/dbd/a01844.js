@@ -1,6 +1,6 @@
 var a01844 =
 [
-    [ "boss_fankriss", "da/d45/a15496.html", "da/d45/a15496" ],
+    [ "boss_fankriss", "dd/d2c/a15512.html", "dd/d2c/a15512" ],
     [ "Misc", "d2/dbd/a01844.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

@@ -1,8 +1,6 @@
 var a20884 =
 [
-    [ "CheckProc", "db/d56/a20884.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "db/d56/a20884.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "db/d56/a20884.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "db/d56/a20884.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "db/d56/a20884.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "da/deb/a20888.html", "da/deb/a20888" ],
+    [ "instance_utgarde_keep", "db/d56/a20884.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "db/d56/a20884.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

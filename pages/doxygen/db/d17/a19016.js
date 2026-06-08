@@ -1,7 +1,7 @@
 var a19016 =
 [
-    [ "HandleDummyLaunch", "db/d17/a19016.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "db/d17/a19016.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "db/d17/a19016.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "db/d17/a19016.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "OnRemove", "db/d17/a19016.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "db/d17/a19016.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "db/d17/a19016.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "db/d17/a19016.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

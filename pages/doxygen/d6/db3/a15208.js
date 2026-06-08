@@ -1,6 +1,9 @@
 var a15208 =
 [
-    [ "NpcRunToHome", "d6/db3/a15208.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "d6/db3/a15208.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "d6/db3/a15208.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "boss_chrono_lord_deja", "d6/db3/a15208.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d6/db3/a15208.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d6/db3/a15208.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d6/db3/a15208.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d6/db3/a15208.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d6/db3/a15208.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

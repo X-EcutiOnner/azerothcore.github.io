@@ -1,17 +1,13 @@
 var a19228 =
 [
-    [ "boss_four_horsemenAI", "d2/ddc/a19228.html#a828a858c3337791bd2acb3d6ba730233", null ],
-    [ "AttackStart", "d2/ddc/a19228.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
-    [ "EnterEvadeMode", "d2/ddc/a19228.html#a86f458f0413cab4c8129affff1b73a70", null ],
-    [ "JustDied", "d2/ddc/a19228.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
-    [ "JustEngagedWith", "d2/ddc/a19228.html#a17b8ca30ceb0efb87be77f970c526444", null ],
-    [ "KilledUnit", "d2/ddc/a19228.html#a87bdde27a69a020a26da31f01286593a", null ],
-    [ "MovementInform", "d2/ddc/a19228.html#aa900c075c04673341b3100488c45f9e7", null ],
-    [ "MoveToCorner", "d2/ddc/a19228.html#a7891dc79980c67d82867f6181685b359", null ],
-    [ "Reset", "d2/ddc/a19228.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
-    [ "UpdateAI", "d2/ddc/a19228.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
-    [ "currentWaypoint", "d2/ddc/a19228.html#ab3c2643e1b3c58452661255979e67e63", null ],
-    [ "events", "d2/ddc/a19228.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
-    [ "horsemanId", "d2/ddc/a19228.html#ab0c4162177096e7bd007996e8677fd8b", null ],
-    [ "movementPhase", "d2/ddc/a19228.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
+    [ "boss_anubrekhan", "d2/ddc/a19228.html#ad748de528ca78739236b9586ddaa19bd", null ],
+    [ "JustDied", "d2/ddc/a19228.html#a9dfb1b89c4f47235e463d90f17522113", null ],
+    [ "JustEngagedWith", "d2/ddc/a19228.html#a97d56653381e7a7f8c724263148cd61e", null ],
+    [ "JustSummoned", "d2/ddc/a19228.html#af1a01ff6c9790e1660619767c16cfd94", null ],
+    [ "KilledUnit", "d2/ddc/a19228.html#a73906e3681c767e5818d380e77525ba2", null ],
+    [ "MoveInLineOfSight", "d2/ddc/a19228.html#a9fcbc921973e0bd02867217d15efcc64", null ],
+    [ "Reset", "d2/ddc/a19228.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
+    [ "SummonCryptGuards", "d2/ddc/a19228.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
+    [ "SummonedCreatureDies", "d2/ddc/a19228.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
+    [ "_sayGreet", "d2/ddc/a19228.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
 ];

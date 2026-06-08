@@ -1,9 +1,7 @@
 var a23692 =
 [
-    [ "npc_ancestral_wolfAI", "d5/dad/a23692.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d5/dad/a23692.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d5/dad/a23692.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d5/dad/a23692.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "WaypointReached", "d5/dad/a23692.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "ryga", "d5/dad/a23692.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "HandleDummy", "d5/dad/a23692.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d5/dad/a23692.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d5/dad/a23692.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d5/dad/a23692.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

@@ -1,19 +1,13 @@
 var a11992 =
 [
-    [ "CreatureTextMgr", "df/d0e/a11992.html#a00cc7ebfdb0702de8af841dcbbddcc3b", null ],
-    [ "~CreatureTextMgr", "df/d0e/a11992.html#a6f77e1f030bb16b585f9a75059a06f31", null ],
-    [ "GetLocalizedChatString", "df/d0e/a11992.html#a169c53804fb5bf4ecd509ee90482ebf5", null ],
-    [ "GetRangeForChatType", "df/d0e/a11992.html#aeddebd7d3fcf604ee4d11b77ff87fd53", null ],
-    [ "GetTextMap", "df/d0e/a11992.html#a5237341864a3082126bed703d68312b2", null ],
-    [ "instance", "df/d0e/a11992.html#a92acbdab30a8942859e01526144b9989", null ],
-    [ "LoadCreatureTextLocales", "df/d0e/a11992.html#a826a3cd2e991c358a98fced5512297dd", null ],
-    [ "LoadCreatureTexts", "df/d0e/a11992.html#a129039b5a7d2de067656cd6e47de43dd", null ],
-    [ "SendChat", "df/d0e/a11992.html#a93c7fa546a0f41e7d59c6782aecee070", null ],
-    [ "SendChatPacket", "df/d0e/a11992.html#a0b94720ae3ab22ba8bb961f26f47548b", null ],
-    [ "SendEmote", "df/d0e/a11992.html#a8b9dc67f09242b5ade7405663ca52fda", null ],
-    [ "SendNonChatPacket", "df/d0e/a11992.html#a2303c6343e233beb3f7a1ebda40e080e", null ],
-    [ "SendSound", "df/d0e/a11992.html#aa36b6dd5010eea049973122bec4fceb1", null ],
-    [ "TextExist", "df/d0e/a11992.html#aa92d99a93a387193a10eb7a30c59b86e", null ],
-    [ "mLocaleTextMap", "df/d0e/a11992.html#a12ecf289ef6d78691b6ab23f3cdd9fd8", null ],
-    [ "mTextMap", "df/d0e/a11992.html#ad25faab453d0f5d6270797eeeb5e2e40", null ]
+    [ "PlayerTextBuilder", "df/d0e/a11992.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "df/d0e/a11992.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "df/d0e/a11992.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "df/d0e/a11992.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "df/d0e/a11992.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "df/d0e/a11992.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "df/d0e/a11992.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "df/d0e/a11992.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "df/d0e/a11992.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "df/d0e/a11992.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

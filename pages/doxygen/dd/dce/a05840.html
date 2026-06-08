@@ -115,7 +115,7 @@ $(document).ready(function(){initNavTree('dd/dce/a05840.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a6992aa92f56607d9546dae7ab5d1af74"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dce/a05840.html#a6992aa92f56607d9546dae7ab5d1af74">FromString</a> (std::string_view str, int base=10)</td></tr>
+<tr class="memitem:a6992aa92f56607d9546dae7ab5d1af74"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dce/a05840.html#a6992aa92f56607d9546dae7ab5d1af74">FromString</a> (std::string_view str, int base=10)</td></tr>
 <tr class="separator:a6992aa92f56607d9546dae7ab5d1af74"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abf8940ea78f2f947274a2653da04b0a3"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dce/a05840.html#abf8940ea78f2f947274a2653da04b0a3">ToString</a> (T val)</td></tr>
 <tr class="separator:abf8940ea78f2f947274a2653da04b0a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -135,7 +135,7 @@ template&lt;typename T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static <a class="el" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt; <a class="el" href="../../d2/d02/a05836.html">Acore::Impl::StringConvertImpl::For</a>&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;::FromString </td>
+          <td class="memname">static <a class="el" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; T &gt; <a class="el" href="../../d2/d02/a05836.html">Acore::Impl::StringConvertImpl::For</a>&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;::FromString </td>
           <td>(</td>
           <td class="paramtype">std::string_view&#160;</td>
           <td class="paramname"><em>str</em>, </td>
@@ -161,12 +161,12 @@ template&lt;typename T &gt; </div>
 <div class="fragment"><div class="line"><span class="lineno">   42</span>        {</div>
 <div class="line"><span class="lineno">   43</span>            <span class="keywordflow">if</span> (base == 0)</div>
 <div class="line"><span class="lineno">   44</span>            {</div>
-<div class="line"><span class="lineno">   45</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0x&quot;</span>))</div>
+<div class="line"><span class="lineno">   45</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0x&quot;</span>))</div>
 <div class="line"><span class="lineno">   46</span>                {</div>
 <div class="line"><span class="lineno">   47</span>                    base = 16;</div>
 <div class="line"><span class="lineno">   48</span>                    str.remove_prefix(2);</div>
 <div class="line"><span class="lineno">   49</span>                }</div>
-<div class="line"><span class="lineno">   50</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0b&quot;</span>))</div>
+<div class="line"><span class="lineno">   50</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a>(str.substr(0, 2), <span class="stringliteral">&quot;0b&quot;</span>))</div>
 <div class="line"><span class="lineno">   51</span>                {</div>
 <div class="line"><span class="lineno">   52</span>                    base = 2;</div>
 <div class="line"><span class="lineno">   53</span>                    str.remove_prefix(2);</div>
@@ -196,7 +196,7 @@ template&lt;typename T &gt; </div>
 <div class="line"><span class="lineno">   77</span>                <span class="keywordflow">return</span> std::nullopt;</div>
 <div class="line"><span class="lineno">   78</span>            }</div>
 <div class="line"><span class="lineno">   79</span>        }</div>
-<div class="ttc" id="aa04562_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../dd/d5b/a04562.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
+<div class="ttc" id="aa04565_html_a131b997858d0d4c6825222d64948db73"><div class="ttname"><a href="../../db/d3f/a04565.html#a131b997858d0d4c6825222d64948db73">StringEqualI</a></div><div class="ttdeci">bool StringEqualI(std::string_view a, std::string_view b)</div><div class="ttdef"><b>Definition:</b> Util.cpp:592</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00592">StringEqualI()</a>.</p>
 
@@ -248,7 +248,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d20/a05034.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d5f/a05046.html">Impl</a></li><li class="navelem"><a class="el" href="../../d2/d9d/a05056.html">StringConvertImpl</a></li><li class="navelem"><a class="el" href="../../dd/dce/a05840.html">For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;</a></li>
-    <li class="footer">Generated on Mon Jun 1 2026 22:47:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 8 2026 22:15:53 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

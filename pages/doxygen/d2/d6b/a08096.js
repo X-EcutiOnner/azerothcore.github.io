@@ -1,6 +1,5 @@
 var a08096 =
 [
-    [ "Rank", "d2/d6b/a08096.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d2/d6b/a08096.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d2/d6b/a08096.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "Glyph", "d2/d6b/a08096.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d2/d6b/a08096.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

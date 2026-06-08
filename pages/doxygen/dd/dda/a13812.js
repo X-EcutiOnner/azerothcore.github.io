@@ -1,6 +1,7 @@
 var a13812 =
 [
-    [ "ChangeSummonPos", "dd/dda/a13812.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "dd/dda/a13812.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "dd/dda/a13812.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "OnPeriodic", "dd/dda/a13812.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "dd/dda/a13812.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "dd/dda/a13812.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "dd/dda/a13812.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

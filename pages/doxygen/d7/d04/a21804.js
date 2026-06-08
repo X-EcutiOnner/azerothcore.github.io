@@ -1,6 +1,6 @@
 var a21804 =
 [
-    [ "npc_tournament_training_dummyAI", "d8/d17/a21808.html", "d8/d17/a21808" ],
-    [ "npc_tournament_training_dummy", "d7/d04/a21804.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d7/d04/a21804.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "ChangeSummonPos", "d7/d04/a21804.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d7/d04/a21804.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d7/d04/a21804.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

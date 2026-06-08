@@ -1,9 +1,10 @@
 var a04604 =
 [
-    [ "getAngle", "dd/d03/a04604.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "dd/d03/a04604.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "dd/d03/a04604.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "dd/d03/a04604.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "dd/d03/a04604.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "dd/d03/a04604.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "Acore::has_type< T, std::tuple< Us... > >", "d3/da5/a05892.html", null ],
+    [ "Acore::is_tuple< typename >", "d5/dd4/a05896.html", null ],
+    [ "Acore::is_tuple< std::tuple< Ts... > >", "d3/d9b/a05900.html", null ],
+    [ "new_from_tuple", "dd/d03/a04604.html#aac12e702d41e9aa126f7d39f0f295252", null ],
+    [ "new_from_tuple", "dd/d03/a04604.html#a028fc93107022ad23a763503c9b0bbdb", null ],
+    [ "has_type_v", "dd/d03/a04604.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
+    [ "is_tuple_v", "dd/d03/a04604.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
 ];

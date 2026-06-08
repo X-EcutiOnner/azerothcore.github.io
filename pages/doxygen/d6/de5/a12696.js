@@ -1,6 +1,6 @@
 var a12696 =
 [
-    [ "FilterTargets", "d6/de5/a12696.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d6/de5/a12696.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d6/de5/a12696.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "OnEffect", "d6/de5/a12696.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d6/de5/a12696.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d6/de5/a12696.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

@@ -1,6 +1,6 @@
 var a08108 =
 [
-    [ "value_type", "d7/d0d/a08108.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "d7/d0d/a08108.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "d7/d0d/a08108.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "Rank", "d7/d0d/a08108.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
+    [ "Spell", "d7/d0d/a08108.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
+    [ "Talent", "d7/d0d/a08108.html#ae39546dc8db233709131b388a3868c1a", null ]
 ];

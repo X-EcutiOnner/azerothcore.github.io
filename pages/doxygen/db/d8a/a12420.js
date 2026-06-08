@@ -1,9 +1,11 @@
 var a12420 =
 [
-    [ "titles_commandscript", "db/d8a/a12420.html#ac088fd907013150a0508b79c99f6c2f3", null ],
-    [ "GetCommands", "db/d8a/a12420.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
-    [ "HandleTitlesAddCommand", "db/d8a/a12420.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
-    [ "HandleTitlesCurrentCommand", "db/d8a/a12420.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
-    [ "HandleTitlesRemoveCommand", "db/d8a/a12420.html#a2001bcc2eddc5688d57154f9906218e4", null ],
-    [ "HandleTitlesSetMaskCommand", "db/d8a/a12420.html#a9517b10295b856779cdd067234f640c8", null ]
+    [ "spectator_commandscript", "db/d8a/a12420.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "db/d8a/a12420.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "db/d8a/a12420.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "db/d8a/a12420.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "db/d8a/a12420.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "db/d8a/a12420.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "db/d8a/a12420.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "db/d8a/a12420.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

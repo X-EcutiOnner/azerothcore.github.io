@@ -1,7 +1,6 @@
 var a12712 =
 [
-    [ "HandleScript", "d0/d6c/a12712.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d0/d6c/a12712.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d0/d6c/a12712.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d0/d6c/a12712.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "FilterTargets", "d0/d6c/a12712.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d0/d6c/a12712.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d0/d6c/a12712.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

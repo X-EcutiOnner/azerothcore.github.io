@@ -1,11 +1,18 @@
 var a09068 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d0/d27/a09068.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d0/d27/a09068.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d0/d27/a09068.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d0/d27/a09068.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d0/d27/a09068.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d0/d27/a09068.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d0/d27/a09068.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d0/d27/a09068.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "absorb", "d0/d27/a09068.html#a7298afcc76b856c5427f5e123030a797", null ],
+    [ "attacker", "d0/d27/a09068.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
+    [ "attackType", "d0/d27/a09068.html#afd18e43bd78a9144c02ba0493921c506", null ],
+    [ "blocked_amount", "d0/d27/a09068.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
+    [ "cleanDamage", "d0/d27/a09068.html#a452ac9be1f6e9c10616a62a128573358", null ],
+    [ "damage", "d0/d27/a09068.html#ab95e1e4746b966f1301d997fdac99c94", null ],
+    [ "damages", "d0/d27/a09068.html#a917d7648919a06fce6b09404afc9f939", null ],
+    [ "damageSchoolMask", "d0/d27/a09068.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
+    [ "HitInfo", "d0/d27/a09068.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
+    [ "hitOutCome", "d0/d27/a09068.html#a114dcabcb8bff10c2452cb27e75da115", null ],
+    [ "procAttacker", "d0/d27/a09068.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
+    [ "procVictim", "d0/d27/a09068.html#a236b06649e715fab9dbddb074ef2f075", null ],
+    [ "resist", "d0/d27/a09068.html#ab57d348b500203649bf532405cd9ceec", null ],
+    [ "target", "d0/d27/a09068.html#af2976fa1245b3e3177dcbac464345829", null ],
+    [ "TargetState", "d0/d27/a09068.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
 ];

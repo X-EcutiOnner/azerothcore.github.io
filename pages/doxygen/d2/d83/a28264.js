@@ -1,8 +1,6 @@
 var a28264 =
 [
-    [ "npc_traveler_mammoth_vendor", "d2/d83/a28264.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "d2/d83/a28264.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "d2/d83/a28264.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "d2/d83/a28264.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "d2/d83/a28264.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_venomhide_hatchlingAI", "d2/d83/a28264.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d2/d83/a28264.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d2/d83/a28264.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

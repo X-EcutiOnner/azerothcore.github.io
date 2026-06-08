@@ -1,11 +1,9 @@
 var a16248 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d8/ddd/a16248.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "d8/ddd/a16248.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d8/ddd/a16248.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d8/ddd/a16248.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d8/ddd/a16248.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d8/ddd/a16248.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d8/ddd/a16248.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "d8/ddd/a16248.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_anub_ar_crusher", "d8/ddd/a16248.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "d8/ddd/a16248.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "d8/ddd/a16248.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "d8/ddd/a16248.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "d8/ddd/a16248.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "d8/ddd/a16248.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

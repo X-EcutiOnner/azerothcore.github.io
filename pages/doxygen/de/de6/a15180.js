@@ -1,7 +1,6 @@
 var a15180 =
 [
-    [ "npc_tarethaAI", "d1/d65/a15184.html", "d1/d65/a15184" ],
-    [ "npc_taretha", "de/de6/a15180.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "de/de6/a15180.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "de/de6/a15180.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d1/d65/a15184.html", "d1/d65/a15184" ],
+    [ "instance_old_hillsbrad", "de/de6/a15180.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "de/de6/a15180.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

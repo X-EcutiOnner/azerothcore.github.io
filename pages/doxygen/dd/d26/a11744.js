@@ -1,10 +1,8 @@
 var a11744 =
 [
-    [ "ApplyHarmfulAuraImmuneMask", "dd/d26/a11744.html#afb005a71205a573357afae14481cf5a4", null ],
-    [ "AuraTypeImmune", "dd/d26/a11744.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
-    [ "DamageSchoolMask", "dd/d26/a11744.html#a0917b0bacb75c03a527e170ef08f0811", null ],
-    [ "DispelImmuneMask", "dd/d26/a11744.html#a142a794d2927b25592fece914f7a40fa", null ],
-    [ "MechanicImmuneMask", "dd/d26/a11744.html#ad001d68adbf9c985f26476dda31898ad", null ],
-    [ "SchoolImmuneMask", "dd/d26/a11744.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
-    [ "SpellEffectImmune", "dd/d26/a11744.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
+    [ "ReflectEvent", "dd/d26/a11744.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "dd/d26/a11744.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "dd/d26/a11744.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "dd/d26/a11744.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "dd/d26/a11744.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

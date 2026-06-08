@@ -1,6 +1,15 @@
 var a21216 =
 [
-    [ "npc_sinkhole_kill_creditAI", "df/dab/a21220.html", "df/dab/a21220" ],
-    [ "npc_sinkhole_kill_credit", "d7/d65/a21216.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "d7/d65/a21216.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_azure_saboteur", "d7/d65/a21216.html#a051e99f11de367f810d9404a723173fd", null ],
+    [ "FinishPointReached", "d7/d65/a21216.html#a451777273b76e4651b1f4309e8477c9f", null ],
+    [ "MoveInLineOfSight", "d7/d65/a21216.html#a1a65d5100befd33a104a13eef0800ae7", null ],
+    [ "UpdateAI", "d7/d65/a21216.html#af5cf21e08a62b09793e99a92df1ef1b7", null ],
+    [ "WaypointReached", "d7/d65/a21216.html#a7c6f44f0dcdb0d5abc18e304383d3b96", null ],
+    [ "WaypointReached", "d7/d65/a21216.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_addedWaypoints", "d7/d65/a21216.html#af57295076f65e16b085fe114b1c3d12f", null ],
+    [ "_boss", "d7/d65/a21216.html#ab23d685ca979bba79a3d9a14117350f8", null ],
+    [ "_count", "d7/d65/a21216.html#aa431780ab6b90976494058a602377825", null ],
+    [ "_events", "d7/d65/a21216.html#a7ee513b49f09971f5fea099e8c9b7bc7", null ],
+    [ "_instance", "d7/d65/a21216.html#ab220c76d2fd72df36b5b92ee897d9d14", null ],
+    [ "_isOpening", "d7/d65/a21216.html#a59ecc6687f1d5d948c6988d14f577ffd", null ]
 ];

@@ -1,5 +1,6 @@
 var a16944 =
 [
-    [ "npc_essence_of_twin", "d6/dca/a16944.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d6/dca/a16944.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "boss_eydisAI", "d5/d72/a16948.html", "d5/d72/a16948" ],
+    [ "boss_eydis", "d6/dca/a16944.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d6/dca/a16944.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

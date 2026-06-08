@@ -1,6 +1,7 @@
 var a21052 =
 [
-    [ "HandleOnHit", "dc/de3/a21052.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "dc/de3/a21052.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "dc/de3/a21052.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "HandleScript", "dc/de3/a21052.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "dc/de3/a21052.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "dc/de3/a21052.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "dc/de3/a21052.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

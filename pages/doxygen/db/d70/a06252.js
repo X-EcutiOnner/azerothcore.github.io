@@ -1,9 +1,7 @@
 var a06252 =
 [
-    [ "itemId", "db/d70/a06252.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "db/d70/a06252.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "db/d70/a06252.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "db/d70/a06252.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "db/d70/a06252.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "db/d70/a06252.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "arg1", "db/d70/a06252.html#aa2018e5823bcf013847605847231e3c2", null ],
+    [ "arg2", "db/d70/a06252.html#a4c8721b050e72556a901be1a4a49c2b6", null ],
+    [ "arg3", "db/d70/a06252.html#acadf2c3d1d60f8f49fde62b9172980e5", null ],
+    [ "updateType", "db/d70/a06252.html#a84cace2469c54d57b33abe5ca93588ca", null ]
 ];

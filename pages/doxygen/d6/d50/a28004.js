@@ -1,5 +1,5 @@
 var a28004 =
 [
-    [ "item_petrov_cluster_bombs", "d6/d50/a28004.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d6/d50/a28004.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "item_only_for_flight", "d6/d50/a28004.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d6/d50/a28004.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

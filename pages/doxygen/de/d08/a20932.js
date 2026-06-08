@@ -1,5 +1,6 @@
 var a20932 =
 [
-    [ "go_palehoof_sphere", "de/d08/a20932.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
-    [ "OnGossipHello", "de/d08/a20932.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
+    [ "npc_ravenous_furbolgAI", "d9/d3c/a20936.html", "d9/d3c/a20936" ],
+    [ "npc_ravenous_furbolg", "de/d08/a20932.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "de/d08/a20932.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

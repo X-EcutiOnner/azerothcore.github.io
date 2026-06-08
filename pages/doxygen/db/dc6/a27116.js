@@ -1,7 +1,6 @@
 var a27116 =
 [
-    [ "HandleDummy", "db/dc6/a27116.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "db/dc6/a27116.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "db/dc6/a27116.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "db/dc6/a27116.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "FilterTargets", "db/dc6/a27116.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "db/dc6/a27116.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "db/dc6/a27116.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

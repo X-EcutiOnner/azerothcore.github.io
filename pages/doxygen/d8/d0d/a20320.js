@@ -1,26 +1,7 @@
 var a20320 =
 [
-    [ "boss_kologarn", "d8/d0d/a20320.html#a785ca1b78ef1c04b3c1d5f0b243b99d9", null ],
-    [ "AttachLeftArm", "d8/d0d/a20320.html#a74183a296b722f14ff6d06751733f425", null ],
-    [ "AttachRightArm", "d8/d0d/a20320.html#ab6daf2bc1350574ca3d96864fbac298a", null ],
-    [ "AttackStart", "d8/d0d/a20320.html#a87285d89c60ad61b76805e7bef75c55f", null ],
-    [ "DamageTaken", "d8/d0d/a20320.html#a78f85fbbf7da9a6b8dd78859ec727bf5", null ],
-    [ "DoAction", "d8/d0d/a20320.html#af7bf97511705a8dabb6fe40334c3a38a", null ],
-    [ "EnterEvadeMode", "d8/d0d/a20320.html#ac372b1e4f7ae9478066b1ff990853025", null ],
-    [ "GetData", "d8/d0d/a20320.html#a1b1929673af5db04cf3b00400784b06d", null ],
-    [ "JustDied", "d8/d0d/a20320.html#a519cf71d4734d9e67af10ac5516c544a", null ],
-    [ "JustEngagedWith", "d8/d0d/a20320.html#a6638cf2efb62d2a2b861e78e360554f3", null ],
-    [ "JustSummoned", "d8/d0d/a20320.html#a18c17d9dd89aeb8dd154b2a2dc1bd0ed", null ],
-    [ "KilledUnit", "d8/d0d/a20320.html#ac311a3c891f723d82c6c848675b27c4e", null ],
-    [ "MoveInLineOfSight", "d8/d0d/a20320.html#ad6fd6e129721757fca0d36e31bd7269c", null ],
-    [ "PassengerBoarded", "d8/d0d/a20320.html#a14aaed01a6d1824521e4e95c751cc248", null ],
-    [ "Reset", "d8/d0d/a20320.html#a56a7feee3a13fdb499e87549343aaca5", null ],
-    [ "SummonedCreatureDespawn", "d8/d0d/a20320.html#a3c449eaadc7e505c91ff60ee240f5a3c", null ],
-    [ "UpdateAI", "d8/d0d/a20320.html#a658921f3049414613e5b2245d6137c61", null ],
-    [ "_left", "d8/d0d/a20320.html#aea5354051bd277287336c670296442b8", null ],
-    [ "_looksAchievement", "d8/d0d/a20320.html#a5ecb293f05940091d3c824025d474bd3", null ],
-    [ "_right", "d8/d0d/a20320.html#a955364165d45784ca506bf77d8ab7e7c", null ],
-    [ "_rubbleAchievement", "d8/d0d/a20320.html#a5d7df3f5ef09e7f294759be909d9d955", null ],
-    [ "breathReady", "d8/d0d/a20320.html#a4ad6f7048bf3ba0bb39294cf4a7ca118", null ],
-    [ "vehicle", "d8/d0d/a20320.html#a660ae775be9cf6c5e506a31d97c720fa", null ]
+    [ "HandleEffectPeriodic", "d8/d0d/a20320.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d8/d0d/a20320.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d8/d0d/a20320.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d8/d0d/a20320.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

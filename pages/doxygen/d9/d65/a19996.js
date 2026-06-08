@@ -1,11 +1,5 @@
 var a19996 =
 [
-    [ "boss_flame_leviathan_defense_turret", "d9/d65/a19996.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "d9/d65/a19996.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "d9/d65/a19996.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "d9/d65/a19996.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "d9/d65/a19996.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "d9/d65/a19996.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "d9/d65/a19996.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "d9/d65/a19996.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d9/d65/a19996.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d9/d65/a19996.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

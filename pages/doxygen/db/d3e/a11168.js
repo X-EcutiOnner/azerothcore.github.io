@@ -1,8 +1,7 @@
 var a11168 =
 [
-    [ "SetRaidDifficulty", "db/d3e/a11168.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "db/d3e/a11168.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "db/d3e/a11168.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "db/d3e/a11168.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "db/d3e/a11168.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "InstanceResetFailed", "db/d3e/a11168.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "db/d3e/a11168.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "db/d3e/a11168.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "db/d3e/a11168.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

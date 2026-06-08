@@ -1,5 +1,9 @@
 var a11320 =
 [
-    [ "DurabilityDamageDeath", "d6/df4/a11320.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d6/df4/a11320.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "RandomRoll", "d6/df4/a11320.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
+    [ "Write", "d6/df4/a11320.html#aab5879874745603dd448a7f5084d60d4", null ],
+    [ "Max", "d6/df4/a11320.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
+    [ "Min", "d6/df4/a11320.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
+    [ "Result", "d6/df4/a11320.html#a34fd2c1d018bb292836724671163ff07", null ],
+    [ "Roller", "d6/df4/a11320.html#af02aa97826259885791d0f4afc0c1a84", null ]
 ];

@@ -1,6 +1,6 @@
 var a18760 =
 [
-    [ "npc_blazing_skeletonAI", "dc/d76/a18764.html", "dc/d76/a18764" ],
-    [ "npc_blazing_skeleton", "d4/de8/a18760.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d4/de8/a18760.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_valithria_portalAI", "dc/d76/a18764.html", "dc/d76/a18764" ],
+    [ "npc_valithria_portal", "d4/de8/a18760.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d4/de8/a18760.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

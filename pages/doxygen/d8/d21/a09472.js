@@ -1,8 +1,12 @@
 var a09472 =
 [
-    [ "V8Type", "d8/d21/a09472.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "d8/d21/a09472.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "d8/d21/a09472.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "d8/d21/a09472.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "d8/d21/a09472.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "flags", "d8/d21/a09472.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d8/d21/a09472.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d8/d21/a09472.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d8/d21/a09472.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d8/d21/a09472.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d8/d21/a09472.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d8/d21/a09472.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d8/d21/a09472.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d8/d21/a09472.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

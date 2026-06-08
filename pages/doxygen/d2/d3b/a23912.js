@@ -1,6 +1,6 @@
 var a23912 =
 [
-    [ "CheckRequirement", "d2/d3b/a23912.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d2/d3b/a23912.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d2/d3b/a23912.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
+    [ "npc_shadowmoon_tuber_node", "d2/d3b/a23912.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d2/d3b/a23912.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

@@ -1,4 +1,7 @@
 var a29040 =
 [
-    [ "value", "de/da0/a29040.html#a30d3b489f743df8aa828b6e5bb847ea2", null ]
+    [ "ClassMask", "de/da0/a29040.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
+    [ "petTalentMask", "de/da0/a29040.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
+    [ "tabpage", "de/da0/a29040.html#aa6389276582adeb4cae76c257734795c", null ],
+    [ "TalentTabID", "de/da0/a29040.html#ae3a71c61223b59185365819164715dc2", null ]
 ];

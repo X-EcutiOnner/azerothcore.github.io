@@ -1,6 +1,8 @@
 var a21940 =
 [
-    [ "npc_freed_protodrakeAI", "d9/dcf/a21944.html", "d9/dcf/a21944" ],
-    [ "npc_freed_protodrake", "d8/dd0/a21940.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
-    [ "GetAI", "d8/dd0/a21940.html#a9680bf65cb97327396f58c297df1c8f5", null ]
+    [ "npc_time_lost_proto_drakeAI", "d8/dd0/a21940.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d8/dd0/a21940.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d8/dd0/a21940.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d8/dd0/a21940.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d8/dd0/a21940.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

@@ -1,5 +1,5 @@
 var a27920 =
 [
-    [ "go_arcane_prison", "d7/deb/a27920.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d7/deb/a27920.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_tele_to_violet_stand", "d7/deb/a27920.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "d7/deb/a27920.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

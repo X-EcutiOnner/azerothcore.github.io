@@ -1,7 +1,9 @@
 var a09148 =
 [
-    [ "Done", "dd/da8/a09148.html#abc88850d392fb4b62e778d09445de0be", null ],
-    [ "DoneWorldState", "dd/da8/a09148.html#a380755d90c958b6532bae7f8a4d70b44", null ],
-    [ "MaxWorldState", "dd/da8/a09148.html#a8c144531f876b6def613c0011e0efe47", null ],
-    [ "ReqNum", "dd/da8/a09148.html#ae1d182aef449388993e4965de447d971", null ]
+    [ "VehicleAccessory", "dd/da8/a09148.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "dd/da8/a09148.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "dd/da8/a09148.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "dd/da8/a09148.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "dd/da8/a09148.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "dd/da8/a09148.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

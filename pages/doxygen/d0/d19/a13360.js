@@ -1,6 +1,6 @@
 var a13360 =
 [
-    [ "npc_gothik_the_harvesterAI", "d2/d50/a13364.html", "d2/d50/a13364" ],
-    [ "npc_gothik_the_harvester", "d0/d19/a13360.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "d0/d19/a13360.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "npc_a_special_surpriseAI", "d2/d50/a13364.html", "d2/d50/a13364" ],
+    [ "npc_a_special_surprise", "d0/d19/a13360.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d0/d19/a13360.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

@@ -1,8 +1,11 @@
 var a14976 =
 [
-    [ "npc_doomfire_spirit", "da/d70/a14976.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "da/d70/a14976.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "da/d70/a14976.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "da/d70/a14976.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "da/d70/a14976.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "boss_anetheron", "da/d70/a14976.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "da/d70/a14976.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "da/d70/a14976.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "da/d70/a14976.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "da/d70/a14976.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "da/d70/a14976.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "da/d70/a14976.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "da/d70/a14976.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

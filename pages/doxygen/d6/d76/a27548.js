@@ -1,8 +1,7 @@
 var a27548 =
 [
-    [ "CheckProc", "d6/d76/a27548.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "d6/d76/a27548.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "d6/d76/a27548.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "d6/d76/a27548.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "d6/d76/a27548.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "HandleGlyph", "d6/d76/a27548.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d6/d76/a27548.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d6/d76/a27548.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d6/d76/a27548.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

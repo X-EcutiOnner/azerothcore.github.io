@@ -1,8 +1,6 @@
 var a12580 =
 [
-    [ "CheckProc", "d5/dc3/a12580.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d5/dc3/a12580.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d5/dc3/a12580.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d5/dc3/a12580.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d5/dc3/a12580.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "RestoreAttack", "d5/dc3/a12580.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d5/dc3/a12580.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d5/dc3/a12580.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

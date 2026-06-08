@@ -1,7 +1,6 @@
 var a21332 =
 [
-    [ "npc_warmage_violetstand", "d6/df0/a21332.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d6/df0/a21332.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d6/df0/a21332.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d6/df0/a21332.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "PrepareSpellScript", "d6/df0/a21332.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d6/df0/a21332.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d6/df0/a21332.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

@@ -1,6 +1,16 @@
 var a20552 =
 [
-    [ "OnPeriodic", "d8/d92/a20552.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d8/d92/a20552.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d8/d92/a20552.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "boss_thorim_runic_colossus", "d8/d92/a20552.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "d8/d92/a20552.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "d8/d92/a20552.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "d8/d92/a20552.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "RunRunicSmash", "d8/d92/a20552.html#a4b36e8e92cae14912354691f0dc09a64", null ],
+    [ "SpellHit", "d8/d92/a20552.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "d8/d92/a20552.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "d8/d92/a20552.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "_leftHand", "d8/d92/a20552.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
+    [ "_nextTriggerPos", "d8/d92/a20552.html#a5f265413890df938e00dc08e0dee9829", null ],
+    [ "_triggerLeftGUID", "d8/d92/a20552.html#af1a54a839bcd3308edf1c7769274b889", null ],
+    [ "_triggerRightGUID", "d8/d92/a20552.html#a72196fe61ab799be949b7148a52933a9", null ],
+    [ "events", "d8/d92/a20552.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

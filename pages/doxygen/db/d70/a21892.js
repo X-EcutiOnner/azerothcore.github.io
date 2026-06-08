@@ -1,7 +1,6 @@
 var a21892 =
 [
-    [ "HandleSendEvent", "db/d70/a21892.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "db/d70/a21892.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "db/d70/a21892.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "db/d70/a21892.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_jungle_punch_targetAI", "db/dde/a21896.html", "db/dde/a21896" ],
+    [ "npc_jungle_punch_target", "db/d70/a21892.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "db/d70/a21892.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

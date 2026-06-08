@@ -1,9 +1,12 @@
 var a08156 =
 [
-    [ "PvPCombatReference", "d2/de7/a08156.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
-    [ "RefreshTimer", "d2/de7/a08156.html#ad8d05318d995aca2196c06768695b48e", null ],
-    [ "Update", "d2/de7/a08156.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
-    [ "CombatManager", "d2/de7/a08156.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
-    [ "_combatTimer", "d2/de7/a08156.html#accd9e37fa63f110daebb0086027f8ab6", null ],
-    [ "PVP_COMBAT_TIMEOUT", "d2/de7/a08156.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
+    [ "HyperlinkInfo", "d2/de7/a08156.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d2/de7/a08156.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d2/de7/a08156.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d2/de7/a08156.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d2/de7/a08156.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d2/de7/a08156.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d2/de7/a08156.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d2/de7/a08156.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d2/de7/a08156.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

@@ -1,7 +1,6 @@
 var a24196 =
 [
-    [ "CheckProc", "d9/de7/a24196.html#a7d829589ea098e002206b72f789c95df", null ],
-    [ "PrepareAuraScript", "d9/de7/a24196.html#a04258b702d79372c0e9c2e1845a6563e", null ],
-    [ "Register", "d9/de7/a24196.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
-    [ "Validate", "d9/de7/a24196.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
+    [ "HandleEffectApply", "d9/de7/a24196.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
+    [ "PrepareAuraScript", "d9/de7/a24196.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
+    [ "Register", "d9/de7/a24196.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
 ];

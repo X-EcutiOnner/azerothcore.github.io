@@ -1,5 +1,6 @@
 var a15680 =
 [
-    [ "go_ravager_cage", "de/d35/a15680.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "de/d35/a15680.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_injured_draeneiAI", "d8/d2a/a15684.html", "d8/d2a/a15684" ],
+    [ "npc_injured_draenei", "de/d35/a15680.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "de/d35/a15680.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

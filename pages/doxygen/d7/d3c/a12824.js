@@ -1,5 +1,9 @@
 var a12824 =
 [
-    [ "npc_garr_firesworn", "d7/d3c/a12824.html#a5efff706f522accd5f8be0d29080dea4", null ],
-    [ "DamageTaken", "d7/d3c/a12824.html#a172435821316d28c5b0043015c68595e", null ]
+    [ "boss_baron_geddon", "d7/d3c/a12824.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d7/d3c/a12824.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d7/d3c/a12824.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d7/d3c/a12824.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d7/d3c/a12824.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d7/d3c/a12824.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

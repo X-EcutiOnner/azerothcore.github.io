@@ -1,6 +1,8 @@
 var a14320 =
 [
-    [ "boss_hakkarAI", "d1/d35/a14324.html", "d1/d35/a14324" ],
-    [ "boss_hakkar", "d4/d82/a14320.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d4/d82/a14320.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "FilterTargets", "d4/d82/a14320.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d4/d82/a14320.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d4/d82/a14320.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d4/d82/a14320.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d4/d82/a14320.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

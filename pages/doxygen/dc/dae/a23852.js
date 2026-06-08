@@ -1,7 +1,6 @@
 var a23852 =
 [
-    [ "o", "dc/dae/a23852.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "dc/dae/a23852.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "dc/dae/a23852.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "dc/dae/a23852.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_dragonmaw_peonAI", "da/d4e/a23856.html", "da/d4e/a23856" ],
+    [ "npc_dragonmaw_peon", "dc/dae/a23852.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "dc/dae/a23852.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

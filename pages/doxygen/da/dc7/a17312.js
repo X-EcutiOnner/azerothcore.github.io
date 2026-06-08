@@ -1,9 +1,15 @@
 var a17312 =
 [
-    [ "npc_pos_after_first_bossAI", "da/dc7/a17312.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "da/dc7/a17312.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "da/dc7/a17312.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "da/dc7/a17312.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "da/dc7/a17312.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "da/dc7/a17312.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_pos_leaderAI", "da/dc7/a17312.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "da/dc7/a17312.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "da/dc7/a17312.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "da/dc7/a17312.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "da/dc7/a17312.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "da/dc7/a17312.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "da/dc7/a17312.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "da/dc7/a17312.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "da/dc7/a17312.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "da/dc7/a17312.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "da/dc7/a17312.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "da/dc7/a17312.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

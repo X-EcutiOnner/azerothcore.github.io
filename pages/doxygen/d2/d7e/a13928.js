@@ -1,6 +1,11 @@
 var a13928 =
 [
-    [ "npc_lor_themar_theron", "d2/d7e/a13928.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "d2/d7e/a13928.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "d2/d7e/a13928.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_supervisor_raelen", "d2/d7e/a13928.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "d2/d7e/a13928.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "d2/d7e/a13928.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "d2/d7e/a13928.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "d2/d7e/a13928.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "d2/d7e/a13928.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "d2/d7e/a13928.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "d2/d7e/a13928.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

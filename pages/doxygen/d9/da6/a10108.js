@@ -1,8 +1,10 @@
 var a10108 =
 [
-    [ "CircleBoundary", "d9/da6/a10108.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d9/da6/a10108.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d9/da6/a10108.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d9/da6/a10108.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d9/da6/a10108.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "DoublePosition", "d9/da4/a10112.html", "d9/da4/a10112" ],
+    [ "~AreaBoundary", "d9/da6/a10108.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d9/da6/a10108.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d9/da6/a10108.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d9/da6/a10108.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d9/da6/a10108.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d9/da6/a10108.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

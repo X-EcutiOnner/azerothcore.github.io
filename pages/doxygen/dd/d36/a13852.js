@@ -1,6 +1,8 @@
 var a13852 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d1/d3b/a13856.html", "d1/d3b/a13856" ],
-    [ "instance_uldaman", "dd/d36/a13852.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "dd/d36/a13852.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "npc_sunblade_arch_mage", "dd/d36/a13852.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "dd/d36/a13852.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "dd/d36/a13852.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "dd/d36/a13852.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "dd/d36/a13852.html#aa6680f06651316996868907b1d28126c", null ]
 ];

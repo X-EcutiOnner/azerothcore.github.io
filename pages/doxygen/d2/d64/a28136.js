@@ -1,8 +1,8 @@
 var a28136 =
 [
-    [ "npc_chicken_cluckAI", "d5/de6/a28140.html", "d5/de6/a28140" ],
-    [ "npc_chicken_cluck", "d2/d64/a28136.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "d2/d64/a28136.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "d2/d64/a28136.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "d2/d64/a28136.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_target_dummy", "d2/d64/a28136.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "DamageTaken", "d2/d64/a28136.html#ae137fc2935f306807128850e9761253e", null ],
+    [ "Reset", "d2/d64/a28136.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d2/d64/a28136.html#a32e9e139a54375b336c112deee3687cd", null ],
+    [ "_deathTimer", "d2/d64/a28136.html#a304b79f8ec2afda669b43d2e248d026a", null ]
 ];

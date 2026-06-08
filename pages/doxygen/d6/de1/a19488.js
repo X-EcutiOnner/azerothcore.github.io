@@ -1,8 +1,5 @@
 var a19488 =
 [
-    [ "npc_scion_of_eternity", "d6/de1/a19488.html#ac1a9111bc835a3d2cffc43b840985763", null ],
-    [ "AttackStart", "d6/de1/a19488.html#a86b5e235096ad107217f36150c618d73", null ],
-    [ "JustDied", "d6/de1/a19488.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
-    [ "MoveInLineOfSight", "d6/de1/a19488.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
-    [ "UpdateAI", "d6/de1/a19488.html#a49be60ccd03d75cf56931b870ddf086c", null ]
+    [ "at_naxxramas_hub_portal", "d6/de1/a19488.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "d6/de1/a19488.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

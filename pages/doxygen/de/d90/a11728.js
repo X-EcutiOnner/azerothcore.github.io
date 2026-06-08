@@ -1,8 +1,7 @@
 var a11728 =
 [
-    [ "ReflectEvent", "de/d90/a11728.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "de/d90/a11728.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "de/d90/a11728.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "de/d90/a11728.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "de/d90/a11728.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "de/d90/a11728.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "de/d90/a11728.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "de/d90/a11728.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "de/d90/a11728.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

@@ -1,8 +1,6 @@
 var a12924 =
 [
-    [ "npc_lava_spawn", "d8/d9a/a12924.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d8/d9a/a12924.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d8/d9a/a12924.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d8/d9a/a12924.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d8/d9a/a12924.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "bossId", "d8/d9a/a12924.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d8/d9a/a12924.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d8/d9a/a12924.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

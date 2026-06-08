@@ -1,15 +1,15 @@
 var a01127 =
 [
-    [ "npc_ulduar_keeper", "d5/d37/a20800.html", "d5/d37/a20800" ],
-    [ "npc_ulduar_keeper::npc_ulduar_keeperAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
-    [ "spell_ulduar_energy_sap_aura", "de/da0/a20808.html", "de/da0/a20808" ],
-    [ "npc_ulduar_snow_mound", "dd/d7c/a20812.html", "dd/d7c/a20812" ],
-    [ "npc_ulduar_storm_tempered_keeper", "d8/df2/a20816.html", "d8/df2/a20816" ],
-    [ "npc_ulduar_arachnopod_destroyer", "d4/d81/a20820.html", "d4/d81/a20820" ],
-    [ "spell_ulduar_arachnopod_damaged_aura", "d3/dd2/a20824.html", "d3/dd2/a20824" ],
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "de/d74/a20828.html", "de/d74/a20828" ],
-    [ "npc_salvaged_siege_engine", "d3/d3d/a20832.html", "d3/d3d/a20832" ],
-    [ "spell_ulduar_teleporter", "d4/dfd/a20836.html", "d4/dfd/a20836" ],
+    [ "npc_ulduar_keeper", "d8/df2/a20816.html", "d8/df2/a20816" ],
+    [ "npc_ulduar_keeper::npc_ulduar_keeperAI", "d4/d81/a20820.html", "d4/d81/a20820" ],
+    [ "spell_ulduar_energy_sap_aura", "d3/dd2/a20824.html", "d3/dd2/a20824" ],
+    [ "npc_ulduar_snow_mound", "de/d74/a20828.html", "de/d74/a20828" ],
+    [ "npc_ulduar_storm_tempered_keeper", "d3/d3d/a20832.html", "d3/d3d/a20832" ],
+    [ "npc_ulduar_arachnopod_destroyer", "d4/dfd/a20836.html", "d4/dfd/a20836" ],
+    [ "spell_ulduar_arachnopod_damaged_aura", "df/dcd/a20840.html", "df/dcd/a20840" ],
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "da/d23/a20844.html", "da/d23/a20844" ],
+    [ "npc_salvaged_siege_engine", "d0/d94/a20848.html", "d0/d94/a20848" ],
+    [ "spell_ulduar_teleporter", "d3/d75/a20852.html", "d3/d75/a20852" ],
     [ "EnergySap", "d9/d5b/a01127.html#acd2ead68f64ce23404d27b404679d93d", [
       [ "SPELL_ENERGY_SAP_DAMAGE_1", "d9/d5b/a01127.html#acd2ead68f64ce23404d27b404679d93da5efbbf6eb2348bbf207329be3daa22ab", null ],
       [ "SPELL_ENERGY_SAP_DAMAGE_2", "d9/d5b/a01127.html#acd2ead68f64ce23404d27b404679d93dad68983f43f8b3b69e6106291177d645d", null ]

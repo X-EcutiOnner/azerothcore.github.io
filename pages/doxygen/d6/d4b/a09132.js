@@ -1,8 +1,7 @@
 var a09132 =
 [
-    [ "VehicleSeat", "d6/d4b/a09132.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "d6/d4b/a09132.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "d6/d4b/a09132.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "d6/d4b/a09132.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "d6/d4b/a09132.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "VehicleDespawnEvent", "d6/d4b/a09132.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "d6/d4b/a09132.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "d6/d4b/a09132.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "d6/d4b/a09132.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

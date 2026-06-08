@@ -1,6 +1,5 @@
 var a27616 =
 [
-    [ "achievement_arena_by_type", "d1/dd0/a27616.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d1/dd0/a27616.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d1/dd0/a27616.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "achievement_bg_ic_resource_glut", "d1/dd0/a27616.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d1/dd0/a27616.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

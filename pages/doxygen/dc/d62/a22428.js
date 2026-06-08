@@ -1,7 +1,9 @@
 var a22428 =
 [
-    [ "HandleEffectRemove", "dc/d62/a22428.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "dc/d62/a22428.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "dc/d62/a22428.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "dc/d62/a22428.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "npc_flame_of_azzinoth", "dc/d62/a22428.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "dc/d62/a22428.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "dc/d62/a22428.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "dc/d62/a22428.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "dc/d62/a22428.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "dc/d62/a22428.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

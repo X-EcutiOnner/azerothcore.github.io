@@ -1,7 +1,6 @@
 var a16580 =
 [
-    [ "HandleAfterEffectAbsorb", "dd/d32/a16580.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "dd/d32/a16580.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "dd/d32/a16580.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "dd/d32/a16580.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "npc_argent_soldierAI", "d2/d79/a16584.html", "d2/d79/a16584" ],
+    [ "npc_argent_soldier", "dd/d32/a16580.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "dd/d32/a16580.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

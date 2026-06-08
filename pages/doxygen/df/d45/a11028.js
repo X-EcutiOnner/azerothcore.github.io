@@ -1,5 +1,11 @@
 var a11028 =
 [
-    [ "GuildDeleteRank", "df/d45/a11028.html#ae21057ea5cc30ed07deaa736149617b3", null ],
-    [ "Read", "df/d45/a11028.html#a91a7883299fe09e08c247c96987a8333", null ]
+    [ "GuildRankTabPermissions", "d7/dc0/a11032.html", "d7/dc0/a11032" ],
+    [ "GuildPermissionsQueryResults", "df/d45/a11028.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "df/d45/a11028.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "df/d45/a11028.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "df/d45/a11028.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "df/d45/a11028.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "df/d45/a11028.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "df/d45/a11028.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

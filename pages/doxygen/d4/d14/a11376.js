@@ -1,4 +1,7 @@
 var a11376 =
 [
-    [ "IllegalHyperlinkException", "d4/d14/a11376.html#a4bcd96d907fb882d147b0e29495f5c1d", null ]
+    [ "TrainerBuySucceeded", "d4/d14/a11376.html#ae00367a55429030c107fc8f6bb7db288", null ],
+    [ "Write", "d4/d14/a11376.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
+    [ "SpellID", "d4/d14/a11376.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
+    [ "TrainerGUID", "d4/d14/a11376.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
 ];

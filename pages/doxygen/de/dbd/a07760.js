@@ -1,10 +1,11 @@
 var a07760 =
 [
-    [ "BattlegroundRL", "de/dbd/a07760.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "de/dbd/a07760.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "de/dbd/a07760.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "de/dbd/a07760.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "de/dbd/a07760.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "de/dbd/a07760.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "de/dbd/a07760.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "BattlegroundICScore", "de/dbd/a07760.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
+    [ "BuildObjectivesBlock", "de/dbd/a07760.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
+    [ "GetAttr1", "de/dbd/a07760.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
+    [ "GetAttr2", "de/dbd/a07760.html#a758fa51038f232c7d65cd0168a4608c2", null ],
+    [ "UpdateScore", "de/dbd/a07760.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
+    [ "BattlegroundIC", "de/dbd/a07760.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
+    [ "BasesAssaulted", "de/dbd/a07760.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
+    [ "BasesDefended", "de/dbd/a07760.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
 ];

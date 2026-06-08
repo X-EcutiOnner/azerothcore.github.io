@@ -1,17 +1,12 @@
 var a29364 =
 [
-    [ "SetUp", "d4/d45/a29364.html#a33892cef920194ce17a4214cbcb5e121", null ],
-    [ "TearDown", "d4/d45/a29364.html#a24f14af6367811ce0d723cbec878b171", null ],
-    [ "PERM_ADMIN_1", "d4/d45/a29364.html#a672ecd08a005d73126fe8670785a42d3", null ],
-    [ "PERM_ADMIN_2", "d4/d45/a29364.html#a6b5c599d3b6586dccf829953df596197", null ],
-    [ "PERM_GM_1", "d4/d45/a29364.html#a0e05f907e00713517154426b99250684", null ],
-    [ "PERM_GM_2", "d4/d45/a29364.html#ae70a8f0c6dcd4a80e09c1a8d3af717e4", null ],
-    [ "PERM_MOD_1", "d4/d45/a29364.html#a1ca61ce12e74ab1274396570a66b20e8", null ],
-    [ "PERM_MOD_2", "d4/d45/a29364.html#a16d04ded09be3ef901ce71166a5f47e5", null ],
-    [ "PERM_PLAYER_1", "d4/d45/a29364.html#a947d93a663cf65d175795597fd471b05", null ],
-    [ "PERM_PLAYER_2", "d4/d45/a29364.html#af8ca567b623c9148b810486c7a23736a", null ],
-    [ "ROLE_ADMIN", "d4/d45/a29364.html#aefc211c8148b3a009dcf1f2b6364d379", null ],
-    [ "ROLE_GM", "d4/d45/a29364.html#a16113a522ad1e512c7f81ea293ffaa5c", null ],
-    [ "ROLE_MOD", "d4/d45/a29364.html#a7311596e545687f3398f3203e9e7d6d8", null ],
-    [ "ROLE_PLAYER", "d4/d45/a29364.html#a9e3cd3dc656e8911ac328abcfd85162a", null ]
+    [ "SetUp", "d4/d45/a29364.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
+    [ "TearDown", "d4/d45/a29364.html#a07e717efe62018e9f8f646a81afbb567", null ],
+    [ "PERM_A", "d4/d45/a29364.html#a38613fb2c500e82fe60a520cfa67e754", null ],
+    [ "PERM_B", "d4/d45/a29364.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
+    [ "PERM_C", "d4/d45/a29364.html#a819e1345b06cac6338459683c702d355", null ],
+    [ "PERM_MOD_1", "d4/d45/a29364.html#a4069369cc39fcca52fa6430a4778d86f", null ],
+    [ "ROLE_PLAYER", "d4/d45/a29364.html#a72830036ef06ce28131379219963c7cb", null ],
+    [ "SEC_MODERATOR", "d4/d45/a29364.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
+    [ "SEC_PLAYER", "d4/d45/a29364.html#a411050ede39af85c2846fcc154f140e3", null ]
 ];

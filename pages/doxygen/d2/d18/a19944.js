@@ -1,7 +1,6 @@
 var a19944 =
 [
-    [ "OnRemove", "d2/d18/a19944.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d2/d18/a19944.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d2/d18/a19944.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d2/d18/a19944.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "CastRunesEvent", "d2/d18/a19944.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d2/d18/a19944.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d2/d18/a19944.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

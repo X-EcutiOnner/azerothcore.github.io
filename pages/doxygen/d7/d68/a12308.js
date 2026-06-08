@@ -1,12 +1,11 @@
 var a12308 =
 [
-    [ "message_commandscript", "d7/d68/a12308.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "d7/d68/a12308.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "d7/d68/a12308.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "d7/d68/a12308.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "d7/d68/a12308.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "d7/d68/a12308.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "d7/d68/a12308.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "d7/d68/a12308.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "d7/d68/a12308.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "lfg_commandscript", "d7/d68/a12308.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "d7/d68/a12308.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "d7/d68/a12308.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgCooldownClearCommand", "d7/d68/a12308.html#a0e399ec509b9f419b7f034cc95409f7b", null ],
+    [ "HandleLfgGroupInfoCommand", "d7/d68/a12308.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "d7/d68/a12308.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "d7/d68/a12308.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "d7/d68/a12308.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

@@ -1,10 +1,9 @@
 var a08940 =
 [
-    [ "TradeStatusInfo", "da/d26/a08940.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "da/d26/a08940.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "da/d26/a08940.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "da/d26/a08940.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "da/d26/a08940.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "da/d26/a08940.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "da/d26/a08940.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "achievements", "da/d26/a08940.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "da/d26/a08940.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "da/d26/a08940.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "da/d26/a08940.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "da/d26/a08940.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "da/d26/a08940.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

@@ -1,12 +1,11 @@
 var a21124 =
 [
-    [ "npc_ichor_globule", "de/d5d/a21124.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "de/d5d/a21124.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "de/d5d/a21124.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "de/d5d/a21124.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "de/d5d/a21124.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "de/d5d/a21124.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "de/d5d/a21124.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "de/d5d/a21124.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "de/d5d/a21124.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "boss_cyanigosa", "de/d5d/a21124.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "de/d5d/a21124.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "de/d5d/a21124.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "de/d5d/a21124.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "de/d5d/a21124.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "de/d5d/a21124.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "de/d5d/a21124.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "de/d5d/a21124.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

@@ -1,5 +1,6 @@
 var a10660 =
 [
-    [ "FactoryCreatureScript", "d4/d3b/a10660.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d4/d3b/a10660.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "ConditionScript", "d4/d3b/a10660.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
+    [ "IsDatabaseBound", "d4/d3b/a10660.html#ac4f8325e3fa1e11437056818a0267342", null ],
+    [ "OnConditionCheck", "d4/d3b/a10660.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
 ];

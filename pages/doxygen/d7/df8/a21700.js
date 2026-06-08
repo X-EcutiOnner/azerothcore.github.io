@@ -1,8 +1,7 @@
 var a21700 =
 [
-    [ "AfterApply", "d7/df8/a21700.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "d7/df8/a21700.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "d7/df8/a21700.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "d7/df8/a21700.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "d7/df8/a21700.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "npc_plaguehound_trackerAI", "d7/df8/a21700.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d7/df8/a21700.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d7/df8/a21700.html#a67c345f49572cde76d9109a1baff6788", null ],
+    [ "WaypointReached", "d7/df8/a21700.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

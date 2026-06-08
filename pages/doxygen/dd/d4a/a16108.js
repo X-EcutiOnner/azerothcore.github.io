@@ -1,7 +1,6 @@
 var a16108 =
 [
-    [ "go_troll_cageAI", "dd/d4a/a16108.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "dd/d4a/a16108.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "dd/d4a/a16108.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "dd/d4a/a16108.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "HandleOpenLock", "dd/d4a/a16108.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "dd/d4a/a16108.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "dd/d4a/a16108.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

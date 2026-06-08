@@ -1,6 +1,6 @@
 var a22860 =
 [
-    [ "HandleDummy", "d4/dfa/a22860.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d4/dfa/a22860.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d4/dfa/a22860.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleEffectRemove", "d4/dfa/a22860.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "d4/dfa/a22860.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "d4/dfa/a22860.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

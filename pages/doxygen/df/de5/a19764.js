@@ -1,6 +1,10 @@
 var a19764 =
 [
-    [ "boss_krystallusAI", "db/d55/a19768.html", "db/d55/a19768" ],
-    [ "boss_krystallus", "df/de5/a19764.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "df/de5/a19764.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "npc_molten_golem", "df/de5/a19764.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "df/de5/a19764.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "df/de5/a19764.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "df/de5/a19764.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "df/de5/a19764.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "df/de5/a19764.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "df/de5/a19764.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

@@ -1,7 +1,6 @@
 var a26292 =
 [
-    [ "CheckAreaTarget", "d3/d32/a26292.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "d3/d32/a26292.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "d3/d32/a26292.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "d3/d32/a26292.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "CheckProc", "d3/d32/a26292.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "d3/d32/a26292.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "d3/d32/a26292.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

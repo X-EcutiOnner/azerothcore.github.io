@@ -1,7 +1,7 @@
 var a11712 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "dd/da1/a11712.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "dd/da1/a11712.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "dd/da1/a11712.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "dd/da1/a11712.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "effectMask", "dd/da1/a11712.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "dd/da1/a11712.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "dd/da1/a11712.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "dd/da1/a11712.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

@@ -1,14 +1,8 @@
 var a21544 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "de/dd8/a21544.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
-    [ "ChangeImage", "de/dd8/a21544.html#a815e5c67b282e2840676b5453d94d5dc", null ],
-    [ "MovementInform", "de/dd8/a21544.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
-    [ "Reset", "de/dd8/a21544.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
-    [ "StoreTargets", "de/dd8/a21544.html#a0732307643a442bc3f070b9cc91d78c9", null ],
-    [ "TurnAudience", "de/dd8/a21544.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
-    [ "UpdateAI", "de/dd8/a21544.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
-    [ "_events", "de/dd8/a21544.html#a907626beb601f789a725d88d45689eb2", null ],
-    [ "audienceList", "de/dd8/a21544.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
-    [ "imageList", "de/dd8/a21544.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
-    [ "talkWing", "de/dd8/a21544.html#ace957ffe4fba8f229946d61d63c1798c", null ]
+    [ "npc_q24545_vegardAI", "de/dd8/a21544.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "de/dd8/a21544.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "de/dd8/a21544.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "de/dd8/a21544.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "de/dd8/a21544.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

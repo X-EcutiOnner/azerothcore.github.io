@@ -1,7 +1,7 @@
 var a01103 =
 [
-    [ "boss_erekem", "db/db7/a21112.html", "db/db7/a21112" ],
-    [ "npc_erekem_guard", "dc/d42/a21116.html", "dc/d42/a21116" ],
+    [ "boss_erekem", "d9/d51/a21128.html", "d9/d51/a21128" ],
+    [ "npc_erekem_guard", "d7/dd9/a21132.html", "d7/dd9/a21132" ],
     [ "eEvents", "d9/d10/a01103.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "df/d4c/a00851.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "df/d4c/a00851.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

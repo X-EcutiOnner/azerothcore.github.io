@@ -1,12 +1,10 @@
 var a12636 =
 [
-    [ "boss_the_beast", "db/d10/a12636.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "db/d10/a12636.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "db/d10/a12636.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "db/d10/a12636.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "db/d10/a12636.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "db/d10/a12636.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "db/d10/a12636.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "db/d10/a12636.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "db/d10/a12636.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "npc_rookery_hatcher", "db/d10/a12636.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
+    [ "InitializeAI", "db/d10/a12636.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
+    [ "JustEngagedWith", "db/d10/a12636.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
+    [ "UpdateAI", "db/d10/a12636.html#a011cf0384a7bf6dd502a767d6667140a", null ],
+    [ "events", "db/d10/a12636.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
+    [ "targetEgg", "db/d10/a12636.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
+    [ "targetPosition", "db/d10/a12636.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
 ];

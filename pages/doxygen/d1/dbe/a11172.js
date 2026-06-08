@@ -1,6 +1,8 @@
 var a11172 =
 [
-    [ "SetRaidDifficultyClient", "d1/dbe/a11172.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "d1/dbe/a11172.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "d1/dbe/a11172.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "SetDungeonDifficulty", "d1/dbe/a11172.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
+    [ "Write", "d1/dbe/a11172.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
+    [ "Difficulty", "d1/dbe/a11172.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
+    [ "IsInGroup", "d1/dbe/a11172.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
+    [ "Unk", "d1/dbe/a11172.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
 ];

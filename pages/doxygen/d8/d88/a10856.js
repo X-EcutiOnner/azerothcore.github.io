@@ -1,8 +1,6 @@
 var a10856 =
 [
-    [ "GuildFilter", "d8/d88/a10856.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "d8/d88/a10856.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "d8/d88/a10856.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "d8/d88/a10856.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "d8/d88/a10856.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "BuyBankSlot", "d8/d88/a10856.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d8/d88/a10856.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d8/d88/a10856.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

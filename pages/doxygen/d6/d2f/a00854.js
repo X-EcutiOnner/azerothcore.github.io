@@ -1,13 +1,13 @@
 var a00854 =
 [
-    [ "boss_black_knight", "d2/d79/a16584.html", "d2/d79/a16584" ],
-    [ "boss_black_knight::boss_black_knightAI", "d3/d14/a16588.html", "d3/d14/a16588" ],
-    [ "npc_black_knight_skeletal_gryphon", "da/d67/a16592.html", "da/d67/a16592" ],
-    [ "npc_black_knight_skeletal_gryphon::npc_black_knight_skeletal_gryphonAI", "de/dcc/a16596.html", "de/dcc/a16596" ],
-    [ "npc_black_knight_ghoul", "d7/d13/a16600.html", "d7/d13/a16600" ],
-    [ "npc_black_knight_ghoul::npc_black_knight_ghoulAI", "da/dfa/a16604.html", "da/dfa/a16604" ],
-    [ "spell_black_knight_ghoul_claw", "db/dc0/a16608.html", "db/dc0/a16608" ],
-    [ "spell_black_knight_ghoul_explode", "d7/d47/a16612.html", "d7/d47/a16612" ],
+    [ "boss_black_knight", "d7/d13/a16600.html", "d7/d13/a16600" ],
+    [ "boss_black_knight::boss_black_knightAI", "da/dfa/a16604.html", "da/dfa/a16604" ],
+    [ "npc_black_knight_skeletal_gryphon", "db/dc0/a16608.html", "db/dc0/a16608" ],
+    [ "npc_black_knight_skeletal_gryphon::npc_black_knight_skeletal_gryphonAI", "d7/d47/a16612.html", "d7/d47/a16612" ],
+    [ "npc_black_knight_ghoul", "d0/d29/a16616.html", "d0/d29/a16616" ],
+    [ "npc_black_knight_ghoul::npc_black_knight_ghoulAI", "d9/d93/a16620.html", "d9/d93/a16620" ],
+    [ "spell_black_knight_ghoul_claw", "da/d26/a16624.html", "da/d26/a16624" ],
+    [ "spell_black_knight_ghoul_explode", "d6/d41/a16628.html", "d6/d41/a16628" ],
     [ "Events", "d6/d2f/a00854.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

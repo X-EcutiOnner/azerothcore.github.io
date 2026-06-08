@@ -1,9 +1,9 @@
 var a01397 =
 [
-    [ "boss_doomlord_kazzak", "d7/dae/a22756.html", "d7/dae/a22756" ],
-    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "d2/d9c/a22760.html", "d2/d9c/a22760" ],
-    [ "spell_mark_of_kazzak_aura", "d3/d9e/a22764.html", "d3/d9e/a22764" ],
-    [ "spell_twisted_reflection", "d0/d25/a22768.html", "d0/d25/a22768" ],
+    [ "boss_doomlord_kazzak", "d9/d6a/a22772.html", "d9/d6a/a22772" ],
+    [ "boss_doomlord_kazzak::boss_doomlordkazzakAI", "dc/d51/a22776.html", "dc/d51/a22776" ],
+    [ "spell_mark_of_kazzak_aura", "d5/d7e/a22780.html", "d5/d7e/a22780" ],
+    [ "spell_twisted_reflection", "d0/d14/a22784.html", "d0/d14/a22784" ],
     [ "Spells", "d7/d1c/a01397.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

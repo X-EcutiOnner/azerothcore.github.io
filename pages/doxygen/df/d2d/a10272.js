@@ -1,6 +1,6 @@
 var a10272 =
 [
-    [ "IsNeutralOrFriendlyToTeam", "df/d2d/a10272.html#aeeea8efaff8fe3f5044a7d5627a89cb6", null ],
-    [ "safeLocId", "df/d2d/a10272.html#a4f6003cc76b70c83fbb8301cc9d5a7ad", null ],
-    [ "teamId", "df/d2d/a10272.html#a287b04900d70f8ff8c6f6542edbd40a6", null ]
+    [ "aiNotifyDelay", "df/d2d/a10272.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "df/d2d/a10272.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "df/d2d/a10272.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

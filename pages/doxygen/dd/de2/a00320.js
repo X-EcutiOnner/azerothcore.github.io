@@ -1,6 +1,6 @@
 var a00320 =
 [
-    [ "boss_flamegor", "da/d4a/a12724.html", "da/d4a/a12724" ],
+    [ "boss_flamegor", "d2/dac/a12740.html", "d2/dac/a12740" ],
     [ "Emotes", "dd/de2/a00320.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "dd/d4e/a00329.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "dd/d4e/a00329.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],

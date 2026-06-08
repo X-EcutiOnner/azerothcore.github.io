@@ -1,7 +1,6 @@
 var a27404 =
 [
-    [ "HandleProc", "d0/d7e/a27404.html#a79bcdad48c19c0db70960552f6b4e2d3", null ],
-    [ "PrepareAuraScript", "d0/d7e/a27404.html#a760f228c118e9a89a3adc2767290f6f5", null ],
-    [ "Register", "d0/d7e/a27404.html#ace2673bc17210f349e47586c0e626dc5", null ],
-    [ "Validate", "d0/d7e/a27404.html#acdc499d8cae2de0edcfd2c19319e0175", null ]
+    [ "PrepareAuraScript", "d0/d7e/a27404.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d0/d7e/a27404.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d0/d7e/a27404.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

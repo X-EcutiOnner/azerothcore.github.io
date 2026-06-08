@@ -1,10 +1,8 @@
 var a13340 =
 [
-    [ "npc_scarlet_courierAI", "d9/d8d/a13340.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "d9/d8d/a13340.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "d9/d8d/a13340.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "d9/d8d/a13340.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "d9/d8d/a13340.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "d9/d8d/a13340.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "d9/d8d/a13340.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "HandleDummy", "d9/d8d/a13340.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d9/d8d/a13340.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d9/d8d/a13340.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d9/d8d/a13340.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d9/d8d/a13340.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

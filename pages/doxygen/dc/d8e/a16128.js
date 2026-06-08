@@ -1,11 +1,6 @@
 var a16128 =
 [
-    [ "boss_amanitar", "dc/d8e/a16128.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "dc/d8e/a16128.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "dc/d8e/a16128.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "dc/d8e/a16128.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "dc/d8e/a16128.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "dc/d8e/a16128.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "dc/d8e/a16128.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "dc/d8e/a16128.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_weegli_blastfuseAI", "da/d38/a16132.html", "da/d38/a16132" ],
+    [ "npc_weegli_blastfuse", "dc/d8e/a16128.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
+    [ "GetAI", "dc/d8e/a16128.html#a701681d8771756dac20d30c2e03a1349", null ]
 ];

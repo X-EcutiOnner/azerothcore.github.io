@@ -1,11 +1,6 @@
 var a19972 =
 [
-    [ "npc_auriaya_feral_defender", "d3/d79/a19972.html#a84425204b0ad06789edb331ed8495774", null ],
-    [ "DoAction", "d3/d79/a19972.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
-    [ "JustDied", "d3/d79/a19972.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
-    [ "JustEngagedWith", "d3/d79/a19972.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
-    [ "Reset", "d3/d79/a19972.html#a02b09b7dfdd4036827bb474a57296491", null ],
-    [ "UpdateAI", "d3/d79/a19972.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
-    [ "_feralEssenceStack", "d3/d79/a19972.html#a1ffc377dbad787a5eb132758124df534", null ],
-    [ "_summons", "d3/d79/a19972.html#a0b7960f590ba76068c377cf08291ce35", null ]
+    [ "achievement_assembly_of_iron", "d3/d79/a19972.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "d3/d79/a19972.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "d3/d79/a19972.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

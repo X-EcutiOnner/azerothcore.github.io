@@ -1,6 +1,6 @@
 var a07584 =
 [
-    [ "ArenaTeamFilterByTypes", "dc/d86/a07584.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "dc/d86/a07584.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "dc/d86/a07584.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "RewardTeamWithRewardGroup", "dc/d86/a07584.html#a962da3fcdc2feb57ffd2a635d431939a", null ],
+    [ "RewardWithAchievements", "dc/d86/a07584.html#a57e1ffbe543a93799d6c26d880e128ad", null ],
+    [ "RewardWithMail", "dc/d86/a07584.html#a4f2dd956f1ffadbfb5b005c1fbeb5aee", null ]
 ];

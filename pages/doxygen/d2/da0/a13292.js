@@ -1,6 +1,6 @@
 var a13292 =
 [
-    [ "CheckRequirement", "d2/da0/a13292.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d2/da0/a13292.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d2/da0/a13292.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "d3/d1d/a13296.html", "d3/d1d/a13296" ],
+    [ "instance_magisters_terrace", "d2/da0/a13292.html#a81e23ce04c4d765193d2d2763ef78987", null ],
+    [ "GetInstanceScript", "d2/da0/a13292.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
 ];

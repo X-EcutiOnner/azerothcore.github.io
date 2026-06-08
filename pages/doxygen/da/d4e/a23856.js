@@ -1,8 +1,16 @@
 var a23856 =
 [
-    [ "CreatureId", "da/d4e/a23856.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "da/d4e/a23856.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "da/d4e/a23856.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "da/d4e/a23856.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "da/d4e/a23856.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_dragonmaw_peonAI", "da/d4e/a23856.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "da/d4e/a23856.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "da/d4e/a23856.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "da/d4e/a23856.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "da/d4e/a23856.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "da/d4e/a23856.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "da/d4e/a23856.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "da/d4e/a23856.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "da/d4e/a23856.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "da/d4e/a23856.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "da/d4e/a23856.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "da/d4e/a23856.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "da/d4e/a23856.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

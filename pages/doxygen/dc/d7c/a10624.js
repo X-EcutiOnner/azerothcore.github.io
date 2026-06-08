@@ -1,10 +1,6 @@
 var a10624 =
 [
-    [ "ArenaTeamScript", "dc/d7c/a10624.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "dc/d7c/a10624.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "dc/d7c/a10624.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "dc/d7c/a10624.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "dc/d7c/a10624.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "dc/d7c/a10624.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "dc/d7c/a10624.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AreaTriggerScript", "dc/d7c/a10624.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "dc/d7c/a10624.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "dc/d7c/a10624.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

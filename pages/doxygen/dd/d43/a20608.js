@@ -1,6 +1,7 @@
 var a20608 =
 [
-    [ "HandleScript", "dd/d43/a20608.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "dd/d43/a20608.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "dd/d43/a20608.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "npc_xt002_life_spark", "dd/d43/a20608.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "dd/d43/a20608.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "dd/d43/a20608.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "dd/d43/a20608.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

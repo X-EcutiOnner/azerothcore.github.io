@@ -1,9 +1,9 @@
 var a00329 =
 [
-    [ "boss_chromaggus", "d9/d2a/a12700.html", "d9/d2a/a12700" ],
-    [ "go_chromaggus_lever", "d0/dd4/a12704.html", "d0/dd4/a12704" ],
-    [ "spell_gen_elemental_shield", "d5/dac/a12708.html", "d5/dac/a12708" ],
-    [ "spell_gen_brood_power", "d0/d6c/a12712.html", "d0/d6c/a12712" ],
+    [ "boss_chromaggus", "d9/de6/a12716.html", "d9/de6/a12716" ],
+    [ "go_chromaggus_lever", "df/d35/a12720.html", "df/d35/a12720" ],
+    [ "spell_gen_elemental_shield", "da/d4a/a12724.html", "da/d4a/a12724" ],
+    [ "spell_gen_brood_power", "db/d4d/a12728.html", "db/d4d/a12728" ],
     [ "ElementalShieldSpells", "dd/d4e/a00329.html#a7cc21086b00c27f6dd4ccd562708ec6a", [
       [ "SPELL_FIRE_ELEMENTAL_SHIELD", "dd/d4e/a00329.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224", null ],
       [ "SPELL_FROST_ELEMENTAL_SHIELD", "dd/d4e/a00329.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de", null ],

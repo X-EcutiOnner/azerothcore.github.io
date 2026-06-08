@@ -1,6 +1,8 @@
 var a15684 =
 [
-    [ "npc_death_ravagerAI", "d7/ddd/a15688.html", "d7/ddd/a15688" ],
-    [ "npc_death_ravager", "d8/d2a/a15684.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "d8/d2a/a15684.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "npc_injured_draeneiAI", "d8/d2a/a15684.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "d8/d2a/a15684.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "d8/d2a/a15684.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "d8/d2a/a15684.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "d8/d2a/a15684.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

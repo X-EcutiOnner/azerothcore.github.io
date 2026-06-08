@@ -1,8 +1,6 @@
 var a27268 =
 [
-    [ "CheckProc", "d5/dfd/a27268.html#aa78fae71c932b791104d7d2e6f4fb489", null ],
-    [ "HandleProc", "d5/dfd/a27268.html#a6fc689cee1b24bbd227beafd774c7fa0", null ],
-    [ "PrepareAuraScript", "d5/dfd/a27268.html#a32cfe704365230d40b02567c8a365e89", null ],
-    [ "Register", "d5/dfd/a27268.html#a252f09e27d1a9f17d1a6bb2ceb76cb68", null ],
-    [ "Validate", "d5/dfd/a27268.html#a74420515d0f05ae1414db1059effb3c0", null ]
+    [ "PeriodicTick", "d5/dfd/a27268.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
+    [ "PrepareAuraScript", "d5/dfd/a27268.html#a0448cdf379053396f8649946e52ce690", null ],
+    [ "Register", "d5/dfd/a27268.html#a2dab21ddb3c33341d560643d27042402", null ]
 ];

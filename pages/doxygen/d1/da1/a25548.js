@@ -1,5 +1,6 @@
 var a25548 =
 [
-    [ "PrepareSpellScript", "d1/da1/a25548.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d1/da1/a25548.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "PrepareSpellScript", "d1/da1/a25548.html#a3a77016a3a8314969ce41cc6483761ec", null ],
+    [ "Register", "d1/da1/a25548.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
+    [ "SetDest", "d1/da1/a25548.html#a724217c09faa57ec2e6dad034e8709ed", null ]
 ];

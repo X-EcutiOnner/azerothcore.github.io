@@ -1,10 +1,10 @@
 var a10772 =
 [
-    [ "VehicleScript", "d7/d0e/a10772.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "d7/d0e/a10772.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d7/d0e/a10772.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d7/d0e/a10772.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d7/d0e/a10772.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d7/d0e/a10772.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d7/d0e/a10772.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "TicketScript", "d7/d0e/a10772.html#aec2b310ba0b26aa84a245207256edb0e", null ],
+    [ "IsDatabaseBound", "d7/d0e/a10772.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
+    [ "OnTicketClose", "d7/d0e/a10772.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
+    [ "OnTicketCreate", "d7/d0e/a10772.html#a3436bbc78425bf5144c81f6309060b33", null ],
+    [ "OnTicketResolve", "d7/d0e/a10772.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
+    [ "OnTicketStatusUpdate", "d7/d0e/a10772.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
+    [ "OnTicketUpdateLastChange", "d7/d0e/a10772.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
 ];

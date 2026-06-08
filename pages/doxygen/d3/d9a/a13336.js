@@ -1,6 +1,7 @@
 var a13336 =
 [
-    [ "npc_scarlet_courierAI", "d9/d8d/a13340.html", "d9/d8d/a13340" ],
-    [ "npc_scarlet_courier", "d3/d9a/a13336.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "d3/d9a/a13336.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "HandleEffectApply", "d3/d9a/a13336.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d3/d9a/a13336.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d3/d9a/a13336.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d3/d9a/a13336.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

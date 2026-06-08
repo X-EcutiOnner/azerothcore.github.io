@@ -1,6 +1,7 @@
 var a18216 =
 [
-    [ "npc_little_oozeAI", "d9/d49/a18220.html", "d9/d49/a18220" ],
-    [ "npc_little_ooze", "d0/d58/a18216.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "d0/d58/a18216.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "HandleProc", "d0/d58/a18216.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
+    [ "PrepareAuraScript", "d0/d58/a18216.html#a5eace3a973165eb82ae95b8052bb9476", null ],
+    [ "Register", "d0/d58/a18216.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
+    [ "Validate", "d0/d58/a18216.html#ad2a7488006b16840e02b450cc9150289", null ]
 ];

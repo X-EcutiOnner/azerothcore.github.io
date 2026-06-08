@@ -1,7 +1,6 @@
 var a18200 =
 [
-    [ "HandleProc", "d4/db8/a18200.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d4/db8/a18200.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d4/db8/a18200.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d4/db8/a18200.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "OnRemove", "d4/db8/a18200.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d4/db8/a18200.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d4/db8/a18200.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

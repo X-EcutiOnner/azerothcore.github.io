@@ -1,6 +1,7 @@
 var a11004 =
 [
-    [ "GuildEventLogQueryResults", "d6/dd8/a11004.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "d6/dd8/a11004.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "d6/dd8/a11004.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "GuildInvite", "d6/dd8/a11004.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "d6/dd8/a11004.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "d6/dd8/a11004.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "d6/dd8/a11004.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

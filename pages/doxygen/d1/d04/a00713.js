@@ -1,9 +1,9 @@
 var a00713 =
 [
-    [ "boss_anub_arak", "dd/da8/a16208.html", "dd/da8/a16208" ],
-    [ "spell_azjol_nerub_carrion_beetles", "df/d14/a16212.html", "df/d14/a16212" ],
-    [ "spell_azjol_nerub_pound", "de/d9f/a16216.html", "de/d9f/a16216" ],
-    [ "spell_azjol_nerub_impale_summon", "d1/d3c/a16220.html", "d1/d3c/a16220" ],
+    [ "boss_anub_arak", "d9/d67/a16224.html", "d9/d67/a16224" ],
+    [ "spell_azjol_nerub_carrion_beetles", "d6/d86/a16228.html", "d6/d86/a16228" ],
+    [ "spell_azjol_nerub_pound", "df/d80/a16232.html", "df/d80/a16232" ],
+    [ "spell_azjol_nerub_impale_summon", "d3/d7a/a16236.html", "d3/d7a/a16236" ],
     [ "CreatureIds", "d1/d04/a00713.html#a92f6fd626e1834a4cc509efc1186963e", [
       [ "NPC_RISEN_GUARDIAN", "de/d79/a00203.html#a92f6fd626e1834a4cc509efc1186963eaf339195dfd125f52b68ee71aedd6f544", null ],
       [ "NPC_DARKMASTER_GANDLING", "de/d79/a00203.html#a92f6fd626e1834a4cc509efc1186963ea49fadbff12ca663e6d4e7ce3d9af8431", null ],

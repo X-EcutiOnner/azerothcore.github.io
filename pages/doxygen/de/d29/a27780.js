@@ -1,6 +1,7 @@
 var a27780 =
 [
-    [ "go_witherbark_totem_bundleAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
-    [ "go_witherbark_totem_bundle", "de/d29/a27780.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "de/d29/a27780.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "HandlePeriodic", "de/d29/a27780.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "de/d29/a27780.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "de/d29/a27780.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "de/d29/a27780.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

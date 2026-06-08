@@ -1,7 +1,7 @@
 var a29880 =
 [
-    [ "Paths", "df/db1/a29880.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "df/db1/a29880.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "df/db1/a29880.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "df/db1/a29880.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "W", "df/db1/a29880.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "df/db1/a29880.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "df/db1/a29880.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "df/db1/a29880.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

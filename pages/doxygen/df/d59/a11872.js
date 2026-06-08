@@ -1,6 +1,8 @@
 var a11872 =
 [
-    [ "ObjectAreaTargetSelectHandler", "df/d59/a11872.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "df/d59/a11872.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "df/d59/a11872.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "EffectHandler", "df/d59/a11872.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "df/d59/a11872.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "df/d59/a11872.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "df/d59/a11872.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "df/d59/a11872.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

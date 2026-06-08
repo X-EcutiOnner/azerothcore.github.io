@@ -1,7 +1,7 @@
 var a19520 =
 [
-    [ "FilterTargets", "dd/d08/a19520.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "dd/d08/a19520.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "dd/d08/a19520.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "dd/d08/a19520.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "HandleScript", "dd/d08/a19520.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "dd/d08/a19520.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "dd/d08/a19520.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "dd/d08/a19520.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

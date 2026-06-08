@@ -1,6 +1,10 @@
 var a10636 =
 [
-    [ "BattlegroundMapScript", "de/da0/a10636.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "de/da0/a10636.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "de/da0/a10636.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "ArenaTeamScript", "de/da0/a10636.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "de/da0/a10636.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "de/da0/a10636.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "de/da0/a10636.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "de/da0/a10636.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "de/da0/a10636.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "de/da0/a10636.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

@@ -1,6 +1,6 @@
 var a02228 =
 [
-    [ "WorldConfig", "d8/d50/a12152.html", "d8/d50/a12152" ],
+    [ "WorldConfig", "d8/dff/a12168.html", "d8/dff/a12168" ],
     [ "ServerConfigs", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0", [
       [ "CONFIG_DURABILITY_LOSS_IN_PVP", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0a9bd963cd4dbd7aa4f601fc5a69f582c7", null ],
       [ "CONFIG_ADDON_CHANNEL", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0a57f0703f8632960432f25f4969896d27", null ],
@@ -479,6 +479,7 @@ var a02228 =
       [ "CONFIG_NEW_CHAR_STRING", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0af83be77fe30f5f7bd745497467b68248", null ],
       [ "CONFIG_VALIDATE_SKILL_LEARNED_BY_SPELLS", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0ad7c2d120ede8fb9ecd4c9904934778de", null ],
       [ "CONFIG_ACHIEVEMENT_REALM_FIRST_KILL_WINDOW", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0aaf7425556caaabd7ac1f88eee9a4a736", null ],
+      [ "CONFIG_ACHIEVEMENT_REALM_FIRST_RACE_LIMIT_ONE_PER_CHARACTER", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0abb62e83b835bcaf448cede2199f2ec14", null ],
       [ "CONFIG_CHATLOG_ENABLED", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0aa5a25a8a20b7d99ad48bd34a0a353b3e", null ],
       [ "MAX_NUM_SERVER_CONFIGS", "de/dfd/a02228.html#a468ad15992691eb97dd20680046832e0a7cebf4fbc55ce913c4f3fd3b8992c8c7", null ]
     ] ]

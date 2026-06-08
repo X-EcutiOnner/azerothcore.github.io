@@ -1,7 +1,7 @@
 var a25384 =
 [
-    [ "HandleProc", "db/d04/a25384.html#a8e35d9e56b5d896b23844e8075c746d7", null ],
-    [ "PrepareAuraScript", "db/d04/a25384.html#a56c8ada8651cfd024cc7514417b986d6", null ],
-    [ "Register", "db/d04/a25384.html#a818ed2117c52a53939df5bf4d035854f", null ],
-    [ "Validate", "db/d04/a25384.html#ad9239fbe538bdc0019c60ef461c6c8ca", null ]
+    [ "FilterTargets", "db/d04/a25384.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "db/d04/a25384.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "db/d04/a25384.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "db/d04/a25384.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

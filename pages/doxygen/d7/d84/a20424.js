@@ -1,5 +1,6 @@
 var a20424 =
 [
-    [ "go_ulduar_do_not_push_this_button", "d7/d84/a20424.html#aa204af213a643c001161e0c2f173ee6b", null ],
-    [ "OnGossipHello", "d7/d84/a20424.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
+    [ "ModDest", "d7/d84/a20424.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d7/d84/a20424.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d7/d84/a20424.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

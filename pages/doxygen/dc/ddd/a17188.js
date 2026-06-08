@@ -1,9 +1,11 @@
 var a17188 =
 [
-    [ "npc_hor_spiritual_reflection", "dc/ddd/a17188.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "dc/ddd/a17188.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "dc/ddd/a17188.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "dc/ddd/a17188.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "dc/ddd/a17188.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "dc/ddd/a17188.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "npc_shadowy_mercenary", "dc/ddd/a17188.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "dc/ddd/a17188.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "dc/ddd/a17188.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "dc/ddd/a17188.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "dc/ddd/a17188.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "dc/ddd/a17188.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "dc/ddd/a17188.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "dc/ddd/a17188.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

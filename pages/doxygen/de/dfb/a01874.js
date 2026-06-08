@@ -1,7 +1,7 @@
 var a01874 =
 [
-    [ "boss_sartura", "d0/de7/a15524.html", "d0/de7/a15524" ],
-    [ "npc_sartura_royal_guard", "df/d70/a15528.html", "df/d70/a15528" ],
+    [ "boss_sartura", "d1/de9/a15540.html", "d1/de9/a15540" ],
+    [ "npc_sartura_royal_guard", "d4/d5c/a15544.html", "d4/d5c/a15544" ],
     [ "events", "de/dfb/a01874.html#ad29858f6d8ab73f2970f41cb21a76b84", [
       [ "EVENT_SARTURA_WHIRLWIND", "de/dfb/a01874.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
       [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "de/dfb/a01874.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],

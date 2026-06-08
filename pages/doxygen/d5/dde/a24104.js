@@ -1,9 +1,6 @@
 var a24104 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d5/dde/a24104.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d5/dde/a24104.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d5/dde/a24104.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d5/dde/a24104.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d5/dde/a24104.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d5/dde/a24104.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "CheckProc", "d5/dde/a24104.html#a5c7245398c005a133576493366010e58", null ],
+    [ "PrepareAuraScript", "d5/dde/a24104.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
+    [ "Register", "d5/dde/a24104.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
 ];

@@ -1,6 +1,7 @@
 var a17064 =
 [
-    [ "instance_drak_tharon_keep", "da/dce/a17064.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "da/dce/a17064.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "da/dce/a17064.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "HandleScriptEffect", "da/dce/a17064.html#a62cef31900cd61167823f3e66aa2d64b", null ],
+    [ "PrepareSpellScript", "da/dce/a17064.html#aff3fc5d7d6185bcb09d14f1408a67aad", null ],
+    [ "Register", "da/dce/a17064.html#ac73b3f568ce54f9b59b2b23f069da3c1", null ],
+    [ "Validate", "da/dce/a17064.html#aab4d84e896c8225d8d131558aaa71dbe", null ]
 ];

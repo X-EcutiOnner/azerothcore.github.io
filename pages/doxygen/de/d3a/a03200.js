@@ -1,6 +1,6 @@
 var a03200 =
 [
-    [ "BattlegroundRV", "d2/d59/a07764.html", "d2/d59/a07764" ],
+    [ "BattlegroundRV", "d8/dd2/a07776.html", "d8/dd2/a07776" ],
     [ "BattlegroundRVData", "de/d3a/a03200.html#adfa778416d2a81f8fea9a8c211baf34c", [
       [ "BG_RV_STATE_OPEN_FENCES", "de/d3a/a03200.html#adfa778416d2a81f8fea9a8c211baf34caecbfbc0c2c667f1549323a8f96e601b5", null ],
       [ "BG_RV_STATE_SWITCH_PILLARS", "de/d3a/a03200.html#adfa778416d2a81f8fea9a8c211baf34ca90f1ce9eb7e79af7a348559d2d731a15", null ],

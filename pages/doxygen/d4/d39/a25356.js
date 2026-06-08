@@ -1,10 +1,6 @@
 var a25356 =
 [
-    [ "CheckPeriodicProc", "d4/d39/a25356.html#abd7673f268b80681b27a862bd8013de3", null ],
-    [ "CheckProc", "d4/d39/a25356.html#a439aa5395d222291fbd5943f853d8961", null ],
-    [ "CheckTrapProc", "d4/d39/a25356.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
-    [ "HandleProc", "d4/d39/a25356.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
-    [ "PrepareAuraScript", "d4/d39/a25356.html#a475320d20875b2d710ed3734b78f4645", null ],
-    [ "Register", "d4/d39/a25356.html#aca7649a87ace4e22793ca33705b1500c", null ],
-    [ "Validate", "d4/d39/a25356.html#a45630b6dc703996321286ff16a17e3e3", null ]
+    [ "CheckCast", "d4/d39/a25356.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "d4/d39/a25356.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "d4/d39/a25356.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

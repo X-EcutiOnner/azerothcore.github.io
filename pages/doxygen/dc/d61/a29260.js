@@ -1,19 +1,13 @@
 var a29260 =
 [
-    [ "SpellProcEntryBuilder", "dc/d61/a29260.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
-    [ "Build", "dc/d61/a29260.html#a2a69603215e9fa526304f420bd5a490c", null ],
-    [ "WithAttributesMask", "dc/d61/a29260.html#ab9585e517adc231979ca5b817a2f2142", null ],
-    [ "WithChance", "dc/d61/a29260.html#a3c99a07866eb497717932af6b7f3a485", null ],
-    [ "WithCharges", "dc/d61/a29260.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
-    [ "WithCooldown", "dc/d61/a29260.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
-    [ "WithDisableEffectsMask", "dc/d61/a29260.html#ad414f75756b0fd284c636568dd74e57c", null ],
-    [ "WithHitMask", "dc/d61/a29260.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
-    [ "WithProcFlags", "dc/d61/a29260.html#acebcb2a676a7e8e6821854137e056fff", null ],
-    [ "WithProcsPerMinute", "dc/d61/a29260.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
-    [ "WithSchoolMask", "dc/d61/a29260.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
-    [ "WithSpellFamilyMask", "dc/d61/a29260.html#a57a1699a8238dd535a44908734e3c7fd", null ],
-    [ "WithSpellFamilyName", "dc/d61/a29260.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
-    [ "WithSpellPhaseMask", "dc/d61/a29260.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
-    [ "WithSpellTypeMask", "dc/d61/a29260.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
-    [ "_entry", "dc/d61/a29260.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
+    [ "AuraConfig", "dc/d17/a29264.html", "dc/d17/a29264" ],
+    [ "ProcRecord", "dc/d66/a29268.html", "dc/d66/a29268" ],
+    [ "ProcChainGuardSimulator", "dc/d61/a29260.html#ad729e5f44922b9b6c44c9a4d732818e7", null ],
+    [ "CanProc", "dc/d61/a29260.html#a267703c4a51bf3e8020e3298c85b74b3", null ],
+    [ "GetProcDeep", "dc/d61/a29260.html#afe8e4320a882c474f883347860ad4d47", null ],
+    [ "GetRecords", "dc/d61/a29260.html#ae21baa9f43fb78e30dedfc6608684e9e", null ],
+    [ "SetCantProc", "dc/d61/a29260.html#ab479d1a30e547ce04775abe397cfea14", null ],
+    [ "SimulateTriggerAurasProc", "dc/d61/a29260.html#ab0a0af1461f0f94a87273f468bc5454d", null ],
+    [ "_procDeep", "dc/d61/a29260.html#a5fd0de564b32520971082df9620d40b4", null ],
+    [ "_records", "dc/d61/a29260.html#abdecfb4d1da86f5a5d4cd7c92c228617", null ]
 ];

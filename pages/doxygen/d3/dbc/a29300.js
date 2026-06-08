@@ -1,6 +1,8 @@
 var a29300 =
 [
-    [ "SetUp", "d3/dbc/a29300.html#abb19e39864b83953d4521914a78ed608", null ],
-    [ "TearDown", "d3/dbc/a29300.html#a72dfb16bc49f5ebc3cfc34e7058e4ac9", null ],
-    [ "rbacData", "d3/dbc/a29300.html#a96c1c7558b15f241f429f479ae36f497", null ]
+    [ "bp0", "d3/dbc/a29300.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d3/dbc/a29300.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d3/dbc/a29300.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d3/dbc/a29300.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d3/dbc/a29300.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

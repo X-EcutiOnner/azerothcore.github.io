@@ -1,7 +1,6 @@
 var a17148 =
 [
-    [ "OnRemove", "de/df8/a17148.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "de/df8/a17148.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "de/df8/a17148.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "de/df8/a17148.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "instance_forge_of_souls_InstanceScript", "de/d90/a17152.html", "de/d90/a17152" ],
+    [ "instance_forge_of_souls", "de/df8/a17148.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "de/df8/a17148.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

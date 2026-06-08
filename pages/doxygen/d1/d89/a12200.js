@@ -1,11 +1,15 @@
 var a12200 =
 [
-    [ "bf_commandscript", "d1/d89/a12200.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d1/d89/a12200.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d1/d89/a12200.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
-    [ "HandleBattlefieldEnd", "d1/d89/a12200.html#abe18a8f6f91de5a1984f09c711136919", null ],
-    [ "HandleBattlefieldQueue", "d1/d89/a12200.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
-    [ "HandleBattlefieldStart", "d1/d89/a12200.html#a1cfd74a803277063fa5e03162956f341", null ],
-    [ "HandleBattlefieldSwitch", "d1/d89/a12200.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
-    [ "HandleBattlefieldTimer", "d1/d89/a12200.html#a6c0d2587984f276bbc40af72017dc00a", null ]
+    [ "arena_commandscript", "d1/d89/a12200.html#ad433113f5a3cf7f2cb43ff4fd3f0d49d", null ],
+    [ "GetCommands", "d1/d89/a12200.html#a3a5e95fca957fd1898d6a7acea98931e", null ],
+    [ "HandleArenaCaptainCommand", "d1/d89/a12200.html#a7b7123c837bbecb1a4d3d2e8aa934d4c", null ],
+    [ "HandleArenaCreateCommand", "d1/d89/a12200.html#a10eab39042cb718d839fbdf7236b1a31", null ],
+    [ "HandleArenaDisbandCommand", "d1/d89/a12200.html#a012626d4c101a63d9a70c530c9e98354", null ],
+    [ "HandleArenaInfoCommand", "d1/d89/a12200.html#a90fc70aae7b3e0fec179a0a1a7482c11", null ],
+    [ "HandleArenaLookupCommand", "d1/d89/a12200.html#a7356c0a45dcf32809a32fe6053b94de0", null ],
+    [ "HandleArenaRenameCommand", "d1/d89/a12200.html#a4095683ee7b5a2236dac8aa36a607d7c", null ],
+    [ "HandleArenaSeasonDeleteTeamsCommand", "d1/d89/a12200.html#a956b4450813331d5bc43c46409c4a095", null ],
+    [ "HandleArenaSeasonRewardCommand", "d1/d89/a12200.html#a8b83f4ae0544e33d4bafe674b416f176", null ],
+    [ "HandleArenaSeasonSetStateCommand", "d1/d89/a12200.html#a8d6c1eeaebab28859f0bdef70b50a3bb", null ],
+    [ "HandleArenaSeasonStartCommand", "d1/d89/a12200.html#a58ea37f547986c084c04064bddc32cfb", null ]
 ];

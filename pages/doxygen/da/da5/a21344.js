@@ -1,6 +1,13 @@
 var a21344 =
 [
-    [ "npc_mei_francis_mountAI", "d2/d10/a21348.html", "d2/d10/a21348" ],
-    [ "npc_mei_francis_mount", "da/da5/a21344.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "da/da5/a21344.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_preparations_for_war_vehicle", "da/da5/a21344.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "MovementInform", "da/da5/a21344.html#a5380670d521c7805a045aeac26c7c686", null ],
+    [ "PassengerBoarded", "da/da5/a21344.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
+    [ "SpellHit", "da/da5/a21344.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
+    [ "UpdateAI", "da/da5/a21344.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "passenger_x", "da/da5/a21344.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
+    [ "passenger_y", "da/da5/a21344.html#afd99c49b3c3b996c92def21229f1ec87", null ],
+    [ "passenger_z", "da/da5/a21344.html#a18d051868134d8c62f64923905bf19db", null ],
+    [ "searchForShipTimer", "da/da5/a21344.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "da/da5/a21344.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

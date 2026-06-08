@@ -1,11 +1,7 @@
 var a12264 =
 [
-    [ "group_commandscript", "da/d4f/a12264.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "da/d4f/a12264.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "da/d4f/a12264.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "da/d4f/a12264.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "da/d4f/a12264.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "da/d4f/a12264.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "da/d4f/a12264.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "da/d4f/a12264.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "gear_commandscript", "da/d4f/a12264.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "da/d4f/a12264.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "da/d4f/a12264.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "da/d4f/a12264.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

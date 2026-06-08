@@ -1,7 +1,7 @@
 var a01559 =
 [
-    [ "instance_the_eye", "d9/da4/a23556.html", "d9/da4/a23556" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "d0/d97/a23560.html", "d0/d97/a23560" ],
+    [ "instance_the_eye", "d1/de0/a23572.html", "d1/de0/a23572" ],
+    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "db/d9f/a23576.html", "db/d9f/a23576" ],
     [ "AddSC_instance_the_eye", "de/d1a/a01559.html#a2edbd129d024cabd379cca055dd3e341", null ],
     [ "boundaries", "de/d1a/a01559.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "de/d1a/a01559.html#a412286b689bd324fedd65ddd8dde8afb", null ],

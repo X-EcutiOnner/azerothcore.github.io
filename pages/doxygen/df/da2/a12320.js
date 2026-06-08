@@ -1,10 +1,10 @@
 var a12320 =
 [
-    [ "mmaps_commandscript", "df/da2/a12320.html#a1dbdfd26bdb685315a3012453080a56f", null ],
-    [ "GetCommands", "df/da2/a12320.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
-    [ "HandleMmapLoadedTilesCommand", "df/da2/a12320.html#a40d5b7e733298210c686fe89490b6f61", null ],
-    [ "HandleMmapLocCommand", "df/da2/a12320.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
-    [ "HandleMmapPathCommand", "df/da2/a12320.html#a2c876439ad6d9ff7523f140d97743dea", null ],
-    [ "HandleMmapStatsCommand", "df/da2/a12320.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
-    [ "HandleMmapTestArea", "df/da2/a12320.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
+    [ "mail_commandscript", "df/da2/a12320.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
+    [ "GetCommands", "df/da2/a12320.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
+    [ "GetItemListString", "df/da2/a12320.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
+    [ "GetMailStationeryString", "df/da2/a12320.html#af016c0c682c94250cdb26eea3377ec6e", null ],
+    [ "GetMailTypeString", "df/da2/a12320.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
+    [ "HandleMailListCommand", "df/da2/a12320.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
+    [ "HandleMailReturnCommand", "df/da2/a12320.html#acbdb7a0ea15ed5202866355d4839948c", null ]
 ];

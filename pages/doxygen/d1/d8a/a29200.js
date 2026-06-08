@@ -1,15 +1,7 @@
 var a29200 =
 [
-    [ "DamageInfoStubBuilder", "d1/d8a/a29200.html#a282b4f92722f9cf12358a9f603df6902", null ],
-    [ "Build", "d1/d8a/a29200.html#ad50ac35ca7a10f0eb20383fbde4a54dc", null ],
-    [ "WithAbsorb", "d1/d8a/a29200.html#a3533bbda604c4ed6ac467f28ecb60fbe", null ],
-    [ "WithAttackType", "d1/d8a/a29200.html#a4fd9332aa42002056d3f9191cd4435d7", null ],
-    [ "WithBlock", "d1/d8a/a29200.html#a81381d471627ddd6e86678551ca4ab5b", null ],
-    [ "WithDamage", "d1/d8a/a29200.html#abf9d30cde831f2094a181a312bcfe9df", null ],
-    [ "WithHitMask", "d1/d8a/a29200.html#a161f5ea9ae33541dfcfd600fc5546b20", null ],
-    [ "WithOriginalDamage", "d1/d8a/a29200.html#a3265aa4aa273cc9ededb6c9673f6c9e3", null ],
-    [ "WithResist", "d1/d8a/a29200.html#a76827724d8b8d780dc5d136ca01e51e6", null ],
-    [ "WithSchoolMask", "d1/d8a/a29200.html#ab540fcb56c4034daea104a1b844bdb3a", null ],
-    [ "WithSpellInfo", "d1/d8a/a29200.html#a681fe7d0c7f3b4136ad4ba2a662e6393", null ],
-    [ "_stub", "d1/d8a/a29200.html#abf06c6b638dcd9489fa0e3d755433514", null ]
+    [ "MockAuraStub", "d1/d8a/a29200.html#a9f0561eabca5230f8fe27384e0deb6b8", null ],
+    [ "MOCK_METHOD", "d1/d8a/a29200.html#a727233484b563f548c9f0e2d8a78b9a6", null ],
+    [ "MOCK_METHOD", "d1/d8a/a29200.html#a9581f1887abbe708bc4e2da24e1996b5", null ],
+    [ "MOCK_METHOD", "d1/d8a/a29200.html#abe2d675e124d5cb9115e8f726b1c7d8b", null ]
 ];

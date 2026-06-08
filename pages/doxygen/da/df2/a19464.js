@@ -1,5 +1,5 @@
 var a19464 =
 [
-    [ "npc_living_poison", "da/df2/a19464.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "da/df2/a19464.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "at_thaddius_entrance", "da/df2/a19464.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "_OnTrigger", "da/df2/a19464.html#acc869cade2b48ceb782d78aa7df6f246", null ]
 ];

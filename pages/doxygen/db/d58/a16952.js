@@ -1,9 +1,6 @@
 var a16952 =
 [
-    [ "npc_concentrated_ballAI", "db/d58/a16952.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "db/d58/a16952.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "db/d58/a16952.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "db/d58/a16952.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "db/d58/a16952.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "db/d58/a16952.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "boss_fjolaAI", "d9/d12/a16956.html", "d9/d12/a16956" ],
+    [ "boss_fjola", "db/d58/a16952.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
+    [ "GetAI", "db/d58/a16952.html#a96d9ea0716199758b60ad933ade28de4", null ]
 ];

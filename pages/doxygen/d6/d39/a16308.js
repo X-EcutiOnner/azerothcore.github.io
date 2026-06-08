@@ -1,7 +1,7 @@
 var a16308 =
 [
-    [ "boss_sartharion_shadron", "d6/d39/a16308.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
-    [ "ExecuteEvent", "d6/d39/a16308.html#a1f1a235d4d5654e273ef821ebf962491", null ],
-    [ "Reset", "d6/d39/a16308.html#a8511eb55a486665a248d555337c25002", null ],
-    [ "SummonedCreatureDies", "d6/d39/a16308.html#a3967c70698675d2c925a1a0366bf1d00", null ]
+    [ "HandleScriptEffect", "d6/d39/a16308.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d6/d39/a16308.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d6/d39/a16308.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d6/d39/a16308.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

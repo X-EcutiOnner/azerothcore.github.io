@@ -1,9 +1,6 @@
 var a23776 =
 [
-    [ "npc_bessyAI", "d3/d51/a23776.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d3/d51/a23776.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d3/d51/a23776.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d3/d51/a23776.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d3/d51/a23776.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
-    [ "WaypointReached", "d3/d51/a23776.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_commander_dawnforgeAI", "d3/db6/a23780.html", "d3/db6/a23780" ],
+    [ "npc_commander_dawnforge", "d3/d51/a23776.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d3/d51/a23776.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

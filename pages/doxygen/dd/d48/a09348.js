@@ -1,6 +1,8 @@
 var a09348 =
 [
-    [ "faction", "dd/d48/a09348.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
-    [ "faction_rank", "dd/d48/a09348.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
-    [ "faction_rate", "dd/d48/a09348.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
+    [ "MailLevelReward", "dd/d48/a09348.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "dd/d48/a09348.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "dd/d48/a09348.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "dd/d48/a09348.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "dd/d48/a09348.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

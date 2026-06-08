@@ -1,11 +1,11 @@
 var a00410 =
 [
-    [ "boss_jindo", "d5/d14/a14380.html", "d5/d14/a14380" ],
-    [ "npc_healing_ward", "d6/de5/a14384.html", "d6/de5/a14384" ],
-    [ "npc_shade_of_jindo", "d9/df5/a14388.html", "d9/df5/a14388" ],
-    [ "spell_random_aggro", "d9/d8f/a14392.html", "d9/d8f/a14392" ],
-    [ "spell_delusions_of_jindo", "df/d34/a14396.html", "df/d34/a14396" ],
-    [ "npc_brain_wash_totem", "de/dad/a14400.html", "de/dad/a14400" ],
+    [ "boss_jindo", "df/d34/a14396.html", "df/d34/a14396" ],
+    [ "npc_healing_ward", "de/dad/a14400.html", "de/dad/a14400" ],
+    [ "npc_shade_of_jindo", "d4/db6/a14404.html", "d4/db6/a14404" ],
+    [ "spell_random_aggro", "d2/d6f/a14408.html", "d2/d6f/a14408" ],
+    [ "spell_delusions_of_jindo", "d9/d67/a14412.html", "d9/d67/a14412" ],
+    [ "npc_brain_wash_totem", "db/d5b/a14416.html", "db/d5b/a14416" ],
     [ "Events", "d8/d91/a00410.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "df/d6a/a00119.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -1,9 +1,6 @@
 var a22068 =
 [
-    [ "HandleFinish", "df/d89/a22068.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "df/d89/a22068.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "df/d89/a22068.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "df/d89/a22068.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "df/d89/a22068.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "df/d89/a22068.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "go_wg_vehicle_teleporterAI", "de/df4/a22072.html", "de/df4/a22072" ],
+    [ "go_wg_vehicle_teleporter", "df/d89/a22068.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "df/d89/a22068.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

@@ -1,9 +1,9 @@
 var a00500 =
 [
-    [ "boss_shade_of_aran", "d2/dfb/a13056.html", "d2/dfb/a13056" ],
-    [ "spell_flamewreath", "d3/d61/a13060.html", "d3/d61/a13060" ],
-    [ "spell_flamewreath_aura", "d5/df3/a13064.html", "d5/df3/a13064" ],
-    [ "at_karazhan_atiesh_aran", "d5/d90/a13068.html", "d5/d90/a13068" ],
+    [ "boss_shade_of_aran", "dc/d03/a13072.html", "dc/d03/a13072" ],
+    [ "spell_flamewreath", "d6/d18/a13076.html", "d6/d18/a13076" ],
+    [ "spell_flamewreath_aura", "d1/d2a/a13080.html", "d1/d2a/a13080" ],
+    [ "at_karazhan_atiesh_aran", "d6/dab/a13084.html", "d6/dab/a13084" ],
     [ "Creatures", "de/d4e/a00500.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "df/d6a/a00119.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "df/d6a/a00119.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

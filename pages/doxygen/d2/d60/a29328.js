@@ -1,5 +1,5 @@
 var a29328 =
 [
-    [ "SetUp", "d2/d60/a29328.html#add2a716e8e1f27b462185cbb5a600842", null ],
-    [ "permission", "d2/d60/a29328.html#a62a00095674d9b43cfc5e72ae7cbbda8", null ]
+    [ "SetUp", "d2/d60/a29328.html#aa33aaf63e128603a305fc5cfcd6d455a", null ],
+    [ "TearDown", "d2/d60/a29328.html#aa382128c47a08c27c9f2b0ed3958f9bf", null ]
 ];

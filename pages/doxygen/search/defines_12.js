@@ -17,7 +17,7 @@ var searchData=
   ['scharactercache_14',['sCharacterCache',['../dc/d0f/a03824.html#a7a32c898b33d6163d83a32f46d58517c',1,'CharacterCache.h']]],
   ['scholomancescriptname_15',['ScholomanceScriptName',['../de/d79/a00203.html#a87ac32ae3997b31f1635209cf7aa27a1',1,'scholomance.h']]],
   ['sconditionmgr_16',['sConditionMgr',['../dd/d51/a03842.html#a5ab0412c3dc24dbd690ba6d7f01657f8',1,'ConditionMgr.h']]],
-  ['sconfigmgr_17',['sConfigMgr',['../d3/dd1/a30707.html#a7236988e98bdd405bf435a029b70a26f',1,'Config.h']]],
+  ['sconfigmgr_17',['sConfigMgr',['../d7/d42/a30724.html#a7236988e98bdd405bf435a029b70a26f',1,'Config.h']]],
   ['screatureairegistry_18',['sCreatureAIRegistry',['../dc/d61/a03950.html#a08e073e90e01d97b74e2331f15bf6122',1,'CreatureAIFactory.h']]],
   ['screaturetextmgr_19',['sCreatureTextMgr',['../d6/d6a/a02633.html#a2dc428da007cefe454220dcb355a1cde',1,'CreatureTextMgr.h']]],
   ['sdisablemgr_20',['sDisableMgr',['../de/d6a/a03833.html#a1a184d22bd27210ea5af79573927826a',1,'DisableMgr.h']]],

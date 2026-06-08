@@ -1,6 +1,6 @@
 var a20352 =
 [
-    [ "HandleInstaKill", "d7/d46/a20352.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d7/d46/a20352.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d7/d46/a20352.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d7/d46/a20352.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d7/d46/a20352.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d7/d46/a20352.html#ad863666aec3db81f73165148ffc98033", null ]
 ];

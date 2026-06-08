@@ -1,6 +1,7 @@
 var a17500 =
 [
-    [ "StandUpEvent", "df/d2e/a17500.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
-    [ "Execute", "df/d2e/a17500.html#a56bc1071300ff8f81e62839685e8f53a", null ],
-    [ "_owner", "df/d2e/a17500.html#a456a494140657d81b203834f7b88d5d1", null ]
+    [ "HandlePeriodic", "df/d2e/a17500.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "df/d2e/a17500.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "df/d2e/a17500.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "df/d2e/a17500.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

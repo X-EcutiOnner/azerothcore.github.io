@@ -1,9 +1,12 @@
 var a11348 =
 [
-    [ "TrainerList", "d3/dd0/a11348.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "d3/dd0/a11348.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "d3/dd0/a11348.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "d3/dd0/a11348.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "d3/dd0/a11348.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "d3/dd0/a11348.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "Complain", "d3/dd0/a11348.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
+    [ "Read", "d3/dd0/a11348.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
+    [ "ChannelId", "d3/dd0/a11348.html#a134b3bc2c782494fff06b5d83a2b9f98", null ],
+    [ "Description", "d3/dd0/a11348.html#a557676064707e2597a10e9b2efc9d09a", null ],
+    [ "MailIdOrMessageType", "d3/dd0/a11348.html#a1dc57952838e5eccaefe64f381584f4f", null ],
+    [ "SecondsSinceMessage", "d3/dd0/a11348.html#ac436590edc1d7de977edb9472100d9a2", null ],
+    [ "SpammerGuid", "d3/dd0/a11348.html#a4a8b664b598624046b26953051a28718", null ],
+    [ "SpamType", "d3/dd0/a11348.html#aece15ac467b310fc170844119978aa2a", null ],
+    [ "Unk1", "d3/dd0/a11348.html#a7cc02360329a0b67c67fb5798d1e658d", null ]
 ];

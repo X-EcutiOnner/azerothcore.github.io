@@ -1,16 +1,12 @@
 var a08488 =
 [
-    [ "UpdateState", "d0/d69/a08488.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "d0/d69/a08488.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "d0/d69/a08488.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "d0/d69/a08488.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "d0/d69/a08488.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "d0/d69/a08488.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "d0/d69/a08488.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "d0/d69/a08488.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "d0/d69/a08488.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
-    [ "Map", "d0/d69/a08488.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "d0/d69/a08488.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "d0/d69/a08488.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "GameObjectModelOwnerImpl", "d0/d69/a08488.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
+    [ "DebugVisualizeCorner", "d0/d69/a08488.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
+    [ "GetDisplayId", "d0/d69/a08488.html#a4a694456955c19e76d8c84befc02c920", null ],
+    [ "GetOrientation", "d0/d69/a08488.html#acb968e3bd921aac111a2e06f2604b040", null ],
+    [ "GetPhaseMask", "d0/d69/a08488.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
+    [ "GetPosition", "d0/d69/a08488.html#a9ba2b29d30b38895effe97637e050988", null ],
+    [ "GetScale", "d0/d69/a08488.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
+    [ "IsSpawned", "d0/d69/a08488.html#ae47eb25d16de37122042402443db6f3d", null ],
+    [ "_owner", "d0/d69/a08488.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
 ];

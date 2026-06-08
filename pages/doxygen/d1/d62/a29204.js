@@ -1,12 +1,15 @@
 var a29204 =
 [
-    [ "HealInfoStubBuilder", "d1/d62/a29204.html#a57945de96ad065451cadb47edba287c8", null ],
-    [ "Build", "d1/d62/a29204.html#a291565d223df00ce9d09c0315e803448", null ],
-    [ "WithAbsorb", "d1/d62/a29204.html#aa09160afe48114a7a3566be328f64658", null ],
-    [ "WithEffectiveHeal", "d1/d62/a29204.html#a34a359322b018cffc5f54ca999c11b11", null ],
-    [ "WithHeal", "d1/d62/a29204.html#a812e06b07eeb18c1d379409b77a80b89", null ],
-    [ "WithHitMask", "d1/d62/a29204.html#ab788ddcc209140ed3c10b02785471dcb", null ],
-    [ "WithOverheal", "d1/d62/a29204.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
-    [ "WithSpellInfo", "d1/d62/a29204.html#a4dc784241fbe998437cceb953fb83e1f", null ],
-    [ "_stub", "d1/d62/a29204.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
+    [ "AuraStubBuilder", "d1/d62/a29204.html#a534384a8763b8c95fab8158e83db2def", null ],
+    [ "Build", "d1/d62/a29204.html#a7d5b970e591a239849e42a0c444f62d4", null ],
+    [ "BuildRaw", "d1/d62/a29204.html#a6d18b0c3762b471fba8cf895e9a07b50", null ],
+    [ "WithCharges", "d1/d62/a29204.html#a0e11ce060ed827bfc2b72d2b26a6693b", null ],
+    [ "WithDuration", "d1/d62/a29204.html#ac5c74952acab3c54a79e28355f423a8f", null ],
+    [ "WithEffect", "d1/d62/a29204.html#ad25896a25811e0e563dcac1c46e77ff3", null ],
+    [ "WithId", "d1/d62/a29204.html#aa8dc59189364f6be82822588a47d32fd", null ],
+    [ "WithPassive", "d1/d62/a29204.html#a056bd26636b67b54562306a42b3d7c3e", null ],
+    [ "WithPeriodicEffect", "d1/d62/a29204.html#a93fd0ed97589e98446251f9b078a3f9d", null ],
+    [ "WithSpellFamilyName", "d1/d62/a29204.html#afa4a16fb9c020c568472102fff972408", null ],
+    [ "WithStackAmount", "d1/d62/a29204.html#a04b37ad66dde7b61695a80db00c9ab66", null ],
+    [ "_stub", "d1/d62/a29204.html#a22cc8b0309b64c1ecc482d77170a2b09", null ]
 ];

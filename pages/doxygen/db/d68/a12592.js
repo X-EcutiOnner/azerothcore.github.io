@@ -1,14 +1,11 @@
 var a12592 =
 [
-    [ "boss_lord_valthalak", "db/d68/a12592.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
-    [ "DamageTaken", "db/d68/a12592.html#adf174f2b50e76a721c034a13f1946875", null ],
-    [ "IsSummonedBy", "db/d68/a12592.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
-    [ "JustDied", "db/d68/a12592.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
-    [ "JustEngagedWith", "db/d68/a12592.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
-    [ "Reset", "db/d68/a12592.html#a0494a1b6cc00b40f627a58d790424567", null ],
-    [ "StartFighting", "db/d68/a12592.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
-    [ "StartTalking", "db/d68/a12592.html#ace3e47ef60b3761d860677648fabdd9d", null ],
-    [ "UpdateAI", "db/d68/a12592.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
-    [ "_frenzy15", "db/d68/a12592.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
-    [ "_frenzy40", "db/d68/a12592.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
+    [ "boss_gyth", "db/d68/a12592.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "db/d68/a12592.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "db/d68/a12592.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "db/d68/a12592.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "db/d68/a12592.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "db/d68/a12592.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "db/d68/a12592.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "db/d68/a12592.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

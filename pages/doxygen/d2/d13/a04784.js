@@ -1,7 +1,7 @@
 var a04784 =
 [
-    [ "MockArenaSeasonTeamRewarder", "da/d0e/a29408.html", "da/d0e/a29408" ],
-    [ "ArenaSeasonRewardDistributorTest", "d7/d30/a29412.html", "d7/d30/a29412" ],
+    [ "MockArenaSeasonTeamRewarder", "d1/d3b/a29424.html", "d1/d3b/a29424" ],
+    [ "ArenaSeasonRewardDistributorTest", "d1/d67/a29428.html", "d1/d67/a29428" ],
     [ "ArenaTeamWithRating", "d2/d13/a04784.html#a74bb31c469b2f6e9691219589ac41a12", null ],
     [ "TEST_F", "d2/d13/a04784.html#acd40406191e1dacb6e7400210157262a", null ],
     [ "TEST_F", "d2/d13/a04784.html#a7bfddbb1d9978546d0eff10b29942b32", null ],

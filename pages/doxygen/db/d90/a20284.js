@@ -1,5 +1,6 @@
 var a20284 =
 [
-    [ "achievement_i_have_the_coolest_friends", "db/d90/a20284.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "db/d90/a20284.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "HandleAfterEffectApply", "db/d90/a20284.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "db/d90/a20284.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "db/d90/a20284.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

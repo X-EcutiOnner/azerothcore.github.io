@@ -1,6 +1,6 @@
 var a01793 =
 [
-    [ "boss_chrono_lord_deja", "df/d23/a15192.html", "df/d23/a15192" ],
+    [ "boss_chrono_lord_deja", "d6/db3/a15208.html", "d6/db3/a15208" ],
     [ "Spells", "d4/dc6/a01793.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "da/dfb/a03188.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

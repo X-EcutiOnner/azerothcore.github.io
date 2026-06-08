@@ -1,6 +1,6 @@
 var a22580 =
 [
-    [ "boss_essence_of_angerAI", "d0/db8/a22584.html", "d0/db8/a22584" ],
-    [ "boss_essence_of_anger", "d2/d1a/a22580.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d2/d1a/a22580.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "boss_essence_of_sufferingAI", "d0/db8/a22584.html", "d0/db8/a22584" ],
+    [ "boss_essence_of_suffering", "d2/d1a/a22580.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d2/d1a/a22580.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

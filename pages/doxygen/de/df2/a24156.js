@@ -1,8 +1,6 @@
 var a24156 =
 [
-    [ "CheckProc", "de/df2/a24156.html#a2a008e6d73c39d789aa176e9e5872544", null ],
-    [ "HandleProc", "de/df2/a24156.html#abd05fec42193d2de8f42e95d8c90d8ca", null ],
-    [ "PrepareAuraScript", "de/df2/a24156.html#a0c1452114b1f5698bf87024f66663546", null ],
-    [ "Register", "de/df2/a24156.html#a83bcce64d93f0eaf286bbfd17062832e", null ],
-    [ "Validate", "de/df2/a24156.html#ad160e59cf489a1d2fbaa11b1e919826a", null ]
+    [ "HandleAfterCast", "de/df2/a24156.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "de/df2/a24156.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "de/df2/a24156.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

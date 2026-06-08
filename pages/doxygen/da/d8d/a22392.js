@@ -1,20 +1,12 @@
 var a22392 =
 [
-    [ "boss_illidan_stormrage", "da/d8d/a22392.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
-    [ "CanAIAttack", "da/d8d/a22392.html#a9607a9a09df9d07ebae0513458435b4d", null ],
-    [ "CycleBeamPos", "da/d8d/a22392.html#a2044514c049262328022ac22a651fb92", null ],
-    [ "DamageTaken", "da/d8d/a22392.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
-    [ "DoAction", "da/d8d/a22392.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
-    [ "EnterEvadeMode", "da/d8d/a22392.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
-    [ "JustDied", "da/d8d/a22392.html#a4d38abd8885862e31a88da4de754e35d", null ],
-    [ "JustEngagedWith", "da/d8d/a22392.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
-    [ "JustSummoned", "da/d8d/a22392.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
-    [ "KilledUnit", "da/d8d/a22392.html#abf29f9607351d35953d8d0e97779c3f9", null ],
-    [ "MovementInform", "da/d8d/a22392.html#acdd75f289288b3e6de4136267d490519", null ],
-    [ "Reset", "da/d8d/a22392.html#aa5eb94712f886e821630535cb2970dfe", null ],
-    [ "ScheduleAbilities", "da/d8d/a22392.html#af230387ddbd1b270e1be69133f4bae38", null ],
-    [ "_canTalk", "da/d8d/a22392.html#abaf0cca3f159aae572203254c41444a3", null ],
-    [ "_dying", "da/d8d/a22392.html#af312452020938736624496d9f6a76d28", null ],
-    [ "_inCutscene", "da/d8d/a22392.html#a715525706b44dbc53847e639f3b15d3a", null ],
-    [ "beamPosId", "da/d8d/a22392.html#a6168b84bfb49781736fa2accf5225808", null ]
+    [ "boss_gurtogg_bloodboil", "da/d8d/a22392.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "da/d8d/a22392.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/d8d/a22392.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "da/d8d/a22392.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "da/d8d/a22392.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "da/d8d/a22392.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "da/d8d/a22392.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "da/d8d/a22392.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "da/d8d/a22392.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

@@ -1,12 +1,12 @@
 var a01550 =
 [
-    [ "boss_lady_vashj", "de/d03/a22820.html", "de/d03/a22820" ],
-    [ "spell_lady_vashj_magic_barrier", "da/dc5/a22824.html", "da/dc5/a22824" ],
-    [ "spell_lady_vashj_remove_tainted_cores", "d8/d5c/a22828.html", "d8/d5c/a22828" ],
-    [ "spell_lady_vashj_summon_sporebat", "db/db1/a22832.html", "db/db1/a22832" ],
-    [ "spell_lady_vashj_spore_drop_effect", "d5/d6a/a22836.html", "d5/d6a/a22836" ],
-    [ "spell_lady_vashj_summons", "d9/d0e/a22840.html", "d9/d0e/a22840" ],
-    [ "spell_lady_vashj_tainted_core_paralyze", "d5/dc0/a22844.html", "d5/dc0/a22844" ],
+    [ "boss_lady_vashj", "d5/d6a/a22836.html", "d5/d6a/a22836" ],
+    [ "spell_lady_vashj_magic_barrier", "d9/d0e/a22840.html", "d9/d0e/a22840" ],
+    [ "spell_lady_vashj_remove_tainted_cores", "d5/dc0/a22844.html", "d5/dc0/a22844" ],
+    [ "spell_lady_vashj_summon_sporebat", "d2/d1c/a22848.html", "d2/d1c/a22848" ],
+    [ "spell_lady_vashj_spore_drop_effect", "dc/df6/a22852.html", "dc/df6/a22852" ],
+    [ "spell_lady_vashj_summons", "dc/d8c/a22856.html", "dc/d8c/a22856" ],
+    [ "spell_lady_vashj_tainted_core_paralyze", "d4/dfa/a22860.html", "d4/dfa/a22860" ],
     [ "Misc", "d8/daf/a01550.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d6/d80/a00371.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

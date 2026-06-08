@@ -1,7 +1,7 @@
 var a21184 =
 [
-    [ "npc_azure_stalker", "d8/d6d/a21184.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d8/d6d/a21184.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d8/d6d/a21184.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d8/d6d/a21184.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_azure_invader", "d8/d6d/a21184.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "d8/d6d/a21184.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "d8/d6d/a21184.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "d8/d6d/a21184.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

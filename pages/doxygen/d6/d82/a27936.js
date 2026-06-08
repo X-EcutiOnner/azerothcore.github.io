@@ -1,5 +1,5 @@
 var a27936 =
 [
-    [ "go_soulwellAI", "d6/d82/a27936.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d6/d82/a27936.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_arcane_prison", "d6/d82/a27936.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "d6/d82/a27936.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

@@ -1,5 +1,7 @@
 var a20144 =
 [
-    [ "achievement_freya_getting_back_to_nature", "d6/d35/a20144.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "d6/d35/a20144.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "boss_freya_lifebinder", "d6/d35/a20144.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d6/d35/a20144.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d6/d35/a20144.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d6/d35/a20144.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

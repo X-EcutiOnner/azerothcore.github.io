@@ -1,7 +1,9 @@
 var a20156 =
 [
-    [ "npc_ulduar_saronite_vapors", "d2/db4/a20156.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "d2/db4/a20156.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "d2/db4/a20156.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "d2/db4/a20156.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "boss_freya_nature_bomb", "d2/db4/a20156.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d2/db4/a20156.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d2/db4/a20156.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d2/db4/a20156.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d2/db4/a20156.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d2/db4/a20156.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

@@ -1,8 +1,8 @@
 var a03167 =
 [
-    [ "BG_AV_NodeInfo", "dd/d5e/a07688.html", "dd/d5e/a07688" ],
-    [ "BattlegroundAVScore", "d7/d32/a07692.html", "d7/d32/a07692" ],
-    [ "BattlegroundAV", "d9/d79/a07696.html", "d9/d79/a07696" ],
+    [ "BG_AV_NodeInfo", "df/de3/a07700.html", "df/de3/a07700" ],
+    [ "BattlegroundAVScore", "dc/de8/a07704.html", "dc/de8/a07704" ],
+    [ "BattlegroundAV", "dc/d23/a07708.html", "dc/d23/a07708" ],
     [ "AV_EVENT_START_BATTLE", "d2/d94/a03167.html#a333f1c045e3883c4f54cc0de87aa6dc3", null ],
     [ "BG_AV_CAPTIME", "d2/d94/a03167.html#adba9089f02e391f1f399363010d17252", null ],
     [ "BG_AV_GET_COMMANDER", "d2/d94/a03167.html#a3864f63a19a39505b3a45326ddb31d21", null ],

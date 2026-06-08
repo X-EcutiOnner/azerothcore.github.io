@@ -1,9 +1,8 @@
 var a26356 =
 [
-    [ "spell_pal_judgement", "db/d31/a26356.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "db/d31/a26356.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "db/d31/a26356.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "db/d31/a26356.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "Validate", "db/d31/a26356.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "db/d31/a26356.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "Load", "db/d31/a26356.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "db/d31/a26356.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "db/d31/a26356.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "db/d31/a26356.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "db/d31/a26356.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];
