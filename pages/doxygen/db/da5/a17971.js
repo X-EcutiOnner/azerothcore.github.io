@@ -1,6 +1,7 @@
 var a17971 =
 [
-    [ "npc_vengeful_shadeAI", "da/dc7/a17975.html", "da/dc7/a17975" ],
-    [ "npc_vengeful_shade", "db/da5/a17971.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "db/da5/a17971.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "npc_gunship_rocketeerAI", "db/da5/a17971.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "db/da5/a17971.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "db/da5/a17971.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "db/da5/a17971.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

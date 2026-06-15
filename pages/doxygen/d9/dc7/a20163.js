@@ -1,7 +1,6 @@
 var a20163 =
 [
-    [ "npc_ulduar_icicle", "d9/dc7/a20163.html#af52ccbf93e54673f8a91dcea682d9e9b", null ],
-    [ "UpdateAI", "d9/dc7/a20163.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d9/dc7/a20163.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d9/dc7/a20163.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "CheckAreaTarget", "d9/dc7/a20163.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d9/dc7/a20163.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d9/dc7/a20163.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

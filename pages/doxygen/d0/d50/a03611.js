@@ -1,4 +1,8 @@
 var a03611 =
 [
-    [ "ScriptRegistry< GroupScript >", "d0/d50/a03611.html#a6ad2435b6116a997a5bacd47b955d688", null ]
+    [ "MovementHandlerScript", "d5/d21/a10751.html", "d5/d21/a10751" ],
+    [ "MovementHook", "d0/d50/a03611.html#a5763e953c65ba38409a14469a1fe2842", [
+      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d0/d50/a03611.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
+      [ "MOVEMENTHOOK_END", "d0/d50/a03611.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
+    ] ]
 ];

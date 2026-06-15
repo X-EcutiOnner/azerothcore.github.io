@@ -1,12 +1,6 @@
 var a24043 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d8/d59/a24043.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
-    [ "DamageTaken", "d8/d59/a24043.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
-    [ "DoNice", "d8/d59/a24043.html#aa673fc892b9c0d59b2789271140e6054", null ],
-    [ "JustEngagedWith", "d8/d59/a24043.html#a537225016bfeba51b607d250c0a09be5", null ],
-    [ "Reset", "d8/d59/a24043.html#a14ca75417c623d6d6e5fce50521963da", null ],
-    [ "UpdateAI", "d8/d59/a24043.html#a744ea41d7f9450965419085a296c8df2", null ],
-    [ "CanDoQuest", "d8/d59/a24043.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
-    [ "Pulverize_Timer", "d8/d59/a24043.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
-    [ "UnkorUnfriendly_Timer", "d8/d59/a24043.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
+    [ "HandleSendEvent", "d8/d59/a24043.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d8/d59/a24043.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d8/d59/a24043.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

@@ -1,6 +1,6 @@
 var a18987 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "da/dba/a18991.html", "da/dba/a18991" ],
-    [ "npc_icc_skybreaker_hierophant", "df/d83/a18987.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "df/d83/a18987.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_captain_brandonAI", "da/dba/a18991.html", "da/dba/a18991" ],
+    [ "npc_captain_brandon", "df/d83/a18987.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "df/d83/a18987.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

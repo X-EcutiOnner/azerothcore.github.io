@@ -1,10 +1,8 @@
 var a23431 =
 [
-    [ "boss_harbinger_skyriss", "d2/dec/a23431.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "d2/dec/a23431.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "d2/dec/a23431.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "d2/dec/a23431.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "d2/dec/a23431.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "d2/dec/a23431.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "d2/dec/a23431.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "npc_warchief_portal", "d2/dec/a23431.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "d2/dec/a23431.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "d2/dec/a23431.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "d2/dec/a23431.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "d2/dec/a23431.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

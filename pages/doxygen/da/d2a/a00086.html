@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/ShadowfangKeep/boss_apothecary_hummel.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcCooldownTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,381 +106,532 @@ $(document).ready(function(){initNavTree('da/d2a/a00086.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">boss_apothecary_hummel.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcCooldownTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Group.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedGossip.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">shadowfang_keep.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../d4/df4/a09099.html">Unit</a> tests for proc internal cooldown system.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">AuraStub.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d19/a13496.html">boss_apothecary_hummel</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d23/a13500.html">boss_apothecary_hummel::boss_apothecary_hummelAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d40/a13504.html">npc_apothecary_genericAI</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/de7/a13508.html">npc_apothecary_frye</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d83/a13512.html">npc_apothecary_baxter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7b/a13516.html">spell_apothecary_lingering_fumes</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/daf/a13520.html">spell_apothecary_validate_area</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d16/a13524.html">spell_apothecary_throw_cologne</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/deb/a13528.html">spell_apothecary_throw_perfume</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de2/a13532.html">spell_apothecary_perfume_spill</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d98/a13536.html">spell_apothecary_cologne_spill</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a3be9e655b163b9e96e0e91053ab5340e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340e">ApothecarySpells</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684">SPELL_ALLURING_PERFUME</a> = 68589
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28">SPELL_PERFUME_SPRAY</a> = 68607
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081">SPELL_CHAIN_REACTION</a> = 68821
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04">SPELL_SUMMON_TABLE</a> = 69218
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4">SPELL_PERMANENT_FEIGN_DEATH</a> = 29266
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5">SPELL_QUIET_SUICIDE</a> = 3617
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902">SPELL_COLOGNE_SPRAY</a> = 68948
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df">SPELL_VALIDATE_AREA</a> = 68644
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90">SPELL_THROW_COLOGNE</a> = 68841
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d">SPELL_BUNNY_LOCKDOWN</a> = 69039
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa">SPELL_THROW_PERFUME</a> = 68799
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23">SPELL_PERFUME_SPILL</a> = 68798
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4">SPELL_COLOGNE_SPILL</a> = 68614
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa">SPELL_PERFUME_SPILL_DAMAGE</a> = 68927
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f">SPELL_COLOGNE_SPILL_DAMAGE</a> = 68934
-<br />
- }</td></tr>
-<tr class="separator:a3be9e655b163b9e96e0e91053ab5340e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6edaee5ce05b16d8360c059a2718a302"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302">ApothecarySays</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102">SAY_INTRO_0</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23">SAY_INTRO_1</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069">SAY_INTRO_2</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8">SAY_CALL_BAXTER</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d">SAY_CALL_FRYE</a> = 4
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f">SAY_HUMMEL_DEATH</a> = 5
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f">SAY_SUMMON_ADDS</a> = 6
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4">SAY_BAXTER_DEATH</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8">SAY_FRYE_DEATH</a> = 0
-<br />
- }</td></tr>
-<tr class="separator:a6edaee5ce05b16d8360c059a2718a302"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a089375166ea95171e0a3dae74f9740cf"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cf">ApothecaryMisc</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9">ACTION_START_EVENT</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a">ACTION_START_FIGHT</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc">GOSSIP_OPTION_START</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199">GOSSIP_MENU_HUMMEL</a> = 10847
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26">QUEST_YOUVE_BEEN_SERVED</a> = 14488
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5">NPC_APOTHECARY_FRYE</a> = 36272
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b">NPC_APOTHECARY_BAXTER</a> = 36565
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8">NPC_VIAL_BUNNY</a> = 36530
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520">NPC_CROWN_APOTHECARY</a> = 36885
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe">PHASE_ALL</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203">PHASE_INTRO</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825">PHASE_COMBAT</a> = 2
-<br />
- }</td></tr>
-<tr class="separator:a089375166ea95171e0a3dae74f9740cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aae2a7d6c56f8a7f3dff6f6146ec59a73"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#aae2a7d6c56f8a7f3dff6f6146ec59a73">AddSC_boss_apothecary_hummel</a> ()</td></tr>
-<tr class="separator:aae2a7d6c56f8a7f3dff6f6146ec59a73"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a8ff29d1fe0be700e07d22e86b6593b69"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d2b/a08792.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a8ff29d1fe0be700e07d22e86b6593b69">BaxterMovePos</a> = { -221.4115f, 2206.825f, 79.93151f, 0.0f }</td></tr>
-<tr class="separator:a8ff29d1fe0be700e07d22e86b6593b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e21cd5458c7f5e47183151858fd0776"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d2b/a08792.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a4e21cd5458c7f5e47183151858fd0776">FryeMovePos</a> = { -196.2483f, 2197.224f, 79.9315f, 0.0f }</td></tr>
-<tr class="separator:a4e21cd5458c7f5e47183151858fd0776"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63a215a846e19ee49b60cd43e3a95dbb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a63a215a846e19ee49b60cd43e3a95dbb">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, NotOnCooldown_Initially)</td></tr>
+<tr class="separator:a63a215a846e19ee49b60cd43e3a95dbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3b499c25e76cc981b8b7c898e661285"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#af3b499c25e76cc981b8b7c898e661285">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, OnCooldown_AfterProc)</td></tr>
+<tr class="separator:af3b499c25e76cc981b8b7c898e661285"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a370529a902674d7c3d85a958b68f014a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a370529a902674d7c3d85a958b68f014a">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, NotOnCooldown_AfterExpiry)</td></tr>
+<tr class="separator:a370529a902674d7c3d85a958b68f014a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46fee264bedefac5bf751dc80e5175ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a46fee264bedefac5bf751dc80e5175ca">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, ExactCooldownBoundary)</td></tr>
+<tr class="separator:a46fee264bedefac5bf751dc80e5175ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a980784573aa4ae1d2fda4349c9290425"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a980784573aa4ae1d2fda4349c9290425">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, ZeroCooldown_NeverBlocks)</td></tr>
+<tr class="separator:a980784573aa4ae1d2fda4349c9290425"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a877730b0890fd65b53503d867be13db2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a877730b0890fd65b53503d867be13db2">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, CooldownCanBeReset)</td></tr>
+<tr class="separator:a877730b0890fd65b53503d867be13db2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac30c03da32748e0bf7f658b9eff19f67"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#ac30c03da32748e0bf7f658b9eff19f67">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, CooldownCanBeExtended)</td></tr>
+<tr class="separator:ac30c03da32748e0bf7f658b9eff19f67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afba7de9d87f646093469d0f6820b2217"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#afba7de9d87f646093469d0f6820b2217">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, Scenario_LeaderOfThePack_6SecCooldown)</td></tr>
+<tr class="separator:afba7de9d87f646093469d0f6820b2217"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4828c96b86819a1f862c5c123463c3f6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a4828c96b86819a1f862c5c123463c3f6">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, Scenario_WanderingPlague_1SecCooldown)</td></tr>
+<tr class="separator:a4828c96b86819a1f862c5c123463c3f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64a32de59b301ddb3b2a8827bacd43cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#a64a32de59b301ddb3b2a8827bacd43cf">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, Scenario_MultipleProcsWithCooldown)</td></tr>
+<tr class="separator:a64a32de59b301ddb3b2a8827bacd43cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2595c13ca0ad6ce6afda0196d0c86ae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d2a/a00086.html#aa2595c13ca0ad6ce6afda0196d0c86ae">TEST_F</a> (<a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>, ProcTestScenario_CooldownBlocking)</td></tr>
+<tr class="separator:aa2595c13ca0ad6ce6afda0196d0c86ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a089375166ea95171e0a3dae74f9740cf" name="a089375166ea95171e0a3dae74f9740cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a089375166ea95171e0a3dae74f9740cf">&#9670;&#160;</a></span>ApothecaryMisc</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d4/df4/a09099.html">Unit</a> tests for proc internal cooldown system. </p>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcCooldownTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="ac30c03da32748e0bf7f658b9eff19f67" name="ac30c03da32748e0bf7f658b9eff19f67"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac30c03da32748e0bf7f658b9eff19f67">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cf">ApothecaryMisc</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9" name="a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9"></a>ACTION_START_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a" name="a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a"></a>ACTION_START_FIGHT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc" name="a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc"></a>GOSSIP_OPTION_START&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199" name="a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199"></a>GOSSIP_MENU_HUMMEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26" name="a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26"></a>QUEST_YOUVE_BEEN_SERVED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5" name="a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5"></a>NPC_APOTHECARY_FRYE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b" name="a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b"></a>NPC_APOTHECARY_BAXTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8" name="a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8"></a>NPC_VIAL_BUNNY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520" name="a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520"></a>NPC_CROWN_APOTHECARY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe" name="a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe"></a>PHASE_ALL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203" name="a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203"></a>PHASE_INTRO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825" name="a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825"></a>PHASE_COMBAT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9">ACTION_START_EVENT</a>      = 1,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a">ACTION_START_FIGHT</a>      = 2,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc">GOSSIP_OPTION_START</a>     = 0,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199">GOSSIP_MENU_HUMMEL</a>      = 10847,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26">QUEST_YOUVE_BEEN_SERVED</a> = 14488,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5">NPC_APOTHECARY_FRYE</a>     = 36272,</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b">NPC_APOTHECARY_BAXTER</a>   = 36565,</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8">NPC_VIAL_BUNNY</a>          = 36530,</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520">NPC_CROWN_APOTHECARY</a>    = 36885,</div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe">PHASE_ALL</a>               = 0,</div>
-<div class="line"><span class="lineno">   75</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203">PHASE_INTRO</a>             = 1,</div>
-<div class="line"><span class="lineno">   76</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825">PHASE_COMBAT</a>            = 2</div>
-<div class="line"><span class="lineno">   77</span>};</div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa0f13a9ab27738db33921fada71beed26">QUEST_YOUVE_BEEN_SERVED</a></div><div class="ttdeci">@ QUEST_YOUVE_BEEN_SERVED</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:69</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa38ec399ecfd73857e6ac074ad74c6abc">GOSSIP_OPTION_START</a></div><div class="ttdeci">@ GOSSIP_OPTION_START</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:67</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa4759cf00b99e3a6f4a2f65af817bd203">PHASE_INTRO</a></div><div class="ttdeci">@ PHASE_INTRO</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:75</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a174c07b8602efe54b08ead7652a3fe">PHASE_ALL</a></div><div class="ttdeci">@ PHASE_ALL</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:74</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa5a9d00590152ece2beb2305c6f271dd9">ACTION_START_EVENT</a></div><div class="ttdeci">@ ACTION_START_EVENT</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:65</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa6d34ef27621fd6744c37d007684718f8">NPC_VIAL_BUNNY</a></div><div class="ttdeci">@ NPC_VIAL_BUNNY</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:72</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa730c801d900c7f7ed204cef975f51520">NPC_CROWN_APOTHECARY</a></div><div class="ttdeci">@ NPC_CROWN_APOTHECARY</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:73</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfa767550e8e2397ec4a5c3e3a95db51c6b">NPC_APOTHECARY_BAXTER</a></div><div class="ttdeci">@ NPC_APOTHECARY_BAXTER</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:71</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaddfe924b2f0ce0eceb2a811186f83825">PHASE_COMBAT</a></div><div class="ttdeci">@ PHASE_COMBAT</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:76</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfaeb346bca5ab5cddf0b0a25165f3a4199">GOSSIP_MENU_HUMMEL</a></div><div class="ttdeci">@ GOSSIP_MENU_HUMMEL</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:68</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2662e5ad45793954d7eca931443e2a">ACTION_START_FIGHT</a></div><div class="ttdeci">@ ACTION_START_FIGHT</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:66</div></div>
-<div class="ttc" id="aa00086_html_a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5"><div class="ttname"><a href="../../da/d2a/a00086.html#a089375166ea95171e0a3dae74f9740cfafd2ba1f7e82dcf23f65a9fa54ed9bfc5">NPC_APOTHECARY_FRYE</a></div><div class="ttdeci">@ NPC_APOTHECARY_FRYE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:70</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a6edaee5ce05b16d8360c059a2718a302" name="a6edaee5ce05b16d8360c059a2718a302"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6edaee5ce05b16d8360c059a2718a302">&#9670;&#160;</a></span>ApothecarySays</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302">ApothecarySays</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102" name="a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102"></a>SAY_INTRO_0&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23" name="a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23"></a>SAY_INTRO_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069" name="a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069"></a>SAY_INTRO_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8" name="a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8"></a>SAY_CALL_BAXTER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d" name="a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d"></a>SAY_CALL_FRYE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f" name="a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f"></a>SAY_HUMMEL_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f" name="a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f"></a>SAY_SUMMON_ADDS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4" name="a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4"></a>SAY_BAXTER_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8" name="a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8"></a>SAY_FRYE_DEATH&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102">SAY_INTRO_0</a>         = 0,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23">SAY_INTRO_1</a>         = 1,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069">SAY_INTRO_2</a>         = 2,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8">SAY_CALL_BAXTER</a>     = 3,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d">SAY_CALL_FRYE</a>       = 4,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f">SAY_HUMMEL_DEATH</a>    = 5,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f">SAY_SUMMON_ADDS</a>     = 6,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4">SAY_BAXTER_DEATH</a>    = 0,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8">SAY_FRYE_DEATH</a>      = 0</div>
-<div class="line"><span class="lineno">   61</span>};</div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a1cad39247cfc635e8fbbd28507a4565f">SAY_SUMMON_ADDS</a></div><div class="ttdeci">@ SAY_SUMMON_ADDS</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:58</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a262c474ec2073ec78c48eb44023e0069">SAY_INTRO_2</a></div><div class="ttdeci">@ SAY_INTRO_2</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:54</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a5d62121fc78e6a1cfc703c5caba40b23">SAY_INTRO_1</a></div><div class="ttdeci">@ SAY_INTRO_1</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:53</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a794a973d0b60b2cd1bc8f581c4dc06f4">SAY_BAXTER_DEATH</a></div><div class="ttdeci">@ SAY_BAXTER_DEATH</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:59</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a893047362d85cb096ff4abaf274fe7f8">SAY_FRYE_DEATH</a></div><div class="ttdeci">@ SAY_FRYE_DEATH</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:60</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302a9674e0b6f0f4d0ea65fb2377204ba0b8">SAY_CALL_BAXTER</a></div><div class="ttdeci">@ SAY_CALL_BAXTER</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:55</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302ab67c13990cd545e383e96877a2f2c102">SAY_INTRO_0</a></div><div class="ttdeci">@ SAY_INTRO_0</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:52</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302aecf0479145c53d045a90ad70e2a59d6d">SAY_CALL_FRYE</a></div><div class="ttdeci">@ SAY_CALL_FRYE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:56</div></div>
-<div class="ttc" id="aa00086_html_a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f"><div class="ttname"><a href="../../da/d2a/a00086.html#a6edaee5ce05b16d8360c059a2718a302afdac4195099aa5b26bced2feaace598f">SAY_HUMMEL_DEATH</a></div><div class="ttdeci">@ SAY_HUMMEL_DEATH</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:57</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a3be9e655b163b9e96e0e91053ab5340e" name="a3be9e655b163b9e96e0e91053ab5340e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3be9e655b163b9e96e0e91053ab5340e">&#9670;&#160;</a></span>ApothecarySpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340e">ApothecarySpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684" name="a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684"></a>SPELL_ALLURING_PERFUME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28" name="a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28"></a>SPELL_PERFUME_SPRAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081" name="a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081"></a>SPELL_CHAIN_REACTION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04" name="a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04"></a>SPELL_SUMMON_TABLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4" name="a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4"></a>SPELL_PERMANENT_FEIGN_DEATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5" name="a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5"></a>SPELL_QUIET_SUICIDE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902" name="a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902"></a>SPELL_COLOGNE_SPRAY&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df" name="a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df"></a>SPELL_VALIDATE_AREA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90" name="a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90"></a>SPELL_THROW_COLOGNE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d" name="a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d"></a>SPELL_BUNNY_LOCKDOWN&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa" name="a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa"></a>SPELL_THROW_PERFUME&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23" name="a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23"></a>SPELL_PERFUME_SPILL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4" name="a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4"></a>SPELL_COLOGNE_SPILL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa" name="a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa"></a>SPELL_PERFUME_SPILL_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f" name="a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f"></a>SPELL_COLOGNE_SPILL_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   32</span>{</div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684">SPELL_ALLURING_PERFUME</a>      = 68589,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28">SPELL_PERFUME_SPRAY</a>         = 68607,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081">SPELL_CHAIN_REACTION</a>        = 68821,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04">SPELL_SUMMON_TABLE</a>          = 69218,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4">SPELL_PERMANENT_FEIGN_DEATH</a> = 29266,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5">SPELL_QUIET_SUICIDE</a>         = 3617,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902">SPELL_COLOGNE_SPRAY</a>         = 68948,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df">SPELL_VALIDATE_AREA</a>         = 68644,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90">SPELL_THROW_COLOGNE</a>         = 68841,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d">SPELL_BUNNY_LOCKDOWN</a>        = 69039,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa">SPELL_THROW_PERFUME</a>         = 68799,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23">SPELL_PERFUME_SPILL</a>         = 68798,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4">SPELL_COLOGNE_SPILL</a>         = 68614,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa">SPELL_PERFUME_SPILL_DAMAGE</a>  = 68927,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f">SPELL_COLOGNE_SPILL_DAMAGE</a>  = 68934</div>
-<div class="line"><span class="lineno">   48</span>};</div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea0ec910ff2192c226a2014a1c4c23086f">SPELL_COLOGNE_SPILL_DAMAGE</a></div><div class="ttdeci">@ SPELL_COLOGNE_SPILL_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:47</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea11b1817b24a59f85e97c1dd313d02902">SPELL_COLOGNE_SPRAY</a></div><div class="ttdeci">@ SPELL_COLOGNE_SPRAY</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:39</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea2809eac4da3842244003e94b953e1f04">SPELL_SUMMON_TABLE</a></div><div class="ttdeci">@ SPELL_SUMMON_TABLE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:36</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea3a0f87dc02eb714afeea065d3bd80e28">SPELL_PERFUME_SPRAY</a></div><div class="ttdeci">@ SPELL_PERFUME_SPRAY</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:34</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea56000b1d92ac98403554f3ad14c37daa">SPELL_THROW_PERFUME</a></div><div class="ttdeci">@ SPELL_THROW_PERFUME</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:43</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea63e5ea59169bf85814945448afb792df">SPELL_VALIDATE_AREA</a></div><div class="ttdeci">@ SPELL_VALIDATE_AREA</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:40</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea69e62e4d2a0c36190609d18be6674684">SPELL_ALLURING_PERFUME</a></div><div class="ttdeci">@ SPELL_ALLURING_PERFUME</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:33</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea73c84cecf746db87cde2d73e163ce8f4">SPELL_COLOGNE_SPILL</a></div><div class="ttdeci">@ SPELL_COLOGNE_SPILL</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:45</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea8f376fef41ce78675e6973a885d0d8aa">SPELL_PERFUME_SPILL_DAMAGE</a></div><div class="ttdeci">@ SPELL_PERFUME_SPILL_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:46</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ea95ae132067c31fcc5af6b66e12581081">SPELL_CHAIN_REACTION</a></div><div class="ttdeci">@ SPELL_CHAIN_REACTION</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:35</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eacca7aad4d6e4f18aae288ac50699630d">SPELL_BUNNY_LOCKDOWN</a></div><div class="ttdeci">@ SPELL_BUNNY_LOCKDOWN</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:42</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340ead860f54409f76f306c7f49aad1365de5">SPELL_QUIET_SUICIDE</a></div><div class="ttdeci">@ SPELL_QUIET_SUICIDE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:38</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eadbd7d9f1050873a59721ce23dab4aa90">SPELL_THROW_COLOGNE</a></div><div class="ttdeci">@ SPELL_THROW_COLOGNE</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:41</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae088c5aedcf64c242ca695d8b31ba6a4">SPELL_PERMANENT_FEIGN_DEATH</a></div><div class="ttdeci">@ SPELL_PERMANENT_FEIGN_DEATH</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:37</div></div>
-<div class="ttc" id="aa00086_html_a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23"><div class="ttname"><a href="../../da/d2a/a00086.html#a3be9e655b163b9e96e0e91053ab5340eae81ec956be144a73ba51a356116d2b23">SPELL_PERFUME_SPILL</a></div><div class="ttdeci">@ SPELL_PERFUME_SPILL</div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:44</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="aae2a7d6c56f8a7f3dff6f6146ec59a73" name="aae2a7d6c56f8a7f3dff6f6146ec59a73"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae2a7d6c56f8a7f3dff6f6146ec59a73">&#9670;&#160;</a></span>AddSC_boss_apothecary_hummel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_boss_apothecary_hummel </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">CooldownCanBeExtended&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  519</span>{</div>
-<div class="line"><span class="lineno">  520</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d19/a13496.html">boss_apothecary_hummel</a>();</div>
-<div class="line"><span class="lineno">  521</span>    <a class="code hl_define" href="../../da/dec/a00080.html#a13fabcb4777737092db8586124009fd8">RegisterShadowfangKeepCreatureAI</a>(<a class="code hl_struct" href="../../db/d83/a13512.html">npc_apothecary_baxter</a>);</div>
-<div class="line"><span class="lineno">  522</span>    <a class="code hl_define" href="../../da/dec/a00080.html#a13fabcb4777737092db8586124009fd8">RegisterShadowfangKeepCreatureAI</a>(<a class="code hl_struct" href="../../db/de7/a13508.html">npc_apothecary_frye</a>);</div>
-<div class="line"><span class="lineno">  523</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d7b/a13516.html">spell_apothecary_lingering_fumes</a>);</div>
-<div class="line"><span class="lineno">  524</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/daf/a13520.html">spell_apothecary_validate_area</a>);</div>
-<div class="line"><span class="lineno">  525</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d16/a13524.html">spell_apothecary_throw_cologne</a>);</div>
-<div class="line"><span class="lineno">  526</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/deb/a13528.html">spell_apothecary_throw_perfume</a>);</div>
-<div class="line"><span class="lineno">  527</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/de2/a13532.html">spell_apothecary_perfume_spill</a>);</div>
-<div class="line"><span class="lineno">  528</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d98/a13536.html">spell_apothecary_cologne_spill</a>);</div>
-<div class="line"><span class="lineno">  529</span>}</div>
-<div class="ttc" id="aa00080_html_a13fabcb4777737092db8586124009fd8"><div class="ttname"><a href="../../da/dec/a00080.html#a13fabcb4777737092db8586124009fd8">RegisterShadowfangKeepCreatureAI</a></div><div class="ttdeci">#define RegisterShadowfangKeepCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> shadowfang_keep.h:56</div></div>
-<div class="ttc" id="aa03689_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa13496_html"><div class="ttname"><a href="../../dd/d19/a13496.html">boss_apothecary_hummel</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:83</div></div>
-<div class="ttc" id="aa13508_html"><div class="ttname"><a href="../../db/de7/a13508.html">npc_apothecary_frye</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:309</div></div>
-<div class="ttc" id="aa13512_html"><div class="ttname"><a href="../../db/d83/a13512.html">npc_apothecary_baxter</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:319</div></div>
-<div class="ttc" id="aa13516_html"><div class="ttname"><a href="../../d2/d7b/a13516.html">spell_apothecary_lingering_fumes</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:368</div></div>
-<div class="ttc" id="aa13520_html"><div class="ttname"><a href="../../de/daf/a13520.html">spell_apothecary_validate_area</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:402</div></div>
-<div class="ttc" id="aa13524_html"><div class="ttname"><a href="../../d4/d16/a13524.html">spell_apothecary_throw_cologne</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:436</div></div>
-<div class="ttc" id="aa13528_html"><div class="ttname"><a href="../../dc/deb/a13528.html">spell_apothecary_throw_perfume</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:457</div></div>
-<div class="ttc" id="aa13532_html"><div class="ttname"><a href="../../d2/de2/a13532.html">spell_apothecary_perfume_spill</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:478</div></div>
-<div class="ttc" id="aa13536_html"><div class="ttname"><a href="../../de/d98/a13536.html">spell_apothecary_cologne_spill</a></div><div class="ttdef"><b>Definition:</b> boss_apothecary_hummel.cpp:499</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
+<div class="line"><span class="lineno">  119</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>    <span class="comment">// Apply 1 second cooldown</span></div>
+<div class="line"><span class="lineno">  122</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 1000);</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    <span class="comment">// Extend to 5 seconds</span></div>
+<div class="line"><span class="lineno">  125</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 5000);</div>
+<div class="line"><span class="lineno">  126</span> </div>
+<div class="line"><span class="lineno">  127</span>    <span class="comment">// Should still be on cooldown after 2 seconds</span></div>
+<div class="line"><span class="lineno">  128</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 2000ms));</div>
+<div class="line"><span class="lineno">  129</span>}</div>
+<div class="ttc" id="aa29283_html"><div class="ttname"><a href="../../d3/dc9/a29283.html">AuraStubBuilder</a></div><div class="ttdoc">Builder for creating AuraStub instances with fluent API.</div><div class="ttdef"><b>Definition:</b> AuraStub.h:290</div></div>
+<div class="ttc" id="aa29283_html_a7d5b970e591a239849e42a0c444f62d4"><div class="ttname"><a href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">AuraStubBuilder::Build</a></div><div class="ttdeci">std::unique_ptr&lt; AuraStub &gt; Build()</div><div class="ttdef"><b>Definition:</b> AuraStub.h:353</div></div>
+<div class="ttc" id="aa29283_html_aa8dc59189364f6be82822588a47d32fd"><div class="ttname"><a href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">AuraStubBuilder::WithId</a></div><div class="ttdeci">AuraStubBuilder &amp; WithId(uint32_t id)</div><div class="ttdef"><b>Definition:</b> AuraStub.h:294</div></div>
+<div class="ttc" id="aa29303_html_a57d351c38a433d00432bbb97a40b6a27"><div class="ttname"><a href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a></div><div class="ttdeci">static void ApplyProcCooldown(AuraStub *aura, std::chrono::steady_clock::time_point now, uint32 cooldownMs)</div><div class="ttdoc">Apply proc cooldown to aura.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:163</div></div>
+<div class="ttc" id="aa29303_html_af0ea5c345c43d31902bc9d55c2ac7308"><div class="ttname"><a href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a></div><div class="ttdeci">static bool IsProcOnCooldown(AuraStub const *aura, std::chrono::steady_clock::time_point now)</div><div class="ttdoc">Check if proc is on cooldown.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:149</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">RegisterShadowfangKeepCreatureAI</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a8ff29d1fe0be700e07d22e86b6593b69" name="a8ff29d1fe0be700e07d22e86b6593b69"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8ff29d1fe0be700e07d22e86b6593b69">&#9670;&#160;</a></span>BaxterMovePos</h2>
+<a id="a877730b0890fd65b53503d867be13db2" name="a877730b0890fd65b53503d867be13db2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a877730b0890fd65b53503d867be13db2">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d2b/a08792.html">Position</a> const BaxterMovePos = { -221.4115f, 2206.825f, 79.93151f, 0.0f }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">CooldownCanBeReset&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>{</div>
+<div class="line"><span class="lineno">  108</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  109</span> </div>
+<div class="line"><span class="lineno">  110</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 5000);</div>
+<div class="line"><span class="lineno">  111</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
+<div class="line"><span class="lineno">  112</span> </div>
+<div class="line"><span class="lineno">  113</span>    aura-&gt;ResetProcCooldown();</div>
+<div class="line"><span class="lineno">  114</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
+<div class="line"><span class="lineno">  115</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
-<a id="a4e21cd5458c7f5e47183151858fd0776" name="a4e21cd5458c7f5e47183151858fd0776"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e21cd5458c7f5e47183151858fd0776">&#9670;&#160;</a></span>FryeMovePos</h2>
+<a id="a46fee264bedefac5bf751dc80e5175ca" name="a46fee264bedefac5bf751dc80e5175ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a46fee264bedefac5bf751dc80e5175ca">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/11]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d2b/a08792.html">Position</a> const FryeMovePos = { -196.2483f, 2197.224f, 79.9315f, 0.0f }</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ExactCooldownBoundary&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">   79</span> </div>
+<div class="line"><span class="lineno">   80</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 1000);</div>
+<div class="line"><span class="lineno">   81</span> </div>
+<div class="line"><span class="lineno">   82</span>    <span class="comment">// At exactly cooldown time, should still be on cooldown (&lt; not &lt;=)</span></div>
+<div class="line"><span class="lineno">   83</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 999ms));</div>
+<div class="line"><span class="lineno">   84</span>    <span class="comment">// One millisecond after should be off cooldown</span></div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1000ms));</div>
+<div class="line"><span class="lineno">   86</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="a370529a902674d7c3d85a958b68f014a" name="a370529a902674d7c3d85a958b68f014a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a370529a902674d7c3d85a958b68f014a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NotOnCooldown_AfterExpiry&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{</div>
+<div class="line"><span class="lineno">   67</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>    <span class="comment">// Apply 1 second cooldown</span></div>
+<div class="line"><span class="lineno">   70</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 1000);</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <span class="comment">// Should not be on cooldown after 1 second</span></div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1001ms));</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="a63a215a846e19ee49b60cd43e3a95dbb" name="a63a215a846e19ee49b60cd43e3a95dbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63a215a846e19ee49b60cd43e3a95dbb">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NotOnCooldown_Initially&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">   49</span> </div>
+<div class="line"><span class="lineno">   50</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
+<div class="line"><span class="lineno">   51</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="af3b499c25e76cc981b8b7c898e661285" name="af3b499c25e76cc981b8b7c898e661285"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af3b499c25e76cc981b8b7c898e661285">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">OnCooldown_AfterProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{</div>
+<div class="line"><span class="lineno">   55</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <span class="comment">// Apply 1 second cooldown</span></div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 1000);</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <span class="comment">// Should be on cooldown immediately after</span></div>
+<div class="line"><span class="lineno">   61</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
+<div class="line"><span class="lineno">   62</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 500ms));</div>
+<div class="line"><span class="lineno">   63</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="aa2595c13ca0ad6ce6afda0196d0c86ae" name="aa2595c13ca0ad6ce6afda0196d0c86ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2595c13ca0ad6ce6afda0196d0c86ae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ProcTestScenario_CooldownBlocking&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
+<div class="line"><span class="lineno">  200</span>    <a class="code hl_class" href="../../d9/df1/a29335.html">ProcTestScenario</a> scenario;</div>
+<div class="line"><span class="lineno">  201</span>    scenario.<a class="code hl_function" href="../../d9/df1/a29335.html#a6c6dc6438b7503dcda2a89f1e53bc324">WithAura</a>(12345);</div>
+<div class="line"><span class="lineno">  202</span> </div>
+<div class="line"><span class="lineno">  203</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/da9/a29355.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  204</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  205</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#acd3a4b7ab057b5f36dd407acc11a4da4">WithCooldown</a>(1000ms)</div>
+<div class="line"><span class="lineno">  206</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  207</span> </div>
+<div class="line"><span class="lineno">  208</span>    <span class="comment">// First proc should succeed</span></div>
+<div class="line"><span class="lineno">  209</span>    EXPECT_TRUE(scenario.<a class="code hl_function" href="../../d9/df1/a29335.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(procEntry));</div>
+<div class="line"><span class="lineno">  210</span> </div>
+<div class="line"><span class="lineno">  211</span>    <span class="comment">// Second proc immediately after should fail (on cooldown)</span></div>
+<div class="line"><span class="lineno">  212</span>    EXPECT_FALSE(scenario.<a class="code hl_function" href="../../d9/df1/a29335.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(procEntry));</div>
+<div class="line"><span class="lineno">  213</span> </div>
+<div class="line"><span class="lineno">  214</span>    <span class="comment">// Advance time past cooldown</span></div>
+<div class="line"><span class="lineno">  215</span>    scenario.<a class="code hl_function" href="../../d9/df1/a29335.html#a3b6e8c7f5207be98b7696b478559b24a">AdvanceTime</a>(1100ms);</div>
+<div class="line"><span class="lineno">  216</span> </div>
+<div class="line"><span class="lineno">  217</span>    <span class="comment">// Third proc should succeed</span></div>
+<div class="line"><span class="lineno">  218</span>    EXPECT_TRUE(scenario.<a class="code hl_function" href="../../d9/df1/a29335.html#af3f83abbfbd4a902689b232853fdbcfb">SimulateProc</a>(procEntry));</div>
+<div class="line"><span class="lineno">  219</span>}</div>
+<div class="ttc" id="aa29335_html"><div class="ttname"><a href="../../d9/df1/a29335.html">ProcTestScenario</a></div><div class="ttdoc">Test context for proc simulation scenarios.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:613</div></div>
+<div class="ttc" id="aa29335_html_a3b6e8c7f5207be98b7696b478559b24a"><div class="ttname"><a href="../../d9/df1/a29335.html#a3b6e8c7f5207be98b7696b478559b24a">ProcTestScenario::AdvanceTime</a></div><div class="ttdeci">void AdvanceTime(std::chrono::milliseconds duration)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:618</div></div>
+<div class="ttc" id="aa29335_html_a6c6dc6438b7503dcda2a89f1e53bc324"><div class="ttname"><a href="../../d9/df1/a29335.html#a6c6dc6438b7503dcda2a89f1e53bc324">ProcTestScenario::WithAura</a></div><div class="ttdeci">ProcTestScenario &amp; WithAura(uint32_t spellId, uint8_t charges=0, uint8_t stacks=1)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:644</div></div>
+<div class="ttc" id="aa29335_html_af3f83abbfbd4a902689b232853fdbcfb"><div class="ttname"><a href="../../d9/df1/a29335.html#af3f83abbfbd4a902689b232853fdbcfb">ProcTestScenario::SimulateProc</a></div><div class="ttdeci">bool SimulateProc(SpellProcEntry const &amp;procEntry, float rollResult=0.0f)</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:654</div></div>
+<div class="ttc" id="aa29355_html"><div class="ttname"><a href="../../d8/da9/a29355.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29355_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/da9/a29355.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29355_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/da9/a29355.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29355_html_acd3a4b7ab057b5f36dd407acc11a4da4"><div class="ttname"><a href="../../d8/da9/a29355.html#acd3a4b7ab057b5f36dd407acc11a4da4">SpellProcEntryBuilder::WithCooldown</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithCooldown(Milliseconds cooldown)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:214</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00618">ProcTestScenario::AdvanceTime()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00654">ProcTestScenario::SimulateProc()</a>, <a class="el" href="../../#l00644">ProcTestScenario::WithAura()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, and <a class="el" href="../../#l00214">SpellProcEntryBuilder::WithCooldown()</a>.</p>
+
+</div>
+</div>
+<a id="afba7de9d87f646093469d0f6820b2217" name="afba7de9d87f646093469d0f6820b2217"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afba7de9d87f646093469d0f6820b2217">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_LeaderOfThePack_6SecCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  136</span>{</div>
+<div class="line"><span class="lineno">  137</span>    <span class="comment">// Leader of the Pack has a 6 second internal cooldown</span></div>
+<div class="line"><span class="lineno">  138</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(24932).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  139</span> </div>
+<div class="line"><span class="lineno">  140</span>    <span class="comment">// First proc</span></div>
+<div class="line"><span class="lineno">  141</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 6000);</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    <span class="comment">// Blocked at 3 seconds</span></div>
+<div class="line"><span class="lineno">  144</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 3000ms));</div>
+<div class="line"><span class="lineno">  145</span> </div>
+<div class="line"><span class="lineno">  146</span>    <span class="comment">// Blocked at 5.9 seconds</span></div>
+<div class="line"><span class="lineno">  147</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 5999ms));</div>
+<div class="line"><span class="lineno">  148</span> </div>
+<div class="line"><span class="lineno">  149</span>    <span class="comment">// Allowed at 6 seconds</span></div>
+<div class="line"><span class="lineno">  150</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 6000ms));</div>
+<div class="line"><span class="lineno">  151</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="a64a32de59b301ddb3b2a8827bacd43cf" name="a64a32de59b301ddb3b2a8827bacd43cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64a32de59b301ddb3b2a8827bacd43cf">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_MultipleProcsWithCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
+<div class="line"><span class="lineno">  169</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  170</span>    <span class="keyword">auto</span> time = _now;</div>
+<div class="line"><span class="lineno">  171</span> </div>
+<div class="line"><span class="lineno">  172</span>    <span class="comment">// First proc at t=0</span></div>
+<div class="line"><span class="lineno">  173</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
+<div class="line"><span class="lineno">  174</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), time, 1000);</div>
+<div class="line"><span class="lineno">  175</span> </div>
+<div class="line"><span class="lineno">  176</span>    <span class="comment">// Second attempt at t=0.5 (blocked)</span></div>
+<div class="line"><span class="lineno">  177</span>    time += 500ms;</div>
+<div class="line"><span class="lineno">  178</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
+<div class="line"><span class="lineno">  179</span> </div>
+<div class="line"><span class="lineno">  180</span>    <span class="comment">// Third attempt at t=1.0 (allowed)</span></div>
+<div class="line"><span class="lineno">  181</span>    time += 500ms;</div>
+<div class="line"><span class="lineno">  182</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
+<div class="line"><span class="lineno">  183</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), time, 1000);</div>
+<div class="line"><span class="lineno">  184</span> </div>
+<div class="line"><span class="lineno">  185</span>    <span class="comment">// Fourth attempt at t=1.5 (blocked)</span></div>
+<div class="line"><span class="lineno">  186</span>    time += 500ms;</div>
+<div class="line"><span class="lineno">  187</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>    <span class="comment">// Fifth attempt at t=2.0 (allowed)</span></div>
+<div class="line"><span class="lineno">  190</span>    time += 500ms;</div>
+<div class="line"><span class="lineno">  191</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), time));</div>
+<div class="line"><span class="lineno">  192</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="a4828c96b86819a1f862c5c123463c3f6" name="a4828c96b86819a1f862c5c123463c3f6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4828c96b86819a1f862c5c123463c3f6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_WanderingPlague_1SecCooldown&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  154</span>{</div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// Wandering Plague has a 1 second internal cooldown</span></div>
+<div class="line"><span class="lineno">  156</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(49217).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">  157</span> </div>
+<div class="line"><span class="lineno">  158</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 1000);</div>
+<div class="line"><span class="lineno">  159</span> </div>
+<div class="line"><span class="lineno">  160</span>    <span class="comment">// Blocked at 0.5 seconds</span></div>
+<div class="line"><span class="lineno">  161</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 500ms));</div>
+<div class="line"><span class="lineno">  162</span> </div>
+<div class="line"><span class="lineno">  163</span>    <span class="comment">// Allowed at 1 second</span></div>
+<div class="line"><span class="lineno">  164</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now + 1000ms));</div>
+<div class="line"><span class="lineno">  165</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
+
+</div>
+</div>
+<a id="a980784573aa4ae1d2fda4349c9290425" name="a980784573aa4ae1d2fda4349c9290425"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a980784573aa4ae1d2fda4349c9290425">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/11]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d60/a29631.html">SpellProcCooldownTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ZeroCooldown_NeverBlocks&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
+<div class="line"><span class="lineno">   94</span>    <span class="keyword">auto</span> aura = <a class="code hl_class" href="../../d3/dc9/a29283.html">AuraStubBuilder</a>().<a class="code hl_function" href="../../d3/dc9/a29283.html#aa8dc59189364f6be82822588a47d32fd">WithId</a>(12345).<a class="code hl_function" href="../../d3/dc9/a29283.html#a7d5b970e591a239849e42a0c444f62d4">Build</a>();</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>    <span class="comment">// Zero cooldown should not apply any cooldown</span></div>
+<div class="line"><span class="lineno">   97</span>    <a class="code hl_function" href="../../d4/df4/a29303.html#a57d351c38a433d00432bbb97a40b6a27">ProcChanceTestHelper::ApplyProcCooldown</a>(aura.get(), _now, 0);</div>
+<div class="line"><span class="lineno">   98</span> </div>
+<div class="line"><span class="lineno">   99</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#af0ea5c345c43d31902bc9d55c2ac7308">ProcChanceTestHelper::IsProcOnCooldown</a>(aura.get(), _now));</div>
+<div class="line"><span class="lineno">  100</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00163">ProcChanceTestHelper::ApplyProcCooldown()</a>, <a class="el" href="../../#l00353">AuraStubBuilder::Build()</a>, <a class="el" href="../../#l00149">ProcChanceTestHelper::IsProcOnCooldown()</a>, and <a class="el" href="../../#l00294">AuraStubBuilder::WithId()</a>.</p>
 
 </div>
 </div>
@@ -489,8 +640,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_5e891a7b3745c099739b800ab378e1eb.html">ShadowfangKeep</a></li><li class="navelem"><a class="el" href="../../da/d2a/a00086.html">boss_apothecary_hummel.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:13:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../da/d2a/a00086.html">SpellProcCooldownTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:38:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

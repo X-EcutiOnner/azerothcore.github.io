@@ -1,7 +1,10 @@
 var a15815 =
 [
-    [ "npc_giant_spotlightAI", "d8/d1f/a15815.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "d8/d1f/a15815.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "d8/d1f/a15815.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "d8/d1f/a15815.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "npc_murkdeepAI", "d8/d1f/a15815.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d8/d1f/a15815.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d8/d1f/a15815.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d8/d1f/a15815.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d8/d1f/a15815.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d8/d1f/a15815.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d8/d1f/a15815.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

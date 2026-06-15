@@ -1,7 +1,6 @@
 var a18447 =
 [
-    [ "HandleScript", "d4/d4d/a18447.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d4/d4d/a18447.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d4/d4d/a18447.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d4/d4d/a18447.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "FilterTargets", "d4/d4d/a18447.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d4/d4d/a18447.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d4/d4d/a18447.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

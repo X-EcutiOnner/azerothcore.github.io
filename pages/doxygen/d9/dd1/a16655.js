@@ -1,10 +1,6 @@
 var a16655 =
 [
-    [ "npc_nerubian_burrowerAI", "d9/dd1/a16655.html#a7673709e7b16a6573d9c7392ba556313", null ],
-    [ "CanAIAttack", "d9/dd1/a16655.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
-    [ "JustDied", "d9/dd1/a16655.html#ab5182ad65187c472b306e2177530d7b6", null ],
-    [ "Reset", "d9/dd1/a16655.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
-    [ "SpellHitTarget", "d9/dd1/a16655.html#a64fa2c8276f7418542190e833dd72c51", null ],
-    [ "UpdateAI", "d9/dd1/a16655.html#abd2c7333625ded502a00848b09ee9a40", null ],
-    [ "events", "d9/dd1/a16655.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
+    [ "npc_argent_soldierAI", "d6/d60/a16659.html", "d6/d60/a16659" ],
+    [ "npc_argent_soldier", "d9/dd1/a16655.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "d9/dd1/a16655.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

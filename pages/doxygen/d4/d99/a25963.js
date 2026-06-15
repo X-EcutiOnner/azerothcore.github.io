@@ -1,7 +1,6 @@
 var a25963 =
 [
-    [ "OnApply", "d4/d99/a25963.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d4/d99/a25963.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d4/d99/a25963.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d4/d99/a25963.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "OnPeriodic", "d4/d99/a25963.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d4/d99/a25963.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d4/d99/a25963.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

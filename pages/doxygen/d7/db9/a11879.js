@@ -1,6 +1,8 @@
 var a11879 =
 [
-    [ "AfterCheckProcHandler", "d7/db9/a11879.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d7/db9/a11879.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d7/db9/a11879.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "target_mapId", "d7/db9/a11879.html#a6dbbb558810388e0d051d84a0279a444", null ],
+    [ "target_Orientation", "d7/db9/a11879.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
+    [ "target_X", "d7/db9/a11879.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
+    [ "target_Y", "d7/db9/a11879.html#a6f432d8770adebf513346713b7890b5c", null ],
+    [ "target_Z", "d7/db9/a11879.html#a3af706b81f8fbef12277c518964f717a", null ]
 ];

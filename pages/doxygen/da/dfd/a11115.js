@@ -1,5 +1,5 @@
 var a11115 =
 [
-    [ "ResetInstances", "da/dfd/a11115.html#a64d9627a48ae2bfcda68b7d04273fe18", null ],
-    [ "Read", "da/dfd/a11115.html#a7f190f2bb133fa18e46830f68695b050", null ]
+    [ "SocketEnchantID", "da/dfd/a11115.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "da/dfd/a11115.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

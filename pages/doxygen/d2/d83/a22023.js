@@ -1,7 +1,7 @@
 var a22023 =
 [
-    [ "HandleOnEffectHit", "d2/d83/a22023.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "d2/d83/a22023.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "d2/d83/a22023.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "d2/d83/a22023.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "HandleDummy", "d2/d83/a22023.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d2/d83/a22023.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d2/d83/a22023.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d2/d83/a22023.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

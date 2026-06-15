@@ -1,7 +1,6 @@
 var a18163 =
 [
-    [ "HandleProc", "d8/d0f/a18163.html#a6d63b76821dbbd025bec1e8d48c8e9c9", null ],
-    [ "PrepareAuraScript", "d8/d0f/a18163.html#a5eace3a973165eb82ae95b8052bb9476", null ],
-    [ "Register", "d8/d0f/a18163.html#aa5b01193a7b6e58935c261c80e6a0d9a", null ],
-    [ "Validate", "d8/d0f/a18163.html#ad2a7488006b16840e02b450cc9150289", null ]
+    [ "PrepareSpellScript", "d8/d0f/a18163.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d8/d0f/a18163.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d8/d0f/a18163.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

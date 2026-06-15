@@ -1,5 +1,5 @@
 var a10915 =
 [
-    [ "AcceptGuildInvite", "d2/d93/a10915.html#a4453fc550871082f6295d9229eef265a", null ],
-    [ "Read", "d2/d93/a10915.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
+    [ "LogoutCancelAck", "d2/d93/a10915.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d2/d93/a10915.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

@@ -1,8 +1,7 @@
 var a08283 =
 [
-    [ "TemporaryThreatModifierEvent", "dc/d63/a08283.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "dc/d63/a08283.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "dc/d63/a08283.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "dc/d63/a08283.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "dc/d63/a08283.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LfgReward", "dc/d63/a08283.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "dc/d63/a08283.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "dc/d63/a08283.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "dc/d63/a08283.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

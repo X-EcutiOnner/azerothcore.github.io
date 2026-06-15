@@ -1,7 +1,6 @@
 var a13511 =
 [
-    [ "OnRemove", "df/d73/a13511.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "df/d73/a13511.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "df/d73/a13511.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "df/d73/a13511.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "boss_darkmaster_gandlingAI", "d2/d4b/a13515.html", "d2/d4b/a13515" ],
+    [ "boss_darkmaster_gandling", "df/d73/a13511.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "df/d73/a13511.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

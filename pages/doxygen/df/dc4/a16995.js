@@ -1,6 +1,4 @@
 var a16995 =
 [
-    [ "OnPeriodic", "df/dc4/a16995.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "df/dc4/a16995.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "df/dc4/a16995.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "boss_acidmawAI", "df/dc4/a16995.html#a185e04be9d28b9ac6755ade2cd552293", null ]
 ];

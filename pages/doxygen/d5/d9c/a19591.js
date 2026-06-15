@@ -1,6 +1,7 @@
 var a19591 =
 [
-    [ "boss_varosAI", "da/d1e/a19595.html", "da/d1e/a19595" ],
-    [ "boss_varos", "d5/d9c/a19591.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d5/d9c/a19591.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "d5/d9c/a19591.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "d5/d9c/a19591.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "d5/d9c/a19591.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "d5/d9c/a19591.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

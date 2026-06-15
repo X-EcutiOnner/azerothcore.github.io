@@ -1,6 +1,6 @@
 var a18755 =
 [
-    [ "HandleScript", "dc/d04/a18755.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "dc/d04/a18755.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "dc/d04/a18755.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "npc_lk_spirit_bombAI", "d6/dc5/a18759.html", "d6/dc5/a18759" ],
+    [ "npc_lk_spirit_bomb", "dc/d04/a18755.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "dc/d04/a18755.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

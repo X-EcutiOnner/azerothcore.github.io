@@ -1,9 +1,12 @@
 var a14511 =
 [
-    [ "CheckCast", "d8/d62/a14511.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d8/d62/a14511.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d8/d62/a14511.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d8/d62/a14511.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d8/d62/a14511.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d8/d62/a14511.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "npc_chained_spirit", "d8/d62/a14511.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d8/d62/a14511.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d8/d62/a14511.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d8/d62/a14511.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d8/d62/a14511.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d8/d62/a14511.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d8/d62/a14511.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d8/d62/a14511.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d8/d62/a14511.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

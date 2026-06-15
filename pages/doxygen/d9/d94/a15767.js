@@ -1,8 +1,12 @@
 var a15767 =
 [
-    [ "FilterTargets", "d9/d94/a15767.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "d9/d94/a15767.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "d9/d94/a15767.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "d9/d94/a15767.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "d9/d94/a15767.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_magwinAI", "d9/d94/a15767.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
+    [ "JustEngagedWith", "d9/d94/a15767.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
+    [ "Reset", "d9/d94/a15767.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
+    [ "sQuestAccept", "d9/d94/a15767.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
+    [ "UpdateEscortAI", "d9/d94/a15767.html#a34236331be8842a9e2a98036ea382e18", null ],
+    [ "WaypointReached", "d9/d94/a15767.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
+    [ "WaypointReached", "d9/d94/a15767.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d9/d94/a15767.html#a32dad2bde92efab7e0f0d16e809df665", null ],
+    [ "_player", "d9/d94/a15767.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
 ];

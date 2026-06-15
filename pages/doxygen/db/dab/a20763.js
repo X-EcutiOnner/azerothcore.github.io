@@ -1,8 +1,10 @@
 var a20763 =
 [
-    [ "npc_ulduar_keeperAI", "d6/daf/a20767.html", "d6/daf/a20767" ],
-    [ "npc_ulduar_keeper", "db/dab/a20763.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "db/dab/a20763.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "db/dab/a20763.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "db/dab/a20763.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "db/dab/a20763.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "db/dab/a20763.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "JustDied", "db/dab/a20763.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "db/dab/a20763.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "UpdateAI", "db/dab/a20763.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
+    [ "_checkTimer", "db/dab/a20763.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
+    [ "_playerGUID", "db/dab/a20763.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

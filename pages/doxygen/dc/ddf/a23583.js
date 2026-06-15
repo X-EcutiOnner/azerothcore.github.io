@@ -1,6 +1,5 @@
 var a23583 =
 [
-    [ "HandleScriptEffect", "dc/ddf/a23583.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "dc/ddf/a23583.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "dc/ddf/a23583.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "npc_lord_sanguinar", "dc/ddf/a23583.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "dc/ddf/a23583.html#af9231da98547875527a519c5884cbec0", null ]
 ];

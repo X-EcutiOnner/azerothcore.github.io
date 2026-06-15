@@ -1,7 +1,13 @@
 var a18939 =
 [
-    [ "HandleScript", "d1/de6/a18939.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d1/de6/a18939.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d1/de6/a18939.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d1/de6/a18939.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "npc_highlord_tirion_fordringAI", "d1/de6/a18939.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d1/de6/a18939.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d1/de6/a18939.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d1/de6/a18939.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d1/de6/a18939.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d1/de6/a18939.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d1/de6/a18939.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d1/de6/a18939.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d1/de6/a18939.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d1/de6/a18939.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

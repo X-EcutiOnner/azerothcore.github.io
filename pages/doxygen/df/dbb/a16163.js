@@ -1,6 +1,5 @@
 var a16163 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d4/dcc/a16167.html", "d4/dcc/a16167" ],
-    [ "instance_ahnkahet", "df/dbb/a16163.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "df/dbb/a16163.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "go_elune_fire", "df/dbb/a16163.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "df/dbb/a16163.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

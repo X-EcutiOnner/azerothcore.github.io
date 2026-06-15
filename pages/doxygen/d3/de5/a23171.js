@@ -1,7 +1,6 @@
 var a23171 =
 [
-    [ "OnApply", "d3/de5/a23171.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d3/de5/a23171.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d3/de5/a23171.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d3/de5/a23171.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "HandlePeriodic", "d3/de5/a23171.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d3/de5/a23171.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d3/de5/a23171.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

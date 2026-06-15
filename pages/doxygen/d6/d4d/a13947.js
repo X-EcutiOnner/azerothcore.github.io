@@ -1,15 +1,14 @@
 var a13947 =
 [
-    [ "npc_deathstalker_fearleia", "d6/d4d/a13947.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "d6/d4d/a13947.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "d6/d4d/a13947.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "d6/d4d/a13947.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "d6/d4d/a13947.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "d6/d4d/a13947.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "d6/d4d/a13947.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "d6/d4d/a13947.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "d6/d4d/a13947.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "d6/d4d/a13947.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "d6/d4d/a13947.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "d6/d4d/a13947.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "instance_uldaman_InstanceMapScript", "d6/d4d/a13947.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d6/d4d/a13947.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d6/d4d/a13947.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d6/d4d/a13947.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d6/d4d/a13947.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d6/d4d/a13947.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d6/d4d/a13947.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d6/d4d/a13947.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d6/d4d/a13947.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d6/d4d/a13947.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d6/d4d/a13947.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

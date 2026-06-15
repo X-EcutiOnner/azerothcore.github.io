@@ -1,8 +1,6 @@
 var a21923 =
 [
-    [ "npc_adventurous_dwarfAI", "da/dc4/a21927.html", "da/dc4/a21927" ],
-    [ "npc_adventurous_dwarf", "d8/d5f/a21923.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d8/d5f/a21923.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d8/d5f/a21923.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d8/d5f/a21923.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "PrepareSpellScript", "d8/d5f/a21923.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "d8/d5f/a21923.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "d8/d5f/a21923.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

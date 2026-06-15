@@ -1,8 +1,11 @@
 var a05335 =
 [
-    [ "MeshTriangle", "d5/d15/a05335.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "d5/d15/a05335.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "d5/d15/a05335.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "d5/d15/a05335.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "d5/d15/a05335.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "~GameObjectModelOwnerBase", "d5/d15/a05335.html#a307c744710782fcb0d5c287b23c74d69", null ],
+    [ "DebugVisualizeCorner", "d5/d15/a05335.html#acf130fbdfb086a9c6d35d145116357c8", null ],
+    [ "GetDisplayId", "d5/d15/a05335.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
+    [ "GetOrientation", "d5/d15/a05335.html#a35c11d2346c5156b95558729d84b3fe8", null ],
+    [ "GetPhaseMask", "d5/d15/a05335.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
+    [ "GetPosition", "d5/d15/a05335.html#a82e89b7fac5f46a25519674930294ed8", null ],
+    [ "GetScale", "d5/d15/a05335.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
+    [ "IsSpawned", "d5/d15/a05335.html#ad824da6970d512c344160714cd7ec434", null ]
 ];

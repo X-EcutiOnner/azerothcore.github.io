@@ -1,8 +1,8 @@
 var a09663 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "db/d0a/a09663.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "db/d0a/a09663.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "db/d0a/a09663.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "db/d0a/a09663.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "db/d0a/a09663.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "NearestGameObjectFishingHole", "db/d0a/a09663.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "db/d0a/a09663.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "db/d0a/a09663.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "db/d0a/a09663.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "db/d0a/a09663.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

@@ -1,11 +1,8 @@
 var a17143 =
 [
-    [ "npc_spectral_footman", "dc/d42/a17143.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "dc/d42/a17143.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "dc/d42/a17143.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "dc/d42/a17143.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "dc/d42/a17143.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "dc/d42/a17143.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "dc/d42/a17143.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "dc/d42/a17143.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "HandleRemove", "dc/d42/a17143.html#a362b16f69a19adae6b673bd9ead55a83", null ],
+    [ "PeriodicTick", "dc/d42/a17143.html#aa432052d61dc48066433b41b84ffbe5f", null ],
+    [ "PrepareAuraScript", "dc/d42/a17143.html#a3ffbd618820adf77b2c64a29816f5204", null ],
+    [ "Register", "dc/d42/a17143.html#ac2ac207d2e193a9c2f9904b394113c4d", null ],
+    [ "Validate", "dc/d42/a17143.html#abed6574398a7d005e95feba6b54243a1", null ]
 ];

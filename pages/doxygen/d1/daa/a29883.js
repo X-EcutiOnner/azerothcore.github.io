@@ -1,11 +1,12 @@
 var a29883 =
 [
-    [ "_ACORE_REALM_CONFIG", "d1/daa/a29883.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d1/daa/a29883.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d1/daa/a29883.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d1/daa/a29883.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d1/daa/a29883.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d1/daa/a29883.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d1/daa/a29883.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d1/daa/a29883.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "cellSizeHorizontal", "d1/daa/a29883.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "d1/daa/a29883.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "d1/daa/a29883.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "d1/daa/a29883.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "d1/daa/a29883.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "d1/daa/a29883.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "d1/daa/a29883.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "d1/daa/a29883.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "d1/daa/a29883.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

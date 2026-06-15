@@ -1,17 +1,12 @@
 var a10215 =
 [
-    [ "GraveyardContainer", "db/d6a/a10215.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "db/d6a/a10215.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "db/d6a/a10215.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "db/d6a/a10215.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetDefaultGraveyard", "db/d6a/a10215.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "db/d6a/a10215.html#addd1a184b9791c8c6a74fb228545741b", null ],
-    [ "GetGraveyard", "db/d6a/a10215.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "db/d6a/a10215.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "db/d6a/a10215.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "db/d6a/a10215.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "db/d6a/a10215.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "db/d6a/a10215.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "db/d6a/a10215.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "db/d6a/a10215.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "MapReference", "db/d6a/a10215.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "db/d6a/a10215.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "db/d6a/a10215.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "db/d6a/a10215.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "db/d6a/a10215.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "db/d6a/a10215.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "db/d6a/a10215.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "db/d6a/a10215.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "db/d6a/a10215.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

@@ -1,7 +1,6 @@
 var a19171 =
 [
-    [ "HandleScript", "d1/d17/a19171.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d1/d17/a19171.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d1/d17/a19171.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d1/d17/a19171.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d4/dd5/a19175.html", "d4/dd5/a19175" ],
+    [ "npc_icc_vengeful_fleshreaper", "d1/d17/a19171.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "d1/d17/a19171.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

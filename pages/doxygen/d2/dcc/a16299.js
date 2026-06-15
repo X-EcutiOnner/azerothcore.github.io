@@ -1,6 +1,22 @@
 var a16299 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "da/d46/a16303.html", "da/d46/a16303" ],
-    [ "instance_obsidian_sanctum", "d2/dcc/a16299.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "d2/dcc/a16299.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "boss_anub_arak", "d2/dcc/a16299.html#a101f9d16396cda01ad6f4cc9b8957a0b", null ],
+    [ "DamageTaken", "d2/dcc/a16299.html#ae5a3f384f4f287c565a5b982111d5282", null ],
+    [ "EnterEvadeMode", "d2/dcc/a16299.html#a0365cf00b8d884219b02e198918448bb", null ],
+    [ "JustDied", "d2/dcc/a16299.html#aa95ae87845af18c9aef0ade4cbf9e220", null ],
+    [ "JustEngagedWith", "d2/dcc/a16299.html#ac25501650b7aeafac1cb92c7a809aee8", null ],
+    [ "KilledUnit", "d2/dcc/a16299.html#a823906227e56408dc4c052154e4997fc", null ],
+    [ "MoveInLineOfSight", "d2/dcc/a16299.html#a0443fe85445b60b4339ca122667f9cc5", null ],
+    [ "Reset", "d2/dcc/a16299.html#a15892545d3f5516387fdea763c378967", null ],
+    [ "ScheduleEmerged", "d2/dcc/a16299.html#ae284fc52dc33060f62c3cbccdb9e00a4", null ],
+    [ "ScheduleSubmerged", "d2/dcc/a16299.html#a1f0a88fc6901fb8e6e684cfe7d96bf17", null ],
+    [ "SpellHitTarget", "d2/dcc/a16299.html#a5afeff2e3c18622d534f040edd25bac8", null ],
+    [ "SummonedCreatureDies", "d2/dcc/a16299.html#a8f4da00dd29ec67806feb69a6f48922e", null ],
+    [ "SummonedCreatureEvade", "d2/dcc/a16299.html#a42797809823a4fce2bd4d45703a085a2", null ],
+    [ "UpdateAI", "d2/dcc/a16299.html#a02b141552bd5c1aeb9389c7f9e697407", null ],
+    [ "_balconySummons", "d2/dcc/a16299.html#a3848a51431973cc4e7ff5543ac1472df", null ],
+    [ "_guardianTriggerGUID", "d2/dcc/a16299.html#a8f17a42c83d660236db4b00e164e214a", null ],
+    [ "_intro", "d2/dcc/a16299.html#a8a82bc0717073a7e9835358926cb9b5e", null ],
+    [ "_remainingLargeSummonsBeforeEmerge", "d2/dcc/a16299.html#ab7b3922c175f5b80617e67a2fa941c79", null ],
+    [ "_submergePhase", "d2/dcc/a16299.html#a98629255b48739bc92443a4b196e00a1", null ]
 ];

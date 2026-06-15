@@ -1,6 +1,6 @@
 var a16295 =
 [
-    [ "HandleLeapBack", "dd/d46/a16295.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "dd/d46/a16295.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "dd/d46/a16295.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "HandlePeriodic", "dd/d46/a16295.html#ad22b433005b2678bde3516a01eaaaa60", null ],
+    [ "PrepareAuraScript", "dd/d46/a16295.html#a3711004edaef7242d9cae1f23f9b7467", null ],
+    [ "Register", "dd/d46/a16295.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
 ];

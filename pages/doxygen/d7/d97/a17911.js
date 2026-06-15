@@ -1,7 +1,6 @@
 var a17911 =
 [
-    [ "HandleDummy", "d7/d97/a17911.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d7/d97/a17911.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d7/d97/a17911.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d7/d97/a17911.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "npc_zafod_boomboxAI", "db/dbc/a17915.html", "db/dbc/a17915" ],
+    [ "npc_zafod_boombox", "d7/d97/a17911.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d7/d97/a17911.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

@@ -1,15 +1,10 @@
 var a00992 =
 [
-    [ "icecrown_citadel_teleport", "d2/d3f/a19148.html", "d2/d3f/a19148" ],
-    [ "at_frozen_throne_teleport", "dd/d0d/a19152.html", "dd/d0d/a19152" ],
-    [ "GOSSIP_SENDER_ICC_PORT", "d7/d76/a00992.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
-    [ "ICCTeleportOption", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928", [
-      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
-      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d7/d76/a00992.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
-    ] ],
-    [ "AddSC_icecrown_citadel_teleport", "d7/d76/a00992.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
+    [ "instance_sethekk_halls", "d0/d95/a22419.html", "d0/d95/a22419" ],
+    [ "instance_sethekk_halls::instance_sethekk_halls_InstanceMapScript", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
+    [ "AddSC_instance_sethekk_halls", "d7/d76/a00992.html#a14325c1667938972a51bf364b00fe3c3", null ],
+    [ "anzuSummonEventId", "d7/d76/a00992.html#aa1fc295d418ed62b1c08ea6d11e111e3", null ],
+    [ "creatureData", "d7/d76/a00992.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d7/d76/a00992.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d7/d76/a00992.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
 ];

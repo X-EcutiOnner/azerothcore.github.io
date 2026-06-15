@@ -1,17 +1,7 @@
 var a12907 =
 [
-    [ "boss_attumen", "dd/df2/a12907.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "dd/df2/a12907.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "dd/df2/a12907.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "dd/df2/a12907.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "dd/df2/a12907.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "dd/df2/a12907.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "dd/df2/a12907.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "dd/df2/a12907.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "dd/df2/a12907.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "dd/df2/a12907.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "dd/df2/a12907.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "dd/df2/a12907.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "dd/df2/a12907.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "dd/df2/a12907.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "HandleAfterApply", "dd/df2/a12907.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "dd/df2/a12907.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "dd/df2/a12907.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "dd/df2/a12907.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

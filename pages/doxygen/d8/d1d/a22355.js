@@ -1,12 +1,12 @@
 var a22355 =
 [
-    [ "boss_anzu", "d8/d1d/a22355.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d8/d1d/a22355.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d8/d1d/a22355.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d8/d1d/a22355.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d8/d1d/a22355.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d8/d1d/a22355.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d8/d1d/a22355.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d8/d1d/a22355.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d8/d1d/a22355.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "npc_stolen_soul", "d8/d1d/a22355.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d8/d1d/a22355.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d8/d1d/a22355.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d8/d1d/a22355.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d8/d1d/a22355.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
+    [ "UpdateAI", "d8/d1d/a22355.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d8/d1d/a22355.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d8/d1d/a22355.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d8/d1d/a22355.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

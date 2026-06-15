@@ -1,6 +1,5 @@
 var a20515 =
 [
-    [ "OnPeriodic", "dc/d26/a20515.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "dc/d26/a20515.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "dc/d26/a20515.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "go_ulduar_do_not_push_this_button", "dc/d26/a20515.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "dc/d26/a20515.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

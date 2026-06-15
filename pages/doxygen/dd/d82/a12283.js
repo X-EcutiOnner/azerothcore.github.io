@@ -1,7 +1,6 @@
 var a12283 =
 [
-    [ "FoundObjects", "dd/d82/a12283.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
-    [ "X", "dd/d82/a12283.html#a9a184093c44a45addd7a7bae891496c0", null ],
-    [ "Y", "dd/d82/a12283.html#a86ac02df716e991f629647941dcb29cb", null ],
-    [ "Z", "dd/d82/a12283.html#a50477b2e983580c94b348f7e408a8363", null ]
+    [ "bg_commandscript", "dd/d82/a12283.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
+    [ "GetCommands", "dd/d82/a12283.html#a911ccd6445b08c05069f7f196556c891", null ],
+    [ "HandleBagsClearCommand", "dd/d82/a12283.html#a92347e90c2f78d0dfeb41eb033366319", null ]
 ];

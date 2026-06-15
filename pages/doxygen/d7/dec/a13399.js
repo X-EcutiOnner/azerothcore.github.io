@@ -1,7 +1,6 @@
 var a13399 =
 [
-    [ "HandleEffectApply", "d7/dec/a13399.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d7/dec/a13399.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d7/dec/a13399.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d7/dec/a13399.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_dkc1_gothikAI", "de/dc9/a13403.html", "de/dc9/a13403" ],
+    [ "npc_dkc1_gothik", "d7/dec/a13399.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d7/dec/a13399.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

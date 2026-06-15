@@ -1,12 +1,20 @@
 var a29827 =
 [
-    [ "Model", "dc/daa/a29827.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "dc/daa/a29827.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "dc/daa/a29827.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "dc/daa/a29827.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "dc/daa/a29827.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "dc/daa/a29827.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "dc/daa/a29827.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "dc/daa/a29827.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "dc/daa/a29827.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "FileLoader", "dc/daa/a29827.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "dc/daa/a29827.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "FileLoader", "dc/daa/a29827.html#a51313b536560d1d89d8350475d2bc749", null ],
+    [ "~FileLoader", "dc/daa/a29827.html#a0954776182dd01364bdb216539ce398b", null ],
+    [ "free", "dc/daa/a29827.html#a738aeb2ebe751c9fc75013dbce30dcc4", null ],
+    [ "free", "dc/daa/a29827.html#aef98564821c8e63b6d484179cda0b380", null ],
+    [ "GetData", "dc/daa/a29827.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetData", "dc/daa/a29827.html#aed85cdbd6a4e52096292c6ed8578f7bd", null ],
+    [ "GetDataSize", "dc/daa/a29827.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "GetDataSize", "dc/daa/a29827.html#a2a07adb0692a51af06ccd31d449ae444", null ],
+    [ "loadFile", "dc/daa/a29827.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "loadFile", "dc/daa/a29827.html#a11908109042f93ddde393e7a874683c9", null ],
+    [ "prepareLoadedData", "dc/daa/a29827.html#ab66347098d7c9ac470339c232f9b7588", null ],
+    [ "prepareLoadedData", "dc/daa/a29827.html#a498a33d80768843b4ab1ff2d5ffe68d9", null ],
+    [ "data", "dc/daa/a29827.html#aff1880ac2038f17f4d1f63bc9f7d9afd", null ],
+    [ "data_size", "dc/daa/a29827.html#a355891fc980538e74080b9b83a95dec8", null ],
+    [ "version", "dc/daa/a29827.html#a41cedec185e5909d83c8a185d1476dee", null ]
 ];

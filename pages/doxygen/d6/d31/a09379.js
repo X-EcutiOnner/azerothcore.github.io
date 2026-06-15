@@ -1,10 +1,17 @@
 var a09379 =
 [
-    [ "iterator", "d6/d31/a09379.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "d6/d31/a09379.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "d6/d31/a09379.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "d6/d31/a09379.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "d6/d31/a09379.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "d6/d31/a09379.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "d6/d31/a09379.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "ActionMenuID", "d6/d31/a09379.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "d6/d31/a09379.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "d6/d31/a09379.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "d6/d31/a09379.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "d6/d31/a09379.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "d6/d31/a09379.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "d6/d31/a09379.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "d6/d31/a09379.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "d6/d31/a09379.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "d6/d31/a09379.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "d6/d31/a09379.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "d6/d31/a09379.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "d6/d31/a09379.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "d6/d31/a09379.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

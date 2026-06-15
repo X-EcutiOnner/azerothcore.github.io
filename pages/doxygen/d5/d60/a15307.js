@@ -1,7 +1,15 @@
 var a15307 =
 [
-    [ "go_sand_trap", "d5/d60/a15307.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d5/d60/a15307.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d5/d60/a15307.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d5/d60/a15307.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "npc_time_rift", "d5/d60/a15307.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "d5/d60/a15307.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "d5/d60/a15307.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "d5/d60/a15307.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "d5/d60/a15307.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "d5/d60/a15307.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "d5/d60/a15307.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "d5/d60/a15307.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "d5/d60/a15307.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "d5/d60/a15307.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "d5/d60/a15307.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "d5/d60/a15307.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

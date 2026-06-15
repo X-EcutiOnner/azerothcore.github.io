@@ -1,19 +1,12 @@
 var a22871 =
 [
-    [ "boss_lady_vashj", "df/d6d/a22871.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/d6d/a22871.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
-    [ "JustDied", "df/d6d/a22871.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
-    [ "JustEngagedWith", "df/d6d/a22871.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
-    [ "JustSummoned", "df/d6d/a22871.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
-    [ "KilledUnit", "df/d6d/a22871.html#a0418ead0213eeea16a531baca96db704", null ],
-    [ "MoveInLineOfSight", "df/d6d/a22871.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
-    [ "MovementInform", "df/d6d/a22871.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
-    [ "Reset", "df/d6d/a22871.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
-    [ "ScheduleSpells", "df/d6d/a22871.html#ac4821984e5b5310877204fdb93810029", null ],
-    [ "UpdateAI", "df/d6d/a22871.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
-    [ "_batTimer", "df/d6d/a22871.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
-    [ "_count", "df/d6d/a22871.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
-    [ "_intro", "df/d6d/a22871.html#a2aafb94d956182723ccc9374854c7fb0", null ],
-    [ "_playerAngle", "df/d6d/a22871.html#a005515a4f2ad0661d5faff9107ea068b", null ],
-    [ "_recentlySpoken", "df/d6d/a22871.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
+    [ "boss_fathomlord_karathress", "df/d6d/a22871.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "df/d6d/a22871.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "df/d6d/a22871.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "df/d6d/a22871.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "df/d6d/a22871.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "df/d6d/a22871.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "df/d6d/a22871.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "df/d6d/a22871.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "df/d6d/a22871.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

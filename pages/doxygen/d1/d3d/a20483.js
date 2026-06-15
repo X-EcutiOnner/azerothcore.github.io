@@ -1,11 +1,11 @@
 var a20483 =
 [
-    [ "boss_thorim_sif_blizzard", "d1/d3d/a20483.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "d1/d3d/a20483.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "d1/d3d/a20483.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "d1/d3d/a20483.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "d1/d3d/a20483.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "d1/d3d/a20483.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "d1/d3d/a20483.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "d1/d3d/a20483.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_ulduar_proximity_mine", "d1/d3d/a20483.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "d1/d3d/a20483.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "d1/d3d/a20483.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "d1/d3d/a20483.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "d1/d3d/a20483.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "d1/d3d/a20483.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "d1/d3d/a20483.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "d1/d3d/a20483.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

@@ -1,6 +1,9 @@
 var a23683 =
 [
-    [ "npc_nether_drakeAI", "d7/d21/a23687.html", "d7/d21/a23687" ],
-    [ "npc_nether_drake", "d3/d96/a23683.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d3/d96/a23683.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "boss_nethermancer_sepethrea", "d3/d96/a23683.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d3/d96/a23683.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d3/d96/a23683.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d3/d96/a23683.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d3/d96/a23683.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d3/d96/a23683.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

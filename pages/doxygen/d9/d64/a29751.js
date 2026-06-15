@@ -1,9 +1,17 @@
 var a29751 =
 [
-    [ "WDT_file", "d9/d64/a29751.html#afa32849d31abde3cb2c9f3b558816368", null ],
-    [ "~WDT_file", "d9/d64/a29751.html#a29bf710b8346204eb848017450afebe1", null ],
-    [ "free", "d9/d64/a29751.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
-    [ "prepareLoadedData", "d9/d64/a29751.html#add675f96f010e67ca1df01b029c9ebfb", null ],
-    [ "main", "d9/d64/a29751.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
-    [ "mphd", "d9/d64/a29751.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
+    [ "GetHeight", "d9/d64/a29751.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
+    [ "GetOffsetX", "d9/d64/a29751.html#a8facef2fdb586a71f1f740086fe160ab", null ],
+    [ "GetOffsetY", "d9/d64/a29751.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
+    [ "GetWidth", "d9/d64/a29751.html#a240dac4718a12daee7c8ec526209c4ba", null ],
+    [ "Height", "d9/d64/a29751.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
+    [ "LiquidType", "d9/d64/a29751.html#a910553870f082a1b8dd47c27c8f981f1", null ],
+    [ "LiquidVertexFormat", "d9/d64/a29751.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
+    [ "MaxHeightLevel", "d9/d64/a29751.html#aa73500f507b6ee2678f3c81328b716e1", null ],
+    [ "MinHeightLevel", "d9/d64/a29751.html#a5c56ad9303d1b652774019efbe316dbd", null ],
+    [ "OffsetExistsBitmap", "d9/d64/a29751.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
+    [ "OffsetVertexData", "d9/d64/a29751.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
+    [ "OffsetX", "d9/d64/a29751.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
+    [ "OffsetY", "d9/d64/a29751.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
+    [ "Width", "d9/d64/a29751.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
 ];

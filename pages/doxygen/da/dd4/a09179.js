@@ -1,14 +1,7 @@
 var a09179 =
 [
-    [ "areaMapOffset", "da/dd4/a09179.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "da/dd4/a09179.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "da/dd4/a09179.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "da/dd4/a09179.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "da/dd4/a09179.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "da/dd4/a09179.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "da/dd4/a09179.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "da/dd4/a09179.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "da/dd4/a09179.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "da/dd4/a09179.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "da/dd4/a09179.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "EquipementIdPrev", "da/dd4/a09179.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "da/dd4/a09179.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "da/dd4/a09179.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "da/dd4/a09179.html#a9de7aa11788b22692738b72718193057", null ]
 ];

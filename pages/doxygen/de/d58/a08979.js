@@ -1,8 +1,10 @@
 var a08979 =
 [
-    [ "DiminishingReturn", "de/d58/a08979.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "de/d58/a08979.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "de/d58/a08979.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "de/d58/a08979.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "de/d58/a08979.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "PlayerSetting", "de/d58/a08979.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "de/d58/a08979.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "de/d58/a08979.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "de/d58/a08979.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "de/d58/a08979.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "de/d58/a08979.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "de/d58/a08979.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

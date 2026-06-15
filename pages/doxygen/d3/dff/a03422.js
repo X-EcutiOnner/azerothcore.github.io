@@ -1,7 +1,12 @@
 var a03422 =
 [
-    [ "instance_trial_of_the_champion", "df/d1a/a16618.html", "df/d1a/a16618" ],
-    [ "instance_trial_of_the_champion::instance_trial_of_the_champion_InstanceMapScript", "d7/d99/a16622.html", "d7/d99/a16622" ],
-    [ "AddSC_instance_trial_of_the_champion", "d3/dff/a03422.html#a15e8163b6e8598d38b9f8c3b0ab9d5bd", null ],
-    [ "SpawnPosition", "d3/dff/a03422.html#a70438d12d4153aa7d510c89551abf7c9", null ]
+    [ "ArenaTeamScript", "d9/d89/a10643.html", "d9/d89/a10643" ],
+    [ "ArenaTeamHook", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218", [
+      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
+      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
+      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
+      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
+      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
+      [ "ARENATEAMHOOK_END", "d3/dff/a03422.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
+    ] ]
 ];

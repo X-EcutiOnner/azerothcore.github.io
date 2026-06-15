@@ -1,7 +1,6 @@
 var a21691 =
 [
-    [ "HandleScript", "d3/d2d/a21691.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d3/d2d/a21691.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d3/d2d/a21691.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d3/d2d/a21691.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_ravenous_worgAI", "d3/db7/a21695.html", "d3/db7/a21695" ],
+    [ "npc_ravenous_worg", "d3/d2d/a21691.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d3/d2d/a21691.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

@@ -1,6 +1,6 @@
 var a16583 =
 [
-    [ "npc_toc5_player_vehicleAI", "dc/d61/a16587.html", "dc/d61/a16587" ],
-    [ "npc_toc5_player_vehicle", "da/d20/a16583.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "da/d20/a16583.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "OnSummon", "da/d20/a16583.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "da/d20/a16583.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "da/d20/a16583.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

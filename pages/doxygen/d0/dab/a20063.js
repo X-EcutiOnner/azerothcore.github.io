@@ -1,7 +1,11 @@
 var a20063 =
 [
-    [ "achievement_flame_leviathan_garage", "d0/dab/a20063.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d0/dab/a20063.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d0/dab/a20063.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d0/dab/a20063.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "npc_auriaya_feral_defender", "d0/dab/a20063.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DoAction", "d0/dab/a20063.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "d0/dab/a20063.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "d0/dab/a20063.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "Reset", "d0/dab/a20063.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "d0/dab/a20063.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_feralEssenceStack", "d0/dab/a20063.html#a1ffc377dbad787a5eb132758124df534", null ],
+    [ "_summons", "d0/dab/a20063.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

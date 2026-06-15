@@ -1,11 +1,6 @@
 var a21083 =
 [
-    [ "npc_ichor_globuleAI", "d7/dd1/a21083.html#a4d581f89c8385276fd407c000af9e569", null ],
-    [ "AttackStart", "d7/dd1/a21083.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
-    [ "JustDied", "d7/dd1/a21083.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
-    [ "MoveInLineOfSight", "d7/dd1/a21083.html#af8ef8296512d57d934a171f1a5060e73", null ],
-    [ "SpellHit", "d7/dd1/a21083.html#a1396538a446545408e3c304f3e56400f", null ],
-    [ "UpdateAI", "d7/dd1/a21083.html#a6ff13c853583e5178fb3a690e17303de", null ],
-    [ "pInstance", "d7/dd1/a21083.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
-    [ "uiRangeCheck_Timer", "d7/dd1/a21083.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
+    [ "npc_ritual_channelerAI", "dc/d85/a21087.html", "dc/d85/a21087" ],
+    [ "npc_ritual_channeler", "d7/dd1/a21083.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "d7/dd1/a21083.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

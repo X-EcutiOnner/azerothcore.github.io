@@ -1,5 +1,7 @@
 var a19763 =
 [
-    [ "boss_sjonnir_dwarfAI", "d3/dea/a19763.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "d3/dea/a19763.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "HandleProc", "d3/dea/a19763.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "d3/dea/a19763.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "d3/dea/a19763.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "d3/dea/a19763.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

@@ -1,4 +1,5 @@
 var a11343 =
 [
-    [ "PacketArrayMaxCapacityException", "d4/d61/a11343.html#ad71e0267bc6c9e5d182954eaa174c40e", null ]
+    [ "DurabilityDamageDeath", "d4/d61/a11343.html#a9b4350d37291b9b714be1563b28dcb43", null ],
+    [ "Write", "d4/d61/a11343.html#a35a93d9abeeb029f3da080487423f495", null ]
 ];

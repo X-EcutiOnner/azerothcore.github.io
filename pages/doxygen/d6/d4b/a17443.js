@@ -1,6 +1,6 @@
 var a17443 =
 [
-    [ "boss_slad_ranAI", "dc/dfe/a17447.html", "dc/dfe/a17447" ],
-    [ "boss_slad_ran", "d6/d4b/a17443.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "d6/d4b/a17443.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "npc_pos_freed_slaveAI", "d6/d4b/a17443.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d6/d4b/a17443.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d6/d4b/a17443.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

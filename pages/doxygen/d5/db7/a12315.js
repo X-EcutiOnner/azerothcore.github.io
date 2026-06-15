@@ -1,11 +1,13 @@
 var a12315 =
 [
-    [ "spectator_commandscript", "d5/db7/a12315.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
-    [ "GetCommands", "d5/db7/a12315.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
-    [ "HandleSpectatorCommand", "d5/db7/a12315.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
-    [ "HandleSpectatorLeaveCommand", "d5/db7/a12315.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
-    [ "HandleSpectatorResetCommand", "d5/db7/a12315.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
-    [ "HandleSpectatorSpectateCommand", "d5/db7/a12315.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
-    [ "HandleSpectatorVersionCommand", "d5/db7/a12315.html#aaf7c57603d263f7ab919f12d9680f058", null ],
-    [ "HandleSpectatorWatchCommand", "d5/db7/a12315.html#a1ee822e332374b375962d1ae87adbc61", null ]
+    [ "cheat_commandscript", "d5/db7/a12315.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d5/db7/a12315.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d5/db7/a12315.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d5/db7/a12315.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d5/db7/a12315.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d5/db7/a12315.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d5/db7/a12315.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d5/db7/a12315.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d5/db7/a12315.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d5/db7/a12315.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

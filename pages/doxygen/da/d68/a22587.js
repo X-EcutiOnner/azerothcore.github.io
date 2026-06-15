@@ -1,6 +1,7 @@
 var a22587 =
 [
-    [ "PrepareAuraScript", "da/d68/a22587.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "da/d68/a22587.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "da/d68/a22587.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "boss_lady_malande", "da/d68/a22587.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "da/d68/a22587.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "da/d68/a22587.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "da/d68/a22587.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

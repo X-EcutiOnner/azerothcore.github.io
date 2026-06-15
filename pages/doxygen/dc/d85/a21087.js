@@ -1,6 +1,5 @@
 var a21087 =
 [
-    [ "boss_lavanthorAI", "d1/dc5/a21091.html", "d1/dc5/a21091" ],
-    [ "boss_lavanthor", "dc/d85/a21087.html#aa935ffe07f59db59b9b8484f22927026", null ],
-    [ "GetAI", "dc/d85/a21087.html#aae09ecbe56efac6538bdfb6120e0be40", null ]
+    [ "npc_ritual_channelerAI", "dc/d85/a21087.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "dc/d85/a21087.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

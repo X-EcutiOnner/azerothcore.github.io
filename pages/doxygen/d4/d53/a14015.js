@@ -1,8 +1,9 @@
 var a14015 =
 [
-    [ "npc_varian_wrynnAI", "de/d24/a14019.html", "de/d24/a14019" ],
-    [ "npc_varian_wrynn", "d4/d53/a14015.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d4/d53/a14015.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d4/d53/a14015.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d4/d53/a14015.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_partygoer", "d4/d53/a14015.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d4/d53/a14015.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d4/d53/a14015.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d4/d53/a14015.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d4/d53/a14015.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d4/d53/a14015.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

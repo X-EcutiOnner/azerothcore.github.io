@@ -1,7 +1,7 @@
 var a18983 =
 [
-    [ "HandleDummy", "d9/d89/a18983.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d9/d89/a18983.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d9/d89/a18983.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d9/d89/a18983.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_captain_arnathAI", "d9/d89/a18983.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "d9/d89/a18983.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "d9/d89/a18983.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "d9/d89/a18983.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

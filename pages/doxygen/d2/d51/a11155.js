@@ -1,7 +1,7 @@
 var a11155 =
 [
-    [ "BuybackItem", "d2/d51/a11155.html#a05dec559746537669fcf32f52a171b44", null ],
-    [ "Read", "d2/d51/a11155.html#aefe27701674c75f8937f72ee418a6692", null ],
-    [ "Slot", "d2/d51/a11155.html#ac4faf4646da9a9fe7c1567527ca28a27", null ],
-    [ "VendorGuid", "d2/d51/a11155.html#a6be9d8d3f564621780e458c4a785b709", null ]
+    [ "GuildBankSetTabText", "d2/d51/a11155.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d2/d51/a11155.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d2/d51/a11155.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d2/d51/a11155.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

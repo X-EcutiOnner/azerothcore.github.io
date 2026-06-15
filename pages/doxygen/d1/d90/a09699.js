@@ -1,7 +1,8 @@
 var a09699 =
 [
-    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d1/d90/a09699.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
-    [ "operator()", "d1/d90/a09699.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
-    [ "_go", "d1/d90/a09699.html#a70e0b15948cf34a7c759885949560dcd", null ],
-    [ "_range", "d1/d90/a09699.html#ad91342e50833e3b9d75c5e548248941f", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d1/d90/a09699.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "d1/d90/a09699.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "d1/d90/a09699.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "d1/d90/a09699.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "d1/d90/a09699.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

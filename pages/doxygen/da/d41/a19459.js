@@ -1,7 +1,7 @@
 var a19459 =
 [
-    [ "npc_alexstrasza", "da/d41/a19459.html#a38c68ff4e0ba73218ff18c8bf95c8d4c", null ],
-    [ "AttackStart", "da/d41/a19459.html#ab47f439968b7e9358158eae3e31f4e29", null ],
-    [ "MoveInLineOfSight", "da/d41/a19459.html#acadf7b1ff63e266fd1f6eeaf533f9514", null ],
-    [ "UpdateAI", "da/d41/a19459.html#aec1c93eee408ecefbceec22be4b90dba", null ]
+    [ "OnPeriodic", "da/d41/a19459.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "da/d41/a19459.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "da/d41/a19459.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "da/d41/a19459.html#a54cfed486827216817adb740efa6646e", null ]
 ];

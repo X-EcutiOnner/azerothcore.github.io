@@ -1,5 +1,7 @@
 var a23547 =
 [
-    [ "npc_telonicus", "d4/d1a/a23547.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "d4/d1a/a23547.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "CastQuill", "d4/d1a/a23547.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d4/d1a/a23547.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d4/d1a/a23547.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d4/d1a/a23547.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

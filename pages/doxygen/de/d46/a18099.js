@@ -1,6 +1,6 @@
 var a18099 =
 [
-    [ "FilterTargets", "de/d46/a18099.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "de/d46/a18099.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "de/d46/a18099.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "npc_vengeful_shadeAI", "d7/d4d/a18103.html", "d7/d4d/a18103" ],
+    [ "npc_vengeful_shade", "de/d46/a18099.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
+    [ "GetAI", "de/d46/a18099.html#afa2c672015b43d83bd55050ed020f7e5", null ]
 ];

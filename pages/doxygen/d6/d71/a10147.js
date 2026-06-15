@@ -1,9 +1,8 @@
 var a10147 =
 [
-    [ "MapUpdateRequest", "d6/d71/a10147.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d6/d71/a10147.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d6/d71/a10147.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d6/d71/a10147.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d6/d71/a10147.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d6/d71/a10147.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "BoundaryUnionBoundary", "d6/d71/a10147.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d6/d71/a10147.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d6/d71/a10147.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d6/d71/a10147.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d6/d71/a10147.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

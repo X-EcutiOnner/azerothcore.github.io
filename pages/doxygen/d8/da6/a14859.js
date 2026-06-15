@@ -1,5 +1,5 @@
 var a14859 =
 [
-    [ "achievement_pb_pilgrims_peril", "d8/da6/a14859.html#a9516eab18d7e1401a5637913d8ec9595", null ],
-    [ "OnCheck", "d8/da6/a14859.html#a78c92eab532448080c1d28dc8fcabaca", null ]
+    [ "go_pumpkin_shrine", "d8/da6/a14859.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d8/da6/a14859.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

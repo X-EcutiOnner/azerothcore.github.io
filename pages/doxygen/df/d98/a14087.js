@@ -1,12 +1,8 @@
 var a14087 =
 [
-    [ "npc_tapoke_slim_jahnAI", "df/d98/a14087.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "df/d98/a14087.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "df/d98/a14087.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "df/d98/a14087.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "df/d98/a14087.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "df/d98/a14087.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "df/d98/a14087.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "WaypointReached", "df/d98/a14087.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IsFriendSummoned", "df/d98/a14087.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_deathstalker_erlandAI", "df/d98/a14087.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "df/d98/a14087.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "df/d98/a14087.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "df/d98/a14087.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
+    [ "WaypointReached", "df/d98/a14087.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

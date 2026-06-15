@@ -1,5 +1,9 @@
 var a09159 =
 [
-    [ "Visit", "dc/da4/a09159.html#aa0f56809b23b117bde869576ddaa9dbd", null ],
-    [ "Visit", "dc/da4/a09159.html#afab06305b5b3568b93d07f80efd616ae", null ]
+    [ "TransportBase", "dc/da4/a09159.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "dc/da4/a09159.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "dc/da4/a09159.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "dc/da4/a09159.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "dc/da4/a09159.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "dc/da4/a09159.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

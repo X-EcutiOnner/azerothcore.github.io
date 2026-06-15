@@ -1,12 +1,6 @@
 var a11479 =
 [
-    [ "PacketLog", "de/d86/a11479.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "de/d86/a11479.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "de/d86/a11479.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "de/d86/a11479.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "de/d86/a11479.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "de/d86/a11479.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "de/d86/a11479.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "de/d86/a11479.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "de/d86/a11479.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "NameQuery", "de/d86/a11479.html#a7dc5a2dceb475303db4b4ab0c0a6d23c", null ],
+    [ "Read", "de/d86/a11479.html#ae4a16ebe5372214d3aec65b056a9426e", null ],
+    [ "Guid", "de/d86/a11479.html#a52528a68f1c86196e7428f196f93d12b", null ]
 ];

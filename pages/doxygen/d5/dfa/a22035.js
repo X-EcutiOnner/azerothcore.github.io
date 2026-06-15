@@ -1,6 +1,6 @@
 var a22035 =
 [
-    [ "HandleScript", "d5/dfa/a22035.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d5/dfa/a22035.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d5/dfa/a22035.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "npc_freed_protodrakeAI", "d2/daf/a22039.html", "d2/daf/a22039" ],
+    [ "npc_freed_protodrake", "d5/dfa/a22035.html#a56e33e186800efa3fb86ca6a614e3b0b", null ],
+    [ "GetAI", "d5/dfa/a22035.html#a9680bf65cb97327396f58c297df1c8f5", null ]
 ];

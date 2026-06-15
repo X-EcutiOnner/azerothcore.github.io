@@ -1,5 +1,10 @@
 var a18395 =
 [
-    [ "FrozenThroneResetWorker", "d7/d79/a18395.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "d7/d79/a18395.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "CountTargets", "d7/d79/a18395.html#a042c3f2ee73533b397a2d697d1da6563", null ],
+    [ "HandleDummy", "d7/d79/a18395.html#ab314680d5349c0c3e449694b92ab7311", null ],
+    [ "Load", "d7/d79/a18395.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
+    [ "PrepareSpellScript", "d7/d79/a18395.html#a8b831c01cd9fd997279f6a81170786de", null ],
+    [ "Register", "d7/d79/a18395.html#ab0d87ba23eb252075cb0779b06813a31", null ],
+    [ "SelectDest", "d7/d79/a18395.html#a6061486d0067af51c8ef079224ea63f1", null ],
+    [ "_targetCount", "d7/d79/a18395.html#a58f839370a885c450e6742cbb3116784", null ]
 ];

@@ -1,6 +1,6 @@
 var a21431 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
-    [ "npc_conversing_with_the_depths_trigger", "d6/d30/a21431.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d6/d30/a21431.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
+    [ "npc_steam_powered_auctioneer", "d6/d30/a21431.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "d6/d30/a21431.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

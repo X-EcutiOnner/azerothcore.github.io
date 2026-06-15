@@ -1,7 +1,5 @@
 var a13331 =
 [
-    [ "OnApply", "df/dba/a13331.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "df/dba/a13331.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "df/dba/a13331.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "df/dba/a13331.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "boss_ellris_duskhallow", "df/dba/a13331.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
+    [ "JustEngagedWith", "df/dba/a13331.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
 ];

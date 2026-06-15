@@ -1,7 +1,5 @@
 var a18455 =
 [
-    [ "HandleScript", "d1/d71/a18455.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
-    [ "PrepareSpellScript", "d1/d71/a18455.html#a598baad08c685bba54ad5306e0d521b4", null ],
-    [ "Register", "d1/d71/a18455.html#a471bac09c68708daefe6a39f283caa4c", null ],
-    [ "Validate", "d1/d71/a18455.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
+    [ "achievement_all_you_can_eat", "d1/d71/a18455.html#a0995024862a445ea1f0ff5c82475fc64", null ],
+    [ "OnCheck", "d1/d71/a18455.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
 ];

@@ -1,17 +1,16 @@
 var a04640 =
 [
-    [ "FormatArgs", "d9/d32/a04640.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
-    [ "FormatString", "d9/d32/a04640.html#a32c972cafca136b88de5b298d6cba338", null ],
-    [ "FormatStringView", "d9/d32/a04640.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
-    [ "AddSuffixIfNotExists", "d9/d32/a04640.html#a712bea71ec99d750664fd46c690a1ad9", null ],
-    [ "format_as", "d9/d32/a04640.html#aaa7f21af5991452196a22cd79e127825", null ],
-    [ "IsFormatEmptyOrNull", "d9/d32/a04640.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
-    [ "IsFormatEmptyOrNull", "d9/d32/a04640.html#a84459e91f517fc4f79414cc23370b9f1", null ],
-    [ "MakeFormatArgs", "d9/d32/a04640.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
-    [ "StringFormat", "d9/d32/a04640.html#a1b97349dfcb88c6974882d7e34c55895", null ],
-    [ "StringFormatTo", "d9/d32/a04640.html#a7c53f407c3169d5a97d012ca3470880d", null ],
-    [ "StringVFormat", "d9/d32/a04640.html#acc68f8d815604ae13c370c09fbb60efd", null ],
-    [ "StringVFormatTo", "d9/d32/a04640.html#a17112c1b25595793b63f24de06f90081", null ],
-    [ "Trim", "d9/d32/a04640.html#a3213c569cd380bda3b76fe3f730899ff", null ],
-    [ "TrimRightInPlace", "d9/d32/a04640.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
+    [ "Acore::CheckedBufferOutputIterator< T >", "d9/dd4/a05755.html", "d9/dd4/a05755" ],
+    [ "AddressOrSelf", "d9/d32/a04640.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
+    [ "AddressOrSelf", "d9/d32/a04640.html#aa676a34e943f3ea366194be6f31da865", null ],
+    [ "EraseIf", "d9/d32/a04640.html#a7821713bb3723db62da8a4d0e3711407", null ],
+    [ "MapGetValuePtr", "d9/d32/a04640.html#a288324cfca487d8ecc2eab8a6014c513", null ],
+    [ "MultimapErasePair", "d9/d32/a04640.html#a965e5e257e71e0d1a8c708fbd00867a7", null ],
+    [ "RandomResize", "d9/d32/a04640.html#a356dc36492769fc1473e5f5214bd6a11", null ],
+    [ "RandomResize", "d9/d32/a04640.html#ad8b2c621f5a22f8ae253a1c9733794b9", null ],
+    [ "RandomShuffle", "d9/d32/a04640.html#a4585a27b1f592547062d7bc039cff3b4", null ],
+    [ "SelectRandomContainerElement", "d9/d32/a04640.html#a8ca673d18562735d4ed20a11519b3d46", null ],
+    [ "SelectRandomContainerElementIf", "d9/d32/a04640.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86", null ],
+    [ "SelectRandomWeightedContainerElement", "d9/d32/a04640.html#a4e1de71c76e525a6fdf4c76b0d09c94b", null ],
+    [ "SelectRandomWeightedContainerElement", "d9/d32/a04640.html#a220cb6c43559036273f478f15d047eb9", null ]
 ];

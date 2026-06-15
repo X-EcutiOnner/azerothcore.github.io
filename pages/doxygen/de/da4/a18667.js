@@ -1,7 +1,6 @@
 var a18667 =
 [
-    [ "AuraRemoveEvent", "de/da4/a18667.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "de/da4/a18667.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "de/da4/a18667.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "de/da4/a18667.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "ModDest", "de/da4/a18667.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "de/da4/a18667.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "de/da4/a18667.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

@@ -1,6 +1,7 @@
 var a17739 =
 [
-    [ "Cooldown", "dd/d3f/a17739.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "dd/d3f/a17739.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "dd/d3f/a17739.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "OnProc", "dd/d3f/a17739.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "dd/d3f/a17739.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "dd/d3f/a17739.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "dd/d3f/a17739.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

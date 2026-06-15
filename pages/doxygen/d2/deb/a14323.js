@@ -1,10 +1,12 @@
 var a14323 =
 [
-    [ "npc_batrider", "d2/deb/a14323.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d2/deb/a14323.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d2/deb/a14323.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d2/deb/a14323.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d2/deb/a14323.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d2/deb/a14323.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d2/deb/a14323.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_forest_frog", "d2/deb/a14323.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "d2/deb/a14323.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "d2/deb/a14323.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "d2/deb/a14323.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "d2/deb/a14323.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "d2/deb/a14323.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "d2/deb/a14323.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "d2/deb/a14323.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "d2/deb/a14323.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

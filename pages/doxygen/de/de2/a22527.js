@@ -1,10 +1,7 @@
 var a22527 =
 [
-    [ "boss_illidari_council", "de/de2/a22527.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "de/de2/a22527.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "de/de2/a22527.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "de/de2/a22527.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "de/de2/a22527.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "de/de2/a22527.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "de/de2/a22527.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "HandleDummy", "de/de2/a22527.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "de/de2/a22527.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "de/de2/a22527.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "de/de2/a22527.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

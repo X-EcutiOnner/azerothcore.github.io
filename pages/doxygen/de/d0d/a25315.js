@@ -1,7 +1,8 @@
 var a25315 =
 [
-    [ "HandleProc", "de/d0d/a25315.html#a107d4e1650c6044b60ab711b01c607f6", null ],
-    [ "PrepareAuraScript", "de/d0d/a25315.html#ad14fb132bbbcb7d378521530372a5a7c", null ],
-    [ "Register", "de/d0d/a25315.html#ad49679e2b6966ddcd70bb48c44927bad", null ],
-    [ "Validate", "de/d0d/a25315.html#adfd2e27d6f40356bfacf7cad424e7e4d", null ]
+    [ "CheckProc", "de/d0d/a25315.html#a15a781accded2e018cbf306e7a129eb9", null ],
+    [ "HandleProc", "de/d0d/a25315.html#ad818c89e7d351b5528e4fd8b99c65cc2", null ],
+    [ "PrepareAuraScript", "de/d0d/a25315.html#ab64670a7714248d9bfb52d96cf7a6c70", null ],
+    [ "Register", "de/d0d/a25315.html#a4ed5d197b1d62bec0fec20f8cce90b7a", null ],
+    [ "Validate", "de/d0d/a25315.html#a0185b616c63a3e9c20495b1c89ec6c68", null ]
 ];

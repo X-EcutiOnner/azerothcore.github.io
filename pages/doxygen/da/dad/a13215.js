@@ -1,6 +1,8 @@
 var a13215 =
 [
-    [ "npc_scarlet_ghoulAI", "df/d91/a13219.html", "df/d91/a13219" ],
-    [ "npc_scarlet_ghoul", "da/dad/a13215.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "da/dad/a13215.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "npc_tito", "da/dad/a13215.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "da/dad/a13215.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "da/dad/a13215.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "da/dad/a13215.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "da/dad/a13215.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

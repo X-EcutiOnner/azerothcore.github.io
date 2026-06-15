@@ -1,8 +1,5 @@
 var a05118 =
 [
-    [ "GmVisibleCommandTest", "d0/da8/a29422.html", "d0/da8/a29422" ],
-    [ "TestPlayer", "d8/dc6/a29418.html", "d8/dc6/a29418" ],
-    [ "TestVisibilityScript", "d5/d1d/a29414.html", "d5/d1d/a29414" ],
-    [ "TEST_F", "d5/d87/a05118.html#ab69ef1935950dc8de0cefd60510d681d", null ],
-    [ "TEST_F", "d5/d87/a05118.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
+    [ "InitWorldStates", "d6/dda/a11575.html", "d6/dda/a11575" ],
+    [ "UpdateWorldState", "d6/d0f/a11583.html", "d6/d0f/a11583" ]
 ];

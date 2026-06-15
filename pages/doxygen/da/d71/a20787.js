@@ -1,6 +1,11 @@
 var a20787 =
 [
-    [ "HandleEffectPeriodic", "da/d71/a20787.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "da/d71/a20787.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "da/d71/a20787.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "boss_yoggsaron_llane", "da/d71/a20787.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "da/d71/a20787.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "da/d71/a20787.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "da/d71/a20787.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "da/d71/a20787.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "da/d71/a20787.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "da/d71/a20787.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "da/d71/a20787.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

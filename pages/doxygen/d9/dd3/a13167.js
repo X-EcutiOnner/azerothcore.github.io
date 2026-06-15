@@ -1,5 +1,6 @@
 var a13167 =
 [
-    [ "boss_warlord_salaris", "d9/dd3/a13167.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
-    [ "JustEngagedWith", "d9/dd3/a13167.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
+    [ "npc_sanguine_spirit", "d9/dd3/a13167.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "d9/dd3/a13167.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "d9/dd3/a13167.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

@@ -1,12 +1,7 @@
 var a06203 =
 [
-    [ "TotemAI", "d4/d7a/a06203.html#ad57f973e52d22f45b5171faeb28f2e91", null ],
-    [ "AttackStart", "d4/d7a/a06203.html#aa5bb81b51ec79a4328016cca34363880", null ],
-    [ "DoAction", "d4/d7a/a06203.html#a9457dae982b3c1d411aa42ff2f30feac", null ],
-    [ "EnterEvadeMode", "d4/d7a/a06203.html#acd8ed4528ac7c16182a0470e49b422f6", null ],
-    [ "MoveInLineOfSight", "d4/d7a/a06203.html#a796d05b45b4ba4dc23f04897fc2ce253", null ],
-    [ "Permissible", "d4/d7a/a06203.html#a75a0cdb27da98b47cf3ccbd2e594cd18", null ],
-    [ "SpellHit", "d4/d7a/a06203.html#a7a5fc1dc37708fab628bc78bb28575be", null ],
-    [ "UpdateAI", "d4/d7a/a06203.html#a2b5b3c8bb51d83bfa8f3474a868fcb19", null ],
-    [ "i_victimGuid", "d4/d7a/a06203.html#ae651f8f7a02261c1a0e37a6c7ddde4be", null ]
+    [ "TransactionWithResultTask", "d4/d7a/a06203.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d4/d7a/a06203.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d4/d7a/a06203.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d4/d7a/a06203.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

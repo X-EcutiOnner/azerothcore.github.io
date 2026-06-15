@@ -1,6 +1,6 @@
 var a22791 =
 [
-    [ "HandleProc", "d7/da7/a22791.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d7/da7/a22791.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d7/da7/a22791.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "instance_black_temple_InstanceMapScript", "dd/d8f/a22795.html", "dd/d8f/a22795" ],
+    [ "instance_black_temple", "d7/da7/a22791.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d7/da7/a22791.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

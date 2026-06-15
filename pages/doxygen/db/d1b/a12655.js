@@ -1,10 +1,6 @@
 var a12655 =
 [
-    [ "npc_corrupted_totem", "db/d1b/a12655.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
-    [ "IsSummonedBy", "db/d1b/a12655.html#ae8314903c9006b7bca94a47115a0d05b", null ],
-    [ "JustDied", "db/d1b/a12655.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
-    [ "Reset", "db/d1b/a12655.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
-    [ "SetAura", "db/d1b/a12655.html#a509688befda49f789f77ee0e4170a74e", null ],
-    [ "UpdateAI", "db/d1b/a12655.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
-    [ "_auraAdded", "db/d1b/a12655.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
+    [ "RestoreAttack", "db/d1b/a12655.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "db/d1b/a12655.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "db/d1b/a12655.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

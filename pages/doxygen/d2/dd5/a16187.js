@@ -1,6 +1,6 @@
 var a16187 =
 [
-    [ "PrepareSpellScript", "d2/dd5/a16187.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "d2/dd5/a16187.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "d2/dd5/a16187.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "npc_sergeant_blyAI", "d4/daf/a16191.html", "d4/daf/a16191" ],
+    [ "npc_sergeant_bly", "d2/dd5/a16187.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "d2/dd5/a16187.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

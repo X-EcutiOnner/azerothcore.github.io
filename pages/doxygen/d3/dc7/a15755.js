@@ -1,7 +1,6 @@
 var a15755 =
 [
-    [ "HandleDummy", "d3/dc7/a15755.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "d3/dc7/a15755.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "d3/dc7/a15755.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "d3/dc7/a15755.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_injured_draeneiAI", "dc/dab/a15759.html", "dc/dab/a15759" ],
+    [ "npc_injured_draenei", "d3/dc7/a15755.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
+    [ "GetAI", "d3/dc7/a15755.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
 ];

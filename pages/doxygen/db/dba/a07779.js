@@ -1,4 +1,10 @@
 var a07779 =
 [
-    [ "AllianceChannelMgr", "db/dba/a07779.html#a7d90a6a0d987ac461668642c9ecfb619", null ]
+    [ "BattlegroundRL", "db/dba/a07779.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "db/dba/a07779.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
+    [ "HandleAreaTrigger", "db/dba/a07779.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "db/dba/a07779.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "db/dba/a07779.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "db/dba/a07779.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "db/dba/a07779.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

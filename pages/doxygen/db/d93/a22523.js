@@ -1,7 +1,7 @@
 var a22523 =
 [
-    [ "VerasEnvenom", "db/d93/a22523.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "db/d93/a22523.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "db/d93/a22523.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "db/d93/a22523.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "HandleEffectRemove", "db/d93/a22523.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "db/d93/a22523.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "db/d93/a22523.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "db/d93/a22523.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

@@ -1,6 +1,9 @@
 var a20671 =
 [
-    [ "FilterTargets", "d4/d55/a20671.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d4/d55/a20671.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d4/d55/a20671.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "npc_xt002_scrapbot", "d4/d55/a20671.html#a0c7270ccbac5c12af8aaec998408046f", null ],
+    [ "JustDied", "d4/d55/a20671.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
+    [ "MovementInform", "d4/d55/a20671.html#a7c167b396927f73736531b53056bc262", null ],
+    [ "Reset", "d4/d55/a20671.html#aa9753f72910da1bb56a090e77fc029fb", null ],
+    [ "UpdateAI", "d4/d55/a20671.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
+    [ "_locked", "d4/d55/a20671.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
 ];

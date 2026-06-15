@@ -1,6 +1,6 @@
 var a15459 =
 [
-    [ "FilterTargets", "df/d7e/a15459.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
-    [ "PrepareSpellScript", "df/d7e/a15459.html#a32b0be74a9127f920e22aa03c910a005", null ],
-    [ "Register", "df/d7e/a15459.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
+    [ "HandleScript", "df/d7e/a15459.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "df/d7e/a15459.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "df/d7e/a15459.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

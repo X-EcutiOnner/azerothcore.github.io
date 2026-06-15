@@ -1,6 +1,6 @@
 var a15731 =
 [
-    [ "npc_tiger_matriarchAI", "d4/d3e/a15735.html", "d4/d3e/a15735" ],
-    [ "npc_tiger_matriarch", "dc/df8/a15731.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "dc/df8/a15731.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d4/d3e/a15735.html", "d4/d3e/a15735" ],
+    [ "instance_wailing_caverns", "dc/df8/a15731.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "dc/df8/a15731.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

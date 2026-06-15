@@ -1,9 +1,7 @@
 var a14923 =
 [
-    [ "npc_ancient_wisp", "d1/dd3/a14923.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d1/dd3/a14923.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d1/dd3/a14923.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d1/dd3/a14923.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d1/dd3/a14923.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d1/dd3/a14923.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "HandleEffectApply", "d1/dd3/a14923.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "d1/dd3/a14923.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "d1/dd3/a14923.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "d1/dd3/a14923.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

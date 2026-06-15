@@ -1,10 +1,5 @@
 var a23751 =
 [
-    [ "npc_wounded_blood_elfAI", "d5/db6/a23751.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d5/db6/a23751.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d5/db6/a23751.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d5/db6/a23751.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d5/db6/a23751.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d5/db6/a23751.html#a5affcb00e28a582f8926ab2226001cd0", null ],
-    [ "WaypointReached", "d5/db6/a23751.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "go_simon_cluster", "d5/db6/a23751.html#adac53a8451abd6ace227a66afc7e61e8", null ],
+    [ "OnGossipHello", "d5/db6/a23751.html#a9fd9799604de44c91803511c45b67786", null ]
 ];

@@ -1,7 +1,6 @@
 var a23459 =
 [
-    [ "HandleCast", "df/d82/a23459.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "df/d82/a23459.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "df/d82/a23459.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "df/d82/a23459.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "npc_warden_mellicharAI", "dd/d13/a23463.html", "dd/d13/a23463" ],
+    [ "npc_warden_mellichar", "df/d82/a23459.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "df/d82/a23459.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

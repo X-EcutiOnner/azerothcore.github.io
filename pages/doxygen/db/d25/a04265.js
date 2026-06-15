@@ -1,14 +1,6 @@
 var a04265 =
 [
-    [ "Acore::Runnable", "da/dff/a05696.html", "da/dff/a05696" ],
-    [ "Acore::Thread", "dd/dd5/a05700.html", "dd/dd5/a05700" ],
-    [ "Priority", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0", [
-      [ "Priority_Idle", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0a6540dbe098806722de7130f0cf978d24", null ],
-      [ "Priority_Lowest", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0a2c1092f67a3addf9410ac00e8a8f62b0", null ],
-      [ "Priority_Low", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0a726dc1791c20e19bbdb47763ffec6cc8", null ],
-      [ "Priority_Normal", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0a9724af5d135432316625274c94d9d53c", null ],
-      [ "Priority_High", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
-      [ "Priority_Highest", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
-      [ "Priority_Realtime", "db/d25/a04265.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
-    ] ]
+    [ "DatabaseWorkerPool< T >", "dc/d72/a06019.html", "dc/d72/a06019" ],
+    [ "MIN_MYSQL_CLIENT_VERSION", "db/d25/a04265.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
+    [ "MIN_MYSQL_SERVER_VERSION", "db/d25/a04265.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
 ];

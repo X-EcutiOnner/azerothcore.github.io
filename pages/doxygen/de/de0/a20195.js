@@ -1,7 +1,5 @@
 var a20195 =
 [
-    [ "HandleEffectPeriodic", "de/de0/a20195.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "de/de0/a20195.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "de/de0/a20195.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "de/de0/a20195.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "achievement_flame_leviathan_unbroken", "de/de0/a20195.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "de/de0/a20195.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

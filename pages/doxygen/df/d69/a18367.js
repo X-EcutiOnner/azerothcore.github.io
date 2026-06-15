@@ -1,8 +1,7 @@
 var a18367 =
 [
-    [ "FilterTargets", "df/d69/a18367.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "df/d69/a18367.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "df/d69/a18367.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "df/d69/a18367.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "df/d69/a18367.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "FrostBombExplosion", "df/d69/a18367.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "df/d69/a18367.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "df/d69/a18367.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "df/d69/a18367.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

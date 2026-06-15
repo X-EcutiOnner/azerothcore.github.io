@@ -1,12 +1,6 @@
 var a04793 =
 [
-    [ "anonymous_namespace{PoolQuestReloadTest.cpp}::PoolQuestReloadTest", "da/ddc/a29476.html", "da/ddc/a29476" ],
-    [ "PoolQuestReloadFixTest", "d3/d26/a29480.html", "d3/d26/a29480" ],
-    [ "TEST_F", "df/dc6/a04793.html#a3536d0c27abb116492165d7ab3dcaaaf", null ],
-    [ "TEST_F", "df/dc6/a04793.html#ae965ec2c5a54532198d25c78231d7888", null ],
-    [ "TEST_F", "df/dc6/a04793.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
-    [ "TEST_F", "df/dc6/a04793.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
-    [ "TEST_F", "df/dc6/a04793.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
-    [ "TEST_CREATURE_ID", "df/dc6/a04793.html#a9d99cbff2ccde67787a3c4448497f949", null ],
-    [ "TEST_QUEST_ID", "df/dc6/a04793.html#acd85c89c48bf6aa262bd81ed03493826", null ]
+    [ "SetupLibrariesForWindows", "df/dc6/a04793.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "df/dc6/a04793.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "df/dc6/a04793.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

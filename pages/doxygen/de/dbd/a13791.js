@@ -1,14 +1,8 @@
 var a13791 =
 [
-    [ "instance_uldaman_InstanceMapScript", "de/dbd/a13791.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "de/dbd/a13791.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "de/dbd/a13791.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "de/dbd/a13791.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "de/dbd/a13791.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "de/dbd/a13791.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "de/dbd/a13791.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "de/dbd/a13791.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "de/dbd/a13791.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "de/dbd/a13791.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "de/dbd/a13791.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "CheckCast", "de/dbd/a13791.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "de/dbd/a13791.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "de/dbd/a13791.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "de/dbd/a13791.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "de/dbd/a13791.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

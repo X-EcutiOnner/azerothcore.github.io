@@ -1,12 +1,12 @@
 var a07675 =
 [
-    [ "CapturePointInfo", "db/d70/a07675.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "db/d70/a07675.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "db/d70/a07675.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "db/d70/a07675.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "db/d70/a07675.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "db/d70/a07675.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "db/d70/a07675.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "db/d70/a07675.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "db/d70/a07675.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "BGQueueInviteEvent", "db/d70/a07675.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "db/d70/a07675.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "db/d70/a07675.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "db/d70/a07675.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "db/d70/a07675.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "db/d70/a07675.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "db/d70/a07675.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "db/d70/a07675.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "db/d70/a07675.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

@@ -1,6 +1,6 @@
 var a22739 =
 [
-    [ "HandleSchoolDamage", "d1/dcc/a22739.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "d1/dcc/a22739.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "d1/dcc/a22739.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d1/dcc/a22739.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d1/dcc/a22739.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d1/dcc/a22739.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

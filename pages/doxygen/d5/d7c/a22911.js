@@ -1,6 +1,6 @@
 var a22911 =
 [
-    [ "HandleDummy", "d5/d7c/a22911.html#a3347413822ce083085bcf1418fbdbae2", null ],
-    [ "PrepareSpellScript", "d5/d7c/a22911.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
-    [ "Register", "d5/d7c/a22911.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
+    [ "HandleEffectApply", "d5/d7c/a22911.html#adbfce9b247a8a36d143243955372dc91", null ],
+    [ "PrepareAuraScript", "d5/d7c/a22911.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
+    [ "Register", "d5/d7c/a22911.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
 ];

@@ -1,8 +1,10 @@
 var a13131 =
 [
-    [ "CheckProc", "d3/df1/a13131.html#a085f6affd2bf76fe66f9023e67725848", null ],
-    [ "HandleProc", "d3/df1/a13131.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
-    [ "PrepareAuraScript", "d3/df1/a13131.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
-    [ "Register", "d3/df1/a13131.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
-    [ "Validate", "d3/df1/a13131.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
+    [ "npc_netherspite_infernal", "d3/df1/a13131.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d3/df1/a13131.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d3/df1/a13131.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d3/df1/a13131.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d3/df1/a13131.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d3/df1/a13131.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d3/df1/a13131.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

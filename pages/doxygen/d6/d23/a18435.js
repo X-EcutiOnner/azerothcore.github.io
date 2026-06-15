@@ -1,6 +1,9 @@
 var a18435 =
 [
-    [ "npc_tirion_fordringAI", "dd/d02/a18439.html", "dd/d02/a18439" ],
-    [ "npc_tirion_fordring_tft", "d6/d23/a18435.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d6/d23/a18435.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "FilterTargets", "d6/d23/a18435.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d6/d23/a18435.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d6/d23/a18435.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d6/d23/a18435.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d6/d23/a18435.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d6/d23/a18435.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

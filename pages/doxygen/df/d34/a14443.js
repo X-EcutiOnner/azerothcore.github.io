@@ -1,6 +1,7 @@
 var a14443 =
 [
-    [ "instance_zulgurub_InstanceMapScript", "d1/db5/a14447.html", "d1/db5/a14447" ],
-    [ "instance_zulgurub", "df/d34/a14443.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
-    [ "GetInstanceScript", "df/d34/a14443.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
+    [ "OnRemove", "df/d34/a14443.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "df/d34/a14443.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "df/d34/a14443.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "df/d34/a14443.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

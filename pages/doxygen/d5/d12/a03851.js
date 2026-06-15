@@ -1,6 +1,17 @@
 var a03851 =
 [
-    [ "GetWeatherData", "d5/d12/a03851.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
-    [ "LoadWeatherData", "d5/d12/a03851.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
-    [ "_weatherData", "d5/d12/a03851.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
+    [ "Petition", "d2/db8/a10523.html", "d2/db8/a10523" ],
+    [ "Signatures", "dd/db3/a10527.html", "dd/db3/a10527" ],
+    [ "PetitionMgr", "d4/d0a/a10531.html", "d4/d0a/a10531" ],
+    [ "CHARTER_DISPLAY_ID", "d5/d12/a03851.html#a33856c1d078b61fa0516a63176297c49", null ],
+    [ "sPetitionMgr", "d5/d12/a03851.html#a2910b9c8b8c58925b562acf66b3e46d2", null ],
+    [ "PetitionContainer", "d5/d12/a03851.html#a223a8d1b8f865a0d4e8f100758e36bce", null ],
+    [ "SignatureContainer", "d5/d12/a03851.html#a541d3cf929662ff3a4ab97f63d54b16f", null ],
+    [ "SignatureMap", "d5/d12/a03851.html#a52c6b38c9d018efa6f8a95153a0eb2b5", null ],
+    [ "CharterItemIDs", "d5/d12/a03851.html#acec0915ab4c4246cd1eda0ddd63d47bb", [
+      [ "GUILD_CHARTER", "d5/d12/a03851.html#acec0915ab4c4246cd1eda0ddd63d47bba2e6b069055001141f4bee95616a7720d", null ],
+      [ "ARENA_TEAM_CHARTER_2v2", "d5/d12/a03851.html#acec0915ab4c4246cd1eda0ddd63d47bba2f39a42139b3361ca2547f4c3c517e27", null ],
+      [ "ARENA_TEAM_CHARTER_3v3", "d5/d12/a03851.html#acec0915ab4c4246cd1eda0ddd63d47bbac155da3886ba50a00694a0b600855470", null ],
+      [ "ARENA_TEAM_CHARTER_5v5", "d5/d12/a03851.html#acec0915ab4c4246cd1eda0ddd63d47bba3d4ede0990919580bc749e110995dc37", null ]
+    ] ]
 ];

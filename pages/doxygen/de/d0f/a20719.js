@@ -1,7 +1,5 @@
 var a20719 =
 [
-    [ "HandleScriptEffect", "de/d0f/a20719.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "de/d0f/a20719.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "de/d0f/a20719.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "de/d0f/a20719.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "achievement_xt002_nerf_gravity_bombs", "de/d0f/a20719.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
+    [ "OnCheck", "de/d0f/a20719.html#a03f61470694399ab32aea354cd697771", null ]
 ];

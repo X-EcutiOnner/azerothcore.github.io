@@ -1,7 +1,6 @@
 var a16675 =
 [
-    [ "HandleAfterHit", "d3/d23/a16675.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "d3/d23/a16675.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "d3/d23/a16675.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "d3/d23/a16675.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "boss_black_knightAI", "d0/d25/a16679.html", "d0/d25/a16679" ],
+    [ "boss_black_knight", "d3/d23/a16675.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d3/d23/a16675.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

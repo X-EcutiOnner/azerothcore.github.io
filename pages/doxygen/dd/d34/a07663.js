@@ -1,10 +1,20 @@
 var a07663 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "dd/d34/a07663.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "dd/d34/a07663.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "dd/d34/a07663.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "dd/d34/a07663.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "dd/d34/a07663.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "dd/d34/a07663.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "dd/d34/a07663.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "ArenaMatchmakerRating", "dd/d34/a07663.html#aebaba68d0d75e08eb909975d70ab7084", null ],
+    [ "ArenaTeamId", "dd/d34/a07663.html#a62d4963600711b2476d6de964fc51f5e", null ],
+    [ "ArenaTeamRating", "dd/d34/a07663.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
+    [ "ArenaType", "dd/d34/a07663.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
+    [ "BgTypeId", "dd/d34/a07663.html#aad98458292aca41fc7feb2e63ba5125f", null ],
+    [ "BracketId", "dd/d34/a07663.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
+    [ "GroupType", "dd/d34/a07663.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
+    [ "IsInvitedToBGInstanceGUID", "dd/d34/a07663.html#a0261df1066e01602f475e9a08e142883", null ],
+    [ "IsRated", "dd/d34/a07663.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
+    [ "JoinTime", "dd/d34/a07663.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
+    [ "OpponentsMatchmakerRating", "dd/d34/a07663.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
+    [ "OpponentsTeamRating", "dd/d34/a07663.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
+    [ "Players", "dd/d34/a07663.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
+    [ "PreviousOpponentsTeamId", "dd/d34/a07663.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
+    [ "RealTeamID", "dd/d34/a07663.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
+    [ "RemoveInviteTime", "dd/d34/a07663.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
+    [ "teamId", "dd/d34/a07663.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
 ];

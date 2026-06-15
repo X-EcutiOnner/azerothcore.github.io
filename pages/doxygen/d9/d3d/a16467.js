@@ -1,6 +1,5 @@
 var a16467 =
 [
-    [ "HandleHealPct", "d9/d3d/a16467.html#ad13b3924815ac3da7902c8292a760943", null ],
-    [ "PrepareSpellScript", "d9/d3d/a16467.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
-    [ "Register", "d9/d3d/a16467.html#a3016c31c072d6417bbe47c2891059718", null ]
+    [ "at_baltharus_plateau", "d9/d3d/a16467.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d9/d3d/a16467.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

@@ -1,11 +1,11 @@
 var a21127 =
 [
-    [ "npc_vh_void_sentryAI", "dd/ddb/a21127.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "dd/ddb/a21127.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "dd/ddb/a21127.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "dd/ddb/a21127.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "dd/ddb/a21127.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "dd/ddb/a21127.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "dd/ddb/a21127.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "dd/ddb/a21127.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "boss_archavonAI", "dd/ddb/a21127.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "dd/ddb/a21127.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "dd/ddb/a21127.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "dd/ddb/a21127.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "dd/ddb/a21127.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "dd/ddb/a21127.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "dd/ddb/a21127.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "dd/ddb/a21127.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

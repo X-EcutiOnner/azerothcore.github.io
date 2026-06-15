@@ -1,7 +1,6 @@
 var a16767 =
 [
-    [ "npc_toc_dkAI", "d4/dcb/a16767.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "d4/dcb/a16767.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "d4/dcb/a16767.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "d4/dcb/a16767.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_frost_sphereAI", "d9/d19/a16771.html", "d9/d19/a16771" ],
+    [ "npc_frost_sphere", "d4/dcb/a16767.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d4/dcb/a16767.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

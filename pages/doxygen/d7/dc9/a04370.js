@@ -1,4 +1,4 @@
 var a04370 =
 [
-    [ "Logger", "dc/d02/a05648.html", "dc/d02/a05648" ]
+    [ "UpdateFetcher::DirectoryEntry", "d6/d4a/a06227.html", "d6/d4a/a06227" ]
 ];

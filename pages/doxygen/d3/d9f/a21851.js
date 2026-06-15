@@ -1,18 +1,16 @@
 var a21851 =
 [
-    [ "npc_blessed_bannerAI", "d3/d9f/a21851.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "d3/d9f/a21851.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "d3/d9f/a21851.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "d3/d9f/a21851.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "d3/d9f/a21851.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "d3/d9f/a21851.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "d3/d9f/a21851.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "d3/d9f/a21851.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "d3/d9f/a21851.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "d3/d9f/a21851.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "d3/d9f/a21851.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "d3/d9f/a21851.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "d3/d9f/a21851.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "d3/d9f/a21851.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "d3/d9f/a21851.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_tirions_gambit_tirionAI", "d3/d9f/a21851.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d3/d9f/a21851.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d3/d9f/a21851.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d3/d9f/a21851.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d3/d9f/a21851.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d3/d9f/a21851.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d3/d9f/a21851.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d3/d9f/a21851.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d3/d9f/a21851.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "WaypointReached", "d3/d9f/a21851.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_eventOver", "d3/d9f/a21851.html#ac3505c2a8d55afa351543def3e8839de", null ],
+    [ "events", "d3/d9f/a21851.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d3/d9f/a21851.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

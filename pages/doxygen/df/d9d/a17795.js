@@ -1,6 +1,7 @@
 var a17795 =
 [
-    [ "npc_igb_ship_crewAI", "df/d9d/a17795.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "df/d9d/a17795.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "df/d9d/a17795.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "HandleDummy", "df/d9d/a17795.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "df/d9d/a17795.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "df/d9d/a17795.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "df/d9d/a17795.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

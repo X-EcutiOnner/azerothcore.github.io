@@ -1,7 +1,6 @@
 var a18091 =
 [
-    [ "HandleTriggerSpell", "d9/dc0/a18091.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d9/dc0/a18091.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d9/dc0/a18091.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d9/dc0/a18091.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "npc_cult_adherentAI", "d9/da2/a18095.html", "d9/da2/a18095" ],
+    [ "npc_cult_adherent", "d9/dc0/a18091.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "d9/dc0/a18091.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

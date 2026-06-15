@@ -1,9 +1,7 @@
 var a26015 =
 [
-    [ "CheckCaster", "d0/d86/a26015.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
-    [ "OnApply", "d0/d86/a26015.html#a34e2585c500c5975d6549cd1b7602b18", null ],
-    [ "OnRemove", "d0/d86/a26015.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
-    [ "PrepareAuraScript", "d0/d86/a26015.html#ad905a91348b92007774c69467c24d40e", null ],
-    [ "Register", "d0/d86/a26015.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
-    [ "Validate", "d0/d86/a26015.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
+    [ "HandleDummy", "d0/d86/a26015.html#a4dde221fa768ef5c6b99c981969f35fe", null ],
+    [ "PrepareSpellScript", "d0/d86/a26015.html#a85333c5f493b70037bcc1a1d42e97e9c", null ],
+    [ "Register", "d0/d86/a26015.html#acfafbf43e12f72131e58434051dcc510", null ],
+    [ "Validate", "d0/d86/a26015.html#a73458b57dc107b3215cf5d44567d330f", null ]
 ];

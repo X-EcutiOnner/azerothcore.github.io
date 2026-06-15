@@ -1,5 +1,11 @@
 var a14719 =
 [
-    [ "go_pumpkin_shrine", "da/ddc/a14719.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "da/ddc/a14719.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "npc_winterfin_playmate", "da/ddc/a14719.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
+    [ "MoveInLineOfSight", "da/ddc/a14719.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
+    [ "Reset", "da/ddc/a14719.html#aae6b51c22dc0448608c1cf9412565e25", null ],
+    [ "UpdateAI", "da/ddc/a14719.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
+    [ "orphanGUID", "da/ddc/a14719.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
+    [ "phase", "da/ddc/a14719.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
+    [ "playerGUID", "da/ddc/a14719.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
+    [ "timer", "da/ddc/a14719.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
 ];

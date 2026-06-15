@@ -1,8 +1,8 @@
 var a15123 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d6/d17/a15127.html", "d6/d17/a15127" ],
-    [ "npc_thrall_old_hillsbrad", "d9/d97/a15123.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d9/d97/a15123.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d9/d97/a15123.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d9/d97/a15123.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "hyjalThrallAI", "d9/d97/a15123.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d9/d97/a15123.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d9/d97/a15123.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d9/d97/a15123.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d9/d97/a15123.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

@@ -1,8 +1,5 @@
 var a10527 =
 [
-    [ "AllCommandScript", "dd/db3/a10527.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "dd/db3/a10527.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "dd/db3/a10527.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "dd/db3/a10527.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "dd/db3/a10527.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "petitionGuid", "dd/db3/a10527.html#adafc1020d722bd3885429041ce9a292c", null ],
+    [ "signatureMap", "dd/db3/a10527.html#a70bd865a5b11ffc0ceed08b683548b42", null ]
 ];

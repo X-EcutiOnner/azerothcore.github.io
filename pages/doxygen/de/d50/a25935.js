@@ -1,5 +1,6 @@
 var a25935 =
 [
-    [ "PrepareSpellScript", "de/d50/a25935.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
-    [ "Register", "de/d50/a25935.html#afc19789732c46589dca40d46cdb12d9e", null ]
+    [ "CheckProc", "de/d50/a25935.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "de/d50/a25935.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "de/d50/a25935.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

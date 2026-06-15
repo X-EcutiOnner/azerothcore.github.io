@@ -1,6 +1,6 @@
 var a18171 =
 [
-    [ "boss_rotfaceAI", "d5/d6c/a18175.html", "d5/d6c/a18175" ],
-    [ "boss_rotface", "df/d67/a18171.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "df/d67/a18171.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "AbominationDespawner", "df/d67/a18171.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "df/d67/a18171.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "df/d67/a18171.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

@@ -1,7 +1,11 @@
 var a15275 =
 [
-    [ "HandleScript", "d8/dd3/a15275.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d8/dd3/a15275.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d8/dd3/a15275.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d8/dd3/a15275.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "npc_tarethaAI", "d8/dd3/a15275.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d8/dd3/a15275.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d8/dd3/a15275.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d8/dd3/a15275.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d8/dd3/a15275.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d8/dd3/a15275.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "WaypointReached", "d8/dd3/a15275.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "instance", "d8/dd3/a15275.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

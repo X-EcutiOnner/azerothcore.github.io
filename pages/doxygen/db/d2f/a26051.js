@@ -1,7 +1,7 @@
 var a26051 =
 [
-    [ "HandlePeriodicDummy", "db/d2f/a26051.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "db/d2f/a26051.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "db/d2f/a26051.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "db/d2f/a26051.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "AfterRemove", "db/d2f/a26051.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
+    [ "PrepareAuraScript", "db/d2f/a26051.html#a13f11ec412f18d805282b3810aff5e90", null ],
+    [ "Register", "db/d2f/a26051.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
+    [ "Validate", "db/d2f/a26051.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
 ];

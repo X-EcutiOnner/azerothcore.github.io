@@ -1,5 +1,6 @@
 var a06011 =
 [
-    [ "Subject", "d8/d4e/a06011.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
-    [ "Text", "d8/d4e/a06011.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
+    [ "Append", "d8/d4e/a06011.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "d8/d4e/a06011.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d8/d4e/a06011.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

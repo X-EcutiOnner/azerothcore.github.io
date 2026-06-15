@@ -1,7 +1,15 @@
 var a19631 =
 [
-    [ "Apply", "d5/d78/a19631.html#add8e95d38b0c437833c11cded72fe2a7", null ],
-    [ "PrepareAuraScript", "d5/d78/a19631.html#ad2112b571d97e537983b4d11207015e6", null ],
-    [ "Register", "d5/d78/a19631.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
-    [ "Validate", "d5/d78/a19631.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
+    [ "boss_anomalus", "d5/d78/a19631.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d5/d78/a19631.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d5/d78/a19631.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d5/d78/a19631.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d5/d78/a19631.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d5/d78/a19631.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d5/d78/a19631.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d5/d78/a19631.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d5/d78/a19631.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "_empowered", "d5/d78/a19631.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
+    [ "achievement", "d5/d78/a19631.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d5/d78/a19631.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

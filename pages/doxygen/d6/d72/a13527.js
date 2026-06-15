@@ -1,6 +1,6 @@
 var a13527 =
 [
-    [ "HandleActivateObject", "d6/d72/a13527.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d6/d72/a13527.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d6/d72/a13527.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "boss_kirtonos_the_heraldAI", "d4/d41/a13531.html", "d4/d41/a13531" ],
+    [ "boss_kirtonos_the_herald", "d6/d72/a13527.html#a0e81153a0da7910cda4c9b6d32544318", null ],
+    [ "GetAI", "d6/d72/a13527.html#aa5e0fe2386aae52fd53ff309282db652", null ]
 ];

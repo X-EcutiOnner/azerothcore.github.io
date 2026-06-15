@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/CascadeProcSuppressionTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Metric/Metric.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,95 +106,258 @@ $(document).ready(function(){initNavTree('d4/d72/a04841.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">CascadeProcSuppressionTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">Metric.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><a class="el" href="../../d9/ddc/a09092.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS.  
-<a href="#details">More...</a></p>
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfoTestHelper.h</a>&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MPSCQueue.h</a>&quot;</code><br />
+<code>#include &lt;boost/asio/steady_timer.hpp&gt;</code><br />
+<code>#include &lt;functional&gt;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;unordered_map&gt;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dda/a05667.html">MetricData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d71/a05671.html">Metric</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d02/a29500.html">CascadeProcRealSpellTest</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d44/a05675.html">MetricStopWatch&lt; LoggerType &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d3/d40/a05040"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d40/a05040.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:dd/d13/a05041"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d13/a05041.html">Acore::Asio</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a4e89926204845a9c9e315d6f0abec5ef"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>&#160;&#160;&#160;<a class="el" href="../../d4/d71/a05671.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td></tr>
+<tr class="separator:a4e89926204845a9c9e315d6f0abec5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(name,  value)&#160;&#160;&#160;{ name, value }</td></tr>
+<tr class="separator:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa861206b38b55c4f39f1ed649defb338"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a,  b)&#160;&#160;&#160;a##b</td></tr>
+<tr class="separator:aa861206b38b55c4f39f1ed649defb338"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad81585df46d4cee988a1222012dbabf1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(a,  b)&#160;&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td></tr>
+<tr class="separator:ad81585df46d4cee988a1222012dbabf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf91483a75eca0531263536ce38d9339"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(name)&#160;&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td></tr>
+<tr class="separator:adf91483a75eca0531263536ce38d9339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad57573999508dbc7a2c953379996b542"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a>(category,  title,  description)</td></tr>
+<tr class="separator:ad57573999508dbc7a2c953379996b542"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92aedc832ddfc479ecc61289f12be449"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a92aedc832ddfc479ecc61289f12be449">METRIC_VALUE</a>(category,  value, ...)</td></tr>
+<tr class="separator:a92aedc832ddfc479ecc61289f12be449"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad88ae7d281622a32a700443aa3dc51f9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ad88ae7d281622a32a700443aa3dc51f9">METRIC_TIMER</a>(category, ...)</td></tr>
+<tr class="separator:ad88ae7d281622a32a700443aa3dc51f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac782d1c3265f7b707782545777d49d05"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ac782d1c3265f7b707782545777d49d05">METRIC_DETAILED_EVENT</a>(category,  title,  description)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:ac782d1c3265f7b707782545777d49d05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a22dcbf78f0d280a4b2b4e0662034efe9">METRIC_DETAILED_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a281633f6f8b252d96029ce8fd29da746"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a281633f6f8b252d96029ce8fd29da746">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
+<tr class="separator:a281633f6f8b252d96029ce8fd29da746"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td></tr>
+<tr class="separator:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a>
+<br />
+ }</td></tr>
+<tr class="separator:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af2c476b9074527e551bb3e269ab0e14a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#af2c476b9074527e551bb3e269ab0e14a">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, NormalSpellNormalAura_NotSuppressed)</td></tr>
-<tr class="separator:af2c476b9074527e551bb3e269ab0e14a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a1d712040cde4f4fc1498c86d1a8c1a2c">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_NormalAura_Suppressed)</td></tr>
-<tr class="separator:a1d712040cde4f4fc1498c86d1a8c1a2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ab78bd7e3715bc34e2a980043d6ac2cae">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, ProcDisabledSpell_WithAttr_Suppressed)</td></tr>
-<tr class="separator:ab78bd7e3715bc34e2a980043d6ac2cae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a111eadd5b4ba536e22a70ee1ac1a8010">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, NormalSpell_AuraWithAttr_Suppressed)</td></tr>
-<tr class="separator:a111eadd5b4ba536e22a70ee1ac1a8010"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ae7f0c3a70baa5f99f17ebd2079eec6d6">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, SpellInfo_WithAttr_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:ae7f0c3a70baa5f99f17ebd2079eec6d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a16cd6603e2c42c8fb68258736fe6daf1">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, SpellInfo_WithoutAttr_HasAttributeReturnsFalse)</td></tr>
-<tr class="separator:a16cd6603e2c42c8fb68258736fe6daf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#acdeb87fc2a70920a25f69077f5b9f3bc">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, SpellInfo_WithMixedBits_HasAttributeReturnsTrue)</td></tr>
-<tr class="separator:acdeb87fc2a70920a25f69077f5b9f3bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af27813ec1b49f5d720e19dabde2474bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#af27813ec1b49f5d720e19dabde2474bf">TEST_P</a> (<a class="el" href="../../d4/d02/a29500.html">CascadeProcRealSpellTest</a>, VerifySuppressionForRealSpell)</td></tr>
-<tr class="separator:af27813ec1b49f5d720e19dabde2474bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a567300126c458aa8f2a67a6b61cfe64b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a567300126c458aa8f2a67a6b61cfe64b">INSTANTIATE_TEST_SUITE_P</a> (CascadeProcSuppression, <a class="el" href="../../d4/d02/a29500.html">CascadeProcRealSpellTest</a>, ::testing::Values(<a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false}), [](testing::TestParamInfo&lt; <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;})</td></tr>
-<tr class="separator:a567300126c458aa8f2a67a6b61cfe64b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a0fa51afabb656e204b564ca6fb0edc9c">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, BothFlagsSet_StillSuppressed)</td></tr>
-<tr class="separator:a0fa51afabb656e204b564ca6fb0edc9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a693bf0209a8095129fc2244a0684ad9f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#a693bf0209a8095129fc2244a0684ad9f">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, OnlyOuterFlag_Suppressed)</td></tr>
-<tr class="separator:a693bf0209a8095129fc2244a0684ad9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa63b24064ef385ae513247b6228bc97d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#aa63b24064ef385ae513247b6228bc97d">TEST_F</a> (<a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>, OnlyPerAuraFlag_Suppressed)</td></tr>
-<tr class="separator:aa63b24064ef385ae513247b6228bc97d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplParams" colspan="2">template&lt;typename LoggerType &gt; </td></tr>
+<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d2/d44/a05675.html">MetricStopWatch</a>&lt; LoggerType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a> (LoggerType &amp;&amp;loggerFunc)</td></tr>
+<tr class="separator:ab339934305abce426aa1d43c99d65e9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p ><a class="el" href="../../d9/ddc/a09092.html">Unit</a> tests for cascade proc suppression via SPELL_ATTR3_INSTANT_TARGET_PROCS. </p>
-<p >Tests the logic from <a class="el" href="../../de/d8c/a02747.html">Unit.cpp</a> TriggerAurasProcOnEvent:</p><ul>
-<li>Outer check: <a class="el" href="../../d0/d91/a11708.html#a56a6c8f6b797c49a06e33ee3e017712e">Spell::IsProcDisabled()</a> (TRIGGERED_DISALLOW_PROC_EVENTS) suppresses all cascade procs</li>
-<li>Per-aura check: SPELL_ATTR3_INSTANT_TARGET_PROCS (0x80000) suppresses cascade for that aura</li>
-<li>Normal spells/auras without these flags allow cascading</li>
-<li>Both flags set simultaneously still suppresses correctly </li>
-</ul>
-
-<p class="definition">Definition in file <a class="el" href="../../">CascadeProcSuppressionTest.cpp</a>.</p>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="a567300126c458aa8f2a67a6b61cfe64b" name="a567300126c458aa8f2a67a6b61cfe64b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a567300126c458aa8f2a67a6b61cfe64b">&#9670;&#160;</a></span>INSTANTIATE_TEST_SUITE_P()</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="ad81585df46d4cee988a1222012dbabf1" name="ad81585df46d4cee988a1222012dbabf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad81585df46d4cee988a1222012dbabf1">&#9670;&#160;</a></span>METRIC_CONCAT</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">INSTANTIATE_TEST_SUITE_P </td>
+          <td class="memname">#define METRIC_CONCAT</td>
           <td>(</td>
-          <td class="paramtype">CascadeProcSuppression&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">a, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d02/a29500.html">CascadeProcRealSpellTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">b&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac782d1c3265f7b707782545777d49d05" name="ac782d1c3265f7b707782545777d49d05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac782d1c3265f7b707782545777d49d05">&#9670;&#160;</a></span>METRIC_DETAILED_EVENT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_EVENT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">::testing::Values(<a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Seal Fate&quot;, 14195, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Sword Specialization&quot;, 12281, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Reckoning&quot;, 20178, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Flurry&quot;, 16257, true}, <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a>{&quot;Eviscerate&quot;, 26865, false})&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">title, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">[] (testing::TestParamInfo&lt; <a class="el" href="../../d1/dfc/a29496.html">RealSpellTestCase</a> &gt; const &amp;info) { std::string name=info.param.name;std::replace(name.begin(), name.end(), ' ', '_');return name;}&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">description&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a281633f6f8b252d96029ce8fd29da746" name="a281633f6f8b252d96029ce8fd29da746"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a281633f6f8b252d96029ce8fd29da746">&#9670;&#160;</a></span>METRIC_DETAILED_NO_THRESHOLD_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_NO_THRESHOLD_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a22dcbf78f0d280a4b2b4e0662034efe9" name="a22dcbf78f0d280a4b2b4e0662034efe9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a22dcbf78f0d280a4b2b4e0662034efe9">&#9670;&#160;</a></span>METRIC_DETAILED_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DETAILED_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;((void)0)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa861206b38b55c4f39f1ed649defb338" name="aa861206b38b55c4f39f1ed649defb338"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa861206b38b55c4f39f1ed649defb338">&#9670;&#160;</a></span>METRIC_DO_CONCAT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_DO_CONCAT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">a, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">b&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;a##b</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad57573999508dbc7a2c953379996b542" name="ad57573999508dbc7a2c953379996b542"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad57573999508dbc7a2c953379996b542">&#9670;&#160;</a></span>METRIC_EVENT</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_EVENT</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">title, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">description&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -203,63 +366,62 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0fa51afabb656e204b564ca6fb0edc9c" name="a0fa51afabb656e204b564ca6fb0edc9c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0fa51afabb656e204b564ca6fb0edc9c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">BothFlagsSet_StillSuppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  192</span>{</div>
-<div class="line"><span class="lineno">  193</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  194</span> </div>
-<div class="line"><span class="lineno">  195</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  196</span>        &lt;&lt; <span class="stringliteral">&quot;Both IsProcDisabled and INSTANT_TARGET_PROCS set should still suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  197</span>}</div>
-<div class="ttc" id="aa29224_html_ac0bc4afe7ed1254af740a59add4e9e85"><div class="ttname"><a href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a></div><div class="ttdeci">static bool ShouldSuppressCascadingProc(CascadeProcConfig const &amp;config)</div><div class="ttdoc">Returns true if cascading procs should be suppressed for this aura.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:518</div></div>
+<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
+<div class="line">        __pragma(warning(disable:4127))                                \</div>
+<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
+<div class="line">            if (<a class="code hl_define" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
+<div class="line">                <a class="code hl_define" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogEvent(category, title, description);       \</div>
+<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
+<div class="line">        __pragma(warning(pop))</div>
+<div class="ttc" id="aa04841_html_a4e89926204845a9c9e315d6f0abec5ef"><div class="ttname"><a href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a></div><div class="ttdeci">#define sMetric</div><div class="ttdef"><b>Definition:</b> Metric.h:134</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
 </div>
 </div>
-<a id="a111eadd5b4ba536e22a70ee1ac1a8010" name="a111eadd5b4ba536e22a70ee1ac1a8010"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a111eadd5b4ba536e22a70ee1ac1a8010">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/10]</span></h2>
+<a id="ab81b5769123c1e5e3870b9b05f25fe0a" name="ab81b5769123c1e5e3870b9b05f25fe0a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab81b5769123c1e5e3870b9b05f25fe0a">&#9670;&#160;</a></span>METRIC_TAG</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">#define METRIC_TAG</td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">name, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpell_AuraWithAttr_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">value&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;{ name, value }</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad88ae7d281622a32a700443aa3dc51f9" name="ad88ae7d281622a32a700443aa3dc51f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad88ae7d281622a32a700443aa3dc51f9">&#9670;&#160;</a></span>METRIC_TIMER</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_TIMER</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -268,34 +430,58 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
-<div class="line"><span class="lineno">   86</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   89</span>        &lt;&lt; <span class="stringliteral">&quot;Aura with SPELL_ATTR3_INSTANT_TARGET_PROCS should suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   90</span>}</div>
+<b>Value:</b><div class="fragment"><div class="line">        <a class="code hl_class" href="../../d2/d44/a05675.html">MetricStopWatch</a> <a class="code hl_define" href="../../d4/d72/a04841.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(__ac_metric_stop_watch) = <a class="code hl_function" href="../../d4/d72/a04841.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a>([&amp;](<a class="code hl_typedef" href="../../d0/d5e/a04655.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> start) \</div>
+<div class="line">        {                                                                                                        \</div>
+<div class="line">            <a class="code hl_define" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, std::chrono::steady_clock::now() - start, { __VA_ARGS__ });              \</div>
+<div class="line">        });</div>
+<div class="ttc" id="aa04655_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d0/d5e/a04655.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
+<div class="ttc" id="aa04841_html_ab339934305abce426aa1d43c99d65e9f"><div class="ttname"><a href="../../d4/d72/a04841.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a></div><div class="ttdeci">MetricStopWatch&lt; LoggerType &gt; MakeMetricStopWatch(LoggerType &amp;&amp;loggerFunc)</div><div class="ttdef"><b>Definition:</b> Metric.h:158</div></div>
+<div class="ttc" id="aa04841_html_adf91483a75eca0531263536ce38d9339"><div class="ttname"><a href="../../d4/d72/a04841.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a></div><div class="ttdeci">#define METRIC_UNIQUE_NAME(name)</div><div class="ttdef"><b>Definition:</b> Metric.h:167</div></div>
+<div class="ttc" id="aa05675_html"><div class="ttname"><a href="../../d2/d44/a05675.html">MetricStopWatch</a></div><div class="ttdef"><b>Definition:</b> Metric.h:138</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
 </div>
 </div>
-<a id="af2c476b9074527e551bb3e269ab0e14a" name="af2c476b9074527e551bb3e269ab0e14a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2c476b9074527e551bb3e269ab0e14a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/10]</span></h2>
+<a id="adf91483a75eca0531263536ce38d9339" name="adf91483a75eca0531263536ce38d9339"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf91483a75eca0531263536ce38d9339">&#9670;&#160;</a></span>METRIC_UNIQUE_NAME</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">#define METRIC_UNIQUE_NAME</td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">name</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../d4/d72/a04841.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a92aedc832ddfc479ecc61289f12be449" name="a92aedc832ddfc479ecc61289f12be449"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a92aedc832ddfc479ecc61289f12be449">&#9670;&#160;</a></span>METRIC_VALUE</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define METRIC_VALUE</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">category, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">NormalSpellNormalAura_NotSuppressed&#160;</td>
-          <td class="paramname">&#160;</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">value, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>...</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -304,336 +490,92 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   57</span>        &lt;&lt; <span class="stringliteral">&quot;Normal spell + normal aura should not suppress cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   58</span>}</div>
+<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
+<div class="line">        __pragma(warning(disable:4127))                                \</div>
+<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
+<div class="line">            if (<a class="code hl_define" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
+<div class="line">                <a class="code hl_define" href="../../d4/d72/a04841.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, value, { __VA_ARGS__ });   \</div>
+<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
+<div class="line">        __pragma(warning(pop))</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
 </div>
 </div>
-<a id="a693bf0209a8095129fc2244a0684ad9f" name="a693bf0209a8095129fc2244a0684ad9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a693bf0209a8095129fc2244a0684ad9f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/10]</span></h2>
+<a id="a4e89926204845a9c9e315d6f0abec5ef" name="a4e89926204845a9c9e315d6f0abec5ef"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e89926204845a9c9e315d6f0abec5ef">&#9670;&#160;</a></span>sMetric</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyOuterFlag_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">#define sMetric&#160;&#160;&#160;<a class="el" href="../../d4/d71/a05671.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  200</span>{</div>
-<div class="line"><span class="lineno">  201</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  202</span> </div>
-<div class="line"><span class="lineno">  203</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  204</span>        &lt;&lt; <span class="stringliteral">&quot;Only IsProcDisabled should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  205</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
 
 </div>
 </div>
-<a id="aa63b24064ef385ae513247b6228bc97d" name="aa63b24064ef385ae513247b6228bc97d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa63b24064ef385ae513247b6228bc97d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/10]</span></h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a8fdc9a93c03faef11e4c36679e79e3f1" name="a8fdc9a93c03faef11e4c36679e79e3f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8fdc9a93c03faef11e4c36679e79e3f1">&#9670;&#160;</a></span>MetricTag</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">OnlyPerAuraFlag_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">typedef std::pair&lt;std::string, std::string&gt; <a class="el" href="../../d4/d72/a04841.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
-<div class="line"><span class="lineno">  209</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">false</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  210</span> </div>
-<div class="line"><span class="lineno">  211</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">  212</span>        &lt;&lt; <span class="stringliteral">&quot;Only INSTANT_TARGET_PROCS should be sufficient to suppress&quot;</span>;</div>
-<div class="line"><span class="lineno">  213</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
 
 </div>
 </div>
-<a id="a1d712040cde4f4fc1498c86d1a8c1a2c" name="a1d712040cde4f4fc1498c86d1a8c1a2c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d712040cde4f4fc1498c86d1a8c1a2c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/10]</span></h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a0bb9cc086e32544cb0e43338f83d8e62" name="a0bb9cc086e32544cb0e43338f83d8e62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0bb9cc086e32544cb0e43338f83d8e62">&#9670;&#160;</a></span>MetricDataType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">ProcDisabledSpell_NormalAura_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">enum <a class="el" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   69</span>        &lt;&lt; <span class="stringliteral">&quot;Triggered spell with DISALLOW_PROC_EVENTS should suppress all cascading procs&quot;</span>;</div>
-<div class="line"><span class="lineno">   70</span>}</div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155" name="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"></a>METRIC_DATA_VALUE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2" name="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"></a>METRIC_DATA_EVENT&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div>
+<div class="line"><span class="lineno">   40</span>};</div>
+<div class="ttc" id="aa04841_html_a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"><div class="ttname"><a href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div><div class="ttdeci">@ METRIC_DATA_EVENT</div><div class="ttdef"><b>Definition:</b> Metric.h:39</div></div>
+<div class="ttc" id="aa04841_html_a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"><div class="ttname"><a href="../../d4/d72/a04841.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a></div><div class="ttdeci">@ METRIC_DATA_VALUE</div><div class="ttdef"><b>Definition:</b> Metric.h:38</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
 </div>
 </div>
-<a id="ab78bd7e3715bc34e2a980043d6ac2cae" name="ab78bd7e3715bc34e2a980043d6ac2cae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab78bd7e3715bc34e2a980043d6ac2cae">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/10]</span></h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ab339934305abce426aa1d43c99d65e9f" name="ab339934305abce426aa1d43c99d65e9f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab339934305abce426aa1d43c99d65e9f">&#9670;&#160;</a></span>MakeMetricStopWatch()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename LoggerType &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname"><a class="el" href="../../d2/d44/a05675.html">MetricStopWatch</a>&lt; LoggerType &gt; MakeMetricStopWatch </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">LoggerType &amp;&amp;&#160;</td>
+          <td class="paramname"><em>loggerFunc</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">ProcDisabledSpell_WithAttr_Suppressed&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   73</span>{</div>
-<div class="line"><span class="lineno">   74</span>    <span class="keyword">auto</span> config = MakeConfig(<span class="keyword">true</span>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config))</div>
-<div class="line"><span class="lineno">   77</span>        &lt;&lt; <span class="stringliteral">&quot;Both flags set should still suppress (double-suppress doesn&#39;t break)&quot;</span>;</div>
-<div class="line"><span class="lineno">   78</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
+<div class="line"><span class="lineno">  160</span>    <span class="keywordflow">return</span> { std::forward&lt;LoggerType&gt;(loggerFunc) };</div>
+<div class="line"><span class="lineno">  161</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>.</p>
-
-</div>
-</div>
-<a id="ae7f0c3a70baa5f99f17ebd2079eec6d6" name="ae7f0c3a70baa5f99f17ebd2079eec6d6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7f0c3a70baa5f99f17ebd2079eec6d6">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SpellInfo_WithAttr_HasAttributeReturnsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d2/de4/a29284.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">   99</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99001)</div>
-<div class="line"><span class="lineno">  100</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(<a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>)</div>
-<div class="line"><span class="lineno">  101</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  104</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0x80000 should report HasAttribute true&quot;</span>;</div>
-<div class="line"><span class="lineno">  105</span>}</div>
-<div class="ttc" id="aa04043_html_a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9"><div class="ttname"><a href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a></div><div class="ttdeci">@ SPELL_ATTR3_INSTANT_TARGET_PROCS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:500</div></div>
-<div class="ttc" id="aa29284_html"><div class="ttname"><a href="../../d2/de4/a29284.html">SpellInfoBuilder</a></div><div class="ttdoc">Builder class for creating SpellInfo test instances.</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:160</div></div>
-<div class="ttc" id="aa29284_html_a1f23f2372b8fd2e7ce8e6aad99868892"><div class="ttname"><a href="../../d2/de4/a29284.html#a1f23f2372b8fd2e7ce8e6aad99868892">SpellInfoBuilder::WithId</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithId(uint32 id)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:164</div></div>
-<div class="ttc" id="aa29284_html_a96bd1eea56970fdc051fe3c494ee6396"><div class="ttname"><a href="../../d2/de4/a29284.html#a96bd1eea56970fdc051fe3c494ee6396">SpellInfoBuilder::BuildUnique</a></div><div class="ttdeci">std::unique_ptr&lt; SpellInfo &gt; BuildUnique()</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:256</div></div>
-<div class="ttc" id="aa29284_html_ab92a2a4b9be30a760ce90467c7dfa234"><div class="ttname"><a href="../../d2/de4/a29284.html#ab92a2a4b9be30a760ce90467c7dfa234">SpellInfoBuilder::WithAttributesEx3</a></div><div class="ttdeci">SpellInfoBuilder &amp; WithAttributesEx3(uint32 attr)</div><div class="ttdef"><b>Definition:</b> SpellInfoTestHelper.h:212</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
-
-</div>
-</div>
-<a id="acdeb87fc2a70920a25f69077f5b9f3bc" name="acdeb87fc2a70920a25f69077f5b9f3bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acdeb87fc2a70920a25f69077f5b9f3bc">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SpellInfo_WithMixedBits_HasAttributeReturnsTrue&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>{</div>
-<div class="line"><span class="lineno">  120</span>    <span class="comment">// 0x80001 = SPELL_ATTR3_INSTANT_TARGET_PROCS | SPELL_ATTR3_PVP_ENABLING (bit 0)</span></div>
-<div class="line"><span class="lineno">  121</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d2/de4/a29284.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  122</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99003)</div>
-<div class="line"><span class="lineno">  123</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0x00080001)</div>
-<div class="line"><span class="lineno">  124</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    EXPECT_TRUE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  127</span>        &lt;&lt; <span class="stringliteral">&quot;Other bits in AttributesEx3 should not interfere with attribute detection&quot;</span>;</div>
-<div class="line"><span class="lineno">  128</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
-
-</div>
-</div>
-<a id="a16cd6603e2c42c8fb68258736fe6daf1" name="a16cd6603e2c42c8fb68258736fe6daf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16cd6603e2c42c8fb68258736fe6daf1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/10]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../df/dd3/a29492.html">CascadeProcSuppressionTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SpellInfo_WithoutAttr_HasAttributeReturnsFalse&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  108</span>{</div>
-<div class="line"><span class="lineno">  109</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d2/de4/a29284.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  110</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(99002)</div>
-<div class="line"><span class="lineno">  111</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(0)</div>
-<div class="line"><span class="lineno">  112</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  113</span> </div>
-<div class="line"><span class="lineno">  114</span>    EXPECT_FALSE(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>))</div>
-<div class="line"><span class="lineno">  115</span>        &lt;&lt; <span class="stringliteral">&quot;SpellInfo built with 0 should report HasAttribute false&quot;</span>;</div>
-<div class="line"><span class="lineno">  116</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
-
-</div>
-</div>
-<a id="af27813ec1b49f5d720e19dabde2474bf" name="af27813ec1b49f5d720e19dabde2474bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af27813ec1b49f5d720e19dabde2474bf">&#9670;&#160;</a></span>TEST_P()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_P </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d02/a29500.html">CascadeProcRealSpellTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">VerifySuppressionForRealSpell&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keyword">auto</span> <span class="keyword">const</span>&amp; tc = GetParam();</div>
-<div class="line"><span class="lineno">  147</span> </div>
-<div class="line"><span class="lineno">  148</span>    <span class="comment">// Build a SpellInfo mimicking the real spell&#39;s AttributesEx3</span></div>
-<div class="line"><span class="lineno">  149</span>    <span class="keyword">auto</span> spellInfo = <a class="code hl_class" href="../../d2/de4/a29284.html">SpellInfoBuilder</a>()</div>
-<div class="line"><span class="lineno">  150</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a1f23f2372b8fd2e7ce8e6aad99868892">WithId</a>(tc.spellId)</div>
-<div class="line"><span class="lineno">  151</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#ab92a2a4b9be30a760ce90467c7dfa234">WithAttributesEx3</a>(tc.hasAttr ? <a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a> : 0)</div>
-<div class="line"><span class="lineno">  152</span>        .<a class="code hl_function" href="../../d2/de4/a29284.html#a96bd1eea56970fdc051fe3c494ee6396">BuildUnique</a>();</div>
-<div class="line"><span class="lineno">  153</span> </div>
-<div class="line"><span class="lineno">  154</span>    <span class="comment">// Verify attribute detection matches expectation</span></div>
-<div class="line"><span class="lineno">  155</span>    EXPECT_EQ(spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d6/dae/a04043.html#a6f95d0d447e8085b1097ac9965af2a81a8dd8792fbeeb9870bfc4285d5df29ab9">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  156</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) attribute detection mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>    <span class="comment">// Verify cascade suppression matches attribute presence</span></div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_struct" href="../../d7/d19/a29244.html">ProcChanceTestHelper::CascadeProcConfig</a> config;</div>
-<div class="line"><span class="lineno">  160</span>    config.<a class="code hl_variable" href="../../d7/d19/a29244.html#a38c3523c80d30ed10b8c3b5e19c083f6">triggeringSpellIsProcDisabled</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  161</span>    config.<a class="code hl_variable" href="../../d7/d19/a29244.html#aec81d4f80c7cb7749f860601c9e5aac8">auraHasDisableProcAttr</a> = tc.hasAttr;</div>
-<div class="line"><span class="lineno">  162</span> </div>
-<div class="line"><span class="lineno">  163</span>    EXPECT_EQ(<a class="code hl_function" href="../../d0/d41/a29224.html#ac0bc4afe7ed1254af740a59add4e9e85">ProcChanceTestHelper::ShouldSuppressCascadingProc</a>(config), tc.hasAttr)</div>
-<div class="line"><span class="lineno">  164</span>        &lt;&lt; tc.name &lt;&lt; <span class="stringliteral">&quot; (spell &quot;</span> &lt;&lt; tc.spellId &lt;&lt; <span class="stringliteral">&quot;) cascade suppression mismatch&quot;</span>;</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-<div class="ttc" id="aa29244_html"><div class="ttname"><a href="../../d7/d19/a29244.html">ProcChanceTestHelper::CascadeProcConfig</a></div><div class="ttdoc">Configuration for simulating cascade proc suppression.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:507</div></div>
-<div class="ttc" id="aa29244_html_a38c3523c80d30ed10b8c3b5e19c083f6"><div class="ttname"><a href="../../d7/d19/a29244.html#a38c3523c80d30ed10b8c3b5e19c083f6">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a></div><div class="ttdeci">bool triggeringSpellIsProcDisabled</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:508</div></div>
-<div class="ttc" id="aa29244_html_aec81d4f80c7cb7749f860601c9e5aac8"><div class="ttname"><a href="../../d7/d19/a29244.html#aec81d4f80c7cb7749f860601c9e5aac8">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a></div><div class="ttdeci">bool auraHasDisableProcAttr</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:509</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00509">ProcChanceTestHelper::CascadeProcConfig::auraHasDisableProcAttr</a>, <a class="el" href="../../#l00256">SpellInfoBuilder::BuildUnique()</a>, <a class="el" href="../../#l00518">ProcChanceTestHelper::ShouldSuppressCascadingProc()</a>, <a class="el" href="../../#l00500">SPELL_ATTR3_INSTANT_TARGET_PROCS</a>, <a class="el" href="../../#l00508">ProcChanceTestHelper::CascadeProcConfig::triggeringSpellIsProcDisabled</a>, <a class="el" href="../../#l00212">SpellInfoBuilder::WithAttributesEx3()</a>, and <a class="el" href="../../#l00164">SpellInfoBuilder::WithId()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -641,8 +583,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../d4/d72/a04841.html">CascadeProcSuppressionTest.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:14:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html">Metric</a></li><li class="navelem"><a class="el" href="../../d4/d72/a04841.html">Metric.h</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:37:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

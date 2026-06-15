@@ -1,15 +1,10 @@
 var a08399 =
 [
-    [ "Guardian", "d4/d5f/a08399.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
-    [ "GetDebugInfo", "d4/d5f/a08399.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "d4/d5f/a08399.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "d4/d5f/a08399.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "d4/d5f/a08399.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "d4/d5f/a08399.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "d4/d5f/a08399.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "d4/d5f/a08399.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "d4/d5f/a08399.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "d4/d5f/a08399.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "d4/d5f/a08399.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "d4/d5f/a08399.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "auras", "d4/d5f/a08399.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d4/d5f/a08399.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d4/d5f/a08399.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d4/d5f/a08399.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d4/d5f/a08399.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d4/d5f/a08399.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d4/d5f/a08399.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

@@ -1,6 +1,8 @@
 var a18863 =
 [
-    [ "npc_captain_brandonAI", "d9/d2b/a18863.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "d9/d2b/a18863.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "d9/d2b/a18863.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_suppresserAI", "d9/d2b/a18863.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d9/d2b/a18863.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d9/d2b/a18863.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d9/d2b/a18863.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d9/d2b/a18863.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

@@ -1,6 +1,7 @@
 var a21143 =
 [
-    [ "npc_vh_sinclari", "df/de9/a21143.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "df/de9/a21143.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "df/de9/a21143.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "HandlePeriodicDummy", "df/de9/a21143.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "df/de9/a21143.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "df/de9/a21143.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "df/de9/a21143.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

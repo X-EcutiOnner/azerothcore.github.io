@@ -1,5 +1,6 @@
 var a22675 =
 [
-    [ "npc_ashtongue_sorcerer", "d2/d91/a22675.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d2/d91/a22675.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "boss_essence_of_angerAI", "d3/d9b/a22679.html", "d3/d9b/a22679" ],
+    [ "boss_essence_of_anger", "d2/d91/a22675.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d2/d91/a22675.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

@@ -1,8 +1,6 @@
 var a17175 =
 [
-    [ "npc_hor_raging_ghoul", "d1/dd8/a17175.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "d1/dd8/a17175.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "d1/dd8/a17175.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "d1/dd8/a17175.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "d1/dd8/a17175.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "PrepareSpellScript", "d1/dd8/a17175.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "d1/dd8/a17175.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "d1/dd8/a17175.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

@@ -1,8 +1,8 @@
 var dir_ba107d36c988375e665ec3b4fdf4148d =
 [
-    [ "boss_anzu.cpp", "dc/d25/a01406.html", "dc/d25/a01406" ],
-    [ "boss_darkweaver_syth.cpp", "dc/d35/a01400.html", "dc/d35/a01400" ],
-    [ "boss_talon_king_ikiss.cpp", "d9/d6e/a01409.html", "d9/d6e/a01409" ],
-    [ "instance_sethekk_halls.cpp", "da/d06/a01403.html", "da/d06/a01403" ],
-    [ "sethekk_halls.h", "dc/d10/a01412.html", "dc/d10/a01412" ]
+    [ "boss_anzu.cpp", "d4/d95/a00989.html", "d4/d95/a00989" ],
+    [ "boss_darkweaver_syth.cpp", "d7/d98/a00983.html", "d7/d98/a00983" ],
+    [ "boss_talon_king_ikiss.cpp", "d3/d7b/a00986.html", "d3/d7b/a00986" ],
+    [ "instance_sethekk_halls.cpp", "d7/d76/a00992.html", "d7/d76/a00992" ],
+    [ "sethekk_halls.h", "dd/d48/a00995.html", "dd/d48/a00995" ]
 ];

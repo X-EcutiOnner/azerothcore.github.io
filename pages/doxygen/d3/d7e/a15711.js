@@ -1,7 +1,8 @@
 var a15711 =
 [
-    [ "npc_cork_gizeltonAI", "df/d51/a15715.html", "df/d51/a15715" ],
-    [ "npc_cork_gizelton", "d3/d7e/a15711.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d3/d7e/a15711.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d3/d7e/a15711.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_obsidian_nullifier", "d3/d7e/a15711.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d3/d7e/a15711.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d3/d7e/a15711.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d3/d7e/a15711.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d3/d7e/a15711.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

@@ -1,5 +1,5 @@
 var a19087 =
 [
-    [ "at_icc_spire_frostwyrm", "d7/d3c/a19087.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d7/d3c/a19087.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "at_icc_start_frostwing_gauntlet", "d7/d3c/a19087.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "d7/d3c/a19087.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

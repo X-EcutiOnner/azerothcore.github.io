@@ -1,5 +1,7 @@
 var a14291 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "db/dc8/a14291.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "db/dc8/a14291.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "spell", "db/dc8/a14291.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "db/dc8/a14291.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "db/dc8/a14291.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "db/dc8/a14291.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

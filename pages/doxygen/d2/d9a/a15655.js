@@ -1,7 +1,7 @@
 var a15655 =
 [
-    [ "HandleEffectRemove", "d2/d9a/a15655.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d2/d9a/a15655.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d2/d9a/a15655.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d2/d9a/a15655.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "boss_glob_of_viscidus", "d2/d9a/a15655.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d2/d9a/a15655.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d2/d9a/a15655.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d2/d9a/a15655.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

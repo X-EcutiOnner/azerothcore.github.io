@@ -1,6 +1,7 @@
 var a06459 =
 [
-    [ "GameObjectAIFactory", "d5/ddb/a06459.html#a2f658540a81d207694b6d2d783009380", null ],
-    [ "Create", "d5/ddb/a06459.html#a94fa057baafbbad4b81b97aea34354a3", null ],
-    [ "Permit", "d5/ddb/a06459.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
+    [ "ReactorAI", "d5/ddb/a06459.html#aaea292c46945399cf7c855e642941c2d", null ],
+    [ "MoveInLineOfSight", "d5/ddb/a06459.html#a224608a62a15d679863d68d7d0e32dde", null ],
+    [ "Permissible", "d5/ddb/a06459.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
+    [ "UpdateAI", "d5/ddb/a06459.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
 ];

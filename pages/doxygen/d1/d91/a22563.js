@@ -1,7 +1,7 @@
 var a22563 =
 [
-    [ "PrepareAuraScript", "d1/d91/a22563.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d1/d91/a22563.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d1/d91/a22563.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d1/d91/a22563.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "OnPeriodic", "d1/d91/a22563.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d1/d91/a22563.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d1/d91/a22563.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d1/d91/a22563.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

@@ -1,20 +1,11 @@
 var a20911 =
 [
-    [ "boss_skadi_graufAI", "d0/d78/a20911.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "d0/d78/a20911.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "d0/d78/a20911.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "d0/d78/a20911.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "d0/d78/a20911.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "d0/d78/a20911.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "d0/d78/a20911.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "d0/d78/a20911.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "d0/d78/a20911.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "d0/d78/a20911.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "d0/d78/a20911.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "d0/d78/a20911.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "d0/d78/a20911.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "d0/d78/a20911.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "d0/d78/a20911.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "d0/d78/a20911.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "d0/d78/a20911.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "d0/d78/a20911.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "d0/d78/a20911.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "d0/d78/a20911.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "d0/d78/a20911.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "d0/d78/a20911.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "d0/d78/a20911.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "d0/d78/a20911.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "d0/d78/a20911.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

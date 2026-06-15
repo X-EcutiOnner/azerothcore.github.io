@@ -1,8 +1,8 @@
 var a11015 =
 [
-    [ "GuildBankQueryTab", "df/dc5/a11015.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "df/dc5/a11015.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "df/dc5/a11015.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "df/dc5/a11015.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "df/dc5/a11015.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildEvent", "df/dc5/a11015.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "df/dc5/a11015.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "df/dc5/a11015.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "df/dc5/a11015.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "df/dc5/a11015.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

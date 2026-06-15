@@ -1,6 +1,5 @@
 var a24195 =
 [
-    [ "FilterTargets", "db/d3c/a24195.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
-    [ "PrepareSpellScript", "db/d3c/a24195.html#aea49df3f6b93223ed72c3a9875232b74", null ],
-    [ "Register", "db/d3c/a24195.html#a8f0e0b6363303def780d35415c88b4d6", null ]
+    [ "npc_pet_pri_lightwell", "db/d3c/a24195.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
+    [ "InitializeAI", "db/d3c/a24195.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
 ];

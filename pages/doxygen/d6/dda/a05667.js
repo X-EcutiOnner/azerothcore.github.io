@@ -1,8 +1,10 @@
 var a05667 =
 [
-    [ "~Runnable", "d6/dda/a05667.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
-    [ "decReference", "d6/dda/a05667.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
-    [ "incReference", "d6/dda/a05667.html#a062323e141fa33ae094adbef16caf3d6", null ],
-    [ "run", "d6/dda/a05667.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
-    [ "m_refs", "d6/dda/a05667.html#ae047c0949843835f0b240484df01b7f8", null ]
+    [ "Category", "d6/dda/a05667.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "d6/dda/a05667.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "d6/dda/a05667.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "d6/dda/a05667.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "d6/dda/a05667.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "d6/dda/a05667.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "d6/dda/a05667.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

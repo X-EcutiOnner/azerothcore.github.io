@@ -1,8 +1,7 @@
 var a21767 =
 [
-    [ "npc_llod_genericAI", "d6/d6a/a21767.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d6/d6a/a21767.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d6/d6a/a21767.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d6/d6a/a21767.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d6/d6a/a21767.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_Apothecary_HanesAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
+    [ "npc_apothecary_hanes", "d6/d6a/a21767.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d6/d6a/a21767.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d6/d6a/a21767.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

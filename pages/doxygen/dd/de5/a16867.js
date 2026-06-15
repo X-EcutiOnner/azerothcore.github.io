@@ -1,6 +1,8 @@
 var a16867 =
 [
-    [ "boss_acidmawAI", "d1/d46/a16871.html", "d1/d46/a16871" ],
-    [ "boss_acidmaw", "dd/de5/a16867.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "dd/de5/a16867.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_toc_hunterAI", "dd/de5/a16867.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "dd/de5/a16867.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "dd/de5/a16867.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "dd/de5/a16867.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "dd/de5/a16867.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

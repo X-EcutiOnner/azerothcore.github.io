@@ -1,12 +1,8 @@
 var a05607 =
 [
-    [ "AppenderConsole", "db/de6/a05607.html#aaf770a87f2151a7e6f92087751528c68", null ],
-    [ "_write", "db/de6/a05607.html#a94e529229bd707fa2bad0a0206a386d5", null ],
-    [ "getType", "db/de6/a05607.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
-    [ "InitColors", "db/de6/a05607.html#a1a4deceeafc9a111a519ea55dc646266", null ],
-    [ "ResetColor", "db/de6/a05607.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
-    [ "SetColor", "db/de6/a05607.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
-    [ "_colored", "db/de6/a05607.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
-    [ "_colors", "db/de6/a05607.html#acdf277241cd25715e48500a15ab6bd30", null ],
-    [ "type", "db/de6/a05607.html#ab5cbc074f7d9306838974863913c8a5b", null ]
+    [ "Decode", "db/de6/a05607.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
+    [ "Encode", "db/de6/a05607.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
+    [ "BITS_PER_CHAR", "db/de6/a05607.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
+    [ "DECODE_ERROR", "db/de6/a05607.html#ace6b211be8a36043942f0a1aaee063b1", null ],
+    [ "PADDING", "db/de6/a05607.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
 ];

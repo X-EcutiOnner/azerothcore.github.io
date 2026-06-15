@@ -1,6 +1,6 @@
 var a25147 =
 [
-    [ "HandleScriptEffect", "df/d0b/a25147.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "df/d0b/a25147.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "df/d0b/a25147.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "HandleCast", "df/d0b/a25147.html#ac6f7b9650d0a55834dafb09555692243", null ],
+    [ "PrepareSpellScript", "df/d0b/a25147.html#ab3dc21aa63f0fb9202233603106eef87", null ],
+    [ "Register", "df/d0b/a25147.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
 ];

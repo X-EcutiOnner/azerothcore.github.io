@@ -1,7 +1,7 @@
 var a22727 =
 [
-    [ "HandleOnHit", "d3/de2/a22727.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d3/de2/a22727.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d3/de2/a22727.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d3/de2/a22727.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "HandleEffectApply", "d3/de2/a22727.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "d3/de2/a22727.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "d3/de2/a22727.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "d3/de2/a22727.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

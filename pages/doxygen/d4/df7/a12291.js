@@ -1,11 +1,11 @@
 var a12291 =
 [
-    [ "pooltools_commandscript", "d4/df7/a12291.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
-    [ "GetCommands", "d4/df7/a12291.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
-    [ "HandlePoolAdd", "d4/df7/a12291.html#afb113b7673dbddf804f9384fbc400d67", null ],
-    [ "HandlePoolClear", "d4/df7/a12291.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
-    [ "HandlePoolDef", "d4/df7/a12291.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
-    [ "HandlePoolEnd", "d4/df7/a12291.html#a039862a0ca89201187f4e06ce792cae8", null ],
-    [ "HandlePoolRemove", "d4/df7/a12291.html#a158f83f814cba8328dcb81f02525dcdb", null ],
-    [ "HandlePoolStart", "d4/df7/a12291.html#a13629c50653c80b949bdf80485e51d59", null ]
+    [ "bf_commandscript", "d4/df7/a12291.html#a806ca440ae1b51fffefee9d298dab3df", null ],
+    [ "GetCommands", "d4/df7/a12291.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
+    [ "HandleBattlefieldEnable", "d4/df7/a12291.html#a5d6fdbbdd77fc16aaac170d5af0ff924", null ],
+    [ "HandleBattlefieldEnd", "d4/df7/a12291.html#abe18a8f6f91de5a1984f09c711136919", null ],
+    [ "HandleBattlefieldQueue", "d4/df7/a12291.html#ab2e116060bb747e9ae9237c49b8cc2c9", null ],
+    [ "HandleBattlefieldStart", "d4/df7/a12291.html#a1cfd74a803277063fa5e03162956f341", null ],
+    [ "HandleBattlefieldSwitch", "d4/df7/a12291.html#ae942a3c7f13cc77b3cf36078d798e0fe", null ],
+    [ "HandleBattlefieldTimer", "d4/df7/a12291.html#a6c0d2587984f276bbc40af72017dc00a", null ]
 ];

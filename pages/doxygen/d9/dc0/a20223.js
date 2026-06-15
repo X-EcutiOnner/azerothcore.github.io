@@ -1,7 +1,7 @@
 var a20223 =
 [
-    [ "HandleEffectPeriodic", "d9/dc0/a20223.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d9/dc0/a20223.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d9/dc0/a20223.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d9/dc0/a20223.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "boss_freya_healthy_spore", "d9/dc0/a20223.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "d9/dc0/a20223.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "d9/dc0/a20223.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "d9/dc0/a20223.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

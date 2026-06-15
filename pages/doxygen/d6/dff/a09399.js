@@ -1,7 +1,8 @@
 var a09399 =
 [
-    [ "flags", "d6/dff/a09399.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d6/dff/a09399.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d6/dff/a09399.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d6/dff/a09399.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "DungeonEncounter", "d6/dff/a09399.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d6/dff/a09399.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d6/dff/a09399.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d6/dff/a09399.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d6/dff/a09399.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

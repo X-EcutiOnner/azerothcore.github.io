@@ -1,12 +1,14 @@
 var a17643 =
 [
-    [ "npc_high_overlord_saurfangAI", "df/d0c/a17643.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "df/d0c/a17643.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "df/d0c/a17643.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "df/d0c/a17643.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "df/d0c/a17643.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "df/d0c/a17643.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "df/d0c/a17643.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "df/d0c/a17643.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "df/d0c/a17643.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_ball_of_flameAI", "df/d0c/a17643.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "df/d0c/a17643.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "df/d0c/a17643.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "df/d0c/a17643.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "df/d0c/a17643.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "df/d0c/a17643.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "df/d0c/a17643.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "df/d0c/a17643.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "df/d0c/a17643.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "df/d0c/a17643.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "df/d0c/a17643.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

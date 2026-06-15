@@ -1,6 +1,5 @@
 var a04163 =
 [
-    [ "DatabaseWorkerPool< T >", "d2/dc4/a06012.html", "d2/dc4/a06012" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "d1/d56/a04163.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "d1/d56/a04163.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "CanRollOnItem", "d1/d56/a04163.html#afbaf3417177da71d9f3c8be9eab09c2b", null ],
+    [ "SendRollWonItemViaMail", "d1/d56/a04163.html#a499748359465da566bbe2a1e833d9b93", null ]
 ];

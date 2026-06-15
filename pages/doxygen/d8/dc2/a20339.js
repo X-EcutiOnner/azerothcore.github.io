@@ -1,26 +1,6 @@
 var a20339 =
 [
-    [ "boss_mimiron", "d8/dc2/a20339.html#a780bfc5cae4bd1c45671071e4d5f9521", null ],
-    [ "AttackStart", "d8/dc2/a20339.html#aee739c9b16ae36af6104b54bde9cf7f7", null ],
-    [ "CloseDoorAndButton", "d8/dc2/a20339.html#ab5aa46f62dcb16febafb8bb081b1ec38", null ],
-    [ "EnterEvadeMode", "d8/dc2/a20339.html#a9f39f9afa3f561115c4f7e630364f566", null ],
-    [ "GetData", "d8/dc2/a20339.html#ab3aa6e8702c74ee27fa776c0a9bef77d", null ],
-    [ "JustEngagedWith", "d8/dc2/a20339.html#ab9ce3920c2a06deb31bcf25f1b2947a8", null ],
-    [ "JustReachedHome", "d8/dc2/a20339.html#a9e84d80c2e194c6d51b9d67d0c72db19", null ],
-    [ "MoveInLineOfSight", "d8/dc2/a20339.html#a0b1497cf1fc3cca2db670b74eb4745ee", null ],
-    [ "Reset", "d8/dc2/a20339.html#aec9cce9e0fcab78cfcf37e605cc6c08a", null ],
-    [ "ResetGameObjects", "d8/dc2/a20339.html#ac3a10be85349fc62ef14ecd937159e61", null ],
-    [ "SetData", "d8/dc2/a20339.html#aa9578fe08ab058a64e67935d262224ac", null ],
-    [ "SpellHit", "d8/dc2/a20339.html#af4e88527fb72bcbc1dc0a57b6007a461", null ],
-    [ "UpdateAI", "d8/dc2/a20339.html#adea87e321b4c401109ab4c37e314aca2", null ],
-    [ "_achievBombBot", "d8/dc2/a20339.html#a916517ab6ec6b4bfe0bcbb445312a9a0", null ],
-    [ "_achievProximityMine", "d8/dc2/a20339.html#a1fe4524d60414c100e0489bb77396033", null ],
-    [ "_achievRocketStrike", "d8/dc2/a20339.html#a406cf4b6b01e1fbd6e995173c5cade4a", null ],
-    [ "_allowedFlameSpreadTime", "d8/dc2/a20339.html#a34e2409dc2384851746d04301b926fdb", null ],
-    [ "_berserk", "d8/dc2/a20339.html#af85af0d10226de45a42a9d3317244e7a", null ],
-    [ "_changeAllowedFlameSpreadTime", "d8/dc2/a20339.html#a7d56123e4cc29207b53c0673084ee79e", null ],
-    [ "_hardmode", "d8/dc2/a20339.html#af4b21f8bb94becdd9082e39d81003a2b", null ],
-    [ "_isEvading", "d8/dc2/a20339.html#aa46c9828cdd36bb353ae75bea6d205b3", null ],
-    [ "_minutesTalkNum", "d8/dc2/a20339.html#a4dbed164732f74205cd248afbb2fb46e", null ],
-    [ "_outOfCombatTimer", "d8/dc2/a20339.html#a73c2e0d120706ec09638bbc20bda81b6", null ]
+    [ "FilterTargets", "d8/dc2/a20339.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d8/dc2/a20339.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d8/dc2/a20339.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

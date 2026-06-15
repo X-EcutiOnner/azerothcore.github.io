@@ -1,6 +1,8 @@
 var a14815 =
 [
-    [ "HandleDummy", "db/dc5/a14815.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "db/dc5/a14815.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "db/dc5/a14815.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleDummy", "db/dc5/a14815.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "db/dc5/a14815.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "db/dc5/a14815.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "db/dc5/a14815.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "db/dc5/a14815.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

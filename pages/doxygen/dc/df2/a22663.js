@@ -1,12 +1,12 @@
 var a22663 =
 [
-    [ "boss_shade_of_akama", "dc/df2/a22663.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "dc/df2/a22663.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "dc/df2/a22663.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "dc/df2/a22663.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "dc/df2/a22663.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "dc/df2/a22663.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "dc/df2/a22663.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "dc/df2/a22663.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "dc/df2/a22663.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "boss_essence_of_sufferingAI", "dc/df2/a22663.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
+    [ "DamageTaken", "dc/df2/a22663.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
+    [ "DoAction", "dc/df2/a22663.html#a08724d74523866969b12d13846eb4c1e", null ],
+    [ "JustEngagedWith", "dc/df2/a22663.html#aa2fce36768ad6e23a955cd215ca759db", null ],
+    [ "KilledUnit", "dc/df2/a22663.html#a3699b19f23cf15115ff8c92691a6d334", null ],
+    [ "MovementInform", "dc/df2/a22663.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
+    [ "Reset", "dc/df2/a22663.html#affa55b69784d8f881598189c361c986e", null ],
+    [ "UpdateAI", "dc/df2/a22663.html#abb60432720b3720832ccc83d454a3808", null ],
+    [ "_recentlySpoken", "dc/df2/a22663.html#a71a28a61e97f6278836649411493484f", null ]
 ];

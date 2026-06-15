@@ -1,12 +1,8 @@
 var a17975 =
 [
-    [ "npc_vengeful_shadeAI", "da/dc7/a17975.html#acd3961c7c81f88a341cb71888c55c882", null ],
-    [ "AttackStart", "da/dc7/a17975.html#afbd441c5ebf2207d37da1a905be1a247", null ],
-    [ "EnterEvadeMode", "da/dc7/a17975.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
-    [ "MoveInLineOfSight", "da/dc7/a17975.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
-    [ "Reset", "da/dc7/a17975.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
-    [ "SpellHitTarget", "da/dc7/a17975.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
-    [ "UpdateAI", "da/dc7/a17975.html#a3a353d677b469d750474a7497c5224a7", null ],
-    [ "targetGUID", "da/dc7/a17975.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
-    [ "unroot_timer", "da/dc7/a17975.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
+    [ "HandlePeriodic", "da/dc7/a17975.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "da/dc7/a17975.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "da/dc7/a17975.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "da/dc7/a17975.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "da/dc7/a17975.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

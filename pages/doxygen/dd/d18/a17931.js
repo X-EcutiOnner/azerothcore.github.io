@@ -1,9 +1,17 @@
 var a17931 =
 [
-    [ "CheckAreaTarget", "dd/d18/a17931.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "dd/d18/a17931.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "dd/d18/a17931.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "dd/d18/a17931.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "dd/d18/a17931.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "dd/d18/a17931.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "npc_gunship_boarding_addAI", "dd/d18/a17931.html#accf0e65592983cc0199cb445aea55f99", null ],
+    [ "CanAIAttack", "dd/d18/a17931.html#a7d30e525342d1cb13103a4d7ebe1bb39", null ],
+    [ "DamageTaken", "dd/d18/a17931.html#a3b4eac0143e3c9eb2730c9bcf54f90b0", null ],
+    [ "EnterEvadeMode", "dd/d18/a17931.html#a5350433e352e0302d03c750a143880cf", null ],
+    [ "MovementInform", "dd/d18/a17931.html#aa2bd88e4539ddc99f888d41fcb78c383", null ],
+    [ "SetData", "dd/d18/a17931.html#a4fd0655356a2f9b5820e0f42f267715e", null ],
+    [ "SetSlotInfo", "dd/d18/a17931.html#adb50c92c76763733dbec025769d62a40", null ],
+    [ "UpdateAI", "dd/d18/a17931.html#af25bee85b38d70d1b792d7c1752e45f5", null ],
+    [ "_usedDesperateResolve", "dd/d18/a17931.html#aaf154d9774154e868d563b3c47916746", null ],
+    [ "anyValid", "dd/d18/a17931.html#a7fafebb9c6076dbe7fc621788910f63b", null ],
+    [ "checkTimer", "dd/d18/a17931.html#a9a6b6d68743b1e1e993fa32435ba6722", null ],
+    [ "Index", "dd/d18/a17931.html#a18b570e7bae0e2c4d0dcfc788d9deec3", null ],
+    [ "Instance", "dd/d18/a17931.html#a07eeeedf7c1315a41c073cfc83361c9f", null ],
+    [ "Slot", "dd/d18/a17931.html#a1aef6abcddaca26da2d09d3d2e6e1152", null ]
 ];

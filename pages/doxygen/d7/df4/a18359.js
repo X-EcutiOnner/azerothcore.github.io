@@ -1,15 +1,12 @@
 var a18359 =
 [
-    [ "npc_sindragosa_trashAI", "d7/df4/a18359.html#a7401a422bc4c2140c631bc118f396f25", null ],
-    [ "GetData", "d7/df4/a18359.html#a701b8189869bf20d2b3da31b73aed9da", null ],
-    [ "InitializeAI", "d7/df4/a18359.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
-    [ "JustEngagedWith", "d7/df4/a18359.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
-    [ "JustRespawned", "d7/df4/a18359.html#a6438b9f864f178dc4e35e24a48066980", null ],
-    [ "Reset", "d7/df4/a18359.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
-    [ "SetData", "d7/df4/a18359.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
-    [ "UpdateAI", "d7/df4/a18359.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
-    [ "_events", "d7/df4/a18359.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
-    [ "_frostwyrmId", "d7/df4/a18359.html#ac2853246532bd913211fc743f4723ce0", null ],
-    [ "_instance", "d7/df4/a18359.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
-    [ "_isTaunted", "d7/df4/a18359.html#a50632ee1a85936748aabc5fb10f5e982", null ]
+    [ "npc_precious_iccAI", "d7/df4/a18359.html#a90dff89c652339ecf7479d2c9233962a", null ],
+    [ "JustDied", "d7/df4/a18359.html#a06671144929a3783f17397b818016032", null ],
+    [ "JustEngagedWith", "d7/df4/a18359.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
+    [ "JustSummoned", "d7/df4/a18359.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
+    [ "Reset", "d7/df4/a18359.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
+    [ "SummonedCreatureDespawn", "d7/df4/a18359.html#af59e24c588861fe7d1bcd456780f571a", null ],
+    [ "UpdateAI", "d7/df4/a18359.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
+    [ "events", "d7/df4/a18359.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
+    [ "summons", "d7/df4/a18359.html#ab752e504c7cf463a4447a07fbb67211c", null ]
 ];

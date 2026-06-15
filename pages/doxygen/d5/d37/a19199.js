@@ -1,6 +1,6 @@
 var a19199 =
 [
-    [ "boss_gluthAI", "dd/de5/a19203.html", "dd/de5/a19203" ],
-    [ "boss_gluth", "d5/d37/a19199.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "d5/d37/a19199.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "npc_icc_putricades_trapAI", "dd/de5/a19203.html", "dd/de5/a19203" ],
+    [ "npc_icc_putricades_trap", "d5/d37/a19199.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d5/d37/a19199.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

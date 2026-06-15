@@ -1,6 +1,6 @@
 var a11659 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d6/d6a/a11659.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d6/d6a/a11659.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d6/d6a/a11659.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "WorldSessionFilter", "d6/d6a/a11659.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "d6/d6a/a11659.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "d6/d6a/a11659.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

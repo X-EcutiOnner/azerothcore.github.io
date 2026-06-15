@@ -1,6 +1,6 @@
 var a18943 =
 [
-    [ "PrepareSpellScript", "d8/d01/a18943.html#aac12da39c503615036120e3e0cd55622", null ],
-    [ "Register", "d8/d01/a18943.html#a808d2283be9714c14f22a2df0a52dd61", null ],
-    [ "RelocateDest", "d8/d01/a18943.html#a843c9dc403404ddd2de667e57e01f00c", null ]
+    [ "npc_rotting_frost_giantAI", "d5/d10/a18947.html", "d5/d10/a18947" ],
+    [ "npc_rotting_frost_giant", "d8/d01/a18943.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "d8/d01/a18943.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

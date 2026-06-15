@@ -1,5 +1,6 @@
 var a15383 =
 [
-    [ "boss_kri", "df/dda/a15383.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "df/dda/a15383.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "npc_idol_room_spawnerAI", "da/dcd/a15387.html", "da/dcd/a15387" ],
+    [ "npc_idol_room_spawner", "df/dda/a15383.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "df/dda/a15383.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

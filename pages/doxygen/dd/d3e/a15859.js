@@ -1,16 +1,8 @@
 var a15859 =
 [
-    [ "npc_qiraj_war_spawnAI", "dd/d3e/a15859.html#a1122bc3961300ba39c02613ba0fcd909", null ],
-    [ "JustDied", "dd/d3e/a15859.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
-    [ "JustEngagedWith", "dd/d3e/a15859.html#a628da97f8b8bda848880c53a509ad1f5", null ],
-    [ "Reset", "dd/d3e/a15859.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
-    [ "UpdateAI", "dd/d3e/a15859.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
-    [ "hasTarget", "dd/d3e/a15859.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
-    [ "MobGUID", "dd/d3e/a15859.html#a4148121a56275770ee84744a0288b6c5", null ],
-    [ "PlayerGUID", "dd/d3e/a15859.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
-    [ "SpellTimer1", "dd/d3e/a15859.html#a8979a90473c62aad604857d92574e5f1", null ],
-    [ "SpellTimer2", "dd/d3e/a15859.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
-    [ "SpellTimer3", "dd/d3e/a15859.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
-    [ "SpellTimer4", "dd/d3e/a15859.html#a301971cf821e68e6be3223d4076f8b49", null ],
-    [ "Timers", "dd/d3e/a15859.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
+    [ "npc_aged_dying_ancient_kodo", "dd/d3e/a15859.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "dd/d3e/a15859.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "dd/d3e/a15859.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "dd/d3e/a15859.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "dd/d3e/a15859.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

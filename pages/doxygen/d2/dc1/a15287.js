@@ -1,9 +1,9 @@
 var a15287 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d2/dc1/a15287.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d2/dc1/a15287.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d2/dc1/a15287.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d2/dc1/a15287.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d2/dc1/a15287.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d2/dc1/a15287.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_temporus", "d2/dc1/a15287.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d2/dc1/a15287.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d2/dc1/a15287.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d2/dc1/a15287.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d2/dc1/a15287.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d2/dc1/a15287.html#a99356589a048debbc308b8431259da5c", null ]
 ];

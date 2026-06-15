@@ -1,8 +1,6 @@
 var a22783 =
 [
-    [ "Absorb", "d1/dec/a22783.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d1/dec/a22783.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d1/dec/a22783.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d1/dec/a22783.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d1/dec/a22783.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "HandleSchoolDamage", "d1/dec/a22783.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d1/dec/a22783.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d1/dec/a22783.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

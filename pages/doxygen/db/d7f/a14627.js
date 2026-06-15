@@ -1,13 +1,9 @@
 var a14627 =
 [
-    [ "go_firework_show", "db/d7f/a14627.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "db/d7f/a14627.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "db/d7f/a14627.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "db/d7f/a14627.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "db/d7f/a14627.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "db/d7f/a14627.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "db/d7f/a14627.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "db/d7f/a14627.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "db/d7f/a14627.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "db/d7f/a14627.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "HandleEffectPeriodic", "db/d7f/a14627.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "db/d7f/a14627.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "db/d7f/a14627.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "db/d7f/a14627.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "db/d7f/a14627.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "db/d7f/a14627.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

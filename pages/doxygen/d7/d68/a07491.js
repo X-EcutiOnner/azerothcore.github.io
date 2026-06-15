@@ -1,12 +1,15 @@
 var a07491 =
 [
-    [ "Arena", "d7/d68/a07491.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d7/d68/a07491.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d7/d68/a07491.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d7/d68/a07491.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d7/d68/a07491.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d7/d68/a07491.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d7/d68/a07491.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d7/d68/a07491.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d7/d68/a07491.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "AuctionHouseSearcher", "d7/d68/a07491.html#adee77153a7b9efeac149e6c951082986", null ],
+    [ "~AuctionHouseSearcher", "d7/d68/a07491.html#a84842935539c5ef8b02815cc8697e568", null ],
+    [ "AddAuction", "d7/d68/a07491.html#a09e01dd8840a50f6b6dd5f70ad9ec10c", null ],
+    [ "NotifyAllWorkers", "d7/d68/a07491.html#a443577cfba0af003e7e0e8834474a6c1", null ],
+    [ "NotifyOneWorker", "d7/d68/a07491.html#a1b70b786bf6e57d9d9cae8f34f0d779b", null ],
+    [ "QueueSearchRequest", "d7/d68/a07491.html#a53caf3298638d325a8b9e97584296ad3", null ],
+    [ "RemoveAuction", "d7/d68/a07491.html#a145da4d009d9814a4e76fae0d02f33e4", null ],
+    [ "Update", "d7/d68/a07491.html#ac8c7b88346dc99bed5fe8d0efb28eebb", null ],
+    [ "UpdateBid", "d7/d68/a07491.html#a7bb50e3e903c73a83469e7323917d40d", null ],
+    [ "_requestQueue", "d7/d68/a07491.html#ac221abeb9a760c90d6110310970e6463", null ],
+    [ "_responseQueue", "d7/d68/a07491.html#a772e65025ae498b8837222ae98f49c28", null ],
+    [ "_workerThreads", "d7/d68/a07491.html#aa1cedd8cb22b840599b97bf7c7df0949", null ]
 ];

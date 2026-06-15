@@ -1,9 +1,8 @@
 var a19035 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/d02/a19035.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "dc/d02/a19035.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "dc/d02/a19035.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "dc/d02/a19035.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "dc/d02/a19035.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "dc/d02/a19035.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_arthas_teleport_visualAI", "dc/d02/a19035.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "dc/d02/a19035.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "dc/d02/a19035.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "dc/d02/a19035.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "dc/d02/a19035.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

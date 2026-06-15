@@ -1,4 +1,6 @@
 var a03860 =
 [
-    [ "InstanceHasScript", "db/d62/a03860.html#aad76768c8aee9ce3ac24657437adb0de", null ]
+    [ "CharacterCacheEntry", "d8/ddb/a07807.html", "d8/ddb/a07807" ],
+    [ "CharacterCache", "d2/dda/a07811.html", "d2/dda/a07811" ],
+    [ "sCharacterCache", "db/d62/a03860.html#a7a32c898b33d6163d83a32f46d58517c", null ]
 ];

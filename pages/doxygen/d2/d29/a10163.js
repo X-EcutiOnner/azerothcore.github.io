@@ -1,7 +1,8 @@
 var a10163 =
 [
-    [ "flags", "d2/d29/a10163.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
-    [ "groupId", "d2/d29/a10163.html#ac7efc48c61e715027a8d651fda543ada", null ],
-    [ "mapid", "d2/d29/a10163.html#a20eeb701ecbeb535fcead902cb0a49ae", null ],
-    [ "name", "d2/d29/a10163.html#a55368217a847f946def13b2123b22ed3", null ]
+    [ "PositionFullTerrainStatus", "d2/d29/a10163.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d2/d29/a10163.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d2/d29/a10163.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d2/d29/a10163.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d2/d29/a10163.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

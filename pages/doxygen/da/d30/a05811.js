@@ -1,6 +1,7 @@
 var a05811 =
 [
-    [ "FromString", "da/d30/a05811.html#a9d10adc7fc7e9ba967ce0704ff369019", null ],
-    [ "FromString", "da/d30/a05811.html#a465a6f446d3482578b583d54f0109516", null ],
-    [ "ToString", "da/d30/a05811.html#a8e3130708d0068bd82f9c2861b130303", null ]
+    [ "~SignalHandler", "da/d30/a05811.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "da/d30/a05811.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "da/d30/a05811.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "da/d30/a05811.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

@@ -1,7 +1,10 @@
 var a14567 =
 [
-    [ "PeriodicTick", "d9/d76/a14567.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "d9/d76/a14567.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "d9/d76/a14567.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "d9/d76/a14567.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_zealot_zath", "d9/d76/a14567.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d9/d76/a14567.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d9/d76/a14567.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d9/d76/a14567.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d9/d76/a14567.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d9/d76/a14567.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d9/d76/a14567.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

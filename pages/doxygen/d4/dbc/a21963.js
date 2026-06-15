@@ -1,8 +1,7 @@
 var a21963 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d4/dbc/a21963.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d4/dbc/a21963.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d4/dbc/a21963.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d4/dbc/a21963.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d4/dbc/a21963.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_engineer_heliceAI", "dd/dcd/a21967.html", "dd/dcd/a21967" ],
+    [ "npc_engineer_helice", "d4/dbc/a21963.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "d4/dbc/a21963.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "d4/dbc/a21963.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

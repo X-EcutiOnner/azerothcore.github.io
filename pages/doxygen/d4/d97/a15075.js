@@ -1,6 +1,6 @@
 var a15075 =
 [
-    [ "npc_crate_helperAI", "d4/d97/a15075.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d4/d97/a15075.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d4/d97/a15075.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "HandleHit", "d4/d97/a15075.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d4/d97/a15075.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d4/d97/a15075.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

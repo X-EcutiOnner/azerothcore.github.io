@@ -1,6 +1,6 @@
 var a20707 =
 [
-    [ "OnRemove", "dc/da8/a20707.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "dc/da8/a20707.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "dc/da8/a20707.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "PrepareSpellScript", "dc/da8/a20707.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "dc/da8/a20707.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "dc/da8/a20707.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

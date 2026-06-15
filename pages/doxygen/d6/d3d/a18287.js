@@ -1,7 +1,6 @@
 var a18287 =
 [
-    [ "HandleScript", "d6/d3d/a18287.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d6/d3d/a18287.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d6/d3d/a18287.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d6/d3d/a18287.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "ExtraEffect", "d6/d3d/a18287.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d6/d3d/a18287.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d6/d3d/a18287.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

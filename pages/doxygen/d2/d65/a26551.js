@@ -1,8 +1,7 @@
 var a26551 =
 [
-    [ "CheckCast", "d2/d65/a26551.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d2/d65/a26551.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d2/d65/a26551.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d2/d65/a26551.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d2/d65/a26551.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "d2/d65/a26551.html#af48dfc934a6be37e95c469d07691e91f", null ],
+    [ "PrepareAuraScript", "d2/d65/a26551.html#a93147abc7cda5307a06be3d876b82eea", null ],
+    [ "Register", "d2/d65/a26551.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
+    [ "Validate", "d2/d65/a26551.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
 ];

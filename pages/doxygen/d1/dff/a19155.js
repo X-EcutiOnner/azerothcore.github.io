@@ -1,7 +1,8 @@
 var a19155 =
 [
-    [ "OnRemove", "d1/dff/a19155.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d1/dff/a19155.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d1/dff/a19155.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d1/dff/a19155.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "Class", "d1/dff/a19155.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d1/dff/a19155.html#acfcb10f019ebaf4d2130bcdbc059c7e7", null ],
+    [ "id", "d1/dff/a19155.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d1/dff/a19155.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d1/dff/a19155.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

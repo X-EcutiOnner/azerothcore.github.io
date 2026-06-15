@@ -1,7 +1,7 @@
 var a07895 =
 [
-    [ "V", "d9/db3/a07895.html#aab662b1ba92ab8eb76558f97191142cc", null ],
-    [ "TryAtIndex", "d9/db3/a07895.html#aeff1865d7499b0b112cc39c44fd07112", null ],
-    [ "TryConsume", "d9/db3/a07895.html#ae2a889829917ed0dd76194194efc9b13", null ],
-    [ "N", "d9/db3/a07895.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
+    [ "CommandPermissions", "d9/db3/a07895.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d9/db3/a07895.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d9/db3/a07895.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d9/db3/a07895.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

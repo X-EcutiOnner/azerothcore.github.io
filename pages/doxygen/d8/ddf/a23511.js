@@ -1,6 +1,5 @@
 var a23511 =
 [
-    [ "HandleCast", "d8/ddf/a23511.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d8/ddf/a23511.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d8/ddf/a23511.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "modelId", "d8/ddf/a23511.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "d8/ddf/a23511.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

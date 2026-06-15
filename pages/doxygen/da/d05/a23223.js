@@ -1,11 +1,11 @@
 var a23223 =
 [
-    [ "boss_krosh_firehand", "da/d05/a23223.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "da/d05/a23223.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "da/d05/a23223.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "da/d05/a23223.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "da/d05/a23223.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "da/d05/a23223.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "da/d05/a23223.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "da/d05/a23223.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "boss_gruul", "da/d05/a23223.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "da/d05/a23223.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "da/d05/a23223.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "da/d05/a23223.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "da/d05/a23223.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "da/d05/a23223.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "da/d05/a23223.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "da/d05/a23223.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

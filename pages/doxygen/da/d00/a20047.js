@@ -1,9 +1,6 @@
 var a20047 =
 [
-    [ "Absorb", "da/d00/a20047.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "da/d00/a20047.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "da/d00/a20047.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "da/d00/a20047.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "da/d00/a20047.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "da/d00/a20047.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "achievement_assembly_of_iron", "da/d00/a20047.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "da/d00/a20047.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "da/d00/a20047.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

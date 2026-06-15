@@ -1,9 +1,9 @@
 var a20767 =
 [
-    [ "npc_ulduar_keeperAI", "d6/daf/a20767.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d6/daf/a20767.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d6/daf/a20767.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d6/daf/a20767.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d6/daf/a20767.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d6/daf/a20767.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_keeper", "d6/daf/a20767.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "d6/daf/a20767.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "d6/daf/a20767.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "d6/daf/a20767.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "d6/daf/a20767.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "d6/daf/a20767.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

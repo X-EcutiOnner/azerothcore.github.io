@@ -1,5 +1,7 @@
 var a17359 =
 [
-    [ "endPosition", "df/dbb/a17359.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "df/dbb/a17359.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "HandlePeriodicTick", "df/dbb/a17359.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "df/dbb/a17359.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "df/dbb/a17359.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "df/dbb/a17359.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

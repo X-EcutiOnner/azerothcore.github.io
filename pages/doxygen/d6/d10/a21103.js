@@ -1,6 +1,6 @@
 var a21103 =
 [
-    [ "HandleEffectPeriodic", "d6/d10/a21103.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d6/d10/a21103.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d6/d10/a21103.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "boss_ymironAI", "d0/db2/a21107.html", "d0/db2/a21107" ],
+    [ "boss_ymiron", "d6/d10/a21103.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d6/d10/a21103.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

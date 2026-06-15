@@ -1,7 +1,10 @@
 var a16395 =
 [
-    [ "npc_orb_carrierAI", "d8/def/a16395.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "d8/def/a16395.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "d8/def/a16395.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "d8/def/a16395.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "boss_sartharion_tenebron", "d8/def/a16395.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
+    [ "ClearInstance", "d8/def/a16395.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
+    [ "ExecuteEvent", "d8/def/a16395.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
+    [ "JustDied", "d8/def/a16395.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
+    [ "JustSummoned", "d8/def/a16395.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
+    [ "Reset", "d8/def/a16395.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
+    [ "summons2", "d8/def/a16395.html#a59b131fcd2298640390fcd0f662f132d", null ]
 ];

@@ -1,6 +1,7 @@
 var a11867 =
 [
-    [ "EffectSplitHandler", "d3/d5c/a11867.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "d3/d5c/a11867.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "d3/d5c/a11867.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "ap_bonus", "d3/d5c/a11867.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "d3/d5c/a11867.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "d3/d5c/a11867.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "d3/d5c/a11867.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

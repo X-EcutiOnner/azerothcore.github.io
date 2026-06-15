@@ -1,7 +1,6 @@
 var a18467 =
 [
-    [ "OnPeriodic", "d9/d35/a18467.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d9/d35/a18467.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d9/d35/a18467.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d9/d35/a18467.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_rimefangAI", "d3/d88/a18471.html", "d3/d88/a18471" ],
+    [ "npc_rimefang", "d9/d35/a18467.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d9/d35/a18467.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

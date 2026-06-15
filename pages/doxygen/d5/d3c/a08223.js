@@ -1,9 +1,16 @@
 var a08223 =
 [
-    [ "cancelTime", "d5/d3c/a08223.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "d5/d3c/a08223.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "d5/d3c/a08223.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "d5/d3c/a08223.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "d5/d3c/a08223.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "d5/d3c/a08223.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "DisableMap", "d5/d3c/a08223.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d5/d3c/a08223.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d5/d3c/a08223.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d5/d3c/a08223.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d5/d3c/a08223.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d5/d3c/a08223.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d5/d3c/a08223.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d5/d3c/a08223.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d5/d3c/a08223.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d5/d3c/a08223.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d5/d3c/a08223.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d5/d3c/a08223.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d5/d3c/a08223.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

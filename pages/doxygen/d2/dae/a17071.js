@@ -1,9 +1,6 @@
 var a17071 =
 [
-    [ "HandlePeriodicTick", "d2/dae/a17071.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d2/dae/a17071.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d2/dae/a17071.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d2/dae/a17071.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d2/dae/a17071.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d2/dae/a17071.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "boss_dredAI", "df/dd7/a17075.html", "df/dd7/a17075" ],
+    [ "boss_dred", "d2/dae/a17071.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
+    [ "GetAI", "d2/dae/a17071.html#ab8276b185f80a92a54327ea28b19c704", null ]
 ];

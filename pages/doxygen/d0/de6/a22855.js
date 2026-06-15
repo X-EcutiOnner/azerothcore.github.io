@@ -1,15 +1,11 @@
 var a22855 =
 [
-    [ "boss_hydross_the_unstable", "d0/de6/a22855.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "d0/de6/a22855.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "d0/de6/a22855.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "d0/de6/a22855.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "d0/de6/a22855.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "d0/de6/a22855.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "d0/de6/a22855.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "d0/de6/a22855.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "d0/de6/a22855.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "d0/de6/a22855.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "d0/de6/a22855.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "d0/de6/a22855.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "boss_doomlordkazzakAI", "d0/de6/a22855.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d0/de6/a22855.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d0/de6/a22855.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d0/de6/a22855.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d0/de6/a22855.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d0/de6/a22855.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d0/de6/a22855.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d0/de6/a22855.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

@@ -1,13 +1,13 @@
 var a14079 =
 [
-    [ "npc_daphne_stilwellAI", "d9/d1c/a14079.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "d9/d1c/a14079.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "d9/d1c/a14079.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "d9/d1c/a14079.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "d9/d1c/a14079.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "d9/d1c/a14079.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "d9/d1c/a14079.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "npc_corporal_keeshanAI", "d9/d1c/a14079.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d9/d1c/a14079.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d9/d1c/a14079.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d9/d1c/a14079.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d9/d1c/a14079.html#a3edc9ab54068e47f955116db70454f6c", null ],
     [ "WaypointReached", "d9/d1c/a14079.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "summons", "d9/d1c/a14079.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "d9/d1c/a14079.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "mockingBlowTimer", "d9/d1c/a14079.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d9/d1c/a14079.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d9/d1c/a14079.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d9/d1c/a14079.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

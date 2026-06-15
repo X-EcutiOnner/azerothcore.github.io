@@ -1,8 +1,7 @@
 var a09323 =
 [
-    [ "DungeonEncounter", "d6/d31/a09323.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d6/d31/a09323.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d6/d31/a09323.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d6/d31/a09323.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d6/d31/a09323.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "IsFitToRequirements", "d6/d31/a09323.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d6/d31/a09323.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d6/d31/a09323.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d6/d31/a09323.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

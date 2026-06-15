@@ -1,78 +1,72 @@
 var a00194 =
 [
-    [ "npc_bh_thalorien_dawnseeker", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
-    [ "npc_bh_thalorien_dawnseeker::npc_bh_thalorien_dawnseekerAI", "dd/dc7/a13980.html", "dd/dc7/a13980" ],
-    [ "spell_bh_cleanse_quel_delar", "de/d90/a13984.html", "de/d90/a13984" ],
-    [ "npc_grand_magister_rommath", "db/d48/a13988.html", "db/d48/a13988" ],
-    [ "npc_grand_magister_rommath::npc_grand_magister_rommathAI", "db/d8e/a13992.html", "db/d8e/a13992" ],
-    [ "spell_gen_weapon_coating_enchant", "d7/d07/a13996.html", "d7/d07/a13996" ],
-    [ "SUNWELL_DEFENDER_NUM", "dc/d57/a00194.html#aef5ca77e7ede1b475f9ed203d1bb6d2e", null ],
-    [ "PurificationIds", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75", [
-      [ "GO_QUEL_DELAR", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75a260cc488ab65b6242168ba0017320d9a", null ],
-      [ "NPC_SUNWELL_VISUAL_BUNNY", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75a3ba3618a4f80c2cd7439d58f91d0426b", null ],
-      [ "NPC_SUNWELL_HONOR_GUARD", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75a66dbfc4811b43b71dcee2daa9aaebca9", null ],
-      [ "NPC_ROMMATH", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75a063098109895270034b3fa4751687e8d", null ],
-      [ "NPC_GALIROS", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75aad4e37491a5066b2223eda8463fa359b", null ],
-      [ "NPC_THERON", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75ad518990511a3e81ea7a79c351c89d124", null ],
-      [ "NPC_AURIC", "dc/d57/a00194.html#a63b786515108536b8a2f43cd78f41a75a06d32d4e302c9b869f9fad03ae7b95e1", null ]
+    [ "npc_cameron", "d6/d2e/a13999.html", "d6/d2e/a13999" ],
+    [ "npc_supervisor_raelen", "d2/d78/a14003.html", "d2/d78/a14003" ],
+    [ "npc_eastvale_peasent", "dc/de5/a14007.html", "dc/de5/a14007" ],
+    [ "COG_Creatures", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00", [
+      [ "NPC_DANA", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
+      [ "NPC_CAMERON", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
+      [ "NPC_JOHN", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
+      [ "NPC_LISA", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
+      [ "NPC_AARON", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
+      [ "NPC_JOSE", "dc/d57/a00194.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
     ] ],
-    [ "ThalorienEvents", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84", [
-      [ "EVENT_NONE", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a939a6cc6d749a232a23ff324dca6d48c", null ],
-      [ "EVENT_CHECK_PLAYER", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_SOLDIERS", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a49ac50c1122c09f7999dda6775be82e7", null ],
-      [ "EVENT_TALK_INTRO_0", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a64c8cf0c59b4ec170211b753952db393", null ],
-      [ "EVENT_TALK_INTRO_1", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a715f3d5588b79fb29ddb035ffe1b690e", null ],
-      [ "EVENT_TALK_INTRO_2", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a171a26261058c6138d6acc350c3fd2d9", null ],
-      [ "EVENT_TALK_INTRO_3", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a89f29eb146d6bb53c4342253e195d0f1", null ],
-      [ "EVENT_SALUTE", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a20c28745aea8562e2f30166e0ceec0ea", null ],
-      [ "EVENT_SOLDIERS_RUN_AWAY", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a0ace29a61792c71d06abb8ca559ea373", null ],
-      [ "EVENT_GO_FIGHTPOINT", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a6e666cc5eeb1b9468fe585dc3152fadb", null ],
-      [ "EVENT_TALK_SPAWN_0", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a16efc95ecfb8f279dc55f048fe7ab3ed", null ],
-      [ "EVENT_TALK_SPAWN_1", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a43045e804493fb3330d3a72acfed223f", null ],
-      [ "EVENT_SUMMON_MORLEN", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a4b530df2bddb5247e4e9d02d582823d3", null ],
-      [ "EVENT_TALK_MORLEN_0", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a554b517fc290363bac198bccdc912f8b", null ],
-      [ "EVENT_TALK_MORLEN_1", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84af9f733c27da94408e28395568d2a2b9c", null ],
-      [ "EVENT_SPAWN_WAVE_1", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a9f1cc5a8dc77fd3918e21a6c647ffbd0", null ],
-      [ "EVENT_SPAWN_WAVE_2", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a18fdf10f61e4a27533be8f21d1ae9b6a", null ],
-      [ "EVENT_SPAWN_WAVE_3", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a6fd6c0e839794b2e5545c27a8828ade5", null ],
-      [ "EVENT_SUMMONS_ATTACK", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84afde738997d413eb0b9b391d5f10f1d9b", null ],
-      [ "EVENT_OUTRO_0", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84ad2023dc14536e596fb220bf8e356f82d", null ],
-      [ "EVENT_OUTRO_1", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84acb340c9de3b567d6e1f1e9e5b90ec90d", null ],
-      [ "EVENT_OUTRO_2", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a20c3614363fa241f02fede94adfb3ae6", null ],
-      [ "EVENT_OUTRO_3", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a267ae47905d29e505c96215636419e87", null ],
-      [ "EVENT_OUTRO_KNEEL", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84ab37c540bea5bf254528fb30d46bc31d7", null ],
-      [ "EVENT_DISAPPEAR", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84ac19bd9ecf29de8bb0333e8249f300a66", null ],
-      [ "EVENT_SET_FACING", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a6ac5d05b6a8f2490e8038b8005ff9057", null ],
-      [ "EVENT_SPELL_BLADESTORM", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84aa83261adacd9fedf183a407abc4086ff", null ],
-      [ "EVENT_SPELL_MORTAL_STRIKE", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84aacf68cb4ce5a32d9e670387086c1f185", null ],
-      [ "EVENT_SPELL_HEROIC_STRIKE", "dc/d57/a00194.html#ae231390315adb8b602044f47f962ce84a98dcf8374c08a8357940a9be693ca284", null ]
+    [ "COG_Events", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521", [
+      [ "EVENT_WP_START_GOLDSHIRE", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
+      [ "EVENT_WP_START_WOODS", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
+      [ "EVENT_WP_START_HOUSE", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
+      [ "EVENT_WP_START_LISA", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
+      [ "EVENT_PLAY_SOUNDS", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
+      [ "EVENT_BEGIN_EVENT", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
+      [ "EVENT_RANDOM_MOVEMENT", "dc/d57/a00194.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
     ] ],
-    [ "ThalorienNpcs", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1", [
-      [ "NPC_THALORIEN_REMAINS", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1a241a58daff1d5c96ef3b6ddb0e8e9ba1", null ],
-      [ "NPC_SUNWELL_DEFENDER", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1abfe1f7c38c330610469d77e53afe70a7", null ],
-      [ "NPC_THALORIEN_KILL_CREDIT", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1abe044586557d20589aa52c7fbbc525a3", null ],
-      [ "NPC_MORLEN_COLDGRIP", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1ac45059f6cde8951322014b5ae90c239d", null ],
-      [ "NPC_SCOURGE_ZOMBIE", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1a4507acb6d6607c271b81962a110fe52d", null ],
-      [ "NPC_GHOUL_INVADER", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1ab8e0272232b0dc115fb2c5a8417d322e", null ],
-      [ "NPC_CRYPT_RAIDER", "dc/d57/a00194.html#ade3e95d5ffde9b43510d81ecce3269f1ab95c91022a6d40a33930792de29adea7", null ]
+    [ "COG_GameEvent", "dc/d57/a00194.html#a7f96446be0a530da18223bb22482eb13", [
+      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "dc/d57/a00194.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
     ] ],
-    [ "ThalorienTexts", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4", [
-      [ "SAY_INTRO_0", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4ab67c13990cd545e383e96877a2f2c102", null ],
-      [ "SAY_INTRO_1", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a5d62121fc78e6a1cfc703c5caba40b23", null ],
-      [ "SAY_INTRO_2", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a262c474ec2073ec78c48eb44023e0069", null ],
-      [ "SAY_INTRO_3", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a9f2d1ca124ea572b3ea9dc6accd181ff", null ],
-      [ "SAY_SPAWN_0", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a4c223fb4940a0d940061bd9779cf4d1a", null ],
-      [ "SAY_SPAWN_1", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4af0dd367dc08a2ab46eac34623d431254", null ],
-      [ "SAY_MORLEN_0", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a5e5d9ab46c0d027eaf46f415a86e22f1", null ],
-      [ "SAY_MORLEN_1", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a015bb416bd2b21dbad0faeb6f3953694", null ],
-      [ "SAY_MORLEN_2", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a541fac7fba7cf0d178a483c5579f0afe", null ],
-      [ "SAY_MORLEN_3", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a4f61f95ef790bec07d13d43506e609a5", null ],
-      [ "SAY_MORLEN_4", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4ae2eb383aa2f9668d3abd6d4478191d3a", null ],
-      [ "SAY_OUTRO_0", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a627aa710b2c5365cac4a29c852845386", null ],
-      [ "SAY_OUTRO_1", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a3eda473f56272860b78f353c8869f0f7", null ],
-      [ "SAY_OUTRO_2", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4a7e38407fc03f225e550d784702680478", null ],
-      [ "SAY_OUTRO_3", "dc/d57/a00194.html#afa262636400a7c29cb512c78f3c685a4af04f0a924c14831e0ab9a393e5ec6661", null ]
+    [ "COG_Paths", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303", [
+      [ "STORMWIND_PATH", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
+      [ "GOLDSHIRE_PATH", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
+      [ "WOODS_PATH", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
+      [ "HOUSE_PATH", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
+      [ "LISA_PATH", "dc/d57/a00194.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
     ] ],
-    [ "AddSC_isle_of_queldanas", "dc/d57/a00194.html#a04c0b579fd8cf79f50c4720c82138c4c", null ],
-    [ "SunwellDefenderPos", "dc/d57/a00194.html#a40e9ab298d8c4d814487bbe7f269030a", null ]
+    [ "COG_Sounds", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701", [
+      [ "BANSHEE_DEATH", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
+      [ "BANSHEEPREAGGRO", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
+      [ "CTHUN_YOU_WILL_DIE", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
+      [ "CTHUN_DEATH_IS_CLOSE", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
+      [ "HUMAN_FEMALE_EMOTE_CRY", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
+      [ "GHOSTDEATH", "dc/d57/a00194.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
+    ] ],
+    [ "EastvalePeasent", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769", [
+      [ "EVENT_MOVETORAELEN", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
+      [ "EVENT_TALKTORAELEN1", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
+      [ "EVENT_TALKTORAELEN2", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
+      [ "EVENT_RAELENTALK", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
+      [ "EVENT_TALKTORAELEN3", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
+      [ "EVENT_TALKTORAELEN4", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
+      [ "EVENT_PATHBACK", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
+      [ "NPC_SUPERVISOR_RAELEN", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
+      [ "PATH_PEASENT_0", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
+      [ "PATH_PEASENT_1", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
+      [ "PATH_PEASENT_2", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
+      [ "PATH_PEASENT_3", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
+      [ "PATH_PEASENT_4", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
+      [ "SAY_RAELEN", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
+      [ "SOUND_PEASENT_GREETING_1", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
+      [ "SOUND_PEASENT_GREETING_2", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
+      [ "SOUND_PEASENT_GREETING_3", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
+      [ "SOUND_PEASENT_LEAVING_1", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
+      [ "SOUND_PEASENT_LEAVING_2", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
+      [ "SOUND_PEASENT_LEAVING_3", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
+      [ "SOUND_PEASENT_LEAVING_4", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
+      [ "SOUND_PEASENT_LEAVING_5", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
+      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "dc/d57/a00194.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
+    ] ],
+    [ "SupervisorRaelen", "dc/d57/a00194.html#a3bd40a8e75f5b073b6027152c2acd047", [
+      [ "EVENT_FIND_PEASENTS", "dc/d57/a00194.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
+      [ "EVENT_NEXT_PEASENT", "dc/d57/a00194.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
+      [ "NPC_EASTVALE_PEASENT", "dc/d57/a00194.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
+    ] ],
+    [ "AddSC_elwynn_forest", "dc/d57/a00194.html#aef9caff22cc5e92156da2c393ecfb531", null ]
 ];

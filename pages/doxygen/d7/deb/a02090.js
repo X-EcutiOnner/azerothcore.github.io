@@ -1,39 +1,33 @@
 var a02090 =
 [
-    [ "spell_winter_veil_mistletoe", "de/d84/a14932.html", "de/d84/a14932" ],
-    [ "spell_winter_wondervolt_trap", "d8/dd0/a14936.html", "d8/dd0/a14936" ],
-    [ "spell_winter_veil_racer_rocket_slam", "db/d18/a14940.html", "db/d18/a14940" ],
-    [ "spell_winter_veil_racer_slam_hit", "d4/d8f/a14944.html", "d4/d8f/a14944" ],
-    [ "spell_winter_veil_shoot_air_rifle", "d8/d92/a14948.html", "d8/d92/a14948" ],
-    [ "airRifle", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ff", [
-      [ "SPELL_AIR_RIFLE_RIGHT_IN_THE_EYE", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ffa5a3aacd3d3eb74e1020f0e24c3de3d64", null ],
-      [ "SPELL_AIR_RIFLE_STARLED", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaab4b4a71800d5b266ac17392701535bd", null ],
-      [ "SPELL_AIR_RIFLE_HIT", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ffadebbc458f6f97c23c78a5d77355557a0", null ],
-      [ "SPELL_AIR_RIFLE_HIT_TRIGGER", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ffaef31b2903ed373a76624e81b5928b3af", null ],
-      [ "SPELL_AIR_RIFLE_PELTED_DAMAGE", "d7/deb/a02090.html#a0a0aa9e1464024e9f2c7b6ec598e13ffada448247eeb3a3e93e78e6d367af2ea4", null ]
+    [ "npc_pos_leader", "da/da9/a17383.html", "da/da9/a17383" ],
+    [ "npc_pos_leader::npc_pos_leaderAI", "d8/d87/a17387.html", "d8/d87/a17387" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d9/d1c/a17391.html", "d9/d1c/a17391" ],
+    [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d5/d3f/a17395.html", "d5/d3f/a17395" ],
+    [ "npc_pos_after_first_boss", "d1/df9/a17399.html", "d1/df9/a17399" ],
+    [ "npc_pos_after_first_boss::npc_pos_after_first_bossAI", "d2/deb/a17403.html", "d2/deb/a17403" ],
+    [ "npc_pos_tyrannus_events", "d1/d76/a17407.html", "d1/d76/a17407" ],
+    [ "npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI", "d9/d21/a17411.html", "d9/d21/a17411" ],
+    [ "npc_pos_icicle_trigger", "d9/df5/a17415.html", "d9/df5/a17415" ],
+    [ "npc_pos_icicle_trigger::npc_pos_icicle_triggerAI", "df/df3/a17419.html", "df/df3/a17419" ],
+    [ "npc_pos_collapsing_icicle", "de/d25/a17423.html", "de/d25/a17423" ],
+    [ "npc_pos_collapsing_icicle::npc_pos_collapsing_icicleAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
+    [ "npc_pos_martin_or_gorkun_second", "d4/d43/a17431.html", "d4/d43/a17431" ],
+    [ "npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI", "df/da9/a17435.html", "df/da9/a17435" ],
+    [ "npc_pos_freed_slave", "da/d06/a17439.html", "da/d06/a17439" ],
+    [ "npc_pos_freed_slave::npc_pos_freed_slaveAI", "d6/d4b/a17443.html", "d6/d4b/a17443" ],
+    [ "npc_pos_leader_second", "dc/dfe/a17447.html", "dc/dfe/a17447" ],
+    [ "npc_pos_leader_second::npc_pos_leader_secondAI", "d0/db7/a17451.html", "d0/db7/a17451" ],
+    [ "spell_pos_empowered_blizzard_aura", "d9/d84/a17455.html", "d9/d84/a17455" ],
+    [ "SlaveRunEvent", "df/d8f/a17459.html", "df/d8f/a17459" ],
+    [ "spell_pos_slave_trigger_closest", "de/d5c/a17463.html", "de/d5c/a17463" ],
+    [ "spell_pos_rimefang_frost_nova", "d9/d4c/a17467.html", "d9/d4c/a17467" ],
+    [ "spell_pos_blight_aura", "d7/df9/a17471.html", "d7/df9/a17471" ],
+    [ "spell_pos_glacial_strike_aura", "dc/d05/a17475.html", "dc/d05/a17475" ],
+    [ "at_tyrannus_event_starter", "d9/d48/a17479.html", "d9/d48/a17479" ],
+    [ "EmpoweredBlizzard", "d7/deb/a02090.html#a8fcef7a07939b8b584fe27646f0e409b", [
+      [ "SPELL_EMPOWERED_BLIZZARD", "d7/deb/a02090.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab", null ]
     ] ],
-    [ "crashinTrashin", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44a", [
-      [ "SPELL_BLUE_CAR_VISUAL", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa2a1df012693fca95e41c96fe1dcfc303", null ],
-      [ "SPELL_RED_CAR_VISUAL", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa83ccfea77911f91274ab6b76a13ebae9", null ],
-      [ "NPC_RED_RACER", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa3a540ecf55e0e9719a7b1ecc0d089e83", null ],
-      [ "NPC_BLUE_RACER", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa29832a92f722fc5ef6e6e0e28c43ace3", null ],
-      [ "SPELL_RACER_DEATH_VISUAL", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa20ebf97f0f750e11499595b1e7908b4e", null ],
-      [ "SPELL_RACER_CHARGE_TO_OBJECT", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa16c954e8ddff4772f6cc38ccdaa4537a", null ],
-      [ "SPELL_RACER_KILL_COUNTER", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aad39b98fd63372c2d7f9b59e290a38a68", null ],
-      [ "SPELL_RACER_SLAM_HIT", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aaf80af723709c8607c78c552286259f0b", null ],
-      [ "SPELL_RACER_FLAMES", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aac4f06456e8aa8d185db27f65280e3410", null ],
-      [ "RACER_ACHI_CRITERIA", "d7/deb/a02090.html#a91189806a3728bf253348c6acff4d44aa0c0977d0fa0c060c272d5a9f59f63f5d", null ]
-    ] ],
-    [ "Mistletoe", "d7/deb/a02090.html#a9ae560d3a366e6f163d4fbfd29d339ac", [
-      [ "SPELL_CREATE_MISTLETOE", "d7/deb/a02090.html#a9ae560d3a366e6f163d4fbfd29d339acafdfb3de4159c5083ea35693ceae8b4cc", null ],
-      [ "SPELL_CREATE_HOLLY", "d7/deb/a02090.html#a9ae560d3a366e6f163d4fbfd29d339aca3935eb67c5b7dbbdca5783cb17586508", null ],
-      [ "SPELL_CREATE_SNOWFLAKES", "d7/deb/a02090.html#a9ae560d3a366e6f163d4fbfd29d339aca6fe4f2b2975d9ebf9ed4f806f9c8427a", null ]
-    ] ],
-    [ "winterWondervoltTrap", "d7/deb/a02090.html#a09023d9a36f692674809d983e0b46bb5", [
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_WOMEN", "d7/deb/a02090.html#a09023d9a36f692674809d983e0b46bb5a584ffc066b04a87863dd3bdaa091d6b6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_GREEN_MAN", "d7/deb/a02090.html#a09023d9a36f692674809d983e0b46bb5a962c9fffba35e4a119f563b8656912db", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_WOMEN", "d7/deb/a02090.html#a09023d9a36f692674809d983e0b46bb5a08177bc4e663c11752af81f832011bf6", null ],
-      [ "SPELL_WINTER_WONDERVOLT_RED_MAN", "d7/deb/a02090.html#a09023d9a36f692674809d983e0b46bb5a7892046e23913f511b843d5a766e4dd0", null ]
-    ] ],
-    [ "AddSC_event_winter_veil_scripts", "d7/deb/a02090.html#a56e93f0f5c0f4763c439d5ea4cdf6c5e", null ]
+    [ "AddSC_pit_of_saron", "d7/deb/a02090.html#ad9b4c5bfe589f9f6b1ea405752347585", null ],
+    [ "slaveFreePos", "d7/deb/a02090.html#a302aeb8575da3775869e8ba2aa788da0", null ]
 ];

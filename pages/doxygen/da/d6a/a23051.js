@@ -1,6 +1,13 @@
 var a23051 =
 [
-    [ "HandleScript", "da/d6a/a23051.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "da/d6a/a23051.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "da/d6a/a23051.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "npc_earthen_ring_flamecaller", "da/d6a/a23051.html#ab402dd321fa0df641b674324386d7591", null ],
+    [ "DoAction", "da/d6a/a23051.html#af745c83529a34a89c430d6113703fff5", null ],
+    [ "LookOpening", "da/d6a/a23051.html#adfc752e7700a816b66b639007a1a90fa", null ],
+    [ "MovementInform", "da/d6a/a23051.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
+    [ "Reset", "da/d6a/a23051.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
+    [ "SpellHit", "da/d6a/a23051.html#ab9c5ad7e56033997042031566748ee2b", null ],
+    [ "UpdateAI", "da/d6a/a23051.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
+    [ "_events", "da/d6a/a23051.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
+    [ "_instance", "da/d6a/a23051.html#a79aa6e628a50ed485cc55513c28362dc", null ],
+    [ "_mySpot", "da/d6a/a23051.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
 ];

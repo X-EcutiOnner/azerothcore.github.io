@@ -1,9 +1,7 @@
 var a11603 =
 [
-    [ "SpellEvent", "db/d9a/a11603.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "db/d9a/a11603.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "db/d9a/a11603.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "db/d9a/a11603.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "db/d9a/a11603.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "db/d9a/a11603.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "OpcodeHandler", "db/d20/a05034.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "db/d20/a05034.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "db/d20/a05034.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "db/d20/a05034.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

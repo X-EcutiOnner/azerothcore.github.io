@@ -1,7 +1,6 @@
 var a22779 =
 [
-    [ "PrepareAuraScript", "d0/da5/a22779.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d0/da5/a22779.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d0/da5/a22779.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d0/da5/a22779.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "HandleDummy", "d0/da5/a22779.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d0/da5/a22779.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d0/da5/a22779.html#a972574075c86c32593982add71dc893f", null ]
 ];

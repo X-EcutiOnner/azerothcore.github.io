@@ -1,5 +1,5 @@
 var a16239 =
 [
-    [ "achievement_watch_him_die", "da/d23/a16239.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "da/d23/a16239.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "achievement_respect_your_elders", "da/d23/a16239.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "da/d23/a16239.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

@@ -1,7 +1,6 @@
 var a19871 =
 [
-    [ "HandlePeriodic", "d4/de8/a19871.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d4/de8/a19871.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d4/de8/a19871.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d4/de8/a19871.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "boss_maiden_of_griefAI", "d2/d2e/a19875.html", "d2/d2e/a19875" ],
+    [ "boss_maiden_of_grief", "d4/de8/a19871.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d4/de8/a19871.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

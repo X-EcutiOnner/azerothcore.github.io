@@ -1,10 +1,10 @@
 var a08907 =
 [
-    [ "PlayerSetting", "d1/db9/a08907.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
-    [ "PlayerSetting", "d1/db9/a08907.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
-    [ "AddFlag", "d1/db9/a08907.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
-    [ "HasFlag", "d1/db9/a08907.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
-    [ "IsEnabled", "d1/db9/a08907.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
-    [ "RemoveFlag", "d1/db9/a08907.html#a4ca3645233a466345d6be217d7a0df2b", null ],
-    [ "value", "d1/db9/a08907.html#a74592e45f8ae4c5f411a982227f809f3", null ]
+    [ "DuelInfo", "d1/db9/a08907.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d1/db9/a08907.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d1/db9/a08907.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d1/db9/a08907.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d1/db9/a08907.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d1/db9/a08907.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d1/db9/a08907.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

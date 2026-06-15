@@ -1,9 +1,11 @@
 var a18603 =
 [
-    [ "npc_spirit_wardenAI", "d0/de2/a18603.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "d0/de2/a18603.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "d0/de2/a18603.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "d0/de2/a18603.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "d0/de2/a18603.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "d0/de2/a18603.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "AddMissingStack", "d0/de2/a18603.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d0/de2/a18603.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d0/de2/a18603.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d0/de2/a18603.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d0/de2/a18603.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d0/de2/a18603.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d0/de2/a18603.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d0/de2/a18603.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

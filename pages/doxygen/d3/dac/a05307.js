@@ -1,15 +1,11 @@
 var a05307 =
 [
-    [ "GetBounds", "d3/dac/a05307.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "d3/dac/a05307.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "d3/dac/a05307.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d3/dac/a05307.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "d3/dac/a05307.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d3/dac/a05307.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d3/dac/a05307.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d3/dac/a05307.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d3/dac/a05307.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d3/dac/a05307.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d3/dac/a05307.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d3/dac/a05307.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "material", "d3/dac/a05307.html#a29addcb613bc63a100633e612d1dc2d2", null ],
+    [ "pos_x", "d3/dac/a05307.html#a02e9d8789336d77e34bffa19adbab394", null ],
+    [ "pos_y", "d3/dac/a05307.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
+    [ "pos_z", "d3/dac/a05307.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
+    [ "xtiles", "d3/dac/a05307.html#a94789843c68d705184e6332ac46bd69d", null ],
+    [ "xverts", "d3/dac/a05307.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
+    [ "ytiles", "d3/dac/a05307.html#ac50224cdce231460c78c3e0f077b555d", null ],
+    [ "yverts", "d3/dac/a05307.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
 ];

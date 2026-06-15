@@ -1,8 +1,7 @@
 var a22515 =
 [
-    [ "HandleScriptEffect", "d2/d11/a22515.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d2/d11/a22515.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d2/d11/a22515.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d2/d11/a22515.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d2/d11/a22515.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "HandleEffectRemove", "d2/d11/a22515.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d2/d11/a22515.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d2/d11/a22515.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d2/d11/a22515.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

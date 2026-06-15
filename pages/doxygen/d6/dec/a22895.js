@@ -1,6 +1,6 @@
 var a22895 =
 [
-    [ "HandleEffectRemove", "d6/dec/a22895.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
-    [ "PrepareAuraScript", "d6/dec/a22895.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
-    [ "Register", "d6/dec/a22895.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
+    [ "OnPeriodic", "d6/dec/a22895.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d6/dec/a22895.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d6/dec/a22895.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

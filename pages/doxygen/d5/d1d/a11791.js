@@ -1,8 +1,5 @@
 var a11791 =
 [
-    [ "EffectHandler", "d5/d1d/a11791.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d5/d1d/a11791.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d5/d1d/a11791.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d5/d1d/a11791.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d5/d1d/a11791.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "effectMask", "d5/d1d/a11791.html#a3161ec2ffdf794c000cc94b91519d009", null ],
+    [ "item", "d5/d1d/a11791.html#afce5eba99c3dc33698dd12af8432f357", null ]
 ];

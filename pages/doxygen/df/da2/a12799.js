@@ -1,7 +1,7 @@
 var a12799 =
 [
-    [ "HandleScript", "df/da2/a12799.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "df/da2/a12799.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "df/da2/a12799.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "df/da2/a12799.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "HandleScript", "df/da2/a12799.html#a0d244cc1785b136bae0960d697dc761d", null ],
+    [ "PrepareSpellScript", "df/da2/a12799.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
+    [ "Register", "df/da2/a12799.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
+    [ "Validate", "df/da2/a12799.html#a1413754f3a79caf8ec57d394c68f3499", null ]
 ];

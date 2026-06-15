@@ -1,8 +1,6 @@
 var a15719 =
 [
-    [ "npc_aged_dying_ancient_kodo", "d5/d10/a15719.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
-    [ "JustRespawned", "d5/d10/a15719.html#ab401f9002bd49b26cc0526112e715d1e", null ],
-    [ "MoveInLineOfSight", "d5/d10/a15719.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
-    [ "sGossipHello", "d5/d10/a15719.html#a8bd41050426cdee7da37d1370e5a7363", null ],
-    [ "SpellHit", "d5/d10/a15719.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
+    [ "HandleDummy", "d5/d10/a15719.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "d5/d10/a15719.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "d5/d10/a15719.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

@@ -1,6 +1,6 @@
 var a21951 =
 [
-    [ "npc_iron_watcherAI", "d3/d78/a21955.html", "d3/d78/a21955" ],
-    [ "npc_iron_watcher", "db/da5/a21951.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "db/da5/a21951.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "npc_vekjik", "db/da5/a21951.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "db/da5/a21951.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "db/da5/a21951.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

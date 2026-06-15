@@ -1,12 +1,11 @@
 var a05311 =
 [
-    [ "ModelInstance", "d7/df8/a05311.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "d7/df8/a05311.html#a29f231796cf586e93a39e91905e07509", null ],
-    [ "GetLiquidLevel", "d7/df8/a05311.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "d7/df8/a05311.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "d7/df8/a05311.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectRay", "d7/df8/a05311.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "iInvRot", "d7/df8/a05311.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "d7/df8/a05311.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "d7/df8/a05311.html#a1826bd594e558180a18d1c3cf188c801", null ]
+    [ "ModelPosition", "d7/df8/a05311.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "d7/df8/a05311.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "d7/df8/a05311.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "d7/df8/a05311.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "d7/df8/a05311.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "d7/df8/a05311.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "d7/df8/a05311.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "d7/df8/a05311.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21939 =
 [
-    [ "HandleScript", "d3/d6b/a21939.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d3/d6b/a21939.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d3/d6b/a21939.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_mcmanus", "d3/d6b/a21939.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d3/d6b/a21939.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d3/d6b/a21939.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

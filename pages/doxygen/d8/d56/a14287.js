@@ -1,5 +1,5 @@
 var a14287 =
 [
-    [ "at_zulgurub_temple_speech", "d8/d56/a14287.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d8/d56/a14287.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "entry", "d8/d56/a14287.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "d8/d56/a14287.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

@@ -1,8 +1,4 @@
 var a04877 =
 [
-    [ "SpellProcTestEntry", "d0/d67/a29616.html", "d0/d67/a29616" ],
-    [ "GetAllSpellProcTestEntries", "db/dab/a04877.html#a39025d5b336e745566f739e9d1f68e78", null ],
-    [ "GroupByHitMask", "db/dab/a04877.html#a9c10a33f80d5dad16ac98bf115774ded", null ],
-    [ "GroupByProcFlags", "db/dab/a04877.html#a8a30ea152f1ec07a3e93549376c04b74", null ],
-    [ "GroupBySpellFamily", "db/dab/a04877.html#ac781b3845801dede698012d7118061a4", null ]
+    [ "address_to_uint", "db/dab/a04877.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
 ];

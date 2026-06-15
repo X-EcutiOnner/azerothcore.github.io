@@ -1,8 +1,6 @@
 var a15575 =
 [
-    [ "npc_ahnqiraji_critter", "d2/d7b/a15575.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d2/d7b/a15575.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d2/d7b/a15575.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d2/d7b/a15575.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d2/d7b/a15575.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "OnPeriodic", "d2/d7b/a15575.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "d2/d7b/a15575.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "d2/d7b/a15575.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

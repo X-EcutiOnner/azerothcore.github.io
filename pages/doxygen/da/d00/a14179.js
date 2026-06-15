@@ -1,22 +1,7 @@
 var a14179 =
 [
-    [ "instance_zulaman_InstanceMapScript", "da/d00/a14179.html#a55a0c486845dc63865cf557271304c20", null ],
-    [ "CheckInstanceStatus", "da/d00/a14179.html#a195e4175f943bfaf42ded378cde928e4", null ],
-    [ "DoAction", "da/d00/a14179.html#ad5eed417fb2a38a1b02bc6275e9f229a", null ],
-    [ "GetData", "da/d00/a14179.html#ad6c1123183e28dd91f78a993a79bf3e8", null ],
-    [ "Initialize", "da/d00/a14179.html#a070925eb76b8af866819844411da1beb", null ],
-    [ "OnCreatureCreate", "da/d00/a14179.html#a92d7ca86c2ecbad6a64a2bc7131b7260", null ],
-    [ "OnCreatureEvade", "da/d00/a14179.html#a654947f2b1dce457f56327e7dff8ccf4", null ],
-    [ "OnGameObjectCreate", "da/d00/a14179.html#a4545b6c8ff9e9908466ce105b484ef70", null ],
-    [ "OnPlayerEnter", "da/d00/a14179.html#a1cf2834e928692c69fdfcf7ae8910745", null ],
-    [ "OnUnitDeath", "da/d00/a14179.html#a5cb0702b7cad42f0760d360dfc3345f3", null ],
-    [ "ResetAkilzonGauntlet", "da/d00/a14179.html#a1623080f2466aeca03f048decc34bdb5", null ],
-    [ "SetBossState", "da/d00/a14179.html#a79b3f358115fecb63e1cfb45801fdffb", null ],
-    [ "SetData", "da/d00/a14179.html#a7381d84943028f66b339168724b467b8", null ],
-    [ "StartAkilzonGauntlet", "da/d00/a14179.html#a16b67dce6407db52ec7571c9bbc9f8c5", null ],
-    [ "SummonHostage", "da/d00/a14179.html#a907b3f4a59cbd366f702daeffe05d607", null ],
-    [ "Update", "da/d00/a14179.html#a826800c63083d2af31847118c8b05e57", null ],
-    [ "_akilzonGauntlet", "da/d00/a14179.html#a57cf874e315f0f9686b684151c37e740", null ],
-    [ "AkilzonTrash", "da/d00/a14179.html#a9f2fc91191dfaac5218f95fed71e2bcf", null ],
-    [ "RandVendor", "da/d00/a14179.html#ae1e7cad436566533b7673438884e6210", null ]
+    [ "HandleScript", "da/d00/a14179.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "da/d00/a14179.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "da/d00/a14179.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "da/d00/a14179.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

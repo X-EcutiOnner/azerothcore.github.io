@@ -1,7 +1,8 @@
 var a17531 =
 [
-    [ "HandleDummyTick", "d1/da7/a17531.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d1/da7/a17531.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d1/da7/a17531.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d1/da7/a17531.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "boss_eck", "d1/da7/a17531.html#a665b54f72e674c8f65dd09daba5413db", null ],
+    [ "InitializeAI", "d1/da7/a17531.html#a92e5117337d372e1700d074f02c06df6", null ],
+    [ "JustEngagedWith", "d1/da7/a17531.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
+    [ "MovementInform", "d1/da7/a17531.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
+    [ "SpellHitTarget", "d1/da7/a17531.html#a63125d970933d6fa1f196aa28c588f40", null ]
 ];

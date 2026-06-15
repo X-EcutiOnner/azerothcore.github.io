@@ -1,10 +1,6 @@
 var a27839 =
 [
-    [ "boss_emerissAI", "d1/da9/a27839.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d1/da9/a27839.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d1/da9/a27839.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d1/da9/a27839.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d1/da9/a27839.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d1/da9/a27839.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d1/da9/a27839.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "boss_emerissAI", "d3/dc9/a27843.html", "d3/dc9/a27843" ],
+    [ "boss_emeriss", "d1/da9/a27839.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d1/da9/a27839.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

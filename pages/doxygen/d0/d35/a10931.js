@@ -1,8 +1,7 @@
 var a10931 =
 [
-    [ "GuildEvent", "d0/d35/a10931.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "d0/d35/a10931.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "d0/d35/a10931.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "d0/d35/a10931.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "d0/d35/a10931.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "Emote", "d0/d35/a10931.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d0/d35/a10931.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d0/d35/a10931.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d0/d35/a10931.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

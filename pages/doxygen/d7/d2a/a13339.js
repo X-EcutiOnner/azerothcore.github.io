@@ -1,6 +1,5 @@
 var a13339 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d2/d6d/a13343.html", "d2/d6d/a13343" ],
-    [ "npc_valkyr_battle_maiden", "d7/d2a/a13339.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "d7/d2a/a13339.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "boss_yazzai", "d7/d2a/a13339.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "d7/d2a/a13339.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

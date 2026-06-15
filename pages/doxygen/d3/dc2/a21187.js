@@ -1,8 +1,6 @@
 var a21187 =
 [
-    [ "npc_azure_raiderAI", "d3/dc2/a21187.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d3/dc2/a21187.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d3/dc2/a21187.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d3/dc2/a21187.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d3/dc2/a21187.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_frozen_orb_stalkerAI", "dc/da1/a21191.html", "dc/da1/a21191" ],
+    [ "npc_frozen_orb_stalker", "d3/dc2/a21187.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d3/dc2/a21187.html#af33e27138a70286bac561113ed09f350", null ]
 ];

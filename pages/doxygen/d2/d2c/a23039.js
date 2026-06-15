@@ -1,8 +1,11 @@
 var a23039 =
 [
-    [ "FilterTargets", "d2/d2c/a23039.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d2/d2c/a23039.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d2/d2c/a23039.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d2/d2c/a23039.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d2/d2c/a23039.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "boss_ahune", "d2/d2c/a23039.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d2/d2c/a23039.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d2/d2c/a23039.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d2/d2c/a23039.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d2/d2c/a23039.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d2/d2c/a23039.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d2/d2c/a23039.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d2/d2c/a23039.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

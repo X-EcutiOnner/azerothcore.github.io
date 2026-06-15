@@ -1,13 +1,12 @@
 var a07747 =
 [
-    [ "WhoListCacheMgr", "dc/df1/a07747.html#a2190c113c3d38bd316b17a4400c113e6", null ],
-    [ "~WhoListCacheMgr", "dc/df1/a07747.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
-    [ "WhoListCacheMgr", "dc/df1/a07747.html#a366e452317179d647042c24c56faafa1", null ],
-    [ "WhoListCacheMgr", "dc/df1/a07747.html#ae0358ae9260f929410f6518f89135161", null ],
-    [ "GetWhoList", "dc/df1/a07747.html#a4dec6544342fdc5052b69dcc61148453", null ],
-    [ "instance", "dc/df1/a07747.html#a1e8ce970e3213cd0361af303df98b387", null ],
-    [ "operator=", "dc/df1/a07747.html#a80615aa0a66ac29765f27598e605c712", null ],
-    [ "operator=", "dc/df1/a07747.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
-    [ "Update", "dc/df1/a07747.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
-    [ "_whoListStorage", "dc/df1/a07747.html#a75495cb910c6de65d60a5080248e1e25", null ]
+    [ "CapturePointInfo", "dc/df1/a07747.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "dc/df1/a07747.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "dc/df1/a07747.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "dc/df1/a07747.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "dc/df1/a07747.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "dc/df1/a07747.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "dc/df1/a07747.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "dc/df1/a07747.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "dc/df1/a07747.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

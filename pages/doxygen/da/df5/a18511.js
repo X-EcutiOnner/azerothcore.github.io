@@ -1,12 +1,9 @@
 var a18511 =
 [
-    [ "npc_raging_spiritAI", "da/df5/a18511.html#a1c85351ae62d5f45381214373e64aec4", null ],
-    [ "AttackStart", "da/df5/a18511.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
-    [ "CanAIAttack", "da/df5/a18511.html#a64fa46f05861d8736d881aa3687f4320", null ],
-    [ "IsSummonedBy", "da/df5/a18511.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
-    [ "JustDied", "da/df5/a18511.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
-    [ "Reset", "da/df5/a18511.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
-    [ "UpdateAI", "da/df5/a18511.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
-    [ "_events", "da/df5/a18511.html#af5783316983b622f20d8c677f2858111", null ],
-    [ "_instance", "da/df5/a18511.html#aaa9b5728fcdb379849434385b3501251", null ]
+    [ "ShadowTrapLKTargetSelector", "da/df5/a18511.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "da/df5/a18511.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "da/df5/a18511.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "da/df5/a18511.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "da/df5/a18511.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "da/df5/a18511.html#af416013aabf3b217b07228072076603d", null ]
 ];

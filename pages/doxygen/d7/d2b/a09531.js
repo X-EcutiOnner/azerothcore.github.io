@@ -1,9 +1,12 @@
 var a09531 =
 [
-    [ "CreatureSearcher", "d7/d2b/a09531.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
-    [ "Visit", "d7/d2b/a09531.html#a50630891bfb459c6c526b3e4e7e29136", null ],
-    [ "Visit", "d7/d2b/a09531.html#a503aab809be6f5d60c020e89c64dce7b", null ],
-    [ "i_check", "d7/d2b/a09531.html#abc72e56d9453d798fcb457aff023d3ac", null ],
-    [ "i_object", "d7/d2b/a09531.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
-    [ "i_phaseMask", "d7/d2b/a09531.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
+    [ "VisibleNotifier", "d7/d2b/a09531.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d7/d2b/a09531.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d7/d2b/a09531.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d7/d2b/a09531.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d7/d2b/a09531.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d7/d2b/a09531.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d7/d2b/a09531.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d7/d2b/a09531.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d7/d2b/a09531.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

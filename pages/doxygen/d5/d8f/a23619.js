@@ -1,7 +1,6 @@
 var a23619 =
 [
-    [ "boss_gatewatcher_iron_hand", "d5/d8f/a23619.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d5/d8f/a23619.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d5/d8f/a23619.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d5/d8f/a23619.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "lapseTeleport", "d5/d8f/a23619.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d5/d8f/a23619.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d5/d8f/a23619.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

@@ -1,12 +1,12 @@
 var a05108 =
 [
-    [ "DismissCritter", "d2/d61/a11436.html", "d2/d61/a11436" ],
-    [ "PetAbandon", "db/dff/a11440.html", "db/dff/a11440" ],
-    [ "PetActionSound", "d8/d59/a11464.html", "d8/d59/a11464" ],
-    [ "PetDismissSound", "dd/d2c/a11468.html", "dd/d2c/a11468" ],
-    [ "PetLearnedSpell", "d7/dd8/a11452.html", "d7/dd8/a11452" ],
-    [ "PetSpellAutocast", "d1/d7d/a11448.html", "d1/d7d/a11448" ],
-    [ "PetStopAttack", "d7/dbc/a11444.html", "d7/dbc/a11444" ],
-    [ "PetUnlearnedSpell", "d8/d0c/a11456.html", "d8/d0c/a11456" ],
-    [ "RequestPetInfo", "dd/d25/a11460.html", "dd/d25/a11460" ]
+    [ "InstanceLockResponse", "d5/de4/a11203.html", "d5/de4/a11203" ],
+    [ "InstanceReset", "d7/d40/a11171.html", "d7/d40/a11171" ],
+    [ "InstanceResetFailed", "d6/d74/a11175.html", "d6/d74/a11175" ],
+    [ "ResetFailedNotify", "d6/dd6/a11187.html", "d6/dd6/a11187" ],
+    [ "ResetInstances", "d2/d90/a11199.html", "d2/d90/a11199" ],
+    [ "SetDungeonDifficulty", "d8/d21/a11179.html", "d8/d21/a11179" ],
+    [ "SetDungeonDifficultyClient", "d8/d46/a11183.html", "d8/d46/a11183" ],
+    [ "SetRaidDifficulty", "d3/dfc/a11191.html", "d3/dfc/a11191" ],
+    [ "SetRaidDifficultyClient", "d4/d19/a11195.html", "d4/d19/a11195" ]
 ];

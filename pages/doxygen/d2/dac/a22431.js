@@ -1,6 +1,11 @@
 var a22431 =
 [
-    [ "FilterTargets", "d2/dac/a22431.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d2/dac/a22431.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d2/dac/a22431.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "boss_blackheart_the_inciter", "d2/dac/a22431.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d2/dac/a22431.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d2/dac/a22431.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d2/dac/a22431.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d2/dac/a22431.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d2/dac/a22431.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d2/dac/a22431.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d2/dac/a22431.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

@@ -1,6 +1,9 @@
 var a23787 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d7/dfb/a23791.html", "d7/dfb/a23791" ],
-    [ "npc_creditmarker_visit_with_ancestors", "da/d08/a23787.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "da/d08/a23787.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "npc_ancestral_wolfAI", "da/d08/a23787.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "da/d08/a23787.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "da/d08/a23787.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "da/d08/a23787.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "WaypointReached", "da/d08/a23787.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ryga", "da/d08/a23787.html#ac238214604720e298124b58c35d58e05", null ]
 ];

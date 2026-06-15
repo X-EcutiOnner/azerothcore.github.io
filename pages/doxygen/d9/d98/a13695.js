@@ -1,6 +1,5 @@
 var a13695 =
 [
-    [ "HandlePeriodic", "d9/d98/a13695.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d9/d98/a13695.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d9/d98/a13695.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "at_sunwell_madrigosa", "d9/d98/a13695.html#a489ddb537ef272f22bd69ced194762e7", null ],
+    [ "_OnTrigger", "d9/d98/a13695.html#a137c231ea66d3781080a5617a2ffcc9e", null ]
 ];

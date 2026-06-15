@@ -1,8 +1,8 @@
 var a09355 =
 [
-    [ "PlayerWorker", "d8/d27/a09355.html#ac7c16ec87b533b7b58b768cac116d7a2", null ],
-    [ "Visit", "d8/d27/a09355.html#a018b799be67c284d6ed5c7a368ef1985", null ],
-    [ "Visit", "d8/d27/a09355.html#a19c56b5bde9e57ea0152a89ac05e292b", null ],
-    [ "i_do", "d8/d27/a09355.html#ae09b42f770e895b1c283ea7ca7527b7a", null ],
-    [ "i_phaseMask", "d8/d27/a09355.html#aa23944bde7aa8e3a77f33b0a93f92c57", null ]
+    [ "MailLevelReward", "d8/d27/a09355.html#accd52642cbbab457b69dba54a6ffa23b", null ],
+    [ "MailLevelReward", "d8/d27/a09355.html#a3e98aa5c30b0b5648784f9aaf5349a76", null ],
+    [ "mailTemplateId", "d8/d27/a09355.html#afdf6684bcd2751822bd00ba1509ef933", null ],
+    [ "raceMask", "d8/d27/a09355.html#a341088acd89b79161d932367f4f1798d", null ],
+    [ "senderEntry", "d8/d27/a09355.html#a2b678ac953209691b38d583cffab55b5", null ]
 ];

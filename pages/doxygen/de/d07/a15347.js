@@ -1,7 +1,7 @@
 var a15347 =
 [
-    [ "boss_rajaxx", "de/d07/a15347.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "de/d07/a15347.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "de/d07/a15347.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "de/d07/a15347.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_onyxian_lair_guard", "de/d07/a15347.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "de/d07/a15347.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "de/d07/a15347.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "de/d07/a15347.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

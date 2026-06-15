@@ -1,5 +1,8 @@
 var a17787 =
 [
-    [ "npc_zafod_boomboxAI", "da/df9/a17787.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "da/df9/a17787.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "npc_saurfang_eventAI", "da/df9/a17787.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "da/df9/a17787.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "da/df9/a17787.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "da/df9/a17787.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "da/df9/a17787.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

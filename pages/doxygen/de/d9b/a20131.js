@@ -1,7 +1,8 @@
 var a20131 =
 [
-    [ "HandleEffectPeriodic", "de/d9b/a20131.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "de/d9b/a20131.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "de/d9b/a20131.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "de/d9b/a20131.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "FilterTargets", "de/d9b/a20131.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "de/d9b/a20131.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "de/d9b/a20131.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "de/d9b/a20131.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "de/d9b/a20131.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

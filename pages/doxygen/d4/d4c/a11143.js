@@ -1,11 +1,7 @@
 var a11143 =
 [
-    [ "DestroyItem", "d4/d4c/a11143.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
-    [ "Read", "d4/d4c/a11143.html#a9f7fa7614db176262437478b4d92e9f9", null ],
-    [ "Bag", "d4/d4c/a11143.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
-    [ "Count", "d4/d4c/a11143.html#af18875aa85f12191a47d97380f459c45", null ],
-    [ "Data1", "d4/d4c/a11143.html#a34fa30122f101e15de6252c289b82680", null ],
-    [ "Data2", "d4/d4c/a11143.html#a227470a5932383e0ab7b9a369dfb3445", null ],
-    [ "Data3", "d4/d4c/a11143.html#a019a891e4906ce9dafef6e276d635df7", null ],
-    [ "Slot", "d4/d4c/a11143.html#af8274f1ded5565dc0f79e28948825ea2", null ]
+    [ "GuildBankLogQueryResults", "d4/d4c/a11143.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d4/d4c/a11143.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d4/d4c/a11143.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d4/d4c/a11143.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

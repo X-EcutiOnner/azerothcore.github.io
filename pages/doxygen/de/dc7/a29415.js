@@ -1,10 +1,14 @@
 var a29415 =
 [
-    [ "SetUp", "de/dc7/a29415.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "de/dc7/a29415.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "de/dc7/a29415.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "de/dc7/a29415.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "de/dc7/a29415.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "de/dc7/a29415.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "de/dc7/a29415.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "SetUp", "de/dc7/a29415.html#a77eba369912e1969b3f049cb3a5c0ca4", null ],
+    [ "TearDown", "de/dc7/a29415.html#adc8da5178618fb9742ea60920560d6ff", null ],
+    [ "PERM_ADMIN_1", "de/dc7/a29415.html#afaa2c4b6a7112d04a95cd85143b0f4f0", null ],
+    [ "PERM_GM_1", "de/dc7/a29415.html#a378e309848a3ee8b3f0e610572ba6124", null ],
+    [ "PERM_MOD_1", "de/dc7/a29415.html#a05f115edd8aa321527de060f17c2e956", null ],
+    [ "PERM_PLAYER_1", "de/dc7/a29415.html#a2c61447c90608ed3b714ba4e28efca76", null ],
+    [ "PERM_PLAYER_2", "de/dc7/a29415.html#a31cc52a84454c48879c558f9698cd29b", null ],
+    [ "SEC_ADMINISTRATOR", "de/dc7/a29415.html#aaddb5fa0a6d385cda760eaf92a7f59b3", null ],
+    [ "SEC_GAMEMASTER", "de/dc7/a29415.html#ac922fc5904bb31a878f28a210b1a5740", null ],
+    [ "SEC_MODERATOR", "de/dc7/a29415.html#a82e9196ebe8fe4f4672abe9cfbc6f163", null ],
+    [ "SEC_PLAYER", "de/dc7/a29415.html#ad8c087c8b8503262387306039b44f09c", null ]
 ];

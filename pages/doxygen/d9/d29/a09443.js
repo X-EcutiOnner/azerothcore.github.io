@@ -1,12 +1,10 @@
 var a09443 =
 [
-    [ "GridTerrainLoader", "d9/d29/a09443.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "d9/d29/a09443.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "d9/d29/a09443.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "d9/d29/a09443.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "d9/d29/a09443.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "d9/d29/a09443.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "d9/d29/a09443.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "d9/d29/a09443.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "d9/d29/a09443.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "GridObjectLoader", "d9/d29/a09443.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d9/d29/a09443.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d9/d29/a09443.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d9/d29/a09443.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d9/d29/a09443.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d9/d29/a09443.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d9/d29/a09443.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

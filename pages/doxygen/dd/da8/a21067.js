@@ -1,10 +1,9 @@
 var a21067 =
 [
-    [ "npc_erekem_guardAI", "dd/da8/a21067.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "dd/da8/a21067.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "dd/da8/a21067.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "dd/da8/a21067.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "dd/da8/a21067.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "dd/da8/a21067.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "dd/da8/a21067.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "CastTheNextTwoSpells", "dd/da8/a21067.html#a70a154ea5c19c36630e94c5214ee6722", null ],
+    [ "OnPeriodic", "dd/da8/a21067.html#ac9b99d9328affec2787691f80e0cc9c3", null ],
+    [ "PrepareAuraScript", "dd/da8/a21067.html#ac7450be0713ce98e7986d322a58289f6", null ],
+    [ "PushBackTheNextTwoSpells", "dd/da8/a21067.html#a9e470116c80cf56b425e344d73e44533", null ],
+    [ "Register", "dd/da8/a21067.html#ad948e7cb5a64ed5bd202c10b28285d9c", null ],
+    [ "_summonSpells", "dd/da8/a21067.html#a578dbb8c828e3acf36b21a38628c94e1", null ]
 ];

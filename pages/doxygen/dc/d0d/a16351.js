@@ -1,11 +1,5 @@
 var a16351 =
 [
-    [ "boss_general_zarithrianAI", "dc/d0d/a16351.html#a4168a5883052810d137f59d3b104bc24", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "dc/d0d/a16351.html#a22f6ff041e61c94df73a938162fa26f5", null ],
-    [ "JustDied", "dc/d0d/a16351.html#a49be533142c82a95a136dc2dcbf4843c", null ],
-    [ "JustEngagedWith", "dc/d0d/a16351.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
-    [ "JustSummoned", "dc/d0d/a16351.html#acb694d20b35d57a315aa4662562af210", null ],
-    [ "KilledUnit", "dc/d0d/a16351.html#ad385477740b728e63acff7c184df3c09", null ],
-    [ "Reset", "dc/d0d/a16351.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
-    [ "UpdateAI", "dc/d0d/a16351.html#a3a7e578d64a760cd38712c725eecc97d", null ]
+    [ "achievement_hadronox_denied", "dc/d0d/a16351.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "dc/d0d/a16351.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

@@ -1,6 +1,6 @@
 var a17051 =
 [
-    [ "PrepareSpellScript", "d2/d59/a17051.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d2/d59/a17051.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d2/d59/a17051.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "HandleEffectPeriodic", "d2/d59/a17051.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d2/d59/a17051.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d2/d59/a17051.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

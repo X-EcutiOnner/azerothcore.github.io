@@ -1,5 +1,7 @@
 var a16343 =
 [
-    [ "at_baltharus_plateau", "de/d77/a16343.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "de/d77/a16343.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "HandleEffectRemove", "de/d77/a16343.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "de/d77/a16343.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "de/d77/a16343.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "de/d77/a16343.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

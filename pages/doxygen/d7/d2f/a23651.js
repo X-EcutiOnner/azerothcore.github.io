@@ -1,11 +1,6 @@
 var a23651 =
 [
-    [ "boss_pathaleon_the_calculator", "d7/d2f/a23651.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d7/d2f/a23651.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d7/d2f/a23651.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d7/d2f/a23651.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d7/d2f/a23651.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d7/d2f/a23651.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d7/d2f/a23651.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d7/d2f/a23651.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "instance_the_eye_InstanceMapScript", "d6/da5/a23655.html", "d6/da5/a23655" ],
+    [ "instance_the_eye", "d7/d2f/a23651.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "d7/d2f/a23651.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

@@ -1,10 +1,10 @@
 var a15839 =
 [
-    [ "CreatureId", "d5/d28/a15839.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d5/d28/a15839.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d5/d28/a15839.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d5/d28/a15839.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d5/d28/a15839.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d5/d28/a15839.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d5/d28/a15839.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_rabid_thistle_bearAI", "d5/d28/a15839.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "d5/d28/a15839.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "d5/d28/a15839.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "d5/d28/a15839.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "d5/d28/a15839.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "d5/d28/a15839.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "d5/d28/a15839.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

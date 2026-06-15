@@ -1,7 +1,10 @@
 var a29931 =
 [
-    [ "MPQArchive", "db/d83/a28922.html", "db/d83/a28922" ],
-    [ "MPQFile", "dd/d77/a28926.html", "dd/d77/a28926" ],
-    [ "ArchiveSet", "de/d2c/a29931.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "de/d2c/a29931.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "ADTFile", "de/d2c/a29931.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "de/d2c/a29931.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "de/d2c/a29931.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "de/d2c/a29931.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "de/d2c/a29931.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "de/d2c/a29931.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "de/d2c/a29931.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

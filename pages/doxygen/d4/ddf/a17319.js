@@ -1,6 +1,5 @@
 var a17319 =
 [
-    [ "npc_pos_freed_slaveAI", "d4/ddf/a17319.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d4/ddf/a17319.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d4/ddf/a17319.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "at_hor_battered_hilt_throw", "d4/ddf/a17319.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "d4/ddf/a17319.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

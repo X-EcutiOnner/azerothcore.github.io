@@ -1,8 +1,9 @@
 var a09603 =
 [
-    [ "MostHPMissingInRange", "df/da2/a09603.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "df/da2/a09603.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "df/da2/a09603.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "df/da2/a09603.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "df/da2/a09603.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "UnitListSearcher", "df/da2/a09603.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "df/da2/a09603.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "df/da2/a09603.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "df/da2/a09603.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "df/da2/a09603.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "df/da2/a09603.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

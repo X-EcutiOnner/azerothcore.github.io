@@ -1,12 +1,8 @@
 var a04871 =
 [
-    [ "SpellProcSpellTypeMaskTest", "d3/d23/a29604.html", "d3/d23/a29604" ],
-    [ "TEST_F", "da/dbb/a04871.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
-    [ "TEST_F", "da/dbb/a04871.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
-    [ "TEST_F", "da/dbb/a04871.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
-    [ "TEST_F", "da/dbb/a04871.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
-    [ "TEST_F", "da/dbb/a04871.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
-    [ "TEST_F", "da/dbb/a04871.html#ab03489d280d80145880f52bc0a09c584", null ],
-    [ "TEST_F", "da/dbb/a04871.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
-    [ "TEST_F", "da/dbb/a04871.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
+    [ "Acore::Asio::IoContext", "d7/d05/a05163.html", "d7/d05/a05163" ],
+    [ "IoContextBase", "da/dbb/a04871.html#a0ec391e3d78f246934f76abd937aecd8", null ],
+    [ "IoContextBaseNamespace", "da/dbb/a04871.html#ad5308134581a9f19bfac4d556ec345b9", null ],
+    [ "get_io_context", "da/dbb/a04871.html#a47f8fe35925492e3f01d723115279f2e", null ],
+    [ "post", "da/dbb/a04871.html#ac437e3511a92ead72c7d3c1f6004daaf", null ]
 ];

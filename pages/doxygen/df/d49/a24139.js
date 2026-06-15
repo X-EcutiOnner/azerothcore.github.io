@@ -1,8 +1,10 @@
 var a24139 =
 [
-    [ "npc_pet_darting_hatchling", "df/d49/a24139.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "df/d49/a24139.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "df/d49/a24139.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "df/d49/a24139.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "df/d49/a24139.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "df/d49/a24139.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "df/d49/a24139.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "df/d49/a24139.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "df/d49/a24139.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "df/d49/a24139.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "df/d49/a24139.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "df/d49/a24139.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

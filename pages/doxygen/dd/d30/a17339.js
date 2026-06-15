@@ -1,6 +1,9 @@
 var a17339 =
 [
-    [ "HandleDummy", "dd/d30/a17339.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "dd/d30/a17339.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "dd/d30/a17339.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "FilterTargets", "dd/d30/a17339.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "dd/d30/a17339.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "dd/d30/a17339.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "dd/d30/a17339.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "dd/d30/a17339.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "dd/d30/a17339.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

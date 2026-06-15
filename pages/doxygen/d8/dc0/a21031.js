@@ -1,6 +1,6 @@
 var a21031 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d1/d51/a21035.html", "d1/d51/a21035" ],
-    [ "npc_frozen_orb_stalker", "d8/dc0/a21031.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d8/dc0/a21031.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "boss_skadiAI", "d1/d51/a21035.html", "d1/d51/a21035" ],
+    [ "boss_skadi", "d8/dc0/a21031.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "d8/dc0/a21031.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
 ];

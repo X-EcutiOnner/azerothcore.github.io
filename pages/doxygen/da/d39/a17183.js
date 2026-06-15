@@ -1,8 +1,7 @@
 var a17183 =
 [
-    [ "npc_hor_lumbering_abomination", "da/d39/a17183.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "da/d39/a17183.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "da/d39/a17183.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "da/d39/a17183.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "da/d39/a17183.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "HandlePeriodicTick", "da/d39/a17183.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "da/d39/a17183.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "da/d39/a17183.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "da/d39/a17183.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

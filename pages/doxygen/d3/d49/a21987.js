@@ -1,8 +1,7 @@
 var a21987 =
 [
-    [ "npc_freed_protodrakeAI", "d3/d49/a21987.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d3/d49/a21987.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d3/d49/a21987.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d3/d49/a21987.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d3/d49/a21987.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "HandleSendEvent", "d3/d49/a21987.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d3/d49/a21987.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d3/d49/a21987.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d3/d49/a21987.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

@@ -1,8 +1,9 @@
 var a22639 =
 [
-    [ "HandleEffectApply", "d6/df5/a22639.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "d6/df5/a22639.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "d6/df5/a22639.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "d6/df5/a22639.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "d6/df5/a22639.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "FilterTargets", "d6/df5/a22639.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d6/df5/a22639.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d6/df5/a22639.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d6/df5/a22639.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d6/df5/a22639.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d6/df5/a22639.html#a814083360970284a325621f45e109b5b", null ]
 ];

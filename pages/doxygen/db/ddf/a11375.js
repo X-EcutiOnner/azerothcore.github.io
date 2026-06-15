@@ -1,6 +1,7 @@
 var a11375 =
 [
-    [ "PetLearnedSpell", "db/ddf/a11375.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "db/ddf/a11375.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "db/ddf/a11375.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "TrainerBuySpell", "db/ddf/a11375.html#a8afb92fb908d5efd54bcb78269069d39", null ],
+    [ "Read", "db/ddf/a11375.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
+    [ "SpellID", "db/ddf/a11375.html#ae342c806c8faabae54260a26659d49ea", null ],
+    [ "TrainerGUID", "db/ddf/a11375.html#aca1d9dc89b96415a5065a67f7083423c", null ]
 ];

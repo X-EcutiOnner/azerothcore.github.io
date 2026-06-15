@@ -1,7 +1,6 @@
 var a16331 =
 [
-    [ "CheckDistance", "d7/d1a/a16331.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "d7/d1a/a16331.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "d7/d1a/a16331.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "d7/d1a/a16331.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "npc_anub_ar_crusher_crypt_fiend", "d7/d1a/a16331.html#a89abbce738f115c26dae9dacb065cc3d", null ],
+    [ "DoEngagedWith", "d7/d1a/a16331.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
+    [ "DoEvent", "d7/d1a/a16331.html#a276eca6e65b32905f6919d49530ccc2f", null ]
 ];

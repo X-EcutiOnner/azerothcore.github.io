@@ -1,6 +1,6 @@
 var a14995 =
 [
-    [ "HandleHeal", "d4/d1c/a14995.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d4/d1c/a14995.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d4/d1c/a14995.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "HandleScriptEffect", "d4/d1c/a14995.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d4/d1c/a14995.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d4/d1c/a14995.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

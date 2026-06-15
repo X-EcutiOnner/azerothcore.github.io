@@ -1,9 +1,6 @@
 var a23759 =
 [
-    [ "npc_fel_guard_houndAI", "d8/d30/a23759.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "d8/d30/a23759.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "d8/d30/a23759.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "d8/d30/a23759.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "d8/d30/a23759.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "d8/d30/a23759.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d1/d5b/a23763.html", "d1/d5b/a23763" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d8/d30/a23759.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d8/d30/a23759.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

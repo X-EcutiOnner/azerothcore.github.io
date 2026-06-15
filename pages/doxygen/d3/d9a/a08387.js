@@ -1,7 +1,4 @@
 var a08387 =
 [
-    [ "entry", "d3/d9a/a08387.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
-    [ "pos", "d3/d9a/a08387.html#af264c1262d9fcd204a2a536847a613b1", null ],
-    [ "respawnTime", "d3/d9a/a08387.html#abeadd86c92a8c301626dde6943da1b9b", null ],
-    [ "rot", "d3/d9a/a08387.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
+    [ "ItemEntry", "d3/d9a/a08387.html#aa941274a50c076189d0957120ca25e5e", null ]
 ];

@@ -1,12 +1,17 @@
 var a04631 =
 [
-    [ "EnumFlag< T >", "d1/d47/a05760.html", "d1/d47/a05760" ],
-    [ "DEFINE_ENUM_FLAG", "de/d65/a04631.html#a9f556f9c539f21ae6fd639abe4c39c75", null ],
-    [ "IsFlag", "de/d65/a04631.html#a7294b75cb336d554d5ce2b75b05c37d6", null ],
-    [ "IsEnumFlag", "de/d65/a04631.html#ae0992e010612850442fc56bcf2d44b47", null ],
-    [ "operator&", "de/d65/a04631.html#a27ef39aed098304d7387af8257f7cee3", null ],
-    [ "operator&=", "de/d65/a04631.html#a24a78ca9e9dcd1b92829560e580c3134", null ],
-    [ "operator|", "de/d65/a04631.html#ac8aaa198de31cb5a3b217d0968f30a3b", null ],
-    [ "operator|=", "de/d65/a04631.html#a7808a2b72bed2b70553d802ed11e27c4", null ],
-    [ "operator~", "de/d65/a04631.html#abe3f4d2eafbceebe9ec46ffcd15cfa76", null ]
+    [ "FormatArgs", "de/d65/a04631.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
+    [ "FormatString", "de/d65/a04631.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "FormatStringView", "de/d65/a04631.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
+    [ "AddSuffixIfNotExists", "de/d65/a04631.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "de/d65/a04631.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "de/d65/a04631.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "de/d65/a04631.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "MakeFormatArgs", "de/d65/a04631.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
+    [ "StringFormat", "de/d65/a04631.html#a1b97349dfcb88c6974882d7e34c55895", null ],
+    [ "StringFormatTo", "de/d65/a04631.html#a7c53f407c3169d5a97d012ca3470880d", null ],
+    [ "StringVFormat", "de/d65/a04631.html#acc68f8d815604ae13c370c09fbb60efd", null ],
+    [ "StringVFormatTo", "de/d65/a04631.html#a17112c1b25595793b63f24de06f90081", null ],
+    [ "Trim", "de/d65/a04631.html#a3213c569cd380bda3b76fe3f730899ff", null ],
+    [ "TrimRightInPlace", "de/d65/a04631.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

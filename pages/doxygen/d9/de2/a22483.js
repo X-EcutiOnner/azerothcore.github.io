@@ -1,7 +1,5 @@
 var a22483 =
 [
-    [ "HandleDummy", "d9/de2/a22483.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d9/de2/a22483.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d9/de2/a22483.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d9/de2/a22483.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "ChargeTargetSelector", "d9/de2/a22483.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d9/de2/a22483.html#a596223da822f5a08281fe709cca95909", null ]
 ];

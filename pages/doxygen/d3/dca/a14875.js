@@ -1,6 +1,7 @@
 var a14875 =
 [
-    [ "HandleTriggerSpell", "d3/dca/a14875.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d3/dca/a14875.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d3/dca/a14875.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "HandleEffectApply", "d3/dca/a14875.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d3/dca/a14875.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d3/dca/a14875.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d3/dca/a14875.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

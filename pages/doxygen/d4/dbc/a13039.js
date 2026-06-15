@@ -1,8 +1,10 @@
 var a13039 =
 [
-    [ "npc_tito", "d4/dbc/a13039.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
-    [ "JustEngagedWith", "d4/dbc/a13039.html#a71335c1474e8a29edf76addacb737fa9", null ],
-    [ "UpdateAI", "d4/dbc/a13039.html#ac357c29e68d8480d94349da844efd3ad", null ],
-    [ "_scheduler", "d4/dbc/a13039.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
-    [ "instance", "d4/dbc/a13039.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d4/dbc/a13039.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "d4/dbc/a13039.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "d4/dbc/a13039.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "d4/dbc/a13039.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "d4/dbc/a13039.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "d4/dbc/a13039.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "d4/dbc/a13039.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

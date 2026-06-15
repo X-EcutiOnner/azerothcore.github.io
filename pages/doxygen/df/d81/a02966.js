@@ -1,5 +1,6 @@
 var a02966 =
 [
-    [ "gm_commandscript", "d6/da0/a12230.html", "d6/da0/a12230" ],
-    [ "AddSC_gm_commandscript", "df/d81/a02966.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
+    [ "GameEventAIHookWorker", "d5/d74/a09163.html", "d5/d74/a09163" ],
+    [ "IsEventActive", "df/d81/a02966.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "df/d81/a02966.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

@@ -1,13 +1,6 @@
 var a18811 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d6/df2/a18811.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "d6/df2/a18811.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "d6/df2/a18811.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "d6/df2/a18811.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "d6/df2/a18811.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "d6/df2/a18811.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "d6/df2/a18811.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "d6/df2/a18811.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "d6/df2/a18811.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "d6/df2/a18811.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_green_dragon_combat_triggerAI", "db/d40/a18815.html", "db/d40/a18815" ],
+    [ "npc_green_dragon_combat_trigger", "d6/df2/a18811.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "d6/df2/a18811.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

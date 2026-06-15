@@ -1,6 +1,7 @@
 var a15843 =
 [
-    [ "SpellId", "da/d31/a15843.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "da/d31/a15843.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "da/d31/a15843.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "npc_tharnarianAI", "d5/d68/a15847.html", "d5/d68/a15847" ],
+    [ "npc_tharnarian", "da/d31/a15843.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "da/d31/a15843.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "da/d31/a15843.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

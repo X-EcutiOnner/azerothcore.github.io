@@ -1,5 +1,7 @@
 var a04307 =
 [
-    [ "SessionKey", "d9/d4e/a04307.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
-    [ "SESSION_KEY_LENGTH", "d9/d4e/a04307.html#accf22e06a217bb405f0ee6f240d2e263", null ]
+    [ "FieldTypeToString", "d9/d4e/a04307.html#a9b1d39b7abfe176191c0ed27188ed310", null ],
+    [ "InitializeDatabaseFieldMetadata", "d9/d4e/a04307.html#a5e0e57902060d1fcd32688acb949b98e", null ],
+    [ "MysqlTypeToFieldType", "d9/d4e/a04307.html#a1a26932646b97d033efdf53078561a90", null ],
+    [ "SizeForType", "d9/d4e/a04307.html#ae077e892df09ce687a0a50be949ad69f", null ]
 ];

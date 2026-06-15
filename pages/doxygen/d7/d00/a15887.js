@@ -1,6 +1,7 @@
 var a15887 =
 [
-    [ "npc_braug_dimspirit", "d7/d00/a15887.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d7/d00/a15887.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d7/d00/a15887.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "HandleEffectPeriodic", "d7/d00/a15887.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d7/d00/a15887.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d7/d00/a15887.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d7/d00/a15887.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

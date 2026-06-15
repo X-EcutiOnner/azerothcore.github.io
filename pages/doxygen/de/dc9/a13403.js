@@ -1,7 +1,8 @@
 var a13403 =
 [
-    [ "OnApply", "de/dc9/a13403.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "de/dc9/a13403.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "de/dc9/a13403.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "de/dc9/a13403.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "npc_dkc1_gothikAI", "de/dc9/a13403.html#a35e65bd943f86ba3a1d6841569289df6", null ],
+    [ "DoAction", "de/dc9/a13403.html#a3193c562973bbf995ab5e0173a93d01f", null ],
+    [ "MoveInLineOfSight", "de/dc9/a13403.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
+    [ "UpdateAI", "de/dc9/a13403.html#a346d32c9831babe6fb5f675b70b7a897", null ],
+    [ "spoken", "de/dc9/a13403.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
 ];

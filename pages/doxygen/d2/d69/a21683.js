@@ -1,8 +1,6 @@
 var a21683 =
 [
-    [ "HandleEffectApply", "d2/d69/a21683.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d2/d69/a21683.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d2/d69/a21683.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d2/d69/a21683.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d2/d69/a21683.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_mrfloppyAI", "d7/de1/a21687.html", "d7/de1/a21687" ],
+    [ "npc_mrfloppy", "d2/d69/a21683.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d2/d69/a21683.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

@@ -1,6 +1,6 @@
 var a13347 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "df/d98/a13351.html", "df/d98/a13351" ],
-    [ "instance_scarlet_monastery", "de/d20/a13347.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "de/d20/a13347.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "boss_garaxxas", "de/d20/a13347.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "de/d20/a13347.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "de/d20/a13347.html#a56e6489ce49971cb066444888355626e", null ]
 ];

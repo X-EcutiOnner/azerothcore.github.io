@@ -1,7 +1,7 @@
 var a21803 =
 [
-    [ "Absorb", "d1/dbe/a21803.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d1/dbe/a21803.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d1/dbe/a21803.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d1/dbe/a21803.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "HandleScript", "d1/dbe/a21803.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "d1/dbe/a21803.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "d1/dbe/a21803.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "d1/dbe/a21803.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

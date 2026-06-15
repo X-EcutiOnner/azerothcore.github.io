@@ -1,14 +1,13 @@
 var a23419 =
 [
-    [ "npc_warden_mellicharAI", "df/dc6/a23419.html#a3486b015ccb8fecfe5e215f45e45f15e", null ],
-    [ "AttackStart", "df/dc6/a23419.html#a2b16dc3ad358e4179fe20e2066ba5c64", null ],
-    [ "DamageTaken", "df/dc6/a23419.html#a07e7b215ed7653fe7e1ee44d34a74bbd", null ],
-    [ "JustDied", "df/dc6/a23419.html#a867404a125aeb4ee3332a4e2b5a8f547", null ],
-    [ "JustEngagedWith", "df/dc6/a23419.html#ad584a3c2dd8f108cc9b4e66a6917f97b", null ],
-    [ "JustSummoned", "df/dc6/a23419.html#a3fe95a64b640fb61459da2c8621fbc9c", null ],
-    [ "MoveInLineOfSight", "df/dc6/a23419.html#aa4edaf9534e7232526fd9c7bd097b7c4", null ],
-    [ "Reset", "df/dc6/a23419.html#aebd55a8e6e618e4dc37cf253c60c3a94", null ],
-    [ "SetData", "df/dc6/a23419.html#a0d0e8d1af5179aea73aa60e060ba751a", null ],
-    [ "SummonedCreatureDies", "df/dc6/a23419.html#a58e1011986be65725d4db3d782bc72ac", null ],
-    [ "UpdateAI", "df/dc6/a23419.html#a944cff5367213d561a7e6df5faf2a216", null ]
+    [ "boss_warbringer_omrogg", "df/dc6/a23419.html#a20f790595640cd41d636ad43c8837cda", null ],
+    [ "HandleHeadTalk", "df/dc6/a23419.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
+    [ "JustDied", "df/dc6/a23419.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
+    [ "JustEngagedWith", "df/dc6/a23419.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
+    [ "KilledUnit", "df/dc6/a23419.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
+    [ "ScheduleBurningPhase", "df/dc6/a23419.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
+    [ "ScheduleNonBurningPhase", "df/dc6/a23419.html#a176217a0767e8153d07996461ac68f60", null ],
+    [ "SetData", "df/dc6/a23419.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
+    [ "UpdateAI", "df/dc6/a23419.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
+    [ "_headTalk", "df/dc6/a23419.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
 ];

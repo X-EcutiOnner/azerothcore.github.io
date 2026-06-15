@@ -1,16 +1,9 @@
 var a19383 =
 [
-    [ "boss_thaddiusAI", "d9/d1d/a19383.html#a8a25d56cb38b755fec6f18a9616632e2", null ],
-    [ "DoAction", "d9/d1d/a19383.html#aa9697fa990b9d84f3cc9496df1cb4234", null ],
-    [ "IsAnyPlayerInMeleeRange", "d9/d1d/a19383.html#aa5175bb29e16c1c421cf16207e890d57", null ],
-    [ "JustDied", "d9/d1d/a19383.html#a2ec7bfa46d972cdd857289693acdc965", null ],
-    [ "JustEngagedWith", "d9/d1d/a19383.html#a52ec355e0ddd2a29b06b473303941b46", null ],
-    [ "JustSummoned", "d9/d1d/a19383.html#a1aa9a09089a2070eda14fda1bc51f0fe", null ],
-    [ "KilledUnit", "d9/d1d/a19383.html#a94f7852267620b0a77c2e1003f080589", null ],
-    [ "Reset", "d9/d1d/a19383.html#ae7b69b5e83fdbaa3df25dda989eeaf07", null ],
-    [ "UpdateAI", "d9/d1d/a19383.html#a5eef08082268fa181d4d396fc952dbcd", null ],
-    [ "ballLightningEnabled", "d9/d1d/a19383.html#a487582d59f0d717c3ec53679ad36f99a", null ],
-    [ "resetTimer", "d9/d1d/a19383.html#aba9f23389d5f6724883dc9f7e607a351", null ],
-    [ "reviveTimer", "d9/d1d/a19383.html#a11388e745e81c3ad8ba7d97812a17203", null ],
-    [ "summonTimer", "d9/d1d/a19383.html#a82288ef27f720b5f0f84bfd0ac6b9ccb", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d9/d1d/a19383.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d9/d1d/a19383.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d9/d1d/a19383.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d9/d1d/a19383.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d9/d1d/a19383.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d9/d1d/a19383.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

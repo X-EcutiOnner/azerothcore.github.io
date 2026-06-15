@@ -1,7 +1,6 @@
 var a05771 =
 [
-    [ "EnumText", "de/dc1/a05771.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "de/dc1/a05771.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "de/dc1/a05771.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "de/dc1/a05771.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "operator()", "de/dc1/a05771.html#a0221f13bb39f5087bce33b6075edaf3b", null ],
+    [ "operator+=", "de/dc1/a05771.html#a685854261b2714cf924622e58a88e6b6", null ],
+    [ "functions", "de/dc1/a05771.html#aae8c666d695a517a3ad1e08afa8c355a", null ]
 ];

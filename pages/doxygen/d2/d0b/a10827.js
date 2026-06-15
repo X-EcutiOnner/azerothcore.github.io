@@ -1,5 +1,5 @@
 var a10827 =
 [
-    [ "LogoutCancel", "d2/d0b/a10827.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
-    [ "Read", "d2/d0b/a10827.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
+    [ "UpdatableScript", "d2/d0b/a10827.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "d2/d0b/a10827.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

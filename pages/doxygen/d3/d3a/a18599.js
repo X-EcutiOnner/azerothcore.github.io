@@ -1,6 +1,7 @@
 var a18599 =
 [
-    [ "npc_spirit_wardenAI", "d0/de2/a18603.html", "d0/de2/a18603" ],
-    [ "npc_spirit_warden", "d3/d3a/a18599.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d3/d3a/a18599.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "OnRemove", "d3/d3a/a18599.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d3/d3a/a18599.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d3/d3a/a18599.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d3/d3a/a18599.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

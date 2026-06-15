@@ -1,9 +1,6 @@
 var a12599 =
 [
-    [ "npc_vaelastrasz_the_red", "da/d87/a12599.html#a28ba5ca91e61707360c8a1f9a8550567", null ],
-    [ "IsSummonedBy", "da/d87/a12599.html#ad5f2aeaee704c436e60bc5c5400c0f75", null ],
-    [ "UpdateAI", "da/d87/a12599.html#a95b48026759f9e5e5f0c452a8019ef03", null ],
-    [ "_combatEnabled", "da/d87/a12599.html#a373fe15d1e754f11db59186517783a40", null ],
-    [ "_events2", "da/d87/a12599.html#acecc982854e9d587112e9117e7d7a3fa", null ],
-    [ "_victorGUID", "da/d87/a12599.html#a0e5d6bd095c980a45dcfe68faf2c7b3f", null ]
+    [ "boss_anubshiah", "da/d87/a12599.html#aa8e436501ebf08465a9742dedb5901fc", null ],
+    [ "JustEngagedWith", "da/d87/a12599.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
+    [ "UpdateAI", "da/d87/a12599.html#a0a3cbdd6be45415723cbadb40478831a", null ]
 ];

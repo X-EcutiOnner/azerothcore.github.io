@@ -1,6 +1,8 @@
 var a27131 =
 [
-    [ "HandleAfterCast", "d3/dbe/a27131.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "d3/dbe/a27131.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "d3/dbe/a27131.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "CheckProc", "d3/dbe/a27131.html#a2e564758a050827108955f73a08e72e7", null ],
+    [ "PrepareAuraScript", "d3/dbe/a27131.html#a5993871d8837b43580818fa94e1bccc2", null ],
+    [ "Register", "d3/dbe/a27131.html#a24faa9992523bc87df7f5ebccfb42233", null ],
+    [ "WasUsedByMutilate", "d3/dbe/a27131.html#af31c8d77307f3cf3acee06e0b159925e", null ],
+    [ "_usedByMutilate", "d3/dbe/a27131.html#a3f5cde7b3af5c3a6b75d76b742cae54b", null ]
 ];

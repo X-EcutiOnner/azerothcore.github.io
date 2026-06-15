@@ -1,11 +1,10 @@
 var a13031 =
 [
-    [ "boss_terestian_illhoof", "d1/dc5/a13031.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d1/dc5/a13031.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d1/dc5/a13031.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d1/dc5/a13031.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d1/dc5/a13031.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d1/dc5/a13031.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d1/dc5/a13031.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d1/dc5/a13031.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "instance_deadmines_InstanceMapScript", "d1/dc5/a13031.html#afa12491c1b276d0d643822da562320c3", null ],
+    [ "GetSaveData", "d1/dc5/a13031.html#a775c7d564b931e157a32b0909efed859", null ],
+    [ "Initialize", "d1/dc5/a13031.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
+    [ "Load", "d1/dc5/a13031.html#afff7e04cc632e2d4ddb438d03e561560", null ],
+    [ "OnGameObjectCreate", "d1/dc5/a13031.html#a095202af8915f8a1d8888c045e18d6c4", null ],
+    [ "SetData", "d1/dc5/a13031.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
+    [ "_encounters", "d1/dc5/a13031.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
 ];

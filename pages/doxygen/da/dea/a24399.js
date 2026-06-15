@@ -1,8 +1,6 @@
 var a24399 =
 [
-    [ "CheckProc", "da/dea/a24399.html#af8ecd189601dbbc34a1d633e1de3eed8", null ],
-    [ "HandleProc", "da/dea/a24399.html#a03f5428462b132c438b40575182e5081", null ],
-    [ "PrepareAuraScript", "da/dea/a24399.html#a301947c8053d4a4ee4de2a05f58b7505", null ],
-    [ "Register", "da/dea/a24399.html#a9b3793739de21b5117e4a66e2951f939", null ],
-    [ "Validate", "da/dea/a24399.html#acc50882146bad569108852b207d519fd", null ]
+    [ "CalculateAmount", "da/dea/a24399.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "da/dea/a24399.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "da/dea/a24399.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

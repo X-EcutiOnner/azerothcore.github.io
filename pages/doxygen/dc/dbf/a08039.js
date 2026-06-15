@@ -1,5 +1,5 @@
 var a08039 =
 [
-    [ "Quest", "dc/dbf/a08039.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "dc/dbf/a08039.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "value_type", "dc/dbf/a08039.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "dc/dbf/a08039.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

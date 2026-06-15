@@ -1,13 +1,14 @@
 var a22199 =
 [
-    [ "OPvPCapturePointEP_EWT", "d6/db1/a22199.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d6/db1/a22199.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d6/db1/a22199.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d6/db1/a22199.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d6/db1/a22199.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d6/db1/a22199.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d6/db1/a22199.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d6/db1/a22199.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d6/db1/a22199.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d6/db1/a22199.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "npc_finklesteinAI", "d6/db1/a22199.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "d6/db1/a22199.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "d6/db1/a22199.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "d6/db1/a22199.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "d6/db1/a22199.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "d6/db1/a22199.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "d6/db1/a22199.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "d6/db1/a22199.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "d6/db1/a22199.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "d6/db1/a22199.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "d6/db1/a22199.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

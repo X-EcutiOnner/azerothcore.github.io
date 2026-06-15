@@ -1,7 +1,6 @@
 var a24187 =
 [
-    [ "CheckCast", "d2/ddb/a24187.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d2/ddb/a24187.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d2/ddb/a24187.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d2/ddb/a24187.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "DeathEvent", "d2/ddb/a24187.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d2/ddb/a24187.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d2/ddb/a24187.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

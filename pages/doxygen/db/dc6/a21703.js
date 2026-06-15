@@ -1,7 +1,7 @@
 var a21703 =
 [
-    [ "npc_Apothecary_HanesAI", "d9/dc7/a21707.html", "d9/dc7/a21707" ],
-    [ "npc_apothecary_hanes", "db/dc6/a21703.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "db/dc6/a21703.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "db/dc6/a21703.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "HandleScriptEffect", "db/dc6/a21703.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "db/dc6/a21703.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "db/dc6/a21703.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "db/dc6/a21703.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

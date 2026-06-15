@@ -1,7 +1,5 @@
 var a04193 =
 [
-    [ "GetCleanAliasName", "d7/dbe/a04193.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "d7/dbe/a04193.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "d7/dbe/a04193.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "d7/dbe/a04193.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "achievIdByArenaSlot", "d7/dbe/a04193.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "d7/dbe/a04193.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

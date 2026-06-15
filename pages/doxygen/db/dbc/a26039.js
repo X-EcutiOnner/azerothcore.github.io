@@ -1,6 +1,8 @@
 var a26039 =
 [
-    [ "PrepareSpellScript", "db/dbc/a26039.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "db/dbc/a26039.html#a313abe6367e5494bd81a557ab42f9f50", null ],
-    [ "SecondaryEffect", "db/dbc/a26039.html#ac12d466f3aeb86a30dc498f10082aab1", null ]
+    [ "AfterApply", "db/dbc/a26039.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
+    [ "AfterRemove", "db/dbc/a26039.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
+    [ "PrepareAuraScript", "db/dbc/a26039.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
+    [ "Register", "db/dbc/a26039.html#a293ea418e290d96bbcaaed24cad663b0", null ],
+    [ "Validate", "db/dbc/a26039.html#aa67afc85c142006efad986859f14941c", null ]
 ];

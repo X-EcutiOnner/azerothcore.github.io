@@ -1,19 +1,27 @@
 var a04199 =
 [
-    [ "QueryResultFieldMetadata", "d4/d91/a06028.html", "d4/d91/a06028" ],
-    [ "Field", "d4/ddf/a06032.html", "d4/ddf/a06032" ],
-    [ "Binary", "da/db4/a04199.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
-    [ "is_chrono_v", "da/db4/a04199.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
-    [ "DatabaseFieldTypes", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091", [
-      [ "Null", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
-      [ "Int8", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
-      [ "Int16", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
-      [ "Int32", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
-      [ "Int64", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
-      [ "Float", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
-      [ "Double", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
-      [ "Decimal", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
-      [ "Date", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
-      [ "Binary", "da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    [ "go_type", "dd/d5b/a10499.html", "dd/d5b/a10499" ],
+    [ "creature_type", "d2/d23/a10503.html", "d2/d23/a10503" ],
+    [ "OPvPCapturePoint", "d3/d87/a10507.html", "d3/d87/a10507" ],
+    [ "OutdoorPvP", "d5/db0/a10511.html", "d5/db0/a10511" ],
+    [ "MAX_OUTDOORPVP_TYPES", "da/db4/a04199.html#a61d2d26058751cc92ed3744e7216a061", null ],
+    [ "PlayerSet", "da/db4/a04199.html#a080aeb08f4e15904e94076846a03e927", null ],
+    [ "ObjectiveStates", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153a", [
+      [ "OBJECTIVESTATE_NEUTRAL", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
+      [ "OBJECTIVESTATE_ALLIANCE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
+      [ "OBJECTIVESTATE_HORDE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
+      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
+      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
+      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
+    ] ],
+    [ "OutdoorPvPTypes", "da/db4/a04199.html#a56e7764289940901c2a230103f78adee", [
+      [ "OUTDOOR_PVP_HP", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
+      [ "OUTDOOR_PVP_NA", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
+      [ "OUTDOOR_PVP_TF", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
+      [ "OUTDOOR_PVP_ZM", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
+      [ "OUTDOOR_PVP_SI", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
+      [ "OUTDOOR_PVP_EP", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
+      [ "OUTDOOR_PVP_GH", "da/db4/a04199.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
     ] ]
 ];

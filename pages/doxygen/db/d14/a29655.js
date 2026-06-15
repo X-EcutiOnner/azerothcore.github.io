@@ -1,6 +1,6 @@
 var a29655 =
 [
-    [ "OffsetAttributes", "db/d14/a29655.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "db/d14/a29655.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "db/d14/a29655.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "CreateArmorProcConfig", "db/d14/a29655.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "db/d14/a29655.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "db/d14/a29655.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

@@ -1,6 +1,6 @@
 var a17551 =
 [
-    [ "ChangeSummonPos", "d5/d68/a17551.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d5/d68/a17551.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d5/d68/a17551.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "boss_moorabiAI", "d7/da7/a17555.html", "d7/da7/a17555" ],
+    [ "boss_moorabi", "d5/d68/a17551.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "d5/d68/a17551.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

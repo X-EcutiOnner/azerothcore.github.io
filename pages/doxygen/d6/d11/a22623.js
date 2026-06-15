@@ -1,6 +1,9 @@
 var a22623 =
 [
-    [ "boss_essence_of_desireAI", "dd/d2c/a22627.html", "dd/d2c/a22627" ],
-    [ "boss_essence_of_desire", "d6/d11/a22623.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d6/d11/a22623.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "boss_mother_shahraz", "d6/d11/a22623.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d6/d11/a22623.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d6/d11/a22623.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d6/d11/a22623.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d6/d11/a22623.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d6/d11/a22623.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

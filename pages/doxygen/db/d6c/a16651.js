@@ -1,6 +1,9 @@
 var a16651 =
 [
-    [ "npc_nerubian_burrowerAI", "d9/dd1/a16655.html", "d9/dd1/a16655" ],
-    [ "npc_nerubian_burrower", "db/d6c/a16651.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "db/d6c/a16651.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "npc_memoryAI", "db/d6c/a16651.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "db/d6c/a16651.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "db/d6c/a16651.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "db/d6c/a16651.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "db/d6c/a16651.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "db/d6c/a16651.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

@@ -1,5 +1,11 @@
 var a14615 =
 [
-    [ "npc_cw_area_triggerAI", "db/d72/a14615.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "db/d72/a14615.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "npc_dark_iron_attack_mole_machine", "db/d72/a14615.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "db/d72/a14615.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "db/d72/a14615.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "db/d72/a14615.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "db/d72/a14615.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "db/d72/a14615.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "db/d72/a14615.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "db/d72/a14615.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

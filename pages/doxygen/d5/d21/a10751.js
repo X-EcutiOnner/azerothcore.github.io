@@ -1,9 +1,5 @@
 var a10751 =
 [
-    [ "fX", "d5/d21/a10751.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "d5/d21/a10751.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "d5/d21/a10751.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "d5/d21/a10751.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "d5/d21/a10751.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "d5/d21/a10751.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "MovementHandlerScript", "d5/d21/a10751.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d5/d21/a10751.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

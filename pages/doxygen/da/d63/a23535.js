@@ -1,13 +1,9 @@
 var a23535 =
 [
-    [ "advisor_baseAI", "da/d63/a23535.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "da/d63/a23535.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "da/d63/a23535.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "da/d63/a23535.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "da/d63/a23535.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "da/d63/a23535.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "da/d63/a23535.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "da/d63/a23535.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "da/d63/a23535.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "da/d63/a23535.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "HandleEffectApply", "da/d63/a23535.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "da/d63/a23535.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "da/d63/a23535.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "da/d63/a23535.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "da/d63/a23535.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "da/d63/a23535.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

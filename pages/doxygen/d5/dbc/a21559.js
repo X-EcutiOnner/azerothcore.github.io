@@ -1,8 +1,6 @@
 var a21559 =
 [
-    [ "npc_q24545_vegardAI", "d5/dbc/a21559.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d5/dbc/a21559.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d5/dbc/a21559.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d5/dbc/a21559.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d5/dbc/a21559.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_heated_battleAI", "d5/dbc/a21559.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d5/dbc/a21559.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d5/dbc/a21559.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

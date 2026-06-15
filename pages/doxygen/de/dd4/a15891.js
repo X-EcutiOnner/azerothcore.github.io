@@ -1,7 +1,7 @@
 var a15891 =
 [
-    [ "npc_kaya_flathoofAI", "dd/d67/a15895.html", "dd/d67/a15895" ],
-    [ "npc_kaya_flathoof", "de/dd4/a15891.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "de/dd4/a15891.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "de/dd4/a15891.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "HandleDummy", "de/dd4/a15891.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "de/dd4/a15891.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "de/dd4/a15891.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "de/dd4/a15891.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

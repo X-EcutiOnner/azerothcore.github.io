@@ -1,10 +1,7 @@
 var a12855 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d8/dd4/a12855.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d8/dd4/a12855.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d8/dd4/a12855.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d8/dd4/a12855.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d8/dd4/a12855.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d8/dd4/a12855.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d8/dd4/a12855.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "HandleDummy", "d8/dd4/a12855.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "d8/dd4/a12855.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "d8/dd4/a12855.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "d8/dd4/a12855.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

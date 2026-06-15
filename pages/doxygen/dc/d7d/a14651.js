@@ -1,6 +1,9 @@
 var a14651 =
 [
-    [ "HandleScript", "dc/d7d/a14651.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "dc/d7d/a14651.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "dc/d7d/a14651.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "CheckCast", "dc/d7d/a14651.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "dc/d7d/a14651.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "dc/d7d/a14651.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "dc/d7d/a14651.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "dc/d7d/a14651.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "dc/d7d/a14651.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

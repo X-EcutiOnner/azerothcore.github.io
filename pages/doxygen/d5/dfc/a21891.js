@@ -1,6 +1,6 @@
 var a21891 =
 [
-    [ "npc_vekjik", "d5/dfc/a21891.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d5/dfc/a21891.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d5/dfc/a21891.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_guardian_pavilionAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "npc_guardian_pavilion", "d5/dfc/a21891.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d5/dfc/a21891.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

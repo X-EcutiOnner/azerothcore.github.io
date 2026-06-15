@@ -1,7 +1,7 @@
 var a23571 =
 [
-    [ "Load", "d7/dfe/a23571.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d7/dfe/a23571.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d7/dfe/a23571.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d7/dfe/a23571.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "OnApply", "d7/dfe/a23571.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "d7/dfe/a23571.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "d7/dfe/a23571.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "d7/dfe/a23571.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

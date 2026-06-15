@@ -1,13 +1,11 @@
 var a15823 =
 [
-    [ "npc_shenthulAI", "d9/d28/a15823.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "d9/d28/a15823.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "d9/d28/a15823.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "d9/d28/a15823.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "d9/d28/a15823.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "d9/d28/a15823.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "d9/d28/a15823.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "d9/d28/a15823.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "d9/d28/a15823.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "d9/d28/a15823.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_kerlonianAI", "d9/d28/a15823.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d9/d28/a15823.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d9/d28/a15823.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d9/d28/a15823.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d9/d28/a15823.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d9/d28/a15823.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d9/d28/a15823.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d9/d28/a15823.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

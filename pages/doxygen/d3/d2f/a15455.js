@@ -1,6 +1,7 @@
 var a15455 =
 [
-    [ "OnRemove", "d3/d2f/a15455.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d3/d2f/a15455.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d3/d2f/a15455.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "FilterTargets", "d3/d2f/a15455.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d3/d2f/a15455.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d3/d2f/a15455.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d3/d2f/a15455.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

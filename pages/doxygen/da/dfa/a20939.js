@@ -1,6 +1,7 @@
 var a20939 =
 [
-    [ "CalculateAmount", "da/dfa/a20939.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "da/dfa/a20939.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "da/dfa/a20939.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "npc_frost_tomb", "da/dfa/a20939.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "da/dfa/a20939.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "da/dfa/a20939.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "da/dfa/a20939.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

@@ -1,6 +1,8 @@
 var a15899 =
 [
-    [ "npc_aquementasAI", "d7/d10/a15903.html", "d7/d10/a15903" ],
-    [ "npc_aquementas", "d2/d76/a15899.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "d2/d76/a15899.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "CheckRequirement", "d2/d76/a15899.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d2/d76/a15899.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d2/d76/a15899.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d2/d76/a15899.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d2/d76/a15899.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

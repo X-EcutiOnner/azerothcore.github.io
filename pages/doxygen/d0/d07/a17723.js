@@ -1,7 +1,6 @@
 var a17723 =
 [
-    [ "HandleScript", "d0/d07/a17723.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "d0/d07/a17723.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "d0/d07/a17723.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "d0/d07/a17723.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "FilterTargets", "d0/d07/a17723.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d0/d07/a17723.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d0/d07/a17723.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

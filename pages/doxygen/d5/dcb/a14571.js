@@ -1,6 +1,8 @@
 var a14571 =
 [
-    [ "PeriodicTick", "d5/dcb/a14571.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d5/dcb/a14571.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d5/dcb/a14571.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "boss_venoxis", "d5/dcb/a14571.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d5/dcb/a14571.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d5/dcb/a14571.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d5/dcb/a14571.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d5/dcb/a14571.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

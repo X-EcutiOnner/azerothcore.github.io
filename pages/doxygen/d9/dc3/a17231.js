@@ -1,8 +1,13 @@
 var a17231 =
 [
-    [ "boss_krickAI", "d9/dc3/a17231.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d9/dc3/a17231.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d9/dc3/a17231.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d9/dc3/a17231.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d9/dc3/a17231.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "boss_falric", "d9/dc3/a17231.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
+    [ "DoAction", "d9/dc3/a17231.html#a9acd7854d725b07df53ae60538df27b1", null ],
+    [ "EnterEvadeMode", "d9/dc3/a17231.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
+    [ "JustDied", "d9/dc3/a17231.html#a4ade4a16095031988e2ae50602cd0da8", null ],
+    [ "JustEngagedWith", "d9/dc3/a17231.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
+    [ "KilledUnit", "d9/dc3/a17231.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
+    [ "Reset", "d9/dc3/a17231.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
+    [ "UpdateAI", "d9/dc3/a17231.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
+    [ "_hopelessnessCount", "d9/dc3/a17231.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
+    [ "_startingFight", "d9/dc3/a17231.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
 ];

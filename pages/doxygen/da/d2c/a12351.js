@@ -1,12 +1,20 @@
 var a12351 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "da/d2c/a12351.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "da/d2c/a12351.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "da/d2c/a12351.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "da/d2c/a12351.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "da/d2c/a12351.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "da/d2c/a12351.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "da/d2c/a12351.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "da/d2c/a12351.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "da/d2c/a12351.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "gobject_commandscript", "da/d2c/a12351.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "da/d2c/a12351.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "da/d2c/a12351.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "da/d2c/a12351.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "da/d2c/a12351.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "da/d2c/a12351.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectDespawnGroupCommand", "da/d2c/a12351.html#ac9683961141c3115ac9309fa07175e64", null ],
+    [ "HandleGameObjectInfoCommand", "da/d2c/a12351.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectLoadCommand", "da/d2c/a12351.html#a1d364680fd9c8f2be42e899e9e091676", null ],
+    [ "HandleGameObjectMoveCommand", "da/d2c/a12351.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "da/d2c/a12351.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "da/d2c/a12351.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "da/d2c/a12351.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "da/d2c/a12351.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectSpawnGroupCommand", "da/d2c/a12351.html#a9838f05a534f9d451fd935260ec46985", null ],
+    [ "HandleGameObjectTargetCommand", "da/d2c/a12351.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "da/d2c/a12351.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

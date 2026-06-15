@@ -1,7 +1,9 @@
 var a10847 =
 [
-    [ "Emote", "db/d81/a10847.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "db/d81/a10847.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "db/d81/a10847.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "db/d81/a10847.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "ServerPacket", "db/d81/a10847.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
+    [ "Clear", "db/d81/a10847.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
+    [ "GetOpcode", "db/d81/a10847.html#a639ab6c078d7c746bcb328526df705be", null ],
+    [ "Move", "db/d81/a10847.html#a659397042201ae571bb564872e54d2c6", null ],
+    [ "Read", "db/d81/a10847.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
+    [ "ShrinkToFit", "db/d81/a10847.html#a6fa19a94d57484aaff3498be01495258", null ]
 ];

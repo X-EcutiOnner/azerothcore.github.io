@@ -1,8 +1,14 @@
 var a11483 =
 [
-    [ "ServerPktHeader", "d5/d07/a11483.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "d5/d07/a11483.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "d5/d07/a11483.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "d5/d07/a11483.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "d5/d07/a11483.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "NameQueryResponse", "d5/d07/a11483.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "d5/d07/a11483.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "d5/d07/a11483.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "d5/d07/a11483.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "d5/d07/a11483.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "d5/d07/a11483.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "d5/d07/a11483.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "d5/d07/a11483.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "d5/d07/a11483.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "d5/d07/a11483.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "d5/d07/a11483.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

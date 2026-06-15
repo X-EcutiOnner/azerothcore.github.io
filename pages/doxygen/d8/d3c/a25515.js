@@ -1,6 +1,7 @@
 var a25515 =
 [
-    [ "HandlePreventAura", "d8/d3c/a25515.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
-    [ "PrepareSpellScript", "d8/d3c/a25515.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
-    [ "Register", "d8/d3c/a25515.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
+    [ "OnDummyEffect", "d8/d3c/a25515.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "d8/d3c/a25515.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "d8/d3c/a25515.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "d8/d3c/a25515.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

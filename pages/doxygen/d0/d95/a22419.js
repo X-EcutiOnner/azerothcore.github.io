@@ -1,9 +1,6 @@
 var a22419 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d95/a22419.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d0/d95/a22419.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d0/d95/a22419.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d0/d95/a22419.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d0/d95/a22419.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d0/d95/a22419.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
+    [ "instance_sethekk_halls", "d0/d95/a22419.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "d0/d95/a22419.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

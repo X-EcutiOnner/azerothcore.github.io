@@ -1,10 +1,13 @@
 var a10499 =
 [
-    [ "Flags", "dd/d5b/a10499.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "dd/d5b/a10499.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "dd/d5b/a10499.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "dd/d5b/a10499.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "dd/d5b/a10499.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "dd/d5b/a10499.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "dd/d5b/a10499.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "entry", "dd/d5b/a10499.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "dd/d5b/a10499.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "dd/d5b/a10499.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "dd/d5b/a10499.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "dd/d5b/a10499.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "dd/d5b/a10499.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "dd/d5b/a10499.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "dd/d5b/a10499.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "dd/d5b/a10499.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "dd/d5b/a10499.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

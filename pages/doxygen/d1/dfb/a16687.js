@@ -1,7 +1,9 @@
 var a16687 =
 [
-    [ "npc_toc_druidAI", "d1/dfb/a16687.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d1/dfb/a16687.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d1/dfb/a16687.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d1/dfb/a16687.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d1/dfb/a16687.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d1/dfb/a16687.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d1/dfb/a16687.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d1/dfb/a16687.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d1/dfb/a16687.html#a74b5fb1d3631c404e7797085e45e6159", null ],
+    [ "WaypointReached", "d1/dfb/a16687.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

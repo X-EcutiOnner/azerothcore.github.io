@@ -1,6 +1,6 @@
 var a25027 =
 [
-    [ "HandleScriptEffect", "de/d7f/a25027.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "de/d7f/a25027.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "de/d7f/a25027.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "HandleEffectPeriodic", "de/d7f/a25027.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "de/d7f/a25027.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "de/d7f/a25027.html#a039eec910c802276b9e979253141cdee", null ]
 ];

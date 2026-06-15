@@ -1,5 +1,8 @@
 var a18647 =
 [
-    [ "achievement_been_waiting_long_time", "d5/d7f/a18647.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "d5/d7f/a18647.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "ChangeDamageAndGrow", "d5/d7f/a18647.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d5/d7f/a18647.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d5/d7f/a18647.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d5/d7f/a18647.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d5/d7f/a18647.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

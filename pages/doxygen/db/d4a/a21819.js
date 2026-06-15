@@ -1,10 +1,16 @@
 var a21819 =
 [
-    [ "npc_infra_green_bomber_genericAI", "db/d4a/a21819.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "db/d4a/a21819.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "db/d4a/a21819.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "db/d4a/a21819.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "db/d4a/a21819.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "db/d4a/a21819.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "db/d4a/a21819.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "npc_battle_at_valhalasAI", "db/d4a/a21819.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "db/d4a/a21819.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "db/d4a/a21819.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "db/d4a/a21819.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "db/d4a/a21819.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "db/d4a/a21819.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "db/d4a/a21819.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "db/d4a/a21819.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "db/d4a/a21819.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "db/d4a/a21819.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "db/d4a/a21819.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "db/d4a/a21819.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "db/d4a/a21819.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

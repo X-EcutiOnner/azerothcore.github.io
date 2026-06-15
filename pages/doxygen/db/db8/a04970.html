@@ -139,29 +139,29 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d7/d17/a05024.html#_todo000259">Todo:</a></b></dt><dd>: extract .mdl files, if needed </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../db/d35/a05030.html#_todo000259">Todo:</a></b></dt><dd>: extract .mdl files, if needed </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
 <div class="line"><span class="lineno">   61</span>    printf(<span class="stringliteral">&quot;Extracting GameObject models...&quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../d3/d7a/a29716.html">DBCFile</a> dbc(<span class="stringliteral">&quot;DBFilesClient\\GameObjectDisplayInfo.dbc&quot;</span>);</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../de/d81/a29795.html">DBCFile</a> dbc(<span class="stringliteral">&quot;DBFilesClient\\GameObjectDisplayInfo.dbc&quot;</span>);</div>
 <div class="line"><span class="lineno">   63</span>    <span class="keywordflow">if</span> (!dbc.open())</div>
 <div class="line"><span class="lineno">   64</span>    {</div>
 <div class="line"><span class="lineno">   65</span>        printf(<span class="stringliteral">&quot;Fatal error: Invalid GameObjectDisplayInfo.dbc file format!\n&quot;</span>);</div>
 <div class="line"><span class="lineno">   66</span>        exit(1);</div>
 <div class="line"><span class="lineno">   67</span>    }</div>
 <div class="line"><span class="lineno">   68</span> </div>
-<div class="line"><span class="lineno">   69</span>    std::string basepath = <a class="code hl_variable" href="../../d1/dc6/a04964.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>;</div>
+<div class="line"><span class="lineno">   69</span>    std::string basepath = <a class="code hl_variable" href="../../de/d7d/a05000.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>;</div>
 <div class="line"><span class="lineno">   70</span>    basepath += <span class="stringliteral">&quot;/&quot;</span>;</div>
 <div class="line"><span class="lineno">   71</span>    std::string path;</div>
 <div class="line"><span class="lineno">   72</span> </div>
 <div class="line"><span class="lineno">   73</span>    std::string modelListPath = basepath + <span class="stringliteral">&quot;temp_gameobject_models&quot;</span>;</div>
-<div class="line"><span class="lineno">   74</span>    FILE* <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a> = fopen(modelListPath.c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>)</div>
+<div class="line"><span class="lineno">   74</span>    FILE* <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a> = fopen(modelListPath.c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>)</div>
 <div class="line"><span class="lineno">   76</span>    {</div>
 <div class="line"><span class="lineno">   77</span>        printf(<span class="stringliteral">&quot;Fatal error: Could not open file %s\n&quot;</span>, modelListPath.c_str());</div>
 <div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno">   79</span>    }</div>
 <div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>    fwrite(<a class="code hl_variable" href="../../dd/d13/a05041.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a>, 1, 8, <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">   81</span>    fwrite(<a class="code hl_variable" href="../../d3/dd5/a05047.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a>, 1, 8, <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
 <div class="line"><span class="lineno">   82</span> </div>
 <div class="line"><span class="lineno">   83</span>    <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span> &amp; it : dbc)</div>
 <div class="line"><span class="lineno">   84</span>    {</div>
@@ -170,22 +170,22 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   87</span>        <span class="keywordflow">if</span> (path.length() &lt; 4)</div>
 <div class="line"><span class="lineno">   88</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>        <a class="code hl_function" href="../../df/d5e/a04982.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>((<span class="keywordtype">char</span>*)path.c_str(), path.size());</div>
-<div class="line"><span class="lineno">   91</span>        <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../df/d5e/a04982.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)path.c_str());</div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../df/d5e/a04982.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   90</span>        <a class="code hl_function" href="../../df/d76/a04973.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>((<span class="keywordtype">char</span>*)path.c_str(), path.size());</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../df/d76/a04973.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)path.c_str());</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../df/d76/a04973.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
 <div class="line"><span class="lineno">   93</span> </div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordtype">char</span>* ch_ext = <a class="code hl_function" href="../../df/d5e/a04982.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a>(name);</div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordtype">char</span>* ch_ext = <a class="code hl_function" href="../../df/d76/a04973.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a>(name);</div>
 <div class="line"><span class="lineno">   95</span>        <span class="keywordflow">if</span> (!ch_ext)</div>
 <div class="line"><span class="lineno">   96</span>            <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">   97</span> </div>
-<div class="line"><span class="lineno">   98</span>        <a class="code hl_function" href="../../db/d3f/a04565.html#a8a91185d89f31e26170db63a868642cd">strToLower</a>(ch_ext);</div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_function" href="../../de/dfb/a04616.html#a8a91185d89f31e26170db63a868642cd">strToLower</a>(ch_ext);</div>
 <div class="line"><span class="lineno">   99</span> </div>
 <div class="line"><span class="lineno">  100</span>        <span class="keywordtype">bool</span> result = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  101</span>        <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> isWmo = 0;</div>
+<div class="line"><span class="lineno">  101</span>        <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> isWmo = 0;</div>
 <div class="line"><span class="lineno">  102</span>        <span class="keywordflow">if</span> (!strcmp(ch_ext, <span class="stringliteral">&quot;.wmo&quot;</span>))</div>
 <div class="line"><span class="lineno">  103</span>        {</div>
 <div class="line"><span class="lineno">  104</span>            isWmo = 1;</div>
-<div class="line"><span class="lineno">  105</span>            result = <a class="code hl_function" href="../../d1/dc6/a04964.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a>(path);</div>
+<div class="line"><span class="lineno">  105</span>            result = <a class="code hl_function" href="../../de/d7d/a05000.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a>(path);</div>
 <div class="line"><span class="lineno">  106</span>        }</div>
 <div class="line"><span class="lineno">  107</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(ch_ext, <span class="stringliteral">&quot;.mdl&quot;</span>))</div>
 <div class="line"><span class="lineno">  108</span>        {</div>
@@ -198,32 +198,32 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">  116</span> </div>
 <div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (result)</div>
 <div class="line"><span class="lineno">  118</span>        {</div>
-<div class="line"><span class="lineno">  119</span>            <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> displayId = it.getUInt(0);</div>
-<div class="line"><span class="lineno">  120</span>            <a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> path_length = strlen(name);</div>
-<div class="line"><span class="lineno">  121</span>            fwrite(&amp;displayId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
-<div class="line"><span class="lineno">  122</span>            fwrite(&amp;isWmo, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>), 1, <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
-<div class="line"><span class="lineno">  123</span>            fwrite(&amp;path_length, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
-<div class="line"><span class="lineno">  124</span>            fwrite(name, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), path_length, <a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  119</span>            <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> displayId = it.getUInt(0);</div>
+<div class="line"><span class="lineno">  120</span>            <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> path_length = strlen(name);</div>
+<div class="line"><span class="lineno">  121</span>            fwrite(&amp;displayId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  122</span>            fwrite(&amp;isWmo, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>), 1, <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  123</span>            fwrite(&amp;path_length, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  124</span>            fwrite(name, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), path_length, <a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
 <div class="line"><span class="lineno">  125</span>        }</div>
 <div class="line"><span class="lineno">  126</span>    }</div>
 <div class="line"><span class="lineno">  127</span> </div>
-<div class="line"><span class="lineno">  128</span>    fclose(<a class="code hl_variable" href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  128</span>    fclose(<a class="code hl_variable" href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
 <div class="line"><span class="lineno">  129</span> </div>
 <div class="line"><span class="lineno">  130</span>    printf(<span class="stringliteral">&quot;Done!\n&quot;</span>);</div>
 <div class="line"><span class="lineno">  131</span>}</div>
-<div class="ttc" id="aa04415_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04415_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04442_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../d9/d8d/a04442.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:44</div></div>
-<div class="ttc" id="aa04565_html_a8a91185d89f31e26170db63a868642cd"><div class="ttname"><a href="../../db/d3f/a04565.html#a8a91185d89f31e26170db63a868642cd">strToLower</a></div><div class="ttdeci">void strToLower(std::string &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:384</div></div>
-<div class="ttc" id="aa04964_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../d1/dc6/a04964.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
-<div class="ttc" id="aa04964_html_afc9839262206eb10094c1769141ae146"><div class="ttname"><a href="../../d1/dc6/a04964.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a></div><div class="ttdeci">bool ExtractSingleWmo(std::string &amp;fname)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:98</div></div>
+<div class="ttc" id="aa04472_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../df/dfb/a04472.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:44</div></div>
+<div class="ttc" id="aa04616_html_a8a91185d89f31e26170db63a868642cd"><div class="ttname"><a href="../../de/dfb/a04616.html#a8a91185d89f31e26170db63a868642cd">strToLower</a></div><div class="ttdeci">void strToLower(std::string &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:384</div></div>
+<div class="ttc" id="aa04898_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04898_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
 <div class="ttc" id="aa04970_html_a6a96194f748b715f0400249583336ae5"><div class="ttname"><a href="../../db/db8/a04970.html#a6a96194f748b715f0400249583336ae5">ExtractSingleModel</a></div><div class="ttdeci">bool ExtractSingleModel(std::string &amp;fname)</div><div class="ttdef"><b>Definition:</b> gameobject_extract.cpp:24</div></div>
-<div class="ttc" id="aa04982_html_a939d4568b4058bf826a517f55cb963af"><div class="ttname"><a href="../../df/d5e/a04982.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a></div><div class="ttdeci">char const * GetPlainName(char const *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:26</div></div>
-<div class="ttc" id="aa04982_html_abdc56edc46e0804c456749761cff8daf"><div class="ttname"><a href="../../df/d5e/a04982.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a></div><div class="ttdeci">void fixnamen(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:44</div></div>
-<div class="ttc" id="aa04982_html_ac0029be4572a61d00eb1435db5526a74"><div class="ttname"><a href="../../df/d5e/a04982.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a></div><div class="ttdeci">void fixname2(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:62</div></div>
-<div class="ttc" id="aa04982_html_ac3f75fc482c41471364c2c3e8bd1dd96"><div class="ttname"><a href="../../df/d5e/a04982.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a></div><div class="ttdeci">char * GetExtension(char *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:72</div></div>
-<div class="ttc" id="aa05041_html_ab44884fb6c05cb4ae128d5882a2c4b7c"><div class="ttname"><a href="../../dd/d13/a05041.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a></div><div class="ttdeci">const char RAW_VMAP_MAGIC[]</div><div class="ttdef"><b>Definition:</b> VMapDefinitions.h:26</div></div>
-<div class="ttc" id="aa29716_html"><div class="ttname"><a href="../../d3/d7a/a29716.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
+<div class="ttc" id="aa04973_html_a939d4568b4058bf826a517f55cb963af"><div class="ttname"><a href="../../df/d76/a04973.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a></div><div class="ttdeci">char const * GetPlainName(char const *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:26</div></div>
+<div class="ttc" id="aa04973_html_abdc56edc46e0804c456749761cff8daf"><div class="ttname"><a href="../../df/d76/a04973.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a></div><div class="ttdeci">void fixnamen(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:44</div></div>
+<div class="ttc" id="aa04973_html_ac0029be4572a61d00eb1435db5526a74"><div class="ttname"><a href="../../df/d76/a04973.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a></div><div class="ttdeci">void fixname2(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:62</div></div>
+<div class="ttc" id="aa04973_html_ac3f75fc482c41471364c2c3e8bd1dd96"><div class="ttname"><a href="../../df/d76/a04973.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a></div><div class="ttdeci">char * GetExtension(char *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:72</div></div>
+<div class="ttc" id="aa05000_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../de/d7d/a05000.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
+<div class="ttc" id="aa05000_html_afc9839262206eb10094c1769141ae146"><div class="ttname"><a href="../../de/d7d/a05000.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a></div><div class="ttdeci">bool ExtractSingleWmo(std::string &amp;fname)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:98</div></div>
+<div class="ttc" id="aa05047_html_ab44884fb6c05cb4ae128d5882a2c4b7c"><div class="ttname"><a href="../../d3/dd5/a05047.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a></div><div class="ttdeci">const char RAW_VMAP_MAGIC[]</div><div class="ttdef"><b>Definition:</b> VMapDefinitions.h:26</div></div>
+<div class="ttc" id="aa29795_html"><div class="ttname"><a href="../../de/d81/a29795.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00072">GetExtension()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00044">model_list</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00026">VMAP::RAW_VMAP_MAGIC</a>, <a class="el" href="../../#l00384">strToLower()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
 
@@ -262,25 +262,25 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno">   38</span> </div>
 <div class="line"><span class="lineno">   39</span>    std::string originalName = fname;</div>
 <div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../df/d5e/a04982.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)fname.c_str());</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_function" href="../../df/d5e/a04982.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>(name, strlen(name));</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_function" href="../../df/d5e/a04982.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../df/d76/a04973.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)fname.c_str());</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_function" href="../../df/d76/a04973.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_function" href="../../df/d76/a04973.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
 <div class="line"><span class="lineno">   44</span> </div>
-<div class="line"><span class="lineno">   45</span>    std::string output(<a class="code hl_variable" href="../../d1/dc6/a04964.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>);</div>
+<div class="line"><span class="lineno">   45</span>    std::string output(<a class="code hl_variable" href="../../de/d7d/a05000.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>);</div>
 <div class="line"><span class="lineno">   46</span>    output += <span class="stringliteral">&quot;/&quot;</span>;</div>
 <div class="line"><span class="lineno">   47</span>    output += name;</div>
 <div class="line"><span class="lineno">   48</span> </div>
-<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/d75/a04934.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a>(output.c_str()))</div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../da/d7c/a05021.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a>(output.c_str()))</div>
 <div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_class" href="../../d0/df8/a29860.html">Model</a> mdl(originalName);</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_class" href="../../dc/da2/a29939.html">Model</a> mdl(originalName);</div>
 <div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (!mdl.open())</div>
 <div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   55</span> </div>
 <div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> mdl.ConvertToVMAPModel(output.c_str());</div>
 <div class="line"><span class="lineno">   57</span>}</div>
-<div class="ttc" id="aa04934_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../d9/d75/a04934.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition:</b> System.cpp:144</div></div>
-<div class="ttc" id="aa29860_html"><div class="ttname"><a href="../../d0/df8/a29860.html">Model</a></div><div class="ttdef"><b>Definition:</b> model.h:32</div></div>
+<div class="ttc" id="aa05021_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../da/d7c/a05021.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition:</b> System.cpp:144</div></div>
+<div class="ttc" id="aa29939_html"><div class="ttname"><a href="../../dc/da2/a29939.html">Model</a></div><div class="ttdef"><b>Definition:</b> model.h:32</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00144">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00032">Model::open()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
 
@@ -294,7 +294,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../db/db8/a04970.html">gameobject_extract.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:14:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:38:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

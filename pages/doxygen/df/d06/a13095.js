@@ -1,7 +1,16 @@
 var a13095 =
 [
-    [ "HandleDummy", "df/d06/a13095.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "df/d06/a13095.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "df/d06/a13095.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "df/d06/a13095.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "boss_moroes", "df/d06/a13095.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "df/d06/a13095.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "df/d06/a13095.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeGuests", "df/d06/a13095.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "df/d06/a13095.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "df/d06/a13095.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "KilledUnit", "df/d06/a13095.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "df/d06/a13095.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "df/d06/a13095.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "df/d06/a13095.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "df/d06/a13095.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_recentlySpoken", "df/d06/a13095.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
+    [ "_vanished", "df/d06/a13095.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

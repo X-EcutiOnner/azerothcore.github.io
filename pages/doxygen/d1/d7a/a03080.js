@@ -1,17 +1,10 @@
 var a03080 =
 [
-    [ "KeyFrame", "d5/d71/a10248.html", "d5/d71/a10248" ],
-    [ "TransportTemplate", "d8/dd1/a10252.html", "d8/dd1/a10252" ],
-    [ "TransportAnimation", "db/d38/a10256.html", "db/d38/a10256" ],
-    [ "TransportMgr", "df/d6f/a10260.html", "df/d6f/a10260" ],
-    [ "sTransportMgr", "d1/d7a/a03080.html#a8490de0c5d2ca76c3c17a5f9241ad635", null ],
-    [ "KeyFrameVec", "d1/d7a/a03080.html#a933345ef2cba8f20007b633f8bce737c", null ],
-    [ "TransportAnimationContainer", "d1/d7a/a03080.html#a66190b362b4aab515b7cf6974acdc3ee", null ],
-    [ "TransportInstanceMap", "d1/d7a/a03080.html#a5d0b038ae19d95dc969ce0306e61df37", null ],
-    [ "TransportMap", "d1/d7a/a03080.html#a41b04a0a994912eda6d213e37d97a0a9", null ],
-    [ "TransportPathContainer", "d1/d7a/a03080.html#a7905b31432c2140de30ffc9363c3e9b9", null ],
-    [ "TransportPathRotationContainer", "d1/d7a/a03080.html#a58adfcebbe67029f647a3db4897a6558", null ],
-    [ "TransportSet", "d1/d7a/a03080.html#abdd9e6bc913517c5ebd7f5e99f699e1e", null ],
-    [ "TransportSpline", "d1/d7a/a03080.html#a05990a03a3ab902d6d79e9f33385b605", null ],
-    [ "TransportTemplates", "d1/d7a/a03080.html#a95da4f79fff198b8042b47657f7ccb66", null ]
+    [ "SavedAddonsList", "d1/d7a/a03080.html#afa468163a23ed58507a89e5724c06eac", null ],
+    [ "GetAddonInfo", "d1/d7a/a03080.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d1/d7a/a03080.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d1/d7a/a03080.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d1/d7a/a03080.html#a85021021149b7eb4d78cbe81e43d3d45", null ],
+    [ "m_bannedAddons", "d1/d7a/a03080.html#a83195dfb437a3f713fa0ccd6c24477ed", null ],
+    [ "m_knownAddons", "d1/d7a/a03080.html#a6cd3e278f71724491a7a3b8167eab60e", null ]
 ];

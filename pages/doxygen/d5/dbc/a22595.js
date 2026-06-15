@@ -1,9 +1,6 @@
 var a22595 =
 [
-    [ "FilterTargets", "d5/dbc/a22595.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d5/dbc/a22595.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d5/dbc/a22595.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d5/dbc/a22595.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d5/dbc/a22595.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d5/dbc/a22595.html#a814083360970284a325621f45e109b5b", null ]
+    [ "CalculateAmount", "d5/dbc/a22595.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "d5/dbc/a22595.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "d5/dbc/a22595.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

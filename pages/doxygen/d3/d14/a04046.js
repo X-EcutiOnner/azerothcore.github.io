@@ -1,6 +1,5 @@
 var a04046 =
 [
-    [ "fireworkShowBootyBay", "d3/d14/a04046.html#ade8881c3a797a7937c46526f8c8adf99", null ],
-    [ "FireworkShowGameobjectBootyBay", "d3/d14/a04046.html#aeff31f29bacaf8ca10d5caee61627422", null ],
-    [ "fireworkShowScheduleBootyBay", "d3/d14/a04046.html#aed5048221cf1d35ad3d4989da8786617", null ]
+    [ "BattlefieldMgr", "d6/dfa/a07511.html", "d6/dfa/a07511" ],
+    [ "sBattlefieldMgr", "d3/d14/a04046.html#a4545b2a440043037e8dad52c0f644f48", null ]
 ];

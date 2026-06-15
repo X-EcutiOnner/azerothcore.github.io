@@ -1,6 +1,11 @@
 var a16607 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "d1/df8/a16611.html", "d1/df8/a16611" ],
-    [ "instance_trial_of_the_champion", "d9/d5a/a16607.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "d9/d5a/a16607.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "boss_saviana_ragefireAI", "d9/d5a/a16607.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d9/d5a/a16607.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d9/d5a/a16607.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d9/d5a/a16607.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d9/d5a/a16607.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d9/d5a/a16607.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d9/d5a/a16607.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d9/d5a/a16607.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

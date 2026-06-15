@@ -1,9 +1,16 @@
 var a29811 =
 [
-    [ "Flags", "d6/de9/a29811.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "d6/de9/a29811.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "d6/de9/a29811.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "d6/de9/a29811.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "d6/de9/a29811.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "d6/de9/a29811.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "Iterator", "d6/de9/a29811.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "Iterator", "d6/de9/a29811.html#a682fe042bcd4ceb6c25dd7b4a3acbcc1", null ],
+    [ "operator!=", "d6/de9/a29811.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator!=", "d6/de9/a29811.html#a7c0a38cbd02823479f349bb109a7ccf8", null ],
+    [ "operator*", "d6/de9/a29811.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator*", "d6/de9/a29811.html#a7b3de0d9987b834eaf6e909dd22f2528", null ],
+    [ "operator++", "d6/de9/a29811.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator++", "d6/de9/a29811.html#af7dc5aae457d264ebe4aa42f5b700589", null ],
+    [ "operator->", "d6/de9/a29811.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator->", "d6/de9/a29811.html#ac57afe01d1ce6c611ca832f10f5d52fd", null ],
+    [ "operator==", "d6/de9/a29811.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "operator==", "d6/de9/a29811.html#a2d9cf3e798a1fcce3682c186952290df", null ],
+    [ "record", "d6/de9/a29811.html#a948512c44e53dfa177b85f82e9fd6160", null ]
 ];

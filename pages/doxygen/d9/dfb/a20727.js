@@ -1,6 +1,6 @@
 var a20727 =
 [
-    [ "CheckCast", "d9/dfb/a20727.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d9/dfb/a20727.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d9/dfb/a20727.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "x", "d9/dfb/a20727.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d9/dfb/a20727.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d9/dfb/a20727.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

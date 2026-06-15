@@ -1,9 +1,8 @@
 var a22119 =
 [
-    [ "HandleFinish", "d6/dbb/a22119.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d6/dbb/a22119.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d6/dbb/a22119.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d6/dbb/a22119.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d6/dbb/a22119.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d6/dbb/a22119.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_wg_spirit_guideAI", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
+    [ "npc_wg_spirit_guide", "d6/dbb/a22119.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d6/dbb/a22119.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d6/dbb/a22119.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d6/dbb/a22119.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

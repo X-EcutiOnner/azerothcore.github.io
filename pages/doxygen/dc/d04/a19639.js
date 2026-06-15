@@ -1,7 +1,7 @@
 var a19639 =
 [
-    [ "CalcDamage", "dc/d04/a19639.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "dc/d04/a19639.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "dc/d04/a19639.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "dc/d04/a19639.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "boss_commander_stoutbeard", "dc/d04/a19639.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "dc/d04/a19639.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "dc/d04/a19639.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "dc/d04/a19639.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

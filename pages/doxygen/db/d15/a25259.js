@@ -1,5 +1,6 @@
 var a25259 =
 [
-    [ "PrepareSpellScript", "db/d15/a25259.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "db/d15/a25259.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "HandleScript", "db/d15/a25259.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "db/d15/a25259.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "db/d15/a25259.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

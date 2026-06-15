@@ -1,13 +1,12 @@
 var a07691 =
 [
-    [ "banners", "d3/d07/a07691.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "d3/d07/a07691.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "d3/d07/a07691.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "d3/d07/a07691.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "d3/d07/a07691.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "d3/d07/a07691.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "d3/d07/a07691.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "d3/d07/a07691.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "d3/d07/a07691.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "d3/d07/a07691.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "NodeId", "d3/d07/a07691.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "d3/d07/a07691.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "d3/d07/a07691.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "d3/d07/a07691.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "d3/d07/a07691.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "d3/d07/a07691.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "d3/d07/a07691.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "d3/d07/a07691.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "d3/d07/a07691.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

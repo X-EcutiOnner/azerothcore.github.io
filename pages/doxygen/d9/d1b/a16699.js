@@ -1,6 +1,6 @@
 var a16699 =
 [
-    [ "npc_toc_paladinAI", "df/dbd/a16703.html", "df/dbd/a16703" ],
-    [ "npc_toc_paladin", "d9/d1b/a16699.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d9/d1b/a16699.html#a15766ea4414701040c738251302177af", null ]
+    [ "HandleSpellHit", "d9/d1b/a16699.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d9/d1b/a16699.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d9/d1b/a16699.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

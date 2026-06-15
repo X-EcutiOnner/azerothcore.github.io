@@ -1,10 +1,11 @@
 var a15139 =
 [
-    [ "boss_aeonus", "d4/d08/a15139.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "d4/d08/a15139.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "d4/d08/a15139.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "d4/d08/a15139.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "d4/d08/a15139.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "d4/d08/a15139.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "d4/d08/a15139.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "npc_hyjal_ground_trash", "d4/d08/a15139.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d4/d08/a15139.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d4/d08/a15139.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d4/d08/a15139.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d4/d08/a15139.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d4/d08/a15139.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d4/d08/a15139.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d4/d08/a15139.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

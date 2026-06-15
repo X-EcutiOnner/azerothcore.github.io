@@ -1,5 +1,5 @@
 var a08707 =
 [
-    [ "ObjectGuidGenerator", "df/db3/a08707.html#a1d917989d9bf681546d0e3e9b20593e0", null ],
-    [ "Generate", "df/db3/a08707.html#a43dfe501c5ec222bbd1f8687a1a103b9", null ]
+    [ "InventoryType", "df/db3/a08707.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "df/db3/a08707.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

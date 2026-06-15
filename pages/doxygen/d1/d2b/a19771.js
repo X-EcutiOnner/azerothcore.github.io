@@ -1,9 +1,7 @@
 var a19771 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "d1/d2b/a19771.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "d1/d2b/a19771.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "d1/d2b/a19771.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "d1/d2b/a19771.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "d1/d2b/a19771.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "d1/d2b/a19771.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "HandleProc", "d1/d2b/a19771.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "d1/d2b/a19771.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "d1/d2b/a19771.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "d1/d2b/a19771.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

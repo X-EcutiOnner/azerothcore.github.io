@@ -1,8 +1,11 @@
 var a09031 =
 [
-    [ "PowerPctOrderPred", "d9/d85/a09031.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d9/d85/a09031.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d9/d85/a09031.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d9/d85/a09031.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d9/d85/a09031.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "UnitActionBarEntry", "d9/d85/a09031.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "d9/d85/a09031.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "d9/d85/a09031.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "d9/d85/a09031.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "d9/d85/a09031.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "d9/d85/a09031.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "d9/d85/a09031.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "d9/d85/a09031.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

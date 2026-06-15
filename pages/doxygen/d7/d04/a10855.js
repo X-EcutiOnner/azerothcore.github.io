@@ -1,7 +1,7 @@
 var a10855 =
 [
-    [ "ChatServerMessage", "d7/d04/a10855.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "d7/d04/a10855.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "d7/d04/a10855.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "d7/d04/a10855.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "AutoBankItem", "d7/d04/a10855.html#a02d39ddc9eda90be709b2fa9c1f6023d", null ],
+    [ "Read", "d7/d04/a10855.html#a8651192c6040cdf5d257c134dde1208c", null ],
+    [ "Bag", "d7/d04/a10855.html#a69f9b65ecb778c94c6e9278e5f98d31b", null ],
+    [ "Slot", "d7/d04/a10855.html#a970f2ca85a76de1a25ad40a9ebf0029f", null ]
 ];

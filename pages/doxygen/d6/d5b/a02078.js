@@ -1,6 +1,6 @@
 var a02078 =
 [
-    [ "fireworkShowGameobjectIronforge", "d6/d5b/a02078.html#a1c510ef56353251fbd84e641155e90f8", null ],
-    [ "fireworkShowIronforge", "d6/d5b/a02078.html#aac2063b01976ab49960c5cde832a70dc", null ],
-    [ "fireworkShowScheduleIronforge", "d6/d5b/a02078.html#ac473aa81696d6b6374a3062efff6b146", null ]
+    [ "instance_pit_of_saron", "d6/dad/a17375.html", "d6/dad/a17375" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "de/d1e/a17379.html", "de/d1e/a17379" ],
+    [ "AddSC_instance_pit_of_saron", "d6/d5b/a02078.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

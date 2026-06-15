@@ -1,9 +1,7 @@
 var a18595 =
 [
-    [ "FilterTargets", "d8/d2b/a18595.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "d8/d2b/a18595.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "d8/d2b/a18595.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "d8/d2b/a18595.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "d8/d2b/a18595.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "d8/d2b/a18595.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "OnPeriodic", "d8/d2b/a18595.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "d8/d2b/a18595.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "d8/d2b/a18595.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "d8/d2b/a18595.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

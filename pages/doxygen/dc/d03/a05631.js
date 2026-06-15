@@ -1,10 +1,9 @@
 var a05631 =
 [
-    [ "Category", "dc/d03/a05631.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "dc/d03/a05631.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "dc/d03/a05631.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "dc/d03/a05631.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "dc/d03/a05631.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "dc/d03/a05631.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "dc/d03/a05631.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "IpLocationStore", "dc/d03/a05631.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "dc/d03/a05631.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "dc/d03/a05631.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "dc/d03/a05631.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "dc/d03/a05631.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "dc/d03/a05631.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

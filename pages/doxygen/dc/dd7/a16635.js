@@ -1,6 +1,13 @@
 var a16635 =
 [
-    [ "npc_swarm_scarabAI", "d7/dcd/a16639.html", "d7/dcd/a16639" ],
-    [ "npc_swarm_scarab", "dc/dd7/a16635.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "dc/dd7/a16635.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "boss_eadricAI", "dc/dd7/a16635.html#a461043fe1bff0f5478e2a57504e7477c", null ],
+    [ "DamageTaken", "dc/dd7/a16635.html#a440899ffdeda7794ef4fa5530638eecc", null ],
+    [ "JustEngagedWith", "dc/dd7/a16635.html#a09a0cebcdffb00e37e9d60111c582669", null ],
+    [ "KilledUnit", "dc/dd7/a16635.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
+    [ "MovementInform", "dc/dd7/a16635.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
+    [ "Reset", "dc/dd7/a16635.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
+    [ "SpellHit", "dc/dd7/a16635.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
+    [ "UpdateAI", "dc/dd7/a16635.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
+    [ "events", "dc/dd7/a16635.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
+    [ "pInstance", "dc/dd7/a16635.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
 ];

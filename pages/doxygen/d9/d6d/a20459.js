@@ -1,5 +1,5 @@
 var a20459 =
 [
-    [ "achievement_quick_shave", "d9/d6d/a20459.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d9/d6d/a20459.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d9/d6d/a20459.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d9/d6d/a20459.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

@@ -1,9 +1,14 @@
 var a19683 =
 [
-    [ "npc_stormforged_lieutenant", "d9/dbd/a19683.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d9/dbd/a19683.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d9/dbd/a19683.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d9/dbd/a19683.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d9/dbd/a19683.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d9/dbd/a19683.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "npc_crystalline_frayer", "d9/dbd/a19683.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d9/dbd/a19683.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d9/dbd/a19683.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "EnterSeedPod", "d9/dbd/a19683.html#a070554a809ba40726d005fdba19a16b0", null ],
+    [ "JustEngagedWith", "d9/dbd/a19683.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "LeaveSeedPod", "d9/dbd/a19683.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
+    [ "Reset", "d9/dbd/a19683.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d9/dbd/a19683.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d9/dbd/a19683.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "_inSeedPod", "d9/dbd/a19683.html#a26e0c5f780bc661796f922c52000c30a", null ],
+    [ "_scheduler", "d9/dbd/a19683.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
 ];

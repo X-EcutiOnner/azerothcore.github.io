@@ -1,8 +1,7 @@
 var a05675 =
 [
-    [ "GeneralLock", "d2/d44/a05675.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "d2/d44/a05675.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "d2/d44/a05675.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "d2/d44/a05675.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "d2/d44/a05675.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "MetricStopWatch", "d2/d44/a05675.html#a2007207e0985949f478fdeee300ea0d5", null ],
+    [ "~MetricStopWatch", "d2/d44/a05675.html#a712b660e090531e69455096afeb60c4c", null ],
+    [ "_logger", "d2/d44/a05675.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
+    [ "_startTime", "d2/d44/a05675.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
 ];

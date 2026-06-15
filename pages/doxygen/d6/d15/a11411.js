@@ -1,6 +1,4 @@
 var a11411 =
 [
-    [ "CorpseMapPositionQuery", "d6/d15/a11411.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d6/d15/a11411.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d6/d15/a11411.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "Validate", "d6/d15/a11411.html#ab0d4c07b4ce9903a913bdced5e05bbd6", null ]
 ];

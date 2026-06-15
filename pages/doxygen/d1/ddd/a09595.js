@@ -1,10 +1,10 @@
 var a09595 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d1/ddd/a09595.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d1/ddd/a09595.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d1/ddd/a09595.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d1/ddd/a09595.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d1/ddd/a09595.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d1/ddd/a09595.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d1/ddd/a09595.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "UnitSearcher", "d1/ddd/a09595.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "d1/ddd/a09595.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "d1/ddd/a09595.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "d1/ddd/a09595.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "d1/ddd/a09595.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "d1/ddd/a09595.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "d1/ddd/a09595.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

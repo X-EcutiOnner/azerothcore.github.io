@@ -1,10 +1,10 @@
 var a13811 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d5/dcc/a13811.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d5/dcc/a13811.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d5/dcc/a13811.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d5/dcc/a13811.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d5/dcc/a13811.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d5/dcc/a13811.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
-    [ "WaypointReached", "d5/dcc/a13811.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "MoveDelayed", "d5/dcc/a13811.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "d5/dcc/a13811.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "d5/dcc/a13811.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "d5/dcc/a13811.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "d5/dcc/a13811.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "d5/dcc/a13811.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "d5/dcc/a13811.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

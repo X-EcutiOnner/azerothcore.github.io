@@ -1,10 +1,6 @@
 var a20647 =
 [
-    [ "boss_yoggsaron_immortal_guardian", "d0/d4b/a20647.html#af282d41a1ee71c15bb51e03bebd97486", null ],
-    [ "DamageTaken", "d0/d4b/a20647.html#a9bf936d6a501e53ce98786f043562a71", null ],
-    [ "Reset", "d0/d4b/a20647.html#a1173d401233670a45b31040b8e5d98cb", null ],
-    [ "SpellHit", "d0/d4b/a20647.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
-    [ "UpdateAI", "d0/d4b/a20647.html#adaae7e2cd52951095cb82819d9874426", null ],
-    [ "_spellTimer", "d0/d4b/a20647.html#a521b956c116a23523fdfceb95a42c1e2", null ],
-    [ "_visualTimer", "d0/d4b/a20647.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
+    [ "PrepareSpellScript", "d0/d4b/a20647.html#a3c8337cc17ec735fc97f5195a1e820b6", null ],
+    [ "Register", "d0/d4b/a20647.html#ae0cc2794b1d2b8de442dbf30f7da8883", null ],
+    [ "SelectPillar", "d0/d4b/a20647.html#a2eaa34f9f3b3d255fc5091fb5b48f60a", null ]
 ];

@@ -1,10 +1,5 @@
 var a04436 =
 [
-    [ "VMAP::ModelSpawn", "d4/dcb/a05336.html", "d4/dcb/a05336" ],
-    [ "VMAP::ModelInstance", "d0/d8d/a05340.html", "d0/d8d/a05340" ],
-    [ "ModelFlags", "d6/d11/a04436.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "d6/d11/a04436.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "d6/d11/a04436.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "d6/d11/a04436.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "VMAP::MapRayCallback", "d5/d60/a05279.html", "d5/d60/a05279" ],
+    [ "VMAP::LocationInfoCallback", "da/d2b/a05283.html", "da/d2b/a05283" ]
 ];

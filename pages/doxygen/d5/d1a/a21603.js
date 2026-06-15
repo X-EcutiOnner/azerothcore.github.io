@@ -1,7 +1,6 @@
 var a21603 =
 [
-    [ "HandleScriptEffect", "d5/d1a/a21603.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d5/d1a/a21603.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d5/d1a/a21603.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d5/d1a/a21603.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "GhoulTargetCheck", "d5/d1a/a21603.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d5/d1a/a21603.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d5/d1a/a21603.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

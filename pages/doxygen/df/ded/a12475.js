@@ -1,13 +1,12 @@
 var a12475 =
 [
-    [ "boss_doomrel", "df/ded/a12475.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
-    [ "EnterEvadeMode", "df/ded/a12475.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
-    [ "JustEngagedWith", "df/ded/a12475.html#a559c1619a97e50b03db6c8abc7190f91", null ],
-    [ "Reset", "df/ded/a12475.html#af30f3385bb1ca366f335ca3e19849704", null ],
-    [ "sGossipHello", "df/ded/a12475.html#a4166af2b7212f9e941413d5e27dcb1b1", null ],
-    [ "sGossipSelect", "df/ded/a12475.html#a5cf1779456f50b53533d44a650e70715", null ],
-    [ "UpdateAI", "df/ded/a12475.html#a92cdad912f54235ab9c4cd788f17e293", null ],
-    [ "_events", "df/ded/a12475.html#a1687755cadc484d431497a320e9509f3", null ],
-    [ "instance", "df/ded/a12475.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
-    [ "Voidwalkers", "df/ded/a12475.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
+    [ "rbac_commandscript", "df/ded/a12475.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
+    [ "GetCommands", "df/ded/a12475.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
+    [ "GetRBACData", "df/ded/a12475.html#a00da7ed9027950938ec869e678111502", null ],
+    [ "GetSecurityLevelName", "df/ded/a12475.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
+    [ "HandleRBACListPermissionsCommand", "df/ded/a12475.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
+    [ "HandleRBACPermDenyCommand", "df/ded/a12475.html#acc074437ff26c253cf91772de9117fbf", null ],
+    [ "HandleRBACPermGrantCommand", "df/ded/a12475.html#ad4254acff93e13b7218b086281d13676", null ],
+    [ "HandleRBACPermListCommand", "df/ded/a12475.html#a324227f3398500ca0a5b7dd141698951", null ],
+    [ "HandleRBACPermRevokeCommand", "df/ded/a12475.html#adf8932879f77b25833cf55dc2924ac29", null ]
 ];

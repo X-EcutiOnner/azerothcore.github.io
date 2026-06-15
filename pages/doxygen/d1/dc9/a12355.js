@@ -1,12 +1,11 @@
 var a12355 =
 [
-    [ "boss_balinda", "d1/dc9/a12355.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d1/dc9/a12355.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d1/dc9/a12355.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d1/dc9/a12355.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d1/dc9/a12355.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d1/dc9/a12355.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d1/dc9/a12355.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d1/dc9/a12355.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d1/dc9/a12355.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "group_commandscript", "d1/dc9/a12355.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "d1/dc9/a12355.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "d1/dc9/a12355.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "d1/dc9/a12355.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "d1/dc9/a12355.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "d1/dc9/a12355.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "d1/dc9/a12355.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "d1/dc9/a12355.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

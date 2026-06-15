@@ -1,7 +1,6 @@
 var a18143 =
 [
-    [ "HandleSummon", "dc/ddc/a18143.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "dc/ddc/a18143.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "dc/ddc/a18143.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "dc/ddc/a18143.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_bone_spikeAI", "de/db9/a18147.html", "de/db9/a18147" ],
+    [ "npc_bone_spike", "dc/ddc/a18143.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "dc/ddc/a18143.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

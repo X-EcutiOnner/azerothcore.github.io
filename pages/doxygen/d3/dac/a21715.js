@@ -1,7 +1,6 @@
 var a21715 =
 [
-    [ "npc_plaguehound_trackerAI", "d3/dac/a21715.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "d3/dac/a21715.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "d3/dac/a21715.html#a67c345f49572cde76d9109a1baff6788", null ],
-    [ "WaypointReached", "d3/dac/a21715.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_venture_co_stragglerAI", "db/d4e/a21719.html", "db/d4e/a21719" ],
+    [ "npc_venture_co_straggler", "d3/dac/a21715.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d3/dac/a21715.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

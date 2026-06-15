@@ -1,8 +1,6 @@
 var a14255 =
 [
-    [ "FilterTargets", "da/d3f/a14255.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "da/d3f/a14255.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "da/d3f/a14255.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "da/d3f/a14255.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "da/d3f/a14255.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "cooldown", "da/d3f/a14255.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "da/d3f/a14255.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "da/d3f/a14255.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

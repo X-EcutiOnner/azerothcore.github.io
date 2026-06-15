@@ -1,6 +1,7 @@
 var a16551 =
 [
-    [ "boss_black_knightAI", "da/d79/a16555.html", "da/d79/a16555" ],
-    [ "boss_black_knight", "d7/de1/a16551.html#af55a307f282a68bc83e45c6de647ebf4", null ],
-    [ "GetAI", "d7/de1/a16551.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
+    [ "HandleScriptEffect", "d7/de1/a16551.html#a9582a8faa1b8ba973a76d651a7479348", null ],
+    [ "PrepareSpellScript", "d7/de1/a16551.html#a681102507df3aa365ee2e2f064be5e54", null ],
+    [ "Register", "d7/de1/a16551.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
+    [ "Validate", "d7/de1/a16551.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
 ];

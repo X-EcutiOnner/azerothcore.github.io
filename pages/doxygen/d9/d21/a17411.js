@@ -1,15 +1,11 @@
 var a17411 =
 [
-    [ "boss_gal_darah", "d9/d21/a17411.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
-    [ "GetData", "d9/d21/a17411.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
-    [ "JustDied", "d9/d21/a17411.html#a98f53f7131155114da1eeb19f5a50daa", null ],
-    [ "JustEngagedWith", "d9/d21/a17411.html#acf7696bdfa868808f29a90dbec4b0688", null ],
-    [ "JustReachedHome", "d9/d21/a17411.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
-    [ "JustSummoned", "d9/d21/a17411.html#a490e259cf452c417864c978510d06fd2", null ],
-    [ "KilledUnit", "d9/d21/a17411.html#a799e52cfe029164149017ea7f963937f", null ],
-    [ "Reset", "d9/d21/a17411.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
-    [ "ScheduleEvents", "d9/d21/a17411.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
-    [ "SpellHit", "d9/d21/a17411.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
-    [ "_stampedeVictim", "d9/d21/a17411.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
-    [ "impaledList", "d9/d21/a17411.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d9/d21/a17411.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d9/d21/a17411.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d9/d21/a17411.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d9/d21/a17411.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d9/d21/a17411.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d9/d21/a17411.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d9/d21/a17411.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d9/d21/a17411.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

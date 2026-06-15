@@ -1,16 +1,6 @@
 var a08151 =
 [
-    [ "DisableMap", "d4/dcc/a08151.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "d4/dcc/a08151.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "d4/dcc/a08151.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "d4/dcc/a08151.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "d4/dcc/a08151.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "d4/dcc/a08151.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "d4/dcc/a08151.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "d4/dcc/a08151.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "d4/dcc/a08151.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "d4/dcc/a08151.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "d4/dcc/a08151.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "d4/dcc/a08151.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "d4/dcc/a08151.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "value_type", "d4/dcc/a08151.html#a77339e0f85d207328398ee7121f044d8", null ],
+    [ "StoreTo", "d4/dcc/a08151.html#a50290d7098ae9458bfb9c347934a4a0c", null ],
+    [ "tag", "d4/dcc/a08151.html#a2833cad2eab45d89d029727ce22bb808", null ]
 ];

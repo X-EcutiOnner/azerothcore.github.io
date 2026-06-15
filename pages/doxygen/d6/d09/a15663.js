@@ -1,6 +1,6 @@
 var a15663 =
 [
-    [ "npc_webbed_creatureAI", "db/d8a/a15667.html", "db/d8a/a15667" ],
-    [ "npc_webbed_creature", "d6/d09/a15663.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d6/d09/a15663.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "HandleOnHit", "d6/d09/a15663.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "d6/d09/a15663.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "d6/d09/a15663.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

@@ -1,9 +1,6 @@
 var a19979 =
 [
-    [ "npc_thorims_hammer", "d0/d07/a19979.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "d0/d07/a19979.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "d0/d07/a19979.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "d0/d07/a19979.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "d0/d07/a19979.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "d0/d07/a19979.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "HandlePeriodic", "d0/d07/a19979.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d0/d07/a19979.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d0/d07/a19979.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

@@ -1,6 +1,7 @@
 var a18535 =
 [
-    [ "ModDestHeight", "d1/d3a/a18535.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d1/d3a/a18535.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d1/d3a/a18535.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "TriggerWickedSpirit", "d1/d3a/a18535.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d1/d3a/a18535.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d1/d3a/a18535.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d1/d3a/a18535.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

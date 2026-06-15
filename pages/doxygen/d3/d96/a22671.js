@@ -1,12 +1,12 @@
 var a22671 =
 [
-    [ "npc_creature_generator_akama", "d3/d96/a22671.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d3/d96/a22671.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d3/d96/a22671.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d3/d96/a22671.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d3/d96/a22671.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d3/d96/a22671.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d3/d96/a22671.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d3/d96/a22671.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d3/d96/a22671.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "boss_essence_of_desireAI", "d3/d96/a22671.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d3/d96/a22671.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d3/d96/a22671.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d3/d96/a22671.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d3/d96/a22671.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d3/d96/a22671.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d3/d96/a22671.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d3/d96/a22671.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d3/d96/a22671.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

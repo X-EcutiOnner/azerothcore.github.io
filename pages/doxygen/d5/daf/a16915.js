@@ -1,6 +1,7 @@
 var a16915 =
 [
-    [ "npc_concentrated_ballAI", "d9/ddd/a16919.html", "d9/ddd/a16919" ],
-    [ "npc_concentrated_ball", "d5/daf/a16915.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d5/daf/a16915.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_toc_retro_paladinAI", "d5/daf/a16915.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d5/daf/a16915.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d5/daf/a16915.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d5/daf/a16915.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

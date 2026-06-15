@@ -1,7 +1,6 @@
 var a25631 =
 [
-    [ "HandleProc", "d4/d26/a25631.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
-    [ "PrepareAuraScript", "d4/d26/a25631.html#a84f326e1353437f29fb051533d3391eb", null ],
-    [ "Register", "d4/d26/a25631.html#a7afae9d94162490cb40d29159d88f4a8", null ],
-    [ "Validate", "d4/d26/a25631.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
+    [ "HandlePeriodicTick", "d4/d26/a25631.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d4/d26/a25631.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d4/d26/a25631.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

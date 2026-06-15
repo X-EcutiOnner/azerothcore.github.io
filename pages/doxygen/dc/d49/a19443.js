@@ -1,10 +1,6 @@
 var a19443 =
 [
-    [ "npc_power_spark", "dc/d49/a19443.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "dc/d49/a19443.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "dc/d49/a19443.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "dc/d49/a19443.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "dc/d49/a19443.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "dc/d49/a19443.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "dc/d49/a19443.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "boss_maexxnaAI", "d0/df9/a19447.html", "d0/df9/a19447" ],
+    [ "boss_maexxna", "dc/d49/a19443.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "dc/d49/a19443.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

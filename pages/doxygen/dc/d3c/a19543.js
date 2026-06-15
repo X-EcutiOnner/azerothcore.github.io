@@ -1,8 +1,6 @@
 var a19543 =
 [
-    [ "npc_crystal_spike", "dc/d3c/a19543.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "dc/d3c/a19543.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "dc/d3c/a19543.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "dc/d3c/a19543.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "dc/d3c/a19543.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "DespawnTime", "dc/d3c/a19543.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "dc/d3c/a19543.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "dc/d3c/a19543.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

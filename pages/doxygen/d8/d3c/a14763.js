@@ -1,5 +1,5 @@
 var a14763 =
 [
-    [ "PrepareSpellScript", "d8/d3c/a14763.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "d8/d3c/a14763.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d8/d3c/a14763.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d8/d3c/a14763.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

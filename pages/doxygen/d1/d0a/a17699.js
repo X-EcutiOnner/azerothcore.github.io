@@ -1,7 +1,6 @@
 var a17699 =
 [
-    [ "HandleProc", "d1/d0a/a17699.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d1/d0a/a17699.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d1/d0a/a17699.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d1/d0a/a17699.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "PrepareSpellScript", "d1/d0a/a17699.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d1/d0a/a17699.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d1/d0a/a17699.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

@@ -1,9 +1,7 @@
 var a15415 =
 [
-    [ "npc_eye_tentacle", "dc/d42/a15415.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "dc/d42/a15415.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "dc/d42/a15415.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "dc/d42/a15415.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "dc/d42/a15415.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "dc/d42/a15415.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "HandleScript", "dc/d42/a15415.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "dc/d42/a15415.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "dc/d42/a15415.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "dc/d42/a15415.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

@@ -1,13 +1,11 @@
 var a13995 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "dc/d40/a13995.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustDied", "dc/d40/a13995.html#a410c84a1fcf50b50e6ebc340c1b58939", null ],
-    [ "JustEngagedWith", "dc/d40/a13995.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "dc/d40/a13995.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "dc/d40/a13995.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "dc/d40/a13995.html#a10ecf7bf7551be186e1c00390eaad203", null ],
-    [ "UpdateAI", "dc/d40/a13995.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "dc/d40/a13995.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "dc/d40/a13995.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "dc/d40/a13995.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "npc_balance_of_light_and_shadowAI", "dc/d40/a13995.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "dc/d40/a13995.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "dc/d40/a13995.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "dc/d40/a13995.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "dc/d40/a13995.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "dc/d40/a13995.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "dc/d40/a13995.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "dc/d40/a13995.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

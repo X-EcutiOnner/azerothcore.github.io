@@ -1,5 +1,9 @@
 var a12279 =
 [
-    [ "Chance", "d6/d91/a12279.html#a20ae19fc80deceb81adccb91b341fb82", null ],
-    [ "Entry", "d6/d91/a12279.html#ae8b951678ec65907370ffe700cd668c8", null ]
+    [ "autobroadcast_commandscript", "d6/d91/a12279.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "d6/d91/a12279.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "d6/d91/a12279.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "d6/d91/a12279.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "d6/d91/a12279.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "d6/d91/a12279.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

@@ -1,8 +1,7 @@
 var a29675 =
 [
-    [ "DBCFile", "d0/d97/a28684.html", "d0/d97/a28684" ],
-    [ "DBCFile::Exception", "dc/d15/a28688.html", "dc/d15/a28688" ],
-    [ "DBCFile::NotFound", "dc/da2/a28692.html", "dc/da2/a28692" ],
-    [ "DBCFile::Record", "d1/dd7/a28696.html", "d1/dd7/a28696" ],
-    [ "DBCFile::Iterator", "d8/d74/a28700.html", "d8/d74/a28700" ]
+    [ "SetUp", "d9/de7/a29675.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "d9/de7/a29675.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "d9/de7/a29675.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "d9/de7/a29675.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

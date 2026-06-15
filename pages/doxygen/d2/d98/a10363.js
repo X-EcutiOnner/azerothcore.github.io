@@ -1,8 +1,8 @@
 var a10363 =
 [
-    [ "Location", "d2/d98/a10363.html#a0c601d413eeb398eb75d386c264ef5ab", null ],
-    [ "Location", "d2/d98/a10363.html#ae013ab2bf44bb250644573625bf93265", null ],
-    [ "Location", "d2/d98/a10363.html#a0d50c28ba40b409a0c5a9776bfe8ef42", null ],
-    [ "Location", "d2/d98/a10363.html#a1270aec177f47a607cb5a1472819c738", null ],
-    [ "orientation", "d2/d98/a10363.html#a9fc2637d4441d90c528eaef0f0414b98", null ]
+    [ "Finalize", "d2/d98/a10363.html#abf4c6547449605e703b424d8aa7f46b5", null ],
+    [ "GetMovementGeneratorType", "d2/d98/a10363.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
+    [ "Initialize", "d2/d98/a10363.html#a68c249f25ef86f2e50d69698e190ed03", null ],
+    [ "Reset", "d2/d98/a10363.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
+    [ "Update", "d2/d98/a10363.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
 ];

@@ -1,10 +1,7 @@
 var a14975 =
 [
-    [ "hyjalJainaAI", "d2/df8/a14975.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d2/df8/a14975.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d2/df8/a14975.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d2/df8/a14975.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d2/df8/a14975.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d2/df8/a14975.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d2/df8/a14975.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "GetVisualThrow", "d2/df8/a14975.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
+    [ "HandleDummy", "d2/df8/a14975.html#adca1aacf89dcf452f1c98cae97f09690", null ],
+    [ "PrepareSpellScript", "d2/df8/a14975.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
+    [ "Register", "d2/df8/a14975.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
 ];

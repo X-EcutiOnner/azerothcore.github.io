@@ -1,6 +1,6 @@
 var a18539 =
 [
-    [ "ModDest", "d0/db2/a18539.html#a71638bdecb0f580dceff7858441056d8", null ],
-    [ "PrepareSpellScript", "d0/db2/a18539.html#a741227928e07585b156ec716ae8b13da", null ],
-    [ "Register", "d0/db2/a18539.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
+    [ "LichKingDeathEvent", "d0/db2/a18539.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d0/db2/a18539.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d0/db2/a18539.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

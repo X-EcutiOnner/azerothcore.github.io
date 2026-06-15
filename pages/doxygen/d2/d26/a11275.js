@@ -1,6 +1,6 @@
 var a11275 =
 [
-    [ "ComplainResult", "d2/d26/a11275.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
-    [ "Write", "d2/d26/a11275.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
-    [ "Unk", "d2/d26/a11275.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
+    [ "CancelTempEnchantment", "d2/d26/a11275.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "d2/d26/a11275.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "d2/d26/a11275.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

@@ -1,12 +1,13 @@
 var a21099 =
 [
-    [ "boss_moraggAI", "d7/d99/a21099.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d7/d99/a21099.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d7/d99/a21099.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d7/d99/a21099.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d7/d99/a21099.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d7/d99/a21099.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d7/d99/a21099.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d7/d99/a21099.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d7/d99/a21099.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "MoveX", "d7/d99/a21099.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d7/d99/a21099.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d7/d99/a21099.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d7/d99/a21099.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d7/d99/a21099.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d7/d99/a21099.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d7/d99/a21099.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d7/d99/a21099.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d7/d99/a21099.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d7/d99/a21099.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

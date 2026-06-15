@@ -1,5 +1,4 @@
 var a07959 =
 [
-    [ "value_type", "db/d36/a07959.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
-    [ "TryConsume", "db/d36/a07959.html#a7320475f165952ef8ebf69407b533248", null ]
+    [ "TryConsume", "db/d36/a07959.html#a37759b49a279395a5011dcfc41838a5e", null ]
 ];

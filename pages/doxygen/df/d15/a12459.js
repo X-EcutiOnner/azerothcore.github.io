@@ -1,7 +1,6 @@
 var a12459 =
 [
-    [ "boss_moira_bronzebeard", "df/d15/a12459.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "df/d15/a12459.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "df/d15/a12459.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "df/d15/a12459.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "CapturedGroups", "df/d15/a12459.html#a6842947e5fbe26c2c4aadc1209395902", null ],
+    [ "CurrentTemplate", "df/d15/a12459.html#a6915499b95c29a00cde15c5a7f562158", null ],
+    [ "ZoneName", "df/d15/a12459.html#a62633be7d11b2937b301e63f6d1e94e2", null ]
 ];

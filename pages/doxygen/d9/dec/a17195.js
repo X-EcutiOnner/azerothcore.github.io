@@ -1,5 +1,9 @@
 var a17195 =
 [
-    [ "at_hor_battered_hilt_throw", "d9/dec/a17195.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d9/dec/a17195.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "HandlePeriodicTick", "d9/dec/a17195.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d9/dec/a17195.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d9/dec/a17195.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d9/dec/a17195.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d9/dec/a17195.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d9/dec/a17195.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

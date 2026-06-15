@@ -1,7 +1,6 @@
 var a22063 =
 [
-    [ "HandleScript", "df/d8a/a22063.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "df/d8a/a22063.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "df/d8a/a22063.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "df/d8a/a22063.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "CheckCast", "df/d8a/a22063.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "df/d8a/a22063.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "df/d8a/a22063.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

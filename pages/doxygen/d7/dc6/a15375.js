@@ -1,6 +1,6 @@
 var a15375 =
 [
-    [ "HandleScript", "d7/dc6/a15375.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
-    [ "PrepareSpellScript", "d7/dc6/a15375.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
-    [ "Register", "d7/dc6/a15375.html#a434f0aef7f32edb6990efb992e4d57af", null ]
+    [ "npc_belnistraszAI", "d4/dd0/a15379.html", "d4/dd0/a15379" ],
+    [ "npc_belnistrasz", "d7/dc6/a15375.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d7/dc6/a15375.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

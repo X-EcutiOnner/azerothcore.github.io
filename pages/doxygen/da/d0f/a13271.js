@@ -1,6 +1,7 @@
 var a13271 =
 [
-    [ "npc_scarlet_courierAI", "dc/d21/a13275.html", "dc/d21/a13275" ],
-    [ "npc_scarlet_courier", "da/d0f/a13271.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
-    [ "GetAI", "da/d0f/a13271.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
+    [ "HandleDummy", "da/d0f/a13271.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "da/d0f/a13271.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "da/d0f/a13271.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "da/d0f/a13271.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

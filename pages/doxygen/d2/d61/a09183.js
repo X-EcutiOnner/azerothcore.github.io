@@ -1,6 +1,8 @@
 var a09183 =
 [
-    [ "flags", "d2/d61/a09183.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d2/d61/a09183.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d2/d61/a09183.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "Entry", "d2/d61/a09183.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "d2/d61/a09183.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "d2/d61/a09183.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "d2/d61/a09183.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "d2/d61/a09183.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

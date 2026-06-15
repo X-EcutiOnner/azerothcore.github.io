@@ -1,8 +1,8 @@
 var a16403 =
 [
-    [ "OnApply", "db/d2f/a16403.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "db/d2f/a16403.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "db/d2f/a16403.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "db/d2f/a16403.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "db/d2f/a16403.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "boss_sartharion_vesperon", "db/d2f/a16403.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
+    [ "ClearInstance", "db/d2f/a16403.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
+    [ "ExecuteEvent", "db/d2f/a16403.html#aefc42452e75c476aef39ba0df3a03d70", null ],
+    [ "Reset", "db/d2f/a16403.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
+    [ "SummonedCreatureDies", "db/d2f/a16403.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
 ];

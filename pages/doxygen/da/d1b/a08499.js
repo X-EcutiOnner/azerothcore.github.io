@@ -1,10 +1,13 @@
 var a08499 =
 [
-    [ "ObjectGuidGeneratorBase", "da/d1b/a08499.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "da/d1b/a08499.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "da/d1b/a08499.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "da/d1b/a08499.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "da/d1b/a08499.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "da/d1b/a08499.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "da/d1b/a08499.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "AnimationInfo", "da/d1b/a08499.html#aa443028e95ae416e09f1acfef0575803", null ],
+    [ "Building", "da/d1b/a08499.html#a53c177a0b800f7e0952bff948fca636c", null ],
+    [ "CapturePoint", "da/d1b/a08499.html#a200f05ff1207f21ef67cb9c14d3a4767", null ],
+    [ "FishingHole", "da/d1b/a08499.html#a1ccae6fe25f6c9377c5c2933b6301254", null ],
+    [ "Health", "da/d1b/a08499.html#af70b72663064c9c4b88c93a824f1e14b", null ],
+    [ "MaxHealth", "da/d1b/a08499.html#ab606f11596c1dd3d1cf7588346338721", null ],
+    [ "MaxOpens", "da/d1b/a08499.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
+    [ "OPvPObj", "da/d1b/a08499.html#a565624b690fa7fabf21b175548765652", null ],
+    [ "PathProgress", "da/d1b/a08499.html#a9e07a147b2be08a78f052e0cdb817111", null ],
+    [ "Transport", "da/d1b/a08499.html#a0e552fe0bfca9c74cbe9c6f72fc044e5", null ]
 ];

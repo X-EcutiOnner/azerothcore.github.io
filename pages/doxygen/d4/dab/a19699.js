@@ -1,12 +1,13 @@
 var a19699 =
 [
-    [ "boss_loken", "d4/dab/a19699.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d4/dab/a19699.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d4/dab/a19699.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d4/dab/a19699.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d4/dab/a19699.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d4/dab/a19699.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d4/dab/a19699.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d4/dab/a19699.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d4/dab/a19699.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "npc_oculus_unstable_sphereAI", "d4/dab/a19699.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d4/dab/a19699.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d4/dab/a19699.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d4/dab/a19699.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d4/dab/a19699.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d4/dab/a19699.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d4/dab/a19699.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d4/dab/a19699.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d4/dab/a19699.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d4/dab/a19699.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

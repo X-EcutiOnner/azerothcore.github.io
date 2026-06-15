@@ -1,8 +1,9 @@
 var a11263 =
 [
-    [ "CrossedInebriationThreshold", "df/d00/a11263.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "df/d00/a11263.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "df/d00/a11263.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "df/d00/a11263.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "df/d00/a11263.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "ItemEnchantTimeUpdate", "df/d00/a11263.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "df/d00/a11263.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "df/d00/a11263.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "df/d00/a11263.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "df/d00/a11263.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "df/d00/a11263.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

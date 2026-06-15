@@ -1,8 +1,10 @@
 var a04361 =
 [
-    [ "CleanStringForMysqlQuery", "d1/d04/a04361.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
-    [ "GetLocaleByName", "d1/d04/a04361.html#a8051d28826d995169bd4ce60310d5d65", null ],
-    [ "GetNameByLocaleConstant", "d1/d04/a04361.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
-    [ "IsLocaleValid", "d1/d04/a04361.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
-    [ "localeNames", "d1/d04/a04361.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
+    [ "UpdateException", "d0/d65/a06215.html", "d0/d65/a06215" ],
+    [ "DBUpdaterUtil", "d9/d20/a06219.html", "d9/d20/a06219" ],
+    [ "DBUpdater< T >", "dd/de8/a06223.html", "dd/de8/a06223" ],
+    [ "BaseLocation", "d1/d04/a04361.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
+      [ "LOCATION_REPOSITORY", "d1/d04/a04361.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
+      [ "LOCATION_DOWNLOAD", "d1/d04/a04361.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    ] ]
 ];

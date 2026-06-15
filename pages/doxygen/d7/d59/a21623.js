@@ -1,9 +1,8 @@
 var a21623 =
 [
-    [ "npc_mrfloppyAI", "d7/d59/a21623.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d7/d59/a21623.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d7/d59/a21623.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d7/d59/a21623.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d7/d59/a21623.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d7/d59/a21623.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_q24545_vegardAI", "d7/d59/a21623.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d7/d59/a21623.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d7/d59/a21623.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d7/d59/a21623.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d7/d59/a21623.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

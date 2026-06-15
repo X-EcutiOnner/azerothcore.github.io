@@ -1,11 +1,8 @@
 var a12987 =
 [
-    [ "boss_tenris_mirkblood", "dc/d3c/a12987.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "dc/d3c/a12987.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "dc/d3c/a12987.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "dc/d3c/a12987.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "dc/d3c/a12987.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "dc/d3c/a12987.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "dc/d3c/a12987.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "dc/d3c/a12987.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "FilterTargets", "dc/d3c/a12987.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "dc/d3c/a12987.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "dc/d3c/a12987.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "dc/d3c/a12987.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "dc/d3c/a12987.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

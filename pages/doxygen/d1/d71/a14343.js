@@ -1,6 +1,9 @@
 var a14343 =
 [
-    [ "HandleOnHit", "d1/d71/a14343.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d1/d71/a14343.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d1/d71/a14343.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "npc_amanishi_lookout", "d1/d71/a14343.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "d1/d71/a14343.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "d1/d71/a14343.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "d1/d71/a14343.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "d1/d71/a14343.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "d1/d71/a14343.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

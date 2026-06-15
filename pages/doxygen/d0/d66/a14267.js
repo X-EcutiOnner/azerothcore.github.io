@@ -1,8 +1,7 @@
 var a14267 =
 [
-    [ "boss_grilekAI", "d0/d66/a14267.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d0/d66/a14267.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d0/d66/a14267.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d0/d66/a14267.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d0/d66/a14267.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "HandleDispel", "d0/d66/a14267.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d0/d66/a14267.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d0/d66/a14267.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d0/d66/a14267.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

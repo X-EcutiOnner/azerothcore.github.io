@@ -1,7 +1,8 @@
 var a11651 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "dd/d43/a11651.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "dd/d43/a11651.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "dd/d43/a11651.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "dd/d43/a11651.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "PacketFilter", "dd/d43/a11651.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "dd/d43/a11651.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "dd/d43/a11651.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "dd/d43/a11651.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "dd/d43/a11651.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

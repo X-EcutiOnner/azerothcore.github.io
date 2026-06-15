@@ -1,4 +1,5 @@
 var a03332 =
 [
-    [ "MAX_INBOX_CLIENT_CAPACITY", "d6/d83/a03332.html#ae1d9c2394745301897af9c167e219ca8", null ]
+    [ "ThreatManager::Heap", "d4/ddb/a08183.html", null ],
+    [ "ThreatReferenceImpl", "d5/dfa/a08187.html", "d5/dfa/a08187" ]
 ];

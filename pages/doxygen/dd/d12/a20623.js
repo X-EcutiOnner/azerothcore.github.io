@@ -1,8 +1,9 @@
 var a20623 =
 [
-    [ "boss_yoggsaron_crusher_tentacle", "dd/d12/a20623.html#aa550582ebb2fddc8574f1ca96faeb9a5", null ],
-    [ "DamageTaken", "dd/d12/a20623.html#aa38dbd7050000d3aab774a7b719912f4", null ],
-    [ "DoAction", "dd/d12/a20623.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
-    [ "Reset", "dd/d12/a20623.html#aba082f8d2fa200eca9c52336df544221", null ],
-    [ "UpdateAI", "dd/d12/a20623.html#ae22a12401dc98534da1cb771468a58ce", null ]
+    [ "boss_thorim_gauntlet_npcs", "dd/d12/a20623.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "dd/d12/a20623.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "dd/d12/a20623.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "dd/d12/a20623.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "dd/d12/a20623.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "dd/d12/a20623.html#aec35e2b91841c386f083681673e15598", null ]
 ];

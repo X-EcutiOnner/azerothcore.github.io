@@ -1,6 +1,7 @@
 var a21855 =
 [
-    [ "npc_frostbrood_skytalonAI", "d9/d40/a21859.html", "d9/d40/a21859" ],
-    [ "npc_frostbrood_skytalon", "df/db1/a21855.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "df/db1/a21855.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "GetSeatNumber", "df/db1/a21855.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "df/db1/a21855.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "df/db1/a21855.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "df/db1/a21855.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

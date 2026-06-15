@@ -1,6 +1,6 @@
 var a23635 =
 [
-    [ "HandleDummy", "df/dc9/a23635.html#a4c1177fc89310598b6ba7cddf7f47cd1", null ],
-    [ "PrepareSpellScript", "df/dc9/a23635.html#af511bcad63ff423bf04a430f56959f40", null ],
-    [ "Register", "df/dc9/a23635.html#adaa4fc5294e2b0cb5bcb42f1a93a6f29", null ]
+    [ "FilterTargets", "df/dc9/a23635.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "df/dc9/a23635.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "df/dc9/a23635.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

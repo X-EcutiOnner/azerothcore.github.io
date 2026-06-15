@@ -1,6 +1,5 @@
 var a17031 =
 [
-    [ "instance_drak_tharon_keep", "d3/d68/a17031.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
-    [ "OnGameObjectCreate", "d3/d68/a17031.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
-    [ "OnGameObjectRemove", "d3/d68/a17031.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
+    [ "boss_fjolaAI", "d3/d68/a17031.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d3/d68/a17031.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

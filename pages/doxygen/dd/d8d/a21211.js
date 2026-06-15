@@ -1,8 +1,10 @@
 var a21211 =
 [
-    [ "npc_azure_captainAI", "dd/d8d/a21211.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "dd/d8d/a21211.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "dd/d8d/a21211.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "dd/d8d/a21211.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "dd/d8d/a21211.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "npc_erekem_guard", "dd/d8d/a21211.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "dd/d8d/a21211.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "dd/d8d/a21211.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "dd/d8d/a21211.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "dd/d8d/a21211.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "dd/d8d/a21211.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "dd/d8d/a21211.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

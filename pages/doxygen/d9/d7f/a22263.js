@@ -1,5 +1,5 @@
 var a22263 =
 [
-    [ "OutdoorPvP_silithus", "d9/d7f/a22263.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "d9/d7f/a22263.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "OutdoorPvP_grizzly_hills", "d9/d7f/a22263.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d9/d7f/a22263.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

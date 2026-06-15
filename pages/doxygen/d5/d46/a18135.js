@@ -1,7 +1,6 @@
 var a18135 =
 [
-    [ "CheckRequirement", "d5/d46/a18135.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d5/d46/a18135.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d5/d46/a18135.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d5/d46/a18135.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_coldflameAI", "df/d35/a18139.html", "df/d35/a18139" ],
+    [ "npc_coldflame", "d5/d46/a18135.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d5/d46/a18135.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

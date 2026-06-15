@@ -1,7 +1,7 @@
 var a14151 =
 [
-    [ "spell", "d6/d98/a14151.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "d6/d98/a14151.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "d6/d98/a14151.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "d6/d98/a14151.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "o", "d6/d98/a14151.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d6/d98/a14151.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d6/d98/a14151.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d6/d98/a14151.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

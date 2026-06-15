@@ -1,7 +1,8 @@
 var a25735 =
 [
-    [ "HandleScript", "db/de0/a25735.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "db/de0/a25735.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "db/de0/a25735.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "db/de0/a25735.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "CheckProc", "db/de0/a25735.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "db/de0/a25735.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "db/de0/a25735.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "db/de0/a25735.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "db/de0/a25735.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

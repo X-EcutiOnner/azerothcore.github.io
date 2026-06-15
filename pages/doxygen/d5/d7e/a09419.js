@@ -1,8 +1,9 @@
 var a09419 =
 [
-    [ "V8Type", "d5/d7e/a09419.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
-    [ "V9Type", "d5/d7e/a09419.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
-    [ "gridIntHeightMultiplier", "d5/d7e/a09419.html#a626b7ad6821722d17bab6e21db618615", null ],
-    [ "v8", "d5/d7e/a09419.html#a8b352fc11c1e705277f8d81b512e3103", null ],
-    [ "v9", "d5/d7e/a09419.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
+    [ "CellArea", "d5/d7e/a09419.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d5/d7e/a09419.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d5/d7e/a09419.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d5/d7e/a09419.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d5/d7e/a09419.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d5/d7e/a09419.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

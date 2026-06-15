@@ -1,7 +1,21 @@
 var a20479 =
 [
-    [ "boss_thorim_trap", "d4/d33/a20479.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "d4/d33/a20479.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "d4/d33/a20479.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "d4/d33/a20479.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "npc_ulduar_aerial_command_unit", "d4/d33/a20479.html#a7db419befea7054118ebd2b1d7835a38", null ],
+    [ "DamageTaken", "d4/d33/a20479.html#a63f7b08da3b96b12fb93e2366c4617b7", null ],
+    [ "DoAction", "d4/d33/a20479.html#ac23cf431ec7b3f933631a2683329d0b5", null ],
+    [ "EnterEvadeMode", "d4/d33/a20479.html#a5c3643f96efcfbc0272d906b083ef7a3", null ],
+    [ "JustSummoned", "d4/d33/a20479.html#abfa255cbdd7b16a3586117fa16bb3f13", null ],
+    [ "KilledUnit", "d4/d33/a20479.html#aeda020ce8ad0806463e2a06b9f054faf", null ],
+    [ "MoveInLineOfSight", "d4/d33/a20479.html#a39e1f0e199f43e3c2018e49ef77cec4c", null ],
+    [ "Reset", "d4/d33/a20479.html#a51a2ad26cba213816a207f7f69591b4a", null ],
+    [ "SetData", "d4/d33/a20479.html#ab6fec2895372afbfed7cbba2e3a463d6", null ],
+    [ "SpellHit", "d4/d33/a20479.html#a7dc2920a7ff1a7d8ad346626dafeb18b", null ],
+    [ "SummonedCreatureDespawn", "d4/d33/a20479.html#a429da72273b2126452eef1e9b724b40b", null ],
+    [ "UpdateAI", "d4/d33/a20479.html#a4ae899da49e9f03f3ea23559ccc2e561", null ],
+    [ "_events", "d4/d33/a20479.html#a4832f888cc77613d99ff165e5bf47022", null ],
+    [ "_isDefeated", "d4/d33/a20479.html#a8272d619675b54d454b825efdf1357e6", null ],
+    [ "_isEvading", "d4/d33/a20479.html#a6976c445331a25cd2735e963a102157c", null ],
+    [ "_phase", "d4/d33/a20479.html#a7947005a05430e9734db3cf14eac0d17", null ],
+    [ "_summons", "d4/d33/a20479.html#ac961aedcde178320276eeaf0fa8a8675", null ],
+    [ "instance", "d4/d33/a20479.html#a36f7e3b4228aca4adf092c14827fa072", null ]
 ];

@@ -1,7 +1,8 @@
 var a26063 =
 [
-    [ "HandleProc", "de/d1f/a26063.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
-    [ "PrepareAuraScript", "de/d1f/a26063.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
-    [ "Register", "de/d1f/a26063.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
-    [ "Validate", "de/d1f/a26063.html#a53ad60f89b9db1b0cc34385477aea856", null ]
+    [ "HandleScript", "de/d1f/a26063.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
+    [ "Load", "de/d1f/a26063.html#aee35eb07631e991dc019a2b716894237", null ],
+    [ "PrepareSpellScript", "de/d1f/a26063.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
+    [ "Register", "de/d1f/a26063.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
+    [ "Validate", "de/d1f/a26063.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
 ];

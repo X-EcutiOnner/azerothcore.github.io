@@ -1,6 +1,6 @@
 var a17491 =
 [
-    [ "boss_prince_valanarAI", "df/ddc/a17495.html", "df/ddc/a17495" ],
-    [ "boss_prince_valanar_icc", "d3/da3/a17491.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
-    [ "GetAI", "d3/da3/a17491.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
+    [ "entry", "d3/da3/a17491.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d3/da3/a17491.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d3/da3/a17491.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

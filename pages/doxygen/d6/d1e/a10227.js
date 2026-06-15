@@ -1,10 +1,9 @@
 var a10227 =
 [
-    [ "ChaseRange", "d6/d1e/a10227.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "d6/d1e/a10227.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "d6/d1e/a10227.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "d6/d1e/a10227.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "d6/d1e/a10227.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "d6/d1e/a10227.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "d6/d1e/a10227.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "MapUpdateRequest", "d6/d1e/a10227.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "d6/d1e/a10227.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "d6/d1e/a10227.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "d6/d1e/a10227.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "d6/d1e/a10227.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "d6/d1e/a10227.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

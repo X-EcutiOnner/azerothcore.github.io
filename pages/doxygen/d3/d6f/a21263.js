@@ -1,6 +1,7 @@
 var a21263 =
 [
-    [ "npc_nerubar_victimAI", "dc/d9b/a21267.html", "dc/d9b/a21267" ],
-    [ "npc_nerubar_victim", "d3/d6f/a21263.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d3/d6f/a21263.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_azure_invader", "d3/d6f/a21263.html#a6b7fcdd4e5166a932e85fcc6ec57d086", null ],
+    [ "Reset", "d3/d6f/a21263.html#a51d349d0254f2d5a67f27298952fbb06", null ],
+    [ "UpdateAI", "d3/d6f/a21263.html#a6677b18604e15017d15f1d3b0386cfae", null ],
+    [ "_events", "d3/d6f/a21263.html#ac178244e22f71a15d7af91946cf961ef", null ]
 ];

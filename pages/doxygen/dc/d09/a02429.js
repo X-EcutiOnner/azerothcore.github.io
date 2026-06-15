@@ -1,4 +1,5 @@
 var a02429 =
 [
-    [ "FormationMovementGenerator", "d2/dc2/a10344.html", "d2/dc2/a10344" ]
+    [ "MapMgr", "d7/d0f/a10211.html", "d7/d0f/a10211" ],
+    [ "sMapMgr", "dc/d09/a02429.html#a9132749f8376c48b0ca7212eb3293905", null ]
 ];

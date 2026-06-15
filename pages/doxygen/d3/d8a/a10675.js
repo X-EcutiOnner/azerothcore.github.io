@@ -1,6 +1,5 @@
 var a10675 =
 [
-    [ "OutdoorPvPScript", "d3/d8a/a10675.html#ad7882db48419888c7968007e30c2f3f7", null ],
-    [ "GetOutdoorPvP", "d3/d8a/a10675.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "d3/d8a/a10675.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "GenericCreatureScript", "d3/d8a/a10675.html#a52157430320e253a5897612623eb796c", null ],
+    [ "GetAI", "d3/d8a/a10675.html#a9e8eb28ece41af0c4159710c6eb51395", null ]
 ];

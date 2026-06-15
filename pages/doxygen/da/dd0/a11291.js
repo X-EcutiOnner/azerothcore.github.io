@@ -1,7 +1,5 @@
 var a11291 =
 [
-    [ "TrainerBuySpell", "da/dd0/a11291.html#a8afb92fb908d5efd54bcb78269069d39", null ],
-    [ "Read", "da/dd0/a11291.html#aa916b9d01157f5f8e98efbcacb3bb5a2", null ],
-    [ "SpellID", "da/dd0/a11291.html#ae342c806c8faabae54260a26659d49ea", null ],
-    [ "TrainerGUID", "da/dd0/a11291.html#aca1d9dc89b96415a5065a67f7083423c", null ]
+    [ "LFGLeave", "da/dd0/a11291.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
+    [ "Read", "da/dd0/a11291.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
 ];

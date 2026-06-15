@@ -1,6 +1,7 @@
 var a23295 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d94/a23299.html", "d5/d94/a23299" ],
-    [ "instance_hellfire_ramparts", "d0/d56/a23295.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
-    [ "GetInstanceScript", "d0/d56/a23295.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
+    [ "boss_the_maker", "d0/d56/a23295.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d0/d56/a23295.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d0/d56/a23295.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d0/d56/a23295.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

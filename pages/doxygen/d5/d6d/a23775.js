@@ -1,6 +1,6 @@
 var a23775 =
 [
-    [ "go_magtheridons_head", "d5/d6d/a23775.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d5/d6d/a23775.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d5/d6d/a23775.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "npc_aeranasAI", "d5/d94/a23779.html", "d5/d94/a23779" ],
+    [ "npc_aeranas", "d5/d6d/a23775.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d5/d6d/a23775.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

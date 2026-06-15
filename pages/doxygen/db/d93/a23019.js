@@ -1,6 +1,6 @@
 var a23019 =
 [
-    [ "go_ahune_ice_stone", "db/d93/a23019.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "db/d93/a23019.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "db/d93/a23019.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "HandleApplyAura", "db/d93/a23019.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "db/d93/a23019.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "db/d93/a23019.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

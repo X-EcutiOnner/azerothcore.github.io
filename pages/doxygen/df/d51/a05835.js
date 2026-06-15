@@ -1,13 +1,20 @@
 var a05835 =
 [
-    [ "IntervalTimer", "df/d51/a05835.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "df/d51/a05835.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "df/d51/a05835.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "df/d51/a05835.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "df/d51/a05835.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "df/d51/a05835.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "df/d51/a05835.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "df/d51/a05835.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "df/d51/a05835.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "df/d51/a05835.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "AsyncProcessResultImplementation", "df/d51/a05835.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
+    [ "AsyncProcessResultImplementation", "df/d51/a05835.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
+    [ "AsyncProcessResultImplementation", "df/d51/a05835.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
+    [ "GetFutureResult", "df/d51/a05835.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
+    [ "operator=", "df/d51/a05835.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
+    [ "operator=", "df/d51/a05835.html#a82f3834506db5ed9eda323390bbdf36a", null ],
+    [ "SetFuture", "df/d51/a05835.html#a1619a398624976e15c7926b57c9484bc", null ],
+    [ "StartProcess", "df/d51/a05835.html#a908c5a545ab501f93a8a2525bbad6317", null ],
+    [ "Terminate", "df/d51/a05835.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
+    [ "args", "df/d51/a05835.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
+    [ "executable", "df/d51/a05835.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
+    [ "input_file", "df/d51/a05835.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
+    [ "is_secure", "df/d51/a05835.html#a4a8891a13f997d26b6daf9eead76f219", null ],
+    [ "logger", "df/d51/a05835.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
+    [ "my_child", "df/d51/a05835.html#a7aaa7f31e23947aca109871572875f4d", null ],
+    [ "result", "df/d51/a05835.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
+    [ "was_terminated", "df/d51/a05835.html#a9868b0110f4db8a1d099243003c83753", null ]
 ];

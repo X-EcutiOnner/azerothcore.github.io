@@ -1,6 +1,6 @@
 var a11167 =
 [
-    [ "ListInventory", "db/d46/a11167.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "db/d46/a11167.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "db/d46/a11167.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "PlayerSaveGuildEmblem", "db/d46/a11167.html#ae1269fb7583f0ce1703cd89d592b1485", null ],
+    [ "Write", "db/d46/a11167.html#a0427be2f46cba4ff6b2ca072924bca7b", null ],
+    [ "Error", "db/d46/a11167.html#a76930d3b74bf7b84a311b24b53d03b21", null ]
 ];

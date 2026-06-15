@@ -1,6 +1,6 @@
 var a25487 =
 [
-    [ "HandleItemRemove", "dd/d50/a25487.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "dd/d50/a25487.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "dd/d50/a25487.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "CheckCast", "dd/d50/a25487.html#a1fbbba8bdc9f775963a999aa00a5a256", null ],
+    [ "PrepareSpellScript", "dd/d50/a25487.html#a481f9d36567607697c3ad5d9501bba48", null ],
+    [ "Register", "dd/d50/a25487.html#afff66ccf4f6596475f4b58c529472f26", null ]
 ];

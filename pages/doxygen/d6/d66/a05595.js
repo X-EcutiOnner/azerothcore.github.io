@@ -1,9 +1,10 @@
 var a05595 =
 [
-    [ "IpLocationStore", "d6/d66/a05595.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
-    [ "~IpLocationStore", "d6/d66/a05595.html#a82360c1ce130670fde23d42135f91324", null ],
-    [ "GetLocationRecord", "d6/d66/a05595.html#a06384169031d2417a7f6bac54d3187a9", null ],
-    [ "instance", "d6/d66/a05595.html#ad740adf9b81b37cf147dc00e220b29db", null ],
-    [ "Load", "d6/d66/a05595.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
-    [ "_ipLocationStore", "d6/d66/a05595.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
+    [ "Find", "d6/d66/a05595.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "d6/d66/a05595.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "d6/d66/a05595.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "d6/d66/a05595.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "d6/d66/a05595.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "d6/d66/a05595.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "d6/d66/a05595.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

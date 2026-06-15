@@ -1,7 +1,10 @@
 var a09631 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d3/da5/a09631.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d3/da5/a09631.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d3/da5/a09631.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d3/da5/a09631.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "PlayerListSearcherWithSharedVision", "d3/da5/a09631.html#aace01efe09c3190b81651d237e2e9a8a", null ],
+    [ "Visit", "d3/da5/a09631.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
+    [ "Visit", "d3/da5/a09631.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
+    [ "Visit", "d3/da5/a09631.html#ac45ae498dc7f74426b66344d9367046a", null ],
+    [ "i_check", "d3/da5/a09631.html#a7261e79c2980cfb61686c01254d70c8b", null ],
+    [ "i_objects", "d3/da5/a09631.html#ac8e5495912121d8d3baac9d02e947815", null ],
+    [ "i_phaseMask", "d3/da5/a09631.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
 ];

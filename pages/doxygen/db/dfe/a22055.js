@@ -1,7 +1,6 @@
 var a22055 =
 [
-    [ "HandleDummy", "db/dfe/a22055.html#acdf98990ad575fec751a541cac3bcffa", null ],
-    [ "PrepareSpellScript", "db/dfe/a22055.html#a2b9c56df8d6b2d5dcf0ebf952f7a16fd", null ],
-    [ "Register", "db/dfe/a22055.html#ac628b5ddf18bae3b18b2512f1a92149f", null ],
-    [ "Validate", "db/dfe/a22055.html#a3f7a01fcf8ef7cb151e29406b2b682a9", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/de1/a22059.html", "d7/de1/a22059" ],
+    [ "npc_vehicle_d16_propelled_delivery", "db/dfe/a22055.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "db/dfe/a22055.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

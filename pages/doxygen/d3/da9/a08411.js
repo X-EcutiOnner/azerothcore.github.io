@@ -1,10 +1,7 @@
 var a08411 =
 [
-    [ "IsCastable", "d3/da9/a08411.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d3/da9/a08411.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d3/da9/a08411.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d3/da9/a08411.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d3/da9/a08411.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d3/da9/a08411.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d3/da9/a08411.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "VendorItemCount", "d3/da9/a08411.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d3/da9/a08411.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d3/da9/a08411.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d3/da9/a08411.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

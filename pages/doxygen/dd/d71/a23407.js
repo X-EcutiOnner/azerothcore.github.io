@@ -1,6 +1,6 @@
 var a23407 =
 [
-    [ "npc_millhouse_manastormAI", "d3/d70/a23411.html", "d3/d70/a23411" ],
-    [ "npc_millhouse_manastorm", "dd/d71/a23407.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "dd/d71/a23407.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "boss_porung", "dd/d71/a23407.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "dd/d71/a23407.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "dd/d71/a23407.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

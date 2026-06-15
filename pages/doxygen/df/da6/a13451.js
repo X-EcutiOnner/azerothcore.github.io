@@ -1,7 +1,6 @@
 var a13451 =
 [
-    [ "OnPeriodic", "df/da6/a13451.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "df/da6/a13451.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "df/da6/a13451.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "df/da6/a13451.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "npc_gothik_the_harvesterAI", "d0/df8/a13455.html", "d0/df8/a13455" ],
+    [ "npc_gothik_the_harvester", "df/da6/a13451.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "df/da6/a13451.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

@@ -1,7 +1,6 @@
 var a22091 =
 [
-    [ "npc_wg_quest_giver", "db/d95/a22091.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "db/d95/a22091.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "db/d95/a22091.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "db/d95/a22091.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleDamage", "db/d95/a22091.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
+    [ "PrepareSpellScript", "db/d95/a22091.html#a23b6afe1e35edc4013767b119b8e0218", null ],
+    [ "Register", "db/d95/a22091.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
 ];

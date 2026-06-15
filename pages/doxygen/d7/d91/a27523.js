@@ -1,7 +1,8 @@
 var a27523 =
 [
-    [ "HandleProc", "d7/d91/a27523.html#a4294ab4682ea26f78eb4c90c59e86953", null ],
-    [ "PrepareAuraScript", "d7/d91/a27523.html#ac5d22623791d195aa767d5a28e9639b7", null ],
-    [ "Register", "d7/d91/a27523.html#a135abc0548ba189fcf6bd662d7ae8940", null ],
-    [ "Validate", "d7/d91/a27523.html#ac10227e6423f61b0fd67803f01fd4a0e", null ]
+    [ "CalculateBuffer", "d7/d91/a27523.html#a3fa1917fc77575531e485cd0228bcc00", null ],
+    [ "HandleProc", "d7/d91/a27523.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
+    [ "PrepareAuraScript", "d7/d91/a27523.html#a325ad66cd69a15260e274562250c8e32", null ],
+    [ "Register", "d7/d91/a27523.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
+    [ "Validate", "d7/d91/a27523.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
 ];

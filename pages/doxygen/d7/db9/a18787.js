@@ -1,7 +1,6 @@
 var a18787 =
 [
-    [ "OnApply", "d7/db9/a18787.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d7/db9/a18787.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d7/db9/a18787.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d7/db9/a18787.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "ManaVoidSelector", "d7/db9/a18787.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d7/db9/a18787.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d7/db9/a18787.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

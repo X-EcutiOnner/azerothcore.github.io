@@ -1,7 +1,7 @@
 var a18011 =
 [
-    [ "npc_coldflameAI", "dd/dc6/a18011.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "dd/dc6/a18011.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "dd/dc6/a18011.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "dd/dc6/a18011.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "FilterTargets", "dd/dc6/a18011.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "dd/dc6/a18011.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "dd/dc6/a18011.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "dd/dc6/a18011.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

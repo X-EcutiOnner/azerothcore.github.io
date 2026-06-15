@@ -1,6 +1,6 @@
 var a15183 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d2/da6/a15187.html", "d2/da6/a15187" ],
-    [ "instance_dire_maul", "dd/d37/a15183.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "dd/d37/a15183.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "boss_meathookAI", "d2/da6/a15187.html", "d2/da6/a15187" ],
+    [ "boss_meathook", "dd/d37/a15183.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
+    [ "GetAI", "dd/d37/a15183.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
 ];

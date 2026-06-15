@@ -1,9 +1,9 @@
 var a12835 =
 [
-    [ "HandleEffectApply", "d6/d9c/a12835.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
-    [ "HandleEffectRemove", "d6/d9c/a12835.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
-    [ "Load", "d6/d9c/a12835.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
-    [ "PrepareAuraScript", "d6/d9c/a12835.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
-    [ "Register", "d6/d9c/a12835.html#a201bafab6c483b08a6ae27054392dea9", null ],
-    [ "Validate", "d6/d9c/a12835.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
+    [ "npc_drakonid_spawner", "d6/d9c/a12835.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d6/d9c/a12835.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d6/d9c/a12835.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d6/d9c/a12835.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d6/d9c/a12835.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d6/d9c/a12835.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

@@ -1,9 +1,10 @@
 var a09351 =
 [
-    [ "PlayerLastSearcher", "df/d59/a09351.html#a0a4c736bbde38ccb0a0a8ceafdb751c7", null ],
-    [ "Visit", "df/d59/a09351.html#a25785fbe4cb8ac9a8753705b9df3b507", null ],
-    [ "Visit", "df/d59/a09351.html#a19e60fc9fc43ad3a718132a2884e41b0", null ],
-    [ "i_check", "df/d59/a09351.html#a93f5e1dd1f680cc9467671b59d2c5a12", null ],
-    [ "i_object", "df/d59/a09351.html#a2d9af6a6ef1105b19c49852fce17b8e6", null ],
-    [ "i_phaseMask", "df/d59/a09351.html#ad5bfaa4154c99e34515da98db7dccadf", null ]
+    [ "PetLevelInfo", "df/d59/a09351.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "df/d59/a09351.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "df/d59/a09351.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "df/d59/a09351.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "df/d59/a09351.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "df/d59/a09351.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "df/d59/a09351.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

@@ -1,6 +1,6 @@
 var a21523 =
 [
-    [ "SACActivateEvent", "df/d99/a21523.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "df/d99/a21523.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "df/d99/a21523.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_mindless_ghoulAI", "d8/d88/a21527.html", "d8/d88/a21527" ],
+    [ "npc_mindless_ghoul", "df/d99/a21523.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "df/d99/a21523.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

@@ -1,9 +1,8 @@
 var a24287 =
 [
-    [ "HandleAfterHit", "df/d9c/a24287.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "df/d9c/a24287.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "df/d9c/a24287.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "df/d9c/a24287.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "df/d9c/a24287.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "df/d9c/a24287.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "CheckProc", "df/d9c/a24287.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
+    [ "HandleProc", "df/d9c/a24287.html#a7682ed37759329da8e4e475e98a23161", null ],
+    [ "PrepareAuraScript", "df/d9c/a24287.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
+    [ "Register", "df/d9c/a24287.html#a5ab16c8eb40822679739e15a2ceac715", null ],
+    [ "Validate", "df/d9c/a24287.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
 ];

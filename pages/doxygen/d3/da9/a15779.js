@@ -1,6 +1,8 @@
 var a15779 =
 [
-    [ "HandleDummy", "d3/da9/a15779.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "d3/da9/a15779.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "d3/da9/a15779.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "npc_death_ravagerAI", "d3/da9/a15779.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d3/da9/a15779.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d3/da9/a15779.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d3/da9/a15779.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d3/da9/a15779.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

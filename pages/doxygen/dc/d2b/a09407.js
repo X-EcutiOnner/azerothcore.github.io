@@ -1,6 +1,6 @@
 var a09407 =
 [
-    [ "AreaMapType", "dc/d2b/a09407.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "dc/d2b/a09407.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "dc/d2b/a09407.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "m_guid", "dc/d2b/a09407.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "dc/d2b/a09407.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "dc/d2b/a09407.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

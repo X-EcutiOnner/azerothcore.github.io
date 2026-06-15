@@ -1,10 +1,6 @@
 var a05187 =
 [
-    [ "DynamicTreeLocationInfoCallback", "db/d48/a05187.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
-    [ "GetHitModel", "db/d48/a05187.html#ac939625c44c7be8ba8b96d55545b657c", null ],
-    [ "GetLocationInfo", "db/d48/a05187.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
-    [ "operator()", "db/d48/a05187.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
-    [ "_hitModel", "db/d48/a05187.html#adef79d7627daa66d88c7146704984622", null ],
-    [ "_locationInfo", "db/d48/a05187.html#a3c9be93de73520942a8d52b78fe72438", null ],
-    [ "_phaseMask", "db/d48/a05187.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
+    [ "node", "db/d48/a05187.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
+    [ "tfar", "db/d48/a05187.html#ad53b746617dd5a46930dae493d7488d9", null ],
+    [ "tnear", "db/d48/a05187.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
 ];

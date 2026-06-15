@@ -1,6 +1,6 @@
 var a18067 =
 [
-    [ "npc_volatile_oozeAI", "d0/d24/a18071.html", "d0/d24/a18071" ],
-    [ "npc_volatile_ooze", "d3/d52/a18067.html#a22847e44812a0b13b92cfcca3a70204e", null ],
-    [ "GetAI", "d3/d52/a18067.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
+    [ "CheckProc", "d3/d52/a18067.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d3/d52/a18067.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d3/d52/a18067.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

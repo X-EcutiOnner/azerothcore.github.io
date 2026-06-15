@@ -1,6 +1,8 @@
 var a20755 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d1/da1/a20759.html", "d1/da1/a20759" ],
-    [ "instance_ulduar", "d0/d87/a20755.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d0/d87/a20755.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "boss_yoggsaron_crusher_tentacle", "d0/d87/a20755.html#a1649412beffbc87ce046a591775b02b2", null ],
+    [ "DamageTaken", "d0/d87/a20755.html#aa38dbd7050000d3aab774a7b719912f4", null ],
+    [ "DoAction", "d0/d87/a20755.html#a92eae6475d5db1cb59e161c8e65b565f", null ],
+    [ "Reset", "d0/d87/a20755.html#aba082f8d2fa200eca9c52336df544221", null ],
+    [ "UpdateAI", "d0/d87/a20755.html#ae22a12401dc98534da1cb771468a58ce", null ]
 ];

@@ -1,7 +1,6 @@
 var a11971 =
 [
-    [ "FieldIndices", "d6/d44/a11971.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "d6/d44/a11971.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "d6/d44/a11971.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "d6/d44/a11971.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "DestinationTargetSelectHandler", "d6/d44/a11971.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
+    [ "Call", "d6/d44/a11971.html#a81ae2eb856507ee22308ae2739854382", null ],
+    [ "DestinationTargetSelectHandlerScript", "d6/d44/a11971.html#a95e882b892a79b464a521a8367b2e9b7", null ]
 ];

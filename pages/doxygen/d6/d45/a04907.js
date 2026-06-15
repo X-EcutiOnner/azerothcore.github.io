@@ -1,5 +1,4 @@
 var a04907 =
 [
-    [ "ProcEventInfoBuilder", "d9/db6/a29272.html", "d9/db6/a29272" ],
-    [ "SpellProcEntryBuilder", "dc/d18/a29276.html", "dc/d18/a29276" ]
+    [ "SetProcessPriority", "d6/d45/a04907.html#ab39209127ac54019d5252a95bc5c7aaf", null ]
 ];

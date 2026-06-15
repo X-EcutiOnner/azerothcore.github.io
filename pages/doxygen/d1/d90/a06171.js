@@ -1,6 +1,11 @@
 var a06171 =
 [
-    [ "DirectoryEntry", "d1/d90/a06171.html#a02538aefc1b014b60957d4c67793000f", null ],
-    [ "path", "d1/d90/a06171.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
-    [ "state", "d1/d90/a06171.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
+    [ "SQLQueryHolderCallback", "d1/d90/a06171.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d1/d90/a06171.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d1/d90/a06171.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d1/d90/a06171.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d1/d90/a06171.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d1/d90/a06171.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d1/d90/a06171.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d1/d90/a06171.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

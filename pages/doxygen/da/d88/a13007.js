@@ -1,5 +1,9 @@
 var a13007 =
 [
-    [ "at_karazhan_mirkblood_approach", "da/d88/a13007.html#a032600991e9fc1aaf026adf2e63314e5", null ],
-    [ "OnTrigger", "da/d88/a13007.html#aaece848faa4f1086ac0b16802a1e765e", null ]
+    [ "npc_mc_core_hound", "da/d88/a13007.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
+    [ "DamageTaken", "da/d88/a13007.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
+    [ "Reset", "da/d88/a13007.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
+    [ "UpdateAI", "da/d88/a13007.html#a9c5081e9c622eb0679cd396caed002b9", null ],
+    [ "instance", "da/d88/a13007.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
+    [ "serratedBiteTimer", "da/d88/a13007.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
 ];

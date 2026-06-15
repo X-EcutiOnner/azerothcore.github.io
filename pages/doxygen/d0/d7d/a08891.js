@@ -1,9 +1,8 @@
 var a08891 =
 [
-    [ "PendingSpellCastRequest", "d0/d7d/a08891.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "d0/d7d/a08891.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "d0/d7d/a08891.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "d0/d7d/a08891.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "d0/d7d/a08891.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "d0/d7d/a08891.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "PlayerCreateInfoAction", "d0/d7d/a08891.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d0/d7d/a08891.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d0/d7d/a08891.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d0/d7d/a08891.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d0/d7d/a08891.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

@@ -1,6 +1,18 @@
 var a20747 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "de/d02/a20747.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "de/d02/a20747.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "de/d02/a20747.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "boss_yoggsaron_brain", "de/d02/a20747.html#a36521541acc73c7cb67d88dfd7cfe2ab", null ],
+    [ "DamageTaken", "de/d02/a20747.html#ae6447e894e75f49c61876450f2cdc7ff", null ],
+    [ "DoAction", "de/d02/a20747.html#aff1761f23cd984cc5db31026f84b4218", null ],
+    [ "GetData", "de/d02/a20747.html#a30593cbb193bf868f99d54279e04d39e", null ],
+    [ "JustSummoned", "de/d02/a20747.html#a5b1aa2863bcec9dff0f87a6d4154daf6", null ],
+    [ "PrepareChamberIllusion", "de/d02/a20747.html#ad162b38c8b4d638c6f3f6c673b6554d4", null ],
+    [ "PrepareIceCrownIllusion", "de/d02/a20747.html#adf41fc4e1adda0e969e06f490fe59414", null ],
+    [ "PrepareStormwindIllusion", "de/d02/a20747.html#a193b18ba9aa03583659002c6a339c0c7", null ],
+    [ "Reset", "de/d02/a20747.html#a9d75d3a6e7d89d8d1c4e472b8fe82161", null ],
+    [ "UpdateAI", "de/d02/a20747.html#a7146ec81c014dd9c19a18ccf0fe30d87", null ],
+    [ "_activeIllusion", "de/d02/a20747.html#aebc5e80be39aea6be68b9b1e78ec770f", null ],
+    [ "_brainDamaged", "de/d02/a20747.html#a9b8045951ba23deda3db3f9bfcee0754", null ],
+    [ "_induceTimer", "de/d02/a20747.html#a3c0d87cf1dc824321aa02034f800f14b", null ],
+    [ "_tentacleCount", "de/d02/a20747.html#a58a8dcda9f7f41f061af4cb6b26657fd", null ],
+    [ "summons", "de/d02/a20747.html#ae51cea57d22cfac38efdddde1bed15f9", null ]
 ];

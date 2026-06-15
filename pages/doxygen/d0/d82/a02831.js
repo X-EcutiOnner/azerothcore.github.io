@@ -1,6 +1,20 @@
 var a02831 =
 [
-    [ "AddItemsSetItem", "d0/d82/a02831.html#a02944420353f8ba883b80737f8e63137", null ],
-    [ "ItemCanGoIntoBag", "d0/d82/a02831.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
-    [ "RemoveItemsSetItem", "d0/d82/a02831.html#a402c3dd64769702b750f96adff4b3a14", null ]
+    [ "Corpse", "d6/d21/a08335.html", "d6/d21/a08335" ],
+    [ "CORPSE_RECLAIM_RADIUS", "d0/d82/a02831.html#a1cebf109f41dcdac8a90086696642782", null ],
+    [ "MAX_CORPSE_TYPE", "d0/d82/a02831.html#aec0512ffe7d6a8f7dd8330c334bb4fc3", null ],
+    [ "CorpseFlags", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537c", [
+      [ "CORPSE_FLAG_NONE", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca30260079b14373a47aef21b99e8757a2", null ],
+      [ "CORPSE_FLAG_BONES", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca47ec12fa0520573d7d8ff9231ca4eb8b", null ],
+      [ "CORPSE_FLAG_UNK1", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca043171119fe69fae07f3668763d40c7c", null ],
+      [ "CORPSE_FLAG_UNK2", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca769ec96151b713170c051ee6236bbd5e", null ],
+      [ "CORPSE_FLAG_HIDE_HELM", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca830d0cde7665a938cd48d4018ae0df79", null ],
+      [ "CORPSE_FLAG_HIDE_CLOAK", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537ca25bc5b9c02c2cce38be9bb32c2ad335a", null ],
+      [ "CORPSE_FLAG_LOOTABLE", "d0/d82/a02831.html#ac7edfbd0ad6d8a44c4ac0fe7af8f537caeb7f1630dc7c0b062b809e65cd4e5f80", null ]
+    ] ],
+    [ "CorpseType", "d0/d82/a02831.html#a43260eb47484e62a16a868f79646c683", [
+      [ "CORPSE_BONES", "d0/d82/a02831.html#a43260eb47484e62a16a868f79646c683ae7046aabaa7e6f435370eb1c49335356", null ],
+      [ "CORPSE_RESURRECTABLE_PVE", "d0/d82/a02831.html#a43260eb47484e62a16a868f79646c683a79e10cac636d94dc5aa8379ecce5cc78", null ],
+      [ "CORPSE_RESURRECTABLE_PVP", "d0/d82/a02831.html#a43260eb47484e62a16a868f79646c683a90cccb41a96804ac3340b13ff68241ba", null ]
+    ] ]
 ];

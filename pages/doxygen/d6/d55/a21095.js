@@ -1,6 +1,6 @@
 var a21095 =
 [
-    [ "boss_moraggAI", "d7/d99/a21099.html", "d7/d99/a21099" ],
-    [ "boss_moragg", "d6/d55/a21095.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "d6/d55/a21095.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "CalculateAmount", "d6/d55/a21095.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d6/d55/a21095.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d6/d55/a21095.html#a9bce52699983fe798c903385faa42462", null ]
 ];

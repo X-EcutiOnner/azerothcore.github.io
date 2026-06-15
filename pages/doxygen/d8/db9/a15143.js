@@ -1,9 +1,10 @@
 var a15143 =
 [
-    [ "boss_chrono_lord_deja", "d8/db9/a15143.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
-    [ "JustDied", "d8/db9/a15143.html#a68eb4941364f9fac121aa3d610d45f48", null ],
-    [ "JustEngagedWith", "d8/db9/a15143.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
-    [ "KilledUnit", "d8/db9/a15143.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
-    [ "MoveInLineOfSight", "d8/db9/a15143.html#a535c0c157c60804188ad8c4413c277dd", null ],
-    [ "OwnTalk", "d8/db9/a15143.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
+    [ "npc_hyjal_gargoyle", "d8/db9/a15143.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
+    [ "AttackStart", "d8/db9/a15143.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
+    [ "DoAction", "d8/db9/a15143.html#ae213c71426f438dd2b27699d7de23664", null ],
+    [ "JustEngagedWith", "d8/db9/a15143.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
+    [ "PathEndReached", "d8/db9/a15143.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
+    [ "Reset", "d8/db9/a15143.html#af314bb183bde44680eeb136d2a08c142", null ],
+    [ "UpdateAI", "d8/db9/a15143.html#ac1ca0648b08430a8bcbf99980222b684", null ]
 ];

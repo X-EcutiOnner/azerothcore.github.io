@@ -1,6 +1,6 @@
 var a15019 =
 [
-    [ "boss_epochAI", "d6/ddb/a15023.html", "d6/ddb/a15023" ],
-    [ "boss_epoch", "d9/d72/a15019.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
-    [ "GetAI", "d9/d72/a15019.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
+    [ "HandleScriptEffect", "d9/d72/a15019.html#a3d22cc828a2aa59d45e5d648161926fd", null ],
+    [ "PrepareSpellScript", "d9/d72/a15019.html#a0ecf5662d9cc1296ebdac82233f1fe7c", null ],
+    [ "Register", "d9/d72/a15019.html#aee5d9189b6df318b57e919511a185a99", null ]
 ];

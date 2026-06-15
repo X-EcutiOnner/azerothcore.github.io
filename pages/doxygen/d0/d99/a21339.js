@@ -1,6 +1,10 @@
 var a21339 =
 [
-    [ "npc_bloodmage_laurithAI", "db/d28/a21343.html", "db/d28/a21343" ],
-    [ "npc_bloodmage_laurith", "d0/d99/a21339.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d0/d99/a21339.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_lurgglbrAI", "d0/d99/a21339.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d0/d99/a21339.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d0/d99/a21339.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d0/d99/a21339.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d0/d99/a21339.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d0/d99/a21339.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d0/d99/a21339.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

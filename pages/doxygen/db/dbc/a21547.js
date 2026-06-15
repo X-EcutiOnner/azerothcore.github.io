@@ -1,6 +1,6 @@
 var a21547 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d3/df8/a21551.html", "d3/df8/a21551" ],
-    [ "npc_q24545_vegard_dummy", "db/dbc/a21547.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "db/dbc/a21547.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "CheckCast", "db/dbc/a21547.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "db/dbc/a21547.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "db/dbc/a21547.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

@@ -1,10 +1,9 @@
 var a21707 =
 [
-    [ "npc_Apothecary_HanesAI", "d9/dc7/a21707.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d9/dc7/a21707.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d9/dc7/a21707.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d9/dc7/a21707.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d9/dc7/a21707.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "WaypointReached", "d9/dc7/a21707.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "PotTimer", "d9/dc7/a21707.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_wounded_skirmisher", "d9/dc7/a21707.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d9/dc7/a21707.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d9/dc7/a21707.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d9/dc7/a21707.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d9/dc7/a21707.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d9/dc7/a21707.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

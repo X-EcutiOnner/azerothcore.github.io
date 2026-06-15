@@ -1,6 +1,5 @@
 var a15583 =
 [
-    [ "HandleApply", "d8/dd7/a15583.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d8/dd7/a15583.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d8/dd7/a15583.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "at_cthun_center", "d8/dd7/a15583.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d8/dd7/a15583.html#af744df9577e84ab64749076324e574c9", null ]
 ];

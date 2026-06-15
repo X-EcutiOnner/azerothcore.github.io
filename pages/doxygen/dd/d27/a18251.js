@@ -1,6 +1,6 @@
 var a18251 =
 [
-    [ "boss_sindragosaAI", "de/d8f/a18255.html", "de/d8f/a18255" ],
-    [ "boss_sindragosa", "dd/d27/a18251.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "dd/d27/a18251.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "HandlePeriodic", "dd/d27/a18251.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "dd/d27/a18251.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "dd/d27/a18251.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

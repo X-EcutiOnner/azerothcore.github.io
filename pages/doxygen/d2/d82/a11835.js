@@ -1,6 +1,10 @@
 var a11835 =
 [
-    [ "EffectPeriodicHandler", "d2/d82/a11835.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "d2/d82/a11835.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "d2/d82/a11835.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "ApplyHarmfulAuraImmuneMask", "d2/d82/a11835.html#afb005a71205a573357afae14481cf5a4", null ],
+    [ "AuraTypeImmune", "d2/d82/a11835.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
+    [ "DamageSchoolMask", "d2/d82/a11835.html#a0917b0bacb75c03a527e170ef08f0811", null ],
+    [ "DispelImmuneMask", "d2/d82/a11835.html#a142a794d2927b25592fece914f7a40fa", null ],
+    [ "MechanicImmuneMask", "d2/d82/a11835.html#ad001d68adbf9c985f26476dda31898ad", null ],
+    [ "SchoolImmuneMask", "d2/d82/a11835.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
+    [ "SpellEffectImmune", "d2/d82/a11835.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
 ];

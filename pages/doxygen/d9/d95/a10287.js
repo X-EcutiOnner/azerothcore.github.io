@@ -1,12 +1,10 @@
 var a10287 =
 [
-    [ "RotateMovementGenerator", "d9/d95/a10287.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d9/d95/a10287.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d9/d95/a10287.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d9/d95/a10287.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d9/d95/a10287.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d9/d95/a10287.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d9/d95/a10287.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d9/d95/a10287.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d9/d95/a10287.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "ID", "d9/d95/a10287.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "d9/d95/a10287.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "d9/d95/a10287.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "d9/d95/a10287.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "d9/d95/a10287.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "d9/d95/a10287.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "d9/d95/a10287.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

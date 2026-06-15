@@ -1,9 +1,15 @@
 var a19447 =
 [
-    [ "npc_nexus_lord", "d0/df9/a19447.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d0/df9/a19447.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d0/df9/a19447.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d0/df9/a19447.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d0/df9/a19447.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d0/df9/a19447.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "boss_maexxnaAI", "d0/df9/a19447.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "d0/df9/a19447.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "d0/df9/a19447.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "d0/df9/a19447.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "d0/df9/a19447.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "d0/df9/a19447.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "d0/df9/a19447.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "d0/df9/a19447.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "d0/df9/a19447.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "d0/df9/a19447.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "d0/df9/a19447.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "d0/df9/a19447.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

@@ -1,6 +1,10 @@
 var a20563 =
 [
-    [ "PrepareSpellScript", "d2/d72/a20563.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "d2/d72/a20563.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "d2/d72/a20563.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_ulduar_harpoonfirestate", "d2/d72/a20563.html#a2456fbee16367a524f26873da99247e8", null ],
+    [ "GetData", "d2/d72/a20563.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d2/d72/a20563.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
+    [ "Reset", "d2/d72/a20563.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
+    [ "SetData", "d2/d72/a20563.html#a338c6cb2be0e05726f372344fdc2b436", null ],
+    [ "pInstance", "d2/d72/a20563.html#aee0914001b38be87976cd44b6bbaf276", null ],
+    [ "repairPoints", "d2/d72/a20563.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
 ];

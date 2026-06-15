@@ -1,7 +1,7 @@
 var a14167 =
 [
-    [ "HandleScript", "d6/d93/a14167.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d6/d93/a14167.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d6/d93/a14167.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d6/d93/a14167.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d6/d93/a14167.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d6/d93/a14167.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d6/d93/a14167.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d6/d93/a14167.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

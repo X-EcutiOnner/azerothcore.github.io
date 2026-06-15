@@ -1,8 +1,6 @@
 var a17659 =
 [
-    [ "npc_saurfang_eventAI", "d6/d83/a17659.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d6/d83/a17659.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d6/d83/a17659.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d6/d83/a17659.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d6/d83/a17659.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "AddExtraDamage", "d6/d83/a17659.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d6/d83/a17659.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d6/d83/a17659.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

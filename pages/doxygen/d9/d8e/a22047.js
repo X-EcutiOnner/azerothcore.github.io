@@ -1,6 +1,9 @@
 var a22047 =
 [
-    [ "HandleDamage", "d9/d8e/a22047.html#a7ca8b15a5dc204a11095fddb3c8d12c0", null ],
-    [ "PrepareSpellScript", "d9/d8e/a22047.html#a23b6afe1e35edc4013767b119b8e0218", null ],
-    [ "Register", "d9/d8e/a22047.html#a85a70f019dcd87f2ed578f041a0bc194", null ]
+    [ "HandlePeriodic", "d9/d8e/a22047.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d9/d8e/a22047.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d9/d8e/a22047.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d9/d8e/a22047.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d9/d8e/a22047.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d9/d8e/a22047.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

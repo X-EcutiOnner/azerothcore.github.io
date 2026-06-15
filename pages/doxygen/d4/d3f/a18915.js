@@ -1,7 +1,7 @@
 var a18915 =
 [
-    [ "HandleEvent", "d4/d3f/a18915.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d4/d3f/a18915.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d4/d3f/a18915.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d4/d3f/a18915.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "OnApply", "d4/d3f/a18915.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "d4/d3f/a18915.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "d4/d3f/a18915.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "d4/d3f/a18915.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

@@ -1,6 +1,7 @@
 var a18527 =
 [
-    [ "npc_valkyr_shadowguardAI", "d6/d29/a18531.html", "d6/d29/a18531" ],
-    [ "npc_valkyr_shadowguard", "d1/dce/a18527.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "d1/dce/a18527.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "StartMovementEvent", "d1/dce/a18527.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d1/dce/a18527.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d1/dce/a18527.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d1/dce/a18527.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

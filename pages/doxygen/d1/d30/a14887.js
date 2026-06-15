@@ -1,6 +1,8 @@
 var a14887 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "de/dc7/a14891.html", "de/dc7/a14891" ],
-    [ "instance_blackfathom_deeps", "d1/d30/a14887.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d1/d30/a14887.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "OnApply", "d1/d30/a14887.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d1/d30/a14887.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d1/d30/a14887.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d1/d30/a14887.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d1/d30/a14887.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

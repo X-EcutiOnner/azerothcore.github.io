@@ -1,7 +1,9 @@
 var a11755 =
 [
-    [ "CategoryRecoveryTime", "d7/d70/a11755.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d7/d70/a11755.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d7/d70/a11755.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d7/d70/a11755.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "SpellEvent", "d7/d70/a11755.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d7/d70/a11755.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d7/d70/a11755.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d7/d70/a11755.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d7/d70/a11755.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d7/d70/a11755.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

@@ -1,8 +1,17 @@
 var a13323 =
 [
-    [ "npc_highlord_darion_mograineAI", "d1/d7c/a13327.html", "d1/d7c/a13327" ],
-    [ "npc_highlord_darion_mograine", "d1/d90/a13323.html#a86680b1a140c706b10fd48befc572286", null ],
-    [ "GetAI", "d1/d90/a13323.html#a350539ed741fa372ffff92ffbc6e6260", null ],
-    [ "OnGossipHello", "d1/d90/a13323.html#a35afc9d80b4570163af9f6013949a70c", null ],
-    [ "OnGossipSelect", "d1/d90/a13323.html#a0539d24556c16a1a72be8258c752f5f5", null ]
+    [ "boss_priestess_lackey_commonAI", "d1/d90/a13323.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "d1/d90/a13323.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "d1/d90/a13323.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "d1/d90/a13323.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "d1/d90/a13323.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "d1/d90/a13323.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "d1/d90/a13323.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "d1/d90/a13323.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "d1/d90/a13323.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "d1/d90/a13323.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "d1/d90/a13323.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "d1/d90/a13323.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "d1/d90/a13323.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "d1/d90/a13323.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

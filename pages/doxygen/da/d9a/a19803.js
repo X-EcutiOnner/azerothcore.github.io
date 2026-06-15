@@ -1,6 +1,7 @@
 var a19803 =
 [
-    [ "HandleApplyTouch", "da/d9a/a19803.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "da/d9a/a19803.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "da/d9a/a19803.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "HandleOnEffectApply", "da/d9a/a19803.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "da/d9a/a19803.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "da/d9a/a19803.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "da/d9a/a19803.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

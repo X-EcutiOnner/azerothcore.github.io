@@ -1,6 +1,6 @@
 var a14799 =
 [
-    [ "HandleAfterEffectRemove", "d2/d6f/a14799.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
-    [ "PrepareAuraScript", "d2/d6f/a14799.html#a3b54e232c0502eaa03b314a05dce1835", null ],
-    [ "Register", "d2/d6f/a14799.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
+    [ "HandleScript", "d2/d6f/a14799.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "d2/d6f/a14799.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "d2/d6f/a14799.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

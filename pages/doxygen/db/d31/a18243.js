@@ -1,7 +1,7 @@
 var a18243 =
 [
-    [ "IceTombSummonEvent", "db/d31/a18243.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "db/d31/a18243.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "db/d31/a18243.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "db/d31/a18243.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "HandleTriggerSpell", "db/d31/a18243.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "db/d31/a18243.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "db/d31/a18243.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "db/d31/a18243.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

@@ -1,7 +1,6 @@
 var a18399 =
 [
-    [ "StartMovementEvent", "db/d32/a18399.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "db/d32/a18399.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "db/d32/a18399.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "db/d32/a18399.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "UnchainedMagicTargetSelector", "db/d32/a18399.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "db/d32/a18399.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "db/d32/a18399.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

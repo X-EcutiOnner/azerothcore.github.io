@@ -1,9 +1,14 @@
 var a17891 =
 [
-    [ "HandleApply", "dc/d5c/a17891.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "dc/d5c/a17891.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "dc/d5c/a17891.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "dc/d5c/a17891.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "dc/d5c/a17891.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "dc/d5c/a17891.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "npc_gunshipAI", "dc/d5c/a17891.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "dc/d5c/a17891.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "dc/d5c/a17891.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "dc/d5c/a17891.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "dc/d5c/a17891.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "dc/d5c/a17891.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "dc/d5c/a17891.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "dc/d5c/a17891.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "dc/d5c/a17891.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "dc/d5c/a17891.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "dc/d5c/a17891.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

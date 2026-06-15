@@ -1,5 +1,6 @@
 var a21883 =
 [
-    [ "go_pressure_valve", "d3/d4f/a21883.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "d3/d4f/a21883.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "ChangeSummonPos", "d3/d4f/a21883.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d3/d4f/a21883.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d3/d4f/a21883.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

@@ -1,6 +1,7 @@
 var a20855 =
 [
-    [ "boss_palehoofAI", "d2/d66/a20859.html", "d2/d66/a20859" ],
-    [ "boss_palehoof", "d0/deb/a20855.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
-    [ "GetAI", "d0/deb/a20855.html#ae33ca6e71b251214be50168a5940d058", null ]
+    [ "HandleScriptEffect", "d0/deb/a20855.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d0/deb/a20855.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d0/deb/a20855.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d0/deb/a20855.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

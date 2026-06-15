@@ -1,9 +1,14 @@
 var a21395 =
 [
-    [ "npc_archmage_landalockAI", "d8/d7f/a21395.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d8/d7f/a21395.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d8/d7f/a21395.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d8/d7f/a21395.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d8/d7f/a21395.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d8/d7f/a21395.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_hidden_cultistAI", "d8/d7f/a21395.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d8/d7f/a21395.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d8/d7f/a21395.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d8/d7f/a21395.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d8/d7f/a21395.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d8/d7f/a21395.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d8/d7f/a21395.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d8/d7f/a21395.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d8/d7f/a21395.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d8/d7f/a21395.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d8/d7f/a21395.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

@@ -1,13 +1,6 @@
 var a15055 =
 [
-    [ "boss_salrammAI", "da/d0f/a15055.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "da/d0f/a15055.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "da/d0f/a15055.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "da/d0f/a15055.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "da/d0f/a15055.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "da/d0f/a15055.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "da/d0f/a15055.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "da/d0f/a15055.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "da/d0f/a15055.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "da/d0f/a15055.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "FilterTargets", "da/d0f/a15055.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "da/d0f/a15055.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "da/d0f/a15055.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

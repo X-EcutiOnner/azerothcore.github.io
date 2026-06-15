@@ -1,17 +1,11 @@
 var a20611 =
 [
-    [ "boss_yoggsaron", "db/d98/a20611.html#a8259945dfb8a3762945281df6047f9fc", null ],
-    [ "AttackStart", "db/d98/a20611.html#a8110dc78a8e60d25df6195107960365a", null ],
-    [ "DoAction", "db/d98/a20611.html#a647c5cf55081ec4d66ae75be5d471210", null ],
-    [ "GetData", "db/d98/a20611.html#a68bb5622ddd9bd74f2eaefce3a0ac54f", null ],
-    [ "JustDied", "db/d98/a20611.html#afa4914458cbcf03ae8e305b2d2c40131", null ],
-    [ "JustSummoned", "db/d98/a20611.html#af641e349634bc2977fd2fe7b7edad310", null ],
-    [ "SpellHit", "db/d98/a20611.html#ab477975d288844051b22991649bdedd4", null ],
-    [ "SummonImmortalGuardian", "db/d98/a20611.html#ad8ba569e58047dcfff8d764489f024ad", null ],
-    [ "UpdateAI", "db/d98/a20611.html#a395114524b73f0176aa9ed331cc0683f", null ],
-    [ "_thirdPhase", "db/d98/a20611.html#a0d76e9ae977a2165d52413807897604e", null ],
-    [ "_usedInsane", "db/d98/a20611.html#a28191094a0252d5af48f5b046013eb3e", null ],
-    [ "events", "db/d98/a20611.html#ac27bba5841f4c50a01a8e2b434ee56cf", null ],
-    [ "m_pInstance", "db/d98/a20611.html#a5200293f483d4e15ca903a1eba8b59d9", null ],
-    [ "summons", "db/d98/a20611.html#a0a11e2b828a90ca1ba72d7c19804e654", null ]
+    [ "boss_thorim_sif_blizzard", "db/d98/a20611.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
+    [ "AttackStart", "db/d98/a20611.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
+    [ "InitWaypoint", "db/d98/a20611.html#a55424c77633aaa62e12581a818736441", null ],
+    [ "JustEngagedWith", "db/d98/a20611.html#a019b50cc265dff0e92417482b85ccf64", null ],
+    [ "MoveInLineOfSight", "db/d98/a20611.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
+    [ "Reset", "db/d98/a20611.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
+    [ "WaypointReached", "db/d98/a20611.html#af69dfd0ec232c7e45d13b117988ba924", null ],
+    [ "WaypointReached", "db/d98/a20611.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

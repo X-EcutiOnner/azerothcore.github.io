@@ -1,6 +1,7 @@
 var a16231 =
 [
-    [ "boss_krik_thirAI", "db/d09/a16235.html", "db/d09/a16235" ],
-    [ "boss_krik_thir", "d2/d7e/a16231.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d2/d7e/a16231.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "npc_ahnkahar_nerubian", "d2/d7e/a16231.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d2/d7e/a16231.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d2/d7e/a16231.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d2/d7e/a16231.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

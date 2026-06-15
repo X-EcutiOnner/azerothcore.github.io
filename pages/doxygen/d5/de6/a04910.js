@@ -1,5 +1,6 @@
 var a04910 =
 [
-    [ "TestSpellEntryHelper", "dc/d2f/a29280.html", "dc/d2f/a29280" ],
-    [ "SpellInfoBuilder", "d2/de4/a29284.html", "d2/de4/a29284" ]
+    [ "CONFIG_HIGH_PRIORITY", "d5/de6/a04910.html#a04727fe99a83f6b774ac1fb1b8468f3e", null ],
+    [ "CONFIG_PROCESSOR_AFFINITY", "d5/de6/a04910.html#a714853b6677573f2aa289978eee5b83f", null ],
+    [ "SetProcessPriority", "d5/de6/a04910.html#ac0ccc1e4fc992fb43f068cb8f6b3fd7b", null ]
 ];

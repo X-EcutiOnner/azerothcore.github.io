@@ -1,6 +1,5 @@
 var a11051 =
 [
-    [ "GuildBankLogQuery", "d0/d76/a11051.html#ab094e91a48d0259b4247157b92997bb2", null ],
-    [ "Read", "d0/d76/a11051.html#a5eed269e9285a33ffc61fcfa7d639083", null ],
-    [ "Tab", "d0/d76/a11051.html#ae966e3ac144b86e20f65b742ff3be9e3", null ]
+    [ "GuildDeleteRank", "d0/d76/a11051.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "d0/d76/a11051.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

@@ -1,6 +1,5 @@
 var a20927 =
 [
-    [ "npc_ritual_channelerAI", "d4/d29/a20931.html", "d4/d29/a20931" ],
-    [ "npc_ritual_channeler", "db/dd9/a20927.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "db/dd9/a20927.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "npc_salvaged_siege_engine", "db/dd9/a20927.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "db/dd9/a20927.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

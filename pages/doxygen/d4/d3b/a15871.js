@@ -1,5 +1,6 @@
 var a15871 =
 [
-    [ "go_crystalline_tear", "d4/d3b/a15871.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "d4/d3b/a15871.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_tiger_matriarchAI", "df/d4e/a15875.html", "df/d4e/a15875" ],
+    [ "npc_tiger_matriarch", "d4/d3b/a15871.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d4/d3b/a15871.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

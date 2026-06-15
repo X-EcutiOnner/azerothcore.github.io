@@ -1,8 +1,9 @@
 var a11571 =
 [
-    [ "SkillPerfectItemEntry", "d4/d48/a11571.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d4/d48/a11571.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d4/d48/a11571.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d4/d48/a11571.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d4/d48/a11571.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "TotemCreated", "d4/d48/a11571.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d4/d48/a11571.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d4/d48/a11571.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d4/d48/a11571.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d4/d48/a11571.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d4/d48/a11571.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

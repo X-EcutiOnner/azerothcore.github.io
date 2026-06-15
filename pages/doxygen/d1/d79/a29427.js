@@ -1,12 +1,10 @@
 var a29427 =
 [
-    [ "ApplyGmVisibleState", "d1/d79/a29427.html#a3deb6c8e282913959275b537bb748860", null ],
-    [ "EnsureScriptRegistriesInitialized", "d1/d79/a29427.html#a4238366c75dd8889993888e4e8bce5a2", null ],
-    [ "ExecuteCommand", "d1/d79/a29427.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
-    [ "SetUp", "d1/d79/a29427.html#a236c5547ff9855b39315642ec2e79c4e", null ],
-    [ "TearDown", "d1/d79/a29427.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
-    [ "originalWorld", "d1/d79/a29427.html#a8f7396466d2b20742f66e14462de96a4", null ],
-    [ "player", "d1/d79/a29427.html#a97049ae029c9354fdf3194be77f36dfa", null ],
-    [ "session", "d1/d79/a29427.html#a2f87ec522777defa8b023274b1d78c35", null ],
-    [ "worldMock", "d1/d79/a29427.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
+    [ "SetUp", "d1/d79/a29427.html#a781aff1ceb2f4e26bcf801e9ab81bf3e", null ],
+    [ "TearDown", "d1/d79/a29427.html#a4554349a2712a018d16de6a8ae9f50ff", null ],
+    [ "PERM_A", "d1/d79/a29427.html#a4cf88cb08e4248c973e96009b7c5e225", null ],
+    [ "PERM_B", "d1/d79/a29427.html#a358884a8d08637d7358803127c87c808", null ],
+    [ "PERM_C", "d1/d79/a29427.html#a34fc88e7d7566ed4d64005535d0a3122", null ],
+    [ "rbacData", "d1/d79/a29427.html#af35ce1e4fa3d4123358a098cb5afb2af", null ],
+    [ "ROLE_R", "d1/d79/a29427.html#abe95477afdf283e406df55eac7f146cf", null ]
 ];

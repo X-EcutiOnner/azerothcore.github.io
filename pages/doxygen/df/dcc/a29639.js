@@ -1,17 +1,18 @@
 var a29639 =
 [
-    [ "GetHeight", "df/dcc/a29639.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
-    [ "GetOffsetX", "df/dcc/a29639.html#a8facef2fdb586a71f1f740086fe160ab", null ],
-    [ "GetOffsetY", "df/dcc/a29639.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
-    [ "GetWidth", "df/dcc/a29639.html#a240dac4718a12daee7c8ec526209c4ba", null ],
-    [ "Height", "df/dcc/a29639.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
-    [ "LiquidType", "df/dcc/a29639.html#a910553870f082a1b8dd47c27c8f981f1", null ],
-    [ "LiquidVertexFormat", "df/dcc/a29639.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
-    [ "MaxHeightLevel", "df/dcc/a29639.html#aa73500f507b6ee2678f3c81328b716e1", null ],
-    [ "MinHeightLevel", "df/dcc/a29639.html#a5c56ad9303d1b652774019efbe316dbd", null ],
-    [ "OffsetExistsBitmap", "df/dcc/a29639.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
-    [ "OffsetVertexData", "df/dcc/a29639.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
-    [ "OffsetX", "df/dcc/a29639.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
-    [ "OffsetY", "df/dcc/a29639.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
-    [ "Width", "df/dcc/a29639.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
+    [ "CreateEventInfo", "df/dcc/a29639.html#a34bc192406fd9f489e57a7ad6e5aab6d", null ],
+    [ "FindMatchingScenario", "df/dcc/a29639.html#a9b31d6d9880ee54a17df6fb57f334396", null ],
+    [ "GetEffectiveHitMask", "df/dcc/a29639.html#a1a2a08ffb1b7750d8292d70baa22109d", null ],
+    [ "GetEffectiveSpellPhaseMask", "df/dcc/a29639.html#a84919c55f1ea5a3318982fe73e39c6f1", null ],
+    [ "GetEffectiveSpellTypeMask", "df/dcc/a29639.html#aada93a604c8e7f4b5a9d0c62fb134784", null ],
+    [ "IsSpellTypeProc", "df/dcc/a29639.html#afe8b7929c8489d9c19bbfef2daaa0e9a", null ],
+    [ "RequiresSpellFamilyMatch", "df/dcc/a29639.html#a483394c3827b435220ff73a22b202cbd", null ],
+    [ "SetUp", "df/dcc/a29639.html#a97a6a44cf781708f376088b8d755e51e", null ],
+    [ "TearDown", "df/dcc/a29639.html#aa7cf1e7c860169791235a8c83079b7c3", null ],
+    [ "_allEntries", "df/dcc/a29639.html#a863fca9ea018277f0f70f074cc5cbee0", null ],
+    [ "_damageInfo", "df/dcc/a29639.html#a79d9c97408a50b436bff5466b20de7fe", null ],
+    [ "_defaultSpellInfo", "df/dcc/a29639.html#affaa8e236d7ba203b1f2077ffbcad0c4", null ],
+    [ "_healInfo", "df/dcc/a29639.html#a3495fb2c09817a1605e46de9b5ab4a5a", null ],
+    [ "_originalWorld", "df/dcc/a29639.html#a1616643b4020ac84e039f96a535d3a7f", null ],
+    [ "_worldMock", "df/dcc/a29639.html#a5d64d7a5be1af3d13d67fd7ce82f7d58", null ]
 ];

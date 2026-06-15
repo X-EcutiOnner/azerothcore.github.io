@@ -1,13 +1,8 @@
 var a23435 =
 [
-    [ "boss_wrath_scryer_soccothrates", "dc/d6d/a23435.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "dc/d6d/a23435.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "dc/d6d/a23435.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "dc/d6d/a23435.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "dc/d6d/a23435.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "dc/d6d/a23435.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "dc/d6d/a23435.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "dc/d6d/a23435.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "dc/d6d/a23435.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "dc/d6d/a23435.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "FilterTargets", "dc/d6d/a23435.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "dc/d6d/a23435.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "dc/d6d/a23435.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "dc/d6d/a23435.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "dc/d6d/a23435.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

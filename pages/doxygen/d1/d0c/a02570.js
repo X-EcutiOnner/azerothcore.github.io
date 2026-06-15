@@ -1,10 +1,8 @@
 var a02570 =
 [
-    [ "AutobroadcastMgr", "df/d26/a07488.html", "df/d26/a07488" ],
-    [ "sAutobroadcastMgr", "d1/d0c/a02570.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d1/d0c/a02570.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "PassiveAI", "da/d5b/a06435.html", "da/d5b/a06435" ],
+    [ "PossessedAI", "d7/de4/a06439.html", "d7/de4/a06439" ],
+    [ "NullCreatureAI", "da/de8/a06443.html", "da/de8/a06443" ],
+    [ "CritterAI", "de/d38/a06447.html", "de/d38/a06447" ],
+    [ "TriggerAI", "da/d09/a06451.html", "da/d09/a06451" ]
 ];

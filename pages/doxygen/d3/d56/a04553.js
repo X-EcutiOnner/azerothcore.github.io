@@ -1,10 +1,16 @@
 var a04553 =
 [
-    [ "Acore::ACLogSink< T >", "d0/ddb/a05824.html", "d0/ddb/a05824" ],
-    [ "Acore::AsyncProcessResultImplementation", "d3/d19/a05828.html", "d3/d19/a05828" ],
-    [ "CreateChildProcess", "d3/d56/a04553.html#a18bbd8a6717e647e963654123259a033", null ],
-    [ "MakeACLogSink", "d3/d56/a04553.html#adcee37690522709ab4bd0b6f6e757dc5", null ],
-    [ "SearchExecutableInPath", "d3/d56/a04553.html#a9de098dac5e38f8c2cdbeb1d4d706881", null ],
-    [ "StartAsyncProcess", "d3/d56/a04553.html#a021f51138f5726e712f00bdddf9be729", null ],
-    [ "StartProcess", "d3/d56/a04553.html#acfaf2f89a55d299aa04c494719dfedc8", null ]
+    [ "Log", "d1/d19/a05651.html", "d1/d19/a05651" ],
+    [ "LOG_DEBUG", "d3/d56/a04553.html#a47ac782b14a7531c6232777165a1a161", null ],
+    [ "LOG_ERROR", "d3/d56/a04553.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
+    [ "LOG_FATAL", "d3/d56/a04553.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
+    [ "LOG_GM", "d3/d56/a04553.html#aeeb132f13796dfa459eb05386acff8fe", null ],
+    [ "LOG_INFO", "d3/d56/a04553.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
+    [ "LOG_MESSAGE_BODY", "d3/d56/a04553.html#a1ce833e7403b29687774e0539da6f4b9", null ],
+    [ "LOG_TRACE", "d3/d56/a04553.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
+    [ "LOG_WARN", "d3/d56/a04553.html#adf09840a666e1d86bcd3439105db6edc", null ],
+    [ "LOGGER_ROOT", "d3/d56/a04553.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
+    [ "sLog", "d3/d56/a04553.html#ab5487500f5b4b12072043104b916d582", null ],
+    [ "AppenderCreatorFn", "d3/d56/a04553.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
+    [ "CreateAppender", "d3/d56/a04553.html#ae5d709e10423806fa5331696a9bbd657", null ]
 ];

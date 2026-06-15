@@ -1,4 +1,29 @@
 var a04223 =
 [
-    [ "BasicStatementTask", "d5/d2a/a05996.html", "d5/d2a/a05996" ]
+    [ "HashMapHolder< T >", "dd/d81/a09199.html", "dd/d81/a09199" ],
+    [ "AddObject", "d1/dde/a04223.html#a0726eba7e71a7c6d4f6f90b4dfb410f8", null ],
+    [ "AddObject", "d1/dde/a04223.html#a2f3be0f1bc71493623f991ad879c8be4", null ],
+    [ "FindConnectedPlayer", "d1/dde/a04223.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0", null ],
+    [ "FindPlayer", "d1/dde/a04223.html#a9ede56180a13f102ad195136eadb97ee", null ],
+    [ "FindPlayerByLowGUID", "d1/dde/a04223.html#a106c85352229fc2c097d9e021b4ce297", null ],
+    [ "FindPlayerByName", "d1/dde/a04223.html#af5cb6806842c9689cf1d5f43ffdc4b0a", null ],
+    [ "GetCorpse", "d1/dde/a04223.html#ad7a6a08850b890d65a5e38a77ef92502", null ],
+    [ "GetCreature", "d1/dde/a04223.html#a8d1cda6b98832b29fcb437c654fd8ae9", null ],
+    [ "GetCreatureOrPetOrVehicle", "d1/dde/a04223.html#ae98f0c5bc69acfddbb05d43599b07195", null ],
+    [ "GetDynamicObject", "d1/dde/a04223.html#aad91cd58924cc8a34170b5a5c34ebe77", null ],
+    [ "GetGameObject", "d1/dde/a04223.html#a351a9637e0759a657f3e8fbe3ad0f19f", null ],
+    [ "GetObjectByTypeMask", "d1/dde/a04223.html#a1de63315bb66841e4273ec610b884939", null ],
+    [ "GetPet", "d1/dde/a04223.html#ace68e06f8fc640d94eca642f91b4598e", null ],
+    [ "GetPlayer", "d1/dde/a04223.html#a86236181ddfead8560067378e385f244", null ],
+    [ "GetPlayer", "d1/dde/a04223.html#a46ef20a69ae5c8540a899fe8cdaa999e", null ],
+    [ "GetPlayers", "d1/dde/a04223.html#a868ecab21b3e6e3ac68beed32f4ea793", null ],
+    [ "GetSpawnedCreatureByDBGUID", "d1/dde/a04223.html#a4cebdea9476a004a8a1bd57c40d1f3ae", null ],
+    [ "GetSpawnedGameObjectByDBGUID", "d1/dde/a04223.html#a6639665d2704cbd06727004567caac15", null ],
+    [ "GetTransport", "d1/dde/a04223.html#a4ba6a4a32822e288697d9afd5e67fca7", null ],
+    [ "GetUnit", "d1/dde/a04223.html#a1cb1e2f3906c3bd150a0d18377253d16", null ],
+    [ "GetWorldObject", "d1/dde/a04223.html#a970c7277a8e1bb7b65f78fdee825b2cc", null ],
+    [ "RemoveObject", "d1/dde/a04223.html#a43f4538cfa587672688705f6f7a60edc", null ],
+    [ "RemoveObject", "d1/dde/a04223.html#ad72db398e2ff25a82a93e89fb67c56ff", null ],
+    [ "SaveAllPlayers", "d1/dde/a04223.html#a0fba0222d2e46026727c6e898a7f35bc", null ],
+    [ "UpdatePlayerNameMapReference", "d1/dde/a04223.html#a8a088e6967b9972662d788beffba14d4", null ]
 ];

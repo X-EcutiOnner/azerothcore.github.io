@@ -1,8 +1,7 @@
 var a20811 =
 [
-    [ "boss_keleseth", "df/dbe/a20811.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "df/dbe/a20811.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "df/dbe/a20811.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "df/dbe/a20811.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "df/dbe/a20811.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "OnApply", "df/dbe/a20811.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "df/dbe/a20811.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "df/dbe/a20811.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "df/dbe/a20811.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

@@ -1,6 +1,6 @@
 var a21959 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d4/dbc/a21963.html", "d4/dbc/a21963" ],
-    [ "npc_time_lost_proto_drake", "d1/d67/a21959.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d1/d67/a21959.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_bushwhackerAI", "d1/d67/a21959.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d1/d67/a21959.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d1/d67/a21959.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

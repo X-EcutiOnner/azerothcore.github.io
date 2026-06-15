@@ -1,8 +1,6 @@
 var a13631 =
 [
-    [ "OnPeriodic", "df/d66/a13631.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "df/d66/a13631.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "df/d66/a13631.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "df/d66/a13631.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "df/d66/a13631.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "boss_baroness_anastariAI", "d5/dbb/a13635.html", "d5/dbb/a13635" ],
+    [ "boss_baroness_anastari", "df/d66/a13631.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "df/d66/a13631.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

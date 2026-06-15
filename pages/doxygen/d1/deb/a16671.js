@@ -1,7 +1,7 @@
 var a16671 =
 [
-    [ "HandleEffectPeriodic", "d1/deb/a16671.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "d1/deb/a16671.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "d1/deb/a16671.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "d1/deb/a16671.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "HandleAfterEffectAbsorb", "d1/deb/a16671.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/deb/a16671.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/deb/a16671.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/deb/a16671.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

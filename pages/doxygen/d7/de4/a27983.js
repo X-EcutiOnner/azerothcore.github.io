@@ -1,5 +1,5 @@
 var a27983 =
 [
-    [ "go_jump_a_tron", "d7/de4/a27983.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d7/de4/a27983.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_tablet_of_the_seven", "d7/de4/a27983.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d7/de4/a27983.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

@@ -1,9 +1,10 @@
 var a15147 =
 [
-    [ "boss_temporus", "d5/d90/a15147.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d5/d90/a15147.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d5/d90/a15147.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d5/d90/a15147.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d5/d90/a15147.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d5/d90/a15147.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_hyjal_frost_wyrm", "d5/d90/a15147.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d5/d90/a15147.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d5/d90/a15147.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d5/d90/a15147.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d5/d90/a15147.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d5/d90/a15147.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d5/d90/a15147.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

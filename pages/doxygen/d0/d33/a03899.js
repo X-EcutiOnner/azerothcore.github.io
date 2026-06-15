@@ -1,20 +1,12 @@
 var a03899 =
 [
-    [ "PetAI", "d1/d7b/a06448.html", "d1/d7b/a06448" ],
-    [ "SpecialPets", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cff", [
-      [ "ENTRY_IMP", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896", null ],
-      [ "ENTRY_WATER_ELEMENTAL", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5", null ],
-      [ "ENTRY_WATER_ELEMENTAL_PERM", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99", null ],
-      [ "IMP_FIREBOLT_RANK_1", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c", null ],
-      [ "IMP_FIREBOLT_RANK_2", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406", null ],
-      [ "IMP_FIREBOLT_RANK_3", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6", null ],
-      [ "IMP_FIREBOLT_RANK_4", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7", null ],
-      [ "IMP_FIREBOLT_RANK_5", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac", null ],
-      [ "IMP_FIREBOLT_RANK_6", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5", null ],
-      [ "IMP_FIREBOLT_RANK_7", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a", null ],
-      [ "IMP_FIREBOLT_RANK_8", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25", null ],
-      [ "IMP_FIREBOLT_RANK_9", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_1", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d", null ],
-      [ "WATER_ELEMENTAL_WATERBOLT_2", "d0/d33/a03899.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1", null ]
-    ] ]
+    [ "WorldPackets::Pet::DismissCritter", "d5/d80/a11443.html", "d5/d80/a11443" ],
+    [ "WorldPackets::Pet::PetAbandon", "d9/d11/a11447.html", "d9/d11/a11447" ],
+    [ "WorldPackets::Pet::PetStopAttack", "dd/da7/a11451.html", "dd/da7/a11451" ],
+    [ "WorldPackets::Pet::PetSpellAutocast", "d9/d63/a11455.html", "d9/d63/a11455" ],
+    [ "WorldPackets::Pet::PetLearnedSpell", "de/d80/a11459.html", "de/d80/a11459" ],
+    [ "WorldPackets::Pet::PetUnlearnedSpell", "d1/d27/a11463.html", "d1/d27/a11463" ],
+    [ "WorldPackets::Pet::RequestPetInfo", "d5/d79/a11467.html", "d5/d79/a11467" ],
+    [ "WorldPackets::Pet::PetActionSound", "d2/d52/a11471.html", "d2/d52/a11471" ],
+    [ "WorldPackets::Pet::PetDismissSound", "df/dab/a11475.html", "df/dab/a11475" ]
 ];

@@ -1,7 +1,6 @@
 var a25355 =
 [
-    [ "HandleScriptEffect", "db/d5f/a25355.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "db/d5f/a25355.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "db/d5f/a25355.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "db/d5f/a25355.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "CalculateAmount", "db/d5f/a25355.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "db/d5f/a25355.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "db/d5f/a25355.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

@@ -1,7 +1,6 @@
 var a22819 =
 [
-    [ "HandleProc", "d5/dd3/a22819.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d5/dd3/a22819.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d5/dd3/a22819.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d5/dd3/a22819.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "PrepareAuraScript", "d5/dd3/a22819.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d5/dd3/a22819.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d5/dd3/a22819.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

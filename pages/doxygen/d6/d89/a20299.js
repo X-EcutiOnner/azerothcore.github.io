@@ -1,6 +1,6 @@
 var a20299 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "d6/d89/a20299.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "d6/d89/a20299.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "d6/d89/a20299.html#ad863666aec3db81f73165148ffc98033", null ]
+    [ "npc_ulduar_toasty_fire", "d6/d89/a20299.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d6/d89/a20299.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d6/d89/a20299.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

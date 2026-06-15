@@ -1,12 +1,7 @@
 var a11271 =
 [
-    [ "Complain", "d2/d2e/a11271.html#aa1cf8c3159d1334186b28c0abf0b5bec", null ],
-    [ "Read", "d2/d2e/a11271.html#a5a5cc78c807ce5d1e455bedd283c0f4d", null ],
-    [ "Description", "d2/d2e/a11271.html#a557676064707e2597a10e9b2efc9d09a", null ],
-    [ "SpammerGuid", "d2/d2e/a11271.html#a4a8b664b598624046b26953051a28718", null ],
-    [ "SpamType", "d2/d2e/a11271.html#aece15ac467b310fc170844119978aa2a", null ],
-    [ "Unk1", "d2/d2e/a11271.html#a7cc02360329a0b67c67fb5798d1e658d", null ],
-    [ "Unk2", "d2/d2e/a11271.html#a2d935ee2ed26a672d0f5795b79d887cb", null ],
-    [ "Unk3", "d2/d2e/a11271.html#a63aae3eaab2d6b72e08e4436ebe3bc0b", null ],
-    [ "Unk4", "d2/d2e/a11271.html#ad9570c82409ce59ad94f3e8233fd251c", null ]
+    [ "SocketGems", "d2/d2e/a11271.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "d2/d2e/a11271.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "d2/d2e/a11271.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "d2/d2e/a11271.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

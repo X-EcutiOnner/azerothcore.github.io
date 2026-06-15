@@ -1,7 +1,8 @@
 var a15315 =
 [
-    [ "FilterTargets", "d1/d9f/a15315.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "d1/d9f/a15315.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "d1/d9f/a15315.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "d1/d9f/a15315.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "Load", "d1/d9f/a15315.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d1/d9f/a15315.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d1/d9f/a15315.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d1/d9f/a15315.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d1/d9f/a15315.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

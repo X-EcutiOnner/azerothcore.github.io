@@ -1,11 +1,13 @@
 var a16215 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "dd/d5c/a16215.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
-    [ "HandlePeriodic", "dd/d5c/a16215.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "dd/d5c/a16215.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "dd/d5c/a16215.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "dd/d5c/a16215.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "dd/d5c/a16215.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "dd/d5c/a16215.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
-    [ "_spellEntry", "dd/d5c/a16215.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_shadowpriest_sezzizAI", "dd/d5c/a16215.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "dd/d5c/a16215.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "dd/d5c/a16215.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "dd/d5c/a16215.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "dd/d5c/a16215.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "dd/d5c/a16215.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "dd/d5c/a16215.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "dd/d5c/a16215.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "dd/d5c/a16215.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "dd/d5c/a16215.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

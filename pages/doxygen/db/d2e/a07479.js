@@ -1,7 +1,7 @@
 var a07479 =
 [
-    [ "attackText", "db/d2e/a07479.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "db/d2e/a07479.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "db/d2e/a07479.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "db/d2e/a07479.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "AuctionSearchUpdateBid", "db/d2e/a07479.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "db/d2e/a07479.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "db/d2e/a07479.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "db/d2e/a07479.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

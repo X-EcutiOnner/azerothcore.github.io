@@ -1,7 +1,6 @@
 var a16327 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "da/de1/a16327.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "da/de1/a16327.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "da/de1/a16327.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "da/de1/a16327.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_anub_ar_crusher_champion", "da/de1/a16327.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "da/de1/a16327.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "da/de1/a16327.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

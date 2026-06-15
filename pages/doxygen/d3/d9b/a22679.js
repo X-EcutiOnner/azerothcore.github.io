@@ -1,7 +1,12 @@
 var a22679 =
 [
-    [ "npc_ashtongue_channeler", "d3/d9b/a22679.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d3/d9b/a22679.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d3/d9b/a22679.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d3/d9b/a22679.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "boss_essence_of_angerAI", "d3/d9b/a22679.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "d3/d9b/a22679.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "d3/d9b/a22679.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "d3/d9b/a22679.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "d3/d9b/a22679.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "d3/d9b/a22679.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "d3/d9b/a22679.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "d3/d9b/a22679.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "d3/d9b/a22679.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

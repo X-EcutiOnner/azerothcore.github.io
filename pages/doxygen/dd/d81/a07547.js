@@ -1,9 +1,8 @@
 var a07547 =
 [
-    [ "Rank", "dd/d81/a07547.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "dd/d81/a07547.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "dd/d81/a07547.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "dd/d81/a07547.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "dd/d81/a07547.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "dd/d81/a07547.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "nbTowerCannonBottom", "dd/d81/a07547.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "dd/d81/a07547.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "dd/d81/a07547.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "dd/d81/a07547.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "dd/d81/a07547.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

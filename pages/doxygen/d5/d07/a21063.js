@@ -1,6 +1,6 @@
 var a21063 =
 [
-    [ "npc_erekem_guardAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
-    [ "npc_erekem_guard", "d5/d07/a21063.html#a78592996e90f77f81eec0325a7f11956", null ],
-    [ "GetAI", "d5/d07/a21063.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
+    [ "CanBeAppliedOn", "d5/d07/a21063.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
+    [ "PrepareAuraScript", "d5/d07/a21063.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
+    [ "Register", "d5/d07/a21063.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
 ];

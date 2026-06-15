@@ -1,7 +1,5 @@
 var a19635 =
 [
-    [ "HandleProc", "d0/d26/a19635.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d0/d26/a19635.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d0/d26/a19635.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d0/d26/a19635.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "achievement_chaos_theory", "d0/d26/a19635.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d0/d26/a19635.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

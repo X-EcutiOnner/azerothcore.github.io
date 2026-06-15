@@ -1,4 +1,5 @@
 var a03530 =
 [
-    [ "ScriptRegistry< GameEventScript >", "d0/de9/a03530.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
+    [ "AreaTriggerScript", "de/df9/a10631.html", "de/df9/a10631" ],
+    [ "OnlyOnceAreaTriggerScript", "d5/dfe/a10635.html", "d5/dfe/a10635" ]
 ];

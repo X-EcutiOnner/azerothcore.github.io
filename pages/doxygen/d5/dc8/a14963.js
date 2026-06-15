@@ -1,7 +1,9 @@
 var a14963 =
 [
-    [ "OnPeriodic", "d5/dc8/a14963.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d5/dc8/a14963.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d5/dc8/a14963.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d5/dc8/a14963.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "HandlePeriodic", "d5/dc8/a14963.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d5/dc8/a14963.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d5/dc8/a14963.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d5/dc8/a14963.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d5/dc8/a14963.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d5/dc8/a14963.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

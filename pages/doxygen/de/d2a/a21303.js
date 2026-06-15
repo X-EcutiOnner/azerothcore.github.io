@@ -1,7 +1,7 @@
 var a21303 =
 [
-    [ "npc_bonker_togglevoltAI", "d1/d11/a21307.html", "d1/d11/a21307" ],
-    [ "npc_bonker_togglevolt", "de/d2a/a21303.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
-    [ "GetAI", "de/d2a/a21303.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
-    [ "OnQuestAccept", "de/d2a/a21303.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
+    [ "npc_violet_hold_defense_system", "de/d2a/a21303.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "de/d2a/a21303.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "de/d2a/a21303.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ],
+    [ "_tickCount", "de/d2a/a21303.html#a4a7504069b05480428278fd09d5e59ba", null ]
 ];

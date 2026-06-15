@@ -1,5 +1,6 @@
 var a10015 =
 [
-    [ "item_guid", "d4/db5/a10015.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "d4/db5/a10015.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "DoorInfo", "d4/db5/a10015.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
+    [ "bossInfo", "d4/db5/a10015.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
+    [ "type", "d4/db5/a10015.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
 ];

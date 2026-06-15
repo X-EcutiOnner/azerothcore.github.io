@@ -1,6 +1,6 @@
 var a24083 =
 [
-    [ "HandleDamageCalc", "db/d45/a24083.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "db/d45/a24083.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "db/d45/a24083.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "go_ancient_skull_pile", "db/d45/a24083.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
+    [ "OnGossipHello", "db/d45/a24083.html#afc258eaeb7586f0f539223c21f82ea63", null ],
+    [ "OnGossipSelect", "db/d45/a24083.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
 ];

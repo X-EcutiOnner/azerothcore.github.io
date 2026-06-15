@@ -1,7 +1,5 @@
 var a14127 =
 [
-    [ "HandleDispel", "db/dd6/a14127.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "db/dd6/a14127.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "db/dd6/a14127.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "db/dd6/a14127.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_tyrion", "db/dd6/a14127.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "db/dd6/a14127.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

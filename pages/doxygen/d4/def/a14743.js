@@ -1,7 +1,13 @@
 var a14743 =
 [
-    [ "OnApply", "d4/def/a14743.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d4/def/a14743.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d4/def/a14743.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d4/def/a14743.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "npc_alexstraza_the_lifebinder", "d4/def/a14743.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d4/def/a14743.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d4/def/a14743.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d4/def/a14743.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "sGossipSelect", "d4/def/a14743.html#a642390a59ff46236dc3b429f371ea8cd", null ],
+    [ "UpdateAI", "d4/def/a14743.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d4/def/a14743.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d4/def/a14743.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d4/def/a14743.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d4/def/a14743.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

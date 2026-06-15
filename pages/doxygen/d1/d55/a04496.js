@@ -1,9 +1,16 @@
 var a04496 =
 [
-    [ "BoundsTrait< VMAP::ModelSpawn * >", "d0/d27/a05296.html", "d0/d27/a05296" ],
-    [ "VMAP::WMOLiquidHeader", "d1/d9e/a05300.html", "d1/d9e/a05300" ],
-    [ "CMP_OR_RETURN", "d1/d55/a04496.html#abb356574335eee18efd5e1f4ed707637", null ],
-    [ "READ_OR_RETURN", "d1/d55/a04496.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
-    [ "READ_OR_RETURN_WITH_DELETE", "d1/d55/a04496.html#aaf506ecfd782214a75bd609db9bef004", null ],
-    [ "readChunk", "d1/d55/a04496.html#a166f3eeee53079ac9df4f15ccd577974", null ]
+    [ "MMAP::NavMeshDeleter", "d8/da5/a05247.html", "d8/da5/a05247" ],
+    [ "MMAP::NavMeshQueryDeleter", "d4/d19/a05251.html", "d4/d19/a05251" ],
+    [ "MMAP::MMapMgr", "d5/d12/a05255.html", "d5/d12/a05255" ],
+    [ "ManagedNavMeshQuery", "d1/d55/a04496.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d1/d55/a04496.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "d1/d55/a04496.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "d1/d55/a04496.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "d1/d55/a04496.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "d1/d55/a04496.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

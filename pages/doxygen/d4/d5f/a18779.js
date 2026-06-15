@@ -1,7 +1,5 @@
 var a18779 =
 [
-    [ "PeriodicTick", "d4/d5f/a18779.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d4/d5f/a18779.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d4/d5f/a18779.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d4/d5f/a18779.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "achievement_neck_deep_in_vile", "d4/d5f/a18779.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d4/d5f/a18779.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

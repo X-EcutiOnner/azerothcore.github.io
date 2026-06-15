@@ -1,10 +1,9 @@
 var a07703 =
 [
-    [ "BattlegroundNA", "da/d8b/a07703.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "da/d8b/a07703.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "da/d8b/a07703.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "da/d8b/a07703.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "da/d8b/a07703.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "da/d8b/a07703.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "da/d8b/a07703.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "CapturePointInfo", "da/d8b/a07703.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "da/d8b/a07703.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "da/d8b/a07703.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "da/d8b/a07703.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "da/d8b/a07703.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "da/d8b/a07703.html#a98cb154218423e295b8007c62222831c", null ]
 ];

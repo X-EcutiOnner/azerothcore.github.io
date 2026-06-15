@@ -1,6 +1,10 @@
 var a19475 =
 [
-    [ "FilterTargets", "d7/db7/a19475.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "PrepareSpellScript", "d7/db7/a19475.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "d7/db7/a19475.html#a5fcc9cc654d6495f535600a6eef4c968", null ]
+    [ "boss_patchwerkAI", "d7/db7/a19475.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d7/db7/a19475.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d7/db7/a19475.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d7/db7/a19475.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d7/db7/a19475.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d7/db7/a19475.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d7/db7/a19475.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

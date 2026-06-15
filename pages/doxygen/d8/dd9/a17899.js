@@ -1,9 +1,20 @@
 var a17899 =
 [
-    [ "CalculateDamage", "d8/dd9/a17899.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d8/dd9/a17899.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d8/dd9/a17899.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d8/dd9/a17899.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d8/dd9/a17899.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d8/dd9/a17899.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d8/dd9/a17899.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
+    [ "AttackStart", "d8/dd9/a17899.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
+    [ "CanAIAttack", "d8/dd9/a17899.html#a58b5476b42ea1d249cb3795da86509db", null ],
+    [ "DamageTaken", "d8/dd9/a17899.html#ae2715e5410ddf25734469594f72c7373", null ],
+    [ "DoAction", "d8/dd9/a17899.html#acf222bf3f1204215918e339d57e6ee37", null ],
+    [ "EnterEvadeMode", "d8/dd9/a17899.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
+    [ "JustEngagedWith", "d8/dd9/a17899.html#aa98690c2c7002915c72e68f9136a9ace", null ],
+    [ "SetData", "d8/dd9/a17899.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
+    [ "sGossipSelect", "d8/dd9/a17899.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
+    [ "UpdateAI", "d8/dd9/a17899.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
+    [ "_axethrowersYellCooldown", "d8/dd9/a17899.html#ad98e613c8d4625687f9ab16979d21707", null ],
+    [ "_controller", "d8/dd9/a17899.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
+    [ "_events", "d8/dd9/a17899.html#a132fc1f697d32c76c10766c71948fe01", null ],
+    [ "_firstMageCooldown", "d8/dd9/a17899.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
+    [ "_instance", "d8/dd9/a17899.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
+    [ "_rocketeersYellCooldown", "d8/dd9/a17899.html#a0435dba6aff5287b1d10420a54a72d28", null ],
+    [ "checkTimer", "d8/dd9/a17899.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
 ];

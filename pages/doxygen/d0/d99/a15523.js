@@ -1,6 +1,5 @@
 var a15523 =
 [
-    [ "HandleOnHit", "d0/d99/a15523.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "d0/d99/a15523.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "d0/d99/a15523.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_kri", "d0/d99/a15523.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
+    [ "JustEngagedWith", "d0/d99/a15523.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
 ];

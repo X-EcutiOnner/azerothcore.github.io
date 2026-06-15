@@ -1,8 +1,8 @@
 var a11727 =
 [
-    [ "target_mapId", "da/d7e/a11727.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "da/d7e/a11727.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "da/d7e/a11727.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "da/d7e/a11727.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "da/d7e/a11727.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "SkillExtraItemEntry", "da/d7e/a11727.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "da/d7e/a11727.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "da/d7e/a11727.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "da/d7e/a11727.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "da/d7e/a11727.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

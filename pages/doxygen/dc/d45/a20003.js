@@ -1,8 +1,6 @@
 var a20003 =
 [
-    [ "FilterTargets", "dc/d45/a20003.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "dc/d45/a20003.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "dc/d45/a20003.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "dc/d45/a20003.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "dc/d45/a20003.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "PrepareSpellScript", "dc/d45/a20003.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "dc/d45/a20003.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "dc/d45/a20003.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

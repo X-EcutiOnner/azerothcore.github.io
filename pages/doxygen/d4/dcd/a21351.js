@@ -1,7 +1,6 @@
 var a21351 =
 [
-    [ "HandleProc", "d4/dcd/a21351.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d4/dcd/a21351.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d4/dcd/a21351.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d4/dcd/a21351.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d2/de7/a21355.html", "d2/de7/a21355" ],
+    [ "npc_imprisoned_beryl_sorcerer", "d4/dcd/a21351.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
+    [ "GetAI", "d4/dcd/a21351.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
 ];

@@ -1,5 +1,12 @@
 var a00545 =
 [
-    [ "player_commandscript", "d5/d57/a12364.html", "d5/d57/a12364" ],
-    [ "AddSC_player_commandscript", "d8/deb/a00545.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
+    [ "npc_valkyr_battle_maiden", "d0/d6e/a13495.html", "d0/d6e/a13495" ],
+    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "de/d3e/a13499.html", "de/d3e/a13499" ],
+    [ "Says_VBM", "d8/deb/a00545.html#a1e8eb132ddeee98b584395e0a134c9e4", [
+      [ "WHISPER_REVIVE", "d8/deb/a00545.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
+    ] ],
+    [ "Spells_VBM", "d8/deb/a00545.html#a97df4b07a8686c29a9700c8d11af35e3", [
+      [ "SPELL_REVIVE", "d8/deb/a00545.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave", "d8/deb/a00545.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
 ];

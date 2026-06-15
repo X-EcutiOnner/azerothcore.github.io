@@ -1,6 +1,4 @@
 var a03425 =
 [
-    [ "AntiDosOpcodePolicy", "d6/d43/a09404.html", "d6/d43/a09404" ],
-    [ "WorldGlobals", "d6/d88/a09408.html", "d6/d88/a09408" ],
-    [ "sWorldGlobals", "dd/dfe/a03425.html#abde160907db136b0b0c16309add3ae94", null ]
+    [ "ScriptRegistry< AccountScript >", "dd/dfe/a03425.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

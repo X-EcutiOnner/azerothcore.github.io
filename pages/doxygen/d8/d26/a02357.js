@@ -1,10 +1,9 @@
 var a02357 =
 [
-    [ "AutobroadcastMgr", "d4/d36/a07462.html", "d4/d36/a07462" ],
-    [ "sAutobroadcastMgr", "d8/d26/a02357.html#a34abff2dadcb74370b0749fe9fda3878", null ],
-    [ "AnnounceType", "d8/d26/a02357.html#a28a4ef2f64643c76d8be05bf9eafc731", [
-      [ "World", "d8/d26/a02357.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],
-      [ "Notification", "d8/d26/a02357.html#a28a4ef2f64643c76d8be05bf9eafc731a96d008db67fc0b5551a926842bbb6a71", null ],
-      [ "Both", "d8/d26/a02357.html#a28a4ef2f64643c76d8be05bf9eafc731a130c5b3473c57faa76e2a1c54e26f88e", null ]
-    ] ]
+    [ "AchievementVisitor", "db/d15/a07911.html", "db/d15/a07911" ],
+    [ "GameTeleVisitor", "dc/d13/a07915.html", "dc/d13/a07915" ],
+    [ "ItemTemplateVisitor", "dc/de6/a07919.html", "dc/de6/a07919" ],
+    [ "SpellInfoVisitor", "df/d74/a07923.html", "df/d74/a07923" ],
+    [ "QuestVisitor", "d4/d6a/a07927.html", "d4/d6a/a07927" ],
+    [ "ChatCommandResult", "d8/d26/a02357.html#ad9c9d483b96ed400318aed8441ebe7f1", null ]
 ];

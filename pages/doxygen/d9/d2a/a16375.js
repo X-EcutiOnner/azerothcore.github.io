@@ -1,6 +1,6 @@
 var a16375 =
 [
-    [ "boss_twilight_halionAI", "df/db1/a16379.html", "df/db1/a16379" ],
-    [ "boss_twilight_halion", "d9/d2a/a16375.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "d9/d2a/a16375.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleScriptEffect", "d9/d2a/a16375.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d9/d2a/a16375.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d9/d2a/a16375.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

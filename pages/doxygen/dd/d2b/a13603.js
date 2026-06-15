@@ -1,4 +1,7 @@
 var a13603 =
 [
-    [ "operator()", "dd/d2b/a13603.html#ae5ec191753b6dac7916f1012930ea901", null ]
+    [ "HandleScript", "dd/d2b/a13603.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "dd/d2b/a13603.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "dd/d2b/a13603.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "dd/d2b/a13603.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

@@ -1,14 +1,9 @@
 var a09955 =
 [
-    [ "LootItemStorage", "db/d2c/a09955.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "db/d2c/a09955.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "db/d2c/a09955.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "db/d2c/a09955.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "db/d2c/a09955.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "db/d2c/a09955.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "db/d2c/a09955.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "db/d2c/a09955.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "db/d2c/a09955.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "db/d2c/a09955.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "db/d2c/a09955.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "BroadcastTextID", "db/d2c/a09955.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "db/d2c/a09955.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "db/d2c/a09955.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "db/d2c/a09955.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "db/d2c/a09955.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "db/d2c/a09955.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

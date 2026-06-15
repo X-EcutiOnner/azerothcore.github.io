@@ -1,6 +1,6 @@
 var a21971 =
 [
-    [ "npc_roxi_ramrocket", "d7/d84/a21971.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d7/d84/a21971.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d7/d84/a21971.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_jungle_punch_targetAI", "db/d98/a21975.html", "db/d98/a21975" ],
+    [ "npc_jungle_punch_target", "d7/d84/a21971.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d7/d84/a21971.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

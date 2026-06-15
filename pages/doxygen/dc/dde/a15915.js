@@ -1,7 +1,5 @@
 var a15915 =
 [
-    [ "npc_steward_of_time", "dc/dde/a15915.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "dc/dde/a15915.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "dc/dde/a15915.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "dc/dde/a15915.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "at_ancient_leaf", "dc/dde/a15915.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "dc/dde/a15915.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

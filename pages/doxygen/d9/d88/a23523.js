@@ -1,6 +1,7 @@
 var a23523 =
 [
-    [ "AfterRemove", "d9/d88/a23523.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d9/d88/a23523.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d9/d88/a23523.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "boss_warp_splinter", "d9/d88/a23523.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d9/d88/a23523.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d9/d88/a23523.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d9/d88/a23523.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

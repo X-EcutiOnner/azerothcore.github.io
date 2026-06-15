@@ -1,7 +1,7 @@
 var a20219 =
 [
-    [ "HandleAfterEffectApply", "d0/d15/a20219.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d0/d15/a20219.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d0/d15/a20219.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d0/d15/a20219.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "boss_freya_lifebinder", "d0/d15/a20219.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d0/d15/a20219.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d0/d15/a20219.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d0/d15/a20219.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

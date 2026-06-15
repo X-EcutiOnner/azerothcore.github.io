@@ -1,6 +1,10 @@
 var a22571 =
 [
-    [ "HandleScriptEffect", "d9/de3/a22571.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d9/de3/a22571.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d9/de3/a22571.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "boss_illidari_council", "d9/de3/a22571.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d9/de3/a22571.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d9/de3/a22571.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d9/de3/a22571.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d9/de3/a22571.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d9/de3/a22571.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d9/de3/a22571.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

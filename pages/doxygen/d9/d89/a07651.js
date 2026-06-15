@@ -1,14 +1,6 @@
 var a07651 =
 [
-    [ "BattlegroundDS", "d9/d89/a07651.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "d9/d89/a07651.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
-    [ "HandleAreaTrigger", "d9/d89/a07651.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
-    [ "HandlePlayerUnderMap", "d9/d89/a07651.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
-    [ "PostUpdateImpl", "d9/d89/a07651.html#a57cfca32a361d43f19163dc6e7408e96", null ],
-    [ "SetupBattleground", "d9/d89/a07651.html#ae008bf979e6984856237938dfe743ec7", null ],
-    [ "StartingEventCloseDoors", "d9/d89/a07651.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
-    [ "StartingEventOpenDoors", "d9/d89/a07651.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
-    [ "_events", "d9/d89/a07651.html#a79112a1631ec6541cf19ecef712bb66f", null ],
-    [ "_pipeKnockBackCount", "d9/d89/a07651.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
-    [ "_pipeKnockBackTimer", "d9/d89/a07651.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
+    [ "_Battlegrounds", "d9/d89/a07651.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
+    [ "_ClientBattlegroundIds", "d9/d89/a07651.html#a0526fab23b40ac1b33ce18243ad41132", null ],
+    [ "BGFreeSlotQueue", "d9/d89/a07651.html#a49fd7eb3a472894f233d309d35d509be", null ]
 ];

@@ -1,9 +1,9 @@
 var a20675 =
 [
-    [ "HandleOnEffectApply", "d1/d11/a20675.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d1/d11/a20675.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d1/d11/a20675.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d1/d11/a20675.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d1/d11/a20675.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d1/d11/a20675.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "npc_xt002_pummeller", "d1/d11/a20675.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
+    [ "Reset", "d1/d11/a20675.html#a6140f9b246abeba75c291aa7e9624217", null ],
+    [ "UpdateAI", "d1/d11/a20675.html#a90c16a2da7c6c28759a89580736d34e8", null ],
+    [ "_arcingSmashTimer", "d1/d11/a20675.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
+    [ "_trampleTimer", "d1/d11/a20675.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
+    [ "_uppercutTimer", "d1/d11/a20675.html#a4a2427392e5531a4cab88243150f1ecf", null ]
 ];

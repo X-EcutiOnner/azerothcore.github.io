@@ -1,5 +1,6 @@
 var a16039 =
 [
-    [ "go_elune_fire", "d9/d77/a16039.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
-    [ "OnGossipHello", "d9/d77/a16039.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
+    [ "npc_custodian_of_timeAI", "d4/db5/a16043.html", "d4/db5/a16043" ],
+    [ "npc_custodian_of_time", "d9/d77/a16039.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d9/d77/a16039.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

@@ -1,7 +1,7 @@
 var a18911 =
 [
-    [ "OnApply", "d2/d8e/a18911.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d2/d8e/a18911.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d2/d8e/a18911.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d2/d8e/a18911.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "HandleForceCast", "d2/d8e/a18911.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d2/d8e/a18911.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d2/d8e/a18911.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d2/d8e/a18911.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

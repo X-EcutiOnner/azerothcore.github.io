@@ -1,7 +1,14 @@
 var a20307 =
 [
-    [ "FilterTargetsInitial", "df/d06/a20307.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "df/d06/a20307.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "df/d06/a20307.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "df/d06/a20307.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_hodir_druid", "df/d06/a20307.html#aac822cf4203af0e0173004ccc33abc21", null ],
+    [ "AttackStart", "df/d06/a20307.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "df/d06/a20307.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "EnterEvadeMode", "df/d06/a20307.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "df/d06/a20307.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "df/d06/a20307.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "df/d06/a20307.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "df/d06/a20307.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "df/d06/a20307.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "_instance", "df/d06/a20307.html#add7048881ec8b0dd2c09e34813c7c353", null ],
+    [ "events", "df/d06/a20307.html#a323184c52fcbc3e18eb74c96db716327", null ]
 ];

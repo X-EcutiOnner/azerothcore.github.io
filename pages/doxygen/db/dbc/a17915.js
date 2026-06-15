@@ -1,6 +1,5 @@
 var a17915 =
 [
-    [ "IgbArtilleryCheck", "db/dbc/a17915.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "db/dbc/a17915.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "db/dbc/a17915.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "npc_zafod_boomboxAI", "db/dbc/a17915.html#a6540d8f5787ce1da211123721ef659f3", null ],
+    [ "sGossipSelect", "db/dbc/a17915.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
 ];

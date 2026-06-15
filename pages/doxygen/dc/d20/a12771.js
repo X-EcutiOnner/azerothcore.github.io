@@ -1,7 +1,6 @@
 var a12771 =
 [
-    [ "HandleDummy", "dc/d20/a12771.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "dc/d20/a12771.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "dc/d20/a12771.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "dc/d20/a12771.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "OnEffect", "dc/d20/a12771.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "dc/d20/a12771.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "dc/d20/a12771.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

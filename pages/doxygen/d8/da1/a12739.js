@@ -1,5 +1,7 @@
 var a12739 =
 [
-    [ "npc_garr_firesworn", "d8/da1/a12739.html#a5efff706f522accd5f8be0d29080dea4", null ],
-    [ "DamageTaken", "d8/da1/a12739.html#a172435821316d28c5b0043015c68595e", null ]
+    [ "boss_urok_doomhowl", "d8/da1/a12739.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
+    [ "InitializeAI", "d8/da1/a12739.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
+    [ "JustEngagedWith", "d8/da1/a12739.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
+    [ "UpdateAI", "d8/da1/a12739.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
 ];

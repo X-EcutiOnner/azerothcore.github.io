@@ -1,7 +1,9 @@
 var a18023 =
 [
-    [ "HandleScriptEffect", "d7/d92/a18023.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "d7/d92/a18023.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "d7/d92/a18023.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "d7/d92/a18023.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "CalculatePower", "d7/d92/a18023.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d7/d92/a18023.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d7/d92/a18023.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d7/d92/a18023.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d7/d92/a18023.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d7/d92/a18023.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

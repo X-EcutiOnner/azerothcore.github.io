@@ -1,8 +1,5 @@
 var a20363 =
 [
-    [ "npc_ulduar_mimiron_rocket", "dc/d09/a20363.html#aec8a2c9f653ddd1e8ea72093cb02d785", null ],
-    [ "InitializeAI", "dc/d09/a20363.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
-    [ "Reset", "dc/d09/a20363.html#a982da2f2392882a86e72de4c4769fa41", null ],
-    [ "SetData", "dc/d09/a20363.html#a507124f21657b62ff2b68060b52503b1", null ],
-    [ "UpdateAI", "dc/d09/a20363.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
+    [ "achievement_cheese_the_freeze", "dc/d09/a20363.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
+    [ "OnCheck", "dc/d09/a20363.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
 ];

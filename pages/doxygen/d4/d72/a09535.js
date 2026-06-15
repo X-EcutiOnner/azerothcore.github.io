@@ -1,9 +1,9 @@
 var a09535 =
 [
-    [ "CreatureLastSearcher", "d4/d72/a09535.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
-    [ "Visit", "d4/d72/a09535.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
-    [ "Visit", "d4/d72/a09535.html#a08635cefbba5dca34734569816d2edb8", null ],
-    [ "i_check", "d4/d72/a09535.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
-    [ "i_object", "d4/d72/a09535.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
-    [ "i_phaseMask", "d4/d72/a09535.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
+    [ "VisibleChangesNotifier", "d4/d72/a09535.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "d4/d72/a09535.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "d4/d72/a09535.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "d4/d72/a09535.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "d4/d72/a09535.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "d4/d72/a09535.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

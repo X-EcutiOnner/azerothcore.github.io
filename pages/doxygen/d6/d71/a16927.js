@@ -1,6 +1,6 @@
 var a16927 =
 [
-    [ "HandleEffectPeriodic", "d6/d71/a16927.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d6/d71/a16927.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d6/d71/a16927.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_toc_pet_hunterAI", "d7/dcb/a16931.html", "d7/dcb/a16931" ],
+    [ "npc_toc_pet_hunter", "d6/d71/a16927.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d6/d71/a16927.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

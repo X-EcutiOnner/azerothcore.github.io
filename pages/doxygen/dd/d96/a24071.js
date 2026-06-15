@@ -1,5 +1,7 @@
 var a24071 =
 [
-    [ "npc_pet_dk_risen_ally", "dd/d96/a24071.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "dd/d96/a24071.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_isla_starmaneAI", "d2/d63/a24075.html", "d2/d63/a24075" ],
+    [ "npc_isla_starmane", "dd/d96/a24071.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "dd/d96/a24071.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "dd/d96/a24071.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

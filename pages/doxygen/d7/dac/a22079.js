@@ -1,5 +1,6 @@
 var a22079 =
 [
-    [ "npc_wg_spirit_guideAI", "d7/dac/a22079.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d7/dac/a22079.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandleScript", "d7/dac/a22079.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
+    [ "PrepareSpellScript", "d7/dac/a22079.html#af0f5206d98dbc9de355abbeb03709c05", null ],
+    [ "Register", "d7/dac/a22079.html#a53d9d7de4922ed6509b6036921640352", null ]
 ];

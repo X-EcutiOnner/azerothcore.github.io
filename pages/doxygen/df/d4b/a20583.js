@@ -1,5 +1,9 @@
 var a20583 =
 [
-    [ "achievement_xt002_nerf_engineering", "df/d4b/a20583.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "df/d4b/a20583.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "df/d4b/a20583.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "df/d4b/a20583.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "df/d4b/a20583.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "df/d4b/a20583.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "df/d4b/a20583.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "df/d4b/a20583.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

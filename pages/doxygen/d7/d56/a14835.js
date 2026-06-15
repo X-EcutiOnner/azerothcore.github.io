@@ -1,7 +1,8 @@
 var a14835 =
 [
-    [ "GetVisualThrow", "d7/d56/a14835.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d7/d56/a14835.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d7/d56/a14835.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d7/d56/a14835.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "npc_hallows_end_train_fire", "d7/d56/a14835.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d7/d56/a14835.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d7/d56/a14835.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d7/d56/a14835.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d7/d56/a14835.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

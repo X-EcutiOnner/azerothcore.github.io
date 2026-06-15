@@ -1,5 +1,7 @@
 var a19103 =
 [
-    [ "creatureEntry", "d7/da1/a19103.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d7/da1/a19103.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "HandleEffectPeriodic", "d7/da1/a19103.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d7/da1/a19103.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d7/da1/a19103.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d7/da1/a19103.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

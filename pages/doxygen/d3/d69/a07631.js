@@ -1,9 +1,10 @@
 var a07631 =
 [
-    [ "CapturePointInfo", "d3/d69/a07631.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d3/d69/a07631.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d3/d69/a07631.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d3/d69/a07631.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d3/d69/a07631.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d3/d69/a07631.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "BattlegroundChatBuilder", "d3/d69/a07631.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d3/d69/a07631.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d3/d69/a07631.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d3/d69/a07631.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d3/d69/a07631.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d3/d69/a07631.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d3/d69/a07631.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

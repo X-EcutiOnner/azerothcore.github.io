@@ -1,7 +1,8 @@
 var a06411 =
 [
-    [ "NonTankTargetSelector", "d9/d49/a06411.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "d9/d49/a06411.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "d9/d49/a06411.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "d9/d49/a06411.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
+    [ "ArcherAI", "d9/d49/a06411.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "d9/d49/a06411.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "d9/d49/a06411.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "d9/d49/a06411.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "d9/d49/a06411.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

@@ -1,7 +1,8 @@
 var a16111 =
 [
-    [ "HandleDummy", "dd/d96/a16111.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "dd/d96/a16111.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "dd/d96/a16111.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "dd/d96/a16111.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_pluckyAI", "db/d65/a16115.html", "db/d65/a16115" ],
+    [ "npc_plucky", "dd/d96/a16111.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "dd/d96/a16111.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "dd/d96/a16111.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "dd/d96/a16111.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

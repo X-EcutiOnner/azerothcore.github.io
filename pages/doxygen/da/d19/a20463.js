@@ -1,5 +1,5 @@
 var a20463 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "da/d19/a20463.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "da/d19/a20463.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "achievement_kologarn_with_open_arms", "da/d19/a20463.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "da/d19/a20463.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

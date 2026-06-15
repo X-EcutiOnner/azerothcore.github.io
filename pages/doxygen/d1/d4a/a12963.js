@@ -1,7 +1,7 @@
 var a12963 =
 [
-    [ "FilterTargets", "d1/d4a/a12963.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d1/d4a/a12963.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d1/d4a/a12963.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d1/d4a/a12963.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "HandlePeriodic", "d1/d4a/a12963.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "d1/d4a/a12963.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "d1/d4a/a12963.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "d1/d4a/a12963.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

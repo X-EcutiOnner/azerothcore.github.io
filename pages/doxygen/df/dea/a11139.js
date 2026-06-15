@@ -1,7 +1,10 @@
 var a11139 =
 [
-    [ "AutoEquipItem", "df/dea/a11139.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
-    [ "Read", "df/dea/a11139.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
-    [ "SourceBag", "df/dea/a11139.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
-    [ "SourceSlot", "df/dea/a11139.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
+    [ "Count", "df/dea/a11139.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "df/dea/a11139.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "df/dea/a11139.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "df/dea/a11139.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "df/dea/a11139.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "df/dea/a11139.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "df/dea/a11139.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

@@ -1,6 +1,11 @@
 var a12463 =
 [
-    [ "boss_high_priestess_thaurissan", "d1/d3b/a12463.html#a72b25580dc84301be59d72df45a3ac87", null ],
-    [ "JustEngagedWith", "d1/d3b/a12463.html#aa8ba467dd5633e96a20c634880710936", null ],
-    [ "UpdateAI", "d1/d3b/a12463.html#a66612582a2362e4f07d7a2bda529af06", null ]
+    [ "pooltools_commandscript", "d1/d3b/a12463.html#a3428978e91000cbe46dd2b84a30eee2d", null ],
+    [ "GetCommands", "d1/d3b/a12463.html#aebd69a3ae0a0e0833f3eaeeb637d97e6", null ],
+    [ "HandlePoolAdd", "d1/d3b/a12463.html#afb113b7673dbddf804f9384fbc400d67", null ],
+    [ "HandlePoolClear", "d1/d3b/a12463.html#a4bde765f2949ae2db1601e8f5a103ed2", null ],
+    [ "HandlePoolDef", "d1/d3b/a12463.html#a12edd3f4697bba8e03594ceed8c6c289", null ],
+    [ "HandlePoolEnd", "d1/d3b/a12463.html#a039862a0ca89201187f4e06ce792cae8", null ],
+    [ "HandlePoolRemove", "d1/d3b/a12463.html#a158f83f814cba8328dcb81f02525dcdb", null ],
+    [ "HandlePoolStart", "d1/d3b/a12463.html#a13629c50653c80b949bdf80485e51d59", null ]
 ];

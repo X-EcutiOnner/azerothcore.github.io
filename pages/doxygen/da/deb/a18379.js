@@ -1,7 +1,6 @@
 var a18379 =
 [
-    [ "HandleInfusion", "da/deb/a18379.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "da/deb/a18379.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "da/deb/a18379.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "da/deb/a18379.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "boss_sindragosaAI", "dd/d6b/a18383.html", "dd/d6b/a18383" ],
+    [ "boss_sindragosa", "da/deb/a18379.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "da/deb/a18379.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

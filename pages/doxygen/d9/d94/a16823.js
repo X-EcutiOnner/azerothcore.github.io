@@ -1,6 +1,6 @@
 var a16823 =
 [
-    [ "npc_fel_infernalAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
-    [ "npc_fel_infernal", "d9/d94/a16823.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
-    [ "GetAI", "d9/d94/a16823.html#a768201a7516c9972800c941cf2079a11", null ]
+    [ "npc_toc_paladinAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
+    [ "npc_toc_paladin", "d9/d94/a16823.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "d9/d94/a16823.html#a15766ea4414701040c738251302177af", null ]
 ];

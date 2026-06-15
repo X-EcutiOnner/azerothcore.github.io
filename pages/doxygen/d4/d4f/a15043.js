@@ -1,6 +1,7 @@
 var a15043 =
 [
-    [ "boss_meathookAI", "d9/da8/a15047.html", "d9/da8/a15047" ],
-    [ "boss_meathook", "d4/d4f/a15043.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "d4/d4f/a15043.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "HandleOnHit", "d4/d4f/a15043.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d4/d4f/a15043.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d4/d4f/a15043.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d4/d4f/a15043.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

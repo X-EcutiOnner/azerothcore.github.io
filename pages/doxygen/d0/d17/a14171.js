@@ -1,6 +1,6 @@
 var a14171 =
 [
-    [ "go", "d0/d17/a14171.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d0/d17/a14171.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d0/d17/a14171.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "boss_blight_wormAI", "de/da0/a14175.html", "de/da0/a14175" ],
+    [ "boss_blight_worm", "d0/d17/a14171.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "d0/d17/a14171.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

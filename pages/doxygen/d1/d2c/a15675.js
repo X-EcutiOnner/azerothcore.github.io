@@ -1,10 +1,13 @@
 var a15675 =
 [
-    [ "npc_murkdeepAI", "d1/d2c/a15675.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d1/d2c/a15675.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d1/d2c/a15675.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d1/d2c/a15675.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d1/d2c/a15675.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d1/d2c/a15675.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d1/d2c/a15675.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d1/d2c/a15675.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d1/d2c/a15675.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d1/d2c/a15675.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d1/d2c/a15675.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d1/d2c/a15675.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d1/d2c/a15675.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d1/d2c/a15675.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d1/d2c/a15675.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d1/d2c/a15675.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d1/d2c/a15675.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

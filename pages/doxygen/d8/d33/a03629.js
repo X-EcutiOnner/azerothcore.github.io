@@ -1,5 +1,4 @@
 var a03629 =
 [
-    [ "AreaTriggerScript", "dc/d7c/a10624.html", "dc/d7c/a10624" ],
-    [ "OnlyOnceAreaTriggerScript", "d3/dfe/a10628.html", "d3/dfe/a10628" ]
+    [ "ScriptRegistry< BattlegroundMapScript >", "d8/d33/a03629.html#a79e6d39d74f9bbf97afe75113cd4db80", null ]
 ];

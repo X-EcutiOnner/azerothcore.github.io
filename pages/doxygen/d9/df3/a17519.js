@@ -1,14 +1,7 @@
 var a17519 =
 [
-    [ "npc_ball_of_flameAI", "d9/df3/a17519.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "d9/df3/a17519.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "d9/df3/a17519.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "d9/df3/a17519.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "d9/df3/a17519.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "d9/df3/a17519.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "d9/df3/a17519.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
-    [ "_chaseGUID", "d9/df3/a17519.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "d9/df3/a17519.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "d9/df3/a17519.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "d9/df3/a17519.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "HandleDummy", "d9/df3/a17519.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d9/df3/a17519.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d9/df3/a17519.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d9/df3/a17519.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

@@ -1,6 +1,6 @@
 var a15235 =
 [
-    [ "npc_belnistraszAI", "da/dd6/a15239.html", "da/dd6/a15239" ],
-    [ "npc_belnistrasz", "dc/db6/a15235.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
-    [ "GetAI", "dc/db6/a15235.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "da/dd6/a15239.html", "da/dd6/a15239" ],
+    [ "instance_culling_of_stratholme", "dc/db6/a15235.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "dc/db6/a15235.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

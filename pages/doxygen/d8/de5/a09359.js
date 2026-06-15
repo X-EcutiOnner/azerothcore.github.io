@@ -1,11 +1,10 @@
 var a09359 =
 [
-    [ "~GridCell", "d8/de5/a09359.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d8/de5/a09359.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d8/de5/a09359.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d8/de5/a09359.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d8/de5/a09359.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d8/de5/a09359.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d8/de5/a09359.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d8/de5/a09359.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "creatureRate", "d8/de5/a09359.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "d8/de5/a09359.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "d8/de5/a09359.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "d8/de5/a09359.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "d8/de5/a09359.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "d8/de5/a09359.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "d8/de5/a09359.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

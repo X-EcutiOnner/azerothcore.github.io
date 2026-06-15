@@ -1,7 +1,6 @@
 var a17187 =
 [
-    [ "HandleEffectPeriodic", "d3/d41/a17187.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "d3/d41/a17187.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "d3/d41/a17187.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "d3/d41/a17187.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "FilterTargets", "d3/d41/a17187.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d3/d41/a17187.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d3/d41/a17187.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

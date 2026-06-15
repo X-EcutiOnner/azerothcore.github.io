@@ -1,8 +1,7 @@
 var a23167 =
 [
-    [ "npc_underbat", "d4/dc6/a23167.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d4/dc6/a23167.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d4/dc6/a23167.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d4/dc6/a23167.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d4/dc6/a23167.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "npc_underbog_mushroom", "d4/dc6/a23167.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d4/dc6/a23167.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d4/dc6/a23167.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d4/dc6/a23167.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

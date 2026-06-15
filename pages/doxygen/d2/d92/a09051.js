@@ -1,13 +1,8 @@
 var a09051 =
 [
-    [ "BuildValuesCachePosPointers", "d2/d92/a09051.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "d2/d92/a09051.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "d2/d92/a09051.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "d2/d92/a09051.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "d2/d92/a09051.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "d2/d92/a09051.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "d2/d92/a09051.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "d2/d92/a09051.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "d2/d92/a09051.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "d2/d92/a09051.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "DiminishingReturn", "d2/d92/a09051.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d2/d92/a09051.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d2/d92/a09051.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d2/d92/a09051.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d2/d92/a09051.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

@@ -1,7 +1,8 @@
 var a04901 =
 [
-    [ "DamageInfoStub", "d6/de2/a29208.html", "d6/de2/a29208" ],
-    [ "HealInfoStub", "dd/d34/a29212.html", "dd/d34/a29212" ],
-    [ "DamageInfoStubBuilder", "db/dbd/a29216.html", "db/dbd/a29216" ],
-    [ "HealInfoStubBuilder", "d7/dde/a29220.html", "d7/dde/a29220" ]
+    [ "CleanStringForMysqlQuery", "db/d24/a04901.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "db/d24/a04901.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "db/d24/a04901.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "db/d24/a04901.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "db/d24/a04901.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

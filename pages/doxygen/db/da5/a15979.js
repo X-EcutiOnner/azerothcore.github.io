@@ -1,8 +1,6 @@
 var a15979 =
 [
-    [ "npc_paoka_swiftmountainAI", "db/da5/a15979.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "db/da5/a15979.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "db/da5/a15979.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "db/da5/a15979.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
-    [ "WaypointReached", "db/da5/a15979.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "SpellId", "db/da5/a15979.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "db/da5/a15979.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "db/da5/a15979.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

@@ -1,6 +1,8 @@
 var a18759 =
 [
-    [ "HandleScript", "d6/dc5/a18759.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d6/dc5/a18759.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d6/dc5/a18759.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "npc_lk_spirit_bombAI", "d6/dc5/a18759.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "d6/dc5/a18759.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "d6/dc5/a18759.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "d6/dc5/a18759.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "d6/dc5/a18759.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

@@ -1,7 +1,12 @@
 var a17927 =
 [
-    [ "PrepareSpellScript", "d0/da6/a17927.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "d0/da6/a17927.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "d0/da6/a17927.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "d0/da6/a17927.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "gunship_npc_AI", "d0/da6/a17927.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d0/da6/a17927.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d0/da6/a17927.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d0/da6/a17927.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d0/da6/a17927.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d0/da6/a17927.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d0/da6/a17927.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d0/da6/a17927.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d0/da6/a17927.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

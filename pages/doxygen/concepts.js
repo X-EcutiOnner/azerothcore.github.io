@@ -1,6 +1,6 @@
 var concepts =
 [
-    [ "Acore", "db/d20/a05034.html", [
-      [ "AnyTypeList", "dc/d42/a29913.html", null ]
+    [ "Acore", "d3/d40/a05040.html", [
+      [ "AnyTypeList", "d8/d6d/a29992.html", null ]
     ] ]
 ];

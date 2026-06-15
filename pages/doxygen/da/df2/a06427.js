@@ -1,6 +1,6 @@
 var a06427 =
 [
-    [ "PlayerAI", "da/df2/a06427.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "da/df2/a06427.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "da/df2/a06427.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "NullGameObjectAI", "da/df2/a06427.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "da/df2/a06427.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "da/df2/a06427.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

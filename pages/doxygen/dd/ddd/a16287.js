@@ -1,10 +1,6 @@
 var a16287 =
 [
-    [ "HandleDummy", "dd/ddd/a16287.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "dd/ddd/a16287.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "dd/ddd/a16287.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "dd/ddd/a16287.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "dd/ddd/a16287.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "dd/ddd/a16287.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "dd/ddd/a16287.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "instance_ahnkahet_InstanceScript", "d6/d5b/a16291.html", "d6/d5b/a16291" ],
+    [ "instance_ahnkahet", "dd/ddd/a16287.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "dd/ddd/a16287.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

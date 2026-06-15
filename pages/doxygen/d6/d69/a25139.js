@@ -1,7 +1,6 @@
 var a25139 =
 [
-    [ "PrepareAuraScript", "d6/d69/a25139.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "d6/d69/a25139.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "d6/d69/a25139.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "d6/d69/a25139.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "PrepareSpellScript", "d6/d69/a25139.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d6/d69/a25139.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d6/d69/a25139.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

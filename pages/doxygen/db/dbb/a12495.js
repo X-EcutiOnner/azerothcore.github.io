@@ -1,8 +1,11 @@
 var a12495 =
 [
-    [ "CheckProc", "db/dbb/a12495.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "db/dbb/a12495.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "db/dbb/a12495.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "db/dbb/a12495.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "db/dbb/a12495.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "spectator_commandscript", "db/dbb/a12495.html#a1bf79d739a6af02405bc268c9bb50c26", null ],
+    [ "GetCommands", "db/dbb/a12495.html#a3451bcda07b51a33fd8368cf00ac190f", null ],
+    [ "HandleSpectatorCommand", "db/dbb/a12495.html#aaf331e54c3c19b5d16d9d5f5c9d28721", null ],
+    [ "HandleSpectatorLeaveCommand", "db/dbb/a12495.html#a15e661891f4e08c3efa0bd844c3954aa", null ],
+    [ "HandleSpectatorResetCommand", "db/dbb/a12495.html#a23a1a3740609a6d0caa6e0f10c7e8653", null ],
+    [ "HandleSpectatorSpectateCommand", "db/dbb/a12495.html#ad1f117a77c0154fc25e937dfe21870a2", null ],
+    [ "HandleSpectatorVersionCommand", "db/dbb/a12495.html#aaf7c57603d263f7ab919f12d9680f058", null ],
+    [ "HandleSpectatorWatchCommand", "db/dbb/a12495.html#a1ee822e332374b375962d1ae87adbc61", null ]
 ];

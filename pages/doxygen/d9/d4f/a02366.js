@@ -1,9 +1,7 @@
 var a02366 =
 [
-    [ "DatabaseScript", "d7/d7b/a10650.html", "d7/d7b/a10650" ],
-    [ "DatabaseHook", "d9/d4f/a02366.html#a5f7dd71299279ad5a845d4d4030e707e", [
-      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d9/d4f/a02366.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
-      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d9/d4f/a02366.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
-      [ "DATABASEHOOK_END", "d9/d4f/a02366.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
-    ] ]
+    [ "Acore::Impl::ChatCommands::FilteredCommandListIterator", "d3/da4/a07871.html", "d3/da4/a07871" ],
+    [ "ChatSubCommandMap", "d9/d4f/a02366.html#a306b7e46fd4791f088a8919720238f3d", null ],
+    [ "LogCommandUsage", "d9/d4f/a02366.html#a8dc2bbcf5b90559262a46829632f332e", null ],
+    [ "COMMAND_MAP", "d9/d4f/a02366.html#a569e79432c3876f4ac0b961e8a783003", null ]
 ];

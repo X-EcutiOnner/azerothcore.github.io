@@ -1,9 +1,5 @@
 var a20539 =
 [
-    [ "npc_xt002_scrapbot", "d6/dd6/a20539.html#a0c7270ccbac5c12af8aaec998408046f", null ],
-    [ "JustDied", "d6/dd6/a20539.html#ac6c9cf84bf11e31bcaf620d4c92fa3d0", null ],
-    [ "MovementInform", "d6/dd6/a20539.html#a7c167b396927f73736531b53056bc262", null ],
-    [ "Reset", "d6/dd6/a20539.html#aa9753f72910da1bb56a090e77fc029fb", null ],
-    [ "UpdateAI", "d6/dd6/a20539.html#a3f5cffc3225ced1ccdf3fc0964cc2c05", null ],
-    [ "_locked", "d6/dd6/a20539.html#aaa4e129ebea658b0f2e224e024f6010f", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d6/dd6/a20539.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d6/dd6/a20539.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

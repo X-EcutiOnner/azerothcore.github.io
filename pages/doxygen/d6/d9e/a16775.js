@@ -1,7 +1,6 @@
 var a16775 =
 [
-    [ "npc_toc_rogueAI", "d6/d9e/a16775.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "d6/d9e/a16775.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "d6/d9e/a16775.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "d6/d9e/a16775.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_nerubian_burrowerAI", "db/d42/a16779.html", "db/d42/a16779" ],
+    [ "npc_nerubian_burrower", "d6/d9e/a16775.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
+    [ "GetAI", "d6/d9e/a16775.html#a145ebac6f95f9190429b9bfa37e23312", null ]
 ];

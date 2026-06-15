@@ -1,9 +1,9 @@
 var a17279 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/dd7/a17279.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d2/dd7/a17279.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d2/dd7/a17279.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d2/dd7/a17279.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d2/dd7/a17279.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d2/dd7/a17279.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_hor_spiritual_reflection", "d2/dd7/a17279.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
+    [ "EnterEvadeMode", "d2/dd7/a17279.html#a3973e83b013df723849939635071324f", null ],
+    [ "JustDied", "d2/dd7/a17279.html#a913d17e1534a5940b7841e38eae246f7", null ],
+    [ "JustEngagedWith", "d2/dd7/a17279.html#ad47d12654c88cc94b7c17906e4096115", null ],
+    [ "Reset", "d2/dd7/a17279.html#aa7dad28bbe53286ec298ba5480717e69", null ],
+    [ "UpdateAI", "d2/dd7/a17279.html#a5093b6502bca95c22b2b0f0117f86047", null ]
 ];

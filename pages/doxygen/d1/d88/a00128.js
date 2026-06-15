@@ -1,11 +1,13 @@
 var a00128 =
 [
-    [ "npc_king_magni_bronzebeard", "dc/df4/a13972.html", "dc/df4/a13972" ],
-    [ "KingMagniBronzebeard", "d1/d88/a00128.html#a4b1dfd5f3e79f13d25d2d89aa1469c3e", [
-      [ "SOUND_AGGRO", "d1/d88/a00128.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eae72b4b8d8a4056153794ae9fbdaf67aa", null ],
-      [ "SPELL_AVATAR", "d1/d88/a00128.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea28574d4484fa9dddb63e423dc7194e35", null ],
-      [ "SPELL_KNOCK_AWAY", "d1/d88/a00128.html#a4b1dfd5f3e79f13d25d2d89aa1469c3eaa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "SPELL_STORM_BOLT", "d1/d88/a00128.html#a4b1dfd5f3e79f13d25d2d89aa1469c3ea49fdaa9564ae9ef8ef83312a3d3118e2", null ]
-    ] ],
-    [ "AddSC_ironforge", "d1/d88/a00128.html#aa2f983b337fe1f23e428542f1d26d0c2", null ]
+    [ "GameObjectSummonGroupTest", "d1/def/a29551.html", "d1/def/a29551" ],
+    [ "TEST_F", "d1/d88/a00128.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
+    [ "TEST_F", "d1/d88/a00128.html#aae7159cdf8db068232caa791b826eb7a", null ],
+    [ "TEST_F", "d1/d88/a00128.html#ab7d11f87ee9e631646024c59d17e4476", null ],
+    [ "TEST_F", "d1/d88/a00128.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
+    [ "TEST_F", "d1/d88/a00128.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
+    [ "TEST_F", "d1/d88/a00128.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
+    [ "TEST_F", "d1/d88/a00128.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
+    [ "TEST_F", "d1/d88/a00128.html#a0e990a163a2003f6224aa808aeb46965", null ],
+    [ "TEST_F", "d1/d88/a00128.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
 ];

@@ -1,6 +1,5 @@
 var a15527 =
 [
-    [ "HandleOnHit", "dc/d4f/a15527.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "dc/d4f/a15527.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "dc/d4f/a15527.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "boss_vem", "dc/d4f/a15527.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
+    [ "JustEngagedWith", "dc/d4f/a15527.html#ae4b7fa599d31155bdee566b31c60b237", null ]
 ];

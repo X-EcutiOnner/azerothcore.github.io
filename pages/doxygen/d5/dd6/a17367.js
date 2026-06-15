@@ -1,6 +1,6 @@
 var a17367 =
 [
-    [ "entry", "d5/dd6/a17367.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d5/dd6/a17367.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d5/dd6/a17367.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "boss_tyrannusAI", "d3/dc3/a17371.html", "d3/dc3/a17371" ],
+    [ "boss_tyrannus", "d5/dd6/a17367.html#a81373192ffea8817cb72b80f4629da43", null ],
+    [ "GetAI", "d5/dd6/a17367.html#ad107030de1427d070305f5dcef96c016", null ]
 ];

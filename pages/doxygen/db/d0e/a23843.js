@@ -1,6 +1,5 @@
 var a23843 =
 [
-    [ "CheckCast", "db/d0e/a23843.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "db/d0e/a23843.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "db/d0e/a23843.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "go_warmaul_prison", "db/d0e/a23843.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "db/d0e/a23843.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

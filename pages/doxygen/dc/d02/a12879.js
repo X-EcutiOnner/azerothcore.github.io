@@ -1,12 +1,18 @@
 var a12879 =
 [
-    [ "BoardCell", "dc/d02/a12879.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "dc/d02/a12879.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "dc/d02/a12879.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "dc/d02/a12879.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "dc/d02/a12879.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "dc/d02/a12879.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "dc/d02/a12879.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "dc/d02/a12879.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "dc/d02/a12879.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "boss_vaelastrasz", "dc/d02/a12879.html#a34f13f4de3f268c8fe034e8577186966", null ],
+    [ "BeginSpeech", "dc/d02/a12879.html#aa6bbbbe76f890112fc1d2e4cd4159346", null ],
+    [ "Initialize", "dc/d02/a12879.html#a8b3356d4fcc6c17c097890bbd98947d5", null ],
+    [ "JustEngagedWith", "dc/d02/a12879.html#ac742f8acce5060e5496f43900b1e3cc0", null ],
+    [ "JustSummoned", "dc/d02/a12879.html#a73f72d397a277301d1b5e2020f0f6146", null ],
+    [ "KilledUnit", "dc/d02/a12879.html#abff4fd6f7f15771b8fccabf4f633c067", null ],
+    [ "Reset", "dc/d02/a12879.html#ac496730fdeb5e55c125a1880626c76e4", null ],
+    [ "sGossipSelect", "dc/d02/a12879.html#ae25b1d667393f9af0f3424137d78a9d0", null ],
+    [ "UpdateAI", "dc/d02/a12879.html#a7a78dd37d5055212cc6d23dc3d831d6d", null ],
+    [ "_burningAdrenalineCast", "dc/d02/a12879.html#acb5c8baf13a39d560447f3e16f07966c", null ],
+    [ "_eventsIntro", "dc/d02/a12879.html#a7e3fb2f93d36789d1e123a73c619de23", null ],
+    [ "_introDone", "dc/d02/a12879.html#a3d0d4ee1c9a47715e22f3567783dd11e", null ],
+    [ "HasYelled", "dc/d02/a12879.html#aa73cdc2f26c0710d5d917c4f787a1793", null ],
+    [ "m_nefariusGuid", "dc/d02/a12879.html#ae1a22491288380cb50264a51e0b624f6", null ],
+    [ "PlayerGUID", "dc/d02/a12879.html#a8ba86f17a35448edd8d98f49c7d16fa6", null ]
 ];

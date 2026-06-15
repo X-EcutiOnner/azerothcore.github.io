@@ -1,9 +1,11 @@
 var a18311 =
 [
-    [ "AfterApply", "d9/d25/a18311.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "d9/d25/a18311.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "d9/d25/a18311.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "d9/d25/a18311.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "d9/d25/a18311.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "d9/d25/a18311.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "npc_little_oozeAI", "d9/d25/a18311.html#a6fb3ac6e3f2c39b96ee4fe265e4940dd", null ],
+    [ "EnterEvadeMode", "d9/d25/a18311.html#a0bd4bfcc8c373a449f297011289e5530", null ],
+    [ "IsSummonedBy", "d9/d25/a18311.html#afb9763ade36bd742398a8bca961c136b", null ],
+    [ "JustDied", "d9/d25/a18311.html#a37e5898e3dc1704be9fba2178567fd2a", null ],
+    [ "UpdateAI", "d9/d25/a18311.html#a6ee56789d528c2b6dcb04abaff6806cb", null ],
+    [ "events", "d9/d25/a18311.html#aa0d2113458887b73fe2af36f9d3ab0f1", null ],
+    [ "firstUpdate", "d9/d25/a18311.html#aa3aca24bc97bcd9a2030fccf6782cf9c", null ],
+    [ "instance", "d9/d25/a18311.html#a8a4ec828f144f071c0c6f2bf48b69cc0", null ]
 ];

@@ -1,9 +1,7 @@
 var a15447 =
 [
-    [ "boss_fankriss", "d5/d17/a15447.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d5/d17/a15447.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d5/d17/a15447.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d5/d17/a15447.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d5/d17/a15447.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d5/d17/a15447.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "go_sand_trap", "d5/d17/a15447.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d5/d17/a15447.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d5/d17/a15447.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d5/d17/a15447.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

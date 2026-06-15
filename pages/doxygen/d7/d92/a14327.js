@@ -1,7 +1,8 @@
 var a14327 =
 [
-    [ "HandleScriptEffect", "d7/d92/a14327.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d7/d92/a14327.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d7/d92/a14327.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d7/d92/a14327.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "npc_zulaman_hostageAI", "da/dba/a14331.html", "da/dba/a14331" ],
+    [ "npc_zulaman_hostage", "d7/d92/a14327.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d7/d92/a14327.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d7/d92/a14327.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d7/d92/a14327.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

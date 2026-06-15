@@ -1,8 +1,6 @@
 var a01262 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "dc/d26/a28284.html", "dc/d26/a28284" ],
-    [ "ApprenticeAnglerQuestEnum", "d3/d53/a01262.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
-      [ "QUEST_APPRENTICE_ANGLER", "d3/d53/a01262.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
-    ] ],
-    [ "AddSC_player_scripts", "d3/d53/a01262.html#a1f476a8466c12651b57fd55bf13b9617", null ]
+    [ "instance_culling_of_stratholme", "dc/db6/a15235.html", "dc/db6/a15235" ],
+    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "da/dd6/a15239.html", "da/dd6/a15239" ],
+    [ "AddSC_instance_culling_of_stratholme", "d3/d53/a01262.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
 ];

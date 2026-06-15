@@ -1,6 +1,6 @@
 var a15599 =
 [
-    [ "npc_muglashAI", "d6/d2b/a15603.html", "d6/d2b/a15603" ],
-    [ "npc_muglash", "d8/d27/a15599.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d8/d27/a15599.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "FilterTargets", "d8/d27/a15599.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d8/d27/a15599.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d8/d27/a15599.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

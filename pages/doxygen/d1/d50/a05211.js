@@ -1,4 +1,5 @@
 var a05211 =
 [
-    [ "operator()", "d1/d50/a05211.html#a21f61d591d9d7b7efd797905cbb15d13", null ]
+    [ "GetBounds", "d1/d50/a05211.html#aad63d9f5960111e34b0a3005e2c51d0f", null ],
+    [ "GetBounds2", "d1/d50/a05211.html#adcedbb1fa73310dff07fb945793fb23e", null ]
 ];

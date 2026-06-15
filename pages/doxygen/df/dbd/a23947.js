@@ -1,5 +1,7 @@
 var a23947 =
 [
-    [ "go_crystal_prison", "df/dbd/a23947.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "df/dbd/a23947.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "o", "df/dbd/a23947.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "df/dbd/a23947.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "df/dbd/a23947.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "df/dbd/a23947.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

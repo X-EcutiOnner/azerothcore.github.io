@@ -1,6 +1,6 @@
 var a17099 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d5/dfd/a17103.html", "d5/dfd/a17103" ],
-    [ "instance_forge_of_souls", "dc/d66/a17099.html#a504896f6e191c87ce77231c4ef267b27", null ],
-    [ "GetInstanceScript", "dc/d66/a17099.html#a64982b527cfa6057315b8e628549480b", null ]
+    [ "HandleEffectApply", "dc/d66/a17099.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "dc/d66/a17099.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "dc/d66/a17099.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

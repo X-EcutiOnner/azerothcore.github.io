@@ -1,10 +1,8 @@
 var a19607 =
 [
-    [ "npc_oculus_drakegiverAI", "d2/d41/a19611.html", "d2/d41/a19611" ],
-    [ "npc_oculus_drakegiver", "da/db8/a19607.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "da/db8/a19607.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "da/db8/a19607.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "da/db8/a19607.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "da/db8/a19607.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "da/db8/a19607.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
+    [ "Load", "da/db8/a19607.html#af8ef90a44a5405e58dbb3003642c078b", null ],
+    [ "PrepareSpellScript", "da/db8/a19607.html#a40649371440d62e4ba8af1b077880d0b", null ],
+    [ "Register", "da/db8/a19607.html#ae2e6dbec0ace878477b6024e45d8dac0", null ],
+    [ "SendThreeTargets", "da/db8/a19607.html#ab16b83839ce9136da84691640020f846", null ],
+    [ "Validate", "da/db8/a19607.html#a27686bfd0d6029cc4667738b0af4bec4", null ]
 ];

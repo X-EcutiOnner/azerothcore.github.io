@@ -1,8 +1,7 @@
 var a22107 =
 [
-    [ "go_wg_vehicle_teleporterAI", "dd/d72/a22107.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "dd/d72/a22107.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "dd/d72/a22107.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "dd/d72/a22107.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "dd/d72/a22107.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "HandleScript", "dd/d72/a22107.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
+    [ "PrepareSpellScript", "dd/d72/a22107.html#a8400fb2e0955444aee21b994d78b78c3", null ],
+    [ "Register", "dd/d72/a22107.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
+    [ "Validate", "dd/d72/a22107.html#aa9c2280cbb38db2620db9869e4959153", null ]
 ];

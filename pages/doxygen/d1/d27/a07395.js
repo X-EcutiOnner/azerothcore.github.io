@@ -1,12 +1,9 @@
 var a07395 =
 [
-    [ "Type", "d1/d27/a07395.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "d1/d27/a07395.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "d1/d27/a07395.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "d1/d27/a07395.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "d1/d27/a07395.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "d1/d27/a07395.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "d1/d27/a07395.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "d1/d27/a07395.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "ObjectGuidVector", "d1/d27/a07395.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "d1/d27/a07395.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "d1/d27/a07395.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "d1/d27/a07395.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "d1/d27/a07395.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "d1/d27/a07395.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

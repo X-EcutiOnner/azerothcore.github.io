@@ -1,7 +1,20 @@
 var a23851 =
 [
-    [ "CheckRequirement", "d5/d23/a23851.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d5/d23/a23851.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d5/d23/a23851.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d5/d23/a23851.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_captain_saeedAI", "d5/d23/a23851.html#a794f43bb0e26fffe7bb74cb8fe3a42a6", null ],
+    [ "CorpseRemoved", "d5/d23/a23851.html#aca7fa593af007f1ca0c49156336c0fe3", null ],
+    [ "EnterEvadeMode", "d5/d23/a23851.html#a8e48660d5f0349572bb5d7a760e0afc0", null ],
+    [ "GetData", "d5/d23/a23851.html#a5e9999a3a8dcce054e9f2f5f367318d1", null ],
+    [ "JustDied", "d5/d23/a23851.html#a72e72ced5223360eea3b511de988b2bd", null ],
+    [ "JustEngagedWith", "d5/d23/a23851.html#abbe76c4dbe8292e3ec00cb0f396b7da8", null ],
+    [ "MoveInLineOfSight", "d5/d23/a23851.html#a92e8d7c84407a16d608a163cb8dadc6e", null ],
+    [ "Reset", "d5/d23/a23851.html#aae80afee1e69e188264e04ba12b00682", null ],
+    [ "SetGUID", "d5/d23/a23851.html#a4a50d7299d5d2b7a6756781dca62b624", null ],
+    [ "SummonsAction", "d5/d23/a23851.html#a7ffef7c2b998062ecc3544b2b8508a4c", null ],
+    [ "UpdateAI", "d5/d23/a23851.html#a2e3fd3ec84807f5b35ba6745c5ca7788", null ],
+    [ "WaypointReached", "d5/d23/a23851.html#a2af760112f66b315ee36ecc2c4205d44", null ],
+    [ "WaypointReached", "d5/d23/a23851.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d5/d23/a23851.html#a3e48ae282cea46e17e9558864f87aa3b", null ],
+    [ "fight", "d5/d23/a23851.html#a19f52a735bbd742862a417fb3adb23a2", null ],
+    [ "started", "d5/d23/a23851.html#a30299a3d26b5e6d4ff56b48754f0023c", null ],
+    [ "summons", "d5/d23/a23851.html#a5b82a1e7e182e67338e5aeca3b678ea7", null ]
 ];

@@ -1,6 +1,6 @@
 var a10991 =
 [
-    [ "GuildOfficerRemoveMember", "d9/d45/a10991.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d9/d45/a10991.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d9/d45/a10991.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildUpdateMotdText", "d9/d45/a10991.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d9/d45/a10991.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d9/d45/a10991.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

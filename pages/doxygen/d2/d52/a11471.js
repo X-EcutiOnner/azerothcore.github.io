@@ -1,11 +1,7 @@
 var a11471 =
 [
-    [ "OptionalData", "df/dab/a11475.html", "df/dab/a11475" ],
-    [ "ArrivalTicks", "d2/d52/a11471.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
-    [ "ConnectionId", "d2/d52/a11471.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
-    [ "Direction", "d2/d52/a11471.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
-    [ "Length", "d2/d52/a11471.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
-    [ "Opcode", "d2/d52/a11471.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
-    [ "OptionalData", "d2/d52/a11471.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
-    [ "OptionalDataSize", "d2/d52/a11471.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
+    [ "PetActionSound", "d2/d52/a11471.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d2/d52/a11471.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d2/d52/a11471.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d2/d52/a11471.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

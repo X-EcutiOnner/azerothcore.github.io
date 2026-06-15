@@ -1,7 +1,7 @@
 var a06215 =
 [
-    [ "SpellTargetSelector", "d0/d65/a06215.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "d0/d65/a06215.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "d0/d65/a06215.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "d0/d65/a06215.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "UpdateException", "d0/d65/a06215.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "d0/d65/a06215.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "d0/d65/a06215.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "d0/d65/a06215.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

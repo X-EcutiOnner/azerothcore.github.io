@@ -1,6 +1,6 @@
 var a10655 =
 [
-    [ "LootScript", "d3/de6/a10655.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d3/de6/a10655.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d3/de6/a10655.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "BattlegroundMapScript", "d3/de6/a10655.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
+    [ "checkValidity", "d3/de6/a10655.html#a90584770132eb71cffc6e25a674750ad", null ],
+    [ "isAfterLoadScript", "d3/de6/a10655.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
 ];

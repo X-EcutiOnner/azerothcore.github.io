@@ -1,8 +1,6 @@
 var a20695 =
 [
-    [ "Absorb", "d6/d30/a20695.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d6/d30/a20695.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d6/d30/a20695.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d6/d30/a20695.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d6/d30/a20695.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "PrepareSpellScript", "d6/d30/a20695.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "d6/d30/a20695.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "d6/d30/a20695.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

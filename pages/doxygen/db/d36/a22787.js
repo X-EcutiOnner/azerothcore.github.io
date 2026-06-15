@@ -1,6 +1,6 @@
 var a22787 =
 [
-    [ "HandleScriptEffect", "db/d36/a22787.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "db/d36/a22787.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "db/d36/a22787.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "PrepareSpellScript", "db/d36/a22787.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "db/d36/a22787.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "db/d36/a22787.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

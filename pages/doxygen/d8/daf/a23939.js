@@ -1,6 +1,5 @@
 var a23939 =
 [
-    [ "npc_illidari_spawnAI", "de/dfb/a23943.html", "de/dfb/a23943" ],
-    [ "npc_illidari_spawn", "d8/daf/a23939.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "d8/daf/a23939.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "npc_karynaku", "d8/daf/a23939.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
+    [ "OnQuestAccept", "d8/daf/a23939.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
 ];

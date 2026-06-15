@@ -1,6 +1,7 @@
 var a18411 =
 [
-    [ "LichKingDeathEvent", "d0/d43/a18411.html#a9aa328b60358034355b1eed5caacb9f8", null ],
-    [ "Execute", "d0/d43/a18411.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
-    [ "_owner", "d0/d43/a18411.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
+    [ "OnRemove", "d0/d43/a18411.html#aa096174465120bde1994c85f72682be1", null ],
+    [ "PrepareAuraScript", "d0/d43/a18411.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
+    [ "Register", "d0/d43/a18411.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
+    [ "Validate", "d0/d43/a18411.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
 ];

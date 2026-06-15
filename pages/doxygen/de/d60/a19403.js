@@ -1,6 +1,6 @@
 var a19403 =
 [
-    [ "npc_teslaAI", "d2/db4/a19407.html", "d2/db4/a19407" ],
-    [ "npc_tesla", "de/d60/a19403.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "de/d60/a19403.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "boss_kelthuzadAI", "d2/db4/a19407.html", "d2/db4/a19407" ],
+    [ "boss_kelthuzad", "de/d60/a19403.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
+    [ "GetAI", "de/d60/a19403.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
 ];

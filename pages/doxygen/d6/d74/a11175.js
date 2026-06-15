@@ -1,9 +1,7 @@
 var a11175 =
 [
-    [ "EnchantmentLog", "d6/d74/a11175.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d6/d74/a11175.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d6/d74/a11175.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d6/d74/a11175.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d6/d74/a11175.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d6/d74/a11175.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "InstanceResetFailed", "d6/d74/a11175.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d6/d74/a11175.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d6/d74/a11175.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d6/d74/a11175.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

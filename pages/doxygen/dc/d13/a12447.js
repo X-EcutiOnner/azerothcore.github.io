@@ -1,6 +1,9 @@
 var a12447 =
 [
-    [ "boss_hedrum", "dc/d13/a12447.html#adf610c943b7644aa2805934f54571492", null ],
-    [ "JustEngagedWith", "dc/d13/a12447.html#a18dd15e991417b68569b5a0e93499c0f", null ],
-    [ "UpdateAI", "dc/d13/a12447.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
+    [ "pool_commandscript", "dc/d13/a12447.html#a41308abbe25e1e50325923f62f2fa3af", null ],
+    [ "GetCommands", "dc/d13/a12447.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
+    [ "HandlePoolInfoCommand", "dc/d13/a12447.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
+    [ "HandlePoolLookupCommand", "dc/d13/a12447.html#a377a405a1dae394c6f17579c0f2751eb", null ],
+    [ "ListPoolMembers", "dc/d13/a12447.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
+    [ "StatusTag", "dc/d13/a12447.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
 ];

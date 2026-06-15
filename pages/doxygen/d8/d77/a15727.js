@@ -1,6 +1,5 @@
 var a15727 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d8/d77/a15727.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "d8/d77/a15727.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "d8/d77/a15727.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "at_battleguard_sartura", "d8/d77/a15727.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "d8/d77/a15727.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

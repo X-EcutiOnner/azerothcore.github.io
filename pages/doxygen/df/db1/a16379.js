@@ -1,13 +1,7 @@
 var a16379 =
 [
-    [ "boss_twilight_halionAI", "df/db1/a16379.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "df/db1/a16379.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "df/db1/a16379.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "df/db1/a16379.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "df/db1/a16379.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "df/db1/a16379.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "df/db1/a16379.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "df/db1/a16379.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "df/db1/a16379.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "df/db1/a16379.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "OnRemove", "df/db1/a16379.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "df/db1/a16379.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "df/db1/a16379.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "df/db1/a16379.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

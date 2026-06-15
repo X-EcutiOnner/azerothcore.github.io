@@ -1,5 +1,10 @@
 var a00641 =
 [
-    [ "spectator_commandscript", "db/d8a/a12420.html", "db/d8a/a12420" ],
-    [ "AddSC_spectator_commandscript", "db/d3a/a00641.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
+    [ "spell_razelikh_teleport_group", "db/d80/a13971.html", "db/d80/a13971" ],
+    [ "DeathlyUsher", "db/d3a/a00641.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
+      [ "SPELL_TELEPORT_SINGLE", "db/d3a/a00641.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
+      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "db/d3a/a00641.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
+      [ "SPELL_TELEPORT_GROUP", "db/d3a/a00641.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    ] ],
+    [ "AddSC_blasted_lands", "db/d3a/a00641.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
 ];

@@ -1,6 +1,6 @@
 var a17671 =
 [
-    [ "ModAuraValue", "df/d5c/a17671.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "df/d5c/a17671.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "df/d5c/a17671.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "ModAuraStack", "df/d5c/a17671.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "df/d5c/a17671.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "df/d5c/a17671.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

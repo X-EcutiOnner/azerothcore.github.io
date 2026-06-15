@@ -1,6 +1,6 @@
 var a15219 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d8/df1/a15223.html", "d8/df1/a15223" ],
-    [ "instance_ragefire_chasm", "db/d62/a15219.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "db/d62/a15219.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "npc_cos_chromie_start", "db/d62/a15219.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "db/d62/a15219.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
+    [ "OnQuestAccept", "db/d62/a15219.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
 ];

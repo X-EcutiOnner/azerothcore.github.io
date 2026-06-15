@@ -1,10 +1,15 @@
 var a06419 =
 [
-    [ "RangeSelector", "d3/d9c/a06419.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "d3/d9c/a06419.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "d3/d9c/a06419.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "d3/d9c/a06419.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "d3/d9c/a06419.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "d3/d9c/a06419.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "d3/d9c/a06419.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "VehicleAI", "d3/d9c/a06419.html#aeb8d08eeea0ac12a72ff5dbaf40e9835", null ],
+    [ "AttackStart", "d3/d9c/a06419.html#ad06972054ef4525411e859d291226783", null ],
+    [ "CheckConditions", "d3/d9c/a06419.html#afcee52b5173ec8b9850da63c1d58cded", null ],
+    [ "LoadConditions", "d3/d9c/a06419.html#a2c49067fa9953ba4db4cc6b03a7a9fb0", null ],
+    [ "MoveInLineOfSight", "d3/d9c/a06419.html#a48213b69fa4f0034cdc3cd60841d0636", null ],
+    [ "OnCharmed", "d3/d9c/a06419.html#a2a593f895c6296c4100af075d971b5b3", null ],
+    [ "Permissible", "d3/d9c/a06419.html#a39ad0764dce6586aef86fcd96c2c221c", null ],
+    [ "UpdateAI", "d3/d9c/a06419.html#aac593372592d33fa008a66c6dcec1840", null ],
+    [ "conditions", "d3/d9c/a06419.html#ae95dc46465404271faaae4b2dc61277a", null ],
+    [ "m_ConditionsTimer", "d3/d9c/a06419.html#a3a46c5f18b019852460170e1200b11b4", null ],
+    [ "m_DismissTimer", "d3/d9c/a06419.html#a34000f32495dbee3a550147e1e86d761", null ],
+    [ "m_DoDismiss", "d3/d9c/a06419.html#a505c1bacb159950e19518ad3b5740a3e", null ]
 ];

@@ -1,7 +1,9 @@
 var a16427 =
 [
-    [ "HandleScriptEffect", "d0/ddf/a16427.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d0/ddf/a16427.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d0/ddf/a16427.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d0/ddf/a16427.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d0/ddf/a16427.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/ddf/a16427.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d0/ddf/a16427.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d0/ddf/a16427.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d0/ddf/a16427.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d0/ddf/a16427.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

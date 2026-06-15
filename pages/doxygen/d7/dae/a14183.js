@@ -1,12 +1,9 @@
 var a14183 =
 [
-    [ "npc_forest_frog", "d7/dae/a14183.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d7/dae/a14183.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d7/dae/a14183.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d7/dae/a14183.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d7/dae/a14183.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d7/dae/a14183.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "d7/dae/a14183.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d7/dae/a14183.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d7/dae/a14183.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "npc_thrall_bfuAI", "df/d15/a14187.html", "df/d15/a14187" ],
+    [ "npc_thrall_bfu", "d7/dae/a14183.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d7/dae/a14183.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d7/dae/a14183.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d7/dae/a14183.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d7/dae/a14183.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

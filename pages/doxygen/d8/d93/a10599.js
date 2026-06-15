@@ -1,5 +1,6 @@
 var a10599 =
 [
-    [ "FactoryCreatureScript", "d8/d93/a10599.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d8/d93/a10599.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "ALEScript", "d8/d93/a10599.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "d8/d93/a10599.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "d8/d93/a10599.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

@@ -1,16 +1,6 @@
 var a16535 =
 [
-    [ "npc_argent_soldierAI", "da/dd3/a16535.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
-    [ "DamageTaken", "da/dd3/a16535.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
-    [ "JustDied", "da/dd3/a16535.html#aedf4dcd909c1009fedfde593522454ec", null ],
-    [ "JustEngagedWith", "da/dd3/a16535.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
-    [ "Reset", "da/dd3/a16535.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
-    [ "SetData", "da/dd3/a16535.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
-    [ "UpdateAI", "da/dd3/a16535.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
-    [ "WaypointReached", "da/dd3/a16535.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
-    [ "WaypointReached", "da/dd3/a16535.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bCheck", "da/dd3/a16535.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
-    [ "events", "da/dd3/a16535.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
-    [ "pInstance", "da/dd3/a16535.html#ac9951514f27f343ae96e856f484e7baf", null ],
-    [ "uiWaypoint", "da/dd3/a16535.html#a87382571221c608017fd2d4cb99193dc", null ]
+    [ "HandleForceCast", "da/dd3/a16535.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "da/dd3/a16535.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "da/dd3/a16535.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

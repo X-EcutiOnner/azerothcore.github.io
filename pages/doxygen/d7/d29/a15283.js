@@ -1,8 +1,9 @@
 var a15283 =
 [
-    [ "HandleScript", "d7/d29/a15283.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d7/d29/a15283.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d7/d29/a15283.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d7/d29/a15283.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d7/d29/a15283.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "boss_chrono_lord_deja", "d7/d29/a15283.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "d7/d29/a15283.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "d7/d29/a15283.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "d7/d29/a15283.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "d7/d29/a15283.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "d7/d29/a15283.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

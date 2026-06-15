@@ -1,6 +1,7 @@
 var a18151 =
 [
-    [ "FilterTargetsInitial", "d6/dcd/a18151.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d6/dcd/a18151.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d6/dcd/a18151.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandleScriptEffect", "d6/dcd/a18151.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d6/dcd/a18151.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d6/dcd/a18151.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d6/dcd/a18151.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

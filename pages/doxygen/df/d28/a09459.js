@@ -1,9 +1,9 @@
 var a09459 =
 [
-    [ "VisibleChangesNotifier", "df/d28/a09459.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
-    [ "Visit", "df/d28/a09459.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
-    [ "Visit", "df/d28/a09459.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
-    [ "Visit", "df/d28/a09459.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
-    [ "Visit", "df/d28/a09459.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
-    [ "i_object", "df/d28/a09459.html#a496b982d081957cfc288f29b99b8739d", null ]
+    [ "GridReference", "df/d28/a09459.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "df/d28/a09459.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "df/d28/a09459.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "df/d28/a09459.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "df/d28/a09459.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "df/d28/a09459.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

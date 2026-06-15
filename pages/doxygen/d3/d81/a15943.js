@@ -1,6 +1,10 @@
 var a15943 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
-    [ "npc_taskmaster_fizzule", "d3/d81/a15943.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d3/d81/a15943.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npc_omenAI", "d3/d81/a15943.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d3/d81/a15943.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d3/d81/a15943.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d3/d81/a15943.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d3/d81/a15943.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d3/d81/a15943.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d3/d81/a15943.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

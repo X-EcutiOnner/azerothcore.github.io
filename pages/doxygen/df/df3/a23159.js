@@ -1,6 +1,5 @@
 var a23159 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dd/d0b/a23163.html", "dd/d0b/a23163" ],
-    [ "instance_the_underbog", "df/df3/a23159.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "df/df3/a23159.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "at_underbog_ghazan", "df/df3/a23159.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "df/df3/a23159.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

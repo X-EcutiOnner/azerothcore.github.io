@@ -1,6 +1,8 @@
 var a13755 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d7/da4/a13755.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d7/da4/a13755.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d7/da4/a13755.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "HandleApply", "d7/da4/a13755.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d7/da4/a13755.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d7/da4/a13755.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d7/da4/a13755.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d7/da4/a13755.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

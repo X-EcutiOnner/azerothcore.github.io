@@ -1,28 +1,8 @@
 var a15715 =
 [
-    [ "npc_cork_gizeltonAI", "df/d51/a15715.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
-    [ "CheckCaravan", "df/d51/a15715.html#aa0d89f971b6e210d8550e89839e28f44", null ],
-    [ "CheckPlayer", "df/d51/a15715.html#acd3edee41c80992ee97130eac6912c18", null ],
-    [ "EnterEvadeMode", "df/d51/a15715.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
-    [ "ImmuneFlagSet", "df/d51/a15715.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
-    [ "Initialize", "df/d51/a15715.html#a91131055a31dc828ccb2e3ba087d5062", null ],
-    [ "InitializeAI", "df/d51/a15715.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
-    [ "JustDied", "df/d51/a15715.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
-    [ "JustRespawned", "df/d51/a15715.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
-    [ "RelocateSummons", "df/d51/a15715.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
-    [ "RemoveSummons", "df/d51/a15715.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
-    [ "SetData", "df/d51/a15715.html#a26576302fc0f6897d604030431651908", null ],
-    [ "SetGUID", "df/d51/a15715.html#a280f23ef905d43679562fc24466582f3", null ],
-    [ "SummonedCreatureDespawn", "df/d51/a15715.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
-    [ "SummonedCreatureDies", "df/d51/a15715.html#a85cd2486bad6cda8867eba29538842e9", null ],
-    [ "SummonHelpers", "df/d51/a15715.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
-    [ "SummonsFollow", "df/d51/a15715.html#a81a72db27d196b2fb6696b6466d26449", null ],
-    [ "UpdateEscortAI", "df/d51/a15715.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
-    [ "WaypointReached", "df/d51/a15715.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
-    [ "WaypointReached", "df/d51/a15715.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_faction", "df/d51/a15715.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
-    [ "_playerGUID", "df/d51/a15715.html#a94277075d53a9d9115894e3bf378d106", null ],
-    [ "events", "df/d51/a15715.html#a251f091e5b314341c8e5131bf38188f0", null ],
-    [ "headNorth", "df/d51/a15715.html#aace73f2e878ebaf30634431f9f1068ab", null ],
-    [ "summons", "df/d51/a15715.html#a9af9323b3bf6df4a85445d9859609c78", null ]
+    [ "npc_ahnqiraji_critter", "df/d51/a15715.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "df/d51/a15715.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "df/d51/a15715.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "df/d51/a15715.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "df/d51/a15715.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

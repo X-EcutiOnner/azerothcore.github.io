@@ -1,5 +1,6 @@
 var a20147 =
 [
-    [ "achievement_smell_saronite", "d1/df2/a20147.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d1/df2/a20147.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "HandleScript", "d1/df2/a20147.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d1/df2/a20147.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d1/df2/a20147.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

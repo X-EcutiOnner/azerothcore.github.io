@@ -1,9 +1,6 @@
 var a18499 =
 [
-    [ "npc_icc_ice_sphereAI", "d3/d40/a18499.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d3/d40/a18499.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d3/d40/a18499.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d3/d40/a18499.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d3/d40/a18499.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d3/d40/a18499.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "HandleScript", "d3/d40/a18499.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d3/d40/a18499.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d3/d40/a18499.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

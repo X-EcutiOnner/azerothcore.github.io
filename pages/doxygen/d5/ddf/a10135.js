@@ -1,12 +1,14 @@
 var a10135 =
 [
-    [ "MapReference", "d5/ddf/a10135.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "d5/ddf/a10135.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "d5/ddf/a10135.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "d5/ddf/a10135.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "d5/ddf/a10135.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "d5/ddf/a10135.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "d5/ddf/a10135.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "d5/ddf/a10135.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "d5/ddf/a10135.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "TriangleBoundary", "d5/ddf/a10135.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
+    [ "IsWithinBoundaryArea", "d5/ddf/a10135.html#aaebce21d60856976db921e22a871aae6", null ],
+    [ "_a", "d5/ddf/a10135.html#a11a5e1e039d39205450e8fde526f23c9", null ],
+    [ "_abx", "d5/ddf/a10135.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
+    [ "_aby", "d5/ddf/a10135.html#a50c9a60be77846c736cf278eac263b44", null ],
+    [ "_b", "d5/ddf/a10135.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
+    [ "_bcx", "d5/ddf/a10135.html#a043b7c018baed6b098f93b667f47baed", null ],
+    [ "_bcy", "d5/ddf/a10135.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
+    [ "_c", "d5/ddf/a10135.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
+    [ "_cax", "d5/ddf/a10135.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
+    [ "_cay", "d5/ddf/a10135.html#acbb7a9e61dd4e6188837461821843b9a", null ]
 ];

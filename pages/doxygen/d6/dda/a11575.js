@@ -1,8 +1,10 @@
 var a11575 =
 [
-    [ "SkillExtraItemEntry", "d6/dda/a11575.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d6/dda/a11575.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d6/dda/a11575.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d6/dda/a11575.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d6/dda/a11575.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "WorldStateInfo", "dc/d15/a11579.html", "dc/d15/a11579" ],
+    [ "InitWorldStates", "d6/dda/a11575.html#a9b1f27c7a07df6629473a6e9d6aa45b5", null ],
+    [ "Write", "d6/dda/a11575.html#ad40588a16c7430a633c0537c82ea3a5b", null ],
+    [ "AreaID", "d6/dda/a11575.html#a98ac08c68b5c004fd352f38c7084531f", null ],
+    [ "MapID", "d6/dda/a11575.html#a657c3043204c6957e8438c3c3c7068f3", null ],
+    [ "Worldstates", "d6/dda/a11575.html#a29ffba2a130f0b93d61b2025255502fb", null ],
+    [ "ZoneID", "d6/dda/a11575.html#add07a226b1fe8ea752306b0e04d4ef71", null ]
 ];

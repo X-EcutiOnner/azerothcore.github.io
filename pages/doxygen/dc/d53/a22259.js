@@ -1,14 +1,15 @@
 var a22259 =
 [
-    [ "OutdoorPvPNA", "dc/d53/a22259.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "dc/d53/a22259.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "dc/d53/a22259.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "dc/d53/a22259.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "dc/d53/a22259.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "dc/d53/a22259.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "dc/d53/a22259.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "dc/d53/a22259.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "dc/d53/a22259.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "dc/d53/a22259.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "dc/d53/a22259.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "OutdoorPvPEP", "dc/d53/a22259.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
+    [ "BuffTeams", "dc/d53/a22259.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
+    [ "FillInitialWorldStates", "dc/d53/a22259.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
+    [ "HandlePlayerEnterZone", "dc/d53/a22259.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
+    [ "HandlePlayerLeaveZone", "dc/d53/a22259.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
+    [ "SendRemoveWorldStates", "dc/d53/a22259.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
+    [ "SetControlledState", "dc/d53/a22259.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
+    [ "SetupOutdoorPvP", "dc/d53/a22259.html#acecc8126180c027cb3d685231e55d873", null ],
+    [ "Update", "dc/d53/a22259.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
+    [ "EP_ControlsId", "dc/d53/a22259.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
+    [ "m_AllianceTowersControlled", "dc/d53/a22259.html#a09e5cf029656af3fc740b236596d42ee", null ],
+    [ "m_HordeTowersControlled", "dc/d53/a22259.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
 ];

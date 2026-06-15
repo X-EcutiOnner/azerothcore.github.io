@@ -1,6 +1,6 @@
 var a23903 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d9/dfd/a23903.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d9/dfd/a23903.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d9/dfd/a23903.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_invis_infernal_casterAI", "dd/d50/a23907.html", "dd/d50/a23907" ],
+    [ "npc_invis_infernal_caster", "d9/dfd/a23903.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d9/dfd/a23903.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

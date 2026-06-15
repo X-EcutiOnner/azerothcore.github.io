@@ -1,7 +1,6 @@
 var a21003 =
 [
-    [ "HandleDummy", "d1/dc8/a21003.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d1/dc8/a21003.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d1/dc8/a21003.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d1/dc8/a21003.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_ferocious_rhinoAI", "de/d25/a21007.html", "de/d25/a21007" ],
+    [ "npc_ferocious_rhino", "d1/dc8/a21003.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "d1/dc8/a21003.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

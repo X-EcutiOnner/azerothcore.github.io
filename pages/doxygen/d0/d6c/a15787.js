@@ -1,6 +1,11 @@
 var a15787 =
 [
-    [ "npc_great_bear_spirit", "d0/d6c/a15787.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d0/d6c/a15787.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d0/d6c/a15787.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_stillpine_capitiveAI", "d0/d6c/a15787.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
+    [ "MovementInform", "d0/d6c/a15787.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
+    [ "Reset", "d0/d6c/a15787.html#a9c884f892e64044057d477bdc0f89eed", null ],
+    [ "StartMoving", "d0/d6c/a15787.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
+    [ "UpdateAI", "d0/d6c/a15787.html#a25dc06767382b5fee2a7098b58726fb2", null ],
+    [ "_events", "d0/d6c/a15787.html#a93dd55d392836d8d085e34293344b700", null ],
+    [ "_movementComplete", "d0/d6c/a15787.html#ae8e39ca782aee412e39d65a33d14014e", null ],
+    [ "_playerGUID", "d0/d6c/a15787.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
 ];

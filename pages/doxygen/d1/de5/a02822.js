@@ -1,8 +1,5 @@
 var a02822 =
 [
-    [ "CorpseUpdateFieldFlags", "d1/de5/a02822.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "d1/de5/a02822.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "d1/de5/a02822.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "d1/de5/a02822.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "d1/de5/a02822.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "Vehicle", "de/de7/a09135.html", "de/de7/a09135" ],
+    [ "VehicleDespawnEvent", "dc/d3e/a09139.html", "dc/d3e/a09139" ]
 ];

@@ -1,12 +1,12 @@
 var a15179 =
 [
-    [ "boss_isalien", "dc/d4a/a15179.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "dc/d4a/a15179.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "dc/d4a/a15179.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "dc/d4a/a15179.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "dc/d4a/a15179.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "dc/d4a/a15179.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "dc/d4a/a15179.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "dc/d4a/a15179.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "dc/d4a/a15179.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "boss_mal_ganisAI", "dc/d4a/a15179.html#aa8b70930372cd0729686f7c6032d3152", null ],
+    [ "DamageTaken", "dc/d4a/a15179.html#a4873386266ce3b4b849377028ff746a5", null ],
+    [ "JustDied", "dc/d4a/a15179.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
+    [ "JustEngagedWith", "dc/d4a/a15179.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
+    [ "KilledUnit", "dc/d4a/a15179.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
+    [ "Reset", "dc/d4a/a15179.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
+    [ "UpdateAI", "dc/d4a/a15179.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
+    [ "events", "dc/d4a/a15179.html#a194c002efe244b8c94a072faf72be771", null ],
+    [ "finished", "dc/d4a/a15179.html#ac4c90c814aa55781f863c958253e9df2", null ]
 ];

@@ -1,8 +1,16 @@
 var a08987 =
 [
-    [ "CleanDamage", "dd/df9/a08987.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "dd/df9/a08987.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "dd/df9/a08987.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "dd/df9/a08987.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "dd/df9/a08987.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "RaceMgr", "dd/df9/a08987.html#a78e384652a5e52776f13085d14e6037a", null ],
+    [ "~RaceMgr", "dd/df9/a08987.html#a3abfe795c417bf794f3b38a23deac7a3", null ],
+    [ "GetAllianceRaceMask", "dd/df9/a08987.html#a6e8a0ba72a13d62321246cb4c11a6f4d", null ],
+    [ "GetHordeRaceMask", "dd/df9/a08987.html#ab783bff98d389f35ef89f45327cec299", null ],
+    [ "GetMaxRaces", "dd/df9/a08987.html#a5cf45d0a57727daee3432fca51479c32", null ],
+    [ "GetPlayableRaceMask", "dd/df9/a08987.html#a0ba5fec061f9bbd2ccbfcad2ea29cd8a", null ],
+    [ "instance", "dd/df9/a08987.html#ac54cc09b38129b4d7cfc02767c8ba41e", null ],
+    [ "LoadRaces", "dd/df9/a08987.html#a93d2f89ab56fa6d4c20547b411b0a812", null ],
+    [ "SetMaxRaces", "dd/df9/a08987.html#a3789528cb72e6f837633b8f3692ea36b", null ],
+    [ "_allianceRaceMask", "dd/df9/a08987.html#a694fca25b429d99dad214ea277ade0c7", null ],
+    [ "_hordeRaceMask", "dd/df9/a08987.html#a3f27d5d4ae27c1ebe2462f35dbace85e", null ],
+    [ "_maxRaces", "dd/df9/a08987.html#af5b87bbc81180f92f18424dfb0181569", null ],
+    [ "_playableRaceMask", "dd/df9/a08987.html#a0ddd9c8393001fc41b14dd95eece8400", null ]
 ];

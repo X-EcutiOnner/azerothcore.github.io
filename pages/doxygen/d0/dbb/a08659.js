@@ -1,8 +1,6 @@
 var a08659 =
 [
-    [ "Reset", "d0/dbb/a08659.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "d0/dbb/a08659.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "d0/dbb/a08659.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "d0/dbb/a08659.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "d0/dbb/a08659.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "invisibilityType", "d0/dbb/a08659.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d0/dbb/a08659.html#a8e1741fca7c49f0618a3999e69ae5c81", null ],
+    [ "ParentRotation", "d0/dbb/a08659.html#a5ae35d326afcb1b80847761c0376deaf", null ]
 ];

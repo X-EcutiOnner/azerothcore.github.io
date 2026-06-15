@@ -1,6 +1,6 @@
 var a14503 =
 [
-    [ "HandleAfterHit", "db/d01/a14503.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "db/d01/a14503.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "db/d01/a14503.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "npc_ohganAI", "d0/dd3/a14507.html", "d0/dd3/a14507" ],
+    [ "npc_ohgan", "db/d01/a14503.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "db/d01/a14503.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

@@ -1,6 +1,8 @@
 var a11191 =
 [
-    [ "CancelTempEnchantment", "d3/dfc/a11191.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "d3/dfc/a11191.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "d3/dfc/a11191.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "SetRaidDifficulty", "d3/dfc/a11191.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d3/dfc/a11191.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d3/dfc/a11191.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d3/dfc/a11191.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d3/dfc/a11191.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

@@ -1,6 +1,14 @@
 var a22375 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d9/d7e/a22379.html", "d9/d7e/a22379" ],
-    [ "instance_sethekk_halls", "d8/d43/a22375.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d8/d43/a22375.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_nexusprince_shaffar", "d8/d43/a22375.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d8/d43/a22375.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d8/d43/a22375.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d8/d43/a22375.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d8/d43/a22375.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d8/d43/a22375.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d8/d43/a22375.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d8/d43/a22375.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d8/d43/a22375.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d8/d43/a22375.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d8/d43/a22375.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

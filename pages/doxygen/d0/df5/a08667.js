@@ -1,13 +1,23 @@
 var a08667 =
 [
-    [ "FlaggedValuesArray32", "d0/df5/a08667.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "d0/df5/a08667.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "d0/df5/a08667.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "d0/df5/a08667.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "d0/df5/a08667.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "d0/df5/a08667.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "d0/df5/a08667.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "d0/df5/a08667.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "d0/df5/a08667.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "d0/df5/a08667.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "Bag", "d0/df5/a08667.html#ae0593c22c7dd8b32cab469af92fb200c", null ],
+    [ "~Bag", "d0/df5/a08667.html#aac5b94be9c36a9fca542bca3e32260c1", null ],
+    [ "AddToWorld", "d0/df5/a08667.html#a1660f8f1c97cfbb512b1835946e05ea4", null ],
+    [ "BuildCreateUpdateBlockForPlayer", "d0/df5/a08667.html#a680840268e86a6974c2d89d8bd17d338", null ],
+    [ "Create", "d0/df5/a08667.html#a644dbcae3484ba9065f0081457d5084f", null ],
+    [ "DeleteFromDB", "d0/df5/a08667.html#ac1f55a19c69604914ab2f7576d3be016", null ],
+    [ "GetBagSize", "d0/df5/a08667.html#a0888242c34d30adde36a583c7352a339", null ],
+    [ "GetDebugInfo", "d0/df5/a08667.html#a88bd93c16e7b35f299b8b013835d646e", null ],
+    [ "GetFreeSlots", "d0/df5/a08667.html#ad5f4da5a3bc645d29c15651190a41d5e", null ],
+    [ "GetItemByPos", "d0/df5/a08667.html#a80149f0d19426c9f8502713bce59af7e", null ],
+    [ "GetItemCount", "d0/df5/a08667.html#ab4967fad85ab0291fef6bda19a0e7a67", null ],
+    [ "GetItemCountWithLimitCategory", "d0/df5/a08667.html#ae6e6f304dbac50eb9ee6a0628c7cb391", null ],
+    [ "GetSlotByItemGUID", "d0/df5/a08667.html#ad8c47ab6e44c8dd8713d4af4b07a5df4", null ],
+    [ "IsEmpty", "d0/df5/a08667.html#a37797a614a3504571c15047fc9df131d", null ],
+    [ "LoadFromDB", "d0/df5/a08667.html#ae34ce4a4d974410aca8880ee0db1cf18", null ],
+    [ "RemoveFromWorld", "d0/df5/a08667.html#a2cf52acefeda5787376ae93d4679d6e9", null ],
+    [ "RemoveItem", "d0/df5/a08667.html#abc8317240a86c65cc2e7152681e9a5e1", null ],
+    [ "SaveToDB", "d0/df5/a08667.html#a3e7264c06a4249594fbf23d43707f635", null ],
+    [ "StoreItem", "d0/df5/a08667.html#a1765d07e4de76b9b1cf6eccb125143a1", null ],
+    [ "m_bagslot", "d0/df5/a08667.html#ad2fdcedba1dec947bfddfcd55a4d92a0", null ]
 ];

@@ -1,8 +1,6 @@
 var a16167 =
 [
-    [ "instance_ahnkahet_InstanceScript", "d4/dcc/a16167.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "d4/dcc/a16167.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "d4/dcc/a16167.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "d4/dcc/a16167.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "d4/dcc/a16167.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "creatureID", "d4/dcc/a16167.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d4/dcc/a16167.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d4/dcc/a16167.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

@@ -1,7 +1,7 @@
 var a23835 =
 [
-    [ "npc_maxx_a_million_escortAI", "dd/dbb/a23839.html", "dd/dbb/a23839" ],
-    [ "npc_maxx_a_million_escort", "d2/da6/a23835.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d2/da6/a23835.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d2/da6/a23835.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_kurenai_captiveAI", "dd/dbb/a23839.html", "dd/dbb/a23839" ],
+    [ "npc_kurenai_captive", "d2/da6/a23835.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d2/da6/a23835.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d2/da6/a23835.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

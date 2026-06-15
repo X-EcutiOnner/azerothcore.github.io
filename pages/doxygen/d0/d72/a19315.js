@@ -1,6 +1,6 @@
 var a19315 =
 [
-    [ "boss_maexxnaAI", "dc/d7c/a19319.html", "dc/d7c/a19319" ],
-    [ "boss_maexxna", "d0/d72/a19315.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "d0/d72/a19315.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "boss_four_horsemenAI", "dc/d7c/a19319.html", "dc/d7c/a19319" ],
+    [ "boss_four_horsemen", "d0/d72/a19315.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
+    [ "GetAI", "d0/d72/a19315.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
 ];

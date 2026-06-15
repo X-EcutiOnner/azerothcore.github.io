@@ -1,6 +1,7 @@
 var a14307 =
 [
-    [ "HandleOnHit", "d6/d87/a14307.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d6/d87/a14307.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d6/d87/a14307.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "HandleScript", "d6/d87/a14307.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d6/d87/a14307.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d6/d87/a14307.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d6/d87/a14307.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

@@ -1,11 +1,10 @@
 var a20779 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "de/db1/a20779.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "de/db1/a20779.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "de/db1/a20779.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "de/db1/a20779.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "de/db1/a20779.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "de/db1/a20779.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "de/db1/a20779.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "de/db1/a20779.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "boss_yoggsaron_immortal_guardian", "de/db1/a20779.html#a14839f96771d185718e88a4e371b31f6", null ],
+    [ "DamageTaken", "de/db1/a20779.html#a9bf936d6a501e53ce98786f043562a71", null ],
+    [ "Reset", "de/db1/a20779.html#a1173d401233670a45b31040b8e5d98cb", null ],
+    [ "SpellHit", "de/db1/a20779.html#ae9fedb55d903edf6384cb9d0285cc528", null ],
+    [ "UpdateAI", "de/db1/a20779.html#adaae7e2cd52951095cb82819d9874426", null ],
+    [ "_spellTimer", "de/db1/a20779.html#a521b956c116a23523fdfceb95a42c1e2", null ],
+    [ "_visualTimer", "de/db1/a20779.html#acb9f5de4ad41ce56f7c6d05a19783517", null ]
 ];

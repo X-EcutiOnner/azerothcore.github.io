@@ -1,12 +1,11 @@
 var a03593 =
 [
-    [ "WorldObjectScript", "dc/da5/a10796.html", "dc/da5/a10796" ],
-    [ "WorldObjectHook", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1c", [
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
-      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
-      [ "WORLDOBJECTHOOK_END", "d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
-    ] ]
+    [ "SpellScriptLoader", "d9/d35/a10771.html", "d9/d35/a10771" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "da/da8/a10775.html", "da/da8/a10775" ],
+    [ "RegisterSpellAndAuraScriptPair", "d7/d7b/a03593.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d7/d7b/a03593.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d7/d7b/a03593.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d7/d7b/a03593.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d7/d7b/a03593.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d7/d7b/a03593.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

@@ -1,6 +1,6 @@
 var a10799 =
 [
-    [ "ArenaTeam", "d3/dee/a10799.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "d3/dee/a10799.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "d3/dee/a10799.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "WorldMapScript", "d3/dee/a10799.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
+    [ "checkValidity", "d3/dee/a10799.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
+    [ "isAfterLoadScript", "d3/dee/a10799.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
 ];

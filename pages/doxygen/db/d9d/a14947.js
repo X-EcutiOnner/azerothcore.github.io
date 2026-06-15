@@ -1,6 +1,7 @@
 var a14947 =
 [
-    [ "FilterTargets", "db/d9d/a14947.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "db/d9d/a14947.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "db/d9d/a14947.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "HandleFinish", "db/d9d/a14947.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "db/d9d/a14947.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "db/d9d/a14947.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "db/d9d/a14947.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

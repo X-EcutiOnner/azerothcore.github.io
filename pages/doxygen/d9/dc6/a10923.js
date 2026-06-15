@@ -1,6 +1,6 @@
 var a10923 =
 [
-    [ "GuildInviteByName", "d9/dc6/a10923.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d9/dc6/a10923.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d9/dc6/a10923.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "PlayedTimeClient", "d9/dc6/a10923.html#a1c82d4d153606da9887d64599f319883", null ],
+    [ "Read", "d9/dc6/a10923.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
+    [ "TriggerScriptEvent", "d9/dc6/a10923.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
 ];

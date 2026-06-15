@@ -1,6 +1,6 @@
 var a16223 =
 [
-    [ "FilterTargets", "d9/d9c/a16223.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "d9/d9c/a16223.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "d9/d9c/a16223.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "HandleApply", "d9/d9c/a16223.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d9/d9c/a16223.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d9/d9c/a16223.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

@@ -1,6 +1,5 @@
 var a20715 =
 [
-    [ "OnEffect", "d5/d12/a20715.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d5/d12/a20715.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d5/d12/a20715.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "achievement_xt002_nerf_engineering", "d5/d12/a20715.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d5/d12/a20715.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

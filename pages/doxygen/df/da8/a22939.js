@@ -1,9 +1,6 @@
 var a22939 =
 [
-    [ "CalcPeriodic", "df/da8/a22939.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
-    [ "HandleEffectApply", "df/da8/a22939.html#adb983cc531fa666648bbdb432684ff1d", null ],
-    [ "HandleEffectRemove", "df/da8/a22939.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
-    [ "OnPeriodic", "df/da8/a22939.html#aecefab535157dbe8e42aff3b23cd685b", null ],
-    [ "PrepareAuraScript", "df/da8/a22939.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
-    [ "Register", "df/da8/a22939.html#a3771abcc829883ba0cbae9587adbe751", null ]
+    [ "HandleEffectRemove", "df/da8/a22939.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "df/da8/a22939.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "df/da8/a22939.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

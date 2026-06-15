@@ -1,7 +1,6 @@
 var a21635 =
 [
-    [ "HandleScriptEffect", "db/d53/a21635.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "db/d53/a21635.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "db/d53/a21635.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "db/d53/a21635.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d6/d98/a21639.html", "d6/d98/a21639" ],
+    [ "npc_commander_eligor_dawnbringer", "db/d53/a21635.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "db/d53/a21635.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

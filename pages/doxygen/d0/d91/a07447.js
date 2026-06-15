@@ -1,11 +1,12 @@
 var a07447 =
 [
-    [ "gyid", "d0/d91/a07447.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "d0/d91/a07447.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "d0/d91/a07447.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "d0/d91/a07447.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "d0/d91/a07447.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "d0/d91/a07447.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "d0/d91/a07447.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "d0/d91/a07447.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "Type", "d0/d91/a07447.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d0/d91/a07447.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d0/d91/a07447.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d0/d91/a07447.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d0/d91/a07447.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d0/d91/a07447.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d0/d91/a07447.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d0/d91/a07447.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

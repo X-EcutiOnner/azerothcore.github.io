@@ -1,6 +1,6 @@
 var a16947 =
 [
-    [ "boss_dredAI", "d6/da9/a16951.html", "d6/da9/a16951" ],
-    [ "boss_dred", "dc/db0/a16947.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "dc/db0/a16947.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_fel_infernalAI", "d6/da9/a16951.html", "d6/da9/a16951" ],
+    [ "npc_fel_infernal", "dc/db0/a16947.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "dc/db0/a16947.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

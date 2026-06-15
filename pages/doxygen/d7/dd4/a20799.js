@@ -1,6 +1,8 @@
 var a20799 =
 [
-    [ "CheckRequirement", "d7/dd4/a20799.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
-    [ "PrepareSpellScript", "d7/dd4/a20799.html#a06e1b98a589717bdef6444912a7ad602", null ],
-    [ "Register", "d7/dd4/a20799.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
+    [ "OnApply", "d7/dd4/a20799.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d7/dd4/a20799.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d7/dd4/a20799.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d7/dd4/a20799.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d7/dd4/a20799.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

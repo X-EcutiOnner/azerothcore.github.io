@@ -1,8 +1,8 @@
 var a15759 =
 [
-    [ "CheckRequirement", "dc/dab/a15759.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "dc/dab/a15759.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "dc/dab/a15759.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "dc/dab/a15759.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "dc/dab/a15759.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_injured_draeneiAI", "dc/dab/a15759.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "dc/dab/a15759.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "dc/dab/a15759.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "dc/dab/a15759.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "dc/dab/a15759.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

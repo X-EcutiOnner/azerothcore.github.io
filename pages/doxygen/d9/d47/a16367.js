@@ -1,6 +1,6 @@
 var a16367 =
 [
-    [ "boss_halionAI", "db/d19/a16371.html", "db/d19/a16371" ],
-    [ "boss_halion", "d9/d47/a16367.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d9/d47/a16367.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "instance_azjol_nerub_InstanceScript", "db/d19/a16371.html", "db/d19/a16371" ],
+    [ "instance_azjol_nerub", "d9/d47/a16367.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d9/d47/a16367.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

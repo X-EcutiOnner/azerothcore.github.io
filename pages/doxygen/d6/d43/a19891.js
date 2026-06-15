@@ -1,6 +1,5 @@
 var a19891 =
 [
-    [ "CastRunesEvent", "d6/d43/a19891.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d6/d43/a19891.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d6/d43/a19891.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "boss_sjonnir_dwarfAI", "d6/d43/a19891.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d6/d43/a19891.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

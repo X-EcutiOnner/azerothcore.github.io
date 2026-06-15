@@ -1,13 +1,13 @@
 var a12067 =
 [
-    [ "CommandFinished", "da/dcc/a12067.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "da/dcc/a12067.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "da/dcc/a12067.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "da/dcc/a12067.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "da/dcc/a12067.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "da/dcc/a12067.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "da/dcc/a12067.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "da/dcc/a12067.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "da/dcc/a12067.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "da/dcc/a12067.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "PlayerTextBuilder", "da/dcc/a12067.html#a0740c581636009448fe2c29084db41ae", null ],
+    [ "operator()", "da/dcc/a12067.html#a64d2905971ecd645e364a774f320a721", null ],
+    [ "_gender", "da/dcc/a12067.html#aece205d3d523dcf6fefbdd9914943723", null ],
+    [ "_language", "da/dcc/a12067.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
+    [ "_msgType", "da/dcc/a12067.html#af546f2788870b8b10b3405695ef81171", null ],
+    [ "_source", "da/dcc/a12067.html#a9fe9f865b0ba84b5497e63947893533e", null ],
+    [ "_talker", "da/dcc/a12067.html#a8a8cd00cc76e048500800938a773aa06", null ],
+    [ "_target", "da/dcc/a12067.html#ac97cf187d079c5162e47bebb7024faa5", null ],
+    [ "_textGroup", "da/dcc/a12067.html#ab44fe12e73da36acb1199987e8573467", null ],
+    [ "_textId", "da/dcc/a12067.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
 ];

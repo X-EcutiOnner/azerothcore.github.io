@@ -1,6 +1,10 @@
 var a17275 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/dd7/a17279.html", "d2/dd7/a17279" ],
-    [ "npc_pos_after_first_boss", "d4/def/a17275.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d4/def/a17275.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "boss_frostsworn_general", "d4/def/a17275.html#adae1b1d60e78a33b875ac08312a454cf", null ],
+    [ "EnterEvadeMode", "d4/def/a17275.html#a20949ffa7c4a308fbcafbdec6602e623", null ],
+    [ "JustDied", "d4/def/a17275.html#a14741cafce857fa819418ec3208c62fc", null ],
+    [ "JustEngagedWith", "d4/def/a17275.html#aaeb45f61ee90fc231e893bc83a01e2ff", null ],
+    [ "Reset", "d4/def/a17275.html#a1576562e5fe2247235b152029aa8edce", null ],
+    [ "UpdateAI", "d4/def/a17275.html#ab1378c39cdfeccda862a4ccc093ffd97", null ],
+    [ "instance", "d4/def/a17275.html#ab04347cee4d7542171d622cfde936cb1", null ]
 ];

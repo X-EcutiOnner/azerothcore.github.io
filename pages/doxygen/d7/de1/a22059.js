@@ -1,7 +1,6 @@
 var a22059 =
 [
-    [ "HandleDummy", "d7/de1/a22059.html#aac2e8e5e00bf25846f36f920acf98dca", null ],
-    [ "PrepareAuraScript", "d7/de1/a22059.html#aefda37f79ba45361ad91bd79f4e8a486", null ],
-    [ "Register", "d7/de1/a22059.html#a446c71ed3f5fa2ce653148f9567fd199", null ],
-    [ "Validate", "d7/de1/a22059.html#a1a2a6547d994cdd8b375a45226b7c36f", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/de1/a22059.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "d7/de1/a22059.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "d7/de1/a22059.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

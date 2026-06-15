@@ -1,6 +1,6 @@
 var a15227 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d7/d7b/a15231.html", "d7/d7b/a15231" ],
-    [ "instance_razorfen_downs", "d9/d21/a15227.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d9/d21/a15227.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "npc_cos_stratholme_citizienAI", "d7/d7b/a15231.html", "d7/d7b/a15231" ],
+    [ "npc_cos_stratholme_citizien", "d9/d21/a15227.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d9/d21/a15227.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

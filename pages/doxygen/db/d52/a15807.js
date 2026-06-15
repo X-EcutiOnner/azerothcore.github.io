@@ -1,10 +1,7 @@
 var a15807 =
 [
-    [ "npc_omenAI", "db/d52/a15807.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "db/d52/a15807.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "db/d52/a15807.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "db/d52/a15807.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "db/d52/a15807.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "db/d52/a15807.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "db/d52/a15807.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_webbed_creatureAI", "db/d52/a15807.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "db/d52/a15807.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "db/d52/a15807.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "db/d52/a15807.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

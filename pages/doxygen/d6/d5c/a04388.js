@@ -1,22 +1,30 @@
 var a04388 =
 [
-    [ "AppenderConsole", "d2/d2a/a05636.html", "d2/d2a/a05636" ],
-    [ "ColorTypes", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832", [
-      [ "BLACK", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
-      [ "RED", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BROWN", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
-      [ "BLUE", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
-      [ "MAGENTA", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
-      [ "CYAN", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
-      [ "GREY", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
-      [ "YELLOW", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
-      [ "LRED", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
-      [ "LGREEN", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
-      [ "LBLUE", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
-      [ "LMAGENTA", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
-      [ "LCYAN", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
-      [ "WHITE", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
-      [ "NUM_COLOR_TYPES", "d6/d5c/a04388.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
-    ] ]
+    [ "AUTH_LOGON_CHALLENGE_C", "d0/d5d/a05955.html", "d0/d5d/a05955" ],
+    [ "AUTH_LOGON_PROOF_C", "d8/d33/a05959.html", "d8/d33/a05959" ],
+    [ "AUTH_LOGON_PROOF_S", "d0/d22/a05963.html", "d0/d22/a05963" ],
+    [ "AUTH_LOGON_PROOF_S_OLD", "dd/d3d/a05967.html", "dd/d3d/a05967" ],
+    [ "AUTH_RECONNECT_PROOF_C", "d3/d67/a05971.html", "d3/d67/a05971" ],
+    [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "d6/d5c/a04388.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
+    [ "MAX_ACCEPTED_CHALLENGE_SIZE", "d6/d5c/a04388.html#a2507a44fb848704cf4f3624207c18ebe", null ],
+    [ "REALM_LIST_PACKET_SIZE", "d6/d5c/a04388.html#af848fed368789960f3d9e059f8002e11", null ],
+    [ "sAuthLogonChallenge_C", "d6/d5c/a04388.html#af2b75a713ab063d15c0f303555dab7c2", null ],
+    [ "sAuthLogonProof_C", "d6/d5c/a04388.html#ab50c6b56b4c56513ab11e4bee50a0116", null ],
+    [ "sAuthLogonProof_S", "d6/d5c/a04388.html#a1241a754e900fac64f49cadc4e806321", null ],
+    [ "sAuthLogonProof_S_Old", "d6/d5c/a04388.html#ad153c4ef5e20c186dfe08ed557a4100c", null ],
+    [ "sAuthReconnectProof_C", "d6/d5c/a04388.html#aef6ea8864e443cf0d192820bb670a8d8", null ],
+    [ "eAuthCmd", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607b", [
+      [ "AUTH_LOGON_CHALLENGE", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48", null ],
+      [ "AUTH_LOGON_PROOF", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e", null ],
+      [ "AUTH_RECONNECT_CHALLENGE", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4", null ],
+      [ "AUTH_RECONNECT_PROOF", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3", null ],
+      [ "REALM_LIST", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc", null ],
+      [ "XFER_INITIATE", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5", null ],
+      [ "XFER_DATA", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7", null ],
+      [ "XFER_ACCEPT", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01", null ],
+      [ "XFER_RESUME", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5", null ],
+      [ "XFER_CANCEL", "d6/d5c/a04388.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1", null ]
+    ] ],
+    [ "Handlers", "d6/d5c/a04388.html#a887a26fd84a0bf97f1016de6aeba4d4e", null ],
+    [ "VersionChallenge", "d6/d5c/a04388.html#a242dcc388ff0edb5d5eca57953e61317", null ]
 ];

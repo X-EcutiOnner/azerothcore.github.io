@@ -1,6 +1,6 @@
 var a09375 =
 [
-    [ "Visit", "d0/deb/a09375.html#ae01a3252ecf5083da0c5be5d4a845636", null ],
-    [ "Visit", "d0/deb/a09375.html#a7624bb11d51edffdc49fc9a95df847ef", null ],
-    [ "Visit", "d0/deb/a09375.html#a412c9cbe22dc645c87e002ddb1772a90", null ]
+    [ "EmoteDelay", "d0/deb/a09375.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "d0/deb/a09375.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "d0/deb/a09375.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

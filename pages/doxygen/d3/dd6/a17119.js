@@ -1,8 +1,6 @@
 var a17119 =
 [
-    [ "npc_hor_leaderAI", "dd/d93/a17123.html", "dd/d93/a17123" ],
-    [ "npc_hor_leader", "d3/dd6/a17119.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "d3/dd6/a17119.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "d3/dd6/a17119.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "d3/dd6/a17119.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "OnPeriodic", "d3/dd6/a17119.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d3/dd6/a17119.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d3/dd6/a17119.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

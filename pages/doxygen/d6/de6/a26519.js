@@ -1,7 +1,8 @@
 var a26519 =
 [
-    [ "OnProc", "d6/de6/a26519.html#a00545522da76162e837a3f9ce1f38988", null ],
-    [ "PrepareAuraScript", "d6/de6/a26519.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
-    [ "Register", "d6/de6/a26519.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
-    [ "Validate", "d6/de6/a26519.html#af5525b7097363c3357db853b46a26bd7", null ]
+    [ "CheckProc", "d6/de6/a26519.html#adf8318a646fab2d5794e6207e14a05d5", null ],
+    [ "HandleProc", "d6/de6/a26519.html#a09d717ce8371e15c38093cb120f7b39a", null ],
+    [ "PrepareAuraScript", "d6/de6/a26519.html#a6df6c44fbb742caf264e81d2bf73f662", null ],
+    [ "Register", "d6/de6/a26519.html#ac7fc2bff25209f4ebbc9305734a7878b", null ],
+    [ "Validate", "d6/de6/a26519.html#ab0b647863fec0fd7880cdcc506caa148", null ]
 ];

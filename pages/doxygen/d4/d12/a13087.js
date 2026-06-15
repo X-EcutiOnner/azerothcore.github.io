@@ -1,8 +1,14 @@
 var a13087 =
 [
-    [ "CalcPeriodic", "d4/d12/a13087.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d4/d12/a13087.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d4/d12/a13087.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d4/d12/a13087.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d4/d12/a13087.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "boss_midnight", "d4/d12/a13087.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "d4/d12/a13087.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "d4/d12/a13087.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "d4/d12/a13087.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "d4/d12/a13087.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "d4/d12/a13087.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "d4/d12/a13087.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "d4/d12/a13087.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "d4/d12/a13087.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "d4/d12/a13087.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "d4/d12/a13087.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

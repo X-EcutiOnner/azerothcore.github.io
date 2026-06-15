@@ -1,9 +1,9 @@
 var a19127 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d4/db0/a19127.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d4/db0/a19127.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d4/db0/a19127.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d4/db0/a19127.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d4/db0/a19127.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d4/db0/a19127.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d4/db0/a19127.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "d4/db0/a19127.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "d4/db0/a19127.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "d4/db0/a19127.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "d4/db0/a19127.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "d4/db0/a19127.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

@@ -1,8 +1,8 @@
 var a23623 =
 [
-    [ "boss_mechano_lord_capacitus", "d7/da9/a23623.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d7/da9/a23623.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d7/da9/a23623.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d7/da9/a23623.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d7/da9/a23623.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "HandleScriptEffect", "d7/da9/a23623.html#a7cde39fc0844f19604c8026a853e8216", null ],
+    [ "Load", "d7/da9/a23623.html#a5d3eb86208c4aa9c6592349d28c5df79", null ],
+    [ "PrepareSpellScript", "d7/da9/a23623.html#a962de50d1fa35ca16b4753f55e5cbd47", null ],
+    [ "Register", "d7/da9/a23623.html#aee6bd90e8b39132d4b53b67c22d6c331", null ],
+    [ "_currentSpellId", "d7/da9/a23623.html#a0ad25535ba345fe9672150af67687305", null ]
 ];

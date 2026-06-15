@@ -1,8 +1,9 @@
 var a09715 =
 [
-    [ "AllGameObjectsMatchingOneEntryInRange", "d8/dbf/a09715.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
-    [ "operator()", "d8/dbf/a09715.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
-    [ "m_fRange", "d8/dbf/a09715.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
-    [ "m_pObject", "d8/dbf/a09715.html#ac2bae147199d0b1b592a560017128c4e", null ],
-    [ "m_uiEntries", "d8/dbf/a09715.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
+    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "d8/dbf/a09715.html#a213e07e67eefd1454be655e154380202", null ],
+    [ "operator()", "d8/dbf/a09715.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
+    [ "i_funit", "d8/dbf/a09715.html#a43b531ac740cb263d347ece24ff675fc", null ],
+    [ "i_obj", "d8/dbf/a09715.html#a5fe4b376f00d33554a9a263abc743e68", null ],
+    [ "i_playerOnly", "d8/dbf/a09715.html#a16cd07545542916e0f49250c77fad304", null ],
+    [ "i_range", "d8/dbf/a09715.html#ac087254cf99c5f845918998f369c176a", null ]
 ];

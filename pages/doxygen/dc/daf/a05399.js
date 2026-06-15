@@ -1,11 +1,8 @@
 var a05399 =
 [
-    [ "ARC4", "dc/daf/a05399.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
-    [ "~ARC4", "dc/daf/a05399.html#af3a8b63c2073120026c262a685eef8f2", null ],
-    [ "Init", "dc/daf/a05399.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
-    [ "Init", "dc/daf/a05399.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
-    [ "UpdateData", "dc/daf/a05399.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
-    [ "UpdateData", "dc/daf/a05399.html#a4023480221891e0d1ccd7a92aabd173c", null ],
-    [ "_cipher", "dc/daf/a05399.html#ab017c87cd73a9b5fade745799724c333", null ],
-    [ "_ctx", "dc/daf/a05399.html#a8539413b1e0344abe9545f742cc8e6df", null ]
+    [ "ComputeCell", "dc/daf/a05399.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "dc/daf/a05399.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "dc/daf/a05399.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "dc/daf/a05399.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "dc/daf/a05399.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

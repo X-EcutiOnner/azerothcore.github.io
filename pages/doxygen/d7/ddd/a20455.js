@@ -1,9 +1,5 @@
 var a20455 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "d7/ddd/a20455.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "d7/ddd/a20455.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "d7/ddd/a20455.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "d7/ddd/a20455.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "d7/ddd/a20455.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "d7/ddd/a20455.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "achievement_kologarn_looks_could_kill", "d7/ddd/a20455.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "d7/ddd/a20455.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

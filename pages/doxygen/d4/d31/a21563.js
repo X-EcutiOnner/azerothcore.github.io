@@ -1,6 +1,6 @@
 var a21563 =
 [
-    [ "npc_spiritual_insightAI", "df/d2d/a21567.html", "df/d2d/a21567" ],
-    [ "npc_spiritual_insight", "d4/d31/a21563.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d4/d31/a21563.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "HandleSendEvent", "d4/d31/a21563.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d4/d31/a21563.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d4/d31/a21563.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

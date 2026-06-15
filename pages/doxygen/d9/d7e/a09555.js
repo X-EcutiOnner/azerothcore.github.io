@@ -1,10 +1,13 @@
 var a09555 =
 [
-    [ "PlayerListSearcherWithSharedVision", "d9/d7e/a09555.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "d9/d7e/a09555.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "d9/d7e/a09555.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "d9/d7e/a09555.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "d9/d7e/a09555.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "d9/d7e/a09555.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "d9/d7e/a09555.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "MessageDistDelivererToHostile", "d9/d7e/a09555.html#a4e1642660288eeb46867d4e19944cc78", null ],
+    [ "SendPacket", "d9/d7e/a09555.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
+    [ "Visit", "d9/d7e/a09555.html#af9c5269b0266e9e28a70118e62d25e58", null ],
+    [ "Visit", "d9/d7e/a09555.html#a224eeb339614d7a9f5e43d498b245958", null ],
+    [ "Visit", "d9/d7e/a09555.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
+    [ "Visit", "d9/d7e/a09555.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
+    [ "i_distSq", "d9/d7e/a09555.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
+    [ "i_message", "d9/d7e/a09555.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
+    [ "i_phaseMask", "d9/d7e/a09555.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
+    [ "i_source", "d9/d7e/a09555.html#a174aade6dc85233e8481a452f800ec0e", null ]
 ];

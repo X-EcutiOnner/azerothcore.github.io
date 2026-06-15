@@ -1,10 +1,11 @@
 var a06211 =
 [
-    [ "DefaultTargetSelector", "d3/dc0/a06211.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "d3/dc0/a06211.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "d3/dc0/a06211.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "d3/dc0/a06211.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "d3/dc0/a06211.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "d3/dc0/a06211.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "d3/dc0/a06211.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "AppenderDB", "d3/dc0/a06211.html#af8e48076d47a06c73f6b8ae054955a83", null ],
+    [ "~AppenderDB", "d3/dc0/a06211.html#a7da848083d02833acc632051a2d938bf", null ],
+    [ "_write", "d3/dc0/a06211.html#af38ab76e4d3ea9ebe864582c0030c49a", null ],
+    [ "getType", "d3/dc0/a06211.html#a96221ceed23435556df03c5f7ffab61e", null ],
+    [ "setRealmId", "d3/dc0/a06211.html#a769ff59f4dbbff1b77398dd20c016ace", null ],
+    [ "enabled", "d3/dc0/a06211.html#a55e70394d0a7f321e0cf75a9b822b482", null ],
+    [ "realmId", "d3/dc0/a06211.html#a5c9bf2ae429c0903cffe9a01c03b6028", null ],
+    [ "type", "d3/dc0/a06211.html#a8d9968c073ee16a8fe082254ec232ebb", null ]
 ];

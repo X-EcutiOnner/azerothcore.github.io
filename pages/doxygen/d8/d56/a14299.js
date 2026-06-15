@@ -1,8 +1,7 @@
 var a14299 =
 [
-    [ "FilterTargets", "d8/d56/a14299.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "d8/d56/a14299.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "d8/d56/a14299.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "d8/d56/a14299.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "d8/d56/a14299.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "npc_zuljin_vortex", "d8/d56/a14299.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d8/d56/a14299.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d8/d56/a14299.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d8/d56/a14299.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

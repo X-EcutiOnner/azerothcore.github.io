@@ -1,9 +1,6 @@
 var a04088 =
 [
-    [ "SecretInfo", "da/dd8/a29152.html", "da/dd8/a29152" ],
-    [ "SECRET_FLAG", "db/d38/a04088.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
-    [ "SECRET_FLAG_FOR", "db/d38/a04088.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
-    [ "SecretFlags", "db/d38/a04088.html#a03463ea440a7f843bdf8415f362a49f5", null ],
-    [ "GetHexFromConfig", "db/d38/a04088.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
-    [ "secret_info", "db/d38/a04088.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
+    [ "FlyByCamera", "d6/da8/a08227.html", "d6/da8/a08227" ],
+    [ "GetFlyByCameras", "db/d38/a04088.html#a8079cfd87f117ce26e31f3da14e63cf9", null ],
+    [ "LoadM2Cameras", "db/d38/a04088.html#a9971ebb80eba223b5767bcfa8f713267", null ]
 ];

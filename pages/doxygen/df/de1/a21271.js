@@ -1,7 +1,7 @@
 var a21271 =
 [
-    [ "npc_lurgglbrAI", "d5/df0/a21275.html", "d5/df0/a21275" ],
-    [ "npc_lurgglbr", "df/de1/a21271.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "df/de1/a21271.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "df/de1/a21271.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "npc_azure_mage_slayer", "df/de1/a21271.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "df/de1/a21271.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "df/de1/a21271.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "df/de1/a21271.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

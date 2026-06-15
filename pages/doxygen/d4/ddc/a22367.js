@@ -1,10 +1,6 @@
 var a22367 =
 [
-    [ "boss_talon_king_ikiss", "d4/ddc/a22367.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "d4/ddc/a22367.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "d4/ddc/a22367.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "d4/ddc/a22367.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "d4/ddc/a22367.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "d4/ddc/a22367.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "d4/ddc/a22367.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d8/d3d/a22371.html", "d8/d3d/a22371" ],
+    [ "instance_auchenai_crypts", "d4/ddc/a22367.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d4/ddc/a22367.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

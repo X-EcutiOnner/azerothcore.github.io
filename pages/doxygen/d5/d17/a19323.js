@@ -1,6 +1,7 @@
 var a19323 =
 [
-    [ "boss_maexxna_webwrapAI", "da/dea/a19327.html", "da/dea/a19327" ],
-    [ "boss_maexxna_webwrap", "d5/d17/a19323.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
-    [ "GetAI", "d5/d17/a19323.html#a6d86d58a86b831a219ecc598044be4f3", null ]
+    [ "OnApply", "d5/d17/a19323.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "d5/d17/a19323.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "d5/d17/a19323.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "d5/d17/a19323.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

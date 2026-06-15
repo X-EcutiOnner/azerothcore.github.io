@@ -1,10 +1,12 @@
 var a04127 =
 [
-    [ "UpdateException", "df/df2/a06208.html", "df/df2/a06208" ],
-    [ "DBUpdaterUtil", "d8/dae/a06212.html", "d8/dae/a06212" ],
-    [ "DBUpdater< T >", "d5/d74/a06216.html", "d5/d74/a06216" ],
-    [ "BaseLocation", "dd/d90/a04127.html#a0c382fe144b0dc101a8b2b9d4ef51010", [
-      [ "LOCATION_REPOSITORY", "dd/d90/a04127.html#a0c382fe144b0dc101a8b2b9d4ef51010a7c7f50c7daf1a5f1773676cc90cc9550", null ],
-      [ "LOCATION_DOWNLOAD", "dd/d90/a04127.html#a0c382fe144b0dc101a8b2b9d4ef51010a02f1af050478ebf9488ea00a47c7e11c", null ]
+    [ "CliCommandHolder", "d2/deb/a12223.html", "d2/deb/a12223" ],
+    [ "IWorld", "d5/d19/a12227.html", "d5/d19/a12227" ],
+    [ "ServerMessageType", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798f", [
+      [ "SERVER_MSG_SHUTDOWN_TIME", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798fa06a96ab329b402934a6bd8d22fbd930c", null ],
+      [ "SERVER_MSG_RESTART_TIME", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798fae8f145f08fb30710c968e3a9951d8b68", null ],
+      [ "SERVER_MSG_STRING", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798fa7b603f35c79df6fdd3f52f235dfaf517", null ],
+      [ "SERVER_MSG_SHUTDOWN_CANCELLED", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798faabf5988cd244fc5827716176e69d151b", null ],
+      [ "SERVER_MSG_RESTART_CANCELLED", "dd/d90/a04127.html#a08e6f7cfaf7929274a1908b0e95c798fabaf3639f93cefc356c92dedb463da131", null ]
     ] ]
 ];

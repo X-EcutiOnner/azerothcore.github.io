@@ -1,7 +1,7 @@
 var a16811 =
 [
-    [ "HandleDispel", "d1/d7d/a16811.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d1/d7d/a16811.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d1/d7d/a16811.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d1/d7d/a16811.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_druidAI", "d1/d7d/a16811.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "d1/d7d/a16811.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "d1/d7d/a16811.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "d1/d7d/a16811.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

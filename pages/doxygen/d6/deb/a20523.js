@@ -1,5 +1,5 @@
 var a20523 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d6/deb/a20523.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d6/deb/a20523.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_ulduar_flames_spread", "d6/deb/a20523.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
+    [ "SpellHit", "d6/deb/a20523.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
 ];

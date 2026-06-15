@@ -1,6 +1,7 @@
 var a17939 =
 [
-    [ "CheckProc", "dd/d4e/a17939.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "dd/d4e/a17939.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "dd/d4e/a17939.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "npc_gunship_boarding_leaderAI", "dd/d4e/a17939.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "dd/d4e/a17939.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "dd/d4e/a17939.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "dd/d4e/a17939.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

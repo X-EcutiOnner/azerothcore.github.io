@@ -1,10 +1,7 @@
 var a08351 =
 [
-    [ "FormationMgr", "df/d8c/a08351.html#ade1aa22473c112aed65d537929b07908", null ],
-    [ "~FormationMgr", "df/d8c/a08351.html#a8f3ee00e25ebacfb71b71b9e7d63f6e0", null ],
-    [ "AddCreatureToGroup", "df/d8c/a08351.html#aef758bdbc8f93c8981aedd51d7e10a07", null ],
-    [ "instance", "df/d8c/a08351.html#a871fec234a94e4adae07315a008acec3", null ],
-    [ "LoadCreatureFormations", "df/d8c/a08351.html#af0ecde62fc5c4a3a2b3be16c58f51fde", null ],
-    [ "RemoveCreatureFromGroup", "df/d8c/a08351.html#a6ecac2b9dcdc8db2cd7a0bd1be0fd364", null ],
-    [ "CreatureGroupMap", "df/d8c/a08351.html#ac11a3dfbe6a4f7df01d966f14b0aecd9", null ]
+    [ "ForcedDespawnDelayEvent", "df/d8c/a08351.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "df/d8c/a08351.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "df/d8c/a08351.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "df/d8c/a08351.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

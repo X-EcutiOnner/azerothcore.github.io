@@ -1,7 +1,7 @@
 var a17715 =
 [
-    [ "ExtraEffect", "dc/ded/a17715.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "dc/ded/a17715.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "dc/ded/a17715.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "dc/ded/a17715.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "PeriodicTick", "dc/ded/a17715.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "dc/ded/a17715.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "dc/ded/a17715.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "dc/ded/a17715.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

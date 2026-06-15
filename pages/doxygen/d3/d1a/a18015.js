@@ -1,6 +1,6 @@
 var a18015 =
 [
-    [ "npc_bone_spikeAI", "df/d40/a18019.html", "df/d40/a18019" ],
-    [ "npc_bone_spike", "d3/d1a/a18015.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d3/d1a/a18015.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "HandlePeriodicTick", "d3/d1a/a18015.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d3/d1a/a18015.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d3/d1a/a18015.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

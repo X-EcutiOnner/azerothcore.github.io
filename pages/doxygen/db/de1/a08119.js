@@ -1,5 +1,8 @@
 var a08119 =
 [
-    [ "CompareThreatLessThan", "db/de1/a08119.html#aa19219c7046b00951d23157bf00ee57d", null ],
-    [ "operator()", "db/de1/a08119.html#a6534d7e3cab45f2aab4f0eab96ec4416", null ]
+    [ "CurValue", "db/de1/a08119.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "db/de1/a08119.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "db/de1/a08119.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "db/de1/a08119.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "db/de1/a08119.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

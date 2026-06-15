@@ -1,7 +1,8 @@
 var a16711 =
 [
-    [ "npc_toc_priestAI", "d2/df6/a16711.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "d2/df6/a16711.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "d2/df6/a16711.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "d2/df6/a16711.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_toc5_player_vehicleAI", "d2/df6/a16711.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d2/df6/a16711.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d2/df6/a16711.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d2/df6/a16711.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d2/df6/a16711.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

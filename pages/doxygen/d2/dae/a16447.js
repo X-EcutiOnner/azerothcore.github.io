@@ -1,6 +1,6 @@
 var a16447 =
 [
-    [ "HandlePeriodic", "d2/dae/a16447.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d2/dae/a16447.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d2/dae/a16447.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d4/d40/a16451.html", "d4/d40/a16451" ],
+    [ "npc_baltharus_the_warborn_clone", "d2/dae/a16447.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d2/dae/a16447.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

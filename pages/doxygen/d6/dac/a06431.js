@@ -1,5 +1,8 @@
 var a06431 =
 [
-    [ "SimpleCharmedAI", "d6/dac/a06431.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d6/dac/a06431.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "GuardAI", "d6/dac/a06431.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d6/dac/a06431.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d6/dac/a06431.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d6/dac/a06431.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d6/dac/a06431.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

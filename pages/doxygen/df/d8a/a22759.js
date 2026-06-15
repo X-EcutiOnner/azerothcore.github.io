@@ -1,6 +1,7 @@
 var a22759 =
 [
-    [ "HandleScriptEffect", "df/d8a/a22759.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "df/d8a/a22759.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "df/d8a/a22759.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "CalculateAmount", "df/d8a/a22759.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "df/d8a/a22759.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "df/d8a/a22759.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "df/d8a/a22759.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

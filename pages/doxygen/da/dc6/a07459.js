@@ -1,9 +1,6 @@
 var a07459 =
 [
-    [ "entryAlliance", "da/dc6/a07459.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "da/dc6/a07459.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "da/dc6/a07459.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "da/dc6/a07459.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "da/dc6/a07459.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "da/dc6/a07459.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "AuctionSearchBidderListRequest", "da/dc6/a07459.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "da/dc6/a07459.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "da/dc6/a07459.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

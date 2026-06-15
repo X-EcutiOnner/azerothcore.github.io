@@ -1,7 +1,8 @@
 var a18551 =
 [
-    [ "PrepareSpellScript", "d7/d47/a18551.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d7/d47/a18551.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d7/d47/a18551.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d7/d47/a18551.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "HeightDifferenceCheck", "d7/d47/a18551.html#aa8b61811e435cce456e5cb1d798be66e", null ],
+    [ "operator()", "d7/d47/a18551.html#a1db203642683f85176f2a35eb3d10c34", null ],
+    [ "_baseObject", "d7/d47/a18551.html#a7c274be02ca58429dffaee2ea34153c6", null ],
+    [ "_difference", "d7/d47/a18551.html#af95e2bf67c8316dda982896978c45a68", null ],
+    [ "_reverse", "d7/d47/a18551.html#a89074844d5fd8b02ed99c09ac4cc5b85", null ]
 ];

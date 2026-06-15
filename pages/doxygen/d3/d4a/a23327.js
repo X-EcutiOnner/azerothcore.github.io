@@ -1,7 +1,6 @@
 var a23327 =
 [
-    [ "FilterTargets", "d3/d4a/a23327.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d3/d4a/a23327.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d3/d4a/a23327.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d3/d4a/a23327.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "HandleScriptEffect", "d3/d4a/a23327.html#afae95a49843aa956d627e9bd92f8820f", null ],
+    [ "PrepareSpellScript", "d3/d4a/a23327.html#a434945da0a6b64db79cab0e09cbbb286", null ],
+    [ "Register", "d3/d4a/a23327.html#a396acb663b8c9151196b8fedea3660c7", null ]
 ];

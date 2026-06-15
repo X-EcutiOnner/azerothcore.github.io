@@ -1,15 +1,11 @@
 var a07791 =
 [
-    [ "Print", "d3/db0/a07791.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "d3/db0/a07791.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "d3/db0/a07791.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "d3/db0/a07791.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "d3/db0/a07791.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "d3/db0/a07791.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "d3/db0/a07791.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "d3/db0/a07791.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "d3/db0/a07791.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "d3/db0/a07791.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "d3/db0/a07791.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "d3/db0/a07791.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "BattlegroundSAScore", "d3/db0/a07791.html#afb1312e304eee973740cfe208657c5b9", null ],
+    [ "BuildObjectivesBlock", "d3/db0/a07791.html#a57bf8241b404571cda5a8e113c334eab", null ],
+    [ "GetAttr1", "d3/db0/a07791.html#aa31cd91ede928c57cd201dba61f7f585", null ],
+    [ "GetAttr2", "d3/db0/a07791.html#aba47bb1ec440f405bfde8513c60ae576", null ],
+    [ "UpdateScore", "d3/db0/a07791.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
+    [ "BattlegroundSA", "d3/db0/a07791.html#ab31c13442be48941f5dab4214b95cde9", null ],
+    [ "DemolishersDestroyed", "d3/db0/a07791.html#ac49c28efa42cfad7232268de4be45e66", null ],
+    [ "GatesDestroyed", "d3/db0/a07791.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
 ];

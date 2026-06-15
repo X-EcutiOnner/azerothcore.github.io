@@ -1,7 +1,7 @@
 var a20143 =
 [
-    [ "HandleAfterHit", "d7/dd2/a20143.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d7/dd2/a20143.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d7/dd2/a20143.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d7/dd2/a20143.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "FilterTargets", "d7/dd2/a20143.html#a3d864f0428b7e53774d06069037ca5b2", null ],
+    [ "HandleScript", "d7/dd2/a20143.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
+    [ "PrepareSpellScript", "d7/dd2/a20143.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
+    [ "Register", "d7/dd2/a20143.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
 ];

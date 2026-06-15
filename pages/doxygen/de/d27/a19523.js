@@ -1,14 +1,8 @@
 var a19523 =
 [
-    [ "boss_magus_telestra", "de/d27/a19523.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "de/d27/a19523.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "de/d27/a19523.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "de/d27/a19523.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "de/d27/a19523.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "de/d27/a19523.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "de/d27/a19523.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "de/d27/a19523.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "de/d27/a19523.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "de/d27/a19523.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "de/d27/a19523.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
+    [ "HandleDamage", "de/d27/a19523.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "de/d27/a19523.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "de/d27/a19523.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "de/d27/a19523.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "de/d27/a19523.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

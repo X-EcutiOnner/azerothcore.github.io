@@ -1,5 +1,7 @@
 var a17455 =
 [
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d9/d84/a17455.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
-    [ "OnCheck", "d9/d84/a17455.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
+    [ "HandleEffectPeriodic", "d9/d84/a17455.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d9/d84/a17455.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d9/d84/a17455.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d9/d84/a17455.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

@@ -1,6 +1,7 @@
 var a11795 =
 [
-    [ "BeforeHitHandler", "de/d46/a11795.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "de/d46/a11795.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "de/d46/a11795.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "chance", "de/d46/a11795.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "de/d46/a11795.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "de/d46/a11795.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "de/d46/a11795.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

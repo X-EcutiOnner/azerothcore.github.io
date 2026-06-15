@@ -1,6 +1,6 @@
 var a22959 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d1/d8f/a22963.html", "d1/d8f/a22963" ],
-    [ "instance_serpent_shrine", "df/d70/a22959.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "df/d70/a22959.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "FilterTargets", "df/d70/a22959.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "df/d70/a22959.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "df/d70/a22959.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

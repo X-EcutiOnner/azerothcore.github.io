@@ -1,6 +1,7 @@
 var a12923 =
 [
-    [ "HandleDummy", "de/d19/a12923.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
-    [ "PrepareSpellScript", "de/d19/a12923.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
-    [ "Register", "de/d19/a12923.html#a7be884a657889e1b18d1499c8a053c18", null ]
+    [ "HandleHit", "de/d19/a12923.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "de/d19/a12923.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "de/d19/a12923.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "de/d19/a12923.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

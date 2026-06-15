@@ -1,6 +1,6 @@
 var a18075 =
 [
-    [ "npc_gas_cloudAI", "d0/dd6/a18079.html", "d0/dd6/a18079" ],
-    [ "npc_gas_cloud", "de/dd7/a18075.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "de/dd7/a18075.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "boss_lady_deathwhisperAI", "d0/dd6/a18079.html", "d0/dd6/a18079" ],
+    [ "boss_lady_deathwhisper", "de/dd7/a18075.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "de/dd7/a18075.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

@@ -1,8 +1,8 @@
 var a03959 =
 [
-    [ "instance_temple_of_ahnqiraj", "d8/d80/a15558.html", "d8/d80/a15558" ],
-    [ "instance_temple_of_ahnqiraj::instance_temple_of_ahnqiraj_InstanceMapScript", "da/d8c/a15562.html", "da/d8c/a15562" ],
-    [ "AddSC_instance_temple_of_ahnqiraj", "d1/d55/a03959.html#a60077e2c1e4137c99545119e5eeb1bb3", null ],
-    [ "creatureData", "d1/d55/a03959.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d1/d55/a03959.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "WorldPackets::Query::NameQuery", "de/d86/a11479.html", "de/d86/a11479" ],
+    [ "WorldPackets::Query::NameQueryResponse", "d5/d07/a11483.html", "d5/d07/a11483" ],
+    [ "WorldPackets::Query::TimeQuery", "d9/dc3/a11487.html", "d9/dc3/a11487" ],
+    [ "WorldPackets::Query::TimeQueryResponse", "da/d64/a11491.html", "da/d64/a11491" ],
+    [ "WorldPackets::Query::CorpseMapPositionQuery", "dd/dd9/a11495.html", "dd/dd9/a11495" ]
 ];

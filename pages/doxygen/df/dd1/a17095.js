@@ -1,6 +1,7 @@
 var a17095 =
 [
-    [ "entry", "df/dd1/a17095.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "df/dd1/a17095.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "df/dd1/a17095.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "HandleScriptEffect", "df/dd1/a17095.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "df/dd1/a17095.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "df/dd1/a17095.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "df/dd1/a17095.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

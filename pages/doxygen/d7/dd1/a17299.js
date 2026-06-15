@@ -1,6 +1,8 @@
 var a17299 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/d10/a17303.html", "d5/d10/a17303" ],
-    [ "npc_pos_collapsing_icicle", "d7/dd1/a17299.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d7/dd1/a17299.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_hor_raging_ghoul", "d7/dd1/a17299.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d7/dd1/a17299.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d7/dd1/a17299.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d7/dd1/a17299.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d7/dd1/a17299.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

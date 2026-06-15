@@ -1,8 +1,8 @@
 var a18771 =
 [
-    [ "DecayPeriodicTimer", "dd/dd1/a18771.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "dd/dd1/a18771.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "dd/dd1/a18771.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "dd/dd1/a18771.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "dd/dd1/a18771.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/dd1/a18771.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "dd/dd1/a18771.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "dd/dd1/a18771.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "dd/dd1/a18771.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "dd/dd1/a18771.html#a8b15079251b6855679d738a342126006", null ]
 ];

@@ -1,12 +1,10 @@
 var a11247 =
 [
-    [ "StartMirrorTimer", "d5/d4d/a11247.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d5/d4d/a11247.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d5/d4d/a11247.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d5/d4d/a11247.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d5/d4d/a11247.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d5/d4d/a11247.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d5/d4d/a11247.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d5/d4d/a11247.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d5/d4d/a11247.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "BuyItem", "d5/d4d/a11247.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "d5/d4d/a11247.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "d5/d4d/a11247.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "d5/d4d/a11247.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "d5/d4d/a11247.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "d5/d4d/a11247.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "d5/d4d/a11247.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

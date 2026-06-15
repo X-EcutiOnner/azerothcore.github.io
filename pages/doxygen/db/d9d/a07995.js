@@ -1,5 +1,6 @@
 var a07995 =
 [
-    [ "IsColorValid", "db/d9d/a07995.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "db/d9d/a07995.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "operator bool", "db/d9d/a07995.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
+    [ "tail", "db/d9d/a07995.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
+    [ "token", "db/d9d/a07995.html#a55e214db8a01ac3c427874d03f1bda54", null ]
 ];

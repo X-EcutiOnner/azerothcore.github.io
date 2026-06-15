@@ -1,10 +1,8 @@
 var a09691 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d6/db9/a09691.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d6/db9/a09691.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "d6/db9/a09691.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "d6/db9/a09691.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "d6/db9/a09691.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "d6/db9/a09691.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "d6/db9/a09691.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "FriendlyMissingBuffInRange", "d6/db9/a09691.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d6/db9/a09691.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d6/db9/a09691.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d6/db9/a09691.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d6/db9/a09691.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

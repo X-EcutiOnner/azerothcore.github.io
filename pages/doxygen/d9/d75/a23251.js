@@ -1,7 +1,11 @@
 var a23251 =
 [
-    [ "boss_the_maker", "d9/d75/a23251.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d9/d75/a23251.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d9/d75/a23251.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d9/d75/a23251.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "boss_high_king_maulgar", "d9/d75/a23251.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d9/d75/a23251.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d9/d75/a23251.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d9/d75/a23251.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d9/d75/a23251.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d9/d75/a23251.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d9/d75/a23251.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d9/d75/a23251.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

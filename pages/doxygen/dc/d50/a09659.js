@@ -1,8 +1,7 @@
 var a09659 =
 [
-    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "dc/d50/a09659.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
-    [ "operator()", "dc/d50/a09659.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
-    [ "i_funit", "dc/d50/a09659.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
-    [ "i_obj", "dc/d50/a09659.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
-    [ "i_range", "dc/d50/a09659.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
+    [ "GameObjectFocusCheck", "dc/d50/a09659.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "dc/d50/a09659.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "dc/d50/a09659.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "dc/d50/a09659.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

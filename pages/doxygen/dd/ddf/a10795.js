@@ -1,8 +1,6 @@
 var a10795 =
 [
-    [ "GuildFilter", "dd/ddf/a10795.html#a20ffe6a8d19489014484722b1481cb65", null ],
-    [ "Read", "dd/ddf/a10795.html#a708e8cd6a8a7d4c1bfa3fd86575b9a63", null ],
-    [ "MaximumLevel", "dd/ddf/a10795.html#a3e23b4e2e5bda01b55ad26ea66222f78", null ],
-    [ "MinimumLevel", "dd/ddf/a10795.html#a0c6523d46a325841cc5511a2a0f3e5c2", null ],
-    [ "MinimumRank", "dd/ddf/a10795.html#a363df89cbe7b5aba7c7df69b65468c49", null ]
+    [ "WeatherScript", "dd/ddf/a10795.html#a4f86b051364c95f5389d7ed473429b7b", null ],
+    [ "IsDatabaseBound", "dd/ddf/a10795.html#a2547902149ce080711ccacb709b10e8a", null ],
+    [ "OnChange", "dd/ddf/a10795.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
 ];

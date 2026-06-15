@@ -1,7 +1,6 @@
 var a16667 =
 [
-    [ "HandleEffectPeriodic", "dd/dff/a16667.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "dd/dff/a16667.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "dd/dff/a16667.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "dd/dff/a16667.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "FilterTargets", "dd/dff/a16667.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "dd/dff/a16667.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "dd/dff/a16667.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

@@ -1,6 +1,7 @@
 var a19063 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d9/ddf/a19067.html", "d9/ddf/a19067" ],
-    [ "npc_icc_gauntlet_controller", "d8/d07/a19063.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d8/d07/a19063.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "Land", "d8/d07/a19063.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d8/d07/a19063.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d8/d07/a19063.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d8/d07/a19063.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

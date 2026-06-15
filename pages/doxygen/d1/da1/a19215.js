@@ -1,6 +1,5 @@
 var a19215 =
 [
-    [ "NotOnSameSide", "d1/da1/a19215.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
-    [ "operator()", "d1/da1/a19215.html#a59ea48b9633049180ec62d3616fe4dea", null ],
-    [ "m_inLiveSide", "d1/da1/a19215.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
+    [ "at_icc_spire_frostwyrm", "d1/da1/a19215.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "d1/da1/a19215.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

@@ -1,6 +1,6 @@
 var a22175 =
 [
-    [ "npc_crusade_recruitAI", "d0/db1/a22179.html", "d0/db1/a22179" ],
-    [ "npc_crusade_recruit", "dd/d8a/a22175.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "dd/d8a/a22175.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "HandlePeriodicDummy", "dd/d8a/a22175.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "dd/d8a/a22175.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "dd/d8a/a22175.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

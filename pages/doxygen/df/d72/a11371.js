@@ -1,8 +1,9 @@
 var a11371 =
 [
-    [ "PetSpellAutocast", "df/d72/a11371.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "df/d72/a11371.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "df/d72/a11371.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "df/d72/a11371.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "df/d72/a11371.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "TrainerList", "df/d72/a11371.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
+    [ "Write", "df/d72/a11371.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
+    [ "Greeting", "df/d72/a11371.html#ad88c53405b38f276815e0f013ce5261f", null ],
+    [ "Spells", "df/d72/a11371.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
+    [ "TrainerGUID", "df/d72/a11371.html#ab5e93d6c38efd311c701401ec03f7958", null ],
+    [ "TrainerType", "df/d72/a11371.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
 ];

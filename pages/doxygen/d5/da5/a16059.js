@@ -1,6 +1,6 @@
 var a16059 =
 [
-    [ "HandleOpenLock", "d5/da5/a16059.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "d5/da5/a16059.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "d5/da5/a16059.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_tyrande_whisperwind", "d5/da5/a16059.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d5/da5/a16059.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d5/da5/a16059.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

@@ -1,7 +1,9 @@
 var a22223 =
 [
-    [ "OutdoorPvPGH", "d9/df6/a22223.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "d9/df6/a22223.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "d9/df6/a22223.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d9/df6/a22223.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_crusade_recruitAI", "d9/df6/a22223.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "d9/df6/a22223.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "d9/df6/a22223.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "d9/df6/a22223.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "d9/df6/a22223.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "d9/df6/a22223.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

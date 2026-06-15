@@ -1,9 +1,8 @@
 var a21979 =
 [
-    [ "npc_brunnhildar_prisonerAI", "df/d79/a21979.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "df/d79/a21979.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "df/d79/a21979.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "df/d79/a21979.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "df/d79/a21979.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "df/d79/a21979.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_adventurous_dwarfAI", "dd/d56/a21983.html", "dd/d56/a21983" ],
+    [ "npc_adventurous_dwarf", "df/d79/a21979.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "df/d79/a21979.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "df/d79/a21979.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "df/d79/a21979.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

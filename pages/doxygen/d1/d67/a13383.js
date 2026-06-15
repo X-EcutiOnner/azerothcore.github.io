@@ -1,7 +1,6 @@
 var a13383 =
 [
-    [ "HandleScript", "d1/d67/a13383.html#a6ce169d6c1b106195f787b52ea433311", null ],
-    [ "PrepareSpellScript", "d1/d67/a13383.html#a4f71583df2193274365944e6d228247c", null ],
-    [ "Register", "d1/d67/a13383.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
-    [ "Validate", "d1/d67/a13383.html#a51025308f88001f1f66d7f68f174f325", null ]
+    [ "CheckRequirement", "d1/d67/a13383.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d1/d67/a13383.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d1/d67/a13383.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

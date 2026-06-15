@@ -1,7 +1,7 @@
 var a08459 =
 [
-    [ "AddToGrid", "d1/d9d/a08459.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d1/d9d/a08459.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d1/d9d/a08459.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d1/d9d/a08459.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "entry", "d1/d9d/a08459.html#ad0d74d6216c9b6cb6fbeda55fb002072", null ],
+    [ "pos", "d1/d9d/a08459.html#af264c1262d9fcd204a2a536847a613b1", null ],
+    [ "respawnTime", "d1/d9d/a08459.html#abeadd86c92a8c301626dde6943da1b9b", null ],
+    [ "rot", "d1/d9d/a08459.html#a776668c1b71e0cf9f3e0f0619498ae72", null ]
 ];

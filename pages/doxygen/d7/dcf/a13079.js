@@ -1,6 +1,7 @@
 var a13079 =
 [
-    [ "instance_karazhan_InstanceMapScript", "d6/dd0/a13083.html", "d6/dd0/a13083" ],
-    [ "instance_karazhan", "d7/dcf/a13079.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "d7/dcf/a13079.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "boss_maiden_of_virtue", "d7/dcf/a13079.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d7/dcf/a13079.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d7/dcf/a13079.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d7/dcf/a13079.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

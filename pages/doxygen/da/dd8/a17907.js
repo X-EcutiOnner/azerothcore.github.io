@@ -1,7 +1,20 @@
 var a17907 =
 [
-    [ "FilterTargets", "da/dd8/a17907.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
-    [ "HandleDummy", "da/dd8/a17907.html#a04166e4e5a4ba082755433555855cb30", null ],
-    [ "PrepareSpellScript", "da/dd8/a17907.html#aaefa58014db12fb76e3416ae807c69e8", null ],
-    [ "Register", "da/dd8/a17907.html#a497ee30669d45341023abe549c91ddaf", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "da/dd8/a17907.html#aa29123d2482962c17a48e66db205207b", null ],
+    [ "AttackStart", "da/dd8/a17907.html#a7b5de4a7fd5fd49847a749a82d3dbb3e", null ],
+    [ "CanAIAttack", "da/dd8/a17907.html#a2e0d4d678cf315ac1d58e6bab290479f", null ],
+    [ "DamageTaken", "da/dd8/a17907.html#afd7e3b65e8091e5f24367c8de65df200", null ],
+    [ "DoAction", "da/dd8/a17907.html#ae57b20a747ec0421f28f6d12a55d48d3", null ],
+    [ "EnterEvadeMode", "da/dd8/a17907.html#ac3ab7ebfd6ae536743d557bb26434d28", null ],
+    [ "JustEngagedWith", "da/dd8/a17907.html#ad2693aba63dec87b5d57aeac7969819a", null ],
+    [ "SetData", "da/dd8/a17907.html#a5416f116eb1a8707d546c99af157642d", null ],
+    [ "sGossipSelect", "da/dd8/a17907.html#ad6362193938539f78d3726687f03badc", null ],
+    [ "UpdateAI", "da/dd8/a17907.html#a7fe22201514986bc20fbe9e7f27d410a", null ],
+    [ "_controller", "da/dd8/a17907.html#aec8a2a424ff10099437cbc7e7ca03ae3", null ],
+    [ "_events", "da/dd8/a17907.html#ab72a5bf5b6313b51002ff96ca8ee4971", null ],
+    [ "_firstMageCooldown", "da/dd8/a17907.html#a7cb5e81a09283c1ca915ec4419363af4", null ],
+    [ "_instance", "da/dd8/a17907.html#a5d6a8a6c7b0469de2151c9363d63c0ce", null ],
+    [ "_mortarYellCooldown", "da/dd8/a17907.html#af13f2f59692b16ad24d17442efe9f834", null ],
+    [ "_riflemanYellCooldown", "da/dd8/a17907.html#ac7f039bb890fdd08dc616f23680d37e4", null ],
+    [ "checkTimer", "da/dd8/a17907.html#a0416f980547177f722cdd4305823d99e", null ]
 ];

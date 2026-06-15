@@ -1,11 +1,11 @@
 var a09147 =
 [
-    [ "~GridCell", "d0/d7d/a09147.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d0/d7d/a09147.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d0/d7d/a09147.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d0/d7d/a09147.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d0/d7d/a09147.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d0/d7d/a09147.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d0/d7d/a09147.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d0/d7d/a09147.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "VehicleSeatAddon", "d0/d7d/a09147.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d0/d7d/a09147.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d0/d7d/a09147.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d0/d7d/a09147.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d0/d7d/a09147.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d0/d7d/a09147.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d0/d7d/a09147.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d0/d7d/a09147.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

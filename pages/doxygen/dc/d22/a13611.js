@@ -1,12 +1,7 @@
 var a13611 =
 [
-    [ "boss_kalecgos", "dc/d22/a13611.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
-    [ "CanAIAttack", "dc/d22/a13611.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
-    [ "CheckInRoom", "dc/d22/a13611.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
-    [ "ClearPlayerAuras", "dc/d22/a13611.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
-    [ "DoAction", "dc/d22/a13611.html#aaccfa519a7290eb56990e43de4beea97", null ],
-    [ "JustEngagedWith", "dc/d22/a13611.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
-    [ "KilledUnit", "dc/d22/a13611.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
-    [ "Reset", "dc/d22/a13611.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
-    [ "_sathBanished", "dc/d22/a13611.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
+    [ "OnPeriodic", "dc/d22/a13611.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "dc/d22/a13611.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "dc/d22/a13611.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "dc/d22/a13611.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

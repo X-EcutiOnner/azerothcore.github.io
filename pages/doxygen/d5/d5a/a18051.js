@@ -1,6 +1,7 @@
 var a18051 =
 [
-    [ "MalleableGooSelector", "d5/d5a/a18051.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "d5/d5a/a18051.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "d5/d5a/a18051.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "DamageGunship", "d5/d5a/a18051.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d5/d5a/a18051.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d5/d5a/a18051.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d5/d5a/a18051.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

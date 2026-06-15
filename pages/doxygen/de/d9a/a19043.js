@@ -1,6 +1,7 @@
 var a19043 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "dd/d01/a19047.html", "dd/d01/a19047" ],
-    [ "npc_icc_vengeful_fleshreaper", "de/d9a/a19043.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "de/d9a/a19043.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "HandleEvent", "de/d9a/a19043.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "de/d9a/a19043.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "de/d9a/a19043.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "de/d9a/a19043.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

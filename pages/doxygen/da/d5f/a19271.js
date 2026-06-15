@@ -1,6 +1,7 @@
 var a19271 =
 [
-    [ "HandleHit", "da/d5f/a19271.html#aa6302d9372bf6ea514d49d8c8e280781", null ],
-    [ "PrepareSpellScript", "da/d5f/a19271.html#a87b57541a36d711ecbca6f485915c9ab", null ],
-    [ "Register", "da/d5f/a19271.html#ad7290a8d786f64fdf7b5b04a7770ff6d", null ]
+    [ "npc_ioc_gunship_captainAI", "da/d5f/a19271.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "da/d5f/a19271.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "da/d5f/a19271.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "da/d5f/a19271.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

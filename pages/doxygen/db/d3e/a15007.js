@@ -1,10 +1,7 @@
 var a15007 =
 [
-    [ "npc_hyjal_frost_wyrm", "db/d3e/a15007.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "db/d3e/a15007.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "db/d3e/a15007.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "db/d3e/a15007.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "db/d3e/a15007.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "db/d3e/a15007.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "db/d3e/a15007.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "HandleScript", "db/d3e/a15007.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "db/d3e/a15007.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "db/d3e/a15007.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "db/d3e/a15007.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

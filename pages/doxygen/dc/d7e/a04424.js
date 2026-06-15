@@ -1,11 +1,7 @@
 var a04424 =
 [
-    [ "AABound", "df/d18/a05168.html", "df/d18/a05168" ],
-    [ "BIH", "d8/de4/a05172.html", "d8/de4/a05172" ],
-    [ "BIH::buildData", "d3/dd2/a05176.html", "d3/dd2/a05176" ],
-    [ "BIH::StackNode", "d7/d64/a05180.html", "d7/d64/a05180" ],
-    [ "BIH::BuildStats", "dc/ded/a05184.html", "dc/ded/a05184" ],
-    [ "MAX_STACK_SIZE", "dc/d7e/a04424.html#accbb358028675c83675d8b34c386268d", null ],
-    [ "floatToRawIntBits", "dc/d7e/a04424.html#ad04403146f53e198de60b6c4bec4246e", null ],
-    [ "intBitsToFloat", "dc/d7e/a04424.html#a3b415e235398aa84c4f976084f8e130c", null ]
+    [ "VMAP::GroupLocationInfo", "d9/dba/a05287.html", "d9/dba/a05287" ],
+    [ "VMAP::LocationInfo", "d8/dbd/a05291.html", "d8/dbd/a05291" ],
+    [ "VMAP::StaticMapTree", "d1/df2/a05295.html", "d1/df2/a05295" ],
+    [ "VMAP::AreaInfo", "db/d87/a05299.html", "db/d87/a05299" ]
 ];

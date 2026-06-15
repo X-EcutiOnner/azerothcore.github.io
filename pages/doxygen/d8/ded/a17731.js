@@ -1,6 +1,9 @@
 var a17731 =
 [
-    [ "npc_stinky_iccAI", "d5/de7/a17735.html", "d5/de7/a17735" ],
-    [ "npc_stinky_icc", "d8/ded/a17731.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "d8/ded/a17731.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "FilterTargets", "d8/ded/a17731.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "d8/ded/a17731.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "d8/ded/a17731.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "d8/ded/a17731.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "d8/ded/a17731.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "d8/ded/a17731.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

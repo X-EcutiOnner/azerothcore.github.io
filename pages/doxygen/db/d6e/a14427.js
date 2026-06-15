@@ -1,10 +1,5 @@
 var a14427 =
 [
-    [ "npc_zealot_zath", "db/d6e/a14427.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "db/d6e/a14427.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "db/d6e/a14427.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "db/d6e/a14427.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "db/d6e/a14427.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "db/d6e/a14427.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "db/d6e/a14427.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "at_zulgurub_temple_speech", "db/d6e/a14427.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "db/d6e/a14427.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

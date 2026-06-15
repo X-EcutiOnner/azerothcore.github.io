@@ -1,12 +1,7 @@
 var a12339 =
 [
-    [ "wp_commandscript", "df/de3/a12339.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "df/de3/a12339.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "df/de3/a12339.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "df/de3/a12339.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "df/de3/a12339.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "df/de3/a12339.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "df/de3/a12339.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "df/de3/a12339.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "df/de3/a12339.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "gear_commandscript", "df/de3/a12339.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
+    [ "GetCommands", "df/de3/a12339.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
+    [ "HandleGearRepairCommand", "df/de3/a12339.html#a28cd5680f07f984326d79d91adbbfd70", null ],
+    [ "HandleGearStatsCommand", "df/de3/a12339.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
 ];

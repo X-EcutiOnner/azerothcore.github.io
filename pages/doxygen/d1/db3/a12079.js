@@ -1,14 +1,8 @@
 var a12079 =
 [
-    [ "boss_galvangarAI", "d1/db3/a12079.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "d1/db3/a12079.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "d1/db3/a12079.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "d1/db3/a12079.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "d1/db3/a12079.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "d1/db3/a12079.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "d1/db3/a12079.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "d1/db3/a12079.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "d1/db3/a12079.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "d1/db3/a12079.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "d1/db3/a12079.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "CreatureTextId", "d1/db3/a12079.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d1/db3/a12079.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d1/db3/a12079.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d1/db3/a12079.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d1/db3/a12079.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

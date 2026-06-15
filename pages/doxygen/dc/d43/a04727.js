@@ -1,4 +1,4 @@
 var a04727 =
 [
-    [ "Acore::Asio::Resolver", "df/df0/a05160.html", "df/df0/a05160" ]
+    [ "ObjectRegistry< T, Key >", "d7/dbb/a05535.html", "d7/dbb/a05535" ]
 ];

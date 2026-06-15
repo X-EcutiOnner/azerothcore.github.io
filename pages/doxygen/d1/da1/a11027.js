@@ -1,7 +1,6 @@
 var a11027 =
 [
-    [ "GuildBankWithdrawMoney", "d1/da1/a11027.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "d1/da1/a11027.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "d1/da1/a11027.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "d1/da1/a11027.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildEventLogQueryResults", "d1/da1/a11027.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d1/da1/a11027.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d1/da1/a11027.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

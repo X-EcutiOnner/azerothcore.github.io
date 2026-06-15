@@ -1,7 +1,6 @@
 var a02405 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d4/d06/a10868.html", "d4/d06/a10868" ],
-    [ "WorldPackets::Calendar::GuildFilter", "dc/d42/a10872.html", "dc/d42/a10872" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "d4/dc3/a10876.html", "d4/dc3/a10876" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "d7/db8/a10880.html", "d7/db8/a10880" ]
+    [ "lfg::LFGPlayerScript", "de/dfe/a08327.html", "de/dfe/a08327" ],
+    [ "lfg::LFGGroupScript", "d5/d2f/a08331.html", "d5/d2f/a08331" ],
+    [ "AddSC_LFGScripts", "dd/d31/a02405.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

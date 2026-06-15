@@ -1,8 +1,11 @@
 var a20567 =
 [
-    [ "OnPeriodic", "d8/d11/a20567.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d8/d11/a20567.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d8/d11/a20567.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d8/d11/a20567.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d8/d11/a20567.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "npc_ulduar_expedition_engineer", "d8/d11/a20567.html#af3fe5048712bae3add6867e998c2824d", null ],
+    [ "Reset", "d8/d11/a20567.html#a7bbdbdaed353d450161e470e5f656c17", null ],
+    [ "SetData", "d8/d11/a20567.html#a9a714463750de3513e65174f796fb4de", null ],
+    [ "UpdateAI", "d8/d11/a20567.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
+    [ "fixingGUID", "d8/d11/a20567.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
+    [ "pInstance", "d8/d11/a20567.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
+    [ "timer", "d8/d11/a20567.html#a57f187130777929a921e2c35b6f43559", null ],
+    [ "working", "d8/d11/a20567.html#a3450381dc89cabede2ccde6feab96dad", null ]
 ];

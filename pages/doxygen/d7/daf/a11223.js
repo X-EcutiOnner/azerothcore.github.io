@@ -1,8 +1,7 @@
 var a11223 =
 [
-    [ "PlayObjectSound", "d7/daf/a11223.html#ab322044d36abddeb2fafbf99261bb70b", null ],
-    [ "PlayObjectSound", "d7/daf/a11223.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
-    [ "Write", "d7/daf/a11223.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
-    [ "SoundKitID", "d7/daf/a11223.html#a5e794706b8793d164a1189e9a6918735", null ],
-    [ "SourceObjectGUID", "d7/daf/a11223.html#a82b226eba66e569c1f377f529e511361", null ]
+    [ "AutoEquipItem", "d7/daf/a11223.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "d7/daf/a11223.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "d7/daf/a11223.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "d7/daf/a11223.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

@@ -1,13 +1,5 @@
 var a01199 =
 [
-    [ "instance_halls_of_lightning", "db/d55/a19768.html", "db/d55/a19768" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d9/df3/a19772.html", "d9/df3/a19772" ],
-    [ "at_hol_hall_of_watchers", "da/d2a/a19776.html", "da/d2a/a19776" ],
-    [ "TitaniumHallwaySpells", "d0/d5a/a01199.html#acb18ad00890035d01ae1c735f67fd0c8", [
-      [ "SPELL_FREEZE_ANIM", "d0/d5a/a01199.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "d0/d5a/a01199.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
-    ] ],
-    [ "AddSC_instance_halls_of_lightning", "d0/d5a/a01199.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
-    [ "doorData", "d0/d5a/a01199.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d0/d5a/a01199.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "npc_tyrande_whisperwind", "d5/da5/a16059.html", "d5/da5/a16059" ],
+    [ "AddSC_teldrassil", "d0/d5a/a01199.html#a3c3f043ac68f32b085d7fa2d72c7da94", null ]
 ];

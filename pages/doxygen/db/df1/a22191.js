@@ -1,6 +1,5 @@
 var a22191 =
 [
-    [ "FilterTargets", "db/df1/a22191.html#a4d81860c41daab44851da605d38b4753", null ],
-    [ "PrepareSpellScript", "db/df1/a22191.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
-    [ "Register", "db/df1/a22191.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
+    [ "achievement_wg_within_our_grasp", "db/df1/a22191.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "db/df1/a22191.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

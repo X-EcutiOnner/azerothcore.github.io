@@ -1,6 +1,6 @@
 var a21531 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d7/dd8/a21535.html", "d7/dd8/a21535" ],
-    [ "npc_q24545_wretched_ghoul", "de/da5/a21531.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "de/da5/a21531.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d7/dd8/a21535.html", "d7/dd8/a21535" ],
+    [ "npc_injured_7th_legion_soldier", "de/da5/a21531.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "de/da5/a21531.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

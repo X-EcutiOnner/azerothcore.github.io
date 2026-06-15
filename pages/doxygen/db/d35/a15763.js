@@ -1,7 +1,6 @@
 var a15763 =
 [
-    [ "HandleDummy", "db/d35/a15763.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "db/d35/a15763.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "db/d35/a15763.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "db/d35/a15763.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "npc_magwinAI", "d9/d94/a15767.html", "d9/d94/a15767" ],
+    [ "npc_magwin", "db/d35/a15763.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "db/d35/a15763.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

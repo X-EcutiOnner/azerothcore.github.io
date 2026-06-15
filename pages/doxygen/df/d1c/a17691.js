@@ -1,6 +1,6 @@
 var a17691 =
 [
-    [ "npc_icc_blood_beastAI", "d6/db7/a17695.html", "d6/db7/a17695" ],
-    [ "npc_icc_blood_beast", "df/d1c/a17691.html#ac6de0dfe16f39d192f1e49d3ab444d5a", null ],
-    [ "GetAI", "df/d1c/a17691.html#adf18d561b5d1c4c89e7f2ccb10f99492", null ]
+    [ "KnockIntoAir", "df/d1c/a17691.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "df/d1c/a17691.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "df/d1c/a17691.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

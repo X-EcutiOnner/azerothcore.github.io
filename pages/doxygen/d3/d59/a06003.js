@@ -1,10 +1,10 @@
 var a06003 =
 [
-    [ "MySQLConnectionInfo", "d3/d59/a06003.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d3/d59/a06003.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d3/d59/a06003.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d3/d59/a06003.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d3/d59/a06003.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d3/d59/a06003.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d3/d59/a06003.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "BasicStatementTask", "d3/d59/a06003.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "d3/d59/a06003.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "d3/d59/a06003.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "d3/d59/a06003.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "d3/d59/a06003.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "d3/d59/a06003.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "d3/d59/a06003.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

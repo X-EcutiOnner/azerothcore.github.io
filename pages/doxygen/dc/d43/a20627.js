@@ -1,7 +1,16 @@
 var a20627 =
 [
-    [ "boss_yoggsaron_corruptor_tentacle", "dc/d43/a20627.html#af7da1739cd55e8707b2f33bba0ba2031", null ],
-    [ "DoAction", "dc/d43/a20627.html#adf9489b954cc83a26263ffffe4ef2dd5", null ],
-    [ "SelectCorruptionTarget", "dc/d43/a20627.html#a8b868941372af612e269e013594a5c14", null ],
-    [ "UpdateAI", "dc/d43/a20627.html#a2f8911a615d32689088a6c358ac80d3f", null ]
+    [ "boss_thorim_runic_colossus", "dc/d43/a20627.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "dc/d43/a20627.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "dc/d43/a20627.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "dc/d43/a20627.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "RunRunicSmash", "dc/d43/a20627.html#a4b36e8e92cae14912354691f0dc09a64", null ],
+    [ "SpellHit", "dc/d43/a20627.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "dc/d43/a20627.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "dc/d43/a20627.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "_leftHand", "dc/d43/a20627.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
+    [ "_nextTriggerPos", "dc/d43/a20627.html#a5f265413890df938e00dc08e0dee9829", null ],
+    [ "_triggerLeftGUID", "dc/d43/a20627.html#af1a54a839bcd3308edf1c7769274b889", null ],
+    [ "_triggerRightGUID", "dc/d43/a20627.html#a72196fe61ab799be949b7148a52933a9", null ],
+    [ "events", "dc/d43/a20627.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

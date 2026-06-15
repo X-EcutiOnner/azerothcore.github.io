@@ -1,10 +1,12 @@
 var a29411 =
 [
-    [ "SetUp", "dd/dfa/a29411.html#a577c64b32e7d6e1055f23a9204a9dc9d", null ],
-    [ "TearDown", "dd/dfa/a29411.html#a154bc25a4e054558748b5599b56de11f", null ],
-    [ "_creatureA", "dd/dfa/a29411.html#a95e6c0f1f7a8692ec255c052b40416df", null ],
-    [ "_creatureB", "dd/dfa/a29411.html#af5d64516264eeb9f1acadeeba44b79c2", null ],
-    [ "_map", "dd/dfa/a29411.html#ada2e0d28b42465ea6f7c8de71142efd0", null ],
-    [ "_previousWorld", "dd/dfa/a29411.html#a2805a828f7a7c92845f7c712b90af381", null ],
-    [ "_worldMock", "dd/dfa/a29411.html#ab8d82db4b26a11e286ec603c63ea1613", null ]
+    [ "SetUp", "dd/dfa/a29411.html#a15e54f4d79771affa21c8728d4a70a35", null ],
+    [ "TearDown", "dd/dfa/a29411.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
+    [ "PERM_BAN", "dd/dfa/a29411.html#a309db6b83865b1f8afc92983ed4991fc", null ],
+    [ "PERM_KICK", "dd/dfa/a29411.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
+    [ "PERM_SHUTDOWN", "dd/dfa/a29411.html#a385552a15b063d426557e5f87f6ba6b6", null ],
+    [ "PERM_TELEPORT", "dd/dfa/a29411.html#a61c556021598bc970927b3abe49cd68d", null ],
+    [ "rbacData", "dd/dfa/a29411.html#aa0772fd125f832a546a4a39305ec77c4", null ],
+    [ "ROLE_ADMIN", "dd/dfa/a29411.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
+    [ "ROLE_GM", "dd/dfa/a29411.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
 ];

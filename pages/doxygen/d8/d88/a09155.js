@@ -1,10 +1,9 @@
 var a09155 =
 [
-    [ "GridObjectLoader", "d8/d88/a09155.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "d8/d88/a09155.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "d8/d88/a09155.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "d8/d88/a09155.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "d8/d88/a09155.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "d8/d88/a09155.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "d8/d88/a09155.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "VehicleAccessory", "d8/d88/a09155.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "d8/d88/a09155.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "d8/d88/a09155.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "d8/d88/a09155.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "d8/d88/a09155.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "d8/d88/a09155.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

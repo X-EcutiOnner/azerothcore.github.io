@@ -1,8 +1,6 @@
 var a16123 =
 [
-    [ "HandleAfterCast", "d0/d69/a16123.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d0/d69/a16123.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d0/d69/a16123.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d0/d69/a16123.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d0/d69/a16123.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_cairne_bloodhoofAI", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
+    [ "npc_cairne_bloodhoof", "d0/d69/a16123.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d0/d69/a16123.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

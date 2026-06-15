@@ -1,7 +1,11 @@
 var a23695 =
 [
-    [ "npc_daranelleAI", "da/dfd/a23695.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "da/dfd/a23695.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "da/dfd/a23695.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "da/dfd/a23695.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "boss_pathaleon_the_calculator", "da/dfd/a23695.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "da/dfd/a23695.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "da/dfd/a23695.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "da/dfd/a23695.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "da/dfd/a23695.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "da/dfd/a23695.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "da/dfd/a23695.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "da/dfd/a23695.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

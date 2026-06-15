@@ -1,11 +1,20 @@
 var a03143 =
 [
-    [ "AddOutdoorPvPScripts", "d4/d43/a03143.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "d4/d43/a03143.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "d4/d43/a03143.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "d4/d43/a03143.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "d4/d43/a03143.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "d4/d43/a03143.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "d4/d43/a03143.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "d4/d43/a03143.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "WardenCheck", "d3/ddb/a12171.html", "d3/ddb/a12171" ],
+    [ "WardenCheckResult", "d4/d0e/a12175.html", "d4/d0e/a12175" ],
+    [ "WardenCheckMgr", "d2/d4f/a12179.html", "d2/d4f/a12179" ],
+    [ "sWardenCheckMgr", "d4/d43/a03143.html#a367963ecc82479f8bea3aea9e235a85c", null ],
+    [ "WardenActions", "d4/d43/a03143.html#acd25f1c729cc9c78338c6bc117dcd5e1", [
+      [ "WARDEN_ACTION_LOG", "d4/d43/a03143.html#acd25f1c729cc9c78338c6bc117dcd5e1a886d1d7fc710f19b1f98a28dd6652d81", null ],
+      [ "WARDEN_ACTION_KICK", "d4/d43/a03143.html#acd25f1c729cc9c78338c6bc117dcd5e1a3e6856d34f7e97f6cafcce4a86315d13", null ],
+      [ "WARDEN_ACTION_BAN", "d4/d43/a03143.html#acd25f1c729cc9c78338c6bc117dcd5e1a420c50c42a2e76090d4a4ab690885ae0", null ]
+    ] ],
+    [ "WardenCheckTypes", "d4/d43/a03143.html#ad353d1b1b229bf72b97440ac296da2f0", [
+      [ "WARDEN_CHECK_MEM_TYPE", "d4/d43/a03143.html#ad353d1b1b229bf72b97440ac296da2f0a3a995022793f145e1eb48b42d3aadfb3", null ],
+      [ "WARDEN_CHECK_LUA_TYPE", "d4/d43/a03143.html#ad353d1b1b229bf72b97440ac296da2f0a78405e80a7b4bf4186706d64389e96af", null ],
+      [ "WARDEN_CHECK_OTHER_TYPE", "d4/d43/a03143.html#ad353d1b1b229bf72b97440ac296da2f0ab3ea81385a6db9185a94c0715749ffe2", null ]
+    ] ],
+    [ "MAX_WARDEN_ACTION", "d4/d43/a03143.html#afa0b1cff6db4dd71ef500011182f2834", null ],
+    [ "MAX_WARDEN_CHECK_TYPES", "d4/d43/a03143.html#a80604a840828219101f07100a7a48dad", null ],
+    [ "WARDEN_MAX_LUA_CHECK_LENGTH", "d4/d43/a03143.html#a005df8388201fb598a4eedfeac422fbc", null ]
 ];

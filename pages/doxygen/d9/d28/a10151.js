@@ -1,7 +1,8 @@
 var a10151 =
 [
-    [ "MapPreloadRequest", "d9/d28/a10151.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d9/d28/a10151.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d9/d28/a10151.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d9/d28/a10151.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "BoundaryIntersectBoundary", "d9/d28/a10151.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d9/d28/a10151.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d9/d28/a10151.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d9/d28/a10151.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d9/d28/a10151.html#a41e100c17db99990981293399660824c", null ]
 ];

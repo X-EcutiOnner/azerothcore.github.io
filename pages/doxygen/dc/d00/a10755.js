@@ -1,11 +1,6 @@
 var a10755 =
 [
-    [ "PointMoveMap", "dc/d00/a10755.html#a777e97ebcf367638578d1c189480ad99", null ],
-    [ "SystemMgr", "dc/d00/a10755.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
-    [ "~SystemMgr", "dc/d00/a10755.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
-    [ "GetPointMoveList", "dc/d00/a10755.html#af9f998f9778cebce3edb39b7296994d5", null ],
-    [ "instance", "dc/d00/a10755.html#a71b78a44a3656802d55211d68fb19e12", null ],
-    [ "LoadScriptWaypoints", "dc/d00/a10755.html#af8097171a2ffc49600397c6a519dddc3", null ],
-    [ "_empty", "dc/d00/a10755.html#a4c90cb038afeb09c107979348bd3ca01", null ],
-    [ "m_mPointMoveMap", "dc/d00/a10755.html#a3603d019adf647df9f314a7ca61a25dd", null ]
+    [ "OutdoorPvPScript", "dc/d00/a10755.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "dc/d00/a10755.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "dc/d00/a10755.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

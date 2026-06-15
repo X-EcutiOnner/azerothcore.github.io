@@ -1,6 +1,7 @@
 var a14951 =
 [
-    [ "OnRemove", "d3/d24/a14951.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d3/d24/a14951.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d3/d24/a14951.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "HandleDummy", "d3/d24/a14951.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "d3/d24/a14951.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "d3/d24/a14951.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "d3/d24/a14951.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

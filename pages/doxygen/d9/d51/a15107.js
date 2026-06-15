@@ -1,7 +1,10 @@
 var a15107 =
 [
-    [ "boss_epoch_hunter", "d9/d51/a15107.html#a652d14ebfced39b8164687a713780600", null ],
-    [ "JustDied", "d9/d51/a15107.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
-    [ "JustEngagedWith", "d9/d51/a15107.html#a2571f98f36d1271f3911617e0fdfba54", null ],
-    [ "KilledUnit", "d9/d51/a15107.html#a61456e680e9108dd841e83d97536ef1b", null ]
+    [ "boss_rage_winterchill", "d9/d51/a15107.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d9/d51/a15107.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d9/d51/a15107.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d9/d51/a15107.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d9/d51/a15107.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d9/d51/a15107.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d9/d51/a15107.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

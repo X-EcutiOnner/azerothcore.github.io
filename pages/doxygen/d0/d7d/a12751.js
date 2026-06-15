@@ -1,6 +1,5 @@
 var a12751 =
 [
-    [ "boss_gehennas", "d0/d7d/a12751.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
-    [ "ExecuteEvent", "d0/d7d/a12751.html#aa11c5e8facc17b03220595a61045036f", null ],
-    [ "JustEngagedWith", "d0/d7d/a12751.html#af4f3b198a1a606efe829376b4515c7bc", null ]
+    [ "at_dragonspire_hall", "d0/d7d/a12751.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "d0/d7d/a12751.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

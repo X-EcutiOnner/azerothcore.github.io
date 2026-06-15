@@ -1,14 +1,12 @@
 var a00035 =
 [
-    [ "AccountInfo", "dd/d44/a05968.html", "dd/d44/a05968" ],
-    [ "AuthSession", "d1/d4e/a05972.html", "d1/d4e/a05972" ],
-    [ "AuthHandler", "d7/d3c/a05976.html", "d7/d3c/a05976" ],
-    [ "AuthStatus", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834", [
-      [ "STATUS_CHALLENGE", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a90b814e742d5a0b33f968164487ecac4", null ],
-      [ "STATUS_LOGON_PROOF", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a940d23c4c5ae99bdf01c40c4e975df16", null ],
-      [ "STATUS_RECONNECT_PROOF", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a2a06e7508d5944327eec6c08c11db734", null ],
-      [ "STATUS_AUTHED", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834ad7eacfaf1a48a468f2383034940ef72b", null ],
-      [ "STATUS_WAITING_FOR_REALM_LIST", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a570e0aef98212ddcd09f1ec9254ffdf0", null ],
-      [ "STATUS_CLOSED", "d4/d8c/a00035.html#a9bc15a6035dd7c4983d87a5ccb3d5834a78785eb1e6f5b92eaea5c78b3cc0dd94", null ]
-    ] ]
+    [ "SpellProcSpellTypeMaskTest", "dc/dec/a29683.html", "dc/dec/a29683" ],
+    [ "TEST_F", "d4/d8c/a00035.html#a0e299f1164a6c1e0f315da2c5551e58a", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#ae1ae997d3f0f1ba7825ae4b2e5436d44", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#a7a5da3689f4cd8516f8998a3eb8516f1", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#a0b4b6b9b08a21068764a01b658ede70d", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#abd75b3776c8e55bbc898c408aad3f34d", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#ab03489d280d80145880f52bc0a09c584", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#a6ae8c3849f8042eeff0379c4ea6d2adc", null ],
+    [ "TEST_F", "d4/d8c/a00035.html#a790970fbe1cfb4df4e5ba38abf4c9bae", null ]
 ];

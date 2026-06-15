@@ -1,7 +1,10 @@
 var a19735 =
 [
-    [ "HandleScript", "d8/db2/a19735.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d8/db2/a19735.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d8/db2/a19735.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d8/db2/a19735.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "npc_oculus_drakegiverAI", "d3/d67/a19739.html", "d3/d67/a19739" ],
+    [ "npc_oculus_drakegiver", "d8/db2/a19735.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d8/db2/a19735.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d8/db2/a19735.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d8/db2/a19735.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d8/db2/a19735.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d8/db2/a19735.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

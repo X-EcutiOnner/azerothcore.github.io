@@ -1,9 +1,11 @@
 var a14727 =
 [
-    [ "npc_love_in_air_snivel", "d6/de4/a14727.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "d6/de4/a14727.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "d6/de4/a14727.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "d6/de4/a14727.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "d6/de4/a14727.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "d6/de4/a14727.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "npc_the_biggest_tree", "d6/de4/a14727.html#a7366f46c4864fa0f1372c920b94c6e97", null ],
+    [ "MoveInLineOfSight", "d6/de4/a14727.html#a572c0b146d461b6a8504163452570954", null ],
+    [ "Reset", "d6/de4/a14727.html#a3fd4c5e522e8945925124426a8ff870b", null ],
+    [ "UpdateAI", "d6/de4/a14727.html#a3d1b33ab7cd28de5438f53a00657170a", null ],
+    [ "orphanGUID", "d6/de4/a14727.html#a36c170fb178a19256fd41fb2cbbb7830", null ],
+    [ "phase", "d6/de4/a14727.html#a7101fe10b15ce1779d3d131e597ef636", null ],
+    [ "playerGUID", "d6/de4/a14727.html#ab39af61d9ab7d9f7210f96b65971654d", null ],
+    [ "timer", "d6/de4/a14727.html#a7525783692c3bc9642f534296b71a5f5", null ]
 ];

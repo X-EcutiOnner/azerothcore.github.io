@@ -1,7 +1,7 @@
 var a17419 =
 [
-    [ "HandleScriptEffect", "df/df3/a17419.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "df/df3/a17419.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "df/df3/a17419.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "df/df3/a17419.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_pos_icicle_triggerAI", "df/df3/a17419.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "df/df3/a17419.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "df/df3/a17419.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "df/df3/a17419.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

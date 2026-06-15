@@ -1,6 +1,7 @@
 var a23739 =
 [
-    [ "npc_ancestral_wolfAI", "d1/db2/a23743.html", "d1/db2/a23743" ],
-    [ "npc_ancestral_wolf", "db/d32/a23739.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "db/d32/a23739.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "npc_daranelleAI", "db/d32/a23739.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "db/d32/a23739.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "db/d32/a23739.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "db/d32/a23739.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

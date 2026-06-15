@@ -1,8 +1,8 @@
 var a15639 =
 [
-    [ "npc_death_ravagerAI", "d3/daf/a15639.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d3/daf/a15639.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d3/daf/a15639.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d3/daf/a15639.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d3/daf/a15639.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "boss_veklor", "d3/daf/a15639.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d3/daf/a15639.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d3/daf/a15639.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d3/daf/a15639.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d3/daf/a15639.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

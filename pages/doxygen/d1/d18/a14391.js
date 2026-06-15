@@ -1,11 +1,6 @@
 var a14391 =
 [
-    [ "boss_marli", "d1/d18/a14391.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "d1/d18/a14391.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "d1/d18/a14391.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "d1/d18/a14391.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "d1/d18/a14391.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "d1/d18/a14391.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "d1/d18/a14391.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "d1/d18/a14391.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "boss_gahzranka", "d1/d18/a14391.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d1/d18/a14391.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d1/d18/a14391.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

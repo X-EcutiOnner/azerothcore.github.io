@@ -1,9 +1,7 @@
 var a15827 =
 [
-    [ "npc_thrall_warchiefAI", "dc/dcc/a15831.html", "dc/dcc/a15831" ],
-    [ "npc_thrall_warchief", "d8/d4c/a15827.html#a3958f0b444537ac8a5ebf55de44e3590", null ],
-    [ "GetAI", "d8/d4c/a15827.html#a4fc3d5410b959b4289f1ced17d412c03", null ],
-    [ "OnGossipHello", "d8/d4c/a15827.html#a5cd40c062fb07d2ddfffdc159f2935d3", null ],
-    [ "OnGossipSelect", "d8/d4c/a15827.html#a63367ca0b252c148f625b305575fd768", null ],
-    [ "OnQuestReward", "d8/d4c/a15827.html#a6576664c201d62cab1fa2f073cddee6e", null ]
+    [ "npc_prospector_remtravelAI", "dc/dcc/a15831.html", "dc/dcc/a15831" ],
+    [ "npc_prospector_remtravel", "d8/d4c/a15827.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d8/d4c/a15827.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d8/d4c/a15827.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

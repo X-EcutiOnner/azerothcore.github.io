@@ -1,7 +1,9 @@
 var a26643 =
 [
-    [ "HandleApplyEffect", "dc/dc8/a26643.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "dc/dc8/a26643.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "dc/dc8/a26643.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "dc/dc8/a26643.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckProc", "dc/dc8/a26643.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "dc/dc8/a26643.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "dc/dc8/a26643.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "dc/dc8/a26643.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "dc/dc8/a26643.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "dc/dc8/a26643.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

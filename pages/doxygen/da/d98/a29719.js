@@ -1,13 +1,13 @@
 var a29719 =
 [
-    [ "MPQArchive", "da/d98/a29719.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "da/d98/a29719.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "da/d98/a29719.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "da/d98/a29719.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "da/d98/a29719.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "da/d98/a29719.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "da/d98/a29719.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "da/d98/a29719.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "da/d98/a29719.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "da/d98/a29719.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "liquid_data", "d5/dc4/a29727.html", "d5/dc4/a29727" ],
+    [ "prepareLoadedData", "da/d98/a29719.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
+    [ "data", "da/d98/a29719.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
+    [ "fcc", "da/d98/a29719.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
+    [ "fcc_txt", "da/d98/a29719.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
+    [ "flags", "da/d98/a29719.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
+    [ "height1", "da/d98/a29719.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
+    [ "height2", "da/d98/a29719.html#ab03dc912a304c0585d2725596adb4b49", null ],
+    [ "liquid", "da/d98/a29719.html#aae29940e6fdf046f9a29cf519ef61936", null ],
+    [ "size", "da/d98/a29719.html#a11581f9fb52a4ca433765e6312168288", null ]
 ];

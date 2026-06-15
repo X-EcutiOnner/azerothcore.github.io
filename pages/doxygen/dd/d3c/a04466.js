@@ -1,5 +1,7 @@
 var a04466 =
 [
-    [ "WorldModelStore", "d3/dc5/a05260.html", "d3/dc5/a05260" ],
-    [ "sWorldModelStore", "dd/d3c/a04466.html#ac34a0ffef200907436157f7ccb40be46", null ]
+    [ "VMAP::MeshTriangle", "df/d06/a05371.html", "df/d06/a05371" ],
+    [ "VMAP::WmoLiquid", "d3/d97/a05375.html", "d3/d97/a05375" ],
+    [ "VMAP::GroupModel", "dd/d3d/a05379.html", "dd/d3d/a05379" ],
+    [ "VMAP::WorldModel", "db/d18/a05383.html", "db/d18/a05383" ]
 ];

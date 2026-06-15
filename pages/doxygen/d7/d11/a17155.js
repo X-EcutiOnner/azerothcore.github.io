@@ -1,9 +1,6 @@
 var a17155 =
 [
-    [ "npc_hor_spiritual_reflection", "d7/d11/a17155.html#ade6e6c1f32f4353c131fce054d6b94c4", null ],
-    [ "EnterEvadeMode", "d7/d11/a17155.html#a3973e83b013df723849939635071324f", null ],
-    [ "JustDied", "d7/d11/a17155.html#a913d17e1534a5940b7841e38eae246f7", null ],
-    [ "JustEngagedWith", "d7/d11/a17155.html#ad47d12654c88cc94b7c17906e4096115", null ],
-    [ "Reset", "d7/d11/a17155.html#aa7dad28bbe53286ec298ba5480717e69", null ],
-    [ "UpdateAI", "d7/d11/a17155.html#a5093b6502bca95c22b2b0f0117f86047", null ]
+    [ "instance_drak_tharon_keep", "d7/d11/a17155.html#ac3aca003330592eae06a1d843c0ae9ce", null ],
+    [ "OnGameObjectCreate", "d7/d11/a17155.html#acf6da22dd55ac945360a6c40d2b55ccf", null ],
+    [ "OnGameObjectRemove", "d7/d11/a17155.html#a0acbb86696d31eb2ef4bdd868ca03351", null ]
 ];

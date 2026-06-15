@@ -1,6 +1,9 @@
 var a13151 =
 [
-    [ "boss_kagani_nightstrike", "dd/dfd/a13151.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "dd/dfd/a13151.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "dd/dfd/a13151.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "FilterTargets", "dd/dfd/a13151.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "dd/dfd/a13151.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "dd/dfd/a13151.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "dd/dfd/a13151.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "dd/dfd/a13151.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "dd/dfd/a13151.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

@@ -1,5 +1,6 @@
 var a18351 =
 [
-    [ "at_sindragosa_lair", "d8/d2a/a18351.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d8/d2a/a18351.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "DespawnSelf", "d8/d2a/a18351.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d8/d2a/a18351.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d8/d2a/a18351.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

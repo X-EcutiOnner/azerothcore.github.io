@@ -1,6 +1,6 @@
 var a11195 =
 [
-    [ "ItemRefundInfo", "d4/d19/a11195.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "d4/d19/a11195.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "d4/d19/a11195.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "SetRaidDifficultyClient", "d4/d19/a11195.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
+    [ "Read", "d4/d19/a11195.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
+    [ "Mode", "d4/d19/a11195.html#a445a55f5069f60a184b119c57cfedf9a", null ]
 ];

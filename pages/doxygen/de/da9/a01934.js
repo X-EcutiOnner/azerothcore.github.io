@@ -1,72 +1,33 @@
 var a01934 =
 [
-    [ "npc_murkdeep", "d3/d0f/a15736.html", "d3/d0f/a15736" ],
-    [ "npc_murkdeep::npc_murkdeepAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
-    [ "npc_kerlonian", "dd/d34/a15744.html", "dd/d34/a15744" ],
-    [ "npc_kerlonian::npc_kerlonianAI", "d0/d96/a15748.html", "d0/d96/a15748" ],
-    [ "npc_prospector_remtravel", "dd/d49/a15752.html", "dd/d49/a15752" ],
-    [ "npc_prospector_remtravel::npc_prospector_remtravelAI", "d8/d50/a15756.html", "d8/d50/a15756" ],
-    [ "npc_rabid_thistle_bear", "dc/d88/a15760.html", "dc/d88/a15760" ],
-    [ "npc_rabid_thistle_bear::npc_rabid_thistle_bearAI", "d1/db1/a15764.html", "d1/db1/a15764" ],
-    [ "npc_tharnarian", "d1/db3/a15768.html", "d1/db3/a15768" ],
-    [ "npc_tharnarian::npc_tharnarianAI", "d4/df1/a15772.html", "d4/df1/a15772" ],
-    [ "eRabidThistleBear", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113", [
-      [ "EVENT_CHECK_FOLLOWING", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113afc9a5167ea507996052a95d856dfd773", null ],
-      [ "NPC_RABID_THISTLE_BEAR", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113abcc4c74b391ab174a8afb399448b9d29", null ],
-      [ "NPC_CAPTURED_RABID_THISTLE_BEAR", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a82376446e39e8a31814c9a9bdbb072cd", null ],
-      [ "OBJECT_BEAR_TRAP", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a582cc04fae035c7d569841f59fc2e7ec", null ],
-      [ "QUEST_PLAGUED_LANDS", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a7e08bbd5183ab9db7b82183b0e522ced", null ],
-      [ "SPELL_BEAR_CAPTURED_IN_TRAP", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113aabd6de46cc001c141b9bb935b6d6e973", null ],
-      [ "SPELL_THARNARIUMS_HEAL", "de/da9/a01934.html#a41f52498613aa16c9300932cba880113a985068da63d152b57387158a48c3fb60", null ]
+    [ "npc_dragonflayer_forge_master", "d7/d0a/a20971.html", "d7/d0a/a20971" ],
+    [ "npc_enslaved_proto_drake", "dd/d3a/a20975.html", "dd/d3a/a20975" ],
+    [ "spell_uk_second_wind", "db/d08/a20979.html", "db/d08/a20979" ],
+    [ "spell_ticking_time_bomb_aura", "d5/d97/a20983.html", "d5/d97/a20983" ],
+    [ "EnslavedProtoDrake", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278", [
+      [ "SPELL_REND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
+      [ "SPELL_FLAME_BREATH", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
+      [ "SPELL_KNOCK_AWAY", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
+      [ "EVENT_REND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
+      [ "EVENT_FLAME_BREATH", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
+      [ "EVENT_KNOCKAWAY", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
+      [ "EVENT_PRE_LAND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
+      [ "EVENT_LAND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
+      [ "TYPE_PROTODRAKE_AT", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
+      [ "DATA_PROTODRAKE_MOVE", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
+      [ "POINT_TAKE_OFF", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
+      [ "POINT_PRE_LAND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
+      [ "POINT_LAND", "de/da9/a01934.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
     ] ],
-    [ "eTharnarian", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8d", [
-      [ "EVENT_POST_QUEST_ONE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da8f0c38f6926a9d2ea4c92a385b85576e", null ],
-      [ "EVENT_POST_QUEST_TWO", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da8a18edfe68309d79d2422870dfeb24fa", null ],
-      [ "EVENT_POST_QUEST_THREE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8daa0a2f7760b9fc9df9d7b4255b3976abe", null ],
-      [ "ITEM_THARNARIUMS_HOPE", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8dac5c8eb102b15e74d556b069cac6ddc25", null ],
-      [ "GUID_SCRIPT_INVOKER", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8da3d14f447258cd817fac5103e8c4f74f0", null ],
-      [ "SAY_BE_CLEANSED", "de/da9/a01934.html#a0ed292ffd1cc9307544572174ebb1c8daffaa4db0aeaf6f79c1138ddb1c41ba00", null ]
+    [ "SecondWind", "de/da9/a01934.html#aad6ea2c0a908d8b75abb381baf0c2045", [
+      [ "SPELL_SECOND_WIND_TRIGGER", "de/da9/a01934.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
     ] ],
-    [ "Kerlonian", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39b", [
-      [ "SAY_KER_START", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39babc3ac66a100caa89874b07646256039b", null ],
-      [ "EMOTE_KER_SLEEP", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39baded26e804078d12b45f712b505fbf25e", null ],
-      [ "SAY_KER_SLEEP", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bab9c834eabdfaafbe7767d905507ca5ad", null ],
-      [ "SAY_KER_ALERT_1", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba36911462093829fe884e4cb6a2e127af", null ],
-      [ "SAY_KER_END", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39baf7e03539ce3753f881a9dd3e893b7ba3", null ],
-      [ "EMOTE_KER_AWAKEN", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bac2881d53a673452d7258ee2bef83a84f", null ],
-      [ "SPELL_SLEEP_VISUAL", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba1f4283bc035f04b15b35f91f5bdbea9a", null ],
-      [ "SPELL_AWAKEN", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba76e1fd225869c359917096a4030f4799", null ],
-      [ "SPELL_BEAR_FORM", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba3061724d7785d585b14cfc45699157cf", null ],
-      [ "QUEST_SLEEPER_AWAKENED", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39ba702550ccecae90a75919e9f9b665d436", null ],
-      [ "NPC_LILADRIS", "de/da9/a01934.html#a3338171c123af20526d919ca7eaed39bab51082ac5d4aacd1d44e0406af8e5358", null ]
+    [ "TickingTimeBomb", "de/da9/a01934.html#a9126ee26be77d9dcf83d14c8abae1cca", [
+      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "de/da9/a01934.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
     ] ],
-    [ "murkdeep", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22", [
-      [ "NPC_GREYMIST_HUNTER", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a7baf0aab301c57d676de1ce0f3a36839", null ],
-      [ "NPC_GREYMIST_WARRIOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22ab68a89ef67b8c9488015e04f7631d449", null ],
-      [ "NPC_GREYMIST_COASTRUNNER", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a7ca2c4b7931eee3f66055780c5e0ebac", null ],
-      [ "SPELL_SUNDER_ARMOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a99eaf912c120c7fa6d85748ebf96aebb", null ],
-      [ "SPELL_NET", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22ad629b7c9e5a74890e7d6a77a13a38bcf", null ],
-      [ "EVENT_SPELL_SUNDER_ARMOR", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22acda9c7ee6bb48504f6800c78f59f881a", null ],
-      [ "EVENT_SPELL_NET", "de/da9/a01934.html#a28d336f7a4c4779d0ac960ac128faf22a3390cb09d109972288a2c865f7ce297d", null ]
-    ] ],
-    [ "Remtravel", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56", [
-      [ "SAY_REM_START", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a62a229671a25cfaddf81e1a1cc12742d", null ],
-      [ "SAY_REM_AGGRO", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aed18934bce8f8e8f07d934c5ade27be4", null ],
-      [ "SAY_REM_RAMP1_1", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a563fab7afb0590de4521bbd73728998b", null ],
-      [ "SAY_REM_RAMP1_2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a4e8e2f5b39b89c40c050971d3767a745", null ],
-      [ "SAY_REM_BOOK", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a965facd3db5184c90115e1a829b99cf0", null ],
-      [ "SAY_REM_TENT1_1", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56ad3345c1e7f8e714d0e9118c1c1ccdb79", null ],
-      [ "SAY_REM_TENT1_2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aa157db4b86b4d1de81e174d18934d2dc", null ],
-      [ "SAY_REM_MOSS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a538e937677e0f34b53fd87d21dede8bb", null ],
-      [ "EMOTE_REM_MOSS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a33b775990c585ad8d13c71081dc3b1c4", null ],
-      [ "SAY_REM_MOSS_PROGRESS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a1275f169479aee3e508a7c8cc63528ae", null ],
-      [ "SAY_REM_PROGRESS", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56afe4a0e889c848aa951c477b92846a808", null ],
-      [ "SAY_REM_REMEMBER", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56ac35ea1e7f866d747cbdee9f0d5bb6bac", null ],
-      [ "EMOTE_REM_END", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a3d07e1988da097fde7e1fb3b569be5ef", null ],
-      [ "QUEST_ABSENT_MINDED_PT2", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aef8f51392044131efa5c56c2e87b1185", null ],
-      [ "NPC_GRAVEL_SCOUT", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56aed815d857586fe880614e6b84a935d35", null ],
-      [ "NPC_GRAVEL_BONE", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a720b19c0296bc27aa09d85fc7c020307", null ],
-      [ "NPC_GRAVEL_GEO", "de/da9/a01934.html#a4a231f21241510908fe1bab1745bec56a33fbb8b046204271ed26d265cbf6c9d3", null ]
-    ] ],
-    [ "AddSC_darkshore", "de/da9/a01934.html#aea2746bdf2fc046053c962d9025651d1", null ]
+    [ "AddSC_utgarde_keep", "de/da9/a01934.html#a3252f1bf2be160c6d8960f41e595db47", null ],
+    [ "protodrakeCheckPos", "de/da9/a01934.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
+    [ "protodrakeLandPos", "de/da9/a01934.html#a1a48021562fd573e8e0e970124788afd", null ],
+    [ "protodrakePreLandPos", "de/da9/a01934.html#aa19590ca509e049e2c92b727b48b6649", null ],
+    [ "protodrakeTakeOffPos", "de/da9/a01934.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
 ];

@@ -1,6 +1,8 @@
 var a19599 =
 [
-    [ "instance_oculus_InstanceMapScript", "d8/d24/a19603.html", "d8/d24/a19603" ],
-    [ "instance_oculus", "d9/daf/a19599.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d9/daf/a19599.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "Load", "d9/daf/a19599.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "d9/daf/a19599.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "d9/daf/a19599.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "d9/daf/a19599.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "d9/daf/a19599.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

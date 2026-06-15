@@ -1,7 +1,7 @@
 var a11675 =
 [
-    [ "SpellImmune", "d8/d7a/a11675.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d8/d7a/a11675.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d8/d7a/a11675.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d8/d7a/a11675.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "Player", "d8/d7a/a11675.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d8/d7a/a11675.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d8/d7a/a11675.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d8/d7a/a11675.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

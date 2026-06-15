@@ -1,9 +1,14 @@
 var a14335 =
 [
-    [ "npc_healing_ward", "dd/d3a/a14335.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "dd/d3a/a14335.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "dd/d3a/a14335.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "dd/d3a/a14335.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "dd/d3a/a14335.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "dd/d3a/a14335.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_harrison_jones", "dd/d3a/a14335.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "dd/d3a/a14335.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "dd/d3a/a14335.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "dd/d3a/a14335.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "dd/d3a/a14335.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "dd/d3a/a14335.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "dd/d3a/a14335.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "dd/d3a/a14335.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "dd/d3a/a14335.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "dd/d3a/a14335.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "dd/d3a/a14335.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

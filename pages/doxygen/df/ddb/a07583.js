@@ -1,14 +1,19 @@
 var a07583 =
 [
-    [ "IsArena", "df/ddb/a07583.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "df/ddb/a07583.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "df/ddb/a07583.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "df/ddb/a07583.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "df/ddb/a07583.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "df/ddb/a07583.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "df/ddb/a07583.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "df/ddb/a07583.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "df/ddb/a07583.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "df/ddb/a07583.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "df/ddb/a07583.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaSeasonRewardGroupsBySeasonContainer", "df/ddb/a07583.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
+    [ "BroadcastUpdatedWorldState", "df/ddb/a07583.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
+    [ "CanDeleteArenaTeams", "df/ddb/a07583.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
+    [ "ChangeCurrentSeason", "df/ddb/a07583.html#a05f9e4be327f8ecb65729cec2d811851", null ],
+    [ "DeleteArenaTeams", "df/ddb/a07583.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
+    [ "GameEventForArenaSeason", "df/ddb/a07583.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
+    [ "GetCurrentSeason", "df/ddb/a07583.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
+    [ "GetSeasonState", "df/ddb/a07583.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
+    [ "instance", "df/ddb/a07583.html#ad9299d5394ee20830fe9aca038575ce0", null ],
+    [ "LoadActiveSeason", "df/ddb/a07583.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
+    [ "LoadRewards", "df/ddb/a07583.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
+    [ "RewardTeamsForTheSeason", "df/ddb/a07583.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
+    [ "SetSeasonState", "df/ddb/a07583.html#a118910793bb11fba35b0cd6b28e248a8", null ],
+    [ "_arenaSeasonRewardGroupsStore", "df/ddb/a07583.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
+    [ "_currentSeason", "df/ddb/a07583.html#a168a36d3ae1818f22acfb168e932c10c", null ],
+    [ "_currentSeasonState", "df/ddb/a07583.html#af73eb610ed7b0e908c206aac14f2c452", null ]
 ];

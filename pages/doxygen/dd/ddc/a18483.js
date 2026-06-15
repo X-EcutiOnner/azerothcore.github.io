@@ -1,7 +1,6 @@
 var a18483 =
 [
-    [ "OnRemove", "dd/ddc/a18483.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "dd/ddc/a18483.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "dd/ddc/a18483.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "dd/ddc/a18483.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "npc_sindragosa_trashAI", "d8/dc6/a18487.html", "d8/dc6/a18487" ],
+    [ "npc_sindragosa_trash", "dd/ddc/a18483.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "dd/ddc/a18483.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

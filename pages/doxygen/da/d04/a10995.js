@@ -1,5 +1,8 @@
 var a10995 =
 [
-    [ "GuildLeave", "da/d04/a10995.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "da/d04/a10995.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "GuildCommandResult", "da/d04/a10995.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "da/d04/a10995.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "da/d04/a10995.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "da/d04/a10995.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "da/d04/a10995.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

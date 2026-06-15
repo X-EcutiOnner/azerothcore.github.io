@@ -1,7 +1,6 @@
 var a11771 =
 [
-    [ "EffectNameCheck", "d3/dc0/a11771.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d3/dc0/a11771.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d3/dc0/a11771.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d3/dc0/a11771.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "ChannelTargetData", "d3/dc0/a11771.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d3/dc0/a11771.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d3/dc0/a11771.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

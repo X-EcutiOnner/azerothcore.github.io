@@ -1,10 +1,5 @@
 var a15003 =
 [
-    [ "npc_hyjal_gargoyle", "dd/d86/a15003.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "dd/d86/a15003.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "dd/d86/a15003.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "dd/d86/a15003.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "dd/d86/a15003.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "dd/d86/a15003.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "dd/d86/a15003.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "achievement_pb_terokkar_turkey_time", "dd/d86/a15003.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "dd/d86/a15003.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

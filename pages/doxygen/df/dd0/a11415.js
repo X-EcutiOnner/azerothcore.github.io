@@ -1,6 +1,4 @@
 var a11415 =
 [
-    [ "TotemDestroyed", "df/dd0/a11415.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "df/dd0/a11415.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "df/dd0/a11415.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "Validate", "df/dd0/a11415.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
 ];

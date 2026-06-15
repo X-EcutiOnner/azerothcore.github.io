@@ -1,6 +1,6 @@
 var a19123 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d4/db0/a19127.html", "d4/db0/a19127" ],
-    [ "npc_isle_of_conquest_turret", "d2/daf/a19123.html#ac080845203adef25e6841133b7e2f4dc", null ],
-    [ "GetAI", "d2/daf/a19123.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d4/db0/a19127.html", "d4/db0/a19127" ],
+    [ "npc_icc_skybreaker_marksman", "d2/daf/a19123.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "d2/daf/a19123.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

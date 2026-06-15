@@ -1,23 +1,42 @@
 var a01310 =
 [
-    [ "AddSC_achievement_scripts", "da/d79/a01310.html#a5091d6f933800f3313078304ad5c38ca", null ],
-    [ "AddSC_action_ip_logger", "da/d79/a01310.html#a530be5efb251d5ca58e97804e48ad953", null ],
-    [ "AddSC_areatrigger_scripts", "da/d79/a01310.html#a992f2da647f1f8748c7c9239b52079ad", null ],
-    [ "AddSC_chat_log", "da/d79/a01310.html#ae796ad81a78a552e5c31fcf6c5c135fa", null ],
-    [ "AddSC_emerald_dragons", "da/d79/a01310.html#aabef9c5c7a434027ce4d3af6e2b77430", null ],
-    [ "AddSC_generic_creature", "da/d79/a01310.html#a50f66c4d6429b38157e35a75a0daa31d", null ],
-    [ "AddSC_go_scripts", "da/d79/a01310.html#a279b19d9fff015d16fc8bbd2fbc9325a", null ],
-    [ "AddSC_guards", "da/d79/a01310.html#acba582cbc90c710c629dd30926acdca4", null ],
-    [ "AddSC_item_scripts", "da/d79/a01310.html#a3e28ebf5a580887bb117f786689a34c6", null ],
-    [ "AddSC_npc_innkeeper", "da/d79/a01310.html#a3ffce1ea6cca981888af85ba67364df9", null ],
-    [ "AddSC_npc_professions", "da/d79/a01310.html#a428ec531a2dc4e479b5c73e0d0694091", null ],
-    [ "AddSC_npc_stave_of_ancients", "da/d79/a01310.html#a81e200e5d045a2403cd76a0559a6fd8c", null ],
-    [ "AddSC_npc_taxi", "da/d79/a01310.html#a36f8a13e2844278c955f3a8155e7a11c", null ],
-    [ "AddSC_npcs_special", "da/d79/a01310.html#aac822f73be6c9bf1dfaa4bbaec0e5aef", null ],
-    [ "AddSC_player_scripts", "da/d79/a01310.html#a1f476a8466c12651b57fd55bf13b9617", null ],
-    [ "AddSC_scourge_invasion", "da/d79/a01310.html#a5e9656f80b8e7b4176a6271aadc2d8e7", null ],
-    [ "AddSC_server_mail", "da/d79/a01310.html#a8c20fa2f42eb423e39f2aaafe8fadafc", null ],
-    [ "AddSC_suns_reach_reclamation", "da/d79/a01310.html#ae3e186d64e39803c404f1afb2144557b", null ],
-    [ "AddSC_transport_zeppelins", "da/d79/a01310.html#a29051596b0a3382db98c6b72f7ff3173", null ],
-    [ "AddWorldScripts", "da/d79/a01310.html#a5e7b18db76511725a47c51e9ce748575", null ]
+    [ "DataHeader", "da/d79/a01310.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ZFScriptName", "da/d79/a01310.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
+    [ "ZFPyramidPhases", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3", [
+      [ "PYRAMID_NOT_STARTED", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
+      [ "PYRAMID_CAGES_OPEN", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
+      [ "PYRAMID_ARRIVED_AT_STAIR", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
+      [ "PYRAMID_WAVE_1", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
+      [ "PYRAMID_PRE_WAVE_2", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
+      [ "PYRAMID_WAVE_2", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
+      [ "PYRAMID_PRE_WAVE_3", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
+      [ "PYRAMID_WAVE_3", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
+      [ "PYRAMID_KILLED_ALL_TROLLS", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
+      [ "PYRAMID_MOVED_DOWNSTAIRS", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
+      [ "PYRAMID_DESTROY_GATES", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
+      [ "PYRAMID_GATES_DESTROYED", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
+      [ "PYRAMID_DONE", "da/d79/a01310.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
+    ] ],
+    [ "ZulFarrakCreatures", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
+      [ "NPC_SANDFURY_CRETIN", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
+      [ "NPC_SANDFURY_SLAVE", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
+      [ "NPC_SANDFURY_ACOLYTE", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
+      [ "NPC_SANDFURY_DRUDGE", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
+      [ "NPC_SANDFURY_ZEALOT", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
+      [ "NPC_SHADOWPRIEST_SEZZZIZ", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
+      [ "NPC_NEKRUM_GUTCHEWER", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
+      [ "NPC_BLY", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
+      [ "NPC_RAVEN", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
+      [ "NPC_ORO", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
+      [ "NPC_WEEGLI", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
+      [ "NPC_MURTA", "da/d79/a01310.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
+    ] ],
+    [ "ZulFarrakData", "da/d79/a01310.html#a66cc3be5310a2efbacb38d2398d8af24", [
+      [ "DATA_PYRAMID", "da/d79/a01310.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
+      [ "DATA_GAHZRILLA", "da/d79/a01310.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
+    ] ],
+    [ "ZulFarrakGameobjects", "da/d79/a01310.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
+      [ "GO_END_DOOR", "da/d79/a01310.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
+    ] ],
+    [ "GetZulFarrakAI", "da/d79/a01310.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
 ];

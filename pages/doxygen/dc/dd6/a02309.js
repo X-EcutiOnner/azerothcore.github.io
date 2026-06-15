@@ -1,4 +1,4 @@
 var a02309 =
 [
-    [ "WorldPackets::Combat::SetSheathed", "d5/d78/a10940.html", "d5/d78/a10940" ]
+    [ "DBCStorageIterator< T >", "d0/da5/a28459.html", "d0/da5/a28459" ]
 ];

@@ -1,10 +1,9 @@
 var a09607 =
 [
-    [ "MostHPPercentMissingInRange", "d5/d9e/a09607.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
-    [ "operator()", "d5/d9e/a09607.html#ab1734490a3db95ad715756e85ecfaf77", null ],
-    [ "i_hpPct", "d5/d9e/a09607.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
-    [ "i_maxHpPct", "d5/d9e/a09607.html#afd12795ef0cd99e05e4e21f869582416", null ],
-    [ "i_minHpPct", "d5/d9e/a09607.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
-    [ "i_obj", "d5/d9e/a09607.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
-    [ "i_range", "d5/d9e/a09607.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
+    [ "CreatureSearcher", "d5/d9e/a09607.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "d5/d9e/a09607.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "d5/d9e/a09607.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "d5/d9e/a09607.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "d5/d9e/a09607.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "d5/d9e/a09607.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

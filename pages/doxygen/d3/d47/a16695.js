@@ -1,7 +1,10 @@
 var a16695 =
 [
-    [ "npc_toc_shamanAI", "d3/d47/a16695.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d3/d47/a16695.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d3/d47/a16695.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d3/d47/a16695.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "npc_black_knight_ghoulAI", "d3/d47/a16695.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d3/d47/a16695.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d3/d47/a16695.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d3/d47/a16695.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "UpdateAI", "d3/d47/a16695.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d3/d47/a16695.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d3/d47/a16695.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

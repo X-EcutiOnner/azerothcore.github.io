@@ -1,6 +1,8 @@
 var a21183 =
 [
-    [ "npc_azure_raiderAI", "d3/dc2/a21187.html", "d3/dc2/a21187" ],
-    [ "npc_azure_raider", "d4/dc3/a21183.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "d4/dc3/a21183.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_frozen_orbAI", "d4/dc3/a21183.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d4/dc3/a21183.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d4/dc3/a21183.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d4/dc3/a21183.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d4/dc3/a21183.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

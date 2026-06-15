@@ -1,16 +1,11 @@
 var a14415 =
 [
-    [ "boss_renatakiAI", "d2/d07/a14415.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "d2/d07/a14415.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "d2/d07/a14415.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "d2/d07/a14415.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "d2/d07/a14415.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "d2/d07/a14415.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "d2/d07/a14415.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "d2/d07/a14415.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "d2/d07/a14415.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "d2/d07/a14415.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "d2/d07/a14415.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "d2/d07/a14415.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "d2/d07/a14415.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "boss_hakkarAI", "d2/d07/a14415.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d2/d07/a14415.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d2/d07/a14415.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d2/d07/a14415.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d2/d07/a14415.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d2/d07/a14415.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d2/d07/a14415.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d2/d07/a14415.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

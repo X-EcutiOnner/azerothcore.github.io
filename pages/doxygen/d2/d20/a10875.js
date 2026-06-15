@@ -1,7 +1,6 @@
 var a10875 =
 [
-    [ "QueryGuildInfoResponse", "d2/d20/a10875.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d2/d20/a10875.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d2/d20/a10875.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d2/d20/a10875.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "GetEvent", "d2/d20/a10875.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d2/d20/a10875.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d2/d20/a10875.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

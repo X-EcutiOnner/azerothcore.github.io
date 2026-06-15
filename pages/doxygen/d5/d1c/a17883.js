@@ -1,7 +1,8 @@
 var a17883 =
 [
-    [ "FilterTargets", "d5/d1c/a17883.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d5/d1c/a17883.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d5/d1c/a17883.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d5/d1c/a17883.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "ResetEncounterEvent", "d5/d1c/a17883.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d5/d1c/a17883.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d5/d1c/a17883.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d5/d1c/a17883.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d5/d1c/a17883.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

@@ -1,10 +1,10 @@
 var a00725 =
 [
-    [ "instance_ahnkahet", "df/d14/a16212.html", "df/d14/a16212" ],
-    [ "instance_ahnkahet::instance_ahnkahet_InstanceScript", "de/d9f/a16216.html", "de/d9f/a16216" ],
-    [ "spell_shadow_sickle_periodic_damage", "d1/d3c/a16220.html", "d1/d3c/a16220" ],
-    [ "AddSC_instance_ahnkahet", "d8/db9/a00725.html#a33aed24f64879c91101f7420c4d49cc3", null ],
-    [ "boundaries", "d8/db9/a00725.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d8/db9/a00725.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d8/db9/a00725.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "spell_summon_noblegarden_bunny_controller", "d3/d36/a14959.html", "d3/d36/a14959" ],
+    [ "spell_item_noblegarden_chocolate", "d5/dc8/a14963.html", "d5/dc8/a14963" ],
+    [ "eNoblegarden", "d8/db9/a00725.html#a2009b91b1ae924c27559f49fd9fc0e3d", [
+      [ "SPELL_NOBLEGARDEN_BUNNY", "d8/db9/a00725.html#a2009b91b1ae924c27559f49fd9fc0e3da713d80d4de08c5ec515a4d2164f00510", null ],
+      [ "SPELL_WELL_FED", "d8/db9/a00725.html#a2009b91b1ae924c27559f49fd9fc0e3da5e004e090ce4bb16a1328cc8423247ae", null ]
+    ] ],
+    [ "AddSC_event_noblegarden_scripts", "d8/db9/a00725.html#a60b11fd113b9059778bb843dd1806c79", null ]
 ];

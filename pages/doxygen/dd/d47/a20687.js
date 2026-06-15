@@ -1,7 +1,7 @@
 var a20687 =
 [
-    [ "FilterTargets", "dd/d47/a20687.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "dd/d47/a20687.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "dd/d47/a20687.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "dd/d47/a20687.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "npc_xt002_life_spark", "dd/d47/a20687.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
+    [ "Reset", "dd/d47/a20687.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
+    [ "UpdateAI", "dd/d47/a20687.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
+    [ "_attackTimer", "dd/d47/a20687.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
 ];

@@ -1,10 +1,8 @@
 var a21307 =
 [
-    [ "npc_bonker_togglevoltAI", "d1/d11/a21307.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d1/d11/a21307.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d1/d11/a21307.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d1/d11/a21307.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d1/d11/a21307.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "WaypointReached", "d1/d11/a21307.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Bonker_agro", "d1/d11/a21307.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "HandleEffectRemove", "d1/d11/a21307.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d1/d11/a21307.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d1/d11/a21307.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d1/d11/a21307.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d1/d11/a21307.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

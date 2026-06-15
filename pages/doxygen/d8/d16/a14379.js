@@ -1,6 +1,6 @@
 var a14379 =
 [
-    [ "OnRemove", "d8/d16/a14379.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
-    [ "PrepareAuraScript", "d8/d16/a14379.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
-    [ "Register", "d8/d16/a14379.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
+    [ "npc_zulian_prowlerAI", "dd/d8d/a14383.html", "dd/d8d/a14383" ],
+    [ "npc_zulian_prowler", "d8/d16/a14379.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "d8/d16/a14379.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

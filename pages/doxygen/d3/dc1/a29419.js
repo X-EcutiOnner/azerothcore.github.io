@@ -1,12 +1,9 @@
 var a29419 =
 [
-    [ "TestVisibilityScript", "d3/dc1/a29419.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "d3/dc1/a29419.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "d3/dc1/a29419.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "d3/dc1/a29419.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "d3/dc1/a29419.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "d3/dc1/a29419.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "d3/dc1/a29419.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "d3/dc1/a29419.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "d3/dc1/a29419.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "SetUp", "d3/dc1/a29419.html#a664590f345cd02660adef326355c7ca2", null ],
+    [ "TearDown", "d3/dc1/a29419.html#a366e1170be6f12739b2688c71763c8f0", null ],
+    [ "PERM_BAN", "d3/dc1/a29419.html#a393626fe7635a8452e69207085037782", null ],
+    [ "PERM_KICK", "d3/dc1/a29419.html#aa9b8c1e73b4828100386186637e30e90", null ],
+    [ "rbacData", "d3/dc1/a29419.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
+    [ "ROLE_GM", "d3/dc1/a29419.html#ac5d61d965657eccc145d01670a6f27bc", null ]
 ];

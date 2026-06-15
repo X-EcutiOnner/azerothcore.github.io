@@ -1,7 +1,5 @@
 var a18295 =
 [
-    [ "PeriodicTick", "dd/d58/a18295.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "dd/d58/a18295.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "dd/d58/a18295.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "dd/d58/a18295.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "RotfaceHeightCheck", "dd/d58/a18295.html#aabdeaee465989c339fc7a3f186e20498", null ],
+    [ "operator()", "dd/d58/a18295.html#a585743e0e76c64a5caa37acab46d04d5", null ]
 ];

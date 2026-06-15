@@ -1,6 +1,6 @@
 var a18403 =
 [
-    [ "VileSpiritActivateEvent", "de/d94/a18403.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "de/d94/a18403.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "de/d94/a18403.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "FilterTargets", "de/d94/a18403.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
+    [ "PrepareSpellScript", "de/d94/a18403.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
+    [ "Register", "de/d94/a18403.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
 ];

@@ -1,8 +1,14 @@
 var a12387 =
 [
-    [ "brd_ironhand_guardian", "d6/de4/a12387.html#a635a59a53948b6e252a15384d784a969", null ],
-    [ "SetData", "d6/de4/a12387.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
-    [ "UpdateAI", "d6/de4/a12387.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
-    [ "_flamesEnabled", "d6/de4/a12387.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
-    [ "events", "d6/de4/a12387.html#a01047164b0728cb6d08a7f41cf092a58", null ]
+    [ "list_commandscript", "d6/de4/a12387.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "d6/de4/a12387.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "d6/de4/a12387.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "d6/de4/a12387.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "d6/de4/a12387.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "d6/de4/a12387.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "d6/de4/a12387.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "d6/de4/a12387.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "HandleListRespawnsCommand", "d6/de4/a12387.html#a463e9471442ef3fa465d3d223876a2db", null ],
+    [ "ListAurasCommand", "d6/de4/a12387.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "d6/de4/a12387.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

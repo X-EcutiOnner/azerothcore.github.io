@@ -1,7 +1,14 @@
 var a11775 =
 [
-    [ "EffectAuraNameCheck", "dc/df2/a11775.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "dc/df2/a11775.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "dc/df2/a11775.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "dc/df2/a11775.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "alive", "dc/df2/a11775.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "dc/df2/a11775.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "dc/df2/a11775.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "dc/df2/a11775.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "dc/df2/a11775.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "dc/df2/a11775.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "dc/df2/a11775.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "dc/df2/a11775.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "dc/df2/a11775.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "dc/df2/a11775.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "dc/df2/a11775.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

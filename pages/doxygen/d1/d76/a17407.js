@@ -1,8 +1,6 @@
 var a17407 =
 [
-    [ "boss_eck", "d1/d76/a17407.html#a665b54f72e674c8f65dd09daba5413db", null ],
-    [ "InitializeAI", "d1/d76/a17407.html#a92e5117337d372e1700d074f02c06df6", null ],
-    [ "JustEngagedWith", "d1/d76/a17407.html#ac719d6bbebe6c1c3e70d54f4bd48e116", null ],
-    [ "MovementInform", "d1/d76/a17407.html#aeaa0388d9fee4c6a025f823cd9e7e650", null ],
-    [ "SpellHitTarget", "d1/d76/a17407.html#a63125d970933d6fa1f196aa28c588f40", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d9/d21/a17411.html", "d9/d21/a17411" ],
+    [ "npc_pos_tyrannus_events", "d1/d76/a17407.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
+    [ "GetAI", "d1/d76/a17407.html#ae5863e99d77815de71c1774e908b3f65", null ]
 ];

@@ -1,13 +1,7 @@
 var a17103 =
 [
-    [ "instance_forge_of_souls_InstanceScript", "d5/dfd/a17103.html#ae39e116a01c17592037e12185a03201a", null ],
-    [ "CheckAchievementCriteriaMeet", "d5/dfd/a17103.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
-    [ "HandleOutro", "d5/dfd/a17103.html#aadf4a99e89f354901ff63c600725b07f", null ],
-    [ "OnCreatureCreate", "d5/dfd/a17103.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
-    [ "OnPlayerEnter", "d5/dfd/a17103.html#aac223f0ae25071d3323052c52c887636", null ],
-    [ "SetBossState", "d5/dfd/a17103.html#a76241f1358b8e6c7660f76c98e1556e7", null ],
-    [ "GuardFirstGUID", "d5/dfd/a17103.html#ae2e33eee94f285b9d4c2c747dec52714", null ],
-    [ "GuardSecondGUID", "d5/dfd/a17103.html#a68c2495f80ac2b53c8f46c857472709c", null ],
-    [ "LeaderFirstGUID", "d5/dfd/a17103.html#acaa05485af70315b1d091e5c9bbb7217", null ],
-    [ "LeaderSecondGUID", "d5/dfd/a17103.html#a165f784f54e178b51ac899aff6f12747", null ]
+    [ "HandleScript", "d5/dfd/a17103.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
+    [ "PrepareSpellScript", "d5/dfd/a17103.html#a71b28156c628aacbc6cb481038c0e76c", null ],
+    [ "Register", "d5/dfd/a17103.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
+    [ "Validate", "d5/dfd/a17103.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
 ];

@@ -1,6 +1,6 @@
 var a19359 =
 [
-    [ "boss_razuvious_minionAI", "dc/da5/a19363.html", "dc/da5/a19363" ],
-    [ "boss_razuvious_minion", "d9/d0b/a19359.html#ae23d51c9ebfe31f624a749578d27252c", null ],
-    [ "GetAI", "d9/d0b/a19359.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
+    [ "npc_gothik_triggerAI", "dc/da5/a19363.html", "dc/da5/a19363" ],
+    [ "npc_gothik_trigger", "d9/d0b/a19359.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d9/d0b/a19359.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

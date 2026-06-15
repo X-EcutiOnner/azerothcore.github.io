@@ -1,11 +1,13 @@
 var a07819 =
 [
-    [ "wrapper_func", "df/d91/a07819.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "df/d91/a07819.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "df/d91/a07819.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "df/d91/a07819.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "df/d91/a07819.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "df/d91/a07819.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "df/d91/a07819.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "df/d91/a07819.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "WhoListCacheMgr", "df/d91/a07819.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "df/d91/a07819.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "df/d91/a07819.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "df/d91/a07819.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "df/d91/a07819.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "df/d91/a07819.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "df/d91/a07819.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "df/d91/a07819.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "df/d91/a07819.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "df/d91/a07819.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

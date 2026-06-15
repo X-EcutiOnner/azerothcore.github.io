@@ -1,6 +1,6 @@
 var a15863 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d2/db1/a15867.html", "d2/db1/a15867" ],
-    [ "npc_anachronos_quest_trigger", "d9/d5b/a15863.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "d9/d5b/a15863.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_tiger_matriarch_creditAI", "d2/db1/a15867.html", "d2/db1/a15867" ],
+    [ "npc_tiger_matriarch_credit", "d9/d5b/a15863.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d9/d5b/a15863.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

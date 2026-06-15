@@ -1,5 +1,7 @@
 var a20395 =
 [
-    [ "npc_ulduar_flames_spread", "d9/d4f/a20395.html#a8309d2c6a0d7ad7a7dc2111c709bf45f", null ],
-    [ "SpellHit", "d9/d4f/a20395.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "HandleEffectPeriodic", "d9/d4f/a20395.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d9/d4f/a20395.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d9/d4f/a20395.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d9/d4f/a20395.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

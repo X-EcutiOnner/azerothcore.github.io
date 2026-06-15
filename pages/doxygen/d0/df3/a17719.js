@@ -1,7 +1,6 @@
 var a17719 =
 [
-    [ "HandleScript", "d0/df3/a17719.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d0/df3/a17719.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d0/df3/a17719.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d0/df3/a17719.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "FilterTargets", "d0/df3/a17719.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
+    [ "PrepareSpellScript", "d0/df3/a17719.html#a8e9d81b34e05506569f4b910c1958de3", null ],
+    [ "Register", "d0/df3/a17719.html#aa80980c3f68abcb0fac7a41172f70012", null ]
 ];

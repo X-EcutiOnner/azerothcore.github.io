@@ -1,6 +1,6 @@
 var a14663 =
 [
-    [ "HandleDummy", "de/dd0/a14663.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "de/dd0/a14663.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "de/dd0/a14663.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "OnApply", "de/dd0/a14663.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "de/dd0/a14663.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "de/dd0/a14663.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

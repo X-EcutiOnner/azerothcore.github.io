@@ -1,7 +1,4 @@
 var a03119 =
 [
-    [ "ArenaTeamMgr", "d1/d36/a07620.html", "d1/d36/a07620" ],
-    [ "sArenaTeamMgr", "d2/df0/a03119.html#a94afc7262fb2f00293dc80de8ba547df", null ],
-    [ "MAX_ARENA_TEAM_ID", "d2/df0/a03119.html#aa472ba6cfd587021965aece0e77797b7", null ],
-    [ "MAX_TEMP_ARENA_TEAM_ID", "d2/df0/a03119.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
+    [ "GetTargetFlagMask", "d2/df0/a03119.html#adc898dfddc20010c41bb771b6d6f274e", null ]
 ];

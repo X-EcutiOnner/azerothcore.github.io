@@ -1,7 +1,7 @@
 var a12803 =
 [
-    [ "HandleScript", "d6/d64/a12803.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "d6/d64/a12803.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "d6/d64/a12803.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "d6/d64/a12803.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleScript", "d6/d64/a12803.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d6/d64/a12803.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d6/d64/a12803.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d6/d64/a12803.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

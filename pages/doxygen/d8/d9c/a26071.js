@@ -1,7 +1,7 @@
 var a26071 =
 [
-    [ "HandleProc", "d8/d9c/a26071.html#a6d5bd94125e9f89a4ee3bbdb9231a8e7", null ],
-    [ "PrepareAuraScript", "d8/d9c/a26071.html#aaa4c1ec48a92f8d37185e690eee40021", null ],
-    [ "Register", "d8/d9c/a26071.html#af8bee9d6c943724fe75f85593f9cdd01", null ],
-    [ "Validate", "d8/d9c/a26071.html#abc483ed57434397306a09177436a5284", null ]
+    [ "HandlePeriodicDummy", "d8/d9c/a26071.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
+    [ "PrepareAuraScript", "d8/d9c/a26071.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
+    [ "Register", "d8/d9c/a26071.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
+    [ "Validate", "d8/d9c/a26071.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
 ];

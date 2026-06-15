@@ -1,12 +1,8 @@
 var a22827 =
 [
-    [ "boss_fathomlord_karathress", "d0/dfd/a22827.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d0/dfd/a22827.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d0/dfd/a22827.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d0/dfd/a22827.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d0/dfd/a22827.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d0/dfd/a22827.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d0/dfd/a22827.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d0/dfd/a22827.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d0/dfd/a22827.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "Absorb", "d0/dfd/a22827.html#a1c054ce067a620e16611cbb9e784cee1", null ],
+    [ "CalculateAmount", "d0/dfd/a22827.html#abd828dd3493339db9c0613e960792941", null ],
+    [ "PrepareAuraScript", "d0/dfd/a22827.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
+    [ "Register", "d0/dfd/a22827.html#a85840e7d27a7ed256c45de87f4486d45", null ],
+    [ "Update", "d0/dfd/a22827.html#afbf28fd4eb66899a424e0b542d561656", null ]
 ];

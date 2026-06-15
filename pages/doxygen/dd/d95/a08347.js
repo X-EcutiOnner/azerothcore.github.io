@@ -1,11 +1,10 @@
 var a08347 =
 [
-    [ "FormationInfo", "dd/d95/a08347.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "dd/d95/a08347.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "dd/d95/a08347.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "dd/d95/a08347.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "dd/d95/a08347.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "dd/d95/a08347.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "dd/d95/a08347.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "dd/d95/a08347.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "AssistDelayEvent", "dd/d95/a08347.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "dd/d95/a08347.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "dd/d95/a08347.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "dd/d95/a08347.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "dd/d95/a08347.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "dd/d95/a08347.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "dd/d95/a08347.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

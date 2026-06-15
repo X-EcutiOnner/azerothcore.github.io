@@ -1,9 +1,7 @@
 var a11215 =
 [
-    [ "LevelUpInfo", "dc/d90/a11215.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "dc/d90/a11215.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "dc/d90/a11215.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "dc/d90/a11215.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "dc/d90/a11215.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "dc/d90/a11215.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "AutoEquipItemSlot", "dc/d90/a11215.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "dc/d90/a11215.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "dc/d90/a11215.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "dc/d90/a11215.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

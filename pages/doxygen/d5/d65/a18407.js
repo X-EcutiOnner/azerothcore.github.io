@@ -1,7 +1,6 @@
 var a18407 =
 [
-    [ "TriggerWickedSpirit", "d5/d65/a18407.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d5/d65/a18407.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d5/d65/a18407.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d5/d65/a18407.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "CheckProc", "d5/d65/a18407.html#ad701d353f03eb5a1ccca28a6530555db", null ],
+    [ "PrepareAuraScript", "d5/d65/a18407.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
+    [ "Register", "d5/d65/a18407.html#a4f787e29064c15f4dad9047ff618982a", null ]
 ];

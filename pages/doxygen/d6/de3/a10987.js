@@ -1,6 +1,9 @@
 var a10987 =
 [
-    [ "GuildPromoteMember", "d6/de3/a10987.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "d6/de3/a10987.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "d6/de3/a10987.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "GuildRoster", "d6/de3/a10987.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d6/de3/a10987.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d6/de3/a10987.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d6/de3/a10987.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d6/de3/a10987.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d6/de3/a10987.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

@@ -1,7 +1,10 @@
 var a10775 =
 [
-    [ "AutoStoreBankItem", "da/da8/a10775.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "da/da8/a10775.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "da/da8/a10775.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "da/da8/a10775.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "ArgsType", "da/da8/a10775.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "da/da8/a10775.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "da/da8/a10775.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "da/da8/a10775.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "da/da8/a10775.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "da/da8/a10775.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "da/da8/a10775.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

@@ -1,9 +1,8 @@
 var a12663 =
 [
-    [ "FilterTargets", "da/d3b/a12663.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "da/d3b/a12663.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "da/d3b/a12663.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "da/d3b/a12663.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "da/d3b/a12663.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "da/d3b/a12663.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_drakkisath", "da/d3b/a12663.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "da/d3b/a12663.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "da/d3b/a12663.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "da/d3b/a12663.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "da/d3b/a12663.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

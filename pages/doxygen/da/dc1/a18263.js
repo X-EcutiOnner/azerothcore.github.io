@@ -1,11 +1,7 @@
 var a18263 =
 [
-    [ "npc_ice_tombAI", "da/dc1/a18263.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
-    [ "DamageTaken", "da/dc1/a18263.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
-    [ "JustDied", "da/dc1/a18263.html#a237f27260aaa9176d81b67b11d063660", null ],
-    [ "SetGUID", "da/dc1/a18263.html#ac406bece1d1f1517b5837e311feef9ae", null ],
-    [ "UpdateAI", "da/dc1/a18263.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
-    [ "_asphyxiationTimer", "da/dc1/a18263.html#a6790d9c852279624a549f60bf26e1eb2", null ],
-    [ "_existenceCheckTimer", "da/dc1/a18263.html#ab3dbf40235549be89e42951d93593ea2", null ],
-    [ "_trappedPlayerGUID", "da/dc1/a18263.html#a8a7666594e59bdac449f2284387b8e2c", null ]
+    [ "CheckRequirement", "da/dc1/a18263.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
+    [ "CheckRequirementInternal", "da/dc1/a18263.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
+    [ "PrepareSpellScript", "da/dc1/a18263.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
+    [ "Register", "da/dc1/a18263.html#a95a250aeb3a41922c529f476d39f18e4", null ]
 ];

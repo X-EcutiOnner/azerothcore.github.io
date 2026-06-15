@@ -1,4 +1,6 @@
 var a12943 =
 [
-    [ "npc_nightbane_helper_target", "d1/dcb/a12943.html#a688ebb85baad72e523be0dceb70a75fc", null ]
+    [ "boss_magmadar", "d1/dcb/a12943.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d1/dcb/a12943.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d1/dcb/a12943.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

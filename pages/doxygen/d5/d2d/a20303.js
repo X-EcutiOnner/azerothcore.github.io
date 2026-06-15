@@ -1,7 +1,14 @@
 var a20303 =
 [
-    [ "StoneGripTargetSelector", "d5/d2d/a20303.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d5/d2d/a20303.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d5/d2d/a20303.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d5/d2d/a20303.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "npc_ulduar_hodir_priest", "d5/d2d/a20303.html#af18269ae027e71f86796e723111227b4", null ],
+    [ "AttackStart", "d5/d2d/a20303.html#ad86f47516d9f245a4ae241bba26b37a4", null ],
+    [ "CanAIAttack", "d5/d2d/a20303.html#a8545bd2492bd32d333e8d144b3d548a5", null ],
+    [ "EnterEvadeMode", "d5/d2d/a20303.html#a9d3f3e950b0f9c9a7b85ba3835000a80", null ],
+    [ "JustDied", "d5/d2d/a20303.html#a3ac7967a61a774670e25aa3c0477d7ac", null ],
+    [ "MoveInLineOfSight", "d5/d2d/a20303.html#abc0c766a88dd64e8f5bbcc2afd883552", null ],
+    [ "ScheduleAbilities", "d5/d2d/a20303.html#a10b5f3575c2de311d54c15220c68f4b7", null ],
+    [ "SpellHit", "d5/d2d/a20303.html#a2dd6faeb45ba2278e1b4693d20550d4e", null ],
+    [ "UpdateAI", "d5/d2d/a20303.html#a450b21ab190ec335d910b38a6a2d9329", null ],
+    [ "_instance", "d5/d2d/a20303.html#adb189dbf0e536f469f1a0d82d42de6de", null ],
+    [ "events", "d5/d2d/a20303.html#a803e3f35c784716170f9fa8c4484b66c", null ]
 ];

@@ -1,9 +1,7 @@
 var a10231 =
 [
-    [ "ChaseAngle", "d1/db9/a10231.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "d1/db9/a10231.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "d1/db9/a10231.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "d1/db9/a10231.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "d1/db9/a10231.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "d1/db9/a10231.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "MapPreloadRequest", "d1/db9/a10231.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
+    [ "call", "d1/db9/a10231.html#a688f4e2c5517c29c10c0810325211b50", null ],
+    [ "_mapId", "d1/db9/a10231.html#aa207469ff8369f9b5559b35404d16847", null ],
+    [ "_updater", "d1/db9/a10231.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
 ];

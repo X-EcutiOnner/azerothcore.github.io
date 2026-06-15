@@ -1,7 +1,10 @@
 var a14563 =
 [
-    [ "HandleScriptEffect", "d4/d18/a14563.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d4/d18/a14563.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d4/d18/a14563.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d4/d18/a14563.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "npc_zealot_lorkhan", "d4/d18/a14563.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
+    [ "JustDied", "d4/d18/a14563.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
+    [ "JustEngagedWith", "d4/d18/a14563.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
+    [ "Reset", "d4/d18/a14563.html#abecbd4a2ea2cf3281244933fe7484239", null ],
+    [ "UpdateAI", "d4/d18/a14563.html#a68c35734f8886b2c241dcbc178899206", null ],
+    [ "_scheduler", "d4/d18/a14563.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
+    [ "instance", "d4/d18/a14563.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
 ];

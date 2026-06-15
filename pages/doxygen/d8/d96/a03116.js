@@ -1,5 +1,5 @@
 var a03116 =
 [
-    [ "ArenaScore", "dc/d12/a07560.html", "dc/d12/a07560" ],
-    [ "ArenaTeamScore", "d8/d57/a07564.html", "d8/d57/a07564" ]
+    [ "DispelList", "d8/d96/a03116.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
+    [ "SpellEffects", "d8/d96/a03116.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
 ];

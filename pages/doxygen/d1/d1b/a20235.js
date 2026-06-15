@@ -1,5 +1,5 @@
 var a20235 =
 [
-    [ "achievement_cheese_the_freeze", "d1/d1b/a20235.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d1/d1b/a20235.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "achievement_freya_getting_back_to_nature", "d1/d1b/a20235.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d1/d1b/a20235.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

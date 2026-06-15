@@ -1,6 +1,8 @@
 var a18903 =
 [
-    [ "npc_arthas_teleport_visualAI", "dd/d62/a18907.html", "dd/d62/a18907" ],
-    [ "npc_arthas_teleport_visual", "df/d3c/a18903.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
-    [ "GetAI", "df/d3c/a18903.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
+    [ "FilterTargets", "df/d3c/a18903.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
+    [ "HandleForceCast", "df/d3c/a18903.html#ae783cf255be823bf7c9125f288479e97", null ],
+    [ "Load", "df/d3c/a18903.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
+    [ "PrepareSpellScript", "df/d3c/a18903.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
+    [ "Register", "df/d3c/a18903.html#a454a8909be4bb85f255ea696041ea447", null ]
 ];

@@ -1,11 +1,15 @@
 var a02882 =
 [
-    [ "Creature", "de/d5e/a08332.html", "de/d5e/a08332" ],
-    [ "AssistDelayEvent", "db/d74/a08340.html", "db/d74/a08340" ],
-    [ "ForcedDespawnDelayEvent", "d9/d12/a08344.html", "d9/d12/a08344" ],
-    [ "TemporaryThreatModifierEvent", "da/d1c/a08348.html", "da/d1c/a08348" ],
-    [ "CREATURE_Z_ATTACK_RANGE", "d4/d57/a02882.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
-    [ "MAX_VENDOR_ITEMS", "d4/d57/a02882.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
-    [ "CreatureTextRepeatGroup", "d4/d57/a02882.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
-    [ "CreatureTextRepeatIds", "d4/d57/a02882.html#a4a74e5d0af63228e47e1f663570018ae", null ]
+    [ "Position", "d6/d41/a08799.html", "d6/d41/a08799" ],
+    [ "Position::PositionXYStreamer", "d1/d39/a08803.html", "d1/d39/a08803" ],
+    [ "Position::PositionXYZStreamer", "d4/d1d/a08807.html", "d4/d1d/a08807" ],
+    [ "Position::PositionXYZOStreamer", "d3/d1a/a08811.html", "d3/d1a/a08811" ],
+    [ "WorldLocation", "db/d10/a08815.html", "db/d10/a08815" ],
+    [ "MAPID_INVALID", "d4/d57/a02882.html#af69a1d112a89b89894dafd5da53e7490", null ],
+    [ "operator<<", "d4/d57/a02882.html#a09519787a0405fc17b028180b2da4cdd", null ],
+    [ "operator<<", "d4/d57/a02882.html#a71323635f122d24189054da615cb39e1", null ],
+    [ "operator<<", "d4/d57/a02882.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
+    [ "operator>>", "d4/d57/a02882.html#a188cc2956d39298323a99c4aa5ceede6", null ],
+    [ "operator>>", "d4/d57/a02882.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
+    [ "operator>>", "d4/d57/a02882.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
 ];

@@ -1,6 +1,6 @@
 var a12875 =
 [
-    [ "HandleTriggerSpell", "df/d87/a12875.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "df/d87/a12875.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "df/d87/a12875.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "HandleOnHit", "df/d87/a12875.html#a804097903354ab3a730f0fe3eb5ec863", null ],
+    [ "PrepareSpellScript", "df/d87/a12875.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
+    [ "Register", "df/d87/a12875.html#a53bed6f1af71fd309a04bc004d07be80", null ]
 ];

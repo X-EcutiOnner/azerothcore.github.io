@@ -1,7 +1,7 @@
 var a11551 =
 [
-    [ "IsValidOpcode", "d4/dc2/a11551.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d4/dc2/a11551.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d4/dc2/a11551.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d4/dc2/a11551.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "QuestLogSwapQuest", "d4/dc2/a11551.html#a5c6cca2526e2a6b11b85e8ab7233436b", null ],
+    [ "Read", "d4/dc2/a11551.html#a7fea7dac43d6988dff5f38218bceb626", null ],
+    [ "Slot1", "d4/dc2/a11551.html#a5dd83b2c88a07236d8937b2d536d5056", null ],
+    [ "Slot2", "d4/dc2/a11551.html#a9a98532db2a51821efc95b11b8379f28", null ]
 ];

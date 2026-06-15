@@ -1,7 +1,9 @@
 var a19143 =
 [
-    [ "npc_ioc_gunship_captainAI", "da/dd9/a19143.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "da/dd9/a19143.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "da/dd9/a19143.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "da/dd9/a19143.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "da/dd9/a19143.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "da/dd9/a19143.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "da/dd9/a19143.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "da/dd9/a19143.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "da/dd9/a19143.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "da/dd9/a19143.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

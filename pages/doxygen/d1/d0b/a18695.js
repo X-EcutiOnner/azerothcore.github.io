@@ -1,12 +1,7 @@
 var a18695 =
 [
-    [ "npc_the_lich_king_controllerAI", "d1/d0b/a18695.html#a211c370e9c370e00fba3c83e51738886", null ],
-    [ "AttackStart", "d1/d0b/a18695.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
-    [ "DoAction", "d1/d0b/a18695.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
-    [ "JustSummoned", "d1/d0b/a18695.html#aa610e24316505165cbb826ff5bece5c5", null ],
-    [ "MoveInLineOfSight", "d1/d0b/a18695.html#a0ee33ab5733c12163e92213376e893e4", null ],
-    [ "Reset", "d1/d0b/a18695.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
-    [ "UpdateAI", "d1/d0b/a18695.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
-    [ "_events", "d1/d0b/a18695.html#a90c3d818318004c7c21ec66d4d080615", null ],
-    [ "_instance", "d1/d0b/a18695.html#a480a284881ba5f56bc6222607bd01a76", null ]
+    [ "CheckTargetCount", "d1/d0b/a18695.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d1/d0b/a18695.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d1/d0b/a18695.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d1/d0b/a18695.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

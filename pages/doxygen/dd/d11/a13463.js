@@ -1,13 +1,8 @@
 var a13463 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "dd/d11/a13463.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "dd/d11/a13463.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "dd/d11/a13463.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "dd/d11/a13463.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "dd/d11/a13463.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "dd/d11/a13463.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "dd/d11/a13463.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "dd/d11/a13463.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "dd/d11/a13463.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "dd/d11/a13463.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "CheckCast", "dd/d11/a13463.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
+    [ "HandleScriptEffect", "dd/d11/a13463.html#a36bb2b95651889eaa0321a7a327e173f", null ],
+    [ "PrepareSpellScript", "dd/d11/a13463.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
+    [ "Register", "dd/d11/a13463.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
+    [ "Validate", "dd/d11/a13463.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
 ];

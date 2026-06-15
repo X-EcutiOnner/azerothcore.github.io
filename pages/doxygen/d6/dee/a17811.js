@@ -1,7 +1,7 @@
 var a17811 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d6/dee/a17811.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "d6/dee/a17811.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "d6/dee/a17811.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "d6/dee/a17811.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "FilterTargets", "d6/dee/a17811.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/dee/a17811.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/dee/a17811.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/dee/a17811.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

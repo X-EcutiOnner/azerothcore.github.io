@@ -1,8 +1,6 @@
 var a18443 =
 [
-    [ "FilterTargets", "d3/dde/a18443.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d3/dde/a18443.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d3/dde/a18443.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d3/dde/a18443.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d3/dde/a18443.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "MysticBuffetTargetFilter", "d3/dde/a18443.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "d3/dde/a18443.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "d3/dde/a18443.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

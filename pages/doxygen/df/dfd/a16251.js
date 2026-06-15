@@ -1,6 +1,8 @@
 var a16251 =
 [
-    [ "HandleScriptEffect", "df/dfd/a16251.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "df/dfd/a16251.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "df/dfd/a16251.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "HandleScriptEffect", "df/dfd/a16251.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "df/dfd/a16251.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "df/dfd/a16251.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "df/dfd/a16251.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "df/dfd/a16251.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

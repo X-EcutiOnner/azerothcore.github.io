@@ -1,7 +1,6 @@
 var a14039 =
 [
-    [ "HandleScript", "da/dd2/a14039.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "da/dd2/a14039.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "da/dd2/a14039.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "da/dd2/a14039.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_rinjiAI", "d6/d2a/a14043.html", "d6/d2a/a14043" ],
+    [ "npc_rinji", "da/dd2/a14039.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
+    [ "GetAI", "da/dd2/a14039.html#a5457ac00ce0b195752640358b912af10", null ]
 ];

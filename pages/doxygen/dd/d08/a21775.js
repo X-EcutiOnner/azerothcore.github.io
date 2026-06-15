@@ -1,9 +1,6 @@
 var a21775 =
 [
-    [ "npc_lord_areteAI", "dd/d08/a21775.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "dd/d08/a21775.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "dd/d08/a21775.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "dd/d08/a21775.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "dd/d08/a21775.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "dd/d08/a21775.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_plaguehound_trackerAI", "d2/d91/a21779.html", "d2/d91/a21779" ],
+    [ "npc_plaguehound_tracker", "dd/d08/a21775.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
+    [ "GetAI", "dd/d08/a21775.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
 ];

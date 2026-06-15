@@ -1,5 +1,8 @@
 var a23183 =
 [
-    [ "npc_invisible_tractor_beam_source", "d4/dea/a23183.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "d4/dea/a23183.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "boss_the_black_stalker", "d4/dea/a23183.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d4/dea/a23183.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d4/dea/a23183.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d4/dea/a23183.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d4/dea/a23183.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

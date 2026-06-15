@@ -1,4 +1,6 @@
 var a03782 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "d9/df0/a03782.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "ArenaSeasonTeamRewarder", "d6/d84/a07587.html", "d6/d84/a07587" ],
+    [ "ArenaSeasonTeamRewarderImpl", "d8/dd8/a07591.html", "d8/dd8/a07591" ],
+    [ "ArenaSeasonRewardDistributor", "dd/d55/a07595.html", "dd/d55/a07595" ]
 ];

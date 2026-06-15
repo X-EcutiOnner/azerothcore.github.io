@@ -1,14 +1,11 @@
 var a07799 =
 [
-    [ "FilteredCommandListIterator", "dd/d7d/a07799.html#abd6dc5c1e3c56eb27856eddb46d5e6a6", null ],
-    [ "_skip", "dd/d7d/a07799.html#ac2f0e09b76eb9d40d1b78279a81a5e65", null ],
-    [ "operator bool", "dd/d7d/a07799.html#aaeb128830c7705a455343d173dc3ae5a", null ],
-    [ "operator!", "dd/d7d/a07799.html#a864e81c56946ca97bf24b392ff8f0b8f", null ],
-    [ "operator*", "dd/d7d/a07799.html#a7b1008103a94f6dc068d3e839c924ea6", null ],
-    [ "operator++", "dd/d7d/a07799.html#a6d4a54adde98e638428a8d314a6e4356", null ],
-    [ "operator->", "dd/d7d/a07799.html#ad83cb2c649a847d0cd04b5fd8ee8494c", null ],
-    [ "_end", "dd/d7d/a07799.html#a294c3b743ac4b1a1b878d02a6580d3ca", null ],
-    [ "_handler", "dd/d7d/a07799.html#a0c64270cd18f8988997882ceb3e10184", null ],
-    [ "_it", "dd/d7d/a07799.html#abbf6ac9d50ba494221addff9aba11b80", null ],
-    [ "_token", "dd/d7d/a07799.html#acb834f907b55195f2a27d69f89d84961", null ]
+    [ "BattlegroundWGScore", "dd/d7d/a07799.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
+    [ "BuildObjectivesBlock", "dd/d7d/a07799.html#a804e56dbd666336d961cce2b0e4d6452", null ],
+    [ "GetAttr1", "dd/d7d/a07799.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
+    [ "GetAttr2", "dd/d7d/a07799.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "UpdateScore", "dd/d7d/a07799.html#aa560d7f5f13dd235d43a9e3571090055", null ],
+    [ "BattlegroundWS", "dd/d7d/a07799.html#a4285b67c5d8593dce759422a4eb78c77", null ],
+    [ "FlagCaptures", "dd/d7d/a07799.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
+    [ "FlagReturns", "dd/d7d/a07799.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
 ];

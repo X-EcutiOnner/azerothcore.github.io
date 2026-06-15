@@ -1,8 +1,15 @@
 var a13227 =
 [
-    [ "npc_dkc1_gothikAI", "dc/dc3/a13227.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "dc/dc3/a13227.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "dc/dc3/a13227.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "dc/dc3/a13227.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "dc/dc3/a13227.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_tinhead", "dc/dc3/a13227.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "dc/dc3/a13227.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "dc/dc3/a13227.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "dc/dc3/a13227.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "dc/dc3/a13227.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "dc/dc3/a13227.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "dc/dc3/a13227.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "dc/dc3/a13227.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "dc/dc3/a13227.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "dc/dc3/a13227.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "dc/dc3/a13227.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "dc/dc3/a13227.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

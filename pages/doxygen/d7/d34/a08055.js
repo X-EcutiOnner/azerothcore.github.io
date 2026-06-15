@@ -1,6 +1,4 @@
 var a08055 =
 [
-    [ "value_type", "d7/d34/a08055.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "d7/d34/a08055.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "d7/d34/a08055.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "operator()", "d7/d34/a08055.html#a1c1e59697194005023a42873b8856a50", null ]
 ];

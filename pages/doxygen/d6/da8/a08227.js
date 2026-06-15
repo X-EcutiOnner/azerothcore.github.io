@@ -1,8 +1,5 @@
 var a08227 =
 [
-    [ "cancelTime", "d6/da8/a08227.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d6/da8/a08227.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d6/da8/a08227.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d6/da8/a08227.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d6/da8/a08227.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "locations", "d6/da8/a08227.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
+    [ "timeStamp", "d6/da8/a08227.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
 ];

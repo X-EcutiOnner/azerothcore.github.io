@@ -1,5 +1,5 @@
 var a15387 =
 [
-    [ "boss_vem", "da/dcd/a15387.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "da/dcd/a15387.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "npc_idol_room_spawnerAI", "da/dcd/a15387.html#a77c4aa88d213271166158c8e75d41a69", null ],
+    [ "SetData", "da/dcd/a15387.html#aa0626c837086b4a275f4d51d1659a242", null ]
 ];

@@ -1,8 +1,6 @@
 var a17079 =
 [
-    [ "npc_fos_leaderAI", "dd/d9c/a17079.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "dd/d9c/a17079.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "dd/d9c/a17079.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "dd/d9c/a17079.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "dd/d9c/a17079.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "OnPeriodic", "dd/d9c/a17079.html#a6f2e191d76f894517aed395866b7e508", null ],
+    [ "PrepareAuraScript", "dd/d9c/a17079.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
+    [ "Register", "dd/d9c/a17079.html#a6094dc303c034e49fb4e543874db080b", null ]
 ];

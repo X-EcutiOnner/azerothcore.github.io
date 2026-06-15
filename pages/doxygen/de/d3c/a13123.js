@@ -1,6 +1,6 @@
 var a13123 =
 [
-    [ "HandleProc", "de/d3c/a13123.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
-    [ "PrepareAuraScript", "de/d3c/a13123.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
-    [ "Register", "de/d3c/a13123.html#a24df76ff0933685bade58deff98856d2", null ]
+    [ "FilterTargets", "de/d3c/a13123.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "de/d3c/a13123.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "de/d3c/a13123.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

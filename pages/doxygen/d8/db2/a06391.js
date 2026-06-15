@@ -1,7 +1,6 @@
 var a06391 =
 [
-    [ "ReactorAI", "d8/db2/a06391.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d8/db2/a06391.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d8/db2/a06391.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d8/db2/a06391.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "SavedAddon", "d8/db2/a06391.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "d8/db2/a06391.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "d8/db2/a06391.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

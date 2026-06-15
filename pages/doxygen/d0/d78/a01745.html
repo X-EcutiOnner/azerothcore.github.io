@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/CavernsOfTime/EscapeFromDurnholdeKeep/instance_old_hillsbrad.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/ChamberOfAspects/ObsidianSanctum/instance_obsidian_sanctum.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,113 +108,88 @@ $(document).ready(function(){initNavTree('d0/d78/a01745.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_old_hillsbrad.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">instance_obsidian_sanctum.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">EventMap.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldStateDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">old_hillsbrad.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">obsidian_sanctum.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de6/a15180.html">instance_old_hillsbrad</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9a/a16423.html">instance_obsidian_sanctum</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d65/a15184.html">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/ddf/a16427.html">instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a2b3faa69a9526f156ca7bae70c720075"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a2b3faa69a9526f156ca7bae70c720075">AddSC_instance_old_hillsbrad</a> ()</td></tr>
-<tr class="separator:a2b3faa69a9526f156ca7bae70c720075"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4abea2a912b12612a4c884df63abe00"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#ac4abea2a912b12612a4c884df63abe00">AddSC_instance_obsidian_sanctum</a> ()</td></tr>
+<tr class="separator:ac4abea2a912b12612a4c884df63abe00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a79b42da504a3cfde2581f63a639c7936"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/d2b/a08792.html">Position</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a79b42da504a3cfde2581f63a639c7936">instancePositions</a> [<a class="el" href="../../d1/dd5/a01742.html#a0b64fe674ad16039fc11cab49bc4ef87ac3b2a60f979423de6118799c269a46ed">INSTANCE_POSITIONS_COUNT</a>]</td></tr>
-<tr class="separator:a79b42da504a3cfde2581f63a639c7936"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a04c9058e75a93a56057912eb1c896bd0"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../de/d2b/a08792.html">Position</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a04c9058e75a93a56057912eb1c896bd0">thrallPositions</a> [<a class="el" href="../../d1/dd5/a01742.html#a0b64fe674ad16039fc11cab49bc4ef87a0563af0be9cce04b3251eeeebb2c06a2">THRALL_POSITIONS_COUNT</a>]</td></tr>
-<tr class="separator:a04c9058e75a93a56057912eb1c896bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/de2/a10007.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d78/a01745.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
+<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a2b3faa69a9526f156ca7bae70c720075" name="a2b3faa69a9526f156ca7bae70c720075"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2b3faa69a9526f156ca7bae70c720075">&#9670;&#160;</a></span>AddSC_instance_old_hillsbrad()</h2>
+<a id="ac4abea2a912b12612a4c884df63abe00" name="ac4abea2a912b12612a4c884df63abe00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac4abea2a912b12612a4c884df63abe00">&#9670;&#160;</a></span>AddSC_instance_obsidian_sanctum()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_old_hillsbrad </td>
+          <td class="memname">void AddSC_instance_obsidian_sanctum </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  314</span>{</div>
-<div class="line"><span class="lineno">  315</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../de/de6/a15180.html">instance_old_hillsbrad</a>();</div>
-<div class="line"><span class="lineno">  316</span>}</div>
-<div class="ttc" id="aa15180_html"><div class="ttname"><a href="../../de/de6/a15180.html">instance_old_hillsbrad</a></div><div class="ttdef"><b>Definition:</b> instance_old_hillsbrad.cpp:42</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>{</div>
+<div class="line"><span class="lineno">  187</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../da/d9a/a16423.html">instance_obsidian_sanctum</a>();</div>
+<div class="line"><span class="lineno">  188</span>}</div>
+<div class="ttc" id="aa16423_html"><div class="ttname"><a href="../../da/d9a/a16423.html">instance_obsidian_sanctum</a></div><div class="ttdef"><b>Definition:</b> instance_obsidian_sanctum.cpp:34</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a79b42da504a3cfde2581f63a639c7936" name="a79b42da504a3cfde2581f63a639c7936"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79b42da504a3cfde2581f63a639c7936">&#9670;&#160;</a></span>instancePositions</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../de/d2b/a08792.html">Position</a> const instancePositions[<a class="el" href="../../d1/dd5/a01742.html#a0b64fe674ad16039fc11cab49bc4ef87ac3b2a60f979423de6118799c269a46ed">INSTANCE_POSITIONS_COUNT</a>]</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { 2188.18f, 228.90f, 53.025f, 1.77f },    </div>
-<div class="line">    { 2103.23f, 93.550f, 53.096f, 3.78f },    </div>
-<div class="line">    { 2172.76f, 149.54f, 87.981f, 4.19f }     </div>
-<div class="line">}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00192">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a04c9058e75a93a56057912eb1c896bd0" name="a04c9058e75a93a56057912eb1c896bd0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a04c9058e75a93a56057912eb1c896bd0">&#9670;&#160;</a></span>thrallPositions</h2>
+<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const <a class="el" href="../../de/d2b/a08792.html">Position</a> thrallPositions[<a class="el" href="../../d1/dd5/a01742.html#a0b64fe674ad16039fc11cab49bc4ef87a0563af0be9cce04b3251eeeebb2c06a2">THRALL_POSITIONS_COUNT</a>]</td>
+          <td class="memname"><a class="el" href="../../df/de2/a10007.html">ObjectData</a> const creatureData[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 <b>Initial value:</b><div class="fragment"><div class="line">=</div>
 <div class="line">{</div>
-<div class="line">    {2181.37f, 119.15f, 89.45f, 5.75f},     </div>
-<div class="line">    {2096.09f, 195.91f, 65.22f, 2.45f},     </div>
-<div class="line">    {2062.9f, 229.93f, 64.454f, 2.45f},     </div>
-<div class="line">    {2486.91f, 626.356f, 58.0761f, 0.0f},   </div>
-<div class="line">    {2660.47f, 659.223f, 62.0f, 5.78f}      </div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a>, <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c">DATA_SARTHARION</a> },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623">NPC_TENEBRON</a>,   <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2">DATA_TENEBRON</a>   },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac">NPC_SHADRON</a>,    <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4">DATA_SHADRON</a>    },</div>
+<div class="line">    { <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e">NPC_VESPERON</a>,   <a class="code hl_enumvalue" href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4">DATA_VESPERON</a>   },</div>
+<div class="line">    { 0,              0                }</div>
 <div class="line">}</div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4">DATA_VESPERON</a></div><div class="ttdeci">@ DATA_VESPERON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:32</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2">DATA_TENEBRON</a></div><div class="ttdeci">@ DATA_TENEBRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:31</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e">NPC_VESPERON</a></div><div class="ttdeci">@ NPC_VESPERON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:44</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c">DATA_SARTHARION</a></div><div class="ttdeci">@ DATA_SARTHARION</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:30</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac">NPC_SHADRON</a></div><div class="ttdeci">@ NPC_SHADRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:43</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623">NPC_TENEBRON</a></div><div class="ttdeci">@ NPC_TENEBRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:42</div></div>
+<div class="ttc" id="aa01751_html_af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4"><div class="ttname"><a href="../../d5/db3/a01751.html#af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4">DATA_SHADRON</a></div><div class="ttdeci">@ DATA_SHADRON</div><div class="ttdef"><b>Definition:</b> obsidian_sanctum.h:33</div></div>
+<div class="ttc" id="aa02495_html_abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10"><div class="ttname"><a href="../../d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10">NPC_SARTHARION</a></div><div class="ttdeci">@ NPC_SARTHARION</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:587</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00271">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Reposition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00045">instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript::instance_obsidian_sanctum_InstanceMapScript()</a>.</p>
 
 </div>
 </div>
@@ -223,8 +198,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_5833980719a36b6f6a864b11e72f0bc7.html">CavernsOfTime</a></li><li class="navelem"><a class="el" href="../../dir_b82ba46dd8181098d322eb7aa98764c9.html">EscapeFromDurnholdeKeep</a></li><li class="navelem"><a class="el" href="../../d0/d78/a01745.html">instance_old_hillsbrad.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:13:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_719d04167aa7ea3db3432ca0946ea1bc.html">ChamberOfAspects</a></li><li class="navelem"><a class="el" href="../../dir_6113d9d9930adc0ab9dd36cb7d5aa748.html">ObsidianSanctum</a></li><li class="navelem"><a class="el" href="../../d0/d78/a01745.html">instance_obsidian_sanctum.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:37:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

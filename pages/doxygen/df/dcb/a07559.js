@@ -1,10 +1,11 @@
 var a07559 =
 [
-    [ "BattlegroundChatBuilder", "df/dcb/a07559.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "df/dcb/a07559.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "df/dcb/a07559.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "df/dcb/a07559.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "df/dcb/a07559.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "df/dcb/a07559.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "df/dcb/a07559.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "WGWorkshop", "df/dcb/a07559.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "df/dcb/a07559.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "df/dcb/a07559.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "df/dcb/a07559.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "df/dcb/a07559.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "df/dcb/a07559.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "df/dcb/a07559.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "df/dcb/a07559.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

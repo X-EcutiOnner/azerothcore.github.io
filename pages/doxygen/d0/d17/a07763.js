@@ -1,10 +1,13 @@
 var a07763 =
 [
-    [ "ChannelRights", "d0/d17/a07763.html#a7fbfd84470bf1b4bf564eec0315f6c8d", null ],
-    [ "ChannelRights", "d0/d17/a07763.html#ac689ce079b171bbbdbc062ad7521f21c", null ],
-    [ "flags", "d0/d17/a07763.html#ad7fdc943a5a97c3c812108243192f6ae", null ],
-    [ "joinMessage", "d0/d17/a07763.html#af8797ef8c642f3a954b1581fb54ed545", null ],
-    [ "moderators", "d0/d17/a07763.html#ac80f92b9e633bf309970179b32e29cee", null ],
-    [ "speakDelay", "d0/d17/a07763.html#a9883582d36b8cc67ab5d649670441000", null ],
-    [ "speakMessage", "d0/d17/a07763.html#a4b7dc06e8839da5a6d50b5d4dae76c1b", null ]
+    [ "banners", "d0/d17/a07763.html#a07c98125c64d119232fec9cc80050537", null ],
+    [ "faction", "d0/d17/a07763.html#ab3758f67da3dcb507bb1acab575e2836", null ],
+    [ "gameobject_entry", "d0/d17/a07763.html#ae80024986e048e05dca174d6b14964d3", null ],
+    [ "gameobject_type", "d0/d17/a07763.html#ac4760cba40ba8916d66cae3712f7c641", null ],
+    [ "last_entry", "d0/d17/a07763.html#a968d6f412ba88b9577429910ffa511a5", null ],
+    [ "needChange", "d0/d17/a07763.html#acecd97e26d19c82e934817ecbc2afce9", null ],
+    [ "nodeState", "d0/d17/a07763.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
+    [ "nodeType", "d0/d17/a07763.html#a3b303a427c4a2248dade5eada6774dc9", null ],
+    [ "timer", "d0/d17/a07763.html#a434605ed0efcc262057a65d7cd8d0128", null ],
+    [ "worldStates", "d0/d17/a07763.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
 ];

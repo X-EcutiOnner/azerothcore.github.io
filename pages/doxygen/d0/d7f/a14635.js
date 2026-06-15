@@ -1,6 +1,7 @@
 var a14635 =
 [
-    [ "gameobjectId", "d0/d7f/a14635.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d0/d7f/a14635.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d0/d7f/a14635.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "FilterTargets", "d0/d7f/a14635.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d0/d7f/a14635.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d0/d7f/a14635.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d0/d7f/a14635.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

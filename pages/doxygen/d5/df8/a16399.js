@@ -1,7 +1,7 @@
 var a16399 =
 [
-    [ "HandleDummy", "d5/df8/a16399.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d5/df8/a16399.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d5/df8/a16399.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d5/df8/a16399.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "boss_sartharion_shadron", "d5/df8/a16399.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d5/df8/a16399.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d5/df8/a16399.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d5/df8/a16399.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

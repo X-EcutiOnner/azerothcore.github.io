@@ -1,4 +1,6 @@
 var a18931 =
 [
-    [ "operator()", "d5/dca/a18931.html#a57b4f62b35a093665bb32073a086b8c5", null ]
+    [ "CaptainSurviveTalk", "d5/dca/a18931.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d5/dca/a18931.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d5/dca/a18931.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

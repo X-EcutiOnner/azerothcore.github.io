@@ -1,10 +1,12 @@
 var a09519 =
 [
-    [ "UnitSearcher", "d3/dcb/a09519.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
-    [ "Visit", "d3/dcb/a09519.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
-    [ "Visit", "d3/dcb/a09519.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
-    [ "Visit", "d3/dcb/a09519.html#ac65516ed337b509ff5c316fb29727854", null ],
-    [ "i_check", "d3/dcb/a09519.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
-    [ "i_object", "d3/dcb/a09519.html#a3029760131a6f50883246afe2533c062", null ],
-    [ "i_phaseMask", "d3/dcb/a09519.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
+    [ "GridTerrainLoader", "d3/dcb/a09519.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "d3/dcb/a09519.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "d3/dcb/a09519.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "d3/dcb/a09519.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "d3/dcb/a09519.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "d3/dcb/a09519.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "d3/dcb/a09519.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "d3/dcb/a09519.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "d3/dcb/a09519.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

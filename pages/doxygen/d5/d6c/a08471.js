@@ -1,16 +1,15 @@
 var a08471 =
 [
-    [ "UpdateState", "d5/d6c/a08471.html#aa4f58928ebfbd115280b12866d9b7d23", [
-      [ "NotUpdating", "d5/d6c/a08471.html#aa4f58928ebfbd115280b12866d9b7d23a29cf8e7615ba78787e84d5298e9835ba", null ],
-      [ "PendingAdd", "d5/d6c/a08471.html#aa4f58928ebfbd115280b12866d9b7d23acc2e650db938ff5bf5525de448cd8ddf", null ],
-      [ "Updating", "d5/d6c/a08471.html#aa4f58928ebfbd115280b12866d9b7d23ad1caed37f15232d71507dbf81af2a919", null ]
-    ] ],
-    [ "UpdatableMapObject", "d5/d6c/a08471.html#a5602f3b21fe1299e300e71d645f3eaee", null ],
-    [ "GetMapUpdateListOffset", "d5/d6c/a08471.html#a52bf945e86eba8c73701a3e378503eeb", null ],
-    [ "GetUpdateState", "d5/d6c/a08471.html#a90b2d1a9f5b356f013ac4a357020de66", null ],
-    [ "SetMapUpdateListOffset", "d5/d6c/a08471.html#aef864d62d4cbefb63647fe691d69dfd4", null ],
-    [ "SetUpdateState", "d5/d6c/a08471.html#a7c95f861c7e13c17e2ebf8088882a709", null ],
-    [ "Map", "d5/d6c/a08471.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "_mapUpdateListOffset", "d5/d6c/a08471.html#af4aaf71a3308e72af67f20bf0e7ced57", null ],
-    [ "_mapUpdateState", "d5/d6c/a08471.html#a46f9010396bb1bd84fb654bbe2795f8e", null ]
+    [ "Guardian", "d5/d6c/a08471.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "d5/d6c/a08471.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "d5/d6c/a08471.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "d5/d6c/a08471.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "d5/d6c/a08471.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "d5/d6c/a08471.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "d5/d6c/a08471.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "d5/d6c/a08471.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "d5/d6c/a08471.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "d5/d6c/a08471.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "d5/d6c/a08471.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "d5/d6c/a08471.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

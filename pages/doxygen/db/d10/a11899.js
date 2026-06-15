@@ -1,10 +1,10 @@
 var a11899 =
 [
-    [ "CustomChatTextBuilder", "db/d10/a11899.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "db/d10/a11899.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "db/d10/a11899.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "db/d10/a11899.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "db/d10/a11899.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "db/d10/a11899.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "db/d10/a11899.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "Aura", "db/d10/a11899.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "db/d10/a11899.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "db/d10/a11899.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "db/d10/a11899.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "db/d10/a11899.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "db/d10/a11899.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "db/d10/a11899.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

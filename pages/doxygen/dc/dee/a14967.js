@@ -1,10 +1,16 @@
 var a14967 =
 [
-    [ "boss_rage_winterchill", "dc/dee/a14967.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
-    [ "DoAction", "dc/dee/a14967.html#a45333aea6d6a180473ca4823ea83920a", null ],
-    [ "JustDied", "dc/dee/a14967.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
-    [ "JustEngagedWith", "dc/dee/a14967.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
-    [ "KilledUnit", "dc/dee/a14967.html#a69d69530a080379add7be73c552f4937", null ],
-    [ "PathEndReached", "dc/dee/a14967.html#aec47befdf3246710a5158780fa797fa7", null ],
-    [ "_recentlySpoken", "dc/dee/a14967.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
+    [ "npc_pilgrims_bounty_chair", "dc/dee/a14967.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "dc/dee/a14967.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "dc/dee/a14967.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "dc/dee/a14967.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "dc/dee/a14967.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "dc/dee/a14967.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "dc/dee/a14967.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "dc/dee/a14967.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "dc/dee/a14967.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "dc/dee/a14967.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "dc/dee/a14967.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "dc/dee/a14967.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "dc/dee/a14967.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

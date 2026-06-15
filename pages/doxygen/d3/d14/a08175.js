@@ -1,12 +1,9 @@
 var a08175 =
 [
-    [ "far_clip", "d3/d14/a08175.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
-    [ "fov", "d3/d14/a08175.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
-    [ "near_clip", "d3/d14/a08175.html#a9426497de885b901d364c0b3ddd487d9", null ],
-    [ "position_base", "d3/d14/a08175.html#abf0892be5ecf6d1e1021e101832396f3", null ],
-    [ "positions", "d3/d14/a08175.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
-    [ "rolldata", "d3/d14/a08175.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
-    [ "target_position_base", "d3/d14/a08175.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
-    [ "target_positions", "d3/d14/a08175.html#a12132e4bcc881cab134851938c45e05a", null ],
-    [ "type", "d3/d14/a08175.html#afd67c926b538e189b036d88a9a277a2f", null ]
+    [ "PvPCombatReference", "d3/d14/a08175.html#a1439519e8f8665e345cd1bd3d28031aa", null ],
+    [ "RefreshTimer", "d3/d14/a08175.html#ad8d05318d995aca2196c06768695b48e", null ],
+    [ "Update", "d3/d14/a08175.html#a88d3291f9e29fa72f610b6c2a224fa4a", null ],
+    [ "CombatManager", "d3/d14/a08175.html#ae013513b37e5f4a92a90f8c59f9291c1", null ],
+    [ "_combatTimer", "d3/d14/a08175.html#accd9e37fa63f110daebb0086027f8ab6", null ],
+    [ "PVP_COMBAT_TIMEOUT", "d3/d14/a08175.html#ae7026b02e2701be7a84d6da26bd3a432", null ]
 ];

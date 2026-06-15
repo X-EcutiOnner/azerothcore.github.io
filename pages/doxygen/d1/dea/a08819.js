@@ -1,8 +1,13 @@
 var a08819 =
 [
-    [ "PlayerCreateInfoAction", "d1/dea/a08819.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d1/dea/a08819.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d1/dea/a08819.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d1/dea/a08819.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d1/dea/a08819.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "UpdateData", "d1/dea/a08819.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d1/dea/a08819.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d1/dea/a08819.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "d1/dea/a08819.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "d1/dea/a08819.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d1/dea/a08819.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d1/dea/a08819.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d1/dea/a08819.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d1/dea/a08819.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d1/dea/a08819.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

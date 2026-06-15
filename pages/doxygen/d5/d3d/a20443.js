@@ -1,5 +1,6 @@
 var a20443 =
 [
-    [ "go_ulduar_working_harpoon", "d5/d3d/a20443.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "d5/d3d/a20443.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "HandleInstaKill", "d5/d3d/a20443.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "d5/d3d/a20443.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "d5/d3d/a20443.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

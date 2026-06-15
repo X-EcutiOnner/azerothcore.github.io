@@ -1,6 +1,6 @@
 var a18767 =
 [
-    [ "PeriodicTick", "d1/d90/a18767.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "d1/d90/a18767.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "d1/d90/a18767.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/dd1/a18771.html", "dd/dd1/a18771" ],
+    [ "npc_lk_wicked_spirit", "d1/d90/a18767.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d1/d90/a18767.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

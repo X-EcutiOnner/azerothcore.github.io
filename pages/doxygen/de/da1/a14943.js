@@ -1,9 +1,11 @@
 var a14943 =
 [
-    [ "boss_azgalor", "de/da1/a14943.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "de/da1/a14943.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "de/da1/a14943.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "de/da1/a14943.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "de/da1/a14943.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "de/da1/a14943.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandleFinish", "de/da1/a14943.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "de/da1/a14943.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "de/da1/a14943.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "de/da1/a14943.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "de/da1/a14943.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "de/da1/a14943.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "de/da1/a14943.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "de/da1/a14943.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

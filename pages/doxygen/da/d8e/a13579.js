@@ -1,7 +1,7 @@
 var a13579 =
 [
-    [ "CorruptTriggers", "da/d8e/a13579.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "da/d8e/a13579.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "da/d8e/a13579.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "da/d8e/a13579.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "npc_apothecary_genericAI", "da/d8e/a13579.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "da/d8e/a13579.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "da/d8e/a13579.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "da/d8e/a13579.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

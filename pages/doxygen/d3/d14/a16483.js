@@ -1,11 +1,15 @@
 var a16483 =
 [
-    [ "boss_saviana_ragefireAI", "d3/d14/a16483.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d3/d14/a16483.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d3/d14/a16483.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d3/d14/a16483.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d3/d14/a16483.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d3/d14/a16483.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d3/d14/a16483.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d3/d14/a16483.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "npc_onyx_flamecallerAI", "d3/d14/a16483.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "d3/d14/a16483.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "d3/d14/a16483.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "d3/d14/a16483.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "d3/d14/a16483.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "d3/d14/a16483.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "d3/d14/a16483.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "d3/d14/a16483.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "WaypointReached", "d3/d14/a16483.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d3/d14/a16483.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "d3/d14/a16483.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "d3/d14/a16483.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

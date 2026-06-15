@@ -1,7 +1,6 @@
 var a14347 =
 [
-    [ "HandleOnHit", "d8/da0/a14347.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "d8/da0/a14347.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "d8/da0/a14347.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "d8/da0/a14347.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d8/da0/a14347.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d8/da0/a14347.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d8/da0/a14347.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

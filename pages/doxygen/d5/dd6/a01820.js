@@ -1,14 +1,19 @@
 var a01820 =
 [
-    [ "npc_cairne_bloodhoof", "dd/d74/a16048.html", "dd/d74/a16048" ],
-    [ "npc_cairne_bloodhoof::npc_cairne_bloodhoofAI", "db/db7/a16052.html", "db/db7/a16052" ],
-    [ "CairneBloodhoof", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9", [
-      [ "SPELL_BERSERKER_CHARGE", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9ae34e5e229d0caf06536a990d65605f66", null ],
-      [ "SPELL_CLEAVE", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
-      [ "SPELL_MORTAL_STRIKE", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9a7794ace87705e2898f8b60f1f5228110", null ],
-      [ "SPELL_THUNDERCLAP", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_UPPERCUT", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9aec5ad6f4170f697acf9499e4e06bb065", null ],
-      [ "SPELL_CAIRNES_HOOFPRINT", "d5/dd6/a01820.html#a1d11da63be1309061cba3b5e10f2bbd9aa5dbce7c49b1794438bd8cfc874c7104", null ]
-    ] ],
-    [ "AddSC_thunder_bluff", "d5/dd6/a01820.html#ae5d674fbd346082d81f6f6720eed1081", null ]
+    [ "LivingPoisonData", "dc/d3c/a19543.html", "dc/d3c/a19543" ],
+    [ "instance_naxxramas", "d7/daa/a19547.html", "d7/daa/a19547" ],
+    [ "npc_mr_bigglesworth", "d7/d4d/a19551.html", "d7/d4d/a19551" ],
+    [ "npc_living_poison", "d5/d6b/a19555.html", "d5/d6b/a19555" ],
+    [ "npc_naxxramas_trigger", "db/d24/a19559.html", "db/d24/a19559" ],
+    [ "at_naxxramas_hub_portal", "dd/db5/a19563.html", "dd/db5/a19563" ],
+    [ "AddSC_instance_naxxramas", "d5/dd6/a01820.html#aba1e1afda4423e51a1849a33da49a334", null ],
+    [ "boundaries", "d5/dd6/a01820.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "d5/dd6/a01820.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "d5/dd6/a01820.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "gameObjectData", "d5/dd6/a01820.html#a1461582839e3b7fdbb7397e5d2086e31", null ],
+    [ "HeiganEruptionSlope", "d5/dd6/a01820.html#afc813e25da4423b11b3f71a4c3434b43", null ],
+    [ "HeiganPos", "d5/dd6/a01820.html#a329c88a19bf7f6ee06251fb30b96aa80", null ],
+    [ "HorsemanDataGroup", "d5/dd6/a01820.html#a78f519adea6cb5310c9cf098d905aa7b", null ],
+    [ "LivingPoisonDataList", "d5/dd6/a01820.html#a7adc6b584916ee1544c8ff38ab6327a9", null ],
+    [ "SapphironTeleportPos", "d5/dd6/a01820.html#a4b033537221c1c9063ff056950ac6fdb", null ]
 ];

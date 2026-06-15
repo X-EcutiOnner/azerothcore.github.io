@@ -1,8 +1,12 @@
 var a20683 =
 [
-    [ "FilterTargets", "dd/d36/a20683.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "dd/d36/a20683.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "dd/d36/a20683.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "dd/d36/a20683.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "dd/d36/a20683.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "npc_xt002_boombot", "dd/d36/a20683.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
+    [ "DamageTaken", "dd/d36/a20683.html#a6686960dcf9050c62f707f80f8e378e9", null ],
+    [ "Explode", "dd/d36/a20683.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
+    [ "JustDied", "dd/d36/a20683.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
+    [ "MovementInform", "dd/d36/a20683.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
+    [ "Reset", "dd/d36/a20683.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
+    [ "UpdateAI", "dd/d36/a20683.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
+    [ "_boomed", "dd/d36/a20683.html#a4307aaf92856d146095497cf74ef3e67", null ],
+    [ "_locked", "dd/d36/a20683.html#ad46600f129729931422b5c9c70568e3f", null ]
 ];

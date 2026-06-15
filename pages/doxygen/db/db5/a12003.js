@@ -1,5 +1,6 @@
 var a12003 =
 [
-    [ "Command", "db/db5/a12003.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "db/db5/a12003.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "EffectCalcPeriodicHandler", "db/db5/a12003.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "db/db5/a12003.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "db/db5/a12003.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

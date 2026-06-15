@@ -1,6 +1,7 @@
 var a21419 =
 [
-    [ "npc_dalaran_warriorAI", "d0/db1/a21423.html", "d0/db1/a21423" ],
-    [ "npc_dalaran_warrior", "d0/db9/a21419.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d0/db9/a21419.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "HandleEffectHit", "d0/db9/a21419.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d0/db9/a21419.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d0/db9/a21419.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d0/db9/a21419.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

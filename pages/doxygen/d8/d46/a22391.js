@@ -1,15 +1,6 @@
 var a22391 =
 [
-    [ "boss_grandmaster_vorpil", "d8/d46/a22391.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d8/d46/a22391.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d8/d46/a22391.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d8/d46/a22391.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d8/d46/a22391.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d8/d46/a22391.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d8/d46/a22391.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d8/d46/a22391.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d8/d46/a22391.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d8/d46/a22391.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d8/d46/a22391.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d8/d46/a22391.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "df/dcd/a22395.html", "df/dcd/a22395" ],
+    [ "instance_mana_tombs", "d8/d46/a22391.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d8/d46/a22391.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

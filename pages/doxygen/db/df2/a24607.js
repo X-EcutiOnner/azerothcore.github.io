@@ -1,8 +1,9 @@
 var a24607 =
 [
-    [ "CheckProc", "db/df2/a24607.html#a44d845f5cbfaf0fd33409ffd16fd4396", null ],
-    [ "HandleProc", "db/df2/a24607.html#a946cb56cf0a525c0a44b638b28e5b3ad", null ],
-    [ "PrepareAuraScript", "db/df2/a24607.html#a01c53cd13316af74cfe27603e70ab468", null ],
-    [ "Register", "db/df2/a24607.html#a5bb2ca31f2e4477640578a305593bcb3", null ],
-    [ "Validate", "db/df2/a24607.html#a307274a8f4e55ad15efc08711a7b8e8f", null ]
+    [ "FilterTargets", "db/df2/a24607.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "db/df2/a24607.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "db/df2/a24607.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "db/df2/a24607.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "db/df2/a24607.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "db/df2/a24607.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

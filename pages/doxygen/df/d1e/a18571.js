@@ -1,8 +1,8 @@
 var a18571 =
 [
-    [ "Load", "df/d1e/a18571.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "df/d1e/a18571.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "df/d1e/a18571.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "df/d1e/a18571.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "df/d1e/a18571.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "FilterTargets", "df/d1e/a18571.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "df/d1e/a18571.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "df/d1e/a18571.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "df/d1e/a18571.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "df/d1e/a18571.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

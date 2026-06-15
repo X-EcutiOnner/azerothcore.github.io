@@ -1,7 +1,7 @@
 var a22723 =
 [
-    [ "HandleEffectApply", "d9/db3/a22723.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d9/db3/a22723.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d9/db3/a22723.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d9/db3/a22723.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "npc_ashtongue_channeler", "d9/db3/a22723.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d9/db3/a22723.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d9/db3/a22723.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d9/db3/a22723.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

@@ -1,14 +1,21 @@
 var a10239 =
 [
-    [ "~MovementGenerator", "dd/d7a/a10239.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
-    [ "Finalize", "dd/d7a/a10239.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
-    [ "GetMovementGeneratorType", "dd/d7a/a10239.html#a60bac341b438ea7258986f234a952324", null ],
-    [ "GetResetPosition", "dd/d7a/a10239.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
-    [ "GetSplineId", "dd/d7a/a10239.html#a99865a1b7cf84b02784bfa8df958585f", null ],
-    [ "Initialize", "dd/d7a/a10239.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
-    [ "Pause", "dd/d7a/a10239.html#a37530e5cd743faecabd21eba08dce939", null ],
-    [ "Reset", "dd/d7a/a10239.html#aa6641fa1182551421fc8572afad8e083", null ],
-    [ "Resume", "dd/d7a/a10239.html#a51988a8b0a45459242467e38ca46303c", null ],
-    [ "unitSpeedChanged", "dd/d7a/a10239.html#a0f9c4fd52947688dcda1161924e829bb", null ],
-    [ "Update", "dd/d7a/a10239.html#ae3014d8c6e728799c86134ef64737ed5", null ]
+    [ "MapUpdater", "dd/d7a/a10239.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
+    [ "~MapUpdater", "dd/d7a/a10239.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
+    [ "activate", "dd/d7a/a10239.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
+    [ "activated", "dd/d7a/a10239.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
+    [ "deactivate", "dd/d7a/a10239.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
+    [ "schedule_lfg_update", "dd/d7a/a10239.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
+    [ "schedule_map_preload", "dd/d7a/a10239.html#a6caf6c7858d2f3ea6985605b64ea1242", null ],
+    [ "schedule_task", "dd/d7a/a10239.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
+    [ "schedule_update", "dd/d7a/a10239.html#aafda5775622dcce2e4869cf5d015fefc", null ],
+    [ "update_finished", "dd/d7a/a10239.html#ab874c53de215037c8fae77f9dac6601c", null ],
+    [ "wait", "dd/d7a/a10239.html#a608eb61de2bacf082422562b049e8652", null ],
+    [ "WorkerThread", "dd/d7a/a10239.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
+    [ "_cancelationToken", "dd/d7a/a10239.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
+    [ "_condition", "dd/d7a/a10239.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
+    [ "_lock", "dd/d7a/a10239.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
+    [ "_queue", "dd/d7a/a10239.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
+    [ "_workerThreads", "dd/d7a/a10239.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
+    [ "pending_requests", "dd/d7a/a10239.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
 ];

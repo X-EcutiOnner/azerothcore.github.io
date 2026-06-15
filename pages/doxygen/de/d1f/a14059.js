@@ -1,6 +1,6 @@
 var a14059 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
-    [ "npc_the_scourge_cauldron", "de/d1f/a14059.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "de/d1f/a14059.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "OnEffect", "de/d1f/a14059.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "de/d1f/a14059.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "de/d1f/a14059.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

@@ -1,8 +1,6 @@
 var a20963 =
 [
-    [ "CheckProc", "dc/d41/a20963.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "dc/d41/a20963.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "dc/d41/a20963.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "dc/d41/a20963.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "dc/d41/a20963.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "dd/d45/a20967.html", "dd/d45/a20967" ],
+    [ "instance_utgarde_keep", "dc/d41/a20963.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "dc/d41/a20963.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

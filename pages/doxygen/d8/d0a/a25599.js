@@ -1,7 +1,6 @@
 var a25599 =
 [
-    [ "CheckProc", "d8/d0a/a25599.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "d8/d0a/a25599.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "d8/d0a/a25599.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "d8/d0a/a25599.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "HandleScriptEffect", "d8/d0a/a25599.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d8/d0a/a25599.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d8/d0a/a25599.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

@@ -1,8 +1,8 @@
 var a14395 =
 [
-    [ "npc_spawn_of_marli", "d7/de1/a14395.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d7/de1/a14395.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d7/de1/a14395.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d7/de1/a14395.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d7/de1/a14395.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "FilterTargets", "d7/de1/a14395.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d7/de1/a14395.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d7/de1/a14395.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d7/de1/a14395.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d7/de1/a14395.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

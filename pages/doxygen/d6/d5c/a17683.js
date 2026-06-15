@@ -1,7 +1,7 @@
 var a17683 =
 [
-    [ "FilterTargets", "d6/d5c/a17683.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d6/d5c/a17683.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d6/d5c/a17683.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d6/d5c/a17683.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "HandleDummyTick", "d6/d5c/a17683.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d6/d5c/a17683.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d6/d5c/a17683.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d6/d5c/a17683.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

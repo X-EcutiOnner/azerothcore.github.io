@@ -1,6 +1,6 @@
 var a14791 =
 [
-    [ "HandleAfterEffectApply", "d8/d36/a14791.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d8/d36/a14791.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d8/d36/a14791.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "HandleScript", "d8/d36/a14791.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "d8/d36/a14791.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "d8/d36/a14791.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

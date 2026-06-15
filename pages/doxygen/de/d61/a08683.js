@@ -1,7 +1,6 @@
 var a08683 =
 [
-    [ "ObjectDistanceOrderPred", "de/d61/a08683.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
-    [ "operator()", "de/d61/a08683.html#aaa5023735568f6df28a177fbd9ed866e", null ],
-    [ "m_ascending", "de/d61/a08683.html#a313cd0450096e49716bfb52f8f238bfc", null ],
-    [ "m_refObj", "de/d61/a08683.html#aec421fd45a60545bf92b7236e0d0b360", null ]
+    [ "DamageMax", "de/d61/a08683.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "de/d61/a08683.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "de/d61/a08683.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

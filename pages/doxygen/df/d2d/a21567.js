@@ -1,6 +1,7 @@
 var a21567 =
 [
-    [ "npc_spiritual_insightAI", "df/d2d/a21567.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "df/d2d/a21567.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "df/d2d/a21567.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "HandleApplyEffect", "df/d2d/a21567.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "df/d2d/a21567.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "df/d2d/a21567.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "df/d2d/a21567.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

@@ -1,7 +1,11 @@
 var a10767 =
 [
-    [ "ClientPacket", "dd/d77/a10767.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "dd/d77/a10767.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "dd/d77/a10767.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "dd/d77/a10767.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "ServerScript", "dd/d77/a10767.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "dd/d77/a10767.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "dd/d77/a10767.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "dd/d77/a10767.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "dd/d77/a10767.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "dd/d77/a10767.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "dd/d77/a10767.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "dd/d77/a10767.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

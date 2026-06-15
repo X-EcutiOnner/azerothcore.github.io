@@ -1,14 +1,11 @@
 var a01271 =
 [
-    [ "guard_shattrath_scryer", "d9/d8c/a27988.html", "d9/d8c/a27988" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "df/dec/a27992.html", "df/dec/a27992" ],
-    [ "guard_shattrath_aldor", "d7/d3a/a27996.html", "d7/d3a/a27996" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "de/d33/a28000.html", "de/d33/a28000" ],
-    [ "GuardShattrath", "dd/d39/a01271.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
-      [ "SPELL_BANISHED_SHATTRATH_A", "dd/d39/a01271.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
-      [ "SPELL_BANISHED_SHATTRATH_S", "dd/d39/a01271.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
-      [ "SPELL_BANISH_TELEPORT", "dd/d39/a01271.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
-      [ "SPELL_EXILE", "dd/d39/a01271.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
-    ] ],
-    [ "AddSC_guards", "dd/d39/a01271.html#acba582cbc90c710c629dd30926acdca4", null ]
+    [ "instance_hyjal", "d0/d70/a15151.html", "d0/d70/a15151" ],
+    [ "instance_hyjal::instance_mount_hyjal_InstanceMapScript", "db/d54/a15155.html", "db/d54/a15155" ],
+    [ "AddSC_instance_mount_hyjal", "dd/d39/a01271.html#a5c7a0ad3a2ae9f82eb9c45fbf90d5b41", null ],
+    [ "creatureData", "dd/d39/a01271.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "doorData", "dd/d39/a01271.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "hyjalNightElfWaveTimers", "dd/d39/a01271.html#ade7b4d2fdf8cd15fa4985554885eb881", null ],
+    [ "hyjalRetreatTimers", "dd/d39/a01271.html#a254787ab3a62d90e906ded9ef63aa229", null ],
+    [ "hyjalWaveTimers", "dd/d39/a01271.html#aaad50890c4534c5b5c848a9b85f3d8fe", null ]
 ];

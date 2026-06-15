@@ -1,6 +1,7 @@
 var a20323 =
 [
-    [ "OnPeriodic", "de/dba/a20323.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "de/dba/a20323.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "de/dba/a20323.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "HandleEffectPeriodic", "de/dba/a20323.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "de/dba/a20323.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "de/dba/a20323.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "de/dba/a20323.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

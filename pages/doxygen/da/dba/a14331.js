@@ -1,9 +1,9 @@
 var a14331 =
 [
-    [ "boss_jindo", "da/dba/a14331.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "da/dba/a14331.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "da/dba/a14331.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "da/dba/a14331.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "da/dba/a14331.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "da/dba/a14331.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "npc_zulaman_hostageAI", "da/dba/a14331.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "da/dba/a14331.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "da/dba/a14331.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "da/dba/a14331.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "da/dba/a14331.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "da/dba/a14331.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

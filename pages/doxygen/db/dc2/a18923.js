@@ -1,8 +1,7 @@
 var a18923 =
 [
-    [ "CountTargets", "db/dc2/a18923.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "db/dc2/a18923.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "db/dc2/a18923.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "db/dc2/a18923.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "db/dc2/a18923.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "FrostwingVrykulSearcher", "db/dc2/a18923.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "db/dc2/a18923.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "db/dc2/a18923.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "db/dc2/a18923.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

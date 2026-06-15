@@ -1,6 +1,6 @@
 var a23691 =
 [
-    [ "npc_daranelleAI", "da/dfd/a23695.html", "da/dfd/a23695" ],
-    [ "npc_daranelle", "d7/d23/a23691.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d7/d23/a23691.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "HandlePeriodic", "d7/d23/a23691.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
+    [ "PrepareAuraScript", "d7/d23/a23691.html#a438425f3002028a0978e0dbab580ca03", null ],
+    [ "Register", "d7/d23/a23691.html#af4b26607e8838b7bbbe8777f57601341", null ]
 ];

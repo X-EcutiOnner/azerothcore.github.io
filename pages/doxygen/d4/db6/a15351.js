@@ -1,6 +1,6 @@
 var a15351 =
 [
-    [ "HandleDamageCalc", "d4/db6/a15351.html#a03eb92eff300872cd5fca452a99375ab", null ],
-    [ "PrepareSpellScript", "d4/db6/a15351.html#ac07421b62bb6044dad89431839a70bd8", null ],
-    [ "Register", "d4/db6/a15351.html#a70cbf764ab475e2358fa6630798cab9d", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d0/d65/a15355.html", "d0/d65/a15355" ],
+    [ "instance_onyxias_lair", "d4/db6/a15351.html#a1be32e45cb8af86477d300efb6e545cc", null ],
+    [ "GetInstanceScript", "d4/db6/a15351.html#abbdc474ce17bca0cb55180661c5204a8", null ]
 ];

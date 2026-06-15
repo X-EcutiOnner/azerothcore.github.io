@@ -1,6 +1,8 @@
 var a22019 =
 [
-    [ "CheckCast", "d5/db5/a22019.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d5/db5/a22019.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d5/db5/a22019.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_time_lost_proto_drakeAI", "d5/db5/a22019.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d5/db5/a22019.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d5/db5/a22019.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d5/db5/a22019.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d5/db5/a22019.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

@@ -1,8 +1,7 @@
 var a22503 =
 [
-    [ "Load", "d4/d57/a22503.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d4/d57/a22503.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d4/d57/a22503.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d4/d57/a22503.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d4/d57/a22503.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "npc_blade_of_azzinoth", "d4/d57/a22503.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d4/d57/a22503.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d4/d57/a22503.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d4/d57/a22503.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

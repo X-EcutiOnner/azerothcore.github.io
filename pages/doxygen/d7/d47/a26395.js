@@ -1,8 +1,7 @@
 var a26395 =
 [
-    [ "HandleApply", "d7/d47/a26395.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "d7/d47/a26395.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "d7/d47/a26395.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "d7/d47/a26395.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "d7/d47/a26395.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "PeriodicTick", "d7/d47/a26395.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "d7/d47/a26395.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "d7/d47/a26395.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "d7/d47/a26395.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

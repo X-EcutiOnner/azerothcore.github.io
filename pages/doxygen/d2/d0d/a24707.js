@@ -1,6 +1,10 @@
 var a24707 =
 [
-    [ "PrepareSpellScript", "d2/d0d/a24707.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d2/d0d/a24707.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d2/d0d/a24707.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "CalcAmount", "d2/d0d/a24707.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d2/d0d/a24707.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d2/d0d/a24707.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d2/d0d/a24707.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d2/d0d/a24707.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d2/d0d/a24707.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d2/d0d/a24707.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

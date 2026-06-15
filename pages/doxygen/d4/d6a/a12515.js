@@ -1,9 +1,15 @@
 var a12515 =
 [
-    [ "boss_overlord_wyrmthalak", "d4/d6a/a12515.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
-    [ "JustDied", "d4/d6a/a12515.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
-    [ "JustEngagedWith", "d4/d6a/a12515.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
-    [ "Reset", "d4/d6a/a12515.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
-    [ "UpdateAI", "d4/d6a/a12515.html#afcca6360598b40df4c35bff752eee3f4", null ],
-    [ "_summoned", "d4/d6a/a12515.html#a4ccbe2c20ef1303141005a79ec418705", null ]
+    [ "worldstate_commandscript", "d4/d6a/a12515.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
+    [ "GetCommands", "d4/d6a/a12515.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
+    [ "HandleScourgeInvasionBattlesWonCommand", "d4/d6a/a12515.html#a1c2167ce554327d674161b7c4f63585c", null ],
+    [ "HandleScourgeInvasionCommand", "d4/d6a/a12515.html#a11aeedef82a93f8799fd788a8c492335", null ],
+    [ "HandleScourgeInvasionStartZone", "d4/d6a/a12515.html#af242372bd32ed79d839af82f82423837", null ],
+    [ "HandleScourgeInvasionStateCommand", "d4/d6a/a12515.html#a5ba0b973087f921dbb764037c8b36134", null ],
+    [ "HandleSunsReachReclamationCounterCommand", "d4/d6a/a12515.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
+    [ "HandleSunsReachReclamationPhaseCommand", "d4/d6a/a12515.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
+    [ "HandleSunsReachReclamationStatusCommand", "d4/d6a/a12515.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
+    [ "HandleSunsReachReclamationSubPhaseCommand", "d4/d6a/a12515.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
+    [ "HandleSunwellGateCommand", "d4/d6a/a12515.html#a45b73e47c8e9b21063d02922a83e103b", null ],
+    [ "HandleSunwellGateCounterCommand", "d4/d6a/a12515.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
 ];

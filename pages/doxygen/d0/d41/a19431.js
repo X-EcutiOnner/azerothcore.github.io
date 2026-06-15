@@ -1,7 +1,6 @@
 var a19431 =
 [
-    [ "npc_naxxramas_trigger", "d0/d41/a19431.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d0/d41/a19431.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d0/d41/a19431.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d0/d41/a19431.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "boss_loathebAI", "d9/df8/a19435.html", "d9/df8/a19435" ],
+    [ "boss_loatheb", "d0/d41/a19431.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "d0/d41/a19431.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

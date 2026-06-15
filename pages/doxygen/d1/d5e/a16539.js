@@ -1,6 +1,10 @@
 var a16539 =
 [
-    [ "FilterTargets", "d1/d5e/a16539.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d1/d5e/a16539.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d1/d5e/a16539.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "spell_halion_combustion_consumption_aura", "d1/d5e/a16539.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d1/d5e/a16539.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d1/d5e/a16539.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d1/d5e/a16539.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d1/d5e/a16539.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d1/d5e/a16539.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d1/d5e/a16539.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

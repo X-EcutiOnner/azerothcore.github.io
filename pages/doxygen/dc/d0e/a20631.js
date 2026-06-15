@@ -1,10 +1,11 @@
 var a20631 =
 [
-    [ "boss_yoggsaron_constrictor_tentacle", "dc/d0e/a20631.html#a3206b641b6c6dffdabb8cacc09ac564a", null ],
-    [ "DoAction", "dc/d0e/a20631.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
-    [ "JustDied", "dc/d0e/a20631.html#aac8f5a80248c4616074e7ef88fb10395", null ],
-    [ "SelectConstrictTarget", "dc/d0e/a20631.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
-    [ "UpdateAI", "dc/d0e/a20631.html#a930b35c2385ba2977f2f2da3b4b38f07", null ],
-    [ "_checkTimer", "dc/d0e/a20631.html#aa6c76606c7c9e6ee71e94433cb721f96", null ],
-    [ "_playerGUID", "dc/d0e/a20631.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
+    [ "boss_thorim_ancient_rune_giant", "dc/d0e/a20631.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "dc/d0e/a20631.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "dc/d0e/a20631.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "dc/d0e/a20631.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "dc/d0e/a20631.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "dc/d0e/a20631.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "dc/d0e/a20631.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "dc/d0e/a20631.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

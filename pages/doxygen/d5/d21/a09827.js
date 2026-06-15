@@ -1,12 +1,7 @@
 var a09827 =
 [
-    [ "EventLogEntry", "d5/d21/a09827.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
-    [ "EventLogEntry", "d5/d21/a09827.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
-    [ "~EventLogEntry", "d5/d21/a09827.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
-    [ "SaveToDB", "d5/d21/a09827.html#a2ca71e291a44f95bb42d51083aa84985", null ],
-    [ "WritePacket", "d5/d21/a09827.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
-    [ "m_eventType", "d5/d21/a09827.html#a00216643e6856591402c21df490c1fec", null ],
-    [ "m_newRank", "d5/d21/a09827.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
-    [ "m_playerGuid1", "d5/d21/a09827.html#a06a2b45d16860c711829f49f97624272", null ],
-    [ "m_playerGuid2", "d5/d21/a09827.html#a1f66e71f9536e484663e437bbcbcefca", null ]
+    [ "ObjectGUIDCheck", "d5/d21/a09827.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d5/d21/a09827.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d5/d21/a09827.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d5/d21/a09827.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

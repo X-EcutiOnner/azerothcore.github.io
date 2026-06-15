@@ -1,6 +1,5 @@
 var a19227 =
 [
-    [ "npc_boss_gothik_minionAI", "d9/d2b/a19231.html", "d9/d2b/a19231" ],
-    [ "npc_boss_gothik_minion", "d2/d7d/a19227.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d2/d7d/a19227.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "at_frozen_throne_teleport", "d2/d7d/a19227.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d2/d7d/a19227.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

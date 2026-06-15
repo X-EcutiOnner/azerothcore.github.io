@@ -1,14 +1,21 @@
 var a10059 =
 [
-    [ "TriangleBoundary", "d3/dab/a10059.html#acd21a26ca6b830c4d4c6ed2b4a186a30", null ],
-    [ "IsWithinBoundaryArea", "d3/dab/a10059.html#aaebce21d60856976db921e22a871aae6", null ],
-    [ "_a", "d3/dab/a10059.html#a11a5e1e039d39205450e8fde526f23c9", null ],
-    [ "_abx", "d3/dab/a10059.html#a18ad05ab00e882af42a5dbc0cf10715b", null ],
-    [ "_aby", "d3/dab/a10059.html#a50c9a60be77846c736cf278eac263b44", null ],
-    [ "_b", "d3/dab/a10059.html#abcce62f1f187bc6e42f4534bfca855e8", null ],
-    [ "_bcx", "d3/dab/a10059.html#a043b7c018baed6b098f93b667f47baed", null ],
-    [ "_bcy", "d3/dab/a10059.html#afa03a5b23a6e0d3d4e134fe7b1599df0", null ],
-    [ "_c", "d3/dab/a10059.html#a8e037f96f40d81f6c426208efb0dcd1a", null ],
-    [ "_cax", "d3/dab/a10059.html#a7c8c6e8e40ec6249d672bb735d9fbdfa", null ],
-    [ "_cay", "d3/dab/a10059.html#acbb7a9e61dd4e6188837461821843b9a", null ]
+    [ "LootGroup", "d0/d41/a10039.html", "d0/d41/a10039" ],
+    [ "LootGroups", "d3/dab/a10059.html#ae9845401121ac8712dc8dfac9c58c72e", null ],
+    [ "LootTemplate", "d3/dab/a10059.html#a533d3acacc8086a6f8f75013dd790a94", null ],
+    [ "~LootTemplate", "d3/dab/a10059.html#a90b641a69173129d7114c303cd5a31b5", null ],
+    [ "LootTemplate", "d3/dab/a10059.html#a73cc21e48ec8e63b2664a4ece9a3ab21", null ],
+    [ "addConditionItem", "d3/dab/a10059.html#afb33c896a89f0fe14e2b565bb746119e", null ],
+    [ "AddEntry", "d3/dab/a10059.html#a6efe32c6f83184ae0bf0423a7f23118a", null ],
+    [ "CheckLootRefs", "d3/dab/a10059.html#a19e8a2736ba5fd376ad3854cbc68867d", null ],
+    [ "CopyConditions", "d3/dab/a10059.html#a5935f936e90ecc860c49d256127d9726", null ],
+    [ "CopyConditions", "d3/dab/a10059.html#a477c848bcf79153cc430c8d03bbea054", null ],
+    [ "HasQuestDrop", "d3/dab/a10059.html#ae88cc77aa554940030613a15cc05c045", null ],
+    [ "HasQuestDropForPlayer", "d3/dab/a10059.html#a7835ebf003ae3d665656efcc923daaeb", null ],
+    [ "isReference", "d3/dab/a10059.html#acdf75466d9f29ff8a4532c4b6e15bd03", null ],
+    [ "operator=", "d3/dab/a10059.html#a92de3d68e0ec2ab31b1dd17279a3f832", null ],
+    [ "Process", "d3/dab/a10059.html#ae3f86961858f299f8e7ca683733bb127", null ],
+    [ "Verify", "d3/dab/a10059.html#adedb1f03278aaeac63deb3dd32e07329", null ],
+    [ "Entries", "d3/dab/a10059.html#aba1fdfb69c34a9d4a09428114d385621", null ],
+    [ "Groups", "d3/dab/a10059.html#aec4552a98c1e27935da8ef29c9449f87", null ]
 ];

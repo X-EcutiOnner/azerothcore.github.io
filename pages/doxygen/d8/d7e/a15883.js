@@ -1,9 +1,11 @@
 var a15883 =
 [
-    [ "go_wind_stoneAI", "d8/d7e/a15883.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
-    [ "GossipHello", "d8/d7e/a15883.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
-    [ "GossipSelect", "d8/d7e/a15883.html#aff4dedbf3a6fea405722f7064633edb1", null ],
-    [ "InitializeAI", "d8/d7e/a15883.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
-    [ "SummonNPC", "d8/d7e/a15883.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
-    [ "_creatureGuid", "d8/d7e/a15883.html#a50ad8b248381a6d9fac7a291796966d6", null ]
+    [ "npc_troll_volunteerAI", "d8/d7e/a15883.html#a7eb0c508122616a6781c8b23210e4062", null ],
+    [ "GetMountId", "d8/d7e/a15883.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
+    [ "InitializeAI", "d8/d7e/a15883.html#a1c758c7601624e0620778e13e8ec60a0", null ],
+    [ "MovementInform", "d8/d7e/a15883.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
+    [ "Reset", "d8/d7e/a15883.html#a31439533de41c2a459af2b4d3af76139", null ],
+    [ "SpellHit", "d8/d7e/a15883.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
+    [ "_complete", "d8/d7e/a15883.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
+    [ "_mountModel", "d8/d7e/a15883.html#ae226345bd324b9c337dc96570117d82b", null ]
 ];

@@ -1,6 +1,6 @@
 var a18967 =
 [
-    [ "HandleScript", "d9/d33/a18967.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d9/d33/a18967.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d9/d33/a18967.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "boss_sister_svalnaAI", "de/d8a/a18971.html", "de/d8a/a18971" ],
+    [ "boss_sister_svalna", "d9/d33/a18967.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "d9/d33/a18967.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

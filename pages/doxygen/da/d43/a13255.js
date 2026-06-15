@@ -1,7 +1,6 @@
 var a13255 =
 [
-    [ "HandleEffectApply", "da/d43/a13255.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "da/d43/a13255.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "da/d43/a13255.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "da/d43/a13255.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "instance_karazhan_InstanceMapScript", "dd/d06/a13259.html", "dd/d06/a13259" ],
+    [ "instance_karazhan", "da/d43/a13255.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
+    [ "GetInstanceScript", "da/d43/a13255.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
 ];

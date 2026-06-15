@@ -1,6 +1,10 @@
 var a14459 =
 [
-    [ "npc_brewfest_keg_thrower", "d7/d85/a14459.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d7/d85/a14459.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d7/d85/a14459.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "boss_jeklik", "d7/d85/a14459.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "d7/d85/a14459.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "d7/d85/a14459.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "d7/d85/a14459.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "d7/d85/a14459.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "d7/d85/a14459.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "d7/d85/a14459.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

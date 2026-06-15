@@ -1,6 +1,5 @@
 var a17579 =
 [
-    [ "boss_blood_queen_lana_thelAI", "de/d51/a17583.html", "de/d51/a17583" ],
-    [ "boss_blood_queen_lana_thel", "da/d18/a17579.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "da/d18/a17579.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "da/d18/a17579.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "da/d18/a17579.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

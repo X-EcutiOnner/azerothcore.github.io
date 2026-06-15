@@ -1,7 +1,7 @@
 var a12979 =
 [
-    [ "OnRemove", "da/d94/a12979.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "da/d94/a12979.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "da/d94/a12979.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "da/d94/a12979.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "HandleScript", "da/d94/a12979.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "da/d94/a12979.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "da/d94/a12979.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "da/d94/a12979.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

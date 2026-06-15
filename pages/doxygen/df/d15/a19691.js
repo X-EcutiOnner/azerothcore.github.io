@@ -1,12 +1,13 @@
 var a19691 =
 [
-    [ "npc_spark_of_ionar", "df/d15/a19691.html#a93df0828e409a44008257294855f8d7a", null ],
-    [ "AttackStart", "df/d15/a19691.html#a36181ef97213713c104edf4b085bc46e", null ],
-    [ "DamageTaken", "df/d15/a19691.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
-    [ "DoAction", "df/d15/a19691.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
-    [ "MoveInLineOfSight", "df/d15/a19691.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
-    [ "Reset", "df/d15/a19691.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
-    [ "UpdateAI", "df/d15/a19691.html#ae251d676f0505db2383e61ef007932a0", null ],
-    [ "_events", "df/d15/a19691.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
-    [ "returning", "df/d15/a19691.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
+    [ "boss_drakosAI", "df/d15/a19691.html#a75d771095897081457353be898b332c3", null ],
+    [ "JustDied", "df/d15/a19691.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
+    [ "JustEngagedWith", "df/d15/a19691.html#a4bc15075d9e9a913783da482a7a167c7", null ],
+    [ "JustSummoned", "df/d15/a19691.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
+    [ "KilledUnit", "df/d15/a19691.html#a4bd3e45b45660311d7510f58a1850648", null ],
+    [ "MoveInLineOfSight", "df/d15/a19691.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
+    [ "Reset", "df/d15/a19691.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
+    [ "UpdateAI", "df/d15/a19691.html#abf761c7cda4031c31354d8c8d42963e0", null ],
+    [ "events", "df/d15/a19691.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
+    [ "pInstance", "df/d15/a19691.html#adc9461ae5334634a9140f338547688b4", null ]
 ];

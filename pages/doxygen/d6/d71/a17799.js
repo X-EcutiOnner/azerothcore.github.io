@@ -1,12 +1,6 @@
 var a17799 =
 [
-    [ "gunship_npc_AI", "d6/d71/a17799.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d6/d71/a17799.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d6/d71/a17799.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d6/d71/a17799.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d6/d71/a17799.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d6/d71/a17799.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d6/d71/a17799.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d6/d71/a17799.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d6/d71/a17799.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "ModAuraValue", "d6/d71/a17799.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d6/d71/a17799.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d6/d71/a17799.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

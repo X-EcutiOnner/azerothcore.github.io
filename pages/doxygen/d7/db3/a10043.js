@@ -1,14 +1,15 @@
 var a10043 =
 [
-    [ "DoublePosition", "d7/db3/a10043.html#a59190a2456f052c6ffa6e181ced94a4f", null ],
-    [ "DoublePosition", "d7/db3/a10043.html#a9900e06c36c6ebc4edd0ba45264990b8", null ],
-    [ "DoublePosition", "d7/db3/a10043.html#a543ff52f7b278f68cc36ee880932e744", null ],
-    [ "GetDoubleExactDist2dSq", "d7/db3/a10043.html#ae17b4e695ff23a8ec323405801f2013a", null ],
-    [ "GetDoublePositionX", "d7/db3/a10043.html#a7c769d1762f99150a46ceaa2b2bfa8e8", null ],
-    [ "GetDoublePositionY", "d7/db3/a10043.html#a201096c85022d54b1d9dbe9264df901f", null ],
-    [ "GetDoublePositionZ", "d7/db3/a10043.html#a01fc3985229b6bd03e6d1da95f871c17", null ],
-    [ "sync", "d7/db3/a10043.html#a75e75187d6663591a39c87bc1086aebd", null ],
-    [ "DoublePosX", "d7/db3/a10043.html#a4f9ffbbe4396f3ec26a81139f5868e2e", null ],
-    [ "DoublePosY", "d7/db3/a10043.html#a90839893f3a58a72a07177d3eee1d691", null ],
-    [ "DoublePosZ", "d7/db3/a10043.html#a19af503e9623ccaeb032bfe9f0a0ed63", null ]
+    [ "LootStoreItem", "d7/db3/a10043.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "d7/db3/a10043.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "d7/db3/a10043.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "d7/db3/a10043.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "d7/db3/a10043.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "d7/db3/a10043.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "d7/db3/a10043.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "d7/db3/a10043.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "d7/db3/a10043.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "d7/db3/a10043.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "d7/db3/a10043.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "d7/db3/a10043.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

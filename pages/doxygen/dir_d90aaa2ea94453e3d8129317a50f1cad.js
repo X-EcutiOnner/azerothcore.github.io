@@ -1,13 +1,13 @@
 var dir_d90aaa2ea94453e3d8129317a50f1cad =
 [
-    [ "blackwing_lair.h", "dc/d50/a00332.html", "dc/d50/a00332" ],
-    [ "boss_broodlord_lashlayer.cpp", "d3/d93/a00341.html", "d3/d93/a00341" ],
-    [ "boss_chromaggus.cpp", "dd/d4e/a00329.html", "dd/d4e/a00329" ],
-    [ "boss_ebonroc.cpp", "de/d55/a00323.html", "de/d55/a00323" ],
-    [ "boss_firemaw.cpp", "df/d91/a00335.html", "df/d91/a00335" ],
-    [ "boss_flamegor.cpp", "dd/de2/a00320.html", "dd/de2/a00320" ],
-    [ "boss_nefarian.cpp", "d8/d23/a00326.html", "d8/d23/a00326" ],
-    [ "boss_razorgore.cpp", "d8/d8e/a00344.html", "d8/d8e/a00344" ],
-    [ "boss_vaelastrasz.cpp", "dc/d84/a00338.html", "dc/d84/a00338" ],
-    [ "instance_blackwing_lair.cpp", "da/de0/a00317.html", "da/de0/a00317" ]
+    [ "blackwing_lair.h", "d3/d1a/a00251.html", "d3/d1a/a00251" ],
+    [ "boss_broodlord_lashlayer.cpp", "d5/d42/a00269.html", "d5/d42/a00269" ],
+    [ "boss_chromaggus.cpp", "d7/d03/a00254.html", "d7/d03/a00254" ],
+    [ "boss_ebonroc.cpp", "dd/dd7/a00248.html", "dd/dd7/a00248" ],
+    [ "boss_firemaw.cpp", "d9/dd6/a00272.html", "d9/dd6/a00272" ],
+    [ "boss_flamegor.cpp", "d9/d39/a00257.html", "d9/d39/a00257" ],
+    [ "boss_nefarian.cpp", "dd/dd7/a00260.html", "dd/dd7/a00260" ],
+    [ "boss_razorgore.cpp", "df/da9/a00263.html", "df/da9/a00263" ],
+    [ "boss_vaelastrasz.cpp", "d5/d35/a00266.html", "d5/d35/a00266" ],
+    [ "instance_blackwing_lair.cpp", "d6/d22/a00245.html", "d6/d22/a00245" ]
 ];

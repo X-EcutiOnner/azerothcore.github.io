@@ -1,15 +1,16 @@
 var a14235 =
 [
-    [ "boss_arlokkAI", "d8/d40/a14235.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "d8/d40/a14235.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "d8/d40/a14235.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "d8/d40/a14235.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "d8/d40/a14235.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "d8/d40/a14235.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "d8/d40/a14235.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "d8/d40/a14235.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "d8/d40/a14235.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "d8/d40/a14235.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "d8/d40/a14235.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "d8/d40/a14235.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "boss_akilzon", "d8/d40/a14235.html#a8c56c6920488ac507e24db384782e2ab", null ],
+    [ "DoAction", "d8/d40/a14235.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
+    [ "HandleStormSequence", "d8/d40/a14235.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
+    [ "JustDied", "d8/d40/a14235.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
+    [ "JustEngagedWith", "d8/d40/a14235.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
+    [ "KilledUnit", "d8/d40/a14235.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
+    [ "Reset", "d8/d40/a14235.html#a69302e4ac8f349e884f0745fe66edce2", null ],
+    [ "SetWeather", "d8/d40/a14235.html#a9c8eeed625f33153819df19b6c2c5670", null ],
+    [ "SummonEagles", "d8/d40/a14235.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
+    [ "_birdGUIDs", "d8/d40/a14235.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
+    [ "_cycloneGUID", "d8/d40/a14235.html#aaa712019eb5d17684d7f048f81e36270", null ],
+    [ "_isRaining", "d8/d40/a14235.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
+    [ "_targetGUID", "d8/d40/a14235.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
 ];

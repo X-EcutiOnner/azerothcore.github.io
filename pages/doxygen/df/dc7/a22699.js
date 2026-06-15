@@ -1,6 +1,7 @@
 var a22699 =
 [
-    [ "ShadowOfDeathSelector", "df/dc7/a22699.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "df/dc7/a22699.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "df/dc7/a22699.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "CalculateAmount", "df/dc7/a22699.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "df/dc7/a22699.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "df/dc7/a22699.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "df/dc7/a22699.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

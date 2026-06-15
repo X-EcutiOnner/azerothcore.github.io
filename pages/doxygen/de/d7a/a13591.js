@@ -1,9 +1,7 @@
 var a13591 =
 [
-    [ "npc_demonic_vapor_trail", "de/d7a/a13591.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "de/d7a/a13591.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "de/d7a/a13591.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "de/d7a/a13591.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "de/d7a/a13591.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "de/d7a/a13591.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "HandleAfterCast", "de/d7a/a13591.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "de/d7a/a13591.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "de/d7a/a13591.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "de/d7a/a13591.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

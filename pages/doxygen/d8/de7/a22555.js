@@ -1,9 +1,7 @@
 var a22555 =
 [
-    [ "HandleAfterCast", "d8/de7/a22555.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d8/de7/a22555.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d8/de7/a22555.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d8/de7/a22555.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d8/de7/a22555.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d8/de7/a22555.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "HandleDummy", "d8/de7/a22555.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
+    [ "PrepareSpellScript", "d8/de7/a22555.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
+    [ "Register", "d8/de7/a22555.html#af5926d8570de13e66aa1870184620b94", null ],
+    [ "Validate", "d8/de7/a22555.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
 ];

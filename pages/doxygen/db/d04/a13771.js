@@ -1,8 +1,7 @@
 var a13771 =
 [
-    [ "npc_sunblade_arch_mage", "db/d04/a13771.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "db/d04/a13771.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "db/d04/a13771.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "db/d04/a13771.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "db/d04/a13771.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "boss_kalec", "db/d04/a13771.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "db/d04/a13771.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "db/d04/a13771.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "db/d04/a13771.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

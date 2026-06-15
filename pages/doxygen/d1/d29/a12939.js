@@ -1,5 +1,6 @@
 var a12939 =
 [
-    [ "go_blackened_urn", "d1/d29/a12939.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d1/d29/a12939.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "boss_lucifron", "d1/d29/a12939.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "d1/d29/a12939.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "d1/d29/a12939.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

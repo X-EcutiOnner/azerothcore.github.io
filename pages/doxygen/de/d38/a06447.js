@@ -1,9 +1,9 @@
 var a06447 =
 [
-    [ "AISpellInfoType", "de/d38/a06447.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "de/d38/a06447.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "de/d38/a06447.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "de/d38/a06447.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "de/d38/a06447.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "de/d38/a06447.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "CritterAI", "de/d38/a06447.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "de/d38/a06447.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "de/d38/a06447.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "de/d38/a06447.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "de/d38/a06447.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "de/d38/a06447.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

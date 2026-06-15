@@ -1,11 +1,16 @@
 var a02345 =
 [
-    [ "BaseGain", "dc/d0a/a02345.html#ada8e56c81ab672d85f2ff274d109e477", null ],
-    [ "Gain", "dc/d0a/a02345.html#ab923dd9a0df7d75127965b40539d4a10", null ],
-    [ "GetColorCode", "dc/d0a/a02345.html#a812c722ab7eb34807d8cad9659d34245", null ],
-    [ "GetGrayLevel", "dc/d0a/a02345.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
-    [ "GetZeroDifference", "dc/d0a/a02345.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
-    [ "hk_honor_at_level", "dc/d0a/a02345.html#ad25519337dcc6370a39a072c53386f55", null ],
-    [ "hk_honor_at_level_f", "dc/d0a/a02345.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
-    [ "xp_in_group_rate", "dc/d0a/a02345.html#a304088bebc0743c764589112d2ba3b7f", null ]
+    [ "LinkValidator< T >", "d6/dad/a08063.html", "d6/dad/a08063" ],
+    [ "LinkValidator< LinkTags::achievement >", "d1/d76/a08067.html", "d1/d76/a08067" ],
+    [ "LinkValidator< LinkTags::item >", "d6/d72/a08071.html", "d6/d72/a08071" ],
+    [ "LinkValidator< LinkTags::quest >", "dc/d82/a08075.html", "dc/d82/a08075" ],
+    [ "LinkValidator< LinkTags::spell >", "dc/d7c/a08079.html", "dc/d7c/a08079" ],
+    [ "LinkValidator< LinkTags::enchant >", "da/d1b/a08083.html", "da/d1b/a08083" ],
+    [ "LinkValidator< LinkTags::glyph >", "d0/df3/a08087.html", "d0/df3/a08087" ],
+    [ "LinkValidator< LinkTags::talent >", "d7/d3e/a08091.html", "d7/d3e/a08091" ],
+    [ "LinkValidator< LinkTags::trade >", "d2/dae/a08095.html", "d2/dae/a08095" ],
+    [ "TryValidateAs", "dc/d0a/a02345.html#af1c86bff85f30ff113d5f78421c280af", null ],
+    [ "toHex", "dc/d0a/a02345.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
+    [ "ValidateAs", "dc/d0a/a02345.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
+    [ "ValidateLinkInfo", "dc/d0a/a02345.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
 ];

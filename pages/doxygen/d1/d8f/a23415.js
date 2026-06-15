@@ -1,6 +1,7 @@
 var a23415 =
 [
-    [ "npc_warden_mellicharAI", "df/dc6/a23419.html", "df/dc6/a23419" ],
-    [ "npc_warden_mellichar", "d1/d8f/a23415.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d1/d8f/a23415.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "FilterTargets", "d1/d8f/a23415.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "d1/d8f/a23415.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "d1/d8f/a23415.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "d1/d8f/a23415.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

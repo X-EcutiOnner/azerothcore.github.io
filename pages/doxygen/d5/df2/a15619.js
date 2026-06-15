@@ -1,8 +1,7 @@
 var a15619 =
 [
-    [ "npc_injured_draeneiAI", "d5/df2/a15619.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "d5/df2/a15619.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "d5/df2/a15619.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "d5/df2/a15619.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "d5/df2/a15619.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_sartura_royal_guard", "d5/df2/a15619.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d5/df2/a15619.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d5/df2/a15619.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d5/df2/a15619.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

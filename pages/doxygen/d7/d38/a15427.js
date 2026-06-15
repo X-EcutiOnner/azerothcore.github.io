@@ -1,9 +1,9 @@
 var a15427 =
 [
-    [ "npc_giant_eye_tentacle", "d7/d38/a15427.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d7/d38/a15427.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d7/d38/a15427.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d7/d38/a15427.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d7/d38/a15427.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d7/d38/a15427.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d7/d38/a15427.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d7/d38/a15427.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d7/d38/a15427.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d7/d38/a15427.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d7/d38/a15427.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d7/d38/a15427.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

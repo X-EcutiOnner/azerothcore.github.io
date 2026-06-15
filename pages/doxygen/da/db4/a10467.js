@@ -1,24 +1,12 @@
 var a10467 =
 [
-    [ "ActivateObject", "da/db4/a10467.html#a0ee3c6f24c51bac7da15c165ff93ab42", null ],
-    [ "ActivateObject", "da/db4/a10467.html#a0ee3c6f24c51bac7da15c165ff93ab42", null ],
-    [ "ActivateObject", "da/db4/a10467.html#ac23fc621fc12c77718d5a1b9b9d928c4", null ],
-    [ "ActivateObject", "da/db4/a10467.html#aa11b01ff001992aa5dadf4291875c947", null ],
-    [ "ActivateObject", "da/db4/a10467.html#ac06d473e60ddb91e027dabbd64d64961", null ],
-    [ "GetActiveObjectCount", "da/db4/a10467.html#a27d8f244ad75cedce9d0a341411b48b6", null ],
-    [ "GetActiveQuests", "da/db4/a10467.html#ae5973d0bb86a4477a3471579c5697d51", null ],
-    [ "IsActiveObject", "da/db4/a10467.html#a3eaf8cdcdea5103a6f8d414a11b485d0", null ],
-    [ "IsActiveObject", "da/db4/a10467.html#a3eaf8cdcdea5103a6f8d414a11b485d0", null ],
-    [ "IsActiveObject", "da/db4/a10467.html#a092d75db230d224ef3e322994f1c0076", null ],
-    [ "IsActiveObject", "da/db4/a10467.html#ae6cf482063504094ce47271cf8097001", null ],
-    [ "IsActiveObject", "da/db4/a10467.html#a904a2e30dd2c90c42efbd111fadb939b", null ],
-    [ "RemoveObject", "da/db4/a10467.html#ad305bcc1094ba640c2e961f2f56530b6", null ],
-    [ "RemoveObject", "da/db4/a10467.html#ad305bcc1094ba640c2e961f2f56530b6", null ],
-    [ "RemoveObject", "da/db4/a10467.html#a1aaeb7438df310b28e8c536a1ef83ebb", null ],
-    [ "RemoveObject", "da/db4/a10467.html#a8979fda780644f1e678b6569bc7ca6eb", null ],
-    [ "RemoveObject", "da/db4/a10467.html#a1aadfb44076691257dfb9bf97f865957", null ],
-    [ "mActiveQuests", "da/db4/a10467.html#a04f133b25c58d462c35a62c57862af14", null ],
-    [ "mSpawnedCreatures", "da/db4/a10467.html#a9873ca821d26606ee06011a02bf3e1f8", null ],
-    [ "mSpawnedGameobjects", "da/db4/a10467.html#ae4e61f0da2ed8848c3afced7af36e761", null ],
-    [ "mSpawnedPools", "da/db4/a10467.html#ab64e67ec373ca97edab12662190e36c5", null ]
+    [ "FacingInfo", "da/db4/a10467.html#a1ac825c359704924c66e46eada64e34e", null ],
+    [ "FacingInfo", "da/db4/a10467.html#a7820b3ce134dcca05b9b15299eb3b33f", null ],
+    [ "FacingInfo", "da/db4/a10467.html#add6411db27c1d313d2f133adf0c35755", null ],
+    [ "angle", "da/db4/a10467.html#ac56b304c2c5df7ab72c6fcbd2f845b02", null ],
+    [ "f", "da/db4/a10467.html#a811011ef77b57be8ae86de7396f67d51", null ],
+    [ "target", "da/db4/a10467.html#a064b5265b4bb2a0053908bf6031b8f65", null ],
+    [ "x", "da/db4/a10467.html#ac08687158cc0bcfbc9814b1cbbe95684", null ],
+    [ "y", "da/db4/a10467.html#ad7fcfb6b1c5402a0570748d343eadfcc", null ],
+    [ "z", "da/db4/a10467.html#a5ff017b732d47684f675041e44227754", null ]
 ];

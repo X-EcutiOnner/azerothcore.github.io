@@ -1,6 +1,10 @@
 var a13919 =
 [
-    [ "npc_grand_magister_rommathAI", "d9/d0c/a13923.html", "d9/d0c/a13923" ],
-    [ "npc_grand_magister_rommath", "dc/d49/a13919.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "dc/d49/a13919.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_sunblade_scout", "dc/d49/a13919.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "dc/d49/a13919.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "dc/d49/a13919.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "dc/d49/a13919.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "dc/d49/a13919.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "dc/d49/a13919.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "dc/d49/a13919.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

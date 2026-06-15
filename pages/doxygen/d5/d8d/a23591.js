@@ -1,6 +1,5 @@
 var a23591 =
 [
-    [ "FilterTargets", "d5/d8d/a23591.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "d5/d8d/a23591.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "d5/d8d/a23591.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "npc_telonicus", "d5/d8d/a23591.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "d5/d8d/a23591.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

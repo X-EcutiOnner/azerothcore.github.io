@@ -1,6 +1,6 @@
 var a26715 =
 [
-    [ "CheckCast", "d6/da4/a26715.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d6/da4/a26715.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d6/da4/a26715.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleDummyEffect", "d6/da4/a26715.html#a6340c91d8419755386cb3e138cb3c171", null ],
+    [ "PrepareSpellScript", "d6/da4/a26715.html#a67d08252c8b8deee312f17affb557df8", null ],
+    [ "Register", "d6/da4/a26715.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
 ];

@@ -1,6 +1,11 @@
 var a11367 =
 [
-    [ "PetStopAttack", "d1/db9/a11367.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d1/db9/a11367.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d1/db9/a11367.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "MoneyCost", "d1/db9/a11367.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
+    [ "PointCost", "d1/db9/a11367.html#aebcad3f23dbca753ad970081af0a78c9", null ],
+    [ "ReqAbility", "d1/db9/a11367.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
+    [ "ReqLevel", "d1/db9/a11367.html#a9478dc1065bc10ebc591ff8022e43993", null ],
+    [ "ReqSkillLine", "d1/db9/a11367.html#a5267f4615e01571a4a16d17d6914981b", null ],
+    [ "ReqSkillRank", "d1/db9/a11367.html#ae6f9640e257d83d633c48168edc658b6", null ],
+    [ "SpellID", "d1/db9/a11367.html#accf0f9aa4c8f2130f6926235dca69476", null ],
+    [ "Usable", "d1/db9/a11367.html#a35d7186073a231f0dd1fe5920eec175b", null ]
 ];

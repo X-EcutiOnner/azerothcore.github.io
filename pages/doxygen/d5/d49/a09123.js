@@ -1,10 +1,14 @@
 var a09123 =
 [
-    [ "MapType", "d5/d49/a09123.html#a8fa5f0aca9316901f42b2df8251c5a5d", null ],
-    [ "HashMapHolder", "d5/d49/a09123.html#ad10240097462af2a8a76c9429bd7cbca", null ],
-    [ "Find", "d5/d49/a09123.html#a314b4ce3265136fe326b909fe6ef6716", null ],
-    [ "GetContainer", "d5/d49/a09123.html#ad9dfe5d223496a379a4aec0fc12c42d9", null ],
-    [ "GetLock", "d5/d49/a09123.html#a52cc052c8d73d5b700c7f9253138942f", null ],
-    [ "Insert", "d5/d49/a09123.html#af5c618228c141e28ffa11468cfffb21a", null ],
-    [ "Remove", "d5/d49/a09123.html#a7b9c3761746641133d4a9837559c0bb0", null ]
+    [ "SafeUnitPointer", "d5/d49/a09123.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "d5/d49/a09123.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "d5/d49/a09123.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "d5/d49/a09123.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "d5/d49/a09123.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "d5/d49/a09123.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "d5/d49/a09123.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "d5/d49/a09123.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "d5/d49/a09123.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "d5/d49/a09123.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "d5/d49/a09123.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

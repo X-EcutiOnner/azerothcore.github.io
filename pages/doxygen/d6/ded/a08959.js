@@ -1,11 +1,10 @@
 var a08959 =
 [
-    [ "UnitActionBarEntry", "d6/ded/a08959.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d6/ded/a08959.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d6/ded/a08959.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d6/ded/a08959.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d6/ded/a08959.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d6/ded/a08959.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d6/ded/a08959.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d6/ded/a08959.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "TradeStatusInfo", "d6/ded/a08959.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "d6/ded/a08959.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "d6/ded/a08959.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "d6/ded/a08959.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "d6/ded/a08959.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "d6/ded/a08959.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "d6/ded/a08959.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

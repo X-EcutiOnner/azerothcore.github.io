@@ -1,5 +1,5 @@
 var a05110 =
 [
-    [ "TotemCreated", "de/def/a11496.html", "de/def/a11496" ],
-    [ "TotemDestroyed", "d4/d31/a11492.html", "d4/d31/a11492" ]
+    [ "LFGJoin", "df/d60/a11287.html", "df/d60/a11287" ],
+    [ "LFGLeave", "da/dd0/a11291.html", "da/dd0/a11291" ]
 ];

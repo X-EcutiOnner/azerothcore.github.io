@@ -1,8 +1,7 @@
 var a15895 =
 [
-    [ "npc_kaya_flathoofAI", "dd/d67/a15895.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "dd/d67/a15895.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "dd/d67/a15895.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "dd/d67/a15895.html#a8fcbb19279b925138ba96d2a450fc404", null ],
-    [ "WaypointReached", "dd/d67/a15895.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleDummy", "dd/d67/a15895.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "dd/d67/a15895.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "dd/d67/a15895.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "dd/d67/a15895.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

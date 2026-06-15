@@ -1,12 +1,7 @@
 var a14243 =
 [
-    [ "npc_zulian_prowlerAI", "df/dfb/a14243.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "df/dfb/a14243.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "df/dfb/a14243.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "df/dfb/a14243.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "df/dfb/a14243.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "df/dfb/a14243.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "df/dfb/a14243.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "df/dfb/a14243.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "df/dfb/a14243.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "Load", "df/dfb/a14243.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "df/dfb/a14243.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "df/dfb/a14243.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "df/dfb/a14243.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

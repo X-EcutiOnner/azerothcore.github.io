@@ -1,9 +1,7 @@
 var a19823 =
 [
-    [ "npc_brann_bronzebeard_algalon", "d3/d7b/a19823.html#ac00755dca7e187b55516be889386c499", null ],
-    [ "DoAction", "d3/d7b/a19823.html#a6d44478868a74ed7baac757258334806", null ],
-    [ "MovementInform", "d3/d7b/a19823.html#a33af1a38ab2827aec38f95e57e54f589", null ],
-    [ "UpdateAI", "d3/d7b/a19823.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
-    [ "_currentPoint", "d3/d7b/a19823.html#a5403badf59f96111aefaddf78379e65f", null ],
-    [ "events", "d3/d7b/a19823.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
+    [ "OnRemove", "d3/d7b/a19823.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d3/d7b/a19823.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d3/d7b/a19823.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d3/d7b/a19823.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

@@ -1,6 +1,6 @@
 var a18275 =
 [
-    [ "FilterTargets", "db/d3e/a18275.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "db/d3e/a18275.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "db/d3e/a18275.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "OnRemove", "db/d3e/a18275.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "db/d3e/a18275.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "db/d3e/a18275.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

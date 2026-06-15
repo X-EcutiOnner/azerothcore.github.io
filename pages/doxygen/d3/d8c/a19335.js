@@ -1,6 +1,7 @@
 var a19335 =
 [
-    [ "boss_nothAI", "d7/d5c/a19339.html", "d7/d5c/a19339" ],
-    [ "boss_noth", "d3/d8c/a19335.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "d3/d8c/a19335.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "HandleScriptEffect", "d3/d8c/a19335.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "d3/d8c/a19335.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "d3/d8c/a19335.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "d3/d8c/a19335.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

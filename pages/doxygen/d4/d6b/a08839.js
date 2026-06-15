@@ -1,9 +1,9 @@
 var a08839 =
 [
-    [ "areaFlag", "d4/d6b/a08839.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d4/d6b/a08839.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d4/d6b/a08839.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d4/d6b/a08839.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d4/d6b/a08839.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d4/d6b/a08839.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PetInfo", "d1/d76/a08843.html", "d1/d76/a08843" ],
+    [ "GetUnslottedHunterPet", "d4/d6b/a08839.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d4/d6b/a08839.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d4/d6b/a08839.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d4/d6b/a08839.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d4/d6b/a08839.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

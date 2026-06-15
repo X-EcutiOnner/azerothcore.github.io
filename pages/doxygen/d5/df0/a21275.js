@@ -1,10 +1,7 @@
 var a21275 =
 [
-    [ "npc_lurgglbrAI", "d5/df0/a21275.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "d5/df0/a21275.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "d5/df0/a21275.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "d5/df0/a21275.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "d5/df0/a21275.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "d5/df0/a21275.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "d5/df0/a21275.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "npc_azure_raider", "d5/df0/a21275.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "d5/df0/a21275.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "d5/df0/a21275.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "d5/df0/a21275.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

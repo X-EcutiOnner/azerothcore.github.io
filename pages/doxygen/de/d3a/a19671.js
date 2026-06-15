@@ -1,9 +1,8 @@
 var a19671 =
 [
-    [ "HandleOnEffectApply", "de/d3a/a19671.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "de/d3a/a19671.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "de/d3a/a19671.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "de/d3a/a19671.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "de/d3a/a19671.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "de/d3a/a19671.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "npc_crystal_spike", "de/d3a/a19671.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "de/d3a/a19671.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "de/d3a/a19671.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "de/d3a/a19671.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "de/d3a/a19671.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

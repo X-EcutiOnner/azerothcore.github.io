@@ -1,7 +1,6 @@
 var a13563 =
 [
-    [ "HandleScript", "d6/def/a13563.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "d6/def/a13563.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "d6/def/a13563.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "d6/def/a13563.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "npc_scholomance_occultistAI", "d1/d31/a13567.html", "d1/d31/a13567" ],
+    [ "npc_scholomance_occultist", "d6/def/a13563.html#adf100912a15ff8edf056efa7eebd13ff", null ],
+    [ "GetAI", "d6/def/a13563.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
 ];

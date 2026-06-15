@@ -1,6 +1,8 @@
 var a18699 =
 [
-    [ "npc_risen_archmageAI", "d8/df0/a18703.html", "d8/df0/a18703" ],
-    [ "npc_risen_archmage", "d4/d69/a18699.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
-    [ "GetAI", "d4/d69/a18699.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
+    [ "Load", "d4/d69/a18699.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d4/d69/a18699.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d4/d69/a18699.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d4/d69/a18699.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d4/d69/a18699.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

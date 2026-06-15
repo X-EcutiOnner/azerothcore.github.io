@@ -1,11 +1,12 @@
 var a11615 =
 [
-    [ "SpellValue", "d5/d4a/a11615.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "d5/d4a/a11615.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "d5/d4a/a11615.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "d5/d4a/a11615.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "d5/d4a/a11615.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "d5/d4a/a11615.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "d5/d4a/a11615.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "d5/d4a/a11615.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "OpcodeTable", "db/d20/a05034.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "db/d20/a05034.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "db/d20/a05034.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "db/d20/a05034.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "db/d20/a05034.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "db/d20/a05034.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "db/d20/a05034.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "db/d20/a05034.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "db/d20/a05034.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

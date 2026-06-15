@@ -1,6 +1,10 @@
 var a17507 =
 [
-    [ "npc_dark_nucleusAI", "d4/d15/a17511.html", "d4/d15/a17511" ],
-    [ "npc_dark_nucleus", "d5/dc2/a17507.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d5/dc2/a17507.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "boss_drakkari_elementalAI", "d5/dc2/a17507.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "d5/dc2/a17507.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "d5/dc2/a17507.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "d5/dc2/a17507.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "d5/dc2/a17507.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "d5/dc2/a17507.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "d5/dc2/a17507.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

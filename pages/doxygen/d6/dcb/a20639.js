@@ -1,6 +1,5 @@
 var a20639 =
 [
-    [ "boss_yoggsaron_descend_portal", "d6/dcb/a20639.html#aa64788351819e9c7f5505c929818770d", null ],
-    [ "OnSpellClick", "d6/dcb/a20639.html#af72e8c3611b5e134e39ab9695405e08e", null ],
-    [ "_instance", "d6/dcb/a20639.html#a6b430a5f4045cdf3c3524208f02d53d2", null ]
+    [ "go_thorim_lever", "d6/dcb/a20639.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "d6/dcb/a20639.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

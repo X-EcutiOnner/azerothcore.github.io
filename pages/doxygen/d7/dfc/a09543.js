@@ -1,8 +1,7 @@
 var a09543 =
 [
-    [ "CreatureWorker", "d7/dfc/a09543.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d7/dfc/a09543.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d7/dfc/a09543.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d7/dfc/a09543.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d7/dfc/a09543.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "CreatureRelocationNotifier", "d7/dfc/a09543.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "d7/dfc/a09543.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "d7/dfc/a09543.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "d7/dfc/a09543.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

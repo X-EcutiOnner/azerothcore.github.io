@@ -1,7 +1,5 @@
 var a13731 =
 [
-    [ "OnPeriodic", "d1/d59/a13731.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "d1/d59/a13731.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "d1/d59/a13731.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "d1/d59/a13731.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "go_eredar_twins_blaze", "d1/d59/a13731.html#a19d28875d3506d337e0ecbd93169f140", null ],
+    [ "InitializeAI", "d1/d59/a13731.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
 ];

@@ -1,7 +1,14 @@
 var a07655 =
 [
-    [ "BattlegroundEYPointIconsStruct", "da/d9a/a07655.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "da/d9a/a07655.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "da/d9a/a07655.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "da/d9a/a07655.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "IsArena", "da/d9a/a07655.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "da/d9a/a07655.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "da/d9a/a07655.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "da/d9a/a07655.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "da/d9a/a07655.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "da/d9a/a07655.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "da/d9a/a07655.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "da/d9a/a07655.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "da/d9a/a07655.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "da/d9a/a07655.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "da/d9a/a07655.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

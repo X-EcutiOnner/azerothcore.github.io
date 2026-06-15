@@ -1,6 +1,9 @@
 var a17871 =
 [
-    [ "IgbExplosionCheck", "d0/dc2/a17871.html#ae67cca111f26a275614810cbe053bcd8", null ],
-    [ "operator()", "d0/dc2/a17871.html#a28ce6685366e99db2aa1e4022012f943", null ],
-    [ "_source", "d0/dc2/a17871.html#a413ee8f2218621d274d118aea967dc9b", null ]
+    [ "BattleExperienceEvent", "d0/dc2/a17871.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d0/dc2/a17871.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d0/dc2/a17871.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d0/dc2/a17871.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d0/dc2/a17871.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d0/dc2/a17871.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

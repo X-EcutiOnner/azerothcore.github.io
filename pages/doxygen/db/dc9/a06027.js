@@ -1,9 +1,11 @@
 var a06027 =
 [
-    [ "AddonInfo", "db/dc9/a06027.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "db/dc9/a06027.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "db/dc9/a06027.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "db/dc9/a06027.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "db/dc9/a06027.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "db/dc9/a06027.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "DatabaseWorker", "db/dc9/a06027.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "db/dc9/a06027.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "db/dc9/a06027.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "db/dc9/a06027.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "db/dc9/a06027.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "db/dc9/a06027.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "db/dc9/a06027.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "db/dc9/a06027.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

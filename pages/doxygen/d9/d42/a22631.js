@@ -1,6 +1,6 @@
 var a22631 =
 [
-    [ "boss_essence_of_angerAI", "df/dc3/a22635.html", "df/dc3/a22635" ],
-    [ "boss_essence_of_anger", "d9/d42/a22631.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "d9/d42/a22631.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "PrepareAuraScript", "d9/d42/a22631.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "d9/d42/a22631.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "d9/d42/a22631.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

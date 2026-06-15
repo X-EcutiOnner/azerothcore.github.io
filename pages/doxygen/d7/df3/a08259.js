@@ -1,9 +1,7 @@
 var a08259 =
 [
-    [ "LFGGroupScript", "d7/df3/a08259.html#adb7730ba67910121a255a6da535d2fc2", null ],
-    [ "OnAddMember", "d7/df3/a08259.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
-    [ "OnChangeLeader", "d7/df3/a08259.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
-    [ "OnDisband", "d7/df3/a08259.html#a7d8d28f1919e407ed93474d970733d86", null ],
-    [ "OnInviteMember", "d7/df3/a08259.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
-    [ "OnRemoveMember", "d7/df3/a08259.html#a1385adec817221a83653a6fa03e57858", null ]
+    [ "RBEntryInfo", "d7/df3/a08259.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d7/df3/a08259.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d7/df3/a08259.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d7/df3/a08259.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

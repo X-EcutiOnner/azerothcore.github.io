@@ -1,6 +1,7 @@
 var a21551 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d3/df8/a21551.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d3/df8/a21551.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d3/df8/a21551.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "CheckRequirement", "d3/df8/a21551.html#a41beb2c890137328734d6adb14e08302", null ],
+    [ "PrepareSpellScript", "d3/df8/a21551.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
+    [ "Register", "d3/df8/a21551.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
+    [ "SetDest", "d3/df8/a21551.html#a431a556ab73f91ed63f5983e537834a5", null ]
 ];

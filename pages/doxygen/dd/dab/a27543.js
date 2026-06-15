@@ -1,6 +1,8 @@
 var a27543 =
 [
-    [ "HandleOnHit", "dd/dab/a27543.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "dd/dab/a27543.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "dd/dab/a27543.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "CheckProc", "dd/dab/a27543.html#ae202a117ff86eee618dfdf4600746de5", null ],
+    [ "HandleProc", "dd/dab/a27543.html#a28c409af8e7a8115ce86f2a51fff1afd", null ],
+    [ "PrepareAuraScript", "dd/dab/a27543.html#a334db12ee8ed29b34269a0ca3172d7b4", null ],
+    [ "Register", "dd/dab/a27543.html#a392724c604ce325415aaa3410e18a60c", null ],
+    [ "Validate", "dd/dab/a27543.html#af0b153ca9e28a3cdc06a30ff30b46f39", null ]
 ];

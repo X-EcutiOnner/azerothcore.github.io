@@ -1,9 +1,6 @@
 var a14655 =
 [
-    [ "spell_hallows_end_put_costume", "d3/dde/a14655.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
-    [ "HandleScript", "d3/dde/a14655.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
-    [ "PrepareSpellScript", "d3/dde/a14655.html#ac0e4692be1527f052a23ed52af32d042", null ],
-    [ "Register", "d3/dde/a14655.html#ac38299892d02c497e3bbae3c73a095ab", null ],
-    [ "_femaleSpell", "d3/dde/a14655.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
-    [ "_maleSpell", "d3/dde/a14655.html#af9b285133389942bea6738e518d34e48", null ]
+    [ "HandleDummyEffect", "d3/dde/a14655.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d3/dde/a14655.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d3/dde/a14655.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

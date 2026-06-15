@@ -1,6 +1,14 @@
 var a13223 =
 [
-    [ "npc_dkc1_gothikAI", "dc/dc3/a13227.html", "dc/dc3/a13227" ],
-    [ "npc_dkc1_gothik", "d5/d35/a13223.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d5/d35/a13223.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "boss_strawman", "d5/d35/a13223.html#a1789cdafc2ce03e156ac686e6859e25f", null ],
+    [ "DoAction", "d5/d35/a13223.html#a57f9519f87bc8e7446632a49f56a02ca", null ],
+    [ "EnterEvadeMode", "d5/d35/a13223.html#a67fd9b85406512cef4f3ae581461f0c4", null ],
+    [ "JustDied", "d5/d35/a13223.html#ab175b0104d316b8929e32d9eb939780f", null ],
+    [ "JustEngagedWith", "d5/d35/a13223.html#a40657516c4f1b049dd0514a50e299a10", null ],
+    [ "JustReachedHome", "d5/d35/a13223.html#a4235b2de2540199f9570cbadb7326871", null ],
+    [ "KilledUnit", "d5/d35/a13223.html#a06b92dbb6907ace60df7e10893be7af0", null ],
+    [ "SpellHit", "d5/d35/a13223.html#a5bf558765b59a7950bd55ece14c07a4f", null ],
+    [ "UpdateAI", "d5/d35/a13223.html#adcb7db7cb3f938b492a28c3540251ea9", null ],
+    [ "_scheduler", "d5/d35/a13223.html#a409539c771b373c165bdbccac8a59e7f", null ],
+    [ "instance", "d5/d35/a13223.html#a157a6faacf83432b8227173f6b14a7d3", null ]
 ];

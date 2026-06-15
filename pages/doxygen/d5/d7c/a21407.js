@@ -1,9 +1,9 @@
 var a21407 =
 [
-    [ "npc_minigob_manabonk", "d5/d7c/a21407.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d5/d7c/a21407.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d5/d7c/a21407.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d5/d7c/a21407.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d5/d7c/a21407.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d5/d7c/a21407.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_bloodmage_laurithAI", "d5/d7c/a21407.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d5/d7c/a21407.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d5/d7c/a21407.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d5/d7c/a21407.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d5/d7c/a21407.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d5/d7c/a21407.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

@@ -1,7 +1,6 @@
 var a11955 =
 [
-    [ "PlayerGuid", "d4/d8a/a11955.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d4/d8a/a11955.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d4/d8a/a11955.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d4/d8a/a11955.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "HitHandler", "d4/d8a/a11955.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d4/d8a/a11955.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d4/d8a/a11955.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

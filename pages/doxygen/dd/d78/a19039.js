@@ -1,13 +1,7 @@
 var a19039 =
 [
-    [ "npc_icc_spire_frostwyrm", "dd/d78/a19039.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "dd/d78/a19039.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "dd/d78/a19039.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "dd/d78/a19039.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "dd/d78/a19039.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "dd/d78/a19039.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "dd/d78/a19039.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "dd/d78/a19039.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "dd/d78/a19039.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "dd/d78/a19039.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "OnApply", "dd/d78/a19039.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
+    [ "OnRemove", "dd/d78/a19039.html#a697a7c76f944b5df956a9de07746b7a9", null ],
+    [ "PrepareAuraScript", "dd/d78/a19039.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
+    [ "Register", "dd/d78/a19039.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
 ];

@@ -1,5 +1,7 @@
 var a21887 =
 [
-    [ "go_brazier", "d9/d23/a21887.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d9/d23/a21887.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "HandleScriptEffect", "d9/d23/a21887.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d9/d23/a21887.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d9/d23/a21887.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d9/d23/a21887.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

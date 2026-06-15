@@ -1,5 +1,10 @@
 var a08431 =
 [
-    [ "InventoryType", "da/dd0/a08431.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "da/dd0/a08431.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "BoxMessage", "da/dd0/a08431.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "da/dd0/a08431.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "da/dd0/a08431.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "da/dd0/a08431.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "da/dd0/a08431.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "da/dd0/a08431.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "da/dd0/a08431.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

@@ -1,14 +1,10 @@
 var a07735 =
 [
-    [ "AccountId", "db/dfa/a07735.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "db/dfa/a07735.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "db/dfa/a07735.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "db/dfa/a07735.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "db/dfa/a07735.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "db/dfa/a07735.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "db/dfa/a07735.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "db/dfa/a07735.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "db/dfa/a07735.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "db/dfa/a07735.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "db/dfa/a07735.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "BattlegroundEYCapturingPointStruct", "db/dfa/a07735.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
+    [ "DespawnNeutralObjectType", "db/dfa/a07735.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
+    [ "GraveyardId", "db/dfa/a07735.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
+    [ "MessageIdAlliance", "db/dfa/a07735.html#af3295d59367354a4ddaac12258e793b8", null ],
+    [ "MessageIdHorde", "db/dfa/a07735.html#a5c82eae433ee69b5bda8c96049a06422", null ],
+    [ "SpawnObjectTypeAlliance", "db/dfa/a07735.html#aeeeecdf09990c74ffc868a135854d49b", null ],
+    [ "SpawnObjectTypeHorde", "db/dfa/a07735.html#a4b25984504b15c7249d2e5866ad35962", null ]
 ];

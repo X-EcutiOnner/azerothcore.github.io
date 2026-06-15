@@ -1,7 +1,6 @@
 var a21999 =
 [
-    [ "npc_hyldsmeet_protodrake", "d2/d18/a21999.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "d2/d18/a21999.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "d2/d18/a21999.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryRespawnTimer", "d2/d18/a21999.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "HandleScriptEffect", "d2/d18/a21999.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "d2/d18/a21999.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "d2/d18/a21999.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

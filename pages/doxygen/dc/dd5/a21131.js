@@ -1,6 +1,7 @@
 var a21131 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "df/d95/a21135.html", "df/d95/a21135" ],
-    [ "instance_violet_hold", "dc/dd5/a21131.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "dc/dd5/a21131.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "HandleScript", "dc/dd5/a21131.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "dc/dd5/a21131.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "dc/dd5/a21131.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "dc/dd5/a21131.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

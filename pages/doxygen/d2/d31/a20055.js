@@ -1,6 +1,15 @@
 var a20055 =
 [
-    [ "achievement_flame_leviathan_towers", "d2/d31/a20055.html#a491d66bdd373b6044e406126719ef910", null ],
-    [ "OnCheck", "d2/d31/a20055.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
-    [ "_towerCount", "d2/d31/a20055.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
+    [ "boss_auriaya", "d2/d31/a20055.html#a2d946ada185a29bf00dc49d28089e64e", null ],
+    [ "DoAction", "d2/d31/a20055.html#aa58503020e3382e0c541047b233945a7", null ],
+    [ "ExecuteEvent", "d2/d31/a20055.html#ad8623f7f0dcda5532893c966cb216fc0", null ],
+    [ "GetData", "d2/d31/a20055.html#a44781b758392f8f519b9684617757620", null ],
+    [ "JustDied", "d2/d31/a20055.html#aa68d15f57a1ef545572f6d14a0541f4f", null ],
+    [ "JustEngagedWith", "d2/d31/a20055.html#ac80d7bbc334e20df9e85540556b8714e", null ],
+    [ "JustSummoned", "d2/d31/a20055.html#aaec8af440e83fd614041cb63115adc48", null ],
+    [ "KilledUnit", "d2/d31/a20055.html#a6a3d2a4c2ae460da8db6b92b85bed45f", null ],
+    [ "Reset", "d2/d31/a20055.html#a4e2d1f982b2d5cb34ec8f77f869e8bad", null ],
+    [ "SummonedCreatureDies", "d2/d31/a20055.html#a928a8d7c084125136bdef1ab0a3a4737", null ],
+    [ "_feralDied", "d2/d31/a20055.html#a6e9a34f197964061752d7fd8283b1bf0", null ],
+    [ "_nineLives", "d2/d31/a20055.html#a26d80573eda1aa1005e1bc5453c182af", null ]
 ];

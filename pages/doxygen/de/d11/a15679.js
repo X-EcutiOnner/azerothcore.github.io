@@ -1,7 +1,6 @@
 var a15679 =
 [
-    [ "npc_kerlonianAI", "d6/dad/a15683.html", "d6/dad/a15683" ],
-    [ "npc_kerlonian", "de/d11/a15679.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "de/d11/a15679.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "de/d11/a15679.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "aqsentinelAI", "d6/dad/a15683.html", "d6/dad/a15683" ],
+    [ "npc_anubisath_sentinel", "de/d11/a15679.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
+    [ "GetAI", "de/d11/a15679.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
 ];

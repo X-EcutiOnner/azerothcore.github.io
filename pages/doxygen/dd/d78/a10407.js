@@ -1,17 +1,9 @@
 var a10407 =
 [
-    [ "WaypointNode", "dd/d78/a10407.html#a8f4aa765b3bedfec2a11da0c8ce2c116", null ],
-    [ "WaypointNode", "dd/d78/a10407.html#ab57dd64800b87f26256509533dc31f5c", null ],
-    [ "Delay", "dd/d78/a10407.html#a03268e85010c56f29325b80a9624a73b", null ],
-    [ "EventChance", "dd/d78/a10407.html#a2bffe84cee4076217d7c9cc09b880ad2", null ],
-    [ "EventId", "dd/d78/a10407.html#a244afd47ae7c71a15c82d9ee7036ebdb", null ],
-    [ "Id", "dd/d78/a10407.html#aec030367189f87dec789df49303916ed", null ],
-    [ "MoveType", "dd/d78/a10407.html#afd3a16c9a60b7f05816ab935b3578b8a", null ],
-    [ "Orientation", "dd/d78/a10407.html#a91fd08cd83ae7bb1b27563c38e674722", null ],
-    [ "SmoothTransition", "dd/d78/a10407.html#a8c9c60d5c5b0941291b6e3ba0cbece5f", null ],
-    [ "SplinePoints", "dd/d78/a10407.html#a1a9c709edeb58be70f51da2079bba579", null ],
-    [ "Velocity", "dd/d78/a10407.html#ab353b7326bb6bdbd5efd35574dcebbc0", null ],
-    [ "X", "dd/d78/a10407.html#aa62bd26c57e5cfbe62de0eb2d63e4610", null ],
-    [ "Y", "dd/d78/a10407.html#aba6568aff3a204c9e4ad8bfaeeaabc56", null ],
-    [ "Z", "dd/d78/a10407.html#aab4756345912b48fd2f352464e24bc1a", null ]
+    [ "PathMovementBase", "dd/d78/a10407.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "dd/d78/a10407.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "dd/d78/a10407.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "dd/d78/a10407.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "dd/d78/a10407.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "dd/d78/a10407.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

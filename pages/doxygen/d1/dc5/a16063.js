@@ -1,6 +1,7 @@
 var a16063 =
 [
-    [ "npc_sergeant_blyAI", "d7/ddc/a16067.html", "d7/ddc/a16067" ],
-    [ "npc_sergeant_bly", "d1/dc5/a16063.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "d1/dc5/a16063.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_giltharesAI", "d7/ddc/a16067.html", "d7/ddc/a16067" ],
+    [ "npc_gilthares", "d1/dc5/a16063.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "d1/dc5/a16063.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "d1/dc5/a16063.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

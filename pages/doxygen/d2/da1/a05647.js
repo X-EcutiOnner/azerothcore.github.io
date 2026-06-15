@@ -1,17 +1,17 @@
 var a05647 =
 [
-    [ "LockedQueue", "d2/da1/a05647.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "d2/da1/a05647.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "d2/da1/a05647.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "d2/da1/a05647.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "d2/da1/a05647.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "d2/da1/a05647.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "d2/da1/a05647.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "d2/da1/a05647.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "d2/da1/a05647.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "d2/da1/a05647.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "d2/da1/a05647.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "d2/da1/a05647.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "d2/da1/a05647.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "d2/da1/a05647.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "AppenderFile", "d2/da1/a05647.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "d2/da1/a05647.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "d2/da1/a05647.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "d2/da1/a05647.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "d2/da1/a05647.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "d2/da1/a05647.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "d2/da1/a05647.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "d2/da1/a05647.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "d2/da1/a05647.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "d2/da1/a05647.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "d2/da1/a05647.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "d2/da1/a05647.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "d2/da1/a05647.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "d2/da1/a05647.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

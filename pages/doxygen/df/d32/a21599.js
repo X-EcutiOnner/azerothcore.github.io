@@ -1,8 +1,12 @@
 var a21599 =
 [
-    [ "OnRemove", "df/d32/a21599.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "df/d32/a21599.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "df/d32/a21599.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "df/d32/a21599.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "df/d32/a21599.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_q24545_wretched_ghoulAI", "df/d32/a21599.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "df/d32/a21599.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "df/d32/a21599.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "df/d32/a21599.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "df/d32/a21599.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "df/d32/a21599.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "df/d32/a21599.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "df/d32/a21599.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "df/d32/a21599.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

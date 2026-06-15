@@ -1,6 +1,6 @@
 var a20359 =
 [
-    [ "HandleDamage", "d3/dbe/a20359.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d3/dbe/a20359.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d3/dbe/a20359.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "HandleAfterEffectApply", "d3/dbe/a20359.html#af655bb31dc24a3cede08ca371f784913", null ],
+    [ "PrepareAuraScript", "d3/dbe/a20359.html#a1824853d0b369deac0745fabe2df657c", null ],
+    [ "Register", "d3/dbe/a20359.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
 ];

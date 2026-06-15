@@ -1,6 +1,6 @@
 var a20887 =
 [
-    [ "npc_frenzied_worgenAI", "d6/dc7/a20891.html", "d6/dc7/a20891" ],
-    [ "npc_frenzied_worgen", "d7/d75/a20887.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d7/d75/a20887.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "instance_ulduar_InstanceMapScript", "d6/dc7/a20891.html", "d6/dc7/a20891" ],
+    [ "instance_ulduar", "d7/d75/a20887.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d7/d75/a20887.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

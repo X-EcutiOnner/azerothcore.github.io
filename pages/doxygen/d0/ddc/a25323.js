@@ -1,6 +1,7 @@
 var a25323 =
 [
-    [ "CheckCast", "d0/ddc/a25323.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d0/ddc/a25323.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d0/ddc/a25323.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "HandleProc", "d0/ddc/a25323.html#a8a66eb1c15d8da265deed2c8a8a9cd50", null ],
+    [ "PrepareAuraScript", "d0/ddc/a25323.html#aa2fd33ce33d6882292ba8ee588743fd3", null ],
+    [ "Register", "d0/ddc/a25323.html#ab09dcc534ebda11da4a2234ee82233a2", null ],
+    [ "Validate", "d0/ddc/a25323.html#a33c8ed96d3d4efd8841c10af7b7bf470", null ]
 ];

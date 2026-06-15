@@ -1,6 +1,6 @@
 var a21147 =
 [
-    [ "npc_vh_teleportation_portalAI", "dd/d65/a21151.html", "dd/d65/a21151" ],
-    [ "npc_vh_teleportation_portal", "d1/d6a/a21147.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "d1/d6a/a21147.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "HandleOnHit", "d1/d6a/a21147.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d1/d6a/a21147.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d1/d6a/a21147.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

@@ -1,6 +1,8 @@
 var a21991 =
 [
-    [ "npc_icefangAI", "d4/dc1/a21995.html", "d4/dc1/a21995" ],
-    [ "npc_icefang", "d6/d6c/a21991.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d6/d6c/a21991.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "CheckCast", "d6/d6c/a21991.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d6/d6c/a21991.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d6/d6c/a21991.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d6/d6c/a21991.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d6/d6c/a21991.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

@@ -1,8 +1,8 @@
 var a06051 =
 [
-    [ "ArcherAI", "d9/d4d/a06051.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d9/d4d/a06051.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d9/d4d/a06051.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d9/d4d/a06051.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d9/d4d/a06051.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "Statements", "d9/d4d/a06051.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d9/d4d/a06051.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d9/d4d/a06051.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d9/d4d/a06051.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d9/d4d/a06051.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

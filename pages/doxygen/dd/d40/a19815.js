@@ -1,6 +1,12 @@
 var a19815 =
 [
-    [ "CosmicSmashDamageEvent", "dd/d40/a19815.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "dd/d40/a19815.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "dd/d40/a19815.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "boss_ionar", "dd/d40/a19815.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "dd/d40/a19815.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "dd/d40/a19815.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "dd/d40/a19815.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "dd/d40/a19815.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "dd/d40/a19815.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "dd/d40/a19815.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "dd/d40/a19815.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "dd/d40/a19815.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

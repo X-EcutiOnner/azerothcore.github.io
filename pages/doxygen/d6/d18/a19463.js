@@ -1,7 +1,6 @@
 var a19463 =
 [
-    [ "npc_eoe_wyrmrest_skytalon", "d6/d18/a19463.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
-    [ "IsSummonedBy", "d6/d18/a19463.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
-    [ "JustDied", "d6/d18/a19463.html#a65df31829e801154ee20d55ad1c15721", null ],
-    [ "PassengerBoarded", "d6/d18/a19463.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
+    [ "boss_nothAI", "df/de7/a19467.html", "df/de7/a19467" ],
+    [ "boss_noth", "d6/d18/a19463.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "d6/d18/a19463.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

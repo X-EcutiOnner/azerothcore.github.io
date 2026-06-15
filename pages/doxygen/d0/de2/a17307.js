@@ -1,6 +1,8 @@
 var a17307 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "d0/d0e/a17311.html", "d0/d0e/a17311" ],
-    [ "npc_pos_martin_or_gorkun_second", "d0/de2/a17307.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "d0/de2/a17307.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_hor_lumbering_abomination", "d0/de2/a17307.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
+    [ "JustDied", "d0/de2/a17307.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
+    [ "JustEngagedWith", "d0/de2/a17307.html#a5380771abba095749e1e0b30fe070a73", null ],
+    [ "Reset", "d0/de2/a17307.html#afd56b698fac5f7f13e718d645608213f", null ],
+    [ "UpdateAI", "d0/de2/a17307.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
 ];

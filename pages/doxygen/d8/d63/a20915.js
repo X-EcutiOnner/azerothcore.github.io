@@ -1,5 +1,13 @@
 var a20915 =
 [
-    [ "go_harpoon_canon", "d8/d63/a20915.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d8/d63/a20915.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "d8/d63/a20915.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "d8/d63/a20915.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "d8/d63/a20915.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "d8/d63/a20915.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "d8/d63/a20915.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "d8/d63/a20915.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "d8/d63/a20915.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "d8/d63/a20915.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "d8/d63/a20915.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "d8/d63/a20915.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

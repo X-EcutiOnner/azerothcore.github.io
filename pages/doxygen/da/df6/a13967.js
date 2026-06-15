@@ -1,6 +1,10 @@
 var a13967 =
 [
-    [ "npc_marzon_silent_bladeAI", "db/d80/a13971.html", "db/d80/a13971" ],
-    [ "npc_marzon_silent_blade", "da/df6/a13967.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "da/df6/a13967.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_professor_phizzlethorpeAI", "da/df6/a13967.html#a92af4732575008c1a4f061cef0f23902", null ],
+    [ "JustEngagedWith", "da/df6/a13967.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
+    [ "JustSummoned", "da/df6/a13967.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
+    [ "sQuestAccept", "da/df6/a13967.html#ad4a4bd9af581abe832933da69b18d76f", null ],
+    [ "UpdateAI", "da/df6/a13967.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
+    [ "WaypointReached", "da/df6/a13967.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ],
+    [ "WaypointReached", "da/df6/a13967.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

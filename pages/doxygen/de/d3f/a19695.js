@@ -1,7 +1,6 @@
 var a19695 =
 [
-    [ "OnRemove", "de/d3f/a19695.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
-    [ "PrepareAuraScript", "de/d3f/a19695.html#a2d278e60b34870110dab188896109e24", null ],
-    [ "Register", "de/d3f/a19695.html#ac15847527cc4d162b3b34b8ca8628864", null ],
-    [ "Validate", "de/d3f/a19695.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
+    [ "npc_oculus_unstable_sphereAI", "d4/dab/a19699.html", "d4/dab/a19699" ],
+    [ "npc_oculus_unstable_sphere", "de/d3f/a19695.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "de/d3f/a19695.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

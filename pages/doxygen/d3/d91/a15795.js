@@ -1,6 +1,7 @@
 var a15795 =
 [
-    [ "npc_clintar_spiritAI", "de/d61/a15799.html", "de/d61/a15799" ],
-    [ "npc_clintar_spirit", "d3/d91/a15795.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
-    [ "GetAI", "d3/d91/a15795.html#a118198504f6f93c86302275a11582d60", null ]
+    [ "HandleEffectRemove", "d3/d91/a15795.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d3/d91/a15795.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d3/d91/a15795.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d3/d91/a15795.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

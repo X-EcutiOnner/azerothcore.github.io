@@ -1,5 +1,6 @@
 var a19923 =
 [
-    [ "achievement_cant_do_that_while_stunned", "d4/d02/a19923.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "d4/d02/a19923.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "HandleScript", "d4/d02/a19923.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "d4/d02/a19923.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "d4/d02/a19923.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/shared/DataStores/DBCStructure.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Battlefield/Battlefield.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,849 +106,115 @@ $(document).ready(function(){initNavTree('d4/d54/a04055.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">DBCStructure.h File Reference</div></div>
+  <div class="headertitle"><div class="title">Battlefield.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCEnums.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;set&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TaskScheduler.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ZoneScript.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d0a/a28396.html">AchievementEntry</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7b/a07499.html">BfCapturePoint</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d61/a28400.html">AchievementCategoryEntry</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d06/a07503.html">BfGraveyard</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d86/a28404.html">AchievementCriteriaEntry</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d3b/a07507.html">Battlefield</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/da2/a28664.html">AreaTableEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d71/a28668.html">AreaGroupEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de3/a28672.html">AreaPOIEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d16/a28676.html">AuctionHouseEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9b/a28680.html">BankBagSlotPricesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d97/a28684.html">BarberShopStyleEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d15/a28688.html">BattlemasterListEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/da2/a28692.html">CharStartOutfitEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dd7/a28696.html">CharTitlesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d74/a28700.html">ChatChannelsEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dd1/a28704.html">ChrClassesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d22/a28708.html">ChrRacesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de8/a28712.html">CinematicCameraEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d9b/a28716.html">CinematicSequencesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d8e/a28720.html">CreatureDisplayInfoEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d5f/a28724.html">CreatureDisplayInfoExtraEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a28728.html">CreatureFamilyEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d12/a28732.html">CreatureModelDataEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d03/a28736.html">CreatureSpellDataEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d05/a28740.html">CreatureTypeEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d01/a28744.html">CurrencyTypesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d85/a28748.html">DestructibleModelDataEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/de0/a28752.html">DungeonEncounterEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df5/a28756.html">DurabilityCostsEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28760.html">DurabilityQualityEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2a/a28764.html">EmotesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0d/a28768.html">EmotesTextEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d91/a28772.html">FactionEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d88/a28776.html">FactionTemplateEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/ddb/a28780.html">GameObjectArtKitEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d62/a28784.html">GameObjectDisplayInfoEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d77/a28788.html">GemPropertiesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d25/a28792.html">GlyphPropertiesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/df6/a28796.html">GlyphSlotEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d6a/a28800.html">GtBarberShopCostBaseEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/da4/a28804.html">GtCombatRatingsEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d01/a28808.html">GtChanceToMeleeCritBaseEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfb/a28812.html">GtChanceToMeleeCritEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d21/a28816.html">GtChanceToSpellCritBaseEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d43/a28820.html">GtNPCManaCostScalerEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d95/a28824.html">GtChanceToSpellCritEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/da8/a28828.html">GtOCTClassCombatRatingScalarEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da1/a28832.html">GtOCTRegenHPEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d09/a28836.html">GtRegenHPPerSptEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d19/a28840.html">GtRegenMPPerSptEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dfb/a28844.html">HolidaysEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dd4/a28848.html">ItemEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dbf/a28852.html">ItemBagFamilyEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d91/a28856.html">ItemDisplayInfoEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d09/a28860.html">ItemExtendedCostEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d02/a28864.html">ItemLimitCategoryEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dcb/a28868.html">ItemRandomPropertiesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d35/a28872.html">ItemRandomSuffixEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/de2/a28876.html">ItemSetEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d27/a28880.html">LFGDungeonEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d86/a28884.html">LightEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d7f/a28888.html">LiquidTypeEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d96/a28892.html">LockEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d5f/a28896.html">MailTemplateEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/def/a28900.html">MapEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d2c/a28904.html">MapDifficultyEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dac/a28908.html">MovieEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d20/a28912.html">NamesReservedEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/da2/a28916.html">NamesProfanityEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7e/a28920.html">OverrideSpellDataEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/daf/a28924.html">PowerDisplayEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d99/a28928.html">PvPDifficultyEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc6/a28932.html">QuestSortEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a28936.html">QuestXPEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dea/a28940.html">QuestFactionRewEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d18/a28944.html">RandomPropertiesPointsEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/db3/a28948.html">ScalingStatDistributionEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html">ScalingStatValuesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a28956.html">SkillRaceClassInfoEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html">SkillLineEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a28964.html">SkillLineAbilityEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dcf/a28968.html">SkillTiersEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4c/a28972.html">SoundEntriesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d59/a28976.html">SpellEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dd1/a28980.html">SpellCastTimesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d0c/a28984.html">SpellCategoryEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html">SpellDifficultyEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc5/a28992.html">SpellFocusObjectEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/de5/a28996.html">SpellRadiusEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d81/a29000.html">SpellRangeEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/da4/a29004.html">SpellRuneCostEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d40/a29008.html">SpellShapeshiftFormEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/db6/a29012.html">SpellDurationEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd2/a29016.html">SpellItemEnchantmentEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d07/a29020.html">SpellItemEnchantmentConditionEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d0c/a29024.html">SpellVisualEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de1/a29028.html">StableSlotPricesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d62/a29032.html">SummonPropertiesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d02/a29036.html">TalentEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/da0/a29040.html">TalentTabEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d37/a29044.html">TaxiNodesEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da0/a29048.html">TaxiPathEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d62/a29052.html">TaxiPathNodeEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/daa/a29056.html">TeamContributionPointsEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db6/a29060.html">TotemCategoryEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a29064.html">TransportAnimationEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d9f/a29068.html">TransportRotationEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d69/a29072.html">VehicleEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d00/a29076.html">VehicleSeatEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dca/a29080.html">WMOAreaTableEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/de0/a29084.html">WorldMapAreaEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dcd/a29088.html">WorldMapOverlayEntry</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d22/a29092.html">MapDifficulty</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d0f/a29096.html">TalentSpellPos</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ab8e8a384bd12e49b286a3ee30ff11ff7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ab8e8a384bd12e49b286a3ee30ff11ff7">MAX_GROUP_AREA_IDS</a>&#160;&#160;&#160;6</td></tr>
-<tr class="separator:ab8e8a384bd12e49b286a3ee30ff11ff7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade532186d3fab018819b9718af66b6f8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ade532186d3fab018819b9718af66b6f8">MAX_OUTFIT_ITEMS</a>&#160;&#160;&#160;24</td></tr>
-<tr class="separator:ade532186d3fab018819b9718af66b6f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a84f97addb2541cd13960d71b99ac4f9c"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a84f97addb2541cd13960d71b99ac4f9c">MAX_CREATURE_SPELL_DATA_SLOT</a>&#160;&#160;&#160;4</td></tr>
-<tr class="separator:a84f97addb2541cd13960d71b99ac4f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba26b8226744809f550efa818f10b186"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#aba26b8226744809f550efa818f10b186">MAX_FACTION_RELATIONS</a>&#160;&#160;&#160;4</td></tr>
-<tr class="separator:aba26b8226744809f550efa818f10b186"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f11f6829a2ed728bfc49ad3b2f932ca"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a7f11f6829a2ed728bfc49ad3b2f932ca">GT_MAX_LEVEL</a>&#160;&#160;&#160;100</td></tr>
-<tr class="separator:a7f11f6829a2ed728bfc49ad3b2f932ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99aa40e9a3a154a942515839010d79ff"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a99aa40e9a3a154a942515839010d79ff">GT_MAX_RATING</a>&#160;&#160;&#160;32</td></tr>
-<tr class="separator:a99aa40e9a3a154a942515839010d79ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae4bf557cbdd070d5483ea758ef1ef0f2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ae4bf557cbdd070d5483ea758ef1ef0f2">MAX_HOLIDAY_DURATIONS</a>&#160;&#160;&#160;10</td></tr>
-<tr class="separator:ae4bf557cbdd070d5483ea758ef1ef0f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae9554dfb95ff901f440f4166cf1d04ab"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ae9554dfb95ff901f440f4166cf1d04ab">MAX_HOLIDAY_DATES</a>&#160;&#160;&#160;26</td></tr>
-<tr class="separator:ae9554dfb95ff901f440f4166cf1d04ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac24517e5894a4a3cd7203781ea7e6304"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ac24517e5894a4a3cd7203781ea7e6304">MAX_HOLIDAY_FLAGS</a>&#160;&#160;&#160;10</td></tr>
-<tr class="separator:ac24517e5894a4a3cd7203781ea7e6304"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a40412d1e32e215a5270cf717434ae108"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a40412d1e32e215a5270cf717434ae108">MAX_ITEM_EXTENDED_COST_REQUIREMENTS</a>&#160;&#160;&#160;5</td></tr>
-<tr class="separator:a40412d1e32e215a5270cf717434ae108"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0d8d6c7748de71fbd87ae5d02985404"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#af0d8d6c7748de71fbd87ae5d02985404">MAX_ITEM_ENCHANTMENT_EFFECTS</a>&#160;&#160;&#160;5</td></tr>
-<tr class="separator:af0d8d6c7748de71fbd87ae5d02985404"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7efd6aeed170ce6a86c16bd1fa48518d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a7efd6aeed170ce6a86c16bd1fa48518d">MAX_ITEM_SET_ITEMS</a>&#160;&#160;&#160;10</td></tr>
-<tr class="separator:a7efd6aeed170ce6a86c16bd1fa48518d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d93d74d9cdf834a33735836824866e2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a1d93d74d9cdf834a33735836824866e2">MAX_ITEM_SET_SPELLS</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a1d93d74d9cdf834a33735836824866e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ebc07de85011e32e1cb7a2f1637f092"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a1ebc07de85011e32e1cb7a2f1637f092">MAX_LOCK_CASE</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a1ebc07de85011e32e1cb7a2f1637f092"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5ab857719ce6437c52aee4b87c639f3"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#af5ab857719ce6437c52aee4b87c639f3">MAX_OVERRIDE_SPELL</a>&#160;&#160;&#160;10</td></tr>
-<tr class="separator:af5ab857719ce6437c52aee4b87c639f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae298a04d2c0b52f390ffb06d804ca9e9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ae298a04d2c0b52f390ffb06d804ca9e9">MAX_SKILL_STEP</a>&#160;&#160;&#160;16</td></tr>
-<tr class="separator:ae298a04d2c0b52f390ffb06d804ca9e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5733f5b58bf8a23a1919a005b5ec895"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ac5733f5b58bf8a23a1919a005b5ec895">MAX_SPELL_EFFECTS</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:ac5733f5b58bf8a23a1919a005b5ec895"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ac65d8635b4379f0d5b75a0e2dfd9c8"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a3ac65d8635b4379f0d5b75a0e2dfd9c8">MAX_EFFECT_MASK</a>&#160;&#160;&#160;7</td></tr>
-<tr class="separator:a3ac65d8635b4379f0d5b75a0e2dfd9c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7dfd9b5e0adb5c5e3ebf3173f80fbcce"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a7dfd9b5e0adb5c5e3ebf3173f80fbcce">MAX_SPELL_REAGENTS</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a7dfd9b5e0adb5c5e3ebf3173f80fbcce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c0b93bba896da1bb3ecaac8d847ee2d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a8c0b93bba896da1bb3ecaac8d847ee2d">MAX_SHAPESHIFT_SPELLS</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a8c0b93bba896da1bb3ecaac8d847ee2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab66cd5828c451f68f55f1b054c29a8fc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ab66cd5828c451f68f55f1b054c29a8fc">MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:ab66cd5828c451f68f55f1b054c29a8fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d6d5cac52d7a437e341e9f6ebc21a21"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a8d6d5cac52d7a437e341e9f6ebc21a21">MAX_TALENT_RANK</a>&#160;&#160;&#160;5</td></tr>
-<tr class="separator:a8d6d5cac52d7a437e341e9f6ebc21a21"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98ed02c281ef8b03f0092b73e6b99e33"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a98ed02c281ef8b03f0092b73e6b99e33">MAX_PET_TALENT_RANK</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:a98ed02c281ef8b03f0092b73e6b99e33"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a22f3ed43957e7cda0874bdf343b03d4b"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a22f3ed43957e7cda0874bdf343b03d4b">MAX_TALENT_TABS</a>&#160;&#160;&#160;3</td></tr>
-<tr class="separator:a22f3ed43957e7cda0874bdf343b03d4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5925e58fbd29a3a77ff05ab092fa1f77"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a5925e58fbd29a3a77ff05ab092fa1f77">MAX_VEHICLE_SEATS</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:a5925e58fbd29a3a77ff05ab092fa1f77"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa7b34f321cc6fb7b11aac46ef9b08897"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#aa7b34f321cc6fb7b11aac46ef9b08897">MAX_WORLD_MAP_OVERLAY_AREA_IDX</a>&#160;&#160;&#160;4</td></tr>
-<tr class="separator:aa7b34f321cc6fb7b11aac46ef9b08897"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:abec1611f7460fe442eeb44ec9c6e0338"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; std::pair&lt; bool, <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a></td></tr>
-<tr class="separator:abec1611f7460fe442eeb44ec9c6e0338"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec458115a1262f91caf58114ea781708"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#aec458115a1262f91caf58114ea781708">SpellCategoryStore</a></td></tr>
-<tr class="separator:aec458115a1262f91caf58114ea781708"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad93484e8f4ff5cbe27a41c4822b0c232"><td class="memItemLeft" align="right" valign="top">typedef std::set&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a></td></tr>
-<tr class="separator:ad93484e8f4ff5cbe27a41c4822b0c232"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e08729fa68ec0715f2af029e8a0d1d8"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a0e08729fa68ec0715f2af029e8a0d1d8">PetFamilySpellsStore</a></td></tr>
-<tr class="separator:a0e08729fa68ec0715f2af029e8a0d1d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aec54003aaeeffeda4e99f6e9c019a29f"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d0f/a29096.html">TalentSpellPos</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#aec54003aaeeffeda4e99f6e9c019a29f">TalentSpellPosMap</a></td></tr>
-<tr class="separator:aec54003aaeeffeda4e99f6e9c019a29f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96a7676e14471f288073e4d2ce5fb580"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/da0/a29048.html">TaxiPathEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a></td></tr>
-<tr class="separator:a96a7676e14471f288073e4d2ce5fb580"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d9b837c2c4d75978949b5718741443a"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a8d9b837c2c4d75978949b5718741443a">TaxiPathSetBySource</a></td></tr>
-<tr class="separator:a8d9b837c2c4d75978949b5718741443a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a696428ce320a7e4dd796c85fbf98b7f2"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../da/d62/a29052.html">TaxiPathNodeEntry</a> const  * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a></td></tr>
-<tr class="separator:a696428ce320a7e4dd796c85fbf98b7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0a9bd32b40fdd19846034d6430c681cb"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../d4/d54/a04055.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a0a9bd32b40fdd19846034d6430c681cb">TaxiPathNodesByPath</a></td></tr>
-<tr class="separator:a0a9bd32b40fdd19846034d6430c681cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a415cc3633225b2cfe241a12bce9aeb9b"><td class="memItemLeft" align="right" valign="top">typedef std::array&lt; <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a></td></tr>
-<tr class="separator:a415cc3633225b2cfe241a12bce9aeb9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d81160ef5262b2f7a9dc65170d7f3e5"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a9d81160ef5262b2f7a9dc65170d7f3e5">GraveyardVect</a> = std::vector&lt; <a class="el" href="../../d0/d06/a07503.html">BfGraveyard</a> * &gt;</td></tr>
+<tr class="separator:a9d81160ef5262b2f7a9dc65170d7f3e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afedbb171b4e4bd0bce549b015440ce95"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#afedbb171b4e4bd0bce549b015440ce95">PlayerTimerMap</a> = std::map&lt; <a class="el" href="../../d2/d3b/a08767.html">ObjectGuid</a>, time_t &gt;</td></tr>
+<tr class="separator:afedbb171b4e4bd0bce549b015440ce95"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a86846f30ebbb1a9ce21222e1a3e26494"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01
+<tr class="memitem:a6f435417da35c7d1b51c95e516fc6b2d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2d">BattlefieldTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a>
 , <br />
-&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a> = 0x02
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a> = 0x04
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610">BATTLEFIELD_TB</a>
 <br />
  }</td></tr>
-<tr class="separator:a86846f30ebbb1a9ce21222e1a3e26494"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a94648e677bb402393465ccb4b0f96f20"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a94648e677bb402393465ccb4b0f96f20">CreatureModelDataFlags</a> { <a class="el" href="../../d4/d54/a04055.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a> = 0x00000080
+<tr class="separator:a6f435417da35c7d1b51c95e516fc6b2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff53bf428d550c270744c9a188d4187f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187f">BattlefieldIDs</a> { <a class="el" href="../../d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a> = 1
  }</td></tr>
-<tr class="separator:a94648e677bb402393465ccb4b0f96f20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aff53bf428d550c270744c9a188d4187f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6db5a1d93982b261639cd12634a2798"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>
+<br />
+ }</td></tr>
+<tr class="separator:af6db5a1d93982b261639cd12634a2798"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c3836172413cb3b2cdabeb20b99f1b4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4">BattlefieldSounds</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a">BF_HORDE_WINS</a> = 8454
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138">BF_ALLIANCE_WINS</a> = 8455
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007">BF_START</a> = 3439
+<br />
+ }</td></tr>
+<tr class="separator:a7c3836172413cb3b2cdabeb20b99f1b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77a99318a19e388592eb16534ef2005a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005a">BattlefieldTimerGroups</a> { <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2">BATTLEFIELD_TIMER_GROUP_WAR</a> = 2
+, <br />
+&#160;&#160;<a class="el" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55">BATTLEFIELD_TIMER_GROUP_SAVE</a> = 3
+<br />
+ }</td></tr>
+<tr class="separator:a77a99318a19e388592eb16534ef2005a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:af55b7730b9b6bf94de4604ce96e812c0"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a> = 14</td></tr>
-<tr class="separator:af55b7730b9b6bf94de4604ce96e812c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79df696836c3edc53ca1868aab7f6e76"><td class="memItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#a79df696836c3edc53ca1868aab7f6e76">BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</a> = 1000</td></tr>
+<tr class="separator:a79df696836c3edc53ca1868aab7f6e76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5e231859535c4e1e6bd27ee42753f63"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d54/a04055.html#af5e231859535c4e1e6bd27ee42753f63">BattlefieldFactions</a> [<a class="el" href="../../d4/de7/a02270.html#a9855fd6839904c4ea8bcab8fd3783771">PVP_TEAMS_COUNT</a>]</td></tr>
+<tr class="separator:af5e231859535c4e1e6bd27ee42753f63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a7f11f6829a2ed728bfc49ad3b2f932ca" name="a7f11f6829a2ed728bfc49ad3b2f932ca"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f11f6829a2ed728bfc49ad3b2f932ca">&#9670;&#160;</a></span>GT_MAX_LEVEL</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define GT_MAX_LEVEL&#160;&#160;&#160;100</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a99aa40e9a3a154a942515839010d79ff" name="a99aa40e9a3a154a942515839010d79ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a99aa40e9a3a154a942515839010d79ff">&#9670;&#160;</a></span>GT_MAX_RATING</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define GT_MAX_RATING&#160;&#160;&#160;32</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a84f97addb2541cd13960d71b99ac4f9c" name="a84f97addb2541cd13960d71b99ac4f9c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a84f97addb2541cd13960d71b99ac4f9c">&#9670;&#160;</a></span>MAX_CREATURE_SPELL_DATA_SLOT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_CREATURE_SPELL_DATA_SLOT&#160;&#160;&#160;4</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3ac65d8635b4379f0d5b75a0e2dfd9c8" name="a3ac65d8635b4379f0d5b75a0e2dfd9c8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ac65d8635b4379f0d5b75a0e2dfd9c8">&#9670;&#160;</a></span>MAX_EFFECT_MASK</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_EFFECT_MASK&#160;&#160;&#160;7</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aba26b8226744809f550efa818f10b186" name="aba26b8226744809f550efa818f10b186"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aba26b8226744809f550efa818f10b186">&#9670;&#160;</a></span>MAX_FACTION_RELATIONS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_FACTION_RELATIONS&#160;&#160;&#160;4</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab8e8a384bd12e49b286a3ee30ff11ff7" name="ab8e8a384bd12e49b286a3ee30ff11ff7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab8e8a384bd12e49b286a3ee30ff11ff7">&#9670;&#160;</a></span>MAX_GROUP_AREA_IDS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_GROUP_AREA_IDS&#160;&#160;&#160;6</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae9554dfb95ff901f440f4166cf1d04ab" name="ae9554dfb95ff901f440f4166cf1d04ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae9554dfb95ff901f440f4166cf1d04ab">&#9670;&#160;</a></span>MAX_HOLIDAY_DATES</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_HOLIDAY_DATES&#160;&#160;&#160;26</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae4bf557cbdd070d5483ea758ef1ef0f2" name="ae4bf557cbdd070d5483ea758ef1ef0f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae4bf557cbdd070d5483ea758ef1ef0f2">&#9670;&#160;</a></span>MAX_HOLIDAY_DURATIONS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_HOLIDAY_DURATIONS&#160;&#160;&#160;10</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac24517e5894a4a3cd7203781ea7e6304" name="ac24517e5894a4a3cd7203781ea7e6304"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac24517e5894a4a3cd7203781ea7e6304">&#9670;&#160;</a></span>MAX_HOLIDAY_FLAGS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_HOLIDAY_FLAGS&#160;&#160;&#160;10</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af0d8d6c7748de71fbd87ae5d02985404" name="af0d8d6c7748de71fbd87ae5d02985404"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af0d8d6c7748de71fbd87ae5d02985404">&#9670;&#160;</a></span>MAX_ITEM_ENCHANTMENT_EFFECTS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_ITEM_ENCHANTMENT_EFFECTS&#160;&#160;&#160;5</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a40412d1e32e215a5270cf717434ae108" name="a40412d1e32e215a5270cf717434ae108"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40412d1e32e215a5270cf717434ae108">&#9670;&#160;</a></span>MAX_ITEM_EXTENDED_COST_REQUIREMENTS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_ITEM_EXTENDED_COST_REQUIREMENTS&#160;&#160;&#160;5</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7efd6aeed170ce6a86c16bd1fa48518d" name="a7efd6aeed170ce6a86c16bd1fa48518d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7efd6aeed170ce6a86c16bd1fa48518d">&#9670;&#160;</a></span>MAX_ITEM_SET_ITEMS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_ITEM_SET_ITEMS&#160;&#160;&#160;10</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1d93d74d9cdf834a33735836824866e2" name="a1d93d74d9cdf834a33735836824866e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d93d74d9cdf834a33735836824866e2">&#9670;&#160;</a></span>MAX_ITEM_SET_SPELLS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_ITEM_SET_SPELLS&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1ebc07de85011e32e1cb7a2f1637f092" name="a1ebc07de85011e32e1cb7a2f1637f092"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ebc07de85011e32e1cb7a2f1637f092">&#9670;&#160;</a></span>MAX_LOCK_CASE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_LOCK_CASE&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ade532186d3fab018819b9718af66b6f8" name="ade532186d3fab018819b9718af66b6f8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade532186d3fab018819b9718af66b6f8">&#9670;&#160;</a></span>MAX_OUTFIT_ITEMS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_OUTFIT_ITEMS&#160;&#160;&#160;24</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af5ab857719ce6437c52aee4b87c639f3" name="af5ab857719ce6437c52aee4b87c639f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5ab857719ce6437c52aee4b87c639f3">&#9670;&#160;</a></span>MAX_OVERRIDE_SPELL</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_OVERRIDE_SPELL&#160;&#160;&#160;10</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a98ed02c281ef8b03f0092b73e6b99e33" name="a98ed02c281ef8b03f0092b73e6b99e33"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98ed02c281ef8b03f0092b73e6b99e33">&#9670;&#160;</a></span>MAX_PET_TALENT_RANK</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_PET_TALENT_RANK&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8c0b93bba896da1bb3ecaac8d847ee2d" name="a8c0b93bba896da1bb3ecaac8d847ee2d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8c0b93bba896da1bb3ecaac8d847ee2d">&#9670;&#160;</a></span>MAX_SHAPESHIFT_SPELLS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_SHAPESHIFT_SPELLS&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae298a04d2c0b52f390ffb06d804ca9e9" name="ae298a04d2c0b52f390ffb06d804ca9e9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae298a04d2c0b52f390ffb06d804ca9e9">&#9670;&#160;</a></span>MAX_SKILL_STEP</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_SKILL_STEP&#160;&#160;&#160;16</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac5733f5b58bf8a23a1919a005b5ec895" name="ac5733f5b58bf8a23a1919a005b5ec895"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac5733f5b58bf8a23a1919a005b5ec895">&#9670;&#160;</a></span>MAX_SPELL_EFFECTS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_SPELL_EFFECTS&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ab66cd5828c451f68f55f1b054c29a8fc" name="ab66cd5828c451f68f55f1b054c29a8fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab66cd5828c451f68f55f1b054c29a8fc">&#9670;&#160;</a></span>MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_SPELL_ITEM_ENCHANTMENT_EFFECTS&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7dfd9b5e0adb5c5e3ebf3173f80fbcce" name="a7dfd9b5e0adb5c5e3ebf3173f80fbcce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7dfd9b5e0adb5c5e3ebf3173f80fbcce">&#9670;&#160;</a></span>MAX_SPELL_REAGENTS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_SPELL_REAGENTS&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8d6d5cac52d7a437e341e9f6ebc21a21" name="a8d6d5cac52d7a437e341e9f6ebc21a21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d6d5cac52d7a437e341e9f6ebc21a21">&#9670;&#160;</a></span>MAX_TALENT_RANK</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_TALENT_RANK&#160;&#160;&#160;5</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a22f3ed43957e7cda0874bdf343b03d4b" name="a22f3ed43957e7cda0874bdf343b03d4b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22f3ed43957e7cda0874bdf343b03d4b">&#9670;&#160;</a></span>MAX_TALENT_TABS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_TALENT_TABS&#160;&#160;&#160;3</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a5925e58fbd29a3a77ff05ab092fa1f77" name="a5925e58fbd29a3a77ff05ab092fa1f77"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5925e58fbd29a3a77ff05ab092fa1f77">&#9670;&#160;</a></span>MAX_VEHICLE_SEATS</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_VEHICLE_SEATS&#160;&#160;&#160;8</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa7b34f321cc6fb7b11aac46ef9b08897" name="aa7b34f321cc6fb7b11aac46ef9b08897"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa7b34f321cc6fb7b11aac46ef9b08897">&#9670;&#160;</a></span>MAX_WORLD_MAP_OVERLAY_AREA_IDX</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define MAX_WORLD_MAP_OVERLAY_AREA_IDX&#160;&#160;&#160;4</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <h2 class="groupheader">Typedef Documentation</h2>
-<a id="ad93484e8f4ff5cbe27a41c4822b0c232" name="ad93484e8f4ff5cbe27a41c4822b0c232"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad93484e8f4ff5cbe27a41c4822b0c232">&#9670;&#160;</a></span>PetFamilySpellsSet</h2>
+<a id="a9d81160ef5262b2f7a9dc65170d7f3e5" name="a9d81160ef5262b2f7a9dc65170d7f3e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d81160ef5262b2f7a9dc65170d7f3e5">&#9670;&#160;</a></span>GraveyardVect</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::set&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; <a class="el" href="../../d4/d54/a04055.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a></td>
+          <td class="memname">using <a class="el" href="../../d4/d54/a04055.html#a9d81160ef5262b2f7a9dc65170d7f3e5">GraveyardVect</a> =  std::vector&lt;<a class="el" href="../../d0/d06/a07503.html">BfGraveyard</a>*&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a0e08729fa68ec0715f2af029e8a0d1d8" name="a0e08729fa68ec0715f2af029e8a0d1d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e08729fa68ec0715f2af029e8a0d1d8">&#9670;&#160;</a></span>PetFamilySpellsStore</h2>
+<a id="afedbb171b4e4bd0bce549b015440ce95" name="afedbb171b4e4bd0bce549b015440ce95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afedbb171b4e4bd0bce549b015440ce95">&#9670;&#160;</a></span>PlayerTimerMap</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#ad93484e8f4ff5cbe27a41c4822b0c232">PetFamilySpellsSet</a> &gt; <a class="el" href="../../d4/d54/a04055.html#a0e08729fa68ec0715f2af029e8a0d1d8">PetFamilySpellsStore</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="abec1611f7460fe442eeb44ec9c6e0338" name="abec1611f7460fe442eeb44ec9c6e0338"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abec1611f7460fe442eeb44ec9c6e0338">&#9670;&#160;</a></span>SpellCategorySet</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::set&lt;std::pair&lt;bool, <a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; &gt; <a class="el" href="../../d4/d54/a04055.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aec458115a1262f91caf58114ea781708" name="aec458115a1262f91caf58114ea781708"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec458115a1262f91caf58114ea781708">&#9670;&#160;</a></span>SpellCategoryStore</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#abec1611f7460fe442eeb44ec9c6e0338">SpellCategorySet</a>&gt; <a class="el" href="../../d4/d54/a04055.html#aec458115a1262f91caf58114ea781708">SpellCategoryStore</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aec54003aaeeffeda4e99f6e9c019a29f" name="aec54003aaeeffeda4e99f6e9c019a29f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec54003aaeeffeda4e99f6e9c019a29f">&#9670;&#160;</a></span>TalentSpellPosMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d0/d0f/a29096.html">TalentSpellPos</a>&gt; <a class="el" href="../../d4/d54/a04055.html#aec54003aaeeffeda4e99f6e9c019a29f">TalentSpellPosMap</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a415cc3633225b2cfe241a12bce9aeb9b" name="a415cc3633225b2cfe241a12bce9aeb9b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a415cc3633225b2cfe241a12bce9aeb9b">&#9670;&#160;</a></span>TaxiMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::array&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#af55b7730b9b6bf94de4604ce96e812c0">TaxiMaskSize</a>&gt; <a class="el" href="../../d4/d54/a04055.html#a415cc3633225b2cfe241a12bce9aeb9b">TaxiMask</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a696428ce320a7e4dd796c85fbf98b7f2" name="a696428ce320a7e4dd796c85fbf98b7f2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a696428ce320a7e4dd796c85fbf98b7f2">&#9670;&#160;</a></span>TaxiPathNodeList</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../da/d62/a29052.html">TaxiPathNodeEntry</a> const*&gt; <a class="el" href="../../d4/d54/a04055.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0a9bd32b40fdd19846034d6430c681cb" name="a0a9bd32b40fdd19846034d6430c681cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a9bd32b40fdd19846034d6430c681cb">&#9670;&#160;</a></span>TaxiPathNodesByPath</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::vector&lt;<a class="el" href="../../d4/d54/a04055.html#a696428ce320a7e4dd796c85fbf98b7f2">TaxiPathNodeList</a>&gt; <a class="el" href="../../d4/d54/a04055.html#a0a9bd32b40fdd19846034d6430c681cb">TaxiPathNodesByPath</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8d9b837c2c4d75978949b5718741443a" name="a8d9b837c2c4d75978949b5718741443a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d9b837c2c4d75978949b5718741443a">&#9670;&#160;</a></span>TaxiPathSetBySource</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d4/d54/a04055.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a>&gt; <a class="el" href="../../d4/d54/a04055.html#a8d9b837c2c4d75978949b5718741443a">TaxiPathSetBySource</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a96a7676e14471f288073e4d2ce5fb580" name="a96a7676e14471f288073e4d2ce5fb580"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a96a7676e14471f288073e4d2ce5fb580">&#9670;&#160;</a></span>TaxiPathSetForSource</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;<a class="el" href="../../d0/dc5/a04415.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d1/da0/a29048.html">TaxiPathEntry</a> const*&gt; <a class="el" href="../../d4/d54/a04055.html#a96a7676e14471f288073e4d2ce5fb580">TaxiPathSetForSource</a></td>
+          <td class="memname">using <a class="el" href="../../d4/d54/a04055.html#afedbb171b4e4bd0bce549b015440ce95">PlayerTimerMap</a> =  std::map&lt;<a class="el" href="../../d2/d3b/a08767.html">ObjectGuid</a>, time_t&gt;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -956,57 +222,147 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a86846f30ebbb1a9ce21222e1a3e26494" name="a86846f30ebbb1a9ce21222e1a3e26494"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a86846f30ebbb1a9ce21222e1a3e26494">&#9670;&#160;</a></span>ChrRacesFlags</h2>
+<a id="aff53bf428d550c270744c9a188d4187f" name="aff53bf428d550c270744c9a188d4187f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff53bf428d550c270744c9a188d4187f">&#9670;&#160;</a></span>BattlefieldIDs</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494">ChrRacesFlags</a></td>
+          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187f">BattlefieldIDs</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c" name="a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"></a>CHRRACES_FLAGS_NOT_PLAYABLE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d" name="a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"></a>CHRRACES_FLAGS_BARE_FEET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b" name="a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"></a>CHRRACES_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010" name="aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010"></a>BATTLEFIELD_BATTLEID_WG&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  672</span>{</div>
-<div class="line"><span class="lineno">  673</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a> = 0x01,</div>
-<div class="line"><span class="lineno">  674</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a>    = 0x02,</div>
-<div class="line"><span class="lineno">  675</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a>    = 0x04</div>
-<div class="line"><span class="lineno">  676</span>};</div>
-<div class="ttc" id="aa04055_html_a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c"><div class="ttname"><a href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494a3d08c1d97c12c83282e399083d88130c">CHRRACES_FLAGS_NOT_PLAYABLE</a></div><div class="ttdeci">@ CHRRACES_FLAGS_NOT_PLAYABLE</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:673</div></div>
-<div class="ttc" id="aa04055_html_a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b"><div class="ttname"><a href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494aa315bad0a3d44c08b274603d2fef712b">CHRRACES_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CHRRACES_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:675</div></div>
-<div class="ttc" id="aa04055_html_a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d"><div class="ttname"><a href="../../d4/d54/a04055.html#a86846f30ebbb1a9ce21222e1a3e26494ad794a77acd03e5e888c279a84667097d">CHRRACES_FLAGS_BARE_FEET</a></div><div class="ttdeci">@ CHRRACES_FLAGS_BARE_FEET</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:674</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a>                      = 1,       <span class="comment">// Wintergrasp battle</span></div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa04055_html_aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010"><div class="ttname"><a href="../../d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010">BATTLEFIELD_BATTLEID_WG</a></div><div class="ttdeci">@ BATTLEFIELD_BATTLEID_WG</div><div class="ttdef"><b>Definition:</b> Battlefield.h:36</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a94648e677bb402393465ccb4b0f96f20" name="a94648e677bb402393465ccb4b0f96f20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a94648e677bb402393465ccb4b0f96f20">&#9670;&#160;</a></span>CreatureModelDataFlags</h2>
+<a id="af6db5a1d93982b261639cd12634a2798" name="af6db5a1d93982b261639cd12634a2798"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6db5a1d93982b261639cd12634a2798">&#9670;&#160;</a></span>BattlefieldObjectiveStates</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#a94648e677bb402393465ccb4b0f96f20">CreatureModelDataFlags</a></td>
+          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798">BattlefieldObjectiveStates</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900" name="a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"></a>CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178" name="af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7" name="af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29" name="af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f" name="af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5" name="af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b" name="af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4" name="af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4"></a>BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">  770</span>{</div>
-<div class="line"><span class="lineno">  771</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a>     = 0x00000080</div>
-<div class="line"><span class="lineno">  772</span>};</div>
-<div class="ttc" id="aa04055_html_a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900"><div class="ttname"><a href="../../d4/d54/a04055.html#a94648e677bb402393465ccb4b0f96f20add9bdc598ebec1fd2032eaef06878900">CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</a></div><div class="ttdeci">@ CREATURE_MODEL_DATA_FLAGS_CAN_MOUNT</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:771</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a> = 0,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a>,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a>,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   48</span>};</div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:45</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:44</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:43</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:46</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7">BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:42</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4">BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:47</div></div>
+<div class="ttc" id="aa04055_html_af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178"><div class="ttname"><a href="../../d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178">BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</a></div><div class="ttdeci">@ BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> Battlefield.h:41</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7c3836172413cb3b2cdabeb20b99f1b4" name="a7c3836172413cb3b2cdabeb20b99f1b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c3836172413cb3b2cdabeb20b99f1b4">&#9670;&#160;</a></span>BattlefieldSounds</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4">BattlefieldSounds</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a" name="a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a"></a>BF_HORDE_WINS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138" name="a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138"></a>BF_ALLIANCE_WINS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007" name="a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007"></a>BF_START&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a">BF_HORDE_WINS</a>                                = 8454,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138">BF_ALLIANCE_WINS</a>                             = 8455,</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007">BF_START</a>                                     = 3439</div>
+<div class="line"><span class="lineno">   55</span>};</div>
+<div class="ttc" id="aa04055_html_a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007"><div class="ttname"><a href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007">BF_START</a></div><div class="ttdeci">@ BF_START</div><div class="ttdef"><b>Definition:</b> Battlefield.h:54</div></div>
+<div class="ttc" id="aa04055_html_a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138"><div class="ttname"><a href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138">BF_ALLIANCE_WINS</a></div><div class="ttdeci">@ BF_ALLIANCE_WINS</div><div class="ttdef"><b>Definition:</b> Battlefield.h:53</div></div>
+<div class="ttc" id="aa04055_html_a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a"><div class="ttname"><a href="../../d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a">BF_HORDE_WINS</a></div><div class="ttdeci">@ BF_HORDE_WINS</div><div class="ttdef"><b>Definition:</b> Battlefield.h:52</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a77a99318a19e388592eb16534ef2005a" name="a77a99318a19e388592eb16534ef2005a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a77a99318a19e388592eb16534ef2005a">&#9670;&#160;</a></span>BattlefieldTimerGroups</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005a">BattlefieldTimerGroups</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117" name="a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117"></a>BATTLEFIELD_TIMER_GROUP_RESURRECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2" name="a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2"></a>BATTLEFIELD_TIMER_GROUP_WAR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55" name="a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55"></a>BATTLEFIELD_TIMER_GROUP_SAVE&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a>   = 1,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2">BATTLEFIELD_TIMER_GROUP_WAR</a>         = 2,</div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55">BATTLEFIELD_TIMER_GROUP_SAVE</a>        = 3,</div>
+<div class="line"><span class="lineno">   64</span>};</div>
+<div class="ttc" id="aa04055_html_a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117"><div class="ttname"><a href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117">BATTLEFIELD_TIMER_GROUP_RESURRECT</a></div><div class="ttdeci">@ BATTLEFIELD_TIMER_GROUP_RESURRECT</div><div class="ttdef"><b>Definition:</b> Battlefield.h:61</div></div>
+<div class="ttc" id="aa04055_html_a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2"><div class="ttname"><a href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2">BATTLEFIELD_TIMER_GROUP_WAR</a></div><div class="ttdeci">@ BATTLEFIELD_TIMER_GROUP_WAR</div><div class="ttdef"><b>Definition:</b> Battlefield.h:62</div></div>
+<div class="ttc" id="aa04055_html_a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55"><div class="ttname"><a href="../../d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55">BATTLEFIELD_TIMER_GROUP_SAVE</a></div><div class="ttdeci">@ BATTLEFIELD_TIMER_GROUP_SAVE</div><div class="ttdef"><b>Definition:</b> Battlefield.h:63</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a6f435417da35c7d1b51c95e516fc6b2d" name="a6f435417da35c7d1b51c95e516fc6b2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6f435417da35c7d1b51c95e516fc6b2d">&#9670;&#160;</a></span>BattlefieldTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2d">BattlefieldTypes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd" name="a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd"></a>BATTLEFIELD_WG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610" name="a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610"></a>BATTLEFIELD_TB&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a>,                                         <span class="comment">// Wintergrasp</span></div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610">BATTLEFIELD_TB</a>,                                         <span class="comment">// Tol Barad (cataclysm)</span></div>
+<div class="line"><span class="lineno">   32</span>};</div>
+<div class="ttc" id="aa04055_html_a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd"><div class="ttname"><a href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd">BATTLEFIELD_WG</a></div><div class="ttdeci">@ BATTLEFIELD_WG</div><div class="ttdef"><b>Definition:</b> Battlefield.h:30</div></div>
+<div class="ttc" id="aa04055_html_a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610"><div class="ttname"><a href="../../d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610">BATTLEFIELD_TB</a></div><div class="ttdeci">@ BATTLEFIELD_TB</div><div class="ttdef"><b>Definition:</b> Battlefield.h:31</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="af55b7730b9b6bf94de4604ce96e812c0" name="af55b7730b9b6bf94de4604ce96e812c0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af55b7730b9b6bf94de4604ce96e812c0">&#9670;&#160;</a></span>TaxiMaskSize</h2>
+<a id="a79df696836c3edc53ca1868aab7f6e76" name="a79df696836c3edc53ca1868aab7f6e76"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79df696836c3edc53ca1868aab7f6e76">&#9670;&#160;</a></span>BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1015,17 +371,38 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr std::size_t TaxiMaskSize = 14</td>
+          <td class="memname">constexpr auto BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL = 1000</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00116">PlayerTaxi::AppendTaximaskTo()</a>, <a class="el" href="../../#l07201">ObjectMgr::GetNearestTaxiNode()</a>, <a class="el" href="../../#l01985">WorldSession::HandleCharFactionOrRaceChangeCallback()</a>, <a class="el" href="../../#l00023">PlayerTaxi::InitTaxiNodesForLevel()</a>, and <a class="el" href="../../#l00089">PlayerTaxi::LoadTaxiMask()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00978">BfCapturePoint::Update()</a>, and <a class="el" href="../../#l00122">BattlefieldMgr::Update()</a>.</p>
+
+</div>
+</div>
+<a id="af5e231859535c4e1e6bd27ee42753f63" name="af5e231859535c4e1e6bd27ee42753f63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af5e231859535c4e1e6bd27ee42753f63">&#9670;&#160;</a></span>BattlefieldFactions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> BattlefieldFactions[<a class="el" href="../../d4/de7/a02270.html#a9855fd6839904c4ea8bcab8fd3783771">PVP_TEAMS_COUNT</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    1732, </div>
+<div class="line">    1735  </div>
+<div class="line">}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00783">Battlefield::SpawnCreature()</a>.</p>
 
 </div>
 </div>
@@ -1034,8 +411,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_df159a8f325d88d9d469ac728430a4fa.html">DataStores</a></li><li class="navelem"><a class="el" href="../../d4/d54/a04055.html">DBCStructure.h</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:14:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_477e35544aa3bd3857758e05eafb80e4.html">Battlefield</a></li><li class="navelem"><a class="el" href="../../d4/d54/a04055.html">Battlefield.h</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:37:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

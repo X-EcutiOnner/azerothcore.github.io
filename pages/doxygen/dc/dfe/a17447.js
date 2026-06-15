@@ -1,11 +1,6 @@
 var a17447 =
 [
-    [ "boss_slad_ranAI", "dc/dfe/a17447.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "dc/dfe/a17447.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "dc/dfe/a17447.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "dc/dfe/a17447.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "dc/dfe/a17447.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "dc/dfe/a17447.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "dc/dfe/a17447.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "dc/dfe/a17447.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "npc_pos_leader_secondAI", "d0/db7/a17451.html", "d0/db7/a17451" ],
+    [ "npc_pos_leader_second", "dc/dfe/a17447.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "dc/dfe/a17447.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

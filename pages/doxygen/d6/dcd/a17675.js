@@ -1,6 +1,6 @@
 var a17675 =
 [
-    [ "PrepareAuraScript", "d6/dcd/a17675.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
-    [ "RecalculateHook", "d6/dcd/a17675.html#a829e96cabbb565922f7183adb3edf13c", null ],
-    [ "Register", "d6/dcd/a17675.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
+    [ "HandleStackDrop", "d6/dcd/a17675.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
+    [ "PrepareAuraScript", "d6/dcd/a17675.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
+    [ "Register", "d6/dcd/a17675.html#a45b1fd2c1896023d71a0916100376e57", null ]
 ];

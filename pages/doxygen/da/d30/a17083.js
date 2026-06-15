@@ -1,6 +1,6 @@
 var a17083 =
 [
-    [ "npc_fos_leader_secondAI", "df/d04/a17087.html", "df/d04/a17087" ],
-    [ "npc_fos_leader_second", "da/d30/a17083.html#a0e24659ef6e834da5a3adc8d79f0db4e", null ],
-    [ "GetAI", "da/d30/a17083.html#a96082888ccbb1c81be8327e5e0d84e03", null ]
+    [ "HandleDummy", "da/d30/a17083.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "da/d30/a17083.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "da/d30/a17083.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

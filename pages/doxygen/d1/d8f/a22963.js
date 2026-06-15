@@ -1,14 +1,7 @@
 var a22963 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d1/d8f/a22963.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d1/d8f/a22963.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d1/d8f/a22963.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d1/d8f/a22963.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnCreatureRemove", "d1/d8f/a22963.html#a921442812da891a6651ddd235d4a98f9", null ],
-    [ "OnGameObjectCreate", "d1/d8f/a22963.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d1/d8f/a22963.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d1/d8f/a22963.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d1/d8f/a22963.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
-    [ "_frenzyCount", "d1/d8f/a22963.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
-    [ "_shieldGeneratorGUID", "d1/d8f/a22963.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "HandleEffectApply", "d1/d8f/a22963.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d1/d8f/a22963.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d1/d8f/a22963.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d1/d8f/a22963.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

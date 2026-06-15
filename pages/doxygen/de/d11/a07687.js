@@ -1,8 +1,6 @@
 var a07687 =
 [
-    [ "NodeId", "de/d11/a07687.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "de/d11/a07687.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "de/d11/a07687.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "de/d11/a07687.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "de/d11/a07687.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "CanAnnounce", "de/d11/a07687.html#a67afe4b43884ac1c58f054427b2ef7dd", null ],
+    [ "CanAnnounce", "de/d11/a07687.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
+    [ "instance", "de/d11/a07687.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
 ];

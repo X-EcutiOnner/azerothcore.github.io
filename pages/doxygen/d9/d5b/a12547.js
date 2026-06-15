@@ -1,6 +1,6 @@
 var a12547 =
 [
-    [ "OrcDeathEvent", "d9/d5b/a12547.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d9/d5b/a12547.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d9/d5b/a12547.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_galvangarAI", "da/ded/a12551.html", "da/ded/a12551" ],
+    [ "boss_galvangar", "d9/d5b/a12547.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "d9/d5b/a12547.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

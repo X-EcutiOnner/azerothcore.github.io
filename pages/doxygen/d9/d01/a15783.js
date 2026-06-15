@@ -1,6 +1,6 @@
 var a15783 =
 [
-    [ "npc_bunthen_plainswind", "d9/d01/a15783.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "d9/d01/a15783.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "d9/d01/a15783.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_stillpine_capitiveAI", "d0/d6c/a15787.html", "d0/d6c/a15787" ],
+    [ "npc_stillpine_capitive", "d9/d01/a15783.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
+    [ "GetAI", "d9/d01/a15783.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
 ];

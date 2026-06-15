@@ -1,10 +1,15 @@
 var a08291 =
 [
-    [ "CreatureModel", "db/dff/a08291.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "db/dff/a08291.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "db/dff/a08291.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "db/dff/a08291.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "db/dff/a08291.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "db/dff/a08291.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "db/dff/a08291.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LfgProposal", "db/dff/a08291.html#ad67e8b90ee53576adcab0ac41e523699", null ],
+    [ "cancelTime", "db/dff/a08291.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
+    [ "dungeonId", "db/dff/a08291.html#a3f4f1e3120ed950e2272789c757a401f", null ],
+    [ "encounters", "db/dff/a08291.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
+    [ "group", "db/dff/a08291.html#ac04263773858dfe70e7dd627a62113dc", null ],
+    [ "id", "db/dff/a08291.html#a580dfb67b8040a6267cbd20938cb8667", null ],
+    [ "isNew", "db/dff/a08291.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
+    [ "leader", "db/dff/a08291.html#a12f8574ad017641808e522e1e9fdff49", null ],
+    [ "players", "db/dff/a08291.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
+    [ "queues", "db/dff/a08291.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
+    [ "showorder", "db/dff/a08291.html#a3d388b633378c35f0efe5927fa78beef", null ],
+    [ "state", "db/dff/a08291.html#abd3f0fe86587f41c443735164924a3ae", null ]
 ];

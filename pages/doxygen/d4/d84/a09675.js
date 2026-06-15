@@ -1,8 +1,9 @@
 var a09675 =
 [
-    [ "NearestHostileUnitInAttackDistanceCheck", "d4/d84/a09675.html#a0b1d14f1347a3749a91ef6e888ccb23e", null ],
-    [ "NearestHostileUnitInAttackDistanceCheck", "d4/d84/a09675.html#a5645c9808db082b0301ec8b2ea93ce7f", null ],
-    [ "operator()", "d4/d84/a09675.html#adc28281742cd1f6a49152481b48f944e", null ],
-    [ "m_range", "d4/d84/a09675.html#ab79296a88ed07257edbe3449c2515b40", null ],
-    [ "me", "d4/d84/a09675.html#a298d2489b9bf30aa510407afca79a374", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d4/d84/a09675.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d4/d84/a09675.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "d4/d84/a09675.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "d4/d84/a09675.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "d4/d84/a09675.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "d4/d84/a09675.html#a68965425169b93053eadad91403855e0", null ]
 ];

@@ -1,7 +1,6 @@
 var a14495 =
 [
-    [ "FilterTargets", "dc/dbb/a14495.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
-    [ "HandleDummyEffect", "dc/dbb/a14495.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
-    [ "PrepareSpellScript", "dc/dbb/a14495.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
-    [ "Register", "dc/dbb/a14495.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
+    [ "boss_mandokirAI", "d4/d66/a14499.html", "d4/d66/a14499" ],
+    [ "boss_mandokir", "dc/dbb/a14495.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "dc/dbb/a14495.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

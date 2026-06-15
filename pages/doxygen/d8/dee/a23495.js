@@ -1,10 +1,8 @@
 var a23495 =
 [
-    [ "CheckProc", "d8/dee/a23495.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "d8/dee/a23495.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "d8/dee/a23495.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "d8/dee/a23495.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "d8/dee/a23495.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "d8/dee/a23495.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "d8/dee/a23495.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "boss_commander_sarannis", "d8/dee/a23495.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d8/dee/a23495.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d8/dee/a23495.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d8/dee/a23495.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d8/dee/a23495.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

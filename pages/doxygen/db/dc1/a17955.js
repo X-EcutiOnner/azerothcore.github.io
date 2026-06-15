@@ -1,6 +1,8 @@
 var a17955 =
 [
-    [ "npc_cult_fanaticAI", "dd/d6c/a17959.html", "dd/d6c/a17959" ],
-    [ "npc_cult_fanatic", "db/dc1/a17955.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "db/dc1/a17955.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "npc_gunship_mageAI", "db/dc1/a17955.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
+    [ "AttackStart", "db/dc1/a17955.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
+    [ "CanAIAttack", "db/dc1/a17955.html#aadcb217a9df96bee02287d75a23e32c2", null ],
+    [ "MovementInform", "db/dc1/a17955.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
+    [ "UpdateAI", "db/dc1/a17955.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
 ];

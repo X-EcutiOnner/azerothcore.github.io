@@ -1,9 +1,10 @@
 var a17215 =
 [
-    [ "FilterTargets", "df/dd0/a17215.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "df/dd0/a17215.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "df/dd0/a17215.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "df/dd0/a17215.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "df/dd0/a17215.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "df/dd0/a17215.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "HandleAfterEffectAbsorb", "df/dd0/a17215.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "df/dd0/a17215.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "df/dd0/a17215.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "df/dd0/a17215.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "df/dd0/a17215.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "df/dd0/a17215.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "df/dd0/a17215.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

@@ -1,6 +1,9 @@
 var a10971 =
 [
-    [ "GuildUpdateInfoText", "df/d91/a10971.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "df/d91/a10971.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "df/d91/a10971.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildInfoResponse", "df/d91/a10971.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "df/d91/a10971.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "df/d91/a10971.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "df/d91/a10971.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "df/d91/a10971.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "df/d91/a10971.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

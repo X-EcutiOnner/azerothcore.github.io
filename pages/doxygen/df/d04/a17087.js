@@ -1,5 +1,5 @@
 var a17087 =
 [
-    [ "npc_fos_leader_secondAI", "df/d04/a17087.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "df/d04/a17087.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "achievement_better_off_dred", "df/d04/a17087.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "df/d04/a17087.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

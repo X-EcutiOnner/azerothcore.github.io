@@ -1,7 +1,7 @@
 var a18611 =
 [
-    [ "OnPeriodic", "d7/dc9/a18611.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d7/dc9/a18611.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d7/dc9/a18611.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d7/dc9/a18611.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "OnRemove", "d7/dc9/a18611.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d7/dc9/a18611.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d7/dc9/a18611.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d7/dc9/a18611.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

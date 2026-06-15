@@ -1,7 +1,6 @@
 var a16703 =
 [
-    [ "npc_toc_paladinAI", "df/dbd/a16703.html#a025d39c04e864ebd77f4f930ec20b1e5", null ],
-    [ "myCanCast", "df/dbd/a16703.html#a06130e6e440d0b25d8b5566de6190cbc", null ],
-    [ "UpdateAI", "df/dbd/a16703.html#a32943f1c3ffd0239c85ac1b81786f049", null ],
-    [ "events", "df/dbd/a16703.html#ae47a32bbb05cf2f634ae18bc672ec004", null ]
+    [ "HandleSpellHit", "df/dbd/a16703.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "df/dbd/a16703.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "df/dbd/a16703.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

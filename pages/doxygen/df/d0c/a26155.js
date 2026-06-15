@@ -1,8 +1,7 @@
 var a26155 =
 [
-    [ "HandleProc", "df/d0c/a26155.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
-    [ "OnRemove", "df/d0c/a26155.html#adc9b9b988aa1342c34a49622f54d8484", null ],
-    [ "PrepareAuraScript", "df/d0c/a26155.html#ab3008bcdeb90825213d2352812ff21d5", null ],
-    [ "Register", "df/d0c/a26155.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
-    [ "Validate", "df/d0c/a26155.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
+    [ "HandleProc", "df/d0c/a26155.html#aac352153b98f5c718af224487a8525c4", null ],
+    [ "PrepareAuraScript", "df/d0c/a26155.html#a736fe794862b3a8c08a05f3a773d9a7b", null ],
+    [ "Register", "df/d0c/a26155.html#acc0aee7c8b6dcff6f33737ac7428e39f", null ],
+    [ "Validate", "df/d0c/a26155.html#afffd780f243317dd90be1908fae7ecd8", null ]
 ];

@@ -1,14 +1,11 @@
 var a11623 =
 [
-    [ "alive", "d3/dfe/a11623.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d3/dfe/a11623.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d3/dfe/a11623.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "damageBeforeTakenMods", "d3/dfe/a11623.html#a85196e5b5865856962898c18001880c7", null ],
-    [ "effectMask", "d3/dfe/a11623.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d3/dfe/a11623.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d3/dfe/a11623.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d3/dfe/a11623.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d3/dfe/a11623.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d3/dfe/a11623.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d3/dfe/a11623.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "OptionalData", "d9/d6f/a11627.html", "d9/d6f/a11627" ],
+    [ "ArrivalTicks", "d3/dfe/a11623.html#a8fa635d0c8f77a0e39fd66501490f6ea", null ],
+    [ "ConnectionId", "d3/dfe/a11623.html#abe8700ec99d55a66b22f8fbb28c833fa", null ],
+    [ "Direction", "d3/dfe/a11623.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8", null ],
+    [ "Length", "d3/dfe/a11623.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc", null ],
+    [ "Opcode", "d3/dfe/a11623.html#a7fcc9281cd10ecf79929f9f17c855b65", null ],
+    [ "OptionalData", "d3/dfe/a11623.html#aa5219ee4193cccf913dabf6db5d6f57a", null ],
+    [ "OptionalDataSize", "d3/dfe/a11623.html#a03b79fe07bd5f0a1c254f2fb92a3ecba", null ]
 ];

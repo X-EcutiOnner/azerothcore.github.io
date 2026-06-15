@@ -1,7 +1,6 @@
 var a15923 =
 [
-    [ "npc_toogaAI", "db/de4/a15927.html", "db/de4/a15927" ],
-    [ "npc_tooga", "d9/da4/a15923.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d9/da4/a15923.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d9/da4/a15923.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_bunthen_plainswind", "d9/da4/a15923.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "d9/da4/a15923.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "d9/da4/a15923.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

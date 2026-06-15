@@ -1,9 +1,12 @@
 var a29443 =
 [
-    [ "CountQuestOnCreature", "d0/d63/a29443.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d0/d63/a29443.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d0/d63/a29443.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d0/d63/a29443.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d0/d63/a29443.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d0/d63/a29443.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "SetUp", "d0/d63/a29443.html#a58cd90b7a71da405118c094ff47fc6ca", null ],
+    [ "TearDown", "d0/d63/a29443.html#a07e717efe62018e9f8f646a81afbb567", null ],
+    [ "PERM_A", "d0/d63/a29443.html#a38613fb2c500e82fe60a520cfa67e754", null ],
+    [ "PERM_B", "d0/d63/a29443.html#a4e9d8cbc4d41fa8dfbbf600bb8188b4c", null ],
+    [ "PERM_C", "d0/d63/a29443.html#a819e1345b06cac6338459683c702d355", null ],
+    [ "PERM_MOD_1", "d0/d63/a29443.html#a4069369cc39fcca52fa6430a4778d86f", null ],
+    [ "ROLE_PLAYER", "d0/d63/a29443.html#a72830036ef06ce28131379219963c7cb", null ],
+    [ "SEC_MODERATOR", "d0/d63/a29443.html#abe3cf16e5aeaf4ca6ef0e8c989ef6917", null ],
+    [ "SEC_PLAYER", "d0/d63/a29443.html#a411050ede39af85c2846fcc154f140e3", null ]
 ];

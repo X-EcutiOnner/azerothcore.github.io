@@ -1,8 +1,9 @@
 var a15063 =
 [
-    [ "npc_arthasAI", "d6/da3/a15067.html", "d6/da3/a15067" ],
-    [ "npc_arthas", "d3/d8c/a15063.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "d3/d8c/a15063.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "d3/d8c/a15063.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "d3/d8c/a15063.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "npc_ancient_wisp", "d3/d8c/a15063.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d3/d8c/a15063.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d3/d8c/a15063.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d3/d8c/a15063.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d3/d8c/a15063.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d3/d8c/a15063.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

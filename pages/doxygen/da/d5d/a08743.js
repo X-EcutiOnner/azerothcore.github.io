@@ -1,16 +1,11 @@
 var a08743 =
 [
-    [ "WorldLocation", "da/d5d/a08743.html#a424e67f5a820f3396ed6a02c3daa05fb", null ],
-    [ "WorldLocation", "da/d5d/a08743.html#a04d7814f5d846259c5af562ce856f468", null ],
-    [ "GetDebugInfo", "da/d5d/a08743.html#a0b3f13522d288dde484c70cbf8ef5fc5", null ],
-    [ "GetMapId", "da/d5d/a08743.html#a2682e56ae4f0ce4b517a8ba3cd2798b1", null ],
-    [ "GetWorldLocation", "da/d5d/a08743.html#a48cad9058b04a5108c4b99c7fd4d0bfe", null ],
-    [ "GetWorldLocation", "da/d5d/a08743.html#aa2623109f914fd8592f865545696d27b", null ],
-    [ "GetWorldLocation", "da/d5d/a08743.html#a75c59d33f5aac8da8eb9b8c5e2711acf", null ],
-    [ "GetWorldLocation", "da/d5d/a08743.html#aed21eb7d191b1e34ebd1456b427fbb2c", null ],
-    [ "GetWorldLocation", "da/d5d/a08743.html#abb5d3b7c89fa4a39d2486f2f943159e4", null ],
-    [ "SetMapId", "da/d5d/a08743.html#ac425c27c61ecc169fe3df61991011988", null ],
-    [ "WorldRelocate", "da/d5d/a08743.html#a7f014ec2469e93ffca3ec7bbd03b1606", null ],
-    [ "WorldRelocate", "da/d5d/a08743.html#adc762865d564319245ffc3363c080365", null ],
-    [ "m_mapId", "da/d5d/a08743.html#a88161a79f13aa3ab267096cfa8e5d0ed", null ]
+    [ "MovableMapObject", "da/d5d/a08743.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
+    [ "GetCurrentCell", "da/d5d/a08743.html#a6d7d87cff5f00f3b370584675caf7870", null ],
+    [ "SetCurrentCell", "da/d5d/a08743.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
+    [ "Map", "da/d5d/a08743.html#ad2f32e921244459f7cc6d50355429cc6", null ],
+    [ "ObjectGridLoader", "da/d5d/a08743.html#a9551c85ae0e43e4d212225c643da2262", null ],
+    [ "RandomMovementGenerator", "da/d5d/a08743.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
+    [ "_currentCell", "da/d5d/a08743.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
+    [ "_moveState", "da/d5d/a08743.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
 ];

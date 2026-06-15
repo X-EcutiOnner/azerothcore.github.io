@@ -1,10 +1,26 @@
 var a20199 =
 [
-    [ "HandleEffectPeriodic", "d2/d86/a20199.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d2/d86/a20199.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d2/d86/a20199.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d2/d86/a20199.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d2/d86/a20199.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d2/d86/a20199.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d2/d86/a20199.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "boss_freya", "d2/d86/a20199.html#a5379adaaa876662bcc6ffcd38cfc59bb", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d86/a20199.html#a195b0021b1ac0274884fb2106ee8d85d", null ],
+    [ "DamageTaken", "d2/d86/a20199.html#a8ba5d1999e8f4ae7fb240436771d6c39", null ],
+    [ "DoAction", "d2/d86/a20199.html#a099f983a17e002990aaecbb0995bb3b0", null ],
+    [ "GetData", "d2/d86/a20199.html#aa648b02fb1531fd434fce9ccf62332c0", null ],
+    [ "JustEngagedWith", "d2/d86/a20199.html#a85a00b03079df9ce9b8fa035820c959b", null ],
+    [ "JustReachedHome", "d2/d86/a20199.html#a577c8714fef829a57533c1cfbd400dc0", null ],
+    [ "JustSummoned", "d2/d86/a20199.html#a24e4d87c3007c1c17c0d3c7c9bf68d79", null ],
+    [ "KilledUnit", "d2/d86/a20199.html#a378a92e671be526e4f30feeb3ecf25e7", null ],
+    [ "MovementInform", "d2/d86/a20199.html#a80b5910abe85c2f1350c5f91aabd3fa4", null ],
+    [ "Reset", "d2/d86/a20199.html#abadf6447f33116039e82065ce44f4322", null ],
+    [ "SpawnWave", "d2/d86/a20199.html#af1f486e8725a2710b237fe233f7fe181", null ],
+    [ "SpellHit", "d2/d86/a20199.html#a3d449abdf7cc8241bedbcfe8f9d37175", null ],
+    [ "SpellHitTarget", "d2/d86/a20199.html#a22c4097731727de032fd6db3c9cef7cf", null ],
+    [ "UpdateAI", "d2/d86/a20199.html#a1ea7d6b65ceaa7d1c485685df40682f9", null ],
+    [ "_backToNature", "d2/d86/a20199.html#ab29a12f6a5ff5fd6ce579ebfceb6323c", null ],
+    [ "_deforestation", "d2/d86/a20199.html#a6c3e874ea83c564c93b6c7599e1174bd", null ],
+    [ "_elderGUID", "d2/d86/a20199.html#aeb55232c11172bfddd1d65d6b45f9d64", null ],
+    [ "_lumberjacked", "d2/d86/a20199.html#aa35101951b2d47848b69170ab36ae414", null ],
+    [ "_respawningTrio", "d2/d86/a20199.html#a9e0326bd0eff372fca2b5e0e310dd1da", null ],
+    [ "_spawnedAmount", "d2/d86/a20199.html#aafbd2fcaccdc5890f513054d6840ed55", null ],
+    [ "_trioKilled", "d2/d86/a20199.html#ae141a7cf3554c606738774fe96a371dc", null ],
+    [ "_waveNumber", "d2/d86/a20199.html#af4e2576558c3c15303245f76c6e30aa0", null ]
 ];

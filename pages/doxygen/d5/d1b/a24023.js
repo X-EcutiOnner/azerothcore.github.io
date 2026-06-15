@@ -1,7 +1,5 @@
 var a24023 =
 [
-    [ "HandleSendEvent", "d5/d1b/a24023.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d5/d1b/a24023.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d5/d1b/a24023.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d5/d1b/a24023.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_shattrath_daily_quest", "d5/d1b/a24023.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "d5/d1b/a24023.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

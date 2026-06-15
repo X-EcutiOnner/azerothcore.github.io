@@ -1,7 +1,14 @@
 var a09467 =
 [
-    [ "CreatureRelocationNotifier", "db/d9c/a09467.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "db/d9c/a09467.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "db/d9c/a09467.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "db/d9c/a09467.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "areaMapOffset", "db/d9c/a09467.html#a70f82337112bb8cbff0b3344666885a1", null ],
+    [ "areaMapSize", "db/d9c/a09467.html#adfbbb622974b7942f47dd16d2300246f", null ],
+    [ "buildMagic", "db/d9c/a09467.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
+    [ "heightMapOffset", "db/d9c/a09467.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
+    [ "heightMapSize", "db/d9c/a09467.html#a71c9cd42801697a927543e3acd4c3daf", null ],
+    [ "holesOffset", "db/d9c/a09467.html#a876d70dcd6ccec9ad09de77718c02150", null ],
+    [ "holesSize", "db/d9c/a09467.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
+    [ "liquidMapOffset", "db/d9c/a09467.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
+    [ "liquidMapSize", "db/d9c/a09467.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
+    [ "mapMagic", "db/d9c/a09467.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
+    [ "versionMagic", "db/d9c/a09467.html#abe722f653ba057fbba84401acbaffbfa", null ]
 ];

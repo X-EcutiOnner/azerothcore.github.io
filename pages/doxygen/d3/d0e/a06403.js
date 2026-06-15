@@ -1,10 +1,12 @@
 var a06403 =
 [
-    [ "DefaultTargetSelector", "d3/d0e/a06403.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "d3/d0e/a06403.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "d3/d0e/a06403.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "d3/d0e/a06403.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "d3/d0e/a06403.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "d3/d0e/a06403.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "d3/d0e/a06403.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "CombatAI", "d3/d0e/a06403.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "d3/d0e/a06403.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "d3/d0e/a06403.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "d3/d0e/a06403.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "d3/d0e/a06403.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "d3/d0e/a06403.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "d3/d0e/a06403.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "d3/d0e/a06403.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "d3/d0e/a06403.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

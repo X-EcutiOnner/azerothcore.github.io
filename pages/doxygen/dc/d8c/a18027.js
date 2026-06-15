@@ -1,7 +1,9 @@
 var a18027 =
 [
-    [ "HandleSpikes", "dc/d8c/a18027.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "dc/d8c/a18027.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "dc/d8c/a18027.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "dc/d8c/a18027.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "CalculateDamage", "dc/d8c/a18027.html#a6a9e90d9463825b38b69afc234b35b39", null ],
+    [ "PrepareSpellScript", "dc/d8c/a18027.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
+    [ "Register", "dc/d8c/a18027.html#a2722814a55469e5bae572766ed36309b", null ],
+    [ "RemoveEnergy", "dc/d8c/a18027.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
+    [ "StoreEnergy", "dc/d8c/a18027.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
+    [ "_energyLeft", "dc/d8c/a18027.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
 ];

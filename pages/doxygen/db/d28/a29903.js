@@ -1,8 +1,8 @@
 var a29903 =
 [
-    [ "DBCFile", "d6/de2/a28876.html", "d6/de2/a28876" ],
-    [ "DBCFile::Exception", "d9/d27/a28880.html", "d9/d27/a28880" ],
-    [ "DBCFile::NotFound", "d8/d86/a28884.html", "d8/d86/a28884" ],
-    [ "DBCFile::Record", "d0/d7f/a28888.html", "d0/d7f/a28888" ],
-    [ "DBCFile::Iterator", "d6/d96/a28892.html", "d6/d96/a28892" ]
+    [ "TileInfo", "db/d28/a29903.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "db/d28/a29903.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "db/d28/a29903.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "db/d28/a29903.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "db/d28/a29903.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

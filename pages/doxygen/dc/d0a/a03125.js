@@ -1,49 +1,86 @@
 var a03125 =
 [
-    [ "zm_beacon", "dd/d9b/a22218.html", "dd/d9b/a22218" ],
-    [ "OPvPCapturePointZM_Beacon", "d2/da7/a22222.html", "d2/da7/a22222" ],
-    [ "OPvPCapturePointZM_Graveyard", "dd/ddd/a22226.html", "dd/ddd/a22226" ],
-    [ "OutdoorPvPZM", "de/da4/a22230.html", "de/da4/a22230" ],
-    [ "OutdoorPvPZMSpells", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1", [
-      [ "ZM_CAPTURE_BUFF", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1a5039b0bd2a7689f857a4ecc871d5b16d", null ],
-      [ "ZM_BATTLE_STANDARD_A", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1a2b2887aade90aad310f6f859f8482aa5", null ],
-      [ "ZM_BATTLE_STANDARD_H", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1a0513ef6309adc490c793ee1dc5bc8614", null ],
-      [ "ZM_AlliancePlayerKillReward", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1a53fad383bb7058d8c1a272bd6d9523a3", null ],
-      [ "ZM_HordePlayerKillReward", "dc/d0a/a03125.html#ac31cd7a23fe2f82e25ababd3a8b700a1a6f9de137a24ee5d457ee7e2c093b398b", null ]
+    [ "SpellDestination", "db/d72/a11759.html", "db/d72/a11759" ],
+    [ "SpellCastTargets", "d2/dae/a11763.html", "d2/dae/a11763" ],
+    [ "SpellValue", "de/d37/a11767.html", "de/d37/a11767" ],
+    [ "ChannelTargetData", "d3/dc0/a11771.html", "d3/dc0/a11771" ],
+    [ "TargetInfo", "dc/df2/a11775.html", "dc/df2/a11775" ],
+    [ "TriggeredByAuraSpellData", "da/d0f/a11779.html", "da/d0f/a11779" ],
+    [ "Spell", "dd/dbf/a11783.html", "dd/dbf/a11783" ],
+    [ "Spell::GOTargetInfo", "dd/d27/a11787.html", "dd/d27/a11787" ],
+    [ "Spell::ItemTargetInfo", "d5/d1d/a11791.html", "d5/d1d/a11791" ],
+    [ "Spell::HitTriggerSpell", "de/d46/a11795.html", "de/d46/a11795" ],
+    [ "Acore::WorldObjectSpellTargetCheck", "d6/d6c/a11799.html", "d6/d6c/a11799" ],
+    [ "Acore::WorldObjectSpellNearbyTargetCheck", "d6/db1/a11803.html", "d6/db1/a11803" ],
+    [ "Acore::WorldObjectSpellAreaTargetCheck", "d0/dd1/a11807.html", "d0/dd1/a11807" ],
+    [ "Acore::WorldObjectSpellConeTargetCheck", "d9/d91/a11811.html", "d9/d91/a11811" ],
+    [ "Acore::WorldObjectSpellTrajTargetCheck", "d2/d5f/a11815.html", "d2/d5f/a11815" ],
+    [ "ReflectEvent", "dc/dc9/a11819.html", "dc/dc9/a11819" ],
+    [ "SPELL_CHANNEL_UPDATE_INTERVAL", "dc/d0a/a03125.html#ab78935c66af944ba148b76e50b175514", null ],
+    [ "TRAJECTORY_MISSILE_SIZE", "dc/d0a/a03125.html#aa07f41c20176d114eb5a020a709a04f5", null ],
+    [ "pEffect", "dc/d0a/a03125.html#ac4912996788d32123000e7fc35065c29", null ],
+    [ "SpellCastFlags", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5", [
+      [ "CAST_FLAG_NONE", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5ae3bc67bf88cf15e2d611b9cc1137a3ca", null ],
+      [ "CAST_FLAG_PENDING", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5adf508e40eff69133b3b8a10b04a60c91", null ],
+      [ "CAST_FLAG_HAS_TRAJECTORY", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5ab2313d979b965f12b7fe7a39464a3b16", null ],
+      [ "CAST_FLAG_UNKNOWN_3", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a4f105c09ee9daffaad3e19319d3fb0cf", null ],
+      [ "CAST_FLAG_UNKNOWN_4", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a685a318f11101697f90ec4ed5f68f2a9", null ],
+      [ "CAST_FLAG_UNKNOWN_5", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a0875247496f84f194a8ac95c4ad0306d", null ],
+      [ "CAST_FLAG_PROJECTILE", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a911b49cb2a1f6a041e3edaea2d29aaf2", null ],
+      [ "CAST_FLAG_UNKNOWN_7", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a9247c3beea696c57d23397a38118feec", null ],
+      [ "CAST_FLAG_UNKNOWN_8", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a269487e18646c34887cd2fd9123caa56", null ],
+      [ "CAST_FLAG_UNKNOWN_9", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a3e5d9d38c58f0b071164f170e9e853ec", null ],
+      [ "CAST_FLAG_UNKNOWN_10", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a0d0a297a8da35bb77fb59e6d61d783be", null ],
+      [ "CAST_FLAG_UNKNOWN_11", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a550c8883396d29c10d0a5cbfb37ed610", null ],
+      [ "CAST_FLAG_POWER_LEFT_SELF", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a9e0b6572c81f21766e219f800344f56a", null ],
+      [ "CAST_FLAG_UNKNOWN_13", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5aa4cbe000cd9ede880c3b555b5b45272e", null ],
+      [ "CAST_FLAG_UNKNOWN_14", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5acc1c433523d0fcdb7ef8c33a84f384c3", null ],
+      [ "CAST_FLAG_UNKNOWN_15", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5acd5132a9f95bb2b053a8f6e8629db48c", null ],
+      [ "CAST_FLAG_UNKNOWN_16", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a81c62b8dcbbda6078376d1b95b4b44c6", null ],
+      [ "CAST_FLAG_UNKNOWN_17", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5ae8b9bfb86fa26b82d9b6cadfe6372205", null ],
+      [ "CAST_FLAG_ADJUST_MISSILE", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a262d78c35fb74238ec4a1afdb28219db", null ],
+      [ "CAST_FLAG_NO_GCD", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a736df7bee6e7361d9637de90959f9169", null ],
+      [ "CAST_FLAG_VISUAL_CHAIN", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a20c95c624718076edc4b69e74aba3b69", null ],
+      [ "CAST_FLAG_UNKNOWN_21", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5af6f1cba5f5cea12edf85ce89c85aa2ae", null ],
+      [ "CAST_FLAG_RUNE_LIST", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5ab7e8e219d2f2a70a79ada779cc20dc15", null ],
+      [ "CAST_FLAG_UNKNOWN_23", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a78d1402d43146bbb8fc4582c78fc5251", null ],
+      [ "CAST_FLAG_UNKNOWN_24", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5aa85382d7729b2724af2ef75c6be72a82", null ],
+      [ "CAST_FLAG_UNKNOWN_25", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a19055a268af4383f429e8768fbab8240", null ],
+      [ "CAST_FLAG_UNKNOWN_26", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a53f8c826c219cafa07184570131aff83", null ],
+      [ "CAST_FLAG_IMMUNITY", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5aeb6eabdc1379fa5bc61395a9ea1d29ab", null ],
+      [ "CAST_FLAG_UNKNOWN_28", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5aa7167080e0df5babfe7ffbb224795954", null ],
+      [ "CAST_FLAG_UNKNOWN_29", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a91d47a0d7d9d08089c952c586184f083", null ],
+      [ "CAST_FLAG_UNKNOWN_30", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a65bb1f85762c66130a1db9e717f96107", null ],
+      [ "CAST_FLAG_HEAL_PREDICTION", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a289146261b197957c9bbd893f48fb9cc", null ],
+      [ "CAST_FLAG_UNKNOWN_32", "dc/d0a/a03125.html#abed1822d323e37699c2c01a115a1d2f5a18cb827d6d2d906ccbab6403a281f953", null ]
     ] ],
-    [ "ZM_BeaconType", "dc/d0a/a03125.html#a8493feec67db9c938c31465f24f60fe1", [
-      [ "ZM_BEACON_EAST", "dc/d0a/a03125.html#a8493feec67db9c938c31465f24f60fe1a034b065f7219f5b4a6d983ed694e7a80", null ],
-      [ "ZM_BEACON_WEST", "dc/d0a/a03125.html#a8493feec67db9c938c31465f24f60fe1a36b102e6d45f41b4db14e889ffac46e2", null ],
-      [ "ZM_NUM_BEACONS", "dc/d0a/a03125.html#a8493feec67db9c938c31465f24f60fe1a9e566b7b7f64cae5ea6a37a289f16ce3", null ]
+    [ "SpellEffectHandleMode", "dc/d0a/a03125.html#a5f7398919556f987efbdbf8c7ed4b651", [
+      [ "SPELL_EFFECT_HANDLE_LAUNCH", "dc/d0a/a03125.html#a5f7398919556f987efbdbf8c7ed4b651a505182af284efeaf5427cd49ccdae48a", null ],
+      [ "SPELL_EFFECT_HANDLE_LAUNCH_TARGET", "dc/d0a/a03125.html#a5f7398919556f987efbdbf8c7ed4b651a35e58ffc84a8e4dbd99478f2848678b2", null ],
+      [ "SPELL_EFFECT_HANDLE_HIT", "dc/d0a/a03125.html#a5f7398919556f987efbdbf8c7ed4b651a68d09fc4591462cf7d4f4338753af548", null ],
+      [ "SPELL_EFFECT_HANDLE_HIT_TARGET", "dc/d0a/a03125.html#a5f7398919556f987efbdbf8c7ed4b651af4c5b99ead243a7fd18d4925aa310dc4", null ]
     ] ],
-    [ "Zm_GraveyardState", "dc/d0a/a03125.html#ad13518df9718347908929a97748d3636", [
-      [ "ZM_GRAVEYARD_N", "dc/d0a/a03125.html#ad13518df9718347908929a97748d3636a87f32a40b9ae4243e7977085b4dab7c0", null ],
-      [ "ZM_GRAVEYARD_A", "dc/d0a/a03125.html#ad13518df9718347908929a97748d3636aef470c9322dded10641afcc6a153e329", null ],
-      [ "ZM_GRAVEYARD_H", "dc/d0a/a03125.html#ad13518df9718347908929a97748d3636a115a6845b9e0fbabbef2f3e28599f065", null ]
+    [ "SpellFlags", "dc/d0a/a03125.html#a68423826ac8d5f2d2aca7e83dfa9d2c2", [
+      [ "SPELL_FLAG_NORMAL", "dc/d0a/a03125.html#a68423826ac8d5f2d2aca7e83dfa9d2c2abc18f1a292e6163055b15c50854a6cbe", null ],
+      [ "SPELL_FLAG_REFLECTED", "dc/d0a/a03125.html#a68423826ac8d5f2d2aca7e83dfa9d2c2a821083f58cdc2d250afcee151634e757", null ],
+      [ "SPELL_FLAG_REDIRECTED", "dc/d0a/a03125.html#a68423826ac8d5f2d2aca7e83dfa9d2c2adfcc1624804cc74a9267c4608e9dd11a", null ]
     ] ],
-    [ "ZM_TowerStateMask", "dc/d0a/a03125.html#a5d44e96b24b1f1215d1b3788b212f11c", [
-      [ "ZM_TOWERSTATE_N", "dc/d0a/a03125.html#a5d44e96b24b1f1215d1b3788b212f11ca03d2918a6a9915b33da0f120feb7d5da", null ],
-      [ "ZM_TOWERSTATE_A", "dc/d0a/a03125.html#a5d44e96b24b1f1215d1b3788b212f11cab51c5d640c62f5336ec7c5a1028f73d0", null ],
-      [ "ZM_TOWERSTATE_H", "dc/d0a/a03125.html#a5d44e96b24b1f1215d1b3788b212f11ca206f55050d03bbc30f690c7e669e1831", null ]
+    [ "SpellRangeFlag", "dc/d0a/a03125.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2", [
+      [ "SPELL_RANGE_DEFAULT", "dc/d0a/a03125.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a87a9dc2134a092ce47e269803da73049", null ],
+      [ "SPELL_RANGE_MELEE", "dc/d0a/a03125.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a724b22f40487687925b63b0d9661651a", null ],
+      [ "SPELL_RANGE_RANGED", "dc/d0a/a03125.html#a23c4c89fd0ad7ff0f4e30f356a2bebc2a7b43656e0f553be5f98a3f4c839236ab", null ]
     ] ],
-    [ "ZMCreatureTypes", "dc/d0a/a03125.html#aa6fc4a297b329d62073dd503d4f647c5", [
-      [ "ZM_ALLIANCE_FIELD_SCOUT", "dc/d0a/a03125.html#aa6fc4a297b329d62073dd503d4f647c5ab0f9fb0eee307b47658f6742db0a4d82", null ],
-      [ "ZM_HORDE_FIELD_SCOUT", "dc/d0a/a03125.html#aa6fc4a297b329d62073dd503d4f647c5a51001197c09a749a8d042df6fc5d0d62", null ],
-      [ "ZM_CREATURE_NUM", "dc/d0a/a03125.html#aa6fc4a297b329d62073dd503d4f647c5a47e8909e9a6a41604775c672ec3587ae", null ]
+    [ "SpellState", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0a", [
+      [ "SPELL_STATE_NULL", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aa4c460c6c4469075ecc1b9134ca69d776", null ],
+      [ "SPELL_STATE_PREPARING", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aa626cba4f3a51caac32066af8b5e13da3", null ],
+      [ "SPELL_STATE_CASTING", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aae175109189bc7f989a42de7f088cb6fa", null ],
+      [ "SPELL_STATE_FINISHED", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aa620ae87eec478ce64981cb346d628a44", null ],
+      [ "SPELL_STATE_IDLE", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aafd1c8a760bdbbe80d8f6bc6a7de07197", null ],
+      [ "SPELL_STATE_DELAYED", "dc/d0a/a03125.html#a821bd91389a0f4046989739b12e84f0aa301d2895947dd39262654eb77e794452", null ]
     ] ],
-    [ "OutdoorPvPZMBuffZones", "dc/d0a/a03125.html#a42debbed89bc9a37f04d7da9f1ba5362", null ],
-    [ "OutdoorPvPZMBuffZonesNum", "dc/d0a/a03125.html#afd164ef928ed19895648e76207433805", null ],
-    [ "ZM_AllianceFieldScout", "dc/d0a/a03125.html#a308db265dfb26d8d04ea2b44077d3b42", null ],
-    [ "ZM_Banner_A", "dc/d0a/a03125.html#a986fade5573769277e5c9e99dc243d78", null ],
-    [ "ZM_Banner_H", "dc/d0a/a03125.html#a5eae372f5bc43c36af04c8833002ca79", null ],
-    [ "ZM_Banner_N", "dc/d0a/a03125.html#a9bf0e9dee2e0ae4731dd302373e18542", null ],
-    [ "ZM_GRAVEYARD_ID", "dc/d0a/a03125.html#adc060a8578a0685e98f94a0d51c3613b", null ],
-    [ "ZM_GRAVEYARD_ZONE", "dc/d0a/a03125.html#a32c62572b4ea0ef1930cffc3e9e2c6fe", null ],
-    [ "ZM_HordeFieldScout", "dc/d0a/a03125.html#aa18435dfdf68c3f5ac5218ce2e4909d0", null ],
-    [ "ZMBeaconCaptureA", "dc/d0a/a03125.html#aefc7683d5c310d6513a4bc64e0562f24", null ],
-    [ "ZMBeaconCaptureH", "dc/d0a/a03125.html#a3cf4b21d832f1993b7bbef74516f4690", null ],
-    [ "ZMBeaconInfo", "dc/d0a/a03125.html#af392c2c0a8da38f6782ab0ed0501a448", null ],
-    [ "ZMBeaconLoseA", "dc/d0a/a03125.html#ace5e051bf69a2b4be978b04c832c5592", null ],
-    [ "ZMBeaconLoseH", "dc/d0a/a03125.html#a32e1a277d31ee3f4a23f291ccb4798e6", null ],
-    [ "ZMCapturePoints", "dc/d0a/a03125.html#a397f5867c1a3f99cf044124a4a621324", null ]
+    [ "WorldObjectSpellAreaTargetSearchReason", "dc/d0a/a03125.html#a5f5f9b21657494ac28217867f6f20a9d", [
+      [ "Area", "dc/d0a/a03125.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214", null ],
+      [ "Chain", "dc/d0a/a03125.html#a5f5f9b21657494ac28217867f6f20a9da5320550175ad6f79ad658943b9c013a7", null ]
+    ] ],
+    [ "SPELL_INTERRUPT_NONPLAYER", "dc/d0a/a03125.html#a925df27fa7c1cddda3066155bff0ef5c", null ]
 ];

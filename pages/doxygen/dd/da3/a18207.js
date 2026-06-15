@@ -1,7 +1,6 @@
 var a18207 =
 [
-    [ "HandleScript", "dd/da3/a18207.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "dd/da3/a18207.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "dd/da3/a18207.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "dd/da3/a18207.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "npc_gas_cloudAI", "dd/da3/a18207.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
+    [ "CastMainSpell", "dd/da3/a18207.html#a61681f6f9616fe33274302d4160c709b", null ],
+    [ "_newTargetSelectTimer", "dd/da3/a18207.html#a6989b904abaa5b71362e43664f4b084d", null ]
 ];

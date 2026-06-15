@@ -1,7 +1,6 @@
 var a20679 =
 [
-    [ "OnApply", "d4/d29/a20679.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
-    [ "OnRemove", "d4/d29/a20679.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
-    [ "PrepareAuraScript", "d4/d29/a20679.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
-    [ "Register", "d4/d29/a20679.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
+    [ "BoomEvent", "d4/d29/a20679.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d4/d29/a20679.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d4/d29/a20679.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

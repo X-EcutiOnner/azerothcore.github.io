@@ -1,7 +1,8 @@
 var a16407 =
 [
-    [ "HandlePeriodic", "d0/dac/a16407.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d0/dac/a16407.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d0/dac/a16407.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d0/dac/a16407.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "npc_twilight_summon", "d0/dac/a16407.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "d0/dac/a16407.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "d0/dac/a16407.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "d0/dac/a16407.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "d0/dac/a16407.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

@@ -1,10 +1,12 @@
 var a07563 =
 [
-    [ "Battleground2ChatBuilder", "d6/d8f/a07563.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d6/d8f/a07563.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d6/d8f/a07563.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d6/d8f/a07563.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d6/d8f/a07563.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d6/d8f/a07563.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d6/d8f/a07563.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "Arena", "d6/d8f/a07563.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d6/d8f/a07563.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d6/d8f/a07563.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d6/d8f/a07563.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d6/d8f/a07563.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d6/d8f/a07563.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d6/d8f/a07563.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d6/d8f/a07563.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d6/d8f/a07563.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

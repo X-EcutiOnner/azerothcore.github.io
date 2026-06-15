@@ -1,7 +1,12 @@
 var a11747 =
 [
-    [ "maxvalue", "df/d18/a11747.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "df/d18/a11747.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "df/d18/a11747.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "df/d18/a11747.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "UnitAura", "df/d18/a11747.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "df/d18/a11747.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "df/d18/a11747.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "df/d18/a11747.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "df/d18/a11747.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "df/d18/a11747.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "df/d18/a11747.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "df/d18/a11747.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "df/d18/a11747.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

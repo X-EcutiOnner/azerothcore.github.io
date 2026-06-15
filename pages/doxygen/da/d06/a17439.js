@@ -1,5 +1,6 @@
 var a17439 =
 [
-    [ "achievement_less_rabi", "da/d06/a17439.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "da/d06/a17439.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "npc_pos_freed_slaveAI", "d6/d4b/a17443.html", "d6/d4b/a17443" ],
+    [ "npc_pos_freed_slave", "da/d06/a17439.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "da/d06/a17439.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

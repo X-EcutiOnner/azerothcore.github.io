@@ -1,8 +1,9 @@
 var a05759 =
 [
-    [ "result_type", "d8/dbc/a05759.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "d8/dbc/a05759.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "d8/dbc/a05759.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "d8/dbc/a05759.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "d8/dbc/a05759.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "Base", "d8/d36/a05763.html", "d8/d36/a05763" ],
+    [ "Erase", "d8/dbc/a05759.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "d8/dbc/a05759.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "d8/dbc/a05759.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "d8/dbc/a05759.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "d8/dbc/a05759.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

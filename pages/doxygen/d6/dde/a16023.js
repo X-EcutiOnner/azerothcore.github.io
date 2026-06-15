@@ -1,6 +1,7 @@
 var a16023 =
 [
-    [ "SayerEntry", "d6/dde/a16023.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d6/dde/a16023.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d6/dde/a16023.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "npc_kaya_flathoofAI", "d9/ded/a16027.html", "d9/ded/a16027" ],
+    [ "npc_kaya_flathoof", "d6/dde/a16023.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "d6/dde/a16023.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "d6/dde/a16023.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

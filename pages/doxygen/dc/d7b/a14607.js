@@ -1,5 +1,6 @@
 var a14607 =
 [
-    [ "at_bring_your_orphan_to", "dc/d7b/a14607.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
-    [ "OnTrigger", "dc/d7b/a14607.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
+    [ "npc_brewfest_bark_trigger", "dc/d7b/a14607.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "dc/d7b/a14607.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "dc/d7b/a14607.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

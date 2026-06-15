@@ -1,5 +1,8 @@
 var a14715 =
 [
-    [ "go_loosely_turned_soilAI", "d8/d9d/a14715.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d8/d9d/a14715.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "OnApply", "d8/d9d/a14715.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "d8/d9d/a14715.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "d8/d9d/a14715.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "d8/d9d/a14715.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "d8/d9d/a14715.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

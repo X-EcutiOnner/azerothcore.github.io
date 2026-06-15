@@ -1,9 +1,10 @@
 var a22579 =
 [
-    [ "boss_mother_shahraz", "dd/d7f/a22579.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "dd/d7f/a22579.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "dd/d7f/a22579.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "dd/d7f/a22579.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "dd/d7f/a22579.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "dd/d7f/a22579.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "boss_gathios_the_shatterer", "dd/d7f/a22579.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "dd/d7f/a22579.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "dd/d7f/a22579.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "dd/d7f/a22579.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "dd/d7f/a22579.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "dd/d7f/a22579.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "dd/d7f/a22579.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

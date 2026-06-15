@@ -1,7 +1,8 @@
 var a20295 =
 [
-    [ "FilterTargetsInitial", "d8/de0/a20295.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d8/de0/a20295.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d8/de0/a20295.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d8/de0/a20295.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "npc_ulduar_flash_freeze", "d8/de0/a20295.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "d8/de0/a20295.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "d8/de0/a20295.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "d8/de0/a20295.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "d8/de0/a20295.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

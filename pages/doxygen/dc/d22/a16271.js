@@ -1,10 +1,12 @@
 var a16271 =
 [
-    [ "boss_sartharion_tenebron", "dc/d22/a16271.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "dc/d22/a16271.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "dc/d22/a16271.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "dc/d22/a16271.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "dc/d22/a16271.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "dc/d22/a16271.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "dc/d22/a16271.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "npc_taldaram_flamesphere", "dc/d22/a16271.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "dc/d22/a16271.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "dc/d22/a16271.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "MovementInform", "dc/d22/a16271.html#a785c491b7144420cd4975e62c9a8a711", null ],
+    [ "SetVictimPos", "dc/d22/a16271.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "dc/d22/a16271.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "dc/d22/a16271.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "dc/d22/a16271.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "dc/d22/a16271.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

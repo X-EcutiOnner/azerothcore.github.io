@@ -1,8 +1,9 @@
 var a22075 =
 [
-    [ "npc_wg_spirit_guideAI", "d7/dac/a22079.html", "d7/dac/a22079" ],
-    [ "npc_wg_spirit_guide", "da/d67/a22075.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "da/d67/a22075.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "da/d67/a22075.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "da/d67/a22075.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "HandlePeriodic", "da/d67/a22075.html#a0943e7887ff935ccea21d913429e25a0", null ],
+    [ "OnRemove", "da/d67/a22075.html#a46ae9f9c7b31fa46e0968dc521a2511b", null ],
+    [ "PrepareAuraScript", "da/d67/a22075.html#a07ce1c801c8d770d639b8ffe05830c3b", null ],
+    [ "Register", "da/d67/a22075.html#afa2a6d4653311d2f76831ef14d34c0dd", null ],
+    [ "_tickNumber", "da/d67/a22075.html#a3f8943e288e96f639fb805869749879b", null ],
+    [ "_warning", "da/d67/a22075.html#a19ffd2ca76a020ca8ca4b2ff91538888", null ]
 ];

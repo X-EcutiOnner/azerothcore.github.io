@@ -1,7 +1,8 @@
 var a21795 =
 [
-    [ "GetSeatNumber", "d5/d40/a21795.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d5/d40/a21795.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d5/d40/a21795.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d5/d40/a21795.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "AfterApply", "d5/d40/a21795.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d5/d40/a21795.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d5/d40/a21795.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d5/d40/a21795.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d5/d40/a21795.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

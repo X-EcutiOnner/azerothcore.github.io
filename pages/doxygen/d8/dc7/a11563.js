@@ -1,15 +1,6 @@
 var a11563 =
 [
-    [ "BaseSocketMgr", "d8/dc7/a11563.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
-    [ "WorldSocketMgr", "d8/dc7/a11563.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
-    [ "CreateThreads", "d8/dc7/a11563.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
-    [ "GetApplicationSendBufferSize", "d8/dc7/a11563.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
-    [ "Instance", "d8/dc7/a11563.html#aaa32a527707cb66916b1499a2e283250", null ],
-    [ "OnSocketAccept", "d8/dc7/a11563.html#add84a09a7111cca079a11289c7ef672d", null ],
-    [ "OnSocketOpen", "d8/dc7/a11563.html#a916e6d479b7281c26fc7820a2ed0255d", null ],
-    [ "StartWorldNetwork", "d8/dc7/a11563.html#acaf85b16b490bfda8532b49456a38b71", null ],
-    [ "StopNetwork", "d8/dc7/a11563.html#aede126ecfe75f2917aaf730330ea3b82", null ],
-    [ "_socketApplicationSendBufferSize", "d8/dc7/a11563.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
-    [ "_socketSystemSendBufferSize", "d8/dc7/a11563.html#a043da77b04a29c4c5fe81698ae279985", null ],
-    [ "_tcpNoDelay", "d8/dc7/a11563.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
+    [ "PushQuestToParty", "d8/dc7/a11563.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
+    [ "Read", "d8/dc7/a11563.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
+    [ "QuestId", "d8/dc7/a11563.html#a0d30347159622093b52d0936d93a63bf", null ]
 ];

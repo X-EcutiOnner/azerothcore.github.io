@@ -1,8 +1,8 @@
 var a22499 =
 [
-    [ "Load", "d6/d3c/a22499.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "d6/d3c/a22499.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "d6/d3c/a22499.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "d6/d3c/a22499.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "d6/d3c/a22499.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "npc_parasitic_shadowfiend", "d6/d3c/a22499.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d6/d3c/a22499.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d6/d3c/a22499.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d6/d3c/a22499.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d6/d3c/a22499.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

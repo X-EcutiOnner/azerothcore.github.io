@@ -1,6 +1,7 @@
 var a25319 =
 [
-    [ "FilterTargets", "dd/d76/a25319.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "dd/d76/a25319.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "dd/d76/a25319.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "HandleProc", "dd/d76/a25319.html#af2da4e2be8fbb73a398308a0cdc86112", null ],
+    [ "PrepareAuraScript", "dd/d76/a25319.html#af463b573b0202e74f77c46fadca3b5e0", null ],
+    [ "Register", "dd/d76/a25319.html#a6e435d0802370379fa0d1707442eaa58", null ],
+    [ "Validate", "dd/d76/a25319.html#a1fe293134b3f57386ab412357ce968e4", null ]
 ];

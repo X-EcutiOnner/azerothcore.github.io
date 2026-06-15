@@ -1,14 +1,11 @@
 var a09047 =
 [
-    [ "SafeUnitPointer", "df/d8e/a09047.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
-    [ "SafeUnitPointer", "df/d8e/a09047.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
-    [ "~SafeUnitPointer", "df/d8e/a09047.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
-    [ "Initialize", "df/d8e/a09047.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
-    [ "operator Unit *", "df/d8e/a09047.html#afee1d290f436472dd719ff83f41721f5", null ],
-    [ "operator->", "df/d8e/a09047.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
-    [ "operator=", "df/d8e/a09047.html#a44f522d9c22861f853df0286a3764d3e", null ],
-    [ "SetPointedTo", "df/d8e/a09047.html#a6603c67b736224a8e6559340afa8b275", null ],
-    [ "UnitDeleted", "df/d8e/a09047.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
-    [ "defaultValue", "df/d8e/a09047.html#a38dce117cb135c9b84918a9bbc884f28", null ],
-    [ "ptr", "df/d8e/a09047.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
+    [ "AuraMunchingQueue", "df/d8e/a09047.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
+    [ "Execute", "df/d8e/a09047.html#a8f025a0ea1db81fb283db563402d1c40", null ],
+    [ "_auraType", "df/d8e/a09047.html#add694e24c38d585784f236acf9118b76", null ],
+    [ "_aurEff", "df/d8e/a09047.html#a8ac00964608170d5375242c1b19c4be3", null ],
+    [ "_basePoints", "df/d8e/a09047.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
+    [ "_owner", "df/d8e/a09047.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
+    [ "_spellId", "df/d8e/a09047.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
+    [ "_targetGUID", "df/d8e/a09047.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
 ];

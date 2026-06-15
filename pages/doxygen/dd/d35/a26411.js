@@ -1,9 +1,10 @@
 var a26411 =
 [
-    [ "Load", "dd/d35/a26411.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "dd/d35/a26411.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "dd/d35/a26411.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "dd/d35/a26411.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "dd/d35/a26411.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "dd/d35/a26411.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "Load", "dd/d35/a26411.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "dd/d35/a26411.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "dd/d35/a26411.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "dd/d35/a26411.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "dd/d35/a26411.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "dd/d35/a26411.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "dd/d35/a26411.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

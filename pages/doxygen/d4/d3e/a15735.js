@@ -1,11 +1,13 @@
 var a15735 =
 [
-    [ "npc_tiger_matriarchAI", "d4/d3e/a15735.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d4/d3e/a15735.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d4/d3e/a15735.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d4/d3e/a15735.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d4/d3e/a15735.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d4/d3e/a15735.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d4/d3e/a15735.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d4/d3e/a15735.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d4/d3e/a15735.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d4/d3e/a15735.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d4/d3e/a15735.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d4/d3e/a15735.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d4/d3e/a15735.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d4/d3e/a15735.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d4/d3e/a15735.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d4/d3e/a15735.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d4/d3e/a15735.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d4/d3e/a15735.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

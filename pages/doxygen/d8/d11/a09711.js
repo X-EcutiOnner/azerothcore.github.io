@@ -1,8 +1,9 @@
 var a09711 =
 [
-    [ "AllGameObjectsWithEntryInRange", "d8/d11/a09711.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "d8/d11/a09711.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "d8/d11/a09711.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "d8/d11/a09711.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "d8/d11/a09711.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "AnyFriendlyUnitInObjectRangeCheck", "d8/d11/a09711.html#a4ed3a469f35cb7b64ad5f144281b7910", null ],
+    [ "operator()", "d8/d11/a09711.html#a6e1026191fd4b1b45696a60f45b1b7b8", null ],
+    [ "i_funit", "d8/d11/a09711.html#a9ebd1a1d9716dfda55509396947c1a83", null ],
+    [ "i_obj", "d8/d11/a09711.html#adacade7450b0af19540ea705e1bd438b", null ],
+    [ "i_playerOnly", "d8/d11/a09711.html#a6b0d852333ee74a20281ce7de5a45b98", null ],
+    [ "i_range", "d8/d11/a09711.html#a2af638499152888a698b0fc1570e46ed", null ]
 ];

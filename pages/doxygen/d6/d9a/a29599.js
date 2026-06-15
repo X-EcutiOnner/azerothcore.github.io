@@ -1,8 +1,5 @@
 var a29599 =
 [
-    [ "prepareLoadedData", "d6/d9a/a29599.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "d6/d9a/a29599.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "d6/d9a/a29599.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "d6/d9a/a29599.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "d6/d9a/a29599.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "damageApplied", "d6/d9a/a29599.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d6/d9a/a29599.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

@@ -1,8 +1,9 @@
 var a29923 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d8/dc7/a29923.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d8/dc7/a29923.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d8/dc7/a29923.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d8/dc7/a29923.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d8/dc7/a29923.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "Flags", "d8/dc7/a29923.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "d8/dc7/a29923.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "d8/dc7/a29923.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "d8/dc7/a29923.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "d8/dc7/a29923.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "d8/dc7/a29923.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

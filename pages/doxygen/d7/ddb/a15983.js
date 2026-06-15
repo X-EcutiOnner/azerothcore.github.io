@@ -1,8 +1,6 @@
 var a15983 =
 [
-    [ "npc_pluckyAI", "de/dcb/a15987.html", "de/dcb/a15987" ],
-    [ "npc_plucky", "d7/ddb/a15983.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d7/ddb/a15983.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d7/ddb/a15983.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d7/ddb/a15983.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_anachronos_the_ancientAI", "de/dcb/a15987.html", "de/dcb/a15987" ],
+    [ "npc_anachronos_the_ancient", "d7/ddb/a15983.html#a720884359886e6f881190471005f4cfc", null ],
+    [ "GetAI", "d7/ddb/a15983.html#a345c801231907d98f2ab2425b1d35cbc", null ]
 ];

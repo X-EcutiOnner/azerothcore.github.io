@@ -1,6 +1,19 @@
 var a21035 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d1/d51/a21035.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d1/d51/a21035.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d1/d51/a21035.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_skadiAI", "d1/d51/a21035.html#a4e9708950b0dda44bd70d77ee9f9de52", null ],
+    [ "DoAction", "d1/d51/a21035.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "EnterEvadeMode", "d1/d51/a21035.html#ab6cf2f709b4888b1b4e17c6022d7091f", null ],
+    [ "JustDied", "d1/d51/a21035.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "JustEngagedWith", "d1/d51/a21035.html#a2853d557da48decede7baa4845f5573f", null ],
+    [ "JustSummoned", "d1/d51/a21035.html#ac61c732b17b39bdbedf18742b8403c5d", null ],
+    [ "KilledUnit", "d1/d51/a21035.html#af82c5edf85466d9dd5e1dee666231687", null ],
+    [ "Reset", "d1/d51/a21035.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "SpawnFirstWave", "d1/d51/a21035.html#af65d4bfff98b239f96e50c868b90e08a", null ],
+    [ "UpdateAI", "d1/d51/a21035.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "_encounterStarted", "d1/d51/a21035.html#a37c907c5136097497bcb30da4c70d121", null ],
+    [ "_events", "d1/d51/a21035.html#af7fbc8d2c28052f43463897bcb846b25", null ],
+    [ "_firstWaveSummoned", "d1/d51/a21035.html#a1af2048d0d48e8670cdb4957e191f172", null ],
+    [ "_instance", "d1/d51/a21035.html#a34a422dcee2353a888deaac3bab983a4", null ],
+    [ "_phase", "d1/d51/a21035.html#a64808a1b0cee00069a69c050eeb0240e", null ],
+    [ "_summons", "d1/d51/a21035.html#ae02eac33cf9fa64a2d2e20b5e4d8a591", null ]
 ];

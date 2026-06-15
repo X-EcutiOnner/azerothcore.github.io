@@ -1,7 +1,6 @@
 var a23147 =
 [
-    [ "HandleScript", "de/dc6/a23147.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "de/dc6/a23147.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "de/dc6/a23147.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "de/dc6/a23147.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d0/d68/a23151.html", "d0/d68/a23151" ],
+    [ "instance_steam_vault", "de/dc6/a23147.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "de/dc6/a23147.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

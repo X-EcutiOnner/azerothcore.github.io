@@ -1,7 +1,14 @@
 var a19643 =
 [
-    [ "HandleProc", "dc/d73/a19643.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "dc/d73/a19643.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "dc/d73/a19643.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "dc/d73/a19643.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "boss_keristrasza", "dc/d73/a19643.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "dc/d73/a19643.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "dc/d73/a19643.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "dc/d73/a19643.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "dc/d73/a19643.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "dc/d73/a19643.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "dc/d73/a19643.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "dc/d73/a19643.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "dc/d73/a19643.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "dc/d73/a19643.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "dc/d73/a19643.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

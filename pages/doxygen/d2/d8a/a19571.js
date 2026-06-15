@@ -1,13 +1,10 @@
 var a19571 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d2/d8a/a19571.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
-    [ "AttackStart", "d2/d8a/a19571.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
-    [ "MoveInLineOfSight", "d2/d8a/a19571.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
-    [ "MovementInform", "d2/d8a/a19571.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
-    [ "PickNewLocation", "d2/d8a/a19571.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
-    [ "Reset", "d2/d8a/a19571.html#ac2e391d0149b62823ac9074d45c694cf", null ],
-    [ "UpdateAI", "d2/d8a/a19571.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
-    [ "gonext", "d2/d8a/a19571.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
-    [ "located", "d2/d8a/a19571.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
-    [ "timer", "d2/d8a/a19571.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
+    [ "npc_power_spark", "d2/d8a/a19571.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d2/d8a/a19571.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d2/d8a/a19571.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d2/d8a/a19571.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d2/d8a/a19571.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d2/d8a/a19571.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d2/d8a/a19571.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

@@ -1,6 +1,6 @@
 var a09395 =
 [
-    [ "flags", "dc/d25/a09395.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "dc/d25/a09395.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "dc/d25/a09395.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "lang_id", "dc/d25/a09395.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "dc/d25/a09395.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "dc/d25/a09395.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

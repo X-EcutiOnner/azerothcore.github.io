@@ -1,7 +1,8 @@
 var a17991 =
 [
-    [ "OnPeriodic", "d0/d43/a17991.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d0/d43/a17991.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d0/d43/a17991.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d0/d43/a17991.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "Load", "d0/d43/a17991.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d0/d43/a17991.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d0/d43/a17991.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d0/d43/a17991.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d0/d43/a17991.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

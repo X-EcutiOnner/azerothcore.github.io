@@ -1,10 +1,8 @@
 var a09655 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "dd/d31/a09655.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "dd/d31/a09655.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "dd/d31/a09655.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "dd/d31/a09655.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "dd/d31/a09655.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "dd/d31/a09655.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "dd/d31/a09655.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "RespawnDo", "dd/d31/a09655.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
+    [ "operator()", "dd/d31/a09655.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
+    [ "operator()", "dd/d31/a09655.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
+    [ "operator()", "dd/d31/a09655.html#a66335f45bb1f3c770887b263e9d84236", null ],
+    [ "operator()", "dd/d31/a09655.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
 ];

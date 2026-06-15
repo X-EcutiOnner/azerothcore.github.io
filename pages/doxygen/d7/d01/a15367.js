@@ -1,7 +1,6 @@
 var a15367 =
 [
-    [ "npc_hivezara_stinger", "d7/d01/a15367.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d7/d01/a15367.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d7/d01/a15367.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d7/d01/a15367.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d9/de5/a15371.html", "d9/de5/a15371" ],
+    [ "instance_razorfen_downs", "d7/d01/a15367.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
+    [ "GetInstanceScript", "d7/d01/a15367.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
 ];

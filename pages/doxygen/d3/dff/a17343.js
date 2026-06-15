@@ -1,6 +1,6 @@
 var a17343 =
 [
-    [ "HandleDummy", "d3/dff/a17343.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d3/dff/a17343.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d3/dff/a17343.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "boss_ickAI", "d7/d85/a17347.html", "d7/d85/a17347" ],
+    [ "boss_ick", "d3/dff/a17343.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d3/dff/a17343.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

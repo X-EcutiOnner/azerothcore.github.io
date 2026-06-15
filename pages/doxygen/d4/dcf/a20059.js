@@ -1,5 +1,7 @@
 var a20059 =
 [
-    [ "achievement_flame_leviathan_shutout", "d4/dcf/a20059.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d4/dcf/a20059.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "npc_auriaya_sanctum_sentry", "d4/dcf/a20059.html#ae5ed159c476c8b4569de7e2730edf447", null ],
+    [ "JustEngagedWith", "d4/dcf/a20059.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
+    [ "Reset", "d4/dcf/a20059.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
+    [ "UpdateAI", "d4/dcf/a20059.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
 ];

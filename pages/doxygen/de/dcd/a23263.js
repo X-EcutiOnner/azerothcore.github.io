@@ -1,12 +1,10 @@
 var a23263 =
 [
-    [ "boss_omor_the_unscarred", "de/dcd/a23263.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "de/dcd/a23263.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "de/dcd/a23263.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "de/dcd/a23263.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "de/dcd/a23263.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "de/dcd/a23263.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "de/dcd/a23263.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "de/dcd/a23263.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "de/dcd/a23263.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_blindeye_the_seer", "de/dcd/a23263.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "de/dcd/a23263.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "de/dcd/a23263.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "de/dcd/a23263.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "de/dcd/a23263.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "de/dcd/a23263.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "de/dcd/a23263.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

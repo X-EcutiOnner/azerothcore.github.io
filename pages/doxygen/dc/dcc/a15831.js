@@ -1,11 +1,9 @@
 var a15831 =
 [
-    [ "npc_thrall_warchiefAI", "dc/dcc/a15831.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "dc/dcc/a15831.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustDied", "dc/dcc/a15831.html#a5e6da0a5f5190d7959faff60851e679a", null ],
-    [ "JustEngagedWith", "dc/dcc/a15831.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "dc/dcc/a15831.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "dc/dcc/a15831.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "dc/dcc/a15831.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "dc/dcc/a15831.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_prospector_remtravelAI", "dc/dcc/a15831.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "dc/dcc/a15831.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "dc/dcc/a15831.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "dc/dcc/a15831.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "dc/dcc/a15831.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "dc/dcc/a15831.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

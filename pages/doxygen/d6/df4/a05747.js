@@ -1,21 +1,10 @@
 var a05747 =
 [
-    [ "EventProcessor", "d6/df4/a05747.html#a5c430ef08365f5eeca0f3321991bfaac", null ],
-    [ "~EventProcessor", "d6/df4/a05747.html#af30a066c911c3841d35854c900743b9e", null ],
-    [ "AddEvent", "d6/df4/a05747.html#afd92abbbf10158540614eb615f7f2e2b", null ],
-    [ "AddEvent", "d6/df4/a05747.html#a3ed0b93d52ff192098983a3e6a9c5acd", null ],
-    [ "AddEventAtOffset", "d6/df4/a05747.html#a9f961ef09108513fd1ea06cf756744d3", null ],
-    [ "AddEventAtOffset", "d6/df4/a05747.html#a1da0c3001bd6009d6bac25a969ed7196", null ],
-    [ "AddEventAtOffset", "d6/df4/a05747.html#a1f1251ae4804bb53d8d7244d74ca6591", null ],
-    [ "AddEventAtOffset", "d6/df4/a05747.html#a25566439bbb1d9de555e20380184b38f", null ],
-    [ "CalculateQueueTime", "d6/df4/a05747.html#a2db97870b30361980b2d72ef806de951", null ],
-    [ "CalculateTime", "d6/df4/a05747.html#a1a92f983f1dd415146c2875f80cba433", null ],
-    [ "CancelEventGroup", "d6/df4/a05747.html#a29651ba6704e7908820af60ec37a2478", null ],
-    [ "HasEvents", "d6/df4/a05747.html#a5f09366ac8e595f24b0c095f4127b9e7", null ],
-    [ "KillAllEvents", "d6/df4/a05747.html#a15a65ecc2391f505266176cfc7f29c39", null ],
-    [ "ModifyEventTime", "d6/df4/a05747.html#ad54487e1753d8ce12bdddb1358ddb0cc", null ],
-    [ "Update", "d6/df4/a05747.html#a72fe67593c7684a55d27fb225ea51d05", null ],
-    [ "m_aborting", "d6/df4/a05747.html#a7a1beec186648c90c112ead3cc5df064", null ],
-    [ "m_events", "d6/df4/a05747.html#a168a435c77de52a151c735d3f004dbb9", null ],
-    [ "m_time", "d6/df4/a05747.html#a829eb8c07982b66e98c0ca118b54aaef", null ]
+    [ "AsyncCallbackProcessor", "d6/df4/a05747.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "d6/df4/a05747.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "d6/df4/a05747.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "d6/df4/a05747.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "d6/df4/a05747.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "d6/df4/a05747.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "d6/df4/a05747.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

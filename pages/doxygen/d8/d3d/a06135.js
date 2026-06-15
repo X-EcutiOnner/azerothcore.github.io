@@ -1,11 +1,7 @@
 var a06135 =
 [
-    [ "SQLOperation", "d8/d3d/a06135.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d8/d3d/a06135.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d8/d3d/a06135.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d8/d3d/a06135.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d8/d3d/a06135.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d8/d3d/a06135.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d8/d3d/a06135.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d8/d3d/a06135.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "ToString", "d8/d3d/a06135.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "d8/d3d/a06135.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "d8/d3d/a06135.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "d8/d3d/a06135.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

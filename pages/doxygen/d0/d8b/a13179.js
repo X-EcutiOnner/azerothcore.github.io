@@ -1,5 +1,5 @@
 var a13179 =
 [
-    [ "boss_zelfan", "d0/d8b/a13179.html#a169e72dfe50c5199bf0053828888095b", null ],
-    [ "JustEngagedWith", "d0/d8b/a13179.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
+    [ "PrepareSpellScript", "d0/d8b/a13179.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d0/d8b/a13179.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

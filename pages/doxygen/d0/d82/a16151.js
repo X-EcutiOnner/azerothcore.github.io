@@ -1,18 +1,12 @@
 var a16151 =
 [
-    [ "boss_taldaram", "d0/d82/a16151.html#a6438d3534aca5e4a92afb3e6c6e24f73", null ],
-    [ "DamageTaken", "d0/d82/a16151.html#a2252fef717c2da047dc2d823e70660c0", null ],
-    [ "DoAction", "d0/d82/a16151.html#aee1cf0553e8c7ebebea4a83f2d7e6d5d", null ],
-    [ "InitializeAI", "d0/d82/a16151.html#a3d5b4628d6fb2db91ed073b042eefdc4", null ],
-    [ "JustDied", "d0/d82/a16151.html#a4b6c0f51fd3a2a8c00ef095eeeea785d", null ],
-    [ "JustEngagedWith", "d0/d82/a16151.html#a07e1cb5b53906f92a1f485340aa004e5", null ],
-    [ "JustSummoned", "d0/d82/a16151.html#a5ae9201a71fa665908f924647b262825", null ],
-    [ "KilledUnit", "d0/d82/a16151.html#a8fe516a08547ec03e8114b07e9c87d1f", null ],
-    [ "MovementInform", "d0/d82/a16151.html#a17ca98f742a06b1496b2216e984811d8", null ],
-    [ "OnAuraRemove", "d0/d82/a16151.html#ab8c64f75675db04f9ed8a37939e882e4", null ],
-    [ "Reset", "d0/d82/a16151.html#ae26fec572206d2f1f9acc229ee797496", null ],
-    [ "ScheduleCombatEvents", "d0/d82/a16151.html#a247e5357fcdf8da8e00bef09f3568ca3", null ],
-    [ "SpellHitTarget", "d0/d82/a16151.html#a0f228ea10a538a9ecf70b9f54d399150", null ],
-    [ "vanishDamage", "d0/d82/a16151.html#a85d8c95320e6f1f486a39043218f0350", null ],
-    [ "victimSperePos", "d0/d82/a16151.html#a06efb376b0d08207a0efce74770f21dc", null ]
+    [ "DialogueHelper", "d0/d82/a16151.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d0/d82/a16151.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d0/d82/a16151.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d0/d82/a16151.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d0/d82/a16151.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d0/d82/a16151.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d0/d82/a16151.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d0/d82/a16151.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d0/d82/a16151.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

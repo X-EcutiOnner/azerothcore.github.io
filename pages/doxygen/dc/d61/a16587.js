@@ -1,8 +1,7 @@
 var a16587 =
 [
-    [ "npc_toc5_player_vehicleAI", "dc/d61/a16587.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "dc/d61/a16587.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "dc/d61/a16587.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "dc/d61/a16587.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "dc/d61/a16587.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "HandleDummy", "dc/d61/a16587.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "dc/d61/a16587.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "dc/d61/a16587.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "dc/d61/a16587.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

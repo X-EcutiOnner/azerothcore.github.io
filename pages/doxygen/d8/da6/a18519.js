@@ -1,8 +1,6 @@
 var a18519 =
 [
-    [ "ChangeDamageAndGrow", "d8/da6/a18519.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "d8/da6/a18519.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "d8/da6/a18519.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "d8/da6/a18519.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "d8/da6/a18519.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "DefileTargetSelector", "d8/da6/a18519.html#a9c13a04378d6550dd135d2cb41c9bc1c", null ],
+    [ "operator()", "d8/da6/a18519.html#a2ffea7bb2c62e0fa069e3d1ffec3ab11", null ],
+    [ "_source", "d8/da6/a18519.html#a427b4304b5a93f26741eda90d20ff13b", null ]
 ];

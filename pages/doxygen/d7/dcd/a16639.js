@@ -1,12 +1,6 @@
 var a16639 =
 [
-    [ "npc_swarm_scarabAI", "d7/dcd/a16639.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "d7/dcd/a16639.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "d7/dcd/a16639.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "d7/dcd/a16639.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "d7/dcd/a16639.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "d7/dcd/a16639.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "d7/dcd/a16639.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "d7/dcd/a16639.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "d7/dcd/a16639.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "boss_paletressAI", "d6/dd9/a16643.html", "d6/dd9/a16643" ],
+    [ "boss_paletress", "d7/dcd/a16639.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "d7/dcd/a16639.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

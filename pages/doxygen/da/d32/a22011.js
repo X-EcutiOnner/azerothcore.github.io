@@ -1,6 +1,11 @@
 var a22011 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d9/dc6/a22015.html", "d9/dc6/a22015" ],
-    [ "npc_vehicle_d16_propelled_delivery", "da/d32/a22011.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "da/d32/a22011.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_iron_watcherAI", "da/d32/a22011.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "da/d32/a22011.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "da/d32/a22011.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "da/d32/a22011.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "da/d32/a22011.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "da/d32/a22011.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "da/d32/a22011.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "da/d32/a22011.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

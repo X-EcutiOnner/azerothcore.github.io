@@ -1,5 +1,7 @@
 var a20247 =
 [
-    [ "achievement_i_have_the_coolest_friends", "dc/d4b/a20247.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "dc/d4b/a20247.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_ulduar_saronite_vapors", "dc/d4b/a20247.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "IsSummonedBy", "dc/d4b/a20247.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "dc/d4b/a20247.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "dc/d4b/a20247.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

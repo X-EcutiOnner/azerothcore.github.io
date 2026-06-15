@@ -1,7 +1,9 @@
 var a08647 =
 [
-    [ "SetRuneState", "d4/da7/a08647.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "d4/da7/a08647.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "d4/da7/a08647.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "d4/da7/a08647.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "artKits", "d4/da7/a08647.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "d4/da7/a08647.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "d4/da7/a08647.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "d4/da7/a08647.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "d4/da7/a08647.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "d4/da7/a08647.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

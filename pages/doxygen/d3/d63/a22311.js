@@ -1,12 +1,17 @@
 var a22311 =
 [
-    [ "npc_stolen_soul", "d3/d63/a22311.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "d3/d63/a22311.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "JustDied", "d3/d63/a22311.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
-    [ "Reset", "d3/d63/a22311.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "SetGUID", "d3/d63/a22311.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
-    [ "UpdateAI", "d3/d63/a22311.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_myClass", "d3/d63/a22311.html#ade19b9cb41a674f6bd049a621970aeff", null ],
-    [ "_scheduler", "d3/d63/a22311.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "_targetGuid", "d3/d63/a22311.html#a6efbe90928119902e4b5a7148b12cfac", null ]
+    [ "OutdoorPvPSI", "d3/d63/a22311.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d3/d63/a22311.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d3/d63/a22311.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d3/d63/a22311.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d3/d63/a22311.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d3/d63/a22311.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d3/d63/a22311.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d3/d63/a22311.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d3/d63/a22311.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d3/d63/a22311.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d3/d63/a22311.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d3/d63/a22311.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d3/d63/a22311.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d3/d63/a22311.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

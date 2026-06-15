@@ -1,7 +1,9 @@
 var a07567 =
 [
-    [ "BattlegroundObjectInfo", "db/d1c/a07567.html#a848f2b15f47ceeb91c40e916d5659486", null ],
-    [ "object", "db/d1c/a07567.html#a6722b83d6969c1a34b4846f19865075a", null ],
-    [ "spellid", "db/d1c/a07567.html#ae0233a1078bc735e40855ea7608f5f11", null ],
-    [ "timer", "db/d1c/a07567.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
+    [ "ArenaScore", "db/d1c/a07567.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "db/d1c/a07567.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "db/d1c/a07567.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "db/d1c/a07567.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
+    [ "Arena", "db/d1c/a07567.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "PvPTeamId", "db/d1c/a07567.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

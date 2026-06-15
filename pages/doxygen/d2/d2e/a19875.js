@@ -1,6 +1,11 @@
 var a19875 =
 [
-    [ "PrepareSpellScript", "d2/d2e/a19875.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d2/d2e/a19875.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d2/d2e/a19875.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "boss_maiden_of_griefAI", "d2/d2e/a19875.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d2/d2e/a19875.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d2/d2e/a19875.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d2/d2e/a19875.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d2/d2e/a19875.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d2/d2e/a19875.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d2/d2e/a19875.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d2/d2e/a19875.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

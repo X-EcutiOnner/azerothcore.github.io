@@ -1,10 +1,8 @@
 var a08859 =
 [
-    [ "EquipmentSet", "d3/d9e/a08859.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "d3/d9e/a08859.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "d3/d9e/a08859.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "d3/d9e/a08859.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "d3/d9e/a08859.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "d3/d9e/a08859.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "d3/d9e/a08859.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "IsInSpec", "d3/d9e/a08859.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d3/d9e/a08859.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d3/d9e/a08859.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d3/d9e/a08859.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d3/d9e/a08859.html#aca9b191361652002f5178179a939e41b", null ]
 ];

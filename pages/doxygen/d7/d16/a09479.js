@@ -1,13 +1,12 @@
 var a09479 =
 [
-    [ "MessageDistDelivererToHostile", "d7/d16/a09479.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d7/d16/a09479.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d7/d16/a09479.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d7/d16/a09479.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d7/d16/a09479.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d7/d16/a09479.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d7/d16/a09479.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d7/d16/a09479.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d7/d16/a09479.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d7/d16/a09479.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "flags", "d7/d16/a09479.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
+    [ "fourcc", "d7/d16/a09479.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
+    [ "height", "d7/d16/a09479.html#ab064dde684394c3aa84f9b151749d524", null ],
+    [ "liquidFlags", "d7/d16/a09479.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
+    [ "liquidLevel", "d7/d16/a09479.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
+    [ "liquidType", "d7/d16/a09479.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
+    [ "offsetX", "d7/d16/a09479.html#a2ddee980eda8b7321b55ba44697688b5", null ],
+    [ "offsetY", "d7/d16/a09479.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
+    [ "width", "d7/d16/a09479.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
 ];

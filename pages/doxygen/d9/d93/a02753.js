@@ -1,5 +1,6 @@
 var a02753 =
 [
-    [ "_ModifyUInt32", "d9/d93/a02753.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
-    [ "m_diminishing_k", "d9/d93/a02753.html#a826ceb2644eb2661137e2983dd779164", null ]
+    [ "AddItemsSetItem", "d9/d93/a02753.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "d9/d93/a02753.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "d9/d93/a02753.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

@@ -1,7 +1,6 @@
 var a14811 =
 [
-    [ "HandleDummy", "de/d06/a14811.html#a05c3589ee04eed87449f652db065f0e9", null ],
-    [ "PrepareSpellScript", "de/d06/a14811.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
-    [ "Register", "de/d06/a14811.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
-    [ "Validate", "de/d06/a14811.html#a5fc6dae87ffb634cc0de389196751b22", null ]
+    [ "HandleScript", "de/d06/a14811.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "de/d06/a14811.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "de/d06/a14811.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

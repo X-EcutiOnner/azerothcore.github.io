@@ -1,16 +1,20 @@
 var a23383 =
 [
-    [ "boss_warchief_kargath_bladefist", "d2/d4f/a23383.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "d2/d4f/a23383.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "d2/d4f/a23383.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "d2/d4f/a23383.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "d2/d4f/a23383.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "d2/d4f/a23383.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "d2/d4f/a23383.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "d2/d4f/a23383.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "d2/d4f/a23383.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "d2/d4f/a23383.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "d2/d4f/a23383.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "d2/d4f/a23383.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "d2/d4f/a23383.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d2/d4f/a23383.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d2/d4f/a23383.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "IsAnyChannelerAlive", "d2/d4f/a23383.html#a6cfc7ec365ab5c5d8ec9d257bca59a48", null ],
+    [ "OnCreatureCreate", "d2/d4f/a23383.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureEvade", "d2/d4f/a23383.html#a3a757de295ca8b11d3bdf5452a859489", null ],
+    [ "OnCreatureRemove", "d2/d4f/a23383.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d2/d4f/a23383.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d2/d4f/a23383.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "OnUnitDeath", "d2/d4f/a23383.html#a9c5e797960f924ddb60d0730ebd2463c", null ],
+    [ "SetBossState", "d2/d4f/a23383.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d2/d4f/a23383.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_burningAbyssalsSet", "d2/d4f/a23383.html#a9b616072e8775a10db1c10d0438eb19a", null ],
+    [ "_channelersSet", "d2/d4f/a23383.html#a7921231ff7314d1370dffc63e1815e16", null ],
+    [ "_columnSet", "d2/d4f/a23383.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d2/d4f/a23383.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d2/d4f/a23383.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d2/d4f/a23383.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

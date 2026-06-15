@@ -1,6 +1,7 @@
 var a16559 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d0/def/a16563.html", "d0/def/a16563" ],
-    [ "npc_black_knight_skeletal_gryphon", "df/d68/a16559.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
-    [ "GetAI", "df/d68/a16559.html#aad244f95877a208b56a2b6544984d724", null ]
+    [ "OnApply", "df/d68/a16559.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "df/d68/a16559.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "df/d68/a16559.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "df/d68/a16559.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

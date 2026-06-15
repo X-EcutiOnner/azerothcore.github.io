@@ -1,6 +1,8 @@
 var a22415 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d95/a22419.html", "d0/d95/a22419" ],
-    [ "instance_shadow_labyrinth", "d0/dc7/a22415.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d0/dc7/a22415.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "FilterTargets", "d0/dc7/a22415.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "d0/dc7/a22415.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "d0/dc7/a22415.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "d0/dc7/a22415.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "d0/dc7/a22415.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

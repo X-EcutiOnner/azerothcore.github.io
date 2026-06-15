@@ -1,6 +1,6 @@
 var a14687 =
 [
-    [ "npc_soh_fire_trigger", "db/da4/a14687.html#a8bddde264f4848c9a8ed83dcad190223", null ],
-    [ "Reset", "db/da4/a14687.html#acbec442907a8b40ae04496c53f210aa2", null ],
-    [ "SpellHit", "db/da4/a14687.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
+    [ "go_direbrew_mole_machineAI", "d5/d3a/a14691.html", "d5/d3a/a14691" ],
+    [ "go_direbrew_mole_machine", "db/da4/a14687.html#a759d291a5be227d8beae3bbc779e56f4", null ],
+    [ "GetAI", "db/da4/a14687.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
 ];

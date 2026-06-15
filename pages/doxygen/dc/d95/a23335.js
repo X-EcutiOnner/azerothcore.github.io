@@ -1,6 +1,6 @@
 var a23335 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "dc/d5f/a23339.html", "dc/d5f/a23339" ],
-    [ "instance_magtheridons_lair", "dc/d95/a23335.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "dc/d95/a23335.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "CheckProc", "dc/d95/a23335.html#add583b34b9052fbb37c43c558f0f8b96", null ],
+    [ "PrepareAuraScript", "dc/d95/a23335.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
+    [ "Register", "dc/d95/a23335.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
 ];

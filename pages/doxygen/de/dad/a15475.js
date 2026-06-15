@@ -1,13 +1,12 @@
 var a15475 =
 [
-    [ "boss_sartura", "de/dad/a15475.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "de/dad/a15475.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "de/dad/a15475.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "de/dad/a15475.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "de/dad/a15475.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "de/dad/a15475.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "de/dad/a15475.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "de/dad/a15475.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "de/dad/a15475.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "de/dad/a15475.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "npc_anubisath_guardian", "de/dad/a15475.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
+    [ "DamageTaken", "de/dad/a15475.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
+    [ "JustDied", "de/dad/a15475.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
+    [ "JustEngagedWith", "de/dad/a15475.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
+    [ "Reset", "de/dad/a15475.html#af87cc86141964c48f9c57ed5bade36a5", null ],
+    [ "UpdateAI", "de/dad/a15475.html#a9a9c805c92a3e8e96914d01accb01051", null ],
+    [ "_enraged", "de/dad/a15475.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
+    [ "_scheduler", "de/dad/a15475.html#ad44455c43d53426a152547d5b0770bbe", null ],
+    [ "_spells", "de/dad/a15475.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
 ];

@@ -1,13 +1,7 @@
 var a11911 =
 [
-    [ "PlayerTextBuilder", "d1/d2c/a11911.html#a0740c581636009448fe2c29084db41ae", null ],
-    [ "operator()", "d1/d2c/a11911.html#a64d2905971ecd645e364a774f320a721", null ],
-    [ "_gender", "d1/d2c/a11911.html#aece205d3d523dcf6fefbdd9914943723", null ],
-    [ "_language", "d1/d2c/a11911.html#a934d4a519c2c7b4017805b3bc24a4714", null ],
-    [ "_msgType", "d1/d2c/a11911.html#af546f2788870b8b10b3405695ef81171", null ],
-    [ "_source", "d1/d2c/a11911.html#a9fe9f865b0ba84b5497e63947893533e", null ],
-    [ "_talker", "d1/d2c/a11911.html#a8a8cd00cc76e048500800938a773aa06", null ],
-    [ "_target", "d1/d2c/a11911.html#ac97cf187d079c5162e47bebb7024faa5", null ],
-    [ "_textGroup", "d1/d2c/a11911.html#ab44fe12e73da36acb1199987e8573467", null ],
-    [ "_textId", "d1/d2c/a11911.html#a17b33a9a05a77722219a85a71f3bbc5e", null ]
+    [ "CategoryRecoveryTime", "d1/d2c/a11911.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "d1/d2c/a11911.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "d1/d2c/a11911.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "d1/d2c/a11911.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

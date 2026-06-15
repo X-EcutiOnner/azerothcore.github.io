@@ -1,6 +1,7 @@
 var a18371 =
 [
-    [ "HandleScript", "d3/dad/a18371.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "d3/dad/a18371.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "d3/dad/a18371.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "IceTombSummonEvent", "d3/dad/a18371.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d3/dad/a18371.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d3/dad/a18371.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d3/dad/a18371.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

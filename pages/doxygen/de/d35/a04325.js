@@ -1,12 +1,19 @@
 var a04325 =
 [
-    [ "instance_magisters_terrace", "db/d70/a13254.html", "db/d70/a13254" ],
-    [ "instance_magisters_terrace::instance_magisters_terrace_InstanceMapScript", "d7/d7b/a13258.html", "d7/d7b/a13258" ],
-    [ "AddSC_instance_magisters_terrace", "de/d35/a04325.html#a39e3bff767d59081afebb72eeb3a1646", null ],
-    [ "boundaries", "de/d35/a04325.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "de/d35/a04325.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "de/d35/a04325.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameobjectData", "de/d35/a04325.html#a845a92716bd40c99a93eb0715cd737b0", null ],
-    [ "KalecgosSpawnPos", "de/d35/a04325.html#a6fd9df921f79258a02d22baaf7a1caca", null ],
-    [ "summonerData", "de/d35/a04325.html#acefca1a118e299acbb631fc6166a1526", null ]
+    [ "QueryResultFieldMetadata", "d1/de4/a06035.html", "d1/de4/a06035" ],
+    [ "Field", "d1/dd7/a06039.html", "d1/dd7/a06039" ],
+    [ "Binary", "de/d35/a04325.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "de/d35/a04325.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "de/d35/a04325.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    ] ]
 ];

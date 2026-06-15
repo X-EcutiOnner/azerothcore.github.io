@@ -1,6 +1,5 @@
 var a14935 =
 [
-    [ "HandleHit", "db/d11/a14935.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "db/d11/a14935.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "db/d11/a14935.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "PrepareSpellScript", "db/d11/a14935.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
+    [ "Register", "db/d11/a14935.html#a06111bf70ee53fee6e90284f8d92642e", null ]
 ];

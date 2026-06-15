@@ -1,9 +1,5 @@
 var a08087 =
 [
-    [ "HyperlinkColor", "d0/df3/a08087.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
-    [ "operator==", "d0/df3/a08087.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
-    [ "a", "d0/df3/a08087.html#a57d68da0bcaec609d89efb18185b7f03", null ],
-    [ "b", "d0/df3/a08087.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
-    [ "g", "d0/df3/a08087.html#a4570365880f14c7f7c5e7d96332ae150", null ],
-    [ "r", "d0/df3/a08087.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
+    [ "IsColorValid", "d0/df3/a08087.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d0/df3/a08087.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

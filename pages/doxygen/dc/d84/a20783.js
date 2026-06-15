@@ -1,13 +1,11 @@
 var a20783 =
 [
-    [ "npc_ulduar_arachnopod_destroyer", "dc/d84/a20783.html#a13422abe59c4aa11bee16225d689c054", null ],
-    [ "AttackStart", "dc/d84/a20783.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
-    [ "DamageTaken", "dc/d84/a20783.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
-    [ "EnterEvadeMode", "dc/d84/a20783.html#acb089a5226af27005ac2356e84e976aa", null ],
-    [ "OnCharmed", "dc/d84/a20783.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
-    [ "PassengerBoarded", "dc/d84/a20783.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
-    [ "Reset", "dc/d84/a20783.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
-    [ "UpdateAI", "dc/d84/a20783.html#a87d4086066ac53697793152fdcebf841", null ],
-    [ "_spawnedMechanic", "dc/d84/a20783.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
-    [ "events", "dc/d84/a20783.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
+    [ "boss_yoggsaron_lich_king", "dc/d84/a20783.html#a3c20d6227f0f13d46b9841369d55a43e", null ],
+    [ "NextStep", "dc/d84/a20783.html#aec4b71c80d6793443145ebe3d1094d1b", null ],
+    [ "Reset", "dc/d84/a20783.html#a4210fa70a3c22efa213cb6e6b6cd7d24", null ],
+    [ "Say", "dc/d84/a20783.html#ac7687fe1253701c702cf2c17986727ec", null ],
+    [ "UpdateAI", "dc/d84/a20783.html#a79a25a561dc2b19cdf18aa105a50ecd9", null ],
+    [ "_checkTimer", "dc/d84/a20783.html#a196ffc443569494bed79f623dd9cdca3", null ],
+    [ "_running", "dc/d84/a20783.html#aae9e4b456b2bca4a9b43b98419ec60e0", null ],
+    [ "_step", "dc/d84/a20783.html#a97244534b8c6a69807388b620df2263f", null ]
 ];

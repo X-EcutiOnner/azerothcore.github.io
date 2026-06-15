@@ -1,7 +1,8 @@
 var a07443 =
 [
-    [ "BfGraveyardWG", "de/d55/a07443.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "de/d55/a07443.html#a618b778d8bed11627150a88e2f4e349b", null ],
-    [ "SetTextId", "de/d55/a07443.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "GossipTextId", "de/d55/a07443.html#af197f40de908ed650229bbf033836778", null ]
+    [ "faction", "de/d55/a07443.html#acb80e9b49dda9771679b871cf862d876", null ],
+    [ "loc_idx", "de/d55/a07443.html#ac88c2c37d92c9e4a8502a870a580fa01", null ],
+    [ "locdbc_idx", "de/d55/a07443.html#a572c98b3437aff883f68d0eea4b26eb6", null ],
+    [ "playerGuid", "de/d55/a07443.html#a6aaee409b729275b9089d7db5145ba58", null ],
+    [ "usablePlayerInfo", "de/d55/a07443.html#a0a2be15a1a7c4d84fe53930c15571157", null ]
 ];

@@ -1,7 +1,5 @@
 var a04493 =
 [
-    [ "VMAP::GroupLocationInfo", "d5/de0/a05280.html", "d5/de0/a05280" ],
-    [ "VMAP::LocationInfo", "da/d75/a05284.html", "da/d75/a05284" ],
-    [ "VMAP::StaticMapTree", "d0/d11/a05288.html", "d0/d11/a05288" ],
-    [ "VMAP::AreaInfo", "dc/d2f/a05292.html", "dc/d2f/a05292" ]
+    [ "WorldModelStore", "d1/dad/a05267.html", "d1/dad/a05267" ],
+    [ "sWorldModelStore", "d7/df7/a04493.html#ac34a0ffef200907436157f7ccb40be46", null ]
 ];

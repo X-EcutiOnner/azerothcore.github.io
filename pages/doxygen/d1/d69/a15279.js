@@ -1,7 +1,10 @@
 var a15279 =
 [
-    [ "HandleScript", "d1/d69/a15279.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "d1/d69/a15279.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "d1/d69/a15279.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "d1/d69/a15279.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "boss_aeonus", "d1/d69/a15279.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d1/d69/a15279.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d1/d69/a15279.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d1/d69/a15279.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d1/d69/a15279.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d1/d69/a15279.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d1/d69/a15279.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

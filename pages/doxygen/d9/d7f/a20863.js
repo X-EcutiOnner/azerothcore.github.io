@@ -1,6 +1,6 @@
 var a20863 =
 [
-    [ "npc_massive_jormungarAI", "d3/d36/a20867.html", "d3/d36/a20867" ],
-    [ "npc_massive_jormungar", "d9/d7f/a20863.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d9/d7f/a20863.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "HandleScript", "d9/d7f/a20863.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d9/d7f/a20863.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d9/d7f/a20863.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

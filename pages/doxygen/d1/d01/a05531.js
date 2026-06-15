@@ -1,15 +1,15 @@
 var a05531 =
 [
-    [ "EnumFlag", "d1/d01/a05531.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
-    [ "AsUnderlyingType", "d1/d01/a05531.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
-    [ "HasAllFlags", "d1/d01/a05531.html#adb5b65ab4a3d827882634d94774a912b", null ],
-    [ "HasFlag", "d1/d01/a05531.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
-    [ "operator T", "d1/d01/a05531.html#a13022712c9634c84907b906e55aebe28", null ],
-    [ "operator&=", "d1/d01/a05531.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
-    [ "operator|=", "d1/d01/a05531.html#ab49498ed668ee324702c4beadf4de999", null ],
-    [ "operator~", "d1/d01/a05531.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
-    [ "RemoveFlag", "d1/d01/a05531.html#a106a00ee4112382aa0120489551bf50a", null ],
-    [ "operator&", "d1/d01/a05531.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
-    [ "operator|", "d1/d01/a05531.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
-    [ "_value", "d1/d01/a05531.html#a55353d720942d68d0dea86837aaca7c5", null ]
+    [ "iterator", "d1/d01/a05531.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
+    [ "RefMgr", "d1/d01/a05531.html#a72110d71a275f564d31d2e6c84c331c3", null ],
+    [ "~RefMgr", "d1/d01/a05531.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
+    [ "begin", "d1/d01/a05531.html#aacaf11c49931c87bd52b8382065447d3", null ],
+    [ "clearReferences", "d1/d01/a05531.html#a912750f6257a33cd1f85079448b45928", null ],
+    [ "end", "d1/d01/a05531.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
+    [ "getFirst", "d1/d01/a05531.html#a67de35d375c34c38db2b87481a141ebf", null ],
+    [ "getFirst", "d1/d01/a05531.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
+    [ "getLast", "d1/d01/a05531.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
+    [ "getLast", "d1/d01/a05531.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
+    [ "rbegin", "d1/d01/a05531.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
+    [ "rend", "d1/d01/a05531.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
 ];

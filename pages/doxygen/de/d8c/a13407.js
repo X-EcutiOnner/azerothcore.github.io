@@ -1,6 +1,6 @@
 var a13407 =
 [
-    [ "npc_scholomance_occultistAI", "d2/d5d/a13411.html", "d2/d5d/a13411" ],
-    [ "npc_scholomance_occultist", "de/d8c/a13407.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "de/d8c/a13407.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "HandleScriptEffect", "de/d8c/a13407.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "de/d8c/a13407.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "de/d8c/a13407.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

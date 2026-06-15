@@ -1,6 +1,13 @@
 var a21175 =
 [
-    [ "npc_azure_mage_slayerAI", "d3/d9e/a21179.html", "d3/d9e/a21179" ],
-    [ "npc_azure_mage_slayer", "d6/d04/a21175.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d6/d04/a21175.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "boss_toravonAI", "d6/d04/a21175.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d6/d04/a21175.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d6/d04/a21175.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d6/d04/a21175.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d6/d04/a21175.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d6/d04/a21175.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d6/d04/a21175.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d6/d04/a21175.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d6/d04/a21175.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d6/d04/a21175.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

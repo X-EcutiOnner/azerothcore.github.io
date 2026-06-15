@@ -1,10 +1,7 @@
 var a10859 =
 [
-    [ "EnvironmentalDamageLog", "df/d28/a10859.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "df/d28/a10859.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "df/d28/a10859.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "df/d28/a10859.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "df/d28/a10859.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "df/d28/a10859.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "df/d28/a10859.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "AutoStoreBankItem", "df/d28/a10859.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
+    [ "Read", "df/d28/a10859.html#a2a482b716f537866a815085ead9cfd38", null ],
+    [ "Bag", "df/d28/a10859.html#a08d2992816ee94b6757c2811b54ed437", null ],
+    [ "Slot", "df/d28/a10859.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
 ];

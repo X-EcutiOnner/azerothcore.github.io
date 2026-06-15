@@ -1,6 +1,5 @@
 var a20051 =
 [
-    [ "CheckCast", "de/d34/a20051.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "de/d34/a20051.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "de/d34/a20051.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "achievement_cant_do_that_while_stunned", "de/d34/a20051.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "de/d34/a20051.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

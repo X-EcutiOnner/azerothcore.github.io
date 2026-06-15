@@ -1,7 +1,6 @@
 var a14455 =
 [
-    [ "FilterTargets", "db/d57/a14455.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "db/d57/a14455.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "db/d57/a14455.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "db/d57/a14455.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "FilterTargets", "db/d57/a14455.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "db/d57/a14455.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "db/d57/a14455.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

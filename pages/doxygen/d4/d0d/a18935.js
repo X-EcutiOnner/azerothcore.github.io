@@ -1,7 +1,6 @@
 var a18935 =
 [
-    [ "Land", "d4/d0d/a18935.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
-    [ "PrepareSpellScript", "d4/d0d/a18935.html#a31e45adb87719c311fb5b94b2b744487", null ],
-    [ "Register", "d4/d0d/a18935.html#a652eca6ec8079b2835d911807857c8a8", null ],
-    [ "RemoveAliveTarget", "d4/d0d/a18935.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
+    [ "npc_highlord_tirion_fordringAI", "d1/de6/a18939.html", "d1/de6/a18939" ],
+    [ "npc_highlord_tirion_fordring_lh", "d4/d0d/a18935.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d4/d0d/a18935.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

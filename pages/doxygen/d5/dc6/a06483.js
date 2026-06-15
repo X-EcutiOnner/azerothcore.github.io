@@ -1,13 +1,10 @@
 var a06483 =
 [
-    [ "HealthCheckEventData", "d5/dc6/a06483.html#a2610f9688b27212eb3470f55718c61f0", null ],
-    [ "GetDelay", "d5/dc6/a06483.html#a9bab6c9834517c4260f814f258d52d5c", null ],
-    [ "HasBeenProcessed", "d5/dc6/a06483.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
-    [ "IsPending", "d5/dc6/a06483.html#a367c865eb488a2a95ce7e98536ccb311", null ],
-    [ "UpdateStatus", "d5/dc6/a06483.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
-    [ "_allowedWhileCasting", "d5/dc6/a06483.html#aff327c455fbd912579725956c99c3a2d", null ],
-    [ "_delay", "d5/dc6/a06483.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
-    [ "_exec", "d5/dc6/a06483.html#a66c38460690d77fb021c91fa676c3a12", null ],
-    [ "_healthPct", "d5/dc6/a06483.html#a420edc39ff982d55ae82207a0cfe7689", null ],
-    [ "_status", "d5/dc6/a06483.html#a787509d0963c134539e4dec7525b5608", null ]
+    [ "PowerUsersSelector", "d5/dc6/a06483.html#aa13229f12601a551a34628b92c0eddf3", null ],
+    [ "operator()", "d5/dc6/a06483.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "d5/dc6/a06483.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "d5/dc6/a06483.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "d5/dc6/a06483.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "d5/dc6/a06483.html#a9a518903606768e505e7230fe9344bbf", null ],
+    [ "_withTank", "d5/dc6/a06483.html#a0b682b6d926ced8eecff642a4bb51756", null ]
 ];

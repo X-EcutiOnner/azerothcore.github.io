@@ -1,10 +1,10 @@
 var a15451 =
 [
-    [ "boss_huhuran", "da/d38/a15451.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "da/d38/a15451.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "da/d38/a15451.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "da/d38/a15451.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "da/d38/a15451.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "da/d38/a15451.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "da/d38/a15451.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "boss_moam", "da/d38/a15451.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "da/d38/a15451.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "da/d38/a15451.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "da/d38/a15451.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "da/d38/a15451.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "da/d38/a15451.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "da/d38/a15451.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

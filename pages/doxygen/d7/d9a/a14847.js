@@ -1,6 +1,10 @@
 var a14847 =
 [
-    [ "OnAuraRemove", "d7/d9a/a14847.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d7/d9a/a14847.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d7/d9a/a14847.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "boss_headless_horseman_pumpkin", "d7/d9a/a14847.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d7/d9a/a14847.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d7/d9a/a14847.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d7/d9a/a14847.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d7/d9a/a14847.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d7/d9a/a14847.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d7/d9a/a14847.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

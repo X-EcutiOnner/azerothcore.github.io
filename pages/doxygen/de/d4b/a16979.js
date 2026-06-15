@@ -1,7 +1,6 @@
 var a16979 =
 [
-    [ "HandleScript", "de/d4b/a16979.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "de/d4b/a16979.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "de/d4b/a16979.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "de/d4b/a16979.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_gormokAI", "de/d7d/a16983.html", "de/d7d/a16983" ],
+    [ "boss_gormok", "de/d4b/a16979.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "de/d4b/a16979.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

@@ -1,6 +1,6 @@
 var a17567 =
 [
-    [ "PrepareSpellScript", "d5/d87/a17567.html#a37899f12707930d038de38bae92c9aff", null ],
-    [ "Register", "d5/d87/a17567.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
-    [ "SelectDest", "d5/d87/a17567.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
+    [ "boss_slad_ranAI", "df/dd5/a17571.html", "df/dd5/a17571" ],
+    [ "boss_slad_ran", "d5/d87/a17567.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "d5/d87/a17567.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

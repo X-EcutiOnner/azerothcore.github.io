@@ -1,6 +1,5 @@
 var a19179 =
 [
-    [ "boss_faerlinaAI", "de/d20/a19183.html", "de/d20/a19183" ],
-    [ "boss_faerlina", "d0/d1e/a19179.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d0/d1e/a19179.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "npc_icc_buff_switcher", "d0/d1e/a19179.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "d0/d1e/a19179.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

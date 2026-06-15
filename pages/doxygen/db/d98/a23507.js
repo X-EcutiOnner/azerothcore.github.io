@@ -1,6 +1,9 @@
 var a23507 =
 [
-    [ "HandlePeriodic", "db/d98/a23507.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "db/d98/a23507.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "db/d98/a23507.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "boss_high_botanist_freywinn", "db/d98/a23507.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "db/d98/a23507.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "db/d98/a23507.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "db/d98/a23507.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "db/d98/a23507.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "db/d98/a23507.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

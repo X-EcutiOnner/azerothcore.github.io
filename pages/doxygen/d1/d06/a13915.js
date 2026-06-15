@@ -1,6 +1,7 @@
 var a13915 =
 [
-    [ "OnEffect", "d1/d06/a13915.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d1/d06/a13915.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d1/d06/a13915.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "HandleAfterCast", "d1/d06/a13915.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d1/d06/a13915.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d1/d06/a13915.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d1/d06/a13915.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

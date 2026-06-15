@@ -1,7 +1,13 @@
 var a05655 =
 [
-    [ "Node", "dc/d03/a05655.html#aa4dcacffb32f3e739604ab6ef39b5031", null ],
-    [ "Node", "dc/d03/a05655.html#aa5f116e3d84286f313ee8730bde7b936", null ],
-    [ "Data", "dc/d03/a05655.html#aa7cdbff9817871b548fe639e0956f1f4", null ],
-    [ "Next", "dc/d03/a05655.html#a7508e249dd3ff2b3ac291d67ddf87a71", null ]
+    [ "Logger", "dc/d03/a05655.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
+    [ "addAppender", "dc/d03/a05655.html#aabacae0a84994e5567f9c87829909fdd", null ],
+    [ "delAppender", "dc/d03/a05655.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
+    [ "getLogLevel", "dc/d03/a05655.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
+    [ "getName", "dc/d03/a05655.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
+    [ "setLogLevel", "dc/d03/a05655.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
+    [ "write", "dc/d03/a05655.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
+    [ "appenders", "dc/d03/a05655.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
+    [ "level", "dc/d03/a05655.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
+    [ "name", "dc/d03/a05655.html#ada299a7dd268085371557213e36695a9", null ]
 ];

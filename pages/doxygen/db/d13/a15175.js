@@ -1,8 +1,6 @@
 var a15175 =
 [
-    [ "Load", "db/d13/a15175.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "db/d13/a15175.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "db/d13/a15175.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "db/d13/a15175.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "db/d13/a15175.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "boss_mal_ganisAI", "dc/d4a/a15179.html", "dc/d4a/a15179" ],
+    [ "boss_mal_ganis", "db/d13/a15175.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "db/d13/a15175.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

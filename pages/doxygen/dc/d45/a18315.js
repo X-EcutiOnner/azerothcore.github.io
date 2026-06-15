@@ -1,6 +1,6 @@
 var a18315 =
 [
-    [ "MysticBuffetTargetFilter", "dc/d45/a18315.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "dc/d45/a18315.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "dc/d45/a18315.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "npc_big_oozeAI", "d8/d29/a18319.html", "d8/d29/a18319" ],
+    [ "npc_big_ooze", "dc/d45/a18315.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
+    [ "GetAI", "dc/d45/a18315.html#ad06308602d69b51ff3f269bda6c465b5", null ]
 ];

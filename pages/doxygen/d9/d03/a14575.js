@@ -1,8 +1,6 @@
 var a14575 =
 [
-    [ "OnApply", "d9/d03/a14575.html#a6f3f05316f025ef638672a82cc855136", null ],
-    [ "PeriodicTick", "d9/d03/a14575.html#a051d292f9483e6b82d773fba3ab52460", null ],
-    [ "PrepareAuraScript", "d9/d03/a14575.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
-    [ "Register", "d9/d03/a14575.html#a0004de73250b8523db2b9ab714c8a246", null ],
-    [ "Validate", "d9/d03/a14575.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
+    [ "boss_wushoolayAI", "d1/dee/a14579.html", "d1/dee/a14579" ],
+    [ "boss_wushoolay", "d9/d03/a14575.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d9/d03/a14575.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

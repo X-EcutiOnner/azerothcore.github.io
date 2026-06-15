@@ -1,8 +1,6 @@
 var a09471 =
 [
-    [ "AIRelocationNotifier", "d8/d4c/a09471.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d8/d4c/a09471.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d8/d4c/a09471.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d8/d4c/a09471.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d8/d4c/a09471.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "flags", "d8/d4c/a09471.html#a953acfd67349f028a839390ebe7fc398", null ],
+    [ "fourcc", "d8/d4c/a09471.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
+    [ "gridArea", "d8/d4c/a09471.html#a4ee571320d5d346bbf74709677bbee05", null ]
 ];

@@ -1,8 +1,8 @@
 var a13587 =
 [
-    [ "npc_demonic_vapor", "df/db1/a13587.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
-    [ "IsSummonedBy", "df/db1/a13587.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
-    [ "Reset", "df/db1/a13587.html#a7d2b88ab26904cedaac34f03567806bc", null ],
-    [ "UpdateAI", "df/db1/a13587.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
-    [ "_timer", "df/db1/a13587.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
+    [ "npc_apothecary_baxter", "df/db1/a13587.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "df/db1/a13587.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "df/db1/a13587.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "df/db1/a13587.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "df/db1/a13587.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

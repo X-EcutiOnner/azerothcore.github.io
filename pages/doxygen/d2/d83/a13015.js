@@ -1,6 +1,8 @@
 var a13015 =
 [
-    [ "go_blood_drenched_doorAI", "dd/d71/a13019.html", "dd/d71/a13019" ],
-    [ "go_blood_drenched_door", "d2/d83/a13015.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d2/d83/a13015.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "npc_lava_spawn", "d2/d83/a13015.html#aff97441b2cfbcd68e0788be022ee6236", null ],
+    [ "JustEngagedWith", "d2/d83/a13015.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
+    [ "Reset", "d2/d83/a13015.html#ab774d354991c90b1421e6783c0513e59", null ],
+    [ "UpdateAI", "d2/d83/a13015.html#a6a17c8c40b0110b688ff5faef5585185", null ],
+    [ "_scheduler", "d2/d83/a13015.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
 ];

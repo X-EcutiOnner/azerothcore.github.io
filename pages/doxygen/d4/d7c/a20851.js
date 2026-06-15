@@ -1,7 +1,7 @@
 var a20851 =
 [
-    [ "HandleOnEffectRemove", "d4/d7c/a20851.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d4/d7c/a20851.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d4/d7c/a20851.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d4/d7c/a20851.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "HandleScriptEffect", "d4/d7c/a20851.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "d4/d7c/a20851.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "d4/d7c/a20851.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "d4/d7c/a20851.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

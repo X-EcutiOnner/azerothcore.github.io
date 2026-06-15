@@ -1,8 +1,11 @@
 var a13439 =
 [
-    [ "FilterTargets", "d1/d36/a13439.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
-    [ "HandleScript", "d1/d36/a13439.html#aecb62c147905d0a4fe60086b8028df0b", null ],
-    [ "PrepareSpellScript", "d1/d36/a13439.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
-    [ "Register", "d1/d36/a13439.html#a2832f131d99608923ade8070e17da86d", null ],
-    [ "Validate", "d1/d36/a13439.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
+    [ "npc_a_special_surpriseAI", "d1/d36/a13439.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d1/d36/a13439.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d1/d36/a13439.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d1/d36/a13439.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d1/d36/a13439.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d1/d36/a13439.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d1/d36/a13439.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d1/d36/a13439.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

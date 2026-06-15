@@ -1,6 +1,5 @@
 var a14855 =
 [
-    [ "HandleScriptEffect", "d6/d85/a14855.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d6/d85/a14855.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d6/d85/a14855.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "go_loosely_turned_soilAI", "d6/d85/a14855.html#a603641bc52d26521d64afaaeed3abc4d", null ],
+    [ "CanBeSeen", "d6/d85/a14855.html#a424b51b08d17ceb04b015cd535256889", null ]
 ];

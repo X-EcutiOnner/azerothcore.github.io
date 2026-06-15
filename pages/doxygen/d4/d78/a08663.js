@@ -1,7 +1,10 @@
 var a08663 =
 [
-    [ "AddToGrid", "d4/d78/a08663.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d4/d78/a08663.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d4/d78/a08663.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d4/d78/a08663.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "GameObjectData", "d4/d78/a08663.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
+    [ "animprogress", "d4/d78/a08663.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "d4/d78/a08663.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "go_state", "d4/d78/a08663.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "d4/d78/a08663.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "rotation", "d4/d78/a08663.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "spawntimesecs", "d4/d78/a08663.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

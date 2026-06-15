@@ -1,6 +1,5 @@
 var a16363 =
 [
-    [ "SendEncounterUnit", "d8/d62/a16363.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "d8/d62/a16363.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "d8/d62/a16363.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "achievement_watch_him_die", "d8/d62/a16363.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d8/d62/a16363.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

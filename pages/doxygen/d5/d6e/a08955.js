@@ -1,9 +1,9 @@
 var a08955 =
 [
-    [ "GlobalCooldownMgr", "d5/d6e/a08955.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
-    [ "AddGlobalCooldown", "d5/d6e/a08955.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
-    [ "CancelGlobalCooldown", "d5/d6e/a08955.html#aed6b479416104dc536116fdb1e24fcf3", null ],
-    [ "GetGlobalCooldown", "d5/d6e/a08955.html#ae44caed35e93f834ff68394c1ab6434b", null ],
-    [ "HasGlobalCooldown", "d5/d6e/a08955.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
-    [ "m_GlobalCooldowns", "d5/d6e/a08955.html#a80d03691d36758733f326b65992f266e", null ]
+    [ "EntryPointData", "d5/d6e/a08955.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d5/d6e/a08955.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d5/d6e/a08955.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d5/d6e/a08955.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d5/d6e/a08955.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d5/d6e/a08955.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

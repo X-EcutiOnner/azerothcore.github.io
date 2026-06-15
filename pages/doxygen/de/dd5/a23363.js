@@ -1,6 +1,7 @@
 var a23363 =
 [
-    [ "boss_porung", "de/dd5/a23363.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "de/dd5/a23363.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "de/dd5/a23363.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleDummyApply", "de/dd5/a23363.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
+    [ "HandleDummyRemove", "de/dd5/a23363.html#a5d68d9e15600119deca7179ffe00acda", null ],
+    [ "PrepareAuraScript", "de/dd5/a23363.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
+    [ "Register", "de/dd5/a23363.html#a094004ccf6b4cae4d27bca639b76b899", null ]
 ];

@@ -1,5 +1,7 @@
 var a23239 =
 [
-    [ "go_broggok_lever", "da/de5/a23239.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "da/de5/a23239.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "OnApply", "da/de5/a23239.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "da/de5/a23239.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "da/de5/a23239.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "da/de5/a23239.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

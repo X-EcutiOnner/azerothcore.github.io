@@ -1,9 +1,7 @@
 var a11931 =
 [
-    [ "CreatureTextLocalizer", "d8/da5/a11931.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d8/da5/a11931.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d8/da5/a11931.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d8/da5/a11931.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d8/da5/a11931.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d8/da5/a11931.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "EffectAuraNameCheck", "d8/da5/a11931.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d8/da5/a11931.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d8/da5/a11931.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d8/da5/a11931.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

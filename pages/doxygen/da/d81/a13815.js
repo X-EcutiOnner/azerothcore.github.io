@@ -1,7 +1,6 @@
 var a13815 =
 [
-    [ "HandleScriptEffect", "da/d81/a13815.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "da/d81/a13815.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "da/d81/a13815.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "da/d81/a13815.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "FixOrientation", "da/d81/a13815.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "da/d81/a13815.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "da/d81/a13815.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

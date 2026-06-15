@@ -1,14 +1,17 @@
 var a03131 =
 [
-    [ "BattlegroundData", "de/d4e/a07644.html", "de/d4e/a07644" ],
-    [ "BattlegroundTemplate", "db/d13/a07648.html", "db/d13/a07648" ],
-    [ "BattlegroundMgr", "da/d97/a07652.html", "da/d97/a07652" ],
-    [ "sBattlegroundMgr", "db/d09/a03131.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
-    [ "BattlegroundClientIdsContainer", "db/d09/a03131.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
-    [ "BattlegroundContainer", "db/d09/a03131.html#a33858c5514cd62b25f056e4ba170de59", null ],
-    [ "BattleMastersMap", "db/d09/a03131.html#a0167dc8561c0fb4a41f0eaa6bea38980", null ],
-    [ "BGFreeSlotQueueContainer", "db/d09/a03131.html#a356842317f4215b2ee31abb25b4d54e7", null ],
-    [ "bgMapRef", "db/d09/a03131.html#a91490e6276f571e959bcc65a1a7e4007", null ],
-    [ "bgRef", "db/d09/a03131.html#a1d8c1781106a97335f700c82ac98e915", null ],
-    [ "bgTypeRef", "db/d09/a03131.html#ab13257a97cde6f35eb3aed651e61e20c", null ]
+    [ "DeleteSpellFromAllPlayers", "db/d09/a03131.html#af0dec25ac7c118b67a71a0356eb37877", null ],
+    [ "GetDiminishingReturnsGroupForSpell", "db/d09/a03131.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
+    [ "GetDiminishingReturnsGroupType", "db/d09/a03131.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
+    [ "GetDiminishingReturnsLimitDuration", "db/d09/a03131.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
+    [ "GetDiminishingReturnsMaxLevel", "db/d09/a03131.html#ad621262d491c800fb5ddd016250dd46f", null ],
+    [ "InitTriggerAuraData", "db/d09/a03131.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "IsDiminishingReturnsGroupDurationLimited", "db/d09/a03131.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
+    [ "IsPartOfSkillLine", "db/d09/a03131.html#a18102741b602d3b4473f75d4f619a09b", null ],
+    [ "IsPrimaryProfessionSkill", "db/d09/a03131.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
+    [ "LoadPetDefaultSpells_helper", "db/d09/a03131.html#a26626d5f5404864fcd622872f5cd8af1", null ],
+    [ "isAlwaysTriggeredAura", "db/d09/a03131.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isTriggerAura", "db/d09/a03131.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "procPrepared", "db/d09/a03131.html#a11410c456e972de7cfb44bbe17709cc4", null ],
+    [ "spellTypeMask", "db/d09/a03131.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
 ];

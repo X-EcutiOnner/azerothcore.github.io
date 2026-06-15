@@ -1,19 +1,12 @@
 var a21155 =
 [
-    [ "violet_hold_trashAI", "d9/d0e/a21155.html#a87011739810f39291655bc835f9995bd", null ],
-    [ "AttackStart", "d9/d0e/a21155.html#ab2d2157977ae2482217fa8ac344b30af", null ],
-    [ "ClearDoorSealAura", "d9/d0e/a21155.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
-    [ "CreatureStartAttackDoor", "d9/d0e/a21155.html#a1e64a9f7c82275969e099b5012a32924", null ],
-    [ "EnterEvadeMode", "d9/d0e/a21155.html#ab189607a468514d6c472ac40e6f3d85b", null ],
-    [ "JustDied", "d9/d0e/a21155.html#acd512cd3722a2edf0ca539272ded3c79", null ],
-    [ "JustEngagedWith", "d9/d0e/a21155.html#a16e7677aa9597dda938a67c51febde6c", null ],
-    [ "JustReachedHome", "d9/d0e/a21155.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
-    [ "MoveInLineOfSight", "d9/d0e/a21155.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
-    [ "UpdateAI", "d9/d0e/a21155.html#a8647797343650fcd4f6304bce3742883", null ],
-    [ "WaypointReached", "d9/d0e/a21155.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
-    [ "WaypointReached", "d9/d0e/a21155.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bAddedWP", "d9/d0e/a21155.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
-    [ "bAlt", "d9/d0e/a21155.html#ad84ecad1a57f0af44af2795a252d2214", null ],
-    [ "pInstance", "d9/d0e/a21155.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
-    [ "PLoc", "d9/d0e/a21155.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
+    [ "boss_koralonAI", "d9/d0e/a21155.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d9/d0e/a21155.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d9/d0e/a21155.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d9/d0e/a21155.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d9/d0e/a21155.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d9/d0e/a21155.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d9/d0e/a21155.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d9/d0e/a21155.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d9/d0e/a21155.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

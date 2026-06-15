@@ -1,7 +1,10 @@
 var a10643 =
 [
-    [ "InstanceMapScript", "d9/d89/a10643.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d9/d89/a10643.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d9/d89/a10643.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d9/d89/a10643.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "ArenaTeamScript", "d9/d89/a10643.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "d9/d89/a10643.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "d9/d89/a10643.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "d9/d89/a10643.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "d9/d89/a10643.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "d9/d89/a10643.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "d9/d89/a10643.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

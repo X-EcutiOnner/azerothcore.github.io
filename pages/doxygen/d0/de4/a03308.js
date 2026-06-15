@@ -1,4 +1,7 @@
 var a03308 =
 [
-    [ "LoginQueryHolder", "d2/dbe/a09936.html", "d2/dbe/a09936" ]
+    [ "GetExplicitDiscoverySpell", "d0/de4/a03308.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d0/de4/a03308.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d0/de4/a03308.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d0/de4/a03308.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

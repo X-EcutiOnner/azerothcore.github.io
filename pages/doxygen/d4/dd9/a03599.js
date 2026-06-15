@@ -1,4 +1,4 @@
 var a03599 =
 [
-    [ "ScriptRegistry< AchievementScript >", "d4/dd9/a03599.html#ac6173262cca5c83f03287161a75446ab", null ]
+    [ "ScriptRegistry< BattlefieldScript >", "d4/dd9/a03599.html#a66e07787094ffe5d2156ad0768c6dd4e", null ]
 ];

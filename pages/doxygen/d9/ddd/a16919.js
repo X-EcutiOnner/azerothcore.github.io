@@ -1,9 +1,6 @@
 var a16919 =
 [
-    [ "npc_concentrated_ballAI", "d9/ddd/a16919.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d9/ddd/a16919.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d9/ddd/a16919.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d9/ddd/a16919.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d9/ddd/a16919.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d9/ddd/a16919.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_pet_warlockAI", "d5/d8f/a16923.html", "d5/d8f/a16923" ],
+    [ "npc_toc_pet_warlock", "d9/ddd/a16919.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "d9/ddd/a16919.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

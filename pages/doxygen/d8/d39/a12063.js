@@ -1,20 +1,12 @@
 var a12063 =
 [
-    [ "Weather", "d7/daf/a05002.html#gab528c044ef69c717d477eee8eac299b0", null ],
-    [ "~Weather", "d7/daf/a05002.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "d7/daf/a05002.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "d7/daf/a05002.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "d7/daf/a05002.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "d7/daf/a05002.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendFineWeatherUpdateToPlayer", "d7/daf/a05002.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
-    [ "SendWeatherUpdateToPlayer", "d7/daf/a05002.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "d7/daf/a05002.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "d7/daf/a05002.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "d7/daf/a05002.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "d7/daf/a05002.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_map", "d7/daf/a05002.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
-    [ "m_timer", "d7/daf/a05002.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "d7/daf/a05002.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "d7/daf/a05002.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "d7/daf/a05002.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "CreatureTextBuilder", "d8/d39/a12063.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d8/d39/a12063.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d8/d39/a12063.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d8/d39/a12063.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d8/d39/a12063.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d8/d39/a12063.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d8/d39/a12063.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d8/d39/a12063.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d8/d39/a12063.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

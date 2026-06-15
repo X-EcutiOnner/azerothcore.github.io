@@ -1,7 +1,7 @@
 var a15059 =
 [
-    [ "OnRemove", "d7/d33/a15059.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "d7/d33/a15059.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "d7/d33/a15059.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "d7/d33/a15059.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "HandleProc", "d7/d33/a15059.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
+    [ "PrepareAuraScript", "d7/d33/a15059.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
+    [ "Register", "d7/d33/a15059.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
+    [ "Validate", "d7/d33/a15059.html#a18398f81a80f9a1f47958de3be7b9189", null ]
 ];

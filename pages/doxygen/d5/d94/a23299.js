@@ -1,8 +1,6 @@
 var a23299 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d5/d94/a23299.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d5/d94/a23299.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d5/d94/a23299.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d5/d94/a23299.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d5/d94/a23299.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
+    [ "instance_blood_furnace", "d5/d94/a23299.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d5/d94/a23299.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

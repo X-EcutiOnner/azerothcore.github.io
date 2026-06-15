@@ -1,6 +1,6 @@
 var a22171 =
 [
-    [ "npc_released_offspring_harkoaAI", "d0/d35/a22171.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "d0/d35/a22171.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "d0/d35/a22171.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "CheckCast", "d0/d35/a22171.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d0/d35/a22171.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d0/d35/a22171.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

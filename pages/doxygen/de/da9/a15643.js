@@ -1,6 +1,5 @@
 var a15643 =
 [
-    [ "npc_stillpine_capitiveAI", "d3/dfb/a15647.html", "d3/dfb/a15647" ],
-    [ "npc_stillpine_capitive", "de/da9/a15643.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "de/da9/a15643.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "at_twin_emperors", "de/da9/a15643.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "de/da9/a15643.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

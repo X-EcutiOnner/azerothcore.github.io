@@ -1,6 +1,6 @@
 var a16183 =
 [
-    [ "HandleApplyAura", "d3/dad/a16183.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d3/dad/a16183.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d3/dad/a16183.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "HandleOpenLock", "d3/dad/a16183.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d3/dad/a16183.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d3/dad/a16183.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

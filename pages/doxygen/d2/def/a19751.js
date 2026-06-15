@@ -1,6 +1,6 @@
 var a19751 =
 [
-    [ "boss_sjonnirAI", "d8/de6/a19755.html", "d8/de6/a19755" ],
-    [ "boss_sjonnir", "d2/def/a19751.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d2/def/a19751.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "npc_centrifuge_constructAI", "d8/de6/a19755.html", "d8/de6/a19755" ],
+    [ "npc_centrifuge_construct", "d2/def/a19751.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d2/def/a19751.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

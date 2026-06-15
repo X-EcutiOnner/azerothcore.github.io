@@ -1,7 +1,14 @@
 var a12687 =
 [
-    [ "HandleDummy", "df/d39/a12687.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "df/d39/a12687.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "df/d39/a12687.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "df/d39/a12687.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_mor_grayhoof", "df/d39/a12687.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "df/d39/a12687.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "df/d39/a12687.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "df/d39/a12687.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "df/d39/a12687.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "df/d39/a12687.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "df/d39/a12687.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "df/d39/a12687.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "df/d39/a12687.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "df/d39/a12687.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "df/d39/a12687.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

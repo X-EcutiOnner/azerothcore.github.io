@@ -1,7 +1,6 @@
 var a14075 =
 [
-    [ "npc_daphne_stilwellAI", "d9/d1c/a14079.html", "d9/d1c/a14079" ],
-    [ "npc_daphne_stilwell", "df/dad/a14075.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "df/dad/a14075.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "df/dad/a14075.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "npc_corporal_keeshanAI", "d9/d1c/a14079.html", "d9/d1c/a14079" ],
+    [ "npc_corporal_keeshan", "df/dad/a14075.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "df/dad/a14075.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

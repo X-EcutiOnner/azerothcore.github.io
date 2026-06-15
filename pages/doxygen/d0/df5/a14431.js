@@ -1,8 +1,5 @@
 var a14431 =
 [
-    [ "boss_venoxis", "d0/df5/a14431.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d0/df5/a14431.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d0/df5/a14431.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d0/df5/a14431.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d0/df5/a14431.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "d0/df5/a14431.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "d0/df5/a14431.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

@@ -1,8 +1,7 @@
 var a21735 =
 [
-    [ "AfterApply", "dc/d7b/a21735.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
-    [ "AfterRemove", "dc/d7b/a21735.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
-    [ "PrepareAuraScript", "dc/d7b/a21735.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
-    [ "Register", "dc/d7b/a21735.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
-    [ "Validate", "dc/d7b/a21735.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
+    [ "HandleAfterEffectApply", "dc/d7b/a21735.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "dc/d7b/a21735.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "dc/d7b/a21735.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "dc/d7b/a21735.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

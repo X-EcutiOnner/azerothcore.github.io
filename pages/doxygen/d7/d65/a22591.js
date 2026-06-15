@@ -1,7 +1,7 @@
 var a22591 =
 [
-    [ "CheckProc", "d7/d65/a22591.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d7/d65/a22591.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d7/d65/a22591.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d7/d65/a22591.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "boss_veras_darkshadow", "d7/d65/a22591.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d7/d65/a22591.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d7/d65/a22591.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d7/d65/a22591.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

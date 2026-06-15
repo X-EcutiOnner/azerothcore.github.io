@@ -1,10 +1,9 @@
 var a08403 =
 [
-    [ "Puppet", "de/db2/a08403.html#ab0082936291e6b7f5370656c7c9ed948", null ],
-    [ "GetOwner", "de/db2/a08403.html#a38760bce8e8ebf28ae0143ad2931afd5", null ],
-    [ "InitStats", "de/db2/a08403.html#ac5dd23d7cf6d4b4a2ba073ae1128181b", null ],
-    [ "InitSummon", "de/db2/a08403.html#abfc97f1d25cb1ac27b1bed6f61867fa3", null ],
-    [ "RemoveFromWorld", "de/db2/a08403.html#a61dcfc821c2221d1747fcb2180e03bfd", null ],
-    [ "Update", "de/db2/a08403.html#a5281497d7689e1dd10f89b5a9f83006f", null ],
-    [ "m_owner", "de/db2/a08403.html#adae18eabdba52ef8a9f7c5c8768e060c", null ]
+    [ "VendorItem", "de/db2/a08403.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
+    [ "IsGoldRequired", "de/db2/a08403.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
+    [ "ExtendedCost", "de/db2/a08403.html#a18234f38ff242b8687265f9acf70dbe0", null ],
+    [ "incrtime", "de/db2/a08403.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
+    [ "item", "de/db2/a08403.html#a6b26a96440c885684c173ee17d788896", null ],
+    [ "maxcount", "de/db2/a08403.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
 ];

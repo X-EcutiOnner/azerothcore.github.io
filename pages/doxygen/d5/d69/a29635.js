@@ -1,7 +1,9 @@
 var a29635 =
 [
-    [ "asyncId", "d5/d69/a29635.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d5/d69/a29635.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d5/d69/a29635.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d5/d69/a29635.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "defaultHitMask", "d5/d69/a29635.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "d5/d69/a29635.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "d5/d69/a29635.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "d5/d69/a29635.html#a78f8589133427f536f15ea05672ad42f", null ],
+    [ "procFlag", "d5/d69/a29635.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "d5/d69/a29635.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

@@ -1,9 +1,7 @@
 var a13711 =
 [
-    [ "boss_muru", "df/de9/a13711.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "df/de9/a13711.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "df/de9/a13711.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "df/de9/a13711.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "df/de9/a13711.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "df/de9/a13711.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "CheckCast", "df/de9/a13711.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "df/de9/a13711.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "df/de9/a13711.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "df/de9/a13711.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

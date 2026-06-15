@@ -1,19 +1,16 @@
 var a04850 =
 [
-    [ "SpellProcChargeTest", "d4/de7/a29544.html", "d4/de7/a29544" ],
-    [ "TEST_F", "d5/dab/a04850.html#af6b7ce5004d831afafdd960e76b497b9", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a6aad9923e77ce2183a9bfd5884fe3912", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a7502979bd6cdb7d72f8c6ce5a3e67598", null ],
-    [ "TEST_F", "d5/dab/a04850.html#af9b31ad83d3c0000b3862f4271c5a670", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a223a5cdf49fecfa7b4b80d2a0dcf1468", null ],
-    [ "TEST_F", "d5/dab/a04850.html#add201c56e63c8e3d4b9541d4b0ad8d1f", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a746f7ab811ea4ea58f21d77180c752b3", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a8cddad3956dbe3afd8a23e969ba46d05", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a89db4a2cf2935011d4e98ff3385c25d8", null ],
-    [ "TEST_F", "d5/dab/a04850.html#ab8fbc8d09d454845b486266a32ec0055", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a8ae02922feb6d525efc5203b349d36d8", null ],
-    [ "TEST_F", "d5/dab/a04850.html#ac539918ba1c029cc1ea195c532da00ad", null ],
-    [ "TEST_F", "d5/dab/a04850.html#afdc5df5f8196781ca55254eda1bd09d0", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a03704468e16a20474afaecd9dea9019f", null ],
-    [ "TEST_F", "d5/dab/a04850.html#a1d7c412fdf87bebbdfa8133166237d6c", null ]
+    [ "DBCFileLoader", "d1/d27/a05483.html", "d1/d27/a05483" ],
+    [ "DBCFileLoader::Record", "d6/ddb/a05487.html", "d6/ddb/a05487" ],
+    [ "DbcFieldFormat", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960", [
+      [ "FT_NA", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
+      [ "FT_NA_BYTE", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
+      [ "FT_STRING", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
+      [ "FT_FLOAT", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
+      [ "FT_INT", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
+      [ "FT_BYTE", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
+      [ "FT_SORT", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
+      [ "FT_IND", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
+      [ "FT_LOGIC", "d5/dab/a04850.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    ] ]
 ];

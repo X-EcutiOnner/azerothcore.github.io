@@ -1,4 +1,6 @@
 var a02915 =
 [
-    [ "_modulesList", "d6/deb/a02915.html#aa8df8c5e3d2ad2852ea850d12636d578", null ]
+    [ "CinematicMgr", "d9/d6f/a08847.html", "d9/d6f/a08847" ],
+    [ "CINEMATIC_LOOKAHEAD", "d6/deb/a02915.html#ae1b03a0a84708dbd9b5487f49762b4a9", null ],
+    [ "CINEMATIC_UPDATEDIFF", "d6/deb/a02915.html#afdc341ad7f2f8cdfcf101e128dd7bbbb", null ]
 ];

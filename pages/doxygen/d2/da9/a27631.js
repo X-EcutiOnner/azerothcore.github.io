@@ -1,7 +1,7 @@
 var a27631 =
 [
-    [ "HandleScript", "d2/da9/a27631.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d2/da9/a27631.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d2/da9/a27631.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d2/da9/a27631.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "HandleGlyph", "d2/da9/a27631.html#a9ec1133587bb6f0d7faa1beafc8415d9", null ],
+    [ "PrepareSpellScript", "d2/da9/a27631.html#adffd8b39adef397a886a66465e09f68b", null ],
+    [ "Register", "d2/da9/a27631.html#a77ff80bffd5c3f75dd60f2d901dfd84e", null ],
+    [ "Validate", "d2/da9/a27631.html#aa8bf4fc8457d122e46d12bc6b1cc7586", null ]
 ];

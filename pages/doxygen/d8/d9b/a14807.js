@@ -1,7 +1,7 @@
 var a14807 =
 [
-    [ "HandleFinish", "d8/d9b/a14807.html#a8927aaa07145b46067d5807c2048330a", null ],
-    [ "PrepareSpellScript", "d8/d9b/a14807.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
-    [ "Register", "d8/d9b/a14807.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
-    [ "Validate", "d8/d9b/a14807.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
+    [ "HandleEffectApply", "d8/d9b/a14807.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "d8/d9b/a14807.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "d8/d9b/a14807.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "d8/d9b/a14807.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

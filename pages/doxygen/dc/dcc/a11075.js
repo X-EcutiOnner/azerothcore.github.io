@@ -1,6 +1,6 @@
 var a11075 =
 [
-    [ "GuildSetGuildMaster", "dc/dcc/a11075.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "dc/dcc/a11075.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "dc/dcc/a11075.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "GuildOfficerRemoveMember", "dc/dcc/a11075.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "dc/dcc/a11075.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "dc/dcc/a11075.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

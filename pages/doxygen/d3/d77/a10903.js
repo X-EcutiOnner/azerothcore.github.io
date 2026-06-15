@@ -1,9 +1,7 @@
 var a10903 =
 [
-    [ "GuildRoster", "d3/d77/a10903.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "d3/d77/a10903.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "d3/d77/a10903.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "d3/d77/a10903.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "d3/d77/a10903.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "d3/d77/a10903.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "LogoutResponse", "d3/d77/a10903.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
+    [ "Write", "d3/d77/a10903.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
+    [ "Instant", "d3/d77/a10903.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
+    [ "LogoutResult", "d3/d77/a10903.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
 ];

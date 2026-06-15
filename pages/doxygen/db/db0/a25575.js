@@ -1,6 +1,7 @@
 var a25575 =
 [
-    [ "HandleDummy", "db/db0/a25575.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "db/db0/a25575.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "db/db0/a25575.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleScriptEffect", "db/db0/a25575.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "db/db0/a25575.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "db/db0/a25575.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "db/db0/a25575.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

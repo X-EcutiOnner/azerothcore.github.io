@@ -1,5 +1,6 @@
 var a16179 =
 [
-    [ "PrepareAuraScript", "db/def/a16179.html#a912a1aa9a77edfa672b70588c17e8002", null ],
-    [ "Register", "db/def/a16179.html#a92ee242ff7e474858465b5d4cd408a48", null ]
+    [ "HandleSummon", "db/def/a16179.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "db/def/a16179.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "db/def/a16179.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

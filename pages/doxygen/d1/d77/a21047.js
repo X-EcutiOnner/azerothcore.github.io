@@ -1,6 +1,7 @@
 var a21047 =
 [
-    [ "boss_cyanigosaAI", "d2/d70/a21051.html", "d2/d70/a21051" ],
-    [ "boss_cyanigosa", "d1/d77/a21047.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "d1/d77/a21047.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "FilterTargets", "d1/d77/a21047.html#aacfc70299b20cfef5b2feac954779f1c", null ],
+    [ "HandleDamageCalc", "d1/d77/a21047.html#ad95c61a3977d7fa1c47902fb0a0d3843", null ],
+    [ "PrepareSpellScript", "d1/d77/a21047.html#a008a69c532a7bdaec9fd30c88bb7af90", null ],
+    [ "Register", "d1/d77/a21047.html#aa1da58fb771b35b76dcf367b9caf66d2", null ]
 ];

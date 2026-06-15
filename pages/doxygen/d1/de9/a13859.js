@@ -1,11 +1,7 @@
 var a13859 =
 [
-    [ "npc_supervisor_raelen", "d1/de9/a13859.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d1/de9/a13859.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d1/de9/a13859.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d1/de9/a13859.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d1/de9/a13859.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d1/de9/a13859.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d1/de9/a13859.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d1/de9/a13859.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "FilterTargets", "d1/de9/a13859.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d1/de9/a13859.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d1/de9/a13859.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d1/de9/a13859.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

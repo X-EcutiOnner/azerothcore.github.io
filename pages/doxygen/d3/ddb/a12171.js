@@ -1,9 +1,12 @@
 var a12171 =
 [
-    [ "event_commandscript", "d3/ddb/a12171.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "d3/ddb/a12171.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "d3/ddb/a12171.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "d3/ddb/a12171.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "d3/ddb/a12171.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "d3/ddb/a12171.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "Action", "d3/ddb/a12171.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "d3/ddb/a12171.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "d3/ddb/a12171.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "d3/ddb/a12171.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "d3/ddb/a12171.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "d3/ddb/a12171.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "d3/ddb/a12171.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "d3/ddb/a12171.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "d3/ddb/a12171.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

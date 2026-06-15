@@ -1,8 +1,6 @@
 var a19627 =
 [
-    [ "npc_centrifuge_constructAI", "df/d98/a19627.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "df/d98/a19627.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "df/d98/a19627.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "df/d98/a19627.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "df/d98/a19627.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "ChargeRifts", "df/d98/a19627.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "df/d98/a19627.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "df/d98/a19627.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

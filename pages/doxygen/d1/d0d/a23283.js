@@ -1,6 +1,5 @@
 var a23283 =
 [
-    [ "HandleScriptEffect", "d1/d0d/a23283.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d1/d0d/a23283.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d1/d0d/a23283.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "go_broggok_lever", "d1/d0d/a23283.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
+    [ "OnGossipHello", "d1/d0d/a23283.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
 ];

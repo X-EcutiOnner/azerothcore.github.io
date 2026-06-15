@@ -1,15 +1,8 @@
 var a02885 =
 [
-    [ "TempSummonData", "d3/d78/a08448.html", "d3/d78/a08448" ],
-    [ "GameObjectSummonData", "de/d33/a08452.html", "de/d33/a08452" ],
-    [ "TempSummon", "db/d32/a08456.html", "db/d32/a08456" ],
-    [ "Minion", "d7/d45/a08460.html", "d7/d45/a08460" ],
-    [ "Guardian", "d8/d05/a08464.html", "d8/d05/a08464" ],
-    [ "Puppet", "d1/dbc/a08468.html", "d1/dbc/a08468" ],
-    [ "ForcedUnsummonDelayEvent", "d2/ddb/a08472.html", "d2/ddb/a08472" ],
-    [ "SummonerType", "d7/d68/a02885.html#ac8a8d6d0515f6d559068f8aaae56e188", [
-      [ "SUMMONER_TYPE_CREATURE", "d7/d68/a02885.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a", null ],
-      [ "SUMMONER_TYPE_GAMEOBJECT", "d7/d68/a02885.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347", null ],
-      [ "SUMMONER_TYPE_MAP", "d7/d68/a02885.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270", null ]
-    ] ]
+    [ "GUID_TRAIT_INSTANTIATE_GUID", "d7/d68/a02885.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
+    [ "operator<<", "d7/d68/a02885.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "d7/d68/a02885.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "d7/d68/a02885.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "d7/d68/a02885.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

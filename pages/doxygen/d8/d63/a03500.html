@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptMgr.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/AuctionHouseScript.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,59 +106,103 @@ $(document).ready(function(){initNavTree('d8/d63/a03500.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">ScriptMgr.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">AuctionHouseScript.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AllScriptsObjects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">LFGScripts.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptSystem.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SmartAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Utilities/TypeList.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">UnitAI.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1c/a10804.html">anonymous_namespace{ScriptMgr.cpp}::ScriptTypeInfo&lt; Script, EnabledHookCountValue, PromotedAfterDbLoadValue, LegacyDbValidationValue &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d5a/a06524.html">TSpellSummary</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6d/a10647.html">AuctionHouseScript</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:de/d11/a05095"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d11/a05095.html">anonymous_namespace{ScriptMgr.cpp}</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:aeb8e82d65431497fd236110fed3408b8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d11/a05095.html#aeb8e82d65431497fd236110fed3408b8">anonymous_namespace{ScriptMgr.cpp}::ScriptRegistryTypes</a> = <a class="el" href="../../dd/d2a/a05904.html">Acore::type_list</a>&lt; ScriptTypeInfo&lt; <a class="el" href="../../d9/d97/a10580.html">AccountScript</a>, <a class="el" href="../../dc/dd8/a03755.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f">ACCOUNTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d7/d9e/a10584.html">AchievementCriteriaScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d1/d6c/a10588.html">AchievementScript</a>, <a class="el" href="../../d6/da7/a03794.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c">ACHIEVEMENTHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/de4/a10604.html">AllCreatureScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/d2e/a10608.html">AllGameObjectScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../de/d69/a10612.html">AllItemScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/dc9/a10616.html">AllMapScript</a>, <a class="el" href="../../d8/d71/a03626.html#a78db4e64fe232d8b547270090d8e3b92a51af3c739d320ca228fb73e3d7c48b95">ALLMAPHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/d7c/a10624.html">AreaTriggerScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d9e/a10632.html">ArenaScript</a>, <a class="el" href="../../dc/df3/a03773.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../de/da0/a10636.html">ArenaTeamScript</a>, <a class="el" href="../../d3/d3b/a03728.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7">ARENATEAMHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../da/dbd/a10640.html">AuctionHouseScript</a>, <a class="el" href="../../d3/d4a/a03740.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../da/d09/a10644.html">BattlefieldScript</a>, <a class="el" href="../../d4/d2b/a03662.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac">BATTLEFIELDHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d25/a03545.html#ae9cb670a445a9cb3089a66cdcc822d0e">BGScript</a>, <a class="el" href="../../dd/d25/a03545.html#a17a6e2af65c8cf024623d584c7f3a11fa0e3bc87a05b030bbdb15eda213d5b6af">ALLBATTLEGROUNDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/d86/a10648.html">BattlegroundMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/daa/a10652.html">BattlegroundScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/dce/a03608.html#a0c35d8c2fdd730a0360fd00502881c03">CommandSC</a>, <a class="el" href="../../d3/dce/a03608.html#a57c7df35e0370887ade698d62704997bac10a14231ce403ff1812e0ec03700812">ALLCOMMANDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/de1/a10656.html">CommandScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d4/d3b/a10660.html">ConditionScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../de/dbc/a10664.html">CreatureScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d1/d9c/a10676.html">DatabaseScript</a>, <a class="el" href="../../d0/d69/a03725.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04">DATABASEHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/ddd/a10680.html">DynamicObjectScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/d30/a10592.html">ALEScript</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d0c/a10684.html">FormulaScript</a>, <a class="el" href="../../da/d72/a03527.html#a201bafc9783763d9953381d3aa09bf69a9a1299486f5025ac19ec955832a0813f">FORMULAHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d8/d57/a10688.html">GameEventScript</a>, <a class="el" href="../../dc/d98/a03524.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395">GAMEEVENTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/dc6/a10692.html">GameObjectScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d6/dfb/a10704.html">GlobalScript</a>, <a class="el" href="../../d2/d33/a03770.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a">GLOBALHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d0/d91/a10708.html">GroupScript</a>, <a class="el" href="../../d5/dda/a03560.html#a373b3fe6b402e8321892b8c1be74ab5da71a6d6ef47c3bda7d088f579b6f3a5f2">GROUPHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../da/d91/a10712.html">GuildScript</a>, <a class="el" href="../../dd/de9/a03590.html#a5cb9f5f21f7f7d0e793d70058163507ea85e0e175b03a5491dec2498ff4c415bb">GUILDHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/d1f/a10716.html">InstanceMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d35/a10724.html">ItemScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d92/a10728.html">LootScript</a>, <a class="el" href="../../d2/d11/a03797.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea">LOOTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/d32/a10732.html">MailScript</a>, <a class="el" href="../../d3/dbd/a03575.html#a7a2fb0cc0937712e8aff65574e1068d6a97af521f76b0d427812db0ac3303f285">MAILHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/d3f/a10736.html">MiscScript</a>, <a class="el" href="../../d0/dd4/a03812.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9">MISCHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/dc8/a10744.html">MovementHandlerScript</a>, <a class="el" href="../../d6/d1c/a03692.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c">MOVEMENTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/dab/a10748.html">OutdoorPvPScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d4/d84/a10752.html">PetScript</a>, <a class="el" href="../../d5/d74/a03596.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911">PETHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/d2d/a10756.html">PlayerScript</a>, <a class="el" href="../../dc/d6c/a03635.html#a7d525e751616f7554a64c9ae6e12a357a50b5e2c75225d4ec9a0c5f9f32b889b9">PLAYERHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dd/d26/a10760.html">ServerScript</a>, <a class="el" href="../../de/dc5/a03602.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc">SERVERHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d1/d2f/a03767.html#a743e879dd1df387001a0db3b0bf31d0e">SpellSC</a>, <a class="el" href="../../d1/d2f/a03767.html#afe0b21412f82a634ffd412b1aca51cbca2bbf250e329e80a9f113eadfe4aab98f">ALLSPELLHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../df/d96/a10764.html">SpellScriptLoader</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d7/d0e/a10772.html">TicketScript</a>, <a class="el" href="../../d4/dbd/a03563.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222">TICKETHOOK_END</a>, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d2/df2/a10776.html">TransportScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d8/d7d/a10780.html">UnitScript</a>, <a class="el" href="../../d7/d4f/a03746.html#a4eaefcbbd1058569f55194299c218c26af159e92a1ac42831ecbad7dbb708f352">UNITHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d5/d9e/a10784.html">VehicleScript</a>, 0, false, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d8/ded/a10788.html">WeatherScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d3/df1/a10792.html">WorldMapScript</a>, 0, true, true &gt;, ScriptTypeInfo&lt; <a class="el" href="../../dc/da5/a10796.html">WorldObjectScript</a>, <a class="el" href="../../d7/d7b/a03593.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59">WORLDOBJECTHOOK_END</a> &gt;, ScriptTypeInfo&lt; <a class="el" href="../../d9/d93/a10800.html">WorldScript</a>, <a class="el" href="../../d9/d65/a03578.html#a4d497fc434376a9edca1897eabc39493a1a7e32e7ba7aec9dc7b8edd43a903800">WORLDHOOK_END</a>, false, true &gt; &gt;</td></tr>
-<tr class="separator:aeb8e82d65431497fd236110fed3408b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:ae56af266ccaa1794f1f014938b07e9cc"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="../../da/d5a/a06524.html">TSpellSummary</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#ae56af266ccaa1794f1f014938b07e9cc">SpellSummary</a></td></tr>
-<tr class="separator:ae56af266ccaa1794f1f014938b07e9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a12159e90d998de411ceb193c223f26c9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a> { <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a>
+<br />
+ }</td></tr>
+<tr class="separator:a12159e90d998de411ceb193c223f26c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="ae56af266ccaa1794f1f014938b07e9cc" name="ae56af266ccaa1794f1f014938b07e9cc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae56af266ccaa1794f1f014938b07e9cc">&#9670;&#160;</a></span>SpellSummary</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a12159e90d998de411ceb193c223f26c9" name="a12159e90d998de411ceb193c223f26c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12159e90d998de411ceb193c223f26c9">&#9670;&#160;</a></span>AuctionHouseHook</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">struct <a class="el" href="../../da/d5a/a06524.html">TSpellSummary</a>* SpellSummary</td>
+          <td class="memname">enum <a class="el" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9">AuctionHouseHook</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0" name="a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"></a>AUCTIONHOUSEHOOK_ON_AUCTION_ADD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2" name="a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"></a>AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff" name="a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"></a>AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25" name="a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"></a>AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f" name="a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223" name="a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112" name="a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff" name="a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f" name="a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e" name="a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9" name="a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"></a>AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc" name="a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"></a>AUCTIONHOUSEHOOK_END&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a>,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a>,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a>,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a>,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a>,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a>,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a>,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a>,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a>,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a>,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div>
+<div class="line"><span class="lineno">   38</span>};</div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a295a1203b4a90662e8073a6261f3ef3e">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_CANCELLED_TO_BIDDER_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:35</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a35dc9893c9907c4dcc2e82d4c76d676f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_WON_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:30</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a362d6596f9e6e244770e45e6a370c4ff">AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_SUCCESSFUL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:28</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a421df825a260ea03c56931355ddf1ab0">AUCTIONHOUSEHOOK_ON_AUCTION_ADD</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_ADD</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:26</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a44327f4a6ffbc4e61c13b3464ed692a9">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_UPDATE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:36</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a734ce8ea184a341e1f4f2cb623ca92f2">AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_REMOVE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:27</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a7e23595d7f6e6e1395197011e8f9a223">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SALE_PENDING_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:31</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8134031bb2abf85f09fdb58f05e2beff">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_EXPIRED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:33</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9a8dfad4f6d84ae3e60da1bda679769112">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_SUCCESSFUL_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:32</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ab8f41919bd7182973e7f7a170e9d2d2f">AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_BEFORE_AUCTIONHOUSEMGR_SEND_AUCTION_OUTBIDDED_MAIL</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:34</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9ad05ff999bda4877b0113b2e6eca79a25">AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_ON_AUCTION_EXPIRE</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:29</div></div>
+<div class="ttc" id="aa03500_html_a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc"><div class="ttname"><a href="../../d8/d63/a03500.html#a12159e90d998de411ceb193c223f26c9af4325d8b8ea36fcf62bcf309a84918fc">AUCTIONHOUSEHOOK_END</a></div><div class="ttdeci">@ AUCTIONHOUSEHOOK_END</div><div class="ttdef"><b>Definition:</b> AuctionHouseScript.h:37</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -166,8 +210,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../d8/d63/a03500.html">ScriptMgr.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:13:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d8/d63/a03500.html">AuctionHouseScript.h</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:37:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

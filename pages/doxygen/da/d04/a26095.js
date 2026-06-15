@@ -1,6 +1,7 @@
 var a26095 =
 [
-    [ "CheckProc", "da/d04/a26095.html#ae67afabe644d2e11f85950d02325373a", null ],
-    [ "PrepareAuraScript", "da/d04/a26095.html#adf2825375a332d2829778d2a57c6f511", null ],
-    [ "Register", "da/d04/a26095.html#ad9f4946abaf474e31b518b57e1de5bf1", null ]
+    [ "HandleProc", "da/d04/a26095.html#ac00d9d4e8eee65a66b3429809debbda1", null ],
+    [ "PrepareAuraScript", "da/d04/a26095.html#a5def77211bfb06120a05999d7defbea3", null ],
+    [ "Register", "da/d04/a26095.html#a38afbc38532160763df6db8b37c33163", null ],
+    [ "Validate", "da/d04/a26095.html#ad59dce623cc1569bb4d9867f528a4fa8", null ]
 ];

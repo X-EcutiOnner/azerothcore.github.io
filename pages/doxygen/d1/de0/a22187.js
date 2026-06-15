@@ -1,8 +1,5 @@
 var a22187 =
 [
-    [ "HandleApply", "d1/de0/a22187.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d1/de0/a22187.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d1/de0/a22187.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d1/de0/a22187.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d1/de0/a22187.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d1/de0/a22187.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d1/de0/a22187.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

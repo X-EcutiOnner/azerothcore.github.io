@@ -1,6 +1,9 @@
 var a18879 =
 [
-    [ "npc_captain_rupertAI", "dc/dd4/a18879.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "dc/dd4/a18879.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "dc/dd4/a18879.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_gluttonous_abominationAI", "dc/dd4/a18879.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
+    [ "JustDied", "dc/dd4/a18879.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
+    [ "JustSummoned", "dc/dd4/a18879.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
+    [ "Reset", "dc/dd4/a18879.html#a45588181429a74ac024e0390c76fa57a", null ],
+    [ "UpdateAI", "dc/dd4/a18879.html#a33ef03a9f005ff187493275a9c2683a7", null ],
+    [ "_events", "dc/dd4/a18879.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
 ];

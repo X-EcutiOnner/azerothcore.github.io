@@ -1,6 +1,6 @@
 var a19263 =
 [
-    [ "FilterTargets", "dc/d9c/a19263.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "dc/d9c/a19263.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "dc/d9c/a19263.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "npc_four_car_garageAI", "dc/d9c/a19263.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "dc/d9c/a19263.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "dc/d9c/a19263.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

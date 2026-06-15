@@ -1,11 +1,6 @@
 var a13547 =
 [
-    [ "boss_alythess", "dd/d09/a13547.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "dd/d09/a13547.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "dd/d09/a13547.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "dd/d09/a13547.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "dd/d09/a13547.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "dd/d09/a13547.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "dd/d09/a13547.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "dd/d09/a13547.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "instance_scholomance_InstanceMapScript", "d4/dc6/a13551.html", "d4/dc6/a13551" ],
+    [ "instance_scholomance", "dd/d09/a13547.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "dd/d09/a13547.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

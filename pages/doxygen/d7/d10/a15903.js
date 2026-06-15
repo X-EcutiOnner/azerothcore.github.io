@@ -1,13 +1,7 @@
 var a15903 =
 [
-    [ "npc_aquementasAI", "d7/d10/a15903.html#aad63986cdb8a65c528af3ccd114d2041", null ],
-    [ "JustEngagedWith", "d7/d10/a15903.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
-    [ "Reset", "d7/d10/a15903.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
-    [ "SendItem", "d7/d10/a15903.html#a60bafbd70783411236dcf3d0bfe244de", null ],
-    [ "UpdateAI", "d7/d10/a15903.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
-    [ "AquaJetTimer", "d7/d10/a15903.html#a8506acc69436af869d1404bd95109e68", null ],
-    [ "FrostShockTimer", "d7/d10/a15903.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
-    [ "isFriendly", "d7/d10/a15903.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
-    [ "SendItemTimer", "d7/d10/a15903.html#a3a0883b43056b176ef2ae55673adacf3", null ],
-    [ "SwitchFactionTimer", "d7/d10/a15903.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
+    [ "HandleDummy", "d7/d10/a15903.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "d7/d10/a15903.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "d7/d10/a15903.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "d7/d10/a15903.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

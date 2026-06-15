@@ -1,10 +1,7 @@
 var a20291 =
 [
-    [ "boss_kologarn_eyebeam", "d8/da4/a20291.html#ae51ea98b22b3a0734347825b3a0346be", null ],
-    [ "DamageDealt", "d8/da4/a20291.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
-    [ "IsSummonedBy", "d8/da4/a20291.html#a1640ef2ca2a58803786a6c675191676c", null ],
-    [ "UpdateAI", "d8/da4/a20291.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
-    [ "_damaged", "d8/da4/a20291.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
-    [ "_timer", "d8/da4/a20291.html#a0d324467d4d02d7bd204f66fcadc52ea", null ],
-    [ "m_pInstance", "d8/da4/a20291.html#a3725453f7a0d7b307cdbb9b63d990e5b", null ]
+    [ "npc_ulduar_icicle", "d8/da4/a20291.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
+    [ "UpdateAI", "d8/da4/a20291.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
+    [ "timer1", "d8/da4/a20291.html#ae277d302131abd17cef018872b12da06", null ],
+    [ "timer2", "d8/da4/a20291.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
 ];

@@ -1,8 +1,10 @@
 var a03302 =
 [
-    [ "instance_drak_tharon_keep", "d3/d91/a17042.html", "d3/d91/a17042" ],
-    [ "spell_dtk_raise_dead_aura", "d8/d97/a17046.html", "d8/d97/a17046" ],
-    [ "spell_dtk_summon_random_drakkari", "d1/d7c/a17050.html", "d1/d7c/a17050" ],
-    [ "AddSC_instance_drak_tharon_keep", "d5/da8/a03302.html#a5644ddec1299c3c3988ffb003d0c3367", null ],
-    [ "doorData", "d5/da8/a03302.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ]
+    [ "MovementGenerator", "d9/d1d/a10319.html", "d9/d1d/a10319" ],
+    [ "MovementGeneratorMedium< T, D >", "d1/d2a/a10323.html", "d1/d2a/a10323" ],
+    [ "MovementGeneratorFactory< Movement >", "df/deb/a10327.html", "df/deb/a10327" ],
+    [ "IdleMovementFactory", "d6/d32/a10331.html", "d6/d32/a10331" ],
+    [ "sMovementGeneratorRegistry", "d5/da8/a03302.html#aa270c1b96e4671274975a07340ba687a", null ],
+    [ "MovementGeneratorCreator", "d5/da8/a03302.html#ae7a6c44762ef974149bfb8d00247a013", null ],
+    [ "MovementGeneratorRegistry", "d5/da8/a03302.html#ae78e82cd7b1aea7744a0dbb2e65f8e79", null ]
 ];

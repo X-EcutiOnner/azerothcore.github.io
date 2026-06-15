@@ -1,10 +1,11 @@
 var a11767 =
 [
-    [ "EffectHook", "de/d37/a11767.html#a4a197e061d918dfba2bc486f3393b00d", null ],
-    [ "~EffectHook", "de/d37/a11767.html#aa234f63b530764d12064acbe3f5c9299", null ],
-    [ "CheckEffect", "de/d37/a11767.html#ae8823c5d649d182f572818bf3db72902", null ],
-    [ "EffIndexToString", "de/d37/a11767.html#ab818ed274cfd66ecc565b8535b751517", null ],
-    [ "GetAffectedEffectsMask", "de/d37/a11767.html#a31faa86590e22f5ab3ca518f4df02840", null ],
-    [ "IsEffectAffected", "de/d37/a11767.html#a697041ffa562bb6fff792beb159c7af2", null ],
-    [ "effIndex", "de/d37/a11767.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
+    [ "SpellValue", "de/d37/a11767.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "de/d37/a11767.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "de/d37/a11767.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "de/d37/a11767.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "de/d37/a11767.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "de/d37/a11767.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "de/d37/a11767.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "de/d37/a11767.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

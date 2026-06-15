@@ -1,6 +1,10 @@
 var a12375 =
 [
-    [ "boss_vanndarAI", "d9/d86/a12379.html", "d9/d86/a12379" ],
-    [ "boss_vanndar", "d8/d9e/a12375.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
-    [ "GetAI", "d8/d9e/a12375.html#ad1879cc6123a323ada04c49a2c691349", null ]
+    [ "item_commandscript", "d8/d9e/a12375.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
+    [ "GetCommands", "d8/d9e/a12375.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
+    [ "HandleItemMoveCommand", "d8/d9e/a12375.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
+    [ "HandleItemRefundCommand", "d8/d9e/a12375.html#af914e33be05148062abd89c754d939c9", null ],
+    [ "HandleItemRestoreCommand", "d8/d9e/a12375.html#a84c67a46c513c1aac2b9d2563d693929", null ],
+    [ "HandleItemRestoreListCommand", "d8/d9e/a12375.html#a40181310f4187a71a6f5f5f600a8f468", null ],
+    [ "HasItemDeletionConfig", "d8/d9e/a12375.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
 ];

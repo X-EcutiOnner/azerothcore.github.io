@@ -1,6 +1,10 @@
 var a10791 =
 [
-    [ "GetEvent", "d4/daf/a10791.html#aabf338a9824038abbd0934a3bef0a269", null ],
-    [ "Read", "d4/daf/a10791.html#a344db9b28e7247dc0285a3468a789721", null ],
-    [ "EventId", "d4/daf/a10791.html#a31de21c2af87d174d139eef870cbb5fd", null ]
+    [ "VehicleScript", "d4/daf/a10791.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d4/daf/a10791.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d4/daf/a10791.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d4/daf/a10791.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d4/daf/a10791.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d4/daf/a10791.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d4/daf/a10791.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

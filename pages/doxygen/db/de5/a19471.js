@@ -1,8 +1,6 @@
 var a19471 =
 [
-    [ "Load", "db/de5/a19471.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
-    [ "OnRemove", "db/de5/a19471.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
-    [ "PrepareAuraScript", "db/de5/a19471.html#aae6c3a215b09fd2270976190600e2cc4", null ],
-    [ "Register", "db/de5/a19471.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
-    [ "Validate", "db/de5/a19471.html#ae4ac76269793280335d76a78e5dced91", null ]
+    [ "boss_patchwerkAI", "d7/db7/a19475.html", "d7/db7/a19475" ],
+    [ "boss_patchwerk", "db/de5/a19471.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
+    [ "GetAI", "db/de5/a19471.html#a03f2dec61192405760958e26d998d67e", null ]
 ];

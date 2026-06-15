@@ -1,9 +1,12 @@
 var a08655 =
 [
-    [ "Reset", "d6/d1f/a08655.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "d6/d1f/a08655.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "d6/d1f/a08655.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "d6/d1f/a08655.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "d6/d1f/a08655.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "d6/d1f/a08655.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "QuaternionData", "d6/d1f/a08655.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "d6/d1f/a08655.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "d6/d1f/a08655.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "d6/d1f/a08655.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "d6/d1f/a08655.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "d6/d1f/a08655.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "d6/d1f/a08655.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "d6/d1f/a08655.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "d6/d1f/a08655.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

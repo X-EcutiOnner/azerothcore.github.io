@@ -1,4 +1,10 @@
 var a10115 =
 [
-    [ "GetObjectHitPos", "d8/dc8/a10115.html#ae50a9a90538fd07f604929251fa2113a", null ]
+    [ "DoublePosition", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
+    [ "~AreaBoundary", "d8/dc8/a10115.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d8/dc8/a10115.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d8/dc8/a10115.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d8/dc8/a10115.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d8/dc8/a10115.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d8/dc8/a10115.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

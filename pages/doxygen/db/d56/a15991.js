@@ -1,6 +1,6 @@
 var a15991 =
 [
-    [ "HandleDummy", "db/d56/a15991.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "db/d56/a15991.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "db/d56/a15991.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_qiraj_war_spawnAI", "df/d91/a15995.html", "df/d91/a15995" ],
+    [ "npc_qiraj_war_spawn", "db/d56/a15991.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "db/d56/a15991.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

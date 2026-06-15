@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/EasternKingdoms/SunwellPlateau/instance_sunwell_plateau.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Spells/SpellProcDisableEffectsTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,444 +106,726 @@ $(document).ready(function(){initNavTree('da/d24/a00068.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_sunwell_plateau.cpp File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">SpellProcDisableEffectsTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">sunwell_plateau.h</a>&quot;</code><br />
+
+<p><a class="el" href="../../d4/df4/a09099.html">Unit</a> tests for DisableEffectsMask filtering in proc system.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ProcChanceTestHelper.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ProcEventInfoHelper.h</a>&quot;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d98/a13832.html">instance_sunwell_plateau</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d55/a13836.html">instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dde/a13840.html">spell_cataclysm_breath</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/de6/a13844.html">npc_sunblade_scout</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d20/a13848.html">spell_sunwell_teleport</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d36/a13852.html">npc_sunblade_arch_mage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d3b/a13856.html">spell_spell_fury_aura</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a6a5181bd462eed11e28ffb04c14a901c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901c">cataclysmBreath</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3">SPELL_CORROSIVE_POISON</a> = 46293
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222">SPELL_FEVERED_FATIGUE</a> = 46294
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b">SPELL_HEX</a> = 46295
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b">SPELL_NECROTIC_POISON</a> = 46296
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d">SPELL_PIERCING_SHADOW</a> = 46297
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f">SPELL_SHRINK</a> = 46298
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8">SPELL_WAVERING_WILL</a> = 46299
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b">SPELL_WITHERED_TOUCH</a> = 46300
-<br />
- }</td></tr>
-<tr class="separator:a6a5181bd462eed11e28ffb04c14a901c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf4c1644419a40c8480767e91644d5bc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bc">SunbladeScout</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3">NPC_SUNBLADE_PROTECTOR</a> = 25507
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664">SPELL_ACTIVATE_SUNBLADE_PROTECTOR</a> = 46475
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff">SPELL_COSMETIC_STUN_IMMUNE_PERMANENT</a> = 59123
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd">SPELL_FELBLOOD_CHANNEL</a> = 46319
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7">SPELL_SINISTER_STRIKE</a> = 46558
-<br />
- }</td></tr>
-<tr class="separator:aaf4c1644419a40c8480767e91644d5bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16317b99a941a9465e032037ccd2c216"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216">SunwellTeleportSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b">SPELL_TELEPORT_TO_APEX_POINT</a> = 46881
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368">SPELL_TELEPORT_TO_WITCHS_SANCTUM</a> = 46883
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e">SPELL_TELEPORT_TO_SUNWELL_PLATEAU</a> = 46884
-<br />
- }</td></tr>
-<tr class="separator:a16317b99a941a9465e032037ccd2c216"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41df3ad8185e1920fff7e943ae1d6de8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8">SunbladeArchMageSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a> = 46553
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a">SPELL_BLINK</a> = 28401
-, <br />
-&#160;&#160;<a class="el" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a> = 46555
-<br />
- }</td></tr>
-<tr class="separator:a41df3ad8185e1920fff7e943ae1d6de8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a6f050a93b62a1391ae6321d1d2d6450a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a6f050a93b62a1391ae6321d1d2d6450a">AddSC_instance_sunwell_plateau</a> ()</td></tr>
-<tr class="separator:a6f050a93b62a1391ae6321d1d2d6450a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d12/a09984.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1461582839e3b7fdbb7397e5d2086e31"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a1461582839e3b7fdbb7397e5d2086e31">gameObjectData</a> []</td></tr>
-<tr class="separator:a1461582839e3b7fdbb7397e5d2086e31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7ba92b4a76e9cb7835c84a49f9c2052"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#af7ba92b4a76e9cb7835c84a49f9c2052">summonData</a> []</td></tr>
-<tr class="separator:af7ba92b4a76e9cb7835c84a49f9c2052"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada6aa7946b5b1650643d1101a7b0a6a1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#ada6aa7946b5b1650643d1101a7b0a6a1">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffect0_BlocksOnlyEffect0)</td></tr>
+<tr class="separator:ada6aa7946b5b1650643d1101a7b0a6a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a209cf89313651785788473e379b84a84"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a209cf89313651785788473e379b84a84">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffect1_BlocksOnlyEffect1)</td></tr>
+<tr class="separator:a209cf89313651785788473e379b84a84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0f559af209178724eb3126d61ad07d7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#ac0f559af209178724eb3126d61ad07d7">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffect2_BlocksOnlyEffect2)</td></tr>
+<tr class="separator:ac0f559af209178724eb3126d61ad07d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e3c33508c40282f4fc3283792e6e5a1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a1e3c33508c40282f4fc3283792e6e5a1">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffects0And1_LeavesEffect2)</td></tr>
+<tr class="separator:a1e3c33508c40282f4fc3283792e6e5a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69a9541f9f5c5bc76d328b5b496acea4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a69a9541f9f5c5bc76d328b5b496acea4">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffects0And2_LeavesEffect1)</td></tr>
+<tr class="separator:a69a9541f9f5c5bc76d328b5b496acea4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82283c17501ab739171a9f29b6bfe746"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a82283c17501ab739171a9f29b6bfe746">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableEffects1And2_LeavesEffect0)</td></tr>
+<tr class="separator:a82283c17501ab739171a9f29b6bfe746"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83593ff4e5f0d4bbf17f3d89a11ad41b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a83593ff4e5f0d4bbf17f3d89a11ad41b">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, DisableAllEffects_BlocksProc)</td></tr>
+<tr class="separator:a83593ff4e5f0d4bbf17f3d89a11ad41b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a168e46f935ad0b05479d64d810f07fac"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a168e46f935ad0b05479d64d810f07fac">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, NotAllDisabled_ProcAllowed)</td></tr>
+<tr class="separator:a168e46f935ad0b05479d64d810f07fac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47cb30ee310f6abc71de51474bf4d02e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a47cb30ee310f6abc71de51474bf4d02e">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, PartialInitialMask_Effect0Only)</td></tr>
+<tr class="separator:a47cb30ee310f6abc71de51474bf4d02e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf2364ee45cd14949ea8fa599d15207b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#acf2364ee45cd14949ea8fa599d15207b">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, PartialInitialMask_Effects0And1)</td></tr>
+<tr class="separator:acf2364ee45cd14949ea8fa599d15207b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca9a42766818ffc52919d66ab1017745"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#aca9a42766818ffc52919d66ab1017745">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, ZeroDisableMask_NoEffectDisabled)</td></tr>
+<tr class="separator:aca9a42766818ffc52919d66ab1017745"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37a87cb84048c2080f4612acc24521b7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a37a87cb84048c2080f4612acc24521b7">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, HigherBits_IgnoredForEffects)</td></tr>
+<tr class="separator:a37a87cb84048c2080f4612acc24521b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a280de460557f0d5f4f03d2821c31ec8f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a280de460557f0d5f4f03d2821c31ec8f">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, SpellProcEntry_WithDisableEffectsMask)</td></tr>
+<tr class="separator:a280de460557f0d5f4f03d2821c31ec8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a830a4559543ce06e92f37f1cfccea55e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a830a4559543ce06e92f37f1cfccea55e">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, SpellProcEntry_AllDisabled)</td></tr>
+<tr class="separator:a830a4559543ce06e92f37f1cfccea55e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e4c6158dabe9042eea4f0aed6923dc7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a8e4c6158dabe9042eea4f0aed6923dc7">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, Scenario_SingleEffectAura)</td></tr>
+<tr class="separator:a8e4c6158dabe9042eea4f0aed6923dc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6352b8a0e0c72a3f03d64c5faf35e62b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d24/a00068.html#a6352b8a0e0c72a3f03d64c5faf35e62b">TEST_F</a> (<a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>, Scenario_DualEffectAura)</td></tr>
+<tr class="separator:a6352b8a0e0c72a3f03d64c5faf35e62b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a6a5181bd462eed11e28ffb04c14a901c" name="a6a5181bd462eed11e28ffb04c14a901c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6a5181bd462eed11e28ffb04c14a901c">&#9670;&#160;</a></span>cataclysmBreath</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><p ><a class="el" href="../../d4/df4/a09099.html">Unit</a> tests for DisableEffectsMask filtering in proc system. </p>
+<p >Tests the logic from <a class="el" href="../../d7/d54/a03089.html">SpellAuras.cpp</a>:2244-2258:</p><ul>
+<li>Bitmask filtering for effect indices 0, 1, 2</li>
+<li>Combined filtering with multiple disabled effects</li>
+<li>Proc blocking when all effects are disabled </li>
+</ul>
+
+<p class="definition">Definition in file <a class="el" href="../../">SpellProcDisableEffectsTest.cpp</a>.</p>
+</div><h2 class="groupheader">Function Documentation</h2>
+<a id="a83593ff4e5f0d4bbf17f3d89a11ad41b" name="a83593ff4e5f0d4bbf17f3d89a11ad41b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83593ff4e5f0d4bbf17f3d89a11ad41b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901c">cataclysmBreath</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3" name="a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3"></a>SPELL_CORROSIVE_POISON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222" name="a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222"></a>SPELL_FEVERED_FATIGUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b" name="a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b"></a>SPELL_HEX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b" name="a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b"></a>SPELL_NECROTIC_POISON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d" name="a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d"></a>SPELL_PIERCING_SHADOW&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f" name="a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f"></a>SPELL_SHRINK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8" name="a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8"></a>SPELL_WAVERING_WILL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b" name="a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b"></a>SPELL_WITHERED_TOUCH&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  120</span>{</div>
-<div class="line"><span class="lineno">  121</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3">SPELL_CORROSIVE_POISON</a>      = 46293,</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222">SPELL_FEVERED_FATIGUE</a>       = 46294,</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b">SPELL_HEX</a>                   = 46295,</div>
-<div class="line"><span class="lineno">  124</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b">SPELL_NECROTIC_POISON</a>       = 46296,</div>
-<div class="line"><span class="lineno">  125</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d">SPELL_PIERCING_SHADOW</a>       = 46297,</div>
-<div class="line"><span class="lineno">  126</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f">SPELL_SHRINK</a>                = 46298,</div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8">SPELL_WAVERING_WILL</a>         = 46299,</div>
-<div class="line"><span class="lineno">  128</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b">SPELL_WITHERED_TOUCH</a>        = 46300</div>
-<div class="line"><span class="lineno">  129</span>};</div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca049e0d56c3f30d8991dde2beae302c4f">SPELL_SHRINK</a></div><div class="ttdeci">@ SPELL_SHRINK</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:126</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca799fa97283c7b88949520a98f9f00ee8">SPELL_WAVERING_WILL</a></div><div class="ttdeci">@ SPELL_WAVERING_WILL</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:127</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca818edbfea0cf0c02ff4960dc3223a5f3">SPELL_CORROSIVE_POISON</a></div><div class="ttdeci">@ SPELL_CORROSIVE_POISON</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:121</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca88cd9f67c5feb7f0ba6c853b8520a00b">SPELL_HEX</a></div><div class="ttdeci">@ SPELL_HEX</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:123</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca91659ae45d576a823387ef54f56e2c4b">SPELL_NECROTIC_POISON</a></div><div class="ttdeci">@ SPELL_NECROTIC_POISON</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:124</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901ca998a1e2cfc29e3344feb12041284e222">SPELL_FEVERED_FATIGUE</a></div><div class="ttdeci">@ SPELL_FEVERED_FATIGUE</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:122</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901caa34a7e07cb901fc82e3dc957d620e03b">SPELL_WITHERED_TOUCH</a></div><div class="ttdeci">@ SPELL_WITHERED_TOUCH</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:128</div></div>
-<div class="ttc" id="aa00068_html_a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d"><div class="ttname"><a href="../../da/d24/a00068.html#a6a5181bd462eed11e28ffb04c14a901cadfad6c0302dc1ae7b545b95f9b85b58d">SPELL_PIERCING_SHADOW</a></div><div class="ttdeci">@ SPELL_PIERCING_SHADOW</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:125</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a41df3ad8185e1920fff7e943ae1d6de8" name="a41df3ad8185e1920fff7e943ae1d6de8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41df3ad8185e1920fff7e943ae1d6de8">&#9670;&#160;</a></span>SunbladeArchMageSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8">SunbladeArchMageSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce" name="a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce"></a>SPELL_ARCANE_EXPLOSION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a" name="a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a"></a>SPELL_BLINK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03" name="a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03"></a>SPELL_FROST_NOVA&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  286</span>{</div>
-<div class="line"><span class="lineno">  287</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a>    = 46553,</div>
-<div class="line"><span class="lineno">  288</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a">SPELL_BLINK</a>               = 28401,</div>
-<div class="line"><span class="lineno">  289</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a>          = 46555</div>
-<div class="line"><span class="lineno">  290</span>};</div>
-<div class="ttc" id="aa00068_html_a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a"><div class="ttname"><a href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a01403f46ad9c5f2409e0159074061c8a">SPELL_BLINK</a></div><div class="ttdeci">@ SPELL_BLINK</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:288</div></div>
-<div class="ttc" id="aa00068_html_a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce"><div class="ttname"><a href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8a6cef4c5e88133771f6b27aec8b8cfdce">SPELL_ARCANE_EXPLOSION</a></div><div class="ttdeci">@ SPELL_ARCANE_EXPLOSION</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:287</div></div>
-<div class="ttc" id="aa00068_html_a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03"><div class="ttname"><a href="../../da/d24/a00068.html#a41df3ad8185e1920fff7e943ae1d6de8ab913503b67c5b8f901cfc4f207bcba03">SPELL_FROST_NOVA</a></div><div class="ttdeci">@ SPELL_FROST_NOVA</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:289</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aaf4c1644419a40c8480767e91644d5bc" name="aaf4c1644419a40c8480767e91644d5bc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf4c1644419a40c8480767e91644d5bc">&#9670;&#160;</a></span>SunbladeScout</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bc">SunbladeScout</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3" name="aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3"></a>NPC_SUNBLADE_PROTECTOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe" name="aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe"></a>SAY_AGGRO&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664" name="aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664"></a>SPELL_ACTIVATE_SUNBLADE_PROTECTOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff" name="aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff"></a>SPELL_COSMETIC_STUN_IMMUNE_PERMANENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd" name="aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd"></a>SPELL_FELBLOOD_CHANNEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7" name="aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7"></a>SPELL_SINISTER_STRIKE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  154</span>{</div>
-<div class="line"><span class="lineno">  155</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3">NPC_SUNBLADE_PROTECTOR</a>               = 25507,</div>
-<div class="line"><span class="lineno">  156</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                            = 0, <span class="comment">// Enemies spotted! Attack while I try to activate a Protector!</span></div>
-<div class="line"><span class="lineno">  157</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664">SPELL_ACTIVATE_SUNBLADE_PROTECTOR</a>    = 46475,</div>
-<div class="line"><span class="lineno">  158</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff">SPELL_COSMETIC_STUN_IMMUNE_PERMANENT</a> = 59123,</div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd">SPELL_FELBLOOD_CHANNEL</a>               = 46319,</div>
-<div class="line"><span class="lineno">  160</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7">SPELL_SINISTER_STRIKE</a>                = 46558,</div>
-<div class="line"><span class="lineno">  161</span>};</div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca2a2aa66bbc0dcd838269258c02024cfd">SPELL_FELBLOOD_CHANNEL</a></div><div class="ttdeci">@ SPELL_FELBLOOD_CHANNEL</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:159</div></div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca3217132d497cc70e674432067fd431a7">SPELL_SINISTER_STRIKE</a></div><div class="ttdeci">@ SPELL_SINISTER_STRIKE</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:160</div></div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:156</div></div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca62010ff06f3f856c841862d5ffa3bde3">NPC_SUNBLADE_PROTECTOR</a></div><div class="ttdeci">@ NPC_SUNBLADE_PROTECTOR</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:155</div></div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bca70d2242d6d051050a93cde9e0d01c664">SPELL_ACTIVATE_SUNBLADE_PROTECTOR</a></div><div class="ttdeci">@ SPELL_ACTIVATE_SUNBLADE_PROTECTOR</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:157</div></div>
-<div class="ttc" id="aa00068_html_aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff"><div class="ttname"><a href="../../da/d24/a00068.html#aaf4c1644419a40c8480767e91644d5bcad90671e3ea9403b6696d77fee706ebff">SPELL_COSMETIC_STUN_IMMUNE_PERMANENT</a></div><div class="ttdeci">@ SPELL_COSMETIC_STUN_IMMUNE_PERMANENT</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:158</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a16317b99a941a9465e032037ccd2c216" name="a16317b99a941a9465e032037ccd2c216"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16317b99a941a9465e032037ccd2c216">&#9670;&#160;</a></span>SunwellTeleportSpells</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216">SunwellTeleportSpells</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b" name="a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b"></a>SPELL_TELEPORT_TO_APEX_POINT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368" name="a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368"></a>SPELL_TELEPORT_TO_WITCHS_SANCTUM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e" name="a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e"></a>SPELL_TELEPORT_TO_SUNWELL_PLATEAU&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  254</span>{</div>
-<div class="line"><span class="lineno">  255</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b">SPELL_TELEPORT_TO_APEX_POINT</a> = 46881,</div>
-<div class="line"><span class="lineno">  256</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368">SPELL_TELEPORT_TO_WITCHS_SANCTUM</a> = 46883,</div>
-<div class="line"><span class="lineno">  257</span>    <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e">SPELL_TELEPORT_TO_SUNWELL_PLATEAU</a> = 46884,</div>
-<div class="line"><span class="lineno">  258</span>};</div>
-<div class="ttc" id="aa00068_html_a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368"><div class="ttname"><a href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368">SPELL_TELEPORT_TO_WITCHS_SANCTUM</a></div><div class="ttdeci">@ SPELL_TELEPORT_TO_WITCHS_SANCTUM</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:256</div></div>
-<div class="ttc" id="aa00068_html_a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b"><div class="ttname"><a href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b">SPELL_TELEPORT_TO_APEX_POINT</a></div><div class="ttdeci">@ SPELL_TELEPORT_TO_APEX_POINT</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:255</div></div>
-<div class="ttc" id="aa00068_html_a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e"><div class="ttname"><a href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e">SPELL_TELEPORT_TO_SUNWELL_PLATEAU</a></div><div class="ttdeci">@ SPELL_TELEPORT_TO_SUNWELL_PLATEAU</div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:257</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a6f050a93b62a1391ae6321d1d2d6450a" name="a6f050a93b62a1391ae6321d1d2d6450a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6f050a93b62a1391ae6321d1d2d6450a">&#9670;&#160;</a></span>AddSC_instance_sunwell_plateau()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_instance_sunwell_plateau </td>
+          <td class="memname">TEST_F </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">DisableAllEffects_BlocksProc&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  351</span>{</div>
-<div class="line"><span class="lineno">  352</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d98/a13832.html">instance_sunwell_plateau</a>();</div>
-<div class="line"><span class="lineno">  353</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/dde/a13840.html">spell_cataclysm_breath</a>);</div>
-<div class="line"><span class="lineno">  354</span>    <a class="code hl_define" href="../../d3/d8b/a00059.html#a299463d4f94e7e799027f3d0d0bdc3b9">RegisterSunwellPlateauCreatureAI</a>(<a class="code hl_struct" href="../../dd/d36/a13852.html">npc_sunblade_arch_mage</a>);</div>
-<div class="line"><span class="lineno">  355</span>    <a class="code hl_define" href="../../d3/d8b/a00059.html#a299463d4f94e7e799027f3d0d0bdc3b9">RegisterSunwellPlateauCreatureAI</a>(<a class="code hl_struct" href="../../df/de6/a13844.html">npc_sunblade_scout</a>);</div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../d4/d20/a13848.html">spell_sunwell_teleport</a>, <span class="stringliteral">&quot;spell_teleport_to_apex_point&quot;</span>, <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a23cd04b9feb2f33d8c21a69bd87fde0b">SPELL_TELEPORT_TO_APEX_POINT</a>);</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../d4/d20/a13848.html">spell_sunwell_teleport</a>, <span class="stringliteral">&quot;spell_teleport_to_witchs_sanctum&quot;</span>, <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a0f6f867ae4a97ff222364847b54a3368">SPELL_TELEPORT_TO_WITCHS_SANCTUM</a>);</div>
-<div class="line"><span class="lineno">  358</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a>(<a class="code hl_class" href="../../d4/d20/a13848.html">spell_sunwell_teleport</a>, <span class="stringliteral">&quot;spell_teleport_to_sunwell_plateau&quot;</span>, <a class="code hl_enumvalue" href="../../da/d24/a00068.html#a16317b99a941a9465e032037ccd2c216a962210e270324883a8e4c1333b2abf2e">SPELL_TELEPORT_TO_SUNWELL_PLATEAU</a>);</div>
-<div class="line"><span class="lineno">  359</span>    <a class="code hl_define" href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d3b/a13856.html">spell_spell_fury_aura</a>);</div>
-<div class="line"><span class="lineno">  360</span>}</div>
-<div class="ttc" id="aa00059_html_a299463d4f94e7e799027f3d0d0bdc3b9"><div class="ttname"><a href="../../d3/d8b/a00059.html#a299463d4f94e7e799027f3d0d0bdc3b9">RegisterSunwellPlateauCreatureAI</a></div><div class="ttdeci">#define RegisterSunwellPlateauCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:116</div></div>
-<div class="ttc" id="aa03689_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa03689_html_aedecf91f4fce46852db865deae243e1f"><div class="ttname"><a href="../../d3/d4a/a03689.html#aedecf91f4fce46852db865deae243e1f">RegisterSpellScriptWithArgs</a></div><div class="ttdeci">#define RegisterSpellScriptWithArgs(spell_script, script_name,...)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:87</div></div>
-<div class="ttc" id="aa13832_html"><div class="ttname"><a href="../../df/d98/a13832.html">instance_sunwell_plateau</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:79</div></div>
-<div class="ttc" id="aa13840_html"><div class="ttname"><a href="../../db/dde/a13840.html">spell_cataclysm_breath</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:132</div></div>
-<div class="ttc" id="aa13844_html"><div class="ttname"><a href="../../df/de6/a13844.html">npc_sunblade_scout</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:164</div></div>
-<div class="ttc" id="aa13848_html"><div class="ttname"><a href="../../d4/d20/a13848.html">spell_sunwell_teleport</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:260</div></div>
-<div class="ttc" id="aa13852_html"><div class="ttname"><a href="../../dd/d36/a13852.html">npc_sunblade_arch_mage</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:293</div></div>
-<div class="ttc" id="aa13856_html"><div class="ttname"><a href="../../d1/d3b/a13856.html">spell_spell_fury_aura</a></div><div class="ttdef"><b>Definition:</b> instance_sunwell_plateau.cpp:335</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  116</span>{</div>
+<div class="line"><span class="lineno">  117</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x07;  <span class="comment">// Disable all 3 effects</span></div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">  120</span> </div>
+<div class="line"><span class="lineno">  121</span>    EXPECT_EQ(result, 0x00)</div>
+<div class="line"><span class="lineno">  122</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x07 should disable all effects&quot;</span>;</div>
+<div class="line"><span class="lineno">  123</span> </div>
+<div class="line"><span class="lineno">  124</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, disableMask))</div>
+<div class="line"><span class="lineno">  125</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when all effects are disabled&quot;</span>;</div>
+<div class="line"><span class="lineno">  126</span>}</div>
+<div class="ttc" id="aa04898_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04898_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa29303_html_a6f7564c8a12d1531afe97c4f61fb23ac"><div class="ttname"><a href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a></div><div class="ttdeci">static bool ShouldBlockDueToDisabledEffects(uint8 initialMask, uint32 disableEffectsMask)</div><div class="ttdoc">Check if proc should be blocked due to all effects being disabled.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:357</div></div>
+<div class="ttc" id="aa29303_html_afdbe9b23c7bbe076f45ec94d1289b297"><div class="ttname"><a href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a></div><div class="ttdeci">static uint8 ApplyDisableEffectsMask(uint8 initialMask, uint32 disableEffectsMask)</div><div class="ttdoc">Apply DisableEffectsMask to get final proc effect mask.</div><div class="ttdef"><b>Definition:</b> ProcChanceTestHelper.h:339</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>, <a class="el" href="../../#l00087">RegisterSpellScriptWithArgs</a>, <a class="el" href="../../#l00116">RegisterSunwellPlateauCreatureAI</a>, <a class="el" href="../../#l00255">SPELL_TELEPORT_TO_APEX_POINT</a>, <a class="el" href="../../#l00257">SPELL_TELEPORT_TO_SUNWELL_PLATEAU</a>, and <a class="el" href="../../#l00256">SPELL_TELEPORT_TO_WITCHS_SANCTUM</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00169">AddEasternKingdomsScripts()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>, and <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
+<a id="ada6aa7946b5b1650643d1101a7b0a6a1" name="ada6aa7946b5b1650643d1101a7b0a6a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada6aa7946b5b1650643d1101a7b0a6a1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const creatureData[]</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffect0_BlocksOnlyEffect0&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d1/d0b/a00452.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613">NPC_KALECGOS</a>,               <a class="code hl_enumvalue" href="../../d1/d0b/a00452.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d">DATA_KALECGOS</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea5fdc65e01a1bb638158294f892cb26b5">NPC_BRUTALLUS</a>,              <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eada4dc907da4e272049be1438b6be2c58">NPC_FELMYST</a>,                <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea303b5a2711b36f894e509e47e4694cac">NPC_MURU</a>,                   <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>          },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea10b27700d2b01494f6c99cda36787455">NPC_LADY_SACROLASH</a>,         <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aa86c2b3ac5b210b93944b79a6179c22c">DATA_SACROLASH</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea2be55b6bc595225faf81ef20423d0be3">NPC_GRAND_WARLOCK_ALYTHESS</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a8246e6f09af146dd70ba1348c33736a9">DATA_ALYTHESS</a>      },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a>,              <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a>     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eaa78de438c947a3796e3c5aa652b2f1cb">NPC_SATHROVARR</a>,             <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187">DATA_SATHROVARR</a>    },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea1baff32d849c6df6efab993e08e9606e">NPC_KILJAEDEN_CONTROLLER</a>,   <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea6d41ab732b7213da1599d58a8e3279ca">NPC_ANVEENA</a>,                <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a8360eb3e0e40081d30fba613376c2a0d">DATA_ANVEENA</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eadaac3e7d7b8cde80574573138dea5754">NPC_KALECGOS_KJ</a>,            <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aebc6bcf440f44099ab74fcd0c6911859">DATA_KALECGOS_KJ</a>   },</div>
-<div class="line">    { 0,                          0                  }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa00059_html_a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449"><div class="ttname"><a href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a16cf9740b8a8855e8bd622f7d6d13449">DATA_BRUTALLUS</a></div><div class="ttdeci">@ DATA_BRUTALLUS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:30</div></div>
-<div class="ttc" id="aa00059_html_a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff"><div class="ttname"><a href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a></div><div class="ttdeci">@ DATA_MURU</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:34</div></div>
-<div class="ttc" id="aa00059_html_a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5"><div class="ttname"><a href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a></div><div class="ttdeci">@ DATA_FELMYST</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:31</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea10b27700d2b01494f6c99cda36787455"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea10b27700d2b01494f6c99cda36787455">NPC_LADY_SACROLASH</a></div><div class="ttdeci">@ NPC_LADY_SACROLASH</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:68</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea1baff32d849c6df6efab993e08e9606e"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea1baff32d849c6df6efab993e08e9606e">NPC_KILJAEDEN_CONTROLLER</a></div><div class="ttdeci">@ NPC_KILJAEDEN_CONTROLLER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:77</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea2be55b6bc595225faf81ef20423d0be3"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea2be55b6bc595225faf81ef20423d0be3">NPC_GRAND_WARLOCK_ALYTHESS</a></div><div class="ttdeci">@ NPC_GRAND_WARLOCK_ALYTHESS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:67</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea303b5a2711b36f894e509e47e4694cac"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea303b5a2711b36f894e509e47e4694cac">NPC_MURU</a></div><div class="ttdeci">@ NPC_MURU</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:71</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea5fdc65e01a1bb638158294f892cb26b5"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea5fdc65e01a1bb638158294f892cb26b5">NPC_BRUTALLUS</a></div><div class="ttdeci">@ NPC_BRUTALLUS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:61</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea6d41ab732b7213da1599d58a8e3279ca"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea6d41ab732b7213da1599d58a8e3279ca">NPC_ANVEENA</a></div><div class="ttdeci">@ NPC_ANVEENA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:79</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963eaa78de438c947a3796e3c5aa652b2f1cb"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eaa78de438c947a3796e3c5aa652b2f1cb">NPC_SATHROVARR</a></div><div class="ttdeci">@ NPC_SATHROVARR</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:59</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963eada4dc907da4e272049be1438b6be2c58"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eada4dc907da4e272049be1438b6be2c58">NPC_FELMYST</a></div><div class="ttdeci">@ NPC_FELMYST</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:63</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963eadaac3e7d7b8cde80574573138dea5754"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eadaac3e7d7b8cde80574573138dea5754">NPC_KALECGOS_KJ</a></div><div class="ttdeci">@ NPC_KALECGOS_KJ</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:80</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eadf3e020bb565e60b0aea28860e6a0c14">NPC_MADRIGOSA</a></div><div class="ttdeci">@ NPC_MADRIGOSA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:62</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a4f60b95901fb36f4e783ed1b1587d187">DATA_SATHROVARR</a></div><div class="ttdeci">@ DATA_SATHROVARR</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:44</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a></div><div class="ttdeci">@ DATA_KJ_CONTROLLER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:45</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a8246e6f09af146dd70ba1348c33736a9"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a8246e6f09af146dd70ba1348c33736a9">DATA_ALYTHESS</a></div><div class="ttdeci">@ DATA_ALYTHESS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:42</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a8360eb3e0e40081d30fba613376c2a0d"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a8360eb3e0e40081d30fba613376c2a0d">DATA_ANVEENA</a></div><div class="ttdeci">@ DATA_ANVEENA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:46</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22aa86c2b3ac5b210b93944b79a6179c22c"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aa86c2b3ac5b210b93944b79a6179c22c">DATA_SACROLASH</a></div><div class="ttdeci">@ DATA_SACROLASH</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:41</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22aebc6bcf440f44099ab74fcd0c6911859"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aebc6bcf440f44099ab74fcd0c6911859">DATA_KALECGOS_KJ</a></div><div class="ttdeci">@ DATA_KALECGOS_KJ</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:47</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aec6185d6a9e33d57fdd4898753868328">DATA_MADRIGOSA</a></div><div class="ttdeci">@ DATA_MADRIGOSA</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:43</div></div>
-<div class="ttc" id="aa00452_html_a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613"><div class="ttname"><a href="../../d1/d0b/a00452.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613">NPC_KALECGOS</a></div><div class="ttdeci">@ NPC_KALECGOS</div><div class="ttdef"><b>Definition:</b> magisters_terrace.h:49</div></div>
-<div class="ttc" id="aa00452_html_abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d"><div class="ttname"><a href="../../d1/d0b/a00452.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d">DATA_KALECGOS</a></div><div class="ttdeci">@ DATA_KALECGOS</div><div class="ttdef"><b>Definition:</b> magisters_terrace.h:34</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x01;  <span class="comment">// Disable effect 0</span></div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    EXPECT_EQ(result, 0x06)  <span class="comment">// 0b110 - effects 1 and 2 remain</span></div>
+<div class="line"><span class="lineno">   54</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x01 should only disable effect 0&quot;</span>;</div>
+<div class="line"><span class="lineno">   55</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript::instance_sunwell_plateau_InstanceMapScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
 
 </div>
 </div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
+<a id="a209cf89313651785788473e379b84a84" name="a209cf89313651785788473e379b84a84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a209cf89313651785788473e379b84a84">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d12/a09984.html">DoorData</a> const doorData[]</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffect1_BlocksOnlyEffect1&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa599f683eb555145dcde513b1cdab1199">GO_FIRE_BARRIER</a>,     <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8abfdc4b398c439a21c62f0a64e19f02e2">DATA_FELMYST_DOORS</a>,  <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa76e9c3302d7d9380f39fbd96a327113d">GO_MURUS_GATE_1</a>,     <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>,     <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>   },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa5c747bfe982d75f3803c6396d8fb57ce">GO_MURUS_GATE_2</a>,     <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>,     <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fab21134a7b25d94bff29d8bc2203442a1">GO_BOSS_COLLISION_1</a>, <a class="code hl_enumvalue" href="../../d1/d0b/a00452.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d">DATA_KALECGOS</a>, <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>   },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa33826a53bbfb1f0544453cb36c55b0da">GO_BOSS_COLLISION_2</a>, <a class="code hl_enumvalue" href="../../d1/d0b/a00452.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d">DATA_KALECGOS</a>, <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>   },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9">GO_FORCE_FIELD</a>,      <a class="code hl_enumvalue" href="../../d1/d0b/a00452.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d">DATA_KALECGOS</a>, <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>   },</div>
-<div class="line">    { 0,                   0,             <a class="code hl_enumvalue" href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>   } </div>
-<div class="line">}</div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa33826a53bbfb1f0544453cb36c55b0da"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa33826a53bbfb1f0544453cb36c55b0da">GO_BOSS_COLLISION_2</a></div><div class="ttdeci">@ GO_BOSS_COLLISION_2</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:93</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa41a52f5e53bb796196d3a37538b470b9">GO_FORCE_FIELD</a></div><div class="ttdeci">@ GO_FORCE_FIELD</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:91</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa599f683eb555145dcde513b1cdab1199"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa599f683eb555145dcde513b1cdab1199">GO_FIRE_BARRIER</a></div><div class="ttdeci">@ GO_FIRE_BARRIER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:94</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa5c747bfe982d75f3803c6396d8fb57ce"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa5c747bfe982d75f3803c6396d8fb57ce">GO_MURUS_GATE_2</a></div><div class="ttdeci">@ GO_MURUS_GATE_2</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:96</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa76e9c3302d7d9380f39fbd96a327113d"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa76e9c3302d7d9380f39fbd96a327113d">GO_MURUS_GATE_1</a></div><div class="ttdeci">@ GO_MURUS_GATE_1</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:95</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fab21134a7b25d94bff29d8bc2203442a1"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fab21134a7b25d94bff29d8bc2203442a1">GO_BOSS_COLLISION_1</a></div><div class="ttdeci">@ GO_BOSS_COLLISION_1</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:92</div></div>
-<div class="ttc" id="aa00059_html_a6a8e02a45c1f96a77680add79636d4d8abfdc4b398c439a21c62f0a64e19f02e2"><div class="ttname"><a href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8abfdc4b398c439a21c62f0a64e19f02e2">DATA_FELMYST_DOORS</a></div><div class="ttdeci">@ DATA_FELMYST_DOORS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:32</div></div>
-<div class="ttc" id="aa03866_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
-<div class="ttc" id="aa03866_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../db/d06/a03866.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x02;  <span class="comment">// Disable effect 1</span></div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    EXPECT_EQ(result, 0x05)  <span class="comment">// 0b101 - effects 0 and 2 remain</span></div>
+<div class="line"><span class="lineno">   64</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x02 should only disable effect 1&quot;</span>;</div>
+<div class="line"><span class="lineno">   65</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript::instance_sunwell_plateau_InstanceMapScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
 
 </div>
 </div>
-<a id="a1461582839e3b7fdbb7397e5d2086e31" name="a1461582839e3b7fdbb7397e5d2086e31"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1461582839e3b7fdbb7397e5d2086e31">&#9670;&#160;</a></span>gameObjectData</h2>
+<a id="ac0f559af209178724eb3126d61ad07d7" name="ac0f559af209178724eb3126d61ad07d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0f559af209178724eb3126d61ad07d7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const gameObjectData[]</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffect2_BlocksOnlyEffect2&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa89a7fc9260473041b83a7ba3dc3ff214">GO_ICE_BARRIER</a>,                   <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1">DATA_ICEBARRIER</a>                     },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa58ec6eb3dc5640f283fd5b470e8e5326">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT1</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a3bdea36e5df0520614d00c8205e5aaf6">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_1</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa40135006b5b885773aeced5b59f94632">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT2</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aec03c7cc948b18ef8cf9f0679c52d59f">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa10c801f471604c9ec0894f110daecfd4">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT3</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa0721c9d648ab814e29d33ac01a59a9de">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT4</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4</a> },</div>
-<div class="line">    { 0,                                0                                   }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa0721c9d648ab814e29d33ac01a59a9de"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa0721c9d648ab814e29d33ac01a59a9de">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT4</a></div><div class="ttdeci">@ GO_ORB_OF_THE_BLUE_DRAGONFLIGHT4</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:102</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa10c801f471604c9ec0894f110daecfd4"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa10c801f471604c9ec0894f110daecfd4">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT3</a></div><div class="ttdeci">@ GO_ORB_OF_THE_BLUE_DRAGONFLIGHT3</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:101</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa40135006b5b885773aeced5b59f94632"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa40135006b5b885773aeced5b59f94632">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT2</a></div><div class="ttdeci">@ GO_ORB_OF_THE_BLUE_DRAGONFLIGHT2</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:100</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa58ec6eb3dc5640f283fd5b470e8e5326"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa58ec6eb3dc5640f283fd5b470e8e5326">GO_ORB_OF_THE_BLUE_DRAGONFLIGHT1</a></div><div class="ttdeci">@ GO_ORB_OF_THE_BLUE_DRAGONFLIGHT1</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:99</div></div>
-<div class="ttc" id="aa00059_html_a57d2d4154291532e405ab880a40a999fa89a7fc9260473041b83a7ba3dc3ff214"><div class="ttname"><a href="../../d3/d8b/a00059.html#a57d2d4154291532e405ab880a40a999fa89a7fc9260473041b83a7ba3dc3ff214">GO_ICE_BARRIER</a></div><div class="ttdeci">@ GO_ICE_BARRIER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:97</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a0606a3b5c339e60928ac75714f1aa1f1">DATA_ICEBARRIER</a></div><div class="ttdeci">@ DATA_ICEBARRIER</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:52</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a0f8218ec08638a02f12ee6a3447ceefa">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4</a></div><div class="ttdeci">@ DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_4</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:51</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22a3bdea36e5df0520614d00c8205e5aaf6"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a3bdea36e5df0520614d00c8205e5aaf6">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_1</a></div><div class="ttdeci">@ DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_1</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:48</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22aec03c7cc948b18ef8cf9f0679c52d59f"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22aec03c7cc948b18ef8cf9f0679c52d59f">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2</a></div><div class="ttdeci">@ DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_2</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:49</div></div>
-<div class="ttc" id="aa00059_html_afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e"><div class="ttname"><a href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22af0b1696449fcc3c87159e1b1dd68322e">DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3</a></div><div class="ttdeci">@ DATA_ORB_OF_THE_BLUE_DRAGONFLIGHT_3</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   68</span>{</div>
+<div class="line"><span class="lineno">   69</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x04;  <span class="comment">// Disable effect 2</span></div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_EQ(result, 0x03)  <span class="comment">// 0b011 - effects 0 and 1 remain</span></div>
+<div class="line"><span class="lineno">   74</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x04 should only disable effect 2&quot;</span>;</div>
+<div class="line"><span class="lineno">   75</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript::instance_sunwell_plateau_InstanceMapScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
 
 </div>
 </div>
-<a id="af7ba92b4a76e9cb7835c84a49f9c2052" name="af7ba92b4a76e9cb7835c84a49f9c2052"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7ba92b4a76e9cb7835c84a49f9c2052">&#9670;&#160;</a></span>summonData</h2>
+<a id="a1e3c33508c40282f4fc3283792e6e5a1" name="a1e3c33508c40282f4fc3283792e6e5a1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e3c33508c40282f4fc3283792e6e5a1">&#9670;&#160;</a></span>TEST_F() <span class="overload">[5/16]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d52/a10000.html">ObjectData</a> const summonData[]</td>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffects0And1_LeavesEffect2&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea232b476054dedb381bbec49a47b8a329">NPC_DEMONIC_VAPOR_TRAIL</a>,    <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea3af9fffdc8b165ffb5577d7283f606ec">NPC_UNYIELDING_DEAD</a>,        <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a8244063ae9be398c5c0d7d738bf808f5">DATA_FELMYST</a>       },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea10eab68406044a7bf4106ca16c1c3733">NPC_DARKNESS</a>,               <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>          },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eaafd72b98f2a8f6a70d1c5dd0e5958875">NPC_VOID_SENTINEL</a>,          <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>          },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ead1c5eb6ab072aec6a7a2e0b4862a5c18">NPC_VOID_SPAWN</a>,             <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a6a8e02a45c1f96a77680add79636d4d8a4aea7c1f6a9d5ce2aac92bb3b81e0eff">DATA_MURU</a>          },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea50ea3bf67965fca7e3fe13df5eca3835">NPC_FELFIRE_PORTAL</a>,         <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea5241cf9133ccd59203b4023daea6af04">NPC_VOLATILE_FELFIRE_FIEND</a>, <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea4d3847b5ac02216e4e162fa7d6344bb3">NPC_SHIELD_ORB</a>,             <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea947c3bf4c990a9e155bc25107c3c09c7">NPC_SINISTER_REFLECTION</a>,    <a class="code hl_enumvalue" href="../../d3/d8b/a00059.html#afb6eb4f28419b652027fad41104a6d22a56447832378bf8d6e639a5844d54e8a9">DATA_KJ_CONTROLLER</a> },</div>
-<div class="line">    { 0,                          0                  }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea10eab68406044a7bf4106ca16c1c3733"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea10eab68406044a7bf4106ca16c1c3733">NPC_DARKNESS</a></div><div class="ttdeci">@ NPC_DARKNESS</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:73</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea232b476054dedb381bbec49a47b8a329"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea232b476054dedb381bbec49a47b8a329">NPC_DEMONIC_VAPOR_TRAIL</a></div><div class="ttdeci">@ NPC_DEMONIC_VAPOR_TRAIL</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:64</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea3af9fffdc8b165ffb5577d7283f606ec"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea3af9fffdc8b165ffb5577d7283f606ec">NPC_UNYIELDING_DEAD</a></div><div class="ttdeci">@ NPC_UNYIELDING_DEAD</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:65</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea4d3847b5ac02216e4e162fa7d6344bb3"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea4d3847b5ac02216e4e162fa7d6344bb3">NPC_SHIELD_ORB</a></div><div class="ttdeci">@ NPC_SHIELD_ORB</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:84</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea50ea3bf67965fca7e3fe13df5eca3835"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea50ea3bf67965fca7e3fe13df5eca3835">NPC_FELFIRE_PORTAL</a></div><div class="ttdeci">@ NPC_FELFIRE_PORTAL</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:82</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea5241cf9133ccd59203b4023daea6af04"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea5241cf9133ccd59203b4023daea6af04">NPC_VOLATILE_FELFIRE_FIEND</a></div><div class="ttdeci">@ NPC_VOLATILE_FELFIRE_FIEND</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:83</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ea947c3bf4c990a9e155bc25107c3c09c7"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ea947c3bf4c990a9e155bc25107c3c09c7">NPC_SINISTER_REFLECTION</a></div><div class="ttdeci">@ NPC_SINISTER_REFLECTION</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:85</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963eaafd72b98f2a8f6a70d1c5dd0e5958875"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963eaafd72b98f2a8f6a70d1c5dd0e5958875">NPC_VOID_SENTINEL</a></div><div class="ttdeci">@ NPC_VOID_SENTINEL</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:74</div></div>
-<div class="ttc" id="aa00059_html_a92f6fd626e1834a4cc509efc1186963ead1c5eb6ab072aec6a7a2e0b4862a5c18"><div class="ttname"><a href="../../d3/d8b/a00059.html#a92f6fd626e1834a4cc509efc1186963ead1c5eb6ab072aec6a7a2e0b4862a5c18">NPC_VOID_SPAWN</a></div><div class="ttdeci">@ NPC_VOID_SPAWN</div><div class="ttdef"><b>Definition:</b> sunwell_plateau.h:75</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
+<div class="line"><span class="lineno">   83</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x03;  <span class="comment">// Disable effects 0 and 1</span></div>
+<div class="line"><span class="lineno">   84</span> </div>
+<div class="line"><span class="lineno">   85</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>    EXPECT_EQ(result, 0x04)  <span class="comment">// 0b100 - only effect 2 remains</span></div>
+<div class="line"><span class="lineno">   88</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x03 should leave only effect 2&quot;</span>;</div>
+<div class="line"><span class="lineno">   89</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00085">instance_sunwell_plateau::instance_sunwell_plateau_InstanceMapScript::instance_sunwell_plateau_InstanceMapScript()</a>, and <a class="el" href="../../#l00381">InstanceScript::SetSummoner()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
+
+</div>
+</div>
+<a id="a69a9541f9f5c5bc76d328b5b496acea4" name="a69a9541f9f5c5bc76d328b5b496acea4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a69a9541f9f5c5bc76d328b5b496acea4">&#9670;&#160;</a></span>TEST_F() <span class="overload">[6/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffects0And2_LeavesEffect1&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x05;  <span class="comment">// Disable effects 0 and 2</span></div>
+<div class="line"><span class="lineno">   94</span> </div>
+<div class="line"><span class="lineno">   95</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">   96</span> </div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_EQ(result, 0x02)  <span class="comment">// 0b010 - only effect 1 remains</span></div>
+<div class="line"><span class="lineno">   98</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x05 should leave only effect 1&quot;</span>;</div>
+<div class="line"><span class="lineno">   99</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
+
+</div>
+</div>
+<a id="a82283c17501ab739171a9f29b6bfe746" name="a82283c17501ab739171a9f29b6bfe746"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82283c17501ab739171a9f29b6bfe746">&#9670;&#160;</a></span>TEST_F() <span class="overload">[7/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DisableEffects1And2_LeavesEffect0&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  102</span>{</div>
+<div class="line"><span class="lineno">  103</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x06;  <span class="comment">// Disable effects 1 and 2</span></div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>    EXPECT_EQ(result, 0x01)  <span class="comment">// 0b001 - only effect 0 remains</span></div>
+<div class="line"><span class="lineno">  108</span>        &lt;&lt; <span class="stringliteral">&quot;DisableEffectsMask=0x06 should leave only effect 0&quot;</span>;</div>
+<div class="line"><span class="lineno">  109</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
+
+</div>
+</div>
+<a id="a37a87cb84048c2080f4612acc24521b7" name="a37a87cb84048c2080f4612acc24521b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37a87cb84048c2080f4612acc24521b7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[8/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">HigherBits_IgnoredForEffects&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  195</span>{</div>
+<div class="line"><span class="lineno">  196</span>    <span class="comment">// Bits beyond 0x07 should be ignored (only 3 effects exist)</span></div>
+<div class="line"><span class="lineno">  197</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0xFF;  <span class="comment">// All bits set</span></div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">  200</span> </div>
+<div class="line"><span class="lineno">  201</span>    EXPECT_EQ(result, 0x00)</div>
+<div class="line"><span class="lineno">  202</span>        &lt;&lt; <span class="stringliteral">&quot;Only lower 3 bits should affect the result&quot;</span>;</div>
+<div class="line"><span class="lineno">  203</span> </div>
+<div class="line"><span class="lineno">  204</span>    <span class="comment">// Only lower bits matter</span></div>
+<div class="line"><span class="lineno">  205</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> highBitsOnly = 0xF8;  <span class="comment">// High bits only</span></div>
+<div class="line"><span class="lineno">  206</span>    result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, highBitsOnly);</div>
+<div class="line"><span class="lineno">  207</span> </div>
+<div class="line"><span class="lineno">  208</span>    EXPECT_EQ(result, ALL_EFFECTS_MASK)</div>
+<div class="line"><span class="lineno">  209</span>        &lt;&lt; <span class="stringliteral">&quot;High bits (0xF8) should not affect lower 3 effects&quot;</span>;</div>
+<div class="line"><span class="lineno">  210</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>.</p>
+
+</div>
+</div>
+<a id="a168e46f935ad0b05479d64d810f07fac" name="a168e46f935ad0b05479d64d810f07fac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a168e46f935ad0b05479d64d810f07fac">&#9670;&#160;</a></span>TEST_F() <span class="overload">[9/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">NotAllDisabled_ProcAllowed&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  129</span>{</div>
+<div class="line"><span class="lineno">  130</span>    <span class="comment">// Only effect 0 disabled</span></div>
+<div class="line"><span class="lineno">  131</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, 0x01))</div>
+<div class="line"><span class="lineno">  132</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be allowed when some effects remain&quot;</span>;</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    <span class="comment">// Only effects 0 and 1 disabled</span></div>
+<div class="line"><span class="lineno">  135</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, 0x03))</div>
+<div class="line"><span class="lineno">  136</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be allowed when effect 2 remains&quot;</span>;</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>    <span class="comment">// No effects disabled</span></div>
+<div class="line"><span class="lineno">  139</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, 0x00))</div>
+<div class="line"><span class="lineno">  140</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be allowed when no effects are disabled&quot;</span>;</div>
+<div class="line"><span class="lineno">  141</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
+
+</div>
+</div>
+<a id="a47cb30ee310f6abc71de51474bf4d02e" name="a47cb30ee310f6abc71de51474bf4d02e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47cb30ee310f6abc71de51474bf4d02e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[10/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PartialInitialMask_Effect0Only&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  148</span>{</div>
+<div class="line"><span class="lineno">  149</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> initialMask = 0x01;  <span class="comment">// Only effect 0 enabled</span></div>
+<div class="line"><span class="lineno">  150</span> </div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// Disabling effect 0 should result in 0</span></div>
+<div class="line"><span class="lineno">  152</span>    EXPECT_EQ(<a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(initialMask, 0x01), 0x00);</div>
+<div class="line"><span class="lineno">  153</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(initialMask, 0x01));</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <span class="comment">// Disabling effect 1 should have no impact</span></div>
+<div class="line"><span class="lineno">  156</span>    EXPECT_EQ(<a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(initialMask, 0x02), 0x01);</div>
+<div class="line"><span class="lineno">  157</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(initialMask, 0x02));</div>
+<div class="line"><span class="lineno">  158</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>, and <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
+
+</div>
+</div>
+<a id="acf2364ee45cd14949ea8fa599d15207b" name="acf2364ee45cd14949ea8fa599d15207b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf2364ee45cd14949ea8fa599d15207b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[11/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">PartialInitialMask_Effects0And1&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  161</span>{</div>
+<div class="line"><span class="lineno">  162</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> initialMask = 0x03;  <span class="comment">// Effects 0 and 1 enabled</span></div>
+<div class="line"><span class="lineno">  163</span> </div>
+<div class="line"><span class="lineno">  164</span>    <span class="comment">// Disabling both should result in 0</span></div>
+<div class="line"><span class="lineno">  165</span>    EXPECT_EQ(<a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(initialMask, 0x03), 0x00);</div>
+<div class="line"><span class="lineno">  166</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(initialMask, 0x03));</div>
+<div class="line"><span class="lineno">  167</span> </div>
+<div class="line"><span class="lineno">  168</span>    <span class="comment">// Disabling only effect 0 should leave effect 1</span></div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_EQ(<a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(initialMask, 0x01), 0x02);</div>
+<div class="line"><span class="lineno">  170</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(initialMask, 0x01));</div>
+<div class="line"><span class="lineno">  171</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>, and <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
+
+</div>
+</div>
+<a id="a6352b8a0e0c72a3f03d64c5faf35e62b" name="a6352b8a0e0c72a3f03d64c5faf35e62b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6352b8a0e0c72a3f03d64c5faf35e62b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[12/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_DualEffectAura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  265</span>{</div>
+<div class="line"><span class="lineno">  266</span>    <span class="comment">// Aura with effects 0 and 1 (healing + damage proc for example)</span></div>
+<div class="line"><span class="lineno">  267</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> dualEffectMask = 0x03;</div>
+<div class="line"><span class="lineno">  268</span> </div>
+<div class="line"><span class="lineno">  269</span>    <span class="comment">// Disabling one effect leaves the other</span></div>
+<div class="line"><span class="lineno">  270</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(dualEffectMask, 0x01));</div>
+<div class="line"><span class="lineno">  271</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(dualEffectMask, 0x02));</div>
+<div class="line"><span class="lineno">  272</span> </div>
+<div class="line"><span class="lineno">  273</span>    <span class="comment">// Disabling both blocks the proc</span></div>
+<div class="line"><span class="lineno">  274</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(dualEffectMask, 0x03));</div>
+<div class="line"><span class="lineno">  275</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
+
+</div>
+</div>
+<a id="a8e4c6158dabe9042eea4f0aed6923dc7" name="a8e4c6158dabe9042eea4f0aed6923dc7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e4c6158dabe9042eea4f0aed6923dc7">&#9670;&#160;</a></span>TEST_F() <span class="overload">[13/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Scenario_SingleEffectAura&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  251</span>{</div>
+<div class="line"><span class="lineno">  252</span>    <span class="comment">// Many procs only have a single effect that matters</span></div>
+<div class="line"><span class="lineno">  253</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> singleEffectMask = 0x01;  <span class="comment">// Only effect 0</span></div>
+<div class="line"><span class="lineno">  254</span> </div>
+<div class="line"><span class="lineno">  255</span>    <span class="comment">// Disabling effect 0 blocks the proc</span></div>
+<div class="line"><span class="lineno">  256</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(singleEffectMask, 0x01));</div>
+<div class="line"><span class="lineno">  257</span> </div>
+<div class="line"><span class="lineno">  258</span>    <span class="comment">// Disabling other effects has no impact</span></div>
+<div class="line"><span class="lineno">  259</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(singleEffectMask, 0x02));</div>
+<div class="line"><span class="lineno">  260</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(singleEffectMask, 0x04));</div>
+<div class="line"><span class="lineno">  261</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(singleEffectMask, 0x06));</div>
+<div class="line"><span class="lineno">  262</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
+
+</div>
+</div>
+<a id="a830a4559543ce06e92f37f1cfccea55e" name="a830a4559543ce06e92f37f1cfccea55e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a830a4559543ce06e92f37f1cfccea55e">&#9670;&#160;</a></span>TEST_F() <span class="overload">[14/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SpellProcEntry_AllDisabled&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  235</span>{</div>
+<div class="line"><span class="lineno">  236</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/da9/a29355.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  237</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d8/dfb/a03122.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  238</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#ad414f75756b0fd284c636568dd74e57c">WithDisableEffectsMask</a>(0x07)  <span class="comment">// Disable all effects</span></div>
+<div class="line"><span class="lineno">  239</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  240</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  241</span> </div>
+<div class="line"><span class="lineno">  242</span>    EXPECT_TRUE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, procEntry.DisableEffectsMask))</div>
+<div class="line"><span class="lineno">  243</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be blocked when all effects disabled in SpellProcEntry&quot;</span>;</div>
+<div class="line"><span class="lineno">  244</span>}</div>
+<div class="ttc" id="aa03122_html_ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67"><div class="ttname"><a href="../../d8/dfb/a03122.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a></div><div class="ttdeci">@ PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:134</div></div>
+<div class="ttc" id="aa29355_html"><div class="ttname"><a href="../../d8/da9/a29355.html">SpellProcEntryBuilder</a></div><div class="ttdoc">Builder class for creating SpellProcEntry test instances.</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:141</div></div>
+<div class="ttc" id="aa29355_html_a2a69603215e9fa526304f420bd5a490c"><div class="ttname"><a href="../../d8/da9/a29355.html#a2a69603215e9fa526304f420bd5a490c">SpellProcEntryBuilder::Build</a></div><div class="ttdeci">SpellProcEntry Build() const</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:226</div></div>
+<div class="ttc" id="aa29355_html_a3c99a07866eb497717932af6b7f3a485"><div class="ttname"><a href="../../d8/da9/a29355.html#a3c99a07866eb497717932af6b7f3a485">SpellProcEntryBuilder::WithChance</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithChance(float chance)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:208</div></div>
+<div class="ttc" id="aa29355_html_acebcb2a676a7e8e6821854137e056fff"><div class="ttname"><a href="../../d8/da9/a29355.html#acebcb2a676a7e8e6821854137e056fff">SpellProcEntryBuilder::WithProcFlags</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithProcFlags(uint32 procFlags)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:166</div></div>
+<div class="ttc" id="aa29355_html_ad414f75756b0fd284c636568dd74e57c"><div class="ttname"><a href="../../d8/da9/a29355.html#ad414f75756b0fd284c636568dd74e57c">SpellProcEntryBuilder::WithDisableEffectsMask</a></div><div class="ttdeci">SpellProcEntryBuilder &amp; WithDisableEffectsMask(uint32 disableEffectsMask)</div><div class="ttdef"><b>Definition:</b> ProcEventInfoHelper.h:196</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00196">SpellProcEntryBuilder::WithDisableEffectsMask()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a280de460557f0d5f4f03d2821c31ec8f" name="a280de460557f0d5f4f03d2821c31ec8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a280de460557f0d5f4f03d2821c31ec8f">&#9670;&#160;</a></span>TEST_F() <span class="overload">[15/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SpellProcEntry_WithDisableEffectsMask&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  217</span>{</div>
+<div class="line"><span class="lineno">  218</span>    <span class="keyword">auto</span> procEntry = <a class="code hl_class" href="../../d8/da9/a29355.html">SpellProcEntryBuilder</a>()</div>
+<div class="line"><span class="lineno">  219</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#acebcb2a676a7e8e6821854137e056fff">WithProcFlags</a>(<a class="code hl_enumvalue" href="../../d8/dfb/a03122.html#ade1c2af066d4cf1bbcd88f13f01cd4d6afe7895d66dfe7eb26eb655d393b0cd67">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>)</div>
+<div class="line"><span class="lineno">  220</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#ad414f75756b0fd284c636568dd74e57c">WithDisableEffectsMask</a>(0x05)  <span class="comment">// Disable effects 0 and 2</span></div>
+<div class="line"><span class="lineno">  221</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a3c99a07866eb497717932af6b7f3a485">WithChance</a>(100.0f)</div>
+<div class="line"><span class="lineno">  222</span>        .<a class="code hl_function" href="../../d8/da9/a29355.html#a2a69603215e9fa526304f420bd5a490c">Build</a>();</div>
+<div class="line"><span class="lineno">  223</span> </div>
+<div class="line"><span class="lineno">  224</span>    <span class="comment">// Verify the mask was set correctly</span></div>
+<div class="line"><span class="lineno">  225</span>    EXPECT_EQ(procEntry.DisableEffectsMask, 0x05u);</div>
+<div class="line"><span class="lineno">  226</span> </div>
+<div class="line"><span class="lineno">  227</span>    <span class="comment">// Apply to initial mask</span></div>
+<div class="line"><span class="lineno">  228</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, procEntry.DisableEffectsMask);</div>
+<div class="line"><span class="lineno">  229</span> </div>
+<div class="line"><span class="lineno">  230</span>    EXPECT_EQ(result, 0x02)  <span class="comment">// Only effect 1 remains</span></div>
+<div class="line"><span class="lineno">  231</span>        &lt;&lt; <span class="stringliteral">&quot;SpellProcEntry DisableEffectsMask should filter correctly&quot;</span>;</div>
+<div class="line"><span class="lineno">  232</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>, <a class="el" href="../../#l00226">SpellProcEntryBuilder::Build()</a>, <a class="el" href="../../#l00134">PROC_FLAG_DONE_SPELL_MAGIC_DMG_CLASS_NEG</a>, <a class="el" href="../../#l00208">SpellProcEntryBuilder::WithChance()</a>, <a class="el" href="../../#l00196">SpellProcEntryBuilder::WithDisableEffectsMask()</a>, and <a class="el" href="../../#l00166">SpellProcEntryBuilder::WithProcFlags()</a>.</p>
+
+</div>
+</div>
+<a id="aca9a42766818ffc52919d66ab1017745" name="aca9a42766818ffc52919d66ab1017745"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca9a42766818ffc52919d66ab1017745">&#9670;&#160;</a></span>TEST_F() <span class="overload">[16/16]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/df6/a29651.html">SpellProcDisableEffectsTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ZeroDisableMask_NoEffectDisabled&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> disableMask = 0x00;  <span class="comment">// Nothing disabled</span></div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> result = <a class="code hl_function" href="../../d4/df4/a29303.html#afdbe9b23c7bbe076f45ec94d1289b297">ProcChanceTestHelper::ApplyDisableEffectsMask</a>(ALL_EFFECTS_MASK, disableMask);</div>
+<div class="line"><span class="lineno">  182</span> </div>
+<div class="line"><span class="lineno">  183</span>    EXPECT_EQ(result, ALL_EFFECTS_MASK)</div>
+<div class="line"><span class="lineno">  184</span>        &lt;&lt; <span class="stringliteral">&quot;Zero DisableEffectsMask should leave all effects enabled&quot;</span>;</div>
+<div class="line"><span class="lineno">  185</span> </div>
+<div class="line"><span class="lineno">  186</span>    EXPECT_FALSE(<a class="code hl_function" href="../../d4/df4/a29303.html#a6f7564c8a12d1531afe97c4f61fb23ac">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects</a>(ALL_EFFECTS_MASK, disableMask))</div>
+<div class="line"><span class="lineno">  187</span>        &lt;&lt; <span class="stringliteral">&quot;Proc should be allowed when nothing is disabled&quot;</span>;</div>
+<div class="line"><span class="lineno">  188</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00339">ProcChanceTestHelper::ApplyDisableEffectsMask()</a>, and <a class="el" href="../../#l00357">ProcChanceTestHelper::ShouldBlockDueToDisabledEffects()</a>.</p>
 
 </div>
 </div>
@@ -552,8 +834,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ddeb450e5fe586f747c0635391d1d1d6.html">EasternKingdoms</a></li><li class="navelem"><a class="el" href="../../dir_ae768b8f8ff3a94207cd3cc19c295cc8.html">SunwellPlateau</a></li><li class="navelem"><a class="el" href="../../da/d24/a00068.html">instance_sunwell_plateau.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:13:44 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_7ee4929d46277e5eb29eea0f8a31fa60.html">Spells</a></li><li class="navelem"><a class="el" href="../../da/d24/a00068.html">SpellProcDisableEffectsTest.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:38:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,8 @@
 var a23343 =
 [
-    [ "spellId", "d4/d96/a23343.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d4/d96/a23343.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d4/d96/a23343.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "d4/d96/a23343.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "d4/d96/a23343.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "d4/d96/a23343.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "d4/d96/a23343.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

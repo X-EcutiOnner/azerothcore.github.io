@@ -1,7 +1,6 @@
 var a17415 =
 [
-    [ "HandleApplyAura", "d9/df5/a17415.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d9/df5/a17415.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d9/df5/a17415.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d9/df5/a17415.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "npc_pos_icicle_triggerAI", "df/df3/a17419.html", "df/df3/a17419" ],
+    [ "npc_pos_icicle_trigger", "d9/df5/a17415.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d9/df5/a17415.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

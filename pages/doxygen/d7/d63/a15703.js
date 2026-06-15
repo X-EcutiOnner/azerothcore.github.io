@@ -1,7 +1,8 @@
 var a15703 =
 [
-    [ "npc_tharnarianAI", "d5/d9b/a15707.html", "d5/d9b/a15707" ],
-    [ "npc_tharnarian", "d7/d63/a15703.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d7/d63/a15703.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d7/d63/a15703.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_obsidian_eradicator", "d7/d63/a15703.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d7/d63/a15703.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d7/d63/a15703.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d7/d63/a15703.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d7/d63/a15703.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

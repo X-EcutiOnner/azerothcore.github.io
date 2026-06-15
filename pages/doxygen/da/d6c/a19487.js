@@ -1,7 +1,6 @@
 var a19487 =
 [
-    [ "Load", "da/d6c/a19487.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
-    [ "PrepareSpellScript", "da/d6c/a19487.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
-    [ "Register", "da/d6c/a19487.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
-    [ "SetDest", "da/d6c/a19487.html#a231a75702f4a98f51d1be45510c5d05f", null ]
+    [ "boss_razuvious_minionAI", "d0/d1f/a19491.html", "d0/d1f/a19491" ],
+    [ "boss_razuvious_minion", "da/d6c/a19487.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "da/d6c/a19487.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

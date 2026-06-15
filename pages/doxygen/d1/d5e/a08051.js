@@ -1,7 +1,10 @@
 var a08051 =
 [
-    [ "StoreTo", "d1/d5e/a08051.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "d1/d5e/a08051.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "d1/d5e/a08051.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "d1/d5e/a08051.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "storage_type", "d1/d5e/a08051.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "d1/d5e/a08051.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "d1/d5e/a08051.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "d1/d5e/a08051.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "d1/d5e/a08051.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "d1/d5e/a08051.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "d1/d5e/a08051.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

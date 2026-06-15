@@ -1,15 +1,21 @@
 var a16359 =
 [
-    [ "npc_onyx_flamecallerAI", "dd/d29/a16359.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "dd/d29/a16359.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "dd/d29/a16359.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "dd/d29/a16359.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "dd/d29/a16359.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "dd/d29/a16359.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "dd/d29/a16359.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "dd/d29/a16359.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "WaypointReached", "dd/d29/a16359.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_events", "dd/d29/a16359.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "dd/d29/a16359.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "dd/d29/a16359.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_krik_thirAI", "dd/d29/a16359.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "CallWatcher", "dd/d29/a16359.html#aad620a3c305abaf29ed23259d5a06401", null ],
+    [ "DoAction", "dd/d29/a16359.html#af62b22ef531ee79805e80f2ee54af473", null ],
+    [ "GetData", "dd/d29/a16359.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "IsInFrenzy", "dd/d29/a16359.html#a9b8453fcfe57b9a87749529002d3879a", null ],
+    [ "JustDied", "dd/d29/a16359.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "dd/d29/a16359.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "KilledUnit", "dd/d29/a16359.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "dd/d29/a16359.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "dd/d29/a16359.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SpellHitTarget", "dd/d29/a16359.html#ac638264dbb81c0ba004246c0801c4b85", null ],
+    [ "SummonedCreatureDies", "dd/d29/a16359.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "SummonWatcher", "dd/d29/a16359.html#a9c0e1d97ef039a5b607a54a856f4f51c", null ],
+    [ "_canTalk", "dd/d29/a16359.html#a6031d8dd33d1f1a312bf5212b34d2bd0", null ],
+    [ "_firstCall", "dd/d29/a16359.html#a069ed0a0de9d467bb0a9aa0839d510f4", null ],
+    [ "_initTalk", "dd/d29/a16359.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "_minionInCombat", "dd/d29/a16359.html#ac07e8e45693b3239bc061e5500880833", null ],
+    [ "_minionsEngaged", "dd/d29/a16359.html#acf2408ba05ee1546f2d1853096c9e2fc", null ]
 ];

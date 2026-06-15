@@ -1,13 +1,12 @@
 var a12651 =
 [
-    [ "boss_nefarian", "db/d41/a12651.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "db/d41/a12651.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "db/d41/a12651.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "db/d41/a12651.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "db/d41/a12651.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "db/d41/a12651.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "db/d41/a12651.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "db/d41/a12651.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "db/d41/a12651.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "db/d41/a12651.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_doomrel", "db/d41/a12651.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
+    [ "EnterEvadeMode", "db/d41/a12651.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
+    [ "JustEngagedWith", "db/d41/a12651.html#a559c1619a97e50b03db6c8abc7190f91", null ],
+    [ "Reset", "db/d41/a12651.html#af30f3385bb1ca366f335ca3e19849704", null ],
+    [ "sGossipSelect", "db/d41/a12651.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
+    [ "UpdateAI", "db/d41/a12651.html#a92cdad912f54235ab9c4cd788f17e293", null ],
+    [ "_events", "db/d41/a12651.html#a1687755cadc484d431497a320e9509f3", null ],
+    [ "instance", "db/d41/a12651.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
+    [ "Voidwalkers", "db/d41/a12651.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
 ];

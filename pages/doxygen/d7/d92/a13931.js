@@ -1,6 +1,6 @@
 var a13931 =
 [
-    [ "npc_corporal_keeshanAI", "d4/d4b/a13935.html", "d4/d4b/a13935" ],
-    [ "npc_corporal_keeshan", "d7/d92/a13931.html#a0ca9459a7f283e040f14e0052762f587", null ],
-    [ "GetAI", "d7/d92/a13931.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
+    [ "OnApply", "d7/d92/a13931.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "d7/d92/a13931.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "d7/d92/a13931.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

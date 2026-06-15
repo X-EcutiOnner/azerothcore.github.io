@@ -1,8 +1,6 @@
 var a23451 =
 [
-    [ "boss_commander_sarannis", "d0/d30/a23451.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d0/d30/a23451.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d0/d30/a23451.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d0/d30/a23451.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d0/d30/a23451.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "npc_millhouse_manastormAI", "de/d83/a23455.html", "de/d83/a23455" ],
+    [ "npc_millhouse_manastorm", "d0/d30/a23451.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d0/d30/a23451.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

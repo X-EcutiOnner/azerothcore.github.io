@@ -1,6 +1,6 @@
 var a16079 =
 [
-    [ "npc_weegli_blastfuseAI", "d3/d35/a16083.html", "d3/d35/a16083" ],
-    [ "npc_weegli_blastfuse", "de/dbb/a16079.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "de/dbb/a16079.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_twiggy_flatheadAI", "d3/d35/a16083.html", "d3/d35/a16083" ],
+    [ "npc_twiggy_flathead", "de/dbb/a16079.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "de/dbb/a16079.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

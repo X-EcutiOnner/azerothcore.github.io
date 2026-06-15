@@ -1,6 +1,6 @@
 var a14523 =
 [
-    [ "OnApply", "da/de2/a14523.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "da/de2/a14523.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "da/de2/a14523.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "LaunchHit", "da/de2/a14523.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "da/de2/a14523.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "da/de2/a14523.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

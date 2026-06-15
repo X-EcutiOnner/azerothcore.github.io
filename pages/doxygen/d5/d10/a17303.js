@@ -1,9 +1,8 @@
 var a17303 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/d10/a17303.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d5/d10/a17303.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d5/d10/a17303.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d5/d10/a17303.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d5/d10/a17303.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d5/d10/a17303.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_hor_risen_witch_doctor", "d5/d10/a17303.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d5/d10/a17303.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d5/d10/a17303.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d5/d10/a17303.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d5/d10/a17303.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

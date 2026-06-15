@@ -1,6 +1,8 @@
 var a20171 =
 [
-    [ "npc_ulduar_toasty_fire", "df/daa/a20171.html#aa4447547d1689440813877ddd0347d5a", null ],
-    [ "DoAction", "df/daa/a20171.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "df/daa/a20171.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "HandleOnEffectApply", "df/daa/a20171.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "df/daa/a20171.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "df/daa/a20171.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "df/daa/a20171.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "df/daa/a20171.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

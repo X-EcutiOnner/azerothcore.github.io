@@ -1,21 +1,12 @@
 var a15355 =
 [
-    [ "npc_general_andorov", "d0/d65/a15355.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
-    [ "GetData", "d0/d65/a15355.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
-    [ "InitializeAI", "d0/d65/a15355.html#a701221e8fd8830a3586d9791fd8eca56", null ],
-    [ "JustDied", "d0/d65/a15355.html#ae6342cc5d033bc2900594cabccaf7233", null ],
-    [ "JustEngagedWith", "d0/d65/a15355.html#a9f1261cde233466b814b53be03406370", null ],
-    [ "JustSummoned", "d0/d65/a15355.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
-    [ "KilledUnit", "d0/d65/a15355.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
-    [ "MoveInLineOfSight", "d0/d65/a15355.html#a230803b7f29829118d105ec768941ffa", null ],
-    [ "sGossipSelect", "d0/d65/a15355.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
-    [ "UpdateEscortAI", "d0/d65/a15355.html#ab5f5af15cf76071dcce833514bb8c867", null ],
-    [ "WaypointReached", "d0/d65/a15355.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
-    [ "WaypointReached", "d0/d65/a15355.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_initialAttackTimer", "d0/d65/a15355.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
-    [ "_paused", "d0/d65/a15355.html#aa0708d2c1e4829371b93697744fb10b7", null ],
-    [ "_summons", "d0/d65/a15355.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
-    [ "Endwaypoint", "d0/d65/a15355.html#a6897bb1ed63743ce8b225786d63910df", null ],
-    [ "events", "d0/d65/a15355.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
-    [ "instance", "d0/d65/a15355.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d0/d65/a15355.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/d65/a15355.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "d0/d65/a15355.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d0/d65/a15355.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d0/d65/a15355.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d0/d65/a15355.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "d0/d65/a15355.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "d0/d65/a15355.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "d0/d65/a15355.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

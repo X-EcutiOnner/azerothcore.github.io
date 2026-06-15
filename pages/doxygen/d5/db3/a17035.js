@@ -1,7 +1,5 @@
 var a17035 =
 [
-    [ "HandleEffectRemove", "d5/db3/a17035.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d5/db3/a17035.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d5/db3/a17035.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d5/db3/a17035.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "npc_essence_of_twin", "d5/db3/a17035.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d5/db3/a17035.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

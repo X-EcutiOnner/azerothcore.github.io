@@ -1,7 +1,6 @@
 var a19991 =
 [
-    [ "boss_flame_leviathan_safety_container", "d5/d96/a19991.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d5/d96/a19991.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d5/d96/a19991.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d5/d96/a19991.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "PrepareSpellScript", "d5/d96/a19991.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d5/d96/a19991.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d5/d96/a19991.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

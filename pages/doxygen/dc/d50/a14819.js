@@ -1,8 +1,8 @@
 var a14819 =
 [
-    [ "CheckCast", "dc/d50/a14819.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "dc/d50/a14819.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "dc/d50/a14819.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "dc/d50/a14819.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "dc/d50/a14819.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "CalcPeriodic", "dc/d50/a14819.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "dc/d50/a14819.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "dc/d50/a14819.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "dc/d50/a14819.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "dc/d50/a14819.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

@@ -1,8 +1,6 @@
 var a15499 =
 [
-    [ "boss_veklor", "d7/d24/a15499.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
-    [ "AttackStart", "d7/d24/a15499.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
-    [ "IAmVeklor", "d7/d24/a15499.html#a4c43713c24b5537f292be1e0fcaee703", null ],
-    [ "JustEngagedWith", "d7/d24/a15499.html#a05913da666b1715eac68441195dd9df4", null ],
-    [ "SpellHit", "d7/d24/a15499.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d7/d81/a15503.html", "d7/d81/a15503" ],
+    [ "instance_ruins_of_ahnqiraj", "d7/d24/a15499.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d7/d24/a15499.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

@@ -1,4 +1,4 @@
 var a03617 =
 [
-    [ "ScriptRegistry< PlayerScript >", "d4/d35/a03617.html#a9c8e85c6181ce386db051bb0a0e6a533", null ]
+    [ "ScriptRegistry< MiscScript >", "d4/d35/a03617.html#a925ee1bbb5e173c3d816d0ae35b38a67", null ]
 ];

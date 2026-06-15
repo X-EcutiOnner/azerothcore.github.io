@@ -1,5 +1,5 @@
 var a08811 =
 [
-    [ "PlayerClassInfo", "d3/d1a/a08811.html#a6a0a6db24e144593356e0505946e8f06", null ],
-    [ "levelInfo", "d3/d1a/a08811.html#aa234b353361ef0017ec974ca4c8e86f1", null ]
+    [ "PositionXYZOStreamer", "d3/d1a/a08811.html#afddf48b02eea5399d818468cdf8795c5", null ],
+    [ "m_pos", "d3/d1a/a08811.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
 ];

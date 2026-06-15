@@ -1,7 +1,6 @@
 var a11995 =
 [
-    [ "Command", "dd/d78/a11995.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "dd/d78/a11995.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "dd/d78/a11995.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "dd/d78/a11995.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectUpdatePeriodicHandler", "dd/d78/a11995.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "dd/d78/a11995.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "dd/d78/a11995.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

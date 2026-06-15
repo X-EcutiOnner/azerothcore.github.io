@@ -1,7 +1,12 @@
 var a18111 =
 [
-    [ "HandleDummy", "db/d3a/a18111.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "db/d3a/a18111.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "db/d3a/a18111.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "db/d3a/a18111.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "npc_darnavanAI", "db/d3a/a18111.html#ae06019c24910c873877398f29f5a1737", null ],
+    [ "JustDied", "db/d3a/a18111.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
+    [ "JustEngagedWith", "db/d3a/a18111.html#acbaedacea5ad19d82002c25b68623a27", null ],
+    [ "MovementInform", "db/d3a/a18111.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
+    [ "Reset", "db/d3a/a18111.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
+    [ "UpdateAI", "db/d3a/a18111.html#a2b3b5e168989db21fc047acaf01413d9", null ],
+    [ "_canCharge", "db/d3a/a18111.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
+    [ "_canShatter", "db/d3a/a18111.html#aa7750edc8051c8ee453143491dccf122", null ],
+    [ "events", "db/d3a/a18111.html#aa8a022ccb1367432480f72d305c752ac", null ]
 ];

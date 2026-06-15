@@ -1,9 +1,8 @@
 var a19971 =
 [
-    [ "npc_hodirs_fury", "d9/d26/a19971.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "d9/d26/a19971.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "d9/d26/a19971.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "d9/d26/a19971.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "d9/d26/a19971.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "d9/d26/a19971.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "go_celestial_planetarium_accessAI", "d9/d26/a19971.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d9/d26/a19971.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d9/d26/a19971.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d9/d26/a19971.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d9/d26/a19971.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

@@ -1,4 +1,5 @@
 var a04718 =
 [
-    [ "address_to_uint", "d9/d82/a04718.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
+    [ "FactoryHolder< T, O, Key >", "d0/d2f/a05507.html", "d0/d2f/a05507" ],
+    [ "Permissible< T >", "d4/da8/a05511.html", "d4/da8/a05511" ]
 ];

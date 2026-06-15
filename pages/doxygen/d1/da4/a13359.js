@@ -1,20 +1,14 @@
 var a13359 =
 [
-    [ "boss_darkmaster_gandlingAI", "d1/da4/a13359.html#a1fbd651c6f5ad3630ae450c6a523360c", null ],
-    [ "FindRoom", "d1/da4/a13359.html#a7ca1847b3223c82f7c190546809c49bc", null ],
-    [ "GetData", "d1/da4/a13359.html#a06e03e66d7a99a98ba915057c0082217", null ],
-    [ "JustDied", "d1/da4/a13359.html#afaac9e6939e0d873f576129546560fba", null ],
-    [ "JustEngagedWith", "d1/da4/a13359.html#aa71a73d3804187c6b89566ec3d1cd6ed", null ],
-    [ "JustSummoned", "d1/da4/a13359.html#a24e4031367eb59ad7a9ea352bd0b4ccd", null ],
-    [ "OpenAllGates", "d1/da4/a13359.html#ab28b7d97956c21515c9872d8f9122f18", null ],
-    [ "Reset", "d1/da4/a13359.html#a8244b7b91de9a0413193001f41288f7f", null ],
-    [ "SetData", "d1/da4/a13359.html#a1b7ed8e98d4a271dfd8df76738cc0072", null ],
-    [ "SetGate", "d1/da4/a13359.html#a32fbc731852f46fbdd36b36764dd2303", null ],
-    [ "SpawnMobsInRoom", "d1/da4/a13359.html#a68adf734efff345529dbb74bebe15798", null ],
-    [ "SpellHitTarget", "d1/da4/a13359.html#ae98715a31cd22febb1725977556a48aa", null ],
-    [ "SummonedCreatureDespawn", "d1/da4/a13359.html#aa0abb31ac1a05c4a99e4b8079410867a", null ],
-    [ "UpdateAI", "d1/da4/a13359.html#a2c525445ad39ddc47366f3f632014d89", null ],
-    [ "current_room", "d1/da4/a13359.html#a597f7ee62ee41ff6a1a12a6c9dd7cd93", null ],
-    [ "Guardians", "d1/da4/a13359.html#a3681da718192f0f961282fa4f655355e", null ],
-    [ "summons", "d1/da4/a13359.html#a745d411fc485892529cb4cc6f06ba3af", null ]
+    [ "boss_selin_fireheart", "d1/da4/a13359.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "d1/da4/a13359.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "d1/da4/a13359.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "d1/da4/a13359.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "d1/da4/a13359.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "d1/da4/a13359.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "d1/da4/a13359.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "d1/da4/a13359.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "d1/da4/a13359.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "d1/da4/a13359.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "d1/da4/a13359.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

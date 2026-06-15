@@ -1,6 +1,5 @@
 var a21943 =
 [
-    [ "HandleScriptEffect", "d2/df9/a21943.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d2/df9/a21943.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d2/df9/a21943.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "go_pressure_valve", "d2/df9/a21943.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d2/df9/a21943.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

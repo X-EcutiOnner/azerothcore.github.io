@@ -1,12 +1,12 @@
 var a12519 =
 [
-    [ "boss_pyroguard_emberseer", "da/d16/a12519.html#a4c1bd9e71776fa088a84009565dc527d", null ],
-    [ "JustDied", "da/d16/a12519.html#a6f0e58c7107563f40e864eede5a907d5", null ],
-    [ "JustEngagedWith", "da/d16/a12519.html#a1c9662393ea5862ee26f5242e184fd74", null ],
-    [ "OpenDoors", "da/d16/a12519.html#a80761b3fad5864ce80dae81d31df748c", null ],
-    [ "Reset", "da/d16/a12519.html#a7eda06b39dc920040e205595a0f8efa2", null ],
-    [ "SetData", "da/d16/a12519.html#a533c643c9b65813f48fd92ee73670fae", null ],
-    [ "SpellHit", "da/d16/a12519.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
-    [ "UpdateAI", "da/d16/a12519.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
-    [ "UpdateRunes", "da/d16/a12519.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
+    [ "wp_commandscript", "da/d16/a12519.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "da/d16/a12519.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "da/d16/a12519.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "da/d16/a12519.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "da/d16/a12519.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "da/d16/a12519.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "da/d16/a12519.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "da/d16/a12519.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "da/d16/a12519.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

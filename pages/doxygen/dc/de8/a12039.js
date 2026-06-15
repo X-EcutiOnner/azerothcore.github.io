@@ -1,12 +1,6 @@
 var a12039 =
 [
-    [ "WardenMac", "dc/de8/a12039.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "dc/de8/a12039.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "dc/de8/a12039.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "dc/de8/a12039.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "dc/de8/a12039.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "dc/de8/a12039.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "dc/de8/a12039.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "dc/de8/a12039.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "dc/de8/a12039.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "AuraProcHandler", "dc/de8/a12039.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "dc/de8/a12039.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "dc/de8/a12039.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

@@ -1,5 +1,6 @@
 var a18951 =
 [
-    [ "at_icc_shutdown_traps", "dd/db8/a18951.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "dd/db8/a18951.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "npc_frost_freeze_trapAI", "db/d98/a18955.html", "db/d98/a18955" ],
+    [ "npc_frost_freeze_trap", "dd/db8/a18951.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "dd/db8/a18951.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

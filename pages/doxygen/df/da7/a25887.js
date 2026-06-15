@@ -1,7 +1,8 @@
 var a25887 =
 [
-    [ "HandleDummy", "df/da7/a25887.html#a884ab3487725dbdd5b069f3a45b7164b", null ],
-    [ "PrepareSpellScript", "df/da7/a25887.html#a6ad225a1bcd7bdad7ee1751766e7c129", null ],
-    [ "Register", "df/da7/a25887.html#a0877a96dde66adb988628ebb93fe15b6", null ],
-    [ "Validate", "df/da7/a25887.html#ad784bb6b5d3588965492b102f2b2898e", null ]
+    [ "HandleDummy", "df/da7/a25887.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "df/da7/a25887.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "df/da7/a25887.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "df/da7/a25887.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "df/da7/a25887.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

@@ -1,6 +1,17 @@
 var a23959 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d2/d53/a23963.html", "d2/d53/a23963" ],
-    [ "npc_shadowmoon_tuber_node", "dd/d92/a23959.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "dd/d92/a23959.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_torloth_the_magnificentAI", "dd/d92/a23959.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
+    [ "HandleAnimation", "dd/d92/a23959.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
+    [ "JustDied", "dd/d92/a23959.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
+    [ "JustEngagedWith", "dd/d92/a23959.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
+    [ "Reset", "dd/d92/a23959.html#aa7944f80bb6718a65a07128be830ed94", null ],
+    [ "UpdateAI", "dd/d92/a23959.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
+    [ "AggroTargetGUID", "dd/d92/a23959.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
+    [ "AnimationCount", "dd/d92/a23959.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
+    [ "AnimationTimer", "dd/d92/a23959.html#a2485ad15002946c0c5b2ebce65221629", null ],
+    [ "LordIllidanGUID", "dd/d92/a23959.html#ad135529fe083af2ce3e79823213d2735", null ],
+    [ "SpellTimer1", "dd/d92/a23959.html#a991868074e39e2a4d06c37afc642a756", null ],
+    [ "SpellTimer2", "dd/d92/a23959.html#a7da30509a017de1392cc3ba181a0dc53", null ],
+    [ "SpellTimer3", "dd/d92/a23959.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
+    [ "Timers", "dd/d92/a23959.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
 ];

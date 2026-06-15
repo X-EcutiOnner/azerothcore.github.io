@@ -1,8 +1,9 @@
 var a06367 =
 [
-    [ "PassiveAI", "d8/dcb/a06367.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d8/dcb/a06367.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d8/dcb/a06367.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d8/dcb/a06367.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d8/dcb/a06367.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "itemId", "d8/dcb/a06367.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d8/dcb/a06367.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d8/dcb/a06367.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d8/dcb/a06367.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d8/dcb/a06367.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d8/dcb/a06367.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

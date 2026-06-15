@@ -1,12 +1,9 @@
 var a09191 =
 [
-    [ "flags", "d6/dc3/a09191.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d6/dc3/a09191.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d6/dc3/a09191.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d6/dc3/a09191.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d6/dc3/a09191.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d6/dc3/a09191.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d6/dc3/a09191.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d6/dc3/a09191.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d6/dc3/a09191.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "day", "d6/dc3/a09191.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
+    [ "holidayId", "d6/dc3/a09191.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
+    [ "month", "d6/dc3/a09191.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
+    [ "offset", "d6/dc3/a09191.html#aaa9bf14668239ea561aecc33104e245a", null ],
+    [ "type", "d6/dc3/a09191.html#a25f2529332f23c93b37e5c918032eb3d", null ],
+    [ "weekday", "d6/dc3/a09191.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
 ];

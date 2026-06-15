@@ -1,9 +1,6 @@
 var a21403 =
 [
-    [ "npc_mageguard_dalaranAI", "d6/d2b/a21403.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
-    [ "AttackStart", "d6/d2b/a21403.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
-    [ "JustEngagedWith", "d6/d2b/a21403.html#aac463689ae5a488ec2acb8a0310689d8", null ],
-    [ "MoveInLineOfSight", "d6/d2b/a21403.html#aafb32462693e0efd9c80cf335f489754", null ],
-    [ "Reset", "d6/d2b/a21403.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
-    [ "UpdateAI", "d6/d2b/a21403.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
+    [ "npc_bloodmage_laurithAI", "d5/d7c/a21407.html", "d5/d7c/a21407" ],
+    [ "npc_bloodmage_laurith", "d6/d2b/a21403.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
+    [ "GetAI", "d6/d2b/a21403.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
 ];

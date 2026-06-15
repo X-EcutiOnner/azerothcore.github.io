@@ -1,11 +1,9 @@
 var a10311 =
 [
-    [ "EffectMovementGenerator", "da/d70/a10311.html#a5b00ae06964d5c572bf2c6d14c82147e", null ],
-    [ "Finalize", "da/d70/a10311.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "da/d70/a10311.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "da/d70/a10311.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "da/d70/a10311.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "da/d70/a10311.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "i_spline", "da/d70/a10311.html#a35b92e440aa2af623f62d4fe8ecf216e", null ],
-    [ "m_Id", "da/d70/a10311.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "ChaseAngle", "da/d70/a10311.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "da/d70/a10311.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "da/d70/a10311.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "da/d70/a10311.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "da/d70/a10311.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "da/d70/a10311.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

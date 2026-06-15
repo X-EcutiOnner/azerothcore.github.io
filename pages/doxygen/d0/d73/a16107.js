@@ -1,7 +1,8 @@
 var a16107 =
 [
-    [ "npc_ahnkahar_nerubian", "d0/d73/a16107.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d0/d73/a16107.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d0/d73/a16107.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d0/d73/a16107.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/d73/a16107.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d0/d73/a16107.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d0/d73/a16107.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d0/d73/a16107.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ],
+    [ "WaypointReached", "d0/d73/a16107.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

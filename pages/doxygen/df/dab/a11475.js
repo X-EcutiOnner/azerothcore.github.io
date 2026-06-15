@@ -1,5 +1,7 @@
 var a11475 =
 [
-    [ "SocketIPBytes", "df/dab/a11475.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
-    [ "SocketPort", "df/dab/a11475.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
+    [ "PetDismissSound", "df/dab/a11475.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "df/dab/a11475.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "df/dab/a11475.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "df/dab/a11475.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

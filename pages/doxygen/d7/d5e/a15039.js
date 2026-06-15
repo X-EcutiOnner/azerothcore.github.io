@@ -1,12 +1,9 @@
 var a15039 =
 [
-    [ "boss_mal_ganisAI", "d7/d5e/a15039.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d7/d5e/a15039.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d7/d5e/a15039.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d7/d5e/a15039.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d7/d5e/a15039.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d7/d5e/a15039.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d7/d5e/a15039.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d7/d5e/a15039.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d7/d5e/a15039.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "boss_azuregosAI", "d7/d5e/a15039.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "d7/d5e/a15039.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "d7/d5e/a15039.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "d7/d5e/a15039.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "d7/d5e/a15039.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "d7/d5e/a15039.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

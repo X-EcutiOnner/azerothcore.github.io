@@ -1,7 +1,6 @@
 var a24583 =
 [
-    [ "FilterTargets", "d3/d6f/a24583.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "d3/d6f/a24583.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "d3/d6f/a24583.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "d3/d6f/a24583.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "CheckCast", "d3/d6f/a24583.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "d3/d6f/a24583.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "d3/d6f/a24583.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

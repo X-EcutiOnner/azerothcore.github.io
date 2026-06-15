@@ -1,6 +1,8 @@
 var a18891 =
 [
-    [ "npc_impaling_spearAI", "da/dec/a18895.html", "da/dec/a18895" ],
-    [ "npc_impaling_spear", "d5/d27/a18891.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d5/d27/a18891.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "Load", "d5/d27/a18891.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "d5/d27/a18891.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "d5/d27/a18891.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "d5/d27/a18891.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "d5/d27/a18891.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

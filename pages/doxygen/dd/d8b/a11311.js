@@ -1,4 +1,7 @@
 var a11311 =
 [
-    [ "InvalidHyperlinkException", "dd/d8b/a11311.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
+    [ "Playsound", "dd/d8b/a11311.html#a955f91d0d65c64f154f99b3b9472e273", null ],
+    [ "Playsound", "dd/d8b/a11311.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
+    [ "Write", "dd/d8b/a11311.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
+    [ "SoundKitID", "dd/d8b/a11311.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
 ];

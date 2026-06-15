@@ -1,15 +1,7 @@
 var a19595 =
 [
-    [ "boss_varosAI", "da/d1e/a19595.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "da/d1e/a19595.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "da/d1e/a19595.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "da/d1e/a19595.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "da/d1e/a19595.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "da/d1e/a19595.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "da/d1e/a19595.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "da/d1e/a19595.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "da/d1e/a19595.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "da/d1e/a19595.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "da/d1e/a19595.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "da/d1e/a19595.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "HandleScript", "da/d1e/a19595.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "da/d1e/a19595.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "da/d1e/a19595.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "da/d1e/a19595.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

@@ -1,8 +1,5 @@
 var a09203 =
 [
-    [ "V8Type", "dc/dc3/a09203.html#ad1b1f07eef9dda43d6ba20d37087e1df", null ],
-    [ "V9Type", "dc/dc3/a09203.html#ac514014328ca676e610cef54710d2430", null ],
-    [ "gridIntHeightMultiplier", "dc/dc3/a09203.html#a6255362ae498172495394e1f0fad44ca", null ],
-    [ "v8", "dc/dc3/a09203.html#a3201a1f3e7307af860396ca26a78dbf9", null ],
-    [ "v9", "dc/dc3/a09203.html#ad31af604d44f964e9c502f36b6717c77", null ]
+    [ "NextPage", "dc/dc3/a09203.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
+    [ "Text", "dc/dc3/a09203.html#a9c13498341adce66590cb198b720f96f", null ]
 ];

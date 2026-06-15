@@ -1,8 +1,5 @@
 var a21027 =
 [
-    [ "npc_frozen_orbAI", "d1/d5b/a21027.html#aa7456d1d876690e3723ee0a36866348b", null ],
-    [ "JustEngagedWith", "d1/d5b/a21027.html#afd9686dbb8503d7f756b670269aed33d", null ],
-    [ "Reset", "d1/d5b/a21027.html#a376dc1fcef9752e235008c4ba66e2463", null ],
-    [ "UpdateAI", "d1/d5b/a21027.html#a37d7cf81197fe4344c8b847753997e93", null ],
-    [ "switchTimer", "d1/d5b/a21027.html#afc63a3cf6b814df81a35b53278d722c9", null ]
+    [ "go_palehoof_sphere", "d1/d5b/a21027.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "d1/d5b/a21027.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

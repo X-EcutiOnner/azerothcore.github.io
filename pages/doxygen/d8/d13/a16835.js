@@ -1,10 +1,7 @@
 var a16835 =
 [
-    [ "npc_mistress_of_painAI", "d8/d13/a16835.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d8/d13/a16835.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d8/d13/a16835.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d8/d13/a16835.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d8/d13/a16835.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d8/d13/a16835.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d8/d13/a16835.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_toc_priestAI", "d8/d13/a16835.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d8/d13/a16835.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d8/d13/a16835.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d8/d13/a16835.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

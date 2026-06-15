@@ -1,6 +1,7 @@
 var a11863 =
 [
-    [ "EffectManaShieldHandler", "d9/d56/a11863.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d9/d56/a11863.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d9/d56/a11863.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "attributeMask", "d9/d56/a11863.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "d9/d56/a11863.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "d9/d56/a11863.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "d9/d56/a11863.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

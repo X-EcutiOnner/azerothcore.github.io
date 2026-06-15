@@ -1,7 +1,9 @@
 var a15559 =
 [
-    [ "npc_vekniss_stinger", "d6/d7a/a15559.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "d6/d7a/a15559.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "d6/d7a/a15559.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "d6/d7a/a15559.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_claw_tentacle", "d6/d7a/a15559.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d6/d7a/a15559.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d6/d7a/a15559.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d6/d7a/a15559.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d6/d7a/a15559.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d6/d7a/a15559.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

@@ -1,10 +1,9 @@
 var a29851 =
 [
-    [ "WDTFile", "d8/d97/a29851.html#a10c133d9b2f8d39cb6c2b3d8c2791b78", null ],
-    [ "~WDTFile", "d8/d97/a29851.html#a445fe73204fd378e2b63a83d9f5dca0a", null ],
-    [ "GetMap", "d8/d97/a29851.html#aa952c5bfe52a1aa851984a7e6dc963c9", null ],
-    [ "init", "d8/d97/a29851.html#a91a33f89cae35254f52e8c4f1c33e2cb", null ],
-    [ "_file", "d8/d97/a29851.html#a54ab64288144b9cf4904e67bb359e524", null ],
-    [ "_wmoNames", "d8/d97/a29851.html#a6ec4f95ff866585403670b620a42a857", null ],
-    [ "filename", "d8/d97/a29851.html#ab3dac8623598bac1152a514a00126bf6", null ]
+    [ "adtData", "d7/d4b/a29859.html", "d7/d4b/a29859" ],
+    [ "prepareLoadedData", "d8/d97/a29851.html#a6b755c9e341918d05105d993391429c6", null ],
+    [ "adt_list", "d8/d97/a29851.html#abe28c39e8856412c4fb182baab3218f0", null ],
+    [ "fcc", "d8/d97/a29851.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
+    [ "fcc_txt", "d8/d97/a29851.html#a0657c323732de8d83b9c360c1dd03b61", null ],
+    [ "size", "d8/d97/a29851.html#a797c02773dd470a318474c7ef033ba7c", null ]
 ];

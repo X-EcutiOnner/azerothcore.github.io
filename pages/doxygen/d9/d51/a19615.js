@@ -1,6 +1,7 @@
 var a19615 =
 [
-    [ "npc_oculus_drakeAI", "d8/dc4/a19619.html", "d8/dc4/a19619" ],
-    [ "npc_oculus_drake", "d9/d51/a19615.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d9/d51/a19615.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "Load", "d9/d51/a19615.html#a76c4a5c9b3bbed286a9d724c521944fd", null ],
+    [ "PrepareSpellScript", "d9/d51/a19615.html#a10fd04468a4de402f2d2d1d4b003a5c9", null ],
+    [ "Register", "d9/d51/a19615.html#a86259dfc100541aec0f9c7e744bbf24d", null ],
+    [ "SetDest", "d9/d51/a19615.html#a231a75702f4a98f51d1be45510c5d05f", null ]
 ];

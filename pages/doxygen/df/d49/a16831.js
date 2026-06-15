@@ -1,6 +1,6 @@
 var a16831 =
 [
-    [ "npc_mistress_of_painAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
-    [ "npc_mistress_of_pain", "df/d49/a16831.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "df/d49/a16831.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_toc_priestAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
+    [ "npc_toc_priest", "df/d49/a16831.html#a0e360a2cc053434d2f76826683da8eee", null ],
+    [ "GetAI", "df/d49/a16831.html#a6056a81bef962a02537d525f07d1c302", null ]
 ];

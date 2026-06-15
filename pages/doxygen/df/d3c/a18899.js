@@ -1,5 +1,8 @@
 var a18899 =
 [
-    [ "npc_alchemist_adrianna", "df/d3c/a18899.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "df/d3c/a18899.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "DecayPeriodicTimer", "df/d3c/a18899.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "df/d3c/a18899.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "df/d3c/a18899.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "df/d3c/a18899.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "df/d3c/a18899.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

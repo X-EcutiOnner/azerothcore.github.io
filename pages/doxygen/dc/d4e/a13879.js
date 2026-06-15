@@ -1,8 +1,7 @@
 var a13879 =
 [
-    [ "npc_ranger_lilatha", "dc/d4e/a13879.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "dc/d4e/a13879.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "dc/d4e/a13879.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "dc/d4e/a13879.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
-    [ "WaypointReached", "dc/d4e/a13879.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_singularity", "dc/d4e/a13879.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "dc/d4e/a13879.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "dc/d4e/a13879.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "dc/d4e/a13879.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

@@ -1,6 +1,5 @@
 var a17315 =
 [
-    [ "npc_pos_freed_slaveAI", "d4/ddf/a17319.html", "d4/ddf/a17319" ],
-    [ "npc_pos_freed_slave", "df/d1d/a17315.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "df/d1d/a17315.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "at_hor_battered_hilt_start", "df/d1d/a17315.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "df/d1d/a17315.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

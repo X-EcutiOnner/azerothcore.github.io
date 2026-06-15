@@ -1,10 +1,7 @@
 var a22999 =
 [
-    [ "npc_frozen_core", "db/da4/a22999.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "db/da4/a22999.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "db/da4/a22999.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "db/da4/a22999.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "db/da4/a22999.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "db/da4/a22999.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "db/da4/a22999.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "FilterTargets", "db/da4/a22999.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "db/da4/a22999.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "db/da4/a22999.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "db/da4/a22999.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

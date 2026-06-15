@@ -1,9 +1,5 @@
 var a20383 =
 [
-    [ "HandleEffectPeriodic", "d5/d08/a20383.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "d5/d08/a20383.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "d5/d08/a20383.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "d5/d08/a20383.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "d5/d08/a20383.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "d5/d08/a20383.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d5/d08/a20383.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d5/d08/a20383.html#a36591082184bc8466e124bad9a910545", null ]
 ];

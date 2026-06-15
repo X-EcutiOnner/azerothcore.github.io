@@ -1,9 +1,6 @@
 var a06495 =
 [
-    [ "Escort_Waypoint", "df/d24/a06495.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "df/d24/a06495.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "df/d24/a06495.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "df/d24/a06495.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "df/d24/a06495.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "df/d24/a06495.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "PlayerAI", "df/d24/a06495.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "df/d24/a06495.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "df/d24/a06495.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

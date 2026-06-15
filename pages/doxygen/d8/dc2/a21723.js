@@ -1,7 +1,6 @@
 var a21723 =
 [
-    [ "npc_rodin_lightning_enabler", "d8/dc2/a21723.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d8/dc2/a21723.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d8/dc2/a21723.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d8/dc2/a21723.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_lake_frogAI", "d5/d11/a21727.html", "d5/d11/a21727" ],
+    [ "npc_lake_frog", "d8/dc2/a21723.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d8/dc2/a21723.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

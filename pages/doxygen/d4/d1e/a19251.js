@@ -1,15 +1,6 @@
 var a19251 =
 [
-    [ "boss_grobbulusAI", "d4/d1e/a19251.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d4/d1e/a19251.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d4/d1e/a19251.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d4/d1e/a19251.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d4/d1e/a19251.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d4/d1e/a19251.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
-    [ "Reset", "d4/d1e/a19251.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "d4/d1e/a19251.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d4/d1e/a19251.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d4/d1e/a19251.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d4/d1e/a19251.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d4/d1e/a19251.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "npc_isle_of_conquest_turretAI", "d0/d04/a19255.html", "d0/d04/a19255" ],
+    [ "npc_isle_of_conquest_turret", "d4/d1e/a19251.html#ac080845203adef25e6841133b7e2f4dc", null ],
+    [ "GetAI", "d4/d1e/a19251.html#a0f532e12439e900b3cb77619f1ecd17d", null ]
 ];

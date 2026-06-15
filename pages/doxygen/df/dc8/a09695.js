@@ -1,10 +1,8 @@
 var a09695 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "df/dc8/a09695.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "df/dc8/a09695.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "df/dc8/a09695.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "df/dc8/a09695.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "df/dc8/a09695.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "df/dc8/a09695.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "df/dc8/a09695.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "AnyUnfriendlyUnitInObjectRangeCheck", "df/dc8/a09695.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
+    [ "operator()", "df/dc8/a09695.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
+    [ "i_funit", "df/dc8/a09695.html#a55222acf6dbb538a213eb604f67f40ce", null ],
+    [ "i_obj", "df/dc8/a09695.html#a5d7e5e8898bd092c1055739fae82f693", null ],
+    [ "i_range", "df/dc8/a09695.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
 ];

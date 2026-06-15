@@ -1,6 +1,5 @@
 var a22979 =
 [
-    [ "HandleEffectRemove", "d9/d37/a22979.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "d9/d37/a22979.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "d9/d37/a22979.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "go_strange_pool", "d9/d37/a22979.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "d9/d37/a22979.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

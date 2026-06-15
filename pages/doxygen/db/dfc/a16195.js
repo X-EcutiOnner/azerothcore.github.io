@@ -1,17 +1,6 @@
 var a16195 =
 [
-    [ "npc_hadronox_crusherPackAI", "db/dfc/a16195.html#a87d2baf69aecf42ad9b40ff993462e2c", null ],
-    [ "DoAction", "db/dfc/a16195.html#a37b0af619fe374f809c0a41d340e5772", null ],
-    [ "DoEngagedWith", "db/dfc/a16195.html#a4a6a7b835357fa63d3fc95b3676a5451", null ],
-    [ "DoEvent", "db/dfc/a16195.html#a7ed620b7288a89f83150f49f0883f38b", null ],
-    [ "GetData", "db/dfc/a16195.html#ae6a622e916a8e957eb3a4bf1b6563736", null ],
-    [ "JustEngagedWith", "db/dfc/a16195.html#abc2842315c49bad32ea04b0d67e7d903", null ],
-    [ "MoveInLineOfSight", "db/dfc/a16195.html#a1801b218fe0ad79b8e8710f2ffd177ad", null ],
-    [ "MovementInform", "db/dfc/a16195.html#a810f890a7c57811e683f063f4c9fdcf4", null ],
-    [ "SetData", "db/dfc/a16195.html#a99c1bcd23e068cba7e663fba2953b059", null ],
-    [ "UpdateAI", "db/dfc/a16195.html#a0c84d3d559791416cdbc316cc3e8edfc", null ],
-    [ "_doFacing", "db/dfc/a16195.html#a522540365169c2e73aa69914c350cbd0", null ],
-    [ "_instance", "db/dfc/a16195.html#a050359a9f4a7556c6793337d7f654543", null ],
-    [ "_myPack", "db/dfc/a16195.html#a4c297d590ec5e7e1efb079a61d34d437", null ],
-    [ "_positions", "db/dfc/a16195.html#a811105fc340ac25bdc61ede98387e430", null ]
+    [ "go_troll_cageAI", "d9/db8/a16199.html", "d9/db8/a16199" ],
+    [ "go_troll_cage", "db/dfc/a16195.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "db/dfc/a16195.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

@@ -1,5 +1,12 @@
 var a23331 =
 [
-    [ "go_manticron_cube", "d4/d6a/a23331.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d4/d6a/a23331.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "boss_watchkeeper_gargolmar", "d4/d6a/a23331.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d4/d6a/a23331.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d4/d6a/a23331.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d4/d6a/a23331.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d4/d6a/a23331.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d4/d6a/a23331.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d4/d6a/a23331.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d4/d6a/a23331.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d4/d6a/a23331.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

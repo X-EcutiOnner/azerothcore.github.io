@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/Field.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/OutdoorPvP/OutdoorPvP.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,78 +106,101 @@ $(document).ready(function(){initNavTree('da/db4/a04199.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Field.h File Reference</div></div>
+  <div class="headertitle"><div class="title">OutdoorPvP.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ZoneScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldStatePackets.h</a>&quot;</code><br />
 <code>#include &lt;array&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d91/a06028.html">QueryResultFieldMetadata</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d5b/a10499.html">go_type</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/ddf/a06032.html">Field</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class used to access individual fields of database query result.  <a href="../../d4/ddf/a06032.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d23/a10503.html">creature_type</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d87/a10507.html">OPvPCapturePoint</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db0/a10511.html">OutdoorPvP</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:db/d20/a05034"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d20/a05034.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/d0f/a05063"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d0f/a05063.html">Acore::Types</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a61d2d26058751cc92ed3744e7216a061"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a61d2d26058751cc92ed3744e7216a061">MAX_OUTDOORPVP_TYPES</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a61d2d26058751cc92ed3744e7216a061"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
 Typedefs</h2></td></tr>
-<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/d0f/a05063.html#aa6a7b1e80be2ae7ec2efb76185ee7b44">Acore::Types::is_chrono_v</a> = std::enable_if_t&lt; std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#af2161f9db850581e2228078614990df8">Minutes</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>, T &gt;||std::is_same_v&lt; <a class="el" href="../../d6/df1/a04535.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>, T &gt;, T &gt;</td></tr>
-<tr class="separator:aa6a7b1e80be2ae7ec2efb76185ee7b44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45c2b15f675e85c1f4462be09f27c59e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a> = std::vector&lt; <a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;</td></tr>
-<tr class="separator:a45c2b15f675e85c1f4462be09f27c59e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a080aeb08f4e15904e94076846a03e927"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d6/d92/a02867.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td></tr>
+<tr class="separator:a080aeb08f4e15904e94076846a03e927"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a52858f4c2cc23ac9372ab466fb82c091"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">Null</a>
+<tr class="memitem:a56e7764289940901c2a230103f78adee"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a> { <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">Int8</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">Int16</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">Int32</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">Int64</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">Float</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6
 , <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">Double</a>
-, <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">Decimal</a>
-, <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">Date</a>
-, <br />
-&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd">Binary</a>
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7
 <br />
  }</td></tr>
-<tr class="separator:a52858f4c2cc23ac9372ab466fb82c091"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a56e7764289940901c2a230103f78adee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7908847b61cb33598912d94a2c0d153a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a> { <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>
+<br />
+ }</td></tr>
+<tr class="separator:a7908847b61cb33598912d94a2c0d153a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a45c2b15f675e85c1f4462be09f27c59e" name="a45c2b15f675e85c1f4462be09f27c59e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a45c2b15f675e85c1f4462be09f27c59e">&#9670;&#160;</a></span>Binary</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a61d2d26058751cc92ed3744e7216a061" name="a61d2d26058751cc92ed3744e7216a061"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61d2d26058751cc92ed3744e7216a061">&#9670;&#160;</a></span>MAX_OUTDOORPVP_TYPES</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../da/db4/a04199.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a> =  std::vector&lt;<a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;</td>
+          <td class="memname">#define MAX_OUTDOORPVP_TYPES&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a080aeb08f4e15904e94076846a03e927" name="a080aeb08f4e15904e94076846a03e927"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a080aeb08f4e15904e94076846a03e927">&#9670;&#160;</a></span>PlayerSet</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../d6/d92/a02867.html#a62874da4f73709809fa3c7609d3e30af">GuidSet</a> <a class="el" href="../../da/db4/a04199.html#a080aeb08f4e15904e94076846a03e927">PlayerSet</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -185,59 +208,81 @@ Enumerations</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a52858f4c2cc23ac9372ab466fb82c091" name="a52858f4c2cc23ac9372ab466fb82c091"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52858f4c2cc23ac9372ab466fb82c091">&#9670;&#160;</a></span>DatabaseFieldTypes</h2>
+<a id="a7908847b61cb33598912d94a2c0d153a" name="a7908847b61cb33598912d94a2c0d153a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7908847b61cb33598912d94a2c0d153a">&#9670;&#160;</a></span>ObjectiveStates</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091">DatabaseFieldTypes</a> : <a class="el" href="../../d0/dc5/a04415.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+          <td class="memname">enum <a class="el" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153a">ObjectiveStates</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94" name="a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94"></a>Null&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539" name="a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539"></a>Int8&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208" name="a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208"></a>Int16&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31" name="a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31"></a>Int32&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487" name="a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487"></a>Int64&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b" name="a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b"></a>Float&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b" name="a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b"></a>Double&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3" name="a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3"></a>Decimal&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41" name="a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41"></a>Date&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd" name="a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd"></a>Binary&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6" name="a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"></a>OBJECTIVESTATE_NEUTRAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01" name="a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"></a>OBJECTIVESTATE_ALLIANCE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545" name="a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"></a>OBJECTIVESTATE_HORDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683" name="a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"></a>OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143" name="a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"></a>OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b" name="a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"></a>OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a" name="a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"></a>OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">Null</a>,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">Int8</a>,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">Int16</a>,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">Int32</a>,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">Int64</a>,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">Float</a>,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">Double</a>,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">Decimal</a>,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">Date</a>,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_typedef" href="../../da/db4/a04199.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aa04199_html_a45c2b15f675e85c1f4462be09f27c59e"><div class="ttname"><a href="../../da/db4/a04199.html#a45c2b15f675e85c1f4462be09f27c59e">Binary</a></div><div class="ttdeci">std::vector&lt; uint8 &gt; Binary</div><div class="ttdef"><b>Definition:</b> Field.h:40</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b">DatabaseFieldTypes::Float</a></div><div class="ttdeci">@ Float</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208">DatabaseFieldTypes::Int16</a></div><div class="ttdeci">@ Int16</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41">DatabaseFieldTypes::Date</a></div><div class="ttdeci">@ Date</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539">DatabaseFieldTypes::Int8</a></div><div class="ttdeci">@ Int8</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3">DatabaseFieldTypes::Decimal</a></div><div class="ttdeci">@ Decimal</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94">DatabaseFieldTypes::Null</a></div><div class="ttdeci">@ Null</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31">DatabaseFieldTypes::Int32</a></div><div class="ttdeci">@ Int32</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b">DatabaseFieldTypes::Double</a></div><div class="ttdeci">@ Double</div></div>
-<div class="ttc" id="aa04199_html_a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487"><div class="ttname"><a href="../../da/db4/a04199.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487">DatabaseFieldTypes::Int64</a></div><div class="ttdeci">@ Int64</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>{</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a> = 0,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a>,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a>,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a>,</div>
+<div class="line"><span class="lineno">   50</span>};</div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545">OBJECTIVESTATE_HORDE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:45</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143">OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:47</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01">OBJECTIVESTATE_ALLIANCE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:44</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683">OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:46</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a">OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:49</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6">OBJECTIVESTATE_NEUTRAL</a></div><div class="ttdeci">@ OBJECTIVESTATE_NEUTRAL</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:43</div></div>
+<div class="ttc" id="aa04199_html_a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b"><div class="ttname"><a href="../../da/db4/a04199.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b">OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</a></div><div class="ttdeci">@ OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:48</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a56e7764289940901c2a230103f78adee" name="a56e7764289940901c2a230103f78adee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a56e7764289940901c2a230103f78adee">&#9670;&#160;</a></span>OutdoorPvPTypes</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adee">OutdoorPvPTypes</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780" name="a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"></a>OUTDOOR_PVP_HP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811" name="a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"></a>OUTDOOR_PVP_NA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab" name="a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"></a>OUTDOOR_PVP_TF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc" name="a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"></a>OUTDOOR_PVP_ZM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e" name="a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"></a>OUTDOOR_PVP_SI&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125" name="a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"></a>OUTDOOR_PVP_EP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6" name="a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"></a>OUTDOOR_PVP_GH&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a> = 1,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a> = 2,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a> = 3,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a> = 4,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a> = 5,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a> = 6,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a> = 7,</div>
+<div class="line"><span class="lineno">   37</span>};</div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e">OUTDOOR_PVP_SI</a></div><div class="ttdeci">@ OUTDOOR_PVP_SI</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:34</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab">OUTDOOR_PVP_TF</a></div><div class="ttdeci">@ OUTDOOR_PVP_TF</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:32</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc">OUTDOOR_PVP_ZM</a></div><div class="ttdeci">@ OUTDOOR_PVP_ZM</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:33</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6">OUTDOOR_PVP_GH</a></div><div class="ttdeci">@ OUTDOOR_PVP_GH</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:36</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125">OUTDOOR_PVP_EP</a></div><div class="ttdeci">@ OUTDOOR_PVP_EP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:35</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811">OUTDOOR_PVP_NA</a></div><div class="ttdeci">@ OUTDOOR_PVP_NA</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:31</div></div>
+<div class="ttc" id="aa04199_html_a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780"><div class="ttname"><a href="../../da/db4/a04199.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780">OUTDOOR_PVP_HP</a></div><div class="ttdeci">@ OUTDOOR_PVP_HP</div><div class="ttdef"><b>Definition:</b> OutdoorPvP.h:30</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -246,8 +291,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../da/db4/a04199.html">Field.h</a></li>
-    <li class="footer">Generated on Mon Jun 8 2026 22:13:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_25d8f4185a27c7d78867bf9666699c3c.html">OutdoorPvP</a></li><li class="navelem"><a class="el" href="../../da/db4/a04199.html">OutdoorPvP.h</a></li>
+    <li class="footer">Generated on Mon Jun 15 2026 22:37:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

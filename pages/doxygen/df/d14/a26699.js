@@ -1,6 +1,8 @@
 var a26699 =
 [
-    [ "CheckDummy", "df/d14/a26699.html#ad2f75ba479a8523b0fffaae86204a25c", null ],
-    [ "PrepareAuraScript", "df/d14/a26699.html#a7cd3757fddecca39b1b0bd95bb2b8e5b", null ],
-    [ "Register", "df/d14/a26699.html#af0b1e469fec71b28ca349b9be9c6fdd7", null ]
+    [ "CheckProc", "df/d14/a26699.html#ab37749506a197a97cb3cc567cdff199c", null ],
+    [ "HandleProc", "df/d14/a26699.html#a4af1cc19b8ccc4ce0d3bdcaa93a3cce2", null ],
+    [ "PrepareAuraScript", "df/d14/a26699.html#a0c7c91113f0a4a289dcc5e53450a635a", null ],
+    [ "Register", "df/d14/a26699.html#af52bd6c3d698e3e1f7144431ee5c7d69", null ],
+    [ "Validate", "df/d14/a26699.html#aa4639d482cfda229e0a6eaa53c320ea8", null ]
 ];

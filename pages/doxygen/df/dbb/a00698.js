@@ -1,5 +1,6 @@
 var a00698 =
 [
-    [ "chatfilter_commandscript", "d8/d99/a12236.html", "d8/d99/a12236" ],
-    [ "AddSC_chatfilter_commandscript", "df/dbb/a00698.html#aee5ca3527878cd26d04712c7dc6b8611", null ]
+    [ "fireworkShowGameobjectOrgrimmar", "df/dbb/a00698.html#aa00988212bcd8875445e2b120c00025c", null ],
+    [ "fireworkShowOrgrimmar", "df/dbb/a00698.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
+    [ "fireworkShowScheduleOrgrimmar", "df/dbb/a00698.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
 ];

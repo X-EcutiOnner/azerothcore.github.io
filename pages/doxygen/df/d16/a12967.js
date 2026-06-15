@@ -1,10 +1,6 @@
 var a12967 =
 [
-    [ "boss_servant_quarters", "df/d16/a12967.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "df/d16/a12967.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "df/d16/a12967.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "df/d16/a12967.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "df/d16/a12967.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "df/d16/a12967.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "df/d16/a12967.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleHit", "df/d16/a12967.html#a5245f935c0cafd14e492214a51d85ad3", null ],
+    [ "PrepareSpellScript", "df/d16/a12967.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
+    [ "Register", "df/d16/a12967.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
 ];

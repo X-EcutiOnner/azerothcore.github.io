@@ -1,6 +1,6 @@
 var a22923 =
 [
-    [ "OnPeriodic", "d8/d8f/a22923.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "d8/d8f/a22923.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "d8/d8f/a22923.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "HandleScriptEffect", "d8/d8f/a22923.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d8/d8f/a22923.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d8/d8f/a22923.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

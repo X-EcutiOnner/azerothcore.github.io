@@ -1,7 +1,8 @@
 var a09679 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d5/d91/a09679.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "d5/d91/a09679.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "d5/d91/a09679.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "d5/d91/a09679.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "MostHPMissingInRange", "d5/d91/a09679.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "d5/d91/a09679.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "d5/d91/a09679.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "d5/d91/a09679.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "d5/d91/a09679.html#acef63da9004997c7f25056651284efa9", null ]
 ];

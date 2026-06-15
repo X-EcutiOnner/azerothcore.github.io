@@ -1,8 +1,7 @@
 var a26019 =
 [
-    [ "AfterApply", "d1/dd8/a26019.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
-    [ "AfterRemove", "d1/dd8/a26019.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
-    [ "PrepareAuraScript", "d1/dd8/a26019.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
-    [ "Register", "d1/dd8/a26019.html#a293ea418e290d96bbcaaed24cad663b0", null ],
-    [ "Validate", "d1/dd8/a26019.html#aa67afc85c142006efad986859f14941c", null ]
+    [ "HandleProc", "d1/dd8/a26019.html#a96626872760ab607782e7e37ca04c709", null ],
+    [ "PrepareAuraScript", "d1/dd8/a26019.html#adff2f298c4bf31f82e06986f94a8e73d", null ],
+    [ "Register", "d1/dd8/a26019.html#ad2010635f85ec3a96a3cd2b1dcb09f2f", null ],
+    [ "Validate", "d1/dd8/a26019.html#a869c5a4800371d63a7b05767262b0a7d", null ]
 ];

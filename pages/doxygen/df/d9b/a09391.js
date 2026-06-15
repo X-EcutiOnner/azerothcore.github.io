@@ -1,14 +1,13 @@
 var a09391 =
 [
-    [ "areaMapOffset", "df/d9b/a09391.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "df/d9b/a09391.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "df/d9b/a09391.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "df/d9b/a09391.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "df/d9b/a09391.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "df/d9b/a09391.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "df/d9b/a09391.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "df/d9b/a09391.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "df/d9b/a09391.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "df/d9b/a09391.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "df/d9b/a09391.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "QuestPOI", "df/d9b/a09391.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "df/d9b/a09391.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "df/d9b/a09391.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "df/d9b/a09391.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "df/d9b/a09391.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "df/d9b/a09391.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "df/d9b/a09391.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "df/d9b/a09391.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "df/d9b/a09391.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "df/d9b/a09391.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

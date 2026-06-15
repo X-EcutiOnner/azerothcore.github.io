@@ -1,6 +1,5 @@
 var a15771 =
 [
-    [ "npcs_riverbreeze_and_silversky", "df/dd3/a15771.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "df/dd3/a15771.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "df/dd3/a15771.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "go_ravager_cage", "df/dd3/a15771.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "df/dd3/a15771.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

@@ -1,8 +1,7 @@
 var a25475 =
 [
-    [ "HandleRapidFireProc", "d8/d74/a25475.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
-    [ "HandleRapidKillingProc", "d8/d74/a25475.html#a12f24814d41837c8ddb8a42c8e932077", null ],
-    [ "PrepareAuraScript", "d8/d74/a25475.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
-    [ "Register", "d8/d74/a25475.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
-    [ "Validate", "d8/d74/a25475.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
+    [ "HandlePeriodic", "d8/d74/a25475.html#a990b88f97dbbcd68d0df8989414d08bc", null ],
+    [ "PrepareAuraScript", "d8/d74/a25475.html#a4c8214e2fc72ceacc5822bfdec6e8380", null ],
+    [ "Register", "d8/d74/a25475.html#ab2da1b1433184a0dd4c6dd93b798890c", null ],
+    [ "Validate", "d8/d74/a25475.html#a55720e74edaf5eedf074738846ba6dd8", null ]
 ];

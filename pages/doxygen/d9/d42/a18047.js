@@ -1,6 +1,7 @@
 var a18047 =
 [
-    [ "UnboundPlagueTargetSelector", "d9/d42/a18047.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "d9/d42/a18047.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "d9/d42/a18047.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "HandleScript", "d9/d42/a18047.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d9/d42/a18047.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d9/d42/a18047.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d9/d42/a18047.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

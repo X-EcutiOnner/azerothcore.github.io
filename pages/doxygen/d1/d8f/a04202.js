@@ -1,9 +1,7 @@
 var a04202 =
 [
-    [ "QueryCallback::QueryCallbackData", "d6/db5/a06140.html", "d6/db5/a06140" ],
-    [ "Construct", "d1/d8f/a04202.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
-    [ "ConstructActiveMember", "d1/d8f/a04202.html#a63276ee687270e668e7c51876ced5fb1", null ],
-    [ "Destroy", "d1/d8f/a04202.html#aa4339e1c31032221caeaaedac04c0b32", null ],
-    [ "DestroyActiveMember", "d1/d8f/a04202.html#aac0ba6a0017441eb25c4b294fde99186", null ],
-    [ "MoveFrom", "d1/d8f/a04202.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
+    [ "OutdoorPvPData", "d7/d2d/a10515.html", "d7/d2d/a10515" ],
+    [ "OutdoorPvPMgr", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d1/d8f/a04202.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "d1/d8f/a04202.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

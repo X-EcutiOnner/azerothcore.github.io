@@ -1,5 +1,7 @@
 var a25491 =
 [
-    [ "PrepareSpellScript", "d4/d54/a25491.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "d4/d54/a25491.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "HandleProc", "d4/d54/a25491.html#a675a17a574539f2da85a5401afc18fec", null ],
+    [ "PrepareAuraScript", "d4/d54/a25491.html#a9e5ea1da302356a41b4eff338956ab93", null ],
+    [ "Register", "d4/d54/a25491.html#a2bade504b1ab2c2869ecaf8873864d19", null ],
+    [ "Validate", "d4/d54/a25491.html#aec327c219229ae9d59cb491eef2d95d3", null ]
 ];

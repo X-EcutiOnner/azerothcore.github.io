@@ -1,9 +1,6 @@
 var a09383 =
 [
-    [ "GridReference", "d3/d44/a09383.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d3/d44/a09383.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d3/d44/a09383.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d3/d44/a09383.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d3/d44/a09383.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d3/d44/a09383.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "Conditions", "d3/d44/a09383.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "d3/d44/a09383.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "d3/d44/a09383.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

@@ -1,9 +1,11 @@
 var a02972 =
 [
-    [ "GetCheckPacketBaseSize", "d0/daf/a02972.html#aa48d9759919f0fb8415c0fd0731a23b1", null ],
-    [ "GetCheckPacketSize", "d0/daf/a02972.html#adfb39c1ce4f6159c2c70e3cdf26978c9", null ],
-    [ "GetMaxWardenChecksForType", "d0/daf/a02972.html#aedb0d8dcf11f0df50080f361dcd78fed", null ],
-    [ "_luaEvalMidfix", "d0/daf/a02972.html#a5506a4e4233b2c380f79ad1225c4dc93", null ],
-    [ "_luaEvalPostfix", "d0/daf/a02972.html#ad14853510c2482e64bd81633e5074206", null ],
-    [ "_luaEvalPrefix", "d0/daf/a02972.html#a259abc7d98e16cefc14404b5886cbc09", null ]
+    [ "StableResultCode", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514", [
+      [ "STABLE_ERR_MONEY", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514a2e1a0a641b8771fd5ac124129e76b8c2", null ],
+      [ "STABLE_ERR_STABLE", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514af3160ddc997ae8fc32c4420aa8169898", null ],
+      [ "STABLE_SUCCESS_STABLE", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514a87d687b90cdb7cc884567156b95da61e", null ],
+      [ "STABLE_SUCCESS_UNSTABLE", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514afb9c62c9485c5e5f50c502a61a8f0ab1", null ],
+      [ "STABLE_SUCCESS_BUY_SLOT", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514aaa2a19926ebaa7372be4a798c5513317", null ],
+      [ "STABLE_ERR_EXOTIC", "d0/daf/a02972.html#abee8740a43e35bc796d1287225999514ac96f0f7b1cccb7a29b30b8152c780f47", null ]
+    ] ]
 ];

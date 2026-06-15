@@ -1,10 +1,6 @@
 var a20839 =
 [
-    [ "npc_dragonflayer_forge_master", "dd/d33/a20839.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "dd/d33/a20839.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "dd/d33/a20839.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "dd/d33/a20839.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "dd/d33/a20839.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "dd/d33/a20839.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "dd/d33/a20839.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "OnRemove", "dd/d33/a20839.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
+    [ "PrepareAuraScript", "dd/d33/a20839.html#a5fb0837417b915676549370cc76c477d", null ],
+    [ "Register", "dd/d33/a20839.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
 ];

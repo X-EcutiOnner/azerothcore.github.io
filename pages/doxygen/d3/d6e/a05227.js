@@ -1,16 +1,17 @@
 var a05227 =
 [
-    [ "GetLiquidFlagsFn", "d3/d6e/a05227.html#a172996acb562d916b51132e7e0072140", null ],
-    [ "IsVMAPDisabledForFn", "d3/d6e/a05227.html#a178edb6185bbdefbc08f2cf78205c1c6", null ],
-    [ "VMapMgr2", "d3/d6e/a05227.html#ac16d324a4ab5f27b18fe5f992f5288cd", null ],
-    [ "~VMapMgr2", "d3/d6e/a05227.html#afbbc51ff81e1aa107352354eb712b556", null ],
-    [ "convertPositionToInternalRep", "d3/d6e/a05227.html#ade8ab3f66eb603aae40a80fab7c52e67", null ],
-    [ "existsMap", "d3/d6e/a05227.html#a07b3ebc028b5832083bca9751b4f681c", null ],
-    [ "getDirFileName", "d3/d6e/a05227.html#ad2ad6e5bd41a585cf94c2e7d56358178", null ],
-    [ "GetLiquidFlagsDummy", "d3/d6e/a05227.html#a11761ce698c3e240366b03dd57142b25", null ],
-    [ "getMapFileName", "d3/d6e/a05227.html#aecec356ccb3fd3ddb52c7d889bd2c80d", null ],
-    [ "IsVMAPDisabledForDummy", "d3/d6e/a05227.html#a87d4d0a1553502c8c15fb12077ec34d2", null ],
-    [ "processCommand", "d3/d6e/a05227.html#a8ed4fc4a7b268adbef8cb7846be4aa88", null ],
-    [ "GetLiquidFlagsPtr", "d3/d6e/a05227.html#ae6be88472cb03382ebd998178371cb60", null ],
-    [ "IsVMAPDisabledForPtr", "d3/d6e/a05227.html#a38ceb27a94583eafa30dddd92239d6ca", null ]
+    [ "DynamicMapTree", "d3/d6e/a05227.html#ae1abe2e5e0464f2cfc6b87338698983d", null ],
+    [ "~DynamicMapTree", "d3/d6e/a05227.html#a6d33c22d53a1c2b8120e80c1f508cfb0", null ],
+    [ "balance", "d3/d6e/a05227.html#a1af866551a1ea151551ebb856797528d", null ],
+    [ "contains", "d3/d6e/a05227.html#a0d1cb7c5e805b637b392afe95ce0286a", null ],
+    [ "GetAreaAndLiquidData", "d3/d6e/a05227.html#a1229eb7e83b481cb72ffc9ae4a3a28a8", null ],
+    [ "getHeight", "d3/d6e/a05227.html#ac10680b14e3849bd17926cef24765d9d", null ],
+    [ "GetIntersectionTime", "d3/d6e/a05227.html#a06e7f683147b9487dad5ca70f28e5aa6", null ],
+    [ "GetObjectHitPos", "d3/d6e/a05227.html#ab664ac39063402dea9f587e9808a358d", null ],
+    [ "insert", "d3/d6e/a05227.html#a28ccab96fd4249f15485c89501da597b", null ],
+    [ "isInLineOfSight", "d3/d6e/a05227.html#a0e585c88cf1f457ad7018ad9c6a4c542", null ],
+    [ "remove", "d3/d6e/a05227.html#af75f1e6b52135ca8a9b4b7cd9fb6f42e", null ],
+    [ "size", "d3/d6e/a05227.html#aa97347b2172f8f80e360d6fcc132dbd9", null ],
+    [ "update", "d3/d6e/a05227.html#a97597eac8b03eccf1f61a6f2b0a9e562", null ],
+    [ "impl", "d3/d6e/a05227.html#a7d3a6c5c88df501d6d89e917fb44b1d0", null ]
 ];

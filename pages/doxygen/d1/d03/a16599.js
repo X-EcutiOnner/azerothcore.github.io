@@ -1,6 +1,6 @@
 var a16599 =
 [
-    [ "boss_grand_championAI", "d8/d8c/a16603.html", "d8/d8c/a16603" ],
-    [ "boss_grand_champion", "d1/d03/a16599.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "d1/d03/a16599.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_living_infernoAI", "d1/d03/a16599.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d1/d03/a16599.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d1/d03/a16599.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

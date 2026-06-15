@@ -1,11 +1,7 @@
 var a16095 =
 [
-    [ "boss_amanitar", "df/d8d/a16095.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "df/d8d/a16095.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "df/d8d/a16095.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "df/d8d/a16095.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "df/d8d/a16095.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "df/d8d/a16095.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "df/d8d/a16095.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "df/d8d/a16095.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_lakota_windsongAI", "d8/d75/a16099.html", "d8/d75/a16099" ],
+    [ "npc_lakota_windsong", "df/d8d/a16095.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "df/d8d/a16095.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "df/d8d/a16095.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

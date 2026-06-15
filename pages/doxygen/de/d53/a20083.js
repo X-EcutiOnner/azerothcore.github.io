@@ -1,10 +1,11 @@
 var a20083 =
 [
-    [ "boss_freya_elder_ironbranch", "de/d53/a20083.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "de/d53/a20083.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "de/d53/a20083.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "de/d53/a20083.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "de/d53/a20083.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "de/d53/a20083.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "de/d53/a20083.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "boss_flame_leviathan_seat", "de/d53/a20083.html#a2fc2adc846b2939cf633bf47b4307896", null ],
+    [ "AttackStart", "de/d53/a20083.html#a88d8a972e5f079c0111c0f189d599e8c", null ],
+    [ "EnterEvadeMode", "de/d53/a20083.html#ac0f5d43d4be0773fdae62d0ab433713f", null ],
+    [ "PassengerBoarded", "de/d53/a20083.html#a490fdbcb665f37f0b40a35a6cebe77cf", null ],
+    [ "Reset", "de/d53/a20083.html#aec34fec1a6a3857ea7895a2762bf82d0", null ],
+    [ "UpdateAI", "de/d53/a20083.html#a303c50b5684410013f95b0202ea33c8e", null ],
+    [ "_despawnTimer", "de/d53/a20083.html#afe673a7903cffa7acefb725d52efb08a", null ],
+    [ "vehicle", "de/d53/a20083.html#a9772b52283f16120dbefb5d218844c38", null ]
 ];

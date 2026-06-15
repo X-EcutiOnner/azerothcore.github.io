@@ -1,6 +1,5 @@
 var a14435 =
 [
-    [ "boss_wushoolayAI", "d4/d22/a14439.html", "d4/d22/a14439" ],
-    [ "boss_wushoolay", "d8/d99/a14435.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d8/d99/a14435.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d8/d99/a14435.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d8/d99/a14435.html#a725de49be12116f2f7e77edd31a096ae", null ]
 ];

@@ -1,6 +1,6 @@
 var a21831 =
 [
-    [ "npc_guardian_pavilionAI", "db/d26/a21835.html", "db/d26/a21835" ],
-    [ "npc_guardian_pavilion", "d0/dcd/a21831.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d0/dcd/a21831.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_lord_areteAI", "db/d26/a21835.html", "db/d26/a21835" ],
+    [ "npc_lord_arete", "d0/dcd/a21831.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d0/dcd/a21831.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

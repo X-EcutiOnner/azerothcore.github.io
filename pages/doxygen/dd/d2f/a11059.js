@@ -1,7 +1,7 @@
 var a11059 =
 [
-    [ "GuildBankLogQueryResults", "dd/d2f/a11059.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "dd/d2f/a11059.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "dd/d2f/a11059.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "dd/d2f/a11059.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildSetMemberNote", "dd/d2f/a11059.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "dd/d2f/a11059.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "dd/d2f/a11059.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "dd/d2f/a11059.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

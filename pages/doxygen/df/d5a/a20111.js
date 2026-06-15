@@ -1,6 +1,6 @@
 var a20111 =
 [
-    [ "achievement_freya_knock_on_wood", "df/d5a/a20111.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "df/d5a/a20111.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "df/d5a/a20111.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "npc_pool_of_tar", "df/d5a/a20111.html#a03de46dfa133992d094ab607a49b7236", null ],
+    [ "DamageTaken", "df/d5a/a20111.html#ac72ad742cb16e27abf25fe0e88408315", null ],
+    [ "SpellHit", "df/d5a/a20111.html#a61886862df88b41bf0c6959c9a564cea", null ]
 ];

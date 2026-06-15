@@ -1,7 +1,6 @@
 var a11503 =
 [
-    [ "MapSessionFilter", "d2/d12/a11503.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d2/d12/a11503.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d2/d12/a11503.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d2/d12/a11503.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "QuestUpdateComplete", "d2/d12/a11503.html#a1e6d102e4063facad1230b55d4048702", null ],
+    [ "Write", "d2/d12/a11503.html#a2ec714ac25e784446e8a614587bd79b3", null ],
+    [ "QuestId", "d2/d12/a11503.html#ac44a95d88d2970ee3e8bf0a8c57d578d", null ]
 ];

@@ -1,8 +1,5 @@
 var a12871 =
 [
-    [ "npc_kernobeeAI", "d2/dee/a12871.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d2/dee/a12871.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "d2/dee/a12871.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d2/dee/a12871.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d2/dee/a12871.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "go_orb_of_domination", "d2/dee/a12871.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "d2/dee/a12871.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

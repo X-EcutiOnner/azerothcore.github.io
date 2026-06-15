@@ -1,5 +1,6 @@
 var a18327 =
 [
-    [ "achievement_all_you_can_eat", "db/d8a/a18327.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "db/d8a/a18327.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "ExtraRemoveEffect", "db/d8a/a18327.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "db/d8a/a18327.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "db/d8a/a18327.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

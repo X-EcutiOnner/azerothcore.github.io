@@ -1,8 +1,6 @@
 var a09039 =
 [
-    [ "RedirectSpellEvent", "df/ddb/a09039.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "df/ddb/a09039.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "df/ddb/a09039.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "df/ddb/a09039.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "df/ddb/a09039.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "SplineHandler", "df/ddb/a09039.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "df/ddb/a09039.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "df/ddb/a09039.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

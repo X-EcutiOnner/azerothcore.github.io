@@ -1,8 +1,8 @@
 var a03980 =
 [
-    [ "ePoints", "dd/d78/a03980.html#a2604bd06487e34b78d3e50cd892f3c4d", [
-      [ "POINT_LAST_POINT", "dd/d78/a03980.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
-      [ "POINT_HOME", "dd/d78/a03980.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
-      [ "POINT_COMBAT_START", "d0/dce/a03971.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
-    ] ]
+    [ "WorldPackets::Bank::AutoBankItem", "d7/d04/a10855.html", "d7/d04/a10855" ],
+    [ "WorldPackets::Bank::AutoStoreBankItem", "df/d28/a10859.html", "df/d28/a10859" ],
+    [ "WorldPackets::Bank::BuyBankSlot", "d0/da5/a10863.html", "d0/da5/a10863" ],
+    [ "WorldPackets::Bank::BuyBankSlotResult", "d3/d64/a10867.html", "d3/d64/a10867" ],
+    [ "WorldPackets::Bank::ShowBank", "d8/d9a/a10871.html", "d8/d9a/a10871" ]
 ];

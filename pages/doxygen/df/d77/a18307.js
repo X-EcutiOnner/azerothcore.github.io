@@ -1,9 +1,6 @@
 var a18307 =
 [
-    [ "FilterTargets", "df/d77/a18307.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "df/d77/a18307.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "df/d77/a18307.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "df/d77/a18307.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "df/d77/a18307.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "df/d77/a18307.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "npc_little_oozeAI", "d9/d25/a18311.html", "d9/d25/a18311" ],
+    [ "npc_little_ooze", "df/d77/a18307.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "df/d77/a18307.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

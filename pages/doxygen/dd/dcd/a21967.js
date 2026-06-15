@@ -1,7 +1,10 @@
 var a21967 =
 [
-    [ "HandleDummy", "dd/dcd/a21967.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "dd/dcd/a21967.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "dd/dcd/a21967.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "dd/dcd/a21967.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_engineer_heliceAI", "dd/dcd/a21967.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dd/dcd/a21967.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dd/dcd/a21967.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dd/dcd/a21967.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dd/dcd/a21967.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "dd/dcd/a21967.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "dd/dcd/a21967.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

@@ -1,8 +1,6 @@
 var a28115 =
 [
-    [ "trigger_periodicAI", "d8/df3/a28115.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d8/df3/a28115.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d8/df3/a28115.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d8/df3/a28115.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d8/df3/a28115.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "trigger_periodicAI", "d6/d72/a28119.html", "d6/d72/a28119" ],
+    [ "trigger_periodic", "d8/df3/a28115.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d8/df3/a28115.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

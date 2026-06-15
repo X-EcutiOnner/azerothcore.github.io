@@ -1,7 +1,11 @@
 var a23779 =
 [
-    [ "npc_maghar_captiveAI", "d4/d80/a23783.html", "d4/d80/a23783" ],
-    [ "npc_maghar_captive", "d5/d94/a23779.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d5/d94/a23779.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d5/d94/a23779.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_aeranasAI", "d5/d94/a23779.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d5/d94/a23779.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d5/d94/a23779.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d5/d94/a23779.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d5/d94/a23779.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d5/d94/a23779.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d5/d94/a23779.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d5/d94/a23779.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

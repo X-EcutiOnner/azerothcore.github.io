@@ -1,4 +1,4 @@
 var a04346 =
 [
-    [ "SessionKeyGenerator< Hash >", "d1/d06/a05468.html", "d1/d06/a05468" ]
+    [ "DatabaseLoader", "dd/d51/a06023.html", "dd/d51/a06023" ]
 ];

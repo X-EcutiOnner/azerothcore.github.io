@@ -1,6 +1,7 @@
 var a15951 =
 [
-    [ "npc_twiggy_flatheadAI", "d4/dc9/a15955.html", "d4/dc9/a15955" ],
-    [ "npc_twiggy_flathead", "dd/d8d/a15951.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "dd/d8d/a15951.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_giant_spotlightAI", "dd/d8d/a15951.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "dd/d8d/a15951.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "dd/d8d/a15951.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "dd/d8d/a15951.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

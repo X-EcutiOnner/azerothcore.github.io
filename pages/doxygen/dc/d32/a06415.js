@@ -1,10 +1,9 @@
 var a06415 =
 [
-    [ "PowerUsersSelector", "dc/d32/a06415.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "dc/d32/a06415.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "dc/d32/a06415.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "dc/d32/a06415.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "dc/d32/a06415.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "dc/d32/a06415.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "dc/d32/a06415.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "TurretAI", "dc/d32/a06415.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "dc/d32/a06415.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "dc/d32/a06415.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "dc/d32/a06415.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "dc/d32/a06415.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "dc/d32/a06415.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

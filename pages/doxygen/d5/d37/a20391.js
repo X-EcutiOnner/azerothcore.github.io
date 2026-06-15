@@ -1,12 +1,18 @@
 var a20391 =
 [
-    [ "npc_ulduar_flames_initial", "d5/d37/a20391.html#afccccada26b0cc4dc2d40eb2a500f433", null ],
-    [ "DoAction", "d5/d37/a20391.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
-    [ "RemoveAll", "d5/d37/a20391.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
-    [ "RemoveFlame", "d5/d37/a20391.html#ad676a542b40b554027fc2ab491fa083d", null ],
-    [ "SpreadFlame", "d5/d37/a20391.html#af50c950610f5277a755d1786b596b9d7", null ],
-    [ "UpdateAI", "d5/d37/a20391.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
-    [ "_createTime", "d5/d37/a20391.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
-    [ "_events", "d5/d37/a20391.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
-    [ "_flameList", "d5/d37/a20391.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
+    [ "boss_ignis", "d5/d37/a20391.html#a0e254ab7aadb175bdbeac0cffd7044f7", null ],
+    [ "EnterEvadeMode", "d5/d37/a20391.html#a738218ee23e2e0d1f3338f958a77aabc", null ],
+    [ "GetData", "d5/d37/a20391.html#a90c4bf03b702264356f5826030ac16de", null ],
+    [ "JustDied", "d5/d37/a20391.html#ae82a27c0483beae93d2386ff9af3377f", null ],
+    [ "JustEngagedWith", "d5/d37/a20391.html#a3abac1b16ae9f42d0349d6472f2e1071", null ],
+    [ "JustReachedHome", "d5/d37/a20391.html#a07e03344eb0f47fe9791e6273c04b3ea", null ],
+    [ "KilledUnit", "d5/d37/a20391.html#a43ab13fd49fbc98fd6c81b38cd6e6f1d", null ],
+    [ "MoveInLineOfSight", "d5/d37/a20391.html#af5873189f7e2d8c27e709d04a4cbee13", null ],
+    [ "Reset", "d5/d37/a20391.html#ab3519e58bcf9feb942412a370fa0e205", null ],
+    [ "SetData", "d5/d37/a20391.html#a2d6b02b607206f1144e96486d8890539", null ],
+    [ "SpellHit", "d5/d37/a20391.html#af9a8dc94e2aeead55ab824dee7a63578", null ],
+    [ "UpdateAI", "d5/d37/a20391.html#af8b0ccfce6876b85b12e51328d4ec39f", null ],
+    [ "bShattered", "d5/d37/a20391.html#a4dca823efebb77be49e52df5ce45f42e", null ],
+    [ "counter", "d5/d37/a20391.html#a5efc99a75040decc5fddb83e64cb3930", null ],
+    [ "lastShatterMSTime", "d5/d37/a20391.html#a8b1e02c682f5d14fc03f439180265407", null ]
 ];

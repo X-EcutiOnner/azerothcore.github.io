@@ -1,5 +1,6 @@
 var a10251 =
 [
-    [ "IdleMovementFactory", "d1/dd3/a10251.html#af2bb5ef9fe67f3dda64d6ce44e825f52", null ],
-    [ "Create", "d1/dd3/a10251.html#a5e99eab3436482927bc83100f85581cd", null ]
+    [ "SplineRawInitializer", "d1/dd3/a10251.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
+    [ "operator()", "d1/dd3/a10251.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
+    [ "_points", "d1/dd3/a10251.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
 ];

@@ -1,6 +1,6 @@
 var a15159 =
 [
-    [ "NpcRunToHome", "d3/ddb/a15159.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
-    [ "Execute", "d3/ddb/a15159.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
-    [ "_owner", "d3/ddb/a15159.html#a7dd38171a6e55665fc28a74212313e51", null ]
+    [ "boss_epochAI", "df/de0/a15163.html", "df/de0/a15163" ],
+    [ "boss_epoch", "d3/ddb/a15159.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d3/ddb/a15159.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

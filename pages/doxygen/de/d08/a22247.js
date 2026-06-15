@@ -1,5 +1,13 @@
 var a22247 =
 [
-    [ "outdoorpvp_na_halaa_creatures", "de/d08/a22247.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
-    [ "UpdateAI", "de/d08/a22247.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
+    [ "OPvPCapturePointEP_NPT", "de/d08/a22247.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "de/d08/a22247.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "de/d08/a22247.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "de/d08/a22247.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "de/d08/a22247.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "de/d08/a22247.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "de/d08/a22247.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "de/d08/a22247.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "de/d08/a22247.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "de/d08/a22247.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

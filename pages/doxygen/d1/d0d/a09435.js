@@ -1,9 +1,11 @@
 var a09435 =
 [
-    [ "LiquidData", "d1/d0d/a09435.html#ac2435178323f480d2dae449b49b39146", null ],
-    [ "DepthLevel", "d1/d0d/a09435.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
-    [ "Entry", "d1/d0d/a09435.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
-    [ "Flags", "d1/d0d/a09435.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
-    [ "Level", "d1/d0d/a09435.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
-    [ "Status", "d1/d0d/a09435.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
+    [ "~GridCell", "d1/d0d/a09435.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d1/d0d/a09435.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d1/d0d/a09435.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d1/d0d/a09435.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d1/d0d/a09435.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d1/d0d/a09435.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d1/d0d/a09435.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d1/d0d/a09435.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

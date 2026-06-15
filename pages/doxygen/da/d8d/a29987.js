@@ -1,8 +1,6 @@
 var a29987 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "da/d8d/a29987.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "da/d8d/a29987.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "da/d8d/a29987.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "da/d8d/a29987.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "da/d8d/a29987.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "height", "da/d8d/a29987.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "da/d8d/a29987.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "da/d8d/a29987.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

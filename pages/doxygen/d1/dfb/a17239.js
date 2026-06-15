@@ -1,7 +1,7 @@
 var a17239 =
 [
-    [ "HandlePeriodicTick", "d1/dfb/a17239.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d1/dfb/a17239.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d1/dfb/a17239.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d1/dfb/a17239.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "OnRemove", "d1/dfb/a17239.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d1/dfb/a17239.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d1/dfb/a17239.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d1/dfb/a17239.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

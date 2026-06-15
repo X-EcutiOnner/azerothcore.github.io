@@ -1,6 +1,6 @@
 var a11495 =
 [
-    [ "AccountData", "dd/dd9/a11495.html#a593303fb86ec3ac592ee933b8d057fe8", null ],
-    [ "Data", "dd/dd9/a11495.html#aa45f3f93f643b4dd9ea4d269e3b5462d", null ],
-    [ "Time", "dd/dd9/a11495.html#a38b2049e50845641cc380b6786e68ac5", null ]
+    [ "CorpseMapPositionQuery", "dd/dd9/a11495.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "dd/dd9/a11495.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "dd/dd9/a11495.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

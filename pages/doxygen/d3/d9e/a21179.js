@@ -1,8 +1,6 @@
 var a21179 =
 [
-    [ "npc_azure_mage_slayerAI", "d3/d9e/a21179.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "d3/d9e/a21179.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "d3/d9e/a21179.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "d3/d9e/a21179.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "d3/d9e/a21179.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "npc_frozen_orbAI", "d4/dc3/a21183.html", "d4/dc3/a21183" ],
+    [ "npc_frozen_orb", "d3/d9e/a21179.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d3/d9e/a21179.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

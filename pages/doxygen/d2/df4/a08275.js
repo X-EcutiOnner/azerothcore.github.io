@@ -1,10 +1,14 @@
 var a08275 =
 [
-    [ "AssistDelayEvent", "d2/df4/a08275.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "d2/df4/a08275.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "d2/df4/a08275.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "d2/df4/a08275.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "d2/df4/a08275.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "d2/df4/a08275.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "d2/df4/a08275.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "LfgQueueStatusData", "d2/df4/a08275.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d2/df4/a08275.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d2/df4/a08275.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d2/df4/a08275.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d2/df4/a08275.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d2/df4/a08275.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d2/df4/a08275.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d2/df4/a08275.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d2/df4/a08275.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d2/df4/a08275.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d2/df4/a08275.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

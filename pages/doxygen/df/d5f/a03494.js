@@ -1,23 +1,12 @@
 var a03494 =
 [
-    [ "SPECTATOR_ADDON_PREFIX", "df/d5f/a03494.html#ad208fe13d99ebdd4ecc344c284d15e68", null ],
-    [ "SPECTATOR_ADDON_VERSION", "df/d5f/a03494.html#ae3d7b03163a946f567eb34e902d0b424", null ],
-    [ "SPECTATOR_BUFFER_LEN", "df/d5f/a03494.html#adf210ab6f5a013e4f37def30f79b2a2c", null ],
-    [ "SPECTATOR_COOLDOWN_MAX", "df/d5f/a03494.html#a5caad2c604ec8c4fe2b2653a9a629d23", null ],
-    [ "SPECTATOR_COOLDOWN_MIN", "df/d5f/a03494.html#ad2182c49e417fd86e25b7c2a209d044b", null ],
-    [ "SPECTATOR_SPELL_BINDSIGHT", "df/d5f/a03494.html#a45eed6b7e374a4b2ea26b3dd5ee915d0", null ],
-    [ "SPECTATOR_SPELL_SPEED", "df/d5f/a03494.html#a3a183131cf51fa6957a40f07d8d524ef", null ],
-    [ "CreatePacket", "df/d5f/a03494.html#a20983eb9cb8e3f584a4d8f752586d06b", null ],
-    [ "HandleResetCommand", "df/d5f/a03494.html#a4508ccc26eb193b85e4d229a088c6be5", null ],
-    [ "HandleSpectatorSpectateCommand", "df/d5f/a03494.html#ac3b35eed76fdcf00f43b226912317b4a", null ],
-    [ "HandleSpectatorWatchCommand", "df/d5f/a03494.html#ae611c9f6783ca983d1ff667f36dd7c7d", null ],
-    [ "SendCommand", "df/d5f/a03494.html#a4824203dd64e1ddcd47642df9d465ea0", null ],
-    [ "SendCommand_Aura", "df/d5f/a03494.html#a918c7c3c9fd7d26b7a78f2e6d13e1e27", null ],
-    [ "SendCommand_Cooldown", "df/d5f/a03494.html#a5e336b6d62f2d9e24551cfb96c7a8679", null ],
-    [ "SendCommand_GUID", "df/d5f/a03494.html#af537ad9da6345b285d2d726b640a0340", null ],
-    [ "SendCommand_Spell", "df/d5f/a03494.html#a461f69ba88de17058481bc77a3e9f7bb", null ],
-    [ "SendCommand_String", "df/d5f/a03494.html#ac7839fd6177447b31578a19f8ee8e42a", null ],
-    [ "SendCommand_UInt32Value", "df/d5f/a03494.html#ae899637e3543ca40ec63e98bf0426f58", null ],
-    [ "SendPacketTo", "df/d5f/a03494.html#abc5c395f3697c21f09c4e70a81f02497", null ],
-    [ "ShouldSendAura", "df/d5f/a03494.html#a29f78349223aca49d417c3f818b2dd4c", null ]
+    [ "AchievementScript", "d8/d3a/a10595.html", "d8/d3a/a10595" ],
+    [ "AchievementHook", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1", [
+      [ "ACHIEVEMENTHOOK_SET_REALM_COMPLETED", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1ac3fc38cd750edf07c66cf42ae357a782", null ],
+      [ "ACHIEVEMENTHOOK_IS_COMPLETED_CRITERIA", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1a12f1bcc17681be9acc81dc3fb51e8f2e", null ],
+      [ "ACHIEVEMENTHOOK_IS_REALM_COMPLETED", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1a0f6e888313610e200011072afae5b8e7", null ],
+      [ "ACHIEVEMENTHOOK_ON_BEFORE_CHECK_CRITERIA", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1a5073468c76ad4823c32a7fe0cc113048", null ],
+      [ "ACHIEVEMENTHOOK_CAN_CHECK_CRITERIA", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1aa9d01d0837118bf75263bb54b21f18b1", null ],
+      [ "ACHIEVEMENTHOOK_END", "df/d5f/a03494.html#a62b7eadebfd59858b2e2f1a8713a3ae1a2df8c3284122e09fda0d8f4b7789732c", null ]
+    ] ]
 ];

@@ -1,10 +1,7 @@
 var a21279 =
 [
-    [ "npc_jenny", "d6/d38/a21279.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d6/d38/a21279.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d6/d38/a21279.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d6/d38/a21279.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d6/d38/a21279.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d6/d38/a21279.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d6/d38/a21279.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_azure_stalker", "d6/d38/a21279.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d6/d38/a21279.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d6/d38/a21279.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d6/d38/a21279.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

@@ -1,6 +1,17 @@
 var a14671 =
 [
-    [ "HandleScript", "db/d91/a14671.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "db/d91/a14671.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "db/d91/a14671.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "npc_coren_direbrew", "db/d91/a14671.html#a51ab68feb3dde3fb23c708afcdcdbd34", null ],
+    [ "CanBeSeen", "db/d91/a14671.html#ad4db2a85c92f69e54036f4133396f201", null ],
+    [ "DamageTaken", "db/d91/a14671.html#a782a08ed525eab8a9e9044dc1d5814b3", null ],
+    [ "DoAction", "db/d91/a14671.html#a2d417a9310b5b75df09879678d967794", null ],
+    [ "JustDied", "db/d91/a14671.html#a39913e601440fcd6ffbc77ad7c204ac8", null ],
+    [ "JustSummoned", "db/d91/a14671.html#a2cb3d9de6ccdffa73f709b82cfae790a", null ],
+    [ "MoveInLineOfSight", "db/d91/a14671.html#a9c48c7e4a97998c2091992f51b734679", null ],
+    [ "Reset", "db/d91/a14671.html#a49eb75eb89742ee70ca957d4e2f0b5d0", null ],
+    [ "sGossipSelect", "db/d91/a14671.html#ad8b665606985984ad633f66ad9b73bd2", null ],
+    [ "SummonedCreatureDies", "db/d91/a14671.html#aafdc2d271d1e267f5b3deba7d00e07fc", null ],
+    [ "SummonSister", "db/d91/a14671.html#a358fe5922a85ea3eee6abe9451869b66", null ],
+    [ "UpdateAI", "db/d91/a14671.html#af6615292fa853883979dc37c6e247289", null ],
+    [ "_events", "db/d91/a14671.html#a81ee26c215b7581a13faf56ee041b9fe", null ],
+    [ "_summons", "db/d91/a14671.html#a261d4c4dea56748e66752cb11588086a", null ]
 ];

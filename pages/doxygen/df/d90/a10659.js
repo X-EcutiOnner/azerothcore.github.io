@@ -1,5 +1,6 @@
 var a10659 =
 [
-    [ "MailScript", "df/d90/a10659.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "df/d90/a10659.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "BattlegroundScript", "df/d90/a10659.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "df/d90/a10659.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "df/d90/a10659.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

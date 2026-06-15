@@ -1,7 +1,5 @@
 var a11643 =
 [
-    [ "chance", "db/d10/a11643.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "db/d10/a11643.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "db/d10/a11643.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "db/d10/a11643.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "AccountInfoQueryHolderPerRealm", "db/d10/a11643.html#a9d821669804cd04cf121e141d94ead36", null ],
+    [ "Initialize", "db/d10/a11643.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
 ];

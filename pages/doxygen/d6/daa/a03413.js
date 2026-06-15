@@ -1,9 +1,12 @@
 var a03413 =
 [
-    [ "MapType", "d6/daa/a03413.html#a2a540ae6cb73c9914f0253464b155227", null ],
-    [ "Find", "d6/daa/a03413.html#a42d065468e6e62b7161ba0c17e1d75ea", null ],
-    [ "Insert", "d6/daa/a03413.html#a3ba44f9ba2a1ff4fd122944f95ef06bd", null ],
-    [ "Remove", "d6/daa/a03413.html#a8f833a3f02f1e431170dd5d052b0f919", null ],
-    [ "RemoveByName", "d6/daa/a03413.html#a9c5298580060e7a6078ffb5f4008c549", null ],
-    [ "PlayerNameMap", "d6/daa/a03413.html#aa8fcdd0ac947e92edddddd4e2daf61dd", null ]
+    [ "WorldObjectScript", "d9/df4/a10803.html", "d9/df4/a10803" ],
+    [ "WorldObjectHook", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1c", [
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_DESTROY", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1ca19911e8e8d81b83808647214673201ce", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_CREATE", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1caa4f7a14c3e5de3e6ace4c9a4bacc656c", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_SET_MAP", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1ca06f900f1b11de87d54d283b4433d5100", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_RESET_MAP", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1cac1f7c2d5eb2a8755ef8e628c8c769241", null ],
+      [ "WORLDOBJECTHOOK_ON_WORLD_OBJECT_UPDATE", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1ca7fcc241c6d7db7844d86f1d88fb06144", null ],
+      [ "WORLDOBJECTHOOK_END", "d6/daa/a03413.html#ab8a14556853bd2637a19973d68ba6d1ca4efa80e98b34555980ec0b06142a4c59", null ]
+    ] ]
 ];

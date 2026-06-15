@@ -1,17 +1,5 @@
 var a21947 =
 [
-    [ "npc_frosthound", "d3/da7/a21947.html#a90dc4d1debb64354154760b52f8b1129", null ],
-    [ "AttackStart", "d3/da7/a21947.html#adf6969c7670584747e407a3bede8c928", null ],
-    [ "EnterEvadeMode", "d3/da7/a21947.html#ad0a16989c8c65eaa58deec6f885719f3", null ],
-    [ "JustDied", "d3/da7/a21947.html#a5a20cbca9da2f80c02d0697c84689c7a", null ],
-    [ "JustEngagedWith", "d3/da7/a21947.html#a8c9d22bfd32c12b3cf60f89f6856b5a5", null ],
-    [ "JustSummoned", "d3/da7/a21947.html#a93858959a06e4f1aa014fca3044949bc", null ],
-    [ "OnCharmed", "d3/da7/a21947.html#aaf081193bdae7ef30c153a3d40dcefe7", null ],
-    [ "PassengerBoarded", "d3/da7/a21947.html#a0126be35e4bbb613c9e0a1a04bef3681", null ],
-    [ "Reset", "d3/da7/a21947.html#ac2056fafcb04a827c83bc199a89a8a74", null ],
-    [ "UpdateAI", "d3/da7/a21947.html#ab163e819369b6b90b5782ab8d1cecbaf", null ],
-    [ "WaypointReached", "d3/da7/a21947.html#a9f6238bd211a1a465815c8cdd9bac1d2", null ],
-    [ "WaypointReached", "d3/da7/a21947.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_completionWaypoint", "d3/da7/a21947.html#adfeb6a7a2755ebc0d1252cedf0f54727", null ],
-    [ "_summons", "d3/da7/a21947.html#a103a499ecce73bc4505a85a21c143e73", null ]
+    [ "go_brazier", "d3/da7/a21947.html#a432a07256fde679a889de7ba0f64f092", null ],
+    [ "OnGossipHello", "d3/da7/a21947.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
 ];

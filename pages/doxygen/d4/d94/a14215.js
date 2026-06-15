@@ -1,9 +1,7 @@
 var a14215 =
 [
-    [ "npc_amanishi_scout", "d4/d94/a14215.html#a74bed56c21c184e661f62c30ce6d9140", null ],
-    [ "JustEngagedWith", "d4/d94/a14215.html#a5969fadd871094e993c4d3fe0b08054c", null ],
-    [ "Reset", "d4/d94/a14215.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
-    [ "ScheduleCombat", "d4/d94/a14215.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
-    [ "UpdateAI", "d4/d94/a14215.html#a3740a4fde31e1e81edb34dde61403acc", null ],
-    [ "_drumGUID", "d4/d94/a14215.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
+    [ "npc_daphne_stilwellAI", "da/db9/a14219.html", "da/db9/a14219" ],
+    [ "npc_daphne_stilwell", "d4/d94/a14215.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d4/d94/a14215.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d4/d94/a14215.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

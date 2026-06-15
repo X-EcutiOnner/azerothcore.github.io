@@ -1,6 +1,12 @@
 var a22943 =
 [
-    [ "FilterTargets", "d3/d17/a22943.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d3/d17/a22943.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d3/d17/a22943.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "boss_leotheras_the_blind", "d3/d17/a22943.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d3/d17/a22943.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d3/d17/a22943.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d3/d17/a22943.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d3/d17/a22943.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d3/d17/a22943.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d3/d17/a22943.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d3/d17/a22943.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d3/d17/a22943.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

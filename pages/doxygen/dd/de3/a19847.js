@@ -1,8 +1,8 @@
 var a19847 =
 [
-    [ "HandlePeriodic", "dd/de3/a19847.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "dd/de3/a19847.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "dd/de3/a19847.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "dd/de3/a19847.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "dd/de3/a19847.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dd/de3/a19847.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "dd/de3/a19847.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "dd/de3/a19847.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "dd/de3/a19847.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "dd/de3/a19847.html#a52db8081961566ef2002424f00b60189", null ]
 ];

@@ -1,8 +1,8 @@
 var a13307 =
 [
-    [ "CheckCast", "db/d8f/a13307.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "db/d8f/a13307.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "db/d8f/a13307.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "db/d8f/a13307.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "db/d8f/a13307.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "CheckProc", "db/d8f/a13307.html#a085f6affd2bf76fe66f9023e67725848", null ],
+    [ "HandleProc", "db/d8f/a13307.html#ae5c0f54c072fa5f4bb69af0acd74053c", null ],
+    [ "PrepareAuraScript", "db/d8f/a13307.html#a001de2ce29c768b328b93c66c6aca2f9", null ],
+    [ "Register", "db/d8f/a13307.html#ad4db3b85cab89e4922ac4935b0cdcbd5", null ],
+    [ "Validate", "db/d8f/a13307.html#a42ae1d2f846815480dc02e7e5f92527e", null ]
 ];

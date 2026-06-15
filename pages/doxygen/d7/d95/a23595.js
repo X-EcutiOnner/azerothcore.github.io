@@ -1,6 +1,5 @@
 var a23595 =
 [
-    [ "HandleScriptEffect", "d7/d95/a23595.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d7/d95/a23595.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d7/d95/a23595.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "npc_thaladred", "d7/d95/a23595.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d7/d95/a23595.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

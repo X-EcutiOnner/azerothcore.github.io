@@ -1,6 +1,9 @@
 var a26035 =
 [
-    [ "PrepareSpellScript", "d0/dc1/a26035.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d0/dc1/a26035.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d0/dc1/a26035.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "CheckCaster", "d0/dc1/a26035.html#afc48d6f2d2d23b6ba996c76eda1d8d47", null ],
+    [ "OnApply", "d0/dc1/a26035.html#a34e2585c500c5975d6549cd1b7602b18", null ],
+    [ "OnRemove", "d0/dc1/a26035.html#a8d95ba91e4f358bd0abbecf2fe85dfb8", null ],
+    [ "PrepareAuraScript", "d0/dc1/a26035.html#ad905a91348b92007774c69467c24d40e", null ],
+    [ "Register", "d0/dc1/a26035.html#ada9610c7d5d1236ccb509ac7ca4a8b3d", null ],
+    [ "Validate", "d0/dc1/a26035.html#a0f9174b9cf14dd8bf0c8c444600511b1", null ]
 ];

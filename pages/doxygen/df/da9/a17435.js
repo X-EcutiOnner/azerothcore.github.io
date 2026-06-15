@@ -1,6 +1,13 @@
 var a17435 =
 [
-    [ "HandlePeriodic", "df/da9/a17435.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "df/da9/a17435.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "df/da9/a17435.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "df/da9/a17435.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
+    [ "DoAction", "df/da9/a17435.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
+    [ "JustSummoned", "df/da9/a17435.html#acdfc5d370da977ab69752016368cc9b0", null ],
+    [ "MovementInform", "df/da9/a17435.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
+    [ "SummonedCreatureDespawn", "df/da9/a17435.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
+    [ "UpdateAI", "df/da9/a17435.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
+    [ "events", "df/da9/a17435.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
+    [ "i", "df/da9/a17435.html#aa185914ee8a2352e4d233f1fc4800390", null ],
+    [ "pInstance", "df/da9/a17435.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
+    [ "summons", "df/da9/a17435.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
 ];

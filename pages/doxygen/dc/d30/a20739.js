@@ -1,5 +1,8 @@
 var a20739 =
 [
-    [ "achievement_yogg_saron_drive_me_crazy", "dc/d30/a20739.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
-    [ "OnCheck", "dc/d30/a20739.html#a029fdd68e0643b53971efbb1056f19d8", null ]
+    [ "boss_yoggsaron_guardian_of_ys", "dc/d30/a20739.html#ad66fab16b309b62895578d46e8a2e730", null ],
+    [ "JustDied", "dc/d30/a20739.html#a12ce3fef2fba8d92945249cf8920a0b4", null ],
+    [ "Reset", "dc/d30/a20739.html#ac803a9da5223db459b9ec48435e59c30", null ],
+    [ "UpdateAI", "dc/d30/a20739.html#a573576eaff2cbd4f779675e19ad53dea", null ],
+    [ "_spellTimer", "dc/d30/a20739.html#a5922d21c4606ab9a41e20948dc926cea", null ]
 ];
