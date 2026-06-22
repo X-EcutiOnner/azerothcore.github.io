@@ -1,5 +1,7 @@
 var a23207 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "dc/dca/a23207.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "dc/dca/a23207.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "HandleScript", "dc/dca/a23207.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "dc/dca/a23207.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "dc/dca/a23207.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "dc/dca/a23207.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

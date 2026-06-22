@@ -1,7 +1,6 @@
 var a23499 =
 [
-    [ "AfterApply", "d4/d67/a23499.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d4/d67/a23499.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d4/d67/a23499.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d4/d67/a23499.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "instance_arcatraz_InstanceMapScript", "db/de1/a23503.html", "db/de1/a23503" ],
+    [ "instance_arcatraz", "d4/d67/a23499.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d4/d67/a23499.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

@@ -1,9 +1,10 @@
 var a02288 =
 [
-    [ "SecretInfo", "d9/d8f/a29231.html", "d9/d8f/a29231" ],
-    [ "SECRET_FLAG", "dc/d1a/a02288.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
-    [ "SECRET_FLAG_FOR", "dc/d1a/a02288.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
-    [ "SecretFlags", "dc/d1a/a02288.html#a03463ea440a7f843bdf8415f362a49f5", null ],
-    [ "GetHexFromConfig", "dc/d1a/a02288.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
-    [ "secret_info", "dc/d1a/a02288.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
+    [ "SecretMgr", "dc/dba/a29247.html", "dc/dba/a29247" ],
+    [ "SecretMgr::Secret", "d4/d2c/a29251.html", "d4/d2c/a29251" ],
+    [ "sSecretMgr", "dc/d1a/a02288.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
+    [ "Secrets", "dc/d1a/a02288.html#ab54b0ec728a299f0ff9e8a7796297a01", [
+      [ "SECRET_TOTP_MASTER_KEY", "dc/d1a/a02288.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
+      [ "NUM_SECRETS", "dc/d1a/a02288.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
+    ] ]
 ];

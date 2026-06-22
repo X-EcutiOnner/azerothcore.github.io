@@ -1,7 +1,8 @@
 var a28775 =
 [
-    [ "bit_index", "d1/d64/a28775.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d1/d64/a28775.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d1/d64/a28775.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d1/d64/a28775.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "gender", "d1/d64/a28775.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d1/d64/a28775.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d1/d64/a28775.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d1/d64/a28775.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d1/d64/a28775.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

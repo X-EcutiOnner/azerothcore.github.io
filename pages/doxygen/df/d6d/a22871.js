@@ -1,12 +1,8 @@
 var a22871 =
 [
-    [ "boss_fathomlord_karathress", "df/d6d/a22871.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "df/d6d/a22871.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "df/d6d/a22871.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "df/d6d/a22871.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "df/d6d/a22871.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "df/d6d/a22871.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "df/d6d/a22871.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "df/d6d/a22871.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "df/d6d/a22871.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "CalculateAmount", "df/d6d/a22871.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "df/d6d/a22871.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "df/d6d/a22871.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "df/d6d/a22871.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "df/d6d/a22871.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

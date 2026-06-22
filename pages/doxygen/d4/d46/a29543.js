@@ -1,6 +1,12 @@
 var a29543 =
 [
-    [ "ExpectDate", "d4/d46/a29543.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
-    [ "IsLeapYear", "d4/d46/a29543.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d4/d46/a29543.html#af1ee91196bfb749605bf98f4441a03a4", null ]
+    [ "TestVisibilityScript", "d4/d46/a29543.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d4/d46/a29543.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d4/d46/a29543.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d4/d46/a29543.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d4/d46/a29543.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d4/d46/a29543.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d4/d46/a29543.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d4/d46/a29543.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d4/d46/a29543.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

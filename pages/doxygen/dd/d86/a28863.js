@@ -1,11 +1,16 @@
 var a28863 =
 [
-    [ "Displayid", "dd/d86/a28863.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "dd/d86/a28863.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "dd/d86/a28863.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "dd/d86/a28863.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "dd/d86/a28863.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "dd/d86/a28863.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "dd/d86/a28863.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "dd/d86/a28863.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "CanBeSetAtWar", "dd/d86/a28863.html#ae165dc23f25386eb086e1fa2cb820153", null ],
+    [ "CanHaveReputation", "dd/d86/a28863.html#ab3da6918e197c1098a932418d5c51799", null ],
+    [ "BaseRepClassMask", "dd/d86/a28863.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
+    [ "BaseRepRaceMask", "dd/d86/a28863.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
+    [ "BaseRepValue", "dd/d86/a28863.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
+    [ "ID", "dd/d86/a28863.html#a1953f7a343201113dae80cdd97e1ac90", null ],
+    [ "name", "dd/d86/a28863.html#ad9d326ed1aac5ea66825775665dfea00", null ],
+    [ "ReputationFlags", "dd/d86/a28863.html#ae23a3c94554b2043928d6e1ea748e709", null ],
+    [ "reputationListID", "dd/d86/a28863.html#aee99121c2d7298e16540229923391aee", null ],
+    [ "spilloverMaxRankIn", "dd/d86/a28863.html#a14cea5365f14880850e788ba328d0c8e", null ],
+    [ "spilloverRateIn", "dd/d86/a28863.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
+    [ "spilloverRateOut", "dd/d86/a28863.html#a7cea150843bf48277aa9cc917d210fcb", null ],
+    [ "team", "dd/d86/a28863.html#a6210fabf2688f26a0a0050f6c148485d", null ]
 ];

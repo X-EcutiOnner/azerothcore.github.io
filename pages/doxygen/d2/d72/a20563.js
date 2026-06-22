@@ -1,10 +1,7 @@
 var a20563 =
 [
-    [ "npc_ulduar_harpoonfirestate", "d2/d72/a20563.html#a2456fbee16367a524f26873da99247e8", null ],
-    [ "GetData", "d2/d72/a20563.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
-    [ "GetHarpoonGunIdForThisHFS", "d2/d72/a20563.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
-    [ "Reset", "d2/d72/a20563.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
-    [ "SetData", "d2/d72/a20563.html#a338c6cb2be0e05726f372344fdc2b436", null ],
-    [ "pInstance", "d2/d72/a20563.html#aee0914001b38be87976cd44b6bbaf276", null ],
-    [ "repairPoints", "d2/d72/a20563.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d2/d72/a20563.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d2/d72/a20563.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d2/d72/a20563.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d2/d72/a20563.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

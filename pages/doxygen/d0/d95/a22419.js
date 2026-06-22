@@ -1,6 +1,8 @@
 var a22419 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d5/dd3/a22423.html", "d5/dd3/a22423" ],
-    [ "instance_sethekk_halls", "d0/d95/a22419.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "d0/d95/a22419.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "boss_darkweaver_syth", "d0/d95/a22419.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d0/d95/a22419.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d0/d95/a22419.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d0/d95/a22419.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d0/d95/a22419.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

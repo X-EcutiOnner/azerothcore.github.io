@@ -1,9 +1,19 @@
 var a19811 =
 [
-    [ "npc_stormforged_lieutenant", "d6/dbb/a19811.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d6/dbb/a19811.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d6/dbb/a19811.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d6/dbb/a19811.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d6/dbb/a19811.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d6/dbb/a19811.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "boss_bjarngrim", "d6/dbb/a19811.html#a1bf90864479939ba3f251c38b173e23a", null ],
+    [ "InitializeWaypoints", "d6/dbb/a19811.html#a87eab2b27b48d98b94a030936722781e", null ],
+    [ "JustDied", "d6/dbb/a19811.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
+    [ "JustEngagedWith", "d6/dbb/a19811.html#ad150ab7d9837861e8c4673a78978bb11", null ],
+    [ "JustRespawned", "d6/dbb/a19811.html#ab698e8ea0de311b167d95c01ef1bee69", null ],
+    [ "KilledUnit", "d6/dbb/a19811.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
+    [ "RemoveStanceAura", "d6/dbb/a19811.html#a55a695e27192313c6cbe263a739e669e", null ],
+    [ "Reset", "d6/dbb/a19811.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
+    [ "RollStance", "d6/dbb/a19811.html#acd511435f9d77aa4839e1c856382ea51", null ],
+    [ "UpdateEscortAI", "d6/dbb/a19811.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
+    [ "WaypointReached", "d6/dbb/a19811.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
+    [ "WaypointReached", "d6/dbb/a19811.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "events", "d6/dbb/a19811.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
+    [ "m_pInstance", "d6/dbb/a19811.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
+    [ "m_uiStance", "d6/dbb/a19811.html#aec11755c71f056c8294a8af1c1084353", null ],
+    [ "summons", "d6/dbb/a19811.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
 ];

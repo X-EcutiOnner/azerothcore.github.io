@@ -1,4 +1,4 @@
 var a03419 =
 [
-    [ "ScriptRegistry< AllSpellScript >", "d1/d42/a03419.html#a6fb50c7d667ae3d14a6d307b0862e957", null ]
+    [ "ScriptRegistry< ConditionScript >", "d1/d42/a03419.html#af6b3c804d07f366580a1a5b9dd95f5fd", null ]
 ];

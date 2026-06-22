@@ -1,8 +1,9 @@
 var a05115 =
 [
-    [ "CorpseMapPositionQuery", "dd/dd9/a11495.html", "dd/dd9/a11495" ],
-    [ "NameQuery", "de/d86/a11479.html", "de/d86/a11479" ],
-    [ "NameQueryResponse", "d5/d07/a11483.html", "d5/d07/a11483" ],
-    [ "TimeQuery", "d9/dc3/a11487.html", "d9/dc3/a11487" ],
-    [ "TimeQueryResponse", "da/d64/a11491.html", "da/d64/a11491" ]
+    [ "Hello", "d1/db9/a11367.html", "d1/db9/a11367" ],
+    [ "TrainerBuyFailed", "d8/d69/a11383.html", "d8/d69/a11383" ],
+    [ "TrainerBuySpell", "d6/d75/a11379.html", "d6/d75/a11379" ],
+    [ "TrainerBuySucceeded", "d1/d5b/a11387.html", "d1/d5b/a11387" ],
+    [ "TrainerList", "db/ddf/a11375.html", "db/ddf/a11375" ],
+    [ "TrainerListSpell", "df/d72/a11371.html", "df/d72/a11371" ]
 ];

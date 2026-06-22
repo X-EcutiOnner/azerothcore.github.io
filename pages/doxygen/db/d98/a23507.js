@@ -1,9 +1,8 @@
 var a23507 =
 [
-    [ "boss_high_botanist_freywinn", "db/d98/a23507.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "db/d98/a23507.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "db/d98/a23507.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "db/d98/a23507.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "db/d98/a23507.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "db/d98/a23507.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_commander_sarannis", "db/d98/a23507.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "db/d98/a23507.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "db/d98/a23507.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "db/d98/a23507.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "db/d98/a23507.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

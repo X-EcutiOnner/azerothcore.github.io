@@ -1,5 +1,7 @@
 var a18919 =
 [
-    [ "achievement_portal_jockey", "dc/d6e/a18919.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "dc/d6e/a18919.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "OnApply", "dc/d6e/a18919.html#ac35f5d98980f54470a75a72b3578681f", null ],
+    [ "OnRemove", "dc/d6e/a18919.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
+    [ "PrepareAuraScript", "dc/d6e/a18919.html#a83c90d16fa151026a1e02927e31922ee", null ],
+    [ "Register", "dc/d6e/a18919.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
 ];

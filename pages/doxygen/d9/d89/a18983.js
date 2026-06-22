@@ -1,7 +1,6 @@
 var a18983 =
 [
-    [ "npc_captain_arnathAI", "d9/d89/a18983.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d9/d89/a18983.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d9/d89/a18983.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d9/d89/a18983.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_captain_arnathAI", "df/d83/a18987.html", "df/d83/a18987" ],
+    [ "npc_captain_arnath", "d9/d89/a18983.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d9/d89/a18983.html#a302ec007389e677011334d78f410207b", null ]
 ];

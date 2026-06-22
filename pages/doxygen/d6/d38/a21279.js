@@ -1,7 +1,7 @@
 var a21279 =
 [
-    [ "npc_azure_stalker", "d6/d38/a21279.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
-    [ "Reset", "d6/d38/a21279.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
-    [ "UpdateAI", "d6/d38/a21279.html#a22352aad7c55a4d454b9732469395139", null ],
-    [ "_events", "d6/d38/a21279.html#ad83249d787d2f763ac2d01723ff305ef", null ]
+    [ "npc_azure_mage_slayer", "d6/d38/a21279.html#a8f537bf85f7d50dda0f3e2e9cb7bd293", null ],
+    [ "Reset", "d6/d38/a21279.html#ad760e69d3246117726b2a2e066e6c5ce", null ],
+    [ "UpdateAI", "d6/d38/a21279.html#a412a23b56efad90af180dee17f9f2be3", null ],
+    [ "_events", "d6/d38/a21279.html#aadb7b09a9fbdd9ca8f04ba38e79901b3", null ]
 ];

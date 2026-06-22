@@ -1,7 +1,6 @@
 var a02843 =
 [
-    [ "operator<<", "d0/d45/a02843.html#a71323635f122d24189054da615cb39e1", null ],
-    [ "operator<<", "d0/d45/a02843.html#ab63323f8a9ade40ddd90338538b5c9b5", null ],
-    [ "operator>>", "d0/d45/a02843.html#a72e22c3226b5f361848aef2c75a6d3fb", null ],
-    [ "operator>>", "d0/d45/a02843.html#af223d782e9dcf0f80ed4009360aa0d80", null ]
+    [ "ObjectVisibilityContainer", "d6/d41/a08799.html", "d6/d41/a08799" ],
+    [ "VisiblePlayersMap", "d0/d45/a02843.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "d0/d45/a02843.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

@@ -1,6 +1,6 @@
 var a27115 =
 [
-    [ "HandleEffectApply", "d7/dd6/a27115.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
-    [ "PrepareAuraScript", "d7/dd6/a27115.html#aed642c73ab31fb63aa497ada45863ae6", null ],
-    [ "Register", "d7/dd6/a27115.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
+    [ "CheckProc", "d7/dd6/a27115.html#a5e48b25b15b60aa284ca61e900e0f87e", null ],
+    [ "PrepareAuraScript", "d7/dd6/a27115.html#a13ccd1c89767d0dcf041217466390759", null ],
+    [ "Register", "d7/dd6/a27115.html#a4f29ca53813534b1af20e09281288e95", null ]
 ];

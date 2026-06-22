@@ -1,8 +1,14 @@
 var a22083 =
 [
-    [ "spell_loosen_grip", "d4/dda/a22083.html#ae35f230e0c66e88f59558748c80470dd", null ],
-    [ "HandleScript", "d4/dda/a22083.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
-    [ "PrepareSpellScript", "d4/dda/a22083.html#a219dc7d735f82d8e3b85390f0a881743", null ],
-    [ "Register", "d4/dda/a22083.html#a8b446d8b5ab00b984272c74b06663326", null ],
-    [ "_stacksToLose", "d4/dda/a22083.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
+    [ "npc_wild_wyrm", "d4/dda/a22083.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d4/dda/a22083.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d4/dda/a22083.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d4/dda/a22083.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d4/dda/a22083.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d4/dda/a22083.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d4/dda/a22083.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d4/dda/a22083.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d4/dda/a22083.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d4/dda/a22083.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d4/dda/a22083.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

@@ -1,5 +1,5 @@
 var a01622 =
 [
-    [ "pool_commandscript", "dc/d13/a12447.html", "dc/d13/a12447" ],
-    [ "AddSC_pool_commandscript", "d1/d3a/a01622.html#a933dbb3e5588f0735759e9409b716e55", null ]
+    [ "group_commandscript", "df/dfe/a12359.html", "df/dfe/a12359" ],
+    [ "AddSC_group_commandscript", "d1/d3a/a01622.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
 ];

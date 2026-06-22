@@ -1,15 +1,11 @@
 var a06195 =
 [
-    [ "TransactionBase", "d6/d4c/a06195.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d6/d4c/a06195.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d6/d4c/a06195.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d6/d4c/a06195.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d6/d4c/a06195.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d6/d4c/a06195.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d6/d4c/a06195.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "d6/d4c/a06195.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "d6/d4c/a06195.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d6/d4c/a06195.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d6/d4c/a06195.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d6/d4c/a06195.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "SQLOperation", "d6/d4c/a06195.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d6/d4c/a06195.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d6/d4c/a06195.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d6/d4c/a06195.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d6/d4c/a06195.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d6/d4c/a06195.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d6/d4c/a06195.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d6/d4c/a06195.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

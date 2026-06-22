@@ -1,9 +1,6 @@
 var a17807 =
 [
-    [ "FilterTargetsInitial", "da/d5e/a17807.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "da/d5e/a17807.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "da/d5e/a17807.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "da/d5e/a17807.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "da/d5e/a17807.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "da/d5e/a17807.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "PrepareAuraScript", "da/d5e/a17807.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "da/d5e/a17807.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "da/d5e/a17807.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

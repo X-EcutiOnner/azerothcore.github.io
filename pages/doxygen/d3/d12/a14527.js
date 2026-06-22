@@ -1,6 +1,6 @@
 var a14527 =
 [
-    [ "LaunchHit", "d3/d12/a14527.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d3/d12/a14527.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d3/d12/a14527.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "LaunchHit", "d3/d12/a14527.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
+    [ "PrepareSpellScript", "d3/d12/a14527.html#a4ad316b68d84921255577aedabb5ad3f", null ],
+    [ "Register", "d3/d12/a14527.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
 ];

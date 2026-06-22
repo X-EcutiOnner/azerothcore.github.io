@@ -1,16 +1,32 @@
 var a01412 =
 [
-    [ "npc_kaya_flathoof", "d6/dde/a16023.html", "d6/dde/a16023" ],
-    [ "npc_kaya_flathoof::npc_kaya_flathoofAI", "d9/ded/a16027.html", "d9/ded/a16027" ],
-    [ "Kaya", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15", [
-      [ "FACTION_ESCORTEE_H", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a189eaa6b201834d1bd3182efbd449c1f", null ],
-      [ "NPC_GRIMTOTEM_RUFFIAN", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a01961a91f321286d0ab25df44697f94f", null ],
-      [ "NPC_GRIMTOTEM_BRUTE", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15ac4f5df2a1f9d7cd9aba151ebfa864967", null ],
-      [ "NPC_GRIMTOTEM_SORCERER", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15ac5803d139c1801ccfdba4b115381afd6", null ],
-      [ "SAY_START", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AMBUSH", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a68cb8abe7aeb84b5de4ba23b8f814d1e", null ],
-      [ "SAY_END", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a40884932ffbbf14d6c380b9022bcfe97", null ],
-      [ "QUEST_PROTECT_KAYA", "dc/d10/a01412.html#ab10ce9d7e7d19709d0e99ef45b935f15a4a8a823950ae7fb8722359672b427cc6", null ]
+    [ "npc_muglash", "d2/d56/a15743.html", "d2/d56/a15743" ],
+    [ "npc_muglash::npc_muglashAI", "d4/d4d/a15747.html", "d4/d4d/a15747" ],
+    [ "Muglash", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057", [
+      [ "SAY_MUG_START1", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
+      [ "SAY_MUG_START2", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],
+      [ "SAY_MUG_BRAZIER", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5", null ],
+      [ "SAY_MUG_BRAZIER_WAIT", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a", null ],
+      [ "SAY_MUG_ON_GUARD", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8", null ],
+      [ "SAY_MUG_REST", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce", null ],
+      [ "SAY_MUG_DONE", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b", null ],
+      [ "SAY_MUG_GRATITUDE", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63", null ],
+      [ "SAY_MUG_PATROL", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10", null ],
+      [ "SAY_MUG_RETURN", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d", null ],
+      [ "QUEST_VORSHA", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0", null ],
+      [ "GO_NAGA_BRAZIER", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab", null ],
+      [ "NPC_WRATH_RIDER", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4", null ],
+      [ "NPC_WRATH_SORCERESS", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff", null ],
+      [ "NPC_WRATH_RAZORTAIL", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203", null ],
+      [ "NPC_WRATH_PRIESTESS", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a", null ],
+      [ "NPC_WRATH_MYRMIDON", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46", null ],
+      [ "NPC_WRATH_SEAWITCH", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494", null ],
+      [ "NPC_VORSHA", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964", null ],
+      [ "NPC_MUGLASH", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7", null ],
+      [ "ACTION_EXTINGUISH_BLAZIER", "dc/d10/a01412.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9", null ]
     ] ],
-    [ "AddSC_stonetalon_mountains", "dc/d10/a01412.html#a985f3fb3a28d1163b27b5de21b1ec6cf", null ]
+    [ "AddSC_ashenvale", "dc/d10/a01412.html#a5bc25863ec332eb1c8498f84556810c2", null ],
+    [ "FirstNagaCoord", "dc/d10/a01412.html#a44aaebd71b577ea90de1a8b853f557ed", null ],
+    [ "SecondNagaCoord", "dc/d10/a01412.html#a2381a800b34807e7f0d47d7b60feb025", null ],
+    [ "VorshaCoord", "dc/d10/a01412.html#ab15d952fc1bf94911661206ead25b5b1", null ]
 ];

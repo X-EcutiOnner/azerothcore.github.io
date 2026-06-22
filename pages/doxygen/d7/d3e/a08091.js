@@ -1,5 +1,5 @@
 var a08091 =
 [
-    [ "IsColorValid", "d7/d3e/a08091.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
-    [ "IsTextValid", "d7/d3e/a08091.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
+    [ "IsColorValid", "d7/d3e/a08091.html#a4e2a1ab20d086987429174f41887bc45", null ],
+    [ "IsTextValid", "d7/d3e/a08091.html#a4704555f7e926f8facce237de6772a3d", null ]
 ];

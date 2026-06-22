@@ -1,7 +1,6 @@
 var a12947 =
 [
-    [ "HandleDummy", "d1/d07/a12947.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "d1/d07/a12947.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "d1/d07/a12947.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "d1/d07/a12947.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "boss_magmadar", "d1/d07/a12947.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
+    [ "ExecuteEvent", "d1/d07/a12947.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
+    [ "JustEngagedWith", "d1/d07/a12947.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
 ];

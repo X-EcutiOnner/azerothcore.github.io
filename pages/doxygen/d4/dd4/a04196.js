@@ -1,6 +1,5 @@
 var a04196 =
 [
-    [ "ResultIterator< T >", "d3/df8/a06168.html", "d3/df8/a06168" ],
-    [ "ResultSet", "d9/da5/a06172.html", "d9/da5/a06172" ],
-    [ "PreparedResultSet", "de/d5a/a06176.html", "de/d5a/a06176" ]
+    [ "achievIdByArenaSlot", "d4/dd4/a04196.html#a5264f22d916c9472e9a16ac52140f87c", null ],
+    [ "achievIdForDungeon", "d4/dd4/a04196.html#ac50d520adf892744d066d8c5187046b0", null ]
 ];

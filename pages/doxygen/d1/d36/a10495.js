@@ -1,10 +1,7 @@
 var a10495 =
 [
-    [ "WaypointMgr", "d1/d36/a10495.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "GetPath", "d1/d36/a10495.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d1/d36/a10495.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d1/d36/a10495.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "LoadWaypointAddons", "d1/d36/a10495.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
-    [ "ReloadPath", "d1/d36/a10495.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d1/d36/a10495.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
+    [ "WaypointPath", "d1/d36/a10495.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "d1/d36/a10495.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "d1/d36/a10495.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "d1/d36/a10495.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

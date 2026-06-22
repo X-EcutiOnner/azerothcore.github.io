@@ -1,7 +1,8 @@
 var a18575 =
 [
-    [ "HandleScript", "da/db3/a18575.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "da/db3/a18575.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "da/db3/a18575.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "da/db3/a18575.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "FilterTargets", "da/db3/a18575.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "da/db3/a18575.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "da/db3/a18575.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "da/db3/a18575.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "da/db3/a18575.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

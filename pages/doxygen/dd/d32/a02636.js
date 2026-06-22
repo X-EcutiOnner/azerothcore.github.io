@@ -1,46 +1,41 @@
 var a02636 =
 [
-    [ "GmTicket", "d3/d60/a12091.html", "d3/d60/a12091" ],
-    [ "TicketMgr", "da/d08/a12095.html", "da/d08/a12095" ],
-    [ "sTicketMgr", "dd/d32/a02636.html#a20db6dadbe20767eb03327894588c7be", null ],
-    [ "GmTicketList", "dd/d32/a02636.html#a697d75cf06a963bad84903696288001a", null ],
-    [ "GMTicketEscalationStatus", "dd/d32/a02636.html#a878f9ec26e56dd05dd8f956cfaba754d", [
-      [ "TICKET_UNASSIGNED", "dd/d32/a02636.html#a878f9ec26e56dd05dd8f956cfaba754daa6e0f9ce9a37b89b10577eafedb4226a", null ],
-      [ "TICKET_ASSIGNED", "dd/d32/a02636.html#a878f9ec26e56dd05dd8f956cfaba754daf84dc8de23735d2da3c608744476ea28", null ],
-      [ "TICKET_IN_ESCALATION_QUEUE", "dd/d32/a02636.html#a878f9ec26e56dd05dd8f956cfaba754da5a63c2f2fcec47a0eaad7a4724c604e1", null ],
-      [ "TICKET_ESCALATED_ASSIGNED", "dd/d32/a02636.html#a878f9ec26e56dd05dd8f956cfaba754da4c8da0f38bac21e259f2f077722c46d2", null ]
+    [ "FileCloser", "da/db9/a12111.html", "da/db9/a12111" ],
+    [ "BaseTable", "d0/d71/a12115.html", "d0/d71/a12115" ],
+    [ "DumpTable", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
+    [ "StringTransaction", "db/dbe/a12123.html", "db/dbe/a12123" ],
+    [ "TableField", "d6/de1/a12127.html", "d6/de1/a12127" ],
+    [ "TableStruct", "df/da4/a12131.html", "df/da4/a12131" ],
+    [ "FileHandle", "dd/d32/a02636.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
+    [ "GuidType", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073", [
+      [ "GUID_TYPE_ACCOUNT", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],
+      [ "GUID_TYPE_CHAR", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e", null ],
+      [ "GUID_TYPE_PET", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466", null ],
+      [ "GUID_TYPE_MAIL", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34", null ],
+      [ "GUID_TYPE_ITEM", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02", null ],
+      [ "GUID_TYPE_EQUIPMENT_SET", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157", null ],
+      [ "GUID_TYPE_NULL", "dd/d32/a02636.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874", null ]
     ] ],
-    [ "GMTicketOpenedByGMStatus", "dd/d32/a02636.html#aeedacb4a8f5a99f7c38b120ef230820d", [
-      [ "GMTICKET_OPENEDBYGM_STATUS_NOT_OPENED", "dd/d32/a02636.html#aeedacb4a8f5a99f7c38b120ef230820da0acf204e62a9ac335f4d8e519401a4cd", null ],
-      [ "GMTICKET_OPENEDBYGM_STATUS_OPENED", "dd/d32/a02636.html#aeedacb4a8f5a99f7c38b120ef230820dae8a849a379231ad568354acea3c1686a", null ]
-    ] ],
-    [ "GMTicketResponse", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3", [
-      [ "GMTICKET_RESPONSE_ALREADY_EXIST", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3a51361b1b513a3edf01f314b6c8c14921", null ],
-      [ "GMTICKET_RESPONSE_CREATE_SUCCESS", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3a841b790fadbc9573dd25dc12bacc2780", null ],
-      [ "GMTICKET_RESPONSE_CREATE_ERROR", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3a08c10cb4c26d717228a5697ead5bbbc2", null ],
-      [ "GMTICKET_RESPONSE_UPDATE_SUCCESS", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3af30fa9cd9828f4254eac75bd01ca49f5", null ],
-      [ "GMTICKET_RESPONSE_UPDATE_ERROR", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3af4d4cdba2bdbb81d2ca25b1f4864e18f", null ],
-      [ "GMTICKET_RESPONSE_TICKET_DELETED", "dd/d32/a02636.html#adb4cde78a930d8f04d2f7ba4167a27d3aa0b33c09a7035bef00e6d174383c0804", null ]
-    ] ],
-    [ "GMTicketStatus", "dd/d32/a02636.html#aa9bdef2d04cda42105b540072878a959", [
-      [ "GMTICKET_STATUS_HASTEXT", "dd/d32/a02636.html#aa9bdef2d04cda42105b540072878a959aae8e16aa9f969c6f6553c6237125d0ad", null ],
-      [ "GMTICKET_STATUS_DEFAULT", "dd/d32/a02636.html#aa9bdef2d04cda42105b540072878a959a251de6cd21e96c676566232e9625b5a0", null ]
-    ] ],
-    [ "GMTicketSystemStatus", "dd/d32/a02636.html#a620665e68b03e8238c0f67a7d156ff20", [
-      [ "GMTICKET_QUEUE_STATUS_DISABLED", "dd/d32/a02636.html#a620665e68b03e8238c0f67a7d156ff20a4a66517fc7ca7d2754a456d10fb795f3", null ],
-      [ "GMTICKET_QUEUE_STATUS_ENABLED", "dd/d32/a02636.html#a620665e68b03e8238c0f67a7d156ff20a061a48ce23122a2783e2b9f1df7d9417", null ]
-    ] ],
-    [ "LagReportType", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100", [
-      [ "LAG_REPORT_TYPE_LOOT", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100a39753ee340eb3a338b2e4d18171da9f7", null ],
-      [ "LAG_REPORT_TYPE_AUCTION_HOUSE", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100aaedf06863e987c9b3fd5226f17680023", null ],
-      [ "LAG_REPORT_TYPE_MAIL", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100a11af2b0c93f6e60a08c02ad20c846c83", null ],
-      [ "LAG_REPORT_TYPE_CHAT", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100afe144b0bc7321e1a1999ae69cd76fd90", null ],
-      [ "LAG_REPORT_TYPE_MOVEMENT", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100ae2cb2d020d3795c948745bc52332d007", null ],
-      [ "LAG_REPORT_TYPE_SPELL", "dd/d32/a02636.html#a8c967ea39ca26744000413d362c7c100a48ba55ab4e85d0930ac31a7727276e9d", null ]
-    ] ],
-    [ "TicketType", "dd/d32/a02636.html#a4c0ab886570eedf7c4ab55ac06a3ce40", [
-      [ "TICKET_TYPE_OPEN", "dd/d32/a02636.html#a4c0ab886570eedf7c4ab55ac06a3ce40a08a09aed9108054a1ffb663d6be0a95e", null ],
-      [ "TICKET_TYPE_CLOSED", "dd/d32/a02636.html#a4c0ab886570eedf7c4ab55ac06a3ce40abdad221a4e0aac30acd6b1989781f190", null ],
-      [ "TICKET_TYPE_CHARACTER_DELETED", "dd/d32/a02636.html#a4c0ab886570eedf7c4ab55ac06a3ce40a39e587cb50470c90ae82c9d1570e1896", null ]
-    ] ]
+    [ "AppendTableDump", "dd/d32/a02636.html#a372c4190050b1bd62a350242bd1ebeca", null ],
+    [ "AssertBaseTable", "dd/d32/a02636.html#a3e4f9eec1091165debd31a11766ccf29", null ],
+    [ "ChangeColumn", "dd/d32/a02636.html#a472b6d51c18d3fc72f924f199508ea12", null ],
+    [ "ChangeGuid", "dd/d32/a02636.html#a43971347cb9fd242d082d962c1b8184e", null ],
+    [ "FindColumn", "dd/d32/a02636.html#aefd4f8ad39e21517e1160f4209e9492f", null ],
+    [ "FindColumnByName", "dd/d32/a02636.html#aef6e6393d5903e926f3f8ed0d65501b3", null ],
+    [ "FixNULLfields", "dd/d32/a02636.html#ad06caa0201c6ed5de4537e124ac90086", null ],
+    [ "GenerateWhereStr", "dd/d32/a02636.html#af5ecd510e3a4c642ed2250c17649f925", null ],
+    [ "GenerateWhereStr", "dd/d32/a02636.html#a78a33c3255668abb77c4710ed82ab71d", null ],
+    [ "GetColumn", "dd/d32/a02636.html#a21507cf8ad94e164df4f1bfe273d32da", null ],
+    [ "GetColumnIndexByName", "dd/d32/a02636.html#a995022112291c980706933e2de6accf5", null ],
+    [ "GetFileHandle", "dd/d32/a02636.html#a4b7f4eca1fd3d5d501b08819b8949edb", null ],
+    [ "GetTableName", "dd/d32/a02636.html#af32b9d84c5a117bcf96df822301d8350", null ],
+    [ "MarkDependentColumn", "dd/d32/a02636.html#a17802f71d1e9f88bd6ded0e79a8b4405", null ],
+    [ "MarkWhereField", "dd/d32/a02636.html#ac8eb839b544e24a47a01c195daec540a", null ],
+    [ "RegisterNewGuid", "dd/d32/a02636.html#a99e441709c35a6ba0ffeda0e25143cf9", null ],
+    [ "StringsEqualCaseInsensitive", "dd/d32/a02636.html#a83fd95e505d5de193245e4de46589892", null ],
+    [ "ValidateFields", "dd/d32/a02636.html#ac091f551576a1206061821e3d95b9bc6", null ],
+    [ "BaseTables", "dd/d32/a02636.html#a9a85cce136a6d1ebc3195903ee719aec", null ],
+    [ "CharacterTables", "dd/d32/a02636.html#ae8849d3a4dc3838acedf5f6f84242c08", null ],
+    [ "DUMP_TABLE_COUNT", "dd/d32/a02636.html#a4d61020c5d40e9d3093656551dcc00f0", null ],
+    [ "DumpTables", "dd/d32/a02636.html#a846234dc3d2969c8ef6f67687a3a4049", null ]
 ];

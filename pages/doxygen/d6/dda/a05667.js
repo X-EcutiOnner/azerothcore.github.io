@@ -1,10 +1,8 @@
 var a05667 =
 [
-    [ "Category", "d6/dda/a05667.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d6/dda/a05667.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d6/dda/a05667.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d6/dda/a05667.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d6/dda/a05667.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d6/dda/a05667.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d6/dda/a05667.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "LogOperation", "d6/dda/a05667.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d6/dda/a05667.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d6/dda/a05667.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d6/dda/a05667.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d6/dda/a05667.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

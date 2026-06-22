@@ -1,8 +1,4 @@
 var a13763 =
 [
-    [ "FilterTargets", "de/da6/a13763.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
-    [ "HandleAfterCast", "de/da6/a13763.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
-    [ "Load", "de/da6/a13763.html#aecfa38940ea3dd287179bdef3d290487", null ],
-    [ "PrepareSpellScript", "de/da6/a13763.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
-    [ "Register", "de/da6/a13763.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
+    [ "operator()", "de/da6/a13763.html#ae5ec191753b6dac7916f1012930ea901", null ]
 ];

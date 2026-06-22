@@ -1,5 +1,6 @@
 var a02969 =
 [
-    [ "Acore::EmoteChatBuilder", "d7/dd6/a09947.html", "d7/dd6/a09947" ],
-    [ "isNasty", "db/d6c/a02969.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
+    [ "GameEventAIHookWorker", "de/d26/a09167.html", "de/d26/a09167" ],
+    [ "IsEventActive", "db/d6c/a02969.html#ad54f33b2e05154d9c2a384ff579b9208", null ],
+    [ "IsHolidayActive", "db/d6c/a02969.html#a429db26781d2673aa2f031fc1327ffaf", null ]
 ];

@@ -1,6 +1,7 @@
 var a17423 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
-    [ "npc_pos_collapsing_icicle", "de/d25/a17423.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "de/d25/a17423.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_icicle_triggerAI", "de/d25/a17423.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "de/d25/a17423.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "de/d25/a17423.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "de/d25/a17423.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

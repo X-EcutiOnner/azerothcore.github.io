@@ -1,4 +1,4 @@
 var a03371 =
 [
-    [ "ScriptRegistry< MovementHandlerScript >", "d9/d58/a03371.html#adecbf467a875ee8886c336d96a2f97dc", null ]
+    [ "ScriptRegistry< DynamicObjectScript >", "d9/d58/a03371.html#a81c3616d496bf8bc2392d79508d2e446", null ]
 ];

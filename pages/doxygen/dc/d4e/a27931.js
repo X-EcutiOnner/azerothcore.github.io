@@ -1,7 +1,6 @@
 var a27931 =
 [
-    [ "go_bear_trapAI", "dc/d4e/a27931.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "dc/d4e/a27931.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "dc/d4e/a27931.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "dc/d4e/a27931.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_heatAI", "d3/d58/a27935.html", "d3/d58/a27935" ],
+    [ "go_heat", "dc/d4e/a27931.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "dc/d4e/a27931.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

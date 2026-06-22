@@ -1,7 +1,9 @@
 var a29707 =
 [
-    [ "fcc", "d6/d7f/a29707.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d6/d7f/a29707.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d6/d7f/a29707.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d6/d7f/a29707.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "CreateSpellInfo", "d6/d7f/a29707.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "d6/d7f/a29707.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "d6/d7f/a29707.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "d6/d7f/a29707.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "d6/d7f/a29707.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "d6/d7f/a29707.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

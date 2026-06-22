@@ -1,15 +1,13 @@
 var a02510 =
 [
-    [ "STR", "dd/df4/a02510.html#a18d295a837ac71add5578860b55e5502", null ],
-    [ "computeFallElevation", "dd/df4/a02510.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "dd/df4/a02510.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "print_flags", "dd/df4/a02510.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
-    [ "g_MovementFlag_names", "dd/df4/a02510.html#a2982e1b6388bf8b29797b16969b64173", null ],
-    [ "g_SplineFlag_names", "dd/df4/a02510.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
-    [ "terminal_fallTime", "dd/df4/a02510.html#aa927e4ada20ca56ce951239357407270", null ],
-    [ "terminal_length", "dd/df4/a02510.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
-    [ "terminal_safeFall_fallTime", "dd/df4/a02510.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
-    [ "terminal_safeFall_length", "dd/df4/a02510.html#a4e816239736800d4508c1fc14e624ddc", null ],
-    [ "terminalSafefallVelocity", "dd/df4/a02510.html#a654673c77f53f27a80309b050d44d38d", null ],
-    [ "terminalVelocity", "dd/df4/a02510.html#a98cc74e5667e1057f334f02a28abcb01", null ]
+    [ "FollowerAI", "d8/dd8/a06575.html", "d8/dd8/a06575" ],
+    [ "eFollowState", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "dd/df4/a02510.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

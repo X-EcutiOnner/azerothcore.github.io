@@ -1,4 +1,6 @@
 var a04004 =
 [
-    [ "WorldSocketThread", "d6/d31/a11711.html", "d6/d31/a11711" ]
+    [ "WorldPackets::Packet", "db/d81/a10847.html", "db/d81/a10847" ],
+    [ "WorldPackets::ServerPacket", "d1/de3/a10851.html", "d1/de3/a10851" ],
+    [ "WorldPackets::ClientPacket", "d7/d04/a10855.html", "d7/d04/a10855" ]
 ];

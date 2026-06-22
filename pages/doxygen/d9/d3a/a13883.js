@@ -1,8 +1,7 @@
 var a13883 =
 [
-    [ "HandleApply", "d9/d3a/a13883.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d9/d3a/a13883.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d9/d3a/a13883.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d9/d3a/a13883.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d9/d3a/a13883.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "npc_singularity", "d9/d3a/a13883.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "d9/d3a/a13883.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "d9/d3a/a13883.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "d9/d3a/a13883.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

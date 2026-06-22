@@ -1,7 +1,7 @@
 var a12635 =
 [
-    [ "boss_moira_bronzebeard", "d0/d11/a12635.html#aaab4b597fd97619c2a41e2a6425810de", null ],
-    [ "CastOnEmperorIfPossible", "d0/d11/a12635.html#a413aab0c096319ea17d6c6a078b056ea", null ],
-    [ "JustEngagedWith", "d0/d11/a12635.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
-    [ "UpdateAI", "d0/d11/a12635.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
+    [ "boss_magmus", "d0/d11/a12635.html#aacd115473f44148837153a3a5842748c", null ],
+    [ "JustEngagedWith", "d0/d11/a12635.html#a810cd11145957fe02f2099e9db7e59c8", null ],
+    [ "Reset", "d0/d11/a12635.html#af12976d66c690add0d08968799946174", null ],
+    [ "UpdateAI", "d0/d11/a12635.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
 ];

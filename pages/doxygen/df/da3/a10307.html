@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ChaseRange Struct Reference</title>
+<title>AzerothCore: AbstractFollower Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,184 +106,190 @@ $(document).ready(function(){initNavTree('df/da3/a10307.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d36/a10304.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ChaseRange Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AbstractFollower Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">MotionMaster.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AbstractFollower.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for AbstractFollower:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/da3/a10307.png" usemap="#AbstractFollower_map" alt=""/>
+  <map id="AbstractFollower_map" name="AbstractFollower_map">
+<area href="../../d1/d0b/a10403.html" alt="ChaseMovementGenerator&lt; T &gt;" shape="rect" coords="0,56,195,80"/>
+<area href="../../dd/d78/a10407.html" alt="FollowMovementGenerator&lt; T &gt;" shape="rect" coords="205,56,400,80"/>
+<area href="../../df/db8/a10355.html" alt="FormationMovementGenerator" shape="rect" coords="410,56,605,80"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:acd43ed01c9e4845d82e4d240b5c35167"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#acd43ed01c9e4845d82e4d240b5c35167">ChaseRange</a> (float range)</td></tr>
-<tr class="separator:acd43ed01c9e4845d82e4d240b5c35167"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf19c63398d31699ed1703ae1ba5f1b6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#aaf19c63398d31699ed1703ae1ba5f1b6">ChaseRange</a> (float _minRange, float _maxRange)</td></tr>
-<tr class="separator:aaf19c63398d31699ed1703ae1ba5f1b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a397b3789449b1c178f11f64313498c4d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a397b3789449b1c178f11f64313498c4d">ChaseRange</a> (float _minRange, float _minTolerance, float _maxTolerance, float _maxRange)</td></tr>
-<tr class="separator:a397b3789449b1c178f11f64313498c4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08d292896f2419dd73ae68c8e1238d4b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a08d292896f2419dd73ae68c8e1238d4b">AbstractFollower</a> (<a class="el" href="../../d9/d6a/a09103.html">Unit</a> *target=nullptr)</td></tr>
+<tr class="separator:a08d292896f2419dd73ae68c8e1238d4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb394f5326ab5ea5146c79788a085647"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#acb394f5326ab5ea5146c79788a085647">~AbstractFollower</a> ()</td></tr>
+<tr class="separator:acb394f5326ab5ea5146c79788a085647"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad49748abec4bb2fe06cc8ba2699bdbd0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0">SetTarget</a> (<a class="el" href="../../d9/d6a/a09103.html">Unit</a> *unit)</td></tr>
+<tr class="separator:ad49748abec4bb2fe06cc8ba2699bdbd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43f037557454528a956c379d9efb42ac"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6a/a09103.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a43f037557454528a956c379d9efb42ac">GetTarget</a> () const</td></tr>
+<tr class="separator:a43f037557454528a956c379d9efb42ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a0e2c69e20d6a38d056505c3b5b0d9fd6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a></td></tr>
-<tr class="separator:a0e2c69e20d6a38d056505c3b5b0d9fd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b640ecfc0e80921ab36c2c33f0b10fd"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a></td></tr>
-<tr class="separator:a7b640ecfc0e80921ab36c2c33f0b10fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae2a846630e79f3a15a5d93b18c68c915"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a></td></tr>
-<tr class="separator:ae2a846630e79f3a15a5d93b18c68c915"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7909b18028d43c84eca5feee3e41469c"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a></td></tr>
-<tr class="separator:a7909b18028d43c84eca5feee3e41469c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:aa4e43d8e60442eee41398648fd7fd45d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d6a/a09103.html">Unit</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a> = nullptr</td></tr>
+<tr class="separator:aa4e43d8e60442eee41398648fd7fd45d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="acd43ed01c9e4845d82e4d240b5c35167" name="acd43ed01c9e4845d82e4d240b5c35167"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd43ed01c9e4845d82e4d240b5c35167">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[1/3]</span></h2>
+<a id="a08d292896f2419dd73ae68c8e1238d4b" name="a08d292896f2419dd73ae68c8e1238d4b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08d292896f2419dd73ae68c8e1238d4b">&#9670;&#160;</a></span>AbstractFollower()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AbstractFollower::AbstractFollower </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d6a/a09103.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>target</em> = <code>nullptr</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{ <a class="code hl_function" href="../../df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0">SetTarget</a>(target); }</div>
+<div class="ttc" id="aa10307_html_ad49748abec4bb2fe06cc8ba2699bdbd0"><div class="ttname"><a href="../../df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0">AbstractFollower::SetTarget</a></div><div class="ttdeci">void SetTarget(Unit *unit)</div><div class="ttdef"><b>Definition:</b> AbstractFollower.cpp:21</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00021">SetTarget()</a>.</p>
+
+</div>
+</div>
+<a id="acb394f5326ab5ea5146c79788a085647" name="acb394f5326ab5ea5146c79788a085647"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb394f5326ab5ea5146c79788a085647">&#9670;&#160;</a></span>~AbstractFollower()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual AbstractFollower::~AbstractFollower </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{ <a class="code hl_function" href="../../df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0">SetTarget</a>(<span class="keyword">nullptr</span>); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00021">SetTarget()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a43f037557454528a956c379d9efb42ac" name="a43f037557454528a956c379d9efb42ac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a43f037557454528a956c379d9efb42ac">&#9670;&#160;</a></span>GetTarget()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d6a/a09103.html">Unit</a> * AbstractFollower::GetTarget </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>; }</div>
+<div class="ttc" id="aa10307_html_aa4e43d8e60442eee41398648fd7fd45d"><div class="ttname"><a href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">AbstractFollower::_target</a></div><div class="ttdeci">Unit * _target</div><div class="ttdef"><b>Definition:</b> AbstractFollower.h:33</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00033">_target</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00052">FormationMovementGenerator::DoUpdate()</a>, <a class="el" href="../../#l00055">ChaseMovementGenerator&lt; T &gt;::GetTarget()</a>, and <a class="el" href="../../#l00096">FollowMovementGenerator&lt; T &gt;::GetTarget()</a>.</p>
+
+</div>
+</div>
+<a id="ad49748abec4bb2fe06cc8ba2699bdbd0" name="ad49748abec4bb2fe06cc8ba2699bdbd0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad49748abec4bb2fe06cc8ba2699bdbd0">&#9670;&#160;</a></span>SetTarget()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
+          <td class="memname">void AbstractFollower::SetTarget </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>range</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d9/d6a/a09103.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>unit</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>: <a class="code hl_variable" href="../../df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(range &gt; <a class="code hl_define" href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a> ? 0 : range - <a class="code hl_define" href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>), <a class="code hl_variable" href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(range), <a class="code hl_variable" href="../../df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(range + <a class="code hl_define" href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>), <a class="code hl_variable" href="../../df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(range) { }</div>
-<div class="ttc" id="aa02837_html_a76b2057afb6996f8080d661890a01c6f"><div class="ttname"><a href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a></div><div class="ttdeci">#define CONTACT_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:23</div></div>
-<div class="ttc" id="aa10307_html_a0e2c69e20d6a38d056505c3b5b0d9fd6"><div class="ttname"><a href="../../df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">ChaseRange::MinRange</a></div><div class="ttdeci">float MinRange</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:116</div></div>
-<div class="ttc" id="aa10307_html_a7909b18028d43c84eca5feee3e41469c"><div class="ttname"><a href="../../df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c">ChaseRange::MaxTolerance</a></div><div class="ttdeci">float MaxTolerance</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:119</div></div>
-<div class="ttc" id="aa10307_html_a7b640ecfc0e80921ab36c2c33f0b10fd"><div class="ttname"><a href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">ChaseRange::MinTolerance</a></div><div class="ttdeci">float MinTolerance</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:117</div></div>
-<div class="ttc" id="aa10307_html_ae2a846630e79f3a15a5d93b18c68c915"><div class="ttname"><a href="../../df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915">ChaseRange::MaxRange</a></div><div class="ttdeci">float MaxRange</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:118</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
+<div class="line"><span class="lineno">   23</span>    <span class="keywordflow">if</span> (unit == <a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>)</div>
+<div class="line"><span class="lineno">   24</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   25</span> </div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>)</div>
+<div class="line"><span class="lineno">   27</span>        <a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a6c75f6a6f5bc329e34c9e360cca71331">FollowerRemoved</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   28</span> </div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a> = unit;</div>
+<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>)</div>
+<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d">_target</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a6dcc03c595bd6acd9d00af40291a260d">FollowerAdded</a>(<span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   32</span>}</div>
+<div class="ttc" id="aa09103_html_a6c75f6a6f5bc329e34c9e360cca71331"><div class="ttname"><a href="../../d9/d6a/a09103.html#a6c75f6a6f5bc329e34c9e360cca71331">Unit::FollowerRemoved</a></div><div class="ttdeci">void FollowerRemoved(AbstractFollower *f)</div><div class="ttdef"><b>Definition:</b> Unit.h:1898</div></div>
+<div class="ttc" id="aa09103_html_a6dcc03c595bd6acd9d00af40291a260d"><div class="ttname"><a href="../../d9/d6a/a09103.html#a6dcc03c595bd6acd9d00af40291a260d">Unit::FollowerAdded</a></div><div class="ttdeci">void FollowerAdded(AbstractFollower *f)</div><div class="ttdef"><b>Definition:</b> Unit.h:1897</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="aaf19c63398d31699ed1703ae1ba5f1b6" name="aaf19c63398d31699ed1703ae1ba5f1b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf19c63398d31699ed1703ae1ba5f1b6">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[2/3]</span></h2>
+<p class="reference">References <a class="el" href="../../#l00033">_target</a>, <a class="el" href="../../#l01897">Unit::FollowerAdded()</a>, and <a class="el" href="../../#l01898">Unit::FollowerRemoved()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>: <a class="code hl_variable" href="../../df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(_minRange), <a class="code hl_variable" href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(std::min(_minRange + <a class="code hl_define" href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>, (_minRange + _maxRange) / 2)), <a class="code hl_variable" href="../../df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(_maxRange), <a class="code hl_variable" href="../../df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(std::max(_maxRange - <a class="code hl_define" href="../../dc/dfd/a02837.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a>, <a class="code hl_variable" href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>)) { }</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a397b3789449b1c178f11f64313498c4d" name="a397b3789449b1c178f11f64313498c4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a397b3789449b1c178f11f64313498c4d">&#9670;&#160;</a></span>ChaseRange() <span class="overload">[3/3]</span></h2>
+<p class="reference">Referenced by <a class="el" href="../../#l00026">AbstractFollower()</a>, and <a class="el" href="../../#l00027">~AbstractFollower()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">ChaseRange::ChaseRange </td>
-          <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minRange</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_minTolerance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxTolerance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>_maxRange</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>: <a class="code hl_variable" href="../../df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6">MinRange</a>(_minRange), <a class="code hl_variable" href="../../df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd">MinTolerance</a>(_minTolerance), <a class="code hl_variable" href="../../df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915">MaxRange</a>(_maxRange), <a class="code hl_variable" href="../../df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c">MaxTolerance</a>(_maxTolerance) { }</div>
-</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ae2a846630e79f3a15a5d93b18c68c915" name="ae2a846630e79f3a15a5d93b18c68c915"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae2a846630e79f3a15a5d93b18c68c915">&#9670;&#160;</a></span>MaxRange</h2>
+<a id="aa4e43d8e60442eee41398648fd7fd45d" name="aa4e43d8e60442eee41398648fd7fd45d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa4e43d8e60442eee41398648fd7fd45d">&#9670;&#160;</a></span>_target</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">float ChaseRange::MaxRange</td>
+          <td class="memname"><a class="el" href="../../d9/d6a/a09103.html">Unit</a>* AbstractFollower::_target = nullptr</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<a id="a7909b18028d43c84eca5feee3e41469c" name="a7909b18028d43c84eca5feee3e41469c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7909b18028d43c84eca5feee3e41469c">&#9670;&#160;</a></span>MaxTolerance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MaxTolerance</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a0e2c69e20d6a38d056505c3b5b0d9fd6" name="a0e2c69e20d6a38d056505c3b5b0d9fd6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e2c69e20d6a38d056505c3b5b0d9fd6">&#9670;&#160;</a></span>MinRange</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MinRange</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a7b640ecfc0e80921ab36c2c33f0b10fd" name="a7b640ecfc0e80921ab36c2c33f0b10fd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b640ecfc0e80921ab36c2c33f0b10fd">&#9670;&#160;</a></span>MinTolerance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ChaseRange::MinTolerance</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">Referenced by <a class="el" href="../../#l00030">GetTarget()</a>, and <a class="el" href="../../#l00021">SetTarget()</a>.</p>
 
 </div>
 </div>
@@ -292,8 +298,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/da3/a10307.html">ChaseRange</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:38:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/da3/a10307.html">AbstractFollower</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:25:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,11 +1,10 @@
 var a05443 =
 [
-    [ "AuthCrypt", "dd/d83/a05443.html#a8c5239631bd6cf700059af31f04126a3", null ],
-    [ "DecryptRecv", "dd/d83/a05443.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
-    [ "EncryptSend", "dd/d83/a05443.html#a385fe62742cdbbf62725ace616a06b37", null ],
-    [ "Init", "dd/d83/a05443.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
-    [ "IsInitialized", "dd/d83/a05443.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
-    [ "_clientDecrypt", "dd/d83/a05443.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
-    [ "_initialized", "dd/d83/a05443.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
-    [ "_serverEncrypt", "dd/d83/a05443.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
+    [ "Hash", "dd/d83/a05443.html#ae23bd592ac284f3068c36688d084c24f", null ],
+    [ "Verify", "dd/d83/a05443.html#a7a041ffc17e4d4291f81d4090f31e1fd", null ],
+    [ "DEFAULT_ITERATIONS", "dd/d83/a05443.html#a898bbe9b4ffddef1eb067915740d6100", null ],
+    [ "DEFAULT_MEMORY_COST", "dd/d83/a05443.html#a413b8cdff629f26836a776412362056d", null ],
+    [ "ENCODED_HASH_LEN", "dd/d83/a05443.html#a07dd0a8033f54177570f62a2a1a0da3d", null ],
+    [ "HASH_LEN", "dd/d83/a05443.html#a923313625297d08ff3ca9a04bbe527aa", null ],
+    [ "PARALLELISM", "dd/d83/a05443.html#a4aabf2fcc43b23c9d565ced3a2adb405", null ]
 ];

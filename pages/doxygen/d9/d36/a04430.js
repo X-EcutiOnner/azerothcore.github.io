@@ -1,9 +1,11 @@
 var a04430 =
 [
-    [ "BoundsTrait< VMAP::ModelSpawn * >", "da/d6b/a05303.html", "da/d6b/a05303" ],
-    [ "VMAP::WMOLiquidHeader", "d3/dac/a05307.html", "d3/dac/a05307" ],
-    [ "CMP_OR_RETURN", "d9/d36/a04430.html#abb356574335eee18efd5e1f4ed707637", null ],
-    [ "READ_OR_RETURN", "d9/d36/a04430.html#ab09a5bc19f9a9f62a1f60dd7741b4d6d", null ],
-    [ "READ_OR_RETURN_WITH_DELETE", "d9/d36/a04430.html#aaf506ecfd782214a75bd609db9bef004", null ],
-    [ "readChunk", "d9/d36/a04430.html#a166f3eeee53079ac9df4f15ccd577974", null ]
+    [ "VMAP::ModelPosition", "d0/d45/a05315.html", "d0/d45/a05315" ],
+    [ "VMAP::MapSpawns", "da/d97/a05319.html", "da/d97/a05319" ],
+    [ "VMAP::GroupModel_Raw", "d6/daf/a05323.html", "d6/daf/a05323" ],
+    [ "VMAP::WorldModel_Raw", "d0/d31/a05327.html", "d0/d31/a05327" ],
+    [ "VMAP::TileAssembler", "dc/d4e/a05331.html", "dc/d4e/a05331" ],
+    [ "MapData", "d9/d36/a04430.html#a28dc2e567f8620fed1128b6c4cf5b749", null ],
+    [ "TileMap", "d9/d36/a04430.html#abfe766a1b58bbf69ce3b17ff14d1c101", null ],
+    [ "UniqueEntryMap", "d9/d36/a04430.html#a3424b44a092b5f3d8074649ae11ee481", null ]
 ];

@@ -1,5 +1,5 @@
 var a01565 =
 [
-    [ "tele_commandscript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "AddSC_tele_commandscript", "d6/d82/a01565.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
+    [ "mmaps_commandscript", "db/d4c/a12415.html", "db/d4c/a12415" ],
+    [ "AddSC_mmaps_commandscript", "d6/d82/a01565.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
 ];

@@ -1,7 +1,10 @@
 var a25463 =
 [
-    [ "FilterTargets", "dd/df5/a25463.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "dd/df5/a25463.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "dd/df5/a25463.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "dd/df5/a25463.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "CheckPeriodicProc", "dd/df5/a25463.html#abd7673f268b80681b27a862bd8013de3", null ],
+    [ "CheckProc", "dd/df5/a25463.html#a439aa5395d222291fbd5943f853d8961", null ],
+    [ "CheckTrapProc", "dd/df5/a25463.html#a0cbe419bde5ebc30dc599bbdd99d04eb", null ],
+    [ "HandleProc", "dd/df5/a25463.html#a70fbabc5f07bfff080fe9af6f12d440e", null ],
+    [ "PrepareAuraScript", "dd/df5/a25463.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "dd/df5/a25463.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "dd/df5/a25463.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

@@ -1,7 +1,6 @@
 var a23739 =
 [
-    [ "npc_daranelleAI", "db/d32/a23739.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "db/d32/a23739.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "db/d32/a23739.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "db/d32/a23739.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_nether_drakeAI", "d1/db2/a23743.html", "d1/db2/a23743" ],
+    [ "npc_nether_drake", "db/d32/a23739.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "db/d32/a23739.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

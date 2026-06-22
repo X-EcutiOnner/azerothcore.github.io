@@ -1,5 +1,5 @@
 var a08439 =
 [
-    [ "QuestIcon", "d7/d2a/a08439.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d7/d2a/a08439.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "GossipActionMenuId", "d7/d2a/a08439.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "d7/d2a/a08439.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

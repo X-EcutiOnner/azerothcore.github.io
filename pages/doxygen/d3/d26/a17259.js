@@ -1,8 +1,11 @@
 var a17259 =
 [
-    [ "npc_phantom_hallucination", "d3/d26/a17259.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
-    [ "EnterEvadeMode", "d3/d26/a17259.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
-    [ "JustDied", "d3/d26/a17259.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
-    [ "UpdateAI", "d3/d26/a17259.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
-    [ "numOfUpd", "d3/d26/a17259.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
+    [ "npc_phantom_mage", "d3/d26/a17259.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "d3/d26/a17259.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "d3/d26/a17259.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "d3/d26/a17259.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "d3/d26/a17259.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "d3/d26/a17259.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "d3/d26/a17259.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "d3/d26/a17259.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

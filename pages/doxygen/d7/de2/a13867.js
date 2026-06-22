@@ -1,9 +1,6 @@
 var a13867 =
 [
-    [ "boss_muru", "d7/de2/a13867.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d7/de2/a13867.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d7/de2/a13867.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d7/de2/a13867.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d7/de2/a13867.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d7/de2/a13867.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleEffectApply", "d7/de2/a13867.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d7/de2/a13867.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d7/de2/a13867.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

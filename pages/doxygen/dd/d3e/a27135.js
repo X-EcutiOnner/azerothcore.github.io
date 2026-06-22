@@ -1,6 +1,6 @@
 var a27135 =
 [
-    [ "HandleAfterCast", "dd/d3e/a27135.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "dd/d3e/a27135.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "dd/d3e/a27135.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "FilterTargets", "dd/d3e/a27135.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "dd/d3e/a27135.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "dd/d3e/a27135.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

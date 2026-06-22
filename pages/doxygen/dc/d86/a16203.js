@@ -1,6 +1,7 @@
 var a16203 =
 [
-    [ "npc_weegli_blastfuseAI", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
-    [ "npc_weegli_blastfuse", "dc/d86/a16203.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "dc/d86/a16203.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "go_troll_cageAI", "dc/d86/a16203.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "dc/d86/a16203.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "dc/d86/a16203.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "dc/d86/a16203.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

@@ -1,6 +1,7 @@
 var a26359 =
 [
-    [ "CheckEffectProc", "da/dbc/a26359.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
-    [ "PrepareAuraScript", "da/dbc/a26359.html#a1025c7edec455f647c5c37ffebdf7576", null ],
-    [ "Register", "da/dbc/a26359.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
+    [ "PrepareSpellScript", "da/dbc/a26359.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "da/dbc/a26359.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "da/dbc/a26359.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "da/dbc/a26359.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

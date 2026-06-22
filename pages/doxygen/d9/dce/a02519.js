@@ -1,4 +1,6 @@
 var a02519 =
 [
-    [ "Initialize", "d9/dce/a02519.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "SelectAI", "d9/dce/a02519.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectGameObjectAI", "d9/dce/a02519.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d9/dce/a02519.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

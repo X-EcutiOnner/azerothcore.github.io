@@ -1,7 +1,7 @@
 var a12619 =
 [
-    [ "boss_grizzle", "df/dd9/a12619.html#af5d864d2e06859a3c21506b8def424d0", null ],
-    [ "JustEngagedWith", "df/dd9/a12619.html#ad925b3a8190037e1768b1c5565656be7", null ],
-    [ "UpdateAI", "df/dd9/a12619.html#a72c28686adf331ed291585f830041041", null ],
-    [ "nextTremorTime", "df/dd9/a12619.html#a220d7e426d7bd2034cf2dc70d0a18f26", null ]
+    [ "boss_gorosh_the_dervish", "df/dd9/a12619.html#a49b79326e3eae3f42be4955f30982ffe", null ],
+    [ "JustEngagedWith", "df/dd9/a12619.html#ad3b7ab3db30d16549cd85c471bbb190b", null ],
+    [ "UpdateAI", "df/dd9/a12619.html#adf24561c335f1023f44f76709e66bc83", null ],
+    [ "nextWhirlwindTime", "df/dd9/a12619.html#a61b57a2db3d097a0da74a502fb272339", null ]
 ];

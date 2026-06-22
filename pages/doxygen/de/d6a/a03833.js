@@ -1,23 +1,18 @@
 var a03833 =
 [
-    [ "BattlegroundScore", "d6/d11/a07683.html", "d6/d11/a07683" ],
-    [ "ScoreType", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18", [
-      [ "SCORE_KILLING_BLOWS", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
-      [ "SCORE_DEATHS", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],
-      [ "SCORE_HONORABLE_KILLS", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18ae7b8eadd38f6f3bf514aa4cbd2118aa7", null ],
-      [ "SCORE_BONUS_HONOR", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a4110f3ce50e9b19ad8219687b6a6860f", null ],
-      [ "SCORE_DAMAGE_DONE", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a755b66947282176df3f0e28c871a3527", null ],
-      [ "SCORE_HEALING_DONE", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18ac9e8c817b3b8a0e0b001f62fbfe448c2", null ],
-      [ "SCORE_FLAG_CAPTURES", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a49ecbd479d11f177283e94e2b936b89b", null ],
-      [ "SCORE_FLAG_RETURNS", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18af4b88b5a6497049691b51da5367bec2a", null ],
-      [ "SCORE_BASES_ASSAULTED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a108feeea9c0953b1385ca31d65d252e1", null ],
-      [ "SCORE_BASES_DEFENDED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18aaa34df0d06110a0e6c71c06de612e408", null ],
-      [ "SCORE_GRAVEYARDS_ASSAULTED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a10d874c8aa6cc5f92f3c66ed2b09ec6b", null ],
-      [ "SCORE_GRAVEYARDS_DEFENDED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18ae38155160e05accac751eb7b1c0d1a8a", null ],
-      [ "SCORE_TOWERS_ASSAULTED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a6289024a3ec4b3bbd713bb620962b027", null ],
-      [ "SCORE_TOWERS_DEFENDED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a2e13ab0e3b8c3865cdd00d826e7f818a", null ],
-      [ "SCORE_MINES_CAPTURED", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a663b5d13fab1724a2eeb03dab4e78015", null ],
-      [ "SCORE_DESTROYED_DEMOLISHER", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18aa091bf4f9474979e615395285650582e", null ],
-      [ "SCORE_DESTROYED_WALL", "de/d6a/a03833.html#aa5c51730b458b3ddc7b23ce42f320f18a8874623148dc5e2da10eb81e98e0be80", null ]
-    ] ]
+    [ "GroupQueueInfo", "d0/d18/a07667.html", "d0/d18/a07667" ],
+    [ "BattlegroundQueue", "d9/d13/a07671.html", "d9/d13/a07671" ],
+    [ "BattlegroundQueue::SelectionPool", "db/d70/a07675.html", "db/d70/a07675" ],
+    [ "BGQueueInviteEvent", "d0/d33/a07679.html", "d0/d33/a07679" ],
+    [ "BGQueueRemoveEvent", "d6/d11/a07683.html", "d6/d11/a07683" ],
+    [ "BattlegroundQueueGroupTypes", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17", [
+      [ "BG_QUEUE_PREMADE_ALLIANCE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
+      [ "BG_QUEUE_PREMADE_HORDE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
+      [ "BG_QUEUE_NORMAL_ALLIANCE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
+      [ "BG_QUEUE_NORMAL_HORDE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
+      [ "BG_QUEUE_CFBG", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
+      [ "BG_QUEUE_MAX", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    ] ],
+    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "de/d6a/a03833.html#a532cb5269831c504ba78101c6f3d61c9", null ],
+    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "de/d6a/a03833.html#aebc536d6c303d31049ad05f333c275ba", null ]
 ];

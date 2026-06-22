@@ -1,4 +1,4 @@
 var a04829 =
 [
-    [ "Acore::Encoding::Base64", "de/dba/a05619.html", "de/dba/a05619" ]
+    [ "B64Impl", "de/dba/a05619.html", "de/dba/a05619" ]
 ];

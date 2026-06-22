@@ -1,8 +1,6 @@
 var a17955 =
 [
-    [ "npc_gunship_mageAI", "db/dc1/a17955.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "db/dc1/a17955.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "db/dc1/a17955.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "db/dc1/a17955.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "db/dc1/a17955.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_gunship_mageAI", "dd/d6c/a17959.html", "dd/d6c/a17959" ],
+    [ "npc_gunship_mage", "db/dc1/a17955.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
+    [ "GetAI", "db/dc1/a17955.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
 ];

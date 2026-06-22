@@ -1,8 +1,6 @@
 var a06395 =
 [
-    [ "BannedAddon", "db/da6/a06395.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
-    [ "Id", "db/da6/a06395.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "db/da6/a06395.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "db/da6/a06395.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "db/da6/a06395.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "SavedAddon", "db/da6/a06395.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "db/da6/a06395.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "db/da6/a06395.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

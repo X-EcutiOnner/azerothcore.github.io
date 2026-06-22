@@ -1,6 +1,7 @@
 var a26055 =
 [
-    [ "PrepareSpellScript", "d8/dd3/a26055.html#a8127429829afd4b82395a821a4bea19c", null ],
-    [ "Register", "d8/dd3/a26055.html#a73717914aa23764fa16c8a2965798a6a", null ],
-    [ "SecondaryEffect", "d8/dd3/a26055.html#a6150d8615c7f579aadd50e28aba0d569", null ]
+    [ "HandleScript", "d8/dd3/a26055.html#a1f5993561f68ab1f540fcc18fe309b7c", null ],
+    [ "PrepareSpellScript", "d8/dd3/a26055.html#a91a04a3baa074b228371c6220e67f3f8", null ],
+    [ "Register", "d8/dd3/a26055.html#a4f5cf691ed45724ef113e121f146c9d0", null ],
+    [ "Validate", "d8/dd3/a26055.html#ae618fdfd0aa5f77e841c6992f7bc9d80", null ]
 ];

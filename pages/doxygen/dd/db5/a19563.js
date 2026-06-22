@@ -1,5 +1,7 @@
 var a19563 =
 [
-    [ "at_naxxramas_hub_portal", "dd/db5/a19563.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "dd/db5/a19563.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_naxxramas_trigger", "dd/db5/a19563.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "dd/db5/a19563.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "dd/db5/a19563.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "dd/db5/a19563.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

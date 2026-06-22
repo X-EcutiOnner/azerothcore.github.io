@@ -1,10 +1,9 @@
 var a08959 =
 [
-    [ "TradeStatusInfo", "d6/ded/a08959.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
-    [ "IsTargetResult", "d6/ded/a08959.html#a10427d72e5bafd643648638a1fe7e854", null ],
-    [ "ItemLimitedByLimitCategory", "d6/ded/a08959.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
-    [ "Result", "d6/ded/a08959.html#ac90552353a0fb8ff175fec99bf573981", null ],
-    [ "Slot", "d6/ded/a08959.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
-    [ "Status", "d6/ded/a08959.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
-    [ "TraderGuid", "d6/ded/a08959.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
+    [ "EntryPointData", "d6/ded/a08959.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d6/ded/a08959.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d6/ded/a08959.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d6/ded/a08959.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d6/ded/a08959.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d6/ded/a08959.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

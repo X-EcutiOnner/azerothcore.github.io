@@ -1,9 +1,10 @@
 var a20767 =
 [
-    [ "boss_yoggsaron_keeper", "d6/daf/a20767.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d6/daf/a20767.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d6/daf/a20767.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d6/daf/a20767.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d6/daf/a20767.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d6/daf/a20767.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "d6/daf/a20767.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "d6/daf/a20767.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "d6/daf/a20767.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "d6/daf/a20767.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "d6/daf/a20767.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "d6/daf/a20767.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "d6/daf/a20767.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

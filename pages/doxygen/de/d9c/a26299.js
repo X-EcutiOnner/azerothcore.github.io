@@ -1,7 +1,7 @@
 var a26299 =
 [
-    [ "HandleProc", "de/d9c/a26299.html#a43ab86331d22e82a95371c86cb8c2dc9", null ],
-    [ "PrepareAuraScript", "de/d9c/a26299.html#aac7469b398a46e038e7168f5ff94e8ff", null ],
-    [ "Register", "de/d9c/a26299.html#a70bcd72b90cfd3230cd8c012fabb5512", null ],
-    [ "Validate", "de/d9c/a26299.html#aff4a1b7a5b90a618cdd658dc17d49857", null ]
+    [ "CheckProc", "de/d9c/a26299.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
+    [ "PrepareAuraScript", "de/d9c/a26299.html#acc3d194b3f23ecfe42c40d011c957138", null ],
+    [ "Register", "de/d9c/a26299.html#a0b104698a7c763bee1af656e127591bd", null ],
+    [ "Validate", "de/d9c/a26299.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
 ];

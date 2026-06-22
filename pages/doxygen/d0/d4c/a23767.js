@@ -1,7 +1,6 @@
 var a23767 =
 [
-    [ "HandleEffect", "d0/d4c/a23767.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d0/d4c/a23767.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d0/d4c/a23767.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d0/d4c/a23767.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "go_apexis_relic", "d0/d4c/a23767.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d0/d4c/a23767.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d0/d4c/a23767.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

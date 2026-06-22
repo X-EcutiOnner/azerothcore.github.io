@@ -1,11 +1,10 @@
 var a17251 =
 [
-    [ "npc_ghostly_priest", "df/d98/a17251.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
-    [ "AttackStart", "df/d98/a17251.html#acbc2eb708773500136deebb8542d36aa", null ],
-    [ "DoAction", "df/d98/a17251.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
-    [ "EnterEvadeMode", "df/d98/a17251.html#ac944330e3834bd4c65e30c595752746c", null ],
-    [ "JustDied", "df/d98/a17251.html#ae7ef06904aa2039d3552a2a62b846042", null ],
-    [ "JustEngagedWith", "df/d98/a17251.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
-    [ "Reset", "df/d98/a17251.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
-    [ "UpdateAI", "df/d98/a17251.html#a3722469ea1445f7dbaf834853a9ed654", null ]
+    [ "npc_hor_leaderAI", "df/d98/a17251.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "df/d98/a17251.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "df/d98/a17251.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "df/d98/a17251.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "df/d98/a17251.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "instance", "df/d98/a17251.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "df/d98/a17251.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

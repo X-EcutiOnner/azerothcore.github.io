@@ -1,7 +1,10 @@
 var a05599 =
 [
-    [ "TypeContainerVisitor", "d8/d26/a05599.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "d8/d26/a05599.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "d8/d26/a05599.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "d8/d26/a05599.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "Find", "d8/d26/a05599.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "d8/d26/a05599.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "d8/d26/a05599.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "d8/d26/a05599.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "d8/d26/a05599.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "d8/d26/a05599.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "d8/d26/a05599.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

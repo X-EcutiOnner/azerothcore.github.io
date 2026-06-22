@@ -1,7 +1,7 @@
 var a27371 =
 [
-    [ "HandleAuraApply", "d8/dce/a27371.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d8/dce/a27371.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d8/dce/a27371.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d8/dce/a27371.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleProc", "d8/dce/a27371.html#a929cf5d75df313a5e119eeb03735640c", null ],
+    [ "PrepareAuraScript", "d8/dce/a27371.html#aaeacbee6f798f25e467381aa56228355", null ],
+    [ "Register", "d8/dce/a27371.html#a111fa9ebfc9d9e8f0907635a4ce73bbb", null ],
+    [ "Validate", "d8/dce/a27371.html#a428e6d1f5e172390986ae8fd85570e21", null ]
 ];

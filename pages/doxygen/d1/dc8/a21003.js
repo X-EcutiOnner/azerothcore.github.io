@@ -1,6 +1,6 @@
 var a21003 =
 [
-    [ "npc_ferocious_rhinoAI", "de/d25/a21007.html", "de/d25/a21007" ],
-    [ "npc_ferocious_rhino", "d1/dc8/a21003.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "d1/dc8/a21003.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "npc_massive_jormungarAI", "de/d25/a21007.html", "de/d25/a21007" ],
+    [ "npc_massive_jormungar", "d1/dc8/a21003.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "d1/dc8/a21003.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

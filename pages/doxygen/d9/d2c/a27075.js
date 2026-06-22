@@ -1,8 +1,6 @@
 var a27075 =
 [
-    [ "HandleRootRemove", "d9/d2c/a27075.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d9/d2c/a27075.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d9/d2c/a27075.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d9/d2c/a27075.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d9/d2c/a27075.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "DoAfterHit", "d9/d2c/a27075.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "d9/d2c/a27075.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "d9/d2c/a27075.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

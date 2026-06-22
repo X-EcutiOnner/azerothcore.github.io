@@ -1,5 +1,5 @@
 var a02549 =
 [
-    [ "AreaTriggerScript", "dc/d55/a10598.html", "dc/d55/a10598" ],
-    [ "OnlyOnceAreaTriggerScript", "d2/d62/a10602.html", "d2/d62/a10602" ]
+    [ "SmartTrigger", "de/d5f/a06579.html", "de/d5f/a06579" ],
+    [ "AddSC_SmartScripts", "d0/df5/a02549.html#ab6012619ba76775b314475ec60f8c7d7", null ]
 ];

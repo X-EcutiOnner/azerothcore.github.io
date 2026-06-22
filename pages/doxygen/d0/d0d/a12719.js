@@ -1,6 +1,11 @@
 var a12719 =
 [
-    [ "OrcMoveEvent", "d0/d0d/a12719.html#a71f7fe243741a1629bdd846fc97f0112", null ],
-    [ "Execute", "d0/d0d/a12719.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
-    [ "_me", "d0/d0d/a12719.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
+    [ "boss_solakar_flamewreath", "d0/d0d/a12719.html#aff732901de1306b363e5a3d9994b3c9b", null ],
+    [ "ExecuteEvent", "d0/d0d/a12719.html#a72bf587aae341ba70bd219c8d97fe9a1", null ],
+    [ "InitializeAI", "d0/d0d/a12719.html#a21875946b8e9cfa8711f36f98a61a034", null ],
+    [ "JustDied", "d0/d0d/a12719.html#ae4d59238a359487e44985e040ee27732", null ],
+    [ "JustEngagedWith", "d0/d0d/a12719.html#af6a0c97341547ea852d9a09d3b66358e", null ],
+    [ "Reset", "d0/d0d/a12719.html#ae83c926a718af8ee0d90b8a9be800031", null ],
+    [ "UpdateAI", "d0/d0d/a12719.html#ad211f24ce4019724060441529ceaa780", null ],
+    [ "resetTimer", "d0/d0d/a12719.html#a602092d8262420bc51eef286b7c96d84", null ]
 ];

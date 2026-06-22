@@ -1,19 +1,11 @@
 var a03212 =
 [
-    [ "ArenaSeasonReward", "dd/df0/a07568.html", "dd/df0/a07568" ],
-    [ "ArenaSeasonRewardGroup", "df/db0/a07572.html", "df/db0/a07572" ],
-    [ "ArenaSeasonMgr", "d1/d4b/a07576.html", "d1/d4b/a07576" ],
-    [ "sArenaSeasonMgr", "df/d1e/a03212.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
-    [ "ArenaSeasonRewardGroupCriteriaType", "df/d1e/a03212.html#a983281e9aada2538d6bc53ae4dd4d266", [
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "df/d1e/a03212.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
-      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "df/d1e/a03212.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
-    ] ],
-    [ "ArenaSeasonRewardType", "df/d1e/a03212.html#a89a1f93759bb943ff9ef0e4991579265", [
-      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "df/d1e/a03212.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
-      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "df/d1e/a03212.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
-    ] ],
-    [ "ArenaSeasonState", "df/d1e/a03212.html#a64f8715fead51dc9727d105bce4d0e38", [
-      [ "ARENA_SEASON_STATE_DISABLED", "df/d1e/a03212.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
-      [ "ARENA_SEASON_STATE_IN_PROGRESS", "df/d1e/a03212.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    [ "ChaseMovementGenerator< T >", "d1/d0b/a10403.html", "d1/d0b/a10403" ],
+    [ "FollowMovementGenerator< T >", "dd/d78/a10407.html", "dd/d78/a10407" ],
+    [ "ChaseMovementMode", "df/d1e/a03212.html#af39517224af91107d618ec9d8131101d", [
+      [ "CHASE_MODE_NORMAL", "df/d1e/a03212.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3", null ],
+      [ "CHASE_MODE_BACKPEDAL", "df/d1e/a03212.html#af39517224af91107d618ec9d8131101da4d0b7e85b5d121658e67d6a04c5ed0bd", null ],
+      [ "CHASE_MODE_DISTANCING", "df/d1e/a03212.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337", null ],
+      [ "CHASE_MODE_FANNING", "df/d1e/a03212.html#af39517224af91107d618ec9d8131101dad3363c812ead03b0c7ae11cec5dfa618", null ]
     ] ]
 ];

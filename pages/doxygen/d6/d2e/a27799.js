@@ -1,6 +1,5 @@
 var a27799 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d6/d2e/a27799.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d6/d2e/a27799.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d6/d2e/a27799.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "AreaTrigger_at_nats_landing", "d6/d2e/a27799.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d6/d2e/a27799.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

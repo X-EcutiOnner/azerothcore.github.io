@@ -1,13 +1,7 @@
 var a09391 =
 [
-    [ "QuestPOI", "df/d9b/a09391.html#af4ce75549d1fff2042e98683119214a6", null ],
-    [ "QuestPOI", "df/d9b/a09391.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
-    [ "AreaId", "df/d9b/a09391.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
-    [ "FloorId", "df/d9b/a09391.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
-    [ "Id", "df/d9b/a09391.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
-    [ "MapId", "df/d9b/a09391.html#a851f8e6e62373d2592173534754d757b", null ],
-    [ "ObjectiveIndex", "df/d9b/a09391.html#ad80f65110beacd44e667008387e6bb70", null ],
-    [ "points", "df/d9b/a09391.html#aeb505cb061a00ecaa2acc749e391f207", null ],
-    [ "Unk3", "df/d9b/a09391.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
-    [ "Unk4", "df/d9b/a09391.html#aa8089160bb8e93ea79df96b956050b70", null ]
+    [ "QuestPOIPoint", "df/d9b/a09391.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "df/d9b/a09391.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "df/d9b/a09391.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "df/d9b/a09391.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

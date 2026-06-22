@@ -1,5 +1,7 @@
 var a23751 =
 [
-    [ "go_simon_cluster", "d5/db6/a23751.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d5/db6/a23751.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_daranelleAI", "d5/db6/a23751.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d5/db6/a23751.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d5/db6/a23751.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d5/db6/a23751.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

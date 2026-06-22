@@ -1,8 +1,11 @@
 var a28195 =
 [
-    [ "npc_elder_clearwaterAI", "d9/d7f/a28199.html", "d9/d7f/a28199" ],
-    [ "npc_elder_clearwater", "df/dc8/a28195.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "df/dc8/a28195.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "df/dc8/a28195.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "df/dc8/a28195.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_franklinAI", "df/dc8/a28195.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "df/dc8/a28195.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "df/dc8/a28195.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "df/dc8/a28195.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "df/dc8/a28195.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "df/dc8/a28195.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "df/dc8/a28195.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "df/dc8/a28195.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

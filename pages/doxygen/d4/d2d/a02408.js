@@ -1,6 +1,6 @@
 var a02408 =
 [
-    [ "MAX_QUIET_DISTANCE", "d4/d2d/a02408.html#a9738c927d0a0b9da431824ab69a5988a", null ],
-    [ "MIN_PATH_LENGTH", "d4/d2d/a02408.html#aa1f2b73706ddb69d07dbdc87257f010f", null ],
-    [ "MIN_QUIET_DISTANCE", "d4/d2d/a02408.html#ad1ba65a06a9ac4ab2293efde8be35403", null ]
+    [ "lfg::LFGPlayerScript", "d5/d2f/a08331.html", "d5/d2f/a08331" ],
+    [ "lfg::LFGGroupScript", "d6/d21/a08335.html", "d6/d21/a08335" ],
+    [ "AddSC_LFGScripts", "d4/d2d/a02408.html#a9624b9328e26a9f420a4a3f07e253763", null ]
 ];

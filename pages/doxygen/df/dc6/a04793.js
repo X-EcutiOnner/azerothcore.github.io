@@ -1,6 +1,4 @@
 var a04793 =
 [
-    [ "SetupLibrariesForWindows", "df/dc6/a04793.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
-    [ "DefaultProvider", "df/dc6/a04793.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
-    [ "LegacyProvider", "df/dc6/a04793.html#a81b4206923925a193dca5c3acd946bc2", null ]
+    [ "AuthCrypt", "d1/db0/a05447.html", "d1/db0/a05447" ]
 ];

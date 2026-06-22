@@ -1,6 +1,8 @@
 var a24583 =
 [
-    [ "CheckCast", "d3/d6f/a24583.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "d3/d6f/a24583.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "d3/d6f/a24583.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "AfterApply", "d3/d6f/a24583.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "d3/d6f/a24583.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "d3/d6f/a24583.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "d3/d6f/a24583.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "d3/d6f/a24583.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

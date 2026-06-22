@@ -1,7 +1,10 @@
 var a26571 =
 [
-    [ "FilterTargets", "dc/df2/a26571.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "dc/df2/a26571.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "dc/df2/a26571.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "dc/df2/a26571.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "spell_pal_improved_aura", "dc/df2/a26571.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
+    [ "HandleEffectApply", "dc/df2/a26571.html#a441952100c103ccdf84c58827669faac", null ],
+    [ "HandleEffectRemove", "dc/df2/a26571.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
+    [ "PrepareAuraScript", "dc/df2/a26571.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
+    [ "Register", "dc/df2/a26571.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
+    [ "Validate", "dc/df2/a26571.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
+    [ "_spellId", "dc/df2/a26571.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
 ];

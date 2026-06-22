@@ -1,6 +1,6 @@
 var a20887 =
 [
-    [ "instance_ulduar_InstanceMapScript", "d6/dc7/a20891.html", "d6/dc7/a20891" ],
-    [ "instance_ulduar", "d7/d75/a20887.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "d7/d75/a20887.html#ae263428f4229c75b22f990dabe6b3c06", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d7/d75/a20887.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d7/d75/a20887.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d7/d75/a20887.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

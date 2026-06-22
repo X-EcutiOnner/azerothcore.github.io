@@ -1,5 +1,6 @@
 var a23283 =
 [
-    [ "go_broggok_lever", "d1/d0d/a23283.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "d1/d0d/a23283.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d2/dcb/a23287.html", "d2/dcb/a23287" ],
+    [ "instance_gruuls_lair", "d1/d0d/a23283.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d1/d0d/a23283.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

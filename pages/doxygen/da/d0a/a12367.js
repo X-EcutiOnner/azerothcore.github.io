@@ -1,11 +1,8 @@
 var a12367 =
 [
-    [ "instance_commandscript", "da/d0a/a12367.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "da/d0a/a12367.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "da/d0a/a12367.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "da/d0a/a12367.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "da/d0a/a12367.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "da/d0a/a12367.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "da/d0a/a12367.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "da/d0a/a12367.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "honor_commandscript", "da/d0a/a12367.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "da/d0a/a12367.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "da/d0a/a12367.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "da/d0a/a12367.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "da/d0a/a12367.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

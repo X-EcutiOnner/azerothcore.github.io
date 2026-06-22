@@ -1,8 +1,11 @@
 var a19963 =
 [
-    [ "npc_algalon_worm_hole", "d4/dcb/a19963.html#a546bd0ede2586fcbe3812698b68528d4", null ],
-    [ "JustSummoned", "d4/dcb/a19963.html#a077425b35d86c007daa93fc8b1fd9717", null ],
-    [ "Reset", "d4/dcb/a19963.html#a363814abdee714faddfd966b11a4fddc", null ],
-    [ "UpdateAI", "d4/dcb/a19963.html#a16f644be53169adc67fc971bdeaa7263", null ],
-    [ "_summonTimer", "d4/dcb/a19963.html#a033382dbd57714e815eed8ef6e4adfaf", null ]
+    [ "npc_living_constellation", "d4/dcb/a19963.html#afb5daeb17d2a7c1ae6093ebac41addb7", null ],
+    [ "DoAction", "d4/dcb/a19963.html#a45ba20e86f9d3c041260c88130521a61", null ],
+    [ "GetData", "d4/dcb/a19963.html#ad698d91c81b0872385d9c5bee9ca8dd7", null ],
+    [ "Reset", "d4/dcb/a19963.html#a66e2b985ccc92ff996017ece6d4ef74c", null ],
+    [ "SpellHit", "d4/dcb/a19963.html#a402c1da5e1dfbeadd8413fa0d77146d5", null ],
+    [ "UpdateAI", "d4/dcb/a19963.html#a0f7faec1aa3c67b8f03076ae0a52169d", null ],
+    [ "_isActive", "d4/dcb/a19963.html#a810c918ac2523f04d8364f507e6c01bb", null ],
+    [ "events", "d4/dcb/a19963.html#aaa9152db699878d67e8b8288d729fca3", null ]
 ];

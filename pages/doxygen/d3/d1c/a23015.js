@@ -1,6 +1,6 @@
 var a23015 =
 [
-    [ "HandleEffectRemove", "d3/d1c/a23015.html#ac74d25501690970c607a146eec02ab24", null ],
-    [ "PrepareAuraScript", "d3/d1c/a23015.html#a858929800089fee1a06948bda1c8806f", null ],
-    [ "Register", "d3/d1c/a23015.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "db/d93/a23019.html", "db/d93/a23019" ],
+    [ "instance_serpent_shrine", "d3/d1c/a23015.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d3/d1c/a23015.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

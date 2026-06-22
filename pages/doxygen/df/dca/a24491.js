@@ -1,7 +1,7 @@
 var a24491 =
 [
-    [ "CalculateAmount", "df/dca/a24491.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "df/dca/a24491.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "df/dca/a24491.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "df/dca/a24491.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "AfterApply", "df/dca/a24491.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "df/dca/a24491.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "df/dca/a24491.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "df/dca/a24491.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

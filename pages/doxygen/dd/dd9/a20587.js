@@ -1,5 +1,9 @@
 var a20587 =
 [
-    [ "achievement_quick_shave", "dd/dd9/a20587.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "dd/dd9/a20587.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "dd/dd9/a20587.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "dd/dd9/a20587.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "dd/dd9/a20587.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "dd/dd9/a20587.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "dd/dd9/a20587.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "dd/dd9/a20587.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

@@ -1,11 +1,8 @@
 var a17263 =
 [
-    [ "npc_shadowy_mercenary", "dd/d4a/a17263.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
-    [ "AttackStart", "dd/d4a/a17263.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
-    [ "DoAction", "dd/d4a/a17263.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
-    [ "EnterEvadeMode", "dd/d4a/a17263.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
-    [ "JustDied", "dd/d4a/a17263.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
-    [ "JustEngagedWith", "dd/d4a/a17263.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
-    [ "Reset", "dd/d4a/a17263.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
-    [ "UpdateAI", "dd/d4a/a17263.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
+    [ "npc_phantom_hallucination", "dd/d4a/a17263.html#a55dc1bf20a0714bbe3bd2bf98978c127", null ],
+    [ "EnterEvadeMode", "dd/d4a/a17263.html#a0e45cbe40a3118d17f403c48c91f630e", null ],
+    [ "JustDied", "dd/d4a/a17263.html#a14c91f9f3a1f654fed3fc11685d41da7", null ],
+    [ "UpdateAI", "dd/d4a/a17263.html#af03cb9c2f062e14e6333c8c889d3c8df", null ],
+    [ "numOfUpd", "dd/d4a/a17263.html#a2cc47caafdc22de25f820a78f632ee4b", null ]
 ];

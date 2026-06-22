@@ -1,6 +1,5 @@
 var a12875 =
 [
-    [ "HandleOnHit", "df/d87/a12875.html#a804097903354ab3a730f0fe3eb5ec863", null ],
-    [ "PrepareSpellScript", "df/d87/a12875.html#aea221ad6fb1a30bec6fee0c3a67d01b0", null ],
-    [ "Register", "df/d87/a12875.html#a53bed6f1af71fd309a04bc004d07be80", null ]
+    [ "go_orb_of_domination", "df/d87/a12875.html#ad1378efcf7a54adac256a44bbdfe4357", null ],
+    [ "GossipHello", "df/d87/a12875.html#a95628cbeeb6b2af6a79546ff3661815e", null ]
 ];

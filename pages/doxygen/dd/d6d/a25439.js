@@ -1,8 +1,6 @@
 var a25439 =
 [
-    [ "OnApply", "dd/d6d/a25439.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "dd/d6d/a25439.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "dd/d6d/a25439.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "dd/d6d/a25439.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "dd/d6d/a25439.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "HandleStackDrop", "dd/d6d/a25439.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "dd/d6d/a25439.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "dd/d6d/a25439.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

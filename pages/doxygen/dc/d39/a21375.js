@@ -1,6 +1,7 @@
 var a21375 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
-    [ "npc_valiance_keep_cannoneer", "dc/d39/a21375.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "dc/d39/a21375.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_bonker_togglevoltAI", "d5/d3e/a21379.html", "d5/d3e/a21379" ],
+    [ "npc_bonker_togglevolt", "dc/d39/a21375.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "dc/d39/a21375.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "dc/d39/a21375.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

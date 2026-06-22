@@ -1,6 +1,9 @@
 var a16655 =
 [
-    [ "npc_argent_soldierAI", "d6/d60/a16659.html", "d6/d60/a16659" ],
-    [ "npc_argent_soldier", "d9/dd1/a16655.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d9/dd1/a16655.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "npc_memoryAI", "d9/dd1/a16655.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "d9/dd1/a16655.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "d9/dd1/a16655.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "d9/dd1/a16655.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "d9/dd1/a16655.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "d9/dd1/a16655.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

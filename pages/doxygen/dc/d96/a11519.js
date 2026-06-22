@@ -1,6 +1,6 @@
 var a11519 =
 [
-    [ "QuestGiverQuestInvalid", "dc/d96/a11519.html#a7220ac375523d524f905042722522bfb", null ],
-    [ "Write", "dc/d96/a11519.html#aed56e88c0fc568d524913c0863a45622", null ],
-    [ "FailureReason", "dc/d96/a11519.html#a7c2cc4153399abfbaa4b2b2811d2fde2", null ]
+    [ "QuestUpdateFailedTimer", "dc/d96/a11519.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
+    [ "Write", "dc/d96/a11519.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
+    [ "QuestId", "dc/d96/a11519.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
 ];

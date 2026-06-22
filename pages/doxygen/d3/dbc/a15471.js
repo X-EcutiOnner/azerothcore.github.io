@@ -1,9 +1,6 @@
 var a15471 =
 [
-    [ "go_ossirian_crystalAI", "d3/dbc/a15471.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d3/dbc/a15471.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d3/dbc/a15471.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d3/dbc/a15471.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "d3/dbc/a15471.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d3/dbc/a15471.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "go_ossirian_crystalAI", "de/dad/a15475.html", "de/dad/a15475" ],
+    [ "go_ossirian_crystal", "d3/dbc/a15471.html#a783f0f0570ee0f667920e29613b565b2", null ],
+    [ "GetAI", "d3/dbc/a15471.html#a2f7b12eddc6504917614913e347ec0a0", null ]
 ];

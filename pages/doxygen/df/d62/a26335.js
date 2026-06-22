@@ -1,9 +1,6 @@
 var a26335 =
 [
-    [ "AllowT10Proc", "df/d62/a26335.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
-    [ "OnRemove", "df/d62/a26335.html#a52807f94eba44a9b574577a0b27acb22", null ],
-    [ "PrepareAuraScript", "df/d62/a26335.html#a430303b7df445d38da9316324359c2d6", null ],
-    [ "Register", "df/d62/a26335.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
-    [ "Validate", "df/d62/a26335.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
-    [ "_canProcT10", "df/d62/a26335.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
+    [ "CheckProc", "df/d62/a26335.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
+    [ "PrepareAuraScript", "df/d62/a26335.html#a1dcda7de24effce7d975b714629f0e8a", null ],
+    [ "Register", "df/d62/a26335.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
 ];

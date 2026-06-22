@@ -1,6 +1,11 @@
 var a23791 =
 [
-    [ "npc_wounded_blood_elfAI", "d0/d60/a23795.html", "d0/d60/a23795" ],
-    [ "npc_wounded_blood_elf", "d7/dfb/a23791.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
-    [ "GetAI", "d7/dfb/a23791.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
+    [ "npc_aeranasAI", "d7/dfb/a23791.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "d7/dfb/a23791.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "d7/dfb/a23791.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d7/dfb/a23791.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "d7/dfb/a23791.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "d7/dfb/a23791.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d7/dfb/a23791.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d7/dfb/a23791.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

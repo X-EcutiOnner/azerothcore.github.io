@@ -1,5 +1,6 @@
 var a01550 =
 [
-    [ "lookup_commandscript", "d4/d21/a12391.html", "d4/d21/a12391" ],
-    [ "AddSC_lookup_commandscript", "d8/daf/a01550.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
+    [ "RBACCommandData", "df/ded/a12475.html", "df/ded/a12475" ],
+    [ "rbac_commandscript", "df/db6/a12479.html", "df/db6/a12479" ],
+    [ "AddSC_rbac_commandscript", "d8/daf/a01550.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
 ];

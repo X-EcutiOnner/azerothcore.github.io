@@ -1,11 +1,16 @@
 var a20631 =
 [
-    [ "boss_thorim_ancient_rune_giant", "dc/d0e/a20631.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
-    [ "DoAction", "dc/d0e/a20631.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
-    [ "JustDied", "dc/d0e/a20631.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
-    [ "JustEngagedWith", "dc/d0e/a20631.html#a98fa309963245a0c57676ff019085fac", null ],
-    [ "Reset", "dc/d0e/a20631.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
-    [ "UpdateAI", "dc/d0e/a20631.html#a903d7448d9441866475d77fce8ca6d37", null ],
-    [ "_isInCombat", "dc/d0e/a20631.html#a148ff1fa8010466de069032f660cd08e", null ],
-    [ "events", "dc/d0e/a20631.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
+    [ "boss_thorim_runic_colossus", "dc/d0e/a20631.html#a3beda3351911803a0c0ea719256c4514", null ],
+    [ "JustDied", "dc/d0e/a20631.html#a9682ccf2c6109888385fd621ecac16a4", null ],
+    [ "JustEngagedWith", "dc/d0e/a20631.html#ad18388379fc026c1bf707eee8fae9826", null ],
+    [ "Reset", "dc/d0e/a20631.html#a5a6d3e8c1e756fe9a982c6be215a0577", null ],
+    [ "RunRunicSmash", "dc/d0e/a20631.html#a4b36e8e92cae14912354691f0dc09a64", null ],
+    [ "SpellHit", "dc/d0e/a20631.html#a9787e064886ddee55bc2434c6d4f1927", null ],
+    [ "UpdateAI", "dc/d0e/a20631.html#a470b0571db91075603504d91fb13721c", null ],
+    [ "_checkTarget", "dc/d0e/a20631.html#a16c4b7194f1db8710732b35189823efe", null ],
+    [ "_leftHand", "dc/d0e/a20631.html#a2d3c2799fcf9a2761c331109a713a4c6", null ],
+    [ "_nextTriggerPos", "dc/d0e/a20631.html#a5f265413890df938e00dc08e0dee9829", null ],
+    [ "_triggerLeftGUID", "dc/d0e/a20631.html#af1a54a839bcd3308edf1c7769274b889", null ],
+    [ "_triggerRightGUID", "dc/d0e/a20631.html#a72196fe61ab799be949b7148a52933a9", null ],
+    [ "events", "dc/d0e/a20631.html#a859e1d83f4002c8017d5d8f8fdf34a1e", null ]
 ];

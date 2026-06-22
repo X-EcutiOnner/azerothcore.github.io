@@ -1,6 +1,6 @@
 var a21563 =
 [
-    [ "HandleSendEvent", "d4/d31/a21563.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d4/d31/a21563.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d4/d31/a21563.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_heated_battleAI", "df/d2d/a21567.html", "df/d2d/a21567" ],
+    [ "npc_heated_battle", "d4/d31/a21563.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "d4/d31/a21563.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

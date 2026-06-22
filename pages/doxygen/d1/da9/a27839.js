@@ -1,6 +1,9 @@
 var a27839 =
 [
-    [ "boss_emerissAI", "d3/dc9/a27843.html", "d3/dc9/a27843" ],
-    [ "boss_emeriss", "d1/da9/a27839.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d1/da9/a27839.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "boss_lethonAI", "d1/da9/a27839.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d1/da9/a27839.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d1/da9/a27839.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d1/da9/a27839.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d1/da9/a27839.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d1/da9/a27839.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

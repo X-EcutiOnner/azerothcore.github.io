@@ -1,11 +1,6 @@
 var a11287 =
 [
-    [ "LFGJoin", "df/d60/a11287.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "df/d60/a11287.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "df/d60/a11287.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "df/d60/a11287.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "df/d60/a11287.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "df/d60/a11287.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "df/d60/a11287.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "df/d60/a11287.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "ItemRefund", "df/d60/a11287.html#aa257d579519d45da88694ff6306395da", null ],
+    [ "Read", "df/d60/a11287.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
+    [ "ItemGuid", "df/d60/a11287.html#ac394336b15540248770f81d748206f7b", null ]
 ];

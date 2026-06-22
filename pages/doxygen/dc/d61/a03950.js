@@ -1,8 +1,12 @@
 var a03950 =
 [
-    [ "SelectableAI", "d7/d99/a06500.html", "d7/d99/a06500" ],
-    [ "CreatureAIFactory< REAL_AI >", "df/d14/a06504.html", "df/d14/a06504" ],
-    [ "sCreatureAIRegistry", "dc/d61/a03950.html#a08e073e90e01d97b74e2331f15bf6122", null ],
-    [ "CreatureAICreator", "dc/d61/a03950.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
-    [ "CreatureAIRegistry", "dc/d61/a03950.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
+    [ "WorldPackets::Instance::InstanceReset", "d6/d74/a11175.html", "d6/d74/a11175" ],
+    [ "WorldPackets::Instance::InstanceResetFailed", "d8/d21/a11179.html", "d8/d21/a11179" ],
+    [ "WorldPackets::Instance::SetDungeonDifficulty", "d8/d46/a11183.html", "d8/d46/a11183" ],
+    [ "WorldPackets::Instance::SetDungeonDifficultyClient", "d6/dd6/a11187.html", "d6/dd6/a11187" ],
+    [ "WorldPackets::Instance::ResetFailedNotify", "d3/dfc/a11191.html", "d3/dfc/a11191" ],
+    [ "WorldPackets::Instance::SetRaidDifficulty", "d4/d19/a11195.html", "d4/d19/a11195" ],
+    [ "WorldPackets::Instance::SetRaidDifficultyClient", "d2/d90/a11199.html", "d2/d90/a11199" ],
+    [ "WorldPackets::Instance::ResetInstances", "d5/de4/a11203.html", "d5/de4/a11203" ],
+    [ "WorldPackets::Instance::InstanceLockResponse", "db/d07/a11207.html", "db/d07/a11207" ]
 ];

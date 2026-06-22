@@ -1,5 +1,5 @@
 var a01553 =
 [
-    [ "mail_commandscript", "d0/d7c/a12395.html", "d0/d7c/a12395" ],
-    [ "AddSC_mail_commandscript", "de/d2c/a01553.html#a60390ceaf08c6b305bdc77fd27243938", null ]
+    [ "lookup_commandscript", "d0/d7c/a12395.html", "d0/d7c/a12395" ],
+    [ "AddSC_lookup_commandscript", "de/d2c/a01553.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

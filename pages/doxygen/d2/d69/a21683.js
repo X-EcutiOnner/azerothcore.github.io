@@ -1,6 +1,7 @@
 var a21683 =
 [
-    [ "npc_mrfloppyAI", "d7/de1/a21687.html", "d7/de1/a21687" ],
-    [ "npc_mrfloppy", "d2/d69/a21683.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d2/d69/a21683.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_emilyAI", "d7/de1/a21687.html", "d7/de1/a21687" ],
+    [ "npc_emily", "d2/d69/a21683.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d2/d69/a21683.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d2/d69/a21683.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

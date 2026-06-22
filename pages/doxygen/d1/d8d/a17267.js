@@ -1,11 +1,11 @@
 var a17267 =
 [
-    [ "npc_spectral_footman", "d1/d8d/a17267.html#ab12174cbf246178b52c074024453015e", null ],
-    [ "AttackStart", "d1/d8d/a17267.html#a0fe7529c47d56f67b15023bc432f0498", null ],
-    [ "DoAction", "d1/d8d/a17267.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
-    [ "EnterEvadeMode", "d1/d8d/a17267.html#afc51e0562045028af7161ea66e7be9f0", null ],
-    [ "JustDied", "d1/d8d/a17267.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
-    [ "JustEngagedWith", "d1/d8d/a17267.html#a9d8d723b403035660b78c332d5813d3f", null ],
-    [ "Reset", "d1/d8d/a17267.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
-    [ "UpdateAI", "d1/d8d/a17267.html#af76de9237937199dfa715a445b0060c3", null ]
+    [ "npc_shadowy_mercenary", "d1/d8d/a17267.html#ae4e26a15f7ee0ba768a5ad6c18c8bc40", null ],
+    [ "AttackStart", "d1/d8d/a17267.html#a2851972b1fa6e3de4f79433e1308dd11", null ],
+    [ "DoAction", "d1/d8d/a17267.html#afba6e6565c04fe0b325a1ecf9d65ae80", null ],
+    [ "EnterEvadeMode", "d1/d8d/a17267.html#a71290c72bff2a91d7c5cc8d661f28bf9", null ],
+    [ "JustDied", "d1/d8d/a17267.html#a88cde525eb5d8db9fb2ffc30f18ddf61", null ],
+    [ "JustEngagedWith", "d1/d8d/a17267.html#aab9ac47fa72e7a7a6941aad190a18ebb", null ],
+    [ "Reset", "d1/d8d/a17267.html#aeedf803d4d6747ef505c11bb035c2c05", null ],
+    [ "UpdateAI", "d1/d8d/a17267.html#af36c113ac34b5e2db382c6d5f9d546e4", null ]
 ];

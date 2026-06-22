@@ -1,8 +1,11 @@
 var a12607 =
 [
-    [ "boss_eviscerator", "d2/d85/a12607.html#a2228d79b63df840eb4cb28117f24dcf9", null ],
-    [ "DamageTaken", "d2/d85/a12607.html#af31de4643026e44c80252e156a39bc69", null ],
-    [ "JustEngagedWith", "d2/d85/a12607.html#a14ec212beaa553f8f68e7718e29dcbd9", null ],
-    [ "UpdateAI", "d2/d85/a12607.html#af974908902d30b8144d1b734e795d6ea", null ],
-    [ "SpellShieldReady", "d2/d85/a12607.html#abeac01454b05ca88a89093b0f74c4a1f", null ]
+    [ "boss_emperor_dagran_thaurissan", "d2/d85/a12607.html#a33efe0ee1573c4b43cdf58bdce303e5d", null ],
+    [ "JustDied", "d2/d85/a12607.html#a526a7726e2838ef4c49cca8dd6fc68c9", null ],
+    [ "JustEngagedWith", "d2/d85/a12607.html#a182564d95dc677ea33e47995638a9a58", null ],
+    [ "KilledUnit", "d2/d85/a12607.html#a7f7ae37e4abbe37f4fa46b98af3ac03a", null ],
+    [ "SetData", "d2/d85/a12607.html#a5ccda3d76afe43804c86e193afa9b80c", null ],
+    [ "UpdateAI", "d2/d85/a12607.html#ab1c7da00e8e1a20d2592ec26862867fc", null ],
+    [ "hasYelled", "d2/d85/a12607.html#aaadeb10c22c598cd10ccde83425fbf71", null ],
+    [ "SenatorYells", "d2/d85/a12607.html#ad94aef1875a5a863f78dc84a964638f9", null ]
 ];

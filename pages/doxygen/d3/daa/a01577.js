@@ -1,5 +1,5 @@
 var a01577 =
 [
-    [ "titles_commandscript", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "AddSC_titles_commandscript", "d3/daa/a01577.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "reset_commandscript", "df/d41/a12487.html", "df/d41/a12487" ],
+    [ "AddSC_reset_commandscript", "d3/daa/a01577.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

@@ -1,8 +1,8 @@
 var a06435 =
 [
-    [ "PassiveAI", "da/d5b/a06435.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "da/d5b/a06435.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "da/d5b/a06435.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "da/d5b/a06435.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "da/d5b/a06435.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "GuardAI", "da/d5b/a06435.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "da/d5b/a06435.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "da/d5b/a06435.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "da/d5b/a06435.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "da/d5b/a06435.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

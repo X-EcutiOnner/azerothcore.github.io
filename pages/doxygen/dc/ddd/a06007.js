@@ -1,6 +1,10 @@
 var a06007 =
 [
-    [ "PreparedStatement", "dc/ddd/a06007.html#a4f689d37a5d174ade76e590379edc46a", null ],
-    [ "PreparedStatement", "dc/ddd/a06007.html#a8b0dccfd3e274bf55d8b161b1390b0d9", null ],
-    [ "operator=", "dc/ddd/a06007.html#a9ed475a188f208344cffd74058b749e2", null ]
+    [ "BasicStatementTask", "dc/ddd/a06007.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "dc/ddd/a06007.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "dc/ddd/a06007.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "dc/ddd/a06007.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "dc/ddd/a06007.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "dc/ddd/a06007.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "dc/ddd/a06007.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

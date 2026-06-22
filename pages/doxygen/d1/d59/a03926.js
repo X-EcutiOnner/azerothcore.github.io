@@ -1,5 +1,5 @@
 var a03926 =
 [
-    [ "SmartScript", "db/d8d/a06580.html", "db/d8d/a06580" ],
-    [ "SmartScript::SmartScriptFrame", "d2/d2b/a06584.html", "d2/d2b/a06584" ]
+    [ "WorldPackets::LFG::LFGJoin", "da/dd0/a11291.html", "da/dd0/a11291" ],
+    [ "WorldPackets::LFG::LFGLeave", "da/df8/a11295.html", "da/df8/a11295" ]
 ];

@@ -1,10 +1,9 @@
 var a29123 =
 [
-    [ "ID", "da/d83/a29123.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "da/d83/a29123.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "da/d83/a29123.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "da/d83/a29123.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "da/d83/a29123.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "da/d83/a29123.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "da/d83/a29123.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "Category", "da/d83/a29123.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "da/d83/a29123.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "da/d83/a29123.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "da/d83/a29123.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "da/d83/a29123.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "da/d83/a29123.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

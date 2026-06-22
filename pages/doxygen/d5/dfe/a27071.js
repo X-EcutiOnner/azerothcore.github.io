@@ -1,6 +1,10 @@
 var a27071 =
 [
-    [ "CheckCast", "d5/dfe/a27071.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d5/dfe/a27071.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d5/dfe/a27071.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandleProc", "d5/dfe/a27071.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "d5/dfe/a27071.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "d5/dfe/a27071.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "d5/dfe/a27071.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "d5/dfe/a27071.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "d5/dfe/a27071.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "d5/dfe/a27071.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

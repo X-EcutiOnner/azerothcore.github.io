@@ -1,8 +1,6 @@
 var a22019 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d5/db5/a22019.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d5/db5/a22019.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d5/db5/a22019.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d5/db5/a22019.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d5/db5/a22019.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_iron_watcherAI", "d2/d83/a22023.html", "d2/d83/a22023" ],
+    [ "npc_iron_watcher", "d5/db5/a22019.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d5/db5/a22019.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

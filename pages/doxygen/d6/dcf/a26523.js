@@ -1,7 +1,9 @@
 var a26523 =
 [
-    [ "OnProc", "d6/dcf/a26523.html#a00545522da76162e837a3f9ce1f38988", null ],
-    [ "PrepareAuraScript", "d6/dcf/a26523.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
-    [ "Register", "d6/dcf/a26523.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
-    [ "Validate", "d6/dcf/a26523.html#af5525b7097363c3357db853b46a26bd7", null ]
+    [ "CheckProc", "d6/dcf/a26523.html#a1ea48d77c2bb5b26c12384e4e11411ff", null ],
+    [ "HandleProc", "d6/dcf/a26523.html#afe1282b6df7593066469f3ddf7ff8a33", null ],
+    [ "PrepareAuraScript", "d6/dcf/a26523.html#a9585ecde57ccfa26f59174732e3132fc", null ],
+    [ "Register", "d6/dcf/a26523.html#aff856108cd0b92c3a4eaeb4c354ee56f", null ],
+    [ "Validate", "d6/dcf/a26523.html#a65e88419d625dc6e8033b573ce7f18ee", null ],
+    [ "_triggeredSpellId", "d6/dcf/a26523.html#a560ade778e046213f60f48364ea3800c", null ]
 ];

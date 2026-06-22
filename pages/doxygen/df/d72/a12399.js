@@ -1,12 +1,10 @@
 var a12399 =
 [
-    [ "message_commandscript", "df/d72/a12399.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "df/d72/a12399.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "df/d72/a12399.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "df/d72/a12399.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "df/d72/a12399.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "df/d72/a12399.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "df/d72/a12399.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "df/d72/a12399.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "df/d72/a12399.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "mail_commandscript", "df/d72/a12399.html#a213bedb9d8fd8cb3c4b5928b2c193c58", null ],
+    [ "GetCommands", "df/d72/a12399.html#a931c5f4d66e598886984458a4a7fd3b0", null ],
+    [ "GetItemListString", "df/d72/a12399.html#a6d5fc2ef156b3d6be01b3b62f9efb2c9", null ],
+    [ "GetMailStationeryString", "df/d72/a12399.html#af016c0c682c94250cdb26eea3377ec6e", null ],
+    [ "GetMailTypeString", "df/d72/a12399.html#aeadf09762c52e71d4b6ef2b248e21077", null ],
+    [ "HandleMailListCommand", "df/d72/a12399.html#aea68c55c26314abf0bb4040ad6de8e1b", null ],
+    [ "HandleMailReturnCommand", "df/d72/a12399.html#acbdb7a0ea15ed5202866355d4839948c", null ]
 ];

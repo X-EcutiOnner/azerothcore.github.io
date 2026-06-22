@@ -1,5 +1,8 @@
 var a05287 =
 [
-    [ "hitModel", "d9/dba/a05287.html#a4802cb0c38ad72e7671cb77e1f3e6174", null ],
-    [ "rootId", "d9/dba/a05287.html#aa855bd49800e7a3b6713d72f0cf629d5", null ]
+    [ "LocationInfoCallback", "d9/dba/a05287.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "d9/dba/a05287.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "d9/dba/a05287.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "d9/dba/a05287.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "d9/dba/a05287.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

@@ -1,6 +1,6 @@
 var a16707 =
 [
-    [ "npc_toc5_player_vehicleAI", "d2/df6/a16711.html", "d2/df6/a16711" ],
-    [ "npc_toc5_player_vehicle", "dc/dab/a16707.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "dc/dab/a16707.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "HandleSpellHit", "dc/dab/a16707.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
+    [ "PrepareSpellScript", "dc/dab/a16707.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
+    [ "Register", "dc/dab/a16707.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
 ];

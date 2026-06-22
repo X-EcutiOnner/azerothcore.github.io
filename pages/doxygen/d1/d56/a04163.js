@@ -1,5 +1,5 @@
 var a04163 =
 [
-    [ "CanRollOnItem", "d1/d56/a04163.html#afbaf3417177da71d9f3c8be9eab09c2b", null ],
-    [ "SendRollWonItemViaMail", "d1/d56/a04163.html#a499748359465da566bbe2a1e833d9b93", null ]
+    [ "GroupMgr", "d5/dde/a09875.html", "d5/dde/a09875" ],
+    [ "sGroupMgr", "d1/d56/a04163.html#a9b001b22670103435cf11551af9fa71e", null ]
 ];

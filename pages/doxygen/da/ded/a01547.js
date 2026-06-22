@@ -1,6 +1,5 @@
 var a01547 =
 [
-    [ "RBACCommandData", "d2/d01/a12471.html", "d2/d01/a12471" ],
-    [ "rbac_commandscript", "df/ded/a12475.html", "df/ded/a12475" ],
-    [ "AddSC_rbac_commandscript", "da/ded/a01547.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
+    [ "spellinfo_commandscript", "df/daf/a12503.html", "df/daf/a12503" ],
+    [ "AddSC_spellinfo_commandscript", "da/ded/a01547.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

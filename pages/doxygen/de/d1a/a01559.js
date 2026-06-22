@@ -1,5 +1,5 @@
 var a01559 =
 [
-    [ "honor_commandscript", "d4/d84/a12363.html", "d4/d84/a12363" ],
-    [ "AddSC_honor_commandscript", "de/d1a/a01559.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
+    [ "player_settings_commandscript", "dc/d13/a12447.html", "dc/d13/a12447" ],
+    [ "AddSC_player_settings_commandscript", "de/d1a/a01559.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

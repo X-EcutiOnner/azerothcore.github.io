@@ -1,6 +1,7 @@
 var a16347 =
 [
-    [ "FilterTargets", "de/d2e/a16347.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "de/d2e/a16347.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "de/d2e/a16347.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "HandleEffectRemove", "de/d2e/a16347.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "de/d2e/a16347.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "de/d2e/a16347.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "de/d2e/a16347.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

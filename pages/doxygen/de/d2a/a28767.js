@@ -1,9 +1,7 @@
 var a28767 =
 [
-    [ "HolidayWorldStateId", "de/d2a/a28767.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "de/d2a/a28767.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "de/d2a/a28767.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "de/d2a/a28767.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "de/d2a/a28767.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "de/d2a/a28767.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "cutPercent", "de/d2a/a28767.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "de/d2a/a28767.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "de/d2a/a28767.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "de/d2a/a28767.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

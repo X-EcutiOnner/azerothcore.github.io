@@ -1,6 +1,8 @@
 var a01481 =
 [
-    [ "npc_suns_reach_reclamation", "d1/d97/a28431.html", "d1/d97/a28431" ],
-    [ "npc_sunwell_gate", "d9/d80/a28435.html", "d9/d80/a28435" ],
-    [ "AddSC_suns_reach_reclamation", "d1/de4/a01481.html#ae3e186d64e39803c404f1afb2144557b", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d3/d76/a28375.html", "d3/d76/a28375" ],
+    [ "ApprenticeAnglerQuestEnum", "d1/de4/a01481.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d1/de4/a01481.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
+    ] ],
+    [ "AddSC_player_scripts", "d1/de4/a01481.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

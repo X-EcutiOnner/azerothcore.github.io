@@ -1,8 +1,5 @@
 var a27759 =
 [
-    [ "CharacterActionIpLogger", "df/d04/a27759.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "df/d04/a27759.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "df/d04/a27759.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "df/d04/a27759.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "df/d04/a27759.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "df/d04/a27759.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "df/d04/a27759.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

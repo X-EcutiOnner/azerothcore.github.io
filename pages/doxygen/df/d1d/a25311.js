@@ -1,7 +1,7 @@
 var a25311 =
 [
-    [ "HandleProc", "df/d1d/a25311.html#a38baf45ac31e2813316c4c22c2db59ec", null ],
-    [ "PrepareAuraScript", "df/d1d/a25311.html#a3704981effea17b2c513f139a892c37c", null ],
-    [ "Register", "df/d1d/a25311.html#a4d24566853a3a73f9ec215167f2bb401", null ],
-    [ "Validate", "df/d1d/a25311.html#a457f28f8b0bab915dd9e65534ce80b87", null ]
+    [ "HandleScript", "df/d1d/a25311.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
+    [ "PrepareSpellScript", "df/d1d/a25311.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
+    [ "Register", "df/d1d/a25311.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
+    [ "Validate", "df/d1d/a25311.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
 ];

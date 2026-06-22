@@ -1,43 +1,30 @@
 var a04238 =
 [
-    [ "npc_lord_gregor_lescovar", "d7/de6/a13990.html", "d7/de6/a13990" ],
-    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "d1/d38/a13994.html", "d1/d38/a13994" ],
-    [ "npc_marzon_silent_blade", "d8/da5/a13998.html", "d8/da5/a13998" ],
-    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d8/dfe/a14002.html", "d8/dfe/a14002" ],
-    [ "npc_tyrion_spybot", "d8/d47/a14006.html", "d8/d47/a14006" ],
-    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "d7/d3f/a14010.html", "d7/d3f/a14010" ],
-    [ "npc_tyrion", "d8/da9/a14014.html", "d8/da9/a14014" ],
-    [ "npc_king_varian_wrynn", "dd/d8f/a14018.html", "dd/d8f/a14018" ],
-    [ "KingVarianWrynn", "d0/dd6/a04238.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
-      [ "QUEST_WHERE_KINGS_WALK", "d0/dd6/a04238.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
+    [ "LanguageType", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34", [
+      [ "LT_BASIC_LATIN", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34ab693cfd22bb1894887b280b4d51ea3f5", null ],
+      [ "LT_EXTENDEN_LATIN", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34a42315588f1a9e4d3e29a1b49e7d973b8", null ],
+      [ "LT_CYRILLIC", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34aef4a14b5eb73e84982c14ba00e70b402", null ],
+      [ "LT_EAST_ASIA", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34aa059d83464c94afd9e5a7257238efa40", null ],
+      [ "LT_ANY", "d0/dd6/a04238.html#ada735c6d6b04a8714b2751f0c4053e34a400f6aeeb5f21442c121cccfda55689c", null ]
     ] ],
-    [ "LordGregorLescovar", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7", [
-      [ "SAY_GUARD_2", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
-      [ "SAY_LESCOVAR_2", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
-      [ "SAY_LESCOVAR_3", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
-      [ "SAY_LESCOVAR_4", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
-      [ "SAY_MARZON_1", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
-      [ "SAY_MARZON_2", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
-      [ "SAY_TYRION_2", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
-      [ "NPC_STORMWIND_ROYAL", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
-      [ "NPC_MARZON_BLADE", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
-      [ "NPC_TYRION", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
-      [ "QUEST_THE_ATTACK", "d0/dd6/a04238.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
-    ] ],
-    [ "Tyrion", "d0/dd6/a04238.html#affa30c579e72ac17979d6590547e9cde", [
-      [ "NPC_TYRION_SPYBOT", "d0/dd6/a04238.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
-    ] ],
-    [ "TyrionSpybot", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82", [
-      [ "SAY_QUEST_ACCEPT_ATTACK", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
-      [ "SAY_SPYBOT_1", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
-      [ "SAY_SPYBOT_2", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
-      [ "SAY_SPYBOT_3", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
-      [ "SAY_SPYBOT_4", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
-      [ "SAY_TYRION_1", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
-      [ "SAY_GUARD_1", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
-      [ "SAY_LESCOVAR_1", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
-      [ "NPC_PRIESTESS_TYRIONA", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
-      [ "NPC_LORD_GREGOR_LESCOVAR", "d0/dd6/a04238.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
-    ] ],
-    [ "AddSC_stormwind_city", "d0/dd6/a04238.html#ac865e7add4724f06be48735f6bf1a542", null ]
+    [ "CheckAndFixGOChairHeightId", "d0/dd6/a04238.html#a4fb11f3d6b7a6d3bd9bf49578906fc10", null ],
+    [ "CheckGOConsumable", "d0/dd6/a04238.html#a9be9514be7df6dd6a73a9b3889eccb7c", null ],
+    [ "CheckGOLinkedTrapId", "d0/dd6/a04238.html#aa667048b6811121b380981beec1541fd", null ],
+    [ "CheckGOLockId", "d0/dd6/a04238.html#abc01124dd1fecdf98bbe1948541557b0", null ],
+    [ "CheckGONoDamageImmuneId", "d0/dd6/a04238.html#a288e20914d793779cf9f2bfd9951b812", null ],
+    [ "CheckGOSpellId", "d0/dd6/a04238.html#a288fa8c196f7adce5d43050849366b84", null ],
+    [ "GetLanguageDescByID", "d0/dd6/a04238.html#a5e723b66ad85198f3b0625903f5edac6", null ],
+    [ "GetRealmLanguageType", "d0/dd6/a04238.html#a1d95dafadc9b3a7d7bc91fa7f188d464", null ],
+    [ "GetScriptCommandName", "d0/dd6/a04238.html#a46371802334fe0589dc4f2b065b590e5", null ],
+    [ "GetScriptsMapByType", "d0/dd6/a04238.html#a34339a53afbec181844cc9d936d1d9a2", null ],
+    [ "GetScriptsTableNameByType", "d0/dd6/a04238.html#acc60b4b0ead06280f2b3289f8da57cb9", null ],
+    [ "GetSkillRangeType", "d0/dd6/a04238.html#a2e3e576d2e15a5033a24dec106b42453", null ],
+    [ "isValidString", "d0/dd6/a04238.html#a4f5a667f6078863c869b5c92387532fa", null ],
+    [ "normalizePlayerName", "d0/dd6/a04238.html#af55111c173fd16ba2898f3046dfa3d9a", null ],
+    [ "lang_description", "d0/dd6/a04238.html#a04765c27af649777907160e1147fb8fa", null ],
+    [ "qualityToBuyValueConfig", "d0/dd6/a04238.html#aa622a06edade2e3d18da67881d15918c", null ],
+    [ "qualityToSellValueConfig", "d0/dd6/a04238.html#a774395755c07e6b3831e37e1f8448844", null ],
+    [ "sEventScripts", "d0/dd6/a04238.html#a99fc90e0f89dbe2684b6563324d8c23b", null ],
+    [ "sSpellScripts", "d0/dd6/a04238.html#a3c2a9c06ca944c1ce8c2f02692bda619", null ],
+    [ "sWaypointScripts", "d0/dd6/a04238.html#ad3bd41d0f54f2baa59f94e7fb1b426d1", null ]
 ];

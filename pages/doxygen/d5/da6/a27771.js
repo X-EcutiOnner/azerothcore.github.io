@@ -1,5 +1,8 @@
 var a27771 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "d5/da6/a27771.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "d5/da6/a27771.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "CharacterActionIpLogger", "d5/da6/a27771.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "d5/da6/a27771.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "d5/da6/a27771.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "d5/da6/a27771.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "d5/da6/a27771.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

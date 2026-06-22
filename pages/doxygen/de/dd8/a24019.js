@@ -1,8 +1,6 @@
 var a24019 =
 [
-    [ "npc_kservantAI", "de/dd8/a24019.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "de/dd8/a24019.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "de/dd8/a24019.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "de/dd8/a24019.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "de/dd8/a24019.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "CheckRequirement", "de/dd8/a24019.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "de/dd8/a24019.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "de/dd8/a24019.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

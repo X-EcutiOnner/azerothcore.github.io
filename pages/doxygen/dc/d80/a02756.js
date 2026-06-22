@@ -1,10 +1,6 @@
 var a02756 =
 [
-    [ "EnchStoreItem", "d5/d41/a08679.html", "d5/d41/a08679" ],
-    [ "EnchantmentStore", "dc/d80/a02756.html#ab462bc366dd954f1c0b539c408b74c01", null ],
-    [ "EnchStoreList", "dc/d80/a02756.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
-    [ "GenerateEnchSuffixFactor", "dc/d80/a02756.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "dc/d80/a02756.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "dc/d80/a02756.html#a376fabf7bba54eaf928217f860f1c33b", null ],
-    [ "RandomItemEnch", "dc/d80/a02756.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
+    [ "AddItemsSetItem", "dc/d80/a02756.html#a02944420353f8ba883b80737f8e63137", null ],
+    [ "ItemCanGoIntoBag", "dc/d80/a02756.html#a0c91640134a5241ec34f91bdec13c8ec", null ],
+    [ "RemoveItemsSetItem", "dc/d80/a02756.html#a402c3dd64769702b750f96adff4b3a14", null ]
 ];

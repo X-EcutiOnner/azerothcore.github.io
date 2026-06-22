@@ -1,14 +1,8 @@
 var a28159 =
 [
-    [ "npc_preciousAI", "d1/d34/a28159.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d1/d34/a28159.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "GetData", "d1/d34/a28159.html#a91c93f8d58501b705809653639ec05d1", null ],
-    [ "InitializeAI", "d1/d34/a28159.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d1/d34/a28159.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d1/d34/a28159.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d1/d34/a28159.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "SetData", "d1/d34/a28159.html#a2246203bca5b716852abd631320b790c", null ],
-    [ "UpdateAI", "d1/d34/a28159.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d1/d34/a28159.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d1/d34/a28159.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_artoriusAI", "db/dd3/a28163.html", "db/dd3/a28163" ],
+    [ "npc_artorius", "d1/d34/a28159.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "d1/d34/a28159.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "d1/d34/a28159.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "d1/d34/a28159.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

@@ -1,5 +1,5 @@
 var a01496 =
 [
-    [ "HandleLearnSpellCommand", "d1/dde/a01496.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d1/dde/a01496.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "item_commandscript", "d9/d86/a12379.html", "d9/d86/a12379" ],
+    [ "AddSC_item_commandscript", "d1/dde/a01496.html#ad129450eb89b9c3e5c98717b2c44de8e", null ]
 ];

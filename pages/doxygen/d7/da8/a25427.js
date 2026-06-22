@@ -1,6 +1,9 @@
 var a25427 =
 [
-    [ "HandleStackDrop", "d7/da8/a25427.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "d7/da8/a25427.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "d7/da8/a25427.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "CheckProc", "d7/da8/a25427.html#a05a15654fd3c6175b59ab18197fc3c77", null ],
+    [ "HandleProc", "d7/da8/a25427.html#a5345da73b9c4c9fe4ae5d272e3574955", null ],
+    [ "OnRemove", "d7/da8/a25427.html#a27b1b744d88b4c870c0baa0b8f88317f", null ],
+    [ "PrepareAuraScript", "d7/da8/a25427.html#a2e13f63459342fb749594f7fbb517c80", null ],
+    [ "Register", "d7/da8/a25427.html#a6fc9a3945a736ba4a62ad754090d8525", null ],
+    [ "Validate", "d7/da8/a25427.html#a008ec43da50deb568ec453e992f89887", null ]
 ];

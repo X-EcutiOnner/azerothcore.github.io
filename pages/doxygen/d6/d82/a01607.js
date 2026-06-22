@@ -1,5 +1,6 @@
 var a01607 =
 [
-    [ "gm_commandscript", "de/ddf/a12343.html", "de/ddf/a12343" ],
-    [ "AddSC_gm_commandscript", "d6/d82/a01607.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
+    [ "character_commandscript", "d0/d0c/a12307.html", "d0/d0c/a12307" ],
+    [ "character_commandscript::DeletedInfo", "d3/d34/a12311.html", "d3/d34/a12311" ],
+    [ "AddSC_character_commandscript", "d6/d82/a01607.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

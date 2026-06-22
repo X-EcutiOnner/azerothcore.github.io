@@ -1,9 +1,10 @@
 var a08963 =
 [
-    [ "PendingSpellCastRequest", "dc/d26/a08963.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
-    [ "cancelInProgress", "dc/d26/a08963.html#a726b6e423b23f8c12c65e07809462ad1", null ],
-    [ "category", "dc/d26/a08963.html#a51a702f257b784dac4556397dd1c0be4", null ],
-    [ "isItem", "dc/d26/a08963.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
-    [ "requestPacket", "dc/d26/a08963.html#a6ee868c6161e49dc8774ab357f313116", null ],
-    [ "spellId", "dc/d26/a08963.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
+    [ "TradeStatusInfo", "dc/d26/a08963.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "dc/d26/a08963.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "dc/d26/a08963.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "dc/d26/a08963.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "dc/d26/a08963.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "dc/d26/a08963.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "dc/d26/a08963.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

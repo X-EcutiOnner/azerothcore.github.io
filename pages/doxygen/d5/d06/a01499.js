@@ -1,5 +1,5 @@
 var a01499 =
 [
-    [ "quest_commandscript", "d1/dc8/a12467.html", "d1/dc8/a12467" ],
-    [ "AddSC_quest_commandscript", "d5/d06/a01499.html#ae9edb5f21eaacbfd73cc01543cb2fcdd", null ]
+    [ "HandleLearnSpellCommand", "d5/d06/a01499.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "d5/d06/a01499.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

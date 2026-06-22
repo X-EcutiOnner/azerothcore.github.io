@@ -1,6 +1,10 @@
 var a23807 =
 [
-    [ "go_beaconAI", "d3/db5/a23811.html", "d3/db5/a23811" ],
-    [ "go_beacon", "d1/db4/a23807.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d1/db4/a23807.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_wounded_blood_elfAI", "d1/db4/a23807.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d1/db4/a23807.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d1/db4/a23807.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d1/db4/a23807.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d1/db4/a23807.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d1/db4/a23807.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "d1/db4/a23807.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

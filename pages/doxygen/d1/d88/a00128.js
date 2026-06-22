@@ -1,13 +1,8 @@
 var a00128 =
 [
-    [ "GameObjectSummonGroupTest", "d1/def/a29551.html", "d1/def/a29551" ],
-    [ "TEST_F", "d1/d88/a00128.html#a853ab9b01e00d9b9106d0802d3ce5c3f", null ],
-    [ "TEST_F", "d1/d88/a00128.html#aae7159cdf8db068232caa791b826eb7a", null ],
-    [ "TEST_F", "d1/d88/a00128.html#ab7d11f87ee9e631646024c59d17e4476", null ],
-    [ "TEST_F", "d1/d88/a00128.html#a67cd5610a4da8f7101009bd9c59bc82e", null ],
-    [ "TEST_F", "d1/d88/a00128.html#acfeec4740011bc0a61ca33d9e41a00d6", null ],
-    [ "TEST_F", "d1/d88/a00128.html#a23d5442e6e9d8a8eb8b81d8c594dcb44", null ],
-    [ "TEST_F", "d1/d88/a00128.html#a6b4d8d5065242a959f3b761c930eb11f", null ],
-    [ "TEST_F", "d1/d88/a00128.html#a0e990a163a2003f6224aa808aeb46965", null ],
-    [ "TEST_F", "d1/d88/a00128.html#a54823c95da2a0c478c7fc82bafb5075e", null ]
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "d4/d46/a29543.html", "d4/d46/a29543" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestPlayer", "d6/d59/a29547.html", "d6/d59/a29547" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d1/def/a29551.html", "d1/def/a29551" ],
+    [ "TEST_F", "d1/d88/a00128.html#ab69ef1935950dc8de0cefd60510d681d", null ],
+    [ "TEST_F", "d1/d88/a00128.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
 ];

@@ -1,36 +1,31 @@
 var a01406 =
 [
-    [ "npc_bunthen_plainswind", "d9/da4/a15923.html", "d9/da4/a15923" ],
-    [ "npc_silva_filnaveth", "db/de4/a15927.html", "db/de4/a15927" ],
-    [ "npc_clintar_spirit", "d1/d5c/a15931.html", "d1/d5c/a15931" ],
-    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d6/dbb/a15935.html", "d6/dbb/a15935" ],
-    [ "npc_omen", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
-    [ "npc_omen::npc_omenAI", "d3/d81/a15943.html", "d3/d81/a15943" ],
-    [ "npc_giant_spotlight", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
-    [ "npc_giant_spotlight::npc_giant_spotlightAI", "dd/d8d/a15951.html", "dd/d8d/a15951" ],
-    [ "Bunthen", "dc/d25/a01406.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
-      [ "QUEST_SEA_LION_HORDE", "dc/d25/a01406.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
-      [ "QUEST_SEA_LION_ALLY", "dc/d25/a01406.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
-      [ "TAXI_PATH_ID_ALLY", "dc/d25/a01406.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
-      [ "TAXI_PATH_ID_HORDE", "dc/d25/a01406.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
+    [ "npcs_riverbreeze_and_silversky", "dc/dde/a15915.html", "dc/dde/a15915" ],
+    [ "at_ancient_leaf", "d1/d5c/a15919.html", "d1/d5c/a15919" ],
+    [ "AncientMisc", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068", [
+      [ "QUEST_ANCIENT_LEAF", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068aa825be5f41ad67f6007d3509e9bb87e3", null ],
+      [ "NPC_VARTRUS", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068aa3648d60ebaeb2cef5c0578018150e99", null ],
+      [ "NPC_STOMA", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068ab30f7bd203d11ff87b0030b3578a5e81", null ],
+      [ "NPC_HASTAT", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068acc6ef71bcba7f2d82bc3164636733e04", null ],
+      [ "CREATURE_GROUP_ANCIENTS", "dc/d25/a01406.html#adaffe09a7c2b9f9bfdc48d5068c18068a929e77d337e49edf4de033ddb8ccf149", null ]
     ] ],
-    [ "ClintarSpirit", "dc/d25/a01406.html#af06e96ced22feb1885564950e05417a2", [
-      [ "ASPECT_RAVEN", "dc/d25/a01406.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
-      [ "CLINTAR_SPIRIT_SAY_START", "dc/d25/a01406.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    [ "RiverbreezeAndSilversky", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427", [
+      [ "SPELL_CENARION_BEACON", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427aefb9fe5d61b5fc5b810f077e47334d49", null ],
+      [ "ITEM_CENARION_BEACON", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a677781938bceb63690d56c2e2c445f46", null ],
+      [ "ACTION_CREATE_CENARION_BEACON", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427acc340298bf9880e22b326c208affb4a1", null ],
+      [ "NPC_ARATHANDRIS_SILVERSKY", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a15af7b53355112caefafe032f27b15d6", null ],
+      [ "NPC_MAYBESS_RIVERBREEZE", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a3362be702aaaa11f11e1df72d0a8e149", null ],
+      [ "QUEST_CLEASING_FELWOOD_A", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427ab52d337e733144a5a21fce9825f80fff", null ],
+      [ "QUEST_CLEASING_FELWOOD_H", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a24da8ad4e5cec47c9a66a1e03e07383f", null ],
+      [ "GOSSIP_MENU_SILVERSKY", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a201df035f33936e3020580c82101e7f8", null ],
+      [ "GOSSIP_MENU_RIVERBREEZE", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427ac00e8bf57bf7a4be3444d02de30309dc", null ],
+      [ "GOSSIP_OPTION_BEACON", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a0999bd0707a4dbe03c5715081af725e1", null ],
+      [ "TEXT_SILVERSKY_1", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a3148f1367e563486599162f32be4af21", null ],
+      [ "TEXT_SILVERSKY_2", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a62011283d742f7947270994268e055de", null ],
+      [ "TEXT_SILVERSKY_3", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427af033b1f55bfbe0ccfd66cd1df7b50289", null ],
+      [ "TEXT_RIVERBREEZE_1", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427ac53b44e51816fbef84a98123a317125e", null ],
+      [ "TEXT_RIVERBREEZE_2", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a06658a3d493565d3f8a42555e037fa40", null ],
+      [ "TEXT_RIVERBREEZE_3", "dc/d25/a01406.html#acc75d54553750c832fe50b6cb0c42427a1d15502f6a496af4174cb3c5960818b5", null ]
     ] ],
-    [ "Omen", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793", [
-      [ "NPC_OMEN", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
-      [ "SPELL_OMEN_CLEAVE", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
-      [ "SPELL_OMEN_STARFALL", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
-      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
-      [ "SPELL_ELUNE_CANDLE", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
-      [ "GO_ELUNE_TRAP_1", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
-      [ "GO_ELUNE_TRAP_2", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
-      [ "EVENT_CAST_CLEAVE", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
-      [ "EVENT_CAST_STARFALL", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
-      [ "EVENT_DESPAWN", "dc/d25/a01406.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
-    ] ],
-    [ "AddSC_moonglade", "dc/d25/a01406.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
-    [ "AspectRavenSummon", "dc/d25/a01406.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
-    [ "Clintar_spirit_WP", "dc/d25/a01406.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
+    [ "AddSC_felwood", "dc/d25/a01406.html#a63ae28c9f250057b35a18fb585c6a2cf", null ]
 ];

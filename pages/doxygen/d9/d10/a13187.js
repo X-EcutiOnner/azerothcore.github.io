@@ -1,5 +1,5 @@
 var a13187 =
 [
-    [ "at_karazhan_mirkblood_entrance", "d9/d10/a13187.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "d9/d10/a13187.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "at_karazhan_mirkblood_approach", "d9/d10/a13187.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d9/d10/a13187.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

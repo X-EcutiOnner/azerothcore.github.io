@@ -1,5 +1,6 @@
 var a06531 =
 [
-    [ "Effects", "d5/d96/a06531.html#a7ae062fbfacc6d848f5570a3bae3230f", null ],
-    [ "Targets", "d5/d96/a06531.html#a390ced58f1c1981c05cc2aec32a4d579", null ]
+    [ "GameObjectAIFactory", "d5/d96/a06531.html#a2f658540a81d207694b6d2d783009380", null ],
+    [ "Create", "d5/d96/a06531.html#a94fa057baafbbad4b81b97aea34354a3", null ],
+    [ "Permit", "d5/d96/a06531.html#ae8b7e45a73f87249e27a4dae596b0d52", null ]
 ];

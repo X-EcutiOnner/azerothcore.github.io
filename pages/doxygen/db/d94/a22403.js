@@ -1,8 +1,6 @@
 var a22403 =
 [
-    [ "npc_anzu_spirit", "db/d94/a22403.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "db/d94/a22403.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "db/d94/a22403.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "db/d94/a22403.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "db/d94/a22403.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d8/dd2/a22407.html", "d8/dd2/a22407" ],
+    [ "instance_mana_tombs", "db/d94/a22403.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "db/d94/a22403.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

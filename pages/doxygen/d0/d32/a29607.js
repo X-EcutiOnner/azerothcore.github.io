@@ -1,4 +1,5 @@
 var a29607 =
 [
-    [ "SetUp", "d0/d32/a29607.html#a3435d06dcb74c39719a1b141bd50cb23", null ]
+    [ "aura", "d0/d32/a29607.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "d0/d32/a29607.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

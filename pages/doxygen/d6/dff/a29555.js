@@ -1,9 +1,6 @@
 var a29555 =
 [
-    [ "CountQuestOnCreature", "d6/dff/a29555.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d6/dff/a29555.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d6/dff/a29555.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d6/dff/a29555.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d6/dff/a29555.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d6/dff/a29555.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "ExpectDate", "d6/dff/a29555.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
+    [ "IsLeapYear", "d6/dff/a29555.html#af80c133dce034eed150593681fba594d", null ],
+    [ "IsValidDate", "d6/dff/a29555.html#af1ee91196bfb749605bf98f4441a03a4", null ]
 ];

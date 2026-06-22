@@ -1,22 +1,18 @@
 var a02363 =
 [
-    [ "ScriptPointMove", "d4/d87/a10798.html", "d4/d87/a10798" ],
-    [ "SystemMgr", "d3/d9a/a10802.html", "d3/d9a/a10802" ],
-    [ "sScriptSystemMgr", "d9/d27/a02363.html#a95cfdf568913b08b669f19b401f888a7", null ],
-    [ "TEXT_SOURCE_RANGE", "d9/d27/a02363.html#a55d384db121a9bd513042ebdeb40e602", null ],
-    [ "ScriptPointVector", "d9/d27/a02363.html#aab50bb2bd1f4c2c015d1ed573408733a", null ],
-    [ "eEscortFaction", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476", [
-      [ "FACTION_ESCORT_A_NEUTRAL_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476ae8f5cc64dc2681d7820b83cf2706b6d9", null ],
-      [ "FACTION_ESCORT_H_NEUTRAL_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476a76f714900c0c47ea2066410f61de6bea", null ],
-      [ "FACTION_ESCORT_N_NEUTRAL_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476a19efd80bb177a094d312d3ad2c957e54", null ],
-      [ "FACTION_ESCORT_A_NEUTRAL_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476a38e0e3e6e5620e31120d084e73b63cf1", null ],
-      [ "FACTION_ESCORT_H_NEUTRAL_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476aa2786ec02fa5514ae8d0091a51d8dd04", null ],
-      [ "FACTION_ESCORT_N_NEUTRAL_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476aed8fe9002c1d3c315038f7df31c6f7ae", null ],
-      [ "FACTION_ESCORT_N_FRIEND_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476aac0cf8b8049ca4f1750637f7eaa1d96b", null ],
-      [ "FACTION_ESCORT_N_FRIEND_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476af9b814fa1617dc2a10a9764234998470", null ],
-      [ "FACTION_ESCORT_A_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476a569c2ddb2269af72a41a1a3cd525b013", null ],
-      [ "FACTION_ESCORT_H_PASSIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476ad766637f2bae4d1bbb75b2ac4ffd7e73", null ],
-      [ "FACTION_ESCORT_N_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476a088789de59f359faa6e7270fbc3282cb", null ],
-      [ "FACTION_ESCORT_H_ACTIVE", "d9/d27/a02363.html#a3c2424ea523bc5d5e44a7fa49a67f476aa84d311b43a21c70f8891649f42f48cb", null ]
-    ] ]
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, typename >", "d6/d92/a07935.html", null ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_integral_v< T >||std::is_floating_point_v< T > > >", "d0/d73/a07939.html", "d0/d73/a07939" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string_view, void >", "df/dbb/a07943.html", "df/dbb/a07943" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::string, void >", "db/d5b/a07947.html", "db/d5b/a07947" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::wstring, void >", "da/d68/a07951.html", "da/d68/a07951" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_enum_v< T > > >", "d6/d79/a07955.html", "d6/d79/a07955" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "db/d36/a07959.html", "db/d36/a07959" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::vector< T >, void >", "d7/dbd/a07963.html", "d7/dbd/a07963" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< std::array< T, N >, void >", "da/d4d/a07967.html", "da/d4d/a07967" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Acore::ChatCommands::Variant< Ts... > >", "dc/d86/a07971.html", "dc/d86/a07971" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< AchievementEntry const * >", "d5/d12/a07975.html", "d5/d12/a07975" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< GameTele const * >", "d5/ddf/a07979.html", "d5/ddf/a07979" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< ItemTemplate const * >", "de/d8a/a07983.html", "de/d8a/a07983" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< SpellInfo const * >", "de/d30/a07987.html", "de/d30/a07987" ],
+    [ "Acore::Impl::ChatCommands::ArgInfo< Quest const * >", "dc/d3a/a07991.html", "dc/d3a/a07991" ]
 ];

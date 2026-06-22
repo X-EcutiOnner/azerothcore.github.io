@@ -1,6 +1,7 @@
 var a06219 =
 [
-    [ "CheckExecutable", "d9/d20/a06219.html#a65cf44a18a72ba92f91a667e41f9da80", null ],
-    [ "corrected_path", "d9/d20/a06219.html#a31499b458f0ff0ec518980f51d6a242a", null ],
-    [ "GetCorrectedMySQLExecutable", "d9/d20/a06219.html#a8ab8efffe5408f97f438e06766f65ec9", null ]
+    [ "UpdateException", "d9/d20/a06219.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "d9/d20/a06219.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "d9/d20/a06219.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "d9/d20/a06219.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

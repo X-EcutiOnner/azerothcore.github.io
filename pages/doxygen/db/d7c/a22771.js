@@ -1,7 +1,7 @@
 var a22771 =
 [
-    [ "HandleOnHit", "db/d7c/a22771.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "db/d7c/a22771.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "db/d7c/a22771.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "db/d7c/a22771.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "CalculateAmount", "db/d7c/a22771.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "db/d7c/a22771.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "db/d7c/a22771.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "db/d7c/a22771.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

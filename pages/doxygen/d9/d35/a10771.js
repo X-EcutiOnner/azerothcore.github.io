@@ -1,7 +1,11 @@
 var a10771 =
 [
-    [ "SpellScriptLoader", "d9/d35/a10771.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d9/d35/a10771.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d9/d35/a10771.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d9/d35/a10771.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "ServerScript", "d9/d35/a10771.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "d9/d35/a10771.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "d9/d35/a10771.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "d9/d35/a10771.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "d9/d35/a10771.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "d9/d35/a10771.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d9/d35/a10771.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "d9/d35/a10771.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

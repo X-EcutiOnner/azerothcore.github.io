@@ -1,10 +1,10 @@
 var a10579 =
 [
-    [ "Flags", "d4/d3b/a10579.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d4/d3b/a10579.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d4/d3b/a10579.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d4/d3b/a10579.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d4/d3b/a10579.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d4/d3b/a10579.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d4/d3b/a10579.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "QuestStatusData", "d4/d3b/a10579.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "d4/d3b/a10579.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "d4/d3b/a10579.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "d4/d3b/a10579.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "d4/d3b/a10579.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "d4/d3b/a10579.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "d4/d3b/a10579.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

@@ -1,55 +1,23 @@
 var a03725 =
 [
-    [ "BattlegroundDS", "d6/da1/a07723.html", "d6/da1/a07723" ],
-    [ "BattlegroundDSCreatures", "d0/d69/a03725.html#a239235ff6a77dc70519faae59c868202", [
-      [ "BG_DS_NPC_TYPE_WATER_SPOUT", "d0/d69/a03725.html#a239235ff6a77dc70519faae59c868202ad40b08b0df1abb642f3f0caf18301171", null ]
+    [ "BattlegroundNA", "db/dba/a07779.html", "db/dba/a07779" ],
+    [ "BattlegroundNAGameObjects", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9", [
+      [ "BG_NA_OBJECT_TYPE_DOOR_1", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_2", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_3", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5", null ],
+      [ "BG_NA_OBJECT_TYPE_DOOR_4", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_1", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96", null ],
+      [ "BG_NA_OBJECT_TYPE_BUFF_2", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c", null ]
     ] ],
-    [ "BattlegroundDSCreatureTypes", "d0/d69/a03725.html#aca2990bbe9b2261c7f9f9761c063c3f4", [
-      [ "BG_DS_NPC_WATERFALL_KNOCKBACK", "d0/d69/a03725.html#aca2990bbe9b2261c7f9f9761c063c3f4a79cd4de05b72abd60374190c7802850a", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_1", "d0/d69/a03725.html#aca2990bbe9b2261c7f9f9761c063c3f4a499e73119219ab047050066925863cbf", null ],
-      [ "BG_DS_NPC_PIPE_KNOCKBACK_2", "d0/d69/a03725.html#aca2990bbe9b2261c7f9f9761c063c3f4a0f7c473d66f71a2692f1a7b5e1c110b4", null ],
-      [ "BG_DS_NPC_MAX", "d0/d69/a03725.html#aca2990bbe9b2261c7f9f9761c063c3f4aea764dbeaf590cb06750d0b4146c581a", null ]
-    ] ],
-    [ "BattlegroundDSData", "d0/d69/a03725.html#aa31b86760427e7e9348ef8bf69da141c", [
-      [ "BG_DS_PIPE_KNOCKBACK_FIRST_DELAY", "d0/d69/a03725.html#aa31b86760427e7e9348ef8bf69da141cabbf10d8eecab52ccb852376f82fd018d", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_DELAY", "d0/d69/a03725.html#aa31b86760427e7e9348ef8bf69da141ca35f8577eea8f26daf33a3dd21e2231b5", null ],
-      [ "BG_DS_PIPE_KNOCKBACK_TOTAL_COUNT", "d0/d69/a03725.html#aa31b86760427e7e9348ef8bf69da141cafa0805e6bb3bad41fe68cd2697758704", null ]
-    ] ],
-    [ "BattlegroundDSEvents", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9", [
-      [ "BG_DS_EVENT_WATERFALL_WARNING", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9a556b41865c0cb90edad807f781c04185", null ],
-      [ "BG_DS_EVENT_WATERFALL_ON", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9a146cc864281f18ab4b717202919f44ce", null ],
-      [ "BG_DS_EVENT_WATERFALL_OFF", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9adb0372ad161febcd2fb2b195e52da56d", null ],
-      [ "BG_DS_EVENT_WATERFALL_KNOCKBACK", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9a90015d0b077cd7e296410208637e46b4", null ],
-      [ "BG_DS_EVENT_PIPE_KNOCKBACK", "d0/d69/a03725.html#a28c190d1bc1cda7ce04873badd8dd1b9a7fed7cfa0547c6e8ceeb5e3453fa6268", null ]
-    ] ],
-    [ "BattlegroundDSGameObjects", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8", [
-      [ "BG_DS_OBJECT_TYPE_DOOR_1", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8a8117a9fd3e3221f5980949e5150fe737", null ],
-      [ "BG_DS_OBJECT_TYPE_DOOR_2", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8a687d200b385c99eca799508a8a3da61d", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_1", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8ae42c0b118aa8e527eabad9d8302c86db", null ],
-      [ "BG_DS_OBJECT_TYPE_WATER_2", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8a90ec16bb076db4028cbf2a5dbb327f1d", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_1", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8a141655234e2fa43143622578cf71ec71", null ],
-      [ "BG_DS_OBJECT_TYPE_BUFF_2", "d0/d69/a03725.html#a71d8aad7096e6f4e538eadab51fc76f8affd7ba30f4f2024dd6429f065d5edb9f", null ]
-    ] ],
-    [ "BattlegroundDSObjectTypes", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6", [
-      [ "BG_DS_OBJECT_DOOR_1", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6a8610bd7f4f1a8e7eb1e9f2429aac5b42", null ],
-      [ "BG_DS_OBJECT_DOOR_2", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6a330db292ad2569c554efbb54f9683a65", null ],
-      [ "BG_DS_OBJECT_WATER_1", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6ad7b7d41afc57c57dfb26c89c33cc6d30", null ],
-      [ "BG_DS_OBJECT_WATER_2", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
-      [ "BG_DS_OBJECT_BUFF_1", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
-      [ "BG_DS_OBJECT_BUFF_2", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_1", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6a2463d4010bc80f717036a5c0980eb00e", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_2", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6aaa0509a954fa3bb165e7a8b021c81720", null ],
-      [ "BG_DS_OBJECT_MAX", "d0/d69/a03725.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
-    ] ],
-    [ "BattlegroundDSSpells", "d0/d69/a03725.html#a41065fade7598429191146de35f52e86", [
-      [ "BG_DS_SPELL_FLUSH", "d0/d69/a03725.html#a41065fade7598429191146de35f52e86a92b5731f68ff7782811d2ed6ecc27d50", null ],
-      [ "BG_DS_SPELL_FLUSH_KNOCKBACK", "d0/d69/a03725.html#a41065fade7598429191146de35f52e86a048190b79973e03b8a950faa2e702817", null ],
-      [ "BG_DS_SPELL_WATER_SPOUT", "d0/d69/a03725.html#a41065fade7598429191146de35f52e86a9fddcfba49dc5538f51c0d537c440f67", null ],
-      [ "SPELL_WARL_DEMONIC_CIRCLE", "d0/d69/a03725.html#a41065fade7598429191146de35f52e86ae21b8d7e5a28c9d4fac00f918d272f71", null ]
-    ] ],
-    [ "BG_DS_WATERFALL_DURATION", "d0/d69/a03725.html#a5ab9e4c80e884fe70b5ec7fa8a804467", null ],
-    [ "BG_DS_WATERFALL_KNOCKBACK_TIMER", "d0/d69/a03725.html#a1b36a98e6aeda4fffe6eb42b5b97d8b9", null ],
-    [ "BG_DS_WATERFALL_TIMER_MAX", "d0/d69/a03725.html#aa60e58163a826a5883866a7acc392a69", null ],
-    [ "BG_DS_WATERFALL_TIMER_MIN", "d0/d69/a03725.html#a42d81786420a8cf7be3391223230530a", null ],
-    [ "BG_DS_WATERFALL_WARNING_DURATION", "d0/d69/a03725.html#ad0d7dc59c1690e15c35f7ba622eb2fef", null ]
+    [ "BattlegroundNAObjectTypes", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffc", [
+      [ "BG_NA_OBJECT_DOOR_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9", null ],
+      [ "BG_NA_OBJECT_DOOR_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f", null ],
+      [ "BG_NA_OBJECT_DOOR_3", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370", null ],
+      [ "BG_NA_OBJECT_DOOR_4", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
+      [ "BG_NA_OBJECT_BUFF_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
+      [ "BG_NA_OBJECT_BUFF_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
+      [ "BG_NA_OBJECT_READY_MARKER_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362", null ],
+      [ "BG_NA_OBJECT_READY_MARKER_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c", null ],
+      [ "BG_NA_OBJECT_MAX", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
+    ] ]
 ];

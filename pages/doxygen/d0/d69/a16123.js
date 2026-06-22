@@ -1,6 +1,6 @@
 var a16123 =
 [
-    [ "npc_cairne_bloodhoofAI", "dc/d3a/a16127.html", "dc/d3a/a16127" ],
-    [ "npc_cairne_bloodhoof", "d0/d69/a16123.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "d0/d69/a16123.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "HandleDummy", "d0/d69/a16123.html#a2750ae788168e7496ea2345c5535509c", null ],
+    [ "PrepareSpellScript", "d0/d69/a16123.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
+    [ "Register", "d0/d69/a16123.html#ab6c961d89d22761402eb4f5881cbd318", null ]
 ];

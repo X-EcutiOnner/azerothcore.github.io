@@ -1,7 +1,7 @@
 var a16383 =
 [
-    [ "HandleScriptEffect", "d8/d47/a16383.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d8/d47/a16383.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d8/d47/a16383.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d8/d47/a16383.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "OnRemove", "d8/d47/a16383.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d8/d47/a16383.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d8/d47/a16383.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d8/d47/a16383.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

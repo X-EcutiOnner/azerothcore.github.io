@@ -1,6 +1,5 @@
 var a19855 =
 [
-    [ "boss_krystallusAI", "dc/d31/a19859.html", "dc/d31/a19859" ],
-    [ "boss_krystallus", "df/de4/a19855.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "df/de4/a19855.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "at_hol_hall_of_watchers", "df/de4/a19855.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "df/de4/a19855.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

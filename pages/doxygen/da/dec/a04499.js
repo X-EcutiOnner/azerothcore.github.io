@@ -1,12 +1,16 @@
 var a04499 =
 [
-    [ "VMAP::VMapMgr2", "dd/d95/a05263.html", "dd/d95/a05263" ],
-    [ "FILENAMEBUFFER_SIZE", "da/dec/a04499.html#aebe91d3f560a4221b135ef03b21a485f", null ],
-    [ "MAP_FILENAME_EXTENSION2", "da/dec/a04499.html#aad39c14e5fae9fd5141df154332ae6fd", null ],
-    [ "DisableTypes", "da/dec/a04499.html#ae6fa86a61cff3bac928739b18ffb8c1b", [
-      [ "VMAP_DISABLE_AREAFLAG", "da/dec/a04499.html#ae6fa86a61cff3bac928739b18ffb8c1ba4fc4dc95e6df57c161e146d8da4b4a19", null ],
-      [ "VMAP_DISABLE_HEIGHT", "da/dec/a04499.html#ae6fa86a61cff3bac928739b18ffb8c1ba2f9e18e9b167ecc25202f607e29af926", null ],
-      [ "VMAP_DISABLE_LOS", "da/dec/a04499.html#ae6fa86a61cff3bac928739b18ffb8c1ba26f8933b26a6ce62d8bddafde8ebb108", null ],
-      [ "VMAP_DISABLE_LIQUIDSTATUS", "da/dec/a04499.html#ae6fa86a61cff3bac928739b18ffb8c1ba191004652b9fbcccb26c14ce81a94cec", null ]
-    ] ]
+    [ "MMAP::NavMeshDeleter", "d4/d19/a05251.html", "d4/d19/a05251" ],
+    [ "MMAP::NavMeshQueryDeleter", "d5/d12/a05255.html", "d5/d12/a05255" ],
+    [ "MMAP::MMapMgr", "d1/d56/a05259.html", "d1/d56/a05259" ],
+    [ "ManagedNavMeshQuery", "da/dec/a04499.html#aa9864ce68a669d59d8baee4cb742900b", null ],
+    [ "MMAP_LOAD_RESULT", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
+      [ "MMAP_LOAD_RESULT_OK", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    ] ],
+    [ "dtCustomAlloc", "da/dec/a04499.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
+    [ "dtCustomFree", "da/dec/a04499.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
+    [ "MAP_FILE_NAME_FORMAT", "da/dec/a04499.html#a1d57d156046bda88886b7488ab0b83bc", null ],
+    [ "TILE_FILE_NAME_FORMAT", "da/dec/a04499.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
 ];

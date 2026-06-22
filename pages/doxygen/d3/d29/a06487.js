@@ -1,10 +1,10 @@
 var a06487 =
 [
-    [ "RangeSelector", "d3/d29/a06487.html#a4a87b90485180ede638e2c9bd2a7e9ed", null ],
-    [ "operator()", "d3/d29/a06487.html#a917f21b135f402210d21e6bb3f19b9fa", null ],
-    [ "_inLos", "d3/d29/a06487.html#a9dcf455d9db8d32aaebfc46eee36e1b5", null ],
-    [ "_maxDist", "d3/d29/a06487.html#a973ec93b54a839f853101ad5998c10b2", null ],
-    [ "_me", "d3/d29/a06487.html#a72ad35c7de0b5d540be27d9a9d46a1d4", null ],
-    [ "_minDist", "d3/d29/a06487.html#ac1ce7a7a7ad6d033972b449867a1c5bf", null ],
-    [ "_playerOnly", "d3/d29/a06487.html#ac68f7dfefe2e71942a3dfff7026a7ae7", null ]
+    [ "PowerUsersSelector", "d3/d29/a06487.html#aa13229f12601a551a34628b92c0eddf3", null ],
+    [ "operator()", "d3/d29/a06487.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
+    [ "_dist", "d3/d29/a06487.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
+    [ "_me", "d3/d29/a06487.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
+    [ "_playerOnly", "d3/d29/a06487.html#aea809984a6dd46c22f414e44c9794309", null ],
+    [ "_power", "d3/d29/a06487.html#a9a518903606768e505e7230fe9344bbf", null ],
+    [ "_withTank", "d3/d29/a06487.html#a0b682b6d926ced8eecff642a4bb51756", null ]
 ];

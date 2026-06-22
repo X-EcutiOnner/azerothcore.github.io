@@ -1,9 +1,6 @@
 var a19163 =
 [
-    [ "npc_icc_severed_essenceAI", "d3/dc7/a19163.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d3/dc7/a19163.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d3/dc7/a19163.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d3/dc7/a19163.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d3/dc7/a19163.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d3/dc7/a19163.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_severed_essenceAI", "d6/d03/a19167.html", "d6/d03/a19167" ],
+    [ "npc_icc_severed_essence", "d3/dc7/a19163.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d3/dc7/a19163.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

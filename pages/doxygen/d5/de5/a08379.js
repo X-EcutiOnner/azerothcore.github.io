@@ -1,5 +1,5 @@
 var a08379 =
 [
-    [ "BoxText", "d5/de5/a08379.html#a00882f98df67222d396ae9992084a1cd", null ],
-    [ "OptionText", "d5/de5/a08379.html#ab69f2dac8061cf8f6762a683243934fa", null ]
+    [ "Name", "d5/de5/a08379.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
+    [ "Title", "d5/de5/a08379.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
 ];

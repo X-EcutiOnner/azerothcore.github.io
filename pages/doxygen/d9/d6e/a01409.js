@@ -1,32 +1,36 @@
 var a01409 =
 [
-    [ "npc_muglash", "d5/d02/a15739.html", "d5/d02/a15739" ],
-    [ "npc_muglash::npc_muglashAI", "d2/d56/a15743.html", "d2/d56/a15743" ],
-    [ "Muglash", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057", [
-      [ "SAY_MUG_START1", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e", null ],
-      [ "SAY_MUG_START2", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1", null ],
-      [ "SAY_MUG_BRAZIER", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5", null ],
-      [ "SAY_MUG_BRAZIER_WAIT", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a", null ],
-      [ "SAY_MUG_ON_GUARD", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8", null ],
-      [ "SAY_MUG_REST", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057acd07a7572fede15eb4c95479b05525ce", null ],
-      [ "SAY_MUG_DONE", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b", null ],
-      [ "SAY_MUG_GRATITUDE", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63", null ],
-      [ "SAY_MUG_PATROL", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10", null ],
-      [ "SAY_MUG_RETURN", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d", null ],
-      [ "QUEST_VORSHA", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0", null ],
-      [ "GO_NAGA_BRAZIER", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab", null ],
-      [ "NPC_WRATH_RIDER", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4", null ],
-      [ "NPC_WRATH_SORCERESS", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff", null ],
-      [ "NPC_WRATH_RAZORTAIL", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203", null ],
-      [ "NPC_WRATH_PRIESTESS", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a", null ],
-      [ "NPC_WRATH_MYRMIDON", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46", null ],
-      [ "NPC_WRATH_SEAWITCH", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494", null ],
-      [ "NPC_VORSHA", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964", null ],
-      [ "NPC_MUGLASH", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057af96a3875f2bb850fcf7901fd8c6e3af7", null ],
-      [ "ACTION_EXTINGUISH_BLAZIER", "d9/d6e/a01409.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9", null ]
+    [ "npc_bunthen_plainswind", "db/de4/a15927.html", "db/de4/a15927" ],
+    [ "npc_silva_filnaveth", "d1/d5c/a15931.html", "d1/d5c/a15931" ],
+    [ "npc_clintar_spirit", "d6/dbb/a15935.html", "d6/dbb/a15935" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d5/d0e/a15939.html", "d5/d0e/a15939" ],
+    [ "npc_omen", "d3/d81/a15943.html", "d3/d81/a15943" ],
+    [ "npc_omen::npc_omenAI", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
+    [ "npc_giant_spotlight", "dd/d8d/a15951.html", "dd/d8d/a15951" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d4/dc9/a15955.html", "d4/dc9/a15955" ],
+    [ "Bunthen", "d9/d6e/a01409.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "d9/d6e/a01409.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "d9/d6e/a01409.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "d9/d6e/a01409.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "d9/d6e/a01409.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "AddSC_ashenvale", "d9/d6e/a01409.html#a5bc25863ec332eb1c8498f84556810c2", null ],
-    [ "FirstNagaCoord", "d9/d6e/a01409.html#a44aaebd71b577ea90de1a8b853f557ed", null ],
-    [ "SecondNagaCoord", "d9/d6e/a01409.html#a2381a800b34807e7f0d47d7b60feb025", null ],
-    [ "VorshaCoord", "d9/d6e/a01409.html#ab15d952fc1bf94911661206ead25b5b1", null ]
+    [ "ClintarSpirit", "d9/d6e/a01409.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "d9/d6e/a01409.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "d9/d6e/a01409.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
+    ] ],
+    [ "Omen", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "d9/d6e/a01409.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "d9/d6e/a01409.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "d9/d6e/a01409.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "d9/d6e/a01409.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

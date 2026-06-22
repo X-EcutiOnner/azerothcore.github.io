@@ -1,4 +1,5 @@
 var a02825 =
 [
-    [ "UpdateMask", "d2/d1d/a08816.html", "d2/d1d/a08816" ]
+    [ "Vehicle", "dc/d3e/a09139.html", "dc/d3e/a09139" ],
+    [ "VehicleDespawnEvent", "d2/d76/a09143.html", "d2/d76/a09143" ]
 ];

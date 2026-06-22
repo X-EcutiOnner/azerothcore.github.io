@@ -1,23 +1,10 @@
 var a08667 =
 [
-    [ "Bag", "d0/df5/a08667.html#ae0593c22c7dd8b32cab469af92fb200c", null ],
-    [ "~Bag", "d0/df5/a08667.html#aac5b94be9c36a9fca542bca3e32260c1", null ],
-    [ "AddToWorld", "d0/df5/a08667.html#a1660f8f1c97cfbb512b1835946e05ea4", null ],
-    [ "BuildCreateUpdateBlockForPlayer", "d0/df5/a08667.html#a680840268e86a6974c2d89d8bd17d338", null ],
-    [ "Create", "d0/df5/a08667.html#a644dbcae3484ba9065f0081457d5084f", null ],
-    [ "DeleteFromDB", "d0/df5/a08667.html#ac1f55a19c69604914ab2f7576d3be016", null ],
-    [ "GetBagSize", "d0/df5/a08667.html#a0888242c34d30adde36a583c7352a339", null ],
-    [ "GetDebugInfo", "d0/df5/a08667.html#a88bd93c16e7b35f299b8b013835d646e", null ],
-    [ "GetFreeSlots", "d0/df5/a08667.html#ad5f4da5a3bc645d29c15651190a41d5e", null ],
-    [ "GetItemByPos", "d0/df5/a08667.html#a80149f0d19426c9f8502713bce59af7e", null ],
-    [ "GetItemCount", "d0/df5/a08667.html#ab4967fad85ab0291fef6bda19a0e7a67", null ],
-    [ "GetItemCountWithLimitCategory", "d0/df5/a08667.html#ae6e6f304dbac50eb9ee6a0628c7cb391", null ],
-    [ "GetSlotByItemGUID", "d0/df5/a08667.html#ad8c47ab6e44c8dd8713d4af4b07a5df4", null ],
-    [ "IsEmpty", "d0/df5/a08667.html#a37797a614a3504571c15047fc9df131d", null ],
-    [ "LoadFromDB", "d0/df5/a08667.html#ae34ce4a4d974410aca8880ee0db1cf18", null ],
-    [ "RemoveFromWorld", "d0/df5/a08667.html#a2cf52acefeda5787376ae93d4679d6e9", null ],
-    [ "RemoveItem", "d0/df5/a08667.html#abc8317240a86c65cc2e7152681e9a5e1", null ],
-    [ "SaveToDB", "d0/df5/a08667.html#a3e7264c06a4249594fbf23d43707f635", null ],
-    [ "StoreItem", "d0/df5/a08667.html#a1765d07e4de76b9b1cf6eccb125143a1", null ],
-    [ "m_bagslot", "d0/df5/a08667.html#ad2fdcedba1dec947bfddfcd55a4d92a0", null ]
+    [ "GameObjectData", "d0/df5/a08667.html#aaef16c60fee2c9c6a309cfe14f02c0fe", null ],
+    [ "animprogress", "d0/df5/a08667.html#aadec9e3088063532fd879fdaad3c3d74", null ],
+    [ "artKit", "d0/df5/a08667.html#a4e5d0f2b99f1bd87aa22c943594ce355", null ],
+    [ "go_state", "d0/df5/a08667.html#ae8c523cb24a55fcde5d8caac3f82dfd5", null ],
+    [ "id", "d0/df5/a08667.html#ae12c8c5e7b3c848a57960e4c51d76e84", null ],
+    [ "rotation", "d0/df5/a08667.html#a81da3cac2ac1a3cf71579b1da6873fe9", null ],
+    [ "spawntimesecs", "d0/df5/a08667.html#a6afeb167bb136c3ddabcc350007788db", null ]
 ];

@@ -1,8 +1,7 @@
 var a05371 =
 [
-    [ "MeshTriangle", "df/d06/a05371.html#af99ecf0b02af73e6727095df1dce8422", null ],
-    [ "MeshTriangle", "df/d06/a05371.html#a36109fc79a9ca9c6bf19959fd1493e60", null ],
-    [ "idx0", "df/d06/a05371.html#aed1048a2b6745215a7b8f70dec378371", null ],
-    [ "idx1", "df/d06/a05371.html#a560bb163f63ff7202aade4d115f31664", null ],
-    [ "idx2", "df/d06/a05371.html#ac939c5e66526c67c067288b9d6484cac", null ]
+    [ "WModelAreaCallback", "df/d06/a05371.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
+    [ "operator()", "df/d06/a05371.html#a8024f924c258932c874c0ac3539d2755", null ],
+    [ "hit", "df/d06/a05371.html#a92b907262a6e2fa630148580da43c612", null ],
+    [ "prims", "df/d06/a05371.html#abe509366e68fff92e07c1aacb90da04f", null ]
 ];

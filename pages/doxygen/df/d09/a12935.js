@@ -1,10 +1,10 @@
 var a12935 =
 [
-    [ "npc_core_rager", "df/d09/a12935.html#a91aec4d96359a88ee8ac70b58353d488", null ],
-    [ "DamageTaken", "df/d09/a12935.html#a7ad38b40dc33a8c875f11c4143bf9786", null ],
-    [ "Reset", "df/d09/a12935.html#a5a565f93e2b60ee0883d740cf751c143", null ],
-    [ "UpdateAI", "df/d09/a12935.html#a17466612b59d94d7f2e157d2b716cfe9", null ],
-    [ "instance", "df/d09/a12935.html#adb63c559f01ac8da42213bb8ddaf9ce0", null ],
-    [ "mangleTimer", "df/d09/a12935.html#a21bb04f15b5ffbfa4ea954922cb917ab", null ],
-    [ "rangeCheckTimer", "df/d09/a12935.html#abac888dc4c885921540ba7107d0bd732", null ]
+    [ "boss_golemagg", "df/d09/a12935.html#ac7a23be0a51bd73b5c5b8215ba31412e", null ],
+    [ "DamageTaken", "df/d09/a12935.html#acf0917a65764074ebb11d51cb537c2f5", null ],
+    [ "Reset", "df/d09/a12935.html#ac663539bac3bcd858dfbfba6095172dd", null ],
+    [ "UpdateAI", "df/d09/a12935.html#aa68a9ff1858591b65ad650c18954bdea", null ],
+    [ "earthquakeTimer", "df/d09/a12935.html#ad581b8e54e08342041886b180c139db0", null ],
+    [ "enraged", "df/d09/a12935.html#a27a5041fcf93a3da6fe2130af24de386", null ],
+    [ "pyroblastTimer", "df/d09/a12935.html#aae54e1e74dd44329af4f66bf26b2e277", null ]
 ];

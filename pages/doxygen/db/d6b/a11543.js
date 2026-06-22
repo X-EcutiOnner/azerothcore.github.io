@@ -1,8 +1,8 @@
 var a11543 =
 [
-    [ "QuestPushResultClient", "db/d6b/a11543.html#a900078368c8626a81dc4718f5aed7b71", null ],
-    [ "Read", "db/d6b/a11543.html#a63dcedbd02a64775a60c45cb2b30eea7", null ],
-    [ "PlayerGuid", "db/d6b/a11543.html#afafc0742bc5d17222b981142fc10a9c5", null ],
-    [ "QuestId", "db/d6b/a11543.html#ada7d9d3d874403ffb3472affb40c0f2b", null ],
-    [ "QuestShareMessage", "db/d6b/a11543.html#a83d8ff8ab8c8e3e883066cc6035ec307", null ]
+    [ "QuestUpdateAddPvPKill", "db/d6b/a11543.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "db/d6b/a11543.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "db/d6b/a11543.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "db/d6b/a11543.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "db/d6b/a11543.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

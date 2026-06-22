@@ -1,52 +1,21 @@
 var a05089 =
 [
-    [ "CommonInitializer", "d0/d0e/a10439.html", "d0/d0e/a10439" ],
-    [ "counter", "d6/d51/a10431.html", "d6/d51/a10431" ],
-    [ "FacingInfo", "da/db4/a10467.html", "da/db4/a10467" ],
-    [ "FallInitializer", "d3/dd8/a10435.html", "d3/dd8/a10435" ],
-    [ "HoverMovementTransform", "d3/d8a/a10459.html", "d3/d8a/a10459" ],
-    [ "Location", "d3/d4e/a10443.html", "d3/d4e/a10443" ],
-    [ "MoveSpline", "dc/d17/a10447.html", "dc/d17/a10447" ],
-    [ "MoveSplineFlag", "da/ddd/a10451.html", "da/ddd/a10451" ],
-    [ "MoveSplineInit", "de/d6e/a10463.html", "de/d6e/a10463" ],
-    [ "MoveSplineInitArgs", "d3/d82/a10475.html", "d3/d82/a10475" ],
-    [ "PacketBuilder", "d1/dd2/a10427.html", "d1/dd2/a10427" ],
-    [ "Spline", "db/d13/a10483.html", "db/d13/a10483" ],
-    [ "SplineBase", "d3/d24/a10479.html", "d3/d24/a10479" ],
-    [ "TransportPathTransform", "da/d0f/a10455.html", "da/d0f/a10455" ],
-    [ "PointsArray", "de/d1a/a05089.html#a86528b2e04ddf38b80888e45d6b9c37d", null ],
-    [ "UInt32Counter", "de/d1a/a05089.html#adebd21803156b193f9b8a733b6cbd3c7", null ],
-    [ "MonsterMoveType", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339", [
-      [ "MonsterMoveNormal", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
-      [ "MonsterMoveStop", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
-      [ "MonsterMoveFacingSpot", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
-      [ "MonsterMoveFacingTarget", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
-      [ "MonsterMoveFacingAngle", "de/d1a/a05089.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    [ "Spell", "d0/d81/a08487.html", "d0/d81/a08487" ],
+    [ "Trainer", "dd/d5b/a08491.html", "dd/d5b/a08491" ],
+    [ "FailReason", "de/d1a/a05089.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
+      [ "Unavailable", "de/d1a/a05089.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "NotEnoughMoney", "de/d1a/a05089.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
+      [ "NotEnoughSkill", "de/d1a/a05089.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
     ] ],
-    [ "C_Evaluate", "de/d1a/a05089.html#a409e47c24c7802840315c6e4c75725cc", null ],
-    [ "C_Evaluate_Derivative", "de/d1a/a05089.html#a318f60ef13751f5cf60cdb79cf353faa", null ],
-    [ "computeDuration", "de/d1a/a05089.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ],
-    [ "computeFallElevation", "de/d1a/a05089.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "de/d1a/a05089.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "MSToSec", "de/d1a/a05089.html#aefc83834e7badc5f8450322da9567bd6", null ],
-    [ "operator<<", "de/d1a/a05089.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
-    [ "operator>>", "de/d1a/a05089.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
-    [ "print_flags", "de/d1a/a05089.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
-    [ "s_Bezier3Coeffs", "de/d1a/a05089.html#a508e01047096fea2dbd9e0fedf6d75cb", null ],
-    [ "s_catmullRomCoeffs", "de/d1a/a05089.html#aff10e913762216c0735a8a3530ee25d2", null ],
-    [ "SecToMS", "de/d1a/a05089.html#a418fff34f8aed72d6d80876be5a33c58", null ],
-    [ "SelectSpeedType", "de/d1a/a05089.html#a1f10281929f445f6d8150dc510bf1f2f", null ],
-    [ "WriteCatmullRomCyclicPath", "de/d1a/a05089.html#ae740cc738fed507e64b3243ce62c5952", null ],
-    [ "WriteCatmullRomPath", "de/d1a/a05089.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
-    [ "WriteLinearPath", "de/d1a/a05089.html#ad0db2c4fd496c84301b43d46fbffb460", null ],
-    [ "g_MovementFlag_names", "de/d1a/a05089.html#a2982e1b6388bf8b29797b16969b64173", null ],
-    [ "g_SplineFlag_names", "de/d1a/a05089.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
-    [ "gravity", "de/d1a/a05089.html#a15b376933a666c7f7c4600e62d7afe91", null ],
-    [ "splineIdGen", "de/d1a/a05089.html#a5149db3325f467381006d8d5df24a2a8", null ],
-    [ "terminal_fallTime", "de/d1a/a05089.html#aa927e4ada20ca56ce951239357407270", null ],
-    [ "terminal_length", "de/d1a/a05089.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
-    [ "terminal_safeFall_fallTime", "de/d1a/a05089.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
-    [ "terminal_safeFall_length", "de/d1a/a05089.html#a4e816239736800d4508c1fc14e624ddc", null ],
-    [ "terminalSafefallVelocity", "de/d1a/a05089.html#a654673c77f53f27a80309b050d44d38d", null ],
-    [ "terminalVelocity", "de/d1a/a05089.html#a98cc74e5667e1057f334f02a28abcb01", null ]
+    [ "SpellState", "de/d1a/a05089.html#a34dc7b354e539f94e4c8a4cbd0711758", [
+      [ "Available", "de/d1a/a05089.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
+      [ "Unavailable", "de/d1a/a05089.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
+      [ "Known", "de/d1a/a05089.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
+    ] ],
+    [ "Type", "de/d1a/a05089.html#a636cc62a0635fc1566fb574ebe9941a9", [
+      [ "Class", "de/d1a/a05089.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
+      [ "Mount", "de/d1a/a05089.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
+      [ "Tradeskill", "de/d1a/a05089.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
+      [ "Pet", "de/d1a/a05089.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
+    ] ]
 ];

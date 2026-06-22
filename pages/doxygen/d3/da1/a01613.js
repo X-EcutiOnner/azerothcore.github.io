@@ -1,5 +1,5 @@
 var a01613 =
 [
-    [ "instance_commandscript", "da/d0a/a12367.html", "da/d0a/a12367" ],
-    [ "AddSC_instance_commandscript", "d3/da1/a01613.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
+    [ "autobroadcast_commandscript", "dd/d82/a12283.html", "dd/d82/a12283" ],
+    [ "AddSC_autobroadcast_commandscript", "d3/da1/a01613.html#a1d398e7e3a10b992b1d0a10671683d46", null ]
 ];

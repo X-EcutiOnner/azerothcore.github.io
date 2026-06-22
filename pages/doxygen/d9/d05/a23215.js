@@ -1,7 +1,6 @@
 var a23215 =
 [
-    [ "OnApply", "d9/d05/a23215.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d9/d05/a23215.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d9/d05/a23215.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d9/d05/a23215.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d0/da4/a23219.html", "d0/da4/a23219" ],
+    [ "instance_the_underbog", "d9/d05/a23215.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d9/d05/a23215.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

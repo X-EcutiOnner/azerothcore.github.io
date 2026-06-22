@@ -1,6 +1,8 @@
 var a06399 =
 [
-    [ "AggressorAI", "d3/d0e/a06399.html#a2d4ba3a557832466f29906972d1e14fd", null ],
-    [ "Permissible", "d3/d0e/a06399.html#a7867a9ca7249eb94a712e34833fae930", null ],
-    [ "UpdateAI", "d3/d0e/a06399.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
+    [ "BannedAddon", "d3/d0e/a06399.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d3/d0e/a06399.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d3/d0e/a06399.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d3/d0e/a06399.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d3/d0e/a06399.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

@@ -1,16 +1,16 @@
 var a23455 =
 [
-    [ "npc_millhouse_manastormAI", "de/d83/a23455.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
-    [ "AttackStart", "de/d83/a23455.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
-    [ "DamageTaken", "de/d83/a23455.html#a30ed336d552596211b3bfc316d223968", null ],
-    [ "InitializeAI", "de/d83/a23455.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
-    [ "JustDied", "de/d83/a23455.html#aaa22ed7812600c1670d12d6887d316d6", null ],
-    [ "JustEngagedWith", "de/d83/a23455.html#a5e643192572f29f954a31b7b949f6525", null ],
-    [ "KilledUnit", "de/d83/a23455.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
-    [ "Reset", "de/d83/a23455.html#a74076048ea382816fa9c98a0d759af46", null ],
-    [ "UpdateAI", "de/d83/a23455.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
-    [ "_usedIceblock", "de/d83/a23455.html#af0ce341df018dafdce89f75fcb9f0063", null ],
-    [ "events", "de/d83/a23455.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
-    [ "events2", "de/d83/a23455.html#ac762ce5981457cbcf6ec73236bab2486", null ],
-    [ "instance", "de/d83/a23455.html#aff28c68ed9575440f5732df855ab4372", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "de/d83/a23455.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "de/d83/a23455.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "de/d83/a23455.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "de/d83/a23455.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "de/d83/a23455.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "de/d83/a23455.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "SetGuidData", "de/d83/a23455.html#aba8c1ea3be2a6199cefa47c52ecf7f31", null ],
+    [ "Update", "de/d83/a23455.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "de/d83/a23455.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "de/d83/a23455.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "LastArrowGUID", "de/d83/a23455.html#a602015bb20d74f6d3aac07b23ad48aea", null ],
+    [ "PrisonerGUID", "de/d83/a23455.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "de/d83/a23455.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

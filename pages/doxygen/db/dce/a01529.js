@@ -1,5 +1,5 @@
 var a01529 =
 [
-    [ "achievement_commandscript", "d9/d24/a12271.html", "d9/d24/a12271" ],
-    [ "AddSC_achievement_commandscript", "db/dce/a01529.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "spectator_commandscript", "d4/dca/a12499.html", "d4/dca/a12499" ],
+    [ "AddSC_spectator_commandscript", "db/dce/a01529.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
 ];

@@ -1,7 +1,5 @@
 var a12455 =
 [
-    [ "FoundObjects", "d6/d3c/a12455.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
-    [ "X", "d6/d3c/a12455.html#a9a184093c44a45addd7a7bae891496c0", null ],
-    [ "Y", "d6/d3c/a12455.html#a86ac02df716e991f629647941dcb29cb", null ],
-    [ "Z", "d6/d3c/a12455.html#a50477b2e983580c94b348f7e408a8363", null ]
+    [ "Chance", "d6/d3c/a12455.html#a20ae19fc80deceb81adccb91b341fb82", null ],
+    [ "Entry", "d6/d3c/a12455.html#ae8b951678ec65907370ffe700cd668c8", null ]
 ];

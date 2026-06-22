@@ -1,6 +1,7 @@
 var a25671 =
 [
-    [ "CalculateAmount", "de/dee/a25671.html#ad80edf403addb2d907d0d3d778b6745f", null ],
-    [ "PrepareAuraScript", "de/dee/a25671.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
-    [ "Register", "de/dee/a25671.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
+    [ "OnRemove", "de/dee/a25671.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "de/dee/a25671.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "de/dee/a25671.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "de/dee/a25671.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

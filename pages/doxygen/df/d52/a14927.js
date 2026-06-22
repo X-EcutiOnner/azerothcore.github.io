@@ -1,5 +1,7 @@
 var a14927 =
 [
-    [ "PrepareSpellScript", "df/d52/a14927.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "df/d52/a14927.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "HandleEffectApply", "df/d52/a14927.html#a404f2134734e1d21201033b3f26e611e", null ],
+    [ "HandleEffectPeriodic", "df/d52/a14927.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
+    [ "PrepareAuraScript", "df/d52/a14927.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
+    [ "Register", "df/d52/a14927.html#ad239472c15ca0c73b053d112f538ecff", null ]
 ];

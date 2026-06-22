@@ -1,10 +1,11 @@
 var a29527 =
 [
-    [ "SetUp", "d9/d9d/a29527.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "d9/d9d/a29527.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "d9/d9d/a29527.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "d9/d9d/a29527.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "d9/d9d/a29527.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "d9/d9d/a29527.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "d9/d9d/a29527.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "SetUp", "d9/d9d/a29527.html#abb28ef64461635a540dad471b7b12ebc", null ],
+    [ "TearDown", "d9/d9d/a29527.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
+    [ "_previousWorld", "d9/d9d/a29527.html#a2633d21816e5aa3e4a649292f07a3369", null ],
+    [ "_worldMock", "d9/d9d/a29527.html#ae1629c69438e29ea7be460120132b68b", null ],
+    [ "arenaTeams", "d9/d9d/a29527.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
+    [ "team1", "d9/d9d/a29527.html#a325d8058950e53d17e16fd90cd105776", null ],
+    [ "team2", "d9/d9d/a29527.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
+    [ "team3", "d9/d9d/a29527.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
 ];

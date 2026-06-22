@@ -1,10 +1,20 @@
 var a12711 =
 [
-    [ "npc_rookery_hatcher", "d6/d72/a12711.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "d6/d72/a12711.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "d6/d72/a12711.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "d6/d72/a12711.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "d6/d72/a12711.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "d6/d72/a12711.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "d6/d72/a12711.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_rend_blackhand", "d6/d72/a12711.html#a978a2a5262df73afa1e661b23c27a57a", null ],
+    [ "EnterEvadeMode", "d6/d72/a12711.html#a21ca0c54590356cc58675e71add93c3a", null ],
+    [ "IsSummonedBy", "d6/d72/a12711.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
+    [ "JustDied", "d6/d72/a12711.html#a498218ab4298cdab728b8a5403d98de1", null ],
+    [ "JustEngagedWith", "d6/d72/a12711.html#a494550b92a25c99470c72697e87eff87", null ],
+    [ "JustSummoned", "d6/d72/a12711.html#aeebd94ed5b08587dfab88b8826f64173", null ],
+    [ "MovementInform", "d6/d72/a12711.html#ae8869425b1f03f6f430585d563de0b27", null ],
+    [ "Reset", "d6/d72/a12711.html#afcea6a09eabe661051fc58d5de9a3802", null ],
+    [ "SetData", "d6/d72/a12711.html#abe31d366de24aefd9c0c9c534494af11", null ],
+    [ "SummonedCreatureDespawn", "d6/d72/a12711.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
+    [ "SummonedCreatureDies", "d6/d72/a12711.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
+    [ "SummonWave", "d6/d72/a12711.html#a127365a60504f988bcd7bc1858e0fb94", null ],
+    [ "UpdateAI", "d6/d72/a12711.html#afdca704e8aca473986037ab2bc16194e", null ],
+    [ "_currentWave", "d6/d72/a12711.html#a9e4ffc20609e50188e0f5a552b164590", null ],
+    [ "_gythEvent", "d6/d72/a12711.html#a3699984d920375e9631105bf0a47469b", null ],
+    [ "_victorGUID", "d6/d72/a12711.html#a8337c912349eb2798c33fd5794a28437", null ],
+    [ "_waveDoorGUID", "d6/d72/a12711.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
 ];

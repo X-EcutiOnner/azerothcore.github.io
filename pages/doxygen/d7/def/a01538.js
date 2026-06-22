@@ -1,5 +1,7 @@
 var a01538 =
 [
-    [ "ticket_commandscript", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "AddSC_ticket_commandscript", "d7/def/a01538.html#ad71463f4442d2e022a92404a4d9dec76", null ]
+    [ "gobject_commandscript", "d1/dc9/a12355.html", "d1/dc9/a12355" ],
+    [ "GameObjectEntry", "d7/def/a01538.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "d7/def/a01538.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "d7/def/a01538.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

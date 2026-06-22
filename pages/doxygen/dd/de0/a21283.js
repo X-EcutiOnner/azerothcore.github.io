@@ -1,7 +1,7 @@
 var a21283 =
 [
-    [ "npc_azure_spellbreaker", "dd/de0/a21283.html#ae884adc9619d3458d81a2029bd490893", null ],
-    [ "Reset", "dd/de0/a21283.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
-    [ "UpdateAI", "dd/de0/a21283.html#a938a93a71490bb42158e2215d125509f", null ],
-    [ "_events", "dd/de0/a21283.html#a9f526cff54cb949cc68046e7816c3c89", null ]
+    [ "npc_azure_raider", "dd/de0/a21283.html#a841b0fb8a0ca5ca82f3183835281d0e7", null ],
+    [ "Reset", "dd/de0/a21283.html#a3579986a1769467cb17d3b15242e0551", null ],
+    [ "UpdateAI", "dd/de0/a21283.html#a7aa0c785e976167ef384d7c4dac3294f", null ],
+    [ "_events", "dd/de0/a21283.html#a8d25c785974cb8c50b55b547b982b06f", null ]
 ];

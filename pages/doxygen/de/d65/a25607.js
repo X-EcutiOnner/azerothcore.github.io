@@ -1,6 +1,6 @@
 var a25607 =
 [
-    [ "HandleActivateObject", "de/d65/a25607.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "de/d65/a25607.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "de/d65/a25607.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleDummy", "de/d65/a25607.html#a7b56d07d46647a2790553d40e75da79d", null ],
+    [ "PrepareSpellScript", "de/d65/a25607.html#aad36c108f4531c19ba552064ba0d3248", null ],
+    [ "Register", "de/d65/a25607.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
 ];

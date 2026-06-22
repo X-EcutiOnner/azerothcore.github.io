@@ -1,7 +1,7 @@
 var a22107 =
 [
-    [ "HandleScript", "dd/d72/a22107.html#abd4542dc4fd3e21a25c5c3fe5cc6e534", null ],
-    [ "PrepareSpellScript", "dd/d72/a22107.html#a8400fb2e0955444aee21b994d78b78c3", null ],
-    [ "Register", "dd/d72/a22107.html#ae3b2b7d9745ed8b83268a8f57e66eb31", null ],
-    [ "Validate", "dd/d72/a22107.html#aa9c2280cbb38db2620db9869e4959153", null ]
+    [ "OnApply", "dd/d72/a22107.html#ad026db5f19c376d9a87f7a1554502809", null ],
+    [ "OnRemove", "dd/d72/a22107.html#a0264c6f6f41da3644a803265399f1d82", null ],
+    [ "PrepareAuraScript", "dd/d72/a22107.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
+    [ "Register", "dd/d72/a22107.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
 ];

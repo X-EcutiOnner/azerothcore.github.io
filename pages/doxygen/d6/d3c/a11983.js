@@ -1,6 +1,6 @@
 var a11983 =
 [
-    [ "AuraDispelHandler", "d6/d3c/a11983.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
-    [ "Call", "d6/d3c/a11983.html#a147d8a6d95f011f27600d052ef7b4000", null ],
-    [ "pHandlerScript", "d6/d3c/a11983.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
+    [ "CheckAreaTargetHandler", "d6/d3c/a11983.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "d6/d3c/a11983.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "d6/d3c/a11983.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

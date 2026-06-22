@@ -1,14 +1,14 @@
 var a12687 =
 [
-    [ "boss_mor_grayhoof", "df/d39/a12687.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "df/d39/a12687.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "df/d39/a12687.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "df/d39/a12687.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "df/d39/a12687.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "df/d39/a12687.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "df/d39/a12687.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "df/d39/a12687.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "df/d39/a12687.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "df/d39/a12687.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "df/d39/a12687.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_lord_valthalak", "df/d39/a12687.html#a26fd09b5f1e3429cacb90f3aaff1a105", null ],
+    [ "DamageTaken", "df/d39/a12687.html#adf174f2b50e76a721c034a13f1946875", null ],
+    [ "IsSummonedBy", "df/d39/a12687.html#aaa4f24a056e7a0598ff7a399802ac32c", null ],
+    [ "JustDied", "df/d39/a12687.html#a084cc36f08a1decd2d262b7a9eb59f6b", null ],
+    [ "JustEngagedWith", "df/d39/a12687.html#aaa9835ca1d7d81ee177202138be4bad5", null ],
+    [ "Reset", "df/d39/a12687.html#a0494a1b6cc00b40f627a58d790424567", null ],
+    [ "StartFighting", "df/d39/a12687.html#a3135ff2a25ee9c4286623cb570cc03f3", null ],
+    [ "StartTalking", "df/d39/a12687.html#ace3e47ef60b3761d860677648fabdd9d", null ],
+    [ "UpdateAI", "df/d39/a12687.html#a49a438bff5aadc58ae69b00cd2ce68d1", null ],
+    [ "_frenzy15", "df/d39/a12687.html#acc7ba74226b04ee9a62233e473f68f7b", null ],
+    [ "_frenzy40", "df/d39/a12687.html#a7d8cd5bedfb8c5bfc1ac4bdc0efff2bf", null ]
 ];

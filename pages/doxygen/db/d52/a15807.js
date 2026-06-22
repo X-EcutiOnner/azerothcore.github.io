@@ -1,7 +1,6 @@
 var a15807 =
 [
-    [ "npc_webbed_creatureAI", "db/d52/a15807.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "db/d52/a15807.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "db/d52/a15807.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "db/d52/a15807.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "npc_webbed_creatureAI", "d4/d64/a15811.html", "d4/d64/a15811" ],
+    [ "npc_webbed_creature", "db/d52/a15807.html#ae52152939766c411e45e827e9ab52d4f", null ],
+    [ "GetAI", "db/d52/a15807.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
 ];

@@ -1,5 +1,6 @@
 var a01523 =
 [
-    [ "go_commandscript", "d2/d4c/a12347.html", "d2/d4c/a12347" ],
-    [ "AddSC_go_commandscript", "db/d8e/a01523.html#a95fcb467686a27e069827ed3775df197", null ]
+    [ "debug_commandscript", "db/d80/a12323.html", "db/d80/a12323" ],
+    [ "debug_commandscript::CreatureCountWorker", "d6/dba/a12327.html", "d6/dba/a12327" ],
+    [ "AddSC_debug_commandscript", "db/d8e/a01523.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

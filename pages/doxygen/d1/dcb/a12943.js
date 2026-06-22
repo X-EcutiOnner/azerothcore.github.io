@@ -1,6 +1,6 @@
 var a12943 =
 [
-    [ "boss_magmadar", "d1/dcb/a12943.html#a1d7fe10f244e2975a858ee884a02ce57", null ],
-    [ "ExecuteEvent", "d1/dcb/a12943.html#af846ccbb6fa4a63b7ea04474deeb7db5", null ],
-    [ "JustEngagedWith", "d1/dcb/a12943.html#a4a38f37d0cbe892b7336694ef6008f2d", null ]
+    [ "boss_lucifron", "d1/dcb/a12943.html#a632be7d3aaa9cc2360fce6871918a4b1", null ],
+    [ "ExecuteEvent", "d1/dcb/a12943.html#ae392b01817d9160ef0c80387406ad6fa", null ],
+    [ "JustEngagedWith", "d1/dcb/a12943.html#a9ebfc9877165aaadd2ea446995f4cf99", null ]
 ];

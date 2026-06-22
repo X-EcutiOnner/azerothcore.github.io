@@ -1,11 +1,10 @@
 var a20567 =
 [
-    [ "npc_ulduar_expedition_engineer", "d8/d11/a20567.html#af3fe5048712bae3add6867e998c2824d", null ],
-    [ "Reset", "d8/d11/a20567.html#a7bbdbdaed353d450161e470e5f656c17", null ],
-    [ "SetData", "d8/d11/a20567.html#a9a714463750de3513e65174f796fb4de", null ],
-    [ "UpdateAI", "d8/d11/a20567.html#a78de5d8e8194e1ae362f9eb666a55404", null ],
-    [ "fixingGUID", "d8/d11/a20567.html#af8f7c3106d392a7b6697af3ffd14121f", null ],
-    [ "pInstance", "d8/d11/a20567.html#a1516880c5fb17bccd95d8e3b615c4175", null ],
-    [ "timer", "d8/d11/a20567.html#a57f187130777929a921e2c35b6f43559", null ],
-    [ "working", "d8/d11/a20567.html#a3450381dc89cabede2ccde6feab96dad", null ]
+    [ "npc_ulduar_harpoonfirestate", "d8/d11/a20567.html#a2456fbee16367a524f26873da99247e8", null ],
+    [ "GetData", "d8/d11/a20567.html#a83ba5a0cc62ba15cf671d49fccf75f7d", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d8/d11/a20567.html#ae8e0613e67ee4e17157a05910c1551c8", null ],
+    [ "Reset", "d8/d11/a20567.html#aba0f9525ef9e3eddbc4a78164c2f8ffd", null ],
+    [ "SetData", "d8/d11/a20567.html#a338c6cb2be0e05726f372344fdc2b436", null ],
+    [ "pInstance", "d8/d11/a20567.html#aee0914001b38be87976cd44b6bbaf276", null ],
+    [ "repairPoints", "d8/d11/a20567.html#a64bf7ba3b4930eb141b66075b772e64d", null ]
 ];

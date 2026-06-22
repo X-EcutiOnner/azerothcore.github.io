@@ -1,11 +1,6 @@
 var a27399 =
 [
-    [ "CalcPeriodic", "d7/d4e/a27399.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "d7/d4e/a27399.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "d7/d4e/a27399.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "d7/d4e/a27399.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "d7/d4e/a27399.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "d7/d4e/a27399.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "d7/d4e/a27399.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "d7/d4e/a27399.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "CheckCast", "d7/d4e/a27399.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "d7/d4e/a27399.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "d7/d4e/a27399.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

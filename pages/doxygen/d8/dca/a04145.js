@@ -1,48 +1,34 @@
 var a04145 =
 [
-    [ "AuctionEntry", "da/dae/a07407.html", "da/dae/a07407" ],
-    [ "AuctionHouseObject", "d7/dcf/a07411.html", "d7/dcf/a07411" ],
-    [ "AuctionHouseMgr", "d9/d5e/a07415.html", "d9/d5e/a07415" ],
-    [ "AUCTION_SEARCH_DELAY", "d8/dca/a04145.html#a2f8bc5839b2833512daadb09efb7794d", null ],
-    [ "MAX_AUCTION_HOUSE_FACTIONS", "d8/dca/a04145.html#a948e0dd86eca242e8907f45c5f16edac", null ],
-    [ "MAX_AUCTION_ITEMS", "d8/dca/a04145.html#aa87bb3f5c1101ca4c260c6bb743a846e", null ],
-    [ "MAX_AUCTIONS_PER_PAGE", "d8/dca/a04145.html#aa815dc22ea52ecef37fa9285358247c9", null ],
-    [ "MAX_GETALL_RETURN", "d8/dca/a04145.html#aa7ea0efcb608c872aa3375218f3bf857", null ],
-    [ "MIN_AUCTION_TIME", "d8/dca/a04145.html#a65e0ff6290b1d068de3d9be0aa323d27", null ],
-    [ "sAuctionMgr", "d8/dca/a04145.html#ac3e168154709326e99ab24a7d1395906", null ],
-    [ "AuctionAction", "d8/dca/a04145.html#a6f0f1b824cc940197c2bc0cd6cb1dd18", [
-      [ "AUCTION_SELL_ITEM", "d8/dca/a04145.html#a6f0f1b824cc940197c2bc0cd6cb1dd18a47c59e2fd5e2b2cdafa124fee3f94796", null ],
-      [ "AUCTION_CANCEL", "d8/dca/a04145.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab9f7fb48c99015aed9fd3a2a0a57c72e", null ],
-      [ "AUCTION_PLACE_BID", "d8/dca/a04145.html#a6f0f1b824cc940197c2bc0cd6cb1dd18ab934fb55a314a6d1332d37e5fde04a80", null ]
-    ] ],
-    [ "AuctionError", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225", [
-      [ "ERR_AUCTION_OK", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a3b16c2583b0b0097a95bc23126567b34", null ],
-      [ "ERR_AUCTION_INVENTORY", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a4db8ce7711bbc2b9a30b6c93f63a7f98", null ],
-      [ "ERR_AUCTION_DATABASE_ERROR", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225ad9a6332f7dcf4f37c65a07880df64a8d", null ],
-      [ "ERR_AUCTION_NOT_ENOUGHT_MONEY", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a2e3c0e26a932a0d123c74cd6c025c189", null ],
-      [ "ERR_AUCTION_ITEM_NOT_FOUND", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225aa75b2e1b0476195aeb1fe923d483a063", null ],
-      [ "ERR_AUCTION_HIGHER_BID", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a8b1421e42296f2d0141c2e2c8dfe5bac", null ],
-      [ "ERR_AUCTION_BID_INCREMENT", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225ad31b9ca1c2b4338c2cc19ea57e81bf74", null ],
-      [ "ERR_AUCTION_BID_OWN", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a98a5a65a2cd34419689fe5d6154bf4e9", null ],
-      [ "ERR_AUCTION_RESTRICTED_ACCOUNT", "d8/dca/a04145.html#acd1082bcecaa4487e9f32ad1d4cd5225a5d35d3c3de8c5c8418934d758db2dc35", null ]
-    ] ],
-    [ "AuctionHouseFaction", "d8/dca/a04145.html#af4f47e9bbd0faf17478c06dd0660bb84", [
-      [ "Alliance", "d8/dca/a04145.html#af4f47e9bbd0faf17478c06dd0660bb84a05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d8/dca/a04145.html#af4f47e9bbd0faf17478c06dd0660bb84a05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d8/dca/a04145.html#af4f47e9bbd0faf17478c06dd0660bb84ae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "AuctionHouseId", "d8/dca/a04145.html#a6e313ffb5943e7c756e65c142ad1a28d", [
-      [ "Alliance", "d8/dca/a04145.html#a6e313ffb5943e7c756e65c142ad1a28da05bd29b524f0851d42e7902d6af59bf1", null ],
-      [ "Horde", "d8/dca/a04145.html#a6e313ffb5943e7c756e65c142ad1a28da05d822a409e1a677e40ee5ac1db7a796", null ],
-      [ "Neutral", "d8/dca/a04145.html#a6e313ffb5943e7c756e65c142ad1a28dae9bb5320b3890b6747c91b5a71ae5a01", null ]
-    ] ],
-    [ "MailAuctionAnswers", "d8/dca/a04145.html#a098b883868639271d82defd50dad764e", [
-      [ "AUCTION_OUTBIDDED", "d8/dca/a04145.html#a098b883868639271d82defd50dad764eafa59fd83ffed270500a83d207c19b3d0", null ],
-      [ "AUCTION_WON", "d8/dca/a04145.html#a098b883868639271d82defd50dad764eac51a47dbc7d47d70e051386979fa22c8", null ],
-      [ "AUCTION_SUCCESSFUL", "d8/dca/a04145.html#a098b883868639271d82defd50dad764eac212352bbd7fce3cb50b5673de71ae14", null ],
-      [ "AUCTION_EXPIRED", "d8/dca/a04145.html#a098b883868639271d82defd50dad764ea2ef6542e060c27e5364ddca4f77b5edc", null ],
-      [ "AUCTION_CANCELLED_TO_BIDDER", "d8/dca/a04145.html#a098b883868639271d82defd50dad764ea7a49299211b591c1b6b527754069a09c", null ],
-      [ "AUCTION_CANCELED", "d8/dca/a04145.html#a098b883868639271d82defd50dad764eaa56d99ef4cba6dc5afc2865810f0a4c6", null ],
-      [ "AUCTION_SALE_PENDING", "d8/dca/a04145.html#a098b883868639271d82defd50dad764ea9f1d5ad610d6e9d778e61d2f79643dd8", null ]
-    ] ]
+    [ "LootGroupInvalidSelector", "d0/d41/a10039.html", "d0/d41/a10039" ],
+    [ "LootTemplate::LootGroup", "d7/db3/a10043.html", "d7/db3/a10043" ],
+    [ "LoadLootTemplates_Creature", "d8/dca/a04145.html#a2ffebb5466d0f97fdaa495088a046a51", null ],
+    [ "LoadLootTemplates_Disenchant", "d8/dca/a04145.html#aa6e191c54a43255f4cc43af79b20c817", null ],
+    [ "LoadLootTemplates_Fishing", "d8/dca/a04145.html#a5f88815e67cdbdaebef659559cd0d954", null ],
+    [ "LoadLootTemplates_Gameobject", "d8/dca/a04145.html#a24e17720ba3e69cf816688664f0e981a", null ],
+    [ "LoadLootTemplates_Item", "d8/dca/a04145.html#aade507039245a0e20adcdbf548a7d690", null ],
+    [ "LoadLootTemplates_Mail", "d8/dca/a04145.html#a9b802fc33b09fc4fced1a39a7bb8583d", null ],
+    [ "LoadLootTemplates_Milling", "d8/dca/a04145.html#a1d63e7e68b4182ae8ebc36a7bbfd2456", null ],
+    [ "LoadLootTemplates_Pickpocketing", "d8/dca/a04145.html#a09f7e96fb3b750f94e246759397e7546", null ],
+    [ "LoadLootTemplates_Player", "d8/dca/a04145.html#a0e878bb1898269e2be94c066e18b6cac", null ],
+    [ "LoadLootTemplates_Prospecting", "d8/dca/a04145.html#a87bdff8f6fa2a9f948153a770b0512ae", null ],
+    [ "LoadLootTemplates_Reference", "d8/dca/a04145.html#a8015904fb38b1506755242730155cacc", null ],
+    [ "LoadLootTemplates_Skinning", "d8/dca/a04145.html#aec1cdee51afe09234ba6b2d917c21916", null ],
+    [ "LoadLootTemplates_Spell", "d8/dca/a04145.html#a1c69325fc9720f428891b814817eb762", null ],
+    [ "operator<<", "d8/dca/a04145.html#ac7f789f6da959300694693d249113e9f", null ],
+    [ "operator<<", "d8/dca/a04145.html#a08df83acd4a8d8591eebb3753e121fc7", null ],
+    [ "LootTemplates_Creature", "d8/dca/a04145.html#a867a728f0e7d52d0c546457d9199bbe0", null ],
+    [ "LootTemplates_Disenchant", "d8/dca/a04145.html#a5df89c4848d191ab038eed9a8f81b913", null ],
+    [ "LootTemplates_Fishing", "d8/dca/a04145.html#af45baef147256b11372c092b0ac53f91", null ],
+    [ "LootTemplates_Gameobject", "d8/dca/a04145.html#a2092f58e2dc595c617668f039de77935", null ],
+    [ "LootTemplates_Item", "d8/dca/a04145.html#a3148b185e4fb344eaa918ccc37ff8e84", null ],
+    [ "LootTemplates_Mail", "d8/dca/a04145.html#aba8aafe6a5d2d251b6e2f539b27f5949", null ],
+    [ "LootTemplates_Milling", "d8/dca/a04145.html#a433757800c8ee4e9b654d504a4ee828a", null ],
+    [ "LootTemplates_Pickpocketing", "d8/dca/a04145.html#a94fe5d87a40ef83d99db6ccfde0a719f", null ],
+    [ "LootTemplates_Player", "d8/dca/a04145.html#abbe10d61650265aabbc5de5685a8b9bb", null ],
+    [ "LootTemplates_Prospecting", "d8/dca/a04145.html#a5e98772296a6d93715a4ed74eb2b5bdf", null ],
+    [ "LootTemplates_Reference", "d8/dca/a04145.html#a556a2458977647462ba38f61da196218", null ],
+    [ "LootTemplates_Skinning", "d8/dca/a04145.html#a195e88b39c43d01cbf8b1871a7129a60", null ],
+    [ "LootTemplates_Spell", "d8/dca/a04145.html#a12b8cff5bc25ff6a80a044a72d037aaa", null ],
+    [ "qualityToRate", "d8/dca/a04145.html#aaa3aa72e5700e28104b67a1f347c64c7", null ]
 ];

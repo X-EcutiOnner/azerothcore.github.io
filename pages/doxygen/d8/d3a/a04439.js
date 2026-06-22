@@ -1,4 +1,5 @@
 var a04439 =
 [
-    [ "isnan", "d8/d3a/a04439.html#a075c8459d7e501109174c1a2fdc5cd7e", null ]
+    [ "VMAP::MapRayCallback", "da/d2b/a05283.html", "da/d2b/a05283" ],
+    [ "VMAP::LocationInfoCallback", "d9/dba/a05287.html", "d9/dba/a05287" ]
 ];

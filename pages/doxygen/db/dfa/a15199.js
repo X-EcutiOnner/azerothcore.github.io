@@ -1,7 +1,13 @@
 var a15199 =
 [
-    [ "OnRemove", "db/dfa/a15199.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "db/dfa/a15199.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "db/dfa/a15199.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "db/dfa/a15199.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "boss_salrammAI", "db/dfa/a15199.html#ae1055878b3919e29d44ee26efcbe044f", null ],
+    [ "ExplodeGhoul", "db/dfa/a15199.html#adc64d8b10b28b98254c528732fff0516", null ],
+    [ "JustDied", "db/dfa/a15199.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
+    [ "JustEngagedWith", "db/dfa/a15199.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
+    [ "JustSummoned", "db/dfa/a15199.html#afd70403a8644f310f37335c6c9bf5b55", null ],
+    [ "KilledUnit", "db/dfa/a15199.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
+    [ "Reset", "db/dfa/a15199.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
+    [ "UpdateAI", "db/dfa/a15199.html#aa2350dc05884593b1361f9f09b8d9392", null ],
+    [ "events", "db/dfa/a15199.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
+    [ "summons", "db/dfa/a15199.html#a813c09e121730d4ae2e623ac3c37d570", null ]
 ];

@@ -1,16 +1,13 @@
 var a29271 =
 [
-    [ "AuraApplicationStub", "db/dd1/a29271.html#afaa194023ae92143078166c9a142a41d", null ],
-    [ "~AuraApplicationStub", "db/dd1/a29271.html#ada36445f6f090c6652e0567a5333bb53", null ],
-    [ "GetEffectMask", "db/dd1/a29271.html#ad74cccf28b56c1fe88988df229319dae", null ],
-    [ "GetSlot", "db/dd1/a29271.html#a30f0ddd6c6bbc974958a33ecee39135e", null ],
-    [ "HasEffect", "db/dd1/a29271.html#ad4040b722b12e54aa630abfa78cdaabd", null ],
-    [ "IsPositive", "db/dd1/a29271.html#a1bf6810ab9723ce50ddf46789d2a5045", null ],
-    [ "SetEffect", "db/dd1/a29271.html#a97383d45b0a015579a0f315474ecfcc5", null ],
-    [ "SetEffectMask", "db/dd1/a29271.html#a1fab3395f580b30fa7b2257cbcacd26a", null ],
-    [ "SetPositive", "db/dd1/a29271.html#a653fb81ddfa4c7ad855d9f1fefe172f4", null ],
-    [ "SetSlot", "db/dd1/a29271.html#a824a2ec07e911fdb02054eff2091f2ea", null ],
-    [ "_effectMask", "db/dd1/a29271.html#a9027c5f622263c32b6f7bc4a11883ddc", null ],
-    [ "_isPositive", "db/dd1/a29271.html#afc3220aa9f0403a987ad07cec1c42ced", null ],
-    [ "_slot", "db/dd1/a29271.html#aa4afd58cae5bcfd203d61a1044d72d57", null ]
+    [ "Context", "db/dd1/a29271.html#a0dd9f22f9528a05b229828e4a2c97757", null ],
+    [ "CreateEventInfo", "db/dd1/a29271.html#a81032fc22ce45902d34cf897606bd966", null ],
+    [ "CreateProcEntry", "db/dd1/a29271.html#a26531bd3f3256075455b32b42a172f6a", null ],
+    [ "CreateSpellInfo", "db/dd1/a29271.html#adee75944dc2e9a3fff7848d0ccfff527", null ],
+    [ "SetUp", "db/dd1/a29271.html#a65b0d4a0beb4c2f986f71ff5732e0f3c", null ],
+    [ "TearDown", "db/dd1/a29271.html#a782580d41f8233b93d51fe347601e730", null ],
+    [ "TestCanProc", "db/dd1/a29271.html#a409ccb130f529cb20e5164b465e05ca6", null ],
+    [ "TestSpellFamilyMatch", "db/dd1/a29271.html#a97d06c4fdf207051543fbf8c9207242e", null ],
+    [ "_context", "db/dd1/a29271.html#a0b5925a6df47ba704bfc196cc89c4919", null ],
+    [ "_spellInfos", "db/dd1/a29271.html#a30ebff666ac835168f1bf7d6aa771e0c", null ]
 ];

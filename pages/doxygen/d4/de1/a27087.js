@@ -1,8 +1,8 @@
 var a27087 =
 [
-    [ "AfterApply", "d4/de1/a27087.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "d4/de1/a27087.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "d4/de1/a27087.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "d4/de1/a27087.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "d4/de1/a27087.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleRootRemove", "d4/de1/a27087.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "d4/de1/a27087.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "d4/de1/a27087.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "d4/de1/a27087.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "d4/de1/a27087.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

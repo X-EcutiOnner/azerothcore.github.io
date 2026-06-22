@@ -1,6 +1,7 @@
 var a04205 =
 [
-    [ "CharacterDatabase", "d7/dca/a04205.html#a7e7534bc66d79434bd280b77cb124eec", null ],
-    [ "LoginDatabase", "d7/dca/a04205.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
-    [ "WorldDatabase", "d7/dca/a04205.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
+    [ "OutdoorPvPData", "d1/ddd/a10519.html", "d1/ddd/a10519" ],
+    [ "OutdoorPvPMgr", "d2/db8/a10523.html", "d2/db8/a10523" ],
+    [ "OUTDOORPVP_OBJECTIVE_UPDATE_INTERVAL", "d7/dca/a04205.html#af3942e94a2b618e59d9a607df883023b", null ],
+    [ "sOutdoorPvPMgr", "d7/dca/a04205.html#a7f16e829e6dd717c8a6a20fd1aa783cc", null ]
 ];

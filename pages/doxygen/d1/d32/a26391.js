@@ -1,7 +1,6 @@
 var a26391 =
 [
-    [ "CheckAreaTarget", "d1/d32/a26391.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "d1/d32/a26391.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "d1/d32/a26391.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "d1/d32/a26391.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "CalculateAmount", "d1/d32/a26391.html#acc2c4cea16dfa30c49387ac166cef560", null ],
+    [ "PrepareAuraScript", "d1/d32/a26391.html#a8d7e840994ba5034a249171dbfc016a6", null ],
+    [ "Register", "d1/d32/a26391.html#a018d2a8a106a621730fcaa1d500df7b1", null ]
 ];

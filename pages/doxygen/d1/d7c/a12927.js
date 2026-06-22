@@ -1,6 +1,7 @@
 var a12927 =
 [
-    [ "boss_gehennas", "d1/d7c/a12927.html#ab533dfd33dfcc42b1c282340e77ed979", null ],
-    [ "ExecuteEvent", "d1/d7c/a12927.html#aa11c5e8facc17b03220595a61045036f", null ],
-    [ "JustEngagedWith", "d1/d7c/a12927.html#af4f3b198a1a606efe829376b4515c7bc", null ]
+    [ "HandleHit", "d1/d7c/a12927.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d1/d7c/a12927.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d1/d7c/a12927.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d1/d7c/a12927.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

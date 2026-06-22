@@ -1,18 +1,28 @@
 var a01694 =
 [
-    [ "OutdoorPvPSI", "d3/d63/a22311.html", "d3/d63/a22311" ],
-    [ "OutdoorPvPSISpells", "d4/d8e/a01694.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "d4/d8e/a01694.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "d4/d8e/a01694.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "d4/d8e/a01694.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "d4/d8e/a01694.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    [ "tf_tower_world_state", "d6/d68/a22331.html", "d6/d68/a22331" ],
+    [ "OPvPCapturePointTF", "d5/dc7/a22335.html", "d5/dc7/a22335" ],
+    [ "OutdoorPvPTF", "dc/d32/a22339.html", "dc/d32/a22339" ],
+    [ "TF_CAPTURE_BUFF", "d4/d8e/a01694.html#a82bc235ec6d43b48511d1b3d903a934b", null ],
+    [ "OutdoorPvPTF_TowerType", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999", [
+      [ "TF_TOWER_NW", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999ac95ea754e0befd303c7912671ff54b16", null ],
+      [ "TF_TOWER_N", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999a034d81c6a66a32fef95c75235cb39d2b", null ],
+      [ "TF_TOWER_NE", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999a210d598966bbca14ece80eb1e00bae97", null ],
+      [ "TF_TOWER_SE", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999a01f2c2e0a883f8355bf433a96b52bd65", null ],
+      [ "TF_TOWER_S", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999af3a17ac5cc35927939c90503027342f0", null ],
+      [ "TF_TOWER_NUM", "d4/d8e/a01694.html#a7a4347e10a530d56e3c3ae66a5eae999ad6085f7af14a95c2f7331b50721ff5a3", null ]
     ] ],
-    [ "OutdoorPvPSIBuffZones", "d4/d8e/a01694.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "d4/d8e/a01694.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "d4/d8e/a01694.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "d4/d8e/a01694.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "d4/d8e/a01694.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "d4/d8e/a01694.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "d4/d8e/a01694.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "d4/d8e/a01694.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "TFTowerStates", "d4/d8e/a01694.html#a5815248809b8fd06bd664886846a7126", [
+      [ "TF_TOWERSTATE_N", "d4/d8e/a01694.html#a5815248809b8fd06bd664886846a7126a1bf771ad2a93c40a6d0d5312167a046f", null ],
+      [ "TF_TOWERSTATE_H", "d4/d8e/a01694.html#a5815248809b8fd06bd664886846a7126a133214fb55c09ba0030cc76b1d2082c1", null ],
+      [ "TF_TOWERSTATE_A", "d4/d8e/a01694.html#a5815248809b8fd06bd664886846a7126acde31be20bbd32d3bf71bd3352e7e43d", null ]
+    ] ],
+    [ "OutdoorPvPTFBuffZones", "d4/d8e/a01694.html#a6b09030102f8c0dbb4b0e6bbfdee9b24", null ],
+    [ "OutdoorPvPTFBuffZonesNum", "d4/d8e/a01694.html#acde5c9331776adb4ed27c2319476e550", null ],
+    [ "TF_ALLY_QUEST", "d4/d8e/a01694.html#a3967b7bb2df0e330fbd21a68d557b19a", null ],
+    [ "TF_HORDE_QUEST", "d4/d8e/a01694.html#a1bbe00a4cf0ae9f6750d23ef10539c0a", null ],
+    [ "TF_LOCK_TIME", "d4/d8e/a01694.html#a925c2f6bf9c7a6d1b694382b888fa85f", null ],
+    [ "TF_LOCK_TIME_UPDATE", "d4/d8e/a01694.html#a9ef7be226d98726081fd3cb435d223b5", null ],
+    [ "TFCapturePoints", "d4/d8e/a01694.html#a19e9cf9859a7578f154dcdcfa0670620", null ],
+    [ "TFTowerWorldStates", "d4/d8e/a01694.html#ac5dbb8989285178cfea88af6f03dd6a6", null ]
 ];

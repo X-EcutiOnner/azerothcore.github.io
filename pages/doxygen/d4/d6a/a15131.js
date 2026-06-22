@@ -1,8 +1,7 @@
 var a15131 =
 [
-    [ "hyjalTyrandeAI", "d4/d6a/a15131.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d4/d6a/a15131.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d4/d6a/a15131.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d4/d6a/a15131.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d4/d6a/a15131.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "hyjalTyrandeAI", "d6/d5c/a15135.html", "d6/d5c/a15135" ],
+    [ "npc_hyjal_tyrande", "d4/d6a/a15131.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d4/d6a/a15131.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d4/d6a/a15131.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

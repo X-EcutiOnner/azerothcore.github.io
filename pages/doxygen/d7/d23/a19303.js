@@ -1,13 +1,7 @@
 var a19303 =
 [
-    [ "boss_anubrekhan", "d7/d23/a19303.html#ad748de528ca78739236b9586ddaa19bd", null ],
-    [ "JustDied", "d7/d23/a19303.html#a9dfb1b89c4f47235e463d90f17522113", null ],
-    [ "JustEngagedWith", "d7/d23/a19303.html#a97d56653381e7a7f8c724263148cd61e", null ],
-    [ "JustSummoned", "d7/d23/a19303.html#af1a01ff6c9790e1660619767c16cfd94", null ],
-    [ "KilledUnit", "d7/d23/a19303.html#a73906e3681c767e5818d380e77525ba2", null ],
-    [ "MoveInLineOfSight", "d7/d23/a19303.html#a9fcbc921973e0bd02867217d15efcc64", null ],
-    [ "Reset", "d7/d23/a19303.html#a1a495fddf89c4c92136d1fd61fba6594", null ],
-    [ "SummonCryptGuards", "d7/d23/a19303.html#a30d2e7464cffc6894882897ed0d66c6a", null ],
-    [ "SummonedCreatureDies", "d7/d23/a19303.html#a12b4f2878b54f5bd34c470d2c7b40098", null ],
-    [ "_sayGreet", "d7/d23/a19303.html#a7f61eb4aab4d0bf81480dea011b11f95", null ]
+    [ "HandleScript", "d7/d23/a19303.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d7/d23/a19303.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d7/d23/a19303.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d7/d23/a19303.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

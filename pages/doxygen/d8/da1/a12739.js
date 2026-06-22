@@ -1,7 +1,5 @@
 var a12739 =
 [
-    [ "boss_urok_doomhowl", "d8/da1/a12739.html#af1ee215f3d8d6471587ef184bdb0d47c", null ],
-    [ "InitializeAI", "d8/da1/a12739.html#acb14f233eff038e0cc2ef0b44cac5357", null ],
-    [ "JustEngagedWith", "d8/da1/a12739.html#acf6c649e69b5e7104aa2ffca01fef6dc", null ],
-    [ "UpdateAI", "d8/da1/a12739.html#aff302dd58a2f0ef8d801b0b6813d3233", null ]
+    [ "at_the_beast_room", "d8/da1/a12739.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "d8/da1/a12739.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

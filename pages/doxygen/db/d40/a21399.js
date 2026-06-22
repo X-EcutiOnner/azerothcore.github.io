@@ -1,6 +1,6 @@
 var a21399 =
 [
-    [ "HandleEffect", "db/d40/a21399.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "db/d40/a21399.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "db/d40/a21399.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_hidden_cultistAI", "d6/d2b/a21403.html", "d6/d2b/a21403" ],
+    [ "npc_hidden_cultist", "db/d40/a21399.html#ab455b35fea966360e01fb8975adad989", null ],
+    [ "GetAI", "db/d40/a21399.html#a4897006d9416f1177b0bc0e41df60293", null ]
 ];

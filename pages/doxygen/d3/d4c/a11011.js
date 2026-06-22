@@ -1,7 +1,6 @@
 var a11011 =
 [
-    [ "GuildInvite", "d3/d4c/a11011.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "d3/d4c/a11011.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "d3/d4c/a11011.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "d3/d4c/a11011.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "GuildInviteByName", "d3/d4c/a11011.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "d3/d4c/a11011.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "d3/d4c/a11011.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

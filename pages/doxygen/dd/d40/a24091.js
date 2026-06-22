@@ -1,8 +1,8 @@
 var a24091 =
 [
-    [ "npc_pet_dk_ghoul", "dd/d40/a24091.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "dd/d40/a24091.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "dd/d40/a24091.html#a6095e3619b470283b9875b90e2805b54", null ],
-    [ "UpdateAI", "dd/d40/a24091.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
-    [ "_summonTargetGUID", "dd/d40/a24091.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
+    [ "go_skull_pile", "dd/d40/a24091.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/d40/a24091.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/d40/a24091.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/d40/a24091.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/d40/a24091.html#af74fcd75404c0886128401d661067394", null ]
 ];

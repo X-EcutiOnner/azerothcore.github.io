@@ -1,6 +1,7 @@
 var a22079 =
 [
-    [ "HandleScript", "d7/dac/a22079.html#abe018ab20f948bf5ddb47a724dfb9553", null ],
-    [ "PrepareSpellScript", "d7/dac/a22079.html#af0f5206d98dbc9de355abbeb03709c05", null ],
-    [ "Register", "d7/dac/a22079.html#a53d9d7de4922ed6509b6036921640352", null ]
+    [ "HandleOnEffectHit", "d7/dac/a22079.html#a909ec44339061a114697cacee5fba5b2", null ],
+    [ "PrepareSpellScript", "d7/dac/a22079.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
+    [ "Register", "d7/dac/a22079.html#aa241c97b4e895d07fe89d03edca29912", null ],
+    [ "Validate", "d7/dac/a22079.html#aa84f4c29ca00789bb47661267549cda6", null ]
 ];

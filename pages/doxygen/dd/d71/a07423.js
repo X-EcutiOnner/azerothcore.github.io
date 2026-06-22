@@ -1,6 +1,6 @@
 var a07423 =
 [
-    [ "charges", "dd/d71/a07423.html#a583aee5baaad873bcbcc2acad403d0bf", null ],
-    [ "duration", "dd/d71/a07423.html#a36445b0d9d75886a0697c75513eb6c41", null ],
-    [ "id", "dd/d71/a07423.html#ab19975d2dd203aa1124f2e06fb637171", null ]
+    [ "AuctionSortInfo", "dd/d71/a07423.html#a4ceca7230706e6906942306595686502", null ],
+    [ "isDesc", "dd/d71/a07423.html#a0077ee9a4d8727c460e07efd517ae0c6", null ],
+    [ "sortOrder", "dd/d71/a07423.html#ac6afc258e0eca83f8e2fd8996e83231b", null ]
 ];

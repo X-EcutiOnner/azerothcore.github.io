@@ -1,7 +1,8 @@
 var a11383 =
 [
-    [ "TrainerBuySucceeded", "d8/d69/a11383.html#ae00367a55429030c107fc8f6bb7db288", null ],
-    [ "Write", "d8/d69/a11383.html#a76c6af8b27ad75cb1f4944f8f44ba5d7", null ],
-    [ "SpellID", "d8/d69/a11383.html#acb2b774859531ccf04fe6ba1d013e85d", null ],
-    [ "TrainerGUID", "d8/d69/a11383.html#a4354c559764d2aa6b5d98bb51ee076fe", null ]
+    [ "TrainerBuyFailed", "d8/d69/a11383.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d8/d69/a11383.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d8/d69/a11383.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d8/d69/a11383.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d8/d69/a11383.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

@@ -1,10 +1,11 @@
 var a21211 =
 [
-    [ "npc_erekem_guard", "dd/d8d/a21211.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
-    [ "JustEngagedWith", "dd/d8d/a21211.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
-    [ "MoveInLineOfSight", "dd/d8d/a21211.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
-    [ "Reset", "dd/d8d/a21211.html#aacdc16855938d9f133b751f91b5e9402", null ],
-    [ "UpdateAI", "dd/d8d/a21211.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
-    [ "_events", "dd/d8d/a21211.html#a13829cd26d18c42213be1f6640a2b979", null ],
-    [ "_instance", "dd/d8d/a21211.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
+    [ "boss_cyanigosa", "dd/d8d/a21211.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "dd/d8d/a21211.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "dd/d8d/a21211.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "dd/d8d/a21211.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "dd/d8d/a21211.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "dd/d8d/a21211.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "dd/d8d/a21211.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "dd/d8d/a21211.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

@@ -1,11 +1,11 @@
 var a17271 =
 [
-    [ "npc_tortured_rifleman", "de/d22/a17271.html#a5ab42b048c14838b6992716f62200c57", null ],
-    [ "AttackStart", "de/d22/a17271.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
-    [ "DoAction", "de/d22/a17271.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
-    [ "EnterEvadeMode", "de/d22/a17271.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
-    [ "JustDied", "de/d22/a17271.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
-    [ "JustEngagedWith", "de/d22/a17271.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
-    [ "Reset", "de/d22/a17271.html#a04210cb211db92a1be6de7bc28953953", null ],
-    [ "UpdateAI", "de/d22/a17271.html#aa794584f9a842f9725f1f926b4099181", null ]
+    [ "npc_spectral_footman", "de/d22/a17271.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "de/d22/a17271.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "de/d22/a17271.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "de/d22/a17271.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "de/d22/a17271.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "de/d22/a17271.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "de/d22/a17271.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "de/d22/a17271.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

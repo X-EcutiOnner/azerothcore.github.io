@@ -1,7 +1,8 @@
 var a04991 =
 [
-    [ "Model", "dc/da2/a29939.html", "dc/da2/a29939" ],
-    [ "Extract", "d1/da2/a04991.html#aaece844099afc9d83362feb37427d5ae", null ],
-    [ "ExtractSet", "d1/da2/a04991.html#afd641f15b5ca6e58b68f26ef17a02912", null ],
-    [ "fixCoordSystem", "d1/da2/a04991.html#a8d0afbab5641bb7d88196fbad79e4cf1", null ]
+    [ "Vec3D", "d7/d93/a29963.html", "d7/d93/a29963" ],
+    [ "AaBox3D", "d1/d18/a29967.html", "d1/d18/a29967" ],
+    [ "Vec2D", "df/d96/a29971.html", "df/d96/a29971" ],
+    [ "Quaternion", "d0/de8/a29975.html", "d0/de8/a29975" ],
+    [ "rotate", "d1/da2/a04991.html#a36f9f3de1d3e6935da68df2c6e347a4d", null ]
 ];

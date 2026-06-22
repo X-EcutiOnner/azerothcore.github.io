@@ -1,6 +1,6 @@
 var a21759 =
 [
-    [ "npc_attracted_reef_bullAI", "da/d26/a21763.html", "da/d26/a21763" ],
-    [ "npc_attracted_reef_bull", "de/d51/a21759.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "de/d51/a21759.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "HandleOnEffectRemove", "de/d51/a21759.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "de/d51/a21759.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "de/d51/a21759.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

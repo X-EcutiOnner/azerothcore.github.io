@@ -1,8 +1,12 @@
 var a28211 =
 [
-    [ "npc_training_dummy", "d8/d47/a28211.html#a7cf3b633e444d67dfaea6308e3ed2dc1", null ],
-    [ "DamageTaken", "d8/d47/a28211.html#accd7c39cd7b22b30e654288b034f1319", null ],
-    [ "JustEnteredCombat", "d8/d47/a28211.html#a2dad51de23663e7b0bf6bcd2ce86a290", null ],
-    [ "UpdateAI", "d8/d47/a28211.html#abd6941fcfd3bdff557b38017bc74e83c", null ],
-    [ "_combatTimer", "d8/d47/a28211.html#a6e2ed26a35fecc3fe6e1957c3ed47124", null ]
+    [ "npc_elder_clearwaterAI", "d8/d47/a28211.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d8/d47/a28211.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d8/d47/a28211.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d8/d47/a28211.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d8/d47/a28211.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d8/d47/a28211.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d8/d47/a28211.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d8/d47/a28211.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d8/d47/a28211.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

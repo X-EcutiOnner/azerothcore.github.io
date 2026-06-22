@@ -1,6 +1,8 @@
 var a21063 =
 [
-    [ "CanBeAppliedOn", "d5/d07/a21063.html#ad92126f58e8ac8c83449725bc29fda8b", null ],
-    [ "PrepareAuraScript", "d5/d07/a21063.html#aaa7631a3d8a5476da6e051de90f34ee4", null ],
-    [ "Register", "d5/d07/a21063.html#a9a3e0c1a86cfc1b9747810cfca76f784", null ]
+    [ "FilterTargets", "d5/d07/a21063.html#a6f3d275e5ff06a6fc37f143d6394bf45", null ],
+    [ "HandleScript", "d5/d07/a21063.html#aa97e0b2f4a8e33d412501f6625ab1504", null ],
+    [ "PrepareSpellScript", "d5/d07/a21063.html#a0db5183ec1aa7f490202ac41cd00b153", null ],
+    [ "Register", "d5/d07/a21063.html#acd4b270dbe27be417892e0a4183ffa0d", null ],
+    [ "Validate", "d5/d07/a21063.html#abb3ca41a50087763d731d1f911065e14", null ]
 ];

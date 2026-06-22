@@ -1,7 +1,10 @@
 var a21379 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d5/d3e/a21379.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d5/d3e/a21379.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d5/d3e/a21379.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d5/d3e/a21379.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_bonker_togglevoltAI", "d5/d3e/a21379.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "d5/d3e/a21379.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "d5/d3e/a21379.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "d5/d3e/a21379.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "d5/d3e/a21379.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "WaypointReached", "d5/d3e/a21379.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Bonker_agro", "d5/d3e/a21379.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

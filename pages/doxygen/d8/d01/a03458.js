@@ -1,4 +1,4 @@
 var a03458 =
 [
-    [ "ScriptRegistry< TicketScript >", "d8/d01/a03458.html#a3455c8aecfa91396c5eb215ecbce5583", null ]
+    [ "ScriptRegistry< ArenaTeamScript >", "d8/d01/a03458.html#a5d2a56a9849b1ba119fd3224685406fe", null ]
 ];

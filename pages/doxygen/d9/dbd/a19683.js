@@ -1,14 +1,12 @@
 var a19683 =
 [
-    [ "npc_crystalline_frayer", "d9/dbd/a19683.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d9/dbd/a19683.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d9/dbd/a19683.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "EnterSeedPod", "d9/dbd/a19683.html#a070554a809ba40726d005fdba19a16b0", null ],
-    [ "JustEngagedWith", "d9/dbd/a19683.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "LeaveSeedPod", "d9/dbd/a19683.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
-    [ "Reset", "d9/dbd/a19683.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d9/dbd/a19683.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d9/dbd/a19683.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "_inSeedPod", "d9/dbd/a19683.html#a26e0c5f780bc661796f922c52000c30a", null ],
-    [ "_scheduler", "d9/dbd/a19683.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/dbd/a19683.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/dbd/a19683.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "KillAllFrayers", "d9/dbd/a19683.html#a7c696467deba7a2f15d5175e3427bd20", null ],
+    [ "OnCreatureCreate", "d9/dbd/a19683.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/dbd/a19683.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/dbd/a19683.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/dbd/a19683.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/dbd/a19683.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ],
+    [ "_frayerGUIDs", "d9/dbd/a19683.html#ab85b5379b6c177dc1d61ccd14106a325", null ]
 ];

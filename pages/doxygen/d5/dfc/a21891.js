@@ -1,6 +1,6 @@
 var a21891 =
 [
-    [ "npc_guardian_pavilionAI", "de/d25/a21895.html", "de/d25/a21895" ],
-    [ "npc_guardian_pavilion", "d5/dfc/a21891.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d5/dfc/a21891.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "ChangeSummonPos", "d5/dfc/a21891.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d5/dfc/a21891.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d5/dfc/a21891.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

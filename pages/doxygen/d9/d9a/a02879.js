@@ -1,21 +1,10 @@
 var a02879 =
 [
-    [ "Trainer::Spell", "da/d4a/a08476.html", "da/d4a/a08476" ],
-    [ "Trainer::Trainer", "db/de7/a08480.html", "db/de7/a08480" ],
-    [ "FailReason", "d9/d9a/a02879.html#ae4935022d4e3c686a8b51cd68a4f2b66", [
-      [ "Unavailable", "d9/d9a/a02879.html#ae4935022d4e3c686a8b51cd68a4f2b66a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "NotEnoughMoney", "d9/d9a/a02879.html#ae4935022d4e3c686a8b51cd68a4f2b66a261cca2ac483068d987c38cfa8fd6094", null ],
-      [ "NotEnoughSkill", "d9/d9a/a02879.html#ae4935022d4e3c686a8b51cd68a4f2b66a5ba2f62395296316a2a2222477988264", null ]
+    [ "ObjectPosSelector", "de/d8e/a08791.html", "de/d8e/a08791" ],
+    [ "ObjectPosSelector::UsedPos", "d6/d72/a08795.html", "d6/d72/a08795" ],
+    [ "UsedPosType", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397", [
+      [ "USED_POS_PLUS", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
+      [ "USED_POS_MINUS", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
     ] ],
-    [ "SpellState", "d9/d9a/a02879.html#a34dc7b354e539f94e4c8a4cbd0711758", [
-      [ "Available", "d9/d9a/a02879.html#a34dc7b354e539f94e4c8a4cbd0711758a78945de8de090e90045d299651a68a9b", null ],
-      [ "Unavailable", "d9/d9a/a02879.html#a34dc7b354e539f94e4c8a4cbd0711758a453e6aa38d87b28ccae545967c53004f", null ],
-      [ "Known", "d9/d9a/a02879.html#a34dc7b354e539f94e4c8a4cbd0711758a2f5650e484fa195949ac6c8d11dca4fd", null ]
-    ] ],
-    [ "Type", "d9/d9a/a02879.html#a636cc62a0635fc1566fb574ebe9941a9", [
-      [ "Class", "d9/d9a/a02879.html#a636cc62a0635fc1566fb574ebe9941a9a9bd81329febf6efe22788e03ddeaf0af", null ],
-      [ "Mount", "d9/d9a/a02879.html#a636cc62a0635fc1566fb574ebe9941a9aeace16d66cdd93ad876c620db7456077", null ],
-      [ "Tradeskill", "d9/d9a/a02879.html#a636cc62a0635fc1566fb574ebe9941a9a7f36331b1b83871b2bd2773a286f54cd", null ],
-      [ "Pet", "d9/d9a/a02879.html#a636cc62a0635fc1566fb574ebe9941a9a7c986af4cf8f6e55a1f846dc498ce91d", null ]
-    ] ]
+    [ "operator~", "d9/d9a/a02879.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
 ];

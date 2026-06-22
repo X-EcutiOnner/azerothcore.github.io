@@ -1,4 +1,5 @@
 var a03509 =
 [
-    [ "ScriptRegistry< BattlegroundScript >", "df/d8e/a03509.html#a954046a61096ecb9db321b0a35da5f77", null ]
+    [ "ScriptRegistry< AllItemScript >", "df/d8e/a03509.html#a0f69164743e657905c670df85e97a29c", null ],
+    [ "ScriptRegistry< ItemScript >", "df/d8e/a03509.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
 ];

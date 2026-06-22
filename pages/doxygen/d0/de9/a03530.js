@@ -1,5 +1,4 @@
 var a03530 =
 [
-    [ "AreaTriggerScript", "de/df9/a10631.html", "de/df9/a10631" ],
-    [ "OnlyOnceAreaTriggerScript", "d5/dfe/a10635.html", "d5/dfe/a10635" ]
+    [ "ScriptRegistry< CreatureScript >", "d0/de9/a03530.html#adb066a45d02e899835d90ecde5d40ccd", null ]
 ];

@@ -1,7 +1,5 @@
 var a23239 =
 [
-    [ "OnApply", "da/de5/a23239.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "da/de5/a23239.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "da/de5/a23239.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "da/de5/a23239.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "npc_invisible_tractor_beam_source", "da/de5/a23239.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "da/de5/a23239.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

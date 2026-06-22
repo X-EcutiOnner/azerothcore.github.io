@@ -1,5 +1,7 @@
 var a21811 =
 [
-    [ "npc_black_knight_graveyardAI", "db/dd4/a21811.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "db/dd4/a21811.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleScript", "db/dd4/a21811.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
+    [ "PrepareSpellScript", "db/dd4/a21811.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
+    [ "Register", "db/dd4/a21811.html#a713b82bc3d82a8324ce4dd090059f463", null ],
+    [ "Validate", "db/dd4/a21811.html#ac8e362d9f76350da106e128138737c5c", null ]
 ];

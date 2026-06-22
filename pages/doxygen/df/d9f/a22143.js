@@ -1,7 +1,6 @@
 var a22143 =
 [
-    [ "npc_wg_siege_machineAI", "df/d9f/a22143.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "df/d9f/a22143.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "df/d9f/a22143.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "df/d9f/a22143.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_wg_queueAI", "df/d9f/a22143.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "df/d9f/a22143.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "df/d9f/a22143.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

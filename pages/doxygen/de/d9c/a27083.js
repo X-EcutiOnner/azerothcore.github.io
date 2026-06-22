@@ -1,6 +1,6 @@
 var a27083 =
 [
-    [ "HandleProc", "de/d9c/a27083.html#a34fc7c89e962791d76c24c40bbdba827", null ],
-    [ "PrepareAuraScript", "de/d9c/a27083.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
-    [ "Register", "de/d9c/a27083.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
+    [ "CheckCast", "de/d9c/a27083.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "de/d9c/a27083.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "de/d9c/a27083.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

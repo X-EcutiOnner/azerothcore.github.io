@@ -1,9 +1,8 @@
 var a09155 =
 [
-    [ "VehicleAccessory", "d8/d88/a09155.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
-    [ "AccessoryEntry", "d8/d88/a09155.html#a6e3cd6b20680974235c146d34b16295a", null ],
-    [ "IsMinion", "d8/d88/a09155.html#ace3fd27311370e4db4103f2c3ac70410", null ],
-    [ "SeatId", "d8/d88/a09155.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
-    [ "SummonedType", "d8/d88/a09155.html#afc843c62c580c860471b0e49f5901363", null ],
-    [ "SummonTime", "d8/d88/a09155.html#a13a024b3ceacf38ce4907b079d732420", null ]
+    [ "VehicleSeat", "d8/d88/a09155.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d8/d88/a09155.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d8/d88/a09155.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d8/d88/a09155.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d8/d88/a09155.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

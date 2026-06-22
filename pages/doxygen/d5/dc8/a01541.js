@@ -1,9 +1,5 @@
 var a01541 =
 [
-    [ "PoolTemplateItem", "da/d98/a12451.html", "da/d98/a12451" ],
-    [ "NodeGroup", "d6/d3c/a12455.html", "d6/d3c/a12455" ],
-    [ "PoolSession", "df/d15/a12459.html", "df/d15/a12459" ],
-    [ "pooltools_commandscript", "d1/d3b/a12463.html", "d1/d3b/a12463" ],
-    [ "AddSC_pooltools_commandscript", "d5/dc8/a01541.html#a8c8907ff2ae66e87142b14909a2ee941", null ],
-    [ "PoolSessions", "d5/dc8/a01541.html#ab5e275ff67266d9329307cd8a5398b14", null ]
+    [ "ticket_commandscript", "d9/d53/a12511.html", "d9/d53/a12511" ],
+    [ "AddSC_ticket_commandscript", "d5/dc8/a01541.html#ad71463f4442d2e022a92404a4d9dec76", null ]
 ];

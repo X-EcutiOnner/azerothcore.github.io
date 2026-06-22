@@ -1,11 +1,11 @@
 var a22443 =
 [
-    [ "boss_murmur", "db/d87/a22443.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CastSuppressionOOC", "db/d87/a22443.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "DamageTaken", "db/d87/a22443.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
-    [ "EnterEvadeMode", "db/d87/a22443.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "db/d87/a22443.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "db/d87/a22443.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "db/d87/a22443.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
-    [ "ShouldCastResonance", "db/d87/a22443.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "boss_blackheart_the_inciter", "db/d87/a22443.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "db/d87/a22443.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "db/d87/a22443.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "db/d87/a22443.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "db/d87/a22443.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "db/d87/a22443.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "db/d87/a22443.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "db/d87/a22443.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

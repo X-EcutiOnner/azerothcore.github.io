@@ -1,7 +1,8 @@
 var a22095 =
 [
-    [ "OnApply", "dd/d62/a22095.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "dd/d62/a22095.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "dd/d62/a22095.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "dd/d62/a22095.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "spell_loosen_grip", "dd/d62/a22095.html#ae35f230e0c66e88f59558748c80470dd", null ],
+    [ "HandleScript", "dd/d62/a22095.html#af82f9b7afda00bae22fa53d8b63d2509", null ],
+    [ "PrepareSpellScript", "dd/d62/a22095.html#a219dc7d735f82d8e3b85390f0a881743", null ],
+    [ "Register", "dd/d62/a22095.html#a8b446d8b5ab00b984272c74b06663326", null ],
+    [ "_stacksToLose", "dd/d62/a22095.html#ae47dac5e3b380aeb22877ba5e5b5829f", null ]
 ];

@@ -1,10 +1,10 @@
 var a00122 =
 [
-    [ "spell_razelikh_teleport_group", "de/d48/a13896.html", "de/d48/a13896" ],
-    [ "DeathlyUsher", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "df/dc8/a00122.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
-    ] ],
-    [ "AddSC_blasted_lands", "df/dc8/a00122.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "ArenaHookDefaultsTest", "d1/d8c/a29511.html", "d1/d8c/a29511" ],
+    [ "TEST_F", "df/dc8/a00122.html#af7f1863961720e96f331f17dd1d7ad7a", null ],
+    [ "TEST_F", "df/dc8/a00122.html#acede4c371594a1fd0528b8197fcc6cbb", null ],
+    [ "TEST_F", "df/dc8/a00122.html#a6677d75c2b2c5b8a1b910e5b7a943867", null ],
+    [ "TEST_F", "df/dc8/a00122.html#abb810fe89abdcbd96e44ddf079e86cf3", null ],
+    [ "TEST_F", "df/dc8/a00122.html#a107778bcf48a658ed6e9f2a52234d6d0", null ],
+    [ "TEST_F", "df/dc8/a00122.html#ab81f733e33491c5907ae23252337725c", null ]
 ];

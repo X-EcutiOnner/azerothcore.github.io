@@ -1,5 +1,6 @@
 var a01640 =
 [
-    [ "send_commandscript", "df/d41/a12487.html", "df/d41/a12487" ],
-    [ "AddSC_send_commandscript", "de/d14/a01640.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "lfg_commandscript", "d6/de4/a12387.html", "d6/de4/a12387" ],
+    [ "AddSC_lfg_commandscript", "de/d14/a01640.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "de/d14/a01640.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

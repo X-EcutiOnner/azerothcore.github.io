@@ -1,7 +1,6 @@
 var a12799 =
 [
-    [ "HandleScript", "df/da2/a12799.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "df/da2/a12799.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "df/da2/a12799.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "df/da2/a12799.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "go_chromaggus_lever", "df/da2/a12799.html#aa592f93028e323ed10102121d2d6b20e", null ],
+    [ "GossipHello", "df/da2/a12799.html#abfb91ccfeb90152dc252f0110fb51715", null ],
+    [ "_instance", "df/da2/a12799.html#a481373f4c49d76d3d0a41efcf2821f8f", null ]
 ];

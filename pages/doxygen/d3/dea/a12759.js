@@ -1,5 +1,5 @@
 var a12759 =
 [
-    [ "go_father_flame", "d3/dea/a12759.html#aa23829f617c48bb6da57ff7977886e75", null ],
-    [ "OnStateChanged", "d3/dea/a12759.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
+    [ "at_blackrock_stadium", "d3/dea/a12759.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d3/dea/a12759.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

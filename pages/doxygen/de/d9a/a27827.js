@@ -1,9 +1,6 @@
 var a27827 =
 [
-    [ "boss_lethonAI", "de/d9a/a27827.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "de/d9a/a27827.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "de/d9a/a27827.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "de/d9a/a27827.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "de/d9a/a27827.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "de/d9a/a27827.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "boss_ysondreAI", "d3/db0/a27831.html", "d3/db0/a27831" ],
+    [ "boss_ysondre", "de/d9a/a27827.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "de/d9a/a27827.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

@@ -1,8 +1,5 @@
 var a12567 =
 [
-    [ "brd_ironhand_guardian", "de/d35/a12567.html#a635a59a53948b6e252a15384d784a969", null ],
-    [ "SetData", "de/d35/a12567.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
-    [ "UpdateAI", "de/d35/a12567.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
-    [ "_flamesEnabled", "de/d35/a12567.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
-    [ "events", "de/d35/a12567.html#a01047164b0728cb6d08a7f41cf092a58", null ]
+    [ "go_shadowforge_brazier", "de/d35/a12567.html#a35a7aa318b20bc2b0e3081be506e835e", null ],
+    [ "GossipHello", "de/d35/a12567.html#a1bbe1da11b4a15bb2ced7df0ae614626", null ]
 ];

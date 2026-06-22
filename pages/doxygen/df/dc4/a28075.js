@@ -1,10 +1,8 @@
 var a28075 =
 [
-    [ "guard_shattrath_scryerAI", "df/dc4/a28075.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "df/dc4/a28075.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "df/dc4/a28075.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "df/dc4/a28075.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "df/dc4/a28075.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "df/dc4/a28075.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "df/dc4/a28075.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_bellsAI", "df/dc4/a28075.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "df/dc4/a28075.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "df/dc4/a28075.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "df/dc4/a28075.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "df/dc4/a28075.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

@@ -1,5 +1,5 @@
 var a00140 =
 [
-    [ "ProcEventInfoBuilder", "d0/df8/a29351.html", "d0/df8/a29351" ],
-    [ "SpellProcEntryBuilder", "d8/da9/a29355.html", "d8/da9/a29355" ]
+    [ "TestSpellEntryHelper", "d1/d52/a29371.html", "d1/d52/a29371" ],
+    [ "SpellInfoBuilder", "d4/d01/a29375.html", "d4/d01/a29375" ]
 ];

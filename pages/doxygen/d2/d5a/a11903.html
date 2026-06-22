@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: SpellLearnSkillNode Struct Reference</title>
+<title>AzerothCore: CreatureImmunities Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,7 +107,7 @@ $(document).ready(function(){initNavTree('d2/d5a/a11903.html','../../'); initRes
   <div class="summary">
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dc/d36/a11900.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">SpellLearnSkillNode Struct Reference</div></div>
+  <div class="headertitle"><div class="title">CreatureImmunities Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -115,78 +115,128 @@ $(document).ready(function(){initNavTree('d2/d5a/a11903.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a8bcbe05ff6a3220f9f05f52b16925f5d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a8bcbe05ff6a3220f9f05f52b16925f5d">skill</a></td></tr>
-<tr class="separator:a8bcbe05ff6a3220f9f05f52b16925f5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c882f7d43c65954cb99566225660312"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a1c882f7d43c65954cb99566225660312">step</a></td></tr>
-<tr class="separator:a1c882f7d43c65954cb99566225660312"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a064fece53cdaf07b072510b14200a968"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a064fece53cdaf07b072510b14200a968">value</a></td></tr>
-<tr class="separator:a064fece53cdaf07b072510b14200a968"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1dd2289b0d3505cb50e8613595ad8c8e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a1dd2289b0d3505cb50e8613595ad8c8e">maxvalue</a></td></tr>
-<tr class="separator:a1dd2289b0d3505cb50e8613595ad8c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a587a27eae3c94be00522b6b84521ed3c"><td class="memItemLeft" align="right" valign="top">std::bitset&lt; <a class="el" href="../../d7/d6e/a02273.html#a3d2e33bfddb1e3c28157eb6d136bfd28">MAX_SPELL_SCHOOL</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a587a27eae3c94be00522b6b84521ed3c">School</a></td></tr>
+<tr class="separator:a587a27eae3c94be00522b6b84521ed3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a964f9e427d50b8630ef1221914adad89"><td class="memItemLeft" align="right" valign="top">std::bitset&lt; <a class="el" href="../../d7/d6e/a02273.html#ada2b5e66b650d7a63f70c06a746070d1a2d116de1f76925369bca2c04a543bab0">DISPEL_MAX</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a964f9e427d50b8630ef1221914adad89">DispelType</a></td></tr>
+<tr class="separator:a964f9e427d50b8630ef1221914adad89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01290d95abdbcf391557c7d72be05ebe"><td class="memItemLeft" align="right" valign="top">std::bitset&lt; <a class="el" href="../../d7/d6e/a02273.html#a8fe6a763d72d84ded23cec01c772f7adaaee270cf1a99c6c99a0953cf91f72c6c">MAX_MECHANIC</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a01290d95abdbcf391557c7d72be05ebe">Mechanic</a></td></tr>
+<tr class="separator:a01290d95abdbcf391557c7d72be05ebe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61a5bcfce9d99c09aa58fd99afb97e5c"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d7/d6e/a02273.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a61a5bcfce9d99c09aa58fd99afb97e5c">Effect</a></td></tr>
+<tr class="separator:a61a5bcfce9d99c09aa58fd99afb97e5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab87ff32c7b9d25f238245df1b646c49a"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799">AuraType</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#ab87ff32c7b9d25f238245df1b646c49a">Aura</a></td></tr>
+<tr class="separator:ab87ff32c7b9d25f238245df1b646c49a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b195291886ba333efd63d0edded1bb4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a2b195291886ba333efd63d0edded1bb4">ImmuneAoE</a> = false</td></tr>
+<tr class="separator:a2b195291886ba333efd63d0edded1bb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81a36e982f45209bfd6d1b0bad843cc1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d5a/a11903.html#a81a36e982f45209bfd6d1b0bad843cc1">ImmuneChain</a> = false</td></tr>
+<tr class="separator:a81a36e982f45209bfd6d1b0bad843cc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1dd2289b0d3505cb50e8613595ad8c8e" name="a1dd2289b0d3505cb50e8613595ad8c8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1dd2289b0d3505cb50e8613595ad8c8e">&#9670;&#160;</a></span>maxvalue</h2>
+<a id="ab87ff32c7b9d25f238245df1b646c49a" name="ab87ff32c7b9d25f238245df1b646c49a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab87ff32c7b9d25f238245df1b646c49a">&#9670;&#160;</a></span>Aura</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::maxvalue</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799">AuraType</a>&gt; CreatureImmunities::Aura</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03115">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03334">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02236">Creature::LoadTemplateImmunities()</a>.</p>
 
 </div>
 </div>
-<a id="a8bcbe05ff6a3220f9f05f52b16925f5d" name="a8bcbe05ff6a3220f9f05f52b16925f5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bcbe05ff6a3220f9f05f52b16925f5d">&#9670;&#160;</a></span>skill</h2>
+<a id="a964f9e427d50b8630ef1221914adad89" name="a964f9e427d50b8630ef1221914adad89"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a964f9e427d50b8630ef1221914adad89">&#9670;&#160;</a></span>DispelType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::skill</td>
+          <td class="memname">std::bitset&lt;<a class="el" href="../../d7/d6e/a02273.html#ada2b5e66b650d7a63f70c06a746070d1a2d116de1f76925369bca2c04a543bab0">DISPEL_MAX</a>&gt; CreatureImmunities::DispelType</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03115">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03334">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02236">Creature::LoadTemplateImmunities()</a>.</p>
 
 </div>
 </div>
-<a id="a1c882f7d43c65954cb99566225660312" name="a1c882f7d43c65954cb99566225660312"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c882f7d43c65954cb99566225660312">&#9670;&#160;</a></span>step</h2>
+<a id="a61a5bcfce9d99c09aa58fd99afb97e5c" name="a61a5bcfce9d99c09aa58fd99afb97e5c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61a5bcfce9d99c09aa58fd99afb97e5c">&#9670;&#160;</a></span>Effect</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::step</td>
+          <td class="memname">std::vector&lt;<a class="el" href="../../d7/d6e/a02273.html#a292c893150c454dd75628b719db1fe97">SpellEffects</a>&gt; CreatureImmunities::Effect</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03115">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03334">Player::removeSpell()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02236">Creature::LoadTemplateImmunities()</a>.</p>
 
 </div>
 </div>
-<a id="a064fece53cdaf07b072510b14200a968" name="a064fece53cdaf07b072510b14200a968"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a064fece53cdaf07b072510b14200a968">&#9670;&#160;</a></span>value</h2>
+<a id="a2b195291886ba333efd63d0edded1bb4" name="a2b195291886ba333efd63d0edded1bb4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b195291886ba333efd63d0edded1bb4">&#9670;&#160;</a></span>ImmuneAoE</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> SpellLearnSkillNode::value</td>
+          <td class="memname">bool CreatureImmunities::ImmuneAoE = false</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l03115">Player::_addSpell()</a>, <a class="el" href="../../#l01455">SpellMgr::LoadSpellLearnSkills()</a>, and <a class="el" href="../../#l03334">Player::removeSpell()</a>.</p>
+</div>
+</div>
+<a id="a81a36e982f45209bfd6d1b0bad843cc1" name="a81a36e982f45209bfd6d1b0bad843cc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81a36e982f45209bfd6d1b0bad843cc1">&#9670;&#160;</a></span>ImmuneChain</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CreatureImmunities::ImmuneChain = false</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a01290d95abdbcf391557c7d72be05ebe" name="a01290d95abdbcf391557c7d72be05ebe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a01290d95abdbcf391557c7d72be05ebe">&#9670;&#160;</a></span>Mechanic</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::bitset&lt;<a class="el" href="../../d7/d6e/a02273.html#a8fe6a763d72d84ded23cec01c772f7adaaee270cf1a99c6c99a0953cf91f72c6c">MAX_MECHANIC</a>&gt; CreatureImmunities::Mechanic</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02236">Creature::LoadTemplateImmunities()</a>.</p>
+
+</div>
+</div>
+<a id="a587a27eae3c94be00522b6b84521ed3c" name="a587a27eae3c94be00522b6b84521ed3c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a587a27eae3c94be00522b6b84521ed3c">&#9670;&#160;</a></span>School</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::bitset&lt;<a class="el" href="../../d7/d6e/a02273.html#a3d2e33bfddb1e3c28157eb6d136bfd28">MAX_SPELL_SCHOOL</a>&gt; CreatureImmunities::School</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02236">Creature::LoadTemplateImmunities()</a>.</p>
 
 </div>
 </div>
@@ -195,8 +245,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d5a/a11903.html">SpellLearnSkillNode</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:39:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/d5a/a11903.html">CreatureImmunities</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:26:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

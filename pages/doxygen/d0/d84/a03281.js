@@ -1,6 +1,7 @@
 var a03281 =
 [
-    [ "Movement::FacingInfo", "da/db4/a10467.html", "da/db4/a10467" ],
-    [ "Movement::MoveSplineInitArgs", "d3/d82/a10475.html", "d3/d82/a10475" ],
-    [ "PointsArray", "d0/d84/a03281.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
+    [ "Movement::TransportPathTransform", "d3/d8a/a10459.html", "d3/d8a/a10459" ],
+    [ "Movement::HoverMovementTransform", "de/d6e/a10463.html", "de/d6e/a10463" ],
+    [ "Movement::MoveSplineInit", "da/db4/a10467.html", "da/db4/a10467" ],
+    [ "SelectSpeedType", "d0/d84/a03281.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
 ];

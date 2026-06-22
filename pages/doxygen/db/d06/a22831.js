@@ -1,6 +1,6 @@
 var a22831 =
 [
-    [ "HandleScriptEffect", "db/d06/a22831.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "db/d06/a22831.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "db/d06/a22831.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "PrepareAuraScript", "db/d06/a22831.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "db/d06/a22831.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "db/d06/a22831.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

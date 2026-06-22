@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MapObject Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{WildGrowthTickScalingTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,58 +105,50 @@ $(document).ready(function(){initNavTree('dc/ddb/a05144.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">MapObject Namespace Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{WildGrowthTickScalingTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a9148b3ef5b412564a285737b0bd104dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#a9148b3ef5b412564a285737b0bd104dd">Extract</a> (<a class="el" href="../../db/d7b/a29927.html">ADT::MODF</a> const &amp;mapObjDef, char const *WmoInstName, <a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY, FILE *pDirfile)</td></tr>
-<tr class="separator:a9148b3ef5b412564a285737b0bd104dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95e4d56dd3e5ff9502c8bb2627784cd5"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a95e4d56dd3e5ff9502c8bb2627784cd5"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#a95e4d56dd3e5ff9502c8bb2627784cd5">CalcPct</a> (T base, float pct)</td></tr>
+<tr class="memdesc:a95e4d56dd3e5ff9502c8bb2627784cd5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors CalculatePct from <a class="el" href="../../db/d24/a04901.html">Define.h</a>: base * pct / 100.  <a href="../../dc/ddb/a05144.html#a95e4d56dd3e5ff9502c8bb2627784cd5">More...</a><br /></td></tr>
+<tr class="separator:a95e4d56dd3e5ff9502c8bb2627784cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addfd88f5be5daae3a078cbade7aed80e"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#addfd88f5be5daae3a078cbade7aed80e">CalcWildGrowthTickAmount</a> (int32_t baseTick, uint32_t tickNumber, float baseReduction)</td></tr>
+<tr class="memdesc:addfd88f5be5daae3a078cbade7aed80e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors <a class="el" href="../../d2/d04/a24711.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a>.  <a href="../../dc/ddb/a05144.html#addfd88f5be5daae3a078cbade7aed80e">More...</a><br /></td></tr>
+<tr class="separator:addfd88f5be5daae3a078cbade7aed80e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d72b7a206fea0eaa814a190c35a0e29"><td class="memItemLeft" align="right" valign="top">std::vector&lt; int32_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#a7d72b7a206fea0eaa814a190c35a0e29">CalcAllTicks</a> (int32_t baseTick, float baseReduction=<a class="el" href="../../dc/ddb/a05144.html#ae0cd8a076081c01395db37925ee7e3f5">DEFAULT_REDUCTION</a>)</td></tr>
+<tr class="memdesc:a7d72b7a206fea0eaa814a190c35a0e29"><td class="mdescLeft">&#160;</td><td class="mdescRight">Calculate all tick amounts for a Wild Growth cast.  <a href="../../dc/ddb/a05144.html#a7d72b7a206fea0eaa814a190c35a0e29">More...</a><br /></td></tr>
+<tr class="separator:a7d72b7a206fea0eaa814a190c35a0e29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a7748fbc7dddd525998e933e79311736a"><td class="memItemLeft" align="right" valign="top">constexpr int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#a7748fbc7dddd525998e933e79311736a">TOTAL_TICKS</a> = 7</td></tr>
+<tr class="separator:a7748fbc7dddd525998e933e79311736a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0cd8a076081c01395db37925ee7e3f5"><td class="memItemLeft" align="right" valign="top">constexpr float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/ddb/a05144.html#ae0cd8a076081c01395db37925ee7e3f5">DEFAULT_REDUCTION</a> = 2.0f</td></tr>
+<tr class="separator:ae0cd8a076081c01395db37925ee7e3f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a9148b3ef5b412564a285737b0bd104dd" name="a9148b3ef5b412564a285737b0bd104dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9148b3ef5b412564a285737b0bd104dd">&#9670;&#160;</a></span>Extract()</h2>
+<a id="a7d72b7a206fea0eaa814a190c35a0e29" name="a7d72b7a206fea0eaa814a190c35a0e29"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7d72b7a206fea0eaa814a190c35a0e29">&#9670;&#160;</a></span>CalcAllTicks()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void MapObject::Extract </td>
+          <td class="memname">std::vector&lt; int32_t &gt; anonymous_namespace{WildGrowthTickScalingTest.cpp}::CalcAllTicks </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d7b/a29927.html">ADT::MODF</a> const &amp;&#160;</td>
-          <td class="paramname"><em>mapObjDef</em>, </td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>baseTick</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>WmoInstName</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mapID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>tileX</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>tileY</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FILE *&#160;</td>
-          <td class="paramname"><em>pDirfile</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>baseReduction</em> = <code><a class="el" href="../../dc/ddb/a05144.html#ae0cd8a076081c01395db37925ee7e3f5">DEFAULT_REDUCTION</a></code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -165,84 +157,153 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  533</span>{</div>
-<div class="line"><span class="lineno">  534</span>    <span class="comment">// destructible wmo, do not dump. we can handle the vmap for these</span></div>
-<div class="line"><span class="lineno">  535</span>    <span class="comment">// in dynamic tree (gameobject vmaps)</span></div>
-<div class="line"><span class="lineno">  536</span>    <span class="keywordflow">if</span> ((mapObjDef.Flags &amp; 0x1) != 0)</div>
-<div class="line"><span class="lineno">  537</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  538</span> </div>
-<div class="line"><span class="lineno">  539</span>    <span class="comment">//-----------add_in _dir_file----------------</span></div>
-<div class="line"><span class="lineno">  540</span> </div>
-<div class="line"><span class="lineno">  541</span>    <span class="keywordtype">char</span> tempname[1036];</div>
-<div class="line"><span class="lineno">  542</span>    sprintf(tempname, <span class="stringliteral">&quot;%s/%s&quot;</span>, <a class="code hl_variable" href="../../de/d7d/a05000.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>, WmoInstName);</div>
-<div class="line"><span class="lineno">  543</span>    FILE* input;</div>
-<div class="line"><span class="lineno">  544</span>    input = fopen(tempname, <span class="stringliteral">&quot;r+b&quot;</span>);</div>
-<div class="line"><span class="lineno">  545</span> </div>
-<div class="line"><span class="lineno">  546</span>    <span class="keywordflow">if</span> (!input)</div>
-<div class="line"><span class="lineno">  547</span>    {</div>
-<div class="line"><span class="lineno">  548</span>        printf(<span class="stringliteral">&quot;WMOInstance::WMOInstance: couldn&#39;t open %s\n&quot;</span>, tempname);</div>
-<div class="line"><span class="lineno">  549</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  550</span>    }</div>
-<div class="line"><span class="lineno">  551</span> </div>
-<div class="line"><span class="lineno">  552</span>    fseek(input, 8, SEEK_SET); <span class="comment">// get the correct no of vertices</span></div>
-<div class="line"><span class="lineno">  553</span>    <span class="keywordtype">int</span> nVertices;</div>
-<div class="line"><span class="lineno">  554</span>    <span class="keywordtype">int</span> count = fread(&amp;nVertices, <span class="keyword">sizeof</span> (<span class="keywordtype">int</span>), 1, input);</div>
-<div class="line"><span class="lineno">  555</span>    fclose(input);</div>
-<div class="line"><span class="lineno">  556</span> </div>
-<div class="line"><span class="lineno">  557</span>    <span class="keywordflow">if</span> (count != 1 || nVertices == 0)</div>
-<div class="line"><span class="lineno">  558</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  559</span> </div>
-<div class="line"><span class="lineno">  560</span>    <a class="code hl_class" href="../../d8/d48/a29947.html">Vec3D</a> position = mapObjDef.Position;</div>
-<div class="line"><span class="lineno">  561</span> </div>
-<div class="line"><span class="lineno">  562</span>    <span class="keywordtype">float</span> x, z;</div>
-<div class="line"><span class="lineno">  563</span>    x = position.<a class="code hl_variable" href="../../d8/d48/a29947.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
-<div class="line"><span class="lineno">  564</span>    z = position.<a class="code hl_variable" href="../../d8/d48/a29947.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
-<div class="line"><span class="lineno">  565</span>    <span class="keywordflow">if</span> (x == 0 &amp;&amp; z == 0)</div>
-<div class="line"><span class="lineno">  566</span>    {</div>
-<div class="line"><span class="lineno">  567</span>        position.<a class="code hl_variable" href="../../d8/d48/a29947.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> = 533.33333f * 32;</div>
-<div class="line"><span class="lineno">  568</span>        position.<a class="code hl_variable" href="../../d8/d48/a29947.html#a5a619f14529e714231bff4cc6fd36614">z</a> = 533.33333f * 32;</div>
-<div class="line"><span class="lineno">  569</span>    }</div>
-<div class="line"><span class="lineno">  570</span>    position = <a class="code hl_function" href="../../d0/da3/a04961.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(position);</div>
-<div class="line"><span class="lineno">  571</span>    <a class="code hl_class" href="../../d9/d0b/a29951.html">AaBox3D</a> bounds;</div>
-<div class="line"><span class="lineno">  572</span>    bounds.<a class="code hl_variable" href="../../d9/d0b/a29951.html#a7277258d8bdc471a007814fadf91780a">min</a> = <a class="code hl_function" href="../../d0/da3/a04961.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.min);</div>
-<div class="line"><span class="lineno">  573</span>    bounds.<a class="code hl_variable" href="../../d9/d0b/a29951.html#a3d87d5fa5e887282fa76a4a4b77eb097">max</a> = <a class="code hl_function" href="../../d0/da3/a04961.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.max);</div>
-<div class="line"><span class="lineno">  574</span> </div>
-<div class="line"><span class="lineno">  575</span>    <span class="keywordtype">float</span> scale = 1.0f;</div>
-<div class="line"><span class="lineno">  576</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> uniqueId = <a class="code hl_function" href="../../de/d7d/a05000.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a>(mapObjDef.UniqueId, 0);</div>
-<div class="line"><span class="lineno">  577</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags = <a class="code hl_enumvalue" href="../../d2/ddb/a04952.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a>;</div>
-<div class="line"><span class="lineno">  578</span>    <span class="keywordflow">if</span> (tileX == 65 &amp;&amp; tileY == 65) flags |= <a class="code hl_enumvalue" href="../../d2/ddb/a04952.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a>;</div>
-<div class="line"><span class="lineno">  579</span>    <span class="comment">//write mapID, tileX, tileY, Flags, NameSet, UniqueId, Pos, Rot, Scale, Bound_lo, Bound_hi, name</span></div>
-<div class="line"><span class="lineno">  580</span>    fwrite(&amp;mapID, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  581</span>    fwrite(&amp;tileX, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  582</span>    fwrite(&amp;tileY, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  583</span>    fwrite(&amp;flags, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  584</span>    fwrite(&amp;mapObjDef.NameSet, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  585</span>    fwrite(&amp;uniqueId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  586</span>    fwrite(&amp;position, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d8/d48/a29947.html">Vec3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  587</span>    fwrite(&amp;mapObjDef.Rotation, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d8/d48/a29947.html">Vec3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  588</span>    fwrite(&amp;scale, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  589</span>    fwrite(&amp;bounds, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d9/d0b/a29951.html">AaBox3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  590</span>    <a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nlen = strlen(WmoInstName);</div>
-<div class="line"><span class="lineno">  591</span>    fwrite(&amp;nlen, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  592</span>    fwrite(WmoInstName, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), nlen, pDirfile);</div>
-<div class="line"><span class="lineno">  593</span>}</div>
-<div class="ttc" id="aa04898_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../da/dd2/a04898.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04898_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../da/dd2/a04898.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa04952_html_a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4"><div class="ttname"><a href="../../d2/ddb/a04952.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a></div><div class="ttdeci">@ MOD_WORLDSPAWN</div><div class="ttdef"><b>Definition:</b> vmapexport.h:34</div></div>
-<div class="ttc" id="aa04952_html_a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851"><div class="ttname"><a href="../../d2/ddb/a04952.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a></div><div class="ttdeci">@ MOD_HAS_BOUND</div><div class="ttdef"><b>Definition:</b> vmapexport.h:35</div></div>
-<div class="ttc" id="aa04961_html_ab265837fe64577975f97318431c69e9c"><div class="ttname"><a href="../../d0/da3/a04961.html#ab265837fe64577975f97318431c69e9c">fixCoords</a></div><div class="ttdeci">static Vec3D fixCoords(const Vec3D &amp;v)</div><div class="ttdef"><b>Definition:</b> wmo.h:68</div></div>
-<div class="ttc" id="aa05000_html_a6a3d179f34597554b17a122f27cd6be5"><div class="ttname"><a href="../../de/d7d/a05000.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a></div><div class="ttdeci">uint32 GenerateUniqueObjectId(uint32 clientId, uint16 clientDoodadId)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:72</div></div>
-<div class="ttc" id="aa05000_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../de/d7d/a05000.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
-<div class="ttc" id="aa29947_html"><div class="ttname"><a href="../../d8/d48/a29947.html">Vec3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:25</div></div>
-<div class="ttc" id="aa29947_html_a0f061b9d5ea2a680f64bed8b5be9116d"><div class="ttname"><a href="../../d8/d48/a29947.html#a0f061b9d5ea2a680f64bed8b5be9116d">Vec3D::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
-<div class="ttc" id="aa29947_html_a5a619f14529e714231bff4cc6fd36614"><div class="ttname"><a href="../../d8/d48/a29947.html#a5a619f14529e714231bff4cc6fd36614">Vec3D::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
-<div class="ttc" id="aa29951_html"><div class="ttname"><a href="../../d9/d0b/a29951.html">AaBox3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:141</div></div>
-<div class="ttc" id="aa29951_html_a3d87d5fa5e887282fa76a4a4b77eb097"><div class="ttname"><a href="../../d9/d0b/a29951.html#a3d87d5fa5e887282fa76a4a4b77eb097">AaBox3D::max</a></div><div class="ttdeci">Vec3D max</div><div class="ttdef"><b>Definition:</b> vec3d.h:144</div></div>
-<div class="ttc" id="aa29951_html_a7277258d8bdc471a007814fadf91780a"><div class="ttname"><a href="../../d9/d0b/a29951.html#a7277258d8bdc471a007814fadf91780a">AaBox3D::min</a></div><div class="ttdeci">Vec3D min</div><div class="ttdef"><b>Definition:</b> vec3d.h:143</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">ADT::MODF::Bounds</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00045">ADT::MODF::Flags</a>, <a class="el" href="../../#l00072">GenerateUniqueObjectId()</a>, <a class="el" href="../../#l00144">AaBox3D::max</a>, <a class="el" href="../../#l00143">AaBox3D::min</a>, <a class="el" href="../../#l00035">MOD_HAS_BOUND</a>, <a class="el" href="../../#l00034">MOD_WORLDSPAWN</a>, <a class="el" href="../../#l00047">ADT::MODF::NameSet</a>, <a class="el" href="../../#l00042">ADT::MODF::Position</a>, <a class="el" href="../../#l00043">ADT::MODF::Rotation</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00041">ADT::MODF::UniqueId</a>, <a class="el" href="../../#l00027">Vec3D::x</a>, and <a class="el" href="../../#l00027">Vec3D::z</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
+<p>Calculate all tick amounts for a Wild Growth cast. </p>
+<div class="fragment"><div class="line"><span class="lineno">   65</span>    {</div>
+<div class="line"><span class="lineno">   66</span>        std::vector&lt;int32_t&gt; ticks;</div>
+<div class="line"><span class="lineno">   67</span>        ticks.reserve(<a class="code hl_variable" href="../../dc/ddb/a05144.html#a7748fbc7dddd525998e933e79311736a">TOTAL_TICKS</a>);</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">for</span> (uint32_t i = 1; i &lt;= <a class="code hl_variable" href="../../dc/ddb/a05144.html#a7748fbc7dddd525998e933e79311736a">TOTAL_TICKS</a>; ++i)</div>
+<div class="line"><span class="lineno">   69</span>            ticks.push_back(<a class="code hl_function" href="../../dc/ddb/a05144.html#addfd88f5be5daae3a078cbade7aed80e">CalcWildGrowthTickAmount</a>(baseTick, i, baseReduction));</div>
+<div class="line"><span class="lineno">   70</span>        <span class="keywordflow">return</span> ticks;</div>
+<div class="line"><span class="lineno">   71</span>    }</div>
+<div class="ttc" id="aa05144_html_a7748fbc7dddd525998e933e79311736a"><div class="ttname"><a href="../../dc/ddb/a05144.html#a7748fbc7dddd525998e933e79311736a">anonymous_namespace{WildGrowthTickScalingTest.cpp}::TOTAL_TICKS</a></div><div class="ttdeci">constexpr int32_t TOTAL_TICKS</div><div class="ttdef"><b>Definition:</b> WildGrowthTickScalingTest.cpp:45</div></div>
+<div class="ttc" id="aa05144_html_addfd88f5be5daae3a078cbade7aed80e"><div class="ttname"><a href="../../dc/ddb/a05144.html#addfd88f5be5daae3a078cbade7aed80e">anonymous_namespace{WildGrowthTickScalingTest.cpp}::CalcWildGrowthTickAmount</a></div><div class="ttdeci">int32_t CalcWildGrowthTickAmount(int32_t baseTick, uint32_t tickNumber, float baseReduction)</div><div class="ttdoc">Mirrors spell_dru_wild_growth_aura::HandleTickUpdate.</div><div class="ttdef"><b>Definition:</b> WildGrowthTickScalingTest.cpp:56</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00056">CalcWildGrowthTickAmount()</a>, and <a class="el" href="../../#l00045">TOTAL_TICKS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00080">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a95e4d56dd3e5ff9502c8bb2627784cd5" name="a95e4d56dd3e5ff9502c8bb2627784cd5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95e4d56dd3e5ff9502c8bb2627784cd5">&#9670;&#160;</a></span>CalcPct()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">T anonymous_namespace{WildGrowthTickScalingTest.cpp}::CalcPct </td>
+          <td>(</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>base</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>pct</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Mirrors CalculatePct from <a class="el" href="../../db/d24/a04901.html">Define.h</a>: base * pct / 100. </p>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>    {</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>T<span class="keyword">&gt;</span>(base * pct / 100.0f);</div>
+<div class="line"><span class="lineno">   53</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00056">CalcWildGrowthTickAmount()</a>.</p>
+
+</div>
+</div>
+<a id="addfd88f5be5daae3a078cbade7aed80e" name="addfd88f5be5daae3a078cbade7aed80e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addfd88f5be5daae3a078cbade7aed80e">&#9670;&#160;</a></span>CalcWildGrowthTickAmount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t anonymous_namespace{WildGrowthTickScalingTest.cpp}::CalcWildGrowthTickAmount </td>
+          <td>(</td>
+          <td class="paramtype">int32_t&#160;</td>
+          <td class="paramname"><em>baseTick</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint32_t&#160;</td>
+          <td class="paramname"><em>tickNumber</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>baseReduction</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Mirrors <a class="el" href="../../d2/d04/a24711.html#aa9c1d6c644a3e42b21d1025fc3b06f69">spell_dru_wild_growth_aura::HandleTickUpdate</a>. </p>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>    {</div>
+<div class="line"><span class="lineno">   58</span>        <span class="keywordtype">float</span> reduction = baseReduction * <span class="keyword">static_cast&lt;</span><span class="keywordtype">float</span><span class="keyword">&gt;</span>(tickNumber - 1);</div>
+<div class="line"><span class="lineno">   59</span>        <span class="keywordtype">float</span> bonus = 6.0f - reduction;</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(baseTick + <a class="code hl_function" href="../../dc/ddb/a05144.html#a95e4d56dd3e5ff9502c8bb2627784cd5">CalcPct</a>(baseTick, bonus));</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
+<div class="ttc" id="aa05144_html_a95e4d56dd3e5ff9502c8bb2627784cd5"><div class="ttname"><a href="../../dc/ddb/a05144.html#a95e4d56dd3e5ff9502c8bb2627784cd5">anonymous_namespace{WildGrowthTickScalingTest.cpp}::CalcPct</a></div><div class="ttdeci">T CalcPct(T base, float pct)</div><div class="ttdoc">Mirrors CalculatePct from Define.h: base * pct / 100.</div><div class="ttdef"><b>Definition:</b> WildGrowthTickScalingTest.cpp:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">CalcPct()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">CalcAllTicks()</a>, and <a class="el" href="../../#l00118">TEST_F()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ae0cd8a076081c01395db37925ee7e3f5" name="ae0cd8a076081c01395db37925ee7e3f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0cd8a076081c01395db37925ee7e3f5">&#9670;&#160;</a></span>DEFAULT_REDUCTION</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr float anonymous_namespace{WildGrowthTickScalingTest.cpp}::DEFAULT_REDUCTION = 2.0f</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00118">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a7748fbc7dddd525998e933e79311736a" name="a7748fbc7dddd525998e933e79311736a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7748fbc7dddd525998e933e79311736a">&#9670;&#160;</a></span>TOTAL_TICKS</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr int32_t anonymous_namespace{WildGrowthTickScalingTest.cpp}::TOTAL_TICKS = 7</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">CalcAllTicks()</a>, and <a class="el" href="../../#l00080">TEST_F()</a>.</p>
 
 </div>
 </div>
@@ -251,8 +312,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/ddb/a05144.html">MapObject</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:39:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dc/ddb/a05144.html">anonymous_namespace{WildGrowthTickScalingTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:27:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

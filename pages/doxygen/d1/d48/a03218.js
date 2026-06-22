@@ -1,4 +1,8 @@
 var a03218 =
 [
-    [ "HomeMovementGenerator< Creature >", "d8/de0/a10359.html", "d8/de0/a10359" ]
+    [ "PLAYER_FLIGHT_SPEED", "d1/d48/a03218.html#a2efde26aed42919892139c2ffb51b279", null ],
+    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "d1/d48/a03218.html#a55b33fb4c6265551b0327903da9bff4c", null ],
+    [ "IsNodeIncludedInShortenedPath", "d1/d48/a03218.html#a47a5affa854677472690918c4d16f998", null ],
+    [ "PositionToVector3", "d1/d48/a03218.html#ac0d2ec1868bbb7a72904410f1efeaaca", null ],
+    [ "UpdateHomePosition", "d1/d48/a03218.html#a2cfd2302ba925854b6edc6af49bcb40a", null ]
 ];

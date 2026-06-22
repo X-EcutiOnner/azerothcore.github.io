@@ -1,4 +1,4 @@
 var a03590 =
 [
-    [ "AllItemScript", "d9/dd2/a10619.html", "d9/dd2/a10619" ]
+    [ "ScriptRegistry< WorldMapScript >", "dd/de9/a03590.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
 ];

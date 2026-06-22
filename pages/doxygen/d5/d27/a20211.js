@@ -1,10 +1,11 @@
 var a20211 =
 [
-    [ "boss_freya_elder_ironbranch", "d5/d27/a20211.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d5/d27/a20211.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d5/d27/a20211.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d5/d27/a20211.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d5/d27/a20211.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d5/d27/a20211.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d5/d27/a20211.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "boss_freya_elder_brightleaf", "d5/d27/a20211.html#a7454f4dec1f1ccc471f42eeee513f272", null ],
+    [ "JustDied", "d5/d27/a20211.html#a98aed4b2a4ebf10c807d9bb54c65a273", null ],
+    [ "JustEngagedWith", "d5/d27/a20211.html#ad0f003e5b57b7c7df4b860df2f8e1e85", null ],
+    [ "KilledUnit", "d5/d27/a20211.html#a3c45c1c87f793cb4dbd447065b09d108", null ],
+    [ "Reset", "d5/d27/a20211.html#ae9687c330856da6d5e7bed9bccbe8e52", null ],
+    [ "UpdateAI", "d5/d27/a20211.html#aa53a5a5ada35c8717c58553b397d58d9", null ],
+    [ "events", "d5/d27/a20211.html#aaa459ae8f2e0f83330359d45259d9f79", null ],
+    [ "summons", "d5/d27/a20211.html#a0c11c362ecc29e91f21c87ca0fb3d92e", null ]
 ];

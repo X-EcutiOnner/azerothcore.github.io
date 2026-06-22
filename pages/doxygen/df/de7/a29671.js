@@ -1,5 +1,6 @@
 var a29671 =
 [
-    [ "SetUp", "df/de7/a29671.html#a00b4e88a208a6e930244a37d4257d971", null ],
-    [ "_scenario", "df/de7/a29671.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
+    [ "CreateArmorProcConfig", "df/de7/a29671.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "df/de7/a29671.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "df/de7/a29671.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

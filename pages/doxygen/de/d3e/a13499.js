@@ -1,11 +1,6 @@
 var a13499 =
 [
-    [ "npc_valkyr_battle_maidenAI", "de/d3e/a13499.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "de/d3e/a13499.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "de/d3e/a13499.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "de/d3e/a13499.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "de/d3e/a13499.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "de/d3e/a13499.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "de/d3e/a13499.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "de/d3e/a13499.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "npc_valkyr_battle_maidenAI", "d8/d32/a13503.html", "d8/d32/a13503" ],
+    [ "npc_valkyr_battle_maiden", "de/d3e/a13499.html#a4316dd483b262e637ea39ba9e972744b", null ],
+    [ "GetAI", "de/d3e/a13499.html#ab067ea6f5f92039d471708039089e79c", null ]
 ];

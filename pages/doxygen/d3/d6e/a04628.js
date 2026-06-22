@@ -1,4 +1,4 @@
 var a04628 =
 [
-    [ "SFMTRand", "d2/dcf/a05807.html", "d2/dcf/a05807" ]
+    [ "MessageBuffer", "d5/d41/a05803.html", "d5/d41/a05803" ]
 ];

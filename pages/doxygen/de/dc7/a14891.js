@@ -1,5 +1,8 @@
 var a14891 =
 [
-    [ "MidsummerPlayerScript", "de/dc7/a14891.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "de/dc7/a14891.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "OnApply", "de/dc7/a14891.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "de/dc7/a14891.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "de/dc7/a14891.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "de/dc7/a14891.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "de/dc7/a14891.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

@@ -1,7 +1,6 @@
 var a04466 =
 [
-    [ "VMAP::MeshTriangle", "df/d06/a05371.html", "df/d06/a05371" ],
-    [ "VMAP::WmoLiquid", "d3/d97/a05375.html", "d3/d97/a05375" ],
-    [ "VMAP::GroupModel", "dd/d3d/a05379.html", "dd/d3d/a05379" ],
-    [ "VMAP::WorldModel", "db/d18/a05383.html", "db/d18/a05383" ]
+    [ "GameObjectModelOwnerBase", "dc/d54/a05339.html", "dc/d54/a05339" ],
+    [ "GameObjectModel", "dd/dd5/a05343.html", "dd/dd5/a05343" ],
+    [ "LoadGameObjectModelList", "dd/d3c/a04466.html#a5a80774080fc05f90c7d92213fda6788", null ]
 ];

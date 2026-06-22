@@ -1,9 +1,9 @@
 var a03206 =
 [
-    [ "PathMovementBase< T, P >", "dd/d78/a10407.html", "dd/d78/a10407" ],
-    [ "WaypointMovementGenerator< Creature >", "d6/db0/a10415.html", "d6/db0/a10415" ],
-    [ "FlightPathMovementGenerator", "dc/d3a/a10419.html", "dc/d3a/a10419" ],
-    [ "FlightPathMovementGenerator::TaxiNodeChangeInfo", "d8/d87/a10423.html", "d8/d87/a10423" ],
-    [ "FLIGHT_TRAVEL_UPDATE", "d9/d4f/a03206.html#af2d292bdefbb6db76ff3201ac0c0cdd6", null ],
-    [ "TIMEDIFF_NEXT_WP", "d9/d4f/a03206.html#afcff81f45a877feac68bf5bcae913560", null ]
+    [ "GetChaseRange", "d9/d4f/a03206.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetTargetSpeedInMotion", "d9/d4f/a03206.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
+    [ "GetVelocity", "d9/d4f/a03206.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "d9/d4f/a03206.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "IsValidPredictedPosition", "d9/d4f/a03206.html#a27995927630ed43ca4a79dff89cfb99c", null ],
+    [ "PredictPosition", "d9/d4f/a03206.html#ada5b031ff95410ba84fd734c95c68099", null ]
 ];

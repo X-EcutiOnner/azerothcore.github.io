@@ -1,5 +1,6 @@
 var a26227 =
 [
-    [ "Trigger", "d6/de4/a26227.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d6/de4/a26227.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "CheckProc", "d6/de4/a26227.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
+    [ "PrepareAuraScript", "d6/de4/a26227.html#a42b97406721d3493a378394132a55981", null ],
+    [ "Register", "d6/de4/a26227.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
 ];

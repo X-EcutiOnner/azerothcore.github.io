@@ -1,7 +1,8 @@
 var a25515 =
 [
-    [ "OnDummyEffect", "d8/d3c/a25515.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
-    [ "PrepareSpellScript", "d8/d3c/a25515.html#aa15334f23b837a005a34a12d238fc9d5", null ],
-    [ "Register", "d8/d3c/a25515.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
-    [ "Validate", "d8/d3c/a25515.html#a359fba1475e52b24635cc8dda51cc922", null ]
+    [ "CheckProc", "d8/d3c/a25515.html#adbd524ef767a8b5cde13a5358969e344", null ],
+    [ "HandleProc", "d8/d3c/a25515.html#ab208e39ea63158688a6a028696b9adc5", null ],
+    [ "PrepareAuraScript", "d8/d3c/a25515.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
+    [ "Register", "d8/d3c/a25515.html#a834868e504beece0ce5e1e1745f96f63", null ],
+    [ "Validate", "d8/d3c/a25515.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
 ];

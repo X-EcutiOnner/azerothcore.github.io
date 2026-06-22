@@ -1,7 +1,10 @@
 var a24719 =
 [
-    [ "if", "d7/de4/a24719.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d7/de4/a24719.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d7/de4/a24719.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d7/de4/a24719.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CalcAmount", "d7/de4/a24719.html#a182d563b0527e35ea641116a6a808aa8", null ],
+    [ "CalcPeriodic", "d7/de4/a24719.html#a542da5e81c75d56ad33152d54b5cac3a", null ],
+    [ "Load", "d7/de4/a24719.html#a45b2d3dee0d5e514d2351c3f3679e3d3", null ],
+    [ "PrepareAuraScript", "d7/de4/a24719.html#ac320eec2b8a3a7cc3820a49007710520", null ],
+    [ "Register", "d7/de4/a24719.html#a37181afac00639716ae2ce10d82ecb23", null ],
+    [ "UpdatePeriodic", "d7/de4/a24719.html#af4f971e2d5c2d2f4b1ced0e64e8c1871", null ],
+    [ "Validate", "d7/de4/a24719.html#a3a6c68e8918612745cfb35df84bf7d14", null ]
 ];

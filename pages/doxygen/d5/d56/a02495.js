@@ -1,21 +1,21 @@
 var a02495 =
 [
-    [ "TSpellSummary", "d5/d96/a06531.html", "d5/d96/a06531" ],
-    [ "eNPCs", "d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911", [
-      [ "NPC_BROODLORD", "d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911a0429b55864dc1628ebf2cc160a93c1dc", null ],
-      [ "NPC_JAN_ALAI", "d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911a0c9f05f129ebeb37c7b6a6bd0444caca", null ],
-      [ "NPC_SARTHARION", "d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_FREYA", "d5/d56/a02495.html#abaecf87f40b40c4c71ec596a0b73e911a5406e0387cdb4e28fe7718f28ec3d752", null ],
-      [ "NPC_INGVAR_UNDEAD", "d9/d17/a01937.html#abaecf87f40b40c4c71ec596a0b73e911ac5f7785a73b2ea4946e698f73996e906", null ],
-      [ "NPC_ANNHYLDE", "d9/d17/a01937.html#abaecf87f40b40c4c71ec596a0b73e911a244024200627132843a0b95f2fdefcb4", null ],
-      [ "NPC_THROW", "d9/d17/a01937.html#abaecf87f40b40c4c71ec596a0b73e911a5c7c851e12a8c23ef9569157753a2546", null ],
-      [ "NPC_FROST_TOMB", "df/dd8/a01943.html#abaecf87f40b40c4c71ec596a0b73e911a8d3888198310322d79e29632f594ac76", null ],
-      [ "NPC_SKELETON", "df/dd8/a01943.html#abaecf87f40b40c4c71ec596a0b73e911ae6d4da6ba356104e95b11d5cd561d0f3", null ]
+    [ "SummonList", "da/d97/a06539.html", "da/d97/a06539" ],
+    [ "EntryCheckPredicate", "d3/deb/a06543.html", "d3/deb/a06543" ],
+    [ "PlayerOrPetCheck", "dc/d8b/a06547.html", "dc/d8b/a06547" ],
+    [ "ScriptedAI", "df/d2f/a06551.html", "df/d2f/a06551" ],
+    [ "HealthCheckEventData", "dc/de9/a06555.html", "dc/de9/a06555" ],
+    [ "BossAI", "d5/d4e/a06559.html", "d5/d4e/a06559" ],
+    [ "WorldBossAI", "dd/d91/a06563.html", "dd/d91/a06563" ],
+    [ "ObjectList", "d5/d56/a02495.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "HealthCheckStatus", "d5/d56/a02495.html#a1384618281f5e166102c6c947f81ddee", [
+      [ "HEALTH_CHECK_PROCESSED", "d5/d56/a02495.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],
+      [ "HEALTH_CHECK_SCHEDULED", "d5/d56/a02495.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c", null ],
+      [ "HEALTH_CHECK_PENDING", "d5/d56/a02495.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7", null ]
     ] ],
-    [ "GetClosestCreatureWithEntry", "d5/d56/a02495.html#a136c0c059281a05f9cb91237ce55be7b", null ],
-    [ "GetClosestGameObjectWithEntry", "d5/d56/a02495.html#a80b13d7c0fa3b835b0834955ed0f93d8", null ],
+    [ "GetClosestCreatureWithEntry", "d5/d56/a02495.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "d5/d56/a02495.html#acaba34b4ac104e5289c265c1f8524b15", null ],
     [ "GetCreatureListWithEntryInGrid", "d5/d56/a02495.html#ab6a8246d473139627106be4651f6329d", null ],
-    [ "GetDeadCreatureListInGrid", "d5/d56/a02495.html#a2e3edf6fd8a6865d815af4f8acb184af", null ],
-    [ "GetGameObjectListWithEntryInGrid", "d5/d56/a02495.html#ae9abb80c4e811509bca88e65cf817276", null ],
-    [ "SpellSummary", "d5/d56/a02495.html#ae56af266ccaa1794f1f014938b07e9cc", null ]
+    [ "GetDeadCreatureListInGrid", "d5/d56/a02495.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "d5/d56/a02495.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

@@ -1,6 +1,6 @@
 var a27003 =
 [
-    [ "HandleScript", "d4/dc6/a27003.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d4/dc6/a27003.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d4/dc6/a27003.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "PrepareAuraScript", "d4/dc6/a27003.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d4/dc6/a27003.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d4/dc6/a27003.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

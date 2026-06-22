@@ -1,6 +1,9 @@
 var a22059 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/de1/a22059.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d7/de1/a22059.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d7/de1/a22059.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "HandlePeriodic", "d7/de1/a22059.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d7/de1/a22059.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d7/de1/a22059.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d7/de1/a22059.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d7/de1/a22059.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d7/de1/a22059.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

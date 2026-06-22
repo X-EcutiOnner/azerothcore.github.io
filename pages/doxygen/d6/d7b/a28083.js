@@ -1,10 +1,6 @@
 var a28083 =
 [
-    [ "guard_shattrath_aldorAI", "d6/d7b/a28083.html#a88961dfe4100dfe207af693a1eed86ad", null ],
-    [ "Reset", "d6/d7b/a28083.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
-    [ "UpdateAI", "d6/d7b/a28083.html#ac87ee12d4487971b68c70f06f63eb410", null ],
-    [ "banishTimer", "d6/d7b/a28083.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
-    [ "canTeleport", "d6/d7b/a28083.html#af4d933b56431d2f2755d87fb05922458", null ],
-    [ "exileTimer", "d6/d7b/a28083.html#a8d56205206f3e14184922f96873456ad", null ],
-    [ "playerGUID", "d6/d7b/a28083.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
+    [ "guard_shattrath_scryerAI", "d7/d87/a28087.html", "d7/d87/a28087" ],
+    [ "guard_shattrath_scryer", "d6/d7b/a28083.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d6/d7b/a28083.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

@@ -1,7 +1,7 @@
 var a14135 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d2/d3c/a14139.html", "d2/d3c/a14139" ],
-    [ "npc_lady_sylvanas_windrunner", "d2/d07/a14135.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "d2/d07/a14135.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "d2/d07/a14135.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_king_varian_wrynn", "d2/d07/a14135.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
+    [ "JustDied", "d2/d07/a14135.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
+    [ "OnQuestReward", "d2/d07/a14135.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
+    [ "UpdateAI", "d2/d07/a14135.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
 ];

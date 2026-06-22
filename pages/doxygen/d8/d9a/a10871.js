@@ -1,6 +1,6 @@
 var a10871 =
 [
-    [ "ShowBank", "d8/d9a/a10871.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "d8/d9a/a10871.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "d8/d9a/a10871.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "BuyBankSlotResult", "d8/d9a/a10871.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d8/d9a/a10871.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d8/d9a/a10871.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

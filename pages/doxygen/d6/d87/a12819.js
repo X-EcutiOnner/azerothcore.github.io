@@ -1,7 +1,6 @@
 var a12819 =
 [
-    [ "ClassCallSelector", "d6/d87/a12819.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "d6/d87/a12819.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "d6/d87/a12819.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "d6/d87/a12819.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "boss_flamegor", "d6/d87/a12819.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "d6/d87/a12819.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "d6/d87/a12819.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

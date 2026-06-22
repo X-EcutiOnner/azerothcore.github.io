@@ -1,4 +1,4 @@
 var a03428 =
 [
-    [ "ScriptRegistry< ModuleScript >", "d5/d6b/a03428.html#a7749cbcc2b6820dc30c515ebb6cefe36", null ]
+    [ "ScriptRegistry< AccountScript >", "d5/d6b/a03428.html#a737db11e5096ba1c596f469d64c2cc97", null ]
 ];

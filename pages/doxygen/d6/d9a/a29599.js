@@ -1,5 +1,7 @@
 var a29599 =
 [
-    [ "damageApplied", "d6/d9a/a29599.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
-    [ "slowApplied", "d6/d9a/a29599.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
+    [ "SetUp", "d6/d9a/a29599.html#a63d060f7643fc3d35eb4f0fd082f1af4", null ],
+    [ "TearDown", "d6/d9a/a29599.html#a685e2dbb620ab792ed3e952cf2b5dab8", null ],
+    [ "_originalWorld", "d6/d9a/a29599.html#aec7f3f7af8f936fb2419cee4be837eb7", null ],
+    [ "_worldMock", "d6/d9a/a29599.html#a2d10e74ba4f778b395a48eb68a586711", null ]
 ];

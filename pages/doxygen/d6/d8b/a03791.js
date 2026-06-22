@@ -1,5 +1,4 @@
 var a03791 =
 [
-    [ "ScriptRegistry< AllItemScript >", "d6/d8b/a03791.html#a0f69164743e657905c670df85e97a29c", null ],
-    [ "ScriptRegistry< ItemScript >", "d6/d8b/a03791.html#a9f258d1e2f9fb6ce144923451b63f995", null ]
+    [ "minPctTeamGamesForMemberToGetReward", "d6/d8b/a03791.html#a4d7ce2e01ab25ea6833099b2821b6b5b", null ]
 ];

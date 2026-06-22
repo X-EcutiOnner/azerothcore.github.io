@@ -1,7 +1,7 @@
 var a21675 =
 [
-    [ "npc_emilyAI", "db/d61/a21679.html", "db/d61/a21679" ],
-    [ "npc_emily", "d7/d7c/a21675.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d7/d7c/a21675.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d7/d7c/a21675.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "HandleScriptEffect", "d7/d7c/a21675.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "d7/d7c/a21675.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "d7/d7c/a21675.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "d7/d7c/a21675.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

@@ -1,6 +1,8 @@
 var a12991 =
 [
-    [ "boss_sulfuron", "d5/d7c/a12991.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "d5/d7c/a12991.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "d5/d7c/a12991.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "FilterTargets", "d5/d7c/a12991.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "d5/d7c/a12991.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "d5/d7c/a12991.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "d5/d7c/a12991.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "d5/d7c/a12991.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

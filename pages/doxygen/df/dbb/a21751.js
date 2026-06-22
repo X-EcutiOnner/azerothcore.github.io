@@ -1,6 +1,7 @@
 var a21751 =
 [
-    [ "HandleOnEffectRemove", "df/dbb/a21751.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "df/dbb/a21751.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "df/dbb/a21751.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "HandleDummy", "df/dbb/a21751.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "df/dbb/a21751.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "df/dbb/a21751.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "df/dbb/a21751.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

@@ -1,5 +1,7 @@
 var a17815 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "df/d2a/a17815.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "df/d2a/a17815.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "FilterTargets", "df/d2a/a17815.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "df/d2a/a17815.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "df/d2a/a17815.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "df/d2a/a17815.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

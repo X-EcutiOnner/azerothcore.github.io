@@ -1,8 +1,4 @@
 var a28831 =
 [
-    [ "difficulty", "d8/d99/a28831.html#a2a04df701c13dc49053b09a9587a72a8", null ],
-    [ "encounterIndex", "d8/d99/a28831.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
-    [ "encounterName", "d8/d99/a28831.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
-    [ "id", "d8/d99/a28831.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
-    [ "mapId", "d8/d99/a28831.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
+    [ "ID", "d8/d99/a28831.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
 ];

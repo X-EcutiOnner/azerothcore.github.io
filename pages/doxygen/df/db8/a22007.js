@@ -1,6 +1,6 @@
 var a22007 =
 [
-    [ "npc_iron_watcherAI", "da/d32/a22011.html", "da/d32/a22011" ],
-    [ "npc_iron_watcher", "df/db8/a22007.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
-    [ "GetAI", "df/db8/a22007.html#af3b80b838e192737762ceed599b0be9a", null ]
+    [ "PrepareSpellScript", "df/db8/a22007.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
+    [ "Register", "df/db8/a22007.html#a306252bb3bc9af689400981b198f66e8", null ],
+    [ "SetDest", "df/db8/a22007.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
 ];

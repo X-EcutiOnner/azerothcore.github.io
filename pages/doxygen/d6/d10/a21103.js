@@ -1,6 +1,6 @@
 var a21103 =
 [
-    [ "boss_ymironAI", "d0/db2/a21107.html", "d0/db2/a21107" ],
-    [ "boss_ymiron", "d6/d10/a21103.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d6/d10/a21103.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "CalculateAmount", "d6/d10/a21103.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d6/d10/a21103.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d6/d10/a21103.html#a9bce52699983fe798c903385faa42462", null ]
 ];

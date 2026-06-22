@@ -1,9 +1,5 @@
 var a29419 =
 [
-    [ "SetUp", "d3/dc1/a29419.html#a664590f345cd02660adef326355c7ca2", null ],
-    [ "TearDown", "d3/dc1/a29419.html#a366e1170be6f12739b2688c71763c8f0", null ],
-    [ "PERM_BAN", "d3/dc1/a29419.html#a393626fe7635a8452e69207085037782", null ],
-    [ "PERM_KICK", "d3/dc1/a29419.html#aa9b8c1e73b4828100386186637e30e90", null ],
-    [ "rbacData", "d3/dc1/a29419.html#a6e7cb23ddb2dc22611255dff42c85e89", null ],
-    [ "ROLE_GM", "d3/dc1/a29419.html#ac5d61d965657eccc145d01670a6f27bc", null ]
+    [ "SetUp", "d3/dc1/a29419.html#aa33aaf63e128603a305fc5cfcd6d455a", null ],
+    [ "TearDown", "d3/dc1/a29419.html#aa382128c47a08c27c9f2b0ed3958f9bf", null ]
 ];

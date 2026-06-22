@@ -1,5 +1,10 @@
 var a01199 =
 [
-    [ "npc_tyrande_whisperwind", "d5/da5/a16059.html", "d5/da5/a16059" ],
-    [ "AddSC_teldrassil", "d0/d5a/a01199.html#a3c3f043ac68f32b085d7fa2d72c7da94", null ]
+    [ "npc_webbed_creature", "db/d52/a15807.html", "db/d52/a15807" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "d4/d64/a15811.html", "d4/d64/a15811" ],
+    [ "WebbedCreature", "d0/d5a/a01199.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
+      [ "NPC_EXPEDITION_RESEARCHER", "d0/d5a/a01199.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
+    ] ],
+    [ "AddSC_bloodmyst_isle", "d0/d5a/a01199.html#a6b9832f4bb6cfefde5bab6937fd46fae", null ],
+    [ "possibleSpawns", "d0/d5a/a01199.html#ab3e43a66e02bf6f3b8cbd7c154f9d70d", null ]
 ];

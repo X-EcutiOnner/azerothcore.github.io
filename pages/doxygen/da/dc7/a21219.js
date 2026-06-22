@@ -1,12 +1,10 @@
 var a21219 =
 [
-    [ "npc_ichor_globule", "da/dc7/a21219.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "da/dc7/a21219.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "da/dc7/a21219.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "da/dc7/a21219.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "da/dc7/a21219.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "da/dc7/a21219.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "da/dc7/a21219.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "da/dc7/a21219.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "da/dc7/a21219.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "npc_erekem_guard", "da/dc7/a21219.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "da/dc7/a21219.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "da/dc7/a21219.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "da/dc7/a21219.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "da/dc7/a21219.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "da/dc7/a21219.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "da/dc7/a21219.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

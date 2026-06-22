@@ -1,4 +1,7 @@
 var a03104 =
 [
-    [ "ApplySpellFix", "da/dc0/a03104.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "AuraApplication", "dc/d7a/a11743.html", "dc/d7a/a11743" ],
+    [ "Aura", "df/d18/a11747.html", "df/d18/a11747" ],
+    [ "UnitAura", "d0/db6/a11751.html", "d0/db6/a11751" ],
+    [ "DynObjAura", "d7/d70/a11755.html", "d7/d70/a11755" ]
 ];

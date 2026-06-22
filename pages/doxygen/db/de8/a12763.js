@@ -1,6 +1,5 @@
 var a12763 =
 [
-    [ "near_scarshield_infiltrator", "db/de8/a12763.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "db/de8/a12763.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "db/de8/a12763.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "go_father_flame", "db/de8/a12763.html#aa23829f617c48bb6da57ff7977886e75", null ],
+    [ "OnStateChanged", "db/de8/a12763.html#ad0e85a66d65d908c532c2bfde0605b39", null ]
 ];

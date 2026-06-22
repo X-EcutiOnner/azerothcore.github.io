@@ -1,6 +1,7 @@
 var a27275 =
 [
-    [ "CheckProc", "d0/d28/a27275.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d0/d28/a27275.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d0/d28/a27275.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "AfterRemove", "d0/d28/a27275.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "d0/d28/a27275.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "d0/d28/a27275.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "d0/d28/a27275.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

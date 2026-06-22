@@ -1,7 +1,8 @@
 var a10931 =
 [
-    [ "Emote", "d0/d35/a10931.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d0/d35/a10931.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d0/d35/a10931.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d0/d35/a10931.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "PlayedTime", "d0/d35/a10931.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d0/d35/a10931.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d0/d35/a10931.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d0/d35/a10931.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d0/d35/a10931.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

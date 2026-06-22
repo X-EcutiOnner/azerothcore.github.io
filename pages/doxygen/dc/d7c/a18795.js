@@ -1,7 +1,9 @@
 var a18795 =
 [
-    [ "AuraRemoveEvent", "dc/d7c/a18795.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "dc/d7c/a18795.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "dc/d7c/a18795.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "dc/d7c/a18795.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "DelayedCastEvent", "dc/d7c/a18795.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "dc/d7c/a18795.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "dc/d7c/a18795.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "dc/d7c/a18795.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "dc/d7c/a18795.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "dc/d7c/a18795.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

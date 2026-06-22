@@ -1,14 +1,8 @@
 var a24299 =
 [
-    [ "Absorb", "d5/dda/a24299.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "d5/dda/a24299.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "d5/dda/a24299.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "d5/dda/a24299.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "d5/dda/a24299.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "d5/dda/a24299.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "d5/dda/a24299.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "d5/dda/a24299.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "d5/dda/a24299.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "d5/dda/a24299.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "d5/dda/a24299.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "CheckProc", "d5/dda/a24299.html#aaba070a16ff0ba45b4062abe30c79cf5", null ],
+    [ "HandleProc", "d5/dda/a24299.html#a7682ed37759329da8e4e475e98a23161", null ],
+    [ "PrepareAuraScript", "d5/dda/a24299.html#ac4cc997ddd92e741f9f105bda4ec00b9", null ],
+    [ "Register", "d5/dda/a24299.html#a5ab16c8eb40822679739e15a2ceac715", null ],
+    [ "Validate", "d5/dda/a24299.html#a34919ab1f3b2d4e98536c3ded56cf5fc", null ]
 ];

@@ -1,5 +1,8 @@
 var a24103 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "d5/d35/a24103.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "d5/d35/a24103.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "npc_pet_dk_ghoul", "d5/d35/a24103.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d5/d35/a24103.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d5/d35/a24103.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d5/d35/a24103.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d5/d35/a24103.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

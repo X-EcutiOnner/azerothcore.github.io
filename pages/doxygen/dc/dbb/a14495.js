@@ -1,6 +1,5 @@
 var a14495 =
 [
-    [ "boss_mandokirAI", "d4/d66/a14499.html", "d4/d66/a14499" ],
-    [ "boss_mandokir", "dc/dbb/a14495.html#aad13c8302cef7fb4981f0d2178630def", null ],
-    [ "GetAI", "dc/dbb/a14495.html#a215842d5ab23824ec20db64e2fa4407e", null ]
+    [ "npc_brain_wash_totem", "dc/dbb/a14495.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "dc/dbb/a14495.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

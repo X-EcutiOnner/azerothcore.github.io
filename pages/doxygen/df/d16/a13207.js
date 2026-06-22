@@ -1,11 +1,11 @@
 var a13207 =
 [
-    [ "boss_terestian_illhoof", "df/d16/a13207.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "df/d16/a13207.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "df/d16/a13207.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "df/d16/a13207.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "df/d16/a13207.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "df/d16/a13207.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "df/d16/a13207.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "df/d16/a13207.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_demon_chain", "df/d16/a13207.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "df/d16/a13207.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "df/d16/a13207.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "df/d16/a13207.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "df/d16/a13207.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "df/d16/a13207.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "df/d16/a13207.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "df/d16/a13207.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

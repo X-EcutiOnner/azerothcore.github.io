@@ -1,7 +1,10 @@
 var a15819 =
 [
-    [ "npc_kerlonianAI", "d9/d28/a15823.html", "d9/d28/a15823" ],
-    [ "npc_kerlonian", "d8/dac/a15819.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d8/dac/a15819.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d8/dac/a15819.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_murkdeepAI", "d8/dac/a15819.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d8/dac/a15819.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d8/dac/a15819.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d8/dac/a15819.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d8/dac/a15819.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d8/dac/a15819.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d8/dac/a15819.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

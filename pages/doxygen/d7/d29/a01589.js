@@ -1,7 +1,5 @@
 var a01589 =
 [
-    [ "inventory_commandscript", "df/da5/a12371.html", "df/da5/a12371" ],
-    [ "AddSC_inventory_commandscript", "d7/d29/a01589.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
-    [ "bagSpecsColors", "d7/d29/a01589.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
-    [ "bagSpecsToString", "d7/d29/a01589.html#ac004d76eb746ea415b16f1b512a057b6", null ]
+    [ "worldstate_commandscript", "da/d16/a12519.html", "da/d16/a12519" ],
+    [ "AddSC_worldstate_commandscript", "d7/d29/a01589.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

@@ -1,7 +1,6 @@
 var a25119 =
 [
-    [ "PrepareSpellScript", "da/dda/a25119.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "da/dda/a25119.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "da/dda/a25119.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "da/dda/a25119.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "HandleScript", "da/dda/a25119.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "da/dda/a25119.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "da/dda/a25119.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

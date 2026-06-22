@@ -1,7 +1,8 @@
 var a20903 =
 [
-    [ "HandleEffectPeriodic", "d0/d92/a20903.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d0/d92/a20903.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d0/d92/a20903.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d0/d92/a20903.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "npc_ulduar_keeperAI", "df/d1b/a20907.html", "df/d1b/a20907" ],
+    [ "npc_ulduar_keeper", "d0/d92/a20903.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d0/d92/a20903.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d0/d92/a20903.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d0/d92/a20903.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

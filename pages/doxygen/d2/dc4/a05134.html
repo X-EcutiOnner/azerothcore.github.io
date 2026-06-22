@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</title>
+<title>AzerothCore: anonymous_namespace{GmVisibleCommandTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,45 +105,46 @@ $(document).ready(function(){initNavTree('d2/dc4/a05134.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">anonymous_namespace{BinarySpellDetectionTest.cpp} Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">anonymous_namespace{GmVisibleCommandTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p>Tests for the binary spell detection condition used in <a class="el" href="../../d4/d51/a11915.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>.  
-<a href="../../d2/dc4/a05134.html#details">More...</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/def/a29551.html">GmVisibleCommandTest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d59/a29547.html">TestPlayer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d46/a29543.html">TestVisibilityScript</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab2154405a408271aa60863454b0303fe"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc4/a05134.html#ab2154405a408271aa60863454b0303fe">ShouldMarkBinary</a> (<a class="el" href="../../d4/da0/a11855.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> effIndex)</td></tr>
-<tr class="separator:ab2154405a408271aa60863454b0303fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab69ef1935950dc8de0cefd60510d681d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc4/a05134.html#ab69ef1935950dc8de0cefd60510d681d">TEST_F</a> (<a class="el" href="../../d1/def/a29551.html">GmVisibleCommandTest</a>, SetsPlayerInvisibleAndInvokesHook)</td></tr>
+<tr class="separator:ab69ef1935950dc8de0cefd60510d681d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc4/a05134.html#af70d9dbfad6d1852aa5b7ea680a70928">TEST_F</a> (<a class="el" href="../../d1/def/a29551.html">GmVisibleCommandTest</a>, SetsPlayerVisibleAndInvokesHook)</td></tr>
+<tr class="separator:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p >Tests for the binary spell detection condition used in <a class="el" href="../../d4/d51/a11915.html#a57a52b9d7490bc3e73d5906c6c7780a0">SpellMgr::LoadSpellInfoCustomAttributes</a>. </p>
-<p >The condition determines whether a non-damage aura effect should mark a spell as binary (fully resistable via spell resistance).</p>
-<p >Correct logic: CalcValue() || ((INTERRUPT_CAST || DONT_BREAK_STEALTH) &amp;&amp; !NO_IMMUNITIES)</p>
-<p >A spell should be marked binary if:</p><ul>
-<li>Its effect has a non-zero CalcValue (e.g. Fear, Polymorph, Frost Nova), OR</li>
-<li>It is an interrupt/stealth spell without the NO_IMMUNITIES attribute </li>
-</ul>
-</div><h2 class="groupheader">Function Documentation</h2>
-<a id="ab2154405a408271aa60863454b0303fe" name="ab2154405a408271aa60863454b0303fe"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2154405a408271aa60863454b0303fe">&#9670;&#160;</a></span>ShouldMarkBinary()</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ab69ef1935950dc8de0cefd60510d681d" name="ab69ef1935950dc8de0cefd60510d681d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab69ef1935950dc8de0cefd60510d681d">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool anonymous_namespace{BinarySpellDetectionTest.cpp}::ShouldMarkBinary </td>
+          <td class="memname">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/da0/a11855.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spellInfo</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d1/def/a29551.html">GmVisibleCommandTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../da/dd2/a04898.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
-          <td class="paramname"><em>effIndex</em>&#160;</td>
+          <td class="paramtype">SetsPlayerInvisibleAndInvokesHook&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -152,19 +153,69 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> spellInfo-&gt;Effects[effIndex].CalcValue() ||</div>
-<div class="line"><span class="lineno">   44</span>            ((spellInfo-&gt;Effects[effIndex].Effect == <a class="code hl_enumvalue" href="../../d4/de7/a02270.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a> ||</div>
-<div class="line"><span class="lineno">   45</span>              spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d7/d66/a03134.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>)) &amp;&amp;</div>
-<div class="line"><span class="lineno">   46</span>             !spellInfo-&gt;HasAttribute(<a class="code hl_enumvalue" href="../../d4/de7/a02270.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a>));</div>
-<div class="line"><span class="lineno">   47</span>    }</div>
-<div class="ttc" id="aa02270_html_a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f"><div class="ttname"><a href="../../d4/de7/a02270.html#a292c893150c454dd75628b719db1fe97ae2d17b59f752f772b7a79a2643a1d45f">SPELL_EFFECT_INTERRUPT_CAST</a></div><div class="ttdeci">@ SPELL_EFFECT_INTERRUPT_CAST</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:834</div></div>
-<div class="ttc" id="aa02270_html_a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780"><div class="ttname"><a href="../../d4/de7/a02270.html#a9dcd0ba8d94905ba214797c12e7c44ada6a12b14654225a9ccea65799ce6fc780">SPELL_ATTR0_NO_IMMUNITIES</a></div><div class="ttdeci">@ SPELL_ATTR0_NO_IMMUNITIES</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:399</div></div>
-<div class="ttc" id="aa03134_html_a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e"><div class="ttname"><a href="../../d7/d66/a03134.html#a93795b2131c8cbe38a7b23768a5a146da6e135d0f3f1ffad609c7a52988db5d0e">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a></div><div class="ttdeci">@ SPELL_ATTR0_CU_DONT_BREAK_STEALTH</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:183</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  164</span>{</div>
+<div class="line"><span class="lineno">  165</span>    <a class="code hl_function" href="../../d1/def/a29551.html#a9276b43219f395a537a0ee51ab00905c">SimulateGmVisibleOff</a>();</div>
+<div class="line"><span class="lineno">  166</span> </div>
+<div class="line"><span class="lineno">  167</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#afc108ad7a9b6734a45e52bf8ecfaae9f">TestVisibilityScript::CallCount</a>, 1u);</div>
+<div class="line"><span class="lineno">  168</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#ae5ef9d343ed754282b99fd3b951659ff">TestVisibilityScript::LastPlayer</a>, player);</div>
+<div class="line"><span class="lineno">  169</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#aae555f8cabfcd443b0e078fa75bf5104">TestVisibilityScript::LastType</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030">SERVERSIDE_VISIBILITY_GM</a>);</div>
+<div class="line"><span class="lineno">  170</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#a788ffb301e1351e45248a6b8686aaa6b">TestVisibilityScript::LastSecurity</a>, session-&gt;GetSecurity());</div>
+<div class="line"><span class="lineno">  171</span>    EXPECT_EQ(player-&gt;m_serverSideVisibility.GetValue(<a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030">SERVERSIDE_VISIBILITY_GM</a>), <a class="code hl_typedef" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(session-&gt;GetSecurity()));</div>
+<div class="line"><span class="lineno">  172</span>}</div>
+<div class="ttc" id="aa02273_html_a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030"><div class="ttname"><a href="../../d7/d6e/a02273.html#a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030">SERVERSIDE_VISIBILITY_GM</a></div><div class="ttdeci">@ SERVERSIDE_VISIBILITY_GM</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1261</div></div>
+<div class="ttc" id="aa04901_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa29543_html_a788ffb301e1351e45248a6b8686aaa6b"><div class="ttname"><a href="../../d4/d46/a29543.html#a788ffb301e1351e45248a6b8686aaa6b">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastSecurity</a></div><div class="ttdeci">static AccountTypes LastSecurity</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:68</div></div>
+<div class="ttc" id="aa29543_html_aae555f8cabfcd443b0e078fa75bf5104"><div class="ttname"><a href="../../d4/d46/a29543.html#aae555f8cabfcd443b0e078fa75bf5104">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastType</a></div><div class="ttdeci">static ServerSideVisibilityType LastType</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:67</div></div>
+<div class="ttc" id="aa29543_html_ae5ef9d343ed754282b99fd3b951659ff"><div class="ttname"><a href="../../d4/d46/a29543.html#ae5ef9d343ed754282b99fd3b951659ff">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastPlayer</a></div><div class="ttdeci">static Player * LastPlayer</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:66</div></div>
+<div class="ttc" id="aa29543_html_afc108ad7a9b6734a45e52bf8ecfaae9f"><div class="ttname"><a href="../../d4/d46/a29543.html#afc108ad7a9b6734a45e52bf8ecfaae9f">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::CallCount</a></div><div class="ttdeci">static uint32 CallCount</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:65</div></div>
+<div class="ttc" id="aa29551_html_a9276b43219f395a537a0ee51ab00905c"><div class="ttname"><a href="../../d1/def/a29551.html#a9276b43219f395a537a0ee51ab00905c">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest::SimulateGmVisibleOff</a></div><div class="ttdeci">void SimulateGmVisibleOff()</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:132</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00417">SpellInfo::Effects</a>, <a class="el" href="../../#l00441">SpellInfo::HasAttribute()</a>, <a class="el" href="../../#l00183">SPELL_ATTR0_CU_DONT_BREAK_STEALTH</a>, <a class="el" href="../../#l00399">SPELL_ATTR0_NO_IMMUNITIES</a>, and <a class="el" href="../../#l00834">SPELL_EFFECT_INTERRUPT_CAST</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00065">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::CallCount</a>, <a class="el" href="../../#l00066">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastPlayer</a>, <a class="el" href="../../#l00068">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastSecurity</a>, <a class="el" href="../../#l00067">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastType</a>, <a class="el" href="../../#l01261">SERVERSIDE_VISIBILITY_GM</a>, and <a class="el" href="../../#l00132">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest::SimulateGmVisibleOff()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00057">TEST_F()</a>.</p>
+</div>
+</div>
+<a id="af70d9dbfad6d1852aa5b7ea680a70928" name="af70d9dbfad6d1852aa5b7ea680a70928"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af70d9dbfad6d1852aa5b7ea680a70928">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d1/def/a29551.html">GmVisibleCommandTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">SetsPlayerVisibleAndInvokesHook&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  175</span>{</div>
+<div class="line"><span class="lineno">  176</span>    <a class="code hl_function" href="../../d1/def/a29551.html#a9276b43219f395a537a0ee51ab00905c">SimulateGmVisibleOff</a>();</div>
+<div class="line"><span class="lineno">  177</span>    <a class="code hl_function" href="../../d4/d46/a29543.html#a26ef73c940ccbf6fbcfce0b59900c887">TestVisibilityScript::Reset</a>();</div>
+<div class="line"><span class="lineno">  178</span> </div>
+<div class="line"><span class="lineno">  179</span>    <a class="code hl_function" href="../../d1/def/a29551.html#afc09b0c8806fbf445e25f8f194a8228b">SimulateGmVisibleOn</a>();</div>
+<div class="line"><span class="lineno">  180</span> </div>
+<div class="line"><span class="lineno">  181</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#afc108ad7a9b6734a45e52bf8ecfaae9f">TestVisibilityScript::CallCount</a>, 1u);</div>
+<div class="line"><span class="lineno">  182</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#ae5ef9d343ed754282b99fd3b951659ff">TestVisibilityScript::LastPlayer</a>, player);</div>
+<div class="line"><span class="lineno">  183</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#aae555f8cabfcd443b0e078fa75bf5104">TestVisibilityScript::LastType</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030">SERVERSIDE_VISIBILITY_GM</a>);</div>
+<div class="line"><span class="lineno">  184</span>    EXPECT_EQ(<a class="code hl_variable" href="../../d4/d46/a29543.html#a788ffb301e1351e45248a6b8686aaa6b">TestVisibilityScript::LastSecurity</a>, <a class="code hl_enumvalue" href="../../d9/d82/a04718.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>);</div>
+<div class="line"><span class="lineno">  185</span>    EXPECT_EQ(player-&gt;m_serverSideVisibility.GetValue(<a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0105c40ec0c20daef3cbd8dfc5f473fda5759e403969df6addd3b024b34c11030">SERVERSIDE_VISIBILITY_GM</a>), <a class="code hl_typedef" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_enumvalue" href="../../d9/d82/a04718.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a>));</div>
+<div class="line"><span class="lineno">  186</span>}</div>
+<div class="ttc" id="aa04718_html_adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0"><div class="ttname"><a href="../../d9/d82/a04718.html#adaa1cabfe05f8df3c272bdcfd89cdac7a5d534fd54528d86d0f997fa130159df0">SEC_PLAYER</a></div><div class="ttdeci">@ SEC_PLAYER</div><div class="ttdef"><b>Definition:</b> Common.h:57</div></div>
+<div class="ttc" id="aa29543_html_a26ef73c940ccbf6fbcfce0b59900c887"><div class="ttname"><a href="../../d4/d46/a29543.html#a26ef73c940ccbf6fbcfce0b59900c887">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::Reset</a></div><div class="ttdeci">static void Reset()</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:56</div></div>
+<div class="ttc" id="aa29551_html_afc09b0c8806fbf445e25f8f194a8228b"><div class="ttname"><a href="../../d1/def/a29551.html#afc09b0c8806fbf445e25f8f194a8228b">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest::SimulateGmVisibleOn</a></div><div class="ttdeci">void SimulateGmVisibleOn()</div><div class="ttdef"><b>Definition:</b> GmVisibleCommandTest.cpp:137</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00065">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::CallCount</a>, <a class="el" href="../../#l00066">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastPlayer</a>, <a class="el" href="../../#l00068">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastSecurity</a>, <a class="el" href="../../#l00067">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::LastType</a>, <a class="el" href="../../#l00056">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript::Reset()</a>, <a class="el" href="../../#l00057">SEC_PLAYER</a>, <a class="el" href="../../#l01261">SERVERSIDE_VISIBILITY_GM</a>, <a class="el" href="../../#l00132">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest::SimulateGmVisibleOff()</a>, and <a class="el" href="../../#l00137">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest::SimulateGmVisibleOn()</a>.</p>
 
 </div>
 </div>
@@ -173,8 +224,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/dc4/a05134.html">anonymous_namespace{BinarySpellDetectionTest.cpp}</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:39:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d2/dc4/a05134.html">anonymous_namespace{GmVisibleCommandTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:27:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

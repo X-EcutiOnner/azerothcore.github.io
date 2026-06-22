@@ -1,9 +1,9 @@
 var a12903 =
 [
-    [ "HandleAfterApply", "d4/d85/a12903.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d4/d85/a12903.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d4/d85/a12903.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d4/d85/a12903.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d4/d85/a12903.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d4/d85/a12903.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_baron_geddon", "d4/d85/a12903.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "d4/d85/a12903.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "d4/d85/a12903.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "d4/d85/a12903.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "d4/d85/a12903.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "d4/d85/a12903.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

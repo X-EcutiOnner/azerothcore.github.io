@@ -1,7 +1,5 @@
 var a25307 =
 [
-    [ "HandleProc", "db/d8e/a25307.html#a87508c28fead56ca60c947d78ff8bae2", null ],
-    [ "PrepareAuraScript", "db/d8e/a25307.html#a514ba9c8222312bb213fcebb418d2499", null ],
-    [ "Register", "db/d8e/a25307.html#aebe4db9304449686a544c8e4c4f26b81", null ],
-    [ "Validate", "db/d8e/a25307.html#a9888b4bf71e8bb9e4b1c3caf74c48b31", null ]
+    [ "PrepareSpellScript", "db/d8e/a25307.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
+    [ "Register", "db/d8e/a25307.html#ae176a1f643797b5367a593bbb2acc506", null ]
 ];

@@ -1,7 +1,6 @@
 var a16063 =
 [
-    [ "npc_giltharesAI", "d7/ddc/a16067.html", "d7/ddc/a16067" ],
-    [ "npc_gilthares", "d1/dc5/a16063.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "d1/dc5/a16063.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "d1/dc5/a16063.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "npc_tyrande_whisperwind", "d1/dc5/a16063.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d1/dc5/a16063.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d1/dc5/a16063.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

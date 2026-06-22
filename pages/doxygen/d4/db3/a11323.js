@@ -1,7 +1,8 @@
 var a11323 =
 [
-    [ "RandomRollClient", "d4/db3/a11323.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "d4/db3/a11323.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "d4/db3/a11323.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "d4/db3/a11323.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "MinimapPing", "d4/db3/a11323.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "d4/db3/a11323.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "d4/db3/a11323.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "d4/db3/a11323.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "d4/db3/a11323.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

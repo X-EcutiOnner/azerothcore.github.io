@@ -1,6 +1,8 @@
 var a15863 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d2/db1/a15867.html", "d2/db1/a15867" ],
-    [ "npc_tiger_matriarch_credit", "d9/d5b/a15863.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d9/d5b/a15863.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_aged_dying_ancient_kodo", "d9/d5b/a15863.html#a8707efb78e29b5a3443b0f4d9ee1798b", null ],
+    [ "JustRespawned", "d9/d5b/a15863.html#ab401f9002bd49b26cc0526112e715d1e", null ],
+    [ "MoveInLineOfSight", "d9/d5b/a15863.html#a2bed1b0965414682dec6f6e4b2872d33", null ],
+    [ "sGossipHello", "d9/d5b/a15863.html#a8bd41050426cdee7da37d1370e5a7363", null ],
+    [ "SpellHit", "d9/d5b/a15863.html#a24a0324d7a6bd4d05da76469b14720ac", null ]
 ];

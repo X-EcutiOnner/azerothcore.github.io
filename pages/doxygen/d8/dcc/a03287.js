@@ -1,15 +1,7 @@
 var a03287 =
 [
-    [ "STR", "d8/dcc/a03287.html#a18d295a837ac71add5578860b55e5502", null ],
-    [ "computeFallElevation", "d8/dcc/a03287.html#a87260372150c8322b45e75bfaa445f14", null ],
-    [ "computeFallTime", "d8/dcc/a03287.html#a40f989c23fe19e12628da3cd9e64edf4", null ],
-    [ "print_flags", "d8/dcc/a03287.html#a189485de5eba32c5b18dbb5c579b60d9", null ],
-    [ "g_MovementFlag_names", "d8/dcc/a03287.html#a2982e1b6388bf8b29797b16969b64173", null ],
-    [ "g_SplineFlag_names", "d8/dcc/a03287.html#aa6a1b38cb6e1507d88f0f45a4820990b", null ],
-    [ "terminal_fallTime", "d8/dcc/a03287.html#aa927e4ada20ca56ce951239357407270", null ],
-    [ "terminal_length", "d8/dcc/a03287.html#a7d1eb637bb6ae4a1859504fb84872808", null ],
-    [ "terminal_safeFall_fallTime", "d8/dcc/a03287.html#a2fc34c9abcc5822e12037c23c2ecbfe0", null ],
-    [ "terminal_safeFall_length", "d8/dcc/a03287.html#a4e816239736800d4508c1fc14e624ddc", null ],
-    [ "terminalSafefallVelocity", "d8/dcc/a03287.html#a654673c77f53f27a80309b050d44d38d", null ],
-    [ "terminalVelocity", "d8/dcc/a03287.html#a98cc74e5667e1057f334f02a28abcb01", null ]
+    [ "Movement::FallInitializer", "d0/d0e/a10439.html", "d0/d0e/a10439" ],
+    [ "Movement::CommonInitializer", "d3/d4e/a10443.html", "d3/d4e/a10443" ],
+    [ "CHECK", "d8/dcc/a03287.html#a4005b3acaa5011bfc2cc027562c04dfb", null ],
+    [ "computeDuration", "d8/dcc/a03287.html#a0f9e26b66bd86bb9701c366e4f9529c3", null ]
 ];

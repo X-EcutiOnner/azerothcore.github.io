@@ -1,8 +1,10 @@
 var a20979 =
 [
-    [ "CheckProc", "db/d08/a20979.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
-    [ "HandleProc", "db/d08/a20979.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
-    [ "PrepareAuraScript", "db/d08/a20979.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
-    [ "Register", "db/d08/a20979.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
-    [ "Validate", "db/d08/a20979.html#ad4176f188412053b9205820fb6183d38", null ]
+    [ "npc_dragonflayer_forge_master", "db/d08/a20979.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "db/d08/a20979.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "db/d08/a20979.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "db/d08/a20979.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "db/d08/a20979.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "db/d08/a20979.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "db/d08/a20979.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

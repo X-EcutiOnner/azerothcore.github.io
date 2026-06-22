@@ -1,21 +1,21 @@
 var a02597 =
 [
-    [ "CleaningFlags", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67", [
-      [ "CLEANING_FLAG_ACHIEVEMENT_PROGRESS", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67afdcd00f9b75d683b143cbbe0ac22d748", null ],
-      [ "CLEANING_FLAG_SKILLS", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67ac23b2648d4cf0fe8d9ff4cd96722a714", null ],
-      [ "CLEANING_FLAG_SPELLS", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67a39fa10b14e68e92b74ab6697d0e1d564", null ],
-      [ "CLEANING_FLAG_TALENTS", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67a06a3fa1596c0c32ec619b9b9cb1d1550", null ],
-      [ "CLEANING_FLAG_QUESTSTATUS", "de/d94/a02597.html#ad8ba5c50a4cd2d5193e35ccc83798c67ae0367424104049d29ca9dcf3d5b7273c", null ]
+    [ "DefaultTargetSelector", "d8/d6f/a06475.html", "d8/d6f/a06475" ],
+    [ "SpellTargetSelector", "d9/d53/a06479.html", "d9/d53/a06479" ],
+    [ "NonTankTargetSelector", "d5/dc6/a06483.html", "d5/dc6/a06483" ],
+    [ "PowerUsersSelector", "d3/d29/a06487.html", "d3/d29/a06487" ],
+    [ "RangeSelector", "d2/d1f/a06491.html", "d2/d1f/a06491" ],
+    [ "UnitAI", "df/d24/a06495.html", "df/d24/a06495" ],
+    [ "PlayerAI", "d6/d64/a06499.html", "d6/d64/a06499" ],
+    [ "SimpleCharmedAI", "de/d75/a06503.html", "de/d75/a06503" ],
+    [ "CAST_AI", "de/d94/a02597.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
+    [ "ENSURE_AI", "de/d94/a02597.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
+    [ "SelectTargetMethod", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3d", [
+      [ "Random", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
+      [ "MaxThreat", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
+      [ "MinThreat", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
+      [ "MaxDistance", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
+      [ "MinDistance", "de/d94/a02597.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
     ] ],
-    [ "AchievementProgressCheck", "de/d94/a02597.html#afe5cf638b3ba626c9dc18258d4c528fa", null ],
-    [ "CheckUnique", "de/d94/a02597.html#ab98182e5f92f72090600314cc41f0d39", null ],
-    [ "CleanCharacterAchievementProgress", "de/d94/a02597.html#ae5939466cf9b4fbb63eb136baf62767f", null ],
-    [ "CleanCharacterQuestStatus", "de/d94/a02597.html#a9f512823f852120bf4c3ec78eb4bbeaa", null ],
-    [ "CleanCharacterSkills", "de/d94/a02597.html#ae8c5d4dc123b8a900254bcbc82c1ffbe", null ],
-    [ "CleanCharacterSpell", "de/d94/a02597.html#aca5826d283031348e5d6ae6eb75ad605", null ],
-    [ "CleanCharacterTalent", "de/d94/a02597.html#a344f61fb209b507b775a0bbfb1315fac", null ],
-    [ "CleanDatabase", "de/d94/a02597.html#a357c8a07f912c6efb55a13cc9bc089b9", null ],
-    [ "SkillCheck", "de/d94/a02597.html#a0f72cf24646d1ece0eb793890840992d", null ],
-    [ "SpellCheck", "de/d94/a02597.html#a02688f57778d28a7bcc4ca6cee2074ad", null ],
-    [ "TalentCheck", "de/d94/a02597.html#aac707369555aa95807c11b1578ae80d2", null ]
+    [ "EnsureAI", "de/d94/a02597.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
 ];

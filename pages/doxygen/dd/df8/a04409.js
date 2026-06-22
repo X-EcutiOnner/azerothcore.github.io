@@ -1,8 +1,4 @@
 var a04409 =
 [
-    [ "CliThread", "d1/dba/a05033.html#ga2a2e263e5224262317a4728b5a4c18ac", null ],
-    [ "commandFinished", "d1/dba/a05033.html#gaf86bc63df807e80b7a14688e48340fea", null ],
-    [ "PrintCliPrefix", "d1/dba/a05033.html#ga6553c1ff0337c88fb9f9d94a97f49b9a", null ],
-    [ "utf8print", "d1/dba/a05033.html#gacf6bc075c8e41c95b5633526721136ce", null ],
-    [ "CLI_PREFIX", "d1/dba/a05033.html#ga77eabd925e8f9aa379616b264e287cea", null ]
+    [ "CliThread", "d8/d09/a05036.html#ga2a2e263e5224262317a4728b5a4c18ac", null ]
 ];

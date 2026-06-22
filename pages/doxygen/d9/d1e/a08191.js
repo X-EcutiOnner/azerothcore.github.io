@@ -1,5 +1,5 @@
 var a08191 =
 [
-    [ "CompareThreatLessThan", "d9/d1e/a08191.html#aa19219c7046b00951d23157bf00ee57d", null ],
-    [ "operator()", "d9/d1e/a08191.html#a6534d7e3cab45f2aab4f0eab96ec4416", null ]
+    [ "ThreatReferenceImpl", "d9/d1e/a08191.html#ae69492bf301cc65e2554ac6d46039086", null ],
+    [ "_handle", "d9/d1e/a08191.html#a500806ed499b69bcae1d9a05071dea2c", null ]
 ];

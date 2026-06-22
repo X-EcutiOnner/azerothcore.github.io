@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/StringConvert.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Timer.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,60 +105,86 @@ $(document).ready(function(){initNavTree('d4/dc3/a04706.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">StringConvert.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">Timer.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Optional.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Types.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Util.h</a>&quot;</code><br />
-<code>#include &lt;charconv&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
-<code>#include &lt;type_traits&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<code>#include &lt;iomanip&gt;</code><br />
+<code>#include &lt;sstream&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d08/a05843.html">Acore::Impl::StringConvertImpl::For&lt; T, typename &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d07/a05847.html">Acore::Impl::StringConvertImpl::For&lt; T, std::enable_if_t&lt; std::is_integral_v&lt; T &gt; &amp;&amp;!std::is_same_v&lt; T, bool &gt; &gt; &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d01/a05851.html">Acore::Impl::StringConvertImpl::For&lt; bool, void &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d27/a05855.html">Acore::Impl::StringConvertImpl::For&lt; T, std::enable_if_t&lt; std::is_floating_point_v&lt; T &gt; &gt; &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d3/d40/a05040"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d40/a05040.html">Acore</a></td></tr>
+<tr class="memitem:d2/d61/a05043"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d1/dc4/a05052"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dc4/a05052.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/d59/a05062"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d59/a05062.html">Acore::Impl::StringConvertImpl</a></td></tr>
+<tr class="memitem:d3/df0/a05067"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html">Acore::TimeDiff</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a71739ada07c2f1b12bcd0aa811eea903"><td class="memTemplParams" colspan="2">template&lt;typename Result , typename... Params&gt; </td></tr>
-<tr class="memitem:a71739ada07c2f1b12bcd0aa811eea903"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../da/d34/a04592.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; Result &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d40/a05040.html#a71739ada07c2f1b12bcd0aa811eea903">Acore::StringTo</a> (std::string_view str, Params &amp;&amp;... params)</td></tr>
-<tr class="separator:a71739ada07c2f1b12bcd0aa811eea903"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2cb308fb001c35fbaa90489ea6cf478"><td class="memTemplParams" colspan="2">template&lt;typename Type , typename... Params&gt; </td></tr>
-<tr class="memitem:ac2cb308fb001c35fbaa90489ea6cf478"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/d40/a05040.html#ac2cb308fb001c35fbaa90489ea6cf478">Acore::ToString</a> (Type &amp;&amp;val, Params &amp;&amp;... params)</td></tr>
-<tr class="separator:ac2cb308fb001c35fbaa90489ea6cf478"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17fdb8f2104b98bad5d9fb343d0a043a"><td class="memItemLeft" align="right" valign="top">struct tm *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dc3/a04706.html#a17fdb8f2104b98bad5d9fb343d0a043a">localtime_r</a> (time_t const *time, struct tm *result)</td></tr>
+<tr class="separator:a17fdb8f2104b98bad5d9fb343d0a043a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a2624e61008f0e89d91c7c55161f9bcd8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../db/d24/a04901.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html#a2624e61008f0e89d91c7c55161f9bcd8">Acore::TimeDiff::MILLISECONDS</a> = 1000</td></tr>
+<tr class="separator:a2624e61008f0e89d91c7c55161f9bcd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fb1c8d14d370751c6202fc87b27bf96"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../db/d24/a04901.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html#a5fb1c8d14d370751c6202fc87b27bf96">Acore::TimeDiff::SECONDS</a> = 1000 * MILLISECONDS</td></tr>
+<tr class="separator:a5fb1c8d14d370751c6202fc87b27bf96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbd89694b6a3e24a701ce6971b2cd37d"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../db/d24/a04901.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html#abbd89694b6a3e24a701ce6971b2cd37d">Acore::TimeDiff::MINUTES</a> = 60 * SECONDS</td></tr>
+<tr class="separator:abbd89694b6a3e24a701ce6971b2cd37d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18161a3aeba136aeffb54a07f08f08f6"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../db/d24/a04901.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html#a18161a3aeba136aeffb54a07f08f08f6">Acore::TimeDiff::HOURS</a> = 60 * MINUTES</td></tr>
+<tr class="separator:a18161a3aeba136aeffb54a07f08f08f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac9bde42940b2570f3865385200b56af8"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../db/d24/a04901.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/df0/a05067.html#ac9bde42940b2570f3865385200b56af8">Acore::TimeDiff::DAYS</a> = 24 * HOURS</td></tr>
+<tr class="separator:ac9bde42940b2570f3865385200b56af8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a17fdb8f2104b98bad5d9fb343d0a043a" name="a17fdb8f2104b98bad5d9fb343d0a043a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a17fdb8f2104b98bad5d9fb343d0a043a">&#9670;&#160;</a></span>localtime_r()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct tm * localtime_r </td>
+          <td>(</td>
+          <td class="paramtype">time_t const *&#160;</td>
+          <td class="paramname"><em>time</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">struct tm *&#160;</td>
+          <td class="paramname"><em>result</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  227</span>{</div>
+<div class="line"><span class="lineno">  228</span>    localtime_s(result, time);</div>
+<div class="line"><span class="lineno">  229</span>    <span class="keywordflow">return</span> result;</div>
+<div class="line"><span class="lineno">  230</span>}</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00218">guild_commandscript::HandleGuildInfoCommand()</a>, <a class="el" href="../../#l01070">GameEventMgr::LoadHolidayDates()</a>, and <a class="el" href="../../#l00233">Acore::Time::TimeBreakdown()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d4/dc3/a04706.html">StringConvert.h</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:37:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d4/dc3/a04706.html">Timer.cpp</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:24:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a12983 =
 [
-    [ "boss_shazzrah", "d8/d0e/a12983.html#a9886c4c93017936beae1babacffa76a2", null ],
-    [ "ExecuteEvent", "d8/d0e/a12983.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
-    [ "JustEngagedWith", "d8/d0e/a12983.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
+    [ "HandleScript", "d8/d0e/a12983.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "d8/d0e/a12983.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "d8/d0e/a12983.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "d8/d0e/a12983.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

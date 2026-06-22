@@ -1,4 +1,10 @@
 var a04283 =
 [
-    [ "DatabaseWorker", "db/dc9/a06027.html", "db/dc9/a06027" ]
+    [ "MySQLConnectionInfo", "d3/ddd/a06063.html", "d3/ddd/a06063" ],
+    [ "MySQLConnection", "d7/d20/a06067.html", "d7/d20/a06067" ],
+    [ "ConnectionFlags", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321f", [
+      [ "CONNECTION_ASYNC", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
+      [ "CONNECTION_SYNCH", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
+      [ "CONNECTION_BOTH", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
+    ] ]
 ];

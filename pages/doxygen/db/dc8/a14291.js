@@ -1,7 +1,5 @@
 var a14291 =
 [
-    [ "spell", "db/dc8/a14291.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "db/dc8/a14291.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "db/dc8/a14291.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "db/dc8/a14291.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "entry", "db/dc8/a14291.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "db/dc8/a14291.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

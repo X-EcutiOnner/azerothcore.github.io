@@ -1,6 +1,8 @@
 var a11195 =
 [
-    [ "SetRaidDifficultyClient", "d4/d19/a11195.html#afba49b9e3994eb461ac1b827d0c0fac7", null ],
-    [ "Read", "d4/d19/a11195.html#a347a86f33f0c31a1c3279028d7dfc46c", null ],
-    [ "Mode", "d4/d19/a11195.html#a445a55f5069f60a184b119c57cfedf9a", null ]
+    [ "SetRaidDifficulty", "d4/d19/a11195.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d4/d19/a11195.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d4/d19/a11195.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d4/d19/a11195.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d4/d19/a11195.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

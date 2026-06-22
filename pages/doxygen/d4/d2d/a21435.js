@@ -1,5 +1,7 @@
 var a21435 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d4/d2d/a21435.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d4/d2d/a21435.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_warmage_violetstand", "d4/d2d/a21435.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d4/d2d/a21435.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d4/d2d/a21435.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d4/d2d/a21435.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

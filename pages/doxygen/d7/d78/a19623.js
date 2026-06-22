@@ -1,15 +1,6 @@
 var a19623 =
 [
-    [ "instance_eye_of_eternity", "d7/d78/a19623.html#a8b8bccd4969d18cf0c56742c65150ef1", null ],
-    [ "CheckAchievementCriteriaMeet", "d7/d78/a19623.html#ae2cbbc353f1dfcb24346fb707b15e19d", null ],
-    [ "GetGuidData", "d7/d78/a19623.html#a9a8a000c1f3a4139e280c7b20711dbcc", null ],
-    [ "OnCreatureCreate", "d7/d78/a19623.html#a72ede46385cd3f4d36e360ed67d5634f", null ],
-    [ "OnGameObjectCreate", "d7/d78/a19623.html#a276b14a880ac762439213f85b17c5b8b", null ],
-    [ "OnPlayerEnter", "d7/d78/a19623.html#a1f525d686ec2447a0aa9c2b9631b2e2f", null ],
-    [ "ProcessEvent", "d7/d78/a19623.html#a1408e66a14a7af228d7dfa40d09133f7", null ],
-    [ "SetBossState", "d7/d78/a19623.html#a1d4ea255b6f65abd63a69e04ec43ab90", null ],
-    [ "SetData", "d7/d78/a19623.html#a361bf36921e723ff38005d43be1c900b", null ],
-    [ "VortexHandling", "d7/d78/a19623.html#aa413a00eeba3fa864c104b6475b72d7c", null ],
-    [ "_pokeAchievementValid", "d7/d78/a19623.html#ab2d2e6d8f1117cf91646dd2634dc6014", null ],
-    [ "_vortexTriggers", "d7/d78/a19623.html#a21b0f26e2bf09d875b3708c594e652bc", null ]
+    [ "HandleScript", "d7/d78/a19623.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d7/d78/a19623.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d7/d78/a19623.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

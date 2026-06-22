@@ -1,6 +1,4 @@
 var a03656 =
 [
-    [ "MapScript< BattlegroundMap >", "d7/df2/a03656.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "d7/df2/a03656.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "d7/df2/a03656.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "ScriptRegistry< ServerScript >", "d7/df2/a03656.html#ab647e167a3a2438bcbf1e445e37a9747", null ]
 ];

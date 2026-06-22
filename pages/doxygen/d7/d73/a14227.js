@@ -1,12 +1,6 @@
 var a14227 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d7/d73/a14227.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "d7/d73/a14227.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "d7/d73/a14227.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "d7/d73/a14227.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "d7/d73/a14227.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "d7/d73/a14227.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "d7/d73/a14227.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "WaypointReached", "d7/d73/a14227.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IsFriendSummoned", "d7/d73/a14227.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_tapoke_slim_jahnAI", "db/d37/a14231.html", "db/d37/a14231" ],
+    [ "npc_tapoke_slim_jahn", "d7/d73/a14227.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "d7/d73/a14227.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

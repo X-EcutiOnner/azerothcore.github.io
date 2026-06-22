@@ -1,10 +1,8 @@
 var a10307 =
 [
-    [ "ChaseRange", "df/da3/a10307.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "df/da3/a10307.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "df/da3/a10307.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "df/da3/a10307.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "df/da3/a10307.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "df/da3/a10307.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "df/da3/a10307.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "AbstractFollower", "df/da3/a10307.html#a08d292896f2419dd73ae68c8e1238d4b", null ],
+    [ "~AbstractFollower", "df/da3/a10307.html#acb394f5326ab5ea5146c79788a085647", null ],
+    [ "GetTarget", "df/da3/a10307.html#a43f037557454528a956c379d9efb42ac", null ],
+    [ "SetTarget", "df/da3/a10307.html#ad49748abec4bb2fe06cc8ba2699bdbd0", null ],
+    [ "_target", "df/da3/a10307.html#aa4e43d8e60442eee41398648fd7fd45d", null ]
 ];

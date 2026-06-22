@@ -1,6 +1,6 @@
 var a17599 =
 [
-    [ "boss_prince_kelesethAI", "d2/d00/a17603.html", "d2/d00/a17603" ],
-    [ "boss_prince_keleseth_icc", "db/d8c/a17599.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "db/d8c/a17599.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "ShockVortexExplodeEvent", "db/d8c/a17599.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "db/d8c/a17599.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "db/d8c/a17599.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

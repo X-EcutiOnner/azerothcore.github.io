@@ -1,7 +1,6 @@
 var a22067 =
 [
-    [ "HandleOnEffectHit", "d0/d61/a22067.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "d0/d61/a22067.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "d0/d61/a22067.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "d0/d61/a22067.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d9/d4e/a22071.html", "d9/d4e/a22071" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d0/d61/a22067.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d0/d61/a22067.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

@@ -1,8 +1,6 @@
 var a19847 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "dd/de3/a19847.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
-    [ "CheckAchievementCriteriaMeet", "dd/de3/a19847.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
-    [ "SetData", "dd/de3/a19847.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
-    [ "_bjarngrimAchievement", "dd/de3/a19847.html#aba06463eb70c68716f571951395c6e2a", null ],
-    [ "_volkhanAchievement", "dd/de3/a19847.html#a52db8081961566ef2002424f00b60189", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d7/df7/a19851.html", "d7/df7/a19851" ],
+    [ "instance_halls_of_lightning", "dd/de3/a19847.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "dd/de3/a19847.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

@@ -1,11 +1,7 @@
 var a07519 =
 [
-    [ "gyid", "db/d40/a07519.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "db/d40/a07519.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "db/d40/a07519.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "db/d40/a07519.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "db/d40/a07519.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "db/d40/a07519.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "db/d40/a07519.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "db/d40/a07519.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "BfGraveyardWG", "db/d40/a07519.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "db/d40/a07519.html#a618b778d8bed11627150a88e2f4e349b", null ],
+    [ "SetTextId", "db/d40/a07519.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "GossipTextId", "db/d40/a07519.html#af197f40de908ed650229bbf033836778", null ]
 ];

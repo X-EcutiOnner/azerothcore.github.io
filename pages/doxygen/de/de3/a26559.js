@@ -1,10 +1,11 @@
 var a26559 =
 [
-    [ "spell_pal_improved_aura", "de/de3/a26559.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "de/de3/a26559.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "de/de3/a26559.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "de/de3/a26559.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "de/de3/a26559.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "de/de3/a26559.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "de/de3/a26559.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "CheckProc", "de/de3/a26559.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "de/de3/a26559.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "de/de3/a26559.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "de/de3/a26559.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "de/de3/a26559.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "de/de3/a26559.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "de/de3/a26559.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "de/de3/a26559.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

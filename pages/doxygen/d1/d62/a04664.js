@@ -1,4 +1,5 @@
 var a04664 =
 [
-    [ "EventEmitter< Signature >", "de/dc1/a05771.html", "de/dc1/a05771" ]
+    [ "EventMap", "d6/d64/a05779.html", "d6/d64/a05779" ],
+    [ "EventMap::Event", "d6/d37/a05783.html", "d6/d37/a05783" ]
 ];

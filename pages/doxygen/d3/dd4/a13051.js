@@ -1,6 +1,8 @@
 var a13051 =
 [
-    [ "HandleTriggerSpell", "d3/dd4/a13051.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d3/dd4/a13051.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d3/dd4/a13051.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_kernobeeAI", "d3/dd4/a13051.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "d3/dd4/a13051.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "d3/dd4/a13051.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "d3/dd4/a13051.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "d3/dd4/a13051.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

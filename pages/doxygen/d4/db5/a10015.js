@@ -1,6 +1,8 @@
 var a10015 =
 [
-    [ "DoorInfo", "d4/db5/a10015.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "d4/db5/a10015.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "d4/db5/a10015.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "BossInfo", "d4/db5/a10015.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d4/db5/a10015.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d4/db5/a10015.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d4/db5/a10015.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d4/db5/a10015.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

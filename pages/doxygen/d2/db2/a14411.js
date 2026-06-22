@@ -1,6 +1,8 @@
 var a14411 =
 [
-    [ "boss_hakkarAI", "d2/d07/a14415.html", "d2/d07/a14415" ],
-    [ "boss_hakkar", "d2/db2/a14411.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "d2/db2/a14411.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "boss_grilekAI", "d2/db2/a14411.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "d2/db2/a14411.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "d2/db2/a14411.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "d2/db2/a14411.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "d2/db2/a14411.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

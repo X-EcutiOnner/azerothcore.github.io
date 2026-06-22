@@ -1,10 +1,11 @@
 var a20795 =
 [
-    [ "boss_yoggsaron_voice", "dd/d34/a20795.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "dd/d34/a20795.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "dd/d34/a20795.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "dd/d34/a20795.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "dd/d34/a20795.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "dd/d34/a20795.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "dd/d34/a20795.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_yoggsaron_neltharion", "dd/d34/a20795.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
+    [ "NextStep", "dd/d34/a20795.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
+    [ "Reset", "dd/d34/a20795.html#ab26d57690c1d2477678dc9759aefeab2", null ],
+    [ "Say", "dd/d34/a20795.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
+    [ "UpdateAI", "dd/d34/a20795.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
+    [ "_checkTimer", "dd/d34/a20795.html#a2adcf3f46d4003ae2044eda474e51983", null ],
+    [ "_running", "dd/d34/a20795.html#acd807afae6aa88c2e385765231a56a86", null ],
+    [ "_step", "dd/d34/a20795.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
 ];

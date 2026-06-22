@@ -1,7 +1,7 @@
 var a21287 =
 [
-    [ "npc_azure_captain", "d3/d33/a21287.html#abbdba89267506b8dd1e93ea0e059979c", null ],
-    [ "Reset", "d3/d33/a21287.html#ae9b8cc434f2b5690f3abc55d557cbd54", null ],
-    [ "UpdateAI", "d3/d33/a21287.html#a9aacf1533414ade27973ddcc46434978", null ],
-    [ "_events", "d3/d33/a21287.html#a6a69ea3d3eb75601f723a10eab68c260", null ]
+    [ "npc_azure_stalker", "d3/d33/a21287.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d3/d33/a21287.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d3/d33/a21287.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

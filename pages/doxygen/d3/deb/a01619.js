@@ -1,5 +1,10 @@
 var a01619 =
 [
-    [ "group_commandscript", "d1/dc9/a12355.html", "d1/dc9/a12355" ],
-    [ "AddSC_group_commandscript", "d3/deb/a01619.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "ban_commandscript", "d4/df7/a12291.html", "d4/df7/a12291" ],
+    [ "BanMode", "d3/deb/a01619.html#aee9acfaac97a86a40bad738a75eb5264", [
+      [ "BAN_ACCOUNT", "d3/deb/a01619.html#aee9acfaac97a86a40bad738a75eb5264a7092b1d29da920594bf62c7abe0e9ba1", null ],
+      [ "BAN_CHARACTER", "d3/deb/a01619.html#aee9acfaac97a86a40bad738a75eb5264ab7cde4c4b1dd975c191f10ab0b18ab79", null ],
+      [ "BAN_IP", "d3/deb/a01619.html#aee9acfaac97a86a40bad738a75eb5264ab68a6a6d80749ee19c73fc9dd4f4d74b", null ]
+    ] ],
+    [ "AddSC_ban_commandscript", "d3/deb/a01619.html#aac8ae57b7b7f9ef5cb5aa2975ef444ff", null ]
 ];

@@ -1,6 +1,5 @@
 var a28031 =
 [
-    [ "go_soulwellAI", "d1/d9a/a28035.html", "d1/d9a/a28035" ],
-    [ "go_soulwell", "de/dec/a28031.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "de/dec/a28031.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "go_arcane_prison", "de/dec/a28031.html#ad73ac33d843027de0e516de8f90c45a0", null ],
+    [ "OnGossipHello", "de/dec/a28031.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
 ];

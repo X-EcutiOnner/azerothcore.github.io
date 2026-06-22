@@ -1,7 +1,8 @@
 var a21803 =
 [
-    [ "HandleScript", "d1/dbe/a21803.html#a359814a44d4fe58c9f6e7a31c75d7c49", null ],
-    [ "PrepareSpellScript", "d1/dbe/a21803.html#a4c6c0903180f3f18d6d9e715efc9f391", null ],
-    [ "Register", "d1/dbe/a21803.html#a713b82bc3d82a8324ce4dd090059f463", null ],
-    [ "Validate", "d1/dbe/a21803.html#ac8e362d9f76350da106e128138737c5c", null ]
+    [ "AfterApply", "d1/dbe/a21803.html#af78d13a65fe21879fdb9147cdb0f2352", null ],
+    [ "AfterRemove", "d1/dbe/a21803.html#a74f5bdcd48a1cbe7b111a0a8294d7f19", null ],
+    [ "PrepareAuraScript", "d1/dbe/a21803.html#ac5b2bc61e52a895d35e3a4e8232f1659", null ],
+    [ "Register", "d1/dbe/a21803.html#a9b770bea32f0c3af7f5eb71eeea286fb", null ],
+    [ "Validate", "d1/dbe/a21803.html#a02fd5ec715170198bfb3b4f6be0485b7", null ]
 ];

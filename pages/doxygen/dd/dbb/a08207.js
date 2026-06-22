@@ -1,6 +1,49 @@
 var a08207 =
 [
-    [ "ConditionSourceInfo", "dd/dbb/a08207.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
-    [ "mConditionTargets", "dd/dbb/a08207.html#acb67deba44021698a447e8288bca0bd4", null ],
-    [ "mLastFailedCondition", "dd/dbb/a08207.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
+    [ "OnlineState", "dd/dbb/a08207.html#a43ab9ac10caef78cdbffa76cc5966136", [
+      [ "ONLINE_STATE_ONLINE", "dd/dbb/a08207.html#a43ab9ac10caef78cdbffa76cc5966136a07297cc3bbf383f37c988510a3a7dd42", null ],
+      [ "ONLINE_STATE_SUPPRESSED", "dd/dbb/a08207.html#a43ab9ac10caef78cdbffa76cc5966136ae9bc854a73f3ff2c3313e901e6194d3d", null ],
+      [ "ONLINE_STATE_OFFLINE", "dd/dbb/a08207.html#a43ab9ac10caef78cdbffa76cc5966136a478f5e04eb6506eb74e35b6d102431b3", null ]
+    ] ],
+    [ "TauntState", "dd/dbb/a08207.html#afde3ad95e7dc1e55650daa67128913b2", [
+      [ "TAUNT_STATE_DETAUNT", "dd/dbb/a08207.html#afde3ad95e7dc1e55650daa67128913b2a25093cfbc278cf0c973b289fc96e6adc", null ],
+      [ "TAUNT_STATE_NONE", "dd/dbb/a08207.html#afde3ad95e7dc1e55650daa67128913b2adbbbc767d9c945a1352c15448b46b814", null ],
+      [ "TAUNT_STATE_TAUNT", "dd/dbb/a08207.html#afde3ad95e7dc1e55650daa67128913b2abd016a6664098518b2c315c4ac7d3798", null ]
+    ] ],
+    [ "ThreatReference", "dd/dbb/a08207.html#aa6479b1cfc15757d4256a6adadb18d69", null ],
+    [ "~ThreatReference", "dd/dbb/a08207.html#ab7f68bbba88ab2ffb6b9f2bb9f4b9ad5", null ],
+    [ "ThreatReference", "dd/dbb/a08207.html#a99681f92a258647ae89fc3317f24c437", null ],
+    [ "AddThreat", "dd/dbb/a08207.html#aea29e619b5c5663f485040c898b93980", null ],
+    [ "ClearThreat", "dd/dbb/a08207.html#a031c33fcc3a29175602f7614b42fb6c3", null ],
+    [ "FlagsAllowFighting", "dd/dbb/a08207.html#a1b7f5a5b937f845cdce28c494709b33b", null ],
+    [ "GetOnlineState", "dd/dbb/a08207.html#a702426d7ada863b2f26b909ff12b72c1", null ],
+    [ "GetOwner", "dd/dbb/a08207.html#a4c574bfbfad1b0ca260d294240c1085f", null ],
+    [ "GetTauntState", "dd/dbb/a08207.html#aa4cdfd8d283d0afdd06e7463a592518d", null ],
+    [ "GetThreat", "dd/dbb/a08207.html#aa2816ee3da3318132494977bdc84228a", null ],
+    [ "GetVictim", "dd/dbb/a08207.html#ae30a1a5821f60c939301d753a59a6537", null ],
+    [ "HeapNotifyDecreased", "dd/dbb/a08207.html#a225a1a78da5da2d285554f067c63bc18", null ],
+    [ "HeapNotifyIncreased", "dd/dbb/a08207.html#a4223654bfa099f8cfc7040d1aaebcb80", null ],
+    [ "IsAvailable", "dd/dbb/a08207.html#aec4e69d6d9b84743d350705d3d74fed5", null ],
+    [ "IsDetaunted", "dd/dbb/a08207.html#a6737f529b5ea18201cef1983665eecb0", null ],
+    [ "IsOffline", "dd/dbb/a08207.html#a988ec221e1b0f5df54679bcdf9763907", null ],
+    [ "IsOnline", "dd/dbb/a08207.html#a8552434b31a71bef1730a266da3bd8b6", null ],
+    [ "IsSuppressed", "dd/dbb/a08207.html#a333a9178229706b9755a0f5eebb18143", null ],
+    [ "IsTaunting", "dd/dbb/a08207.html#a40e2b0455b90ef55146276d9498a7281", null ],
+    [ "ModifyThreatByPercent", "dd/dbb/a08207.html#a331c12f2fb44f6aa8698c0664bceb9e1", null ],
+    [ "operator=", "dd/dbb/a08207.html#abeef186d1e3e3a63ccf26731406f0019", null ],
+    [ "ScaleThreat", "dd/dbb/a08207.html#a3707675a0579b2fd35ebe03e739f5014", null ],
+    [ "ShouldBeOffline", "dd/dbb/a08207.html#a9185d24ff9cd735a5e504d0bf2a51f26", null ],
+    [ "ShouldBeSuppressed", "dd/dbb/a08207.html#a469279b622f405ce9049d0c13fe64b62", null ],
+    [ "UnregisterAndFree", "dd/dbb/a08207.html#a1033d7348fddc24bfd56a9b2437555d1", null ],
+    [ "UpdateOffline", "dd/dbb/a08207.html#a235cc72319c3e653b2a993eb3a947dc7", null ],
+    [ "UpdateTauntState", "dd/dbb/a08207.html#ab11a80c911e8b2dece4099347a56ce62", null ],
+    [ "CompareThreatLessThan", "dd/dbb/a08207.html#aec0e6964906625aed78a2fa2b70bcd53", null ],
+    [ "ThreatManager", "dd/dbb/a08207.html#a3ae6c5d55f39ae66627eaddd702b4cb6", null ],
+    [ "_baseAmount", "dd/dbb/a08207.html#a3b84571e5a83ab4934c9176c695fc0e6", null ],
+    [ "_mgr", "dd/dbb/a08207.html#a4daf2582acdc8cfccd18f6a1e96e3091", null ],
+    [ "_online", "dd/dbb/a08207.html#aad1e98407ab158ff4bac75b2bacfd5b5", null ],
+    [ "_owner", "dd/dbb/a08207.html#a7d9f03e6953250ea6d6999a41c59e24c", null ],
+    [ "_taunted", "dd/dbb/a08207.html#a984afbb4c0fedc24038cb87bd28b75ed", null ],
+    [ "_tempModifier", "dd/dbb/a08207.html#a117569165c1d157d2a55813fdd539bad", null ],
+    [ "_victim", "dd/dbb/a08207.html#a94122da9c97d4c8745c0a7450c8932d2", null ]
 ];

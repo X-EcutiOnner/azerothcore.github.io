@@ -1,5 +1,5 @@
 var a01562 =
 [
-    [ "mmaps_commandscript", "d3/d2e/a12411.html", "d3/d2e/a12411" ],
-    [ "AddSC_mmaps_commandscript", "d2/dc1/a01562.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
+    [ "honor_commandscript", "da/d0a/a12367.html", "da/d0a/a12367" ],
+    [ "AddSC_honor_commandscript", "d2/dc1/a01562.html#ab7c57f853cb45a82b5563b703a1ee041", null ]
 ];

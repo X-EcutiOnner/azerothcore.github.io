@@ -1,6 +1,17 @@
 var a04634 =
 [
-    [ "mean", "d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206", null ],
-    [ "median", "d0/dbd/a04634.html#a4840fd449eb626bea901860e4c1be22a", null ],
-    [ "standard_deviation", "d0/dbd/a04634.html#a60ce9c7718ec2901f037e2368f93026d", null ]
+    [ "FormatArgs", "d0/dbd/a04634.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
+    [ "FormatString", "d0/dbd/a04634.html#a32c972cafca136b88de5b298d6cba338", null ],
+    [ "FormatStringView", "d0/dbd/a04634.html#a9a310e3057a14b5ee0f7520e08cb0410", null ],
+    [ "AddSuffixIfNotExists", "d0/dbd/a04634.html#a712bea71ec99d750664fd46c690a1ad9", null ],
+    [ "format_as", "d0/dbd/a04634.html#aaa7f21af5991452196a22cd79e127825", null ],
+    [ "IsFormatEmptyOrNull", "d0/dbd/a04634.html#a6f5584cc7346fd1972b3e8a74036467f", null ],
+    [ "IsFormatEmptyOrNull", "d0/dbd/a04634.html#a84459e91f517fc4f79414cc23370b9f1", null ],
+    [ "MakeFormatArgs", "d0/dbd/a04634.html#abd5773b7124dcbc8deb88f522cdcc86f", null ],
+    [ "StringFormat", "d0/dbd/a04634.html#a1b97349dfcb88c6974882d7e34c55895", null ],
+    [ "StringFormatTo", "d0/dbd/a04634.html#a7c53f407c3169d5a97d012ca3470880d", null ],
+    [ "StringVFormat", "d0/dbd/a04634.html#acc68f8d815604ae13c370c09fbb60efd", null ],
+    [ "StringVFormatTo", "d0/dbd/a04634.html#a17112c1b25595793b63f24de06f90081", null ],
+    [ "Trim", "d0/dbd/a04634.html#a3213c569cd380bda3b76fe3f730899ff", null ],
+    [ "TrimRightInPlace", "d0/dbd/a04634.html#ac78200daa5bc5f1d4c50a1df47a7a4db", null ]
 ];

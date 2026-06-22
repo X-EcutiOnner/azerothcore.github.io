@@ -1,10 +1,9 @@
 var a07735 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "db/dfa/a07735.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "db/dfa/a07735.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "db/dfa/a07735.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "db/dfa/a07735.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "db/dfa/a07735.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "db/dfa/a07735.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "db/dfa/a07735.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "BattlegroundEYLosingPointStruct", "db/dfa/a07735.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "db/dfa/a07735.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "db/dfa/a07735.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "db/dfa/a07735.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "db/dfa/a07735.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "db/dfa/a07735.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

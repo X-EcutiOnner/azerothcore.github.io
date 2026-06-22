@@ -1,4 +1,4 @@
 var a03443 =
 [
-    [ "ItemScript", "d9/db0/a10731.html", "d9/db0/a10731" ]
+    [ "ScriptRegistry< MailScript >", "d8/df8/a03443.html#a2c63e917d984cb7f72bcae15da56850c", null ]
 ];

@@ -1,8 +1,6 @@
 var a20895 =
 [
-    [ "npc_ulduar_keeperAI", "dc/dff/a20899.html", "dc/dff/a20899" ],
-    [ "npc_ulduar_keeper", "dd/d21/a20895.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "dd/d21/a20895.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "dd/d21/a20895.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "dd/d21/a20895.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "instance_ulduar_InstanceMapScript", "dc/dff/a20899.html", "dc/dff/a20899" ],
+    [ "instance_ulduar", "dd/d21/a20895.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "dd/d21/a20895.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

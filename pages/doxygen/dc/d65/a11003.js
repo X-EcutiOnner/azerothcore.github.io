@@ -1,5 +1,5 @@
 var a11003 =
 [
-    [ "GuildDeclineInvitation", "dc/d65/a11003.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
-    [ "Read", "dc/d65/a11003.html#ad034438e18a7feddbac376a599c1e01a", null ]
+    [ "AcceptGuildInvite", "dc/d65/a11003.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "dc/d65/a11003.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

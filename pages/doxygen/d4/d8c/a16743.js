@@ -1,8 +1,8 @@
 var a16743 =
 [
-    [ "npc_announcer_toc5AI", "d4/d8c/a16743.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d4/d8c/a16743.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d4/d8c/a16743.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d4/d8c/a16743.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d4/d8c/a16743.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_announcer_toc5AI", "df/d00/a16747.html", "df/d00/a16747" ],
+    [ "npc_announcer_toc5", "d4/d8c/a16743.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d4/d8c/a16743.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d4/d8c/a16743.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d4/d8c/a16743.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

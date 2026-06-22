@@ -1,8 +1,10 @@
 var a12471 =
 [
-    [ "RBACCommandData", "d2/d01/a12471.html#a05b9fb0ce4d459f4f4bf6fab258b0737", null ],
-    [ "RBACCommandData", "d2/d01/a12471.html#ae871dc19c052c205378810f91534caf6", null ],
-    [ "~RBACCommandData", "d2/d01/a12471.html#adf59e804b6cc4779da75f07f8e904f43", null ],
-    [ "needDelete", "d2/d01/a12471.html#a97e567ffef62804e327d909ad4c2a385", null ],
-    [ "rbac", "d2/d01/a12471.html#ac681f852bea86d3bd1e290c93cf5e285", null ]
+    [ "quest_commandscript", "d2/d01/a12471.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d2/d01/a12471.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d2/d01/a12471.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d2/d01/a12471.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d2/d01/a12471.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d2/d01/a12471.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ],
+    [ "HandleQuestStatus", "d2/d01/a12471.html#adbba92d0cf47879e94710c971fd994ff", null ]
 ];

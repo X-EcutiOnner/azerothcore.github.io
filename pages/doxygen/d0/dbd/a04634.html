@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/MathUtil.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/StringFormat.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,185 +105,95 @@ $(document).ready(function(){initNavTree('d0/dbd/a04634.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">MathUtil.h File Reference</div></div>
+  <div class="headertitle"><div class="title">StringFormat.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;algorithm&gt;</code><br />
-<code>#include &lt;iterator&gt;</code><br />
-<code>#include &lt;numeric&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;fmt/chrono.h&gt;</code><br />
+<code>#include &lt;fmt/format.h&gt;</code><br />
+<code>#include &lt;fmt/printf.h&gt;</code><br />
+<code>#include &lt;locale&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:d2/d61/a05043"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d7/dc7/a05066"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05066.html">Acore::String</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a32c972cafca136b88de5b298d6cba338"><td class="memTemplItemLeft" align="right" valign="top">using&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a32c972cafca136b88de5b298d6cba338">Acore::FormatString</a> = fmt::format_string&lt; Args... &gt;</td></tr>
+<tr class="separator:a32c972cafca136b88de5b298d6cba338"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a310e3057a14b5ee0f7520e08cb0410"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a9a310e3057a14b5ee0f7520e08cb0410">Acore::FormatStringView</a> = fmt::string_view</td></tr>
+<tr class="separator:a9a310e3057a14b5ee0f7520e08cb0410"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a300bea6aa9ed219f5f3636b900db3ac9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a300bea6aa9ed219f5f3636b900db3ac9">Acore::FormatArgs</a> = fmt::format_args</td></tr>
+<tr class="separator:a300bea6aa9ed219f5f3636b900db3ac9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a60ce9c7718ec2901f037e2368f93026d"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </td></tr>
-<tr class="memitem:a60ce9c7718ec2901f037e2368f93026d"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#a60ce9c7718ec2901f037e2368f93026d">standard_deviation</a> (<a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;c)</td></tr>
-<tr class="separator:a60ce9c7718ec2901f037e2368f93026d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64ba279a3d3edca415239118167c0206"><td class="memTemplParams" colspan="2">template&lt;typename <a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </td></tr>
-<tr class="memitem:a64ba279a3d3edca415239118167c0206"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206">mean</a> (<a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;c)</td></tr>
-<tr class="separator:a64ba279a3d3edca415239118167c0206"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4840fd449eb626bea901860e4c1be22a"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a4840fd449eb626bea901860e4c1be22a"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#a4840fd449eb626bea901860e4c1be22a">median</a> (std::vector&lt; T &gt; a)</td></tr>
-<tr class="separator:a4840fd449eb626bea901860e4c1be22a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memTemplItemLeft" align="right" valign="top">constexpr auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#abd5773b7124dcbc8deb88f522cdcc86f">Acore::MakeFormatArgs</a> (Args &amp;&amp;... args)</td></tr>
+<tr class="separator:abd5773b7124dcbc8deb88f522cdcc86f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplParams" colspan="2">template&lt;typename... Args&gt; </td></tr>
+<tr class="memitem:a1b97349dfcb88c6974882d7e34c55895"><td class="memTemplItemLeft" align="right" valign="top">std::string&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a1b97349dfcb88c6974882d7e34c55895">Acore::StringFormat</a> (FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="memdesc:a1b97349dfcb88c6974882d7e34c55895"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default AC string format function.  <a href="../../d2/d61/a05043.html#a1b97349dfcb88c6974882d7e34c55895">More...</a><br /></td></tr>
+<tr class="separator:a1b97349dfcb88c6974882d7e34c55895"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt , typename... Args&gt; </td></tr>
+<tr class="memitem:a7c53f407c3169d5a97d012ca3470880d"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a7c53f407c3169d5a97d012ca3470880d">Acore::StringFormatTo</a> (OutputIt out, FormatStringView fmt, Args &amp;&amp;... args)</td></tr>
+<tr class="memdesc:a7c53f407c3169d5a97d012ca3470880d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format directly to an output iterator.  <a href="../../d2/d61/a05043.html#a7c53f407c3169d5a97d012ca3470880d">More...</a><br /></td></tr>
+<tr class="separator:a7c53f407c3169d5a97d012ca3470880d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc68f8d815604ae13c370c09fbb60efd"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#acc68f8d815604ae13c370c09fbb60efd">Acore::StringVFormat</a> (FormatStringView fmt, FormatArgs args)</td></tr>
+<tr class="memdesc:acc68f8d815604ae13c370c09fbb60efd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format with pre-built format args.  <a href="../../d2/d61/a05043.html#acc68f8d815604ae13c370c09fbb60efd">More...</a><br /></td></tr>
+<tr class="separator:acc68f8d815604ae13c370c09fbb60efd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17112c1b25595793b63f24de06f90081"><td class="memTemplParams" colspan="2">template&lt;typename OutputIt &gt; </td></tr>
+<tr class="memitem:a17112c1b25595793b63f24de06f90081"><td class="memTemplItemLeft" align="right" valign="top">OutputIt&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a17112c1b25595793b63f24de06f90081">Acore::StringVFormatTo</a> (OutputIt out, FormatStringView fmt, FormatArgs args)</td></tr>
+<tr class="memdesc:a17112c1b25595793b63f24de06f90081"><td class="mdescLeft">&#160;</td><td class="mdescRight">Format with pre-built format args directly to an output iterator.  <a href="../../d2/d61/a05043.html#a17112c1b25595793b63f24de06f90081">More...</a><br /></td></tr>
+<tr class="separator:a17112c1b25595793b63f24de06f90081"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6f5584cc7346fd1972b3e8a74036467f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a6f5584cc7346fd1972b3e8a74036467f">Acore::IsFormatEmptyOrNull</a> (char const *fmt)</td></tr>
+<tr class="memdesc:a6f5584cc7346fd1972b3e8a74036467f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given char pointer is null.  <a href="../../d2/d61/a05043.html#a6f5584cc7346fd1972b3e8a74036467f">More...</a><br /></td></tr>
+<tr class="separator:a6f5584cc7346fd1972b3e8a74036467f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84459e91f517fc4f79414cc23370b9f1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d61/a05043.html#a84459e91f517fc4f79414cc23370b9f1">Acore::IsFormatEmptyOrNull</a> (std::string_view fmt)</td></tr>
+<tr class="memdesc:a84459e91f517fc4f79414cc23370b9f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns true if the given std::string is empty.  <a href="../../d2/d61/a05043.html#a84459e91f517fc4f79414cc23370b9f1">More...</a><br /></td></tr>
+<tr class="separator:a84459e91f517fc4f79414cc23370b9f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplParams" colspan="2">template&lt;class Str &gt; </td></tr>
+<tr class="memitem:a3213c569cd380bda3b76fe3f730899ff"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> Str&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05066.html#a3213c569cd380bda3b76fe3f730899ff">Acore::String::Trim</a> (const Str &amp;s, const std::locale &amp;loc=std::locale())</td></tr>
+<tr class="separator:a3213c569cd380bda3b76fe3f730899ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05066.html#ac78200daa5bc5f1d4c50a1df47a7a4db">Acore::String::TrimRightInPlace</a> (std::string &amp;str)</td></tr>
+<tr class="separator:ac78200daa5bc5f1d4c50a1df47a7a4db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a712bea71ec99d750664fd46c690a1ad9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dc7/a05066.html#a712bea71ec99d750664fd46c690a1ad9">Acore::String::AddSuffixIfNotExists</a> (std::string str, const char suffix)</td></tr>
+<tr class="memdesc:a712bea71ec99d750664fd46c690a1ad9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Util function to add a suffix char. Can be used to add a slash at the end of a path.  <a href="../../d7/dc7/a05066.html#a712bea71ec99d750664fd46c690a1ad9">More...</a><br /></td></tr>
+<tr class="separator:a712bea71ec99d750664fd46c690a1ad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplParams" colspan="2">template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </td></tr>
+<tr class="memitem:aaa7f21af5991452196a22cd79e127825"><td class="memTemplItemLeft" align="right" valign="top">auto&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dbd/a04634.html#aaa7f21af5991452196a22cd79e127825">format_as</a> (T f)</td></tr>
+<tr class="separator:aaa7f21af5991452196a22cd79e127825"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a64ba279a3d3edca415239118167c0206" name="a64ba279a3d3edca415239118167c0206"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64ba279a3d3edca415239118167c0206">&#9670;&#160;</a></span>mean()</h2>
+<a id="aaa7f21af5991452196a22cd79e127825" name="aaa7f21af5991452196a22cd79e127825"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaa7f21af5991452196a22cd79e127825">&#9670;&#160;</a></span>format_as()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename <a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
+template&lt;typename T , FMT_ENABLE_IF(std::is_enum_v&lt; T &gt;) &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">T mean </td>
+          <td class="memname">auto format_as </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
+          <td class="paramtype">T&#160;</td>
+          <td class="paramname"><em>f</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <span class="keyword">auto</span> b = std::begin(c), e = std::end(c);</div>
-<div class="line"><span class="lineno">   52</span>    <span class="keyword">auto</span> size = std::distance(b, e);</div>
-<div class="line"><span class="lineno">   53</span>    <span class="keyword">auto</span> sum = std::accumulate(b, e, T());</div>
-<div class="line"><span class="lineno">   54</span>    <span class="keywordflow">return</span> sum / size;</div>
-<div class="line"><span class="lineno">   55</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  123</span>{ <span class="keywordflow">return</span> fmt::underlying(f); }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00941">WorldSession::ComputeNewClockDelta()</a>, and <a class="el" href="../../#l00028">standard_deviation()</a>.</p>
-
-</div>
-</div>
-<a id="a4840fd449eb626bea901860e4c1be22a" name="a4840fd449eb626bea901860e4c1be22a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4840fd449eb626bea901860e4c1be22a">&#9670;&#160;</a></span>median()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T median </td>
-          <td>(</td>
-          <td class="paramtype">std::vector&lt; T &gt;&#160;</td>
-          <td class="paramname"><em>a</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    std::size_t n = a.size();</div>
-<div class="line"><span class="lineno">   62</span>    <span class="comment">// If size of the arr[] is even</span></div>
-<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">if</span> (n % 2 == 0)</div>
-<div class="line"><span class="lineno">   64</span>    {</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   67</span>        <span class="comment">// on n/2th index</span></div>
-<div class="line"><span class="lineno">   68</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   69</span>            a.begin() + n / 2,</div>
-<div class="line"><span class="lineno">   70</span>            a.end());</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   73</span>        <span class="comment">// on (n-1)/2 th index</span></div>
-<div class="line"><span class="lineno">   74</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   75</span>            a.begin() + (n - 1) / 2,</div>
-<div class="line"><span class="lineno">   76</span>            a.end());</div>
-<div class="line"><span class="lineno">   77</span> </div>
-<div class="line"><span class="lineno">   78</span>        <span class="comment">// Find the average of value at</span></div>
-<div class="line"><span class="lineno">   79</span>        <span class="comment">// index N/2 and (N-1)/2</span></div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">return</span> (T)(a[(n - 1) / 2]</div>
-<div class="line"><span class="lineno">   81</span>            + a[n / 2])</div>
-<div class="line"><span class="lineno">   82</span>            / 2.0;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>    <span class="comment">// If size of the arr[] is odd</span></div>
-<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   87</span>    {</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>        <span class="comment">// Applying nth_element</span></div>
-<div class="line"><span class="lineno">   90</span>        <span class="comment">// on n/2</span></div>
-<div class="line"><span class="lineno">   91</span>        std::nth_element(a.begin(),</div>
-<div class="line"><span class="lineno">   92</span>            a.begin() + n / 2,</div>
-<div class="line"><span class="lineno">   93</span>            a.end());</div>
-<div class="line"><span class="lineno">   94</span> </div>
-<div class="line"><span class="lineno">   95</span>        <span class="comment">// Value at index (N/2)th</span></div>
-<div class="line"><span class="lineno">   96</span>        <span class="comment">// is the median</span></div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> (T)a[n / 2];</div>
-<div class="line"><span class="lineno">   98</span>    }</div>
-<div class="line"><span class="lineno">   99</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00941">WorldSession::ComputeNewClockDelta()</a>.</p>
-
-</div>
-</div>
-<a id="a60ce9c7718ec2901f037e2368f93026d" name="a60ce9c7718ec2901f037e2368f93026d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60ce9c7718ec2901f037e2368f93026d">&#9670;&#160;</a></span>standard_deviation()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename <a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> , typename T  = typename std::decay&lt;decltype(*std::begin(std::declval&lt;Container&gt;()))&gt;::type&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T standard_deviation </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d92/a02867.html#abe8666ac87665ba963053cdd2b014750a0e7278cda02a9c0446dcc75a4df34eb2">Container</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keyword">auto</span> b = std::begin(c), e = std::end(c);</div>
-<div class="line"><span class="lineno">   31</span>    <span class="keyword">auto</span> size = std::distance(b, e);</div>
-<div class="line"><span class="lineno">   32</span>    <span class="keyword">auto</span> sum = std::accumulate(b, e, T());</div>
-<div class="line"><span class="lineno">   33</span>    <span class="keyword">auto</span> <a class="code hl_function" href="../../d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206">mean</a> = sum / size;</div>
-<div class="line"><span class="lineno">   34</span> </div>
-<div class="line"><span class="lineno">   35</span>    <span class="keywordflow">if</span> (size == 1)</div>
-<div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>        <span class="keywordflow">return</span> (T) 0;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-<div class="line"><span class="lineno">   39</span> </div>
-<div class="line"><span class="lineno">   40</span>    T accum = T();</div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span> d : c)</div>
-<div class="line"><span class="lineno">   42</span>    {</div>
-<div class="line"><span class="lineno">   43</span>        accum += (d - <a class="code hl_function" href="../../d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206">mean</a>) * (d - <a class="code hl_function" href="../../d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206">mean</a>);</div>
-<div class="line"><span class="lineno">   44</span>    }</div>
-<div class="line"><span class="lineno">   45</span>    <span class="keywordflow">return</span> std::sqrt(accum / (size - 1));</div>
-<div class="line"><span class="lineno">   46</span>}</div>
-<div class="ttc" id="aa04634_html_a64ba279a3d3edca415239118167c0206"><div class="ttname"><a href="../../d0/dbd/a04634.html#a64ba279a3d3edca415239118167c0206">mean</a></div><div class="ttdeci">T mean(Container &amp;&amp;c)</div><div class="ttdef"><b>Definition:</b> MathUtil.h:49</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00049">mean()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00941">WorldSession::ComputeNewClockDelta()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -291,8 +201,8 @@ template&lt;typename <a class="el" href="../../d6/d92/a02867.html#abe8666ac87665
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d0/dbd/a04634.html">MathUtil.h</a></li>
-    <li class="footer">Generated on Mon Jun 15 2026 22:37:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d0/dbd/a04634.html">StringFormat.h</a></li>
+    <li class="footer">Generated on Mon Jun 22 2026 22:24:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

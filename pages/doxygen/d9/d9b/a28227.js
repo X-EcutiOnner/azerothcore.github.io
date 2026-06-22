@@ -1,10 +1,8 @@
 var a28227 =
 [
-    [ "npc_air_force_botsAI", "d9/d9b/a28227.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d9/d9b/a28227.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d9/d9b/a28227.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d9/d9b/a28227.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d9/d9b/a28227.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d9/d9b/a28227.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d9/d9b/a28227.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "npc_target_dummy", "d9/d9b/a28227.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "DamageTaken", "d9/d9b/a28227.html#ae137fc2935f306807128850e9761253e", null ],
+    [ "Reset", "d9/d9b/a28227.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "d9/d9b/a28227.html#a32e9e139a54375b336c112deee3687cd", null ],
+    [ "_deathTimer", "d9/d9b/a28227.html#a304b79f8ec2afda669b43d2e248d026a", null ]
 ];

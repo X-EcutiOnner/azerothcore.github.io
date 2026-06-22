@@ -1,6 +1,11 @@
 var a13823 =
 [
-    [ "HandlePeriodic", "d0/d17/a13823.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d0/d17/a13823.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d0/d17/a13823.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "npc_kalecgos_kj", "d0/d17/a13823.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d0/d17/a13823.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d0/d17/a13823.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d0/d17/a13823.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d0/d17/a13823.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d0/d17/a13823.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d0/d17/a13823.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d0/d17/a13823.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

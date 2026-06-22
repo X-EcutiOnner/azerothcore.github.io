@@ -1,20 +1,11 @@
 var a00068 =
 [
-    [ "SpellProcDisableEffectsTest", "d1/df6/a29651.html", "d1/df6/a29651" ],
-    [ "TEST_F", "da/d24/a00068.html#a83593ff4e5f0d4bbf17f3d89a11ad41b", null ],
-    [ "TEST_F", "da/d24/a00068.html#ada6aa7946b5b1650643d1101a7b0a6a1", null ],
-    [ "TEST_F", "da/d24/a00068.html#a209cf89313651785788473e379b84a84", null ],
-    [ "TEST_F", "da/d24/a00068.html#ac0f559af209178724eb3126d61ad07d7", null ],
-    [ "TEST_F", "da/d24/a00068.html#a1e3c33508c40282f4fc3283792e6e5a1", null ],
-    [ "TEST_F", "da/d24/a00068.html#a69a9541f9f5c5bc76d328b5b496acea4", null ],
-    [ "TEST_F", "da/d24/a00068.html#a82283c17501ab739171a9f29b6bfe746", null ],
-    [ "TEST_F", "da/d24/a00068.html#a37a87cb84048c2080f4612acc24521b7", null ],
-    [ "TEST_F", "da/d24/a00068.html#a168e46f935ad0b05479d64d810f07fac", null ],
-    [ "TEST_F", "da/d24/a00068.html#a47cb30ee310f6abc71de51474bf4d02e", null ],
-    [ "TEST_F", "da/d24/a00068.html#acf2364ee45cd14949ea8fa599d15207b", null ],
-    [ "TEST_F", "da/d24/a00068.html#a6352b8a0e0c72a3f03d64c5faf35e62b", null ],
-    [ "TEST_F", "da/d24/a00068.html#a8e4c6158dabe9042eea4f0aed6923dc7", null ],
-    [ "TEST_F", "da/d24/a00068.html#a830a4559543ce06e92f37f1cfccea55e", null ],
-    [ "TEST_F", "da/d24/a00068.html#a280de460557f0d5f4f03d2821c31ec8f", null ],
-    [ "TEST_F", "da/d24/a00068.html#aca9a42766818ffc52919d66ab1017745", null ]
+    [ "SpellCritDamageBonusOrderTest", "d9/dd1/a29603.html", null ],
+    [ "CorrectCritOrder", "da/d24/a00068.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
+    [ "OldWrongCritOrder", "da/d24/a00068.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
+    [ "TEST_F", "da/d24/a00068.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],
+    [ "TEST_F", "da/d24/a00068.html#a2f98b8f734392902e0cd2dc96a8ef637", null ],
+    [ "TEST_F", "da/d24/a00068.html#ae30b40dccd8a24d78d006e8e9ac63f19", null ],
+    [ "TEST_F", "da/d24/a00068.html#a4172aa23985d10af03e6a92c7fa9dd2e", null ],
+    [ "TEST_F", "da/d24/a00068.html#ad8c6026ca0167ae177e227997c8e2388", null ]
 ];

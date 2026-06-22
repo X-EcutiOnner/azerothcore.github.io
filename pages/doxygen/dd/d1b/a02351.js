@@ -1,20 +1,17 @@
 var a02351 =
 [
-    [ "Acore::Impl::ChatCommands::ContainerTag", "d3/de2/a08019.html", "d3/de2/a08019" ],
-    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d9/d9e/a08023.html", "d9/d9e/a08023" ],
-    [ "Acore::ChatCommands::ExactSequence< chars >", "de/d63/a08027.html", "de/d63/a08027" ],
-    [ "Acore::ChatCommands::Tail", "d3/d83/a08031.html", "d3/d83/a08031" ],
-    [ "Acore::ChatCommands::WTail", "dd/dfa/a08035.html", "dd/dfa/a08035" ],
-    [ "Acore::ChatCommands::QuotedString", "dc/dbf/a08039.html", "dc/dbf/a08039" ],
-    [ "Acore::ChatCommands::AccountIdentifier", "d3/d30/a08043.html", "d3/d30/a08043" ],
-    [ "Acore::ChatCommands::PlayerIdentifier", "df/dbd/a08047.html", "df/dbd/a08047" ],
-    [ "Acore::ChatCommands::Hyperlink< linktag >", "d1/d5e/a08051.html", "d1/d5e/a08051" ],
-    [ "Acore::Impl::CastToVisitor< T >", "d7/d34/a08055.html", "d7/d34/a08055" ],
-    [ "Acore::ChatCommands::Variant< T1, Ts >", "d9/d0e/a08059.html", "d9/d0e/a08059" ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "dd/d1b/a02351.html#af98497f511ab4c536bd80e08ff605c04", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "dd/d1b/a02351.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
-    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "dd/d1b/a02351.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
-    [ "EXACT_SEQUENCE", "dd/d1b/a02351.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
-    [ "format_as", "dd/d1b/a02351.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
-    [ "GetChar", "dd/d1b/a02351.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
+    [ "GuidLinkType", "dd/d1b/a02351.html#a7c58fae67eb0c9a1b6f18b403121b2f5", [
+      [ "SPELL_LINK_PLAYER", "dd/d1b/a02351.html#a7c58fae67eb0c9a1b6f18b403121b2f5a5d767348c5c4c24512c158282864e028", null ],
+      [ "SPELL_LINK_CREATURE", "dd/d1b/a02351.html#a7c58fae67eb0c9a1b6f18b403121b2f5aaed061119fe0e792ab485fd40a360bf8", null ],
+      [ "SPELL_LINK_GAMEOBJECT", "dd/d1b/a02351.html#a7c58fae67eb0c9a1b6f18b403121b2f5ad11a1fa40770cd0fbd5f0ef62ee244f7", null ]
+    ] ],
+    [ "SpellLinkType", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9", [
+      [ "SPELL_LINK_SPELL", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9a2670f404d5b38a26d1bd9e6567f5f2dd", null ],
+      [ "SPELL_LINK_TALENT", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9ac802fa91fadd1123dd681fb41e79ba56", null ],
+      [ "SPELL_LINK_ENCHANT", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9aea86b74d590ef750d18f0ea02a3a3654", null ],
+      [ "SPELL_LINK_TRADE", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9afb3878bf9e3c79264f9b24165df84919", null ],
+      [ "SPELL_LINK_GLYPH", "dd/d1b/a02351.html#a39157073e48b2e925e7227a28d1f09f9a4560f8b79d96cfda475bb4ac266a255e", null ]
+    ] ],
+    [ "guidKeys", "dd/d1b/a02351.html#ae39447b85bcee503ddb354d2950d638a", null ],
+    [ "spellKeys", "dd/d1b/a02351.html#a493fba30c4b66be28baeb971844ea593", null ]
 ];

@@ -1,6 +1,6 @@
 var a25351 =
 [
-    [ "PrepareAuraScript", "de/d1e/a25351.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "de/d1e/a25351.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "de/d1e/a25351.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "FilterTargets", "de/d1e/a25351.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "de/d1e/a25351.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "de/d1e/a25351.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

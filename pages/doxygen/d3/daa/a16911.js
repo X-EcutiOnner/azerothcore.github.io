@@ -1,6 +1,7 @@
 var a16911 =
 [
-    [ "npc_toc_retro_paladinAI", "d5/daf/a16915.html", "d5/daf/a16915" ],
-    [ "npc_toc_retro_paladin", "d3/daa/a16911.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d3/daa/a16911.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_enh_shamanAI", "d3/daa/a16911.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d3/daa/a16911.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d3/daa/a16911.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d3/daa/a16911.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

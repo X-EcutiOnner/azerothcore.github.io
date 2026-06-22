@@ -1,12 +1,9 @@
 var a12695 =
 [
-    [ "boss_pyroguard_emberseer", "d1/da2/a12695.html#a4c1bd9e71776fa088a84009565dc527d", null ],
-    [ "JustDied", "d1/da2/a12695.html#a6f0e58c7107563f40e864eede5a907d5", null ],
-    [ "JustEngagedWith", "d1/da2/a12695.html#a1c9662393ea5862ee26f5242e184fd74", null ],
-    [ "OpenDoors", "d1/da2/a12695.html#a80761b3fad5864ce80dae81d31df748c", null ],
-    [ "Reset", "d1/da2/a12695.html#a7eda06b39dc920040e205595a0f8efa2", null ],
-    [ "SetData", "d1/da2/a12695.html#a533c643c9b65813f48fd92ee73670fae", null ],
-    [ "SpellHit", "d1/da2/a12695.html#aa9842818e2ab218ac175cebfc82f6adf", null ],
-    [ "UpdateAI", "d1/da2/a12695.html#a7e12a0ef98e8c751a33e4492ae368074", null ],
-    [ "UpdateRunes", "d1/da2/a12695.html#af80bdd2eb6200d3abbcb08b57798f1e5", null ]
+    [ "boss_overlord_wyrmthalak", "d1/da2/a12695.html#a412ced7f6cbb2c02b174824b57132ab3", null ],
+    [ "JustDied", "d1/da2/a12695.html#a66f2bda1b2352c42a15be505f6d610c6", null ],
+    [ "JustEngagedWith", "d1/da2/a12695.html#a4673b2e6c3b7143ab088b699c7f41d8a", null ],
+    [ "Reset", "d1/da2/a12695.html#a8c4bff3d35d4ddb5c6c8994cb4ee9d67", null ],
+    [ "UpdateAI", "d1/da2/a12695.html#afcca6360598b40df4c35bff752eee3f4", null ],
+    [ "_summoned", "d1/da2/a12695.html#a4ccbe2c20ef1303141005a79ec418705", null ]
 ];

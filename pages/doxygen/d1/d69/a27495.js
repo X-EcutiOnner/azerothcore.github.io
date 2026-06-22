@@ -1,8 +1,10 @@
 var a27495 =
 [
-    [ "ApplyEffect", "d1/d69/a27495.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "d1/d69/a27495.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "d1/d69/a27495.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "d1/d69/a27495.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "d1/d69/a27495.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "CheckProc", "d1/d69/a27495.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "d1/d69/a27495.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "d1/d69/a27495.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "d1/d69/a27495.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "d1/d69/a27495.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "d1/d69/a27495.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "d1/d69/a27495.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

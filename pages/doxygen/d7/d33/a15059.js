@@ -1,7 +1,6 @@
 var a15059 =
 [
-    [ "HandleProc", "d7/d33/a15059.html#a6d1d8eb2ad0085df31d4f0e00c632fb2", null ],
-    [ "PrepareAuraScript", "d7/d33/a15059.html#a95e3495f3e696ee908c4b17cf6dee370", null ],
-    [ "Register", "d7/d33/a15059.html#a9beecfcf0f11b551bfdc840e10db2432", null ],
-    [ "Validate", "d7/d33/a15059.html#a18398f81a80f9a1f47958de3be7b9189", null ]
+    [ "FilterTargets", "d7/d33/a15059.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d7/d33/a15059.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d7/d33/a15059.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

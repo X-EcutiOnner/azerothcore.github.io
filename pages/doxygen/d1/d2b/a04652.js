@@ -1,4 +1,4 @@
 var a04652 =
 [
-    [ "get_listen_fd", "d1/d2b/a04652.html#a0564629d7b84ad2abab3b0a3a78f888e", null ]
+    [ "CircularBuffer< T >", "d9/dd4/a05755.html", "d9/dd4/a05755" ]
 ];

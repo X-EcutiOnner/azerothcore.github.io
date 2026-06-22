@@ -1,6 +1,9 @@
 var a27427 =
 [
-    [ "FilterTargets", "d5/d2d/a27427.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d5/d2d/a27427.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d5/d2d/a27427.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "CheckCast", "d5/d2d/a27427.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d5/d2d/a27427.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d5/d2d/a27427.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d5/d2d/a27427.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d5/d2d/a27427.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d5/d2d/a27427.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

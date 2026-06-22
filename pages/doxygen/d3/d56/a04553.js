@@ -1,16 +1,22 @@
 var a04553 =
 [
-    [ "Log", "d1/d19/a05651.html", "d1/d19/a05651" ],
-    [ "LOG_DEBUG", "d3/d56/a04553.html#a47ac782b14a7531c6232777165a1a161", null ],
-    [ "LOG_ERROR", "d3/d56/a04553.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
-    [ "LOG_FATAL", "d3/d56/a04553.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
-    [ "LOG_GM", "d3/d56/a04553.html#aeeb132f13796dfa459eb05386acff8fe", null ],
-    [ "LOG_INFO", "d3/d56/a04553.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
-    [ "LOG_MESSAGE_BODY", "d3/d56/a04553.html#a1ce833e7403b29687774e0539da6f4b9", null ],
-    [ "LOG_TRACE", "d3/d56/a04553.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
-    [ "LOG_WARN", "d3/d56/a04553.html#adf09840a666e1d86bcd3439105db6edc", null ],
-    [ "LOGGER_ROOT", "d3/d56/a04553.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
-    [ "sLog", "d3/d56/a04553.html#ab5487500f5b4b12072043104b916d582", null ],
-    [ "AppenderCreatorFn", "d3/d56/a04553.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
-    [ "CreateAppender", "d3/d56/a04553.html#ae5d709e10423806fa5331696a9bbd657", null ]
+    [ "AppenderConsole", "d2/da1/a05647.html", "d2/da1/a05647" ],
+    [ "ColorTypes", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832", [
+      [ "BLACK", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
+      [ "RED", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
+      [ "GREEN", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
+      [ "BROWN", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
+      [ "BLUE", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
+      [ "MAGENTA", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
+      [ "CYAN", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
+      [ "GREY", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
+      [ "YELLOW", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
+      [ "LRED", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
+      [ "LGREEN", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
+      [ "LBLUE", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
+      [ "LMAGENTA", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
+      [ "LCYAN", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
+      [ "WHITE", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
+      [ "NUM_COLOR_TYPES", "d3/d56/a04553.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
+    ] ]
 ];

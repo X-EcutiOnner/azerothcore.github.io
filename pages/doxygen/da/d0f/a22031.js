@@ -1,9 +1,8 @@
 var a22031 =
 [
-    [ "npc_brunnhildar_prisonerAI", "da/d0f/a22031.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "da/d0f/a22031.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "da/d0f/a22031.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "da/d0f/a22031.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "da/d0f/a22031.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "da/d0f/a22031.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_time_lost_proto_drakeAI", "da/d0f/a22031.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "da/d0f/a22031.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "da/d0f/a22031.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "da/d0f/a22031.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "da/d0f/a22031.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

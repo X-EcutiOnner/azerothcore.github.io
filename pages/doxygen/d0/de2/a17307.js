@@ -1,8 +1,8 @@
 var a17307 =
 [
-    [ "npc_hor_lumbering_abomination", "d0/de2/a17307.html#a08ae4bc9025a4bfbe91d39d256e34060", null ],
-    [ "JustDied", "d0/de2/a17307.html#ae8fca8b5f86fe5cba1b4de2aaac6cf61", null ],
-    [ "JustEngagedWith", "d0/de2/a17307.html#a5380771abba095749e1e0b30fe070a73", null ],
-    [ "Reset", "d0/de2/a17307.html#afd56b698fac5f7f13e718d645608213f", null ],
-    [ "UpdateAI", "d0/de2/a17307.html#a79e99c86f54a4fc7cbcf98e2a08e62ed", null ]
+    [ "npc_hor_risen_witch_doctor", "d0/de2/a17307.html#a68e2913f88427b1d6cb35351d9b749a0", null ],
+    [ "JustDied", "d0/de2/a17307.html#ac742da67a5624aebdbbbdc51378cfc82", null ],
+    [ "JustEngagedWith", "d0/de2/a17307.html#ae612bec2e909abb2574298f4a34116f3", null ],
+    [ "Reset", "d0/de2/a17307.html#a63b9343146a8c950f5d31f21cd5f4838", null ],
+    [ "UpdateAI", "d0/de2/a17307.html#a87948e1bac92033fa700e1c0ce27cbf5", null ]
 ];

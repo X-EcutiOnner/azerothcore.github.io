@@ -1,6 +1,6 @@
 var a24003 =
 [
-    [ "PrepareSpellScript", "d9/d19/a24003.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d9/d19/a24003.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d9/d19/a24003.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "da/d85/a24007.html", "da/d85/a24007" ],
+    [ "npc_shadowmoon_tuber_node", "d9/d19/a24003.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d9/d19/a24003.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

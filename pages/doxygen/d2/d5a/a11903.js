@@ -1,7 +1,10 @@
 var a11903 =
 [
-    [ "maxvalue", "d2/d5a/a11903.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d2/d5a/a11903.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d2/d5a/a11903.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d2/d5a/a11903.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "Aura", "d2/d5a/a11903.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "d2/d5a/a11903.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "d2/d5a/a11903.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "d2/d5a/a11903.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "d2/d5a/a11903.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "d2/d5a/a11903.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "d2/d5a/a11903.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

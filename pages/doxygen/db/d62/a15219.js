@@ -1,6 +1,6 @@
 var a15219 =
 [
-    [ "npc_cos_chromie_start", "db/d62/a15219.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "db/d62/a15219.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "db/d62/a15219.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
+    [ "npc_crate_helperAI", "db/d62/a15219.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "db/d62/a15219.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "db/d62/a15219.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

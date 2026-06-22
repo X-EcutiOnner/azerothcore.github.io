@@ -1,8 +1,9 @@
 var a12311 =
 [
-    [ "chatfilter_commandscript", "d3/d34/a12311.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
-    [ "GetCommands", "d3/d34/a12311.html#aa7553c0fc74103773edeaac9195e4414", null ],
-    [ "HandleChatFilterAddCommand", "d3/d34/a12311.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
-    [ "HandleChatFilterListCommand", "d3/d34/a12311.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
-    [ "HandleChatFilterRemoveCommand", "d3/d34/a12311.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
+    [ "accountId", "d3/d34/a12311.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "d3/d34/a12311.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "d3/d34/a12311.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "level", "d3/d34/a12311.html#a3eb08758389ea4d3e2329ffb7af9fff4", null ],
+    [ "lowGuid", "d3/d34/a12311.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "d3/d34/a12311.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

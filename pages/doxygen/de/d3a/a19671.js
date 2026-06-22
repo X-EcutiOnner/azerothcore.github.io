@@ -1,8 +1,11 @@
 var a19671 =
 [
-    [ "npc_crystal_spike", "de/d3a/a19671.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "de/d3a/a19671.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "de/d3a/a19671.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "de/d3a/a19671.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "de/d3a/a19671.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "boss_ormorok", "de/d3a/a19671.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "de/d3a/a19671.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "de/d3a/a19671.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "de/d3a/a19671.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "de/d3a/a19671.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "de/d3a/a19671.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "de/d3a/a19671.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "de/d3a/a19671.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

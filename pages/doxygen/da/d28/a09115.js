@@ -1,8 +1,7 @@
 var a09115 =
 [
-    [ "RedirectSpellEvent", "da/d28/a09115.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "da/d28/a09115.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "da/d28/a09115.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "da/d28/a09115.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "da/d28/a09115.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "HealthOrderPred", "da/d28/a09115.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
+    [ "operator()", "da/d28/a09115.html#acb5867bddd0e5107139d52ff99817f5c", null ],
+    [ "operator()", "da/d28/a09115.html#ad9cae47d98b31687958cfca56b29c213", null ],
+    [ "_ascending", "da/d28/a09115.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
 ];

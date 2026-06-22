@@ -1,8 +1,7 @@
 var a11807 =
 [
-    [ "WorldObjectSpellAreaTargetCheck", "d0/dd1/a11807.html#a0a6275bc4d2bbf7da27e4b0df7245ec2", null ],
-    [ "operator()", "d0/dd1/a11807.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
-    [ "_position", "d0/dd1/a11807.html#a680c45dd148161657da011a1772375ca", null ],
-    [ "_range", "d0/dd1/a11807.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ],
-    [ "_searchReason", "d0/dd1/a11807.html#aad544cdfe9423a7967dfed64aeaed995", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "d0/dd1/a11807.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "d0/dd1/a11807.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "d0/dd1/a11807.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "d0/dd1/a11807.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

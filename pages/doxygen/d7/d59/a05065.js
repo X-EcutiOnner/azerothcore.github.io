@@ -1,9 +1,7 @@
 var a05065 =
 [
-    [ "PermissibleOrderPred", "d8/dd0/a06486.html", "d8/dd0/a06486" ],
-    [ "GetPermitFor", "d7/d59/a05065.html#aaf9c138ae6c123d03859db553a39892d", null ],
-    [ "SelectAI", "d7/d59/a05065.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
-    [ "SelectFactory", "d7/d59/a05065.html#ad553c2186f078e696768d40d217738f8", null ],
-    [ "SelectGameObjectAI", "d7/d59/a05065.html#a2ce404e9b85f551638d8783c01a19860", null ],
-    [ "SelectMovementGenerator", "d7/d59/a05065.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
+    [ "For", "d8/d07/a05847.html", null ],
+    [ "For< bool, void >", "d4/d27/a05855.html", "d4/d27/a05855" ],
+    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d7/d4b/a05859.html", "d7/d4b/a05859" ],
+    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "dd/d01/a05851.html", "dd/d01/a05851" ]
 ];

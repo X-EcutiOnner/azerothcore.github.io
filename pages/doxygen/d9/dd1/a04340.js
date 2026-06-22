@@ -1,6 +1,8 @@
 var a04340 =
 [
-    [ "GetRandomBytes", "d9/dd1/a04340.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "d9/dd1/a04340.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "d9/dd1/a04340.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "GetDefaultDatabaseInfo", "d9/dd1/a04340.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "d9/dd1/a04340.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

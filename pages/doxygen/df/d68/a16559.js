@@ -1,7 +1,8 @@
 var a16559 =
 [
-    [ "OnApply", "df/d68/a16559.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "df/d68/a16559.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "df/d68/a16559.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "df/d68/a16559.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "Load", "df/d68/a16559.html#a55dc086667f0fe23e513608e951276ed", null ],
+    [ "Phase", "df/d68/a16559.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
+    [ "PrepareSpellScript", "df/d68/a16559.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
+    [ "Register", "df/d68/a16559.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
+    [ "Validate", "df/d68/a16559.html#a87192df547adaf3cb060155d9cf4da79", null ]
 ];

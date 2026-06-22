@@ -1,7 +1,18 @@
 var a04658 =
 [
-    [ "EnumText", "d2/df9/a05815.html", "d2/df9/a05815" ],
-    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "d0/d47/a05819.html", "d0/d47/a05819" ],
-    [ "EnumUtils", "de/d27/a05823.html", "de/d27/a05823" ],
-    [ "EnumUtils::Iterator< Enum >", "d0/d5b/a05827.html", "d0/d5b/a05827" ]
+    [ "Days", "d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
+    [ "Hours", "d0/d70/a04658.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
+    [ "Microseconds", "d0/d70/a04658.html#a201a83ed0d59d2baf946daf42dac834f", null ],
+    [ "Milliseconds", "d0/d70/a04658.html#a1c3834b9e3853535027d58bf21bec81f", null ],
+    [ "Minutes", "d0/d70/a04658.html#af2161f9db850581e2228078614990df8", null ],
+    [ "Months", "d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
+    [ "Seconds", "d0/d70/a04658.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
+    [ "SystemTimePoint", "d0/d70/a04658.html#ada798961abc5a533d616ff780f567bb6", null ],
+    [ "TimePoint", "d0/d70/a04658.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
+    [ "Weeks", "d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179", null ],
+    [ "Years", "d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
+    [ "operator\"\"_days", "d0/d70/a04658.html#ae62919aa53468bfadd4984bdd0498c03", null ],
+    [ "operator\"\"_months", "d0/d70/a04658.html#a7f38d5f5e7db75251b49712f910059ac", null ],
+    [ "operator\"\"_weeks", "d0/d70/a04658.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
+    [ "operator\"\"_years", "d0/d70/a04658.html#a25baa64022678f43cf423c945dbd0226", null ]
 ];

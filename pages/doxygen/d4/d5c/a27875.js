@@ -1,5 +1,7 @@
 var a27875 =
 [
-    [ "go_seer_of_zebhalak", "d4/d5c/a27875.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d4/d5c/a27875.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "HandlePeriodic", "d4/d5c/a27875.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d4/d5c/a27875.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d4/d5c/a27875.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d4/d5c/a27875.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

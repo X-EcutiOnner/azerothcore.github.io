@@ -1,7 +1,5 @@
 var a20219 =
 [
-    [ "boss_freya_lifebinder", "d0/d15/a20219.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "d0/d15/a20219.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "d0/d15/a20219.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "d0/d15/a20219.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "boss_freya_iron_root", "d0/d15/a20219.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d0/d15/a20219.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

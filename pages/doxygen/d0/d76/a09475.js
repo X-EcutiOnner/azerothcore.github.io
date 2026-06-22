@@ -1,7 +1,6 @@
 var a09475 =
 [
-    [ "flags", "d0/d76/a09475.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "d0/d76/a09475.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "d0/d76/a09475.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "d0/d76/a09475.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "flags", "d0/d76/a09475.html#a953acfd67349f028a839390ebe7fc398", null ],
+    [ "fourcc", "d0/d76/a09475.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
+    [ "gridArea", "d0/d76/a09475.html#a4ee571320d5d346bbf74709677bbee05", null ]
 ];

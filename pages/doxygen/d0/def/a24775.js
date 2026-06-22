@@ -1,6 +1,6 @@
 var a24775 =
 [
-    [ "CheckAreaTarget", "d0/def/a24775.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d0/def/a24775.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d0/def/a24775.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "CalculateAmount", "d0/def/a24775.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "d0/def/a24775.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "d0/def/a24775.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

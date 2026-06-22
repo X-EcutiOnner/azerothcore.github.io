@@ -1,7 +1,9 @@
 var a12339 =
 [
-    [ "gear_commandscript", "df/de3/a12339.html#a2e37c7d761982f7185b2418ae5aa4315", null ],
-    [ "GetCommands", "df/de3/a12339.html#a9212aa39f13c646b1b8cf8be78cc8a6a", null ],
-    [ "HandleGearRepairCommand", "df/de3/a12339.html#a28cd5680f07f984326d79d91adbbfd70", null ],
-    [ "HandleGearStatsCommand", "df/de3/a12339.html#acca4bc7e8cae51ee2a6172b32f87aa56", null ]
+    [ "event_commandscript", "df/de3/a12339.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "df/de3/a12339.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "df/de3/a12339.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "df/de3/a12339.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "df/de3/a12339.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "df/de3/a12339.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

@@ -1,7 +1,5 @@
 var a14131 =
 [
-    [ "npc_king_varian_wrynn", "d3/de1/a14131.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "d3/de1/a14131.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "d3/de1/a14131.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "d3/de1/a14131.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "npc_tyrion", "d3/de1/a14131.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d3/de1/a14131.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

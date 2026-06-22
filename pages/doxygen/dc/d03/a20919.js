@@ -1,6 +1,11 @@
 var a20919 =
 [
-    [ "HandleEffectPeriodic", "dc/d03/a20919.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "dc/d03/a20919.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "dc/d03/a20919.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "npc_ulduar_storm_tempered_keeper", "dc/d03/a20919.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
+    [ "JustDied", "dc/d03/a20919.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
+    [ "JustEngagedWith", "dc/d03/a20919.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
+    [ "JustSummoned", "dc/d03/a20919.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
+    [ "Reset", "dc/d03/a20919.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
+    [ "UpdateAI", "dc/d03/a20919.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
+    [ "events", "dc/d03/a20919.html#a4a79bd561fa63230a52730da20d7143c", null ],
+    [ "otherGUID", "dc/d03/a20919.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
 ];

@@ -1,7 +1,9 @@
 var a26347 =
 [
-    [ "PrepareSpellScript", "d9/d94/a26347.html#ade3a3f956ae8be922bd1d2204919d360", null ],
-    [ "Register", "d9/d94/a26347.html#a71d397da4a4804cf6023806c15e8bedf", null ],
-    [ "TriggerHypothermia", "d9/d94/a26347.html#af40f92afae93778e477c50ddf18c8adc", null ],
-    [ "Validate", "d9/d94/a26347.html#a1f0cef532c2bd13d94e647722f85457a", null ]
+    [ "AllowT10Proc", "d9/d94/a26347.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d9/d94/a26347.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d9/d94/a26347.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d9/d94/a26347.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d9/d94/a26347.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d9/d94/a26347.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

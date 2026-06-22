@@ -1,5 +1,7 @@
 var a25539 =
 [
-    [ "PrepareSpellScript", "df/d23/a25539.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "df/d23/a25539.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "CalcPeriodic", "df/d23/a25539.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "df/d23/a25539.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "df/d23/a25539.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "df/d23/a25539.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

@@ -1,6 +1,9 @@
 var a14019 =
 [
-    [ "npc_lor_themar_theron", "de/d24/a14019.html#acf8b65675cc46949440a829fc1adf5fc", null ],
-    [ "JustDied", "de/d24/a14019.html#ad2615cc062c8c1f4b01fc9e253fe34d4", null ],
-    [ "UpdateAI", "de/d24/a14019.html#aa9eafbacdb75bfbf772c901ce96119c6", null ]
+    [ "npc_partygoer", "de/d24/a14019.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "de/d24/a14019.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "de/d24/a14019.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "de/d24/a14019.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "de/d24/a14019.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "de/d24/a14019.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

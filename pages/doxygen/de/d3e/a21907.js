@@ -1,6 +1,6 @@
 var a21907 =
 [
-    [ "npc_blessed_bannerAI", "d7/d56/a21911.html", "d7/d56/a21911" ],
-    [ "npc_blessed_banner", "de/d3e/a21907.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "de/d3e/a21907.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_tournament_training_dummyAI", "d7/d56/a21911.html", "d7/d56/a21911" ],
+    [ "npc_tournament_training_dummy", "de/d3e/a21907.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "de/d3e/a21907.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

@@ -1,4 +1,5 @@
 var a03515 =
 [
-    [ "ScriptRegistry< FormulaScript >", "de/d3d/a03515.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
+    [ "ForeachMaps", "de/d3d/a03515.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "de/d3d/a03515.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

@@ -1,10 +1,21 @@
 var a00542 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "df/d54/a13471.html", "df/d54/a13471" ],
-    [ "DevourHumanoid", "d0/ddb/a00542.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "d0/ddb/a00542.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "d0/ddb/a00542.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
+    [ "LocationXYZ", "da/dd2/a14039.html", "da/dd2/a14039" ],
+    [ "npc_rinji", "d6/d2a/a14043.html", "d6/d2a/a14043" ],
+    [ "npc_rinji::npc_rinjiAI", "df/d5d/a14047.html", "df/d5d/a14047" ],
+    [ "Rinji", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133", [
+      [ "SAY_RIN_BY_OUTRUNNER", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
+      [ "SAY_RIN_FREE", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
+      [ "SAY_RIN_HELP", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
+      [ "SAY_RIN_COMPLETE", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
+      [ "SAY_RIN_PROGRESS_1", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
+      [ "SAY_RIN_PROGRESS_2", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
+      [ "QUEST_RINJI_TRAPPED", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
+      [ "NPC_RANGER", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
+      [ "NPC_OUTRUNNER", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
+      [ "GO_RINJI_CAGE", "d0/ddb/a00542.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
     ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "d0/ddb/a00542.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "AddSC_hinterlands", "d0/ddb/a00542.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
+    [ "AmbushMoveTo", "d0/ddb/a00542.html#aa2e998c0f3d966c32be9106221fe957c", null ],
+    [ "AmbushSpawn", "d0/ddb/a00542.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
 ];

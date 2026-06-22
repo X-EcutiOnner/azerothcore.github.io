@@ -1,6 +1,6 @@
 var a25251 =
 [
-    [ "OnProc", "d0/d9a/a25251.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d0/d9a/a25251.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d0/d9a/a25251.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleScript", "d0/d9a/a25251.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "d0/d9a/a25251.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "d0/d9a/a25251.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

@@ -1,6 +1,9 @@
 var a12283 =
 [
-    [ "bg_commandscript", "dd/d82/a12283.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "dd/d82/a12283.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "dd/d82/a12283.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "autobroadcast_commandscript", "dd/d82/a12283.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "dd/d82/a12283.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "dd/d82/a12283.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "dd/d82/a12283.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "dd/d82/a12283.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "dd/d82/a12283.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

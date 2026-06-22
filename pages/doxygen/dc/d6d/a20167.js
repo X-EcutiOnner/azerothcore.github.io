@@ -1,6 +1,6 @@
 var a20167 =
 [
-    [ "PrepareSpellScript", "dc/d6d/a20167.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "dc/d6d/a20167.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "dc/d6d/a20167.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "CheckAreaTarget", "dc/d6d/a20167.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "dc/d6d/a20167.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "dc/d6d/a20167.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

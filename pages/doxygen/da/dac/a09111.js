@@ -1,7 +1,7 @@
 var a09111 =
 [
-    [ "HealthOrderPred", "da/dac/a09111.html#ac5d0408da69ecd6415c6f4eae61d11d8", null ],
-    [ "operator()", "da/dac/a09111.html#acb5867bddd0e5107139d52ff99817f5c", null ],
-    [ "operator()", "da/dac/a09111.html#ad9cae47d98b31687958cfca56b29c213", null ],
-    [ "_ascending", "da/dac/a09111.html#a93e2e41a9849d6c2ecfffcaffa74acee", null ]
+    [ "HealthPctOrderPred", "da/dac/a09111.html#a5c83c0ba35b9febbe6a62dae63995f97", null ],
+    [ "operator()", "da/dac/a09111.html#a2c7f4043e5268b13bf0d9f46e9709a9b", null ],
+    [ "operator()", "da/dac/a09111.html#a23f2dc594fd531d02cd6eae0faa7f6b7", null ],
+    [ "_ascending", "da/dac/a09111.html#a4c34feefafc014b50ba2869a9bdb9959", null ]
 ];

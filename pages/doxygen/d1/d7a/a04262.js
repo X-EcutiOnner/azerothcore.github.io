@@ -1,9 +1,9 @@
 var a04262 =
 [
-    [ "MySQLHandle", "d7/d20/a06067.html", null ],
-    [ "MySQLResult", "df/d40/a06071.html", null ],
-    [ "MySQLField", "db/d2e/a06075.html", null ],
-    [ "MySQLBind", "d9/db8/a06079.html", null ],
-    [ "MySQLStmt", "d8/d7a/a06083.html", null ],
-    [ "MySQLBool", "d1/d7a/a04262.html#a9962b927652e90357369e67230dbc127", null ]
+    [ "SQLElementData", "d8/d67/a06191.html", "d8/d67/a06191" ],
+    [ "SQLOperation", "d6/d4c/a06195.html", "d6/d4c/a06195" ],
+    [ "SQLElementDataType", "d1/d7a/a04262.html#abb4a6cfcce013f18b29779f1f435e627", [
+      [ "SQL_ELEMENT_RAW", "d1/d7a/a04262.html#abb4a6cfcce013f18b29779f1f435e627a49f9977e0908bdeb2a8b30b5877d939a", null ],
+      [ "SQL_ELEMENT_PREPARED", "d1/d7a/a04262.html#abb4a6cfcce013f18b29779f1f435e627af61734e97ffd411ebb8f4275ea05600d", null ]
+    ] ]
 ];

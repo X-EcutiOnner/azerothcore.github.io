@@ -1,6 +1,6 @@
 var a12815 =
 [
-    [ "boss_flamegor", "d0/d9b/a12815.html#a721c23d631d305c102117566f609f10a", null ],
-    [ "JustEngagedWith", "d0/d9b/a12815.html#aebbcd35868c64d2a0b1f660720f84575", null ],
-    [ "UpdateAI", "d0/d9b/a12815.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
+    [ "boss_firemaw", "d0/d9b/a12815.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "d0/d9b/a12815.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "d0/d9b/a12815.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

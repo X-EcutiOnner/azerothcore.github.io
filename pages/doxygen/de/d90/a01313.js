@@ -1,37 +1,42 @@
 var a01313 =
 [
-    [ "npc_ame", "d1/db1/a16131.html", "d1/db1/a16131" ],
-    [ "npc_ame::npc_ameAI", "d7/dab/a16135.html", "d7/dab/a16135" ],
-    [ "npc_ringo", "d4/d15/a16139.html", "d4/d15/a16139" ],
-    [ "npc_ringo::npc_ringoAI", "d2/dc7/a16143.html", "d2/dc7/a16143" ],
-    [ "AmeData", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0", [
-      [ "SAY_READY", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0a82af2bd2787802be3ff2ee4588ea9be4", null ],
-      [ "SAY_AGGRO1", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0a17fd4d94120185f67ee94a41652285a5", null ],
-      [ "SAY_SEARCH", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0a843a1ad765b601ed599c443b66ae5d77", null ],
-      [ "SAY_AGGRO2", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0af73eb45ca3cf512147f1d25e1254c224", null ],
-      [ "SAY_AGGRO3", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0aa623912b4ba266583234ba5df070e02e", null ],
-      [ "SAY_FINISH", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0a0e5b4f2c41b1953cea52b7f41d134838", null ],
-      [ "SPELL_DEMORALIZINGSHOUT", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0a8477c04b326171f69326346981b724e1", null ],
-      [ "QUEST_CHASING_AME", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0aa73d2307a32eceb7d713d314b325b827", null ],
-      [ "ENTRY_TARLORD", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0ab6db2c46b771ac7d038f25d35308beec", null ],
-      [ "ENTRY_TARLORD1", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0ae1f81eb98b3fa0fc40666dedb0ece35f", null ],
-      [ "ENTRY_STOMPER", "de/d90/a01313.html#abbb0f5e31bd003a50e94cc712dbab7c0af0775f5d04bd4e00f048e939fed6e64a", null ]
+    [ "DataHeader", "de/d90/a01313.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "ZFScriptName", "de/d90/a01313.html#a8c843043d60c28e6ccd7efb1a75ec86e", null ],
+    [ "ZFPyramidPhases", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3", [
+      [ "PYRAMID_NOT_STARTED", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a434ccee53d43aeb68a61adc7afc70e71", null ],
+      [ "PYRAMID_CAGES_OPEN", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a733f4b4c341a7c12cea4da96f394e238", null ],
+      [ "PYRAMID_ARRIVED_AT_STAIR", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a44fbc93058f64b77b519778b73835095", null ],
+      [ "PYRAMID_WAVE_1", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3ad6fc2894f46a7f845ccb16b02492416d", null ],
+      [ "PYRAMID_PRE_WAVE_2", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a83ddd4a830b4529356e379753ef0a6b0", null ],
+      [ "PYRAMID_WAVE_2", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a0fea1a14ce0b618b7b407cb0ebef5257", null ],
+      [ "PYRAMID_PRE_WAVE_3", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3aeca14c0e13407ddbc852a23a75f9e297", null ],
+      [ "PYRAMID_WAVE_3", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3aa3061b90909a10cdcf2445a1bee4ddce", null ],
+      [ "PYRAMID_KILLED_ALL_TROLLS", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3aa18216a575ced9cd802aef44ec6a5b55", null ],
+      [ "PYRAMID_MOVED_DOWNSTAIRS", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3af4a5d3d2602c5283c9a3e987e6eb7cf4", null ],
+      [ "PYRAMID_DESTROY_GATES", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3a26d165b4ebf0c18fbab9c99700d40301", null ],
+      [ "PYRAMID_GATES_DESTROYED", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3ad3ca6408f8a6f8dacff9c606641f3682", null ],
+      [ "PYRAMID_DONE", "de/d90/a01313.html#a8774900db93cf3aa38b2e231417d6cc3ab8014318ae3d1f73e7e31fa340a12021", null ]
     ] ],
-    [ "Ringo", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592", [
-      [ "SAY_RIN_START", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592abd4cb0c4d5414164403e75fca667915b", null ],
-      [ "SAY_FAINT", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a39f7b5e8a7fc4ed40e62cedfa93923bd", null ],
-      [ "SAY_WAKE", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592aadb6c63e08a18de76bcc95ca2e830a6e", null ],
-      [ "SAY_RIN_END_1", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae8753384ff9e53b533a5a1cebd16ce64", null ],
-      [ "SAY_SPR_END_2", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a1a913192c37c18a19114eebee21e1a85", null ],
-      [ "SAY_RIN_END_3", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592ae29a03470647c5d13bcb1729160b1d8b", null ],
-      [ "EMOTE_RIN_END_4", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592aeeed58bd2d47e0450374129434bcf296", null ],
-      [ "EMOTE_RIN_END_5", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac0c11a39be96e25065c399ff7dd7c484", null ],
-      [ "SAY_RIN_END_6", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a699867c1deab61d85853622b099cd728", null ],
-      [ "SAY_SPR_END_7", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac165214832e6be5740245dd6239ef2c9", null ],
-      [ "EMOTE_RIN_END_8", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592ac034860ad6513469b74ad5b7cc76edc7", null ],
-      [ "SPELL_REVIVE_RINGO", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a9fc3d4c57ff3ca56f344b70df866e766", null ],
-      [ "QUEST_A_LITTLE_HELP", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a6ab7d20ae4eca495ad164638b1e68b51", null ],
-      [ "NPC_SPRAGGLE", "de/d90/a01313.html#a1eb7864fe2b6e6ec59692fb2f7c02592a4bc3afbb0cf9626825ffda0b610e2e64", null ]
+    [ "ZulFarrakCreatures", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81", [
+      [ "NPC_SANDFURY_CRETIN", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81abc17ce4a19f84d1f43027e038ce1b376", null ],
+      [ "NPC_SANDFURY_SLAVE", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6c5f3121c15864497a7fd4445e508d9b", null ],
+      [ "NPC_SANDFURY_ACOLYTE", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81ad994cdb727fce1b96ee059a3f7d40ab8", null ],
+      [ "NPC_SANDFURY_DRUDGE", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3b6291c9a6afbd297befe20651cce18a", null ],
+      [ "NPC_SANDFURY_ZEALOT", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81aebf682fdf490a79a7c57fa612e9f197d", null ],
+      [ "NPC_SHADOWPRIEST_SEZZZIZ", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81a6e6e1f1c3cccf7fad5f37b40eb4d72c7", null ],
+      [ "NPC_NEKRUM_GUTCHEWER", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81ac67a7fd5df9d4f39a21fcd4b485ed031", null ],
+      [ "NPC_BLY", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81aeeeaf82fbf41331373955f22de91c48d", null ],
+      [ "NPC_RAVEN", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81af7eec9c0500aedfefe9bbbbaeb5d73b8", null ],
+      [ "NPC_ORO", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81add85ada339b5a0d2a412756a1032799b", null ],
+      [ "NPC_WEEGLI", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81a3a660c0cbddbbd8650c9632e52d7b178", null ],
+      [ "NPC_MURTA", "de/d90/a01313.html#ab6a75cae3d5218b7c02408d5c4fb4b81ae2ffa4447246d4d51f2339edf2164b7a", null ]
     ] ],
-    [ "AddSC_ungoro_crater", "de/d90/a01313.html#a6e2c88161cee97e0e405ef83abcc653f", null ]
+    [ "ZulFarrakData", "de/d90/a01313.html#a66cc3be5310a2efbacb38d2398d8af24", [
+      [ "DATA_PYRAMID", "de/d90/a01313.html#a66cc3be5310a2efbacb38d2398d8af24ab1d90dc5c239d55044f1bed8e5e823e3", null ],
+      [ "DATA_GAHZRILLA", "de/d90/a01313.html#a66cc3be5310a2efbacb38d2398d8af24a023919c11385e898d643499efd09c167", null ]
+    ] ],
+    [ "ZulFarrakGameobjects", "de/d90/a01313.html#a83f1d34de34a6a1e990edbfb47a2f78e", [
+      [ "GO_END_DOOR", "de/d90/a01313.html#a83f1d34de34a6a1e990edbfb47a2f78ea279b9f40e76d0da56ef7eca0a2578319", null ]
+    ] ],
+    [ "GetZulFarrakAI", "de/d90/a01313.html#afc0f10884b3d0ad6a6e73e3767fa3538", null ]
 ];

@@ -1,6 +1,6 @@
 var a25555 =
 [
-    [ "OnBaseRemove", "d0/d5c/a25555.html#aa6d10399bba721ff7a3651508fcdf449", null ],
-    [ "PrepareAuraScript", "d0/d5c/a25555.html#a34ad4890c7ce30427537e36980057e57", null ],
-    [ "Register", "d0/d5c/a25555.html#a713e694cad6f1cf533d45f5d633da36e", null ]
+    [ "HandleDummyTick", "d0/d5c/a25555.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d0/d5c/a25555.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d0/d5c/a25555.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

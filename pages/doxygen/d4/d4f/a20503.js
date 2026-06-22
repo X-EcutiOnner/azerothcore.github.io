@@ -1,9 +1,6 @@
 var a20503 =
 [
-    [ "OnApply", "d4/d4f/a20503.html#aaf6e89fc5d101b1622666a6fe15f20e7", null ],
-    [ "OnRemove", "d4/d4f/a20503.html#a9bfdefb3e212cca086dec752687e2b93", null ],
-    [ "OnRemoveSelf", "d4/d4f/a20503.html#a3076446d6761263fdb7f973f01be3cf2", null ],
-    [ "PrepareAuraScript", "d4/d4f/a20503.html#a685d6c0ffcc258f9d6857242cb28f6a8", null ],
-    [ "Register", "d4/d4f/a20503.html#a1369972dfbf969cb39efa88075fc13df", null ],
-    [ "Validate", "d4/d4f/a20503.html#ada8c858f70beb71765fd0f796209677b", null ]
+    [ "ModDest", "d4/d4f/a20503.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d4/d4f/a20503.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d4/d4f/a20503.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

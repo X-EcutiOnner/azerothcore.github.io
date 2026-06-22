@@ -1,67 +1,101 @@
 var a00554 =
 [
-    [ "spell_q12641_death_comes_from_on_high_summon_ghouls", "de/d9a/a13375.html", "de/d9a/a13375" ],
-    [ "spell_q12641_death_comes_from_on_high_recall_eye", "d9/d05/a13379.html", "d9/d05/a13379" ],
-    [ "spell_item_gift_of_the_harvester", "d1/d67/a13383.html", "d1/d67/a13383" ],
-    [ "spell_q12698_the_gift_that_keeps_on_giving", "d3/d54/a13387.html", "d3/d54/a13387" ],
-    [ "npc_scarlet_ghoul", "d7/d83/a13391.html", "d7/d83/a13391" ],
-    [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "da/d2b/a13395.html", "da/d2b/a13395" ],
-    [ "npc_dkc1_gothik", "d7/dec/a13399.html", "d7/dec/a13399" ],
-    [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "de/dc9/a13403.html", "de/dc9/a13403" ],
-    [ "spell_death_knight_initiate_visual", "de/d8c/a13407.html", "de/d8c/a13407" ],
-    [ "spell_lich_king_vo_blocker", "d2/d5d/a13411.html", "d2/d5d/a13411" ],
-    [ "spell_lich_king_whisper", "da/d65/a13415.html", "da/d65/a13415" ],
-    [ "GCD_CAST", "dc/df9/a00554.html#a4e0920d64510440a7850bf1c1ef76f54", null ],
-    [ "DeathComesFromOnHigh", "dc/df9/a00554.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
-      [ "SPELL_CALL_OF_THE_DEAD", "dc/df9/a00554.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ],
-      [ "SPELL_FORGE_CREDIT", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaae3bf8440b92fce514fdeb81a4d5cbe15", null ],
-      [ "SPELL_TOWN_HALL_CREDIT", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa51f8e22e332e2e3e0c715d547355fc82", null ],
-      [ "SPELL_SCARLET_HOLD_CREDIT", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa7934ecc64f2c4dfbbbf853d6bb82b7d5", null ],
-      [ "SPELL_CHAPEL_CREDIT", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaaa3171e13a9b70448bd2c64b75fe23ce4", null ],
-      [ "NPC_NEW_AVALON_FORGE", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa2f4ab59da4c1e9fe3eeb53cf20832f0e", null ],
-      [ "NPC_NEW_AVALON_TOWN_HALL", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa2b4f620e8297fdc7167dbfc9b0394ffe", null ],
-      [ "NPC_SCARLET_HOLD", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa745be6578f398745e5058bbc362f36d7", null ],
-      [ "NPC_CHAPEL_OF_THE_CRIMSON_FLAME", "d3/d95/a00779.html#a8d5eadbb5d71d2183b6fe75139c887eaa65e0966966b77379f295a0601ef33dc3", null ]
+    [ "npc_koltira_deathweaver", "dd/d24/a13423.html", "dd/d24/a13423" ],
+    [ "npc_koltira_deathweaver::npc_koltira_deathweaverAI", "d0/dfd/a13427.html", "d0/dfd/a13427" ],
+    [ "npc_scarlet_courier", "db/d09/a13431.html", "db/d09/a13431" ],
+    [ "npc_scarlet_courier::npc_scarlet_courierAI", "d3/d81/a13435.html", "d3/d81/a13435" ],
+    [ "npc_a_special_surprise", "d1/d36/a13439.html", "d1/d36/a13439" ],
+    [ "npc_a_special_surprise::npc_a_special_surpriseAI", "dd/d6c/a13443.html", "dd/d6c/a13443" ],
+    [ "npc_acherus_necromancer", "d4/daf/a13447.html", "d4/daf/a13447" ],
+    [ "npc_acherus_necromancer::npc_acherus_necromancerAI", "df/da6/a13451.html", "df/da6/a13451" ],
+    [ "npc_gothik_the_harvester", "d0/df8/a13455.html", "d0/df8/a13455" ],
+    [ "npc_gothik_the_harvester::npc_gothik_the_harvesterAI", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "spell_chapter2_persuasive_strike", "dd/d11/a13463.html", "dd/d11/a13463" ],
+    [ "spell_portal_effect_acherus", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
+    [ "AcherusPortal", "dc/df9/a00554.html#a57f4f429a1e3511b8e45bcc188ccad8d", [
+      [ "SPELL_PORTAL_EFFECT_ACHERUS", "dc/df9/a00554.html#a57f4f429a1e3511b8e45bcc188ccad8dab11e2d6ac4076040d0ce18f8be9ab8bc", null ],
+      [ "QUEST_SCARLET_ARMIES_APPROACH", "dc/df9/a00554.html#a57f4f429a1e3511b8e45bcc188ccad8da622f41d2bbec25f8b56efa3e9c2f568a", null ]
     ] ],
-    [ "EyeOfAcherusMisc", "dc/df9/a00554.html#ab53744cff6e4c29bb868b1441a934d6f", [
-      [ "SPELL_THE_EYE_OF_ACHERUS", "dc/df9/a00554.html#ab53744cff6e4c29bb868b1441a934d6fa3ba8bf7b86ad4ae22520569c02c7c66b", null ]
+    [ "Koltira", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4", [
+      [ "SAY_BREAKOUT0", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a6a8b157222c2252cf8da36c25da1b7dc", null ],
+      [ "SAY_BREAKOUT1", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a094396cb1532cbff467d039ac9cc6ac6", null ],
+      [ "SAY_BREAKOUT2", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a13e18bd4726cb3fbe75b71e6b6c6554c", null ],
+      [ "SAY_BREAKOUT3", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a86af95c0cf3a510c60a58eca6a745c9b", null ],
+      [ "SAY_BREAKOUT4", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ac756683588818c8c234c345799a44fb1", null ],
+      [ "SAY_BREAKOUT5", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a2710018d85ac588bb3ac6a2e80969d3a", null ],
+      [ "SAY_BREAKOUT6", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a298ab0b6af72e36096cf2f7d8b0e3a7b", null ],
+      [ "SAY_BREAKOUT7", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a57df20e18bba48c21e32b1cbd2704356", null ],
+      [ "SAY_BREAKOUT8", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a177482cab7ed071275f904b2d7b4339b", null ],
+      [ "SAY_BREAKOUT9", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4aa797326fa41cffd7206a62ce2f67e932", null ],
+      [ "SAY_BREAKOUT10", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ab4c8196716ada2907e5e89bd23a492aa", null ],
+      [ "EMOTE_KOLTIRA_COLLAPSES", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ace8cdeb54416e82b4126c9607684aef2", null ],
+      [ "SAY_VALROTH_WAVE3", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4add85d0bf9091ea4e8568d53c087f14e1", null ],
+      [ "SAY_VALROTH_AGGRO", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ab9162631c8867f6ae3417bb38654afda", null ],
+      [ "SAY_VALROTH_WAVE1", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a5180bd862351818035a55ced9912f20a", null ],
+      [ "SAY_VALROTH_WAVE2", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ad48472c3123542f061d5b7a63921ba0d", null ],
+      [ "SPELL_KOLTIRA_TRANSFORM", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a3dd26a672e67dd057ea741e47e791b8e", null ],
+      [ "SPELL_ANTI_MAGIC_ZONE", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a254cc161ba0a08197d3676dad0fda9f2", null ],
+      [ "QUEST_BREAKOUT", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a4ab1c01eb14cf41a048becfaa15870be", null ],
+      [ "NPC_CRIMSON_ACOLYTE", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ad3ea46349fdb48ebcfa30c1ac63d178a", null ],
+      [ "NPC_HIGH_INQUISITOR_VALROTH", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a2a5242e867c9033963eced30f48a1899", null ],
+      [ "MODEL_DEATH_KNIGHT_MOUNT", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a42e041017c8f5b8e31870eefdc10f790", null ],
+      [ "POINT_STAND_UP", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ac91453bb5043a7aead60feb820a6bd6b", null ],
+      [ "POINT_BOX", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a09b9e9bb7a5fc24d7a7405cbc45c3518", null ],
+      [ "POINT_ANTI_MAGIC_ZONE", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a3340ce874f4b9e725f5dc48864ff172d", null ],
+      [ "POINT_MOUNT", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4ab753bbca5d915f53037e13bcdbed0f12", null ],
+      [ "POINT_DESPAWN", "dc/df9/a00554.html#a2b56f12a5305ced51b0059ef1dbc37b4a193b32ae3e767cdd2899238b38950ddf", null ]
     ] ],
-    [ "GiftOfTheHarvester", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41", [
-      [ "NPC_GHOUL", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41a5e4dc0157e48c1d94b208248dfbf21e4", null ],
-      [ "MAX_GHOULS", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41aa7f64c4b3f098267130d424a74594e9d", null ],
-      [ "SPELL_GHOUL_EMERGE", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41adc7ae145b314d14adb3cbbe37a941936", null ],
-      [ "SPELL_SUMMON_SCARLET_GHOST", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41af66f97d8449866aa17dee4999861c6ce", null ],
-      [ "SPELL_GHOUL_SUBMERGE", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41ae95cf507057ad77d9414b63e5b319ede", null ],
-      [ "EVENT_GHOUL_RESTORE_STATE", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41af3843347b39a90e0dfa4caa56b60b722", null ],
-      [ "EVENT_GHOUL_CHECK_COMBAT", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41a384b7a45547dd7ea79d9a5a31a1ff603", null ],
-      [ "EVENT_GHOUL_EMOTE", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41a9d1897c09a5510faf943cf99ed02050a", null ],
-      [ "EVENT_GHOUL_MOVE_TO_PIT", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
-      [ "SAY_GOTHIK_PIT", "dc/df9/a00554.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
+    [ "NecroNPCs", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54b", [
+      [ "NPC_GLUTTONOUS_GEIST", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54ba946cf2ea381d689ffcef19f0a24a835f", null ],
+      [ "NPC_DEAD_SCARLET_MEDIC", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54bacc6d33f1c0ebf1a434ff8d445570c028", null ],
+      [ "NPC_DEAD_SCARLET_INFANTRYMAN", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54bafb3b3ff0c180c391669df10af2f84672", null ],
+      [ "NPC_DEAD_SCARLET_CAPTAIN", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54bac2d30da7b378ca6e232c2578d3456ce6", null ],
+      [ "NPC_DEAD_SCARLET_PEASANT", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54ba4959d66cbbfa4b2580009941f0407508", null ],
+      [ "NPC_DEAD_SCARLET_MINER", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54ba4d9bc6861ef764baa7f475ebda2a133b", null ],
+      [ "NPC_DEAD_SCARLET_FLEET_DEFENDER", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54bab9bf0eb9d1355ba598d6bcca86c3cc16", null ],
+      [ "NPC_DEAD_SCARLET_GRYPHON", "dc/df9/a00554.html#a740e6f9c50ed1d0a3646b0131773e54ba3105d94759897e91e1186ba4b93a2fe9", null ]
     ] ],
-    [ "GothikActions", "dc/df9/a00554.html#a5a83eaaf24170ee2259363469448ced2", [
-      [ "ACTION_DK_INITIATE_ASSAULT_ROAR", "dc/df9/a00554.html#a5a83eaaf24170ee2259363469448ced2a0d146a11bd98f9f335ac6fffee8a182b", null ]
+    [ "NecroSpells", "dc/df9/a00554.html#a53efc1ffb24449425ecfd7f2c978d610", [
+      [ "SPELL_SCARLET_GHOUL", "dc/df9/a00554.html#a53efc1ffb24449425ecfd7f2c978d610a88f2efc8fafad847f157cf8924b28ea2", null ],
+      [ "SPELL_SCOURGE_GRYPHON", "dc/df9/a00554.html#a53efc1ffb24449425ecfd7f2c978d610a40711f230e0a3b241f4d8c6f840df486", null ],
+      [ "SPELL_GHOULPLOSION", "dc/df9/a00554.html#a53efc1ffb24449425ecfd7f2c978d610a9e2e8cb96d69b1ed0ed95be65a907ac8", null ]
     ] ],
-    [ "spells_lich_king_whisper", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
-      [ "SPELL_LICH_KING_VO_BLOCKER", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],
-      [ "SPELL_LICHKINGDK001", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a", null ],
-      [ "SPELL_LICHKINGDK002", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa81a25ea53d44491eb4e7208865f692fe", null ],
-      [ "SPELL_LICHKINGDK003", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa6cf3418a81513654d1e6841caceceddf", null ],
-      [ "SPELL_LICHKINGDK004", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa9e6adfa172be669b3d393878095fd546", null ],
-      [ "SPELL_LICHKINGDK005", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa30d92ed248e378855ae8f010ec5ba4d2", null ],
-      [ "SPELL_LICHKINGDK006", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa86efefaa2ade6c15b715cedd2dbc2a77", null ],
-      [ "SPELL_LICHKINGDK007", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaaef0f2fd9d58d9ccb6e04f28bac92cebc", null ],
-      [ "SPELL_LICHKINGDK008", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaae9b9660563d2096d35cce6e540a8ad92", null ],
-      [ "SPELL_LICHKINGDK009", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaae0e3bbb835b7cb4fbf75ff858f217e2a", null ],
-      [ "SPELL_LICHKINGDK010", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa4f54632ae3be4eb64f3f3ece0c7bdedf", null ],
-      [ "SPELL_LICHKINGDK011", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaab461fe19f0595f95683053bf5f18ee17", null ],
-      [ "SPELL_LICHKINGDK012", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa863a5889a853d731d7f72f374f27ef70", null ],
-      [ "SPELL_LICHKINGDK013", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaa10fb1f29f24f6e6c0251b7b0add121de", null ],
-      [ "SPELL_LICHKINGDK014", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7", null ],
-      [ "SPELL_LICHKINGDK015", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842", null ],
-      [ "SPELL_LICHKINGDK016", "dc/df9/a00554.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
+    [ "ScarletCourierEnum", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4", [
+      [ "SAY_TREE1", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4a2f4e22f3584ef5be240f77d5bd850794", null ],
+      [ "SAY_TREE2", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4ad804a4374f9760c921f530c1712de8dc", null ],
+      [ "SPELL_SHOOT", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4a1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "GO_INCONSPICUOUS_TREE", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4a53367093a2729d0166b440148bc56bbc", null ],
+      [ "NPC_SCARLET_COURIER", "dc/df9/a00554.html#a3fe46eb19e3256cc2367013d9300f8a4a3b66e7e1d525ed843528cf663d361981", null ]
     ] ],
-    [ "UnworthyInitiate", "dc/df9/a00554.html#af590a53311e888b53dcef8e183ba91cd", [
-      [ "SPELL_DK_INITIATE_VISUAL", "dc/df9/a00554.html#af590a53311e888b53dcef8e183ba91cda7eabf8b933a62dab546b7b50aa8a3f2d", null ]
+    [ "SpecialSurprise", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41", [
+      [ "SAY_EXEC_START", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41ae8e19e9553a530c5b5048208c88d65e5", null ],
+      [ "SAY_EXEC_PROG", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a1fab31c66f796691c67a2498638e3175", null ],
+      [ "SAY_EXEC_NAME", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a232dd35d50b1347e00f4eab406b77a0d", null ],
+      [ "SAY_EXEC_RECOG", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41af3601727efa384a7818ea45ba16aefc6", null ],
+      [ "SAY_EXEC_NOREM", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a50f98188751f2e80dca735efce0b92c0", null ],
+      [ "SAY_EXEC_THINK", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a43005d3320111e6925a0e23177d69d32", null ],
+      [ "SAY_EXEC_LISTEN", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41ae324ebc8cfef92b79ad478e18529e2e4", null ],
+      [ "SAY_EXEC_TIME", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a3330c6cc3b04296f07d9766443ed6eb2", null ],
+      [ "SAY_EXEC_WAITING", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41adaddf2c220fcd7c66f0f61a811a98d36", null ],
+      [ "EMOTE_DIES", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a1b942bcbae4fe8e343cc371a3e5d2560", null ],
+      [ "SAY_PLAGUEFIST", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41ac6253854fcd623ea9589f7962bf08499", null ],
+      [ "NPC_PLAGUEFIST", "dc/df9/a00554.html#a39d9f90bc43829f5faf92e7b78c46c41a36e93ebdaa9af83fbb08411737af6819", null ]
     ] ],
-    [ "AddSC_the_scarlet_enclave_c1", "dc/df9/a00554.html#a4e50d499ea814e96ce4b4d94a25b1cb0", null ]
+    [ "win_friends", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70b", [
+      [ "SAY_CRUSADER", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba0cfa69eb44105ba8b55095f367891967", null ],
+      [ "SAY_PERSUADED1", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70bac8fbe16451ed71344028995e920a6b36", null ],
+      [ "SAY_PERSUADED2", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba767561556d5645f840a29d37fef15d57", null ],
+      [ "SAY_PERSUADED3", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba6b5f1c188d7d5fadd2ffc4d79e76285b", null ],
+      [ "SAY_PERSUADED4", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba1131d1fd4c5913ab2c56c07a61d576d6", null ],
+      [ "SAY_PERSUADED5", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba3dd690c17e20fc2deca9963debbcb36b", null ],
+      [ "SAY_PERSUADED6", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70bac6c794baa7f292cc7e8c8bfc70120928", null ],
+      [ "SAY_PERSUADE_RAND", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba77e1040a5f80ad6a54ae0af5ecdec01b", null ],
+      [ "QUEST_HOW_TO_WIN_FRIENDS", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba263b82da9ff2a85f24592bb6a39f4951", null ],
+      [ "NPC_SCARLET_PREACHER", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba9f0633aca56fa945774cfb8246af76b2", null ],
+      [ "NPC_SCARLET_COMMANDER", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba5a8bd5b658f954c330afb70ba47689ac", null ],
+      [ "NPC_SCARLET_CRUSADER", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70baad7a200fe2a7a01ebafe4572653385fa", null ],
+      [ "NPC_SCARLET_MARKSMAN", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70bae5d2e96966539a0458afae0e53cf752a", null ],
+      [ "NPC_SCARLET_LORD_MCCREE", "dc/df9/a00554.html#a4c1e144641d137d320608174c3ada70ba03b5589ad37e3b3fd76b0cfcda7eeb5e", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave_c2", "dc/df9/a00554.html#aae283a7ae2c577c738ccad6a34533fec", null ]
 ];

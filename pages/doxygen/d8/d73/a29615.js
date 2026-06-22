@@ -1,5 +1,5 @@
 var a29615 =
 [
-    [ "SetUp", "d8/d73/a29615.html#ae940d909b8f828dc9715954b469b6408", null ],
-    [ "_sim", "d8/d73/a29615.html#a5e053e184f84db65e68cd45de684cb61", null ]
+    [ "damageApplied", "d8/d73/a29615.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
+    [ "slowApplied", "d8/d73/a29615.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
 ];

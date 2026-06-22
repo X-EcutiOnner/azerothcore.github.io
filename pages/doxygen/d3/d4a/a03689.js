@@ -1,11 +1,10 @@
 var a03689 =
 [
-    [ "SpellScriptLoader", "df/d96/a10764.html", "df/d96/a10764" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "d7/d89/a10768.html", "d7/d89/a10768" ],
-    [ "RegisterSpellAndAuraScriptPair", "d3/d4a/a03689.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
-    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/d4a/a03689.html#aeffc3c8d08a35d5969c33508488e9051", null ],
-    [ "RegisterSpellScript", "d3/d4a/a03689.html#ae221e5976ab29ba14fec3b073a03670f", null ],
-    [ "RegisterSpellScriptWithArgs", "d3/d4a/a03689.html#aedecf91f4fce46852db865deae243e1f", null ],
-    [ "is_AuraScript", "d3/d4a/a03689.html#a08facc7292565931370e1cc514f726e1", null ],
-    [ "is_SpellScript", "d3/d4a/a03689.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
+    [ "GraveyardStruct", "d1/d86/a10291.html", "d1/d86/a10291" ],
+    [ "GraveyardData", "da/d85/a10295.html", "da/d85/a10295" ],
+    [ "Graveyard", "d7/d8f/a10299.html", "d7/d8f/a10299" ],
+    [ "sGraveyard", "d3/d4a/a03689.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "d3/d4a/a03689.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "d3/d4a/a03689.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "d3/d4a/a03689.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

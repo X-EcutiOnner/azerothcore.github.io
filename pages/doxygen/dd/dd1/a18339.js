@@ -1,7 +1,7 @@
 var a18339 =
 [
-    [ "HandleScript", "dd/dd1/a18339.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "dd/dd1/a18339.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "dd/dd1/a18339.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "dd/dd1/a18339.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "HandleScript", "dd/dd1/a18339.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "dd/dd1/a18339.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "dd/dd1/a18339.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "dd/dd1/a18339.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

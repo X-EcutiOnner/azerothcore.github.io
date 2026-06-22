@@ -1,20 +1,11 @@
 var a12707 =
 [
-    [ "boss_rend_blackhand", "d1/d8b/a12707.html#a978a2a5262df73afa1e661b23c27a57a", null ],
-    [ "EnterEvadeMode", "d1/d8b/a12707.html#a21ca0c54590356cc58675e71add93c3a", null ],
-    [ "IsSummonedBy", "d1/d8b/a12707.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
-    [ "JustDied", "d1/d8b/a12707.html#a498218ab4298cdab728b8a5403d98de1", null ],
-    [ "JustEngagedWith", "d1/d8b/a12707.html#a494550b92a25c99470c72697e87eff87", null ],
-    [ "JustSummoned", "d1/d8b/a12707.html#aeebd94ed5b08587dfab88b8826f64173", null ],
-    [ "MovementInform", "d1/d8b/a12707.html#ae8869425b1f03f6f430585d563de0b27", null ],
-    [ "Reset", "d1/d8b/a12707.html#afcea6a09eabe661051fc58d5de9a3802", null ],
-    [ "SetData", "d1/d8b/a12707.html#abe31d366de24aefd9c0c9c534494af11", null ],
-    [ "SummonedCreatureDespawn", "d1/d8b/a12707.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
-    [ "SummonedCreatureDies", "d1/d8b/a12707.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
-    [ "SummonWave", "d1/d8b/a12707.html#a127365a60504f988bcd7bc1858e0fb94", null ],
-    [ "UpdateAI", "d1/d8b/a12707.html#afdca704e8aca473986037ab2bc16194e", null ],
-    [ "_currentWave", "d1/d8b/a12707.html#a9e4ffc20609e50188e0f5a552b164590", null ],
-    [ "_gythEvent", "d1/d8b/a12707.html#a3699984d920375e9631105bf0a47469b", null ],
-    [ "_victorGUID", "d1/d8b/a12707.html#a8337c912349eb2798c33fd5794a28437", null ],
-    [ "_waveDoorGUID", "d1/d8b/a12707.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
+    [ "boss_quartermaster_zigris", "d1/d8b/a12707.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d1/d8b/a12707.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d1/d8b/a12707.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d1/d8b/a12707.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d1/d8b/a12707.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d1/d8b/a12707.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d1/d8b/a12707.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d1/d8b/a12707.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

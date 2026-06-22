@@ -1,7 +1,8 @@
 var a26051 =
 [
-    [ "AfterRemove", "db/d2f/a26051.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "db/d2f/a26051.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "db/d2f/a26051.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "db/d2f/a26051.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "AfterApply", "db/d2f/a26051.html#a972d3ec2a26bbf93e47f696f44ff22b0", null ],
+    [ "AfterRemove", "db/d2f/a26051.html#a29d4dbe7d36d256cf89fdde1bbabac85", null ],
+    [ "PrepareAuraScript", "db/d2f/a26051.html#a1e44672c1f47dbd8e57f7653d905e3e6", null ],
+    [ "Register", "db/d2f/a26051.html#a293ea418e290d96bbcaaed24cad663b0", null ],
+    [ "Validate", "db/d2f/a26051.html#aa67afc85c142006efad986859f14941c", null ]
 ];

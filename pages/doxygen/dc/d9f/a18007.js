@@ -1,6 +1,6 @@
 var a18007 =
 [
-    [ "IgbTeleportOnVictoryCheck", "dc/d9f/a18007.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "dc/d9f/a18007.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "dc/d9f/a18007.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "PrepareSpellScript", "dc/d9f/a18007.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "dc/d9f/a18007.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "dc/d9f/a18007.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

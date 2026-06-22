@@ -1,8 +1,11 @@
 var a02792 =
 [
-    [ "GUID_TRAIT_INSTANTIATE_GUID", "de/db6/a02792.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
-    [ "operator<<", "de/db6/a02792.html#a039758f4b57c94c411a4c3882334ada8", null ],
-    [ "operator<<", "de/db6/a02792.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
-    [ "operator>>", "de/db6/a02792.html#a30aef535f2839648f0ae4648c746d3e2", null ],
-    [ "operator>>", "de/db6/a02792.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
+    [ "Creature", "d8/d75/a08343.html", "d8/d75/a08343" ],
+    [ "AssistDelayEvent", "df/d8c/a08351.html", "df/d8c/a08351" ],
+    [ "ForcedDespawnDelayEvent", "d2/d96/a08355.html", "d2/d96/a08355" ],
+    [ "TemporaryThreatModifierEvent", "d3/d11/a08359.html", "d3/d11/a08359" ],
+    [ "CREATURE_Z_ATTACK_RANGE", "de/db6/a02792.html#a91a03a879f1b4df44968ae2f9f22fb0d", null ],
+    [ "MAX_VENDOR_ITEMS", "de/db6/a02792.html#a44c3a813b92331e325ba5aae11ed72a3", null ],
+    [ "CreatureTextRepeatGroup", "de/db6/a02792.html#aa92b7ce1a721a3955751ae25cf01b22a", null ],
+    [ "CreatureTextRepeatIds", "de/db6/a02792.html#a4a74e5d0af63228e47e1f663570018ae", null ]
 ];

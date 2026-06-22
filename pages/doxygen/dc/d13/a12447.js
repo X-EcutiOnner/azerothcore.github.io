@@ -1,9 +1,6 @@
 var a12447 =
 [
-    [ "pool_commandscript", "dc/d13/a12447.html#a41308abbe25e1e50325923f62f2fa3af", null ],
-    [ "GetCommands", "dc/d13/a12447.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
-    [ "HandlePoolInfoCommand", "dc/d13/a12447.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
-    [ "HandlePoolLookupCommand", "dc/d13/a12447.html#a377a405a1dae394c6f17579c0f2751eb", null ],
-    [ "ListPoolMembers", "dc/d13/a12447.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
-    [ "StatusTag", "dc/d13/a12447.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
+    [ "player_settings_commandscript", "dc/d13/a12447.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "dc/d13/a12447.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "dc/d13/a12447.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

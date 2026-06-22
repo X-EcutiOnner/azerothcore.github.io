@@ -1,6 +1,6 @@
 var a14579 =
 [
-    [ "boss_wushoolayAI", "d1/dee/a14579.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
-    [ "JustEngagedWith", "d1/dee/a14579.html#af519da543fff63a39a6fbe48f90f2f22", null ],
-    [ "UpdateAI", "d1/dee/a14579.html#acfaacee2a97212eb15056c1552b9e06b", null ]
+    [ "boss_wushoolayAI", "da/d08/a14583.html", "da/d08/a14583" ],
+    [ "boss_wushoolay", "d1/dee/a14579.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d1/dee/a14579.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

@@ -1,4 +1,5 @@
 var a03089 =
 [
-    [ "UPDATE_TARGET_MAP_INTERVAL", "d7/d54/a03089.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
+    [ "MotdMgr", "d6/d62/a10303.html", "d6/d62/a10303" ],
+    [ "sMotdMgr", "d7/d54/a03089.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

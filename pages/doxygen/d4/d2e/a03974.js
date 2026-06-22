@@ -1,13 +1,9 @@
 var a03974 =
 [
-    [ "FollowerAI", "d3/d2e/a06564.html", "d3/d2e/a06564" ],
-    [ "eFollowState", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138", [
-      [ "STATE_FOLLOW_NONE", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
-      [ "STATE_FOLLOW_INPROGRESS", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
-      [ "STATE_FOLLOW_RETURNING", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
-      [ "STATE_FOLLOW_PAUSED", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
-      [ "STATE_FOLLOW_COMPLETE", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
-      [ "STATE_FOLLOW_PREEVENT", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
-      [ "STATE_FOLLOW_POSTEVENT", "d4/d2e/a03974.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
-    ] ]
+    [ "WorldPackets::NPC::Hello", "d1/db9/a11367.html", "d1/db9/a11367" ],
+    [ "WorldPackets::NPC::TrainerListSpell", "df/d72/a11371.html", "df/d72/a11371" ],
+    [ "WorldPackets::NPC::TrainerList", "db/ddf/a11375.html", "db/ddf/a11375" ],
+    [ "WorldPackets::NPC::TrainerBuySpell", "d6/d75/a11379.html", "d6/d75/a11379" ],
+    [ "WorldPackets::NPC::TrainerBuyFailed", "d8/d69/a11383.html", "d8/d69/a11383" ],
+    [ "WorldPackets::NPC::TrainerBuySucceeded", "d1/d5b/a11387.html", "d1/d5b/a11387" ]
 ];

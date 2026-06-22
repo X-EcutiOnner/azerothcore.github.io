@@ -1,5 +1,6 @@
 var a22227 =
 [
-    [ "go_scourge_enclosure", "dc/d51/a22227.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "dc/d51/a22227.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "npc_released_offspring_harkoaAI", "dc/d51/a22227.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "dc/d51/a22227.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "dc/d51/a22227.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

@@ -1,4 +1,4 @@
 var a02471 =
 [
-    [ "MapUpdater", "dd/d7a/a10239.html", "dd/d7a/a10239" ]
+    [ "MapInstanced", "d7/d0f/a10211.html", "d7/d0f/a10211" ]
 ];

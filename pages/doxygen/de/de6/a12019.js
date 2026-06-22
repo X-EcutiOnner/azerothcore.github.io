@@ -1,6 +1,6 @@
 var a12019 =
 [
-    [ "EffectManaShieldHandler", "de/de6/a12019.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "de/de6/a12019.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "de/de6/a12019.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "EffectAbsorbHandler", "de/de6/a12019.html#a29bb773b8271acf651b08f33ce358720", null ],
+    [ "Call", "de/de6/a12019.html#a56bfb0fd0d860678920445d1182c09ef", null ],
+    [ "pEffectHandlerScript", "de/de6/a12019.html#a519489b8d951173a806e86cfe075faf1", null ]
 ];

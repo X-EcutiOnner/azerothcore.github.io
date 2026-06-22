@@ -1,10 +1,24 @@
 var a02960 =
 [
-    [ "DaysInMonth", "db/d1b/a02960.html#abff9a870b94032b446650ea043e9983b", null ],
-    [ "IsLeapYear", "db/d1b/a02960.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
-    [ "NormalizeDate", "db/d1b/a02960.html#a867322206e11e2197b7815e7584eeaba", null ],
-    [ "sind", "db/d1b/a02960.html#a6dd118cfa29609d98e0207909b863c88", null ],
-    [ "DEG_TO_RAD", "db/d1b/a02960.html#a410b5189721a469108e809fbf4f6e601", null ],
-    [ "HolidayRules", "db/d1b/a02960.html#a629dd822786c11d06b417c4326ae30fe", null ],
-    [ "PI", "db/d1b/a02960.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
+    [ "HolidayRule", "dd/d41/a09195.html", "dd/d41/a09195" ],
+    [ "HolidayDateCalculator", "dd/d81/a09199.html", "dd/d81/a09199" ],
+    [ "HolidayCalculationType", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cb", [
+      [ "FIXED_DATE", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cbac2f1d03fc1ea7f97ce600804f08e4387", null ],
+      [ "NTH_WEEKDAY", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cba64e96cdced43819307b413690eea15f1", null ],
+      [ "EASTER_OFFSET", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cbacd2633cacbd26593f1bee00669e7d19e", null ],
+      [ "LUNAR_NEW_YEAR", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cbafd92595c4d49b81e4639056460d15ba5", null ],
+      [ "WEEKDAY_ON_OR_AFTER", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cba94830ad690c0fa44fa8625efd71c66e4", null ],
+      [ "AUTUMN_EQUINOX", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cba518200d671a574bbbc71b408d64f95ca", null ],
+      [ "WINTER_SOLSTICE", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cbaf69c202170bfdb27a6beefa060b8bb06", null ],
+      [ "DARKMOON_FAIRE", "db/d1b/a02960.html#a5ecfaf291957bc268c8975a08797a5cba947b7c3be0b3967f88c881172df9c6c6", null ]
+    ] ],
+    [ "Weekday", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3a", [
+      [ "SUNDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aa95fa12cb2100ce7081b71f7c44bc12a5", null ],
+      [ "MONDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aa98617021b249af0ace0f84ee92ccc7cd", null ],
+      [ "TUESDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aa5f5140afce13197a89e848004f292f14", null ],
+      [ "WEDNESDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aaaaebdc947e9f7d4ea362e5dc4fe7f825", null ],
+      [ "THURSDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aa7a61b324afb4dd8b2fb4a38afc34f755", null ],
+      [ "FRIDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aa86fb6d343289267f3e9edb9b7403d936", null ],
+      [ "SATURDAY", "db/d1b/a02960.html#aec3d5ec6653b2c392d449500b8f5cb3aafd5ae113ac00b67f69541bc8c7f21ef7", null ]
+    ] ]
 ];

@@ -1,12 +1,6 @@
 var a19859 =
 [
-    [ "boss_krystallusAI", "dc/d31/a19859.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "dc/d31/a19859.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "dc/d31/a19859.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "dc/d31/a19859.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "dc/d31/a19859.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "dc/d31/a19859.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "dc/d31/a19859.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "dc/d31/a19859.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "dc/d31/a19859.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_krystallusAI", "d0/db3/a19863.html", "d0/db3/a19863" ],
+    [ "boss_krystallus", "dc/d31/a19859.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "dc/d31/a19859.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

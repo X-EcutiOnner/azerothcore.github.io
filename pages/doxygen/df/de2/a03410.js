@@ -1,4 +1,4 @@
 var a03410 =
 [
-    [ "ScriptRegistry< WorldObjectScript >", "df/de2/a03410.html#a2e5b964820eedff4e7b34c6c79cfca6d", null ]
+    [ "ScriptRegistry< AllBattlegroundScript >", "df/de2/a03410.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
 ];

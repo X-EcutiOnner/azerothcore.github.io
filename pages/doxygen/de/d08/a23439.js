@@ -1,6 +1,16 @@
 var a23439 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dd/d1e/a23443.html", "dd/d1e/a23443" ],
-    [ "instance_shattered_halls", "de/d08/a23439.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "de/d08/a23439.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_warchief_kargath_bladefist", "de/d08/a23439.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
+    [ "InitializeAI", "de/d08/a23439.html#a86d9b5b1500960235e76ae71337a6c90", null ],
+    [ "IsInRoom", "de/d08/a23439.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
+    [ "JustDied", "de/d08/a23439.html#a436b90336c90f6662f3ce704a62f0d90", null ],
+    [ "JustEngagedWith", "de/d08/a23439.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
+    [ "JustSummoned", "de/d08/a23439.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
+    [ "KilledUnit", "de/d08/a23439.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
+    [ "MovementInform", "de/d08/a23439.html#a716eab9bda2b697252dde90aa513d7df", null ],
+    [ "Reset", "de/d08/a23439.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
+    [ "RespawnAssassins", "de/d08/a23439.html#a1397317259589ea69f77f52f60852043", null ],
+    [ "SummonedCreatureDies", "de/d08/a23439.html#a325da34f78d202708a58c1a543ecb8ca", null ],
+    [ "UpdateAI", "de/d08/a23439.html#acd463cac8e2fa8289ecb5567709db678", null ],
+    [ "_danceCount", "de/d08/a23439.html#af4a60caaef6388caff973295e3397a7d", null ]
 ];

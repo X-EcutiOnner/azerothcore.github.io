@@ -1,9 +1,39 @@
 var a02174 =
 [
-    [ "instance_halls_of_stone", "d3/d29/a19935.html", "d3/d29/a19935" ],
-    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d7/db9/a19939.html", "d7/db9/a19939" ],
-    [ "AddSC_instance_halls_of_stone", "d6/d6e/a02174.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
-    [ "boundaries", "d6/d6e/a02174.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d6/d6e/a02174.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "summonData", "d6/d6e/a02174.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
+    [ "npc_attracted_reef_bull", "d6/d6a/a21767.html", "d6/d6a/a21767" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d1/d79/a21771.html", "d1/d79/a21771" ],
+    [ "npc_apothecary_hanes", "dd/d08/a21775.html", "dd/d08/a21775" ],
+    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "d2/d91/a21779.html", "d2/d91/a21779" ],
+    [ "npc_plaguehound_tracker", "d2/dcc/a21783.html", "d2/dcc/a21783" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "dd/d5e/a21787.html", "dd/d5e/a21787" ],
+    [ "npc_rodin_lightning_enabler", "da/d57/a21791.html", "da/d57/a21791" ],
+    [ "spell_hawk_hunting", "d5/d40/a21795.html", "d5/d40/a21795" ],
+    [ "spell_the_cleansing_shrine_cast", "dd/dc8/a21799.html", "dd/dc8/a21799" ],
+    [ "spell_the_cleansing_cleansing_soul", "d1/dbe/a21803.html", "d1/dbe/a21803" ],
+    [ "spell_the_cleansing_mirror_image_script_effect", "db/d53/a21807.html", "db/d53/a21807" ],
+    [ "spell_the_cleansing_on_death_cast_on_master", "db/dd4/a21811.html", "db/dd4/a21811" ],
+    [ "Entries", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889", [
+      [ "NPC_APOTHECARY_HANES", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
+      [ "NPC_HANES_FIRE_TRIGGER", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
+      [ "QUEST_TRAIL_OF_FIRE", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889a3b04eef2d1544dfd01157f3936b8931e", null ],
+      [ "SPELL_COSMETIC_LOW_POLY_FIRE", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889a3e64d85cd00e4529984f105930950743", null ],
+      [ "SPELL_HEALING_POTION", "d6/d6e/a02174.html#a06de533fb3e7ec530f0493022ad98889a13bb6f847a01b8a989be597f21d79b75", null ]
+    ] ],
+    [ "HawkHunting", "d6/d6e/a02174.html#a096cc98a9aabe12e9a0d16fa3f6c7467", [
+      [ "SPELL_HAWK_HUNTING_ITEM", "d6/d6e/a02174.html#a096cc98a9aabe12e9a0d16fa3f6c7467a6ec995a1ccedcab945036b6b96fbfa2e", null ]
+    ] ],
+    [ "RodinLightningSpells", "d6/d6e/a02174.html#a80e7ba946308fea1c6de5c21365652f3", [
+      [ "SPELL_RODIN_LIGHTNING_START", "d6/d6e/a02174.html#a80e7ba946308fea1c6de5c21365652f3a7fbdcf0c94df64ba932ea4666d375a4c", null ],
+      [ "SPELL_RODIN_LIGHTNING_END", "d6/d6e/a02174.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
+      [ "NPC_RODIN", "d6/d6e/a02174.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
+    ] ],
+    [ "TheCleansing", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
+      [ "SPELL_CLEANSING_SOUL", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
+      [ "SPELL_SUMMON_INNER_TURMOIL", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
+      [ "SPELL_RECENT_MEDITATION", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
+      [ "SPELL_MIRROR_IMAGE_AURA", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
+      [ "QUEST_THE_CLEANSING_H", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
+      [ "QUEST_THE_CLEANSING_A", "d6/d6e/a02174.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
+    ] ],
+    [ "AddSC_howling_fjord", "d6/d6e/a02174.html#a1f2f485d0649e510913e07a28b6082a5", null ]
 ];

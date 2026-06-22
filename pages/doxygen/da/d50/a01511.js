@@ -1,5 +1,5 @@
 var a01511 =
 [
-    [ "chatfilter_commandscript", "d3/d34/a12311.html", "d3/d34/a12311" ],
-    [ "AddSC_chatfilter_commandscript", "da/d50/a01511.html#aee5ca3527878cd26d04712c7dc6b8611", null ]
+    [ "guild_commandscript", "d4/d84/a12363.html", "d4/d84/a12363" ],
+    [ "AddSC_guild_commandscript", "da/d50/a01511.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

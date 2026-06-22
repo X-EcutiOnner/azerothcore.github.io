@@ -1,6 +1,7 @@
 var a23911 =
 [
-    [ "npc_infernal_attackerAI", "d0/db2/a23915.html", "d0/db2/a23915" ],
-    [ "npc_infernal_attacker", "d3/deb/a23911.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d3/deb/a23911.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "HandleEffectApply", "d3/deb/a23911.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d3/deb/a23911.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d3/deb/a23911.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d3/deb/a23911.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

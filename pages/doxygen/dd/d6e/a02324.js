@@ -1,8 +1,6 @@
 var a02324 =
 [
-    [ "WorldPackets::Bank::AutoBankItem", "d0/d35/a10848.html", "d0/d35/a10848" ],
-    [ "WorldPackets::Bank::AutoStoreBankItem", "dd/d04/a10852.html", "dd/d04/a10852" ],
-    [ "WorldPackets::Bank::BuyBankSlot", "d8/d88/a10856.html", "d8/d88/a10856" ],
-    [ "WorldPackets::Bank::BuyBankSlotResult", "d8/dde/a10860.html", "d8/dde/a10860" ],
-    [ "WorldPackets::Bank::ShowBank", "d8/d09/a10864.html", "d8/d09/a10864" ]
+    [ "RealmBuildInfo", "dc/d10/a29235.html", "dc/d10/a29235" ],
+    [ "RealmList", "d2/d67/a29239.html", "d2/d67/a29239" ],
+    [ "sRealmList", "dd/d6e/a02324.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
 ];

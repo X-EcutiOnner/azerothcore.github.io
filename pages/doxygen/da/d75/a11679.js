@@ -1,5 +1,7 @@
 var a11679 =
 [
-    [ "amountCounter", "da/d75/a11679.html#af652ffc837bde625aa39e913ec2e2eec", null ],
-    [ "lastReceiveTime", "da/d75/a11679.html#ae0f3f2a90a24b48d239e3df3525f8fdc", null ]
+    [ "Player", "da/d75/a11679.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "da/d75/a11679.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "da/d75/a11679.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "da/d75/a11679.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

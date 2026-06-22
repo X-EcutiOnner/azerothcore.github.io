@@ -1,7 +1,6 @@
 var a23895 =
 [
-    [ "HandleScriptEffect", "df/d4c/a23895.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
-    [ "PrepareSpellScript", "df/d4c/a23895.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
-    [ "Register", "df/d4c/a23895.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
-    [ "Validate", "df/d4c/a23895.html#a5209de3456c374010502a94f67ff4544", null ]
+    [ "CheckCast", "df/d4c/a23895.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "df/d4c/a23895.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "df/d4c/a23895.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

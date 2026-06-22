@@ -1,6 +1,6 @@
 var a22791 =
 [
-    [ "instance_black_temple_InstanceMapScript", "dd/d8f/a22795.html", "dd/d8f/a22795" ],
-    [ "instance_black_temple", "d7/da7/a22791.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d7/da7/a22791.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "HandleDummy", "d7/da7/a22791.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d7/da7/a22791.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d7/da7/a22791.html#a972574075c86c32593982add71dc893f", null ]
 ];
