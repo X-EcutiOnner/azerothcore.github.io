@@ -1,5 +1,6 @@
 var a22991 =
 [
-    [ "go_strange_pool", "d5/df7/a22991.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "d5/df7/a22991.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleScriptEffect", "d5/df7/a22991.html#a9e42f1af6fabb7df066cc2488a831418", null ],
+    [ "PrepareSpellScript", "d5/df7/a22991.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
+    [ "Register", "d5/df7/a22991.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
 ];

@@ -1,6 +1,6 @@
 var a22971 =
 [
-    [ "FilterTargets", "df/df0/a22971.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "df/df0/a22971.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "df/df0/a22971.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "HandleScriptEffect", "df/df0/a22971.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
+    [ "PrepareSpellScript", "df/df0/a22971.html#ae80b4ca96692035c399d1621b632fe66", null ],
+    [ "Register", "df/df0/a22971.html#ac655157c74104a51f045e114fc63a42d", null ]
 ];

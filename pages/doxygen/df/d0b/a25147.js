@@ -1,7 +1,5 @@
 var a25147 =
 [
-    [ "HandleEffectPeriodic", "df/d0b/a25147.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "df/d0b/a25147.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "df/d0b/a25147.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "df/d0b/a25147.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "PrepareSpellScript", "df/d0b/a25147.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
+    [ "Register", "df/d0b/a25147.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
 ];

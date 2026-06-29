@@ -1,14 +1,14 @@
 var a01460 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "db/d5e/a27779.html", "db/d5e/a27779" ],
-    [ "AreaTrigger_at_legion_teleporter", "d7/d2d/a27783.html", "d7/d2d/a27783" ],
-    [ "AreaTrigger_at_stormwright_shelf", "db/d05/a27787.html", "db/d05/a27787" ],
-    [ "AreaTrigger_at_scent_larkorwi", "de/d77/a27791.html", "de/d77/a27791" ],
-    [ "AreaTrigger_at_last_rites", "d2/dd9/a27795.html", "d2/dd9/a27795" ],
-    [ "AreaTrigger_at_nats_landing", "d6/d2e/a27799.html", "d6/d2e/a27799" ],
-    [ "AreaTrigger_at_sentry_point", "d5/d52/a27803.html", "d5/d52/a27803" ],
-    [ "AreaTrigger_at_brewfest", "d9/d6e/a27807.html", "d9/d6e/a27807" ],
-    [ "AreaTrigger_at_area_52_entrance", "d2/d4a/a27811.html", "d2/d4a/a27811" ],
+    [ "AreaTrigger_at_coilfang_waterfall", "db/d05/a27787.html", "db/d05/a27787" ],
+    [ "AreaTrigger_at_legion_teleporter", "de/d77/a27791.html", "de/d77/a27791" ],
+    [ "AreaTrigger_at_stormwright_shelf", "d2/dd9/a27795.html", "d2/dd9/a27795" ],
+    [ "AreaTrigger_at_scent_larkorwi", "d6/d2e/a27799.html", "d6/d2e/a27799" ],
+    [ "AreaTrigger_at_last_rites", "d5/d52/a27803.html", "d5/d52/a27803" ],
+    [ "AreaTrigger_at_nats_landing", "d9/d6e/a27807.html", "d9/d6e/a27807" ],
+    [ "AreaTrigger_at_sentry_point", "d2/d4a/a27811.html", "d2/d4a/a27811" ],
+    [ "AreaTrigger_at_brewfest", "d0/d30/a27815.html", "d0/d30/a27815" ],
+    [ "AreaTrigger_at_area_52_entrance", "d1/d5f/a27819.html", "d1/d5f/a27819" ],
     [ "Area52Entrance", "d2/d2f/a01460.html#a7ef276a75040392ab3315082a3518c67", [
       [ "SPELL_A52_NEURALYZER", "d2/d2f/a01460.html#a7ef276a75040392ab3315082a3518c67afa491a434774607e1e712c2f79ac322a", null ],
       [ "NPC_SPOTLIGHT", "d2/d2f/a01460.html#a7ef276a75040392ab3315082a3518c67acded8211c601c5b237d60a58f65b56ac", null ],

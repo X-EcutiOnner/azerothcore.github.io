@@ -1,5 +1,6 @@
 var a25279 =
 [
-    [ "PrepareSpellScript", "dc/dc3/a25279.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "dc/dc3/a25279.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "HandleScript", "dc/dc3/a25279.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "dc/dc3/a25279.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "dc/dc3/a25279.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

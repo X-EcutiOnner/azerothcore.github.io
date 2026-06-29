@@ -1,7 +1,7 @@
 var a00080 =
 [
-    [ "TakenAutoTriggerTest", "dc/dea/a29627.html", "dc/dea/a29627" ],
-    [ "ProcChainGuardTest", "d7/d60/a29631.html", "d7/d60/a29631" ],
+    [ "TakenAutoTriggerTest", "d5/d69/a29635.html", "d5/d69/a29635" ],
+    [ "ProcChainGuardTest", "df/dcc/a29639.html", "df/dcc/a29639" ],
     [ "TEST_F", "da/dec/a00080.html#a1f4b9781a25551b1db62d7597c50c08d", null ],
     [ "TEST_F", "da/dec/a00080.html#a5071a19c9d81a0c3ac637c0840edd597", null ],
     [ "TEST_F", "da/dec/a00080.html#a7856746333fc36f6ea16d9a9277ac519", null ],

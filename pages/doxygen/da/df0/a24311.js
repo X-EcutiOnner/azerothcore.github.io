@@ -1,14 +1,7 @@
 var a24311 =
 [
-    [ "Absorb", "da/df0/a24311.html#a401274543919a81efea81008f8020ed1", null ],
-    [ "CalculateAmount", "da/df0/a24311.html#a837b0e3f0135f7b8393f1ee630d90c50", null ],
-    [ "HandleEffectApply", "da/df0/a24311.html#a0acb2be86ed6da238e8769d4871526d3", null ],
-    [ "HandleEffectRemove", "da/df0/a24311.html#a2b1e9dbb5d3543acd36f9253f224b9a7", null ],
-    [ "Load", "da/df0/a24311.html#ab22271735c240c0d375324f54efc8313", null ],
-    [ "PrepareAuraScript", "da/df0/a24311.html#af040fefa0f25f319f98340b9908bb85e", null ],
-    [ "Register", "da/df0/a24311.html#af89379413ea3b10477ea267ac8e51004", null ],
-    [ "Trigger", "da/df0/a24311.html#ae1704ed58255389c7483f75b5f0a227c", null ],
-    [ "Validate", "da/df0/a24311.html#a58faaf03fc6a0974049da2af0fc70825", null ],
-    [ "absorbPct", "da/df0/a24311.html#a3a9bd069cf4732f64990277227d71d0d", null ],
-    [ "hpPct", "da/df0/a24311.html#a83ef3e3f9534366c24311f3281a8d0b8", null ]
+    [ "CheckProc", "da/df0/a24311.html#a7d829589ea098e002206b72f789c95df", null ],
+    [ "PrepareAuraScript", "da/df0/a24311.html#a04258b702d79372c0e9c2e1845a6563e", null ],
+    [ "Register", "da/df0/a24311.html#af62e0a7a43a6762e8e067931e7ec09af", null ],
+    [ "Validate", "da/df0/a24311.html#a56eaad6f2b1d14cea5fe3f7f27cdb877", null ]
 ];

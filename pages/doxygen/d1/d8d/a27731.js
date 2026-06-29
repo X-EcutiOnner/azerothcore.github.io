@@ -1,5 +1,5 @@
 var a27731 =
 [
-    [ "achievement_sickly_gazelle", "d1/d8d/a27731.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d1/d8d/a27731.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_bg_sa_artillery", "d1/d8d/a27731.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d1/d8d/a27731.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

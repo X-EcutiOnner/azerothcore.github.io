@@ -1,7 +1,8 @@
 var a27107 =
 [
-    [ "HandleProc", "d0/dc0/a27107.html#a297383c7eae5cc846be4a0f9e28c7e52", null ],
-    [ "PrepareAuraScript", "d0/dc0/a27107.html#a00a68329e8ab03cb5e38b1ad85932a57", null ],
-    [ "Register", "d0/dc0/a27107.html#a813cb759ccbe0464334890008d5e5a7a", null ],
-    [ "Validate", "d0/dc0/a27107.html#a41590ae5cb30b97cdf1db02266dd2c7c", null ]
+    [ "AfterApply", "d0/dc0/a27107.html#a3299de0703ca1e14760e9f33b124ac44", null ],
+    [ "PeriodicTick", "d0/dc0/a27107.html#a34f2fd8d142083705101f8265297c20e", null ],
+    [ "PrepareAuraScript", "d0/dc0/a27107.html#a79c80876d5788a20a9f686548b70fd64", null ],
+    [ "Register", "d0/dc0/a27107.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
+    [ "Validate", "d0/dc0/a27107.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
 ];

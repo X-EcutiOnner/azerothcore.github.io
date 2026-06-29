@@ -1,8 +1,7 @@
 var a27099 =
 [
-    [ "AfterApply", "df/d93/a27099.html#a3299de0703ca1e14760e9f33b124ac44", null ],
-    [ "PeriodicTick", "df/d93/a27099.html#a34f2fd8d142083705101f8265297c20e", null ],
-    [ "PrepareAuraScript", "df/d93/a27099.html#a79c80876d5788a20a9f686548b70fd64", null ],
-    [ "Register", "df/d93/a27099.html#a58fc81f4c270a1a8a2ec07a374ced4fd", null ],
-    [ "Validate", "df/d93/a27099.html#a9ec4d4488bce0acfc725d8c04c81ec41", null ]
+    [ "HandleEffect", "df/d93/a27099.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "df/d93/a27099.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "df/d93/a27099.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "df/d93/a27099.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

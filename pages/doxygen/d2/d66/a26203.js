@@ -1,7 +1,8 @@
 var a26203 =
 [
-    [ "CheckProc", "d2/d66/a26203.html#a325336c96dad74ec221c07817222fee1", null ],
-    [ "HandleProc", "d2/d66/a26203.html#a75c8e4664e75afd2129b6e5f047d74e3", null ],
-    [ "PrepareAuraScript", "d2/d66/a26203.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
-    [ "Register", "d2/d66/a26203.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
+    [ "CheckProc", "d2/d66/a26203.html#ae0e2b86fc99705d7a80c2122643db33f", null ],
+    [ "HandleProc", "d2/d66/a26203.html#ae1027c9041171c9ed613acfd68be5ba3", null ],
+    [ "PrepareAuraScript", "d2/d66/a26203.html#a69d4c898f52ce6334f0bf9963e8c5085", null ],
+    [ "Register", "d2/d66/a26203.html#acfea07ba1efeba58bcfc465122a3f66d", null ],
+    [ "Validate", "d2/d66/a26203.html#a69daf001676f73289682ff63897e81cb", null ]
 ];

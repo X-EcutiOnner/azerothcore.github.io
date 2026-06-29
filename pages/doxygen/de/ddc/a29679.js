@@ -1,5 +1,6 @@
 var a29679 =
 [
-    [ "SetUp", "de/ddc/a29679.html#a3619a9661686511df0868c65b9099c9f", null ],
-    [ "_allEntries", "de/ddc/a29679.html#a6f2997373f401c494a4a4fb1677b82af", null ]
+    [ "CreateArmorProcConfig", "de/ddc/a29679.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "de/ddc/a29679.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "de/ddc/a29679.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

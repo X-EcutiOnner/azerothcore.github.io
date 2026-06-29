@@ -1,6 +1,6 @@
 var a22671 =
 [
-    [ "boss_essence_of_sufferingAI", "d2/d91/a22675.html", "d2/d91/a22675" ],
-    [ "boss_essence_of_suffering", "d3/d96/a22671.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d3/d96/a22671.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "boss_reliquary_of_soulsAI", "d2/d91/a22675.html", "d2/d91/a22675" ],
+    [ "boss_reliquary_of_souls", "d3/d96/a22671.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d3/d96/a22671.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

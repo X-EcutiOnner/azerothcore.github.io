@@ -171,10 +171,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  898</span>: <a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>(obj), <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>(owner), <a class="code hl_variable" href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09707_html_a64f58427bbab3276bdc53450b33eca12"><div class="ttname"><a href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_owner</a></div><div class="ttdeci">Unit const  * i_owner</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:941</div></div>
-<div class="ttc" id="aa09707_html_a949ff3bcc3530206d83512d293647a2b"><div class="ttname"><a href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:940</div></div>
-<div class="ttc" id="aa09707_html_af52388830cec17e32b1d368739b4555a"><div class="ttname"><a href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:942</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  928</span>: <a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>(obj), <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>(owner), <a class="code hl_variable" href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09707_html_a64f58427bbab3276bdc53450b33eca12"><div class="ttname"><a href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_owner</a></div><div class="ttdeci">Unit const  * i_owner</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:971</div></div>
+<div class="ttc" id="aa09707_html_a949ff3bcc3530206d83512d293647a2b"><div class="ttname"><a href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:970</div></div>
+<div class="ttc" id="aa09707_html_af52388830cec17e32b1d368739b4555a"><div class="ttname"><a href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">Acore::NearestAttackableNoTotemUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:972</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -202,43 +202,43 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  901</span>        {</div>
-<div class="line"><span class="lineno">  902</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  903</span>            {</div>
-<div class="line"><span class="lineno">  904</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  905</span>            }</div>
-<div class="line"><span class="lineno">  906</span> </div>
-<div class="line"><span class="lineno">  907</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">GetCreatureType</a>() == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a>)</div>
-<div class="line"><span class="lineno">  908</span>            {</div>
-<div class="line"><span class="lineno">  909</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  910</span>            }</div>
-<div class="line"><span class="lineno">  911</span> </div>
-<div class="line"><span class="lineno">  912</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
-<div class="line"><span class="lineno">  913</span>            {</div>
-<div class="line"><span class="lineno">  914</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  915</span>            }</div>
-<div class="line"><span class="lineno">  916</span> </div>
-<div class="line"><span class="lineno">  917</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">false</span>, <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>))</div>
-<div class="line"><span class="lineno">  918</span>            {</div>
-<div class="line"><span class="lineno">  919</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  920</span>            }</div>
-<div class="line"><span class="lineno">  921</span> </div>
-<div class="line"><span class="lineno">  922</span>            <a class="code hl_typedef" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> losChecks = <a class="code hl_enumvalue" href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f">LINEOFSIGHT_ALL_CHECKS</a>;</div>
-<div class="line"><span class="lineno">  923</span>            <a class="code hl_typedef" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a> collisionHeight = { };</div>
-<div class="line"><span class="lineno">  924</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>())</div>
-<div class="line"><span class="lineno">  925</span>            {</div>
-<div class="line"><span class="lineno">  926</span>                losChecks &amp;= ~LINEOFSIGHT_CHECK_GOBJECT_M2;</div>
-<div class="line"><span class="lineno">  927</span>                collisionHeight = <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a30903f223f0668c6beae4a350d49a43a">GetCollisionHeight</a>();</div>
-<div class="line"><span class="lineno">  928</span>            }</div>
-<div class="line"><span class="lineno">  929</span> </div>
-<div class="line"><span class="lineno">  930</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">i_range</a>) || !<a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(u) ||</div>
-<div class="line"><span class="lineno">  931</span>                !<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(u, <a class="code hl_enumvalue" href="../../da/df4/a05050.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a>, <a class="code hl_enumeration" href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6">LineOfSightChecks</a>(losChecks), collisionHeight))</div>
-<div class="line"><span class="lineno">  932</span>            {</div>
-<div class="line"><span class="lineno">  933</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  934</span>            }</div>
-<div class="line"><span class="lineno">  935</span> </div>
-<div class="line"><span class="lineno">  936</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  937</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  931</span>        {</div>
+<div class="line"><span class="lineno">  932</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  933</span>            {</div>
+<div class="line"><span class="lineno">  934</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  935</span>            }</div>
+<div class="line"><span class="lineno">  936</span> </div>
+<div class="line"><span class="lineno">  937</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">GetCreatureType</a>() == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a>)</div>
+<div class="line"><span class="lineno">  938</span>            {</div>
+<div class="line"><span class="lineno">  939</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  940</span>            }</div>
+<div class="line"><span class="lineno">  941</span> </div>
+<div class="line"><span class="lineno">  942</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>())</div>
+<div class="line"><span class="lineno">  943</span>            {</div>
+<div class="line"><span class="lineno">  944</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  945</span>            }</div>
+<div class="line"><span class="lineno">  946</span> </div>
+<div class="line"><span class="lineno">  947</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">false</span>, <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>))</div>
+<div class="line"><span class="lineno">  948</span>            {</div>
+<div class="line"><span class="lineno">  949</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  950</span>            }</div>
+<div class="line"><span class="lineno">  951</span> </div>
+<div class="line"><span class="lineno">  952</span>            <a class="code hl_typedef" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> losChecks = <a class="code hl_enumvalue" href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f">LINEOFSIGHT_ALL_CHECKS</a>;</div>
+<div class="line"><span class="lineno">  953</span>            <a class="code hl_typedef" href="../../dd/dec/a04595.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a> collisionHeight = { };</div>
+<div class="line"><span class="lineno">  954</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#a85475682d62e51bfaf2133b51d41a619">IsGameObject</a>())</div>
+<div class="line"><span class="lineno">  955</span>            {</div>
+<div class="line"><span class="lineno">  956</span>                losChecks &amp;= ~LINEOFSIGHT_CHECK_GOBJECT_M2;</div>
+<div class="line"><span class="lineno">  957</span>                collisionHeight = <a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a30903f223f0668c6beae4a350d49a43a">GetCollisionHeight</a>();</div>
+<div class="line"><span class="lineno">  958</span>            }</div>
+<div class="line"><span class="lineno">  959</span> </div>
+<div class="line"><span class="lineno">  960</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../dc/d36/a09707.html#af52388830cec17e32b1d368739b4555a">i_range</a>) || !<a class="code hl_variable" href="../../dc/d36/a09707.html#a64f58427bbab3276bdc53450b33eca12">i_owner</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(u) ||</div>
+<div class="line"><span class="lineno">  961</span>                !<a class="code hl_variable" href="../../dc/d36/a09707.html#a949ff3bcc3530206d83512d293647a2b">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#a64f76cf543cb4851cb271bb7d2facaf2">IsWithinLOSInMap</a>(u, <a class="code hl_enumvalue" href="../../da/df4/a05050.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::ModelIgnoreFlags::Nothing</a>, <a class="code hl_enumeration" href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6">LineOfSightChecks</a>(losChecks), collisionHeight))</div>
+<div class="line"><span class="lineno">  962</span>            {</div>
+<div class="line"><span class="lineno">  963</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  964</span>            }</div>
+<div class="line"><span class="lineno">  965</span> </div>
+<div class="line"><span class="lineno">  966</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  967</span>        }</div>
 <div class="ttc" id="aa02273_html_a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff"><div class="ttname"><a href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a></div><div class="ttdeci">@ CREATURE_TYPE_NON_COMBAT_PET</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2633</div></div>
 <div class="ttc" id="aa02441_html_abc95f0a7147fb553d023f994f003a1c6"><div class="ttname"><a href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6">LineOfSightChecks</a></div><div class="ttdeci">LineOfSightChecks</div><div class="ttdef"><b>Definition:</b> Map.h:106</div></div>
 <div class="ttc" id="aa02441_html_abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f"><div class="ttname"><a href="../../d9/dd6/a02441.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f">LINEOFSIGHT_ALL_CHECKS</a></div><div class="ttdeci">@ LINEOFSIGHT_ALL_CHECKS</div><div class="ttdef"><b>Definition:</b> Map.h:113</div></div>
@@ -250,14 +250,14 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08719_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
 <div class="ttc" id="aa08755_html_a64f76cf543cb4851cb271bb7d2facaf2"><div class="ttname"><a href="../../d0/dbd/a08755.html#a64f76cf543cb4851cb271bb7d2facaf2">WorldObject::IsWithinLOSInMap</a></div><div class="ttdeci">bool IsWithinLOSInMap(WorldObject const *obj, VMAP::ModelIgnoreFlags ignoreFlags=VMAP::ModelIgnoreFlags::Nothing, LineOfSightChecks checks=LINEOFSIGHT_ALL_CHECKS, Optional&lt; float &gt; collisionHeight={ }, Optional&lt; float &gt; combatReach={ }) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1403</div></div>
 <div class="ttc" id="aa08755_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1377</div></div>
-<div class="ttc" id="aa09103_html_a30903f223f0668c6beae4a350d49a43a"><div class="ttname"><a href="../../d9/d6a/a09103.html#a30903f223f0668c6beae4a350d49a43a">Unit::GetCollisionHeight</a></div><div class="ttdeci">float GetCollisionHeight() const override</div><div class="ttdoc">Return collision height sent to client.</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17161</div></div>
+<div class="ttc" id="aa09103_html_a30903f223f0668c6beae4a350d49a43a"><div class="ttname"><a href="../../d9/d6a/a09103.html#a30903f223f0668c6beae4a350d49a43a">Unit::GetCollisionHeight</a></div><div class="ttdeci">float GetCollisionHeight() const override</div><div class="ttdoc">Return collision height sent to client.</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17172</div></div>
 <div class="ttc" id="aa09103_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1797</div></div>
-<div class="ttc" id="aa09103_html_a80140b04cc4277697de8f853e7da90e8"><div class="ttname"><a href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">Unit::GetCreatureType</a></div><div class="ttdeci">uint32 GetCreatureType() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11942</div></div>
-<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10733</div></div>
+<div class="ttc" id="aa09103_html_a80140b04cc4277697de8f853e7da90e8"><div class="ttname"><a href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">Unit::GetCreatureType</a></div><div class="ttdeci">uint32 GetCreatureType() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11953</div></div>
+<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10744</div></div>
 <div class="ttc" id="aa09103_html_ae1ce57b02474672763481af5c4e7ef6f"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">Unit::IsTotem</a></div><div class="ttdeci">bool IsTotem() const</div><div class="ttdef"><b>Definition:</b> Unit.h:799</div></div>
-<div class="ttc" id="aa09103_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10750</div></div>
+<div class="ttc" id="aa09103_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10761</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_NON_COMBAT_PET</a>, <a class="el" href="../../#l17161">Unit::GetCollisionHeight()</a>, <a class="el" href="../../#l11942">Unit::GetCreatureType()</a>, <a class="el" href="../../#l00940">i_obj</a>, <a class="el" href="../../#l00941">i_owner</a>, <a class="el" href="../../#l00942">i_range</a>, <a class="el" href="../../#l01797">Unit::IsAlive()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l00213">Object::IsGameObject()</a>, <a class="el" href="../../#l10733">Unit::isTargetableForAttack()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l10750">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l01403">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../#l00113">LINEOFSIGHT_ALL_CHECKS</a>, <a class="el" href="../../da/df4/a05050.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_NON_COMBAT_PET</a>, <a class="el" href="../../#l17172">Unit::GetCollisionHeight()</a>, <a class="el" href="../../#l11953">Unit::GetCreatureType()</a>, <a class="el" href="../../#l00970">i_obj</a>, <a class="el" href="../../#l00971">i_owner</a>, <a class="el" href="../../#l00972">i_range</a>, <a class="el" href="../../#l01797">Unit::IsAlive()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l00213">Object::IsGameObject()</a>, <a class="el" href="../../#l10744">Unit::isTargetableForAttack()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l10761">Unit::IsValidAttackTarget()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l01403">WorldObject::IsWithinLOSInMap()</a>, <a class="el" href="../../#l00113">LINEOFSIGHT_ALL_CHECKS</a>, <a class="el" href="../../da/df4/a05050.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5">VMAP::Nothing</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
@@ -282,7 +282,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00900">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00930">operator()()</a>.</p>
 
 </div>
 </div>
@@ -306,7 +306,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00900">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00930">operator()()</a>.</p>
 
 </div>
 </div>
@@ -330,7 +330,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00900">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00930">operator()()</a>.</p>
 
 </div>
 </div>
@@ -340,7 +340,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d61/a05043.html">Acore</a></li><li class="navelem"><a class="el" href="../../dc/d36/a09707.html">NearestAttackableNoTotemUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

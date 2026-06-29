@@ -1,7 +1,8 @@
 var a26083 =
 [
-    [ "HandlePeriodicDummy", "d3/def/a26083.html#ac8ca6a69b47cb2316b93e1953e233f8f", null ],
-    [ "PrepareAuraScript", "d3/def/a26083.html#a1c85329bcafd6c327d1862feabc1eed0", null ],
-    [ "Register", "d3/def/a26083.html#a0c43d96bf2e59fd67790f327cf14d71e", null ],
-    [ "Validate", "d3/def/a26083.html#a7c3f4223a709e3cbb7d4a5b4b6a9e1c5", null ]
+    [ "HandleScript", "d3/def/a26083.html#a181434606474535b5ed8dc6ee7c2dc29", null ],
+    [ "Load", "d3/def/a26083.html#aee35eb07631e991dc019a2b716894237", null ],
+    [ "PrepareSpellScript", "d3/def/a26083.html#a4c28987223d55f31aa6c5f3e349b62b7", null ],
+    [ "Register", "d3/def/a26083.html#aad5ff8b2b71e4662e8f2f15f7c9a5bcb", null ],
+    [ "Validate", "d3/def/a26083.html#a1541ff95bfa6ddc98748381cc2cb99f6", null ]
 ];

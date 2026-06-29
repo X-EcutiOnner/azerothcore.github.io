@@ -150,6 +150,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac218e3761b79d4d8186ad8d12e0d0b57 inherit pub_methods_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab0e73a03d6e36a35eb393127bce3dad3 inherit pub_methods_a21267"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#ab0e73a03d6e36a35eb393127bce3dad3">MoveInLineOfSight</a> (<a class="el" href="../../d9/d6a/a09103.html">Unit</a> *who) override</td></tr>
 <tr class="separator:ab0e73a03d6e36a35eb393127bce3dad3 inherit pub_methods_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef3db235b8e28b8e2728cb0f2fb59053 inherit pub_methods_a21267"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#aef3db235b8e28b8e2728cb0f2fb59053">InitializeAI</a> () override</td></tr>
+<tr class="separator:aef3db235b8e28b8e2728cb0f2fb59053 inherit pub_methods_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8647797343650fcd4f6304bce3742883 inherit pub_methods_a21267"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">UpdateAI</a> (<a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
 <tr class="memdesc:a8647797343650fcd4f6304bce3742883 inherit pub_methods_a21267"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../dc/d9b/a21267.html#a16e7677aa9597dda938a67c51febde6c" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a>  <a href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">More...</a><br /></td></tr>
 <tr class="separator:a8647797343650fcd4f6304bce3742883 inherit pub_methods_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -694,8 +696,6 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pro_attribs_a21267"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a21267')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../dc/d9b/a21267.html">violet_hold_trashAI</a></td></tr>
 <tr class="memitem:a9ebdc7d8619de49dcd742a1c08005770 inherit pro_attribs_a21267"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d66/a10027.html">InstanceScript</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#a9ebdc7d8619de49dcd742a1c08005770">Instance</a></td></tr>
 <tr class="separator:a9ebdc7d8619de49dcd742a1c08005770 inherit pro_attribs_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a726bade10ce5bc233864240fafa65fc1 inherit pro_attribs_a21267"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#a726bade10ce5bc233864240fafa65fc1">AddedWaypoints</a></td></tr>
-<tr class="separator:a726bade10ce5bc233864240fafa65fc1 inherit pro_attribs_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17d81d130cfeff5b5ae0ee30c594f5ca inherit pro_attribs_a21267"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#a17d81d130cfeff5b5ae0ee30c594f5ca">PortalLoc</a></td></tr>
 <tr class="separator:a17d81d130cfeff5b5ae0ee30c594f5ca inherit pro_attribs_a21267"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa584f9f52bfc3e37a6d3a80958e51e48 inherit pro_attribs_a21267"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d9b/a21267.html#aa584f9f52bfc3e37a6d3a80958e51e48">UseAlternate</a></td></tr>
@@ -742,7 +742,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  609</span>: <a class="code hl_struct" href="../../dc/d9b/a21267.html">violet_hold_trashAI</a>(c) {}</div>
+<div class="fragment"><div class="line"><span class="lineno">  608</span>: <a class="code hl_struct" href="../../dc/d9b/a21267.html">violet_hold_trashAI</a>(c) {}</div>
 <div class="ttc" id="aa21267_html"><div class="ttname"><a href="../../dc/d9b/a21267.html">violet_hold_trashAI</a></div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:164</div></div>
 </div><!-- fragment -->
 </div>
@@ -772,16 +772,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../df/d2f/a06551.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  612</span>    {</div>
-<div class="line"><span class="lineno">  613</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#afd6b5b23aa26797b6de1275c70268808">Reset</a>();</div>
-<div class="line"><span class="lineno">  614</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a651b6c730aabef8d4eb176973442f190">RescheduleEvent</a>(<a class="code hl_enumvalue" href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a>, 1300ms);</div>
-<div class="line"><span class="lineno">  615</span>    }</div>
-<div class="ttc" id="aa01736_html_a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f"><div class="ttname"><a href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a></div><div class="ttdeci">@ EVENT_STALKER_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:604</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  611</span>    {</div>
+<div class="line"><span class="lineno">  612</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#afd6b5b23aa26797b6de1275c70268808">Reset</a>();</div>
+<div class="line"><span class="lineno">  613</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a651b6c730aabef8d4eb176973442f190">RescheduleEvent</a>(<a class="code hl_enumvalue" href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a>, 1300ms);</div>
+<div class="line"><span class="lineno">  614</span>    }</div>
+<div class="ttc" id="aa01736_html_a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f"><div class="ttname"><a href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a></div><div class="ttdeci">@ EVENT_STALKER_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:603</div></div>
 <div class="ttc" id="aa05779_html_a651b6c730aabef8d4eb176973442f190"><div class="ttname"><a href="../../d6/d64/a05779.html#a651b6c730aabef8d4eb176973442f190">EventMap::RescheduleEvent</a></div><div class="ttdeci">void RescheduleEvent(EventId eventId, Milliseconds time, GroupIndex group=0u, PhaseIndex phase=0u)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:70</div></div>
 <div class="ttc" id="aa05779_html_afd6b5b23aa26797b6de1275c70268808"><div class="ttname"><a href="../../d6/d64/a05779.html#afd6b5b23aa26797b6de1275c70268808">EventMap::Reset</a></div><div class="ttdeci">void Reset()</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:21</div></div>
-<div class="ttc" id="aa21287_html_ad83249d787d2f763ac2d01723ff305ef"><div class="ttname"><a href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">npc_azure_stalker::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:638</div></div>
+<div class="ttc" id="aa21287_html_ad83249d787d2f763ac2d01723ff305ef"><div class="ttname"><a href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">npc_azure_stalker::_events</a></div><div class="ttdeci">EventMap _events</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:637</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00638">_events</a>, <a class="el" href="../../#l00604">EVENT_STALKER_BACKSTAB</a>, <a class="el" href="../../#l00070">EventMap::RescheduleEvent()</a>, and <a class="el" href="../../#l00021">EventMap::Reset()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00637">_events</a>, <a class="el" href="../../#l00603">EVENT_STALKER_BACKSTAB</a>, <a class="el" href="../../#l00070">EventMap::RescheduleEvent()</a>, and <a class="el" href="../../#l00021">EventMap::Reset()</a>.</p>
 
 </div>
 </div>
@@ -812,25 +812,25 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../dc/d9b/a21267.html#a16e7677aa9597dda938a67c51febde6c" title="Called for reaction when initially engaged - this happens after JustEnteredCombat.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">violet_hold_trashAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  618</span>    {</div>
-<div class="line"><span class="lineno">  619</span>        <a class="code hl_function" href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">violet_hold_trashAI::UpdateAI</a>(diff);</div>
-<div class="line"><span class="lineno">  620</span> </div>
-<div class="line"><span class="lineno">  621</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d0/d94/a06507.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  622</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  623</span> </div>
-<div class="line"><span class="lineno">  624</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  625</span> </div>
-<div class="line"><span class="lineno">  626</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>() == <a class="code hl_enumvalue" href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a>)</div>
-<div class="line"><span class="lineno">  627</span>        {</div>
-<div class="line"><span class="lineno">  628</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../df/d24/a06495.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::MaxDistance, 0, 5.0f, <span class="keyword">true</span>))</div>
-<div class="line"><span class="lineno">  629</span>                <span class="keywordflow">if</span> (!target-&gt;HasInArc(M_PI, <a class="code hl_variable" href="../../df/d2f/a06551.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>))</div>
-<div class="line"><span class="lineno">  630</span>                    <a class="code hl_function" href="../../df/d24/a06495.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../de/daf/a01736.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a>);</div>
-<div class="line"><span class="lineno">  631</span>            <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a34b5df29c85bce0873752b353a13fe5b">Repeat</a>(4s);</div>
-<div class="line"><span class="lineno">  632</span>        }</div>
-<div class="line"><span class="lineno">  633</span> </div>
-<div class="line"><span class="lineno">  634</span>        <a class="code hl_function" href="../../df/d24/a06495.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  635</span>    }</div>
-<div class="ttc" id="aa01736_html_a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68"><div class="ttname"><a href="../../de/daf/a01736.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a></div><div class="ttdeci">@ SPELL_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:364</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  617</span>    {</div>
+<div class="line"><span class="lineno">  618</span>        <a class="code hl_function" href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">violet_hold_trashAI::UpdateAI</a>(diff);</div>
+<div class="line"><span class="lineno">  619</span> </div>
+<div class="line"><span class="lineno">  620</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d0/d94/a06507.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  621</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  622</span> </div>
+<div class="line"><span class="lineno">  623</span>        <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(diff);</div>
+<div class="line"><span class="lineno">  624</span> </div>
+<div class="line"><span class="lineno">  625</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a>() == <a class="code hl_enumvalue" href="../../de/daf/a01736.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f">EVENT_STALKER_BACKSTAB</a>)</div>
+<div class="line"><span class="lineno">  626</span>        {</div>
+<div class="line"><span class="lineno">  627</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../df/d24/a06495.html#ac5b181f1036962caaf140369b22e807b">SelectTarget</a>(SelectTargetMethod::MaxDistance, 0, 5.0f, <span class="keyword">true</span>))</div>
+<div class="line"><span class="lineno">  628</span>                <span class="keywordflow">if</span> (!target-&gt;HasInArc(M_PI, <a class="code hl_variable" href="../../df/d2f/a06551.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>))</div>
+<div class="line"><span class="lineno">  629</span>                    <a class="code hl_function" href="../../df/d24/a06495.html#aeebcad9b6effa45145c50f06af60b23d">DoCast</a>(target, <a class="code hl_enumvalue" href="../../de/daf/a01736.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a>);</div>
+<div class="line"><span class="lineno">  630</span>            <a class="code hl_variable" href="../../d3/d33/a21287.html#ad83249d787d2f763ac2d01723ff305ef">_events</a>.<a class="code hl_function" href="../../d6/d64/a05779.html#a34b5df29c85bce0873752b353a13fe5b">Repeat</a>(4s);</div>
+<div class="line"><span class="lineno">  631</span>        }</div>
+<div class="line"><span class="lineno">  632</span> </div>
+<div class="line"><span class="lineno">  633</span>        <a class="code hl_function" href="../../df/d24/a06495.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  634</span>    }</div>
+<div class="ttc" id="aa01736_html_a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68"><div class="ttname"><a href="../../de/daf/a01736.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68">SPELL_BACKSTAB</a></div><div class="ttdeci">@ SPELL_BACKSTAB</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:363</div></div>
 <div class="ttc" id="aa05779_html_a33ba1058edd639c98258ba3e123ac2f9"><div class="ttname"><a href="../../d6/d64/a05779.html#a33ba1058edd639c98258ba3e123ac2f9">EventMap::Update</a></div><div class="ttdeci">void Update(uint32 time)</div><div class="ttdef"><b>Definition:</b> EventMap.h:67</div></div>
 <div class="ttc" id="aa05779_html_a34b5df29c85bce0873752b353a13fe5b"><div class="ttname"><a href="../../d6/d64/a05779.html#a34b5df29c85bce0873752b353a13fe5b">EventMap::Repeat</a></div><div class="ttdeci">void Repeat(Milliseconds time)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:76</div></div>
 <div class="ttc" id="aa05779_html_a435dd6db2c6fbbaf80467b7a617c4237"><div class="ttname"><a href="../../d6/d64/a05779.html#a435dd6db2c6fbbaf80467b7a617c4237">EventMap::ExecuteEvent</a></div><div class="ttdeci">EventId ExecuteEvent()</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:86</div></div>
@@ -840,9 +840,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06507_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d0/d94/a06507.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:350</div></div>
 <div class="ttc" id="aa06551_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../df/d2f/a06551.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:281</div></div>
 <div class="ttc" id="aa09103_html"><div class="ttname"><a href="../../d9/d6a/a09103.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
-<div class="ttc" id="aa21267_html_a8647797343650fcd4f6304bce3742883"><div class="ttname"><a href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">violet_hold_trashAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:212</div></div>
+<div class="ttc" id="aa21267_html_a8647797343650fcd4f6304bce3742883"><div class="ttname"><a href="../../dc/d9b/a21267.html#a8647797343650fcd4f6304bce3742883">violet_hold_trashAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> violet_hold.cpp:262</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00638">_events</a>, <a class="el" href="../../#l00178">UnitAI::DoCast()</a>, <a class="el" href="../../#l00040">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00604">EVENT_STALKER_BACKSTAB</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00076">EventMap::Repeat()</a>, <a class="el" href="../../#l00111">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00364">SPELL_BACKSTAB</a>, <a class="el" href="../../#l00067">EventMap::Update()</a>, <a class="el" href="../../#l00212">violet_hold_trashAI::UpdateAI()</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00637">_events</a>, <a class="el" href="../../#l00178">UnitAI::DoCast()</a>, <a class="el" href="../../#l00040">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00603">EVENT_STALKER_BACKSTAB</a>, <a class="el" href="../../#l00086">EventMap::ExecuteEvent()</a>, <a class="el" href="../../#l00281">ScriptedAI::me</a>, <a class="el" href="../../#l00076">EventMap::Repeat()</a>, <a class="el" href="../../#l00111">UnitAI::SelectTarget()</a>, <a class="el" href="../../#l00363">SPELL_BACKSTAB</a>, <a class="el" href="../../#l00067">EventMap::Update()</a>, <a class="el" href="../../#l00262">violet_hold_trashAI::UpdateAI()</a>, and <a class="el" href="../../#l00350">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -867,7 +867,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00611">Reset()</a>, and <a class="el" href="../../#l00617">UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00610">Reset()</a>, and <a class="el" href="../../#l00616">UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -877,7 +877,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d33/a21287.html">npc_azure_stalker</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:26:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:56:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,8 @@
 var a24195 =
 [
-    [ "CheckProc", "db/d3c/a24195.html#a5c7245398c005a133576493366010e58", null ],
-    [ "PrepareAuraScript", "db/d3c/a24195.html#ac2a2d20470e7fa3df8491c7c81330a52", null ],
-    [ "Register", "db/d3c/a24195.html#a4f6bcdb58b02d351aee9efcd37af3492", null ]
+    [ "CheckProc", "db/d3c/a24195.html#a8875c54a3cae852681a389c8777f25bb", null ],
+    [ "HandleProc", "db/d3c/a24195.html#aa4025d668080ba03af23abbb3a461758", null ],
+    [ "PrepareAuraScript", "db/d3c/a24195.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
+    [ "Register", "db/d3c/a24195.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
+    [ "Validate", "db/d3c/a24195.html#a38cdd5d8346797e53ed82be598df48cd", null ]
 ];

@@ -1,9 +1,6 @@
 var a22235 =
 [
-    [ "npc_crusade_recruitAI", "d8/d37/a22235.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "d8/d37/a22235.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "d8/d37/a22235.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "d8/d37/a22235.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "d8/d37/a22235.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "d8/d37/a22235.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "npc_released_offspring_harkoaAI", "d8/d37/a22235.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d8/d37/a22235.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d8/d37/a22235.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

@@ -169,9 +169,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  675</span>: <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>(obj), <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09667_html_a182fbf6b5cc68fb0eba6be26568c9d78"><div class="ttname"><a href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">Acore::NearestGameObjectFishingHole::i_obj</a></div><div class="ttdeci">WorldObject const  &amp; i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:686</div></div>
-<div class="ttc" id="aa09667_html_af27a870fb654a130bf1e4ac1472fdffc"><div class="ttname"><a href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">Acore::NearestGameObjectFishingHole::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:687</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  705</span>: <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>(obj), <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09667_html_a182fbf6b5cc68fb0eba6be26568c9d78"><div class="ttname"><a href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">Acore::NearestGameObjectFishingHole::i_obj</a></div><div class="ttdeci">WorldObject const  &amp; i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:716</div></div>
+<div class="ttc" id="aa09667_html_af27a870fb654a130bf1e4ac1472fdffc"><div class="ttname"><a href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">Acore::NearestGameObjectFishingHole::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:717</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -225,14 +225,14 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  677</span>        {</div>
-<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/d06/a08527.html#a1c78664b7272010dac83e9f4ea132330">type</a> == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc">GAMEOBJECT_TYPE_FISHINGHOLE</a> &amp;&amp; go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>() &amp;&amp; <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(go, <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>) &amp;&amp; <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(go, (<span class="keywordtype">float</span>)go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/d06/a08527.html#a757eff6df7760da0e10bc78a7a55fa3d">fishinghole</a>.<a class="code hl_variable" href="../../d4/d06/a08527.html#a303ebbf7423f0f937bd81f5e4039dede">radius</a>))</div>
-<div class="line"><span class="lineno">  679</span>            {</div>
-<div class="line"><span class="lineno">  680</span>                <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a> = <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(go);</div>
-<div class="line"><span class="lineno">  681</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  682</span>            }</div>
-<div class="line"><span class="lineno">  683</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  684</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  707</span>        {</div>
+<div class="line"><span class="lineno">  708</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/d06/a08527.html#a1c78664b7272010dac83e9f4ea132330">type</a> == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc">GAMEOBJECT_TYPE_FISHINGHOLE</a> &amp;&amp; go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>() &amp;&amp; <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(go, <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a>) &amp;&amp; <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(go, (<span class="keywordtype">float</span>)go-&gt;<a class="code hl_function" href="../../d1/d86/a08523.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../d4/d06/a08527.html#a757eff6df7760da0e10bc78a7a55fa3d">fishinghole</a>.<a class="code hl_variable" href="../../d4/d06/a08527.html#a303ebbf7423f0f937bd81f5e4039dede">radius</a>))</div>
+<div class="line"><span class="lineno">  709</span>            {</div>
+<div class="line"><span class="lineno">  710</span>                <a class="code hl_variable" href="../../db/dc7/a09667.html#af27a870fb654a130bf1e4ac1472fdffc">i_range</a> = <a class="code hl_variable" href="../../db/dc7/a09667.html#a182fbf6b5cc68fb0eba6be26568c9d78">i_obj</a>.<a class="code hl_function" href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(go);</div>
+<div class="line"><span class="lineno">  711</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  712</span>            }</div>
+<div class="line"><span class="lineno">  713</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  714</span>        }</div>
 <div class="ttc" id="aa02273_html_a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc"><div class="ttname"><a href="../../d7/d6e/a02273.html#a0233096c29a8a39f15373e06434985f9a621022b3f9bd3e04f5e7221e7aaf44bc">GAMEOBJECT_TYPE_FISHINGHOLE</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_FISHINGHOLE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1589</div></div>
 <div class="ttc" id="aa08523_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d1/d86/a08523.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
 <div class="ttc" id="aa08523_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d1/d86/a08523.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:190</div></div>
@@ -242,7 +242,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08755_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1377</div></div>
 <div class="ttc" id="aa08755_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1295</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d4/d06/a08527.html#a757eff6df7760da0e10bc78a7a55fa3d">GameObjectTemplate::fishinghole</a>, <a class="el" href="../../#l01589">GAMEOBJECT_TYPE_FISHINGHOLE</a>, <a class="el" href="../../#l01295">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00686">i_obj</a>, <a class="el" href="../../#l00687">i_range</a>, <a class="el" href="../../#l00190">GameObject::isSpawned()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00197">GameObjectTemplate::radius</a>, and <a class="el" href="../../#l00034">GameObjectTemplate::type</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/d06/a08527.html#a757eff6df7760da0e10bc78a7a55fa3d">GameObjectTemplate::fishinghole</a>, <a class="el" href="../../#l01589">GAMEOBJECT_TYPE_FISHINGHOLE</a>, <a class="el" href="../../#l01295">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00716">i_obj</a>, <a class="el" href="../../#l00717">i_range</a>, <a class="el" href="../../#l00190">GameObject::isSpawned()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00197">GameObjectTemplate::radius</a>, and <a class="el" href="../../#l00034">GameObjectTemplate::type</a>.</p>
 
 </div>
 </div>
@@ -267,7 +267,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00676">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00706">operator()()</a>.</p>
 
 </div>
 </div>
@@ -291,7 +291,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00676">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00706">operator()()</a>.</p>
 
 </div>
 </div>
@@ -301,7 +301,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d61/a05043.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/dc7/a09667.html">NearestGameObjectFishingHole</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

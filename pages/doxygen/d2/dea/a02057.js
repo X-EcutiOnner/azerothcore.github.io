@@ -28,6 +28,8 @@ var a02057 =
     [ "spell_player_mount_wyrm", "dc/dd6/a22115.html", "dc/dd6/a22115" ],
     [ "spell_eject_passenger_wild_wyrm", "d6/dbb/a22119.html", "d6/dbb/a22119" ],
     [ "npc_oathbound_warder", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
+    [ "spell_q13010_jokkum_summon", "d8/d0f/a22127.html", "d8/d0f/a22127" ],
+    [ "spell_riding_jokkum", "db/d24/a22131.html", "db/d24/a22131" ],
     [ "BrunnhildarPrisoner", "d2/dea/a02057.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "d2/dea/a02057.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "d2/dea/a02057.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
@@ -63,6 +65,9 @@ var a02057 =
       [ "SPELL_KILL_CREDIT_DRAKE", "d2/dea/a02057.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
       [ "EVENT_CHECK_AREA", "d2/dea/a02057.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
       [ "EVENT_REACHED_HOME", "d2/dea/a02057.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
+    ] ],
+    [ "KingJokkum", "d2/dea/a02057.html#aa0f23fadd5737491d84ef69769e71e80", [
+      [ "NPC_KING_JOKKUM", "d2/dea/a02057.html#aa0f23fadd5737491d84ef69769e71e80aa5ea587c46b5026856102005619319f9", null ]
     ] ],
     [ "MammothExplosion", "d2/dea/a02057.html#a277341b2a5fcfa1e770f75bc37d7d757", [
       [ "SPELL_MAMMOTH_EXPL_1", "d2/dea/a02057.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583", null ],

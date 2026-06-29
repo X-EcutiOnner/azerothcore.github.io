@@ -1,9 +1,5 @@
 var a29567 =
 [
-    [ "CountQuestOnCreature", "d5/d15/a29567.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d5/d15/a29567.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d5/d15/a29567.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d5/d15/a29567.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d5/d15/a29567.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d5/d15/a29567.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "MakeTime", "d5/d15/a29567.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
+    [ "PackTwoDates", "d5/d15/a29567.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
 ];

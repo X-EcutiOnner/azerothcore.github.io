@@ -149,8 +149,8 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>: <a class="code hl_variable" href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">_source</a>(source) { }</div>
-<div class="ttc" id="aa17707_html_af23a69491c915909566249b109b1f0e8"><div class="ttname"><a href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">VampiricBiteTargetSelector::_source</a></div><div class="ttdeci">Creature const  * _source</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:146</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  132</span>: <a class="code hl_variable" href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">_source</a>(source) { }</div>
+<div class="ttc" id="aa17707_html_af23a69491c915909566249b109b1f0e8"><div class="ttname"><a href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">VampiricBiteTargetSelector::_source</a></div><div class="ttdeci">Creature const  * _source</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:151</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -178,26 +178,26 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  129</span>    {</div>
-<div class="line"><span class="lineno">  130</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  131</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  132</span> </div>
-<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">if</span> (!target-&gt;IsPlayer())</div>
-<div class="line"><span class="lineno">  134</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  135</span> </div>
-<div class="line"><span class="lineno">  136</span>        <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d9b/a01889.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a>))</div>
-<div class="line"><span class="lineno">  137</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  138</span> </div>
-<div class="line"><span class="lineno">  139</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/d9b/a01889.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a>(target))</div>
-<div class="line"><span class="lineno">  140</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  141</span> </div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> target != <a class="code hl_variable" href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">_source</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
-<div class="line"><span class="lineno">  143</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>    {</div>
+<div class="line"><span class="lineno">  135</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  136</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  137</span> </div>
+<div class="line"><span class="lineno">  138</span>        <span class="keywordflow">if</span> (!target-&gt;IsPlayer())</div>
+<div class="line"><span class="lineno">  139</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>        <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d9/d9b/a01889.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a>))</div>
+<div class="line"><span class="lineno">  142</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  143</span> </div>
+<div class="line"><span class="lineno">  144</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/d9b/a01889.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a>(target))</div>
+<div class="line"><span class="lineno">  145</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  146</span> </div>
+<div class="line"><span class="lineno">  147</span>        <span class="keywordflow">return</span> target != <a class="code hl_variable" href="../../d5/d1e/a17707.html#af23a69491c915909566249b109b1f0e8">_source</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>();</div>
+<div class="line"><span class="lineno">  148</span>    }</div>
 <div class="ttc" id="aa01889_html_a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455"><div class="ttname"><a href="../../d9/d9b/a01889.html#a5bd342133be8c2137b831460acc9298cad7478b442fe070fc8de3634e2ffd8455">SPELL_BLOOD_MIRROR_DAMAGE</a></div><div class="ttdeci">@ SPELL_BLOOD_MIRROR_DAMAGE</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:60</div></div>
 <div class="ttc" id="aa01889_html_a5dd8666b4a520a91ee7430a7b67a34a8"><div class="ttname"><a href="../../d9/d9b/a01889.html#a5dd8666b4a520a91ee7430a7b67a34a8">IsVampire</a></div><div class="ttdeci">bool IsVampire(Unit const *unit)</div><div class="ttdef"><b>Definition:</b> boss_blood_queen_lana_thel.cpp:84</div></div>
 <div class="ttc" id="aa09103_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../d9/d6a/a09103.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:903</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00146">_source</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l06006">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00084">IsVampire()</a>, and <a class="el" href="../../#l00060">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00151">_source</a>, <a class="el" href="../../#l00903">Unit::GetVictim()</a>, <a class="el" href="../../#l06017">Unit::HasAura()</a>, <a class="el" href="../../#l00201">Object::IsPlayer()</a>, <a class="el" href="../../#l00084">IsVampire()</a>, and <a class="el" href="../../#l00060">SPELL_BLOOD_MIRROR_DAMAGE</a>.</p>
 
 </div>
 </div>
@@ -222,7 +222,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00128">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00133">operator()()</a>.</p>
 
 </div>
 </div>
@@ -232,7 +232,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d1e/a17707.html">VampiricBiteTargetSelector</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

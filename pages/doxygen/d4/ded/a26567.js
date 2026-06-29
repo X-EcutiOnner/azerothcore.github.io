@@ -1,8 +1,11 @@
 var a26567 =
 [
-    [ "CheckCast", "d4/ded/a26567.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d4/ded/a26567.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d4/ded/a26567.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d4/ded/a26567.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d4/ded/a26567.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "CheckProc", "d4/ded/a26567.html#aeeb075a2dcaf57b328e4196959c40390", null ],
+    [ "HandleApplyDoT", "d4/ded/a26567.html#a4f832f97ae2f777c659876e20b7515a5", null ],
+    [ "HandleSeal", "d4/ded/a26567.html#aca82977aa1ee943bc557a76d09dba147", null ],
+    [ "Load", "d4/ded/a26567.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
+    [ "PrepareAuraScript", "d4/ded/a26567.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
+    [ "Register", "d4/ded/a26567.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
+    [ "Validate", "d4/ded/a26567.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
+    [ "_isVengeance", "d4/ded/a26567.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
 ];

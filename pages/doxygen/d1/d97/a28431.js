@@ -1,7 +1,4 @@
 var a28431 =
 [
-    [ "HandleDummy", "d1/d97/a28431.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d1/d97/a28431.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d1/d97/a28431.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d1/d97/a28431.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "operator()", "d1/d97/a28431.html#a76ede7ef27a41a284821e690c88375c9", null ]
 ];

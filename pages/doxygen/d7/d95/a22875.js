@@ -1,7 +1,11 @@
 var a22875 =
 [
-    [ "HandleProc", "d7/d95/a22875.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d7/d95/a22875.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d7/d95/a22875.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d7/d95/a22875.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "boss_doomlordkazzakAI", "d7/d95/a22875.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d7/d95/a22875.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d7/d95/a22875.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d7/d95/a22875.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d7/d95/a22875.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d7/d95/a22875.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d7/d95/a22875.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d7/d95/a22875.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

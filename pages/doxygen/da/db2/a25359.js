@@ -1,6 +1,6 @@
 var a25359 =
 [
-    [ "CalculateAmount", "da/db2/a25359.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "da/db2/a25359.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "da/db2/a25359.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "FilterTargets", "da/db2/a25359.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
+    [ "PrepareSpellScript", "da/db2/a25359.html#a9fb910382c89750e38cb36bed48a1597", null ],
+    [ "Register", "da/db2/a25359.html#a667b10129d2d23f72712be523dc93180", null ]
 ];

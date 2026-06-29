@@ -55,7 +55,7 @@ var searchData=
   ['smartaieventstoredlist_52',['SmartAIEventStoredList',['../d4/db0/a02540.html#a9bf01cc8325bd669dff76a3545290fe4',1,'SmartScriptMgr.h']]],
   ['smarteventconditioncontainer_53',['SmartEventConditionContainer',['../d4/dd6/a04031.html#abdfa94c93c90adfe4347841af180cbec',1,'ConditionMgr.h']]],
   ['socialmap_54',['SocialMap',['../dc/dbe/a09003.html#a2b80fa18a6f1ed54fda7719867f45ebd',1,'SocialMgr']]],
-  ['socketcontainer_55',['SocketContainer',['../d3/d0e/a29195.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
+  ['socketcontainer_55',['SocketContainer',['../d8/d40/a29203.html#afecfc2ddefae1d1dca0f74e36695a748',1,'NetworkThread']]],
   ['sortableauctionentrieslist_56',['SortableAuctionEntriesList',['../dd/d8c/a04151.html#a7d6d8287b2adf4a3caae16ed69a8519d',1,'AuctionHouseSearcher.h']]],
   ['spawngroupdatacontainer_57',['SpawnGroupDataContainer',['../d1/d7f/a04229.html#ad1103677498d37a9ec53288ef573bde7',1,'ObjectMgr.h']]],
   ['spawngrouplinkcontainer_58',['SpawnGroupLinkContainer',['../d1/d7f/a04229.html#a18f011003cb13fbe968e6a2ede3e64d3',1,'ObjectMgr.h']]],

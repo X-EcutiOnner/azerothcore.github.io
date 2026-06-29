@@ -1,6 +1,8 @@
 var a27211 =
 [
-    [ "FilterTargets", "dc/d00/a27211.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "dc/d00/a27211.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "dc/d00/a27211.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "Apply", "dc/d00/a27211.html#ac3145df90b6b179fece1c76da114e395", null ],
+    [ "HandleEffectPeriodic", "dc/d00/a27211.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
+    [ "PrepareAuraScript", "dc/d00/a27211.html#aa911ba0b5a13a933bf50a072799a040f", null ],
+    [ "Register", "dc/d00/a27211.html#ae0dff9b5002d3d3361d794a75645057f", null ],
+    [ "Validate", "dc/d00/a27211.html#ad81184b508474a89fbafc63594ef0ab1", null ]
 ];

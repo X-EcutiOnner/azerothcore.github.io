@@ -177,10 +177,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1049</span>: <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>(obj), <a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>(funit), <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09731_html_a26242657d6f2eb61d6f8fcac30357381"><div class="ttname"><a href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">Acore::NearestAttackableUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1064</div></div>
-<div class="ttc" id="aa09731_html_a6c1c4e5b85f6f7958578afb6c6f2af98"><div class="ttname"><a href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">Acore::NearestAttackableUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1062</div></div>
-<div class="ttc" id="aa09731_html_a88be7342d10008fc394f21b9a5e14162"><div class="ttname"><a href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">Acore::NearestAttackableUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1063</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1079</span>: <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>(obj), <a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>(funit), <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09731_html_a26242657d6f2eb61d6f8fcac30357381"><div class="ttname"><a href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">Acore::NearestAttackableUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1094</div></div>
+<div class="ttc" id="aa09731_html_a6c1c4e5b85f6f7958578afb6c6f2af98"><div class="ttname"><a href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">Acore::NearestAttackableUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1092</div></div>
+<div class="ttc" id="aa09731_html_a88be7342d10008fc394f21b9a5e14162"><div class="ttname"><a href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">Acore::NearestAttackableUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1093</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -234,24 +234,24 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1051</span>        {</div>
-<div class="line"><span class="lineno"> 1052</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>) &amp;&amp; <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a>) &amp;&amp;</div>
-<div class="line"><span class="lineno"> 1053</span>                (<a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a68a9e0165b55b9958eb1a91c44b436b0">IsInCombatWith</a>(u) || u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(<a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>)) &amp;&amp; <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u))</div>
-<div class="line"><span class="lineno"> 1054</span>            {</div>
-<div class="line"><span class="lineno"> 1055</span>                <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a> = <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(u);        <span class="comment">// use found unit range as new range limit for next check</span></div>
-<div class="line"><span class="lineno"> 1056</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1057</span>            }</div>
-<div class="line"><span class="lineno"> 1058</span> </div>
-<div class="line"><span class="lineno"> 1059</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1060</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1081</span>        {</div>
+<div class="line"><span class="lineno"> 1082</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">true</span>, <a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>) &amp;&amp; <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a>) &amp;&amp;</div>
+<div class="line"><span class="lineno"> 1083</span>                (<a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a68a9e0165b55b9958eb1a91c44b436b0">IsInCombatWith</a>(u) || u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(<a class="code hl_variable" href="../../d4/dd2/a09731.html#a88be7342d10008fc394f21b9a5e14162">i_funit</a>)) &amp;&amp; <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#addeafb9ef860ca79c7a6570ae75a4bd0">CanSeeOrDetect</a>(u))</div>
+<div class="line"><span class="lineno"> 1084</span>            {</div>
+<div class="line"><span class="lineno"> 1085</span>                <a class="code hl_variable" href="../../d4/dd2/a09731.html#a26242657d6f2eb61d6f8fcac30357381">i_range</a> = <a class="code hl_variable" href="../../d4/dd2/a09731.html#a6c1c4e5b85f6f7958578afb6c6f2af98">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(u);        <span class="comment">// use found unit range as new range limit for next check</span></div>
+<div class="line"><span class="lineno"> 1086</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1087</span>            }</div>
+<div class="line"><span class="lineno"> 1088</span> </div>
+<div class="line"><span class="lineno"> 1089</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1090</span>        }</div>
 <div class="ttc" id="aa08755_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1377</div></div>
 <div class="ttc" id="aa08755_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../d0/dbd/a08755.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1295</div></div>
 <div class="ttc" id="aa08755_html_addeafb9ef860ca79c7a6570ae75a4bd0"><div class="ttname"><a href="../../d0/dbd/a08755.html#addeafb9ef860ca79c7a6570ae75a4bd0">WorldObject::CanSeeOrDetect</a></div><div class="ttdeci">bool CanSeeOrDetect(WorldObject const *obj, bool ignoreStealth=false, bool distanceCheck=false, bool checkAlert=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1756</div></div>
-<div class="ttc" id="aa09103_html_a68a9e0165b55b9958eb1a91c44b436b0"><div class="ttname"><a href="../../d9/d6a/a09103.html#a68a9e0165b55b9958eb1a91c44b436b0">Unit::IsInCombatWith</a></div><div class="ttdeci">bool IsInCombatWith(Unit const *who) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17099</div></div>
-<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10733</div></div>
-<div class="ttc" id="aa09103_html_ae8d112bd8c9cc28d1186e773945291b6"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae8d112bd8c9cc28d1186e773945291b6">Unit::IsHostileTo</a></div><div class="ttdeci">bool IsHostileTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7260</div></div>
+<div class="ttc" id="aa09103_html_a68a9e0165b55b9958eb1a91c44b436b0"><div class="ttname"><a href="../../d9/d6a/a09103.html#a68a9e0165b55b9958eb1a91c44b436b0">Unit::IsInCombatWith</a></div><div class="ttdeci">bool IsInCombatWith(Unit const *who) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:17110</div></div>
+<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10744</div></div>
+<div class="ttc" id="aa09103_html_ae8d112bd8c9cc28d1186e773945291b6"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae8d112bd8c9cc28d1186e773945291b6">Unit::IsHostileTo</a></div><div class="ttdeci">bool IsHostileTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7271</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01756">WorldObject::CanSeeOrDetect()</a>, <a class="el" href="../../#l01295">WorldObject::GetDistance()</a>, <a class="el" href="../../#l01063">i_funit</a>, <a class="el" href="../../#l01062">i_obj</a>, <a class="el" href="../../#l01064">i_range</a>, <a class="el" href="../../#l07260">Unit::IsHostileTo()</a>, <a class="el" href="../../#l17099">Unit::IsInCombatWith()</a>, <a class="el" href="../../#l10733">Unit::isTargetableForAttack()</a>, and <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01756">WorldObject::CanSeeOrDetect()</a>, <a class="el" href="../../#l01295">WorldObject::GetDistance()</a>, <a class="el" href="../../#l01093">i_funit</a>, <a class="el" href="../../#l01092">i_obj</a>, <a class="el" href="../../#l01094">i_range</a>, <a class="el" href="../../#l07271">Unit::IsHostileTo()</a>, <a class="el" href="../../#l17110">Unit::IsInCombatWith()</a>, <a class="el" href="../../#l10744">Unit::isTargetableForAttack()</a>, and <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -276,7 +276,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01050">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01080">operator()()</a>.</p>
 
 </div>
 </div>
@@ -300,7 +300,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01050">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01080">operator()()</a>.</p>
 
 </div>
 </div>
@@ -324,7 +324,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01050">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01080">operator()()</a>.</p>
 
 </div>
 </div>
@@ -334,7 +334,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d61/a05043.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/dd2/a09731.html">NearestAttackableUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

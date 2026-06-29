@@ -1,13 +1,6 @@
 var a29331 =
 [
-    [ "attackType", "dc/de1/a29331.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "dc/de1/a29331.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "dc/de1/a29331.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "dc/de1/a29331.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "dc/de1/a29331.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "dc/de1/a29331.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "dc/de1/a29331.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "dc/de1/a29331.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "dc/de1/a29331.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "dc/de1/a29331.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "lastExtraAttackSpell", "dc/de1/a29331.html#a0b7c47a0c1a328703648936a1da3245f", null ],
+    [ "triggeredSpellHasExtraAttacks", "dc/de1/a29331.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
+    [ "triggerSpellId", "dc/de1/a29331.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
 ];

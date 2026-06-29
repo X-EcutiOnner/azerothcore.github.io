@@ -1,5 +1,5 @@
 var a27791 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "de/d77/a27791.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "de/d77/a27791.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "AreaTrigger_at_legion_teleporter", "de/d77/a27791.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "de/d77/a27791.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

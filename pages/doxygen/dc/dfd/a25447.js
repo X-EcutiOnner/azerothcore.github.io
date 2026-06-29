@@ -1,6 +1,6 @@
 var a25447 =
 [
-    [ "CheckCast", "dc/dfd/a25447.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
-    [ "PrepareSpellScript", "dc/dfd/a25447.html#ad6867dad8bda358bd1479935c80b82e7", null ],
-    [ "Register", "dc/dfd/a25447.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
+    [ "HandleStackDrop", "dc/dfd/a25447.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "dc/dfd/a25447.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "dc/dfd/a25447.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

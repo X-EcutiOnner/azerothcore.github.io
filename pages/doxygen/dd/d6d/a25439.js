@@ -1,6 +1,6 @@
 var a25439 =
 [
-    [ "HandleStackDrop", "dd/d6d/a25439.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "dd/d6d/a25439.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "dd/d6d/a25439.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "OnRemove", "dd/d6d/a25439.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "dd/d6d/a25439.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "dd/d6d/a25439.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

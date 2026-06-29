@@ -1,5 +1,4 @@
 var a29591 =
 [
-    [ "aura", "da/d0e/a29591.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
-    [ "effect", "da/d0e/a29591.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
+    [ "MakeConfig", "da/d0e/a29591.html#a4497365ace6ba22681024b5d3cb745c8", null ]
 ];

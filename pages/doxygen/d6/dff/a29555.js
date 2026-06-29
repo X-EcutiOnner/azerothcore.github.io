@@ -1,6 +1,6 @@
 var a29555 =
 [
-    [ "ExpectDate", "d6/dff/a29555.html#a98d1b0446f1db9a0e25ad93b40d7d7a0", null ],
-    [ "IsLeapYear", "d6/dff/a29555.html#af80c133dce034eed150593681fba594d", null ],
-    [ "IsValidDate", "d6/dff/a29555.html#af1ee91196bfb749605bf98f4441a03a4", null ]
+    [ "ForceInitValues", "d6/dff/a29555.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "d6/dff/a29555.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "d6/dff/a29555.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

@@ -1,7 +1,8 @@
 var a22563 =
 [
-    [ "HandleScriptEffect", "d1/d91/a22563.html#a16f131e42272bc75c99df2a9cf43470e", null ],
-    [ "PrepareSpellScript", "d1/d91/a22563.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
-    [ "Register", "d1/d91/a22563.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
-    [ "Validate", "d1/d91/a22563.html#a58ff628906f3077a354ed486d3c56d23", null ]
+    [ "Load", "d1/d91/a22563.html#a4ff26763f05b07d882cd8d209464910e", null ],
+    [ "OnPeriodic", "d1/d91/a22563.html#a3e3bb503a6b5f90741a4df668851accf", null ],
+    [ "PrepareAuraScript", "d1/d91/a22563.html#a4126d35669859963f10ed1425a054298", null ],
+    [ "Register", "d1/d91/a22563.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
+    [ "Validate", "d1/d91/a22563.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
 ];

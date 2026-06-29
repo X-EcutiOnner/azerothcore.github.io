@@ -1,8 +1,6 @@
 var a27507 =
 [
-    [ "ApplyEffect", "df/d36/a27507.html#ad29ed182a00516e736bb8d1381f4ac84", null ],
-    [ "HandleEffectPeriodicUpdate", "df/d36/a27507.html#ad5319328c018dbb3ddbd58bfc08589c4", null ],
-    [ "PrepareAuraScript", "df/d36/a27507.html#a7673ff384e88fa76efa52ecb60b97d9b", null ],
-    [ "Register", "df/d36/a27507.html#ade5af0ec82bc43d89919ceaaa31bce20", null ],
-    [ "_tick_amount", "df/d36/a27507.html#a33d9f114efa50a2fdfe7a17852a474f7", null ]
+    [ "PrepareAuraScript", "df/d36/a27507.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "df/d36/a27507.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "df/d36/a27507.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

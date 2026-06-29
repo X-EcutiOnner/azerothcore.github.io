@@ -1,10 +1,7 @@
 var a24515 =
 [
-    [ "CalculateAPAmount", "d9/d5c/a24515.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
-    [ "CalculateResistanceAmount", "d9/d5c/a24515.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
-    [ "CalculateSPAmount", "d9/d5c/a24515.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
-    [ "CalculateStatAmount", "d9/d5c/a24515.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
-    [ "HandleEffectApply", "d9/d5c/a24515.html#aeebb14424a6ae336edd4b66d824d648a", null ],
-    [ "PrepareAuraScript", "d9/d5c/a24515.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
-    [ "Register", "d9/d5c/a24515.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
+    [ "OnRemove", "d9/d5c/a24515.html#aae9f02415a256ce01b81c3dd6fdafb33", null ],
+    [ "PrepareAuraScript", "d9/d5c/a24515.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "d9/d5c/a24515.html#a6c105609c1ee61a8f845018550b2e3ba", null ],
+    [ "Validate", "d9/d5c/a24515.html#ac1f03d22c5fdb1c07a0e0859e08bd561", null ]
 ];

@@ -1,6 +1,5 @@
 var a27807 =
 [
-    [ "AreaTrigger_at_brewfest", "d9/d6e/a27807.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "d9/d6e/a27807.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "d9/d6e/a27807.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "AreaTrigger_at_nats_landing", "d9/d6e/a27807.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d9/d6e/a27807.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

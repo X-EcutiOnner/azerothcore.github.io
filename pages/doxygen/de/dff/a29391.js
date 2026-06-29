@@ -1,8 +1,10 @@
 var a29391 =
 [
-    [ "bp0", "de/dff/a29391.html#ada8e047c960181610ff1942cbdfa2e27", null ],
-    [ "bp1", "de/dff/a29391.html#aaf81afde542db481bde1e26fcc21b945", null ],
-    [ "bp2", "de/dff/a29391.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
-    [ "spellId", "de/dff/a29391.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
-    [ "triggered", "de/dff/a29391.html#a0ee8feba0856c5497612e15128ba8273", null ]
+    [ "TestMap", "de/dff/a29391.html#aca5be96dac80e8b0cd031a689f6cad66", null ],
+    [ "~TestMap", "de/dff/a29391.html#a7175511302d9c67cce7b870ec70551de", null ],
+    [ "EnsureDBC", "de/dff/a29391.html#a2a117f615eafa6336e09defee91574b5", null ],
+    [ "SetIsDungeon", "de/dff/a29391.html#afa3e639a3a6b54c4efa917008400c37b", null ],
+    [ "SetIsRaid", "de/dff/a29391.html#ae577d4dc38ec92f11fab263d28455213", null ],
+    [ "SetMapType", "de/dff/a29391.html#a19013737f70a4d2362f88651b4e1a4b4", null ],
+    [ "_fakeMapEntry", "de/dff/a29391.html#afc183278ef7cd421df30ad878321f122", null ]
 ];

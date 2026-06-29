@@ -1,10 +1,9 @@
 var a28255 =
 [
-    [ "npc_dancing_flamesAI", "d8/d71/a28255.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d8/d71/a28255.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d8/d71/a28255.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d8/d71/a28255.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d8/d71/a28255.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d8/d71/a28255.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d8/d71/a28255.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_chicken_cluckAI", "d8/d71/a28255.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
+    [ "JustEngagedWith", "d8/d71/a28255.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
+    [ "ReceiveEmote", "d8/d71/a28255.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
+    [ "Reset", "d8/d71/a28255.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
+    [ "UpdateAI", "d8/d71/a28255.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
+    [ "ResetFlagTimer", "d8/d71/a28255.html#a0d0507ae7a1eca369df288515856e1b5", null ]
 ];

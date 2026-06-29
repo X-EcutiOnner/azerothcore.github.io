@@ -1,6 +1,5 @@
 var a23127 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "d7/d1f/a23131.html", "d7/d1f/a23131" ],
-    [ "instance_the_slave_pens", "d4/de2/a23127.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d4/de2/a23127.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "boss_quagmirran", "d4/de2/a23127.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d4/de2/a23127.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

@@ -1,16 +1,17 @@
 var a29775 =
 [
-    [ "adt_LIQUID", "db/d50/a29783.html", "db/d50/a29783" ],
-    [ "GetLiquidAttributes", "d6/d23/a29775.html#a343859f1c04059988ca0e4050ffac22f", null ],
-    [ "GetLiquidDepth", "d6/d23/a29775.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
-    [ "GetLiquidExistsBitmap", "d6/d23/a29775.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
-    [ "GetLiquidHeight", "d6/d23/a29775.html#a73ad976bf67c8adba2443190e6db533f", null ],
-    [ "GetLiquidInstance", "d6/d23/a29775.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
-    [ "GetLiquidTextureCoordMap", "d6/d23/a29775.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
-    [ "GetLiquidType", "d6/d23/a29775.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
-    [ "prepareLoadedData", "d6/d23/a29775.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
-    [ "fcc", "d6/d23/a29775.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
-    [ "fcc_txt", "d6/d23/a29775.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
-    [ "liquid", "d6/d23/a29775.html#aaaff4b98a34d81985b552fd671411450", null ],
-    [ "size", "d6/d23/a29775.html#a2110a26debb714695e38e5ec159131f2", null ]
+    [ "GetHeight", "d6/d23/a29775.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
+    [ "GetOffsetX", "d6/d23/a29775.html#a8facef2fdb586a71f1f740086fe160ab", null ],
+    [ "GetOffsetY", "d6/d23/a29775.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
+    [ "GetWidth", "d6/d23/a29775.html#a240dac4718a12daee7c8ec526209c4ba", null ],
+    [ "Height", "d6/d23/a29775.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
+    [ "LiquidType", "d6/d23/a29775.html#a910553870f082a1b8dd47c27c8f981f1", null ],
+    [ "LiquidVertexFormat", "d6/d23/a29775.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
+    [ "MaxHeightLevel", "d6/d23/a29775.html#aa73500f507b6ee2678f3c81328b716e1", null ],
+    [ "MinHeightLevel", "d6/d23/a29775.html#a5c56ad9303d1b652774019efbe316dbd", null ],
+    [ "OffsetExistsBitmap", "d6/d23/a29775.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
+    [ "OffsetVertexData", "d6/d23/a29775.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
+    [ "OffsetX", "d6/d23/a29775.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
+    [ "OffsetY", "d6/d23/a29775.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
+    [ "Width", "d6/d23/a29775.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
 ];

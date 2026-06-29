@@ -1,6 +1,6 @@
 var a27083 =
 [
-    [ "CheckCast", "de/d9c/a27083.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "de/d9c/a27083.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "de/d9c/a27083.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "DoAfterHit", "de/d9c/a27083.html#a38ede5147a11c41770c4483a70d81e5d", null ],
+    [ "PrepareSpellScript", "de/d9c/a27083.html#abcc738fc154e6be5de168fb23be806f4", null ],
+    [ "Register", "de/d9c/a27083.html#ac81d60d54a87a23bd9481934f5753de0", null ]
 ];

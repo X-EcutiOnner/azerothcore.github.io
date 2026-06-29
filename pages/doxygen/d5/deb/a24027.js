@@ -1,6 +1,6 @@
 var a24027 =
 [
-    [ "npc_kservantAI", "d8/d5e/a24031.html", "d8/d5e/a24031" ],
-    [ "npc_kservant", "d5/deb/a24027.html#af04c8a87516e41f7d35071664034af9d", null ],
-    [ "GetAI", "d5/deb/a24027.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
+    [ "CheckRequirement", "d5/deb/a24027.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d5/deb/a24027.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d5/deb/a24027.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

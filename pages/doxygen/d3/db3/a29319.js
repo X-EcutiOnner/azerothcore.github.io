@@ -1,8 +1,12 @@
 var a29319 =
 [
-    [ "auraHasCanProcFromProcs", "d3/db3/a29319.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "d3/db3/a29319.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "d3/db3/a29319.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "d3/db3/a29319.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "d3/db3/a29319.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "HealInfoStubBuilder", "d3/db3/a29319.html#a57945de96ad065451cadb47edba287c8", null ],
+    [ "Build", "d3/db3/a29319.html#a291565d223df00ce9d09c0315e803448", null ],
+    [ "WithAbsorb", "d3/db3/a29319.html#aa09160afe48114a7a3566be328f64658", null ],
+    [ "WithEffectiveHeal", "d3/db3/a29319.html#a34a359322b018cffc5f54ca999c11b11", null ],
+    [ "WithHeal", "d3/db3/a29319.html#a812e06b07eeb18c1d379409b77a80b89", null ],
+    [ "WithHitMask", "d3/db3/a29319.html#ab788ddcc209140ed3c10b02785471dcb", null ],
+    [ "WithOverheal", "d3/db3/a29319.html#a89c12c30725eb2bdc3889005a38d54eb", null ],
+    [ "WithSpellInfo", "d3/db3/a29319.html#a4dc784241fbe998437cceb953fb83e1f", null ],
+    [ "_stub", "d3/db3/a29319.html#ad0da544c651e387d8c6e9b272aa3db7b", null ]
 ];

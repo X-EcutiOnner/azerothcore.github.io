@@ -1,5 +1,6 @@
 var a22199 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "d6/db1/a22199.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "d6/db1/a22199.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "PrepareSpellScript", "d6/db1/a22199.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d6/db1/a22199.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d6/db1/a22199.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

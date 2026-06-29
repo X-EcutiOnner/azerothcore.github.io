@@ -81,5 +81,10 @@ var a02663 =
     [ "Acore::PowerCheck", "d6/d2f/a09847.html", "d6/d2f/a09847" ],
     [ "Acore::RaidCheck", "d5/d59/a09851.html", "d5/d59/a09851" ],
     [ "Acore::LocalizedPacketDo< Builder >", "d7/d84/a09855.html", "d7/d84/a09855" ],
-    [ "Acore::LocalizedPacketListDo< Builder >", "da/de6/a09859.html", "da/de6/a09859" ]
+    [ "Acore::LocalizedPacketListDo< Builder >", "da/de6/a09859.html", "da/de6/a09859" ],
+    [ "TeamFilter", "db/d86/a02663.html#a707574f70dccac2c48163c9083e774bb", [
+      [ "All", "db/d86/a02663.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680", null ],
+      [ "OwnTeam", "db/d86/a02663.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180", null ],
+      [ "OtherTeam", "db/d86/a02663.html#a707574f70dccac2c48163c9083e774bba58d73ba5fe6ea145152a6c1e5018f0a7", null ]
+    ] ]
 ];

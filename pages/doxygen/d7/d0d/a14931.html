@@ -314,30 +314,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  836</span>    {</div>
-<div class="line"><span class="lineno">  837</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno">  838</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  839</span> </div>
-<div class="line"><span class="lineno">  840</span>        <span class="comment">// find NPC at ribbon pole top as target</span></div>
-<div class="line"><span class="lineno">  841</span>        <span class="comment">// trap 181604 also spawns NPCs at pole bottom - ignore those</span></div>
-<div class="line"><span class="lineno">  842</span>        std::list&lt;Creature*&gt; crList;</div>
-<div class="line"><span class="lineno">  843</span>        target-&gt;GetCreaturesWithEntryInRange(crList, 30.0f, <a class="code hl_enumvalue" href="../../db/d77/a00683.html#a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c">NPC_RIBBON_POLE_DEBUG_TARGET</a>);</div>
-<div class="line"><span class="lineno">  844</span>        <span class="keywordflow">if</span> (crList.empty())</div>
-<div class="line"><span class="lineno">  845</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  846</span> </div>
-<div class="line"><span class="lineno">  847</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = crList.begin(); itr != crList.end(); ++itr)</div>
-<div class="line"><span class="lineno">  848</span>        {</div>
-<div class="line"><span class="lineno">  849</span>            <span class="comment">// NPC on ribbon pole top is no tempsummon</span></div>
-<div class="line"><span class="lineno">  850</span>            <span class="keywordflow">if</span> (!(*itr)-&gt;ToTempSummon())</div>
-<div class="line"><span class="lineno">  851</span>            {</div>
-<div class="line"><span class="lineno">  852</span>                target = *itr;</div>
-<div class="line"><span class="lineno">  853</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  854</span>            }</div>
-<div class="line"><span class="lineno">  855</span>        }</div>
-<div class="line"><span class="lineno">  856</span>    }</div>
-<div class="ttc" id="aa00683_html_a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c"><div class="ttname"><a href="../../db/d77/a00683.html#a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c">NPC_RIBBON_POLE_DEBUG_TARGET</a></div><div class="ttdeci">@ NPC_RIBBON_POLE_DEBUG_TARGET</div><div class="ttdef"><b>Definition:</b> midsummer.cpp:509</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  844</span>    {</div>
+<div class="line"><span class="lineno">  845</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno">  846</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  847</span> </div>
+<div class="line"><span class="lineno">  848</span>        <span class="comment">// find NPC at ribbon pole top as target</span></div>
+<div class="line"><span class="lineno">  849</span>        <span class="comment">// trap 181604 also spawns NPCs at pole bottom - ignore those</span></div>
+<div class="line"><span class="lineno">  850</span>        std::list&lt;Creature*&gt; crList;</div>
+<div class="line"><span class="lineno">  851</span>        target-&gt;GetCreaturesWithEntryInRange(crList, 30.0f, <a class="code hl_enumvalue" href="../../db/d77/a00683.html#a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c">NPC_RIBBON_POLE_DEBUG_TARGET</a>);</div>
+<div class="line"><span class="lineno">  852</span>        <span class="keywordflow">if</span> (crList.empty())</div>
+<div class="line"><span class="lineno">  853</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  854</span> </div>
+<div class="line"><span class="lineno">  855</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = crList.begin(); itr != crList.end(); ++itr)</div>
+<div class="line"><span class="lineno">  856</span>        {</div>
+<div class="line"><span class="lineno">  857</span>            <span class="comment">// NPC on ribbon pole top is no tempsummon</span></div>
+<div class="line"><span class="lineno">  858</span>            <span class="keywordflow">if</span> (!(*itr)-&gt;ToTempSummon())</div>
+<div class="line"><span class="lineno">  859</span>            {</div>
+<div class="line"><span class="lineno">  860</span>                target = *itr;</div>
+<div class="line"><span class="lineno">  861</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  862</span>            }</div>
+<div class="line"><span class="lineno">  863</span>        }</div>
+<div class="line"><span class="lineno">  864</span>    }</div>
+<div class="ttc" id="aa00683_html_a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c"><div class="ttname"><a href="../../db/d77/a00683.html#a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c">NPC_RIBBON_POLE_DEBUG_TARGET</a></div><div class="ttdeci">@ NPC_RIBBON_POLE_DEBUG_TARGET</div><div class="ttdef"><b>Definition:</b> midsummer.cpp:517</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l03060">WorldObject::GetCreaturesWithEntryInRange()</a>, and <a class="el" href="../../#l00509">NPC_RIBBON_POLE_DEBUG_TARGET</a>.</p>
+<p class="reference">References <a class="el" href="../../#l03060">WorldObject::GetCreaturesWithEntryInRange()</a>, and <a class="el" href="../../#l00517">NPC_RIBBON_POLE_DEBUG_TARGET</a>.</p>
 
 </div>
 </div>
@@ -365,9 +365,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/d5f/a11923.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  859</span>    {</div>
-<div class="line"><span class="lineno">  860</span>        <a class="code hl_variable" href="../../dc/de0/a11939.html#a7ed2ae7fcbd576aff87d34eb57290af4">OnObjectTargetSelect</a> += <a class="code hl_define" href="../../db/d09/a03131.html#a1e2662636123cae835d18e21b9c24db2">SpellObjectTargetSelectFn</a>(spell_midsummer_ribbon_pole_visual::UpdateTarget, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152aab0751c8895d224e37904a23bc625efa">TARGET_UNIT_NEARBY_ENTRY</a>);</div>
-<div class="line"><span class="lineno">  861</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  867</span>    {</div>
+<div class="line"><span class="lineno">  868</span>        <a class="code hl_variable" href="../../dc/de0/a11939.html#a7ed2ae7fcbd576aff87d34eb57290af4">OnObjectTargetSelect</a> += <a class="code hl_define" href="../../db/d09/a03131.html#a1e2662636123cae835d18e21b9c24db2">SpellObjectTargetSelectFn</a>(spell_midsummer_ribbon_pole_visual::UpdateTarget, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152aab0751c8895d224e37904a23bc625efa">TARGET_UNIT_NEARBY_ENTRY</a>);</div>
+<div class="line"><span class="lineno">  869</span>    }</div>
 <div class="ttc" id="aa02273_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02273_html_a418aed4e4066eb09ab979b5d78dc9152aab0751c8895d224e37904a23bc625efa"><div class="ttname"><a href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152aab0751c8895d224e37904a23bc625efa">TARGET_UNIT_NEARBY_ENTRY</a></div><div class="ttdeci">@ TARGET_UNIT_NEARBY_ENTRY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1446</div></div>
 <div class="ttc" id="aa03131_html_a1e2662636123cae835d18e21b9c24db2"><div class="ttname"><a href="../../db/d09/a03131.html#a1e2662636123cae835d18e21b9c24db2">SpellObjectTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:359</div></div>
@@ -383,7 +383,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d0d/a14931.html">spell_midsummer_ribbon_pole_visual</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:26:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

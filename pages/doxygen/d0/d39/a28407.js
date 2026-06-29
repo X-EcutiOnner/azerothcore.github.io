@@ -1,8 +1,6 @@
 var a28407 =
 [
-    [ "npc_minion_spawner", "d0/d39/a28407.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d0/d39/a28407.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d0/d39/a28407.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d0/d39/a28407.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d0/d39/a28407.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_necropolis_relay", "d0/d39/a28407.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d0/d39/a28407.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d0/d39/a28407.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

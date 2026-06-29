@@ -1,16 +1,12 @@
 var a23947 =
 [
-    [ "npc_dragonmaw_peonAI", "df/dbd/a23947.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "df/dbd/a23947.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "df/dbd/a23947.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "df/dbd/a23947.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "df/dbd/a23947.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "df/dbd/a23947.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "df/dbd/a23947.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "df/dbd/a23947.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "df/dbd/a23947.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "df/dbd/a23947.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "df/dbd/a23947.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "df/dbd/a23947.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "df/dbd/a23947.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_enslaved_netherwing_drake", "df/dbd/a23947.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "df/dbd/a23947.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "df/dbd/a23947.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "df/dbd/a23947.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "df/dbd/a23947.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "df/dbd/a23947.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "df/dbd/a23947.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "df/dbd/a23947.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "df/dbd/a23947.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

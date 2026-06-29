@@ -1,6 +1,7 @@
 var a22843 =
 [
-    [ "HandleScriptEffect", "da/d20/a22843.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "da/d20/a22843.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "da/d20/a22843.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "PrepareAuraScript", "da/d20/a22843.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "da/d20/a22843.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "da/d20/a22843.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "da/d20/a22843.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

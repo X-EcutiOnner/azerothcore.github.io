@@ -1,8 +1,7 @@
 var a24091 =
 [
-    [ "go_skull_pile", "dd/d40/a24091.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "dd/d40/a24091.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "dd/d40/a24091.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "dd/d40/a24091.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "dd/d40/a24091.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_isla_starmaneAI", "d9/de2/a24095.html", "d9/de2/a24095" ],
+    [ "npc_isla_starmane", "dd/d40/a24091.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
+    [ "GetAI", "dd/d40/a24091.html#a0ea2dbaab4115772f92849e06aa85575", null ],
+    [ "OnQuestAccept", "dd/d40/a24091.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
 ];

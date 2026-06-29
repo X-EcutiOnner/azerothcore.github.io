@@ -143,6 +143,8 @@ Public Attributes</h2></td></tr>
 <tr class="separator:aa823e9c8d3048d5780b11d168f5be0d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aec2e336644d004a59ad21431fbf80c83"><td class="memItemLeft" align="right" valign="top">std::promise&lt; void &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d10/a05995.html#aec2e336644d004a59ad21431fbf80c83">finishedPromise</a></td></tr>
 <tr class="separator:aec2e336644d004a59ad21431fbf80c83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4276b0d56ac60b507902d32395cb1885"><td class="memItemLeft" align="right" valign="top">std::shared_ptr&lt; <a class="el" href="../../d2/d10/a05995.html">SOAPCommand</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d10/a05995.html#a4276b0d56ac60b507902d32395cb1885">m_self</a></td></tr>
+<tr class="separator:a4276b0d56ac60b507902d32395cb1885"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -168,9 +170,9 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>                  :</div>
-<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa05995_html_aab7299bceae48c2066f1885b90a34c60"><div class="ttname"><a href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">SOAPCommand::m_success</a></div><div class="ttdeci">bool m_success</div><div class="ttdef"><b>Definition:</b> ACSoap.h:58</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>                  :</div>
+<div class="line"><span class="lineno">   32</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a>(<span class="keyword">false</span>) { }</div>
+<div class="ttc" id="aa05995_html_aab7299bceae48c2066f1885b90a34c60"><div class="ttname"><a href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">SOAPCommand::m_success</a></div><div class="ttdeci">bool m_success</div><div class="ttdef"><b>Definition:</b> ACSoap.h:59</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -196,7 +198,7 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -224,12 +226,12 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>    {</div>
-<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aa823e9c8d3048d5780b11d168f5be0d9">m_printBuffer</a> += msg;</div>
-<div class="line"><span class="lineno">   38</span>    }</div>
-<div class="ttc" id="aa05995_html_aa823e9c8d3048d5780b11d168f5be0d9"><div class="ttname"><a href="../../d2/d10/a05995.html#aa823e9c8d3048d5780b11d168f5be0d9">SOAPCommand::m_printBuffer</a></div><div class="ttdeci">std::string m_printBuffer</div><div class="ttdef"><b>Definition:</b> ACSoap.h:59</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>    {</div>
+<div class="line"><span class="lineno">   38</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aa823e9c8d3048d5780b11d168f5be0d9">m_printBuffer</a> += msg;</div>
+<div class="line"><span class="lineno">   39</span>    }</div>
+<div class="ttc" id="aa05995_html_aa823e9c8d3048d5780b11d168f5be0d9"><div class="ttname"><a href="../../d2/d10/a05995.html#aa823e9c8d3048d5780b11d168f5be0d9">SOAPCommand::m_printBuffer</a></div><div class="ttdeci">std::string m_printBuffer</div><div class="ttdef"><b>Definition:</b> ACSoap.h:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">m_printBuffer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00060">m_printBuffer</a>.</p>
 
 </div>
 </div>
@@ -266,16 +268,19 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  130</span>{</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>* con = (<a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>*)soapconnection;</div>
-<div class="line"><span class="lineno">  132</span>    con-&gt;<a class="code hl_function" href="../../d2/d10/a05995.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2">setCommandSuccess</a>(success);</div>
-<div class="line"><span class="lineno">  133</span>}</div>
-<div class="ttc" id="aa05995_html"><div class="ttname"><a href="../../d2/d10/a05995.html">SOAPCommand</a></div><div class="ttdef"><b>Definition:</b> ACSoap.h:28</div></div>
-<div class="ttc" id="aa05995_html_ae6849ecbf940ac2baf92f3b7ca3d6cd2"><div class="ttname"><a href="../../d2/d10/a05995.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2">SOAPCommand::setCommandSuccess</a></div><div class="ttdeci">void setCommandSuccess(bool val)</div><div class="ttdef"><b>Definition:</b> ACSoap.h:40</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  144</span>{</div>
+<div class="line"><span class="lineno">  145</span>    <a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>* con = (<a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>*)soapconnection;</div>
+<div class="line"><span class="lineno">  146</span>    con-&gt;<a class="code hl_function" href="../../d2/d10/a05995.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2">setCommandSuccess</a>(success);</div>
+<div class="line"><span class="lineno">  147</span>    <span class="comment">// world side is done with us; drop the keep-alive (may free the object)</span></div>
+<div class="line"><span class="lineno">  148</span>    con-&gt;<a class="code hl_variable" href="../../d2/d10/a05995.html#a4276b0d56ac60b507902d32395cb1885">m_self</a>.reset();</div>
+<div class="line"><span class="lineno">  149</span>}</div>
+<div class="ttc" id="aa05995_html"><div class="ttname"><a href="../../d2/d10/a05995.html">SOAPCommand</a></div><div class="ttdef"><b>Definition:</b> ACSoap.h:29</div></div>
+<div class="ttc" id="aa05995_html_a4276b0d56ac60b507902d32395cb1885"><div class="ttname"><a href="../../d2/d10/a05995.html#a4276b0d56ac60b507902d32395cb1885">SOAPCommand::m_self</a></div><div class="ttdeci">std::shared_ptr&lt; SOAPCommand &gt; m_self</div><div class="ttdef"><b>Definition:</b> ACSoap.h:63</div></div>
+<div class="ttc" id="aa05995_html_ae6849ecbf940ac2baf92f3b7ca3d6cd2"><div class="ttname"><a href="../../d2/d10/a05995.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2">SOAPCommand::setCommandSuccess</a></div><div class="ttdeci">void setCommandSuccess(bool val)</div><div class="ttdef"><b>Definition:</b> ACSoap.h:41</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">setCommandSuccess()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00063">m_self</a>, and <a class="el" href="../../#l00041">setCommandSuccess()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00074">ns1__executeCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">ns1__executeCommand()</a>.</p>
 
 </div>
 </div>
@@ -301,13 +306,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>    {</div>
-<div class="line"><span class="lineno">   48</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a>;</div>
-<div class="line"><span class="lineno">   49</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a>;</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00058">m_success</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00074">ns1__executeCommand()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">m_success</a>.</p>
 
 </div>
 </div>
@@ -344,11 +347,11 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>    {</div>
-<div class="line"><span class="lineno">   53</span>        ((<a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>*)callbackArg)-&gt;appendToPrintBuffer(msg);</div>
-<div class="line"><span class="lineno">   54</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>    {</div>
+<div class="line"><span class="lineno">   54</span>        ((<a class="code hl_class" href="../../d2/d10/a05995.html">SOAPCommand</a>*)callbackArg)-&gt;appendToPrintBuffer(msg);</div>
+<div class="line"><span class="lineno">   55</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00074">ns1__executeCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">ns1__executeCommand()</a>.</p>
 
 </div>
 </div>
@@ -375,15 +378,15 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>    {</div>
-<div class="line"><span class="lineno">   42</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a> = val;</div>
-<div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aec2e336644d004a59ad21431fbf80c83">finishedPromise</a>.set_value();</div>
-<div class="line"><span class="lineno">   44</span>    }</div>
-<div class="ttc" id="aa05995_html_aec2e336644d004a59ad21431fbf80c83"><div class="ttname"><a href="../../d2/d10/a05995.html#aec2e336644d004a59ad21431fbf80c83">SOAPCommand::finishedPromise</a></div><div class="ttdeci">std::promise&lt; void &gt; finishedPromise</div><div class="ttdef"><b>Definition:</b> ACSoap.h:60</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   42</span>    {</div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aab7299bceae48c2066f1885b90a34c60">m_success</a> = val;</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d2/d10/a05995.html#aec2e336644d004a59ad21431fbf80c83">finishedPromise</a>.set_value();</div>
+<div class="line"><span class="lineno">   45</span>    }</div>
+<div class="ttc" id="aa05995_html_aec2e336644d004a59ad21431fbf80c83"><div class="ttname"><a href="../../d2/d10/a05995.html#aec2e336644d004a59ad21431fbf80c83">SOAPCommand::finishedPromise</a></div><div class="ttdeci">std::promise&lt; void &gt; finishedPromise</div><div class="ttdef"><b>Definition:</b> ACSoap.h:61</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00060">finishedPromise</a>, and <a class="el" href="../../#l00058">m_success</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00061">finishedPromise</a>, and <a class="el" href="../../#l00059">m_success</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00129">commandFinished()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00143">commandFinished()</a>.</p>
 
 </div>
 </div>
@@ -400,7 +403,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00074">ns1__executeCommand()</a>, and <a class="el" href="../../#l00040">setCommandSuccess()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00041">setCommandSuccess()</a>.</p>
 
 </div>
 </div>
@@ -416,7 +419,23 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00035">appendToPrintBuffer()</a>, and <a class="el" href="../../#l00074">ns1__executeCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00036">appendToPrintBuffer()</a>.</p>
+
+</div>
+</div>
+<a id="a4276b0d56ac60b507902d32395cb1885" name="a4276b0d56ac60b507902d32395cb1885"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4276b0d56ac60b507902d32395cb1885">&#9670;&#160;</a></span>m_self</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::shared_ptr&lt;<a class="el" href="../../d2/d10/a05995.html">SOAPCommand</a>&gt; SOAPCommand::m_self</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00143">commandFinished()</a>.</p>
 
 </div>
 </div>
@@ -432,7 +451,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00046">hasCommandSucceeded()</a>, and <a class="el" href="../../#l00040">setCommandSuccess()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00047">hasCommandSucceeded()</a>, and <a class="el" href="../../#l00041">setCommandSuccess()</a>.</p>
 
 </div>
 </div>
@@ -442,7 +461,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d10/a05995.html">SOAPCommand</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:26:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

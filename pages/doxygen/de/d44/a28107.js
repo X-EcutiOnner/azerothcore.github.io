@@ -1,5 +1,5 @@
 var a28107 =
 [
-    [ "item_mysterious_egg", "de/d44/a28107.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "de/d44/a28107.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "item_only_for_flight", "de/d44/a28107.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "de/d44/a28107.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

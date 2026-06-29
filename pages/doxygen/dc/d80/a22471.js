@@ -1,6 +1,7 @@
 var a22471 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/d6a/a22475.html", "d5/d6a/a22475" ],
-    [ "instance_shadow_labyrinth", "dc/d80/a22471.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "dc/d80/a22471.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "HandleOnHit", "dc/d80/a22471.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "dc/d80/a22471.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "dc/d80/a22471.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "dc/d80/a22471.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

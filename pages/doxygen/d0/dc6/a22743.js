@@ -1,6 +1,7 @@
 var a22743 =
 [
-    [ "PrepareSpellScript", "d0/dc6/a22743.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d0/dc6/a22743.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d0/dc6/a22743.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "npc_ashtongue_channeler", "d0/dc6/a22743.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d0/dc6/a22743.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d0/dc6/a22743.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d0/dc6/a22743.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

@@ -1,6 +1,10 @@
 var a27079 =
 [
-    [ "HandleRemove", "d1/d11/a27079.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d1/d11/a27079.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d1/d11/a27079.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleProc", "d1/d11/a27079.html#af7ed59bccd5a9db04e37753e813377b6", null ],
+    [ "OnRemove", "d1/d11/a27079.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
+    [ "PrepareAuraScript", "d1/d11/a27079.html#a2280ebe1a928d0962c7f67e22405db18", null ],
+    [ "Register", "d1/d11/a27079.html#a1e53dfab9d98846d404ea7f57555c941", null ],
+    [ "SetRedirectTarget", "d1/d11/a27079.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
+    [ "Validate", "d1/d11/a27079.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
+    [ "_redirectTarget", "d1/d11/a27079.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
 ];

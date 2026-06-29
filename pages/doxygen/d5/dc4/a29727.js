@@ -1,8 +1,6 @@
 var a29727 =
 [
-    [ "prepareLoadedData", "d5/dc4/a29727.html#a696cfebd8fe66840b316919519e9b319", null ],
-    [ "fcc", "d5/dc4/a29727.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
-    [ "fcc_txt", "d5/dc4/a29727.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
-    [ "height_map", "d5/dc4/a29727.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
-    [ "size", "d5/dc4/a29727.html#add2809c6e520cf4aa43807d61f973f0e", null ]
+    [ "RunStatisticalTest", "d5/dc4/a29727.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "d5/dc4/a29727.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "d5/dc4/a29727.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

@@ -1,7 +1,6 @@
 var a23039 =
 [
-    [ "HandleEffectRemove", "d2/d2c/a23039.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d2/d2c/a23039.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d2/d2c/a23039.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d2/d2c/a23039.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "HandleApplyAura", "d2/d2c/a23039.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "d2/d2c/a23039.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "d2/d2c/a23039.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

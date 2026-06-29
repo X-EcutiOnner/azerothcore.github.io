@@ -1,6 +1,6 @@
 var a23755 =
 [
-    [ "npc_simon_bunnyAI", "d8/d30/a23759.html", "d8/d30/a23759" ],
-    [ "npc_simon_bunny", "d9/d92/a23755.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d9/d92/a23755.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "npc_daranelleAI", "d8/d30/a23759.html", "d8/d30/a23759" ],
+    [ "npc_daranelle", "d9/d92/a23755.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d9/d92/a23755.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

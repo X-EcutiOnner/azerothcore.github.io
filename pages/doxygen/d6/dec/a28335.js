@@ -1,6 +1,6 @@
 var a28335 =
 [
-    [ "npc_spring_rabbitAI", "de/d94/a28339.html", "de/d94/a28339" ],
-    [ "npc_spring_rabbit", "d6/dec/a28335.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d6/dec/a28335.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_fireworkAI", "de/d94/a28339.html", "de/d94/a28339" ],
+    [ "npc_firework", "d6/dec/a28335.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d6/dec/a28335.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

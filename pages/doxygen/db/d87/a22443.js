@@ -1,11 +1,5 @@
 var a22443 =
 [
-    [ "boss_blackheart_the_inciter", "db/d87/a22443.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "db/d87/a22443.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "db/d87/a22443.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "db/d87/a22443.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "db/d87/a22443.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "db/d87/a22443.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "db/d87/a22443.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "db/d87/a22443.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "db/d87/a22443.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "db/d87/a22443.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

@@ -1,6 +1,5 @@
 var a29343 =
 [
-    [ "conditionsMet", "d3/de4/a29343.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
-    [ "hasConditions", "d3/de4/a29343.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
-    [ "sourceType", "d3/de4/a29343.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
+    [ "auraHasDisableProcAttr", "d3/de4/a29343.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
+    [ "triggeringSpellIsProcDisabled", "d3/de4/a29343.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
 ];

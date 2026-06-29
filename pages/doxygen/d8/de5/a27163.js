@@ -1,6 +1,6 @@
 var a27163 =
 [
-    [ "HandlePeriodic", "d8/de5/a27163.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d8/de5/a27163.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d8/de5/a27163.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckCast", "d8/de5/a27163.html#aecbecbd753b8ed32d51971a090063ef4", null ],
+    [ "PrepareSpellScript", "d8/de5/a27163.html#a0efb319154edb2c798460de72d6a56ed", null ],
+    [ "Register", "d8/de5/a27163.html#acd6ecb0204dd369c410e465551328f56", null ]
 ];

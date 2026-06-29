@@ -1,5 +1,5 @@
 var a28375 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d3/d76/a28375.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d3/d76/a28375.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_controller", "d3/d76/a28375.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d3/d76/a28375.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

@@ -1,8 +1,6 @@
 var a27671 =
 [
-    [ "CheckProc", "d6/d8c/a27671.html#a77739dee36e546ff0e91a2a266a8e107", null ],
-    [ "HandleProc", "d6/d8c/a27671.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
-    [ "PrepareAuraScript", "d6/d8c/a27671.html#a796c2a915069385cdca89cf3f7d09c82", null ],
-    [ "Register", "d6/d8c/a27671.html#af144533458a912ac19c6b772114586cd", null ],
-    [ "Validate", "d6/d8c/a27671.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
+    [ "HandleOnHit", "d6/d8c/a27671.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d6/d8c/a27671.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d6/d8c/a27671.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

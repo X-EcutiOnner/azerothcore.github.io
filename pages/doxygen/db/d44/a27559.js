@@ -1,6 +1,7 @@
 var a27559 =
 [
-    [ "HandleOnHit", "db/d44/a27559.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "db/d44/a27559.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "db/d44/a27559.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "HandleProc", "db/d44/a27559.html#a5046d3b14fcf4260da937032c043fe42", null ],
+    [ "PrepareAuraScript", "db/d44/a27559.html#abcc31343fd53057e8116b47dd56033c1", null ],
+    [ "Register", "db/d44/a27559.html#a9a04291ffb75010ccaa46801d06e2080", null ],
+    [ "Validate", "db/d44/a27559.html#a13ecea64673f78b4b384a411a7aa8ca7", null ]
 ];

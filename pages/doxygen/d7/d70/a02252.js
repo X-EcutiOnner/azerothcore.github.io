@@ -3,6 +3,7 @@ var a02252 =
     [ "instance_ulduar", "dd/d21/a20895.html", "dd/d21/a20895" ],
     [ "instance_ulduar::instance_ulduar_InstanceMapScript", "dc/dff/a20899.html", "dc/dff/a20899" ],
     [ "AddSC_instance_ulduar", "d7/d70/a02252.html#a93e6e71a7717be3946c53d3b6093e517", null ],
+    [ "boundaries", "d7/d70/a02252.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
     [ "creatureData", "d7/d70/a02252.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d7/d70/a02252.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
     [ "gameobjectData", "d7/d70/a02252.html#a845a92716bd40c99a93eb0715cd737b0", null ],

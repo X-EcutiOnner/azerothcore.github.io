@@ -1,6 +1,6 @@
 var a28275 =
 [
-    [ "npc_garments_of_questsAI", "da/d30/a28279.html", "da/d30/a28279" ],
-    [ "npc_garments_of_quests", "df/da5/a28275.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "df/da5/a28275.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_injured_patientAI", "da/d30/a28279.html", "da/d30/a28279" ],
+    [ "npc_injured_patient", "df/da5/a28275.html#a0b7ef214aa1b20df088dee0976c73783", null ],
+    [ "GetAI", "df/da5/a28275.html#a0c042bb81e684f903d28d7879af99d4a", null ]
 ];

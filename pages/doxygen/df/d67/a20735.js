@@ -9,6 +9,7 @@ var a20735 =
     [ "EnableSara", "df/d67/a20735.html#a442993c5c7a1fba1cbffd99646f67a55", null ],
     [ "EnterEvadeMode", "df/d67/a20735.html#aa9ce3c68002aed8e5fc3dc0b87119565", null ],
     [ "GetData", "df/d67/a20735.html#ae4baca382a3aa557eba601866338f21b", null ],
+    [ "HasAlivePlayerInIllusion", "df/d67/a20735.html#a248f81416845e4c10586a37c1c711ef4", null ],
     [ "InformCloud", "df/d67/a20735.html#ae6c5052ba269f4b9ea91556e394dd90e", null ],
     [ "InitFight", "df/d67/a20735.html#a481024024b3a70cbc4503abfd0929c4d", null ],
     [ "JustSummoned", "df/d67/a20735.html#a2a344834b9d8eb788c491c441a936845", null ],

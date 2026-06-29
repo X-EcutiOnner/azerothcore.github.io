@@ -1,8 +1,6 @@
 var a27219 =
 [
-    [ "CheckFireTotem", "dd/dd3/a27219.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "dd/dd3/a27219.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "dd/dd3/a27219.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "dd/dd3/a27219.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "dd/dd3/a27219.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "FilterTargets", "dd/dd3/a27219.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
+    [ "PrepareSpellScript", "dd/dd3/a27219.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
+    [ "Register", "dd/dd3/a27219.html#abe63ec69fe15fd8924fb63235489e088", null ]
 ];

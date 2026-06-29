@@ -1,7 +1,10 @@
 var a27503 =
 [
-    [ "CalculateAmount", "db/db1/a27503.html#a893842dfe5e1d6f7977e2fc97471b265", null ],
-    [ "PrepareAuraScript", "db/db1/a27503.html#a20dad49a99420556f393a16525eb14b4", null ],
-    [ "Register", "db/db1/a27503.html#ad7d339ab137ebd640981f7789e1757f0", null ],
-    [ "Validate", "db/db1/a27503.html#a341acb2dd25c1db94777f7036f3338ac", null ]
+    [ "CheckProc", "db/db1/a27503.html#a257202ac9b80a67ce58d9e3491164d22", null ],
+    [ "HandleProc", "db/db1/a27503.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
+    [ "HandleTick", "db/db1/a27503.html#a5e436c530e5ef70bc4de4305676ed196", null ],
+    [ "PrepareAuraScript", "db/db1/a27503.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
+    [ "Register", "db/db1/a27503.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
+    [ "RemoveEffect", "db/db1/a27503.html#a333ad80d8478f59713ee049f935d7885", null ],
+    [ "Validate", "db/db1/a27503.html#aed3cb37f0230463978b210add84bd31d", null ]
 ];

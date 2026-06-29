@@ -1,6 +1,8 @@
 var a27095 =
 [
-    [ "HandleProc", "d0/d2b/a27095.html#a34fc7c89e962791d76c24c40bbdba827", null ],
-    [ "PrepareAuraScript", "d0/d2b/a27095.html#a3558a23d2d428ee4f0bec8ae6c1afba5", null ],
-    [ "Register", "d0/d2b/a27095.html#aab998e808ec9f53e87d92e71b3cc1c30", null ]
+    [ "HandleRootRemove", "d0/d2b/a27095.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "d0/d2b/a27095.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "d0/d2b/a27095.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "d0/d2b/a27095.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "d0/d2b/a27095.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

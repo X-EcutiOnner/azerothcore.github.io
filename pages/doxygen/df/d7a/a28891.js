@@ -1,4 +1,6 @@
 var a28891 =
 [
-    [ "cost", "df/d7a/a28891.html#a624313c8b56b9755593b2f4bacd306d7", null ]
+    [ "Id", "df/d7a/a28891.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "df/d7a/a28891.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "df/d7a/a28891.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

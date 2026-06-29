@@ -338,15 +338,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 2474</span>    {</div>
-<div class="line"><span class="lineno"> 2475</span>        <a class="code hl_function" href="../../d9/d6a/a09103.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a>(<a class="code hl_function" href="../../d2/d61/a11979.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_function" href="../../d2/d61/a11979.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>());</div>
-<div class="line"><span class="lineno"> 2476</span>    }</div>
-<div class="ttc" id="aa09103_html_a413f3a85a1e57ce8c13b8870347830f5"><div class="ttname"><a href="../../d9/d6a/a09103.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a></div><div class="ttdeci">static void Kill(Unit *killer, Unit *victim, bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13986</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 2491</span>    {</div>
+<div class="line"><span class="lineno"> 2492</span>        <a class="code hl_function" href="../../d9/d6a/a09103.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a>(<a class="code hl_function" href="../../d2/d61/a11979.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>(), <a class="code hl_function" href="../../d2/d61/a11979.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>());</div>
+<div class="line"><span class="lineno"> 2493</span>    }</div>
+<div class="ttc" id="aa09103_html_a413f3a85a1e57ce8c13b8870347830f5"><div class="ttname"><a href="../../d9/d6a/a09103.html#a413f3a85a1e57ce8c13b8870347830f5">Unit::Kill</a></div><div class="ttdeci">static void Kill(Unit *killer, Unit *victim, bool durabilityLoss=true, WeaponAttackType attackType=BASE_ATTACK, SpellInfo const *spellProto=nullptr, Spell const *spell=nullptr)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13997</div></div>
 <div class="ttc" id="aa11979_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d2/d61/a11979.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1045</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l13986">Unit::Kill()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, and <a class="el" href="../../#l13997">Unit::Kill()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l02478">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02495">Register()</a>.</p>
 
 </div>
 </div>
@@ -400,17 +400,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/d5f/a11923.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 2479</span>    {</div>
-<div class="line"><span class="lineno"> 2480</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d7/d89/a20843.html#a0e2113cd165f9f6ce88ba6eea9034806">spell_yogg_saron_insane_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799aada4a291fd71b7b408ec0ac6543e79b1">SPELL_AURA_AOE_CHARM</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
-<div class="line"><span class="lineno"> 2481</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 2496</span>    {</div>
+<div class="line"><span class="lineno"> 2497</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../d7/d89/a20843.html#a0e2113cd165f9f6ce88ba6eea9034806">spell_yogg_saron_insane_aura::OnRemove</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799aada4a291fd71b7b408ec0ac6543e79b1">SPELL_AURA_AOE_CHARM</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a>);</div>
+<div class="line"><span class="lineno"> 2498</span>    }</div>
 <div class="ttc" id="aa02273_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa03095_html_a538cdc259460b365f406fe0b3a981799aada4a291fd71b7b408ec0ac6543e79b1"><div class="ttname"><a href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799aada4a291fd71b7b408ec0ac6543e79b1">SPELL_AURA_AOE_CHARM</a></div><div class="ttdeci">@ SPELL_AURA_AOE_CHARM</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:240</div></div>
 <div class="ttc" id="aa03095_html_a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b"><div class="ttname"><a href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a9db592566b0111486336c591e7a06e2b">AURA_EFFECT_HANDLE_REAL</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:42</div></div>
 <div class="ttc" id="aa03131_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aa11979_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:760</div></div>
-<div class="ttc" id="aa20843_html_a0e2113cd165f9f6ce88ba6eea9034806"><div class="ttname"><a href="../../d7/d89/a20843.html#a0e2113cd165f9f6ce88ba6eea9034806">spell_yogg_saron_insane_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2473</div></div>
+<div class="ttc" id="aa20843_html_a0e2113cd165f9f6ce88ba6eea9034806"><div class="ttname"><a href="../../d7/d89/a20843.html#a0e2113cd165f9f6ce88ba6eea9034806">spell_yogg_saron_insane_aura::OnRemove</a></div><div class="ttdeci">void OnRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_yoggsaron.cpp:2490</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, <a class="el" href="../../#l02473">OnRemove()</a>, and <a class="el" href="../../#l00240">SPELL_AURA_AOE_CHARM</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00042">AURA_EFFECT_HANDLE_REAL</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, <a class="el" href="../../#l02490">OnRemove()</a>, and <a class="el" href="../../#l00240">SPELL_AURA_AOE_CHARM</a>.</p>
 
 </div>
 </div>
@@ -420,7 +420,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/d89/a20843.html">spell_yogg_saron_insane_aura</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:29 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

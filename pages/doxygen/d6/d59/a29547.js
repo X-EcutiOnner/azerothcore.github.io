@@ -1,6 +1,10 @@
 var a29547 =
 [
-    [ "ForceInitValues", "d6/d59/a29547.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
-    [ "Player", "d6/d59/a29547.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
-    [ "UpdateObjectVisibility", "d6/d59/a29547.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
+    [ "SetUp", "d6/d59/a29547.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
+    [ "TearDown", "d6/d59/a29547.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
+    [ "_creatureA", "d6/d59/a29547.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
+    [ "_creatureB", "d6/d59/a29547.html#a013f2803435327693032f6bf23728219", null ],
+    [ "_map", "d6/d59/a29547.html#aff1204f57b91638d6f2513bfec515b88", null ],
+    [ "_previousWorld", "d6/d59/a29547.html#a4f5f721748aaae7fc00172049fe75639", null ],
+    [ "_worldMock", "d6/d59/a29547.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
 ];

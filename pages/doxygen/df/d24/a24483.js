@@ -1,7 +1,6 @@
 var a24483 =
 [
-    [ "CalculateAmount", "df/d24/a24483.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "df/d24/a24483.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "df/d24/a24483.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "df/d24/a24483.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "HandleScriptEffect", "df/d24/a24483.html#ad9863535a38094779e765fe65450ce55", null ],
+    [ "PrepareSpellScript", "df/d24/a24483.html#a653061d36c204fbd0d2dc1f983864bf1", null ],
+    [ "Register", "df/d24/a24483.html#a5019887a078af86682eea3974bacf6dc", null ]
 ];

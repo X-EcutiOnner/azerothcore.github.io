@@ -1,8 +1,6 @@
 var a28175 =
 [
-    [ "npc_simoneAI", "d4/d82/a28179.html", "d4/d82/a28179" ],
-    [ "npc_simone", "d2/d5e/a28175.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "d2/d5e/a28175.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "d2/d5e/a28175.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "d2/d5e/a28175.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_preciousAI", "d4/d82/a28179.html", "d4/d82/a28179" ],
+    [ "npc_precious", "d2/d5e/a28175.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
+    [ "GetAI", "d2/d5e/a28175.html#a754ad85c8b1942b400a47c28297bad62", null ]
 ];

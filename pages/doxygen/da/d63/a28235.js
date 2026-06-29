@@ -1,6 +1,8 @@
 var a28235 =
 [
-    [ "npc_air_force_botsAI", "d0/dd2/a28239.html", "d0/dd2/a28239" ],
-    [ "npc_air_force_bots", "da/d63/a28235.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "da/d63/a28235.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_target_dummy", "da/d63/a28235.html#a097033431f3bfa2e5e05ab1c76b0a4fa", null ],
+    [ "DamageTaken", "da/d63/a28235.html#ae137fc2935f306807128850e9761253e", null ],
+    [ "Reset", "da/d63/a28235.html#a3fcccbe2c48bf5e076e8b016195e1469", null ],
+    [ "UpdateAI", "da/d63/a28235.html#a32e9e139a54375b336c112deee3687cd", null ],
+    [ "_deathTimer", "da/d63/a28235.html#a304b79f8ec2afda669b43d2e248d026a", null ]
 ];

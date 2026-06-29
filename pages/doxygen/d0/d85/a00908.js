@@ -1,6 +1,6 @@
 var a00908 =
 [
-    [ "instance_hellfire_ramparts", "dc/dd5/a23351.html", "dc/dd5/a23351" ],
-    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "d1/da7/a23355.html", "d1/da7/a23355" ],
+    [ "instance_hellfire_ramparts", "d8/d09/a23359.html", "d8/d09/a23359" ],
+    [ "instance_hellfire_ramparts::instance_hellfire_ramparts_InstanceMapScript", "de/dd5/a23363.html", "de/dd5/a23363" ],
     [ "AddSC_instance_hellfire_ramparts", "d0/d85/a00908.html#a4172290a7e1e8ffcbf19519225978acf", null ]
 ];

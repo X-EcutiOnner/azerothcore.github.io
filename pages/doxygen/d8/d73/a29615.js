@@ -1,5 +1,5 @@
 var a29615 =
 [
-    [ "damageApplied", "d8/d73/a29615.html#a69a7cfd95e3e3b43879eae37963d1e14", null ],
-    [ "slowApplied", "d8/d73/a29615.html#a2d99cc2f9c6aedfeef6e18885ff2675d", null ]
+    [ "aura", "d8/d73/a29615.html#a6a57282648f4792e6dfaf4c892be90eb", null ],
+    [ "effect", "d8/d73/a29615.html#a24ce38279cb514bab8ef9924d93b5dfc", null ]
 ];

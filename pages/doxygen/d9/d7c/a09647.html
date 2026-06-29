@@ -177,10 +177,10 @@ template&lt;class Do &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  589</span>            : <a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>(searcher), <a class="code hl_variable" href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">i_dist</a>(_dist), <a class="code hl_variable" href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">i_do</a>(_do) {}</div>
-<div class="ttc" id="aa09647_html_a0e1738a71d7feda9f607ee964ff1fff2"><div class="ttname"><a href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">Acore::PlayerDistWorker::i_do</a></div><div class="ttdeci">Do &amp; i_do</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:586</div></div>
-<div class="ttc" id="aa09647_html_a3a3bf9b1a4bd06c54c99ceb7ba39941f"><div class="ttname"><a href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">Acore::PlayerDistWorker::i_searcher</a></div><div class="ttdeci">WorldObject const  * i_searcher</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:584</div></div>
-<div class="ttc" id="aa09647_html_aad16511b6a9aaa3eb561f636475ffe97"><div class="ttname"><a href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">Acore::PlayerDistWorker::i_dist</a></div><div class="ttdeci">float i_dist</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:585</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  619</span>            : <a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>(searcher), <a class="code hl_variable" href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">i_dist</a>(_dist), <a class="code hl_variable" href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">i_do</a>(_do) {}</div>
+<div class="ttc" id="aa09647_html_a0e1738a71d7feda9f607ee964ff1fff2"><div class="ttname"><a href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">Acore::PlayerDistWorker::i_do</a></div><div class="ttdeci">Do &amp; i_do</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:616</div></div>
+<div class="ttc" id="aa09647_html_a3a3bf9b1a4bd06c54c99ceb7ba39941f"><div class="ttname"><a href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">Acore::PlayerDistWorker::i_searcher</a></div><div class="ttdeci">WorldObject const  * i_searcher</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:614</div></div>
+<div class="ttc" id="aa09647_html_aad16511b6a9aaa3eb561f636475ffe97"><div class="ttname"><a href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">Acore::PlayerDistWorker::i_dist</a></div><div class="ttdeci">float i_dist</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:615</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -212,7 +212,7 @@ template&lt;class NOT_INTERESTED &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  598</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">  628</span>{}</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -241,16 +241,16 @@ template&lt;class Do &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  592</span>        {</div>
-<div class="line"><span class="lineno">  593</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d68/a05527.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../df/d28/a09459.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../df/d28/a09459.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
-<div class="line"><span class="lineno">  594</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;HaveAtClient(<a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>) &amp;&amp; itr-&gt;GetSource()-&gt;IsWithinDist(<a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>, <a class="code hl_variable" href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">i_dist</a>))</div>
-<div class="line"><span class="lineno">  595</span>                    <a class="code hl_variable" href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">i_do</a>(itr-&gt;GetSource());</div>
-<div class="line"><span class="lineno">  596</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  622</span>        {</div>
+<div class="line"><span class="lineno">  623</span>            <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d3/d68/a05527.html">PlayerMapType::iterator</a> itr = m.<a class="code hl_function" href="../../df/d28/a09459.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); itr != m.<a class="code hl_function" href="../../df/d28/a09459.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++itr)</div>
+<div class="line"><span class="lineno">  624</span>                <span class="keywordflow">if</span> (itr-&gt;GetSource()-&gt;HaveAtClient(<a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>) &amp;&amp; itr-&gt;GetSource()-&gt;IsWithinDist(<a class="code hl_variable" href="../../d9/d7c/a09647.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f">i_searcher</a>, <a class="code hl_variable" href="../../d9/d7c/a09647.html#aad16511b6a9aaa3eb561f636475ffe97">i_dist</a>))</div>
+<div class="line"><span class="lineno">  625</span>                    <a class="code hl_variable" href="../../d9/d7c/a09647.html#a0e1738a71d7feda9f607ee964ff1fff2">i_do</a>(itr-&gt;GetSource());</div>
+<div class="line"><span class="lineno">  626</span>        }</div>
 <div class="ttc" id="aa05527_html"><div class="ttname"><a href="../../d3/d68/a05527.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
 <div class="ttc" id="aa09459_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../df/d28/a09459.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
 <div class="ttc" id="aa09459_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../df/d28/a09459.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00585">Acore::PlayerDistWorker&lt; Do &gt;::i_dist</a>, <a class="el" href="../../#l00586">Acore::PlayerDistWorker&lt; Do &gt;::i_do</a>, and <a class="el" href="../../#l00584">Acore::PlayerDistWorker&lt; Do &gt;::i_searcher</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00615">Acore::PlayerDistWorker&lt; Do &gt;::i_dist</a>, <a class="el" href="../../#l00616">Acore::PlayerDistWorker&lt; Do &gt;::i_do</a>, and <a class="el" href="../../#l00614">Acore::PlayerDistWorker&lt; Do &gt;::i_searcher</a>.</p>
 
 </div>
 </div>
@@ -269,7 +269,7 @@ template&lt;class Do &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00591">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00621">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -287,7 +287,7 @@ template&lt;class Do &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00591">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00621">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -305,7 +305,7 @@ template&lt;class Do &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00591">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00621">Acore::PlayerDistWorker&lt; Do &gt;::Visit()</a>.</p>
 
 </div>
 </div>
@@ -315,7 +315,7 @@ template&lt;class Do &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d61/a05043.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d7c/a09647.html">PlayerDistWorker</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

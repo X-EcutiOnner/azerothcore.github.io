@@ -1,6 +1,6 @@
 var a27135 =
 [
-    [ "FilterTargets", "dd/d3e/a27135.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "dd/d3e/a27135.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "dd/d3e/a27135.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "HandleEffectApply", "dd/d3e/a27135.html#ab77ea5638ea12f2e305487b1080d0b0b", null ],
+    [ "PrepareAuraScript", "dd/d3e/a27135.html#aed642c73ab31fb63aa497ada45863ae6", null ],
+    [ "Register", "dd/d3e/a27135.html#ab9c68d7368ed71d2c5585df31b09cdd7", null ]
 ];

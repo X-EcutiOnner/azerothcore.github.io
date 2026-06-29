@@ -342,37 +342,37 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1568</span>    {</div>
-<div class="line"><span class="lineno"> 1569</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* caster = <a class="code hl_function" href="../../d2/d61/a11979.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1570</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 1571</span>        {</div>
-<div class="line"><span class="lineno"> 1572</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1573</span>        }</div>
-<div class="line"><span class="lineno"> 1574</span> </div>
-<div class="line"><span class="lineno"> 1575</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../d2/d61/a11979.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 1576</span> </div>
-<div class="line"><span class="lineno"> 1577</span>        <span class="keywordflow">if</span> (!target)</div>
-<div class="line"><span class="lineno"> 1578</span>        {</div>
-<div class="line"><span class="lineno"> 1579</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1580</span>        }</div>
-<div class="line"><span class="lineno"> 1581</span> </div>
-<div class="line"><span class="lineno"> 1582</span>        <span class="keywordflow">switch</span> (aurEff-&gt;GetEffIndex())</div>
-<div class="line"><span class="lineno"> 1583</span>        {</div>
-<div class="line"><span class="lineno"> 1584</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>:</div>
-<div class="line"><span class="lineno"> 1585</span>            caster-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a51d433dde350cd94d7c3c43e30ca997f">AddAura</a>(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a>, target);</div>
-<div class="line"><span class="lineno"> 1586</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1587</span>        }</div>
-<div class="line"><span class="lineno"> 1588</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1558</span>    {</div>
+<div class="line"><span class="lineno"> 1559</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* caster = <a class="code hl_function" href="../../d2/d61/a11979.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1560</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 1561</span>        {</div>
+<div class="line"><span class="lineno"> 1562</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1563</span>        }</div>
+<div class="line"><span class="lineno"> 1564</span> </div>
+<div class="line"><span class="lineno"> 1565</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../d2/d61/a11979.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 1566</span> </div>
+<div class="line"><span class="lineno"> 1567</span>        <span class="keywordflow">if</span> (!target)</div>
+<div class="line"><span class="lineno"> 1568</span>        {</div>
+<div class="line"><span class="lineno"> 1569</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1570</span>        }</div>
+<div class="line"><span class="lineno"> 1571</span> </div>
+<div class="line"><span class="lineno"> 1572</span>        <span class="keywordflow">switch</span> (aurEff-&gt;GetEffIndex())</div>
+<div class="line"><span class="lineno"> 1573</span>        {</div>
+<div class="line"><span class="lineno"> 1574</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>:</div>
+<div class="line"><span class="lineno"> 1575</span>            caster-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a51d433dde350cd94d7c3c43e30ca997f">AddAura</a>(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a>, target);</div>
+<div class="line"><span class="lineno"> 1576</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1577</span>        }</div>
+<div class="line"><span class="lineno"> 1578</span>    }</div>
 <div class="ttc" id="aa02228_html_a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9"><div class="ttname"><a href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a></div><div class="ttdeci">@ SPELL_TRANSITUS_SHIELD_IMPACT</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:54</div></div>
 <div class="ttc" id="aa02273_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa09103_html"><div class="ttname"><a href="../../d9/d6a/a09103.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
-<div class="ttc" id="aa09103_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../d9/d6a/a09103.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15148</div></div>
+<div class="ttc" id="aa09103_html_a51d433dde350cd94d7c3c43e30ca997f"><div class="ttname"><a href="../../d9/d6a/a09103.html#a51d433dde350cd94d7c3c43e30ca997f">Unit::AddAura</a></div><div class="ttdeci">Aura * AddAura(uint32 spellId, Unit *target)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:15159</div></div>
 <div class="ttc" id="aa11979_html_a67261dcb8b5f6089bdc1a906c91d61df"><div class="ttname"><a href="../../d2/d61/a11979.html#a67261dcb8b5f6089bdc1a906c91d61df">AuraScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1035</div></div>
 <div class="ttc" id="aa11979_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d2/d61/a11979.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1180</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l15148">Unit::AddAura()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00054">SPELL_TRANSITUS_SHIELD_IMPACT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l15159">Unit::AddAura()</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l00056">AuraEffect::GetEffIndex()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, and <a class="el" href="../../#l00054">SPELL_TRANSITUS_SHIELD_IMPACT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01607">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01597">Register()</a>.</p>
 
 </div>
 </div>
@@ -409,26 +409,26 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1591</span>    {</div>
-<div class="line"><span class="lineno"> 1592</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* caster = <a class="code hl_function" href="../../d2/d61/a11979.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
-<div class="line"><span class="lineno"> 1593</span> </div>
-<div class="line"><span class="lineno"> 1594</span>        <span class="keywordflow">if</span> (!caster)</div>
-<div class="line"><span class="lineno"> 1595</span>        {</div>
-<div class="line"><span class="lineno"> 1596</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1597</span>        }</div>
-<div class="line"><span class="lineno"> 1598</span> </div>
-<div class="line"><span class="lineno"> 1599</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../d2/d61/a11979.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
-<div class="line"><span class="lineno"> 1600</span> </div>
-<div class="line"><span class="lineno"> 1601</span>        <span class="keywordflow">if</span> (target)</div>
-<div class="line"><span class="lineno"> 1602</span>        {</div>
-<div class="line"><span class="lineno"> 1603</span>            target-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a>);</div>
-<div class="line"><span class="lineno"> 1604</span>        }</div>
-<div class="line"><span class="lineno"> 1605</span>    }</div>
-<div class="ttc" id="aa09103_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../d9/d6a/a09103.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5178</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 1581</span>    {</div>
+<div class="line"><span class="lineno"> 1582</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* caster = <a class="code hl_function" href="../../d2/d61/a11979.html#a67261dcb8b5f6089bdc1a906c91d61df">GetCaster</a>();</div>
+<div class="line"><span class="lineno"> 1583</span> </div>
+<div class="line"><span class="lineno"> 1584</span>        <span class="keywordflow">if</span> (!caster)</div>
+<div class="line"><span class="lineno"> 1585</span>        {</div>
+<div class="line"><span class="lineno"> 1586</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1587</span>        }</div>
+<div class="line"><span class="lineno"> 1588</span> </div>
+<div class="line"><span class="lineno"> 1589</span>        <a class="code hl_class" href="../../d9/d6a/a09103.html">Unit</a>* target = <a class="code hl_function" href="../../d2/d61/a11979.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>();</div>
+<div class="line"><span class="lineno"> 1590</span> </div>
+<div class="line"><span class="lineno"> 1591</span>        <span class="keywordflow">if</span> (target)</div>
+<div class="line"><span class="lineno"> 1592</span>        {</div>
+<div class="line"><span class="lineno"> 1593</span>            target-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#aac612f06e84142d92dcfc432b5feb4ac">RemoveAurasDueToSpell</a>(<a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a>);</div>
+<div class="line"><span class="lineno"> 1594</span>        }</div>
+<div class="line"><span class="lineno"> 1595</span>    }</div>
+<div class="ttc" id="aa09103_html_aac612f06e84142d92dcfc432b5feb4ac"><div class="ttname"><a href="../../d9/d6a/a09103.html#aac612f06e84142d92dcfc432b5feb4ac">Unit::RemoveAurasDueToSpell</a></div><div class="ttdeci">void RemoveAurasDueToSpell(uint32 spellId, ObjectGuid casterGUID=ObjectGuid::Empty, uint8 reqEffMask=0, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:5189</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05178">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l00054">SPELL_TRANSITUS_SHIELD_IMPACT</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01035">AuraScript::GetCaster()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l05189">Unit::RemoveAurasDueToSpell()</a>, and <a class="el" href="../../#l00054">SPELL_TRANSITUS_SHIELD_IMPACT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01607">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01597">Register()</a>.</p>
 
 </div>
 </div>
@@ -482,20 +482,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/d5f/a11923.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1608</span>    {</div>
-<div class="line"><span class="lineno"> 1609</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../db/d09/a03131.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d93/a20175.html#a83ff54727e886161c5568a60833932d1">spell_transitus_shield_beam_aura::HandleOnEffectApply</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
-<div class="line"><span class="lineno"> 1610</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/d93/a20175.html#a9e48d1c9dc26f882ee685a2cbf59667e">spell_transitus_shield_beam_aura::HandleOnEffectRemove</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
-<div class="line"><span class="lineno"> 1611</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1598</span>    {</div>
+<div class="line"><span class="lineno"> 1599</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#af325738f50fb9df450999e5e04ea65ed">OnEffectApply</a> += <a class="code hl_define" href="../../db/d09/a03131.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a>(<a class="code hl_function" href="../../dd/d93/a20175.html#a83ff54727e886161c5568a60833932d1">spell_transitus_shield_beam_aura::HandleOnEffectApply</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
+<div class="line"><span class="lineno"> 1600</span>        <a class="code hl_variable" href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">OnEffectRemove</a> += <a class="code hl_define" href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a>(<a class="code hl_function" href="../../dd/d93/a20175.html#a9e48d1c9dc26f882ee685a2cbf59667e">spell_transitus_shield_beam_aura::HandleOnEffectRemove</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a>, <a class="code hl_enumvalue" href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>);</div>
+<div class="line"><span class="lineno"> 1601</span>    }</div>
 <div class="ttc" id="aa03095_html_a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf"><div class="ttname"><a href="../../d0/d2b/a03095.html#a538cdc259460b365f406fe0b3a981799a66cca11731d68512cb0bb652cb1e7caf">SPELL_AURA_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:67</div></div>
 <div class="ttc" id="aa03095_html_a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91"><div class="ttname"><a href="../../d0/d2b/a03095.html#a82ebee9e3cf7eaf2ab892a6eb7796288a4ba94c36d138e079c354b69fe20d3d91">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a></div><div class="ttdeci">@ AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:51</div></div>
 <div class="ttc" id="aa03131_html_ac47070c5a13a5436cc5d204a1445c993"><div class="ttname"><a href="../../db/d09/a03131.html#ac47070c5a13a5436cc5d204a1445c993">AuraEffectApplyFn</a></div><div class="ttdeci">#define AuraEffectApplyFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:754</div></div>
 <div class="ttc" id="aa03131_html_af8f20adad60abdb901d6e7310afea31b"><div class="ttname"><a href="../../db/d09/a03131.html#af8f20adad60abdb901d6e7310afea31b">AuraEffectRemoveFn</a></div><div class="ttdeci">#define AuraEffectRemoveFn(F, I, N, M)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:765</div></div>
 <div class="ttc" id="aa11979_html_ab9127bc3610a6a30fa9bbf22f7339bcc"><div class="ttname"><a href="../../d2/d61/a11979.html#ab9127bc3610a6a30fa9bbf22f7339bcc">AuraScript::OnEffectRemove</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectRemove</div><div class="ttdef"><b>Definition:</b> SpellScript.h:760</div></div>
 <div class="ttc" id="aa11979_html_af325738f50fb9df450999e5e04ea65ed"><div class="ttname"><a href="../../d2/d61/a11979.html#af325738f50fb9df450999e5e04ea65ed">AuraScript::OnEffectApply</a></div><div class="ttdeci">HookList&lt; EffectApplyHandler &gt; OnEffectApply</div><div class="ttdef"><b>Definition:</b> SpellScript.h:749</div></div>
-<div class="ttc" id="aa20175_html_a83ff54727e886161c5568a60833932d1"><div class="ttname"><a href="../../dd/d93/a20175.html#a83ff54727e886161c5568a60833932d1">spell_transitus_shield_beam_aura::HandleOnEffectApply</a></div><div class="ttdeci">void HandleOnEffectApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1567</div></div>
-<div class="ttc" id="aa20175_html_a9e48d1c9dc26f882ee685a2cbf59667e"><div class="ttname"><a href="../../dd/d93/a20175.html#a9e48d1c9dc26f882ee685a2cbf59667e">spell_transitus_shield_beam_aura::HandleOnEffectRemove</a></div><div class="ttdeci">void HandleOnEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1590</div></div>
+<div class="ttc" id="aa20175_html_a83ff54727e886161c5568a60833932d1"><div class="ttname"><a href="../../dd/d93/a20175.html#a83ff54727e886161c5568a60833932d1">spell_transitus_shield_beam_aura::HandleOnEffectApply</a></div><div class="ttdeci">void HandleOnEffectApply(AuraEffect const *aurEff, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1557</div></div>
+<div class="ttc" id="aa20175_html_a9e48d1c9dc26f882ee685a2cbf59667e"><div class="ttname"><a href="../../dd/d93/a20175.html#a9e48d1c9dc26f882ee685a2cbf59667e">spell_transitus_shield_beam_aura::HandleOnEffectRemove</a></div><div class="ttdeci">void HandleOnEffectRemove(AuraEffect const *, AuraEffectHandleModes)</div><div class="ttdef"><b>Definition:</b> boss_flame_leviathan.cpp:1580</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01567">HandleOnEffectApply()</a>, <a class="el" href="../../#l01590">HandleOnEffectRemove()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">AURA_EFFECT_HANDLE_REAL_OR_REAPPLY_MASK</a>, <a class="el" href="../../#l00754">AuraEffectApplyFn</a>, <a class="el" href="../../#l00765">AuraEffectRemoveFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01557">HandleOnEffectApply()</a>, <a class="el" href="../../#l01580">HandleOnEffectRemove()</a>, <a class="el" href="../../#l00749">AuraScript::OnEffectApply</a>, <a class="el" href="../../#l00760">AuraScript::OnEffectRemove</a>, and <a class="el" href="../../#l00067">SPELL_AURA_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -524,9 +524,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/d5f/a11923.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1563</span>    {</div>
-<div class="line"><span class="lineno"> 1564</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d5f/a11923.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a> });</div>
-<div class="line"><span class="lineno"> 1565</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1553</span>    {</div>
+<div class="line"><span class="lineno"> 1554</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d5f/a11923.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../de/dfd/a02228.html#a0b01dc061c57d5260b5013020f833e53aa158cb8bd47ccb9f8b584087b80bd7d9">SPELL_TRANSITUS_SHIELD_IMPACT</a> });</div>
+<div class="line"><span class="lineno"> 1555</span>    }</div>
 <div class="ttc" id="aa11923_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d4/d5f/a11923.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00054">SPELL_TRANSITUS_SHIELD_IMPACT</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -539,7 +539,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d93/a20175.html">spell_transitus_shield_beam_aura</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

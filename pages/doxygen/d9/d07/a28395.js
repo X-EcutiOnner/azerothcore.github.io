@@ -1,6 +1,5 @@
 var a28395 =
 [
-    [ "npc_necropolis_proxy", "d9/d07/a28395.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d9/d07/a28395.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d9/d07/a28395.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_necropolis", "d9/d07/a28395.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d9/d07/a28395.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

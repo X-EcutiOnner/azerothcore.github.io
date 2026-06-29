@@ -1,15 +1,9 @@
 var a29887 =
 [
-    [ "toMMAPTileRecastConfig", "d2/da3/a29887.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
-    [ "baseUnitDim", "d2/da3/a29887.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
-    [ "cellSizeHorizontal", "d2/da3/a29887.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
-    [ "cellSizeVertical", "d2/da3/a29887.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
-    [ "maxSimplificationError", "d2/da3/a29887.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
-    [ "tilesPerMapEdge", "d2/da3/a29887.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
-    [ "vertexPerMapEdge", "d2/da3/a29887.html#adba40fb00d24af999a1970e3a5fed198", null ],
-    [ "vertexPerTileEdge", "d2/da3/a29887.html#ae7421270c917171607ff972483df0ba1", null ],
-    [ "walkableClimb", "d2/da3/a29887.html#a5501534adbc4018b5047599c12a2e582", null ],
-    [ "walkableHeight", "d2/da3/a29887.html#a3513a1b33d8682303eae1eaa30615a07", null ],
-    [ "walkableRadius", "d2/da3/a29887.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
-    [ "walkableSlopeAngle", "d2/da3/a29887.html#afa96a254067d2173288479cc60a6c97c", null ]
+    [ "WDT_file", "d2/da3/a29887.html#afa32849d31abde3cb2c9f3b558816368", null ],
+    [ "~WDT_file", "d2/da3/a29887.html#a29bf710b8346204eb848017450afebe1", null ],
+    [ "free", "d2/da3/a29887.html#aee6c7e1e402cf986e754753c5e8aee72", null ],
+    [ "prepareLoadedData", "d2/da3/a29887.html#add675f96f010e67ca1df01b029c9ebfb", null ],
+    [ "main", "d2/da3/a29887.html#a89ddf5d1527ac16a5d05790769d266b3", null ],
+    [ "mphd", "d2/da3/a29887.html#a1d216a266e5e6390e9bd2e02c9d3c7f2", null ]
 ];

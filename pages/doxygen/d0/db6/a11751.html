@@ -533,14 +533,14 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2781</span>    <a class="code hl_function" href="../../df/d18/a11747.html#a25ce9277dfb99c46f2f0136e4aa5ab7c">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a95169cc622a982afdbb1e5d865148c9d">_AddAura</a>(<span class="keyword">this</span>, caster);</div>
 <div class="line"><span class="lineno"> 2782</span>}</div>
 <div class="ttc" id="aa02273_html_a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c"><div class="ttname"><a href="../../d7/d6e/a02273.html#a1d74b2169d9a060490d81975a3064f50a463a6938a384ecb8e81ea00f8a66a85c">DIMINISHING_NONE</a></div><div class="ttdeci">@ DIMINISHING_NONE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3491</div></div>
-<div class="ttc" id="aa09103_html_a95169cc622a982afdbb1e5d865148c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#a95169cc622a982afdbb1e5d865148c9d">Unit::_AddAura</a></div><div class="ttdeci">void _AddAura(UnitAura *aura, Unit *caster)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4689</div></div>
+<div class="ttc" id="aa09103_html_a95169cc622a982afdbb1e5d865148c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#a95169cc622a982afdbb1e5d865148c9d">Unit::_AddAura</a></div><div class="ttdeci">void _AddAura(UnitAura *aura, Unit *caster)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4700</div></div>
 <div class="ttc" id="aa11747_html"><div class="ttname"><a href="../../df/d18/a11747.html">Aura</a></div><div class="ttdef"><b>Definition:</b> SpellAuras.h:87</div></div>
 <div class="ttc" id="aa11747_html_a25ce9277dfb99c46f2f0136e4aa5ab7c"><div class="ttname"><a href="../../df/d18/a11747.html#a25ce9277dfb99c46f2f0136e4aa5ab7c">Aura::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:108</div></div>
 <div class="ttc" id="aa11747_html_a9ed84a2b95a1cb898a682c809dd25d2b"><div class="ttname"><a href="../../df/d18/a11747.html#a9ed84a2b95a1cb898a682c809dd25d2b">Aura::LoadScripts</a></div><div class="ttdeci">void LoadScripts()</div><div class="ttdef"><b>Definition:</b> SpellAuras.cpp:2348</div></div>
 <div class="ttc" id="aa11747_html_ab477124f94af36e9be706451dce791f7"><div class="ttname"><a href="../../df/d18/a11747.html#ab477124f94af36e9be706451dce791f7">Aura::_InitEffects</a></div><div class="ttdeci">void _InitEffects(uint8 effMask, Unit *caster, int32 *baseAmount)</div><div class="ttdef"><b>Definition:</b> SpellAuras.cpp:374</div></div>
 <div class="ttc" id="aa11751_html_a4b413c5e62eee76875a22345059e6124"><div class="ttname"><a href="../../d0/db6/a11751.html#a4b413c5e62eee76875a22345059e6124">UnitAura::m_AuraDRGroup</a></div><div class="ttdeci">DiminishingGroup m_AuraDRGroup</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:308</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l04689">Unit::_AddAura()</a>, <a class="el" href="../../#l00374">Aura::_InitEffects()</a>, <a class="el" href="../../#l03491">DIMINISHING_NONE</a>, <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l02348">Aura::LoadScripts()</a>, and <a class="el" href="../../#l00308">m_AuraDRGroup</a>.</p>
+<p class="reference">References <a class="el" href="../../#l04700">Unit::_AddAura()</a>, <a class="el" href="../../#l00374">Aura::_InitEffects()</a>, <a class="el" href="../../#l03491">DIMINISHING_NONE</a>, <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l02348">Aura::LoadScripts()</a>, and <a class="el" href="../../#l00308">m_AuraDRGroup</a>.</p>
 
 </div>
 </div>
@@ -594,11 +594,11 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2790</span>        target-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae2d52757675f654e5e314e49c5df210b">ApplyDiminishingAura</a>(group, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno"> 2791</span>}</div>
 <div class="ttc" id="aa02273_html_a1d74b2169d9a060490d81975a3064f50"><div class="ttname"><a href="../../d7/d6e/a02273.html#a1d74b2169d9a060490d81975a3064f50">DiminishingGroup</a></div><div class="ttdeci">DiminishingGroup</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3490</div></div>
-<div class="ttc" id="aa09103_html_ae2d52757675f654e5e314e49c5df210b"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae2d52757675f654e5e314e49c5df210b">Unit::ApplyDiminishingAura</a></div><div class="ttdeci">void ApplyDiminishingAura(DiminishingGroup group, bool apply)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11881</div></div>
+<div class="ttc" id="aa09103_html_ae2d52757675f654e5e314e49c5df210b"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae2d52757675f654e5e314e49c5df210b">Unit::ApplyDiminishingAura</a></div><div class="ttdeci">void ApplyDiminishingAura(DiminishingGroup group, bool apply)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11892</div></div>
 <div class="ttc" id="aa11747_html_ad1c2269615a73318dc9438801d1ee087"><div class="ttname"><a href="../../df/d18/a11747.html#ad1c2269615a73318dc9438801d1ee087">Aura::_ApplyForTarget</a></div><div class="ttdeci">virtual void _ApplyForTarget(Unit *target, Unit *caster, AuraApplication *auraApp)</div><div class="ttdef"><b>Definition:</b> SpellAuras.cpp:431</div></div>
 <div class="ttc" id="aa11751_html_a8ebf7b01e7f324938f68ad4ce74d56b5"><div class="ttname"><a href="../../d0/db6/a11751.html#a8ebf7b01e7f324938f68ad4ce74d56b5">UnitAura::GetDiminishGroup</a></div><div class="ttdeci">DiminishingGroup GetDiminishGroup() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:305</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00431">Aura::_ApplyForTarget()</a>, <a class="el" href="../../#l11881">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00431">Aura::_ApplyForTarget()</a>, <a class="el" href="../../#l11892">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
 
 </div>
 </div>
@@ -652,7 +652,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2800</span>}</div>
 <div class="ttc" id="aa11747_html_a068cc46b636b35d317aea47a2de6253e"><div class="ttname"><a href="../../df/d18/a11747.html#a068cc46b636b35d317aea47a2de6253e">Aura::_UnapplyForTarget</a></div><div class="ttdeci">virtual void _UnapplyForTarget(Unit *target, Unit *caster, AuraApplication *auraApp)</div><div class="ttdef"><b>Definition:</b> SpellAuras.cpp:454</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00454">Aura::_UnapplyForTarget()</a>, <a class="el" href="../../#l11881">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00454">Aura::_UnapplyForTarget()</a>, <a class="el" href="../../#l11892">Unit::ApplyDiminishingAura()</a>, and <a class="el" href="../../#l00305">GetDiminishGroup()</a>.</p>
 
 </div>
 </div>
@@ -772,10 +772,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04901_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../db/d24/a04901.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
 <div class="ttc" id="aa09103_html"><div class="ttname"><a href="../../d9/d6a/a09103.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:664</div></div>
 <div class="ttc" id="aa09427_html_a1498ced567e6adac094dc3be7e6e9686"><div class="ttname"><a href="../../d9/d1b/a09427.html#a1498ced567e6adac094dc3be7e6e9686">Cell::VisitObjects</a></div><div class="ttdeci">static void VisitObjects(WorldObject const *obj, T &amp;visitor, float radius)</div><div class="ttdef"><b>Definition:</b> CellImpl.h:165</div></div>
-<div class="ttc" id="aa09607_html"><div class="ttname"><a href="../../d5/d9e/a09607.html">Acore::UnitListSearcher</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:414</div></div>
-<div class="ttc" id="aa09715_html"><div class="ttname"><a href="../../d8/dbf/a09715.html">Acore::AnyFriendlyUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:967</div></div>
-<div class="ttc" id="aa09723_html"><div class="ttname"><a href="../../d4/d76/a09723.html">Acore::AnyGroupedUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1003</div></div>
-<div class="ttc" id="aa09735_html"><div class="ttname"><a href="../../d8/d6f/a09735.html">Acore::AnyAoETargetUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1071</div></div>
+<div class="ttc" id="aa09607_html"><div class="ttname"><a href="../../d5/d9e/a09607.html">Acore::UnitListSearcher</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:444</div></div>
+<div class="ttc" id="aa09715_html"><div class="ttname"><a href="../../d8/dbf/a09715.html">Acore::AnyFriendlyUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:997</div></div>
+<div class="ttc" id="aa09723_html"><div class="ttname"><a href="../../d4/d76/a09723.html">Acore::AnyGroupedUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1033</div></div>
+<div class="ttc" id="aa09735_html"><div class="ttname"><a href="../../d8/d6f/a09735.html">Acore::AnyAoETargetUnitInObjectRangeCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1101</div></div>
 <div class="ttc" id="aa11747_html_a3d22c519ba658770e61a1616be667a09"><div class="ttname"><a href="../../df/d18/a11747.html#a3d22c519ba658770e61a1616be667a09">Aura::HasEffect</a></div><div class="ttdeci">bool HasEffect(uint8 effIndex) const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:174</div></div>
 <div class="ttc" id="aa11747_html_ab4abe60bbc09777bab95a0a0ec66af25"><div class="ttname"><a href="../../df/d18/a11747.html#ab4abe60bbc09777bab95a0a0ec66af25">Aura::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:100</div></div>
 <div class="ttc" id="aa11859_html_aa5bb0d7d6df03526d011d9cbfa3734e0"><div class="ttname"><a href="../../da/d4c/a11859.html#aa5bb0d7d6df03526d011d9cbfa3734e0">SpellInfo::Effects</a></div><div class="ttdeci">std::array&lt; SpellEffectInfo, MAX_SPELL_EFFECTS &gt; Effects</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:417</div></div>
@@ -844,10 +844,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno"> 2805</span>        <span class="keywordflow">return</span>;</div>
 <div class="line"><span class="lineno"> 2806</span>    <a class="code hl_function" href="../../df/d18/a11747.html#a25ce9277dfb99c46f2f0136e4aa5ab7c">GetUnitOwner</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a07e3ea0e73b3ac9987aedd33c99873c9">RemoveOwnedAura</a>(<span class="keyword">this</span>, removeMode);</div>
 <div class="line"><span class="lineno"> 2807</span>}</div>
-<div class="ttc" id="aa09103_html_a07e3ea0e73b3ac9987aedd33c99873c9"><div class="ttname"><a href="../../d9/d6a/a09103.html#a07e3ea0e73b3ac9987aedd33c99873c9">Unit::RemoveOwnedAura</a></div><div class="ttdeci">void RemoveOwnedAura(AuraMap::iterator &amp;i, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4974</div></div>
+<div class="ttc" id="aa09103_html_a07e3ea0e73b3ac9987aedd33c99873c9"><div class="ttname"><a href="../../d9/d6a/a09103.html#a07e3ea0e73b3ac9987aedd33c99873c9">Unit::RemoveOwnedAura</a></div><div class="ttdeci">void RemoveOwnedAura(AuraMap::iterator &amp;i, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:4985</div></div>
 <div class="ttc" id="aa11747_html_a462457cadd52ba8a0edd5609c71ebbc0"><div class="ttname"><a href="../../df/d18/a11747.html#a462457cadd52ba8a0edd5609c71ebbc0">Aura::IsRemoved</a></div><div class="ttdeci">bool IsRemoved() const</div><div class="ttdef"><b>Definition:</b> SpellAuras.h:162</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, and <a class="el" href="../../#l04974">Unit::RemoveOwnedAura()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00108">Aura::GetUnitOwner()</a>, <a class="el" href="../../#l00162">Aura::IsRemoved()</a>, and <a class="el" href="../../#l04985">Unit::RemoveOwnedAura()</a>.</p>
 
 </div>
 </div>
@@ -984,7 +984,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d0/db6/a11751.html">UnitAura</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

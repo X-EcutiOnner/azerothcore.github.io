@@ -1,7 +1,6 @@
 var a27867 =
 [
-    [ "FilterTargets", "d8/dcb/a27867.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d8/dcb/a27867.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d8/dcb/a27867.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d8/dcb/a27867.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "boss_taerarAI", "d2/dcd/a27871.html", "d2/dcd/a27871" ],
+    [ "boss_taerar", "d8/dcb/a27867.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "d8/dcb/a27867.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

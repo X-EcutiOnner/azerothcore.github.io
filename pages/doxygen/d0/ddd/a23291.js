@@ -1,8 +1,6 @@
 var a23291 =
 [
-    [ "boss_broggok", "d0/ddd/a23291.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d0/ddd/a23291.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d0/ddd/a23291.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d0/ddd/a23291.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d0/ddd/a23291.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d0/d56/a23295.html", "d0/d56/a23295" ],
+    [ "instance_gruuls_lair", "d0/ddd/a23291.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d0/ddd/a23291.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

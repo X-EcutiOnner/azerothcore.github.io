@@ -1,6 +1,6 @@
 var a27615 =
 [
-    [ "HandleHeal", "d3/da2/a27615.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d3/da2/a27615.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d3/da2/a27615.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleDummy", "d3/da2/a27615.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "d3/da2/a27615.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "d3/da2/a27615.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

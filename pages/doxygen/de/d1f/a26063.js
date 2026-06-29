@@ -1,7 +1,7 @@
 var a26063 =
 [
-    [ "AfterRemove", "de/d1f/a26063.html#a554e2ab9dfd9d157eee13b7a5c33cf2e", null ],
-    [ "PrepareAuraScript", "de/d1f/a26063.html#a13f11ec412f18d805282b3810aff5e90", null ],
-    [ "Register", "de/d1f/a26063.html#ac9a6a96da8387d3c51fece7f0a968779", null ],
-    [ "Validate", "de/d1f/a26063.html#a2863c81b02f0b08430d9e713e7b644f7", null ]
+    [ "HandleScript", "de/d1f/a26063.html#a1f5993561f68ab1f540fcc18fe309b7c", null ],
+    [ "PrepareSpellScript", "de/d1f/a26063.html#a91a04a3baa074b228371c6220e67f3f8", null ],
+    [ "Register", "de/d1f/a26063.html#a4f5cf691ed45724ef113e121f146c9d0", null ],
+    [ "Validate", "de/d1f/a26063.html#ae618fdfd0aa5f77e841c6992f7bc9d80", null ]
 ];

@@ -1,6 +1,5 @@
 var a28023 =
 [
-    [ "go_bashir_crystalforge", "d2/dd9/a28023.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "d2/dd9/a28023.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "d2/dd9/a28023.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_tele_to_violet_stand", "d2/dd9/a28023.html#a63350db1dfd400c565e30775378d48cc", null ],
+    [ "OnGossipHello", "d2/dd9/a28023.html#a4d075584f065501a2c3be9ef82387f43", null ]
 ];

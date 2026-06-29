@@ -1,7 +1,15 @@
 var a23843 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "db/d0e/a23843.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "db/d0e/a23843.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "db/d0e/a23843.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "db/d0e/a23843.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_maghar_captiveAI", "db/d0e/a23843.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
+    [ "JustDied", "db/d0e/a23843.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
+    [ "JustEngagedWith", "db/d0e/a23843.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
+    [ "JustSummoned", "db/d0e/a23843.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
+    [ "Reset", "db/d0e/a23843.html#abebcdcb102f8d338ae0b792708940cd7", null ],
+    [ "SpellHitTarget", "db/d0e/a23843.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
+    [ "UpdateAI", "db/d0e/a23843.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
+    [ "WaypointReached", "db/d0e/a23843.html#abfbba8942df57e974ab24ad693c16e70", null ],
+    [ "WaypointReached", "db/d0e/a23843.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "ChainLightningTimer", "db/d0e/a23843.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
+    [ "FrostShockTimer", "db/d0e/a23843.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
+    [ "HealTimer", "db/d0e/a23843.html#a31613adba706f3b5f948f2f7c4222038", null ]
 ];

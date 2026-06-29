@@ -1,8 +1,9 @@
 var a26775 =
 [
-    [ "HandleEffectRemove", "db/d25/a26775.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "db/d25/a26775.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "db/d25/a26775.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "db/d25/a26775.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "db/d25/a26775.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleAfterCast", "db/d25/a26775.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "db/d25/a26775.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "db/d25/a26775.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "db/d25/a26775.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "db/d25/a26775.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "db/d25/a26775.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

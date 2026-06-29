@@ -1,6 +1,6 @@
 var a27147 =
 [
-    [ "HandleAfterCast", "de/d8a/a27147.html#aacd4954973c8157ca65958b9ec08155b", null ],
-    [ "PrepareSpellScript", "de/d8a/a27147.html#a45629d348275833930bc5180e9a347f9", null ],
-    [ "Register", "de/d8a/a27147.html#a9c43529cea77a4be86048616ebc64b2c", null ]
+    [ "CheckProc", "de/d8a/a27147.html#ae8f06d0b6738c92a2e4a45fe0ca81cb9", null ],
+    [ "PrepareAuraScript", "de/d8a/a27147.html#aafd3eba8af1edb89ded08b056f9b497c", null ],
+    [ "Register", "de/d8a/a27147.html#aeb1d84b45afc05b8b9ca5cea2a50f5a4", null ]
 ];

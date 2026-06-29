@@ -1,6 +1,6 @@
 var a26939 =
 [
-    [ "HandleEffectPeriodic", "dd/dcd/a26939.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "dd/dcd/a26939.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "dd/dcd/a26939.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleTriggerSpell", "dd/dcd/a26939.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "dd/dcd/a26939.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "dd/dcd/a26939.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

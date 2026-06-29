@@ -1,5 +1,7 @@
 var a23855 =
 [
-    [ "go_warmaul_prison", "d8/d12/a23855.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d8/d12/a23855.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_kurenai_captiveAI", "d7/d50/a23859.html", "d7/d50/a23859" ],
+    [ "npc_kurenai_captive", "d8/d12/a23855.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d8/d12/a23855.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d8/d12/a23855.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

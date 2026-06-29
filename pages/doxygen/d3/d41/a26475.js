@@ -1,11 +1,9 @@
 var a26475 =
 [
-    [ "CheckCast", "d3/d41/a26475.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleMaxHealthHeal", "d3/d41/a26475.html#a019833641487ac07cb2c8740d5686a41", null ],
-    [ "HandleScript", "d3/d41/a26475.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d3/d41/a26475.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d3/d41/a26475.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d3/d41/a26475.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d3/d41/a26475.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d3/d41/a26475.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "spell_pal_judgement", "d3/d41/a26475.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
+    [ "HandleScriptEffect", "d3/d41/a26475.html#add419a824dbebdc168d2b6dc49d07913", null ],
+    [ "PrepareSpellScript", "d3/d41/a26475.html#a2cffed69c16a1a6189048ed52af35152", null ],
+    [ "Register", "d3/d41/a26475.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
+    [ "Validate", "d3/d41/a26475.html#a3971c195a279338253771675131b4802", null ],
+    [ "_spellId", "d3/d41/a26475.html#ad49ea02800078c672747f4fdbbab1d20", null ]
 ];

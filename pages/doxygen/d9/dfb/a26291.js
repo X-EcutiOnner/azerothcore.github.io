@@ -1,8 +1,8 @@
 var a26291 =
 [
-    [ "OnRemove", "d9/dfb/a26291.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
-    [ "PrepareAuraScript", "d9/dfb/a26291.html#ad06dbe9207315484cbb886fcc75bb958", null ],
-    [ "PrepareProc", "d9/dfb/a26291.html#a2f4b562be28420d25d09b81ad72af17f", null ],
-    [ "Register", "d9/dfb/a26291.html#a04d9c48f8842392a4d318677537ac248", null ],
-    [ "Validate", "d9/dfb/a26291.html#ab15a75ec708d8c683166bd73fab29701", null ]
+    [ "HandleDummy", "d9/dfb/a26291.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d9/dfb/a26291.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d9/dfb/a26291.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d9/dfb/a26291.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d9/dfb/a26291.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

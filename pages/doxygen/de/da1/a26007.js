@@ -1,7 +1,6 @@
 var a26007 =
 [
-    [ "HandleProc", "de/da1/a26007.html#aebfe42c802e0abb628b5dee769e44235", null ],
-    [ "PrepareAuraScript", "de/da1/a26007.html#a74f6874be6f97566495ee4c5df790897", null ],
-    [ "Register", "de/da1/a26007.html#a662623c5bf43d0dc3404337ef3c30eb6", null ],
-    [ "Validate", "de/da1/a26007.html#a114692bbf6fd7600c56e794a5f6ddb29", null ]
+    [ "OnRemove", "de/da1/a26007.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "de/da1/a26007.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "de/da1/a26007.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

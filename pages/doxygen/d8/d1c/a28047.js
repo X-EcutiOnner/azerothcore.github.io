@@ -1,5 +1,5 @@
 var a28047 =
 [
-    [ "go_soulwellAI", "d8/d1c/a28047.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "d8/d1c/a28047.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "go_table_theka", "d8/d1c/a28047.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d8/d1c/a28047.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

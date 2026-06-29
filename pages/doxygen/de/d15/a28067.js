@@ -1,5 +1,5 @@
 var a28067 =
 [
-    [ "go_veil_skith_cage", "de/d15/a28067.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "de/d15/a28067.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "go_hive_pod", "de/d15/a28067.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "de/d15/a28067.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

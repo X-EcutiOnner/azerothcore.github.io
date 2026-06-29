@@ -1,7 +1,6 @@
 var a23831 =
 [
-    [ "npc_maghar_captiveAI", "d2/da6/a23835.html", "d2/da6/a23835" ],
-    [ "npc_maghar_captive", "d1/dba/a23831.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d1/dba/a23831.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d1/dba/a23831.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "go_beaconAI", "d1/dba/a23831.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d1/dba/a23831.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "d1/dba/a23831.html#a083094ececd327c833649da6a755c635", null ]
 ];

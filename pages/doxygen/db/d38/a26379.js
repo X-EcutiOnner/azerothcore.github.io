@@ -1,6 +1,6 @@
 var a26379 =
 [
-    [ "FilterTargets", "db/d38/a26379.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "db/d38/a26379.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "db/d38/a26379.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "CheckEffectProc", "db/d38/a26379.html#af7756cdb71cc2acc15c56fffc49609f4", null ],
+    [ "PrepareAuraScript", "db/d38/a26379.html#a1025c7edec455f647c5c37ffebdf7576", null ],
+    [ "Register", "db/d38/a26379.html#a282d4aced8b34e5d800e13dc8e71ef7b", null ]
 ];

@@ -1,6 +1,7 @@
 var a26727 =
 [
-    [ "HandleDummyEffect", "d0/dc3/a26727.html#a6340c91d8419755386cb3e138cb3c171", null ],
-    [ "PrepareSpellScript", "d0/dc3/a26727.html#a67d08252c8b8deee312f17affb557df8", null ],
-    [ "Register", "d0/dc3/a26727.html#a262bb06ac1d6a55e886d1226ad7bb583", null ]
+    [ "HandleProc", "d0/dc3/a26727.html#ac65d59f4632194120b58b34561f2c812", null ],
+    [ "PrepareAuraScript", "d0/dc3/a26727.html#ac9ab849c618fb1172dbde50876a4f5f3", null ],
+    [ "Register", "d0/dc3/a26727.html#aea263594afe1d0e2fe3fac906dfb7e4e", null ],
+    [ "Validate", "d0/dc3/a26727.html#afe98e7e6dfbe3bcdaaa353e608dc69d6", null ]
 ];

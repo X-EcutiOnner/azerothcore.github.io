@@ -1,6 +1,6 @@
 var a22831 =
 [
-    [ "PrepareAuraScript", "db/d06/a22831.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "db/d06/a22831.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "db/d06/a22831.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "HandleEffectRemove", "db/d06/a22831.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "db/d06/a22831.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "db/d06/a22831.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

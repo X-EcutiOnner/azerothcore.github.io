@@ -1,6 +1,7 @@
 var a27431 =
 [
-    [ "HandleScriptEffect", "dd/df8/a27431.html#a3f8988017d088d08df08ba8b696b552b", null ],
-    [ "PrepareSpellScript", "dd/df8/a27431.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
-    [ "Register", "dd/df8/a27431.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
+    [ "HandleScriptEffect", "dd/df8/a27431.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "dd/df8/a27431.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "dd/df8/a27431.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "dd/df8/a27431.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

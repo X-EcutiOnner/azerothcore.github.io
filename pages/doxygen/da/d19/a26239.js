@@ -1,5 +1,6 @@
 var a26239 =
 [
-    [ "Trigger", "da/d19/a26239.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "da/d19/a26239.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "OnRemove", "da/d19/a26239.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "da/d19/a26239.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "da/d19/a26239.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

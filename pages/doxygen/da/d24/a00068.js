@@ -1,6 +1,6 @@
 var a00068 =
 [
-    [ "SpellCritDamageBonusOrderTest", "d9/dd1/a29603.html", null ],
+    [ "SpellCritDamageBonusOrderTest", "dd/d89/a29611.html", null ],
     [ "CorrectCritOrder", "da/d24/a00068.html#ab55aeffce172b7e667fdcb86ba06d954", null ],
     [ "OldWrongCritOrder", "da/d24/a00068.html#ae0ad4b3cd3c2381976fd6106fc4f8088", null ],
     [ "TEST_F", "da/d24/a00068.html#aa932f572f1a8831ecf4bc5475b7598fb", null ],

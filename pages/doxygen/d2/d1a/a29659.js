@@ -1,5 +1,9 @@
 var a29659 =
 [
-    [ "SetUp", "d2/d1a/a29659.html#aa4192b0ae6f716449e20ead2b5a5a387", null ],
-    [ "_allEntries", "d2/d1a/a29659.html#a7c06feea09d0606a50198a307e43b989", null ]
+    [ "defaultHitMask", "d2/d1a/a29659.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
+    [ "defaultSpellPhaseMask", "d2/d1a/a29659.html#af927bd441959e8e122648de610398c65", null ],
+    [ "defaultSpellTypeMask", "d2/d1a/a29659.html#aa64e6ad192c41998b368b908c499574d", null ],
+    [ "name", "d2/d1a/a29659.html#a78f8589133427f536f15ea05672ad42f", null ],
+    [ "procFlag", "d2/d1a/a29659.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
+    [ "requiresSpellPhase", "d2/d1a/a29659.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
 ];

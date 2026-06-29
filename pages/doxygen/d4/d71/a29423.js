@@ -1,12 +1,6 @@
 var a29423 =
 [
-    [ "SetUp", "d4/d71/a29423.html#a15e54f4d79771affa21c8728d4a70a35", null ],
-    [ "TearDown", "d4/d71/a29423.html#a86941b0a70e73299beb5d68fd9d8d68b", null ],
-    [ "PERM_BAN", "d4/d71/a29423.html#a309db6b83865b1f8afc92983ed4991fc", null ],
-    [ "PERM_KICK", "d4/d71/a29423.html#ab224c843e5dac2fe11f8165ed37c325a", null ],
-    [ "PERM_SHUTDOWN", "d4/d71/a29423.html#a385552a15b063d426557e5f87f6ba6b6", null ],
-    [ "PERM_TELEPORT", "d4/d71/a29423.html#a61c556021598bc970927b3abe49cd68d", null ],
-    [ "rbacData", "d4/d71/a29423.html#aa0772fd125f832a546a4a39305ec77c4", null ],
-    [ "ROLE_ADMIN", "d4/d71/a29423.html#abfcb781ea0fdaf44b5e9d688c3b52abc", null ],
-    [ "ROLE_GM", "d4/d71/a29423.html#a158724ae6a0c8c2f262f8de6b0e9b4dc", null ]
+    [ "SetUp", "d4/d71/a29423.html#a3b073d640ac36d1a7ca92db5bc96bfde", null ],
+    [ "TearDown", "d4/d71/a29423.html#a558a475bde12e46cc17b6246bf2dc223", null ],
+    [ "rbacData", "d4/d71/a29423.html#a75551f5a3e94383cbc31bc1af4dbf19a", null ]
 ];

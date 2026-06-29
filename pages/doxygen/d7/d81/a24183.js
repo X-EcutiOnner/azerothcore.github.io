@@ -1,10 +1,8 @@
 var a24183 =
 [
-    [ "npc_pet_hunter_snake_trap", "d7/d81/a24183.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d7/d81/a24183.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d7/d81/a24183.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d7/d81/a24183.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d7/d81/a24183.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d7/d81/a24183.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d7/d81/a24183.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_pet_darting_hatchling", "d7/d81/a24183.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "d7/d81/a24183.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "d7/d81/a24183.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "d7/d81/a24183.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "d7/d81/a24183.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

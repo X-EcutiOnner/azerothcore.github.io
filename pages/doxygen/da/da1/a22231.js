@@ -1,6 +1,6 @@
 var a22231 =
 [
-    [ "npc_crusade_recruitAI", "d8/d37/a22235.html", "d8/d37/a22235" ],
-    [ "npc_crusade_recruit", "da/da1/a22231.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "da/da1/a22231.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_released_offspring_harkoaAI", "d8/d37/a22235.html", "d8/d37/a22235" ],
+    [ "npc_released_offspring_harkoa", "da/da1/a22231.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "da/da1/a22231.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

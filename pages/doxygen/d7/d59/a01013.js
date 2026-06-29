@@ -1,9 +1,9 @@
 var a01013 =
 [
-    [ "boss_najentus", "db/d36/a22787.html", "db/d36/a22787" ],
-    [ "spell_najentus_needle_spine", "d7/da7/a22791.html", "d7/da7/a22791" ],
-    [ "spell_najentus_hurl_spine", "dd/d8f/a22795.html", "dd/d8f/a22795" ],
-    [ "spell_najentus_remove_spines", "d2/d13/a22799.html", "d2/d13/a22799" ],
+    [ "boss_najentus", "dd/d8f/a22795.html", "dd/d8f/a22795" ],
+    [ "spell_najentus_needle_spine", "d2/d13/a22799.html", "d2/d13/a22799" ],
+    [ "spell_najentus_hurl_spine", "d3/df9/a22803.html", "d3/df9/a22803" ],
+    [ "spell_najentus_remove_spines", "d8/d37/a22807.html", "d8/d37/a22807" ],
     [ "Events", "d7/d59/a01013.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "db/d44/a00533.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "db/d44/a00533.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1122,7 +1122,6 @@ var a01013 =
       [ "EVENT_MIMIRONS_INFERNO", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1a07faa54533adef9ff9cd67857f7455e7", null ],
       [ "EVENT_THORIMS_HAMMER", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
-      [ "EVENT_POSITION_CHECK", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1a6c78a4ab4f97a524c89f286ee54273d2", null ],
       [ "EVENT_UNFREEZE_MONSTER", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1a6f5e7c0cf9c2e8ba23f0ff875f1d2dc5", null ],
       [ "EVENT_START_FIGHT", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1a1cd628fe8ad12d4928e8a1c4eb98ef76", null ],
       [ "EVENT_UNFREEZE_MONSTER2", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1acb4a3437f17d4001a54550be921e7fb6", null ],

@@ -1,7 +1,6 @@
 var a27131 =
 [
-    [ "HandleProc", "d3/dbe/a27131.html#adec7010a0de4ab9e8756d345c4adff14", null ],
-    [ "PrepareAuraScript", "d3/dbe/a27131.html#a16986cb0bf0e46d44a640486580480aa", null ],
-    [ "Register", "d3/dbe/a27131.html#a093cac6e19a12d01b7dba974b595502e", null ],
-    [ "Validate", "d3/dbe/a27131.html#a558005f2d0ed6d42705a3e0ee940ffcc", null ]
+    [ "FilterTargets", "d3/dbe/a27131.html#ac157503562ac3ef9ddba2c358595ecc5", null ],
+    [ "PrepareSpellScript", "d3/dbe/a27131.html#af41d6353088c5565b0027265c9bd4d8b", null ],
+    [ "Register", "d3/dbe/a27131.html#a95e386af9016e598e932177cb400fd8b", null ]
 ];

@@ -1,5 +1,7 @@
 var a28439 =
 [
-    [ "ServerMailReward", "d4/dca/a28439.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "d4/dca/a28439.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "HandleDummy", "d4/dca/a28439.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d4/dca/a28439.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d4/dca/a28439.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d4/dca/a28439.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

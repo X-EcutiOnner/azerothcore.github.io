@@ -1,13 +1,6 @@
 var a22959 =
 [
-    [ "npc_inner_demon", "df/d70/a22959.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "df/d70/a22959.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "df/d70/a22959.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "df/d70/a22959.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "df/d70/a22959.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "df/d70/a22959.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "df/d70/a22959.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "df/d70/a22959.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "df/d70/a22959.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "df/d70/a22959.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "HandleEffectRemove", "df/d70/a22959.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
+    [ "PrepareAuraScript", "df/d70/a22959.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
+    [ "Register", "df/d70/a22959.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
 ];

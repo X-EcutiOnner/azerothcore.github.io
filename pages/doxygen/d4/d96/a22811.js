@@ -1,9 +1,6 @@
 var a22811 =
 [
-    [ "HandleEffectApply", "d4/d96/a22811.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "d4/d96/a22811.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "d4/d96/a22811.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "d4/d96/a22811.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "d4/d96/a22811.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "d4/d96/a22811.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "instance_black_temple_InstanceMapScript", "da/d29/a22815.html", "da/d29/a22815" ],
+    [ "instance_black_temple", "d4/d96/a22811.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d4/d96/a22811.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

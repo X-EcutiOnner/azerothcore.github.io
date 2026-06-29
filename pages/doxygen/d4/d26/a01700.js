@@ -1,6 +1,6 @@
 var a01700 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "db/db5/a22287.html", "db/db5/a22287" ],
+    [ "OutdoorPvP_hellfire_peninsula", "d8/d84/a22295.html", "d8/d84/a22295" ],
     [ "AddSC_outdoorpvp_hp", "d4/d26/a01700.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
     [ "HP_LANG_CAPTURE_A", "d4/d26/a01700.html#a642fe1233b764402bae812604b684442", null ],
     [ "HP_LANG_CAPTURE_H", "d4/d26/a01700.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],

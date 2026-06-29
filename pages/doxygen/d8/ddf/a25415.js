@@ -1,8 +1,7 @@
 var a25415 =
 [
-    [ "HandlePeriodic", "d8/ddf/a25415.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "d8/ddf/a25415.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "d8/ddf/a25415.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "d8/ddf/a25415.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "d8/ddf/a25415.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "HandleDummy", "d8/ddf/a25415.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "d8/ddf/a25415.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "d8/ddf/a25415.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "d8/ddf/a25415.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

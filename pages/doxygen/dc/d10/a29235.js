@@ -1,10 +1,7 @@
 var a29235 =
 [
-    [ "BugfixVersion", "dc/d10/a29235.html#a461f8c749a874405584dc1fd3fe1d805", null ],
-    [ "Build", "dc/d10/a29235.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
-    [ "HotfixVersion", "dc/d10/a29235.html#a0df61c036a57b8a3efde5d180dc38131", null ],
-    [ "MacHash", "dc/d10/a29235.html#ad59772e86371318fe975760e303fa7d9", null ],
-    [ "MajorVersion", "dc/d10/a29235.html#a0eb78564680f771e325536a0ab77382a", null ],
-    [ "MinorVersion", "dc/d10/a29235.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
-    [ "WindowsHash", "dc/d10/a29235.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
+    [ "RealmHandle", "dc/d10/a29235.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "dc/d10/a29235.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "dc/d10/a29235.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "dc/d10/a29235.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

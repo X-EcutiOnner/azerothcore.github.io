@@ -314,15 +314,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  905</span>    {</div>
-<div class="line"><span class="lineno">  906</span>        <span class="keywordflow">if</span> (targets.empty())</div>
-<div class="line"><span class="lineno">  907</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  908</span> </div>
-<div class="line"><span class="lineno">  909</span>        <span class="comment">// keep single random element only</span></div>
-<div class="line"><span class="lineno">  910</span>        <a class="code hl_class" href="../../d0/dbd/a08755.html">WorldObject</a>* <span class="keyword">const</span> bunny = <a class="code hl_function" href="../../da/d0f/a05063.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(targets);</div>
-<div class="line"><span class="lineno">  911</span>        targets.clear();</div>
-<div class="line"><span class="lineno">  912</span>        targets.push_back(bunny);</div>
-<div class="line"><span class="lineno">  913</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  913</span>    {</div>
+<div class="line"><span class="lineno">  914</span>        <span class="keywordflow">if</span> (targets.empty())</div>
+<div class="line"><span class="lineno">  915</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  916</span> </div>
+<div class="line"><span class="lineno">  917</span>        <span class="comment">// keep single random element only</span></div>
+<div class="line"><span class="lineno">  918</span>        <a class="code hl_class" href="../../d0/dbd/a08755.html">WorldObject</a>* <span class="keyword">const</span> bunny = <a class="code hl_function" href="../../da/d0f/a05063.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a>(targets);</div>
+<div class="line"><span class="lineno">  919</span>        targets.clear();</div>
+<div class="line"><span class="lineno">  920</span>        targets.push_back(bunny);</div>
+<div class="line"><span class="lineno">  921</span>    }</div>
 <div class="ttc" id="aa05063_html_a8ca673d18562735d4ed20a11519b3d46"><div class="ttname"><a href="../../da/d0f/a05063.html#a8ca673d18562735d4ed20a11519b3d46">Acore::Containers::SelectRandomContainerElement</a></div><div class="ttdeci">auto SelectRandomContainerElement(C const &amp;container) -&gt; typename std::add_const&lt; decltype(*std::begin(container))&gt;::type &amp;</div><div class="ttdef"><b>Definition:</b> Containers.h:133</div></div>
 <div class="ttc" id="aa08755_html"><div class="ttname"><a href="../../d0/dbd/a08755.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:475</div></div>
 </div><!-- fragment -->
@@ -354,9 +354,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/d5f/a11923.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  916</span>    {</div>
-<div class="line"><span class="lineno">  917</span>        <a class="code hl_variable" href="../../dc/de0/a11939.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../db/d09/a03131.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(spell_torch_target_picker::SelectTargets, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a>);</div>
-<div class="line"><span class="lineno">  918</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  924</span>    {</div>
+<div class="line"><span class="lineno">  925</span>        <a class="code hl_variable" href="../../dc/de0/a11939.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../db/d09/a03131.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(spell_torch_target_picker::SelectTargets, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a>);</div>
+<div class="line"><span class="lineno">  926</span>    }</div>
 <div class="ttc" id="aa02273_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d7/d6e/a02273.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa02273_html_a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6"><div class="ttname"><a href="../../d7/d6e/a02273.html#a418aed4e4066eb09ab979b5d78dc9152a3f043071f052463518f0978322c782c6">TARGET_UNIT_SRC_AREA_ENTRY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENTRY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1420</div></div>
 <div class="ttc" id="aa03131_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../db/d09/a03131.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
@@ -372,7 +372,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d7/db5/a14939.html">spell_torch_target_picker</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var a01061 =
 [
-    [ "boss_pathaleon_the_calculator", "de/d26/a23707.html", "de/d26/a23707" ],
+    [ "boss_pathaleon_the_calculator", "d3/db3/a23715.html", "d3/db3/a23715" ],
     [ "Misc", "de/d9e/a01061.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "NEFARIUS_PATH_2", "d4/def/a00359.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
       [ "NEFARIUS_PATH_3", "d4/def/a00359.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6596b4c264ab163a34c17c6ea798adcb", null ],

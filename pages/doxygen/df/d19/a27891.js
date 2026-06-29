@@ -1,6 +1,9 @@
 var a27891 =
 [
-    [ "go_witherbark_totem_bundleAI", "dd/db5/a27895.html", "dd/db5/a27895" ],
-    [ "go_witherbark_totem_bundle", "df/d19/a27891.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "df/d19/a27891.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "ChatLogScript", "df/d19/a27891.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "df/d19/a27891.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "df/d19/a27891.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "df/d19/a27891.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

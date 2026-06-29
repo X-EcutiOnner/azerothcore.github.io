@@ -1,29 +1,6 @@
 var a29363 =
 [
-    [ "ProcEventInfoBuilder", "d8/d19/a29363.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
-    [ "Build", "d8/d19/a29363.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
-    [ "WithActionTarget", "d8/d19/a29363.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
-    [ "WithActor", "d8/d19/a29363.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
-    [ "WithDamageInfo", "d8/d19/a29363.html#a4d207196177033340282dd33b11c9d82", null ],
-    [ "WithHealInfo", "d8/d19/a29363.html#a3883e3ba66735492617a9907cdde3794", null ],
-    [ "WithHitMask", "d8/d19/a29363.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
-    [ "WithProcAuraEffectIndex", "d8/d19/a29363.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
-    [ "WithProcTarget", "d8/d19/a29363.html#af39d23e9a51f924215a20a578062a9db", null ],
-    [ "WithSpell", "d8/d19/a29363.html#a42ec10664e0fdad98e02267099f0e73c", null ],
-    [ "WithSpellPhaseMask", "d8/d19/a29363.html#a2247bbb4936f6d48c4214641a5a466af", null ],
-    [ "WithSpellTypeMask", "d8/d19/a29363.html#aebac87d053e09dba16456a9f49322973", null ],
-    [ "WithTriggeredByAuraSpell", "d8/d19/a29363.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
-    [ "WithTypeMask", "d8/d19/a29363.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
-    [ "_actionTarget", "d8/d19/a29363.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
-    [ "_actor", "d8/d19/a29363.html#a03c844febd2cafe041e5426a02816633", null ],
-    [ "_damageInfo", "d8/d19/a29363.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
-    [ "_healInfo", "d8/d19/a29363.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
-    [ "_hitMask", "d8/d19/a29363.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
-    [ "_procAuraEffectIndex", "d8/d19/a29363.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
-    [ "_procTarget", "d8/d19/a29363.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
-    [ "_spell", "d8/d19/a29363.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
-    [ "_spellPhaseMask", "d8/d19/a29363.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
-    [ "_spellTypeMask", "d8/d19/a29363.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
-    [ "_triggeredByAuraSpell", "d8/d19/a29363.html#a71180307b8e60ec02f11f388f43df126", null ],
-    [ "_typeMask", "d8/d19/a29363.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
+    [ "hasInstantTargetProcs", "d8/d19/a29363.html#a043a2884a456208d85bc3bf8d4733682", null ],
+    [ "isRemoved", "d8/d19/a29363.html#a3f593c8bba6edde580f84fcc5ce9215b", null ],
+    [ "spellId", "d8/d19/a29363.html#aee26a119051d638047018aeb93d593f6", null ]
 ];

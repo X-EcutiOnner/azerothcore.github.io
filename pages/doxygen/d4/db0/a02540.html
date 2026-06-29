@@ -1932,7 +1932,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  128</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a837911d0cc8a407ba9d0a0ab9d58403c">SMART_EVENT_CHARMED</a>                  = 29,      <span class="comment">// onRemove (0 - on apply, 1 - on remove)</span></div>
 <div class="line"><span class="lineno">  129</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a2d557337820fec1f6b1e944fd25aedc1">SMART_EVENT_CHARMED_TARGET</a>           = 30,      <span class="comment">// NONE</span></div>
 <div class="line"><span class="lineno">  130</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a8eab4eddd5b7ddbe8a8c2eb4cd48f64e">SMART_EVENT_SPELLHIT_TARGET</a>          = 31,      <span class="comment">// SpellID, School, CooldownMin, CooldownMax</span></div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97addf136aac713398c590a9db46fe2a129">SMART_EVENT_DAMAGED</a>                  = 32,      <span class="comment">// MinDmg, MaxDmg, CooldownMin, CooldownMax</span></div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97addf136aac713398c590a9db46fe2a129">SMART_EVENT_DAMAGED</a>                  = 32,      <span class="comment">// MinDmg, MaxDmg, CooldownMin, CooldownMax, rangeMin (hpPct, if set: health check mode, one-shot)</span></div>
 <div class="line"><span class="lineno">  132</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97afb185d88c74764fb71c4cbf59b5597ee">SMART_EVENT_DAMAGED_TARGET</a>           = 33,      <span class="comment">// MinDmg, MaxDmg, CooldownMin, CooldownMax</span></div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a4784e31184dd9151813383c1d6b3e5a8">SMART_EVENT_MOVEMENTINFORM</a>           = 34,      <span class="comment">// MovementType(any), PointID, PathId(0 - any)</span></div>
 <div class="line"><span class="lineno">  134</span>    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a8e5d5aa0dedbff31bb70e7955ad5bf97a0b0a43bdef78051c7e6540613c8d30d2">SMART_EVENT_SUMMON_DESPAWNED</a>         = 35,      <span class="comment">// Entry, CooldownMin, CooldownMax</span></div>
@@ -2775,7 +2775,7 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00985">SmartAIMgr::IsEventValid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00991">SmartAIMgr::IsEventValid()</a>.</p>
 
 </div>
 </div>
@@ -2804,7 +2804,7 @@ Variables</h2></td></tr>
 <div class="line">    {<a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a13c55333783218e0f0c80c780fb311aca06fff67fc2fc1082d72b2a66a0f0818c">SMART_SCRIPT_TYPE_TIMED_ACTIONLIST</a>,    <a class="code hl_enumvalue" href="../../d4/db0/a02540.html#a77def750a109d5568419bce7c4a84a36a654078f465d9d5ac0afb20dd242874da">SMART_SCRIPT_TYPE_MASK_TIMED_ACTIONLIST</a> }</div>
 <div class="line">}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00985">SmartAIMgr::IsEventValid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00991">SmartAIMgr::IsEventValid()</a>.</p>
 
 </div>
 </div>
@@ -2843,7 +2843,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_1c21bdf82e19ee3628235ac53838e383.html">SmartScripts</a></li><li class="navelem"><a class="el" href="../../d4/db0/a02540.html">SmartScriptMgr.h</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:24:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:55:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

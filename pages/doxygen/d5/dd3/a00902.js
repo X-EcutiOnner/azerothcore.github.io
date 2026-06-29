@@ -1,10 +1,10 @@
 var a00902 =
 [
-    [ "PeonRoleplay", "d1/d9d/a23399.html", "d1/d9d/a23399" ],
-    [ "boss_grand_warlock_nethekurse", "d3/d34/a23403.html", "d3/d34/a23403" ],
-    [ "spell_tsh_shadow_bolt", "dd/d71/a23407.html", "dd/d71/a23407" ],
-    [ "spell_target_fissures", "d3/d70/a23411.html", "d3/d70/a23411" ],
-    [ "at_rp_nethekurse", "d1/d8f/a23415.html", "d1/d8f/a23415" ],
+    [ "PeonRoleplay", "dd/d71/a23407.html", "dd/d71/a23407" ],
+    [ "boss_grand_warlock_nethekurse", "d3/d70/a23411.html", "d3/d70/a23411" ],
+    [ "spell_tsh_shadow_bolt", "d1/d8f/a23415.html", "d1/d8f/a23415" ],
+    [ "spell_target_fissures", "df/dc6/a23419.html", "df/dc6/a23419" ],
+    [ "at_rp_nethekurse", "d6/ddf/a23423.html", "d6/ddf/a23423" ],
     [ "Actions", "d5/dd3/a00902.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d2/d33/a03770.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d2/d33/a03770.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1547,7 +1547,6 @@ var a00902 =
       [ "EVENT_MIMIRONS_INFERNO", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1a07faa54533adef9ff9cd67857f7455e7", null ],
       [ "EVENT_THORIMS_HAMMER", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1ae36d8c8de56249065e0948e76530e60a", null ],
       [ "EVENT_SOUND_BEGINNING", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1ac1a0534cb0a716dc0678fbf775760d12", null ],
-      [ "EVENT_POSITION_CHECK", "de/dfd/a02228.html#af60e00b78607064c5be6aa9397ea49c1a6c78a4ab4f97a524c89f286ee54273d2", null ],
       [ "EVENT_UNFREEZE_MONSTER", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1a6f5e7c0cf9c2e8ba23f0ff875f1d2dc5", null ],
       [ "EVENT_START_FIGHT", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1a1cd628fe8ad12d4928e8a1c4eb98ef76", null ],
       [ "EVENT_UNFREEZE_MONSTER2", "d6/d90/a01964.html#af60e00b78607064c5be6aa9397ea49c1acb4a3437f17d4001a54550be921e7fb6", null ],

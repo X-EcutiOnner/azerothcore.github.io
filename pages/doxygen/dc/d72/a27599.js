@@ -1,7 +1,7 @@
 var a27599 =
 [
-    [ "OnProc", "dc/d72/a27599.html#a7ab183d734c543be2866c57f1e5cc508", null ],
-    [ "PrepareAuraScript", "dc/d72/a27599.html#a31118cda9f29318f4620caf38c09522a", null ],
-    [ "Register", "dc/d72/a27599.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
-    [ "Validate", "dc/d72/a27599.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
+    [ "HandleDummy", "dc/d72/a27599.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "dc/d72/a27599.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "dc/d72/a27599.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "dc/d72/a27599.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

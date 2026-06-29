@@ -1,6 +1,7 @@
 var a23787 =
 [
-    [ "npc_aeranasAI", "d7/dfb/a23791.html", "d7/dfb/a23791" ],
-    [ "npc_aeranas", "da/d08/a23787.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "da/d08/a23787.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "HandleEffect", "da/d08/a23787.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "da/d08/a23787.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "da/d08/a23787.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "da/d08/a23787.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

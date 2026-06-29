@@ -213,7 +213,7 @@ var a05043 =
     [ "WorldObjectSpellTrajTargetCheck", "dc/dc9/a11819.html", "dc/dc9/a11819" ],
     [ "WorldObjectWorker", "da/d30/a09579.html", "da/d30/a09579" ],
     [ "WorldWorldTextBuilder", "dd/d0f/a12235.html", "dd/d0f/a12235" ],
-    [ "AnyTypeList", "dd/d5d/a30008.html", null ],
+    [ "AnyTypeList", "d1/d10/a30016.html", null ],
     [ "find_type_if_t", "d2/d61/a05043.html#a7d2aaeefa69dc846a6b27937f8213fab", null ],
     [ "FormatArgs", "d2/d61/a05043.html#a300bea6aa9ed219f5f3636b900db3ac9", null ],
     [ "FormatString", "d2/d61/a05043.html#a32c972cafca136b88de5b298d6cba338", null ],
@@ -226,6 +226,11 @@ var a05043 =
       [ "Priority_High", "d2/d61/a05043.html#a98ce3c3a6bb5eee03a544054eae9f9f0ae26951cdc5145b7d4710a65f64fcc15d", null ],
       [ "Priority_Highest", "d2/d61/a05043.html#a98ce3c3a6bb5eee03a544054eae9f9f0afe73cf9f67a66d8eeb50511bffc0349f", null ],
       [ "Priority_Realtime", "d2/d61/a05043.html#a98ce3c3a6bb5eee03a544054eae9f9f0aea947a97dfe2d923de21531be29b1fe1", null ]
+    ] ],
+    [ "TeamFilter", "d2/d61/a05043.html#a707574f70dccac2c48163c9083e774bb", [
+      [ "All", "d2/d61/a05043.html#a707574f70dccac2c48163c9083e774bbab1c94ca2fbc3e78fc30069c8d0f01680", null ],
+      [ "OwnTeam", "d2/d61/a05043.html#a707574f70dccac2c48163c9083e774bbae8d17c0da74738394ddb55b65c299180", null ],
+      [ "OtherTeam", "d2/d61/a05043.html#a707574f70dccac2c48163c9083e774bba58d73ba5fe6ea145152a6c1e5018f0a7", null ]
     ] ],
     [ "WorldObjectSpellAreaTargetSearchReason", "d2/d61/a05043.html#a5f5f9b21657494ac28217867f6f20a9d", [
       [ "Area", "d2/d61/a05043.html#a5f5f9b21657494ac28217867f6f20a9dadeec4ff19974f12ed781cb9a59064214", null ],

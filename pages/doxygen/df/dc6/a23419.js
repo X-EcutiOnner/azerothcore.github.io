@@ -1,6 +1,6 @@
 var a23419 =
 [
-    [ "boss_porung", "df/dc6/a23419.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "df/dc6/a23419.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "df/dc6/a23419.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "HandleEffect", "df/dc6/a23419.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
+    [ "PrepareSpellScript", "df/dc6/a23419.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
+    [ "Register", "df/dc6/a23419.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
 ];

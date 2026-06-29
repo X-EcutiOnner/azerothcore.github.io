@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['u_5fmap_5ffcc_0',['u_map_fcc',['../d6/dd5/a29831.html',1,'']]],
+  ['u_5fmap_5ffcc_0',['u_map_fcc',['../d7/d70/a29839.html',1,'']]],
   ['u_5fmap_5fmagic_1',['u_map_magic',['../db/d9c/a09467.html',1,'']]],
   ['uint16heightdata_2',['Uint16HeightData',['../d5/d4f/a09495.html',1,'LoadedHeightData']]],
   ['uint8heightdata_3',['Uint8HeightData',['../da/d35/a09499.html',1,'LoadedHeightData']]],
@@ -19,7 +19,7 @@ var searchData=
   ['unitlistsearcher_16',['UnitListSearcher',['../d5/d9e/a09607.html',1,'Acore']]],
   ['unitscript_17',['UnitScript',['../d4/daf/a10791.html',1,'']]],
   ['unitsearcher_18',['UnitSearcher',['../d4/d5d/a09599.html',1,'Acore']]],
-  ['unitstub_19',['UnitStub',['../d1/d31/a29387.html',1,'']]],
+  ['unitstub_19',['UnitStub',['../db/deb/a29395.html',1,'']]],
   ['updatablemapobject_20',['UpdatableMapObject',['../d0/d6a/a08751.html',1,'']]],
   ['updatablescript_21',['UpdatableScript',['../d0/d7c/a10831.html',1,'']]],
   ['updatablescript_3c_20battlegroundmap_20_3e_22',['UpdatableScript&lt; BattlegroundMap &gt;',['../d0/d7c/a10831.html',1,'']]],

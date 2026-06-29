@@ -1,6 +1,7 @@
 var a22863 =
 [
-    [ "boss_doomlordkazzakAI", "df/da6/a22867.html", "df/da6/a22867" ],
-    [ "boss_doomlord_kazzak", "de/db8/a22863.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "de/db8/a22863.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "HandleScriptEffect", "de/db8/a22863.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "de/db8/a22863.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "de/db8/a22863.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "de/db8/a22863.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

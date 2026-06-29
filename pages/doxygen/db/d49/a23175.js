@@ -1,8 +1,13 @@
 var a23175 =
 [
-    [ "boss_hungarfen", "db/d49/a23175.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "db/d49/a23175.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "db/d49/a23175.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "db/d49/a23175.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "db/d49/a23175.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "boss_ghazan", "db/d49/a23175.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "db/d49/a23175.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "db/d49/a23175.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "db/d49/a23175.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "db/d49/a23175.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "db/d49/a23175.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "db/d49/a23175.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "db/d49/a23175.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "db/d49/a23175.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "db/d49/a23175.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

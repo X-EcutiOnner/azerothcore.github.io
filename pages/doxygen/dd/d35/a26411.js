@@ -1,8 +1,7 @@
 var a26411 =
 [
-    [ "HandleApply", "dd/d35/a26411.html#aafdf3712f163919f010d11d0becb398f", null ],
-    [ "HandleRemove", "dd/d35/a26411.html#ac3e33cb37d13b633f3938a48917a4975", null ],
-    [ "PrepareAuraScript", "dd/d35/a26411.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
-    [ "Register", "dd/d35/a26411.html#a84e7337494dc2e1772ca10dea26c675f", null ],
-    [ "Validate", "dd/d35/a26411.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
+    [ "CheckAreaTarget", "dd/d35/a26411.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "dd/d35/a26411.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "dd/d35/a26411.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "dd/d35/a26411.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

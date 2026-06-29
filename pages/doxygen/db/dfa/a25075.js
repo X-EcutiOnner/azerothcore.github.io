@@ -1,7 +1,7 @@
 var a25075 =
 [
-    [ "HandleApplyEffect", "db/dfa/a25075.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "db/dfa/a25075.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "db/dfa/a25075.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "db/dfa/a25075.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "CheckIfLanceEquipped", "db/dfa/a25075.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "db/dfa/a25075.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "db/dfa/a25075.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "db/dfa/a25075.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

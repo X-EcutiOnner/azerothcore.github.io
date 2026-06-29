@@ -1,5 +1,4 @@
 var a29011 =
 [
-    [ "id", "d9/d37/a29011.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d9/d37/a29011.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "Pattern", "d9/d37/a29011.html#a6a13e445a1c894f95105f6dd4f0f24ba", null ]
 ];

@@ -1,8 +1,7 @@
 var a26367 =
 [
-    [ "CheckProc", "d8/dee/a26367.html#a05580997d10960d8a8186c42b008894f", null ],
-    [ "OnRemove", "d8/dee/a26367.html#a55cc4caf383fa643dd9df6c335937063", null ],
-    [ "PrepareAuraScript", "d8/dee/a26367.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
-    [ "Register", "d8/dee/a26367.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
-    [ "Validate", "d8/dee/a26367.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
+    [ "PrepareSpellScript", "d8/dee/a26367.html#ade3a3f956ae8be922bd1d2204919d360", null ],
+    [ "Register", "d8/dee/a26367.html#a71d397da4a4804cf6023806c15e8bedf", null ],
+    [ "TriggerHypothermia", "d8/dee/a26367.html#af40f92afae93778e477c50ddf18c8adc", null ],
+    [ "Validate", "d8/dee/a26367.html#a1f0cef532c2bd13d94e647722f85457a", null ]
 ];

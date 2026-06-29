@@ -1,7 +1,7 @@
 var a27383 =
 [
-    [ "HandleAuraApply", "de/dd7/a27383.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "de/dd7/a27383.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "de/dd7/a27383.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "de/dd7/a27383.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "HandleProc", "de/dd7/a27383.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
+    [ "PrepareAuraScript", "de/dd7/a27383.html#a953eee0cd2f18703ce04b1579d698365", null ],
+    [ "Register", "de/dd7/a27383.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
+    [ "Validate", "de/dd7/a27383.html#aadd49f63e9203d3314c5597ef72f6658", null ]
 ];

@@ -1,8 +1,8 @@
 var a00875 =
 [
-    [ "boss_broggok", "d0/ddd/a23291.html", "d0/ddd/a23291" ],
-    [ "go_broggok_lever", "d0/d56/a23295.html", "d0/d56/a23295" ],
-    [ "spell_broggok_poison_cloud", "d5/d94/a23299.html", "d5/d94/a23299" ],
+    [ "boss_broggok", "d5/d94/a23299.html", "d5/d94/a23299" ],
+    [ "go_broggok_lever", "d9/d8a/a23303.html", "d9/d8a/a23303" ],
+    [ "spell_broggok_poison_cloud", "d6/d13/a23307.html", "d6/d13/a23307" ],
     [ "Say", "d1/d93/a00875.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d9/dd6/a00272.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d9/dd6/a00272.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],

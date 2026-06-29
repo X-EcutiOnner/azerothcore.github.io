@@ -1,7 +1,6 @@
 var a26167 =
 [
-    [ "HandleProc", "d6/df2/a26167.html#aac352153b98f5c718af224487a8525c4", null ],
-    [ "PrepareAuraScript", "d6/df2/a26167.html#a736fe794862b3a8c08a05f3a773d9a7b", null ],
-    [ "Register", "d6/df2/a26167.html#acc0aee7c8b6dcff6f33737ac7428e39f", null ],
-    [ "Validate", "d6/df2/a26167.html#afffd780f243317dd90be1908fae7ecd8", null ]
+    [ "CheckProc", "d6/df2/a26167.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "d6/df2/a26167.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "d6/df2/a26167.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

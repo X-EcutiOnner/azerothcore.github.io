@@ -1,8 +1,8 @@
 var a25515 =
 [
-    [ "CheckProc", "d8/d3c/a25515.html#adbd524ef767a8b5cde13a5358969e344", null ],
-    [ "HandleProc", "d8/d3c/a25515.html#ab208e39ea63158688a6a028696b9adc5", null ],
-    [ "PrepareAuraScript", "d8/d3c/a25515.html#ad078ad76f0d0f88b9d52c88127d1aae7", null ],
-    [ "Register", "d8/d3c/a25515.html#a834868e504beece0ce5e1e1745f96f63", null ],
-    [ "Validate", "d8/d3c/a25515.html#a779b560a877ac0e731fe50c25af3d4d9", null ]
+    [ "HandleRapidFireProc", "d8/d3c/a25515.html#a174eb1d766c0ae7f59fabdefe565e1de", null ],
+    [ "HandleRapidKillingProc", "d8/d3c/a25515.html#a12f24814d41837c8ddb8a42c8e932077", null ],
+    [ "PrepareAuraScript", "d8/d3c/a25515.html#aa75ea03f718a90a49d81ff49d765c74d", null ],
+    [ "Register", "d8/d3c/a25515.html#af1d93d8ea32a74f7bb6c115f21c5c6c3", null ],
+    [ "Validate", "d8/d3c/a25515.html#a01598fbd355dfdd4517d4221ad5ae323", null ]
 ];

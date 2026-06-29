@@ -171,10 +171,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  872</span>: <a class="code hl_variable" href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">i_obj</a>(obj), <a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>(funit), <a class="code hl_variable" href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">i_range</a>(range) {}</div>
-<div class="ttc" id="aa09703_html_a8335ef8fd7376e7c920dfbca2318d646"><div class="ttname"><a href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:892</div></div>
-<div class="ttc" id="aa09703_html_ace766830b26d8aae3ec673d2102a9969"><div class="ttname"><a href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:891</div></div>
-<div class="ttc" id="aa09703_html_ae12f4176e49438cfa248345cfe7c9947"><div class="ttname"><a href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:890</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  902</span>: <a class="code hl_variable" href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">i_obj</a>(obj), <a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>(funit), <a class="code hl_variable" href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">i_range</a>(range) {}</div>
+<div class="ttc" id="aa09703_html_a8335ef8fd7376e7c920dfbca2318d646"><div class="ttname"><a href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_range</a></div><div class="ttdeci">float i_range</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:922</div></div>
+<div class="ttc" id="aa09703_html_ace766830b26d8aae3ec673d2102a9969"><div class="ttname"><a href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_funit</a></div><div class="ttdeci">Unit const  * i_funit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:921</div></div>
+<div class="ttc" id="aa09703_html_ae12f4176e49438cfa248345cfe7c9947"><div class="ttname"><a href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">Acore::AnyUnfriendlyNoTotemUnitInObjectRangeCheck::i_obj</a></div><div class="ttdeci">WorldObject const  * i_obj</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:920</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -202,21 +202,21 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  874</span>        {</div>
-<div class="line"><span class="lineno">  875</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
-<div class="line"><span class="lineno">  876</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  877</span> </div>
-<div class="line"><span class="lineno">  878</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">GetCreatureType</a>() == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a>)</div>
-<div class="line"><span class="lineno">  879</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  880</span> </div>
-<div class="line"><span class="lineno">  881</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>() || u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d75/a08343.html#a1264f98bce5d0365b1796401373425b7">IsTrigger</a>() || u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d75/a08343.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>())) <span class="comment">// pussywizard: added IsAvoidingAOE()</span></div>
-<div class="line"><span class="lineno">  882</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  883</span> </div>
-<div class="line"><span class="lineno">  884</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">false</span>, <a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>))</div>
-<div class="line"><span class="lineno">  885</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  886</span> </div>
-<div class="line"><span class="lineno">  887</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">i_range</a>) &amp;&amp; !<a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u);</div>
-<div class="line"><span class="lineno">  888</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno">  904</span>        {</div>
+<div class="line"><span class="lineno">  905</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">IsAlive</a>())</div>
+<div class="line"><span class="lineno">  906</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  907</span> </div>
+<div class="line"><span class="lineno">  908</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">GetCreatureType</a>() == <a class="code hl_enumvalue" href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a>)</div>
+<div class="line"><span class="lineno">  909</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  910</span> </div>
+<div class="line"><span class="lineno">  911</span>            <span class="keywordflow">if</span> (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; (u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">IsTotem</a>() || u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d75/a08343.html#a1264f98bce5d0365b1796401373425b7">IsTrigger</a>() || u-&gt;<a class="code hl_function" href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d8/d75/a08343.html#a4f6d3cf41d5f547bbcc37034e16bfb94">IsAvoidingAOE</a>())) <span class="comment">// pussywizard: added IsAvoidingAOE()</span></div>
+<div class="line"><span class="lineno">  912</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  913</span> </div>
+<div class="line"><span class="lineno">  914</span>            <span class="keywordflow">if</span> (!u-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">isTargetableForAttack</a>(<span class="keyword">false</span>, <a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>))</div>
+<div class="line"><span class="lineno">  915</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  916</span> </div>
+<div class="line"><span class="lineno">  917</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d1b/a09703.html#ae12f4176e49438cfa248345cfe7c9947">i_obj</a>-&gt;<a class="code hl_function" href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d9/d1b/a09703.html#a8335ef8fd7376e7c920dfbca2318d646">i_range</a>) &amp;&amp; !<a class="code hl_variable" href="../../d9/d1b/a09703.html#ace766830b26d8aae3ec673d2102a9969">i_funit</a>-&gt;<a class="code hl_function" href="../../d9/d6a/a09103.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u);</div>
+<div class="line"><span class="lineno">  918</span>        }</div>
 <div class="ttc" id="aa02273_html_a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff"><div class="ttname"><a href="../../d7/d6e/a02273.html#a5bc40f1116d89138cda8ebd1a04694dfa6bae268e8e7977c07a7a53c2588053ff">CREATURE_TYPE_NON_COMBAT_PET</a></div><div class="ttdeci">@ CREATURE_TYPE_NON_COMBAT_PET</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:2633</div></div>
 <div class="ttc" id="aa08343_html_a1264f98bce5d0365b1796401373425b7"><div class="ttname"><a href="../../d8/d75/a08343.html#a1264f98bce5d0365b1796401373425b7">Creature::IsTrigger</a></div><div class="ttdeci">bool IsTrigger() const</div><div class="ttdef"><b>Definition:</b> Creature.h:80</div></div>
 <div class="ttc" id="aa08343_html_a4f6d3cf41d5f547bbcc37034e16bfb94"><div class="ttname"><a href="../../d8/d75/a08343.html#a4f6d3cf41d5f547bbcc37034e16bfb94">Creature::IsAvoidingAOE</a></div><div class="ttdeci">bool IsAvoidingAOE() const</div><div class="ttdef"><b>Definition:</b> Creature.h:134</div></div>
@@ -224,12 +224,12 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa08719_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../db/d05/a08719.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
 <div class="ttc" id="aa08755_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../d0/dbd/a08755.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1377</div></div>
 <div class="ttc" id="aa09103_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d9/d6a/a09103.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1797</div></div>
-<div class="ttc" id="aa09103_html_a80140b04cc4277697de8f853e7da90e8"><div class="ttname"><a href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">Unit::GetCreatureType</a></div><div class="ttdeci">uint32 GetCreatureType() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11942</div></div>
-<div class="ttc" id="aa09103_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d9/d6a/a09103.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7265</div></div>
-<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10733</div></div>
+<div class="ttc" id="aa09103_html_a80140b04cc4277697de8f853e7da90e8"><div class="ttname"><a href="../../d9/d6a/a09103.html#a80140b04cc4277697de8f853e7da90e8">Unit::GetCreatureType</a></div><div class="ttdeci">uint32 GetCreatureType() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:11953</div></div>
+<div class="ttc" id="aa09103_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d9/d6a/a09103.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:7276</div></div>
+<div class="ttc" id="aa09103_html_ac7b8b4896478ec239a547d99ef4d4c9d"><div class="ttname"><a href="../../d9/d6a/a09103.html#ac7b8b4896478ec239a547d99ef4d4c9d">Unit::isTargetableForAttack</a></div><div class="ttdeci">bool isTargetableForAttack(bool checkFakeDeath=true, Unit const *byWho=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10744</div></div>
 <div class="ttc" id="aa09103_html_ae1ce57b02474672763481af5c4e7ef6f"><div class="ttname"><a href="../../d9/d6a/a09103.html#ae1ce57b02474672763481af5c4e7ef6f">Unit::IsTotem</a></div><div class="ttdeci">bool IsTotem() const</div><div class="ttdef"><b>Definition:</b> Unit.h:799</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_NON_COMBAT_PET</a>, <a class="el" href="../../#l11942">Unit::GetCreatureType()</a>, <a class="el" href="../../#l00891">i_funit</a>, <a class="el" href="../../#l00890">i_obj</a>, <a class="el" href="../../#l00892">i_range</a>, <a class="el" href="../../#l01797">Unit::IsAlive()</a>, <a class="el" href="../../#l00134">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l07265">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l10733">Unit::isTargetableForAttack()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l00080">Creature::IsTrigger()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02633">CREATURE_TYPE_NON_COMBAT_PET</a>, <a class="el" href="../../#l11953">Unit::GetCreatureType()</a>, <a class="el" href="../../#l00921">i_funit</a>, <a class="el" href="../../#l00920">i_obj</a>, <a class="el" href="../../#l00922">i_range</a>, <a class="el" href="../../#l01797">Unit::IsAlive()</a>, <a class="el" href="../../#l00134">Creature::IsAvoidingAOE()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l07276">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l10744">Unit::isTargetableForAttack()</a>, <a class="el" href="../../#l00799">Unit::IsTotem()</a>, <a class="el" href="../../#l00080">Creature::IsTrigger()</a>, <a class="el" href="../../#l01377">WorldObject::IsWithinDistInMap()</a>, and <a class="el" href="../../#l00206">Object::ToCreature()</a>.</p>
 
 </div>
 </div>
@@ -254,7 +254,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00873">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00903">operator()()</a>.</p>
 
 </div>
 </div>
@@ -278,7 +278,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00873">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00903">operator()()</a>.</p>
 
 </div>
 </div>
@@ -302,7 +302,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00873">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00903">operator()()</a>.</p>
 
 </div>
 </div>
@@ -312,7 +312,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d61/a05043.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/d1b/a09703.html">AnyUnfriendlyNoTotemUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Jun 22 2026 22:27:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jun 29 2026 21:57:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

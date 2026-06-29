@@ -1,10 +1,7 @@
 var a26571 =
 [
-    [ "spell_pal_improved_aura", "dc/df2/a26571.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "dc/df2/a26571.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "dc/df2/a26571.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "dc/df2/a26571.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "dc/df2/a26571.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "dc/df2/a26571.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "dc/df2/a26571.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "HandleProc", "dc/df2/a26571.html#af48dfc934a6be37e95c469d07691e91f", null ],
+    [ "PrepareAuraScript", "dc/df2/a26571.html#a93147abc7cda5307a06be3d876b82eea", null ],
+    [ "Register", "dc/df2/a26571.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
+    [ "Validate", "dc/df2/a26571.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
 ];
