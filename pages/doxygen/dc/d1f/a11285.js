@@ -1,6 +1,9 @@
 var a11285 =
 [
-    [ "UITime", "dc/d1f/a11285.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "dc/d1f/a11285.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "dc/d1f/a11285.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "EnchantmentLog", "dc/d1f/a11285.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "dc/d1f/a11285.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "dc/d1f/a11285.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "dc/d1f/a11285.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "dc/d1f/a11285.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "dc/d1f/a11285.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

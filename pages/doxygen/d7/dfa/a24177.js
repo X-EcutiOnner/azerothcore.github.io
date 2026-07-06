@@ -1,7 +1,9 @@
 var a24177 =
 [
-    [ "CheckClass", "d7/dfa/a24177.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
-    [ "HandleScript", "d7/dfa/a24177.html#a4f4f7004be5629efdc48b52b6667edba", null ],
-    [ "PrepareSpellScript", "d7/dfa/a24177.html#a599ce758681c5196bd40e4c7b86635cc", null ],
-    [ "Register", "d7/dfa/a24177.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "d7/dfa/a24177.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "d7/dfa/a24177.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "d7/dfa/a24177.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "d7/dfa/a24177.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "d7/dfa/a24177.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "d7/dfa/a24177.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

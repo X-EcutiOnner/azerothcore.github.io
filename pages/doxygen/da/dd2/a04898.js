@@ -1,7 +1,4 @@
 var a04898 =
 [
-    [ "GetBuildDirectory", "da/dd2/a04898.html#ae2280b7f7c56992a4c3ae6e33d6c8a4b", null ],
-    [ "GetCMakeCommand", "da/dd2/a04898.html#af38bc6d6ef36ab9b44b7bf5446659672", null ],
-    [ "GetMySQLExecutable", "da/dd2/a04898.html#abdfee61576e0a7c64d7bb6a516ab69b7", null ],
-    [ "GetSourceDirectory", "da/dd2/a04898.html#a84544d0c16175b62a0894c34fee2b6d7", null ]
+    [ "address_to_uint", "da/dd2/a04898.html#abb8b9761e1df323f5c258c0a12da7bd4", null ]
 ];

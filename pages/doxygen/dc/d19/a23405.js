@@ -1,6 +1,6 @@
 var a23405 =
 [
-    [ "HandleCast", "dc/d19/a23405.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "dc/d19/a23405.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "dc/d19/a23405.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "df/dff/a23409.html", "df/dff/a23409" ],
+    [ "instance_hellfire_ramparts", "dc/d19/a23405.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "dc/d19/a23405.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

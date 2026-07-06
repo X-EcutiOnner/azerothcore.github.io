@@ -1,7 +1,8 @@
 var a09761 =
 [
-    [ "ObjectTypeIdCheck", "d6/ddb/a09761.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
-    [ "operator()", "d6/ddb/a09761.html#a9cbd09a6021bef7819a0002952264293", null ],
-    [ "_equals", "d6/ddb/a09761.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
-    [ "_typeId", "d6/ddb/a09761.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d6/ddb/a09761.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "d6/ddb/a09761.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "d6/ddb/a09761.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "d6/ddb/a09761.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "d6/ddb/a09761.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

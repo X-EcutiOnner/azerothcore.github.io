@@ -1,17 +1,7 @@
 var a18825 =
 [
-    [ "npc_argent_captainAI", "d8/d8f/a18825.html#a4e9d65fa7c870c98d79ff30ae262385d", null ],
-    [ "CanAIAttack", "d8/d8f/a18825.html#a542075fcf2d487dedc6f11672e3507ba", null ],
-    [ "DoAction", "d8/d8f/a18825.html#a77f0b2d41d631f3ff7a3ea8d13716de1", null ],
-    [ "EnterEvadeMode", "d8/d8f/a18825.html#afaebff86ad9be5835c2e289625c07d16", null ],
-    [ "JustDied", "d8/d8f/a18825.html#a7f132fa843ba292cc89a64c77ce48bc4", null ],
-    [ "JustEngagedWith", "d8/d8f/a18825.html#a43818e75274cad597fd883f75119d63c", null ],
-    [ "KilledUnit", "d8/d8f/a18825.html#abc2dbc233082f9d7626759fbcccb34a2", null ],
-    [ "Reset", "d8/d8f/a18825.html#a0709350a6841b6008935c050a1db7784", null ],
-    [ "SpellHit", "d8/d8f/a18825.html#a8aee635d2739564281b5af04955e4d4a", null ],
-    [ "Events", "d8/d8f/a18825.html#a1cffce3d371bef959d76270608247def", null ],
-    [ "FollowAngle", "d8/d8f/a18825.html#a059c34261439fc80b0bff9d62b537489", null ],
-    [ "FollowDist", "d8/d8f/a18825.html#a4fde069032f7c6578f7f518b45f141d2", null ],
-    [ "instance", "d8/d8f/a18825.html#a131f11a8a67e3eb60759c699fc2cec1b", null ],
-    [ "IsUndead", "d8/d8f/a18825.html#a9eaf5d2c9e52650c28b8f7feef0e681c", null ]
+    [ "AuraRemoveEvent", "d8/d8f/a18825.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "d8/d8f/a18825.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "d8/d8f/a18825.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "d8/d8f/a18825.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

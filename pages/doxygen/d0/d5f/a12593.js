@@ -1,7 +1,8 @@
 var a12593 =
 [
-    [ "boss_warmaster_voone", "d0/d5f/a12593.html#a5dd3b0140dda8ef141c9598a427f6633", null ],
-    [ "DamageTaken", "d0/d5f/a12593.html#a48e135857ef9e7e524e07ed979f137e6", null ],
-    [ "ExecuteEvent", "d0/d5f/a12593.html#a2ff38398f38e61f91bd1aa7222867fd3", null ],
-    [ "JustEngagedWith", "d0/d5f/a12593.html#a961113ecf4c46f52001d153a60ea238a", null ]
+    [ "brd_ironhand_guardian", "d0/d5f/a12593.html#a635a59a53948b6e252a15384d784a969", null ],
+    [ "SetData", "d0/d5f/a12593.html#a7677681c4d39ed73f4143caa66a1a5de", null ],
+    [ "UpdateAI", "d0/d5f/a12593.html#a8840ead9b577888ec2ac15d68ddffe71", null ],
+    [ "_flamesEnabled", "d0/d5f/a12593.html#a1b162039fc21a7eddddd22ed9c97e9cb", null ],
+    [ "events", "d0/d5f/a12593.html#a01047164b0728cb6d08a7f41cf092a58", null ]
 ];

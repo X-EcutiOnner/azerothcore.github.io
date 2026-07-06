@@ -1,6 +1,7 @@
 var a11857 =
 [
-    [ "EffectUpdatePeriodicHandler", "d6/d5d/a11857.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d6/d5d/a11857.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d6/d5d/a11857.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "DiminishDurationLimit", "d6/d5d/a11857.html#a18e94b40a8746c854b2fcca37ceb14f6", null ],
+    [ "DiminishGroup", "d6/d5d/a11857.html#ad48e4fbc6984602d0196accea51867de", null ],
+    [ "DiminishMaxLevel", "d6/d5d/a11857.html#a4b04f3f569b5b73d2f8a9eda429c3f5d", null ],
+    [ "DiminishReturnType", "d6/d5d/a11857.html#a64a6fc19521245f1145ab6c769175803", null ]
 ];

@@ -1,12 +1,18 @@
 var a28325 =
 [
-    [ "categoryId", "d4/d53/a28325.html#a1de0e4302757f18c08b90b40e059737b", null ],
-    [ "count", "d4/d53/a28325.html#a93aac150067979467f56d9919ff665a4", null ],
-    [ "flags", "d4/d53/a28325.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
-    [ "ID", "d4/d53/a28325.html#a843fee247948d02f7aaf04144cb37ef5", null ],
-    [ "mapID", "d4/d53/a28325.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
-    [ "name", "d4/d53/a28325.html#a806cfeddc475994f1b421679bd9699e6", null ],
-    [ "points", "d4/d53/a28325.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
-    [ "refAchievement", "d4/d53/a28325.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
-    [ "requiredFaction", "d4/d53/a28325.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
+    [ "npc_doctorAI", "d4/d53/a28325.html#a8efc303041393347eaaf38aff05f7b9c", null ],
+    [ "BeginEvent", "d4/d53/a28325.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
+    [ "JustEngagedWith", "d4/d53/a28325.html#aca786ccf8cf99d7ba49a08046147f121", null ],
+    [ "PatientDied", "d4/d53/a28325.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
+    [ "PatientSaved", "d4/d53/a28325.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
+    [ "Reset", "d4/d53/a28325.html#af2d84b163d41b1b32e191200f54085c2", null ],
+    [ "UpdateAI", "d4/d53/a28325.html#abe156e2303a9c743fa66b4f82808c707", null ],
+    [ "Coordinates", "d4/d53/a28325.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
+    [ "Event", "d4/d53/a28325.html#ad558d5c0a5fe07904445e893c09be980", null ],
+    [ "PatientDiedCount", "d4/d53/a28325.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
+    [ "Patients", "d4/d53/a28325.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
+    [ "PatientSavedCount", "d4/d53/a28325.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
+    [ "PlayerGUID", "d4/d53/a28325.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
+    [ "SummonPatientCount", "d4/d53/a28325.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
+    [ "SummonPatientTimer", "d4/d53/a28325.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
 ];

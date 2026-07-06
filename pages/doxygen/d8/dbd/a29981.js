@@ -1,11 +1,7 @@
 var a29981 =
 [
-    [ "_ACORE_REALM_CONFIG", "d8/dbd/a29981.html#a139668c786d564a415e0626b3344dc83", null ],
-    [ "BanExpiryHandler", "d8/dbd/a29981.html#a625d6480b04e88fcbc85e5b8d29502a6", null ],
-    [ "GetConsoleArguments", "d8/dbd/a29981.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "KeepDatabaseAliveHandler", "d8/dbd/a29981.html#a56e4613e7e60d171b9ce45f52758a057", null ],
-    [ "main", "d8/dbd/a29981.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "SignalHandler", "d8/dbd/a29981.html#abb73d9c1332263ddf049505e1b12672d", null ],
-    [ "StartDB", "d8/dbd/a29981.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d8/dbd/a29981.html#ga927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "walkableClimb", "d8/dbd/a29981.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "d8/dbd/a29981.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "d8/dbd/a29981.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "d8/dbd/a29981.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

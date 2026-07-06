@@ -1,7 +1,7 @@
 var a25005 =
 [
-    [ "OnApply", "d9/d56/a25005.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d9/d56/a25005.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d9/d56/a25005.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d9/d56/a25005.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleEffectApply", "d9/d56/a25005.html#a97a639459622c9e3e995057989cf9eda", null ],
+    [ "HandleEffectRemove", "d9/d56/a25005.html#a7477bb78ffcc082c111bad4e93b9fd73", null ],
+    [ "PrepareAuraScript", "d9/d56/a25005.html#aa3c4018e18eccd8f12e4607f4bc630ec", null ],
+    [ "Register", "d9/d56/a25005.html#a40793c696a759db4920c4c34f5b9fa66", null ]
 ];

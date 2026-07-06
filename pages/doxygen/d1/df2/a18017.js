@@ -1,9 +1,11 @@
 var a18017 =
 [
-    [ "CountTargets", "d1/df2/a18017.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d1/df2/a18017.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d1/df2/a18017.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d1/df2/a18017.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d1/df2/a18017.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d1/df2/a18017.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "CountTargets", "d1/df2/a18017.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d1/df2/a18017.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d1/df2/a18017.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d1/df2/a18017.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d1/df2/a18017.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d1/df2/a18017.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d1/df2/a18017.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d1/df2/a18017.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

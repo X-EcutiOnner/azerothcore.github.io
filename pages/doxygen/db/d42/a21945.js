@@ -1,7 +1,6 @@
 var a21945 =
 [
-    [ "OnApply", "db/d42/a21945.html#ad026db5f19c376d9a87f7a1554502809", null ],
-    [ "OnRemove", "db/d42/a21945.html#a0264c6f6f41da3644a803265399f1d82", null ],
-    [ "PrepareAuraScript", "db/d42/a21945.html#ab5d21484b078aee6eeff3738ef7c5a10", null ],
-    [ "Register", "db/d42/a21945.html#ae9822fa0f191ac4eeca1061c22abf319", null ]
+    [ "npc_guardian_pavilionAI", "d2/ddc/a21949.html", "d2/ddc/a21949" ],
+    [ "npc_guardian_pavilion", "db/d42/a21945.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "db/d42/a21945.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

@@ -1,14 +1,19 @@
 var a03806 =
 [
-    [ "BattlegroundData", "d9/d89/a07651.html", "d9/d89/a07651" ],
-    [ "BattlegroundTemplate", "da/d9a/a07655.html", "da/d9a/a07655" ],
-    [ "BattlegroundMgr", "dd/de5/a07659.html", "dd/de5/a07659" ],
-    [ "sBattlegroundMgr", "dc/d19/a03806.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
-    [ "BattlegroundClientIdsContainer", "dc/d19/a03806.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
-    [ "BattlegroundContainer", "dc/d19/a03806.html#a33858c5514cd62b25f056e4ba170de59", null ],
-    [ "BattleMastersMap", "dc/d19/a03806.html#a0167dc8561c0fb4a41f0eaa6bea38980", null ],
-    [ "BGFreeSlotQueueContainer", "dc/d19/a03806.html#a356842317f4215b2ee31abb25b4d54e7", null ],
-    [ "bgMapRef", "dc/d19/a03806.html#a91490e6276f571e959bcc65a1a7e4007", null ],
-    [ "bgRef", "dc/d19/a03806.html#a1d8c1781106a97335f700c82ac98e915", null ],
-    [ "bgTypeRef", "dc/d19/a03806.html#ab13257a97cde6f35eb3aed651e61e20c", null ]
+    [ "ArenaSeasonReward", "d3/dda/a07601.html", "d3/dda/a07601" ],
+    [ "ArenaSeasonRewardGroup", "de/d01/a07605.html", "de/d01/a07605" ],
+    [ "ArenaSeasonMgr", "d5/dba/a07609.html", "d5/dba/a07609" ],
+    [ "sArenaSeasonMgr", "dc/d19/a03806.html#ac46c94dc4c6cf0de37233cdd42a97ccf", null ],
+    [ "ArenaSeasonRewardGroupCriteriaType", "dc/d19/a03806.html#a983281e9aada2538d6bc53ae4dd4d266", [
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE", "dc/d19/a03806.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422", null ],
+      [ "ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE", "dc/d19/a03806.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63", null ]
+    ] ],
+    [ "ArenaSeasonRewardType", "dc/d19/a03806.html#a89a1f93759bb943ff9ef0e4991579265", [
+      [ "ARENA_SEASON_REWARD_TYPE_ITEM", "dc/d19/a03806.html#a89a1f93759bb943ff9ef0e4991579265a124351d53a1d14813bc7af90043d8a32", null ],
+      [ "ARENA_SEASON_REWARD_TYPE_ACHIEVEMENT", "dc/d19/a03806.html#a89a1f93759bb943ff9ef0e4991579265ad12571a956e334946d72aa118f464444", null ]
+    ] ],
+    [ "ArenaSeasonState", "dc/d19/a03806.html#a64f8715fead51dc9727d105bce4d0e38", [
+      [ "ARENA_SEASON_STATE_DISABLED", "dc/d19/a03806.html#a64f8715fead51dc9727d105bce4d0e38ac019cd8397ba38ebc1d327c337d48017", null ],
+      [ "ARENA_SEASON_STATE_IN_PROGRESS", "dc/d19/a03806.html#a64f8715fead51dc9727d105bce4d0e38a455a35a5e6e89efd32818e52ca82f5f8", null ]
+    ] ]
 ];

@@ -1,7 +1,11 @@
 var a21257 =
 [
-    [ "HandleProc", "d9/dfa/a21257.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d9/dfa/a21257.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d9/dfa/a21257.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d9/dfa/a21257.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "boss_cyanigosa", "d9/dfa/a21257.html#af85a0c366de8785cd89d14f7990bfb54", null ],
+    [ "EnterEvadeMode", "d9/dfa/a21257.html#aa3d989cb4c094713d6adb4305f8e6113", null ],
+    [ "ExecuteEvent", "d9/dfa/a21257.html#a694dda590c17a03534f8744838ac3176", null ],
+    [ "JustDied", "d9/dfa/a21257.html#ad70efce47f2f5d411fd42fd61ec51794", null ],
+    [ "JustEngagedWith", "d9/dfa/a21257.html#a2432aa3610747c52f6ec3de1def55f18", null ],
+    [ "KilledUnit", "d9/dfa/a21257.html#a1f2810d9f2a291576fa29a872b1f6470", null ],
+    [ "MoveInLineOfSight", "d9/dfa/a21257.html#a55645a68448a8c83b85b05c7a29f0f6a", null ],
+    [ "SpellHitTarget", "d9/dfa/a21257.html#a7b393188f0f8d192baab0eed48f0a5d3", null ]
 ];

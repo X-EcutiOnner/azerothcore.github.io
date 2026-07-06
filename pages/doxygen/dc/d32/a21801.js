@@ -1,6 +1,8 @@
 var a21801 =
 [
-    [ "npc_bushwhackerAI", "dc/d32/a21801.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
-    [ "InitializeAI", "dc/d32/a21801.html#a18db5870e62378ff49472f7a5881861c", null ],
-    [ "UpdateAI", "dc/d32/a21801.html#aadc3384626d728942897fe93750f0c02", null ]
+    [ "HandleEffectApply", "dc/d32/a21801.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "dc/d32/a21801.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "dc/d32/a21801.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "dc/d32/a21801.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "dc/d32/a21801.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

@@ -1,7 +1,7 @@
 var a20065 =
 [
-    [ "boss_freya_lifebinder", "d4/dfa/a20065.html#a1784d6e975192a7442cabb14f688737d", null ],
-    [ "Reset", "d4/dfa/a20065.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
-    [ "UpdateAI", "d4/dfa/a20065.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
-    [ "_healTimer", "d4/dfa/a20065.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
+    [ "OnRemove", "d4/dfa/a20065.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d4/dfa/a20065.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d4/dfa/a20065.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d4/dfa/a20065.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

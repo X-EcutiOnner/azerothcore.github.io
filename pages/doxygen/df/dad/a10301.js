@@ -1,8 +1,12 @@
 var a10301 =
 [
-    [ "Finalize", "df/dad/a10301.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "df/dad/a10301.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "df/dad/a10301.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "df/dad/a10301.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "df/dad/a10301.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "BanAccount", "df/dad/a10301.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "df/dad/a10301.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "df/dad/a10301.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "df/dad/a10301.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "df/dad/a10301.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "df/dad/a10301.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "df/dad/a10301.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "df/dad/a10301.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "df/dad/a10301.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

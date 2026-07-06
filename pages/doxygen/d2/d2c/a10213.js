@@ -1,12 +1,14 @@
 var a10213 =
 [
-    [ "BanAccount", "d2/d2c/a10213.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "d2/d2c/a10213.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "d2/d2c/a10213.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "d2/d2c/a10213.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "d2/d2c/a10213.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "d2/d2c/a10213.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "d2/d2c/a10213.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "d2/d2c/a10213.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "d2/d2c/a10213.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "BattlegroundMap", "d2/d2c/a10213.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
+    [ "~BattlegroundMap", "d2/d2c/a10213.html#a327d241fd7930e9b3a98ba50014d5131", null ],
+    [ "AddPlayerToMap", "d2/d2c/a10213.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
+    [ "CannotEnter", "d2/d2c/a10213.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
+    [ "GetBG", "d2/d2c/a10213.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
+    [ "InitVisibilityDistance", "d2/d2c/a10213.html#af2d6847765d10fab527d77b26dd770ad", null ],
+    [ "RemoveAllPlayers", "d2/d2c/a10213.html#a5093cbf8005d06452eeb202513323c1e", null ],
+    [ "RemovePlayerFromMap", "d2/d2c/a10213.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
+    [ "SetBG", "d2/d2c/a10213.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
+    [ "SetUnload", "d2/d2c/a10213.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
+    [ "m_bg", "d2/d2c/a10213.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
 ];

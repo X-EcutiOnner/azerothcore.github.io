@@ -1,6 +1,7 @@
 var a16549 =
 [
-    [ "HandleSpellHit", "db/d0d/a16549.html#a8c801b92f6e405668edae54989dd58e8", null ],
-    [ "PrepareSpellScript", "db/d0d/a16549.html#abae02a74f626b890f61df551318dcc81", null ],
-    [ "Register", "db/d0d/a16549.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
+    [ "npc_orb_carrierAI", "db/d0d/a16549.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "db/d0d/a16549.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "db/d0d/a16549.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "db/d0d/a16549.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

@@ -1,6 +1,6 @@
 var a15761 =
 [
-    [ "npcs_riverbreeze_and_silversky", "de/d0a/a15761.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "de/d0a/a15761.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "de/d0a/a15761.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "de/d98/a15765.html", "de/d98/a15765" ],
+    [ "instance_wailing_caverns", "de/d0a/a15761.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "de/d0a/a15761.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

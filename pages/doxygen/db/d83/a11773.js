@@ -1,7 +1,12 @@
 var a11773 =
 [
-    [ "CategoryRecoveryTime", "db/d83/a11773.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "db/d83/a11773.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "db/d83/a11773.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "db/d83/a11773.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "UnitAura", "db/d83/a11773.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "db/d83/a11773.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "db/d83/a11773.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "db/d83/a11773.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "db/d83/a11773.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "db/d83/a11773.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "db/d83/a11773.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "db/d83/a11773.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "db/d83/a11773.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

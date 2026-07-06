@@ -1,8 +1,8 @@
 var a16141 =
 [
-    [ "instance_ahnkahet_InstanceScript", "dd/d2d/a16141.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
-    [ "IsAllSpheresActivated", "dd/d2d/a16141.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
-    [ "OnGameObjectCreate", "dd/d2d/a16141.html#ad00fdc90a61e1c927323daa2149f8466", null ],
-    [ "SetData", "dd/d2d/a16141.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
-    [ "taldaramPlatform_GUID", "dd/d2d/a16141.html#a840ce69595c384be321c1167513d151e", null ]
+    [ "npc_pluckyAI", "d4/d68/a16145.html", "d4/d68/a16145" ],
+    [ "npc_plucky", "dd/d2d/a16141.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "dd/d2d/a16141.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "dd/d2d/a16141.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "dd/d2d/a16141.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

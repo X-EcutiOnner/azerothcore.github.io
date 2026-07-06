@@ -1,10 +1,7 @@
 var a19129 =
 [
-    [ "boss_isle_of_conquestAI", "d4/d86/a19129.html#a7880ea86e7a03f5b14875065a83a206a", null ],
-    [ "CheckRageBuff", "d4/d86/a19129.html#a6d60480e39fa89dbcc0facce9f0b69a3", null ],
-    [ "JustEngagedWith", "d4/d86/a19129.html#a878635ef0673325943e6026ad76c2b06", null ],
-    [ "Reset", "d4/d86/a19129.html#add59669e5f6c3c882ac008c720349573", null ],
-    [ "UpdateAI", "d4/d86/a19129.html#ab33aa7e735c5837428a4cf2b76e4275e", null ],
-    [ "events", "d4/d86/a19129.html#a38e308b66b0f35d3efe6916b03e4391c", null ],
-    [ "rage", "d4/d86/a19129.html#aa16ebdd6e2f486d3a6e4b58f4cb5e696", null ]
+    [ "HandleEffectPeriodic", "d4/d86/a19129.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d4/d86/a19129.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d4/d86/a19129.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d4/d86/a19129.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

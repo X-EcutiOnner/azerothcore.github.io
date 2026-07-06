@@ -1,14 +1,9 @@
 var a12537 =
 [
-    [ "boss_mor_grayhoof", "d6/d1c/a12537.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "d6/d1c/a12537.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "d6/d1c/a12537.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "d6/d1c/a12537.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "d6/d1c/a12537.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "d6/d1c/a12537.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "d6/d1c/a12537.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "d6/d1c/a12537.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "d6/d1c/a12537.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "d6/d1c/a12537.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "d6/d1c/a12537.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "titles_commandscript", "d6/d1c/a12537.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d6/d1c/a12537.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d6/d1c/a12537.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d6/d1c/a12537.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d6/d1c/a12537.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d6/d1c/a12537.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

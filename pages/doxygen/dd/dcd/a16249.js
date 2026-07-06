@@ -1,7 +1,11 @@
 var a16249 =
 [
-    [ "boss_sartharion_shadron", "dd/dcd/a16249.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
-    [ "ExecuteEvent", "dd/dcd/a16249.html#a1f1a235d4d5654e273ef821ebf962491", null ],
-    [ "Reset", "dd/dcd/a16249.html#a8511eb55a486665a248d555337c25002", null ],
-    [ "SummonedCreatureDies", "dd/dcd/a16249.html#a3967c70698675d2c925a1a0366bf1d00", null ]
+    [ "boss_amanitar", "dd/dcd/a16249.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "dd/dcd/a16249.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "dd/dcd/a16249.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "dd/dcd/a16249.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "dd/dcd/a16249.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "dd/dcd/a16249.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "dd/dcd/a16249.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "dd/dcd/a16249.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

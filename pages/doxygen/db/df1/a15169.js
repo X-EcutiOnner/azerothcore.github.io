@@ -1,12 +1,11 @@
 var a15169 =
 [
-    [ "boss_isalien", "db/df1/a15169.html#a736a25e60ae367a45c7d6451be96126d", null ],
-    [ "DamageTaken", "db/df1/a15169.html#a95d461e099193b5e2c1363acb1b5939a", null ],
-    [ "JustDied", "db/df1/a15169.html#a6544b5eb398eb2fc9cae05709e4a5cc1", null ],
-    [ "JustEngagedWith", "db/df1/a15169.html#ad6714da515db77c7299ee80b3268433e", null ],
-    [ "JustSummoned", "db/df1/a15169.html#a84a94a1a8889b48cd02d5cb6a205a487", null ],
-    [ "Reset", "db/df1/a15169.html#a4995c18e2baa62d05717617d0b1e3529", null ],
-    [ "UpdateAI", "db/df1/a15169.html#aa067bea34557a4b2fe840ef305852bc0", null ],
-    [ "_phase", "db/df1/a15169.html#a954bbd32948e6c416197199d96142056", null ],
-    [ "_scheduler", "db/df1/a15169.html#a8eb56a907e3395b9e81588aab7c07ca6", null ]
+    [ "npc_hyjal_ground_trash", "db/df1/a15169.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "db/df1/a15169.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "db/df1/a15169.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "db/df1/a15169.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "db/df1/a15169.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "db/df1/a15169.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "db/df1/a15169.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "db/df1/a15169.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

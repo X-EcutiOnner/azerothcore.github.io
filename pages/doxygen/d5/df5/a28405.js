@@ -1,8 +1,6 @@
 var a28405 =
 [
-    [ "npc_artoriusAI", "d2/df6/a28409.html", "d2/df6/a28409" ],
-    [ "npc_artorius", "d5/df5/a28405.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d5/df5/a28405.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d5/df5/a28405.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d5/df5/a28405.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "npc_stable_masterAI", "d2/df6/a28409.html", "d2/df6/a28409" ],
+    [ "npc_stable_master", "d5/df5/a28405.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "d5/df5/a28405.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

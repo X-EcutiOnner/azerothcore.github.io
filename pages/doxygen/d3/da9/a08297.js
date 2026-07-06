@@ -1,8 +1,10 @@
 var a08297 =
 [
-    [ "TemporaryThreatModifierEvent", "d3/da9/a08297.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "d3/da9/a08297.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "d3/da9/a08297.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "d3/da9/a08297.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "d3/da9/a08297.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LfgUpdateData", "d3/da9/a08297.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d3/da9/a08297.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d3/da9/a08297.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d3/da9/a08297.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d3/da9/a08297.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d3/da9/a08297.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d3/da9/a08297.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

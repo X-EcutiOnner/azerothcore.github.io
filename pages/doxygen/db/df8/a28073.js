@@ -1,6 +1,5 @@
 var a28073 =
 [
-    [ "npc_air_force_botsAI", "d9/d4a/a28077.html", "d9/d4a/a28077" ],
-    [ "npc_air_force_bots", "db/df8/a28073.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "db/df8/a28073.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "go_tele_to_dalaran_crystal", "db/df8/a28073.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "db/df8/a28073.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

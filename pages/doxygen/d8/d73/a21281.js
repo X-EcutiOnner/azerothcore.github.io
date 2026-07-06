@@ -1,6 +1,8 @@
 var a21281 =
 [
-    [ "npc_mei_francis_mountAI", "d1/d59/a21285.html", "d1/d59/a21285" ],
-    [ "npc_mei_francis_mount", "d8/d73/a21281.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d8/d73/a21281.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "boss_moragg", "d8/d73/a21281.html#a42d2508369286e5e635d47cce0b939f4", null ],
+    [ "EnterEvadeMode", "d8/d73/a21281.html#a0ac597810a43e30c2cffcc4c878a9998", null ],
+    [ "ExecuteEvent", "d8/d73/a21281.html#a945fbf776bb47484d7a4434ee3a630ed", null ],
+    [ "JustEngagedWith", "d8/d73/a21281.html#a29da7214373c1919b65f3512655c8bc3", null ],
+    [ "MoveInLineOfSight", "d8/d73/a21281.html#ab70b1a6d9c05e191880f0532b775c6f2", null ]
 ];

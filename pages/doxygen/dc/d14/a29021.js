@@ -1,8 +1,6 @@
 var a29021 =
 [
-    [ "MapDifficulty", "dc/d14/a29021.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/d14/a29021.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/d14/a29021.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/d14/a29021.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/d14/a29021.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "Enchantment", "dc/d14/a29021.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "dc/d14/a29021.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "dc/d14/a29021.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

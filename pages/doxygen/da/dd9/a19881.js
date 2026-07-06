@@ -1,7 +1,5 @@
 var a19881 =
 [
-    [ "OnRemove", "da/dd9/a19881.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "da/dd9/a19881.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "da/dd9/a19881.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "da/dd9/a19881.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "at_hol_hall_of_watchers", "da/dd9/a19881.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "da/dd9/a19881.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

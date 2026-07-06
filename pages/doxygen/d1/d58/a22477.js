@@ -1,7 +1,10 @@
 var a22477 =
 [
-    [ "PrepareAuraScript", "d1/d58/a22477.html#afb2e94c1e67b12b7350d83241b3f2864", null ],
-    [ "Register", "d1/d58/a22477.html#a0a5ac432eca09206ac032317e8aa8cfc", null ],
-    [ "Update", "d1/d58/a22477.html#aa0da369c2047df144c4a9af37a2ea13c", null ],
-    [ "Validate", "d1/d58/a22477.html#a70248cfa468dfb3a97ea7f8b6848bc5f", null ]
+    [ "boss_talon_king_ikiss", "d1/d58/a22477.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "JustDied", "d1/d58/a22477.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d1/d58/a22477.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d1/d58/a22477.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d1/d58/a22477.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d1/d58/a22477.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d1/d58/a22477.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

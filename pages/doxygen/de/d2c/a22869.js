@@ -1,6 +1,6 @@
 var a22869 =
 [
-    [ "HandleApplyAura", "de/d2c/a22869.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "de/d2c/a22869.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "de/d2c/a22869.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "HandleScriptEffect", "de/d2c/a22869.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "de/d2c/a22869.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "de/d2c/a22869.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

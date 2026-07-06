@@ -1,6 +1,7 @@
 var a26757 =
 [
-    [ "HandleDummy", "df/d8f/a26757.html#a904038167c9ba270cb54cd6adbe22563", null ],
-    [ "PrepareSpellScript", "df/d8f/a26757.html#a326656405c3400225a4ce10567c1c482", null ],
-    [ "Register", "df/d8f/a26757.html#a2d83815d44543686525238723a3ab39a", null ]
+    [ "HandleProc", "df/d8f/a26757.html#af27f9408725ff9c7ec17e8ae352234a9", null ],
+    [ "PrepareAuraScript", "df/d8f/a26757.html#a11c2e125d7a583966be3f8a64064a5ad", null ],
+    [ "Register", "df/d8f/a26757.html#a283f05b3649e3c137679ab92386f7a84", null ],
+    [ "Validate", "df/d8f/a26757.html#a4805c758dc85e065cdb9550a5856fe31", null ]
 ];

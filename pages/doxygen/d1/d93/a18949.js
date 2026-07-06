@@ -1,7 +1,5 @@
 var a18949 =
 [
-    [ "HandleEffectPeriodic", "d1/d93/a18949.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d1/d93/a18949.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d1/d93/a18949.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d1/d93/a18949.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "achievement_portal_jockey", "d1/d93/a18949.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d1/d93/a18949.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

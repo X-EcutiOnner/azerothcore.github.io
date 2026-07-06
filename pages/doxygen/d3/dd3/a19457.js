@@ -1,7 +1,6 @@
 var a19457 =
 [
-    [ "FilterTargets", "d3/dd3/a19457.html#a6beccd163ab8442a1ed39c553716cb73", null ],
-    [ "Load", "d3/dd3/a19457.html#a5df67c2dbd14a75435f68939240daae6", null ],
-    [ "PrepareSpellScript", "d3/dd3/a19457.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
-    [ "Register", "d3/dd3/a19457.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
+    [ "HandleAfterHit", "d3/dd3/a19457.html#a4f9ee2b8830fc812a78154f8b54a0a47", null ],
+    [ "PrepareSpellScript", "d3/dd3/a19457.html#a75d2e4bc16170348893654d53c1bb6d7", null ],
+    [ "Register", "d3/dd3/a19457.html#a5e33a371d519c2fdc8561f2ac8d9dd82", null ]
 ];

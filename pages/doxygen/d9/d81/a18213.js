@@ -1,7 +1,6 @@
 var a18213 =
 [
-    [ "FrostwyrmLandEvent", "d9/d81/a18213.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d9/d81/a18213.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d9/d81/a18213.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d9/d81/a18213.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "boss_professor_putricideAI", "d6/db5/a18217.html", "d6/db5/a18217" ],
+    [ "boss_professor_putricide", "d9/d81/a18213.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d9/d81/a18213.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

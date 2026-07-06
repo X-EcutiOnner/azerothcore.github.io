@@ -1,6 +1,7 @@
 var a21913 =
 [
-    [ "CheckCast", "dc/df7/a21913.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "dc/df7/a21913.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "dc/df7/a21913.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "HandleDummy", "dc/df7/a21913.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "dc/df7/a21913.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "dc/df7/a21913.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "dc/df7/a21913.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

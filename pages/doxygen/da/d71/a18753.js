@@ -1,8 +1,9 @@
 var a18753 =
 [
-    [ "FilterTargets", "da/d71/a18753.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "da/d71/a18753.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "da/d71/a18753.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "da/d71/a18753.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "da/d71/a18753.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "FilterTargets", "da/d71/a18753.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
+    [ "Load", "da/d71/a18753.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
+    [ "PrepareSpellScript", "da/d71/a18753.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
+    [ "Register", "da/d71/a18753.html#afad887fba0d97512a7a13a31977cf42d", null ],
+    [ "Validate", "da/d71/a18753.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
+    [ "_instance", "da/d71/a18753.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
 ];

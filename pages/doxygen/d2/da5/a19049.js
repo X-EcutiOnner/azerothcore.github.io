@@ -1,6 +1,6 @@
 var a19049 =
 [
-    [ "npc_icc_putricades_trapAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
-    [ "npc_icc_putricades_trap", "d2/da5/a19049.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d2/da5/a19049.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_impaling_spearAI", "db/dfa/a19053.html", "db/dfa/a19053" ],
+    [ "npc_impaling_spear", "d2/da5/a19049.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "d2/da5/a19049.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

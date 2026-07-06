@@ -1,9 +1,7 @@
 var a07509 =
 [
-    [ "ArenaScore", "dd/d6f/a07509.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "dd/d6f/a07509.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "dd/d6f/a07509.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "dd/d6f/a07509.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "dd/d6f/a07509.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "dd/d6f/a07509.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "AuctionSorter", "dd/d6f/a07509.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
+    [ "operator()", "dd/d6f/a07509.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
+    [ "_loc_idx", "dd/d6f/a07509.html#a11708aa660757db95c88d9dc7e9b9521", null ],
+    [ "_sort", "dd/d6f/a07509.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
 ];

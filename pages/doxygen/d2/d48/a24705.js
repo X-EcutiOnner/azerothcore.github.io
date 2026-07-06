@@ -1,6 +1,10 @@
 var a24705 =
 [
-    [ "OnPeriodic", "d2/d48/a24705.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d2/d48/a24705.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d2/d48/a24705.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckProc", "d2/d48/a24705.html#a1afbc5f8e86e0382be43c947e88306b3", null ],
+    [ "HandleProc", "d2/d48/a24705.html#a9fbfe3fba6283362bab181fcd15611b3", null ],
+    [ "PrepareAuraScript", "d2/d48/a24705.html#aa060ed89bc5e3c80d6402c8e79baa597", null ],
+    [ "Register", "d2/d48/a24705.html#a43cc9387ce5b1665147dcfecb1476c22", null ],
+    [ "Validate", "d2/d48/a24705.html#ad167a260f9a3d1f71a5a11b0bab6161c", null ],
+    [ "_lunarProcCooldownEnd", "d2/d48/a24705.html#a9fd6d9c34dba5cb302010df4d5c560c2", null ],
+    [ "_solarProcCooldownEnd", "d2/d48/a24705.html#a6f50d14abee53eb06f50edbcc78628c4", null ]
 ];

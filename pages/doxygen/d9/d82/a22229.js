@@ -1,8 +1,9 @@
 var a22229 =
 [
-    [ "npc_yor", "d9/d82/a22229.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d9/d82/a22229.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d9/d82/a22229.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d9/d82/a22229.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d9/d82/a22229.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "HandleFinish", "d9/d82/a22229.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d9/d82/a22229.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d9/d82/a22229.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d9/d82/a22229.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d9/d82/a22229.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d9/d82/a22229.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

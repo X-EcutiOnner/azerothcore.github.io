@@ -1,11 +1,6 @@
 var a26393 =
 [
-    [ "CheckProc", "db/d8a/a26393.html#aeeb075a2dcaf57b328e4196959c40390", null ],
-    [ "HandleApplyDoT", "db/d8a/a26393.html#a4f832f97ae2f777c659876e20b7515a5", null ],
-    [ "HandleSeal", "db/d8a/a26393.html#aca82977aa1ee943bc557a76d09dba147", null ],
-    [ "Load", "db/d8a/a26393.html#a16545533c0a45b6bde0da3fbeaed75ae", null ],
-    [ "PrepareAuraScript", "db/d8a/a26393.html#a9d33b5c75d975f6e7f0accdf7eb10155", null ],
-    [ "Register", "db/d8a/a26393.html#a3030a2b5bb530abe673ab2cfae8351ce", null ],
-    [ "Validate", "db/d8a/a26393.html#ade8e79f41a0ec1904f33b2628eac966e", null ],
-    [ "_isVengeance", "db/d8a/a26393.html#a194bdf6e15ecf61533d40c0990e392a4", null ]
+    [ "CheckProc", "db/d8a/a26393.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
+    [ "PrepareAuraScript", "db/d8a/a26393.html#a1dcda7de24effce7d975b714629f0e8a", null ],
+    [ "Register", "db/d8a/a26393.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
 ];

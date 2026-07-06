@@ -1,6 +1,7 @@
 var a22821 =
 [
-    [ "HandleScriptEffect", "db/db1/a22821.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "db/db1/a22821.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "db/db1/a22821.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "Absorb", "db/db1/a22821.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "db/db1/a22821.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "db/db1/a22821.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "db/db1/a22821.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

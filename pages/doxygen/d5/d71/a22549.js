@@ -1,7 +1,5 @@
 var a22549 =
 [
-    [ "CalculateAmount", "d5/d71/a22549.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d5/d71/a22549.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d5/d71/a22549.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d5/d71/a22549.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "ChargeTargetSelector", "d5/d71/a22549.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d5/d71/a22549.html#a596223da822f5a08281fe709cca95909", null ]
 ];

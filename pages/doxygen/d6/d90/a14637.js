@@ -1,13 +1,6 @@
 var a14637 =
 [
-    [ "go_firework_show", "d6/d90/a14637.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d6/d90/a14637.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d6/d90/a14637.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d6/d90/a14637.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d6/d90/a14637.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d6/d90/a14637.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d6/d90/a14637.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d6/d90/a14637.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d6/d90/a14637.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d6/d90/a14637.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_brewfest_bark_trigger", "d6/d90/a14637.html#a110d654792e1f5dae8b17f014ea3d425", null ],
+    [ "GetTextFor", "d6/d90/a14637.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
+    [ "MoveInLineOfSight", "d6/d90/a14637.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
 ];

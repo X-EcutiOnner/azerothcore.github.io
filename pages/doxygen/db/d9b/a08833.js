@@ -1,8 +1,5 @@
 var a08833 =
 [
-    [ "PlayerCreateInfoAction", "db/d9b/a08833.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "db/d9b/a08833.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "db/d9b/a08833.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "db/d9b/a08833.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "db/d9b/a08833.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "PositionXYZStreamer", "db/d9b/a08833.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "db/d9b/a08833.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

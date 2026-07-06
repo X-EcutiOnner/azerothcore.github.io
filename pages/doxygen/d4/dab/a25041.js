@@ -1,8 +1,10 @@
 var a25041 =
 [
-    [ "HandleApply", "d4/dab/a25041.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
-    [ "OnPeriodic", "d4/dab/a25041.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
-    [ "PrepareAuraScript", "d4/dab/a25041.html#a344d1a92623865876174c0e88ce8ab4b", null ],
-    [ "Register", "d4/dab/a25041.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
-    [ "Validate", "d4/dab/a25041.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
+    [ "Load", "d4/dab/a25041.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d4/dab/a25041.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d4/dab/a25041.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d4/dab/a25041.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d4/dab/a25041.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d4/dab/a25041.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d4/dab/a25041.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

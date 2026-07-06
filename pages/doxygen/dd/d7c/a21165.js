@@ -1,5 +1,6 @@
 var a21165 =
 [
-    [ "npc_khunok_the_behemothAI", "dd/d7c/a21165.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
-    [ "MoveInLineOfSight", "dd/d7c/a21165.html#a5d54954a159da764aa7b83579e03688c", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "de/d76/a21169.html", "de/d76/a21169" ],
+    [ "instance_utgarde_pinnacle", "dd/d7c/a21165.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "dd/d7c/a21165.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a11385 =
 [
-    [ "PetStopAttack", "d9/dab/a11385.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "d9/dab/a11385.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "d9/dab/a11385.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "ComplainResult", "d9/dab/a11385.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d9/dab/a11385.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d9/dab/a11385.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

@@ -1,7 +1,6 @@
 var a24889 =
 [
-    [ "HandleChargeEffect", "de/d58/a24889.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "de/d58/a24889.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "de/d58/a24889.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "de/d58/a24889.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "OnPeriodic", "de/d58/a24889.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "de/d58/a24889.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "de/d58/a24889.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

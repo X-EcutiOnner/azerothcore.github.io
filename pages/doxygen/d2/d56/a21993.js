@@ -1,7 +1,6 @@
 var a21993 =
 [
-    [ "npc_wg_siege_machineAI", "d2/d56/a21993.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d2/d56/a21993.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d2/d56/a21993.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d2/d56/a21993.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_mcmanus", "d2/d56/a21993.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "d2/d56/a21993.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "d2/d56/a21993.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

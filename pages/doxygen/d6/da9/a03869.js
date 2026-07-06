@@ -1,7 +1,7 @@
 var a03869 =
 [
-    [ "WhoListPlayerInfo", "df/d91/a07819.html", "df/d91/a07819" ],
-    [ "WhoListCacheMgr", "d8/d49/a07823.html", "d8/d49/a07823" ],
-    [ "sWhoListCacheMgr", "d6/da9/a03869.html#aae5ef4cf031d5523b7d5fda6d83af41a", null ],
-    [ "WhoListInfoVector", "d6/da9/a03869.html#a88bd249c0903724edb2c2d5416962534", null ]
+    [ "UpdateTime", "d2/d96/a12125.html", "d2/d96/a12125" ],
+    [ "WorldUpdateTime", "dc/d71/a12129.html", "dc/d71/a12129" ],
+    [ "AVG_DIFF_COUNT", "d6/da9/a03869.html#ac09527fd6979f77130f2ef6be46850eb", null ],
+    [ "sWorldUpdateTime", "d6/da9/a03869.html#a911ff49ac052e337a0927c080aec20b2", null ]
 ];

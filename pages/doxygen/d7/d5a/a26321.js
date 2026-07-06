@@ -1,7 +1,7 @@
 var a26321 =
 [
-    [ "HandleProc", "d7/d5a/a26321.html#a342163af13b2282b97792972da490f98", null ],
-    [ "PrepareAuraScript", "d7/d5a/a26321.html#a2d72ba251ca9ccfd1e2d84a23c539719", null ],
-    [ "Register", "d7/d5a/a26321.html#ac474d006203de8eceb93e50c6430e603", null ],
-    [ "Validate", "d7/d5a/a26321.html#a831d13676b4ef44f44cb17ba077b7943", null ]
+    [ "CalculateSpellAmount", "d7/d5a/a26321.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d7/d5a/a26321.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d7/d5a/a26321.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d7/d5a/a26321.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

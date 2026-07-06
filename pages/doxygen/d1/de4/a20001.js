@@ -1,7 +1,8 @@
 var a20001 =
 [
-    [ "HandleScript", "d1/de4/a20001.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "d1/de4/a20001.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "d1/de4/a20001.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "d1/de4/a20001.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "go_celestial_planetarium_accessAI", "d1/de4/a20001.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "d1/de4/a20001.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "d1/de4/a20001.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "d1/de4/a20001.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "d1/de4/a20001.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

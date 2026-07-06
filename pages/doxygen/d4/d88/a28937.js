@@ -1,10 +1,11 @@
 var a28937 =
 [
-    [ "attackSpeed", "d4/d88/a28937.html#ab5242f7367e8799a556176178c72fc88", null ],
-    [ "creatureType", "d4/d88/a28937.html#a3dff9074b85261932ed8a8a550c5395b", null ],
-    [ "flags1", "d4/d88/a28937.html#a026745f2ce754d754858d69ee219b518", null ],
-    [ "ID", "d4/d88/a28937.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
-    [ "modelID_A", "d4/d88/a28937.html#a86dfa61342583d920b7d8496bce4b49d", null ],
-    [ "modelID_H", "d4/d88/a28937.html#a1ee597d6fd02507b682874929645e01d", null ],
-    [ "stanceSpell", "d4/d88/a28937.html#a08f54b905e905fb5a59e449f8c613c08", null ]
+    [ "Displayid", "d4/d88/a28937.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
+    [ "filename", "d4/d88/a28937.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
+    [ "maxX", "d4/d88/a28937.html#a10563ae885d34e516825a18db95b40e7", null ],
+    [ "maxY", "d4/d88/a28937.html#a711286df6d2bd74246dee2170052c17a", null ],
+    [ "maxZ", "d4/d88/a28937.html#acb74e32790b2c60cca5faef1caa225e4", null ],
+    [ "minX", "d4/d88/a28937.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
+    [ "minY", "d4/d88/a28937.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
+    [ "minZ", "d4/d88/a28937.html#ac88aefc2530212b9dff10e018c4e9305", null ]
 ];

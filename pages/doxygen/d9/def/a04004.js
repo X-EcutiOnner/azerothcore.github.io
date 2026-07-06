@@ -1,6 +1,23 @@
 var a04004 =
 [
-    [ "WorldPackets::Packet", "db/d81/a10847.html", "db/d81/a10847" ],
-    [ "WorldPackets::ServerPacket", "d1/de3/a10851.html", "d1/de3/a10851" ],
-    [ "WorldPackets::ClientPacket", "d7/d04/a10855.html", "d7/d04/a10855" ]
+    [ "WorldPackets::Item::SplitItem", "de/d8f/a11233.html", "de/d8f/a11233" ],
+    [ "WorldPackets::Item::SwapInventoryItem", "d3/daf/a11237.html", "d3/daf/a11237" ],
+    [ "WorldPackets::Item::AutoEquipItemSlot", "d7/dbf/a11241.html", "d7/dbf/a11241" ],
+    [ "WorldPackets::Item::SwapItem", "d2/d49/a11245.html", "d2/d49/a11245" ],
+    [ "WorldPackets::Item::AutoEquipItem", "d6/df7/a11249.html", "d6/df7/a11249" ],
+    [ "WorldPackets::Item::DestroyItem", "db/d84/a11253.html", "db/d84/a11253" ],
+    [ "WorldPackets::Item::ReadItem", "dc/d9d/a11257.html", "dc/d9d/a11257" ],
+    [ "WorldPackets::Item::SellItem", "d7/dd1/a11261.html", "d7/dd1/a11261" ],
+    [ "WorldPackets::Item::BuybackItem", "d7/d23/a11265.html", "d7/d23/a11265" ],
+    [ "WorldPackets::Item::BuyItemInSlot", "dc/d13/a11269.html", "dc/d13/a11269" ],
+    [ "WorldPackets::Item::BuyItem", "d4/d3f/a11273.html", "d4/d3f/a11273" ],
+    [ "WorldPackets::Item::ListInventory", "d7/dd9/a11277.html", "d7/dd9/a11277" ],
+    [ "WorldPackets::Item::AutoStoreBagItem", "d7/ddc/a11281.html", "d7/ddc/a11281" ],
+    [ "WorldPackets::Item::EnchantmentLog", "dc/d1f/a11285.html", "dc/d1f/a11285" ],
+    [ "WorldPackets::Item::ItemEnchantTimeUpdate", "da/d11/a11289.html", "da/d11/a11289" ],
+    [ "WorldPackets::Item::WrapItem", "db/d4c/a11293.html", "db/d4c/a11293" ],
+    [ "WorldPackets::Item::SocketGems", "df/db3/a11297.html", "df/db3/a11297" ],
+    [ "WorldPackets::Item::CancelTempEnchantment", "d8/d35/a11301.html", "d8/d35/a11301" ],
+    [ "WorldPackets::Item::ItemRefundInfo", "d0/dbf/a11305.html", "d0/dbf/a11305" ],
+    [ "WorldPackets::Item::ItemRefund", "d8/dce/a11309.html", "d8/dce/a11309" ]
 ];

@@ -1,11 +1,10 @@
 var a03707 =
 [
-    [ "AddTime", "d1/d00/a03707.html#aae074176c44fa3d99280320c869fde46", null ],
-    [ "AddTime", "d1/d00/a03707.html#a430fcc06d66963c8dbbd1c988923511e", null ],
-    [ "GetTime", "d1/d00/a03707.html#ae44f550ac340528abe454269c2273d73", null ],
-    [ "GetTime", "d1/d00/a03707.html#a0bc4b2da3db35b3fbcd4dbe01181f05f", null ],
-    [ "IsCorrectDelay", "d1/d00/a03707.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
-    [ "IsCorrectDelay", "d1/d00/a03707.html#ab753898b2bbc94059274e9a9483b0e70", null ],
-    [ "_brackets", "d1/d00/a03707.html#a57b562a95d0fb9c2ee34520175d63a92", null ],
-    [ "_players", "d1/d00/a03707.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
+    [ "GraveyardStruct", "df/dff/a10313.html", "df/dff/a10313" ],
+    [ "GraveyardData", "d5/d26/a10317.html", "d5/d26/a10317" ],
+    [ "Graveyard", "d7/d59/a10321.html", "d7/d59/a10321" ],
+    [ "sGraveyard", "d1/d00/a03707.html#ac68c2a63982a6142e1931450d7b6115c", null ],
+    [ "GraveyardMapBounds", "d1/d00/a03707.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
+    [ "GraveyardMapBoundsNonConst", "d1/d00/a03707.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
+    [ "WGGraveyardContainer", "d1/d00/a03707.html#a484cb47c00fe9b952853e3b04212437c", null ]
 ];

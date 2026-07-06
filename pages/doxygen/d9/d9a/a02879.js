@@ -1,10 +1,8 @@
 var a02879 =
 [
-    [ "ObjectPosSelector", "de/d8e/a08791.html", "de/d8e/a08791" ],
-    [ "ObjectPosSelector::UsedPos", "d6/d72/a08795.html", "d6/d72/a08795" ],
-    [ "UsedPosType", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397", [
-      [ "USED_POS_PLUS", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397abe9dd4cb0505777b122e4a2187d30f0e", null ],
-      [ "USED_POS_MINUS", "d9/d9a/a02879.html#a2f1e7723f9d73cff4490d29d2b3df397ae6abf81c53f379fbbcad5001197f8816", null ]
-    ] ],
-    [ "operator~", "d9/d9a/a02879.html#a083d37b8f4388d54d83aeb6562b5fe09", null ]
+    [ "CorpseUpdateFieldFlags", "d9/d9a/a02879.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
+    [ "DynamicObjectUpdateFieldFlags", "d9/d9a/a02879.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
+    [ "GameObjectUpdateFieldFlags", "d9/d9a/a02879.html#aee13b862f51557c371d3d93341128895", null ],
+    [ "ItemUpdateFieldFlags", "d9/d9a/a02879.html#ac1cca7ecf1650663132e3e220d771adf", null ],
+    [ "UnitUpdateFieldFlags", "d9/d9a/a02879.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
 ];

@@ -1,6 +1,7 @@
 var a14625 =
 [
-    [ "gameobjectId", "d4/df0/a14625.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "d4/df0/a14625.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "d4/df0/a14625.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "FilterTargets", "d4/df0/a14625.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
+    [ "HandleEffect", "d4/df0/a14625.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
+    [ "PrepareSpellScript", "d4/df0/a14625.html#a08127992c96fb02e87e9ade65a5375d5", null ],
+    [ "Register", "d4/df0/a14625.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
 ];

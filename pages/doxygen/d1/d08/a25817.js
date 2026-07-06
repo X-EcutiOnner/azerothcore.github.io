@@ -1,5 +1,6 @@
 var a25817 =
 [
-    [ "PrepareSpellScript", "d1/d08/a25817.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
-    [ "Register", "d1/d08/a25817.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
+    [ "HandleScript", "d1/d08/a25817.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "d1/d08/a25817.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "d1/d08/a25817.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

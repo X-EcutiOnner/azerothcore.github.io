@@ -1,5 +1,6 @@
 var a01649 =
 [
-    [ "wp_commandscript", "d3/d3a/a12523.html", "d3/d3a/a12523" ],
-    [ "AddSC_wp_commandscript", "dc/d87/a01649.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
+    [ "bg_commandscript", "d7/d18/a12309.html", "d7/d18/a12309" ],
+    [ "AddSC_bag_commandscript", "dc/d87/a01649.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "dc/d87/a01649.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

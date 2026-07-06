@@ -1,5 +1,7 @@
 var a18629 =
 [
-    [ "achievement_neck_deep_in_vile", "d7/dc2/a18629.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d7/dc2/a18629.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "OnRemove", "d7/dc2/a18629.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d7/dc2/a18629.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d7/dc2/a18629.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d7/dc2/a18629.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

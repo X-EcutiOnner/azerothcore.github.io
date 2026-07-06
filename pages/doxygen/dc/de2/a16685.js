@@ -1,7 +1,6 @@
 var a16685 =
 [
-    [ "npc_toc_priestAI", "dc/de2/a16685.html#aa362d2136193a8738e311bba18b87c90", null ],
-    [ "myCanCast", "dc/de2/a16685.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
-    [ "UpdateAI", "dc/de2/a16685.html#ae51d2ac95320909150c673b76c9856c7", null ],
-    [ "events", "dc/de2/a16685.html#aa5be20e87351424e0e4698540fc1fef4", null ]
+    [ "npc_argent_soldierAI", "d3/d56/a16689.html", "d3/d56/a16689" ],
+    [ "npc_argent_soldier", "dc/de2/a16685.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
+    [ "GetAI", "dc/de2/a16685.html#adfeed3d533104b9617dfbb06925a3d44", null ]
 ];

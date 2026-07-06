@@ -1,11 +1,8 @@
 var a15733 =
 [
-    [ "npc_troll_volunteerAI", "d5/df8/a15733.html#a7eb0c508122616a6781c8b23210e4062", null ],
-    [ "GetMountId", "d5/df8/a15733.html#a5edc586ded0a1146bb1bd82ca14062cc", null ],
-    [ "InitializeAI", "d5/df8/a15733.html#a1c758c7601624e0620778e13e8ec60a0", null ],
-    [ "MovementInform", "d5/df8/a15733.html#aa1d34a4f3701354899ebdd9b38670b31", null ],
-    [ "Reset", "d5/df8/a15733.html#a31439533de41c2a459af2b4d3af76139", null ],
-    [ "SpellHit", "d5/df8/a15733.html#a0604cdade2ce4da23915ca1fc4a4f475", null ],
-    [ "_complete", "d5/df8/a15733.html#ac7e1cc5f0e4f675d6aad0f6e9b449c15", null ],
-    [ "_mountModel", "d5/df8/a15733.html#ae226345bd324b9c337dc96570117d82b", null ]
+    [ "npc_obsidian_eradicator", "d5/df8/a15733.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d5/df8/a15733.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d5/df8/a15733.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d5/df8/a15733.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d5/df8/a15733.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

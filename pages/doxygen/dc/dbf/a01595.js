@@ -1,5 +1,5 @@
 var a01595 =
 [
-    [ "server_commandscript", "db/dbb/a12495.html", "db/dbb/a12495" ],
-    [ "AddSC_server_commandscript", "dc/dbf/a01595.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "reset_commandscript", "d8/d8e/a12509.html", "d8/d8e/a12509" ],
+    [ "AddSC_reset_commandscript", "dc/dbf/a01595.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
 ];

@@ -1,7 +1,6 @@
 var a16477 =
 [
-    [ "CountAllies", "d9/d63/a16477.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d9/d63/a16477.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d9/d63/a16477.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d9/d63/a16477.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "dc/d11/a16481.html", "dc/d11/a16481" ],
+    [ "npc_baltharus_the_warborn_clone", "d9/d63/a16477.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d9/d63/a16477.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

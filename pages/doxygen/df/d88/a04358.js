@@ -1,12 +1,8 @@
 var a04358 =
 [
-    [ "AC_COMPILER_BORLAND", "df/d88/a04358.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
-    [ "AC_COMPILER_GNU", "df/d88/a04358.html#a8ffa78a105635ede693224673028c4ed", null ],
-    [ "AC_COMPILER_INTEL", "df/d88/a04358.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
-    [ "AC_COMPILER_MICROSOFT", "df/d88/a04358.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
-    [ "AC_PLATFORM", "df/d88/a04358.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
-    [ "AC_PLATFORM_APPLE", "df/d88/a04358.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
-    [ "AC_PLATFORM_INTEL", "df/d88/a04358.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
-    [ "AC_PLATFORM_UNIX", "df/d88/a04358.html#a96b4a3022030f69221679448f34f1972", null ],
-    [ "AC_PLATFORM_WINDOWS", "df/d88/a04358.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
+    [ "GetDefaultDatabaseInfo", "df/d88/a04358.html#a5560c170776773a1a20d93060003e89d", null ],
+    [ "CHARACTER_DATABASE_INFO_DEFAULT", "df/d88/a04358.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
+    [ "EMPTY_DATABASE_INFO", "df/d88/a04358.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
+    [ "LOGIN_DATABASE_INFO_DEFAULT", "df/d88/a04358.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
+    [ "WORLD_DATABASE_INFO_DEFAULT", "df/d88/a04358.html#ad2151db3d84513bc271cf642ad76bb80", null ]
 ];

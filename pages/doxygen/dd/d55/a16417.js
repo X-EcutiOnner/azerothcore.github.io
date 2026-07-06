@@ -1,8 +1,23 @@
 var a16417 =
 [
-    [ "OnApply", "dd/d55/a16417.html#a7165da94ce589afcd24411a308802c18", null ],
-    [ "OnRemove", "dd/d55/a16417.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
-    [ "PrepareAuraScript", "dd/d55/a16417.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
-    [ "Register", "dd/d55/a16417.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
-    [ "Validate", "dd/d55/a16417.html#acf29b80b7b74c3f409e1f046b8062994", null ]
+    [ "boss_sartharion", "dd/d55/a16417.html#a9442f10d85f4e618f29db32d6d41cace", null ],
+    [ "DamageTaken", "dd/d55/a16417.html#aea02fe5145c8ca179a350668cb962403", null ],
+    [ "DoAction", "dd/d55/a16417.html#aa4b3b33c0294105a240b8f19c00b67ba", null ],
+    [ "EnterEvadeMode", "dd/d55/a16417.html#a329135f26387b0292934111922bc33d1", null ],
+    [ "GetData", "dd/d55/a16417.html#a0e38be21344f596147f20a8ed46673ec", null ],
+    [ "JustDied", "dd/d55/a16417.html#a38742a243890907b2cb6e39c0624abd0", null ],
+    [ "JustEngagedWith", "dd/d55/a16417.html#a5e942b6892cdec46c7113d1b75f6d0ae", null ],
+    [ "JustSummoned", "dd/d55/a16417.html#aedd7e43d6d0a0a51f19cb57d8d47a3c5", null ],
+    [ "KilledUnit", "dd/d55/a16417.html#a68b87b8d9147307231e16d0634d3f8c6", null ],
+    [ "Reset", "dd/d55/a16417.html#ae6f2feeb68baaf265882bc46c9d388f2", null ],
+    [ "SendLavaWaves", "dd/d55/a16417.html#a61a25f3f8f1b0f92d8762b25a940ea77", null ],
+    [ "SetData", "dd/d55/a16417.html#a1e1a54ad847a81ce29554081583483e2", null ],
+    [ "SummonLavaWaves", "dd/d55/a16417.html#a8f1a9bb569613ef3df2c28490328e91d", null ],
+    [ "SummonStartingTriggers", "dd/d55/a16417.html#aef30845772ce56ad04091eda58b143ec", null ],
+    [ "UpdateAI", "dd/d55/a16417.html#a37f17241f7773e63ba86f071d655da4d", null ],
+    [ "below11PctReached", "dd/d55/a16417.html#a5c6190735f90121bdcd0572d7a38bae2", null ],
+    [ "dragonsCount", "dd/d55/a16417.html#a7fd5e7cf7579df3f918f94b4f89456fe", null ],
+    [ "extraEvents", "dd/d55/a16417.html#a734bc263b462552a633416489aead62c", null ],
+    [ "usedBerserk", "dd/d55/a16417.html#a8821dec08484bc1794cb3ab5ea961abc", null ],
+    [ "volcanoBlows", "dd/d55/a16417.html#a4afb5ee2520c9a0648b978b5659d6c3a", null ]
 ];

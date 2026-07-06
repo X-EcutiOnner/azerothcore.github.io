@@ -1,6 +1,6 @@
 var a16341 =
 [
-    [ "boss_halionAI", "dc/dea/a16345.html", "dc/dea/a16345" ],
-    [ "boss_halion", "d3/dd6/a16341.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
-    [ "GetAI", "d3/dd6/a16341.html#a142314efb4f45ec146ab0225271d29b1", null ]
+    [ "PrepareSpellScript", "d3/dd6/a16341.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "d3/dd6/a16341.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "d3/dd6/a16341.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

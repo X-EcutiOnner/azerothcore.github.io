@@ -1,8 +1,6 @@
 var a17637 =
 [
-    [ "npc_saurfang_eventAI", "d3/d00/a17637.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d3/d00/a17637.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d3/d00/a17637.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d3/d00/a17637.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d3/d00/a17637.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "boss_prince_taldaramAI", "d2/d78/a17641.html", "d2/d78/a17641" ],
+    [ "boss_prince_taldaram_icc", "d3/d00/a17637.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "d3/d00/a17637.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

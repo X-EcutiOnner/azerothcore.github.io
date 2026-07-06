@@ -1,6 +1,7 @@
 var a28489 =
 [
-    [ "npc_air_force_botsAI", "d7/dab/a28493.html", "d7/dab/a28493" ],
-    [ "npc_air_force_bots", "dd/dff/a28489.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "dd/dff/a28489.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "HandleDummy", "dd/dff/a28489.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "dd/dff/a28489.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "dd/dff/a28489.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "dd/dff/a28489.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

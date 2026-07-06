@@ -1,6 +1,5 @@
 var a11817 =
 [
-    [ "HitHandler", "dd/d59/a11817.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "dd/d59/a11817.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "dd/d59/a11817.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "effectMask", "dd/d59/a11817.html#a3161ec2ffdf794c000cc94b91519d009", null ],
+    [ "item", "dd/d59/a11817.html#afce5eba99c3dc33698dd12af8432f357", null ]
 ];

@@ -1,8 +1,6 @@
 var a18097 =
 [
-    [ "FilterTargets", "dc/dda/a18097.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "dc/dda/a18097.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "dc/dda/a18097.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "dc/dda/a18097.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "dc/dda/a18097.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "CheckProc", "dc/dda/a18097.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "dc/dda/a18097.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "dc/dda/a18097.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

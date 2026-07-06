@@ -1,6 +1,7 @@
 var a13889 =
 [
-    [ "npc_rinjiAI", "dc/db6/a13893.html", "dc/db6/a13893" ],
-    [ "npc_rinji", "d6/d79/a13889.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "d6/d79/a13889.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "FilterTargets", "d6/d79/a13889.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d6/d79/a13889.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d6/d79/a13889.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d6/d79/a13889.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

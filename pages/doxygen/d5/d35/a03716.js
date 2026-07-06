@@ -1,4 +1,6 @@
 var a03716 =
 [
-    [ "ScriptRegistry< SpellScriptLoader >", "d5/d35/a03716.html#aae80ff7a03e35c91f47550f388c3f3bb", null ]
+    [ "GetWeatherData", "d5/d35/a03716.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d5/d35/a03716.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "_weatherData", "d5/d35/a03716.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
 ];

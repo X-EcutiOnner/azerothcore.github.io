@@ -1,10 +1,12 @@
 var a20637 =
 [
-    [ "boss_yoggsaron_voice", "d1/dd8/a20637.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
-    [ "Reset", "d1/dd8/a20637.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
-    [ "SpellHitTarget", "d1/dd8/a20637.html#aae3b82dbb871f0f297bdacf975958492", null ],
-    [ "UpdateAI", "d1/dd8/a20637.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
-    [ "_current", "d1/dd8/a20637.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
-    [ "_targets", "d1/dd8/a20637.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
-    [ "events", "d1/dd8/a20637.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
+    [ "boss_thorim_lightning_orb", "d1/dd8/a20637.html#a04d4de44a41e62d6c1c4c68d3064a861", null ],
+    [ "AttackStart", "d1/dd8/a20637.html#a8e512ec039d93b1ceb7a2b8ee556fa56", null ],
+    [ "EnterEvadeMode", "d1/dd8/a20637.html#a855df9994de0901e56ac6f84d71ab7e4", null ],
+    [ "InitWaypoint", "d1/dd8/a20637.html#a46a7a73cb200d7bbaa7f38871c765254", null ],
+    [ "MoveInLineOfSight", "d1/dd8/a20637.html#a3577618ff9d5bdea191d840b6c968fad", null ],
+    [ "Reset", "d1/dd8/a20637.html#adeefc7cd014021305b77cc9c52102ce6", null ],
+    [ "WaypointReached", "d1/dd8/a20637.html#a3948ca0a57befa16e15e0d6ab97a0cbe", null ],
+    [ "WaypointReached", "d1/dd8/a20637.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "Timer", "d1/dd8/a20637.html#a79c24c42364c9932199ece2775f7a7f2", null ]
 ];

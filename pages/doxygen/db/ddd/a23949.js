@@ -1,7 +1,6 @@
 var a23949 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "db/ddd/a23949.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "CanAIAttack", "db/ddd/a23949.html#a514fe49b143f57ef87359b3060911c02", null ],
-    [ "OwnerAttacked", "db/ddd/a23949.html#ad5189df825dc917e59c9b19e4a84cded", null ],
-    [ "OwnerAttackedBy", "db/ddd/a23949.html#a01f21e7c57f4bf7f9457c72fda4e9022", null ]
+    [ "CheckCast", "db/ddd/a23949.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "db/ddd/a23949.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "db/ddd/a23949.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

@@ -1,6 +1,5 @@
 var a18809 =
 [
-    [ "npc_crok_scourgebaneAI", "d0/d28/a18813.html", "d0/d28/a18813" ],
-    [ "npc_crok_scourgebane", "db/d36/a18809.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "db/d36/a18809.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "achievement_neck_deep_in_vile", "db/d36/a18809.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "db/d36/a18809.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

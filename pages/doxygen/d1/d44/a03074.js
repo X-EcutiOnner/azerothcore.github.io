@@ -1,4 +1,4 @@
 var a03074 =
 [
-    [ "MapRefMgr", "d1/daa/a10212.html", "d1/daa/a10212" ]
+    [ "LoginQueryHolder", "d0/d0a/a09969.html", "d0/d0a/a09969" ]
 ];

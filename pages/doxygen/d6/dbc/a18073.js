@@ -1,6 +1,6 @@
 var a18073 =
 [
-    [ "HandleScript", "d6/dbc/a18073.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "d6/dbc/a18073.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "d6/dbc/a18073.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "IgbArtilleryCheck", "d6/dbc/a18073.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "d6/dbc/a18073.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "d6/dbc/a18073.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

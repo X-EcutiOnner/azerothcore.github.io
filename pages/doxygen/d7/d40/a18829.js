@@ -1,6 +1,7 @@
 var a18829 =
 [
-    [ "npc_captain_arnathAI", "d6/dc5/a18833.html", "d6/dc5/a18833" ],
-    [ "npc_captain_arnath", "d7/d40/a18829.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d7/d40/a18829.html#a302ec007389e677011334d78f410207b", null ]
+    [ "ValithriaDespawner", "d7/d40/a18829.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d7/d40/a18829.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d7/d40/a18829.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d7/d40/a18829.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

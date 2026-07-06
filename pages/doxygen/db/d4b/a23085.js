@@ -1,6 +1,6 @@
 var a23085 =
 [
-    [ "HandleScriptEffect", "db/d4b/a23085.html#abba5817280db6579e3e6e0b964655c6e", null ],
-    [ "PrepareSpellScript", "db/d4b/a23085.html#a846fa43c9907ddb6243c006327757a1c", null ],
-    [ "Register", "db/d4b/a23085.html#a7daa26f4035912bff4811b0bfee35fee", null ]
+    [ "HandleApplyAura", "db/d4b/a23085.html#a4fde347d339f08cd01e2a47883d4b988", null ],
+    [ "PrepareSpellScript", "db/d4b/a23085.html#ab22bd56638a6adc8d111250780221cb9", null ],
+    [ "Register", "db/d4b/a23085.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
 ];

@@ -1,6 +1,6 @@
 var a16869 =
 [
-    [ "boss_eydisAI", "df/d9a/a16873.html", "df/d9a/a16873" ],
-    [ "boss_eydis", "d1/daf/a16869.html#aa555f80882499bc4627e622fbb48b2a4", null ],
-    [ "GetAI", "d1/daf/a16869.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
+    [ "npc_toc_shadow_priestAI", "df/d9a/a16873.html", "df/d9a/a16873" ],
+    [ "npc_toc_shadow_priest", "d1/daf/a16869.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "d1/daf/a16869.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

@@ -1,7 +1,6 @@
 var a21701 =
 [
-    [ "HandleDummy", "da/da6/a21701.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "da/da6/a21701.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "da/da6/a21701.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "da/da6/a21701.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "npc_torturer_lecraftAI", "db/d06/a21705.html", "db/d06/a21705" ],
+    [ "npc_torturer_lecraft", "da/da6/a21701.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "da/da6/a21701.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

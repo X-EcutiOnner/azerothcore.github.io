@@ -1,11 +1,10 @@
 var a08933 =
 [
-    [ "FriendInfo", "d0/d23/a08933.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d0/d23/a08933.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d0/d23/a08933.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d0/d23/a08933.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d0/d23/a08933.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d0/d23/a08933.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d0/d23/a08933.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d0/d23/a08933.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "DuelInfo", "d0/d23/a08933.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
+    [ "Initiator", "d0/d23/a08933.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
+    [ "IsMounted", "d0/d23/a08933.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
+    [ "Opponent", "d0/d23/a08933.html#a2765770367c839ad28f804e2df3205cb", null ],
+    [ "OutOfBoundsTime", "d0/d23/a08933.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
+    [ "StartTime", "d0/d23/a08933.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
+    [ "State", "d0/d23/a08933.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
 ];

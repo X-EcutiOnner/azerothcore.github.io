@@ -1,7 +1,6 @@
 var a11521 =
 [
-    [ "MapSessionFilter", "d5/dc5/a11521.html#ad11a700c36f8f45640402e96edc74b49", null ],
-    [ "~MapSessionFilter", "d5/dc5/a11521.html#a82960e741c8f64d24a764a915f14e2b8", null ],
-    [ "Process", "d5/dc5/a11521.html#a54483596fe2a5a0d30fab9a13506b375", null ],
-    [ "ProcessUnsafe", "d5/dc5/a11521.html#a8e3a7dd5affb24305435aea2c57718fa", null ]
+    [ "CorpseMapPositionQuery", "d5/dc5/a11521.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d5/dc5/a11521.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d5/dc5/a11521.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

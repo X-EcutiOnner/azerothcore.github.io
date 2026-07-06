@@ -1,11 +1,6 @@
 var a22281 =
 [
-    [ "boss_blackheart_the_inciter", "d4/dde/a22281.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "d4/dde/a22281.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "d4/dde/a22281.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "d4/dde/a22281.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "d4/dde/a22281.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "d4/dde/a22281.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "d4/dde/a22281.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "d4/dde/a22281.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "npc_released_offspring_harkoaAI", "d4/dde/a22281.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d4/dde/a22281.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d4/dde/a22281.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

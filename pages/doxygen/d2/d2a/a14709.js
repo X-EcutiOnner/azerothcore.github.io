@@ -1,5 +1,7 @@
 var a14709 =
 [
-    [ "go_pumpkin_shrine", "d2/d2a/a14709.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d2/d2a/a14709.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "npc_direbrew_minion", "d2/d2a/a14709.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d2/d2a/a14709.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d2/d2a/a14709.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d2/d2a/a14709.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

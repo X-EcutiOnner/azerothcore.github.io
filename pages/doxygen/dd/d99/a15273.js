@@ -1,8 +1,14 @@
 var a15273 =
 [
-    [ "HandleScript", "dd/d99/a15273.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "dd/d99/a15273.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "dd/d99/a15273.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "dd/d99/a15273.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "dd/d99/a15273.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "boss_captain_skarloc", "dd/d99/a15273.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "dd/d99/a15273.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "dd/d99/a15273.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "dd/d99/a15273.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "dd/d99/a15273.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "dd/d99/a15273.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "dd/d99/a15273.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "dd/d99/a15273.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "dd/d99/a15273.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "dd/d99/a15273.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "dd/d99/a15273.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

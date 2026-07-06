@@ -1,9 +1,8 @@
 var a12689 =
 [
-    [ "FilterTargets", "df/df4/a12689.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "df/df4/a12689.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "df/df4/a12689.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "df/df4/a12689.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "df/df4/a12689.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "df/df4/a12689.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_drakkisath", "df/df4/a12689.html#a77fdb667d0dc262dcacc5e988cf5fc8e", null ],
+    [ "JustEngagedWith", "df/df4/a12689.html#a502ca053bb96215c8386ee694a963cfa", null ],
+    [ "UpdateAI", "df/df4/a12689.html#a90bf913d6d94e5fc6d982049dd96e3b1", null ],
+    [ "_conflagrateTarget", "df/df4/a12689.html#aec0bd29626d8b59e33bfba370788ac40", null ],
+    [ "_conflagrateThreat", "df/df4/a12689.html#ac1cb21a95bbfcfbffc5a3046b233c183", null ]
 ];

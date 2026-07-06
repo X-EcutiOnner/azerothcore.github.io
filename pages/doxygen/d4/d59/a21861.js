@@ -1,8 +1,6 @@
 var a21861 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d4/d59/a21861.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "InitializeAI", "d4/d59/a21861.html#a6b99780951a126a97db88e7307c1d1b9", null ],
-    [ "JustEngagedWith", "d4/d59/a21861.html#ab95266d60769aa4099ca0f1bf678f237", null ],
-    [ "Reset", "d4/d59/a21861.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "UpdateAI", "d4/d59/a21861.html#abb28428b77beada6a378541ba11d090b", null ]
+    [ "npc_black_knight_graveyardAI", "de/dbf/a21865.html", "de/dbf/a21865" ],
+    [ "npc_black_knight_graveyard", "d4/d59/a21861.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "d4/d59/a21861.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

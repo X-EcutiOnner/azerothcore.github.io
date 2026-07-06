@@ -1,11 +1,25 @@
 var a13485 =
 [
-    [ "boss_baroness_anastariAI", "d7/def/a13485.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d7/def/a13485.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d7/def/a13485.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d7/def/a13485.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d7/def/a13485.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d7/def/a13485.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d7/def/a13485.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d7/def/a13485.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "Events", "d7/def/a13485.html#a5cfaa8e01186ddc0077c088124825407", [
+      [ "EVENT_START_RITUAL", "d7/def/a13485.html#a5cfaa8e01186ddc0077c088124825407afc564d8d20a38aebccc53438aea776ee", null ],
+      [ "EVENT_GHOULPLOSION", "d7/def/a13485.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac", null ],
+      [ "EVENT_RAISE_DEAD", "d7/def/a13485.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256", null ],
+      [ "EVENT_RESUME_WP", "d7/def/a13485.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be", null ]
+    ] ],
+    [ "Points", "d7/def/a13485.html#add8fd9a6f63482df9f45b3bfd766ab8d", [
+      [ "POINT_CORPSE_REACHED", "d7/def/a13485.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d", null ]
+    ] ],
+    [ "Says", "d7/def/a13485.html#ae8b39c5bb662dcd75f77afadabe479e0", [
+      [ "SAY_GRYPHON", "d7/def/a13485.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397", null ],
+      [ "SAY_GHOUL", "d7/def/a13485.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db", null ],
+      [ "SAY_GEIST", "d7/def/a13485.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2", null ]
+    ] ],
+    [ "npc_gothik_the_harvesterAI", "d7/def/a13485.html#adc37477ffc344ba02de99ceacee6f81b", null ],
+    [ "MovementInform", "d7/def/a13485.html#a94d937d44f1b843ddfe75983d3a2477a", null ],
+    [ "Reset", "d7/def/a13485.html#a3670ab9f63fff9ce55f64bba5018cef8", null ],
+    [ "UpdateAI", "d7/def/a13485.html#af2a9927516a41e3d8c35edb993a4aef5", null ],
+    [ "events", "d7/def/a13485.html#a1627517ce67ba5a5e454bc69e89d2e13", null ],
+    [ "geistGUID", "d7/def/a13485.html#a4c9b7d672451b45a4454f6fba7057b59", null ],
+    [ "isOnRitual", "d7/def/a13485.html#a88f5a2c50bcc65a3cd6e9856a85fbce2", null ],
+    [ "targetCorpseGUID", "d7/def/a13485.html#a4499cbb3c415a7ca494c6193aa956ce3", null ]
 ];

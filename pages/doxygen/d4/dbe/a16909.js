@@ -1,6 +1,6 @@
 var a16909 =
 [
-    [ "instance_trial_of_the_crusader_InstanceMapScript", "d9/d4a/a16913.html", "d9/d4a/a16913" ],
-    [ "instance_trial_of_the_crusader", "d4/dbe/a16909.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
-    [ "GetInstanceScript", "d4/dbe/a16909.html#a792034e9e5687bf5fa543175692bed66", null ]
+    [ "npc_toc_warriorAI", "d9/d4a/a16913.html", "d9/d4a/a16913" ],
+    [ "npc_toc_warrior", "d4/dbe/a16909.html#a3e969be07603ef59389106769010660c", null ],
+    [ "GetAI", "d4/dbe/a16909.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
 ];

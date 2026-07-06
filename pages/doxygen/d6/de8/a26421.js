@@ -1,8 +1,6 @@
 var a26421 =
 [
-    [ "CheckProc", "d6/de8/a26421.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
-    [ "HandleProc", "d6/de8/a26421.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
-    [ "PrepareAuraScript", "d6/de8/a26421.html#a876c1bda52c99c52249444414196b1d4", null ],
-    [ "Register", "d6/de8/a26421.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
-    [ "Validate", "d6/de8/a26421.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
+    [ "CheckProc", "d6/de8/a26421.html#a6d19e939f4145f4226f88777e37c7514", null ],
+    [ "PrepareAuraScript", "d6/de8/a26421.html#a821456f72ba2f38ecc31040560ea155f", null ],
+    [ "Register", "d6/de8/a26421.html#a63a0773da832d8490d952de35fe5a29d", null ]
 ];

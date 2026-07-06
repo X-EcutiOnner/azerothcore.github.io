@@ -1,7 +1,6 @@
 var a11981 =
 [
-    [ "StringTransaction", "d5/daf/a11981.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
-    [ "Append", "d5/daf/a11981.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
-    [ "GetBuffer", "d5/daf/a11981.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
-    [ "_buf", "d5/daf/a11981.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
+    [ "HitHandler", "d5/daf/a11981.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d5/daf/a11981.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d5/daf/a11981.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

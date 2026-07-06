@@ -1,8 +1,12 @@
 var a09925 =
 [
-    [ "InstResetEvent", "d0/de2/a09925.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "d0/de2/a09925.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "d0/de2/a09925.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "d0/de2/a09925.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "d0/de2/a09925.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "LogEntry", "d0/de2/a09925.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "d0/de2/a09925.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "d0/de2/a09925.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "d0/de2/a09925.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "d0/de2/a09925.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "d0/de2/a09925.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "d0/de2/a09925.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "d0/de2/a09925.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "d0/de2/a09925.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

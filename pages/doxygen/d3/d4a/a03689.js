@@ -1,10 +1,11 @@
 var a03689 =
 [
-    [ "GraveyardStruct", "d1/d86/a10291.html", "d1/d86/a10291" ],
-    [ "GraveyardData", "da/d85/a10295.html", "da/d85/a10295" ],
-    [ "Graveyard", "d7/d8f/a10299.html", "d7/d8f/a10299" ],
-    [ "sGraveyard", "d3/d4a/a03689.html#ac68c2a63982a6142e1931450d7b6115c", null ],
-    [ "GraveyardMapBounds", "d3/d4a/a03689.html#aa5ea0c376a2e44483f8c5cb084b3b186", null ],
-    [ "GraveyardMapBoundsNonConst", "d3/d4a/a03689.html#a6a551a1219fa9a26b5ed21656c2f9dd1", null ],
-    [ "WGGraveyardContainer", "d3/d4a/a03689.html#a484cb47c00fe9b952853e3b04212437c", null ]
+    [ "BaseGain", "d3/d4a/a03689.html#ada8e56c81ab672d85f2ff274d109e477", null ],
+    [ "Gain", "d3/d4a/a03689.html#ab923dd9a0df7d75127965b40539d4a10", null ],
+    [ "GetColorCode", "d3/d4a/a03689.html#a812c722ab7eb34807d8cad9659d34245", null ],
+    [ "GetGrayLevel", "d3/d4a/a03689.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
+    [ "GetZeroDifference", "d3/d4a/a03689.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
+    [ "hk_honor_at_level", "d3/d4a/a03689.html#ad25519337dcc6370a39a072c53386f55", null ],
+    [ "hk_honor_at_level_f", "d3/d4a/a03689.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
+    [ "xp_in_group_rate", "d3/d4a/a03689.html#a304088bebc0743c764589112d2ba3b7f", null ]
 ];

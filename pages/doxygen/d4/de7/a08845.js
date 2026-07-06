@@ -1,10 +1,13 @@
 var a08845 =
 [
-    [ "PvPInfo", "d4/de7/a08845.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d4/de7/a08845.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d4/de7/a08845.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d4/de7/a08845.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d4/de7/a08845.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d4/de7/a08845.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d4/de7/a08845.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "UpdateData", "d4/de7/a08845.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "d4/de7/a08845.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "d4/de7/a08845.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "d4/de7/a08845.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "d4/de7/a08845.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "d4/de7/a08845.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "d4/de7/a08845.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "d4/de7/a08845.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "d4/de7/a08845.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "d4/de7/a08845.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

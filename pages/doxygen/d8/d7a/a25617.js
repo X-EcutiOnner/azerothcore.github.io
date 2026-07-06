@@ -1,6 +1,7 @@
 var a25617 =
 [
-    [ "HandleProc", "d8/d7a/a25617.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d8/d7a/a25617.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d8/d7a/a25617.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "HandleScriptEffect", "d8/d7a/a25617.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
+    [ "PrepareSpellScript", "d8/d7a/a25617.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
+    [ "Register", "d8/d7a/a25617.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
+    [ "SelectTarget", "d8/d7a/a25617.html#a6a59b7ce696f959b2026cf8088079e89", null ]
 ];

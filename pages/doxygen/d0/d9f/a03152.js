@@ -1,33 +1,17 @@
 var a03152 =
 [
-    [ "WardenModuleUse", "dd/d99/a12155.html", "dd/d99/a12155" ],
-    [ "WardenModuleTransfer", "d0/d4e/a12159.html", "d0/d4e/a12159" ],
-    [ "WardenHashRequest", "d0/d9c/a12163.html", "d0/d9c/a12163" ],
-    [ "ClientWardenModule", "d7/d6d/a12167.html", "d7/d6d/a12167" ],
-    [ "Warden", "d3/ddb/a12171.html", "d3/ddb/a12171" ],
-    [ "WardenCheckType", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2", [
-      [ "MEM_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2aba449b452d425f871a9c01be028b5074", null ],
-      [ "PAGE_CHECK_A", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2a331b64b77a83e62b070746aab1ea995f", null ],
-      [ "PAGE_CHECK_B", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2a366d33d737ecb1b63b92e5c4fc13ed87", null ],
-      [ "MPQ_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2ab22116b6a319b5c4ad88eaf90291090b", null ],
-      [ "LUA_EVAL_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2a88364ba9c51997e2baa92428922caada", null ],
-      [ "DRIVER_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2a2b63e52f1c3146183a59fffa98919c93", null ],
-      [ "TIMING_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2ad11a9e323f324f0c3b2b439fec521018", null ],
-      [ "PROC_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2a19186939917116389af429c3c658293d", null ],
-      [ "MODULE_CHECK", "d0/d9f/a03152.html#a7598131f87414a66259189a0518ca6f2adc2e09d27e8f622121d11ba931c4ff77", null ]
-    ] ],
-    [ "WardenOpcodes", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51", [
-      [ "WARDEN_CMSG_MODULE_MISSING", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a334622303a3ea504196a3807f5da22f4", null ],
-      [ "WARDEN_CMSG_MODULE_OK", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a7636fd5a47dd45d2bf69a4625d77939c", null ],
-      [ "WARDEN_CMSG_CHEAT_CHECKS_RESULT", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a713a20be2d2cf1fa7d46ee2b788bc6f5", null ],
-      [ "WARDEN_CMSG_MEM_CHECKS_RESULT", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51adaac6c4f6f3ac87386438a5228ba617f", null ],
-      [ "WARDEN_CMSG_HASH_RESULT", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a51c0070c4347129060a6714ae0f483ed", null ],
-      [ "WARDEN_CMSG_MODULE_FAILED", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a5a2e35d214965eb7dccec345e261fadc", null ],
-      [ "WARDEN_SMSG_MODULE_USE", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51ad8b63ed3f3ec8941563402a5eacf9d30", null ],
-      [ "WARDEN_SMSG_MODULE_CACHE", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51aa12b4718a7515d81608ba46205625a11", null ],
-      [ "WARDEN_SMSG_CHEAT_CHECKS_REQUEST", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51ae5eafc7b23b0d14c934e9eb48fa73709", null ],
-      [ "WARDEN_SMSG_MODULE_INITIALIZE", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51aafdff6ee4abd8ad4511d527f09154da8", null ],
-      [ "WARDEN_SMSG_MEM_CHECKS_REQUEST", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a41d76534b91d6af9e1b3ca116c4eda82", null ],
-      [ "WARDEN_SMSG_HASH_REQUEST", "d0/d9f/a03152.html#a8d0de714c4a4cf7a125c6187a7d19e51a69c3028f1b435c282c384008e49eb451", null ]
-    ] ]
+    [ "DeleteSpellFromAllPlayers", "d0/d9f/a03152.html#af0dec25ac7c118b67a71a0356eb37877", null ],
+    [ "GetDiminishingReturnsGroupForSpell", "d0/d9f/a03152.html#a35697cceaf39daf069d06c53e8e3cdf7", null ],
+    [ "GetDiminishingReturnsGroupType", "d0/d9f/a03152.html#ab0fdc6c7b1e9317d6f6c0480d734b4f1", null ],
+    [ "GetDiminishingReturnsLimitDuration", "d0/d9f/a03152.html#a2ba27d428865ac3f87bf6f6843271d3f", null ],
+    [ "GetDiminishingReturnsMaxLevel", "d0/d9f/a03152.html#ad621262d491c800fb5ddd016250dd46f", null ],
+    [ "InitTriggerAuraData", "d0/d9f/a03152.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
+    [ "IsDiminishingReturnsGroupDurationLimited", "d0/d9f/a03152.html#a423a80c889a3456a2b55e0e9c22ad060", null ],
+    [ "IsPartOfSkillLine", "d0/d9f/a03152.html#a18102741b602d3b4473f75d4f619a09b", null ],
+    [ "IsPrimaryProfessionSkill", "d0/d9f/a03152.html#a09c4e23bd85fab812b67beafbbf1b7b3", null ],
+    [ "LoadPetDefaultSpells_helper", "d0/d9f/a03152.html#a26626d5f5404864fcd622872f5cd8af1", null ],
+    [ "isAlwaysTriggeredAura", "d0/d9f/a03152.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
+    [ "isTriggerAura", "d0/d9f/a03152.html#ad51bed43268eefcceebdda05d85c6a61", null ],
+    [ "procPrepared", "d0/d9f/a03152.html#a11410c456e972de7cfb44bbe17709cc4", null ],
+    [ "spellTypeMask", "d0/d9f/a03152.html#aacbfece2441a495ad1e709acd28bc9b7", null ]
 ];

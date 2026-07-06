@@ -1,12 +1,14 @@
 var a19673 =
 [
-    [ "boss_loken", "d7/d1f/a19673.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "d7/d1f/a19673.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "d7/d1f/a19673.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "d7/d1f/a19673.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "d7/d1f/a19673.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "OnAuraRemove", "d7/d1f/a19673.html#adc35dee5a25820bd080b4d610d6cfc37", null ],
-    [ "Reset", "d7/d1f/a19673.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "ScheduleTasks", "d7/d1f/a19673.html#a600e211be40226679212a7078b26f3ed", null ],
-    [ "_introDone", "d7/d1f/a19673.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "boss_keristrasza", "d7/d1f/a19673.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d7/d1f/a19673.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d7/d1f/a19673.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d7/d1f/a19673.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d7/d1f/a19673.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d7/d1f/a19673.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d7/d1f/a19673.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d7/d1f/a19673.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d7/d1f/a19673.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d7/d1f/a19673.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d7/d1f/a19673.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

@@ -1,7 +1,6 @@
 var a25653 =
 [
-    [ "Load", "d8/d1b/a25653.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "d8/d1b/a25653.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "d8/d1b/a25653.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "d8/d1b/a25653.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "HandleDummy", "d8/d1b/a25653.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d8/d1b/a25653.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d8/d1b/a25653.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

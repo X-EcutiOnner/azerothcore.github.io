@@ -1,8 +1,8 @@
 var a21881 =
 [
-    [ "npc_freed_protodrakeAI", "dd/dba/a21881.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "dd/dba/a21881.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "dd/dba/a21881.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "dd/dba/a21881.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "dd/dba/a21881.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_llod_genericAI", "dd/dba/a21881.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dd/dba/a21881.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dd/dba/a21881.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dd/dba/a21881.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dd/dba/a21881.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

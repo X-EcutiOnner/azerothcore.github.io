@@ -1,11 +1,17 @@
 var a13349 =
 [
-    [ "npc_valkyr_battle_maidenAI", "dd/d32/a13349.html#a859b63621c500c7a36150fadbb460b2b", null ],
-    [ "Reset", "dd/d32/a13349.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
-    [ "UpdateAI", "dd/d32/a13349.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
-    [ "FlyBackTimer", "dd/d32/a13349.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
-    [ "phase", "dd/d32/a13349.html#abd5d71272aa575be8583254217194e49", null ],
-    [ "x", "dd/d32/a13349.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
-    [ "y", "dd/d32/a13349.html#acccea63fedf38de14f7818016830a0a9", null ],
-    [ "z", "dd/d32/a13349.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
+    [ "boss_priestess_lackey_commonAI", "dd/d32/a13349.html#acf122076823631cef5d66e03a9f607aa", null ],
+    [ "AttackStart", "dd/d32/a13349.html#a6056ef3425f39208e5731b25fc94a335", null ],
+    [ "EnterEvadeMode", "dd/d32/a13349.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
+    [ "GetThreatMod", "dd/d32/a13349.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
+    [ "JustDied", "dd/d32/a13349.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
+    [ "JustEngagedWith", "dd/d32/a13349.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
+    [ "JustSummoned", "dd/d32/a13349.html#a9a7bcf641bae31827872faf7666635d5", null ],
+    [ "KilledUnit", "dd/d32/a13349.html#a23aaa0a619470898dd617a18130ca17b", null ],
+    [ "RecalculateThreat", "dd/d32/a13349.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
+    [ "Reset", "dd/d32/a13349.html#aa2ef03d73c43668c97205fa72414e71b", null ],
+    [ "UpdateAI", "dd/d32/a13349.html#adf87bd797da345e49700265319d808cc", null ],
+    [ "aiType", "dd/d32/a13349.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
+    [ "instance", "dd/d32/a13349.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
+    [ "summons", "dd/d32/a13349.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
 ];

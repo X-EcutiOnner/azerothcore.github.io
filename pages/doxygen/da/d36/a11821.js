@@ -1,10 +1,7 @@
 var a11821 =
 [
-    [ "TargetHook", "da/d36/a11821.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "da/d36/a11821.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "da/d36/a11821.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "da/d36/a11821.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "da/d36/a11821.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "da/d36/a11821.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "da/d36/a11821.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "chance", "da/d36/a11821.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "da/d36/a11821.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "da/d36/a11821.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "da/d36/a11821.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

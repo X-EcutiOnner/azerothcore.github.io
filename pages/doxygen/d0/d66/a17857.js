@@ -1,6 +1,7 @@
 var a17857 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d0/d66/a17857.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d0/d66/a17857.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d0/d66/a17857.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "HandleProc", "d0/d66/a17857.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
+    [ "PrepareAuraScript", "d0/d66/a17857.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
+    [ "Register", "d0/d66/a17857.html#acc0881cf7379525a0841426867d2d850", null ],
+    [ "Validate", "d0/d66/a17857.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
 ];

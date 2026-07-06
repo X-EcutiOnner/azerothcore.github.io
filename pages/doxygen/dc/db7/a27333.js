@@ -1,6 +1,8 @@
 var a27333 =
 [
-    [ "PrepareAuraScript", "dc/db7/a27333.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "dc/db7/a27333.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "dc/db7/a27333.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "CheckProc", "dc/db7/a27333.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
+    [ "HandleProc", "dc/db7/a27333.html#ad41f37b773e528385151f8059974b821", null ],
+    [ "PrepareAuraScript", "dc/db7/a27333.html#acd65db816c8562108272e6849481f0ca", null ],
+    [ "Register", "dc/db7/a27333.html#a56d85b502b6660ab4ecccc92dd799720", null ],
+    [ "Validate", "dc/db7/a27333.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
 ];

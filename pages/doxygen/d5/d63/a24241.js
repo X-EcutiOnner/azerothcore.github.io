@@ -1,11 +1,8 @@
 var a24241 =
 [
-    [ "HandleAfterHit", "d5/d63/a24241.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "d5/d63/a24241.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "d5/d63/a24241.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "d5/d63/a24241.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "d5/d63/a24241.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "d5/d63/a24241.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "d5/d63/a24241.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "d5/d63/a24241.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "CheckProc", "d5/d63/a24241.html#a8875c54a3cae852681a389c8777f25bb", null ],
+    [ "HandleProc", "d5/d63/a24241.html#aa4025d668080ba03af23abbb3a461758", null ],
+    [ "PrepareAuraScript", "d5/d63/a24241.html#a5fee783960ed7f0b4adcfc30db68061d", null ],
+    [ "Register", "d5/d63/a24241.html#a5a6251290dd3389e9307c2e6f9b52098", null ],
+    [ "Validate", "d5/d63/a24241.html#a38cdd5d8346797e53ed82be598df48cd", null ]
 ];

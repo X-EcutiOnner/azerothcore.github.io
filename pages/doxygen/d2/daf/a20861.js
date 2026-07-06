@@ -1,6 +1,7 @@
 var a20861 =
 [
-    [ "npc_frenzied_worgenAI", "dc/dd7/a20865.html", "dc/dd7/a20865" ],
-    [ "npc_frenzied_worgen", "d2/daf/a20861.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "d2/daf/a20861.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "OnApply", "d2/daf/a20861.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d2/daf/a20861.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d2/daf/a20861.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d2/daf/a20861.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

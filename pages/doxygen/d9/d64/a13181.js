@@ -1,5 +1,7 @@
 var a13181 =
 [
-    [ "boss_ellris_duskhallow", "d9/d64/a13181.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "d9/d64/a13181.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "OnRemove", "d9/d64/a13181.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d9/d64/a13181.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d9/d64/a13181.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d9/d64/a13181.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

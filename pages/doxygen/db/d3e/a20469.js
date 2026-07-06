@@ -1,9 +1,7 @@
 var a20469 =
 [
-    [ "boss_thorim_gauntlet_npcs", "db/d3e/a20469.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
-    [ "JustEngagedWith", "db/d3e/a20469.html#af10a444bada5743c837a9979726c79c9", null ],
-    [ "Reset", "db/d3e/a20469.html#a22fcffcc05f155524cadade389ec3607", null ],
-    [ "UpdateAI", "db/d3e/a20469.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
-    [ "_isCaster", "db/d3e/a20469.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
-    [ "events", "db/d3e/a20469.html#aec35e2b91841c386f083681673e15598", null ]
+    [ "FilterTargetsInitial", "db/d3e/a20469.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "db/d3e/a20469.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "db/d3e/a20469.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "db/d3e/a20469.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

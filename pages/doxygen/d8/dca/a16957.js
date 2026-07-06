@@ -1,5 +1,6 @@
 var a16957 =
 [
-    [ "achievement_oh_novos", "d8/dca/a16957.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d8/dca/a16957.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "npc_toc_pet_hunterAI", "d7/d08/a16961.html", "d7/d08/a16961" ],
+    [ "npc_toc_pet_hunter", "d8/dca/a16957.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d8/dca/a16957.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

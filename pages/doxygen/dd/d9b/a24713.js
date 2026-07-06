@@ -1,6 +1,8 @@
 var a24713 =
 [
-    [ "HandleOnEffectHit", "dd/d9b/a24713.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "dd/d9b/a24713.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "dd/d9b/a24713.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "CheckProc", "dd/d9b/a24713.html#a1b9f36ea8dae6ad947a75bbe23f7fc2d", null ],
+    [ "HandleProc", "dd/d9b/a24713.html#a506420e3e109bf8f4e7c83b101c80c3c", null ],
+    [ "PrepareAuraScript", "dd/d9b/a24713.html#a5e81587c47cbb6f331b6d5f8f22d7616", null ],
+    [ "Register", "dd/d9b/a24713.html#a38de7578466df47ebe6fc7b5bfab616b", null ],
+    [ "Validate", "dd/d9b/a24713.html#ad81044da0924211cbbaccc671839983c", null ]
 ];

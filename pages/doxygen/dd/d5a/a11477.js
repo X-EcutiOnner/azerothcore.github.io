@@ -1,4 +1,6 @@
 var a11477 =
 [
-    [ "ServerOpcodeHandler", "d8/d79/a05010.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
+    [ "PetStopAttack", "dd/d5a/a11477.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "dd/d5a/a11477.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "dd/d5a/a11477.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

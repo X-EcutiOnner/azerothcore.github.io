@@ -1,7 +1,9 @@
 var a22289 =
 [
-    [ "npc_voidtraveler", "de/dc1/a22289.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "de/dc1/a22289.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "de/dc1/a22289.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "de/dc1/a22289.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "npc_crusade_recruitAI", "de/dc1/a22289.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "de/dc1/a22289.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "de/dc1/a22289.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "de/dc1/a22289.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "de/dc1/a22289.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "de/dc1/a22289.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

@@ -1,7 +1,6 @@
 var a16813 =
 [
-    [ "HandleEffectPeriodic", "d8/d14/a16813.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "d8/d14/a16813.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "d8/d14/a16813.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "d8/d14/a16813.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_anubarak_spikeAI", "d5/d85/a16817.html", "d5/d85/a16817" ],
+    [ "npc_anubarak_spike", "d8/d14/a16813.html#a4e96de1910c23311ad4644960ccd5022", null ],
+    [ "GetAI", "d8/d14/a16813.html#a7d55b321eb7e595fe5886dc382134947", null ]
 ];

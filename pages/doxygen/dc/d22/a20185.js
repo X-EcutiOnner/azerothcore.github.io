@@ -1,6 +1,6 @@
 var a20185 =
 [
-    [ "FilterTargets", "dc/d22/a20185.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "dc/d22/a20185.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "dc/d22/a20185.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "OnPeriodic", "dc/d22/a20185.html#a379c55df994c58932fef7e7a59fd8426", null ],
+    [ "PrepareAuraScript", "dc/d22/a20185.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
+    [ "Register", "dc/d22/a20185.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
 ];

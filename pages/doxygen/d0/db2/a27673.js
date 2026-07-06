@@ -1,9 +1,8 @@
 var a27673 =
 [
-    [ "boss_lethonAI", "d0/db2/a27673.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "d0/db2/a27673.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "d0/db2/a27673.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "d0/db2/a27673.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "d0/db2/a27673.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "d0/db2/a27673.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "HandleDamage", "d0/db2/a27673.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "d0/db2/a27673.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "d0/db2/a27673.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "d0/db2/a27673.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "d0/db2/a27673.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

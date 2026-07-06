@@ -1,5 +1,6 @@
 var a20389 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_12", "d0/df7/a20389.html#adc7f5769894c59710fa70604878b1e2c", null ],
-    [ "OnCheck", "d0/df7/a20389.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
+    [ "HandleAfterEffectApply", "d0/df7/a20389.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d0/df7/a20389.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d0/df7/a20389.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

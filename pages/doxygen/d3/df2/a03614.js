@@ -1,8 +1,11 @@
 var a03614 =
 [
-    [ "MovementHandlerScript", "dc/d00/a10755.html", "dc/d00/a10755" ],
-    [ "MovementHook", "d3/df2/a03614.html#a5763e953c65ba38409a14469a1fe2842", [
-      [ "MOVEMENTHOOK_ON_PLAYER_MOVE", "d3/df2/a03614.html#a5763e953c65ba38409a14469a1fe2842a9fb1a9d074f81a435e688f4cd7d12326", null ],
-      [ "MOVEMENTHOOK_END", "d3/df2/a03614.html#a5763e953c65ba38409a14469a1fe2842ae0cf6cfe134c99cc596bac2607905b9c", null ]
-    ] ]
+    [ "SpellScriptLoader", "d6/d8a/a10797.html", "d6/d8a/a10797" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "dc/da0/a10801.html", "dc/da0/a10801" ],
+    [ "RegisterSpellAndAuraScriptPair", "d3/df2/a03614.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
+    [ "RegisterSpellAndAuraScriptPairWithArgs", "d3/df2/a03614.html#aeffc3c8d08a35d5969c33508488e9051", null ],
+    [ "RegisterSpellScript", "d3/df2/a03614.html#ae221e5976ab29ba14fec3b073a03670f", null ],
+    [ "RegisterSpellScriptWithArgs", "d3/df2/a03614.html#aedecf91f4fce46852db865deae243e1f", null ],
+    [ "is_AuraScript", "d3/df2/a03614.html#a08facc7292565931370e1cc514f726e1", null ],
+    [ "is_SpellScript", "d3/df2/a03614.html#a2b573b538dcbf3da43ae603709d93bf2", null ]
 ];

@@ -1,7 +1,10 @@
 var a16005 =
 [
-    [ "npc_ranshallaAI", "d2/dfb/a16009.html", "d2/dfb/a16009" ],
-    [ "npc_ranshalla", "d3/d48/a16005.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d3/d48/a16005.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d3/d48/a16005.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "CreatureId", "d3/d48/a16005.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d3/d48/a16005.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d3/d48/a16005.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d3/d48/a16005.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d3/d48/a16005.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d3/d48/a16005.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d3/d48/a16005.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

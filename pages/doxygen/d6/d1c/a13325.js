@@ -1,8 +1,6 @@
 var a13325 =
 [
-    [ "DelayedSummonEvent", "d6/d1c/a13325.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d6/d1c/a13325.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d6/d1c/a13325.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d6/d1c/a13325.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d6/d1c/a13325.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "HandleProc", "d6/d1c/a13325.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d6/d1c/a13325.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d6/d1c/a13325.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

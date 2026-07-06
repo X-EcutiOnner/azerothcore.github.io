@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/Duration.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Utilities/ByteConverter.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,239 +105,65 @@ $(document).ready(function(){initNavTree('d0/d70/a04658.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#namespaces">Namespaces</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Duration.h File Reference</div></div>
+  <div class="headertitle"><div class="title">ByteConverter.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;chrono&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a201a83ed0d59d2baf946daf42dac834f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a> = std::chrono::microseconds</td></tr>
-<tr class="memdesc:a201a83ed0d59d2baf946daf42dac834f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Microseconds shorthand typedef.  <a href="../../d0/d70/a04658.html#a201a83ed0d59d2baf946daf42dac834f">More...</a><br /></td></tr>
-<tr class="separator:a201a83ed0d59d2baf946daf42dac834f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c3834b9e3853535027d58bf21bec81f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> = std::chrono::milliseconds</td></tr>
-<tr class="memdesc:a1c3834b9e3853535027d58bf21bec81f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Milliseconds shorthand typedef.  <a href="../../d0/d70/a04658.html#a1c3834b9e3853535027d58bf21bec81f">More...</a><br /></td></tr>
-<tr class="separator:a1c3834b9e3853535027d58bf21bec81f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> = std::chrono::seconds</td></tr>
-<tr class="memdesc:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Seconds shorthand typedef.  <a href="../../d0/d70/a04658.html#a3cd82f1c195a0b935b4d66b02a41acd8">More...</a><br /></td></tr>
-<tr class="separator:a3cd82f1c195a0b935b4d66b02a41acd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2161f9db850581e2228078614990df8"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#af2161f9db850581e2228078614990df8">Minutes</a> = std::chrono::minutes</td></tr>
-<tr class="memdesc:af2161f9db850581e2228078614990df8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Minutes shorthand typedef.  <a href="../../d0/d70/a04658.html#af2161f9db850581e2228078614990df8">More...</a><br /></td></tr>
-<tr class="separator:af2161f9db850581e2228078614990df8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0f87984d2b3835a61dffc22ae8bf083"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a> = std::chrono::hours</td></tr>
-<tr class="memdesc:aa0f87984d2b3835a61dffc22ae8bf083"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hours shorthand typedef.  <a href="../../d0/d70/a04658.html#aa0f87984d2b3835a61dffc22ae8bf083">More...</a><br /></td></tr>
-<tr class="separator:aa0f87984d2b3835a61dffc22ae8bf083"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> = std::chrono::days</td></tr>
-<tr class="memdesc:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Days shorthand typedef.  <a href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">More...</a><br /></td></tr>
-<tr class="separator:af5dc5e7ad7b3f6d8e84530de842d125b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a983745490d3d3a0322c4ccf0f418f179"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> = std::chrono::weeks</td></tr>
-<tr class="memdesc:a983745490d3d3a0322c4ccf0f418f179"><td class="mdescLeft">&#160;</td><td class="mdescRight">Weeks shorthand typedef.  <a href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">More...</a><br /></td></tr>
-<tr class="separator:a983745490d3d3a0322c4ccf0f418f179"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4fa20b33a9b5ee358963159b01d72f3"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> = std::chrono::years</td></tr>
-<tr class="memdesc:ab4fa20b33a9b5ee358963159b01d72f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Years shorthand typedef.  <a href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">More...</a><br /></td></tr>
-<tr class="separator:ab4fa20b33a9b5ee358963159b01d72f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> = std::chrono::months</td></tr>
-<tr class="memdesc:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="mdescLeft">&#160;</td><td class="mdescRight">Months shorthand typedef.  <a href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">More...</a><br /></td></tr>
-<tr class="separator:a5f2ffeea2459944dfaa4443f1efb7f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5ca775e8d8c664b6edef818ce1251b9"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> = std::chrono::steady_clock::time_point</td></tr>
-<tr class="memdesc:ae5ca775e8d8c664b6edef818ce1251b9"><td class="mdescLeft">&#160;</td><td class="mdescRight">time_point shorthand typedefs  <a href="../../d0/d70/a04658.html#ae5ca775e8d8c664b6edef818ce1251b9">More...</a><br /></td></tr>
-<tr class="separator:ae5ca775e8d8c664b6edef818ce1251b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada798961abc5a533d616ff780f567bb6"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> = std::chrono::system_clock::time_point</td></tr>
-<tr class="separator:ada798961abc5a533d616ff780f567bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:de/d0b/a05080"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html">ByteConverter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ae62919aa53468bfadd4984bdd0498c03"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#ae62919aa53468bfadd4984bdd0498c03">operator&quot;&quot;_days</a> (unsigned long long days)</td></tr>
-<tr class="separator:ae62919aa53468bfadd4984bdd0498c03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ff3ff81243ee7b2ce873364bb7ad676"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a7ff3ff81243ee7b2ce873364bb7ad676">operator&quot;&quot;_weeks</a> (unsigned long long weeks)</td></tr>
-<tr class="separator:a7ff3ff81243ee7b2ce873364bb7ad676"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25baa64022678f43cf423c945dbd0226"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a25baa64022678f43cf423c945dbd0226">operator&quot;&quot;_years</a> (unsigned long long years)</td></tr>
-<tr class="separator:a25baa64022678f43cf423c945dbd0226"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f38d5f5e7db75251b49712f910059ac"><td class="memItemLeft" align="right" valign="top">constexpr <a class="el" href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a7f38d5f5e7db75251b49712f910059ac">operator&quot;&quot;_months</a> (unsigned long long months)</td></tr>
-<tr class="separator:a7f38d5f5e7db75251b49712f910059ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplParams" colspan="2">template&lt;std::size_t T&gt; </td></tr>
+<tr class="memitem:a5628479f846d755da3ff53b0e2a66c26"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html#a5628479f846d755da3ff53b0e2a66c26">ByteConverter::convert</a> (char *val)</td></tr>
+<tr class="separator:a5628479f846d755da3ff53b0e2a66c26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:aa8017307aa0aa935f062b4f701563d09"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html#aa8017307aa0aa935f062b4f701563d09">ByteConverter::convert&lt; 0 &gt;</a> (char *)</td></tr>
+<tr class="separator:aa8017307aa0aa935f062b4f701563d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memItemLeft" align="right" valign="top">template&lt;&gt; </td></tr>
+<tr class="memitem:a3717e304a2b8b074fcd513ca8e0db116"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html#a3717e304a2b8b074fcd513ca8e0db116">ByteConverter::convert&lt; 1 &gt;</a> (char *)</td></tr>
+<tr class="separator:a3717e304a2b8b074fcd513ca8e0db116"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a6177d7ac84a4ea6819c57a124345540e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/d0b/a05080.html#a6177d7ac84a4ea6819c57a124345540e">ByteConverter::apply</a> (T *val)</td></tr>
+<tr class="separator:a6177d7ac84a4ea6819c57a124345540e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a9d20b1e463a04f0a22d79ca802902be6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a9d20b1e463a04f0a22d79ca802902be6">EndianConvert</a> (T &amp;val)</td></tr>
+<tr class="separator:a9d20b1e463a04f0a22d79ca802902be6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a71946d011105dec5ad60c6875066ed86"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a71946d011105dec5ad60c6875066ed86">EndianConvertReverse</a> (T &amp;)</td></tr>
+<tr class="separator:a71946d011105dec5ad60c6875066ed86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a73b1f88261dfd018f7f185b0ea941c88"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a73b1f88261dfd018f7f185b0ea941c88">EndianConvertPtr</a> (void *val)</td></tr>
+<tr class="separator:a73b1f88261dfd018f7f185b0ea941c88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a8b9f1be37ef60cffbb862512d9374dd4">EndianConvertPtrReverse</a> (void *)</td></tr>
+<tr class="separator:a8b9f1be37ef60cffbb862512d9374dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:af2e19073fdc053bb0299b663fa1ee757"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#af2e19073fdc053bb0299b663fa1ee757">EndianConvert</a> (T *)</td></tr>
+<tr class="separator:af2e19073fdc053bb0299b663fa1ee757"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a1fa1c447bec92bbf436d429b422cc2e7">EndianConvertReverse</a> (T *)</td></tr>
+<tr class="separator:a1fa1c447bec92bbf436d429b422cc2e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a7a138a6c8a71f6e9bd8eb436a598f628">EndianConvert</a> (<a class="el" href="../../d4/d8a/a04919.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a7a138a6c8a71f6e9bd8eb436a598f628"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49a7404e8b8e7030c609822047db18e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a49a7404e8b8e7030c609822047db18e8">EndianConvert</a> (<a class="el" href="../../d4/d8a/a04919.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:a49a7404e8b8e7030c609822047db18e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b">EndianConvertReverse</a> (<a class="el" href="../../d4/d8a/a04919.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;)</td></tr>
+<tr class="separator:a2adbd00f9fd7adfc4bd3d26ae1565a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d70/a04658.html#acdb2b3cf0ea55e72e1d4047380cbd260">EndianConvertReverse</a> (<a class="el" href="../../d4/d8a/a04919.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;)</td></tr>
+<tr class="separator:acdb2b3cf0ea55e72e1d4047380cbd260"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="af5dc5e7ad7b3f6d8e84530de842d125b" name="af5dc5e7ad7b3f6d8e84530de842d125b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5dc5e7ad7b3f6d8e84530de842d125b">&#9670;&#160;</a></span>Days</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> =  std::chrono::days</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Days shorthand typedef. </p>
-
-</div>
-</div>
-<a id="aa0f87984d2b3835a61dffc22ae8bf083" name="aa0f87984d2b3835a61dffc22ae8bf083"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0f87984d2b3835a61dffc22ae8bf083">&#9670;&#160;</a></span>Hours</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#aa0f87984d2b3835a61dffc22ae8bf083">Hours</a> =  std::chrono::hours</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Hours shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a201a83ed0d59d2baf946daf42dac834f" name="a201a83ed0d59d2baf946daf42dac834f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a201a83ed0d59d2baf946daf42dac834f">&#9670;&#160;</a></span>Microseconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#a201a83ed0d59d2baf946daf42dac834f">Microseconds</a> =  std::chrono::microseconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Microseconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a1c3834b9e3853535027d58bf21bec81f" name="a1c3834b9e3853535027d58bf21bec81f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1c3834b9e3853535027d58bf21bec81f">&#9670;&#160;</a></span>Milliseconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> =  std::chrono::milliseconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Milliseconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="af2161f9db850581e2228078614990df8" name="af2161f9db850581e2228078614990df8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2161f9db850581e2228078614990df8">&#9670;&#160;</a></span>Minutes</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#af2161f9db850581e2228078614990df8">Minutes</a> =  std::chrono::minutes</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Minutes shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a5f2ffeea2459944dfaa4443f1efb7f42" name="a5f2ffeea2459944dfaa4443f1efb7f42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f2ffeea2459944dfaa4443f1efb7f42">&#9670;&#160;</a></span>Months</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> =  std::chrono::months</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Months shorthand typedef. </p>
-
-</div>
-</div>
-<a id="a3cd82f1c195a0b935b4d66b02a41acd8" name="a3cd82f1c195a0b935b4d66b02a41acd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3cd82f1c195a0b935b4d66b02a41acd8">&#9670;&#160;</a></span>Seconds</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> =  std::chrono::seconds</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Seconds shorthand typedef. </p>
-
-</div>
-</div>
-<a id="ada798961abc5a533d616ff780f567bb6" name="ada798961abc5a533d616ff780f567bb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada798961abc5a533d616ff780f567bb6">&#9670;&#160;</a></span>SystemTimePoint</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> =  std::chrono::system_clock::time_point</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae5ca775e8d8c664b6edef818ce1251b9" name="ae5ca775e8d8c664b6edef818ce1251b9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae5ca775e8d8c664b6edef818ce1251b9">&#9670;&#160;</a></span>TimePoint</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> =  std::chrono::steady_clock::time_point</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>time_point shorthand typedefs </p>
-
-</div>
-</div>
-<a id="a983745490d3d3a0322c4ccf0f418f179" name="a983745490d3d3a0322c4ccf0f418f179"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a983745490d3d3a0322c4ccf0f418f179">&#9670;&#160;</a></span>Weeks</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> =  std::chrono::weeks</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Weeks shorthand typedef. </p>
-
-</div>
-</div>
-<a id="ab4fa20b33a9b5ee358963159b01d72f3" name="ab4fa20b33a9b5ee358963159b01d72f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab4fa20b33a9b5ee358963159b01d72f3">&#9670;&#160;</a></span>Years</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> =  std::chrono::years</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Years shorthand typedef. </p>
-
-</div>
-</div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="ae62919aa53468bfadd4984bdd0498c03" name="ae62919aa53468bfadd4984bdd0498c03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae62919aa53468bfadd4984bdd0498c03">&#9670;&#160;</a></span>operator&quot;&quot;_days()</h2>
+<a id="a49a7404e8b8e7030c609822047db18e8" name="a49a7404e8b8e7030c609822047db18e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a49a7404e8b8e7030c609822047db18e8">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -346,28 +172,76 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a> operator&quot;&quot;_days </td>
+          <td class="memname">void EndianConvert </td>
           <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>days</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d4/d8a/a04919.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   76</span>{</div>
-<div class="line"><span class="lineno">   77</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a>(days);</div>
-<div class="line"><span class="lineno">   78</span>}</div>
-<div class="ttc" id="aa04658_html_af5dc5e7ad7b3f6d8e84530de842d125b"><div class="ttname"><a href="../../d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b">Days</a></div><div class="ttdeci">std::chrono::days Days</div><div class="ttdoc">Days shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:55</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   62</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a7f38d5f5e7db75251b49712f910059ac" name="a7f38d5f5e7db75251b49712f910059ac"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7f38d5f5e7db75251b49712f910059ac">&#9670;&#160;</a></span>operator&quot;&quot;_months()</h2>
+<a id="a9d20b1e463a04f0a22d79ca802902be6" name="a9d20b1e463a04f0a22d79ca802902be6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d20b1e463a04f0a22d79ca802902be6">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{ ByteConverter::apply&lt;T&gt;(&amp;val); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00129">ByteBuffer::append()</a>, <a class="el" href="../../#l00049">DBCFileLoader::Record::getFloat()</a>, <a class="el" href="../../#l00057">DBCFileLoader::Record::getUInt()</a>, <a class="el" href="../../#l00156">WardenWin::InitializeModule()</a>, <a class="el" href="../../#l00024">DBCFileLoader::Load()</a>, <a class="el" href="../../#l00137">ByteBuffer::put()</a>, <a class="el" href="../../#l00358">ByteBuffer::read()</a>, <a class="el" href="../../#l00306">WorldSocket::ReadHeaderHandler()</a>, and <a class="el" href="../../#l00076">Warden::RequestModule()</a>.</p>
+
+</div>
+</div>
+<a id="af2e19073fdc053bb0299b663fa1ee757" name="af2e19073fdc053bb0299b663fa1ee757"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af2e19073fdc053bb0299b663fa1ee757">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvert </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7a138a6c8a71f6e9bd8eb436a598f628" name="a7a138a6c8a71f6e9bd8eb436a598f628"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a138a6c8a71f6e9bd8eb436a598f628">&#9670;&#160;</a></span>EndianConvert() <span class="overload">[4/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -376,58 +250,83 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a> operator&quot;&quot;_months </td>
+          <td class="memname">void EndianConvert </td>
           <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>months</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d4/d8a/a04919.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{</div>
-<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a>(months);</div>
-<div class="line"><span class="lineno">   93</span>}</div>
-<div class="ttc" id="aa04658_html_a5f2ffeea2459944dfaa4443f1efb7f42"><div class="ttname"><a href="../../d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42">Months</a></div><div class="ttdeci">std::chrono::months Months</div><div class="ttdoc">Months shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:64</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a7ff3ff81243ee7b2ce873364bb7ad676" name="a7ff3ff81243ee7b2ce873364bb7ad676"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ff3ff81243ee7b2ce873364bb7ad676">&#9670;&#160;</a></span>operator&quot;&quot;_weeks()</h2>
+<a id="a73b1f88261dfd018f7f185b0ea941c88" name="a73b1f88261dfd018f7f185b0ea941c88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73b1f88261dfd018f7f185b0ea941c88">&#9670;&#160;</a></span>EndianConvertPtr()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a> operator&quot;&quot;_weeks </td>
+          <td class="memname">void EndianConvertPtr </td>
           <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>weeks</em></td><td>)</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"><em>val</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{</div>
-<div class="line"><span class="lineno">   82</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a>(weeks);</div>
-<div class="line"><span class="lineno">   83</span>}</div>
-<div class="ttc" id="aa04658_html_a983745490d3d3a0322c4ccf0f418f179"><div class="ttname"><a href="../../d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179">Weeks</a></div><div class="ttdeci">std::chrono::weeks Weeks</div><div class="ttdoc">Weeks shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:58</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ ByteConverter::apply&lt;T&gt;(val); }</div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a25baa64022678f43cf423c945dbd0226" name="a25baa64022678f43cf423c945dbd0226"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25baa64022678f43cf423c945dbd0226">&#9670;&#160;</a></span>operator&quot;&quot;_years()</h2>
+<a id="a8b9f1be37ef60cffbb862512d9374dd4" name="a8b9f1be37ef60cffbb862512d9374dd4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b9f1be37ef60cffbb862512d9374dd4">&#9670;&#160;</a></span>EndianConvertPtrReverse()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertPtrReverse </td>
+          <td>(</td>
+          <td class="paramtype">void *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="acdb2b3cf0ea55e72e1d4047380cbd260" name="acdb2b3cf0ea55e72e1d4047380cbd260"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdb2b3cf0ea55e72e1d4047380cbd260">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -436,23 +335,98 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr <a class="el" href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a> operator&quot;&quot;_years </td>
+          <td class="memname">void EndianConvertReverse </td>
           <td>(</td>
-          <td class="paramtype">unsigned long long&#160;</td>
-          <td class="paramname"><em>years</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d4/d8a/a04919.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{</div>
-<div class="line"><span class="lineno">   87</span>    <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a>(years);</div>
-<div class="line"><span class="lineno">   88</span>}</div>
-<div class="ttc" id="aa04658_html_ab4fa20b33a9b5ee358963159b01d72f3"><div class="ttname"><a href="../../d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3">Years</a></div><div class="ttdeci">std::chrono::years Years</div><div class="ttdoc">Years shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:61</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a71946d011105dec5ad60c6875066ed86" name="a71946d011105dec5ad60c6875066ed86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71946d011105dec5ad60c6875066ed86">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>{ }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00306">WorldSocket::ReadHeaderHandler()</a>.</p>
+
+</div>
+</div>
+<a id="a1fa1c447bec92bbf436d429b422cc2e7" name="a1fa1c447bec92bbf436d429b422cc2e7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fa1c447bec92bbf436d429b422cc2e7">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype">T *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2adbd00f9fd7adfc4bd3d26ae1565a0b" name="a2adbd00f9fd7adfc4bd3d26ae1565a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2adbd00f9fd7adfc4bd3d26ae1565a0b">&#9670;&#160;</a></span>EndianConvertReverse() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void EndianConvertReverse </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d8a/a04919.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -461,8 +435,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d0/d70/a04658.html">Duration.h</a></li>
-    <li class="footer">Generated on Mon Jun 29 2026 21:55:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5b60c41b3dc3977dce15646b3e6a9085.html">Utilities</a></li><li class="navelem"><a class="el" href="../../d0/d70/a04658.html">ByteConverter.h</a></li>
+    <li class="footer">Generated on Mon Jul 6 2026 21:59:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

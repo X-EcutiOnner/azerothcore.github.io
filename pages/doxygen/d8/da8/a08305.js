@@ -1,10 +1,8 @@
 var a08305 =
 [
-    [ "CreatureModel", "d8/da8/a08305.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "d8/da8/a08305.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "d8/da8/a08305.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "d8/da8/a08305.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "d8/da8/a08305.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "d8/da8/a08305.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "d8/da8/a08305.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LfgPlayerRewardData", "d8/da8/a08305.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d8/da8/a08305.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d8/da8/a08305.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d8/da8/a08305.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d8/da8/a08305.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

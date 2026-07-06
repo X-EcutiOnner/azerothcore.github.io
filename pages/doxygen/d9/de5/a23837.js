@@ -1,9 +1,7 @@
 var a23837 =
 [
-    [ "npc_enraged_spiritAI", "d9/de5/a23837.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d9/de5/a23837.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d9/de5/a23837.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d9/de5/a23837.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d9/de5/a23837.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d9/de5/a23837.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "HandleDummy", "d9/de5/a23837.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d9/de5/a23837.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d9/de5/a23837.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d9/de5/a23837.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

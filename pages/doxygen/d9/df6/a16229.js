@@ -1,7 +1,7 @@
 var a16229 =
 [
-    [ "OnRemove", "d9/df6/a16229.html#afb0821bc8774e634eefdd87efe6af945", null ],
-    [ "PrepareAuraScript", "d9/df6/a16229.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
-    [ "Register", "d9/df6/a16229.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
-    [ "Validate", "d9/df6/a16229.html#aa794b76c4d9590b867dda57f02724d95", null ]
+    [ "go_troll_cageAI", "d9/df6/a16229.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d9/df6/a16229.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d9/df6/a16229.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d9/df6/a16229.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

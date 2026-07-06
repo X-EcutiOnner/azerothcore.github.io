@@ -1,5 +1,6 @@
 var a20209 =
 [
-    [ "achievement_cheese_the_freeze", "d1/d6d/a20209.html#a5ec4c344a0ed203086be2661e4e24f0e", null ],
-    [ "OnCheck", "d1/d6d/a20209.html#aaf3342fb3153a4d9223d880c0f2a277a", null ]
+    [ "CheckCast", "d1/d6d/a20209.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d1/d6d/a20209.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d1/d6d/a20209.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

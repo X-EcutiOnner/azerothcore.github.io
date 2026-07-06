@@ -1,5 +1,6 @@
 var a25061 =
 [
-    [ "PrepareSpellScript", "d7/d96/a25061.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d7/d96/a25061.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "CheckSeat", "d7/d96/a25061.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "d7/d96/a25061.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "d7/d96/a25061.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

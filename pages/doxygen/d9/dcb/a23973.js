@@ -1,7 +1,11 @@
 var a23973 =
 [
-    [ "npc_pet_gen_target_following_bomb", "d9/dcb/a23973.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "d9/dcb/a23973.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "d9/dcb/a23973.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "d9/dcb/a23973.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_invis_infernal_casterAI", "d9/dcb/a23973.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d9/dcb/a23973.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d9/dcb/a23973.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d9/dcb/a23973.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d9/dcb/a23973.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d9/dcb/a23973.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d9/dcb/a23973.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d9/dcb/a23973.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

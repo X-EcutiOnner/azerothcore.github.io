@@ -1,6 +1,8 @@
 var a20717 =
 [
-    [ "achievement_yogg_saron_darkness", "db/df5/a20717.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "db/df5/a20717.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "db/df5/a20717.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "npc_life_spark", "db/df5/a20717.html#a76bbbdc610dbc433007930c7a45d03be", null ],
+    [ "JustEngagedWith", "db/df5/a20717.html#af4111bf747f0d5c510f72f32d42f90e3", null ],
+    [ "Reset", "db/df5/a20717.html#a3c5b0ee2fac3bc444cc3c58e70284b72", null ],
+    [ "UpdateAI", "db/df5/a20717.html#a3dffda7a220e41302b928f55995d4dce", null ],
+    [ "_scheduler", "db/df5/a20717.html#a7e77d71508031a75655db8aaa34d0f9d", null ]
 ];

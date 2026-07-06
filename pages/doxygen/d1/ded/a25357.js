@@ -1,6 +1,5 @@
 var a25357 =
 [
-    [ "HandleItemRemove", "d1/ded/a25357.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d1/ded/a25357.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d1/ded/a25357.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "PrepareSpellScript", "d1/ded/a25357.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
+    [ "Register", "d1/ded/a25357.html#a0ca6ec06108f964432f1cafc00b96313", null ]
 ];

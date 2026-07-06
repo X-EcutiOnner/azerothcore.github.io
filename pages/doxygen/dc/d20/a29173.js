@@ -1,5 +1,8 @@
 var a29173 =
 [
-    [ "auraHasDisableProcAttr", "dc/d20/a29173.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "dc/d20/a29173.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "Color", "dc/d20/a29173.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "dc/d20/a29173.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "dc/d20/a29173.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "dc/d20/a29173.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "dc/d20/a29173.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

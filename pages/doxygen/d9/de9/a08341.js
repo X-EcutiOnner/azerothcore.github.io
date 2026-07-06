@@ -1,10 +1,13 @@
 var a08341 =
 [
-    [ "auras", "d9/de9/a08341.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
-    [ "bytes1", "d9/de9/a08341.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
-    [ "bytes2", "d9/de9/a08341.html#aedf06568867bbb5db5ca8017727dab9d", null ],
-    [ "emote", "d9/de9/a08341.html#a82f7be10807af7b25dd41c643be066fc", null ],
-    [ "mount", "d9/de9/a08341.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
-    [ "path_id", "d9/de9/a08341.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
-    [ "visibilityDistanceType", "d9/de9/a08341.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
+    [ "LfgQueueData", "d9/de9/a08341.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "d9/de9/a08341.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "d9/de9/a08341.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "d9/de9/a08341.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "d9/de9/a08341.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "d9/de9/a08341.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "d9/de9/a08341.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "d9/de9/a08341.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "d9/de9/a08341.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "d9/de9/a08341.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

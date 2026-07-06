@@ -1,8 +1,10 @@
 var a28885 =
 [
-    [ "ClassMask", "db/da3/a28885.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "db/da3/a28885.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "db/da3/a28885.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "db/da3/a28885.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "db/da3/a28885.html#ab6153043461b71336e12b00957499075", null ]
+    [ "HasFlag", "db/da3/a28885.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "db/da3/a28885.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "db/da3/a28885.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "db/da3/a28885.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "db/da3/a28885.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "db/da3/a28885.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "db/da3/a28885.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

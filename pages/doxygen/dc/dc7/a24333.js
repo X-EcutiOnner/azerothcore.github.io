@@ -1,7 +1,7 @@
 var a24333 =
 [
-    [ "AfterApply", "dc/dc7/a24333.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "dc/dc7/a24333.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "dc/dc7/a24333.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "dc/dc7/a24333.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "CheckProc", "dc/dc7/a24333.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "dc/dc7/a24333.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "dc/dc7/a24333.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "dc/dc7/a24333.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

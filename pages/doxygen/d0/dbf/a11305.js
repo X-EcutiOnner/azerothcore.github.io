@@ -1,9 +1,6 @@
 var a11305 =
 [
-    [ "TrainerList", "d0/dbf/a11305.html#aebb173d4f46d00f383c4ed62e8b130a7", null ],
-    [ "Write", "d0/dbf/a11305.html#a4d44b3310c3733ae56ffce9a84eff8d1", null ],
-    [ "Greeting", "d0/dbf/a11305.html#ad88c53405b38f276815e0f013ce5261f", null ],
-    [ "Spells", "d0/dbf/a11305.html#a6b3a33adeeab2c09ac83e7e430312158", null ],
-    [ "TrainerGUID", "d0/dbf/a11305.html#ab5e93d6c38efd311c701401ec03f7958", null ],
-    [ "TrainerType", "d0/dbf/a11305.html#a56a96a12b526f0e0cf89a6472c6a206b", null ]
+    [ "ItemRefundInfo", "d0/dbf/a11305.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "d0/dbf/a11305.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "d0/dbf/a11305.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

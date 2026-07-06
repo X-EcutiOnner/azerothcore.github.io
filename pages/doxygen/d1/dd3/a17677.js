@@ -1,7 +1,6 @@
 var a17677 =
 [
-    [ "HandleProc", "d1/dd3/a17677.html#a235f04bd360ba7219aa2e1bc1a249047", null ],
-    [ "PrepareAuraScript", "d1/dd3/a17677.html#a7cfa73ed3280d518baee1b0fa6bb4e76", null ],
-    [ "Register", "d1/dd3/a17677.html#acc0881cf7379525a0841426867d2d850", null ],
-    [ "Validate", "d1/dd3/a17677.html#a9be1b3b57bd2ee5995ad101369dac17c", null ]
+    [ "npc_kinetic_bombAI", "d1/ddc/a17681.html", "d1/ddc/a17681" ],
+    [ "npc_kinetic_bomb", "d1/dd3/a17677.html#abca5a72d3ac0d50a27e604e8e1491957", null ],
+    [ "GetAI", "d1/dd3/a17677.html#ae00630d96dc7a93ea13841c1f9e9be3b", null ]
 ];

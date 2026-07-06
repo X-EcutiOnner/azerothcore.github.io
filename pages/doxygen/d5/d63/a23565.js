@@ -1,6 +1,7 @@
 var a23565 =
 [
-    [ "npc_deaths_fel_cannonAI", "dc/dc3/a23569.html", "dc/dc3/a23569" ],
-    [ "npc_deaths_fel_cannon", "d5/d63/a23565.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d5/d63/a23565.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "AfterApply", "d5/d63/a23565.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d5/d63/a23565.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d5/d63/a23565.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d5/d63/a23565.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

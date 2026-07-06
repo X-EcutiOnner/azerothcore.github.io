@@ -1,9 +1,14 @@
 var a07681 =
 [
-    [ "BattlegroundEYScore", "db/db9/a07681.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "db/db9/a07681.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "db/db9/a07681.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "db/db9/a07681.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "db/db9/a07681.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "db/db9/a07681.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "IsArena", "db/db9/a07681.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "db/db9/a07681.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "db/db9/a07681.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "db/db9/a07681.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "db/db9/a07681.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "db/db9/a07681.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "db/db9/a07681.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "db/db9/a07681.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "db/db9/a07681.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "db/db9/a07681.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "db/db9/a07681.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

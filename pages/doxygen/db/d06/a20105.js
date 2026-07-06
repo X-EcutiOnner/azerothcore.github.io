@@ -1,7 +1,5 @@
 var a20105 =
 [
-    [ "HandleEffectPeriodic", "db/d06/a20105.html#ae1c6062123fb62a48f542e43b34c7bcd", null ],
-    [ "PrepareAuraScript", "db/d06/a20105.html#a1c54b6c86fc39d96d601b24c5b30fbdd", null ],
-    [ "Register", "db/d06/a20105.html#af7a5a98b5cf784d2de8b57a183c19142", null ],
-    [ "Validate", "db/d06/a20105.html#a16c536c913d003826ef4b86c7a497fec", null ]
+    [ "achievement_auriaya_nine_lives", "db/d06/a20105.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "db/d06/a20105.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

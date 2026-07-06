@@ -1,6 +1,7 @@
 var a16429 =
 [
-    [ "PrepareSpellScript", "d9/dea/a16429.html#a743f910c3854e2c4e726e97c55fa7038", null ],
-    [ "Register", "d9/dea/a16429.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
-    [ "RemoveNotBetween", "d9/dea/a16429.html#aba462e5b8e9336a508d19606f98750b5", null ]
+    [ "boss_sartharion_shadron", "d9/dea/a16429.html#ab4a7991c276a12af0b54936c271bfd0b", null ],
+    [ "ExecuteEvent", "d9/dea/a16429.html#a1f1a235d4d5654e273ef821ebf962491", null ],
+    [ "Reset", "d9/dea/a16429.html#a8511eb55a486665a248d555337c25002", null ],
+    [ "SummonedCreatureDies", "d9/dea/a16429.html#a3967c70698675d2c925a1a0366bf1d00", null ]
 ];

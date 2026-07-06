@@ -1,14 +1,13 @@
 var a14109 =
 [
-    [ "boss_hexlord_malacrass", "d7/d8e/a14109.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
-    [ "JustEngagedWith", "d7/d8e/a14109.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
-    [ "KilledUnit", "d7/d8e/a14109.html#a69e7a3aa2cb068706651bad34363099f", null ],
-    [ "Reset", "d7/d8e/a14109.html#af00159c9e2c54033f52f46d60881f22e", null ],
-    [ "ScheduleClassAbility", "d7/d8e/a14109.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
-    [ "SpawnAdds", "d7/d8e/a14109.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
-    [ "UseAbility", "d7/d8e/a14109.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
-    [ "_classAbilityTimer", "d7/d8e/a14109.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
-    [ "_creatureIndex", "d7/d8e/a14109.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
-    [ "_currentClass", "d7/d8e/a14109.html#ab7e531fccbb486b7b429d77d804841c2", null ],
-    [ "_timeUntilNextDrainPower", "d7/d8e/a14109.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
+    [ "npc_corporal_keeshanAI", "d7/d8e/a14109.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d7/d8e/a14109.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d7/d8e/a14109.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d7/d8e/a14109.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d7/d8e/a14109.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "WaypointReached", "d7/d8e/a14109.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "mockingBlowTimer", "d7/d8e/a14109.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d7/d8e/a14109.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d7/d8e/a14109.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d7/d8e/a14109.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

@@ -1,7 +1,9 @@
 var a21513 =
 [
-    [ "OnRemove", "db/ddd/a21513.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "db/ddd/a21513.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "db/ddd/a21513.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "db/ddd/a21513.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_archmage_landalockAI", "db/ddd/a21513.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
+    [ "GetImageEntry", "db/ddd/a21513.html#ae09841969253c0baf72cc235b6fa058e", null ],
+    [ "JustSummoned", "db/ddd/a21513.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
+    [ "UpdateAI", "db/ddd/a21513.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
+    [ "_summonGUID", "db/ddd/a21513.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
+    [ "_switchImageTimer", "db/ddd/a21513.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
 ];

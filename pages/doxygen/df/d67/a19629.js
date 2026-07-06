@@ -1,6 +1,8 @@
 var a19629 =
 [
-    [ "PrepareSpellScript", "df/d67/a19629.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "df/d67/a19629.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "df/d67/a19629.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "Load", "df/d67/a19629.html#a7bb0a7c71fb3b9958226069ed6e3399b", null ],
+    [ "OnRemove", "df/d67/a19629.html#a1d9a8a8b289f565712ab79e9857f6eb7", null ],
+    [ "PrepareAuraScript", "df/d67/a19629.html#aae6c3a215b09fd2270976190600e2cc4", null ],
+    [ "Register", "df/d67/a19629.html#aa2c970e4e5b84d79960023c79e95f9c3", null ],
+    [ "Validate", "df/d67/a19629.html#ae4ac76269793280335d76a78e5dced91", null ]
 ];

@@ -1,5 +1,6 @@
 var a01568 =
 [
-    [ "tele_commandscript", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "AddSC_tele_commandscript", "da/daf/a01568.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
+    [ "RBACCommandData", "db/d77/a12497.html", "db/d77/a12497" ],
+    [ "rbac_commandscript", "dc/de0/a12501.html", "dc/de0/a12501" ],
+    [ "AddSC_rbac_commandscript", "da/daf/a01568.html#ac877b170f7f12651a1d6c8252a8fc0ff", null ]
 ];

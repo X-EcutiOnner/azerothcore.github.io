@@ -1,9 +1,9 @@
 var a09881 =
 [
-    [ "LoginQueryHolder", "dd/d8e/a09881.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "dd/d8e/a09881.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "dd/d8e/a09881.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "dd/d8e/a09881.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "dd/d8e/a09881.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "dd/d8e/a09881.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "WorldPacketList", "dd/d8e/a09881.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
+    [ "LocalizedPacketListDo", "dd/d8e/a09881.html#ab52133e238752f725f18580018a84cd2", null ],
+    [ "~LocalizedPacketListDo", "dd/d8e/a09881.html#a8442452027bcb5c98d60830e016803b5", null ],
+    [ "operator()", "dd/d8e/a09881.html#adea9610e36d436563ba1f472481aed85", null ],
+    [ "i_builder", "dd/d8e/a09881.html#a83bda52b10d30f7fd633c285b79e740b", null ],
+    [ "i_data_cache", "dd/d8e/a09881.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
 ];

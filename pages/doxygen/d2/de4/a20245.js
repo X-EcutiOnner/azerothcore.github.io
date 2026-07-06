@@ -1,7 +1,5 @@
 var a20245 =
 [
-    [ "HandleScript", "d2/de4/a20245.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d2/de4/a20245.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d2/de4/a20245.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d2/de4/a20245.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_freya_iron_root", "d2/de4/a20245.html#af35a268c89c025d95c13ea8c87d6516e", null ],
+    [ "JustDied", "d2/de4/a20245.html#a3f3e00bb3ff7e23e912e0ae7bb98e67f", null ]
 ];

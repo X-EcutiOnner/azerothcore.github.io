@@ -1,5 +1,9 @@
 var a07729 =
 [
-    [ "time", "de/dba/a07729.html#a4270f34fef655cb9ff9998b36055c3ec", null ],
-    [ "winner", "de/dba/a07729.html#a728a3e4efbae3be9224c70f2d70000cf", null ]
+    [ "CapturePointInfo", "de/dba/a07729.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "de/dba/a07729.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "de/dba/a07729.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "de/dba/a07729.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "de/dba/a07729.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "de/dba/a07729.html#a98cb154218423e295b8007c62222831c", null ]
 ];

@@ -1,12 +1,13 @@
 var a21077 =
 [
-    [ "boss_xevozz", "d4/d2f/a21077.html#aea402ffbe689ca65e29b30899862a8bc", null ],
-    [ "EnterEvadeMode", "d4/d2f/a21077.html#afe4aa509ca6d43bf3470d32efeeb17ba", null ],
-    [ "ExecuteEvent", "d4/d2f/a21077.html#af5b37fc643f2b22468a38655fce63d25", null ],
-    [ "JustDied", "d4/d2f/a21077.html#af36accd2adb29ebb72fe6a925c4e361e", null ],
-    [ "JustEngagedWith", "d4/d2f/a21077.html#ae5d74a07c5bf3e2c12e4ce8b34331f98", null ],
-    [ "JustSummoned", "d4/d2f/a21077.html#a17f1b1cacb7191b11053e75e0ff9b584", null ],
-    [ "KilledUnit", "d4/d2f/a21077.html#a9f50d1d57b0dc8f8844e90e8f2433726", null ],
-    [ "MoveInLineOfSight", "d4/d2f/a21077.html#a4afdf09e7b8ebf54bdd2546337960a1d", null ],
-    [ "SummonedCreatureDespawn", "d4/d2f/a21077.html#a1493a5acdfcca7d01446564db622239e", null ]
+    [ "npc_frenzied_worgenAI", "d4/d2f/a21077.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "d4/d2f/a21077.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "d4/d2f/a21077.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "d4/d2f/a21077.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "d4/d2f/a21077.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "d4/d2f/a21077.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "d4/d2f/a21077.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "d4/d2f/a21077.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "d4/d2f/a21077.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "d4/d2f/a21077.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

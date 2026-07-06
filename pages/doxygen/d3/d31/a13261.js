@@ -1,7 +1,8 @@
 var a13261 =
 [
-    [ "HandleEffectApply", "d3/d31/a13261.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d3/d31/a13261.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d3/d31/a13261.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d3/d31/a13261.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_cyclone", "d3/d31/a13261.html#afdc4f98b031f832702929c6a7f192ab5", null ],
+    [ "JustEngagedWith", "d3/d31/a13261.html#a61d0710868c91f707643a436c0d79485", null ],
+    [ "Reset", "d3/d31/a13261.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
+    [ "UpdateAI", "d3/d31/a13261.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
+    [ "_scheduler", "d3/d31/a13261.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
 ];

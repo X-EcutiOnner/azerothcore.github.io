@@ -1,7 +1,8 @@
 var a24597 =
 [
-    [ "CheckRequirement", "d1/dfc/a24597.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d1/dfc/a24597.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d1/dfc/a24597.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d1/dfc/a24597.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "AfterRemove", "d1/dfc/a24597.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d1/dfc/a24597.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d1/dfc/a24597.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d1/dfc/a24597.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d1/dfc/a24597.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

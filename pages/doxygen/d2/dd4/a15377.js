@@ -1,5 +1,7 @@
 var a15377 =
 [
-    [ "boss_vem", "d2/dd4/a15377.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "d2/dd4/a15377.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "npc_onyxian_lair_guard", "d2/dd4/a15377.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d2/dd4/a15377.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d2/dd4/a15377.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d2/dd4/a15377.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

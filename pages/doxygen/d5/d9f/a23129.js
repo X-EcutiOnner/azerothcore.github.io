@@ -1,8 +1,6 @@
 var a23129 =
 [
-    [ "boss_broggok", "d5/d9f/a23129.html#ae20c04793116d3e8eab62d2ee27010df", null ],
-    [ "DoAction", "d5/d9f/a23129.html#af5de5a1747c502f72af015c09d050354", null ],
-    [ "JustEngagedWith", "d5/d9f/a23129.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
-    [ "JustSummoned", "d5/d9f/a23129.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
-    [ "Reset", "d5/d9f/a23129.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
+    [ "go_ahune_ice_stone", "d5/d9f/a23129.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "d5/d9f/a23129.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "d5/d9f/a23129.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

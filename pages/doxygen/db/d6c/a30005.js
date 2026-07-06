@@ -1,7 +1,8 @@
 var a30005 =
 [
-    [ "walkableClimb", "db/d6c/a30005.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
-    [ "walkableHeight", "db/d6c/a30005.html#a32f39a07562c47be0a311d7959678044", null ],
-    [ "walkableRadius", "db/d6c/a30005.html#a6e708a591e7b5597e129a653e1379a1e", null ],
-    [ "walkableSlopeAngle", "db/d6c/a30005.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
+    [ "TileInfo", "db/d6c/a30005.html#af1a25ded4212f141ab4f32db95709210", null ],
+    [ "m_mapId", "db/d6c/a30005.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
+    [ "m_navMeshParams", "db/d6c/a30005.html#a9d7c909370359edafa8a9b6a91cef354", null ],
+    [ "m_tileX", "db/d6c/a30005.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
+    [ "m_tileY", "db/d6c/a30005.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
 ];

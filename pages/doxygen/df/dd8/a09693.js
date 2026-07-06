@@ -1,7 +1,8 @@
 var a09693 =
 [
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "df/dd8/a09693.html#a470ab1e22a90a00752717d76b45a7aab", null ],
-    [ "NearestVisibleDetectableContestedGuardUnitCheck", "df/dd8/a09693.html#a042697dbc7622f5ff96bd1ade1afe5eb", null ],
-    [ "operator()", "df/dd8/a09693.html#a031abed7dd2e5523991bf72d47e8e050", null ],
-    [ "me", "df/dd8/a09693.html#a6cb490747146e1861006654deea366eb", null ]
+    [ "NearestGameObjectCheck", "df/dd8/a09693.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
+    [ "NearestGameObjectCheck", "df/dd8/a09693.html#a366ef1710823d1e52eb2df650e60562f", null ],
+    [ "operator()", "df/dd8/a09693.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
+    [ "i_obj", "df/dd8/a09693.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
+    [ "i_range", "df/dd8/a09693.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
 ];

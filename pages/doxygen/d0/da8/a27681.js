@@ -1,7 +1,7 @@
 var a27681 =
 [
-    [ "npc_spirit_shadeAI", "d0/da8/a27681.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "d0/da8/a27681.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "d0/da8/a27681.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "d0/da8/a27681.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "HandleEffect", "d0/da8/a27681.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d0/da8/a27681.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d0/da8/a27681.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d0/da8/a27681.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

@@ -1,5 +1,6 @@
 var a24681 =
 [
-    [ "PrepareSpellScript", "d2/da6/a24681.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "d2/da6/a24681.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "CheckProc", "d2/da6/a24681.html#a67f31710f6a3e843b9d3539710100898", null ],
+    [ "PrepareAuraScript", "d2/da6/a24681.html#ad59ef816bd24f6215cc853386859dbb4", null ],
+    [ "Register", "d2/da6/a24681.html#af499437b1af535488792f44c18ad9bf7", null ]
 ];

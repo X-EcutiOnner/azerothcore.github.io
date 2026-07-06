@@ -1,6 +1,6 @@
 var a22741 =
 [
-    [ "OnPeriodic", "da/dcc/a22741.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
-    [ "PrepareAuraScript", "da/dcc/a22741.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
-    [ "Register", "da/dcc/a22741.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
+    [ "boss_essence_of_angerAI", "dc/ddd/a22745.html", "dc/ddd/a22745" ],
+    [ "boss_essence_of_anger", "da/dcc/a22741.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "da/dcc/a22741.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

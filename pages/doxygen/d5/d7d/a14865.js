@@ -1,6 +1,8 @@
 var a14865 =
 [
-    [ "HandleTriggerSpell", "d5/d7d/a14865.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d5/d7d/a14865.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d5/d7d/a14865.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "npc_hallows_end_train_fire", "d5/d7d/a14865.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "d5/d7d/a14865.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "d5/d7d/a14865.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "d5/d7d/a14865.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "d5/d7d/a14865.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

@@ -1,6 +1,8 @@
 var a16321 =
 [
-    [ "boss_general_zarithrianAI", "d2/d5f/a16325.html", "d2/d5f/a16325" ],
-    [ "boss_general_zarithrian", "d1/df0/a16321.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d1/df0/a16321.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "instance_ahnkahet_InstanceScript", "d1/df0/a16321.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d1/df0/a16321.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d1/df0/a16321.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d1/df0/a16321.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d1/df0/a16321.html#a840ce69595c384be321c1167513d151e", null ]
 ];

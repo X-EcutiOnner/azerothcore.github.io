@@ -1,8 +1,10 @@
 var a19601 =
 [
-    [ "npc_centrifuge_constructAI", "d8/d31/a19601.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d8/d31/a19601.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d8/d31/a19601.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d8/d31/a19601.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d8/d31/a19601.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_power_spark", "d8/d31/a19601.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
+    [ "DamageTaken", "d8/d31/a19601.html#afe33d511823666929232bfd0179ee72a", null ],
+    [ "DoAction", "d8/d31/a19601.html#ab99a859ee718d49ce59171e7e7159abc", null ],
+    [ "UpdateAI", "d8/d31/a19601.html#ab36e75c87aa262a57be1594289284730", null ],
+    [ "_checkTimer", "d8/d31/a19601.html#ae63f0f359037363b840fe51a797969b5", null ],
+    [ "_instance", "d8/d31/a19601.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
+    [ "_moveTimer", "d8/d31/a19601.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
 ];

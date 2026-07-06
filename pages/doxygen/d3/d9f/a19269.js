@@ -1,7 +1,7 @@
 var a19269 =
 [
-    [ "FilterTargets", "d3/d9f/a19269.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "d3/d9f/a19269.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "d3/d9f/a19269.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "d3/d9f/a19269.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "DelayedCastMincharEvent", "d3/d9f/a19269.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d3/d9f/a19269.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d3/d9f/a19269.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d3/d9f/a19269.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

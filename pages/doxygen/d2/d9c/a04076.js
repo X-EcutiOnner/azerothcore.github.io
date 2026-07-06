@@ -1,20 +1,36 @@
 var a04076 =
 [
-    [ "CreatureTextEntry", "d3/dfc/a12075.html", "d3/dfc/a12075" ],
-    [ "CreatureTextLocale", "d1/db3/a12079.html", "d1/db3/a12079" ],
-    [ "CreatureTextId", "d8/d75/a12083.html", "d8/d75/a12083" ],
-    [ "CreatureTextMgr", "df/d22/a12087.html", "df/d22/a12087" ],
-    [ "CreatureTextLocalizer< Builder >", "d3/d60/a12091.html", "d3/d60/a12091" ],
-    [ "sCreatureTextMgr", "d2/d9c/a04076.html#a2dc428da007cefe454220dcb355a1cde", null ],
-    [ "CreatureTextGroup", "d2/d9c/a04076.html#a9baeb5ff5e542c90d9058942cf0b4bbd", null ],
-    [ "CreatureTextHolder", "d2/d9c/a04076.html#aad09b58ddf486cb766cdeb242824cd2d", null ],
-    [ "CreatureTextMap", "d2/d9c/a04076.html#ac48698bcbe36b82577c41f42f3f23f09", null ],
-    [ "LocaleCreatureTextMap", "d2/d9c/a04076.html#ab39b2d82775a84108d19ed009bd14747", null ],
-    [ "CreatureTextRange", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052", [
-      [ "TEXT_RANGE_NORMAL", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052a649e811a5e8853fa24088dbb708ce9ab", null ],
-      [ "TEXT_RANGE_AREA", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052a1982e7a678f4ba541ea6ecbfec493385", null ],
-      [ "TEXT_RANGE_ZONE", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052a182bd5362916ba67bcf6660ce37fae0a", null ],
-      [ "TEXT_RANGE_MAP", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052a90bf8cfe8ac6e4bac224bd3dd9fbc3a3", null ],
-      [ "TEXT_RANGE_WORLD", "d2/d9c/a04076.html#adf847039afbebeda9e21210c1f4eb052a3a88078985d9e80a4543acf0acde52d9", null ]
-    ] ]
+    [ "BfCapturePoint", "da/d67/a07525.html", "da/d67/a07525" ],
+    [ "BfGraveyard", "d5/dd2/a07529.html", "d5/dd2/a07529" ],
+    [ "Battlefield", "d2/d42/a07533.html", "d2/d42/a07533" ],
+    [ "GraveyardVect", "d2/d9c/a04076.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
+    [ "PlayerTimerMap", "d2/d9c/a04076.html#afedbb171b4e4bd0bce549b015440ce95", null ],
+    [ "BattlefieldIDs", "d2/d9c/a04076.html#aff53bf428d550c270744c9a188d4187f", [
+      [ "BATTLEFIELD_BATTLEID_WG", "d2/d9c/a04076.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    ] ],
+    [ "BattlefieldObjectiveStates", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798", [
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
+      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d2/d9c/a04076.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
+    ] ],
+    [ "BattlefieldSounds", "d2/d9c/a04076.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
+      [ "BF_HORDE_WINS", "d2/d9c/a04076.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
+      [ "BF_ALLIANCE_WINS", "d2/d9c/a04076.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
+      [ "BF_START", "d2/d9c/a04076.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
+    ] ],
+    [ "BattlefieldTimerGroups", "d2/d9c/a04076.html#a77a99318a19e388592eb16534ef2005a", [
+      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "d2/d9c/a04076.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_WAR", "d2/d9c/a04076.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
+      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "d2/d9c/a04076.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
+    ] ],
+    [ "BattlefieldTypes", "d2/d9c/a04076.html#a6f435417da35c7d1b51c95e516fc6b2d", [
+      [ "BATTLEFIELD_WG", "d2/d9c/a04076.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
+      [ "BATTLEFIELD_TB", "d2/d9c/a04076.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
+    ] ],
+    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d2/d9c/a04076.html#a79df696836c3edc53ca1868aab7f6e76", null ],
+    [ "BattlefieldFactions", "d2/d9c/a04076.html#af5e231859535c4e1e6bd27ee42753f63", null ]
 ];

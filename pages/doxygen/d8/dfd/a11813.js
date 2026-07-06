@@ -1,6 +1,7 @@
 var a11813 =
 [
-    [ "BeforeHitHandler", "d8/dfd/a11813.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "d8/dfd/a11813.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "d8/dfd/a11813.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "effectMask", "d8/dfd/a11813.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
+    [ "processed", "d8/dfd/a11813.html#aedfa36678be863a558ecd0ecc07cc544", null ],
+    [ "targetGUID", "d8/dfd/a11813.html#a619f98bf094d2667048204f733d64d0c", null ],
+    [ "timeDelay", "d8/dfd/a11813.html#ab552326c0780fe62ff95b02249458492", null ]
 ];

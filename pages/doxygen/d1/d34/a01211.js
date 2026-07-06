@@ -1,35 +1,50 @@
 var a01211 =
 [
-    [ "NpcRunToHome", "d6/d79/a15303.html", "d6/d79/a15303" ],
-    [ "npc_medivh_bm", "d5/d60/a15307.html", "d5/d60/a15307" ],
-    [ "npc_time_rift", "d8/d92/a15311.html", "d8/d92/a15311" ],
-    [ "npc_black_morass_summoned_add", "d1/d9f/a15315.html", "d1/d9f/a15315" ],
-    [ "spell_black_morass_corrupt_medivh", "d7/d6c/a15319.html", "d7/d6c/a15319" ],
-    [ "medivhMisc", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3", [
-      [ "NPC_SHADOW_COUNCIL_ENFORCER", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a6f4bccf9e53aef576344b1521c24e411", null ],
-      [ "GO_DARK_PORTAL", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a34fd16f7266bcf80297889c35fe880c3", null ],
-      [ "EVENT_CHECK_HEALTH_25", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3ab4c8308b4dc44a86daf5ee851c990687", null ],
-      [ "EVENT_CHECK_HEALTH_50", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a279f4abf2411c8e70eb459d7644bc65b", null ],
-      [ "EVENT_CHECK_HEALTH_75", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a80f173b323e09c2480f3e15dbf3cf191", null ],
-      [ "EVENT_SUMMON_CRYSTAL", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a83aaa8976010cea5ab359229b71d206b", null ],
-      [ "EVENT_SUMMON_FLYING_CRYSTAL", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a087df17dd123dd098bd6effa3cac4adf", null ],
-      [ "EVENT_OUTRO_1", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3acb340c9de3b567d6e1f1e9e5b90ec90d", null ],
-      [ "EVENT_OUTRO_2", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a20c3614363fa241f02fede94adfb3ae6", null ],
-      [ "EVENT_OUTRO_3", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a267ae47905d29e505c96215636419e87", null ],
-      [ "EVENT_OUTRO_4", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3afaefee2aa96b9039635b6a80708a82da", null ],
-      [ "EVENT_OUTRO_5", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a5e30e089c85fc4c0318c390d70997e32", null ],
-      [ "EVENT_OUTRO_6", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a99f13835f6b2a5a4e44cd837c0a44680", null ],
-      [ "EVENT_OUTRO_7", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a343360a691f406e01bb1372a17b5b2cc", null ],
-      [ "EVENT_OUTRO_8", "d1/d34/a01211.html#a7d484fa8ee0c999014d29246b9ebffb3a6697031d7959ad49f58bffe18fb91611", null ]
+    [ "npc_gilthares", "d8/d32/a16093.html", "d8/d32/a16093" ],
+    [ "npc_gilthares::npc_giltharesAI", "d8/dcb/a16097.html", "d8/dcb/a16097" ],
+    [ "npc_taskmaster_fizzule", "da/de7/a16101.html", "da/de7/a16101" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d6/d21/a16105.html", "d6/d21/a16105" ],
+    [ "npc_twiggy_flathead", "df/d33/a16109.html", "df/d33/a16109" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "da/d8e/a16113.html", "da/d8e/a16113" ],
+    [ "npc_wizzlecrank_shredder", "d2/ddb/a16117.html", "d2/ddb/a16117" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "de/de6/a16121.html", "de/de6/a16121" ],
+    [ "Gilthares", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "d1/d34/a01211.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "timeRift", "d1/d34/a01211.html#a88ef578bedf8b5cbdefba9b27f2566b3", [
-      [ "EVENT_SUMMON_AT_RIFT", "d1/d34/a01211.html#a88ef578bedf8b5cbdefba9b27f2566b3ad3b69472cb7814dc0d55baa46caef4e2", null ],
-      [ "EVENT_CHECK_DEATH", "d1/d34/a01211.html#a88ef578bedf8b5cbdefba9b27f2566b3a7001385aaa3b09d1fd905da6dce0bd7b", null ],
-      [ "EVENT_SUMMON_BOSS", "d1/d34/a01211.html#a88ef578bedf8b5cbdefba9b27f2566b3aa50dbf77d563d2fa849566efb87feb60", null ],
-      [ "SAY_RIFT_MOB_SUMMONED", "d1/d34/a01211.html#a88ef578bedf8b5cbdefba9b27f2566b3a060162f05198bbed56abe4eb9781b2ec", null ]
+    [ "TaskmasterFizzule", "d1/d34/a01211.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "d1/d34/a01211.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "d1/d34/a01211.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "d1/d34/a01211.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
     ] ],
-    [ "AddSC_the_black_morass", "d1/d34/a01211.html#a40d83565d4b54b30e895e0b76768246b", null ],
-    [ "firstWave", "d1/d34/a01211.html#a60bd1cccea53e743620a4b2f0e9b1f8b", null ],
-    [ "secondWave", "d1/d34/a01211.html#ab5bc0c48fcfe78d0b75a06c16fdc5353", null ],
-    [ "thirdWave", "d1/d34/a01211.html#adb16e5a74a0d80b396b60d986cc49d4d", null ]
+    [ "TwiggyFlathead", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "d1/d34/a01211.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
+    ] ],
+    [ "Wizzlecrank", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "d1/d34/a01211.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
+    ] ],
+    [ "AddSC_the_barrens", "d1/d34/a01211.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "d1/d34/a01211.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

@@ -1,5 +1,6 @@
 var a14237 =
 [
-    [ "go_gong_of_bethekk", "da/d4a/a14237.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "da/d4a/a14237.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "npc_andorhal_towerAI", "db/db5/a14241.html", "db/db5/a14241" ],
+    [ "npc_andorhal_tower", "da/d4a/a14237.html#abf63419b6c10af47f5e5df1a4e7320e7", null ],
+    [ "GetAI", "da/d4a/a14237.html#a51139c28da736d26bf27a061862d24ee", null ]
 ];

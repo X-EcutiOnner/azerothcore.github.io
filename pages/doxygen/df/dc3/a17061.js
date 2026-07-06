@@ -1,5 +1,5 @@
 var a17061 =
 [
-    [ "npc_fos_leader_secondAI", "df/dc3/a17061.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
-    [ "MovementInform", "df/dc3/a17061.html#a9cc0b500f1289dc8b764b3755468e639", null ]
+    [ "boss_fjolaAI", "df/dc3/a17061.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "df/dc3/a17061.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

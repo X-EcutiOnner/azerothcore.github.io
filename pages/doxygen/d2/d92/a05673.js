@@ -1,18 +1,17 @@
 var a05673 =
 [
-    [ "ProducerConsumerQueue", "d2/d92/a05673.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "d2/d92/a05673.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "d2/d92/a05673.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "d2/d92/a05673.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "d2/d92/a05673.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "d2/d92/a05673.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "d2/d92/a05673.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "d2/d92/a05673.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "d2/d92/a05673.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "d2/d92/a05673.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "d2/d92/a05673.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "d2/d92/a05673.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "d2/d92/a05673.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "d2/d92/a05673.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "d2/d92/a05673.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "AppenderFile", "d2/d92/a05673.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
+    [ "~AppenderFile", "d2/d92/a05673.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
+    [ "_write", "d2/d92/a05673.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
+    [ "CloseFile", "d2/d92/a05673.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
+    [ "getType", "d2/d92/a05673.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
+    [ "OpenFile", "d2/d92/a05673.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
+    [ "_backup", "d2/d92/a05673.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
+    [ "_dynamicName", "d2/d92/a05673.html#a13cffedf98f8554f5a947dcc065caf65", null ],
+    [ "_fileName", "d2/d92/a05673.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
+    [ "_fileSize", "d2/d92/a05673.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
+    [ "_logDir", "d2/d92/a05673.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
+    [ "_maxFileSize", "d2/d92/a05673.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
+    [ "logfile", "d2/d92/a05673.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
+    [ "type", "d2/d92/a05673.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
 ];

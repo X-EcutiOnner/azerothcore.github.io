@@ -1,8 +1,25 @@
 var a10545 =
 [
-    [ "AllCommandScript", "de/d96/a10545.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "de/d96/a10545.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "de/d96/a10545.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "de/d96/a10545.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "de/d96/a10545.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "OutdoorPvPMgr", "de/d96/a10545.html#a57480bb851822adda3d106f4a842354b", null ],
+    [ "~OutdoorPvPMgr", "de/d96/a10545.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
+    [ "AddZone", "de/d96/a10545.html#a2f71683200a6f780ea1365ec2934b875", null ],
+    [ "CanTalkTo", "de/d96/a10545.html#a8020976431b2754fc73acf762ed140b1", null ],
+    [ "Die", "de/d96/a10545.html#a60821e2ea353606552f863aed2807316", null ],
+    [ "GetOutdoorPvPToZoneId", "de/d96/a10545.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
+    [ "GetZoneScript", "de/d96/a10545.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
+    [ "HandleCustomSpell", "de/d96/a10545.html#a0134ce08b64931aadf7ffac968c47521", null ],
+    [ "HandleDropFlag", "de/d96/a10545.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
+    [ "HandleGossipOption", "de/d96/a10545.html#aa041123e1030c23c9862b494b057d3b2", null ],
+    [ "HandleOpenGo", "de/d96/a10545.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
+    [ "HandlePlayerEnterZone", "de/d96/a10545.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
+    [ "HandlePlayerLeaveZone", "de/d96/a10545.html#a37c292b98c44830833c15eba1d74e24d", null ],
+    [ "HandlePlayerResurrects", "de/d96/a10545.html#ad39bacd781ddb165c680758643a54c56", null ],
+    [ "InitOutdoorPvP", "de/d96/a10545.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
+    [ "instance", "de/d96/a10545.html#a0a92945f30266985e289742c29b13ed2", null ],
+    [ "Update", "de/d96/a10545.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
+    [ "_lock", "de/d96/a10545.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
+    [ "m_OutdoorPvPDatas", "de/d96/a10545.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
+    [ "m_OutdoorPvPMap", "de/d96/a10545.html#a0927b39028f4060b0125bb63fe73a53a", null ],
+    [ "m_OutdoorPvPSet", "de/d96/a10545.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
+    [ "m_UpdateTimer", "de/d96/a10545.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
 ];

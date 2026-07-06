@@ -1,6 +1,6 @@
 var a14789 =
 [
-    [ "HandleAfterEffectRemove", "db/d65/a14789.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
-    [ "PrepareAuraScript", "db/d65/a14789.html#a3b54e232c0502eaa03b314a05dce1835", null ],
-    [ "Register", "db/d65/a14789.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d4/d8f/a14793.html", "d4/d8f/a14793" ],
+    [ "npc_grizzlemaw_cw_trigger", "db/d65/a14789.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "db/d65/a14789.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

@@ -1,8 +1,9 @@
 var a09773 =
 [
-    [ "AllWorldObjectsInExactRange", "d0/d91/a09773.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d0/d91/a09773.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d0/d91/a09773.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d0/d91/a09773.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d0/d91/a09773.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "NearestHostileUnitCheck", "d0/d91/a09773.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
+    [ "NearestHostileUnitCheck", "d0/d91/a09773.html#a2fe620370289850eb0362823de2072d1", null ],
+    [ "operator()", "d0/d91/a09773.html#a04c85a77d660bbc74279d1062dabc375", null ],
+    [ "i_playerOnly", "d0/d91/a09773.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
+    [ "m_range", "d0/d91/a09773.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
+    [ "me", "d0/d91/a09773.html#a67cef25e6f725ea42f0377df34d48495", null ]
 ];

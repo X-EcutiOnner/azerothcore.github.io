@@ -1,9 +1,11 @@
 var a20517 =
 [
-    [ "npc_xt002_pummeller", "dd/db1/a20517.html#a5e6fe72dbdedef5526704656c58a9e35", null ],
-    [ "Reset", "dd/db1/a20517.html#a6140f9b246abeba75c291aa7e9624217", null ],
-    [ "UpdateAI", "dd/db1/a20517.html#a90c16a2da7c6c28759a89580736d34e8", null ],
-    [ "_arcingSmashTimer", "dd/db1/a20517.html#ae6118dc72cac8f8f7509999fcdbc219e", null ],
-    [ "_trampleTimer", "dd/db1/a20517.html#a5999bcaf51e20265e7b74d6e47803c69", null ],
-    [ "_uppercutTimer", "dd/db1/a20517.html#a4a2427392e5531a4cab88243150f1ecf", null ]
+    [ "npc_ulduar_proximity_mine", "dd/db1/a20517.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
+    [ "AttackStart", "dd/db1/a20517.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
+    [ "CanAIAttack", "dd/db1/a20517.html#a18311072271a18b279c5bf21f7da2482", null ],
+    [ "MoveInLineOfSight", "dd/db1/a20517.html#a6a406f8098dac7038173f51e9f85a79b", null ],
+    [ "UpdateAI", "dd/db1/a20517.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
+    [ "_exploded", "dd/db1/a20517.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
+    [ "_timer", "dd/db1/a20517.html#afe009de55826305826105bd29458d0eb", null ],
+    [ "_timer2", "dd/db1/a20517.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
 ];

@@ -1,11 +1,7 @@
 var a12873 =
 [
-    [ "boss_mr_smiteAI", "d8/d9e/a12873.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
-    [ "JustEngagedWith", "d8/d9e/a12873.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
-    [ "MovementInform", "d8/d9e/a12873.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
-    [ "Reset", "d8/d9e/a12873.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
-    [ "UpdateAI", "d8/d9e/a12873.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
-    [ "events", "d8/d9e/a12873.html#a3471692c39233f3c25cdc875c0078f2c", null ],
-    [ "health34", "d8/d9e/a12873.html#adc83683c2f6a7073469cd2f5aa325717", null ],
-    [ "health67", "d8/d9e/a12873.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
+    [ "HandlePeriodic", "d8/d9e/a12873.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "d8/d9e/a12873.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "d8/d9e/a12873.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "d8/d9e/a12873.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

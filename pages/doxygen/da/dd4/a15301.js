@@ -1,10 +1,7 @@
 var a15301 =
 [
-    [ "boss_moam", "da/dd4/a15301.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "da/dd4/a15301.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "da/dd4/a15301.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "da/dd4/a15301.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "da/dd4/a15301.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "da/dd4/a15301.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "da/dd4/a15301.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "npc_tarethaAI", "d7/d7c/a15305.html", "d7/d7c/a15305" ],
+    [ "npc_taretha", "da/dd4/a15301.html#a54379e06518ff972e91e25e295731f5a", null ],
+    [ "GetAI", "da/dd4/a15301.html#a5045bb7119b12800ee0053818fcae5fe", null ],
+    [ "OnGossipHello", "da/dd4/a15301.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
 ];

@@ -1,12 +1,7 @@
 var a22201 =
 [
-    [ "boss_exarch_maladaar", "db/d85/a22201.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "db/d85/a22201.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "db/d85/a22201.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "db/d85/a22201.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "db/d85/a22201.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "db/d85/a22201.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "db/d85/a22201.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "db/d85/a22201.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "db/d85/a22201.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "npc_wg_quest_giver", "db/d85/a22201.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "db/d85/a22201.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "db/d85/a22201.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "db/d85/a22201.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

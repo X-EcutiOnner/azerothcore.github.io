@@ -1,138 +1,109 @@
 var a01754 =
 [
-    [ "DataHeader", "d9/d37/a01754.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ObsidianSanctumScriptName", "d9/d37/a01754.html#accb9d1f27143774736f13b6dd04325ed", null ],
-    [ "RegisterObsidianSanctumCreatureAI", "d9/d37/a01754.html#a9293e1c83e19ab7b05cdce50c5aa51a0", null ],
-    [ "Data", "d9/d37/a01754.html#a5ddd2f4ab6b0acc94a78aa229927bd6b", [
-      [ "TYPE_GELIHAST", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63aba8a7ffa7c59b363812d39c2f84cfb06", null ],
-      [ "TYPE_FIRE1", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63ab51c33641138640c72e3196ce6fb27fe", null ],
-      [ "TYPE_FIRE2", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63a9e9de62e02991ecca224def0cbdc12b6", null ],
-      [ "TYPE_FIRE3", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63aac3abf4b2386096b5c8ffd1157e0f4e5", null ],
-      [ "TYPE_FIRE4", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63a4f42b03438989f88459efb5c4a84e4d5", null ],
-      [ "TYPE_AKU_MAI_EVENT", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63abcae9a686a3fb104589eda4fc2962bdd", null ],
-      [ "TYPE_AKU_MAI", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63a4842090ac3ea8e0e3f79e41bd8540a80", null ],
-      [ "MAX_ENCOUNTERS", "d7/d1c/a01397.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_ARTHAS_EVENT", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a94f8ba6b598eb764528d7e2559246c3a", null ],
-      [ "DATA_GUARDIANTIME_EVENT", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a23ee66c0bee61794c9d246533c855c10", null ],
-      [ "DATA_SHOW_CRATES", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63aa9cf3fd29541b5b1abc71e7664cfef26", null ],
-      [ "DATA_CRATE_COUNT", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a5d5fac3bf1b4c09ec46c4039855a081f", null ],
-      [ "DATA_START_WAVES", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a4d067c8498081a870a958ac9f552e509", null ],
-      [ "DATA_SHOW_INFINITE_TIMER", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a2e80a277bcb0e797ac5e65a2e9ae26b1", null ],
-      [ "DATA_ARTHAS_REPOSITION", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a0a8922410dd29b7c826468f06fc15fc9", null ],
-      [ "DATA_INTRO_EVENT_FINISHED", "d6/d0f/a01256.html#af5baa506e65b4caa6be6d1c6661dfe63a379cfad976e25ed5ae304b74dcf5ab37", null ],
-      [ "DATA_CRUSHER_PACK_ID", "d7/d4c/a02165.html#af5baa506e65b4caa6be6d1c6661dfe63a730c05e2d59a01072d37989ebe09bdfa", null ],
-      [ "DATA_SARTHARION", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a666020ca779618394caa87eab7d82c3c", null ],
-      [ "DATA_TENEBRON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a2e7a9e77fa184759574ad6e526197ca2", null ],
-      [ "DATA_VESPERON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a1050764ffa9f3d036267d687927c01b4", null ],
-      [ "DATA_SHADRON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63aa2f0a4a8de58142833d1f54cbfc0d4d4", null ],
-      [ "MAX_ENCOUNTERS", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_ACHIEVEMENT_DRAGONS_COUNT", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a4024404fa704cb14c65e50d568369e56", null ],
-      [ "DATA_VOLCANO_BLOWS", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a752fbe50413af455094f0578f791476b", null ],
-      [ "NPC_SARTHARION", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63ac5fc96320a852557e13f1d4a95c8ff10", null ],
-      [ "NPC_TENEBRON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a8ca4815f4c37140fa10966428c74a623", null ],
-      [ "NPC_SHADRON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a72509ccde0f82c1f684baf715e8983ac", null ],
-      [ "NPC_VESPERON", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a43836753d3e84b4f37b41a99a4a3245e", null ],
-      [ "NPC_FIRE_CYCLONE", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63acb8059762a7d2d7d8c1f657d7feb3522", null ],
-      [ "GO_TWILIGHT_PORTAL", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a4ff0b6ba3331bbaa303dbea17ef3ee35", null ],
-      [ "GO_NORMAL_PORTAL", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a088b5df5c62fed6bc8b598e78b56f709", null ],
-      [ "SPELL_TWILIGHT_SHIFT", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63a6b2de4b70298d53d1e8c042da94b7c87", null ],
-      [ "SPELL_TWILIGHT_TORMENT_SARTHARION", "d9/d37/a01754.html#af5baa506e65b4caa6be6d1c6661dfe63aee30cc95ba8069cd1a17a37908e38ae5", null ],
-      [ "DATA_TROLLGORE", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63ac89c8939089d5a7d9d0755052bb9b0c2", null ],
-      [ "DATA_NOVOS", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63acd2dca089c2c0629c9041488efbed69d", null ],
-      [ "DATA_NOVOS_CRYSTALS", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63adac02ec13f85b1d974817fa65e50ef75", null ],
-      [ "DATA_DRED", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63a69368db5115aeaff78242fee1538ccc1", null ],
-      [ "DATA_THARON_JA", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63ad3a70035e86ba8617840ffb195a0a16b", null ],
-      [ "MAX_ENCOUNTERS", "d1/d39/a02048.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_BRONJAHM", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a4b59c780af059481cef282a4a633787c", null ],
-      [ "DATA_DEVOURER", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a543a7f7aa73668312c27b6fab64449b9", null ],
-      [ "MAX_ENCOUNTER", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_LEADER_FIRST", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a12a672a5572182b75cd573f1f497fb32", null ],
-      [ "DATA_LEADER_SECOND", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a078db0dd2abfa5bc33068569f62a3622", null ],
-      [ "DATA_GUARD_FIRST", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63a08ef083122c33ded425d0c5cba9855fb", null ],
-      [ "DATA_GUARD_SECOND", "d9/d95/a02075.html#af5baa506e65b4caa6be6d1c6661dfe63aaf3103e179562b96b6d6da3b3154d1f2", null ],
-      [ "DATA_FALRIC", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ab35e94d3f1c375ac318099e383e21d21", null ],
-      [ "DATA_MARWYN", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63aab96ba8bed84beb930d0d88de6d091cd", null ],
-      [ "DATA_LICH_KING", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a7d1be3a006196888b236f5ba5e2f19dd", null ],
-      [ "MAX_ENCOUNTER", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_INTRO", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ae95dd70549003ebe67b19649e0c731a7", null ],
-      [ "DATA_FROSTSWORN_GENERAL", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a2434bd858b0ee01e0097bd60fa936f41", null ],
-      [ "DATA_BATTERED_HILT", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ab25b2f2755f49b04581b62a7e1fad748", null ],
-      [ "DATA_LK_INTRO", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63adb683ca05b5dc26b9eeba5bc23b4a9fb", null ],
-      [ "DATA_WAVE_NUMBER", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ac1747b726f5dc8f3d9fc3578da1a6bb4", null ],
-      [ "DATA_LK_BATTLE", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ab8e10ca903fb36c37526a471beb5119c", null ],
-      [ "DATA_SHIP_CAPTAIN", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63aab3c78f00d008a5edf0af59d016103bd", null ],
-      [ "ACTION_SHOW_TRASH", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a41d7c840aa31adaa4aa84a6d7b3e0e5e", null ],
-      [ "ACTION_SPIRITUAL_REFLECTIONS_COPY", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63ae3dcdaa982379d53e39039263ddb95a1", null ],
-      [ "ACTION_SPIRITUAL_REFLECTIONS_ACTIVATE", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a7c17895efac016c0e522d6ec34b7be22", null ],
-      [ "ACTION_SPIRITUAL_REFLECTIONS_HIDE", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a45a21d3443390c4987c7270c92ecb6b5", null ],
-      [ "ACTION_START_LK_FIGHT", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a10f5f3d19996ce23277cfee5fe5f9120", null ],
-      [ "ACTION_STOP_LK_FIGHT", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a6d0545e70a620ef4e1b900fcb622ab57", null ],
-      [ "ACTION_DELETE_ICE_WALL", "dd/d77/a02096.html#af5baa506e65b4caa6be6d1c6661dfe63a4beba7db429c52083d439baa4da667ca", null ],
-      [ "DATA_SLAD_RAN", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63a0afc5e23fa1345ffc7cda0020d520e84", null ],
-      [ "DATA_MOORABI", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe", null ],
-      [ "DATA_DRAKKARI_COLOSSUS", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63a32975304248dc504bd8206a2e3a33d14", null ],
-      [ "DATA_GAL_DARAH", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d", null ],
-      [ "DATA_ECK_THE_FEROCIOUS", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288", null ],
-      [ "MAX_ENCOUNTERS", "d0/d79/a02117.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_MALYGOS", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63a2ac20edc8400118e986cb3e8c0833118", null ],
-      [ "DATA_IRIS", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63a24efc5c8149bb17f0b236d085ffb383b", null ],
-      [ "DATA_EXIT_PORTAL", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63ad1db00dc1aa60ed9c1261fcb5ba4d81b", null ],
-      [ "DATA_NEXUS_PLATFORM", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63ab6372f203e10ffecd1c55304c7f6c586", null ],
-      [ "DATA_IRIS_ACTIVATED", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],
-      [ "DATA_SET_IRIS_INACTIVE", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63a1dcf1f64522995a4635c77b607d1824c", null ],
-      [ "DATA_HIDE_IRIS_AND_PORTAL", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63ad662dc3f68f39db6a908f7cebee9604d", null ],
-      [ "DATA_VORTEX_HANDLING", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63a44b662ecf6f6bedba76886bf5cefe454", null ],
-      [ "DATA_VORTEX_TRIGGER", "db/d6b/a01853.html#af5baa506e65b4caa6be6d1c6661dfe63a78682e31a92de032ba23262026f9d530", null ],
-      [ "DATA_DRAKOS", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a62efa54814a33a4d3e67aef578a5893b", null ],
-      [ "DATA_VAROS", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a45d32cfc4a9681ff35d6c70243999794", null ],
-      [ "DATA_UROM", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63aa5927bac3b5dbcbb4d84d36552c1f6c1", null ],
-      [ "DATA_EREGOS", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a59f8ffa23a594b37955bfb7cbdedb94c", null ],
-      [ "MAX_ENCOUNTER", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_CC_COUNT", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63ac67df56895111306b17ce28c89359d1a", null ],
-      [ "DATA_AMBER_VOID", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a20b2a334a506abf26ef0467a7b171815", null ],
-      [ "DATA_EMERALD_VOID", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a06d2e6837f8e6ce916a3e9dd836480ed", null ],
-      [ "DATA_RUBY_VOID", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a6db3f4b328b75648a6d31bc6768e682b", null ],
-      [ "DATA_DCD_1", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a9faadedda1b56547d102cd79f5b108c1", null ],
-      [ "DATA_DCD_2", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a9b7c03525728fee152dfff24a6d41988", null ],
-      [ "DATA_DCD_3", "d9/d7d/a01880.html#af5baa506e65b4caa6be6d1c6661dfe63a9217a2c5da8154c43f1792f28314cfca", null ],
-      [ "DATA_SVALA_SORROWGRAVE", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a9e1acffd1dabd37331c892008becf883", null ],
-      [ "DATA_GORTOK_PALEHOOF", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63af401dca375b515a11f8341799438d677", null ],
-      [ "DATA_SKADI_THE_RUTHLESS", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a05f175bf4725d1ec71bb899fe1317c1b", null ],
-      [ "DATA_KING_YMIRON", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a6adef69d8382b3e236bd756ce73be00b", null ],
-      [ "DATA_GRAUF", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a665a05c0338d9037767b5c828d3864e6", null ],
-      [ "DATA_NPC_FRENZIED_WORGEN", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a751e961d7f54eb46a010a4cb9fd9cfba", null ],
-      [ "DATA_NPC_RAVENOUS_FURBOLG", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a6ae385f1b5cf0c41db3393c9038a4099", null ],
-      [ "DATA_NPC_MASSIVE_JORMUNGAR", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63ac06fb77f0ecd530537d63b6c5104440b", null ],
-      [ "DATA_NPC_FEROCIOUS_RHINO", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63ae15c008b2a35216cb0ad9551894dfd3f", null ],
-      [ "YMIRON_DOOR", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a228460ddd0b2b54061ff9323c7658745", null ],
-      [ "STATIS_GENERATOR", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63ae7e91ea718aa7b9c33376b971834bda2", null ],
-      [ "SKADI_HITS", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63aab883b29f929b720574039172fffdbe5", null ],
-      [ "SKADI_IN_RANGE", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63adf2f910591ec2a6398db24babe1074d1", null ],
-      [ "SKADI_DOOR", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a5abffb759a04674d6a4038a976698207", null ],
-      [ "MAX_ENCOUNTERS", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "DATA_SVALA_ACHIEVEMENT", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63acfeb42528cff1cb4071b6de9c302d51e", null ],
-      [ "DATA_SKADI_ACHIEVEMENT", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a11a8be67f165278f64ab033b6eee63c2", null ],
-      [ "DATA_YMIRON_ACHIEVEMENT", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63a3d709a559414e22ab4a0465bada54b61", null ],
-      [ "DATA_LOVE_TO_SKADI", "d4/d93/a01955.html#af5baa506e65b4caa6be6d1c6661dfe63acae9e952d6384e217a35eb706e805108", null ],
-      [ "EVENT_ARCHAVON", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63aa5abd29a74790b35b5baffb698d18029", null ],
-      [ "EVENT_EMALON", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63adc280c4712578c2969c61318e1630c2f", null ],
-      [ "EVENT_KORALON", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63a962459d2bd086cbb418c46ff25ff8bbf", null ],
-      [ "EVENT_TORAVON", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63a2b7257100054a2be4acb0addeab89989", null ],
-      [ "MAX_ENCOUNTER", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63a7913656ef56deb3793c0c5f3d999d80d", null ],
-      [ "DATA_STONED", "d7/dbe/a02024.html#af5baa506e65b4caa6be6d1c6661dfe63ac043dcd883c573c1879ec36d05f239f2", null ],
-      [ "DATA_HUNGARFEN", "dc/d1b/a00827.html#af5baa506e65b4caa6be6d1c6661dfe63a63e8f0e6b9b5b9a811bc5243e3237323", null ],
-      [ "DATA_GHAZAN", "dc/d1b/a00827.html#af5baa506e65b4caa6be6d1c6661dfe63a80a45b4f90bb001d27db8a0393b9c57e", null ],
-      [ "DATA_MUSELEK", "dc/d1b/a00827.html#af5baa506e65b4caa6be6d1c6661dfe63aefd434c651108b5f79a253b9a91d045d", null ],
-      [ "DATA_BLACK_STALKER", "dc/d1b/a00827.html#af5baa506e65b4caa6be6d1c6661dfe63a56ea641fde843aa83ff6f9bb73e308b3", null ],
-      [ "MAX_ENCOUNTERS", "dc/d1b/a00827.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
-      [ "SETDATA_DATA", "d5/dd3/a00902.html#af5baa506e65b4caa6be6d1c6661dfe63a7af1afa803e2e65c7ad4816425846f0f", null ],
-      [ "SETDATA_PEON_AGGRO", "d5/dd3/a00902.html#af5baa506e65b4caa6be6d1c6661dfe63ac459bf0c49192437cef2dd734f71240c", null ],
-      [ "SETDATA_PEON_DEATH", "d5/dd3/a00902.html#af5baa506e65b4caa6be6d1c6661dfe63aab321877541215b6f3f9fe6f083703bd", null ]
+    [ "npc_vh_teleportation_portal", "de/df5/a21309.html", "de/df5/a21309" ],
+    [ "violet_hold_trashAI", "d6/d4a/a21313.html", "d6/d4a/a21313" ],
+    [ "npc_azure_invader", "d6/dff/a21317.html", "d6/dff/a21317" ],
+    [ "npc_azure_binder", "d6/d16/a21321.html", "d6/d16/a21321" ],
+    [ "npc_azure_mage_slayer", "de/d5e/a21325.html", "de/d5e/a21325" ],
+    [ "npc_azure_raider", "df/d88/a21329.html", "df/d88/a21329" ],
+    [ "npc_azure_stalker", "d6/d9b/a21333.html", "d6/d9b/a21333" ],
+    [ "npc_azure_spellbreaker", "db/de2/a21337.html", "db/de2/a21337" ],
+    [ "npc_azure_captain", "de/d11/a21341.html", "de/d11/a21341" ],
+    [ "npc_azure_sorceror", "d6/d28/a21345.html", "d6/d28/a21345" ],
+    [ "npc_azure_saboteur", "d0/dfd/a21349.html", "d0/dfd/a21349" ],
+    [ "spell_destroy_door_seal_aura", "d1/d9d/a21353.html", "d1/d9d/a21353" ],
+    [ "npc_violet_hold_defense_system", "db/d67/a21357.html", "db/d67/a21357" ],
+    [ "AzureBinderSpells", "d9/d37/a01754.html#ac8ac5bae2b6aba2c00fdae1c893e94f0", [
+      [ "SPELL_ARCANE_BARRAGE", "d9/d37/a01754.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a3afb459a719cb129b98a146ade206c97", null ],
+      [ "SPELL_ARCANE_EXPLOSION", "d9/d37/a01754.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a6cef4c5e88133771f6b27aec8b8cfdce", null ],
+      [ "SPELL_FROST_NOVA", "d9/d37/a01754.html#ac8ac5bae2b6aba2c00fdae1c893e94f0ab913503b67c5b8f901cfc4f207bcba03", null ],
+      [ "SPELL_FROSTBOLT", "d9/d37/a01754.html#ac8ac5bae2b6aba2c00fdae1c893e94f0a1c6a7f86c2818960d6f6f23a4554e39e", null ]
     ] ],
-    [ "OSActions", "d9/d37/a01754.html#acd5e7989d1069ea934d619bdd2e5fa5d", [
-      [ "ACTION_CLEAR_PORTAL", "d9/d37/a01754.html#acd5e7989d1069ea934d619bdd2e5fa5dacc402915ae29086b10d9b03cf6fb878a", null ],
-      [ "ACTION_ADD_PORTAL", "d9/d37/a01754.html#acd5e7989d1069ea934d619bdd2e5fa5dabb8731bdddc54315a74a6d65f9fb2330", null ],
-      [ "ACTION_START_PATROL", "d9/d37/a01754.html#acd5e7989d1069ea934d619bdd2e5fa5daca096ff885bb141e8666be4a8d8a7ab6", null ]
+    [ "AzureCaptainSpells", "d9/d37/a01754.html#af46bd9d15b0cae9e73316c52a10611b9", [
+      [ "SPELL_MORTAL_STRIKE", "d9/d37/a01754.html#af46bd9d15b0cae9e73316c52a10611b9a7794ace87705e2898f8b60f1f5228110", null ],
+      [ "SPELL_WHIRLWIND_OF_STEEL", "d9/d37/a01754.html#af46bd9d15b0cae9e73316c52a10611b9ad699aed428dc8515d66185aefa658efd", null ]
     ] ],
-    [ "GetObsidianSanctumAI", "d9/d37/a01754.html#a41a84ac02fb0e518d6e584dd2acbb8aa", null ]
+    [ "AzureInvaderSpells", "d9/d37/a01754.html#ae59925ffe1ee1844f14b8f5192b50e50", [
+      [ "SPELL_CLEAVE", "d9/d37/a01754.html#ae59925ffe1ee1844f14b8f5192b50e50a0de0a536dbf18ec5c2e76cfee1d751eb", null ],
+      [ "SPELL_IMPALE", "d9/d37/a01754.html#ae59925ffe1ee1844f14b8f5192b50e50aed97c932510c91b6057175b2df166f63", null ],
+      [ "SPELL_BRUTAL_STRIKE", "d9/d37/a01754.html#ae59925ffe1ee1844f14b8f5192b50e50abd5215af7b4cc0aa95176300a5e47b0d", null ],
+      [ "SPELL_SUNDER_ARMOR", "d9/d37/a01754.html#ae59925ffe1ee1844f14b8f5192b50e50a99eaf912c120c7fa6d85748ebf96aebb", null ]
+    ] ],
+    [ "AzureMageSlayerSpells", "d9/d37/a01754.html#ac78605d6efa18baead82e805c7f0f20f", [
+      [ "SPELL_ARCANE_EMPOWERMENT", "d9/d37/a01754.html#ac78605d6efa18baead82e805c7f0f20fa2a0c7483481c9f46b5abace7844ce0c1", null ],
+      [ "SPELL_SPELL_LOCK", "d9/d37/a01754.html#ac78605d6efa18baead82e805c7f0f20fa224d41981eead3a852d629c3d9a3c734", null ]
+    ] ],
+    [ "AzureRaiderSpells", "d9/d37/a01754.html#a4d1c4ff51073f003f5d430153811d5d6", [
+      [ "SPELL_CONCUSSION_BLOW", "d9/d37/a01754.html#a4d1c4ff51073f003f5d430153811d5d6a24c8037a8967fd1efcb106b022a3aa5b", null ],
+      [ "SPELL_MAGIC_REFLECTION", "d9/d37/a01754.html#a4d1c4ff51073f003f5d430153811d5d6afd79f0e7035448d8f649e3282deb75dd", null ]
+    ] ],
+    [ "AzureSaboteurSpells", "d9/d37/a01754.html#a77eb14328c7227c669ae9a03984a5b97", [
+      [ "SABOTEUR_SHIELD_DISRUPTION", "d9/d37/a01754.html#a77eb14328c7227c669ae9a03984a5b97ad925124be9a18f2a765337503fe1ffed", null ],
+      [ "SABOTEUR_SHIELD_EFFECT", "d9/d37/a01754.html#a77eb14328c7227c669ae9a03984a5b97ac1041b30568f58695d6f34546f88b75c", null ],
+      [ "SPELL_TELEPORT_VISUAL", "d9/d37/a01754.html#a77eb14328c7227c669ae9a03984a5b97a73cc106ecf58fcd3a75fa23f9ff7a21c", null ]
+    ] ],
+    [ "AzureSorcerorSpells", "d9/d37/a01754.html#a234a6cf28e39a194632aa43a77e92096", [
+      [ "SPELL_ARCANE_STREAM", "d9/d37/a01754.html#a234a6cf28e39a194632aa43a77e92096a30a51557ca182650489da485f07a82b7", null ],
+      [ "SPELL_MANA_DETONATION", "d9/d37/a01754.html#a234a6cf28e39a194632aa43a77e92096ae1f24b34bd2d1354627cad7f887d8b85", null ]
+    ] ],
+    [ "AzureSpellbreakerSpells", "d9/d37/a01754.html#a158603b6fe3ddb2baf3e95de37a5dcc2", [
+      [ "SPELL_ARCANE_BLAST", "d9/d37/a01754.html#a158603b6fe3ddb2baf3e95de37a5dcc2af122c6c3fe00bd98cedb873409dc4803", null ],
+      [ "SPELL_SLOW", "d9/d37/a01754.html#a158603b6fe3ddb2baf3e95de37a5dcc2a8c3d41eb1b68da0f3943e5df04bfcb5c", null ],
+      [ "SPELL_CHAINS_OF_ICE", "d9/d37/a01754.html#a158603b6fe3ddb2baf3e95de37a5dcc2ae1f0efa4026f86ebb692786585cec455", null ],
+      [ "SPELL_CONE_OF_COLD", "d9/d37/a01754.html#a158603b6fe3ddb2baf3e95de37a5dcc2ab066547e004691aae6b23d39f4c0da4b", null ]
+    ] ],
+    [ "AzureStalkerSpells", "d9/d37/a01754.html#a79fc2957bc9c07cbe31064cd981b5663", [
+      [ "SPELL_BACKSTAB", "d9/d37/a01754.html#a79fc2957bc9c07cbe31064cd981b5663a4ff7524487add866a452db82c2791b68", null ],
+      [ "SPELL_TACTICAL_BLINK", "d9/d37/a01754.html#a79fc2957bc9c07cbe31064cd981b5663a5f9f321e45ec4cf0e5e156021cd85402", null ]
+    ] ],
+    [ "BinderEvents", "d9/d37/a01754.html#a4bb0a56f6436235bc98f40cfac8409e9", [
+      [ "EVENT_BINDER_ARCANE_EXPLOSION", "d9/d37/a01754.html#a4bb0a56f6436235bc98f40cfac8409e9a63afe7fe626556d60ef561edbb5fd974", null ],
+      [ "EVENT_BINDER_ARCANE_BARRAGE", "d9/d37/a01754.html#a4bb0a56f6436235bc98f40cfac8409e9ae6b06bad71b78733cf920fdeb54d9a97", null ],
+      [ "EVENT_BINDER_FROST_NOVA", "d9/d37/a01754.html#a4bb0a56f6436235bc98f40cfac8409e9a5a64ff8ed1fd826b2619d44bec99dbe6", null ],
+      [ "EVENT_BINDER_FROSTBOLT", "d9/d37/a01754.html#a4bb0a56f6436235bc98f40cfac8409e9a24c7bf49518fa324f3942699466e34df", null ]
+    ] ],
+    [ "CaptainEvents", "d9/d37/a01754.html#a4dde00ab236b1d0505feebe5a51ece3c", [
+      [ "EVENT_CAPTAIN_MORTAL_STRIKE", "d9/d37/a01754.html#a4dde00ab236b1d0505feebe5a51ece3caa792ffda443764c85bfe20bd3eb87172", null ],
+      [ "EVENT_CAPTAIN_WHIRLWIND", "d9/d37/a01754.html#a4dde00ab236b1d0505feebe5a51ece3ca7b5e919f6bc10d86f528c593c08b60ae", null ]
+    ] ],
+    [ "InvaderEvents", "d9/d37/a01754.html#a8b58b2b60d173f6f0229ce98da0f576d", [
+      [ "EVENT_INVADER_CLEAVE", "d9/d37/a01754.html#a8b58b2b60d173f6f0229ce98da0f576dacab09c7df503347d7760f4d02e83472a", null ],
+      [ "EVENT_INVADER_IMPALE", "d9/d37/a01754.html#a8b58b2b60d173f6f0229ce98da0f576dacc59cf0e666f4c5b8fadd48a5950d459", null ],
+      [ "EVENT_INVADER_BRUTAL_STRIKE", "d9/d37/a01754.html#a8b58b2b60d173f6f0229ce98da0f576daace97d0d0843f602c01e225b1e1f990f", null ],
+      [ "EVENT_INVADER_SUNDER_ARMOR", "d9/d37/a01754.html#a8b58b2b60d173f6f0229ce98da0f576daf5925e0fb11d845fe4f68963eb7121fd", null ]
+    ] ],
+    [ "MageSlayerEvents", "d9/d37/a01754.html#a6006a65ff2a4b2635101fb8008f35437", [
+      [ "EVENT_MAGE_SLAYER_ARCANE_EMPOWERMENT", "d9/d37/a01754.html#a6006a65ff2a4b2635101fb8008f35437aeb7e20e3f4f167e2468893cac3605e4a", null ],
+      [ "EVENT_MAGE_SLAYER_SPELL_LOCK", "d9/d37/a01754.html#a6006a65ff2a4b2635101fb8008f35437ae5ca84c6982ea7e9178e71ea01b849fb", null ]
+    ] ],
+    [ "PortalEvents", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177", [
+      [ "EVENT_SUMMON_KEEPER_OR_GUARDIAN", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177aa892d532cfe73089b573009999e49707", null ],
+      [ "EVENT_SUMMON_KEEPER_TRASH", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177a518ebaf6b566ed755b032625f8ac973e", null ],
+      [ "EVENT_SUMMON_ELITES", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177a451936542d4fe56f8f10993c956007bc", null ],
+      [ "EVENT_SUMMON_SABOTEOUR", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177a94822388f728c343ac073a90c5d3a4f1", null ],
+      [ "EVENT_CHECK_DEATHS", "d9/d37/a01754.html#a19f2c5217c4e583e2a2e3d499977a177a73f521266f6a8c0188f7ea4b61843c96", null ]
+    ] ],
+    [ "RaiderEvents", "d9/d37/a01754.html#a06b78ef34eb909dec4b4e0770bf24120", [
+      [ "EVENT_RAIDER_CONCUSSION_BLOW", "d9/d37/a01754.html#a06b78ef34eb909dec4b4e0770bf24120acf995c92e9446a8b511b40b1879ad123", null ],
+      [ "EVENT_RAIDER_MAGIC_REFLECTION", "d9/d37/a01754.html#a06b78ef34eb909dec4b4e0770bf24120a0f7e587264c7b59c4b1079927493e3e3", null ]
+    ] ],
+    [ "SaboteurEvents", "d9/d37/a01754.html#a61f0eb737d2d6575416d40c84f7d23ac", [
+      [ "EVENT_SABOTEUR_SHIELD_DISRUPTION", "d9/d37/a01754.html#a61f0eb737d2d6575416d40c84f7d23aca3ba481a4a2d4cf944a28a5d7b532e84a", null ],
+      [ "EVENT_SABOTEUR_RELEASE_BOSS", "d9/d37/a01754.html#a61f0eb737d2d6575416d40c84f7d23aca7a8d5de06f3e31793e053472a621017a", null ],
+      [ "EVENT_SABOTEUR_DISAPPEAR", "d9/d37/a01754.html#a61f0eb737d2d6575416d40c84f7d23acad43be551fd59090d924f1dec36e7c5f6", null ]
+    ] ],
+    [ "SorcerorEvents", "d9/d37/a01754.html#abc0f0004442b009bb45ce8c8843895f4", [
+      [ "EVENT_SORCEROR_ARCANE_STREAM", "d9/d37/a01754.html#abc0f0004442b009bb45ce8c8843895f4a2eecd36baf3de97c8974655fd463d485", null ],
+      [ "EVENT_SORCEROR_MANA_DETONATION", "d9/d37/a01754.html#abc0f0004442b009bb45ce8c8843895f4a005f809af6de7d14c536ca7c8b33a892", null ]
+    ] ],
+    [ "SpellbreakerEvents", "d9/d37/a01754.html#a2b26d6e966b782d434f5f6b09f28259b", [
+      [ "EVENT_SPELLBREAKER_ARCANE_BLAST", "d9/d37/a01754.html#a2b26d6e966b782d434f5f6b09f28259badc907fd55c6cef4620119afc8cd851f0", null ],
+      [ "EVENT_SPELLBREAKER_SLOW", "d9/d37/a01754.html#a2b26d6e966b782d434f5f6b09f28259ba3765b2ca50fa7227baa4a70c376729da", null ],
+      [ "EVENT_SPELLBREAKER_CHAINS_OF_ICE", "d9/d37/a01754.html#a2b26d6e966b782d434f5f6b09f28259baf193860ad6054383d811d863edd011d3", null ],
+      [ "EVENT_SPELLBREAKER_CONE_OF_COLD", "d9/d37/a01754.html#a2b26d6e966b782d434f5f6b09f28259ba2f026f68218ae4e52c52f9549c8efc32", null ]
+    ] ],
+    [ "StalkerEvents", "d9/d37/a01754.html#a0f792309511e4c2acaa38c7c4cacacbc", [
+      [ "EVENT_STALKER_BACKSTAB", "d9/d37/a01754.html#a0f792309511e4c2acaa38c7c4cacacbcafb21de37e607c0dd2186c6d88819338f", null ]
+    ] ],
+    [ "AddSC_violet_hold", "d9/d37/a01754.html#a11e49713c62a5c479f14ca4d3e845eab", null ]
 ];

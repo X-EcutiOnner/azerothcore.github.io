@@ -1,4 +1,7 @@
 var a03122 =
 [
-    [ "GetTargetFlagMask", "d8/dfb/a03122.html#adc898dfddc20010c41bb771b6d6f274e", null ]
+    [ "AuraApplication", "de/d23/a11765.html", "de/d23/a11765" ],
+    [ "Aura", "da/dab/a11769.html", "da/dab/a11769" ],
+    [ "UnitAura", "db/d83/a11773.html", "db/d83/a11773" ],
+    [ "DynObjAura", "d9/dee/a11777.html", "d9/dee/a11777" ]
 ];

@@ -1,5 +1,5 @@
 var a20497 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "df/d56/a20497.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "df/d56/a20497.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "achievement_kologarn_with_open_arms", "df/d56/a20497.html#a94af961be5bbdf7783925148731ce7e4", null ],
+    [ "OnCheck", "df/d56/a20497.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
 ];

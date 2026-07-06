@@ -1,10 +1,5 @@
 var a14417 =
 [
-    [ "npc_zealot_zath", "d6/de3/a14417.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
-    [ "JustDied", "d6/de3/a14417.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
-    [ "JustEngagedWith", "d6/de3/a14417.html#a25e059f40de51d880f4ec209ff4dd924", null ],
-    [ "Reset", "d6/de3/a14417.html#abc4e40afd644f2c89444f3fe475817c0", null ],
-    [ "UpdateAI", "d6/de3/a14417.html#a467ce2437ec112b42f864ef412c0c976", null ],
-    [ "_scheduler", "d6/de3/a14417.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
-    [ "instance", "d6/de3/a14417.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
+    [ "go_gong_of_bethekk", "d6/de3/a14417.html#ae261467be63f1a744eb20f81473c2239", null ],
+    [ "OnGossipHello", "d6/de3/a14417.html#a82072ff8c030aec1a5ed447865680788", null ]
 ];

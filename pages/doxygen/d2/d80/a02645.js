@@ -1,15 +1,25 @@
 var a02645 =
 [
-    [ "PoolTemplateData", "da/d0d/a10539.html", "da/d0d/a10539" ],
-    [ "PoolObject", "dd/d19/a10543.html", "dd/d19/a10543" ],
-    [ "Pool", "d8/d33/a10547.html", null ],
-    [ "ActivePoolData", "dd/d0d/a10551.html", "dd/d0d/a10551" ],
-    [ "PoolGroup< T >", "db/d10/a10555.html", "db/d10/a10555" ],
-    [ "PoolMgr", "d9/d1a/a10559.html", "d9/d1a/a10559" ],
-    [ "sPoolMgr", "d2/d80/a02645.html#a9189dd9c6265b9e6d57104dd61a5fe85", null ],
-    [ "ActivePoolObjects", "d2/d80/a02645.html#a6fd2b29871e3f63cf9cc493968a0ab74", null ],
-    [ "ActivePoolPools", "d2/d80/a02645.html#ad18a3f26065fec260d0281c5354067dd", null ],
-    [ "PooledQuestRelation", "d2/d80/a02645.html#ace9e74e256f166b08f2834044ecfba43", null ],
-    [ "PooledQuestRelationBounds", "d2/d80/a02645.html#adabd05f382474650e093706cf4ea4e35", null ],
-    [ "PooledQuestRelationBoundsNC", "d2/d80/a02645.html#a54dd98ebecf13a92dd29f7d3789d5b56", null ]
+    [ "PlayerDump", "d6/d4d/a12157.html", "d6/d4d/a12157" ],
+    [ "PlayerDumpWriter", "d1/d19/a12161.html", "d1/d19/a12161" ],
+    [ "PlayerDumpReader", "db/d41/a12165.html", "db/d41/a12165" ],
+    [ "DumpReturn", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866", [
+      [ "DUMP_SUCCESS", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
+      [ "DUMP_FILE_OPEN_ERROR", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
+      [ "DUMP_TOO_MANY_CHARS", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
+      [ "DUMP_FILE_BROKEN", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
+      [ "DUMP_CHARACTER_DELETED", "d2/d80/a02645.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
+    ] ],
+    [ "DumpTableType", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7ef", [
+      [ "DTT_CHARACTER", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
+      [ "DTT_CHAR_TABLE", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
+      [ "DTT_EQSET_TABLE", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
+      [ "DTT_INVENTORY", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
+      [ "DTT_MAIL", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
+      [ "DTT_MAIL_ITEM", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
+      [ "DTT_ITEM", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
+      [ "DTT_ITEM_GIFT", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
+      [ "DTT_PET", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
+      [ "DTT_PET_TABLE", "d2/d80/a02645.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
+    ] ]
 ];

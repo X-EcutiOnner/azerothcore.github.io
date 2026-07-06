@@ -1,8 +1,8 @@
 var a05257 =
 [
-    [ "LocationInfoCallback", "dd/dde/a05257.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "dd/dde/a05257.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
-    [ "locInfo", "dd/dde/a05257.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "dd/dde/a05257.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "dd/dde/a05257.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "AreaInfo", "dc/de1/a05261.html", "dc/de1/a05261" ],
+    [ "LiquidInfo", "de/daf/a05265.html", "de/daf/a05265" ],
+    [ "areaInfo", "dd/dde/a05257.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "dd/dde/a05257.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "dd/dde/a05257.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

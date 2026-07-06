@@ -1,5 +1,5 @@
 var a10689 =
 [
-    [ "MovementHandlerScript", "dd/d66/a10689.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
-    [ "OnPlayerMove", "dd/d66/a10689.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
+    [ "CommandScript", "dd/d66/a10689.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
+    [ "GetCommands", "dd/d66/a10689.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
 ];

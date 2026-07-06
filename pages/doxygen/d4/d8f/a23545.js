@@ -1,11 +1,13 @@
 var a23545 =
 [
-    [ "boss_pathaleon_the_calculator", "d4/d8f/a23545.html#a679dc3ccc23c6def44e0f0669822e146", null ],
-    [ "CanAIAttack", "d4/d8f/a23545.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
-    [ "DoAction", "d4/d8f/a23545.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
-    [ "JustDied", "d4/d8f/a23545.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
-    [ "JustEngagedWith", "d4/d8f/a23545.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
-    [ "KilledUnit", "d4/d8f/a23545.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
-    [ "Reset", "d4/d8f/a23545.html#adc48067c3656bf768c3013ff266565c0", null ],
-    [ "_isEnraged", "d4/d8f/a23545.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
+    [ "boss_wrath_scryer_soccothrates", "d4/d8f/a23545.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "d4/d8f/a23545.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "d4/d8f/a23545.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "d4/d8f/a23545.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "d4/d8f/a23545.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "d4/d8f/a23545.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "d4/d8f/a23545.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "d4/d8f/a23545.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "d4/d8f/a23545.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "d4/d8f/a23545.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

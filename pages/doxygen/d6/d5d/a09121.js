@@ -1,8 +1,8 @@
 var a09121 =
 [
-    [ "Entry", "d6/d5d/a09121.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d6/d5d/a09121.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d6/d5d/a09121.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d6/d5d/a09121.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d6/d5d/a09121.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "AttackPosition", "d6/d5d/a09121.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d6/d5d/a09121.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d6/d5d/a09121.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d6/d5d/a09121.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d6/d5d/a09121.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

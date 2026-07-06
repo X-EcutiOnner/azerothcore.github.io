@@ -1,17 +1,17 @@
 var a00398 =
 [
-    [ "instance_zulgurub", "d3/d16/a14587.html", "d3/d16/a14587" ],
-    [ "instance_zulgurub::instance_zulgurub_InstanceMapScript", "d6/d14/a14591.html", "d6/d14/a14591" ],
-    [ "go_brazier_of_madness", "d6/db7/a14595.html", "d6/db7/a14595" ],
-    [ "EdgeOfMadnessEnum", "d9/dd1/a00398.html#a45822838f1310b1a812eba191cb3d416", [
-      [ "EVENT_EDGE_OF_MADNESS_GRILEK", "d9/dd1/a00398.html#a45822838f1310b1a812eba191cb3d416ad02945634d7affb86fe4a6fa1baee9e7", null ],
-      [ "EVENT_EDGE_OF_MADNESS_HAZZARAH", "d9/dd1/a00398.html#a45822838f1310b1a812eba191cb3d416a8ec0daec449beba98b500943bcacc8e4", null ],
-      [ "EVENT_EDGE_OF_MADNESS_RENATAKI", "d9/dd1/a00398.html#a45822838f1310b1a812eba191cb3d416a4d7aeb529f52ed41b6c933726f9e2e1d", null ],
-      [ "EVENT_EDGE_OF_MADNESS_WUSHOOLAY", "d9/dd1/a00398.html#a45822838f1310b1a812eba191cb3d416ac13476b6183a6ba6aad91191ef3c1073", null ]
+    [ "npc_daphne_stilwell", "d2/d26/a14245.html", "d2/d26/a14245" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "d1/d5d/a14249.html", "d1/d5d/a14249" ],
+    [ "DaphneStilwell", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d9/dd1/a00398.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
     ] ],
-    [ "AddSC_instance_zulgurub", "d9/dd1/a00398.html#a224e147b1990c0996e0ac61a1865e34c", null ],
-    [ "BrazierOfMadnessContainer", "d9/dd1/a00398.html#a808ff75d7f4ab6555cdc154544ef727f", null ],
-    [ "creatureData", "d9/dd1/a00398.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d9/dd1/a00398.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "edgeOfMagnessSummonPos", "d9/dd1/a00398.html#a352683729da59da9923d0f67d510f73c", null ]
+    [ "AddSC_westfall", "d9/dd1/a00398.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

@@ -1,6 +1,10 @@
 var a10325 =
 [
-    [ "AssistanceMovementGenerator", "df/d92/a10325.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
-    [ "Finalize", "df/d92/a10325.html#af92bc6f83b1f4b1262736bf582b13ac3", null ],
-    [ "GetMovementGeneratorType", "df/d92/a10325.html#a0791e081895efd553ba2048fc5b851ea", null ]
+    [ "CreateWorldPacket", "df/d92/a10325.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "df/d92/a10325.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "df/d92/a10325.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "df/d92/a10325.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "df/d92/a10325.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "df/d92/a10325.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "df/d92/a10325.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

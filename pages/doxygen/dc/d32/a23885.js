@@ -1,6 +1,7 @@
 var a23885 =
 [
-    [ "PrepareSpellScript", "dc/d32/a23885.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
-    [ "Register", "dc/d32/a23885.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
-    [ "SetDest", "dc/d32/a23885.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
+    [ "npc_maghar_captiveAI", "db/dc8/a23889.html", "db/dc8/a23889" ],
+    [ "npc_maghar_captive", "dc/d32/a23885.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
+    [ "GetAI", "dc/d32/a23885.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
+    [ "OnQuestAccept", "dc/d32/a23885.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
 ];

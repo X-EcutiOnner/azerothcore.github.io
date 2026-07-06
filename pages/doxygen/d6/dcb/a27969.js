@@ -1,6 +1,5 @@
 var a27969 =
 [
-    [ "npc_innkeeper", "d6/dcb/a27969.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d6/dcb/a27969.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d6/dcb/a27969.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "go_ethereum_stasis", "d6/dcb/a27969.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d6/dcb/a27969.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

@@ -1,12 +1,6 @@
 var a21745 =
 [
-    [ "npc_tournament_training_dummyAI", "d8/dce/a21745.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
-    [ "DamageTaken", "d8/dce/a21745.html#a98c18794124922e6946a82a324410837", null ],
-    [ "EnterEvadeMode", "d8/dce/a21745.html#a3f31d705284b0fad2f00c9210ff06646", null ],
-    [ "MoveInLineOfSight", "d8/dce/a21745.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
-    [ "Reset", "d8/dce/a21745.html#a7339ffe52dc789f9480afca7141a169e", null ],
-    [ "SpellHit", "d8/dce/a21745.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
-    [ "UpdateAI", "d8/dce/a21745.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
-    [ "events", "d8/dce/a21745.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
-    [ "isVulnerable", "d8/dce/a21745.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
+    [ "npc_ravenous_worgAI", "d0/da2/a21749.html", "d0/da2/a21749" ],
+    [ "npc_ravenous_worg", "d8/dce/a21745.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d8/dce/a21745.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

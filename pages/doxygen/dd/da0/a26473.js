@@ -1,6 +1,7 @@
 var a26473 =
 [
-    [ "CheckCast", "dd/da0/a26473.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
-    [ "PrepareSpellScript", "dd/da0/a26473.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
-    [ "Register", "dd/da0/a26473.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
+    [ "HandleDummy", "dd/da0/a26473.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "dd/da0/a26473.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "dd/da0/a26473.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "dd/da0/a26473.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

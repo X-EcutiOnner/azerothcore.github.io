@@ -1,7 +1,8 @@
 var a16897 =
 [
-    [ "HandleAfterEffectAbsorb", "d6/d0e/a16897.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d6/d0e/a16897.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d6/d0e/a16897.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d6/d0e/a16897.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_toc_hunterAI", "d6/d0e/a16897.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d6/d0e/a16897.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d6/d0e/a16897.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d6/d0e/a16897.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d6/d0e/a16897.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

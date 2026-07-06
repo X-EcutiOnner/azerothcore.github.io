@@ -1,6 +1,8 @@
 var a20201 =
 [
-    [ "HandleAfterEffectApply", "dd/d30/a20201.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "dd/d30/a20201.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "dd/d30/a20201.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "HandleOnEffectApply", "dd/d30/a20201.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "dd/d30/a20201.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "dd/d30/a20201.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "dd/d30/a20201.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "dd/d30/a20201.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

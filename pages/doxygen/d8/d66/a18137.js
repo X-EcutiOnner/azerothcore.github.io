@@ -1,6 +1,6 @@
 var a18137 =
 [
-    [ "ExtraEffect", "d8/d66/a18137.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d8/d66/a18137.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d8/d66/a18137.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "npc_darnavanAI", "d8/d2b/a18141.html", "d8/d2b/a18141" ],
+    [ "npc_darnavan", "d8/d66/a18137.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d8/d66/a18137.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

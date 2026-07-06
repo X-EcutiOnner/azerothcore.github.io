@@ -1,21 +1,9 @@
 var a09857 =
 [
-    [ "BankTab", "d0/df7/a09857.html#a4cc137e35b63b86c5d436e6bc15ad590", null ],
-    [ "Delete", "d0/df7/a09857.html#a834715b072cf26a56933a971de7bdde4", null ],
-    [ "GetIcon", "d0/df7/a09857.html#a2406a477fff518690b1a9656d0c2129b", null ],
-    [ "GetItem", "d0/df7/a09857.html#a9c5baa8eb92520b73c646488e3b38caa", null ],
-    [ "GetName", "d0/df7/a09857.html#a0360f82663e5f9e073bcb28affcdf0b3", null ],
-    [ "GetText", "d0/df7/a09857.html#ace1887dd0ef166be4fc6f8cb894d80b3", null ],
-    [ "LoadFromDB", "d0/df7/a09857.html#a016c23dc9710058e969ccfc51501afd6", null ],
-    [ "LoadItemFromDB", "d0/df7/a09857.html#aa7bd9e67c6685878fa7bf158c09fae51", null ],
-    [ "SendText", "d0/df7/a09857.html#ac3ca58dcc1997788226c6fe0d5b690c7", null ],
-    [ "SetInfo", "d0/df7/a09857.html#afb645aa2e4219558eb2f493782804657", null ],
-    [ "SetItem", "d0/df7/a09857.html#a3013ae191efb43063162f4cbb5508392", null ],
-    [ "SetText", "d0/df7/a09857.html#a5945b66216eebcb4ac68a6e429c15972", null ],
-    [ "m_guildId", "d0/df7/a09857.html#abc272a367b69a90207dbf10580a55038", null ],
-    [ "m_icon", "d0/df7/a09857.html#a25217a0d4f9dc91c853f7007f63f140b", null ],
-    [ "m_items", "d0/df7/a09857.html#a80cc2a64638722401276263d01e5ee27", null ],
-    [ "m_name", "d0/df7/a09857.html#a5555e808bc4597ad9a74e69b95e56149", null ],
-    [ "m_tabId", "d0/df7/a09857.html#ab055a2b7500c83c96a78c396dc60588a", null ],
-    [ "m_text", "d0/df7/a09857.html#afc7ac5ed7c4c2d79170548fe061917eb", null ]
+    [ "UnitAuraCheck", "d0/df7/a09857.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d0/df7/a09857.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d0/df7/a09857.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d0/df7/a09857.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d0/df7/a09857.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d0/df7/a09857.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

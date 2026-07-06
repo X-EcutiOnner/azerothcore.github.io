@@ -1,6 +1,10 @@
 var a28149 =
 [
-    [ "npc_pet_trainerAI", "d2/d16/a28153.html", "d2/d16/a28153" ],
-    [ "npc_pet_trainer", "da/dc7/a28149.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "da/dc7/a28149.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "guard_shattrath_scryerAI", "da/dc7/a28149.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "da/dc7/a28149.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "da/dc7/a28149.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "da/dc7/a28149.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "da/dc7/a28149.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "da/dc7/a28149.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "da/dc7/a28149.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

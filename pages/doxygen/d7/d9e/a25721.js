@@ -1,7 +1,7 @@
 var a25721 =
 [
-    [ "HandleHeal", "d7/d9e/a25721.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "d7/d9e/a25721.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "d7/d9e/a25721.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "d7/d9e/a25721.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleProc", "d7/d9e/a25721.html#a5dbf2d5e9b31828b79150f40f6033896", null ],
+    [ "PrepareAuraScript", "d7/d9e/a25721.html#a84f326e1353437f29fb051533d3391eb", null ],
+    [ "Register", "d7/d9e/a25721.html#a7afae9d94162490cb40d29159d88f4a8", null ],
+    [ "Validate", "d7/d9e/a25721.html#a3d39936e9b44abce8746d1ef23c8e27e", null ]
 ];

@@ -1,6 +1,11 @@
 var a20837 =
 [
-    [ "npc_massive_jormungarAI", "d9/d50/a20841.html", "d9/d50/a20841" ],
-    [ "npc_massive_jormungar", "de/ddc/a20837.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "de/ddc/a20837.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "boss_yoggsaron_llane", "de/ddc/a20837.html#a42e3d189cff0da5995401e4bc8dfffdd", null ],
+    [ "NextStep", "de/ddc/a20837.html#ab8b6446fe7d424ad7d943af915cc4b8a", null ],
+    [ "Reset", "de/ddc/a20837.html#a0df3a85717ab26ad1ac889d6fe4d8007", null ],
+    [ "Say", "de/ddc/a20837.html#a0ae3106eac830ed9f14f17e5fa1d45ec", null ],
+    [ "UpdateAI", "de/ddc/a20837.html#a58ec957cd59b944439fe514e728e2902", null ],
+    [ "_checkTimer", "de/ddc/a20837.html#a3043382e2727bc78a74acaec28697045", null ],
+    [ "_running", "de/ddc/a20837.html#ab7e1b1ed82f311b12f28f1622e6ad378", null ],
+    [ "_step", "de/ddc/a20837.html#a91a71f85bab9e4d1234964ef534e51c2", null ]
 ];

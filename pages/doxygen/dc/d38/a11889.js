@@ -1,6 +1,7 @@
 var a11889 =
 [
-    [ "CheckProcHandler", "dc/d38/a11889.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "dc/d38/a11889.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "dc/d38/a11889.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "attributeMask", "dc/d38/a11889.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
+    [ "customChance", "dc/d38/a11889.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
+    [ "PPMChance", "dc/d38/a11889.html#adb76c11f0073a2738374c98c01fda009", null ],
+    [ "procEx", "dc/d38/a11889.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
 ];

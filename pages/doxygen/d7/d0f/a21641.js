@@ -1,7 +1,6 @@
 var a21641 =
 [
-    [ "HandleScript", "d7/d0f/a21641.html#ac55fd613d1ea17ae89361fbf8759fec3", null ],
-    [ "PrepareSpellScript", "d7/d0f/a21641.html#a26e704fd016cdf9b1d47fb9edcff7a72", null ],
-    [ "Register", "d7/d0f/a21641.html#a9b8efef83b515f2250bda500ff741aa3", null ],
-    [ "Validate", "d7/d0f/a21641.html#ad5e9b0ae8a8103b7d901dd333e62fc35", null ]
+    [ "SACActivateEvent", "d7/d0f/a21641.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d7/d0f/a21641.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d7/d0f/a21641.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

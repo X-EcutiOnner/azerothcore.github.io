@@ -1,7 +1,5 @@
 var a03320 =
 [
-    [ "canCreateExtraItems", "db/d69/a03320.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "db/d69/a03320.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "db/d69/a03320.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "db/d69/a03320.html#a121df170a82be5ab5b05999a6be27b69", null ]
+    [ "GetIdleMovementGenerator", "db/d69/a03320.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
+    [ "isStatic", "db/d69/a03320.html#a05fec3371a9aee5a6448115a645a505d", null ]
 ];

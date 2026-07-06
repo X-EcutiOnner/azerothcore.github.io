@@ -1,12 +1,18 @@
 var a15101 =
 [
-    [ "boss_lieutenant_drake", "d8/dc7/a15101.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
-    [ "InitializeAI", "d8/dc7/a15101.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
-    [ "JustDied", "d8/dc7/a15101.html#aca7654e30aac96fa509f99f3447121ec", null ],
-    [ "JustEngagedWith", "d8/dc7/a15101.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
-    [ "KilledUnit", "d8/dc7/a15101.html#a833c889c28ea35a6198fe753b604a8ed", null ],
-    [ "MovementInform", "d8/dc7/a15101.html#aec6e332bc5739552cbbec27569c55759", null ],
-    [ "UpdateAI", "d8/dc7/a15101.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
-    [ "pathId", "d8/dc7/a15101.html#ac63f9c885296a797799c0cd83b0ade64", null ],
-    [ "runSecondPath", "d8/dc7/a15101.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
+    [ "boss_archimonde", "d8/dc7/a15101.html#a25e52499f80d4c3edb4dd5cf02b95d18", null ],
+    [ "DoAction", "d8/dc7/a15101.html#aba420f926ccdfc6feeb16a0e6d67267f", null ],
+    [ "DoCastDoomFire", "d8/dc7/a15101.html#a409cad381c6562f44fcf8f66a5965ec4", null ],
+    [ "EnterEvadeMode", "d8/dc7/a15101.html#aac09090d17c336e9935cfce7ff1c8d60", null ],
+    [ "JustEngagedWith", "d8/dc7/a15101.html#a31c526a5e72c4244df101918388c777c", null ],
+    [ "JustSummoned", "d8/dc7/a15101.html#a6db990f64d884f1290c77b8ec73b8fb0", null ],
+    [ "KilledUnit", "d8/dc7/a15101.html#a341ab97e59cfe989572fdcceff434e4e", null ],
+    [ "Reset", "d8/dc7/a15101.html#a905918f9fc654c4c1fa1aa99980d39e6", null ],
+    [ "SetGUID", "d8/dc7/a15101.html#ac4246d0fd80ed0edfd39b2008a97eeca", null ],
+    [ "UnleashSoulCharge", "d8/dc7/a15101.html#a93f93fe116c75a24dc15bb521b038a27", null ],
+    [ "_availableAuras", "d8/dc7/a15101.html#a552869a0fd5141094a021e3aaaada051", null ],
+    [ "_availableSpells", "d8/dc7/a15101.html#a388a8bafb4407e371a58d3a7d090c754", null ],
+    [ "_enraged", "d8/dc7/a15101.html#a1e295ff6ae857c7a022acf967afd0de0", null ],
+    [ "_isChanneling", "d8/dc7/a15101.html#ad967688caad8a6c7530bfd4709aecb06", null ],
+    [ "_wispCount", "d8/dc7/a15101.html#aa2ec2fcd92ed81f76fb238af9dbad53e", null ]
 ];

@@ -1,8 +1,8 @@
 var a26509 =
 [
-    [ "CheckProc", "d5/dc5/a26509.html#ae73e9e1681eb191bb7e90a09c89b6c0d", null ],
-    [ "HandleProc", "d5/dc5/a26509.html#a3e6027433902a5f8b4955c766cca51b4", null ],
-    [ "PrepareAuraScript", "d5/dc5/a26509.html#a843b376abe1439d8431df9a70f40deb6", null ],
-    [ "Register", "d5/dc5/a26509.html#a0dcd926eaf184ad5758f833b1c185e33", null ],
-    [ "Validate", "d5/dc5/a26509.html#af13ff5845ea9121ceac37a4d93914f23", null ]
+    [ "Load", "d5/dc5/a26509.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d5/dc5/a26509.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d5/dc5/a26509.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d5/dc5/a26509.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d5/dc5/a26509.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

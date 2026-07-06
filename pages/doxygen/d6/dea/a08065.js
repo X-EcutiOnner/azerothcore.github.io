@@ -1,7 +1,5 @@
 var a08065 =
 [
-    [ "StoreTo", "d6/dea/a08065.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "d6/dea/a08065.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "d6/dea/a08065.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "d6/dea/a08065.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "value_type", "d6/dea/a08065.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "d6/dea/a08065.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

@@ -1,4 +1,4 @@
 var a04751 =
 [
-    [ "SessionKeyGenerator< Hash >", "d6/d94/a05479.html", "d6/d94/a05479" ]
+    [ "RefMgr< TO, FROM >", "d9/ddf/a05557.html", "d9/ddf/a05557" ]
 ];

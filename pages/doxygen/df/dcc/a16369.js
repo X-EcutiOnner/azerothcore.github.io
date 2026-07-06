@@ -1,7 +1,11 @@
 var a16369 =
 [
-    [ "npc_orb_carrierAI", "df/dcc/a16369.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "df/dcc/a16369.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "df/dcc/a16369.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "df/dcc/a16369.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "spell_hadronox_summon_periodic_aura", "df/dcc/a16369.html#a80cbba741e8005a89a1bbf47a5fc82fb", null ],
+    [ "HandlePeriodic", "df/dcc/a16369.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "df/dcc/a16369.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "df/dcc/a16369.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "df/dcc/a16369.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "df/dcc/a16369.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "df/dcc/a16369.html#abdcc08812e4cf771d4d845ebbbf68790", null ],
+    [ "_spellEntry", "df/dcc/a16369.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

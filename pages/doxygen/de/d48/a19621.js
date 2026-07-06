@@ -1,6 +1,7 @@
 var a19621 =
 [
-    [ "HandleDamageCalc", "de/d48/a19621.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
-    [ "PrepareSpellScript", "de/d48/a19621.html#a754da297cd5801616e24bf2d802d0b38", null ],
-    [ "Register", "de/d48/a19621.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
+    [ "npc_eoe_wyrmrest_skytalon", "de/d48/a19621.html#a8a2c264c200336b9f49f2a86f6953ff6", null ],
+    [ "IsSummonedBy", "de/d48/a19621.html#a647ba18085c9522d8075c62ed9ce5b18", null ],
+    [ "JustDied", "de/d48/a19621.html#a65df31829e801154ee20d55ad1c15721", null ],
+    [ "PassengerBoarded", "de/d48/a19621.html#a350828bdc56029dcbfb863efef4d9d8e", null ]
 ];

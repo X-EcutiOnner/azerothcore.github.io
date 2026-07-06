@@ -1,5 +1,6 @@
 var a21285 =
 [
-    [ "npc_mei_francis_mountAI", "d1/d59/a21285.html#aa9886ead02754faebff8b21eeb85dee6", null ],
-    [ "CanBeSeen", "d1/d59/a21285.html#ad5e33495339a0315bc7b01351810157e", null ]
+    [ "HandleEffectPeriodic", "d1/d59/a21285.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "d1/d59/a21285.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "d1/d59/a21285.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

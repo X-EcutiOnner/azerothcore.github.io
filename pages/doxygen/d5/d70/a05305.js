@@ -1,7 +1,9 @@
 var a05305 =
 [
-    [ "GameobjectModelData", "d5/d70/a05305.html#a7d259df5a5541f95e0f548674d023fc8", null ],
-    [ "bound", "d5/d70/a05305.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
-    [ "isWmo", "d5/d70/a05305.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
-    [ "name", "d5/d70/a05305.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
+    [ "MapRayCallback", "d5/d70/a05305.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "d5/d70/a05305.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "d5/d70/a05305.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "d5/d70/a05305.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "d5/d70/a05305.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "d5/d70/a05305.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

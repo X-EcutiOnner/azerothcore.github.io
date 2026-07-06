@@ -1,5 +1,6 @@
 var a27873 =
 [
-    [ "go_table_theka", "dc/d9a/a27873.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "dc/d9a/a27873.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "AreaTrigger_at_area_52_entrance", "dc/d9a/a27873.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "dc/d9a/a27873.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "dc/d9a/a27873.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

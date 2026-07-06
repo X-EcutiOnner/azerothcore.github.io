@@ -1,8 +1,6 @@
 var a25625 =
 [
-    [ "OnRemove", "d7/d6f/a25625.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d7/d6f/a25625.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d7/d6f/a25625.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d7/d6f/a25625.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d7/d6f/a25625.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "OnBaseRemove", "d7/d6f/a25625.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "PrepareAuraScript", "d7/d6f/a25625.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d7/d6f/a25625.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

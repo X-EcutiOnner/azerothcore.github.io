@@ -1,6 +1,8 @@
 var a21501 =
 [
-    [ "HandleScriptEffect", "d8/dc8/a21501.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "d8/dc8/a21501.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "d8/dc8/a21501.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_shandy_dalaranAI", "d5/d71/a21505.html", "d5/d71/a21505" ],
+    [ "npc_shandy_dalaran", "d8/dc8/a21501.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d8/dc8/a21501.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d8/dc8/a21501.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d8/dc8/a21501.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

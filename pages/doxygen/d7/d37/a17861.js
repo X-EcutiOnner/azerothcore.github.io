@@ -1,7 +1,6 @@
 var a17861 =
 [
-    [ "FilterTargets", "d7/d37/a17861.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d7/d37/a17861.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d7/d37/a17861.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d7/d37/a17861.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "boss_festergutAI", "d6/dc1/a17865.html", "d6/dc1/a17865" ],
+    [ "boss_festergut", "d7/d37/a17861.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d7/d37/a17861.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

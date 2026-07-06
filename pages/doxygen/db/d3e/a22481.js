@@ -1,6 +1,8 @@
 var a22481 =
 [
-    [ "PrepareAuraScript", "db/d3e/a22481.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "db/d3e/a22481.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "db/d3e/a22481.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "FilterTargets", "db/d3e/a22481.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "db/d3e/a22481.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "db/d3e/a22481.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "db/d3e/a22481.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "db/d3e/a22481.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

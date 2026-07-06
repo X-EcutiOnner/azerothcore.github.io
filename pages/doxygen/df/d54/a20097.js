@@ -1,8 +1,6 @@
 var a20097 =
 [
-    [ "npc_ulduar_saronite_animus", "df/d54/a20097.html#a991f2e68f4b0430c1ccdf470edb44082", null ],
-    [ "JustDied", "df/d54/a20097.html#a25c8d5d48558d3ce80cdef4545852bc6", null ],
-    [ "UpdateAI", "df/d54/a20097.html#afc7899752e25669b37ab04b50fb2d604", null ],
-    [ "_instance", "df/d54/a20097.html#a6f2bf52c82185365efe88941b7922504", null ],
-    [ "timer", "df/d54/a20097.html#acdc763ba9d1f35dafb87469e33a6b180", null ]
+    [ "FilterTargets", "df/d54/a20097.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "df/d54/a20097.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "df/d54/a20097.html#a4e803984a3eded2736825f631786c204", null ]
 ];

@@ -1,7 +1,6 @@
 var a15265 =
 [
-    [ "HandleScript", "d0/dff/a15265.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d0/dff/a15265.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d0/dff/a15265.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d0/dff/a15265.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "db/dd4/a15269.html", "db/dd4/a15269" ],
+    [ "instance_culling_of_stratholme", "d0/dff/a15265.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "d0/dff/a15265.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

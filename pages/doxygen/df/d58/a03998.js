@@ -1,4 +1,5 @@
 var a03998 =
 [
-    [ "sWorldSocketMgr", "d7/de8/a05037.html#ga43ae464e29649083953e305b20b3e27f", null ]
+    [ "WorldPackets::Totem::TotemDestroyed", "d0/d78/a11593.html", "d0/d78/a11593" ],
+    [ "WorldPackets::Totem::TotemCreated", "d2/def/a11597.html", "d2/def/a11597" ]
 ];

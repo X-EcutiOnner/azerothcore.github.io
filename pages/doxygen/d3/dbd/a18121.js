@@ -1,7 +1,6 @@
 var a18121 =
 [
-    [ "HandleSummon", "d3/dbd/a18121.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d3/dbd/a18121.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d3/dbd/a18121.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d3/dbd/a18121.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_cult_adherentAI", "d0/dbf/a18125.html", "d0/dbf/a18125" ],
+    [ "npc_cult_adherent", "d3/dbd/a18121.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "d3/dbd/a18121.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

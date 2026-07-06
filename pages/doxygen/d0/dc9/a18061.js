@@ -1,7 +1,6 @@
 var a18061 =
 [
-    [ "HandleScript", "d0/dc9/a18061.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d0/dc9/a18061.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d0/dc9/a18061.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d0/dc9/a18061.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "BurningPitchFilterCheck", "d0/dc9/a18061.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d0/dc9/a18061.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d0/dc9/a18061.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

@@ -1,7 +1,6 @@
 var a20193 =
 [
-    [ "HandleAfterEffectApply", "d6/d68/a20193.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d6/d68/a20193.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d6/d68/a20193.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d6/d68/a20193.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "CheckAreaTarget", "d6/d68/a20193.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d6/d68/a20193.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d6/d68/a20193.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

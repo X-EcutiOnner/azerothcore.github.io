@@ -1,6 +1,6 @@
 var a13809 =
 [
-    [ "HandleSendEvent", "d9/d70/a13809.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d9/d70/a13809.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d9/d70/a13809.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "SpectralBlastCheck", "d9/d70/a13809.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d9/d70/a13809.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d9/d70/a13809.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

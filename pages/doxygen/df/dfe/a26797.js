@@ -1,6 +1,6 @@
 var a26797 =
 [
-    [ "PrepareSpellScript", "df/dfe/a26797.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "df/dfe/a26797.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "df/dfe/a26797.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleDummyEffect", "df/dfe/a26797.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "df/dfe/a26797.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "df/dfe/a26797.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

@@ -1,6 +1,4 @@
 var a15425 =
 [
-    [ "OnPeriodic", "d4/d38/a15425.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d4/d38/a15425.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d4/d38/a15425.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "d4/d38/a15425.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
 ];

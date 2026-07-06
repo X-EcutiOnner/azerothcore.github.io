@@ -1,8 +1,9 @@
 var a23869 =
 [
-    [ "npc_kservantAI", "d5/dbd/a23869.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "d5/dbd/a23869.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "d5/dbd/a23869.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "d5/dbd/a23869.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
-    [ "WaypointReached", "d5/dbd/a23869.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "npc_fel_guard_houndAI", "d5/dbd/a23869.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d5/dbd/a23869.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d5/dbd/a23869.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d5/dbd/a23869.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d5/dbd/a23869.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d5/dbd/a23869.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

@@ -1,4 +1,8 @@
 var a08325 =
 [
-    [ "Name", "dc/df3/a08325.html#a624a1c1204cbc15acfc810a7720b8ea0", null ]
+    [ "cancelTime", "dc/df3/a08325.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "dc/df3/a08325.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "dc/df3/a08325.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "dc/df3/a08325.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "dc/df3/a08325.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

@@ -1,6 +1,8 @@
 var a21749 =
 [
-    [ "npc_blessed_bannerAI", "d7/dfc/a21753.html", "d7/dfc/a21753" ],
-    [ "npc_blessed_banner", "d0/da2/a21749.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d0/da2/a21749.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "npc_ravenous_worgAI", "d0/da2/a21749.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d0/da2/a21749.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d0/da2/a21749.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d0/da2/a21749.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d0/da2/a21749.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

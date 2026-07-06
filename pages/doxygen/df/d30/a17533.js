@@ -1,7 +1,6 @@
 var a17533 =
 [
-    [ "HandleDummyTick", "df/d30/a17533.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "df/d30/a17533.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "df/d30/a17533.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "df/d30/a17533.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "boss_drakkari_elementalAI", "dc/d29/a17537.html", "dc/d29/a17537" ],
+    [ "boss_drakkari_elemental", "df/d30/a17533.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "df/d30/a17533.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

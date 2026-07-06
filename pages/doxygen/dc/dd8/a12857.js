@@ -1,9 +1,10 @@
 var a12857 =
 [
-    [ "npc_mc_core_hound", "dc/dd8/a12857.html#a4768b06f344d6bbf7e3d0cef16e1b75d", null ],
-    [ "DamageTaken", "dc/dd8/a12857.html#a1b9cd2776b1a3f363915fc91e1e34414", null ],
-    [ "Reset", "dc/dd8/a12857.html#ab2bfa697f694b5b35129b361e171e2a4", null ],
-    [ "UpdateAI", "dc/dd8/a12857.html#a9c5081e9c622eb0679cd396caed002b9", null ],
-    [ "instance", "dc/dd8/a12857.html#a54da081c07184ebd5eed1ffe9a1dd8ee", null ],
-    [ "serratedBiteTimer", "dc/dd8/a12857.html#afbe528a9f7d2afc6d33bf11f589d9dea", null ]
+    [ "npc_corrupted_totem", "dc/dd8/a12857.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "dc/dd8/a12857.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "dc/dd8/a12857.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "dc/dd8/a12857.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "dc/dd8/a12857.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "dc/dd8/a12857.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "dc/dd8/a12857.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

@@ -1,7 +1,7 @@
 var a28873 =
 [
-    [ "EpicPropertiesPoints", "dd/df7/a28873.html#a35dc60a15091357e03032226621340f7", null ],
-    [ "itemLevel", "dd/df7/a28873.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
-    [ "RarePropertiesPoints", "dd/df7/a28873.html#a9359171635ef3e9a0029820fad286368", null ],
-    [ "UncommonPropertiesPoints", "dd/df7/a28873.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
+    [ "Displayid", "dd/df7/a28873.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "dd/df7/a28873.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "dd/df7/a28873.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "dd/df7/a28873.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

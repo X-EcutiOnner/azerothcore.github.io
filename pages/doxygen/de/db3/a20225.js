@@ -1,5 +1,5 @@
 var a20225 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "de/db3/a20225.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "de/db3/a20225.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "achievement_flame_leviathan_unbroken", "de/db3/a20225.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "de/db3/a20225.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

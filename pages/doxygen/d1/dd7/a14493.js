@@ -1,6 +1,10 @@
 var a14493 =
 [
-    [ "HandleAfterHit", "d1/dd7/a14493.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d1/dd7/a14493.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d1/dd7/a14493.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "npc_batrider", "d1/dd7/a14493.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d1/dd7/a14493.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d1/dd7/a14493.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d1/dd7/a14493.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d1/dd7/a14493.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d1/dd7/a14493.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d1/dd7/a14493.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

@@ -1,7 +1,5 @@
 var a27801 =
 [
-    [ "go_pirate_day_musicAI", "d2/dc4/a27801.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d2/dc4/a27801.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d2/dc4/a27801.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d2/dc4/a27801.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "achievement_bg_av_perfection", "d2/dc4/a27801.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "d2/dc4/a27801.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

@@ -1,9 +1,9 @@
 var a12305 =
 [
-    [ "pool_commandscript", "dd/ded/a12305.html#a41308abbe25e1e50325923f62f2fa3af", null ],
-    [ "GetCommands", "dd/ded/a12305.html#a973b565473bd8f9ef5cfd61740d114b4", null ],
-    [ "HandlePoolInfoCommand", "dd/ded/a12305.html#aac45a4a6c51a92aa03acde1789e1a039", null ],
-    [ "HandlePoolLookupCommand", "dd/ded/a12305.html#a377a405a1dae394c6f17579c0f2751eb", null ],
-    [ "ListPoolMembers", "dd/ded/a12305.html#a5bdc763ea21fe5c6b98d19b33d7dc570", null ],
-    [ "StatusTag", "dd/ded/a12305.html#ad72421c1425d9a8cd4809b372d2c1e5b", null ]
+    [ "autobroadcast_commandscript", "dd/ded/a12305.html#a00946e483860809c8b1d92e773c8eeef", null ],
+    [ "GetCommands", "dd/ded/a12305.html#a01d7689785a4267ac4bd57bfc0d269e9", null ],
+    [ "HandleAutobroadcastAddCommand", "dd/ded/a12305.html#a4217bea8d83682acbdd64a225c839227", null ],
+    [ "HandleAutobroadcastListCommand", "dd/ded/a12305.html#a0e4a07fd036d66fc5639a8e29fd45392", null ],
+    [ "HandleAutobroadcastLocaleCommand", "dd/ded/a12305.html#aaebf528b045b05b038d2a3f8801d3c85", null ],
+    [ "HandleAutobroadcastRemoveCommand", "dd/ded/a12305.html#af6445843506ac2b4c2b5c158480aab8c", null ]
 ];

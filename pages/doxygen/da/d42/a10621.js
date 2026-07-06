@@ -1,7 +1,10 @@
 var a10621 =
 [
-    [ "DatabaseScript", "da/d42/a10621.html#aab34b85df1a5ccdf17fede64baca4994", null ],
-    [ "IsDatabaseBound", "da/d42/a10621.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "da/d42/a10621.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "da/d42/a10621.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "AchievementScript", "da/d42/a10621.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "da/d42/a10621.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "da/d42/a10621.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "da/d42/a10621.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "da/d42/a10621.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "da/d42/a10621.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "da/d42/a10621.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

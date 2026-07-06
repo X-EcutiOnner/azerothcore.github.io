@@ -1,6 +1,6 @@
 var a18989 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d6/d3f/a18993.html", "d6/d3f/a18993" ],
-    [ "npc_icc_skybreaker_luminary", "db/dbf/a18989.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "db/dbf/a18989.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_crok_scourgebaneAI", "d6/d3f/a18993.html", "d6/d3f/a18993" ],
+    [ "npc_crok_scourgebane", "db/dbf/a18989.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "db/dbf/a18989.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

@@ -1,10 +1,9 @@
 var a26405 =
 [
-    [ "spell_pal_improved_aura", "d6/d3a/a26405.html#a4bc4b78ce3aab5ba4b5e6a009910cf7c", null ],
-    [ "HandleEffectApply", "d6/d3a/a26405.html#a441952100c103ccdf84c58827669faac", null ],
-    [ "HandleEffectRemove", "d6/d3a/a26405.html#aad7c1d2b5722523e119ff7dbe27ceb30", null ],
-    [ "PrepareAuraScript", "d6/d3a/a26405.html#a4b35f298000b2a6cc530644018d4d7e4", null ],
-    [ "Register", "d6/d3a/a26405.html#a148b20ba206ba69d2dcd84abbf7d17af", null ],
-    [ "Validate", "d6/d3a/a26405.html#aa5450660ba559f31a815f4f2a4452fbc", null ],
-    [ "_spellId", "d6/d3a/a26405.html#a9b7b9b73a0e6cacc917aedebdf789901", null ]
+    [ "AllowT10Proc", "d6/d3a/a26405.html#a0d058542d9175f0ad2a3110f05e4f7c4", null ],
+    [ "OnRemove", "d6/d3a/a26405.html#a52807f94eba44a9b574577a0b27acb22", null ],
+    [ "PrepareAuraScript", "d6/d3a/a26405.html#a430303b7df445d38da9316324359c2d6", null ],
+    [ "Register", "d6/d3a/a26405.html#aa2f2d9175c4429f5743ad6cc54b1634a", null ],
+    [ "Validate", "d6/d3a/a26405.html#aabfc9dd5bd171c0b4d2166c8d671e6cf", null ],
+    [ "_canProcT10", "d6/d3a/a26405.html#a26d723ef58e5df2852ce0ef20e1c1bdf", null ]
 ];

@@ -1,6 +1,7 @@
 var a21217 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d4/df4/a21221.html", "d4/df4/a21221" ],
-    [ "npc_valiance_keep_cannoneer", "d7/d75/a21217.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d7/d75/a21217.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "PrepareAuraScript", "d7/d75/a21217.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "d7/d75/a21217.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "d7/d75/a21217.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "d7/d75/a21217.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

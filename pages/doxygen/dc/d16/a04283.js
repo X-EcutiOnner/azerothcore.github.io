@@ -1,10 +1,9 @@
 var a04283 =
 [
-    [ "MySQLConnectionInfo", "d3/ddd/a06063.html", "d3/ddd/a06063" ],
-    [ "MySQLConnection", "d7/d20/a06067.html", "d7/d20/a06067" ],
-    [ "ConnectionFlags", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "dc/d16/a04283.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
-    ] ]
+    [ "MySQLHandle", "da/d8b/a06093.html", null ],
+    [ "MySQLResult", "de/da7/a06097.html", null ],
+    [ "MySQLField", "df/d5e/a06101.html", null ],
+    [ "MySQLBind", "d2/d0c/a06105.html", null ],
+    [ "MySQLStmt", "d9/d39/a06109.html", null ],
+    [ "MySQLBool", "dc/d16/a04283.html#a9962b927652e90357369e67230dbc127", null ]
 ];

@@ -1,7 +1,9 @@
 var a17901 =
 [
-    [ "DamageGunship", "d3/df0/a17901.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "d3/df0/a17901.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "d3/df0/a17901.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "d3/df0/a17901.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "BattleExperienceEvent", "d3/df0/a17901.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d3/df0/a17901.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d3/df0/a17901.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d3/df0/a17901.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d3/df0/a17901.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d3/df0/a17901.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

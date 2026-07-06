@@ -1,7 +1,6 @@
 var a13685 =
 [
-    [ "HandleSchoolDamage", "d5/d96/a13685.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d5/d96/a13685.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d5/d96/a13685.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d5/d96/a13685.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d9/d6f/a13689.html", "d9/d6f/a13689" ],
+    [ "instance_sunken_temple", "d5/d96/a13685.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d5/d96/a13685.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

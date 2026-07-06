@@ -1,7 +1,8 @@
 var a09645 =
 [
-    [ "AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck", "d7/ddf/a09645.html#a038f512c564e4ae18571ac1836897edb", null ],
-    [ "operator()", "d7/ddf/a09645.html#a3bc09bf6fc4481c67190f57dc4198f6e", null ],
-    [ "i_funit", "d7/ddf/a09645.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6", null ],
-    [ "i_range", "d7/ddf/a09645.html#a953943e53e25b6887bfab8cc1c19620a", null ]
+    [ "CreatureWorker", "d7/ddf/a09645.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "d7/ddf/a09645.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "d7/ddf/a09645.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "d7/ddf/a09645.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "d7/ddf/a09645.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

@@ -1,6 +1,8 @@
 var a10189 =
 [
-    [ "SplineRawInitializer", "dc/d33/a10189.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "dc/d33/a10189.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "dc/d33/a10189.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "PositionFullTerrainStatus", "dc/d33/a10189.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "dc/d33/a10189.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "dc/d33/a10189.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "dc/d33/a10189.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "dc/d33/a10189.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

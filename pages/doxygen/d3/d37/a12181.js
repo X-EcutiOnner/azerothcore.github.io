@@ -1,8 +1,6 @@
 var a12181 =
 [
-    [ "CreatureCountWorker", "d3/d37/a12181.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d3/d37/a12181.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d3/d37/a12181.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d3/d37/a12181.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d3/d37/a12181.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "Command", "d3/d37/a12181.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
+    [ "Data", "d3/d37/a12181.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
+    [ "DataSize", "d3/d37/a12181.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
 ];

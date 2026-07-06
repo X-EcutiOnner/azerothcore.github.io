@@ -1,10 +1,8 @@
 var a23341 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d2/de7/a23341.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d2/de7/a23341.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d2/de7/a23341.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d2/de7/a23341.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d2/de7/a23341.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d2/de7/a23341.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d2/de7/a23341.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "d2/de7/a23341.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "d2/de7/a23341.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "d2/de7/a23341.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "d2/de7/a23341.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "d2/de7/a23341.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

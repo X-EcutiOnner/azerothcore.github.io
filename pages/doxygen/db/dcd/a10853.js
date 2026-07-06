@@ -1,5 +1,5 @@
 var a10853 =
 [
-    [ "PlayerLogout", "db/dcd/a10853.html#afacee5b02c2adc4bec608b6f280fbcf1", null ],
-    [ "Read", "db/dcd/a10853.html#accbe1ced6a10ea2fa699df5e74575795", null ]
+    [ "UpdatableScript", "db/dcd/a10853.html#a2d6cf85d1eb98438b5022804296eff11", null ],
+    [ "OnUpdate", "db/dcd/a10853.html#abf328325e08aa0d6adf36e6f70b02328", null ]
 ];

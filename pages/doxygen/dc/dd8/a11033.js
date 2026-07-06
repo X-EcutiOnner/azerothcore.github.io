@@ -1,8 +1,6 @@
 var a11033 =
 [
-    [ "GuildBankQueryTab", "dc/dd8/a11033.html#a29fc27016b597f051898db7bb30214c8", null ],
-    [ "Read", "dc/dd8/a11033.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
-    [ "Banker", "dc/dd8/a11033.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
-    [ "FullUpdate", "dc/dd8/a11033.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
-    [ "Tab", "dc/dd8/a11033.html#a949488c1696f92cb0a081cf28bffb48f", null ]
+    [ "GuildInviteByName", "dc/dd8/a11033.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "dc/dd8/a11033.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "dc/dd8/a11033.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

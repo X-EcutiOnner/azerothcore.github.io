@@ -1,9 +1,11 @@
 var a13597 =
 [
-    [ "npc_demonic_vapor_trail", "d6/deb/a13597.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "d6/deb/a13597.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "d6/deb/a13597.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "d6/deb/a13597.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "d6/deb/a13597.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "d6/deb/a13597.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "npc_scholomance_occultistAI", "d6/deb/a13597.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d6/deb/a13597.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d6/deb/a13597.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d6/deb/a13597.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d6/deb/a13597.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d6/deb/a13597.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d6/deb/a13597.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d6/deb/a13597.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

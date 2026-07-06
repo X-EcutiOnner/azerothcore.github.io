@@ -1,8 +1,8 @@
 var a28245 =
 [
-    [ "npc_minion_spawner", "dc/d0c/a28245.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "dc/d0c/a28245.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "dc/d0c/a28245.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "dc/d0c/a28245.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "dc/d0c/a28245.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_nelsonAI", "d7/d74/a28249.html", "d7/d74/a28249" ],
+    [ "npc_nelson", "dc/d0c/a28245.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "dc/d0c/a28245.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "dc/d0c/a28245.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "dc/d0c/a28245.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

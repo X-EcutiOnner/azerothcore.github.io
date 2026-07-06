@@ -1,7 +1,6 @@
 var a23213 =
 [
-    [ "HandleDummyApply", "d9/dac/a23213.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d9/dac/a23213.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d9/dac/a23213.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d9/dac/a23213.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "instance_steam_vault_InstanceMapScript", "dd/d7e/a23217.html", "dd/d7e/a23217" ],
+    [ "instance_steam_vault", "d9/dac/a23213.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d9/dac/a23213.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

@@ -1,8 +1,11 @@
 var a20669 =
 [
-    [ "Absorb", "d0/dba/a20669.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d0/dba/a20669.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d0/dba/a20669.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d0/dba/a20669.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d0/dba/a20669.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "boss_thorim_arena_npcs", "d0/dba/a20669.html#a849567e412254aa8d0d7da33b6b1522f", null ],
+    [ "CanAIAttack", "d0/dba/a20669.html#aa4f90aadf8a9705fea03433195d41ad0", null ],
+    [ "JustEngagedWith", "d0/dba/a20669.html#a2f23cddcf5a0db42ba24730dfbe54976", null ],
+    [ "Reset", "d0/dba/a20669.html#a7b118ec6fa25c0f452419d1f5b4a698f", null ],
+    [ "SelectT", "d0/dba/a20669.html#a3fa38189c886a486aabb39a372834938", null ],
+    [ "UpdateAI", "d0/dba/a20669.html#a6a8489763ca223c749aa71c2da05b3cf", null ],
+    [ "_isCaster", "d0/dba/a20669.html#abfd184437df3983659a9ae21a13638fb", null ],
+    [ "events", "d0/dba/a20669.html#aad99dd6ca7d3595222ce42b5b859e462", null ]
 ];

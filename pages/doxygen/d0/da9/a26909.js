@@ -1,6 +1,5 @@
 var a26909 =
 [
-    [ "DoAfterHit", "d0/da9/a26909.html#a38ede5147a11c41770c4483a70d81e5d", null ],
-    [ "PrepareSpellScript", "d0/da9/a26909.html#abcc738fc154e6be5de168fb23be806f4", null ],
-    [ "Register", "d0/da9/a26909.html#ac81d60d54a87a23bd9481934f5753de0", null ]
+    [ "spell_q11515_fel_siphon_dummy", "d0/da9/a26909.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "d0/da9/a26909.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

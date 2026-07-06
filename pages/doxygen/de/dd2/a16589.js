@@ -1,8 +1,7 @@
 var a16589 =
 [
-    [ "npc_announcer_toc5AI", "d7/db3/a16593.html", "d7/db3/a16593" ],
-    [ "npc_announcer_toc5", "de/dd2/a16589.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "de/dd2/a16589.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "de/dd2/a16589.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "de/dd2/a16589.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "OnApply", "de/dd2/a16589.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "de/dd2/a16589.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "de/dd2/a16589.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "de/dd2/a16589.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

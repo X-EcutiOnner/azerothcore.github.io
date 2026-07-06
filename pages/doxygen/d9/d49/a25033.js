@@ -1,7 +1,6 @@
 var a25033 =
 [
-    [ "HandleDamage", "d9/d49/a25033.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
-    [ "PrepareSpellScript", "d9/d49/a25033.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
-    [ "Register", "d9/d49/a25033.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
-    [ "Validate", "d9/d49/a25033.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
+    [ "HandleScriptEffect", "d9/d49/a25033.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d9/d49/a25033.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d9/d49/a25033.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

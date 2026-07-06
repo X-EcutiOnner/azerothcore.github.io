@@ -1,4 +1,5 @@
 var a04628 =
 [
-    [ "MessageBuffer", "d5/d41/a05803.html", "d5/d41/a05803" ]
+    [ "DataMap", "d7/dfe/a05785.html", "d7/dfe/a05785" ],
+    [ "DataMap::Base", "d8/d30/a05789.html", "d8/d30/a05789" ]
 ];

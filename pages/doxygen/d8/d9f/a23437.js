@@ -1,6 +1,7 @@
 var a23437 =
 [
-    [ "npc_capernian", "d8/d9f/a23437.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d8/d9f/a23437.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d8/d9f/a23437.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "FilterTargets", "d8/d9f/a23437.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d8/d9f/a23437.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d8/d9f/a23437.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d8/d9f/a23437.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

@@ -1,9 +1,8 @@
 var a24145 =
 [
-    [ "Absorb", "d7/d3f/a24145.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "d7/d3f/a24145.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "d7/d3f/a24145.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "d7/d3f/a24145.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "d7/d3f/a24145.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "d7/d3f/a24145.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "go_skull_pile", "d7/d3f/a24145.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d7/d3f/a24145.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d7/d3f/a24145.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d7/d3f/a24145.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d7/d3f/a24145.html#af74fcd75404c0886128401d661067394", null ]
 ];

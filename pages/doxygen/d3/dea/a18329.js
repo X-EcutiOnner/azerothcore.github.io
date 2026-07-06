@@ -1,5 +1,6 @@
 var a18329 =
 [
-    [ "at_sindragosa_lair", "d3/dea/a18329.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d3/dea/a18329.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "boss_rotfaceAI", "d3/d5d/a18333.html", "d3/d5d/a18333" ],
+    [ "boss_rotface", "d3/dea/a18329.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d3/dea/a18329.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

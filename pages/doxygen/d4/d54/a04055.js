@@ -1,36 +1,30 @@
 var a04055 =
 [
-    [ "BfCapturePoint", "dc/d7b/a07499.html", "dc/d7b/a07499" ],
-    [ "BfGraveyard", "d0/d06/a07503.html", "d0/d06/a07503" ],
-    [ "Battlefield", "df/d3b/a07507.html", "df/d3b/a07507" ],
-    [ "GraveyardVect", "d4/d54/a04055.html#a9d81160ef5262b2f7a9dc65170d7f3e5", null ],
-    [ "PlayerTimerMap", "d4/d54/a04055.html#afedbb171b4e4bd0bce549b015440ce95", null ],
-    [ "BattlefieldIDs", "d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187f", [
-      [ "BATTLEFIELD_BATTLEID_WG", "d4/d54/a04055.html#aff53bf428d550c270744c9a188d4187fa38e75e8c40750cb29f0d478d19974010", null ]
+    [ "DisableData", "da/da5/a08245.html", "da/da5/a08245" ],
+    [ "DisableMgr", "de/d72/a08249.html", "de/d72/a08249" ],
+    [ "sDisableMgr", "d4/d54/a04055.html#a1a184d22bd27210ea5af79573927826a", null ],
+    [ "DisableType", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
+      [ "DISABLE_TYPE_SPELL", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],
+      [ "DISABLE_TYPE_QUEST", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca53c0091b82a6fc9bc32393f75af1e49e", null ],
+      [ "DISABLE_TYPE_MAP", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca7401630edc869fdab991560043243d9c", null ],
+      [ "DISABLE_TYPE_BATTLEGROUND", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca9f1b696021b5e159000a608fdfb2e96a", null ],
+      [ "DISABLE_TYPE_ACHIEVEMENT_CRITERIA", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caa8a9feebca9f0cf6b1c70617fc0687d1", null ],
+      [ "DISABLE_TYPE_OUTDOORPVP", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf73f51beb622b9096abd95821ac52296", null ],
+      [ "DISABLE_TYPE_VMAP", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca3aa1423c0ff6356f4e839a98f97a4aff", null ],
+      [ "DISABLE_TYPE_GO_LOS", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64caf195730ac264e79a67da287555f7c11a", null ],
+      [ "DISABLE_TYPE_LFG_MAP", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cae2e40d752bc7848f3d68d28642b4ea68", null ],
+      [ "DISABLE_TYPE_GAME_EVENT", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cad7a3460f1783f4ff25dfd3a6e5416ff0", null ],
+      [ "DISABLE_TYPE_LOOT", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64cac7febee075c9e0d687bd322cd0798f2f", null ],
+      [ "MAX_DISABLE_TYPES", "d4/d54/a04055.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca377f1ee93641f0ea11503063c285bc9f", null ]
     ] ],
-    [ "BattlefieldObjectiveStates", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798", [
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798afafb6299c9f30c2bd0d2caac21577178", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798ac05149e43f48e8fbe687c2cb48a88ac7", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a683078aa231d432a72923b9eff4d5a29", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a47f8021bf59a901b2a512d28cc044c7f", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a28c520f0b5997a10c6e8c040d803a9d5", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798a9c9e1d966e139a18ba54ee2c2fa0bc2b", null ],
-      [ "BF_CAPTUREPOINT_OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d4/d54/a04055.html#af6db5a1d93982b261639cd12634a2798af7b31d0894d6b9bd950d9a48c86da7c4", null ]
-    ] ],
-    [ "BattlefieldSounds", "d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4", [
-      [ "BF_HORDE_WINS", "d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4af85d42c135f0c26853ba8465193e8f3a", null ],
-      [ "BF_ALLIANCE_WINS", "d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4ae1455c543e0df55993ddfe9e73cdc138", null ],
-      [ "BF_START", "d4/d54/a04055.html#a7c3836172413cb3b2cdabeb20b99f1b4a586da22ef0e5767a451125b0ca064007", null ]
-    ] ],
-    [ "BattlefieldTimerGroups", "d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005a", [
-      [ "BATTLEFIELD_TIMER_GROUP_RESURRECT", "d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aa2af7f1dd6b4f9748b1f6b523cb6ac117", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_WAR", "d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac21d9aa508e0c587d18daaf8fbdf7cf2", null ],
-      [ "BATTLEFIELD_TIMER_GROUP_SAVE", "d4/d54/a04055.html#a77a99318a19e388592eb16534ef2005aac940a59178a27dc5a2e77238ca2efd55", null ]
-    ] ],
-    [ "BattlefieldTypes", "d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2d", [
-      [ "BATTLEFIELD_WG", "d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2da1fc74ab91b471d0c59f02fea08cb2efd", null ],
-      [ "BATTLEFIELD_TB", "d4/d54/a04055.html#a6f435417da35c7d1b51c95e516fc6b2daf6a0681946ddb59a6623fb1d76f4f610", null ]
-    ] ],
-    [ "BATTLEFIELD_OBJECTIVE_UPDATE_INTERVAL", "d4/d54/a04055.html#a79df696836c3edc53ca1868aab7f6e76", null ],
-    [ "BattlefieldFactions", "d4/d54/a04055.html#af5e231859535c4e1e6bd27ee42753f63", null ]
+    [ "SpellDisableTypes", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7", [
+      [ "SPELL_DISABLE_PLAYER", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7aad7fc2c20248b5ccc6c7af46c0627a41", null ],
+      [ "SPELL_DISABLE_CREATURE", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7a1af9f400d91b09580b35048cb1ffa707", null ],
+      [ "SPELL_DISABLE_PET", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7a69cb584bf80eea477b207020b21810e4", null ],
+      [ "SPELL_DISABLE_DEPRECATED_SPELL", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7abf8d2121280a5024433b90335617ad2b", null ],
+      [ "SPELL_DISABLE_MAP", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7a814538087543158616640736f8511484", null ],
+      [ "SPELL_DISABLE_AREA", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7af0b7760e1bbbca07ae256ffe853a0268", null ],
+      [ "SPELL_DISABLE_LOS", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7a1a78c3d652ddec71707bf22ec83df437", null ],
+      [ "MAX_SPELL_DISABLE_TYPE", "d4/d54/a04055.html#a7b9e8ca1dcd13802fa528f955deaefd7ac556c5fec4ec5e1fb62f6f2a5904926d", null ]
+    ] ]
 ];

@@ -1,12 +1,7 @@
 var a19941 =
 [
-    [ "npc_freya_ward", "d6/d83/a19941.html#aeb5b3a3495622b05faf41d2ec0a82e3f", null ],
-    [ "DoAction", "d6/d83/a19941.html#ac52ff5e24ff5361808fce4d8d1574ada", null ],
-    [ "JustSummoned", "d6/d83/a19941.html#a71cd4c583a1f33168d12bbe473d0482e", null ],
-    [ "Reset", "d6/d83/a19941.html#a134ff84f2cfa3a00cdd6158da6641369", null ],
-    [ "SummonedCreatureDespawn", "d6/d83/a19941.html#a20fde559565c47f4451581e5d1a61e99", null ],
-    [ "UpdateAI", "d6/d83/a19941.html#a62122abe02ae9351617eb3af9e36e88e", null ],
-    [ "_castTimer", "d6/d83/a19941.html#afe313ebbc5c711183a9e623d8213ae64", null ],
-    [ "_summoned", "d6/d83/a19941.html#aecae1e0f3b84d97cef40023a36dd4254", null ],
-    [ "summons", "d6/d83/a19941.html#abf3d2443c9badc35097b6e5c818f1c88", null ]
+    [ "creature", "d6/d83/a19941.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d6/d83/a19941.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d6/d83/a19941.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d6/d83/a19941.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

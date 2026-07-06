@@ -1,6 +1,7 @@
 var a22653 =
 [
-    [ "HandleScriptEffect", "d1/d72/a22653.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d1/d72/a22653.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d1/d72/a22653.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "boss_lady_malande", "d1/d72/a22653.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d1/d72/a22653.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d1/d72/a22653.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d1/d72/a22653.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

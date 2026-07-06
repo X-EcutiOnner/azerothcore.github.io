@@ -1,6 +1,6 @@
 var a13993 =
 [
-    [ "npc_highborne_lamenterAI", "d4/d33/a13997.html", "d4/d33/a13997" ],
-    [ "npc_highborne_lamenter", "d0/d0e/a13993.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "d0/d0e/a13993.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_professor_phizzlethorpeAI", "d4/d33/a13997.html", "d4/d33/a13997" ],
+    [ "npc_professor_phizzlethorpe", "d0/d0e/a13993.html#a8d32b4a107533c81033c617b0b97027d", null ],
+    [ "GetAI", "d0/d0e/a13993.html#a5eb540d16b2dd123d553ea4ae24d8b53", null ]
 ];

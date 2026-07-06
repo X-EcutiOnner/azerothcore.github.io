@@ -1,9 +1,7 @@
 var a24405 =
 [
-    [ "Absorb", "db/da5/a24405.html#af7df70d0bd68d12032b5b57faa789a87", null ],
-    [ "CalculateAmount", "db/da5/a24405.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
-    [ "Load", "db/da5/a24405.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
-    [ "PrepareAuraScript", "db/da5/a24405.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
-    [ "Register", "db/da5/a24405.html#ac7316995b7682a6fafe47ff2547956b0", null ],
-    [ "absorbPct", "db/da5/a24405.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
+    [ "HandleDummy", "db/da5/a24405.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
+    [ "PrepareSpellScript", "db/da5/a24405.html#a2fe4b009fa3741c180e18730af5853e3", null ],
+    [ "Register", "db/da5/a24405.html#a762c2320ab8d48e1284d81962a4b078f", null ],
+    [ "Validate", "db/da5/a24405.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
 ];

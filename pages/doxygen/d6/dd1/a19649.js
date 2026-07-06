@@ -1,7 +1,6 @@
 var a19649 =
 [
-    [ "HandleOnEffectApply", "d6/dd1/a19649.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "d6/dd1/a19649.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "d6/dd1/a19649.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "d6/dd1/a19649.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "HandleScript", "d6/dd1/a19649.html#aaa7bd24d0b1245e0c2b04c21fa4ef85c", null ],
+    [ "PrepareSpellScript", "d6/dd1/a19649.html#ad1eae4d206e9e9e48230f60a2961fddb", null ],
+    [ "Register", "d6/dd1/a19649.html#ae6685e7fd80373f2fc9a37cd4065f8b6", null ]
 ];

@@ -1,8 +1,6 @@
 var a02861 =
 [
-    [ "CorpseUpdateFieldFlags", "de/d09/a02861.html#a4ba9132e74378f888b4724dbbaf147f3", null ],
-    [ "DynamicObjectUpdateFieldFlags", "de/d09/a02861.html#aefe3be44e608ab4935e11ea44f8e0ce6", null ],
-    [ "GameObjectUpdateFieldFlags", "de/d09/a02861.html#aee13b862f51557c371d3d93341128895", null ],
-    [ "ItemUpdateFieldFlags", "de/d09/a02861.html#ac1cca7ecf1650663132e3e220d771adf", null ],
-    [ "UnitUpdateFieldFlags", "de/d09/a02861.html#a310c5b2e3065e40ce04fe5ccd84fb51b", null ]
+    [ "ObjectVisibilityContainer", "d6/db6/a08821.html", "d6/db6/a08821" ],
+    [ "VisiblePlayersMap", "de/d09/a02861.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "de/d09/a02861.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

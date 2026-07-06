@@ -1,9 +1,8 @@
 var a20741 =
 [
-    [ "npc_ulduar_keeperAI", "d7/d2e/a20741.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d7/d2e/a20741.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d7/d2e/a20741.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d7/d2e/a20741.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d7/d2e/a20741.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d7/d2e/a20741.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "npc_xt_toy_pile", "d7/d2e/a20741.html#a843e7d05cf62baa5c006077f8dad107d", null ],
+    [ "SpellHit", "d7/d2e/a20741.html#a82af3830eaf524c587334e8eb193925f", null ],
+    [ "_lastSummonTime", "d7/d2e/a20741.html#aaa8e3581f39206c30f1b7de9a81f1387", null ],
+    [ "SummonCooldown", "d7/d2e/a20741.html#ab0924af7ecfd54f1744b11af76ca2834", null ],
+    [ "SummonDistance", "d7/d2e/a20741.html#a3adcb7a8f6ad7b515719794e0ddca964", null ]
 ];

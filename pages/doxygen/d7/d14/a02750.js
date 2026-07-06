@@ -1,6 +1,9 @@
 var a02750 =
 [
-    [ "GenerateEnchSuffixFactor", "d7/d14/a02750.html#a25026e783b088b45eebd4db8295b1b87", null ],
-    [ "GetItemEnchantMod", "d7/d14/a02750.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
-    [ "LoadRandomEnchantmentsTable", "d7/d14/a02750.html#a376fabf7bba54eaf928217f860f1c33b", null ]
+    [ "PetSpell", "d1/df1/a08857.html", "d1/df1/a08857" ],
+    [ "Pet", "d2/d86/a08861.html", "d2/d86/a08861" ],
+    [ "AutoSpellList", "d7/d14/a02750.html#a85baf40bd776b1c20b66ba7ad78e0356", null ],
+    [ "PetSpellMap", "d7/d14/a02750.html#a5b33058abef8c309621a9029df331c0e", null ],
+    [ "HAPPINESS_LEVEL_SIZE", "d7/d14/a02750.html#a892e58d225a828ccac38c7d241365e30", null ],
+    [ "PET_LOSE_HAPPINES_INTERVAL", "d7/d14/a02750.html#aa23de8f28ae915637ac3f4f6429b59fb", null ]
 ];

@@ -1,8 +1,9 @@
 var a20657 =
 [
-    [ "FilterTargets", "d7/db7/a20657.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d7/db7/a20657.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d7/db7/a20657.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d7/db7/a20657.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d7/db7/a20657.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_thorim_gauntlet_npcs", "d7/db7/a20657.html#a72ed22f7536d488f886fb42ab3fc84bb", null ],
+    [ "JustEngagedWith", "d7/db7/a20657.html#af10a444bada5743c837a9979726c79c9", null ],
+    [ "Reset", "d7/db7/a20657.html#a22fcffcc05f155524cadade389ec3607", null ],
+    [ "UpdateAI", "d7/db7/a20657.html#a86cec45bbbb8e904200ee0bcc6e44822", null ],
+    [ "_isCaster", "d7/db7/a20657.html#a1562e3ba5a7559f6eba9c3a0240a1e20", null ],
+    [ "events", "d7/db7/a20657.html#aec35e2b91841c386f083681673e15598", null ]
 ];

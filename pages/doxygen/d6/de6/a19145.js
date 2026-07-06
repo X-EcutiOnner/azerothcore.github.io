@@ -1,7 +1,6 @@
 var a19145 =
 [
-    [ "HandleTriggerSpell", "d6/de6/a19145.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d6/de6/a19145.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d6/de6/a19145.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d6/de6/a19145.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d5/de0/a19149.html", "d5/de0/a19149" ],
+    [ "npc_icc_skybreaker_hierophant", "d6/de6/a19145.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
+    [ "GetAI", "d6/de6/a19145.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
 ];

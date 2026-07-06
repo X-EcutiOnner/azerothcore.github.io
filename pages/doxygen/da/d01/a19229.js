@@ -1,6 +1,6 @@
 var a19229 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d1/d01/a19233.html", "d1/d01/a19233" ],
-    [ "boss_grobbulus_poison_cloud", "da/d01/a19229.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
-    [ "GetAI", "da/d01/a19229.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
+    [ "npc_icc_putricades_trapAI", "d1/d01/a19233.html", "d1/d01/a19233" ],
+    [ "npc_icc_putricades_trap", "da/d01/a19229.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "da/d01/a19229.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

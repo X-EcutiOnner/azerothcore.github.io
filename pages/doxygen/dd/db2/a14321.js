@@ -1,9 +1,7 @@
 var a14321 =
 [
-    [ "boss_jindo", "dd/db2/a14321.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "dd/db2/a14321.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "dd/db2/a14321.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "dd/db2/a14321.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "dd/db2/a14321.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "dd/db2/a14321.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "spell", "dd/db2/a14321.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "dd/db2/a14321.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "dd/db2/a14321.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "dd/db2/a14321.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

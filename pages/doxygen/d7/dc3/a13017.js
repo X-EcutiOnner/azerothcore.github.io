@@ -1,6 +1,6 @@
 var a13017 =
 [
-    [ "npc_sanguine_spirit", "d7/dc3/a13017.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "d7/dc3/a13017.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "d7/dc3/a13017.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "boss_sulfuron", "d7/dc3/a13017.html#a7ede84fab05e5cb008036be559c3c799", null ],
+    [ "ExecuteEvent", "d7/dc3/a13017.html#a5db50a398c704d8276566c1d74111d19", null ],
+    [ "JustEngagedWith", "d7/dc3/a13017.html#a320f58043ee525656a7c2fe94a2a4371", null ]
 ];

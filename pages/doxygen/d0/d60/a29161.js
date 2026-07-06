@@ -1,6 +1,10 @@
 var a29161 =
 [
-    [ "lastExtraAttackSpell", "d0/d60/a29161.html#a0b7c47a0c1a328703648936a1da3245f", null ],
-    [ "triggeredSpellHasExtraAttacks", "d0/d60/a29161.html#ad58a8f2f91c6a32371feab14e51e8e29", null ],
-    [ "triggerSpellId", "d0/d60/a29161.html#a01a4d76e7e2bf15a3ae06926fa1189c9", null ]
+    [ "attackSpeed", "d0/d60/a29161.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d0/d60/a29161.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d0/d60/a29161.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d0/d60/a29161.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d0/d60/a29161.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d0/d60/a29161.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d0/d60/a29161.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

@@ -1,10 +1,8 @@
 var a05641 =
 [
-    [ "Category", "d5/d81/a05641.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d5/d81/a05641.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d5/d81/a05641.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d5/d81/a05641.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d5/d81/a05641.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d5/d81/a05641.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d5/d81/a05641.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Decode", "d5/d81/a05641.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "d5/d81/a05641.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "d5/d81/a05641.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "d5/d81/a05641.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "d5/d81/a05641.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

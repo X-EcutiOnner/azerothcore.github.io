@@ -1,7 +1,8 @@
 var a20709 =
 [
-    [ "HandleProc", "d7/d97/a20709.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d7/d97/a20709.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d7/d97/a20709.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d7/d97/a20709.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_pummeller", "d7/d97/a20709.html#a0c67bf3781fde8d4580aad093bf87291", null ],
+    [ "Reset", "d7/d97/a20709.html#abdb3f0984c03780aee9dd55496fc7835", null ],
+    [ "UpdateAI", "d7/d97/a20709.html#a9d61c35dc7f86314c6beb581539fd55d", null ],
+    [ "_instance", "d7/d97/a20709.html#a12df7fb27b7bd54d0bf60c3e5faee037", null ],
+    [ "_scheduler", "d7/d97/a20709.html#abc1ba4d0e95d33fe42af1014c2e8448f", null ]
 ];

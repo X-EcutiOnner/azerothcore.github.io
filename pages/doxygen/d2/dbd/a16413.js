@@ -1,7 +1,7 @@
 var a16413 =
 [
-    [ "OnApply", "d2/dbd/a16413.html#ad072d243dd148e1b34aea29a2e5d175e", null ],
-    [ "PrepareAuraScript", "d2/dbd/a16413.html#ae657ceca517aa3f725ba72c18ddbaf1c", null ],
-    [ "Register", "d2/dbd/a16413.html#a4eab0bd70eb884f7736e90f9001d3cc7", null ],
-    [ "Validate", "d2/dbd/a16413.html#a2c9e4d82bd25f439e01a05700563b122", null ]
+    [ "HandleScriptEffect", "d2/dbd/a16413.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d2/dbd/a16413.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d2/dbd/a16413.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d2/dbd/a16413.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

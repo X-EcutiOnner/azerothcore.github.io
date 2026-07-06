@@ -1,8 +1,12 @@
 var a14257 =
 [
-    [ "boss_grilekAI", "dc/dc1/a14257.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "dc/dc1/a14257.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "dc/dc1/a14257.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "dc/dc1/a14257.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "dc/dc1/a14257.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/dc1/a14257.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
+    [ "AttackedBy", "dc/dc1/a14257.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
+    [ "DamageTaken", "dc/dc1/a14257.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
+    [ "JustEngagedWith", "dc/dc1/a14257.html#a544b8eaee365217a4a735ed39b4607b2", null ],
+    [ "JustSummoned", "dc/dc1/a14257.html#ae468305fbe930baf0a1547f2e6de9953", null ],
+    [ "Reset", "dc/dc1/a14257.html#a5aeaa5511584d1095639e7df584019c5", null ],
+    [ "WaypointReached", "dc/dc1/a14257.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
+    [ "WaypointReached", "dc/dc1/a14257.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IsFriendSummoned", "dc/dc1/a14257.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
 ];

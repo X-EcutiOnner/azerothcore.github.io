@@ -1,7 +1,8 @@
 var a10173 =
 [
-    [ "LFGUpdateRequest", "d8/d41/a10173.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d8/d41/a10173.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d8/d41/a10173.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d8/d41/a10173.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "BoundaryUnionBoundary", "d8/d41/a10173.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d8/d41/a10173.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d8/d41/a10173.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d8/d41/a10173.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d8/d41/a10173.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

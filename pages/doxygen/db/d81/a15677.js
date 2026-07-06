@@ -1,7 +1,7 @@
 var a15677 =
 [
-    [ "npc_prospector_remtravelAI", "d9/da7/a15681.html", "d9/da7/a15681" ],
-    [ "npc_prospector_remtravel", "db/d81/a15677.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "db/d81/a15677.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "db/d81/a15677.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "FilterTargets", "db/d81/a15677.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "db/d81/a15677.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "db/d81/a15677.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "db/d81/a15677.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

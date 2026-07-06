@@ -1,6 +1,10 @@
 var a11805 =
 [
-    [ "CheckCastHandler", "de/dc1/a11805.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "de/dc1/a11805.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "de/dc1/a11805.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "TriggeredByAuraSpellData", "de/dc1/a11805.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
+    [ "Init", "de/dc1/a11805.html#a782e0056967e006748318af3112c0e43", null ],
+    [ "operator bool", "de/dc1/a11805.html#a85d4782b76b060c172aaa6f914d400da", null ],
+    [ "operator!", "de/dc1/a11805.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
+    [ "effectIndex", "de/dc1/a11805.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
+    [ "spellInfo", "de/dc1/a11805.html#af58f62fb168e9da7011f7b570f08e977", null ],
+    [ "tickNumber", "de/dc1/a11805.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
 ];

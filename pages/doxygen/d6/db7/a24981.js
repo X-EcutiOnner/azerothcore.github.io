@@ -1,5 +1,7 @@
 var a24981 =
 [
-    [ "PrepareSpellScript", "d6/db7/a24981.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "d6/db7/a24981.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "HandleEffectPeriodic", "d6/db7/a24981.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d6/db7/a24981.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d6/db7/a24981.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d6/db7/a24981.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

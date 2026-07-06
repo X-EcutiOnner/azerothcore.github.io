@@ -1,6 +1,14 @@
 var a11801 =
 [
-    [ "CastHandler", "de/df8/a11801.html#aad22cf4791a20b9cb6704712ec3d9339", null ],
-    [ "Call", "de/df8/a11801.html#afdbd455bd010bd93e84c334fe3987bf1", null ],
-    [ "pCastHandlerScript", "de/df8/a11801.html#a091c494c18bc81968a386bc5f2565905", null ]
+    [ "alive", "de/df8/a11801.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
+    [ "crit", "de/df8/a11801.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
+    [ "damage", "de/df8/a11801.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
+    [ "damageBeforeTakenMods", "de/df8/a11801.html#a85196e5b5865856962898c18001880c7", null ],
+    [ "effectMask", "de/df8/a11801.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
+    [ "missCondition", "de/df8/a11801.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
+    [ "processed", "de/df8/a11801.html#a2de96d62297ff614fc3702bec035ce5b", null ],
+    [ "reflectResult", "de/df8/a11801.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
+    [ "scaleAura", "de/df8/a11801.html#a89bba366b26686d41288e9b2e725eb75", null ],
+    [ "targetGUID", "de/df8/a11801.html#acf55c1dd6f00c94296c592d988f959cf", null ],
+    [ "timeDelay", "de/df8/a11801.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
 ];

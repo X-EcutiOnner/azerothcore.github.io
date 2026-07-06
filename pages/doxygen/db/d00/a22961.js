@@ -1,6 +1,6 @@
 var a22961 =
 [
-    [ "boss_rokmar_the_crackler", "db/d00/a22961.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "db/d00/a22961.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "db/d00/a22961.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "OnPeriodic", "db/d00/a22961.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "db/d00/a22961.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "db/d00/a22961.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

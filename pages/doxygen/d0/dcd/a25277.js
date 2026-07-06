@@ -1,6 +1,5 @@
 var a25277 =
 [
-    [ "HandleStackDrop", "d0/dcd/a25277.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
-    [ "PrepareAuraScript", "d0/dcd/a25277.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
-    [ "Register", "d0/dcd/a25277.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
+    [ "PrepareSpellScript", "d0/dcd/a25277.html#a5e100554f868649d4edea011fe767b8b", null ],
+    [ "Register", "d0/dcd/a25277.html#a0ffb1cb313060770227621edb16c3a0d", null ]
 ];

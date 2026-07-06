@@ -1,7 +1,12 @@
 var a13337 =
 [
-    [ "OnApply", "d2/d8e/a13337.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d2/d8e/a13337.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d2/d8e/a13337.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d2/d8e/a13337.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "boss_felblood_kaelthas", "d2/d8e/a13337.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
+    [ "DamageTaken", "d2/d8e/a13337.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
+    [ "DoAction", "d2/d8e/a13337.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
+    [ "GravityLapseSequence", "d2/d8e/a13337.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
+    [ "JustDied", "d2/d8e/a13337.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
+    [ "JustEngagedWith", "d2/d8e/a13337.html#a1d8806d7813d11aa61e043e420852218", null ],
+    [ "LapseAction", "d2/d8e/a13337.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
+    [ "Reset", "d2/d8e/a13337.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
+    [ "_gravityLapseCounter", "d2/d8e/a13337.html#ab4e884a341fa25a555c160f6978861fc", null ]
 ];

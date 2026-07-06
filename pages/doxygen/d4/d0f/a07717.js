@@ -1,10 +1,12 @@
 var a07717 =
 [
-    [ "BattlegroundNA", "d4/d0f/a07717.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d4/d0f/a07717.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d4/d0f/a07717.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d4/d0f/a07717.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d4/d0f/a07717.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d4/d0f/a07717.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d4/d0f/a07717.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "NodeId", "d4/d0f/a07717.html#a039c468fa0b6110809f0617496c0146c", null ],
+    [ "TextAllianceAssaulted", "d4/d0f/a07717.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
+    [ "TextAllianceClaims", "d4/d0f/a07717.html#a0671602a29f33e353a8a339540beae18", null ],
+    [ "TextAllianceDefended", "d4/d0f/a07717.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
+    [ "TextAllianceTaken", "d4/d0f/a07717.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
+    [ "TextHordeAssaulted", "d4/d0f/a07717.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
+    [ "TextHordeClaims", "d4/d0f/a07717.html#acddac09017717cf5b2893ab83e1d10c8", null ],
+    [ "TextHordeDefended", "d4/d0f/a07717.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
+    [ "TextHordeTaken", "d4/d0f/a07717.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
 ];

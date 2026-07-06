@@ -1,6 +1,14 @@
 var a22369 =
 [
-    [ "HandleScriptEffect", "de/d43/a22369.html#aa60961c2609184e739dea3be8ba992d5", null ],
-    [ "PrepareSpellScript", "de/d43/a22369.html#aacde592314399112786b024153389024", null ],
-    [ "Register", "de/d43/a22369.html#a3a2299da6fd73d14c7771e7a2c8a4ebd", null ]
+    [ "OutdoorPvPNA", "de/d43/a22369.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "de/d43/a22369.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "de/d43/a22369.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "de/d43/a22369.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "de/d43/a22369.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "de/d43/a22369.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "de/d43/a22369.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "de/d43/a22369.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "de/d43/a22369.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "de/d43/a22369.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "de/d43/a22369.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

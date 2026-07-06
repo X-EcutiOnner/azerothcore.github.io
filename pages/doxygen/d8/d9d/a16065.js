@@ -1,13 +1,13 @@
 var a16065 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d8/d9d/a16065.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "d8/d9d/a16065.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "d8/d9d/a16065.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "d8/d9d/a16065.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "d8/d9d/a16065.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "d8/d9d/a16065.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "d8/d9d/a16065.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "d8/d9d/a16065.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "d8/d9d/a16065.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "d8/d9d/a16065.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_aquementasAI", "d8/d9d/a16065.html#aad63986cdb8a65c528af3ccd114d2041", null ],
+    [ "JustEngagedWith", "d8/d9d/a16065.html#a2c12ee9c0bb94a1fcfa23c4279aea72f", null ],
+    [ "Reset", "d8/d9d/a16065.html#af71a196ba667c2a8f05940ec7ec43b5e", null ],
+    [ "SendItem", "d8/d9d/a16065.html#a60bafbd70783411236dcf3d0bfe244de", null ],
+    [ "UpdateAI", "d8/d9d/a16065.html#adc5936d7648e05c98a2cdc9998aa4c6a", null ],
+    [ "AquaJetTimer", "d8/d9d/a16065.html#a8506acc69436af869d1404bd95109e68", null ],
+    [ "FrostShockTimer", "d8/d9d/a16065.html#ad52c62a0fd8de98b194596dbc998c03d", null ],
+    [ "isFriendly", "d8/d9d/a16065.html#a9ac02cfc998bda26a5c531a9f7dbf7c4", null ],
+    [ "SendItemTimer", "d8/d9d/a16065.html#a3a0883b43056b176ef2ae55673adacf3", null ],
+    [ "SwitchFactionTimer", "d8/d9d/a16065.html#a46f64b9883ae30c3f8d677a3b85a8c6f", null ]
 ];

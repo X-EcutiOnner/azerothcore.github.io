@@ -1,6 +1,5 @@
 var a19237 =
 [
-    [ "FilterTargets", "d5/dd2/a19237.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
-    [ "PrepareSpellScript", "d5/dd2/a19237.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
-    [ "Register", "d5/dd2/a19237.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
+    [ "at_icc_gauntlet_event", "d5/dd2/a19237.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "d5/dd2/a19237.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

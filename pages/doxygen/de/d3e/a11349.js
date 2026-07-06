@@ -1,4 +1,7 @@
 var a11349 =
 [
-    [ "Validate", "de/d3e/a11349.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
+    [ "RandomRollClient", "de/d3e/a11349.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "de/d3e/a11349.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "de/d3e/a11349.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "de/d3e/a11349.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

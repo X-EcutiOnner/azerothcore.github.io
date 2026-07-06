@@ -1,7 +1,7 @@
 var a22909 =
 [
-    [ "go_ahune_ice_spear", "d1/d39/a22909.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "d1/d39/a22909.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "d1/d39/a22909.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "d1/d39/a22909.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "HandleScriptEffect", "d1/d39/a22909.html#a0038e566bc5054e4208fd727fcc266fa", null ],
+    [ "PrepareSpellScript", "d1/d39/a22909.html#abb661bacf4cec1f2e15f4aeda2ab991e", null ],
+    [ "Register", "d1/d39/a22909.html#a416b811c2676c598df0ac0e5906a94d3", null ],
+    [ "Validate", "d1/d39/a22909.html#a11e82a2b40dbbd9949a1dda3bd715679", null ]
 ];

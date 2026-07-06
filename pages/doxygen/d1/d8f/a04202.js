@@ -1,27 +1,47 @@
 var a04202 =
 [
-    [ "go_type", "d2/d23/a10503.html", "d2/d23/a10503" ],
-    [ "creature_type", "d3/d87/a10507.html", "d3/d87/a10507" ],
-    [ "OPvPCapturePoint", "d5/db0/a10511.html", "d5/db0/a10511" ],
-    [ "OutdoorPvP", "d7/d2d/a10515.html", "d7/d2d/a10515" ],
-    [ "MAX_OUTDOORPVP_TYPES", "d1/d8f/a04202.html#a61d2d26058751cc92ed3744e7216a061", null ],
-    [ "PlayerSet", "d1/d8f/a04202.html#a080aeb08f4e15904e94076846a03e927", null ],
-    [ "ObjectiveStates", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153a", [
-      [ "OBJECTIVESTATE_NEUTRAL", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aacdbca77e3430d64e7744a243553169b6", null ],
-      [ "OBJECTIVESTATE_ALLIANCE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aa6ba9fe25fdad4f881923232927d51e01", null ],
-      [ "OBJECTIVESTATE_HORDE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aa1c56fbf67a59f2723d09b72a2526e545", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_ALLIANCE_CHALLENGE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aa8a761b613f1cc1791a30f2dd6c09a683", null ],
-      [ "OBJECTIVESTATE_NEUTRAL_HORDE_CHALLENGE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aa2b3829ced9f7338c806056bcbaf4f143", null ],
-      [ "OBJECTIVESTATE_ALLIANCE_HORDE_CHALLENGE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aafec9bd2a292f2ef3dba964bdcbff182b", null ],
-      [ "OBJECTIVESTATE_HORDE_ALLIANCE_CHALLENGE", "d1/d8f/a04202.html#a7908847b61cb33598912d94a2c0d153aa9361cd97baf1e11b2ed70f50c26cdb4a", null ]
+    [ "MailSender", "d1/dd8/a10105.html", "d1/dd8/a10105" ],
+    [ "MailReceiver", "d4/d2e/a10109.html", "d4/d2e/a10109" ],
+    [ "MailDraft", "de/de5/a10113.html", "de/de5/a10113" ],
+    [ "MailItemInfo", "dd/d23/a10117.html", "dd/d23/a10117" ],
+    [ "Mail", "dc/d6b/a10121.html", "dc/d6b/a10121" ],
+    [ "MAIL_BODY_ITEM_TEMPLATE", "d1/d8f/a04202.html#a400524cb6bb97f3dfaa616a2afae05db", null ],
+    [ "MAX_MAIL_ITEMS", "d1/d8f/a04202.html#a92d79b5b2210d828abe28a8834a50770", null ],
+    [ "MailItemInfoVec", "d1/d8f/a04202.html#a5f97bcac5adeb0d52a6360c8aa0d0938", null ],
+    [ "MailCheckMask", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cc", [
+      [ "MAIL_CHECK_MASK_NONE", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca65bb77bc25220e08e3c065ad070b9888", null ],
+      [ "MAIL_CHECK_MASK_READ", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca3b48ed5fecdcd88c0a15e74b0853c03b", null ],
+      [ "MAIL_CHECK_MASK_RETURNED", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a", null ],
+      [ "MAIL_CHECK_MASK_COPIED", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca9170ec2a04d365ca0a6167cad4a2e2fb", null ],
+      [ "MAIL_CHECK_MASK_COD_PAYMENT", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468", null ],
+      [ "MAIL_CHECK_MASK_HAS_BODY", "d1/d8f/a04202.html#a9738cb9d4ddff5f3b2a406f8d9c469cca348c2227a2767173436f2f88dfe37716", null ]
     ] ],
-    [ "OutdoorPvPTypes", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adee", [
-      [ "OUTDOOR_PVP_HP", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeeaec0ceb2120bb05c7b67c96acb5f5c780", null ],
-      [ "OUTDOOR_PVP_NA", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeeade464dddf74821e2cae470176a593811", null ],
-      [ "OUTDOOR_PVP_TF", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeea62e94746420e27ec7bd9c56ea578caab", null ],
-      [ "OUTDOOR_PVP_ZM", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeea835e4d954507eb3cb658b3b0f9d59dfc", null ],
-      [ "OUTDOOR_PVP_SI", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeea30dd8f698b5a13bb149d2aefbb8d8b3e", null ],
-      [ "OUTDOOR_PVP_EP", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeeadb5d1cbc5e091b87603c561df5fb6125", null ],
-      [ "OUTDOOR_PVP_GH", "d1/d8f/a04202.html#a56e7764289940901c2a230103f78adeead76b70163971bf73abcdc457607a60c6", null ]
+    [ "MailMessageType", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302ed", [
+      [ "MAIL_NORMAL", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a", null ],
+      [ "MAIL_AUCTION", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302eda1c6b723dd78af975a7ec8a3562361330", null ],
+      [ "MAIL_CREATURE", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302eda462b01f59d339ec67b080f100e97256c", null ],
+      [ "MAIL_GAMEOBJECT", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302eda4398082ad7546f3811f818835522100d", null ],
+      [ "MAIL_CALENDAR", "d1/d8f/a04202.html#afb83216fd8c410f5d4bdfef0f9b302eda99dc24213703b6afb3639762a349c258", null ]
+    ] ],
+    [ "MailShowFlags", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394", [
+      [ "MAIL_SHOW_UNK0", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394a5d741597d486fff4283ab7bfeaa32ecc", null ],
+      [ "MAIL_SHOW_DELETE", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394a7d87ac4c7be1c9b63837bd39706eba07", null ],
+      [ "MAIL_SHOW_AUCTION", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394ac82b5f53ff29204c00b9479712bfeb72", null ],
+      [ "MAIL_SHOW_UNK2", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394a2fe725e9d54355a13c1322a8d81da6a3", null ],
+      [ "MAIL_SHOW_RETURN", "d1/d8f/a04202.html#a03de18fb5d90aaaa9daa333ddbe2d394a9bfa489acd6be01c57410679c81d5a9e", null ]
+    ] ],
+    [ "MailState", "d1/d8f/a04202.html#a38d587a785c6fa4c4342574233684a20", [
+      [ "MAIL_STATE_UNCHANGED", "d1/d8f/a04202.html#a38d587a785c6fa4c4342574233684a20ae16408762dbf072dd193ffe6b3097047", null ],
+      [ "MAIL_STATE_CHANGED", "d1/d8f/a04202.html#a38d587a785c6fa4c4342574233684a20aac816c9be99273eb826bf89eda08f1bb", null ],
+      [ "MAIL_STATE_DELETED", "d1/d8f/a04202.html#a38d587a785c6fa4c4342574233684a20a3645936325ffbfb6858bcbb312b9072a", null ]
+    ] ],
+    [ "MailStationery", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094", [
+      [ "MAIL_STATIONERY_TEST", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094a08c959967722eb59a73866b06fff4ee1", null ],
+      [ "MAIL_STATIONERY_DEFAULT", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094ab18c50370e3504660676eeab1fed7a68", null ],
+      [ "MAIL_STATIONERY_GM", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541", null ],
+      [ "MAIL_STATIONERY_AUCTION", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094aef86d2a36ec87427177f03b971bf4fcd", null ],
+      [ "MAIL_STATIONERY_VAL", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094acf69185a7c40dad17bf89924f8c89cd5", null ],
+      [ "MAIL_STATIONERY_CHR", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094a3f6ed9e1ee49995d1854786d3ab7b5a0", null ],
+      [ "MAIL_STATIONERY_ORP", "d1/d8f/a04202.html#a97c589393fcefa82854f195693493094aa349afbb838c106b8d4e161b7611583c", null ]
     ] ]
 ];

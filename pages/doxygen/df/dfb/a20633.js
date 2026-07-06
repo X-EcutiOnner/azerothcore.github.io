@@ -1,11 +1,11 @@
 var a20633 =
 [
-    [ "boss_yoggsaron_neltharion", "df/dfb/a20633.html#ac7ef088876e15e5edc94e4bd92b7f39d", null ],
-    [ "NextStep", "df/dfb/a20633.html#ac0824d322b7e5825686e8a5c2dd4ec94", null ],
-    [ "Reset", "df/dfb/a20633.html#ab26d57690c1d2477678dc9759aefeab2", null ],
-    [ "Say", "df/dfb/a20633.html#a79d315f37b0f0beceddcae85dcb8697f", null ],
-    [ "UpdateAI", "df/dfb/a20633.html#a3728f095ee83c3ea9063b1679f1b3dc9", null ],
-    [ "_checkTimer", "df/dfb/a20633.html#a2adcf3f46d4003ae2044eda474e51983", null ],
-    [ "_running", "df/dfb/a20633.html#acd807afae6aa88c2e385765231a56a86", null ],
-    [ "_step", "df/dfb/a20633.html#a4e4265f17cbc8cfc3dbe09dca7af7939", null ]
+    [ "boss_thorim_sif", "df/dfb/a20633.html#a9762a5d386897bcd6d42b3c36d9fc18f", null ],
+    [ "AttackStart", "df/dfb/a20633.html#a3da2809c4e7aa0c051647be354ade759", null ],
+    [ "DoAction", "df/dfb/a20633.html#a61fec6c7b91d5f34339ebabd18b94e5d", null ],
+    [ "MoveInLineOfSight", "df/dfb/a20633.html#a5c1dfc697a84d4eb3ea6074514034343", null ],
+    [ "Reset", "df/dfb/a20633.html#a3f747b6da8db72fd61c50a24096834c2", null ],
+    [ "UpdateAI", "df/dfb/a20633.html#adbe7effa0bab5046f26f8d7df0f82a04", null ],
+    [ "_allowCast", "df/dfb/a20633.html#a6081345415b9ae3892d4f150a195908c", null ],
+    [ "events", "df/dfb/a20633.html#a5d64d273a6aefdd9359b71963271b4ee", null ]
 ];

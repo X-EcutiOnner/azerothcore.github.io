@@ -1,6 +1,8 @@
 var a26765 =
 [
-    [ "HandleTriggerSpell", "dd/d78/a26765.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "dd/d78/a26765.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "dd/d78/a26765.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "CheckProc", "dd/d78/a26765.html#ae431b65ed505bbc483244ef50c2d35c8", null ],
+    [ "HandleProc", "dd/d78/a26765.html#ab744f28533935c4a236f0635bbe6465c", null ],
+    [ "PrepareAuraScript", "dd/d78/a26765.html#a7a531ef1c65bdb0d8001956454a43cd3", null ],
+    [ "Register", "dd/d78/a26765.html#a8919dc1d487413f54e4a99002350f8d8", null ],
+    [ "Validate", "dd/d78/a26765.html#aad134b5ef026a8a58ae233090ca01986", null ]
 ];

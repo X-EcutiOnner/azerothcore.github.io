@@ -1,8 +1,8 @@
 var a18901 =
 [
-    [ "CountTargets", "d1/d38/a18901.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d1/d38/a18901.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d1/d38/a18901.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d1/d38/a18901.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d1/d38/a18901.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "npc_blistering_zombieAI", "d1/d38/a18901.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
+    [ "DamageTaken", "d1/d38/a18901.html#adf031992078214f90d859df2b54aac91", null ],
+    [ "UpdateAI", "d1/d38/a18901.html#ae081898b8dcaf45cd3069e79021de452", null ],
+    [ "casted", "d1/d38/a18901.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
+    [ "timer", "d1/d38/a18901.html#a8b865c2a87b1fc020d8250767febab0a", null ]
 ];

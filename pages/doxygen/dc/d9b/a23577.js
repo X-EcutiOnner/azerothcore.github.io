@@ -1,6 +1,5 @@
 var a23577 =
 [
-    [ "npc_nether_drakeAI", "d8/d8a/a23581.html", "d8/d8a/a23581" ],
-    [ "npc_nether_drake", "dc/d9b/a23577.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "dc/d9b/a23577.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "modelId", "dc/d9b/a23577.html#a6a7f030a6445a46fe55640356e9c5124", null ],
+    [ "spellId", "dc/d9b/a23577.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
 ];

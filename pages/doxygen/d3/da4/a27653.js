@@ -1,6 +1,7 @@
 var a27653 =
 [
-    [ "npc_dream_fogAI", "d0/dcf/a27657.html", "d0/dcf/a27657" ],
-    [ "npc_dream_fog", "d3/da4/a27653.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d3/da4/a27653.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "HandleDummy", "d3/da4/a27653.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "d3/da4/a27653.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "d3/da4/a27653.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "d3/da4/a27653.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

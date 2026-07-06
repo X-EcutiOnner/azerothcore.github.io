@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: anonymous_namespace{VehicleScalingUlduarTest.cpp} Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('df/d18/a05168.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d3/dbb/a05165.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,20 +104,82 @@ $(document).ready(function(){initNavTree('df/d18/a05168.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">AABound Member List</div></div>
+  <div class="summary">
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">anonymous_namespace{VehicleScalingUlduarTest.cpp} Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:acdecfc5cf74175c6a000957c02da9cc4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbb/a05165.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a> (float totalAdjustedILvl)</td></tr>
+<tr class="separator:acdecfc5cf74175c6a000957c02da9cc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bee56888580618bb23f42cc8f9edc92"><td class="memItemLeft" align="right" valign="top">int32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbb/a05165.html#a7bee56888580618bb23f42cc8f9edc92">CalcUlduarVehicleScaleAmount</a> (float totalAdjustedILvl)</td></tr>
+<tr class="memdesc:a7bee56888580618bb23f42cc8f9edc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mirrors the final int32 amount stored on the aura effect.  <a href="../../d3/dbb/a05165.html#a7bee56888580618bb23f42cc8f9edc92">More...</a><br /></td></tr>
+<tr class="separator:a7bee56888580618bb23f42cc8f9edc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="acdecfc5cf74175c6a000957c02da9cc4" name="acdecfc5cf74175c6a000957c02da9cc4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdecfc5cf74175c6a000957c02da9cc4">&#9670;&#160;</a></span>CalcUlduarVehicleScale()</h2>
 
-<p>This is the complete list of members for <a class="el" href="../../df/d18/a05168.html">AABound</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../df/d18/a05168.html#aa227ae5593ba3111598033f570d97cb9">hi</a></td><td class="entry"><a class="el" href="../../df/d18/a05168.html">AABound</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../df/d18/a05168.html#aaf79653331f78979c84dfee2da118fdd">lo</a></td><td class="entry"><a class="el" href="../../df/d18/a05168.html">AABound</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>totalAdjustedILvl</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p >Mirrors the Ulduar vehicle scaling formula from <a class="el" href="../../da/d1a/a25065.html#a40ba021accd581745f07f2586545853c">spell_gen_vehicle_scaling_aura::CalculateAmount</a>. totalAdjustedILvl is the sum of GetItemLevelIncludingQuality across equipped slots (quality penalty is already baked into each item's value). Computes the raw float result before int32 truncation. </p>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>    {</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordtype">float</span> <span class="keyword">const</span> baseILvl = 2500.0f;</div>
+<div class="line"><span class="lineno">   53</span>        <span class="keywordtype">float</span> result = (totalAdjustedILvl - baseILvl) / 5.0f / 100.0f;</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> std::max(0.1f, result);</div>
+<div class="line"><span class="lineno">   55</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00058">CalcUlduarVehicleScaleAmount()</a>, and <a class="el" href="../../#l00070">TEST_F()</a>.</p>
+
+</div>
+</div>
+<a id="a7bee56888580618bb23f42cc8f9edc92" name="a7bee56888580618bb23f42cc8f9edc92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7bee56888580618bb23f42cc8f9edc92">&#9670;&#160;</a></span>CalcUlduarVehicleScaleAmount()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int32_t anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScaleAmount </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>totalAdjustedILvl</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Mirrors the final int32 amount stored on the aura effect. </p>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> <span class="keyword">static_cast&lt;</span>int32_t<span class="keyword">&gt;</span>(<a class="code hl_function" href="../../d3/dbb/a05165.html#acdecfc5cf74175c6a000957c02da9cc4">CalcUlduarVehicleScale</a>(totalAdjustedILvl));</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
+<div class="ttc" id="aa05165_html_acdecfc5cf74175c6a000957c02da9cc4"><div class="ttname"><a href="../../d3/dbb/a05165.html#acdecfc5cf74175c6a000957c02da9cc4">anonymous_namespace{VehicleScalingUlduarTest.cpp}::CalcUlduarVehicleScale</a></div><div class="ttdeci">float CalcUlduarVehicleScale(float totalAdjustedILvl)</div><div class="ttdef"><b>Definition:</b> VehicleScalingUlduarTest.cpp:50</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00050">CalcUlduarVehicleScale()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00070">TEST_F()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Jun 8 2026 22:14:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/dbb/a05165.html">anonymous_namespace{VehicleScalingUlduarTest.cpp}</a></li>
+    <li class="footer">Generated on Mon Jul 6 2026 22:01:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

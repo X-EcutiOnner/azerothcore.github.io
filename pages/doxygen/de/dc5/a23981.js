@@ -1,8 +1,10 @@
 var a23981 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "de/dc5/a23981.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "de/dc5/a23981.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "de/dc5/a23981.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "de/dc5/a23981.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "de/dc5/a23981.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_infernal_attackerAI", "de/dc5/a23981.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "de/dc5/a23981.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "de/dc5/a23981.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "de/dc5/a23981.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "de/dc5/a23981.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "de/dc5/a23981.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "de/dc5/a23981.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

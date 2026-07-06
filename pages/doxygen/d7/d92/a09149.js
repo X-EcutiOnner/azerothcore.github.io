@@ -1,10 +1,14 @@
 var a09149 =
 [
-    [ "mapId", "d7/d92/a09149.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d7/d92/a09149.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d7/d92/a09149.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d7/d92/a09149.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d7/d92/a09149.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d7/d92/a09149.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d7/d92/a09149.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "SafeUnitPointer", "d7/d92/a09149.html#a05ee5199683b1e68189a7d122bf3f5f4", null ],
+    [ "SafeUnitPointer", "d7/d92/a09149.html#a9ac4023d6ec32f96c757206dd4aa3fd6", null ],
+    [ "~SafeUnitPointer", "d7/d92/a09149.html#ad9c2be82f67eb4e825a9ffd07307983a", null ],
+    [ "Initialize", "d7/d92/a09149.html#a40f6e04585ca487c457d17ce10cc7b8c", null ],
+    [ "operator Unit *", "d7/d92/a09149.html#afee1d290f436472dd719ff83f41721f5", null ],
+    [ "operator->", "d7/d92/a09149.html#af63a04a7c6e6cb3002f5a99f90f70328", null ],
+    [ "operator=", "d7/d92/a09149.html#a44f522d9c22861f853df0286a3764d3e", null ],
+    [ "SetPointedTo", "d7/d92/a09149.html#a6603c67b736224a8e6559340afa8b275", null ],
+    [ "UnitDeleted", "d7/d92/a09149.html#a872b0a86328fb03e5feccdf364ea5cce", null ],
+    [ "defaultValue", "d7/d92/a09149.html#a38dce117cb135c9b84918a9bbc884f28", null ],
+    [ "ptr", "d7/d92/a09149.html#aa8bf5e4728aeb1ca7a8de1a727a84884", null ]
 ];

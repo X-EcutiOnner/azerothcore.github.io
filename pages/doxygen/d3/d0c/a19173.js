@@ -1,7 +1,9 @@
 var a19173 =
 [
-    [ "OnApply", "d3/d0c/a19173.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "d3/d0c/a19173.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "d3/d0c/a19173.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "d3/d0c/a19173.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d3/d0c/a19173.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d3/d0c/a19173.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d3/d0c/a19173.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d3/d0c/a19173.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d3/d0c/a19173.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d3/d0c/a19173.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

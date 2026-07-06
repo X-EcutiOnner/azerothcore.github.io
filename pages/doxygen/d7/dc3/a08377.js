@@ -1,5 +1,7 @@
 var a08377 =
 [
-    [ "GossipActionMenuId", "d7/dc3/a08377.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
-    [ "GossipActionPoi", "d7/dc3/a08377.html#afdaf27e370e3c84659fdc3784cafad29", null ]
+    [ "ForcedDespawnDelayEvent", "d7/dc3/a08377.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
+    [ "Execute", "d7/dc3/a08377.html#a735c709b269458911bd93da1902cbe25", null ],
+    [ "m_owner", "d7/dc3/a08377.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
+    [ "m_respawnTimer", "d7/dc3/a08377.html#a5db78930a1fda07f2020b23158ebb93d", null ]
 ];

@@ -1,15 +1,9 @@
 var a15501 =
 [
-    [ "boss_viscidus", "d9/d12/a15501.html#a41dd3ce982a180a2ad415b559508f0ff", null ],
-    [ "CheckInRoom", "d9/d12/a15501.html#a528a368eceb55cc7d41d615c6c1ebf15", null ],
-    [ "DamageTaken", "d9/d12/a15501.html#adb41e6f64c1fe61cf623539353b0c959", null ],
-    [ "InitSpells", "d9/d12/a15501.html#a24357bfc552ecb5205e50241cadb05f4", null ],
-    [ "JustEngagedWith", "d9/d12/a15501.html#a7dfb0ba7d90697d3deac263249cfa977", null ],
-    [ "Reset", "d9/d12/a15501.html#ac9153bd98e4c39b63547c3a9a8798d80", null ],
-    [ "SoftReset", "d9/d12/a15501.html#ad2b4c6835ff113e4a538024f02ff968e", null ],
-    [ "SpellHit", "d9/d12/a15501.html#a43df1ee33d5a9b4794b246ce680a6318", null ],
-    [ "SummonedCreatureDies", "d9/d12/a15501.html#a6a52391b49ba3501a1bb5e8c55f07683", null ],
-    [ "UpdateAI", "d9/d12/a15501.html#a1a194c161b485d2abbb862506b6c239f", null ],
-    [ "_hitcounter", "d9/d12/a15501.html#a12ee60a91dab2f95aab6e9914351344a", null ],
-    [ "_phase", "d9/d12/a15501.html#a321f1f96af51d3d70de0cca89512d965", null ]
+    [ "go_ossirian_crystalAI", "d9/d12/a15501.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d9/d12/a15501.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d9/d12/a15501.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d9/d12/a15501.html#a9b4af48363a6d3194a22312fafa48587", null ],
+    [ "_instance", "d9/d12/a15501.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d9/d12/a15501.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

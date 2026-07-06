@@ -1,6 +1,8 @@
 var a15789 =
 [
-    [ "npc_omenAI", "d3/d8b/a15793.html", "d3/d8b/a15793" ],
-    [ "npc_omen", "de/d86/a15789.html#aff955303a8b9741838779a59dd496f62", null ],
-    [ "GetAI", "de/d86/a15789.html#a8023ad3298000d9819c46f46a93166d4", null ]
+    [ "npc_injured_draeneiAI", "de/d86/a15789.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
+    [ "JustEngagedWith", "de/d86/a15789.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
+    [ "MoveInLineOfSight", "de/d86/a15789.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
+    [ "Reset", "de/d86/a15789.html#adcb601f739a91ce71926791885152471", null ],
+    [ "UpdateAI", "de/d86/a15789.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
 ];

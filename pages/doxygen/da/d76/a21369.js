@@ -1,6 +1,10 @@
 var a21369 =
 [
-    [ "npc_mindless_ghoulAI", "da/d76/a21369.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "da/d76/a21369.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "da/d76/a21369.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_sinkhole_kill_creditAI", "da/d76/a21369.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "da/d76/a21369.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "da/d76/a21369.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "da/d76/a21369.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "da/d76/a21369.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "da/d76/a21369.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "da/d76/a21369.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

@@ -1,6 +1,11 @@
 var a14561 =
 [
-    [ "PeriodicTick", "d9/dfd/a14561.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d9/dfd/a14561.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d9/dfd/a14561.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "boss_marli", "d9/dfd/a14561.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
+    [ "_chargePlayer", "d9/dfd/a14561.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
+    [ "_schedulePhaseSpider", "d9/dfd/a14561.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
+    [ "_schedulePhaseTroll", "d9/dfd/a14561.html#ad6977930dac1cddd2162f7db1b239c83", null ],
+    [ "JustDied", "d9/dfd/a14561.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
+    [ "JustEngagedWith", "d9/dfd/a14561.html#ac74bd382c3dc826f7e4426bec3557094", null ],
+    [ "Reset", "d9/dfd/a14561.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
+    [ "_phase", "d9/dfd/a14561.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
 ];

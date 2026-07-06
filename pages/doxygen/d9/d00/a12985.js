@@ -1,7 +1,7 @@
 var a12985 =
 [
-    [ "npc_malchezaar_axe", "d9/d00/a12985.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d9/d00/a12985.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d9/d00/a12985.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d9/d00/a12985.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "HandleHit", "d9/d00/a12985.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d9/d00/a12985.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d9/d00/a12985.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d9/d00/a12985.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

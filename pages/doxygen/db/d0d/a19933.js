@@ -1,11 +1,6 @@
 var a19933 =
 [
-    [ "boss_flame_leviathan_defense_turret", "db/d0d/a19933.html#a47ccbb6d0b4429763606b5a1e5719e79", null ],
-    [ "CanAIAttack", "db/d0d/a19933.html#a17020dc7facabb0cacac3209277a73f7", null ],
-    [ "DamageTaken", "db/d0d/a19933.html#ac15aadce1954d827b7e833ed761faf10", null ],
-    [ "JustDied", "db/d0d/a19933.html#a6865c79397cb1c6efcba9952c9a9b61f", null ],
-    [ "KilledUnit", "db/d0d/a19933.html#ae5e411c86e88c4da2a74c7281a7c7e6b", null ],
-    [ "UpdateAI", "db/d0d/a19933.html#a9d6e48e613a65f7a3bec76ce6ea73574", null ],
-    [ "_instance", "db/d0d/a19933.html#a5f4fe282b2a9e1ba1f8dacd38572c94f", null ],
-    [ "_setHealth", "db/d0d/a19933.html#a413187aa01c119d088846a216f093baa", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d9/d46/a19937.html", "d9/d46/a19937" ],
+    [ "boss_sjonnir_malformed_ooze", "db/d0d/a19933.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "db/d0d/a19933.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

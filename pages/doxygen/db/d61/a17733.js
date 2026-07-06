@@ -1,8 +1,6 @@
 var a17733 =
 [
-    [ "ResetEncounterEvent", "db/d61/a17733.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "db/d61/a17733.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "db/d61/a17733.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "db/d61/a17733.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "db/d61/a17733.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "VampiricBiteTargetSelector", "db/d61/a17733.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "db/d61/a17733.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "db/d61/a17733.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

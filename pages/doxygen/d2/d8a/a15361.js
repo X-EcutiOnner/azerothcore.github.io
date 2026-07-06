@@ -1,8 +1,6 @@
 var a15361 =
 [
-    [ "npc_obsidian_destroyer", "d2/d8a/a15361.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d2/d8a/a15361.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d2/d8a/a15361.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d2/d8a/a15361.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d2/d8a/a15361.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "instance_maraudon_InstanceMapScript", "de/d58/a15365.html", "de/d58/a15365" ],
+    [ "instance_maraudon", "d2/d8a/a15361.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d2/d8a/a15361.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

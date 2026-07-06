@@ -1,4 +1,5 @@
 var a05537 =
 [
-    [ "_element", "d0/d8e/a05537.html#ab18c6fa467deee7af0db888ab94d0ba7", null ]
+    [ "~Permissible", "d0/d8e/a05537.html#a9ed19d14dda478fe1ff6cb092d684be2", null ],
+    [ "Permit", "d0/d8e/a05537.html#a0fccdbc46c9bafea63757ceee62b0385", null ]
 ];

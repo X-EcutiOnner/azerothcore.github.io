@@ -1,7 +1,7 @@
 var a29045 =
 [
-    [ "~ByteBufferException", "d4/d55/a29045.html#a0ab73f9061c040127f70dbfc9a176509", null ],
-    [ "message", "d4/d55/a29045.html#ab1a64d8fc18565a04c347de29184f68c", null ],
-    [ "what", "d4/d55/a29045.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
-    [ "msg_", "d4/d55/a29045.html#a314bdbb7063219f8256df894602e6b02", null ]
+    [ "ID", "d4/d55/a29045.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d4/d55/a29045.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d4/d55/a29045.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d4/d55/a29045.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

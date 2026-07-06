@@ -1,6 +1,5 @@
 var a20549 =
 [
-    [ "PrepareSpellScript", "d7/da7/a20549.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d7/da7/a20549.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d7/da7/a20549.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "go_ulduar_do_not_push_this_button", "d7/da7/a20549.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "d7/da7/a20549.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

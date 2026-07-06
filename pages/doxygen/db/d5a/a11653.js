@@ -1,7 +1,5 @@
 var a11653 =
 [
-    [ "effectMask", "db/d5a/a11653.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "db/d5a/a11653.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "db/d5a/a11653.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "db/d5a/a11653.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "SocketIPBytes", "db/d5a/a11653.html#aa10551a3c7371bafa9b27919e37b16ff", null ],
+    [ "SocketPort", "db/d5a/a11653.html#a6e6fb49cad093530f6ba650ca2ff57af", null ]
 ];

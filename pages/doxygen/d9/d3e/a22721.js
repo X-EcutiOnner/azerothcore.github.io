@@ -1,12 +1,15 @@
 var a22721 =
 [
-    [ "boss_fathomlord_karathress", "d9/d3e/a22721.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d9/d3e/a22721.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d9/d3e/a22721.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d9/d3e/a22721.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d9/d3e/a22721.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d9/d3e/a22721.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d9/d3e/a22721.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d9/d3e/a22721.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d9/d3e/a22721.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "boss_reliquary_of_soulsAI", "d9/d3e/a22721.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "d9/d3e/a22721.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d9/d3e/a22721.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "d9/d3e/a22721.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "d9/d3e/a22721.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "d9/d3e/a22721.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "d9/d3e/a22721.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "d9/d3e/a22721.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "d9/d3e/a22721.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "d9/d3e/a22721.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "d9/d3e/a22721.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "d9/d3e/a22721.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

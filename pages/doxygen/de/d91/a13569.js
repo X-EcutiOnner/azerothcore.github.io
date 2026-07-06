@@ -1,7 +1,7 @@
 var a13569 =
 [
-    [ "HandleScript", "de/d91/a13569.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "de/d91/a13569.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "de/d91/a13569.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "de/d91/a13569.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "HandleScript", "de/d91/a13569.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "de/d91/a13569.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "de/d91/a13569.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "de/d91/a13569.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

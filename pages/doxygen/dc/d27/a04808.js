@@ -1,4 +1,5 @@
 var a04808 =
 [
-    [ "Acore::Crypto::ARC4", "d6/d39/a05439.html", "d6/d39/a05439" ]
+    [ "SessionKey", "dc/d27/a04808.html#a7cbcb71452529a2addaab3b112dba4d7", null ],
+    [ "SESSION_KEY_LENGTH", "dc/d27/a04808.html#accf22e06a217bb405f0ee6f240d2e263", null ]
 ];

@@ -1,20 +1,10 @@
 var a12081 =
 [
-    [ "Weather", "db/dc2/a05011.html#gab528c044ef69c717d477eee8eac299b0", null ],
-    [ "~Weather", "db/dc2/a05011.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "db/dc2/a05011.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "db/dc2/a05011.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "db/dc2/a05011.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "db/dc2/a05011.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendFineWeatherUpdateToPlayer", "db/dc2/a05011.html#gac976d0c6f66bd6ab52932a289e0f9551", null ],
-    [ "SendWeatherUpdateToPlayer", "db/dc2/a05011.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "db/dc2/a05011.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "db/dc2/a05011.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "db/dc2/a05011.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "db/dc2/a05011.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_map", "db/dc2/a05011.html#ga3495c619f0ddde94913cbaea0a6354fa", null ],
-    [ "m_timer", "db/dc2/a05011.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "db/dc2/a05011.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "db/dc2/a05011.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "db/dc2/a05011.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "CustomChatTextBuilder", "d8/d2e/a12081.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d8/d2e/a12081.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d8/d2e/a12081.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d8/d2e/a12081.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d8/d2e/a12081.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d8/d2e/a12081.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d8/d2e/a12081.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

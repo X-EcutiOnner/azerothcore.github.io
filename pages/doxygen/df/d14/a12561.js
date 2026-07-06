@@ -1,10 +1,12 @@
 var a12561 =
 [
-    [ "npc_rookery_hatcher", "df/d14/a12561.html#ab4740540a6fc2661c3c99bd2569a0bfa", null ],
-    [ "InitializeAI", "df/d14/a12561.html#a58d6bb3ba8d39c0e92d30f4c124e3734", null ],
-    [ "JustEngagedWith", "df/d14/a12561.html#a9d2e256f8df44254cc0301fe2b1fa628", null ],
-    [ "UpdateAI", "df/d14/a12561.html#a011cf0384a7bf6dd502a767d6667140a", null ],
-    [ "events", "df/d14/a12561.html#ab49d35c9d22408b01e27c8c7933433e0", null ],
-    [ "targetEgg", "df/d14/a12561.html#a4fd5ed979e2c3d600e89e4592b7da98c", null ],
-    [ "targetPosition", "df/d14/a12561.html#ac49345c80e58f7c0094fe1b62ac4bf84", null ]
+    [ "boss_balinda", "df/d14/a12561.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "df/d14/a12561.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "df/d14/a12561.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "df/d14/a12561.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "df/d14/a12561.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "df/d14/a12561.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "df/d14/a12561.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "df/d14/a12561.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "df/d14/a12561.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

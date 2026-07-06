@@ -1,5 +1,6 @@
 var a18305 =
 [
-    [ "achievement_all_you_can_eat", "d9/d04/a18305.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d9/d04/a18305.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "OnRemove", "d9/d04/a18305.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d9/d04/a18305.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d9/d04/a18305.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

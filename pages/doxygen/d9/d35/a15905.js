@@ -1,12 +1,11 @@
 var a15905 =
 [
-    [ "npc_toogaAI", "d9/d35/a15905.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d9/d35/a15905.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d9/d35/a15905.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d9/d35/a15905.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d9/d35/a15905.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d9/d35/a15905.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d9/d35/a15905.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d9/d35/a15905.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d9/d35/a15905.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "npc_tiger_matriarchAI", "d9/d35/a15905.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d9/d35/a15905.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d9/d35/a15905.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d9/d35/a15905.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d9/d35/a15905.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d9/d35/a15905.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d9/d35/a15905.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d9/d35/a15905.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

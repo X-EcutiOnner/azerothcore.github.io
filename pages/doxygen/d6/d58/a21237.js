@@ -1,14 +1,8 @@
 var a21237 =
 [
-    [ "npc_hidden_cultistAI", "d6/d58/a21237.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "d6/d58/a21237.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "d6/d58/a21237.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "d6/d58/a21237.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "d6/d58/a21237.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "d6/d58/a21237.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "d6/d58/a21237.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "d6/d58/a21237.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "d6/d58/a21237.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "d6/d58/a21237.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "d6/d58/a21237.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_frozen_orbAI", "d6/d58/a21237.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d6/d58/a21237.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d6/d58/a21237.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d6/d58/a21237.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d6/d58/a21237.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

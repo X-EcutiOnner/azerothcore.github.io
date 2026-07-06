@@ -1,5 +1,6 @@
 var a15257 =
 [
-    [ "npc_hive_zara_swarmer", "d8/d76/a15257.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d8/d76/a15257.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "npc_cos_stratholme_citizienAI", "df/d16/a15261.html", "df/d16/a15261" ],
+    [ "npc_cos_stratholme_citizien", "d8/d76/a15257.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d8/d76/a15257.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

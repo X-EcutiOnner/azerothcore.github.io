@@ -1,10 +1,9 @@
 var a22261 =
 [
-    [ "boss_talon_king_ikiss", "de/d9c/a22261.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
-    [ "JustDied", "de/d9c/a22261.html#ada1d993842d04453d6afad91e186a3fe", null ],
-    [ "JustEngagedWith", "de/d9c/a22261.html#a325312ce6695435fcca701720434c64f", null ],
-    [ "KilledUnit", "de/d9c/a22261.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
-    [ "MoveInLineOfSight", "de/d9c/a22261.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
-    [ "Reset", "de/d9c/a22261.html#adcb1dca375ec548499da5a7690babc21", null ],
-    [ "_spoken", "de/d9c/a22261.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
+    [ "npc_finklesteinAI", "d7/dc6/a22265.html", "d7/dc6/a22265" ],
+    [ "npc_finklestein", "de/d9c/a22261.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "de/d9c/a22261.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "de/d9c/a22261.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "de/d9c/a22261.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "de/d9c/a22261.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

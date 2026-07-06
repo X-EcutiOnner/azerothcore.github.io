@@ -1,7 +1,6 @@
 var a11693 =
 [
-    [ "SpellImmune", "d5/dcf/a11693.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "d5/dcf/a11693.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "d5/dcf/a11693.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "d5/dcf/a11693.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "WorldSession", "d5/dcf/a11693.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "Guid", "d5/dcf/a11693.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
+    [ "Name", "d5/dcf/a11693.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
 ];

@@ -1,6 +1,7 @@
 var a21037 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "de/d73/a21041.html", "de/d73/a21041" ],
-    [ "instance_vault_of_archavon", "d3/ddc/a21037.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d3/ddc/a21037.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "HandleOnEffectRemove", "d3/ddc/a21037.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "d3/ddc/a21037.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "d3/ddc/a21037.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "d3/ddc/a21037.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

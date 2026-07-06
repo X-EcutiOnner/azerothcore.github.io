@@ -1,6 +1,10 @@
 var a23541 =
 [
-    [ "HandlePeriodic", "d2/df3/a23541.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d2/df3/a23541.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d2/df3/a23541.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "boss_harbinger_skyriss", "d2/df3/a23541.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "d2/df3/a23541.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "d2/df3/a23541.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "d2/df3/a23541.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "d2/df3/a23541.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "d2/df3/a23541.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "d2/df3/a23541.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

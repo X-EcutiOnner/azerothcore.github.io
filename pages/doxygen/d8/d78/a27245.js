@@ -1,11 +1,8 @@
 var a27245 =
 [
-    [ "CalcPeriodic", "d8/d78/a27245.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "d8/d78/a27245.html#a55f649687813eb915c71ead6afb27276", null ],
-    [ "CalculateResistanceAmount", "d8/d78/a27245.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "d8/d78/a27245.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "d8/d78/a27245.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "d8/d78/a27245.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "d8/d78/a27245.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "d8/d78/a27245.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "ApplyDebuff", "d8/d78/a27245.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d8/d78/a27245.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d8/d78/a27245.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d8/d78/a27245.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d8/d78/a27245.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

@@ -1,5 +1,5 @@
 var a28897 =
 [
-    [ "ID", "dc/d62/a28897.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "dc/d62/a28897.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "BitIndex", "dc/d62/a28897.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "dc/d62/a28897.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

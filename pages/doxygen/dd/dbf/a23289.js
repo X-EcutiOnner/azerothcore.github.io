@@ -1,6 +1,11 @@
 var a23289 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "dc/daf/a23293.html", "dc/daf/a23293" ],
-    [ "instance_shattered_halls", "dd/dbf/a23289.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dd/dbf/a23289.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "boss_gruul", "dd/dbf/a23289.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
+    [ "JustDied", "dd/dbf/a23289.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
+    [ "JustEngagedWith", "dd/dbf/a23289.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
+    [ "KilledUnit", "dd/dbf/a23289.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
+    [ "Reset", "dd/dbf/a23289.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
+    [ "UpdateAI", "dd/dbf/a23289.html#a3503b84f4fb896d439ccd49a997e4087", null ],
+    [ "_caveInTimer", "dd/dbf/a23289.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
+    [ "_recentlySpoken", "dd/dbf/a23289.html#a411ec67153dd4715eb397a420c45bb12", null ]
 ];

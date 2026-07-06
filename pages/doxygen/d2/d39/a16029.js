@@ -1,6 +1,6 @@
 var a16029 =
 [
-    [ "HandleSummon", "d2/d39/a16029.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d2/d39/a16029.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d2/d39/a16029.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "npc_anachronos_quest_triggerAI", "da/d67/a16033.html", "da/d67/a16033" ],
+    [ "npc_anachronos_quest_trigger", "d2/d39/a16029.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "d2/d39/a16029.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

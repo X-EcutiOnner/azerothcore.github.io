@@ -1,6 +1,7 @@
 var a21725 =
 [
-    [ "ChangeSummonPos", "dc/de3/a21725.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "dc/de3/a21725.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "dc/de3/a21725.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "OnRemove", "dc/de3/a21725.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "dc/de3/a21725.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "dc/de3/a21725.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "dc/de3/a21725.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

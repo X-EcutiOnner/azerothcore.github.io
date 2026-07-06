@@ -1,4 +1,5 @@
 var a03944 =
 [
-    [ "Initialize", "dd/dde/a03944.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "WorldPackets::LFG::LFGJoin", "d4/d21/a11313.html", "d4/d21/a11313" ],
+    [ "WorldPackets::LFG::LFGLeave", "d4/ddb/a11317.html", "d4/ddb/a11317" ]
 ];

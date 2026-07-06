@@ -1,7 +1,14 @@
 var a20453 =
 [
-    [ "boss_thorim_trap", "da/db3/a20453.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
-    [ "Reset", "da/db3/a20453.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
-    [ "UpdateAI", "da/db3/a20453.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
-    [ "_checkTimer", "da/db3/a20453.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
+    [ "boss_kologarn_arms", "da/db3/a20453.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
+    [ "AttackStart", "da/db3/a20453.html#aa900d84701962847fe8c50ca42a9e395", null ],
+    [ "DamageTaken", "da/db3/a20453.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
+    [ "EnterEvadeMode", "da/db3/a20453.html#abb2cf784779f808ab5d5340047ce95e4", null ],
+    [ "JustDied", "da/db3/a20453.html#a165f77b79a3e601fe2269f20362df3ca", null ],
+    [ "MoveInLineOfSight", "da/db3/a20453.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
+    [ "PassengerBoarded", "da/db3/a20453.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
+    [ "Reset", "da/db3/a20453.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
+    [ "UpdateAI", "da/db3/a20453.html#a013d5b17e93486679f625872331c94f6", null ],
+    [ "_combatStarted", "da/db3/a20453.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
+    [ "_damageDone", "da/db3/a20453.html#a0e196cc2602f325f4639d9e854f013b9", null ]
 ];

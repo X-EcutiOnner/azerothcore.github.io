@@ -1,5 +1,6 @@
 var a27625 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d6/d04/a27625.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d6/d04/a27625.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "HandleCast", "d6/d04/a27625.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d6/d04/a27625.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d6/d04/a27625.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

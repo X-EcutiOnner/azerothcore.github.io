@@ -1,5 +1,8 @@
 var a17329 =
 [
-    [ "at_tyrannus_event_starter", "d0/d2b/a17329.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d0/d2b/a17329.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "npc_hor_raging_ghoul", "d0/d2b/a17329.html#a733d4ad92566a13ace3427aae6696bac", null ],
+    [ "JustDied", "d0/d2b/a17329.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
+    [ "Reset", "d0/d2b/a17329.html#aad6424be7dd53b59016963cefffe40e5", null ],
+    [ "UpdateAI", "d0/d2b/a17329.html#af4024393b318ca702c6652e042036b26", null ],
+    [ "leaped", "d0/d2b/a17329.html#a69dea538a87ae47de221768b6de42315", null ]
 ];

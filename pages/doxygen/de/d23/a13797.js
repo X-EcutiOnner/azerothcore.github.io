@@ -1,14 +1,12 @@
 var a13797 =
 [
-    [ "instance_uldaman_InstanceMapScript", "de/d23/a13797.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "de/d23/a13797.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "de/d23/a13797.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "de/d23/a13797.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "de/d23/a13797.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "de/d23/a13797.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "de/d23/a13797.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "de/d23/a13797.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "de/d23/a13797.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "de/d23/a13797.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "de/d23/a13797.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "boss_kalecgos", "de/d23/a13797.html#a9a3eaee76ada967445cc0ed3d5ed21d2", null ],
+    [ "CanAIAttack", "de/d23/a13797.html#aa810a7eae5a6b1102e2e96022eaf5085", null ],
+    [ "CheckInRoom", "de/d23/a13797.html#a99cf385b11044c364b23fa8fc7e755ee", null ],
+    [ "ClearPlayerAuras", "de/d23/a13797.html#a17ffb7ec1b591acb0e5c359cb73ed2f6", null ],
+    [ "DoAction", "de/d23/a13797.html#aaccfa519a7290eb56990e43de4beea97", null ],
+    [ "JustEngagedWith", "de/d23/a13797.html#ab4d440dd0b66002b840bc4b3d3a8f7ef", null ],
+    [ "KilledUnit", "de/d23/a13797.html#a9844d54a8334ae5d20689593cd8a5e1a", null ],
+    [ "Reset", "de/d23/a13797.html#ad30cbd6d6fe343b9eb44fb96b0779551", null ],
+    [ "_sathBanished", "de/d23/a13797.html#a595eb66eb6f820efa29fcc5d631fe159", null ]
 ];

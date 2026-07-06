@@ -1,7 +1,6 @@
 var a12813 =
 [
-    [ "HandlePeriodic", "d3/d0d/a12813.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d3/d0d/a12813.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d3/d0d/a12813.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d3/d0d/a12813.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "FilterTargets", "d3/d0d/a12813.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d3/d0d/a12813.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d3/d0d/a12813.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

@@ -1,9 +1,6 @@
 var a23849 =
 [
-    [ "npc_korkron_or_wildhammer", "de/d29/a23849.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "de/d29/a23849.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "de/d29/a23849.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "de/d29/a23849.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "de/d29/a23849.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "de/d29/a23849.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_ancestral_wolfAI", "d7/d19/a23853.html", "d7/d19/a23853" ],
+    [ "npc_ancestral_wolf", "de/d29/a23849.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "de/d29/a23849.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

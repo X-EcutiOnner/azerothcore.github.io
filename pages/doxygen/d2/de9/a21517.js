@@ -1,7 +1,6 @@
 var a21517 =
 [
-    [ "npc_emilyAI", "db/da4/a21521.html", "db/da4/a21521" ],
-    [ "npc_emily", "d2/de9/a21517.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d2/de9/a21517.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d2/de9/a21517.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_mageguard_dalaranAI", "db/da4/a21521.html", "db/da4/a21521" ],
+    [ "npc_mageguard_dalaran", "d2/de9/a21517.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d2/de9/a21517.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

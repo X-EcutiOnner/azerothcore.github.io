@@ -1,23 +1,11 @@
 var a03725 =
 [
-    [ "BattlegroundNA", "db/dba/a07779.html", "db/dba/a07779" ],
-    [ "BattlegroundNAGameObjects", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9", [
-      [ "BG_NA_OBJECT_TYPE_DOOR_1", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a1316dbe197353489e03213d3277f32ff", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_2", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a20f05476fbcb6371766b7ae3ed489890", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_3", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9ae0d1716599d048803d55154e63f7a3a5", null ],
-      [ "BG_NA_OBJECT_TYPE_DOOR_4", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9af563fe3ddbb78a9d4d6f2a22479077db", null ],
-      [ "BG_NA_OBJECT_TYPE_BUFF_1", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9aba131a1275e72b2445749ef2c5689f96", null ],
-      [ "BG_NA_OBJECT_TYPE_BUFF_2", "d0/d69/a03725.html#add49f720fa08ffa96e26473cae2b61a9a7c0aab8f173d7f00439a05931bd2925c", null ]
-    ] ],
-    [ "BattlegroundNAObjectTypes", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffc", [
-      [ "BG_NA_OBJECT_DOOR_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca51bc6ecc32ca4cab5dfc799e14edfdc9", null ],
-      [ "BG_NA_OBJECT_DOOR_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcaa22fe8f33675b8eac05c69224d71fc5f", null ],
-      [ "BG_NA_OBJECT_DOOR_3", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcac72fe751e3b1f451e48ee8ac82c78370", null ],
-      [ "BG_NA_OBJECT_DOOR_4", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
-      [ "BG_NA_OBJECT_BUFF_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
-      [ "BG_NA_OBJECT_BUFF_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
-      [ "BG_NA_OBJECT_READY_MARKER_1", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362", null ],
-      [ "BG_NA_OBJECT_READY_MARKER_2", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c", null ],
-      [ "BG_NA_OBJECT_MAX", "d0/d69/a03725.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
-    ] ]
+    [ "AddTime", "d0/d69/a03725.html#aae074176c44fa3d99280320c869fde46", null ],
+    [ "AddTime", "d0/d69/a03725.html#a430fcc06d66963c8dbbd1c988923511e", null ],
+    [ "GetTime", "d0/d69/a03725.html#ae44f550ac340528abe454269c2273d73", null ],
+    [ "GetTime", "d0/d69/a03725.html#a0bc4b2da3db35b3fbcd4dbe01181f05f", null ],
+    [ "IsCorrectDelay", "d0/d69/a03725.html#a18121c73cd31656af9ee5e5da754e4bd", null ],
+    [ "IsCorrectDelay", "d0/d69/a03725.html#ab753898b2bbc94059274e9a9483b0e70", null ],
+    [ "_brackets", "d0/d69/a03725.html#a57b562a95d0fb9c2ee34520175d63a92", null ],
+    [ "_players", "d0/d69/a03725.html#af8ad5db2c36ddfbca0b6b18e3478c2c5", null ]
 ];

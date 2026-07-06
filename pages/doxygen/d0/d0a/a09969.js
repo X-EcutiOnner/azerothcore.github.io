@@ -1,14 +1,9 @@
 var a09969 =
 [
-    [ "LootItemStorage", "d0/d0a/a09969.html#aa6ece474f05744f2ce24a9fef42734af", null ],
-    [ "~LootItemStorage", "d0/d0a/a09969.html#a36faeed6ef556fd13118c4ad34e38548", null ],
-    [ "AddNewStoredLoot", "d0/d0a/a09969.html#a4c463773b50ae1b312865fbf72dfed18", null ],
-    [ "instance", "d0/d0a/a09969.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
-    [ "LoadStorageFromDB", "d0/d0a/a09969.html#a377c75f9d06eb246072b29d19baf2b62", null ],
-    [ "LoadStoredLoot", "d0/d0a/a09969.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
-    [ "RemoveEntryFromDB", "d0/d0a/a09969.html#a8ab68725c0525d162d325a2131db4c49", null ],
-    [ "RemoveStoredLoot", "d0/d0a/a09969.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
-    [ "RemoveStoredLootItem", "d0/d0a/a09969.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
-    [ "RemoveStoredLootMoney", "d0/d0a/a09969.html#ab22d267a6701fedf824f801e4b703f70", null ],
-    [ "lootItemStore", "d0/d0a/a09969.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
+    [ "LoginQueryHolder", "d0/d0a/a09969.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d0/d0a/a09969.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d0/d0a/a09969.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d0/d0a/a09969.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d0/d0a/a09969.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d0/d0a/a09969.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

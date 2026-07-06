@@ -1,6 +1,6 @@
 var a19781 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
-    [ "instance_halls_of_stone", "de/d35/a19781.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "de/d35/a19781.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "npc_centrifuge_constructAI", "d0/dc0/a19785.html", "d0/dc0/a19785" ],
+    [ "npc_centrifuge_construct", "de/d35/a19781.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "de/d35/a19781.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

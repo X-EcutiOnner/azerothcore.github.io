@@ -1,7 +1,9 @@
 var a08357 =
 [
-    [ "CreatureSpellCooldown", "df/d98/a08357.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "df/d98/a08357.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "df/d98/a08357.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "df/d98/a08357.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "LFGGroupScript", "df/d98/a08357.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "df/d98/a08357.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "df/d98/a08357.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "df/d98/a08357.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "df/d98/a08357.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "df/d98/a08357.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

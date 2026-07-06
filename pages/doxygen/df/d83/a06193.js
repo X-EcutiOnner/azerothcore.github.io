@@ -1,11 +1,9 @@
 var a06193 =
 [
-    [ "AppliedFileEntry", "df/d83/a06193.html#ac925dd4c2f889ae84e8be8cba9a0ef06", null ],
-    [ "GetStateAsString", "df/d83/a06193.html#a803f0ee67f0d3944b0933cf97723b5d3", null ],
-    [ "StateConvert", "df/d83/a06193.html#a16274f0e9e6669be265ba75f79c4b10f", null ],
-    [ "StateConvert", "df/d83/a06193.html#ac35fc4abcc60015c56765ceebc6fdb8f", null ],
-    [ "hash", "df/d83/a06193.html#af39f798a10c2675e870d4d62f1d0a10c", null ],
-    [ "name", "df/d83/a06193.html#a8fc429eae6816054b5828952a5698a4c", null ],
-    [ "state", "df/d83/a06193.html#a7899f60d95db04e776b7ccfbc1003cfb", null ],
-    [ "timestamp", "df/d83/a06193.html#a13703e88b76f26858696b33a8bc8f862", null ]
+    [ "SQLQueryHolderTask", "df/d83/a06193.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "df/d83/a06193.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "df/d83/a06193.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "df/d83/a06193.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "df/d83/a06193.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "df/d83/a06193.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

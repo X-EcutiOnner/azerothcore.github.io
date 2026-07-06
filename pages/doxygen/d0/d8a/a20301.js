@@ -1,5 +1,7 @@
 var a20301 =
 [
-    [ "achievement_kologarn_looks_could_kill", "d0/d8a/a20301.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "d0/d8a/a20301.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "HandleAfterEffectApply", "d0/d8a/a20301.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d0/d8a/a20301.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d0/d8a/a20301.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d0/d8a/a20301.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

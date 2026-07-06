@@ -1,9 +1,6 @@
 var a16893 =
 [
-    [ "npc_concentrated_ballAI", "d3/d7a/a16893.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d3/d7a/a16893.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d3/d7a/a16893.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d3/d7a/a16893.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d3/d7a/a16893.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d3/d7a/a16893.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_hunterAI", "d6/d0e/a16897.html", "d6/d0e/a16897" ],
+    [ "npc_toc_hunter", "d3/d7a/a16893.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d3/d7a/a16893.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

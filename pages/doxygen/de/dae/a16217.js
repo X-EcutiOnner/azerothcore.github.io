@@ -1,6 +1,6 @@
 var a16217 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d9/dbc/a16221.html", "d9/dbc/a16221" ],
-    [ "instance_azjol_nerub", "de/dae/a16217.html#a61476a0d15136d2bdb3a65eca72963da", null ],
-    [ "GetInstanceScript", "de/dae/a16217.html#a8bb8477669c6369afe508a400bd4d489", null ]
+    [ "npc_sergeant_blyAI", "d9/dbc/a16221.html", "d9/dbc/a16221" ],
+    [ "npc_sergeant_bly", "de/dae/a16217.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "de/dae/a16217.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

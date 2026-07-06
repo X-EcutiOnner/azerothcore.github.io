@@ -1,7 +1,8 @@
 var a15745 =
 [
-    [ "HandleDummy", "dc/d62/a15745.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "dc/d62/a15745.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "dc/d62/a15745.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "dc/d62/a15745.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "npc_ahnqiraji_critter", "dc/d62/a15745.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "dc/d62/a15745.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "dc/d62/a15745.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "dc/d62/a15745.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "dc/d62/a15745.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

@@ -1,6 +1,7 @@
 var a15141 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "de/d1b/a15145.html", "de/d1b/a15145" ],
-    [ "instance_the_black_morass", "db/dc0/a15141.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
-    [ "GetInstanceScript", "db/dc0/a15141.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
+    [ "hyjalJainaAI", "de/d1b/a15145.html", "de/d1b/a15145" ],
+    [ "npc_hyjal_jaina", "db/dc0/a15141.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "db/dc0/a15141.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "db/dc0/a15141.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

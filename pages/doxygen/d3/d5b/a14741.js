@@ -1,5 +1,6 @@
 var a14741 =
 [
-    [ "MidsummerPlayerScript", "d3/d5b/a14741.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
-    [ "OnPlayerUpdateZone", "d3/d5b/a14741.html#af512e1744264ac69fe2b7f7ba3836760", null ]
+    [ "PeriodicTick", "d3/d5b/a14741.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d3/d5b/a14741.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d3/d5b/a14741.html#aab689a2cb84dcd064736171035640584", null ]
 ];

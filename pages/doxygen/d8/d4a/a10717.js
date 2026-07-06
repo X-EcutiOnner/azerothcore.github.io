@@ -1,10 +1,13 @@
 var a10717 =
 [
-    [ "TicketScript", "d8/d4a/a10717.html#aec2b310ba0b26aa84a245207256edb0e", null ],
-    [ "IsDatabaseBound", "d8/d4a/a10717.html#afa21fa5aaf58c4ff964bcb3f81afbb32", null ],
-    [ "OnTicketClose", "d8/d4a/a10717.html#add082bd9a2d3a068bbb8f3a97d130887", null ],
-    [ "OnTicketCreate", "d8/d4a/a10717.html#a3436bbc78425bf5144c81f6309060b33", null ],
-    [ "OnTicketResolve", "d8/d4a/a10717.html#abd4d9cdf0fd99c10d6d86c395adecb9a", null ],
-    [ "OnTicketStatusUpdate", "d8/d4a/a10717.html#ae30b28cef4497cbed153c3e98e26d00d", null ],
-    [ "OnTicketUpdateLastChange", "d8/d4a/a10717.html#a3535e5592bc5f9ceb6b642b80a4f46b7", null ]
+    [ "FormulaScript", "d8/d4a/a10717.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "d8/d4a/a10717.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "d8/d4a/a10717.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "d8/d4a/a10717.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "d8/d4a/a10717.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "d8/d4a/a10717.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "d8/d4a/a10717.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "d8/d4a/a10717.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "d8/d4a/a10717.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "d8/d4a/a10717.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

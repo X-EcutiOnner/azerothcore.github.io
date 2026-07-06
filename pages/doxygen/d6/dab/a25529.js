@@ -1,6 +1,6 @@
 var a25529 =
 [
-    [ "HandleScript", "d6/dab/a25529.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
-    [ "PrepareSpellScript", "d6/dab/a25529.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
-    [ "Register", "d6/dab/a25529.html#a8769cbce815d1f1c457979743e10535c", null ]
+    [ "CheckCast", "d6/dab/a25529.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
+    [ "PrepareSpellScript", "d6/dab/a25529.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
+    [ "Register", "d6/dab/a25529.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
 ];

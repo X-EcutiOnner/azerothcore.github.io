@@ -1,5 +1,6 @@
 var a18145 =
 [
-    [ "RotfaceHeightCheck", "d6/d54/a18145.html#aabdeaee465989c339fc7a3f186e20498", null ],
-    [ "operator()", "d6/d54/a18145.html#a585743e0e76c64a5caa37acab46d04d5", null ]
+    [ "HandlePeriodicTick", "d6/d54/a18145.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "d6/d54/a18145.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "d6/d54/a18145.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

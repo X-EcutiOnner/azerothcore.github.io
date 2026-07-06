@@ -1,7 +1,8 @@
 var a19609 =
 [
-    [ "HandleProc", "d9/dba/a19609.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d9/dba/a19609.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d9/dba/a19609.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d9/dba/a19609.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "npc_scion_of_eternity", "d9/dba/a19609.html#ac1a9111bc835a3d2cffc43b840985763", null ],
+    [ "AttackStart", "d9/dba/a19609.html#a86b5e235096ad107217f36150c618d73", null ],
+    [ "JustDied", "d9/dba/a19609.html#aff0f8d0d57afb6ef3df7b259ec5860fa", null ],
+    [ "MoveInLineOfSight", "d9/dba/a19609.html#a25424c349fc39f7b42d36ac055f91ad9", null ],
+    [ "UpdateAI", "d9/dba/a19609.html#a49be60ccd03d75cf56931b870ddf086c", null ]
 ];

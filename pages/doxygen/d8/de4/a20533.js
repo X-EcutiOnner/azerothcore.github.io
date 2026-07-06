@@ -1,7 +1,6 @@
 var a20533 =
 [
-    [ "FilterTargets", "d8/de4/a20533.html#a582691eca81b6db6d78ca925ad8fb084", null ],
-    [ "PrepareSpellScript", "d8/de4/a20533.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
-    [ "RecalculateDamage", "d8/de4/a20533.html#a02c1af0414de344056b2375488f23c01", null ],
-    [ "Register", "d8/de4/a20533.html#a1e030067944878000b731edf456d6bc8", null ]
+    [ "ModDest", "d8/de4/a20533.html#aae907d93c4c5d951b39c6c71aa647dee", null ],
+    [ "PrepareSpellScript", "d8/de4/a20533.html#a028184d1e5a2898d7b6ba7a545683f48", null ],
+    [ "Register", "d8/de4/a20533.html#ae9b8d62283a23d7cfcd2ec5d92df7bbe", null ]
 ];

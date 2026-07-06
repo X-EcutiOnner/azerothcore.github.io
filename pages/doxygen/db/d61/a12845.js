@@ -1,9 +1,7 @@
 var a12845 =
 [
-    [ "npc_flamewaker_priest", "db/d61/a12845.html#aa0b872053b56d11077d2dbe25c1870d1", null ],
-    [ "JustDied", "db/d61/a12845.html#a87ebaf50263847a58c238ea2b7105b84", null ],
-    [ "JustEngagedWith", "db/d61/a12845.html#a5c539171b96fd5a98ce044c5d47ef815", null ],
-    [ "Reset", "db/d61/a12845.html#a168ff12b2a915358fb59b8ff255c697e", null ],
-    [ "UpdateAI", "db/d61/a12845.html#a0fce5f31e414f6e3fd140015b0b4524c", null ],
-    [ "events", "db/d61/a12845.html#a97c419bcf7fc02bfe792ed925f7857c2", null ]
+    [ "ClassCallSelector", "db/d61/a12845.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "db/d61/a12845.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "db/d61/a12845.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "db/d61/a12845.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

@@ -1,20 +1,8 @@
 var a05829 =
 [
-    [ "Task", "dc/d5f/a05829.html#a15fd2d39bf79bd4d8ea432b5543f5efc", null ],
-    [ "Task", "dc/d5f/a05829.html#ad9b788727c5e8dfa5c424970f882b1dc", null ],
-    [ "Task", "dc/d5f/a05829.html#a7eec23707deabeb93b600ad1b17812d6", null ],
-    [ "Task", "dc/d5f/a05829.html#a9acec30a90c44ffcff66c256a9caf01a", null ],
-    [ "IsInGroup", "dc/d5f/a05829.html#a0bbb86f1ed4357c9af9813e551fc41d7", null ],
-    [ "operator<", "dc/d5f/a05829.html#aa53b9d06447478218858aaff7634daab", null ],
-    [ "operator=", "dc/d5f/a05829.html#af7f962055b0324a6fedcdd91d9d375dd", null ],
-    [ "operator=", "dc/d5f/a05829.html#a97319b03103a3013d96f7abe094ab6a5", null ],
-    [ "operator==", "dc/d5f/a05829.html#ac245f8900a292b6ad6ece4c44da85e11", null ],
-    [ "operator>", "dc/d5f/a05829.html#a45990c164939b2c5a4fafc541103f70f", null ],
-    [ "TaskContext", "dc/d5f/a05829.html#ab75a9caf07880e5ba2bb9f75068bbe7e", null ],
-    [ "TaskScheduler", "dc/d5f/a05829.html#a9f0573c5408a663c3874787eeb7d599e", null ],
-    [ "_duration", "dc/d5f/a05829.html#add2dd72f389df2168012eb70160f6eb3", null ],
-    [ "_end", "dc/d5f/a05829.html#a09a7b8fbb3878aef1cc5f76367e4d43b", null ],
-    [ "_group", "dc/d5f/a05829.html#ad9e890cbd7ed9ff7b8829e132605d432", null ],
-    [ "_repeated", "dc/d5f/a05829.html#a85e8a2803a79f877e94162cc824fabbe", null ],
-    [ "_task", "dc/d5f/a05829.html#a0d846eeae80d54906771ba41281fbdc0", null ]
+    [ "result_type", "dc/d5f/a05829.html#a20f96383bade76c6185d8f20f458784e", null ],
+    [ "Instance", "dc/d5f/a05829.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
+    [ "max", "dc/d5f/a05829.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
+    [ "min", "dc/d5f/a05829.html#ab153ffca65139db4084745302dd4db7f", null ],
+    [ "operator()", "dc/d5f/a05829.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
 ];

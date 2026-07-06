@@ -1,7 +1,6 @@
 var a21581 =
 [
-    [ "HandleDummy", "d7/dba/a21581.html#abb5726c8afa66a946eefc8767094ea9b", null ],
-    [ "PrepareSpellScript", "d7/dba/a21581.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
-    [ "Register", "d7/dba/a21581.html#a38efc59fcbb40469521419723a1dceb3", null ],
-    [ "Validate", "d7/dba/a21581.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
+    [ "npc_mindless_ghoulAI", "d7/dba/a21581.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d7/dba/a21581.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d7/dba/a21581.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

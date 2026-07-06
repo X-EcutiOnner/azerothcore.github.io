@@ -1,7 +1,6 @@
 var a18529 =
 [
-    [ "PrepareSpellScript", "d2/d06/a18529.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d2/d06/a18529.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d2/d06/a18529.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d2/d06/a18529.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "HandleScript", "d2/d06/a18529.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d2/d06/a18529.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d2/d06/a18529.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

@@ -1,6 +1,7 @@
 var a21337 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "de/d11/a21341.html", "de/d11/a21341" ],
-    [ "npc_conversing_with_the_depths_trigger", "db/de2/a21337.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "db/de2/a21337.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_azure_spellbreaker", "db/de2/a21337.html#ae884adc9619d3458d81a2029bd490893", null ],
+    [ "Reset", "db/de2/a21337.html#a32e4674bac67f1a259c68c32ef0d1358", null ],
+    [ "UpdateAI", "db/de2/a21337.html#a938a93a71490bb42158e2215d125509f", null ],
+    [ "_events", "db/de2/a21337.html#a9f526cff54cb949cc68046e7816c3c89", null ]
 ];

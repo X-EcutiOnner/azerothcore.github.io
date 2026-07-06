@@ -1,6 +1,7 @@
 var a17353 =
 [
-    [ "boss_drakkari_elementalAI", "d9/df6/a17357.html", "d9/df6/a17357" ],
-    [ "boss_drakkari_elemental", "d6/d69/a17353.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
-    [ "GetAI", "d6/d69/a17353.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
+    [ "UtherBatteredHiltEvent", "d6/d69/a17353.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d6/d69/a17353.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d6/d69/a17353.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d6/d69/a17353.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

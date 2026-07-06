@@ -1,5 +1,6 @@
 var a23237 =
 [
-    [ "spellId", "d4/dd8/a23237.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "d4/dd8/a23237.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "HandlePeriodic", "d4/dd8/a23237.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "d4/dd8/a23237.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "d4/dd8/a23237.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

@@ -1,13 +1,11 @@
 var a23105 =
 [
-    [ "boss_olm_the_summoner", "da/dbc/a23105.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "da/dbc/a23105.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "da/dbc/a23105.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "da/dbc/a23105.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "da/dbc/a23105.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "da/dbc/a23105.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "da/dbc/a23105.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "da/dbc/a23105.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "da/dbc/a23105.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "da/dbc/a23105.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "boss_ahune", "da/dbc/a23105.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "da/dbc/a23105.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "da/dbc/a23105.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "da/dbc/a23105.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "da/dbc/a23105.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "da/dbc/a23105.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "da/dbc/a23105.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "da/dbc/a23105.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

@@ -1,10 +1,7 @@
 var a10517 =
 [
-    [ "Flags", "d9/d8e/a10517.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "d9/d8e/a10517.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "d9/d8e/a10517.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "d9/d8e/a10517.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "d9/d8e/a10517.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "d9/d8e/a10517.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "d9/d8e/a10517.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "WaypointPath", "d9/d8e/a10517.html#a69a3981fa5b1672519124870513458b3", null ],
+    [ "WaypointPath", "d9/d8e/a10517.html#a65afbfc096b99361fcab26adad9cab7d", null ],
+    [ "Id", "d9/d8e/a10517.html#a553acc50411bbeabedbec3c9431212ad", null ],
+    [ "Nodes", "d9/d8e/a10517.html#a6326c73791542489c7f4d098b05887fb", null ]
 ];

@@ -1,7 +1,8 @@
 var a09353 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d7/d03/a09353.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d7/d03/a09353.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d7/d03/a09353.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d7/d03/a09353.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "target_mapId", "d7/d03/a09353.html#af6d7558707c026a6d64f2d7b65a344be", null ],
+    [ "target_Orientation", "d7/d03/a09353.html#a5f6bf883e167b683e048ce9eeebb7cb0", null ],
+    [ "target_X", "d7/d03/a09353.html#a3ef5faea7a6fd9b173ea35036b3390b2", null ],
+    [ "target_Y", "d7/d03/a09353.html#a6660d360eaa47098506f246927130e32", null ],
+    [ "target_Z", "d7/d03/a09353.html#a32fee5f497804089feb738be84548dc1", null ]
 ];

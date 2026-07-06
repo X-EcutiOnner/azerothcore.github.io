@@ -1,7 +1,5 @@
 var a21385 =
 [
-    [ "CheckCast", "df/da5/a21385.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
-    [ "HandleScript", "df/da5/a21385.html#a8128bb2d7588409dae73bed78d5285a7", null ],
-    [ "PrepareSpellScript", "df/da5/a21385.html#aee17a8a21ec5df027082c6990189dccc", null ],
-    [ "Register", "df/da5/a21385.html#a2a97265e102e9ce31997d99275b42973", null ]
+    [ "npc_nerubar_victimAI", "df/da5/a21385.html#a494976030dd48544742dd14fc09ffdbd", null ],
+    [ "JustDied", "df/da5/a21385.html#abe3813465cad08800708726cb7ffa021", null ]
 ];

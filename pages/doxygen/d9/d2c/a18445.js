@@ -1,7 +1,7 @@
 var a18445 =
 [
-    [ "OnPeriodic", "d9/d2c/a18445.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d9/d2c/a18445.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d9/d2c/a18445.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d9/d2c/a18445.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "HandleScript", "d9/d2c/a18445.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d9/d2c/a18445.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d9/d2c/a18445.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d9/d2c/a18445.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

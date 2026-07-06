@@ -1,6 +1,9 @@
 var a25477 =
 [
-    [ "PrepareSpellScript", "db/d02/a25477.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "db/d02/a25477.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "db/d02/a25477.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "CheckCast", "db/d02/a25477.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "db/d02/a25477.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "db/d02/a25477.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "db/d02/a25477.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "db/d02/a25477.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "db/d02/a25477.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

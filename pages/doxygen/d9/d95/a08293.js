@@ -1,7 +1,7 @@
 var a08293 =
 [
-    [ "ForcedDespawnDelayEvent", "d9/d95/a08293.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d9/d95/a08293.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d9/d95/a08293.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d9/d95/a08293.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "LfgJoinResultData", "d9/d95/a08293.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d9/d95/a08293.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d9/d95/a08293.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d9/d95/a08293.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

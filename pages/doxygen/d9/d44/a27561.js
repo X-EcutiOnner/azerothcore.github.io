@@ -1,6 +1,6 @@
 var a27561 =
 [
-    [ "achievement_arena_by_type", "d9/d44/a27561.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d9/d44/a27561.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d9/d44/a27561.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "PrepareAuraScript", "d9/d44/a27561.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "d9/d44/a27561.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "d9/d44/a27561.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

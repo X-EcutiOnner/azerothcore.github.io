@@ -1,11 +1,11 @@
 var a23629 =
 [
-    [ "npc_aeranasAI", "d2/d86/a23629.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "JustReachedHome", "d2/d86/a23629.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
-    [ "Reset", "d2/d86/a23629.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d2/d86/a23629.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "_defeated", "d2/d86/a23629.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
-    [ "envelopingWinds_Timer", "d2/d86/a23629.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d2/d86/a23629.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d2/d86/a23629.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "boss_high_astromancer_solarian", "d2/d86/a23629.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "d2/d86/a23629.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "d2/d86/a23629.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "d2/d86/a23629.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "d2/d86/a23629.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "d2/d86/a23629.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "d2/d86/a23629.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "d2/d86/a23629.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

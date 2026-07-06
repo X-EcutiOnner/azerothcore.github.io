@@ -1,9 +1,7 @@
 var a08269 =
 [
-    [ "LFGPlayerScript", "d7/d90/a08269.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "d7/d90/a08269.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "d7/d90/a08269.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "d7/d90/a08269.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "d7/d90/a08269.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "d7/d90/a08269.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "global_sequence", "d7/d90/a08269.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
+    [ "interpolation_type", "d7/d90/a08269.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
+    [ "timestamps", "d7/d90/a08269.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
+    [ "values", "d7/d90/a08269.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
 ];

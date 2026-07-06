@@ -1,10 +1,10 @@
 var a08717 =
 [
-    [ "ObjectGuidGeneratorBase", "d3/d3d/a08717.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d3/d3d/a08717.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d3/d3d/a08717.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "d3/d3d/a08717.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d3/d3d/a08717.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d3/d3d/a08717.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d3/d3d/a08717.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "SpellCategory", "d3/d3d/a08717.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "d3/d3d/a08717.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "d3/d3d/a08717.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "d3/d3d/a08717.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "d3/d3d/a08717.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "d3/d3d/a08717.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "d3/d3d/a08717.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

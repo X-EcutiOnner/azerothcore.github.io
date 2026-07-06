@@ -1,8 +1,8 @@
 var a18713 =
 [
-    [ "npc_suppresserAI", "d5/d7e/a18713.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d5/d7e/a18713.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d5/d7e/a18713.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d5/d7e/a18713.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d5/d7e/a18713.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "Load", "d5/d7e/a18713.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d5/d7e/a18713.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d5/d7e/a18713.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d5/d7e/a18713.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d5/d7e/a18713.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

@@ -1,8 +1,8 @@
 var a26013 =
 [
-    [ "HandleProc", "d6/dd7/a26013.html#ad470545a3c3f1ffaad2d895f122522e1", null ],
-    [ "OnRemove", "d6/dd7/a26013.html#adc9b9b988aa1342c34a49622f54d8484", null ],
-    [ "PrepareAuraScript", "d6/dd7/a26013.html#ab3008bcdeb90825213d2352812ff21d5", null ],
-    [ "Register", "d6/dd7/a26013.html#a9ee52d89eeff45a4f9df1982da6f7d78", null ],
-    [ "Validate", "d6/dd7/a26013.html#a0ea66a92b78e59b50181b54ab285b9db", null ]
+    [ "HandleScript", "d6/dd7/a26013.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "d6/dd7/a26013.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "d6/dd7/a26013.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "d6/dd7/a26013.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "d6/dd7/a26013.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

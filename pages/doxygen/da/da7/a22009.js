@@ -1,6 +1,6 @@
 var a22009 =
 [
-    [ "HandleSummon", "da/da7/a22009.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "da/da7/a22009.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "da/da7/a22009.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_bushwhackerAI", "da/d55/a22013.html", "da/d55/a22013" ],
+    [ "npc_bushwhacker", "da/da7/a22009.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "da/da7/a22009.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

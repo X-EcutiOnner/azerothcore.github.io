@@ -1,7 +1,7 @@
 var a19833 =
 [
-    [ "HandleDummyEffect", "d3/d7e/a19833.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d3/d7e/a19833.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d3/d7e/a19833.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d3/d7e/a19833.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "HandleOnEffectApply", "d3/d7e/a19833.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d3/d7e/a19833.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d3/d7e/a19833.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d3/d7e/a19833.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

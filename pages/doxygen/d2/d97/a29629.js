@@ -1,10 +1,6 @@
 var a29629 =
 [
-    [ "maxSimplificationError", "d2/d97/a29629.html#a010878a247d639234d2bb8571280aca6", null ],
-    [ "vertexPerMapEdge", "d2/d97/a29629.html#af620af11a09215f106fc6704c88fa411", null ],
-    [ "vertexPerTileEdge", "d2/d97/a29629.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
-    [ "walkableClimb", "d2/d97/a29629.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
-    [ "walkableHeight", "d2/d97/a29629.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
-    [ "walkableRadius", "d2/d97/a29629.html#a43f00aacc5e1497c169d4ba908883140", null ],
-    [ "walkableSlopeAngle", "d2/d97/a29629.html#a9792dfe730bfc437797a359896a14528", null ]
+    [ "SetUp", "d2/d97/a29629.html#ac7db18817aa330aedefd1f688d53219b", null ],
+    [ "TearDown", "d2/d97/a29629.html#a0cb70a624f55509497866a1fac787800", null ],
+    [ "_previousWorld", "d2/d97/a29629.html#afec905a799e8fe7522a2fa6756fa41d9", null ]
 ];

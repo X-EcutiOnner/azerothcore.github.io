@@ -1,7 +1,8 @@
 var a09077 =
 [
-    [ "VehicleDespawnEvent", "d5/d44/a09077.html#a53c96e023186cfb36084814b69e62d15", null ],
-    [ "Execute", "d5/d44/a09077.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d5/d44/a09077.html#a9ac4ab83b785691285fb20364925b7ca", null ],
-    [ "_self", "d5/d44/a09077.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "DiminishingReturn", "d5/d44/a09077.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d5/d44/a09077.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d5/d44/a09077.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d5/d44/a09077.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d5/d44/a09077.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

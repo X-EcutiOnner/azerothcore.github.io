@@ -1,7 +1,7 @@
 var a18953 =
 [
-    [ "HandleEffectPeriodic", "da/d33/a18953.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "da/d33/a18953.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "da/d33/a18953.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "da/d33/a18953.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "FrostwingVrykulSearcher", "da/d33/a18953.html#a10aa54184b42a0538dc4f325204399e9", null ],
+    [ "operator()", "da/d33/a18953.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
+    [ "_range", "da/d33/a18953.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
+    [ "_source", "da/d33/a18953.html#af5d3c93f41698e71c867336d0453d40a", null ]
 ];

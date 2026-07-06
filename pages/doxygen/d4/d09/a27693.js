@@ -1,6 +1,6 @@
 var a27693 =
 [
-    [ "boss_taerarAI", "d3/d2b/a27697.html", "d3/d2b/a27697" ],
-    [ "boss_taerar", "d4/d09/a27693.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d4/d09/a27693.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "HandleScript", "d4/d09/a27693.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
+    [ "PrepareSpellScript", "d4/d09/a27693.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
+    [ "Register", "d4/d09/a27693.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
 ];

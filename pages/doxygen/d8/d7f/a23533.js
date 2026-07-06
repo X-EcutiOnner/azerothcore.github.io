@@ -1,9 +1,8 @@
 var a23533 =
 [
-    [ "boss_nethermancer_sepethrea", "d8/d7f/a23533.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d8/d7f/a23533.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d8/d7f/a23533.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d8/d7f/a23533.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d8/d7f/a23533.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d8/d7f/a23533.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "HandleEffectApply", "d8/d7f/a23533.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
+    [ "HandleEffectRemove", "d8/d7f/a23533.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
+    [ "PrepareAuraScript", "d8/d7f/a23533.html#a438a8ba3688e0832853bae4183695494", null ],
+    [ "Register", "d8/d7f/a23533.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
+    [ "Validate", "d8/d7f/a23533.html#ab07b244e53b397bc9e9842655617a80d", null ]
 ];

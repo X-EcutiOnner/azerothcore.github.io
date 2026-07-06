@@ -1,7 +1,9 @@
 var a28393 =
 [
-    [ "npc_prof_leather", "dd/db0/a28393.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "dd/db0/a28393.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "dd/db0/a28393.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "dd/db0/a28393.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "npc_fireworkAI", "dd/db0/a28393.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "dd/db0/a28393.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "dd/db0/a28393.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "dd/db0/a28393.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "dd/db0/a28393.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "dd/db0/a28393.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

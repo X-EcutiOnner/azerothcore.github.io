@@ -1,6 +1,15 @@
 var a16513 =
 [
-    [ "FilterTargets", "d1/d8e/a16513.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d1/d8e/a16513.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d1/d8e/a16513.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "npc_onyx_flamecallerAI", "d1/d8e/a16513.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
+    [ "AddWaypoints", "d1/d8e/a16513.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
+    [ "EnterEvadeMode", "d1/d8e/a16513.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
+    [ "IsSummonedBy", "d1/d8e/a16513.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
+    [ "JustEngagedWith", "d1/d8e/a16513.html#a3cba2cd9a920816bee993ae2986639a0", null ],
+    [ "Reset", "d1/d8e/a16513.html#a756a44feb79eb56f443ee16995a2566d", null ],
+    [ "UpdateEscortAI", "d1/d8e/a16513.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
+    [ "WaypointReached", "d1/d8e/a16513.html#a8b510bce47929e85741f5debd857de8d", null ],
+    [ "WaypointReached", "d1/d8e/a16513.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_events", "d1/d8e/a16513.html#a9280b604135308078860c20667da9819", null ],
+    [ "_instance", "d1/d8e/a16513.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
+    [ "_lavaGoutCount", "d1/d8e/a16513.html#a1f46c988316c1870f506a66f2390e79b", null ]
 ];

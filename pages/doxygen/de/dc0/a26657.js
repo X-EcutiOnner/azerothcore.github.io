@@ -1,6 +1,10 @@
 var a26657 =
 [
-    [ "HandleScriptEffect", "de/dc0/a26657.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
-    [ "PrepareSpellScript", "de/dc0/a26657.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
-    [ "Register", "de/dc0/a26657.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
+    [ "Absorb", "de/dc0/a26657.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "de/dc0/a26657.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "de/dc0/a26657.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "de/dc0/a26657.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "de/dc0/a26657.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "de/dc0/a26657.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "de/dc0/a26657.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

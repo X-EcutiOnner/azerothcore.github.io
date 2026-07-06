@@ -1,14 +1,14 @@
 var a07597 =
 [
-    [ "IsArena", "d8/d12/a07597.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
-    [ "BattlemasterEntry", "d8/d12/a07597.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
-    [ "Id", "d8/d12/a07597.html#a0fca37318585903f68695452a95011a9", null ],
-    [ "MaxLevel", "d8/d12/a07597.html#a790f55d480d1454a5f6e5713c04314b7", null ],
-    [ "MaxPlayersPerTeam", "d8/d12/a07597.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
-    [ "MaxStartDistSq", "d8/d12/a07597.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
-    [ "MinLevel", "d8/d12/a07597.html#a49fdf96a08376830a06956fd501cfa78", null ],
-    [ "MinPlayersPerTeam", "d8/d12/a07597.html#ac1bea263b53de8573cdb8eb890175495", null ],
-    [ "ScriptId", "d8/d12/a07597.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
-    [ "StartLocation", "d8/d12/a07597.html#a8477d2156c8aa5bb89da038d1a779698", null ],
-    [ "Weight", "d8/d12/a07597.html#aa7a051e8453599a7e82da763a6f91da2", null ]
+    [ "ArenaTeamScore", "d8/d12/a07597.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
+    [ "~ArenaTeamScore", "d8/d12/a07597.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
+    [ "Assign", "d8/d12/a07597.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
+    [ "BuildRatingInfoBlock", "d8/d12/a07597.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
+    [ "BuildTeamInfoBlock", "d8/d12/a07597.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
+    [ "Reset", "d8/d12/a07597.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
+    [ "Arena", "d8/d12/a07597.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "Battleground", "d8/d12/a07597.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
+    [ "MatchmakerRating", "d8/d12/a07597.html#a1e82169562a459371f973932d22e2f15", null ],
+    [ "RatingChange", "d8/d12/a07597.html#a61c85f158b767a6c81de87d7ad5007db", null ],
+    [ "TeamName", "d8/d12/a07597.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
 ];

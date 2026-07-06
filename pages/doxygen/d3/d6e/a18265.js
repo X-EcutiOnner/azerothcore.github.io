@@ -1,7 +1,11 @@
 var a18265 =
 [
-    [ "HandleScript", "d3/d6e/a18265.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d3/d6e/a18265.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d3/d6e/a18265.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d3/d6e/a18265.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "Load", "d3/d6e/a18265.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
+    [ "PrepareSpellScript", "d3/d6e/a18265.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
+    [ "Register", "d3/d6e/a18265.html#a9adbad7cc2185b22fb16135e78114548", null ],
+    [ "SelectTarget", "d3/d6e/a18265.html#a296ec09cec9661123ea5c86f3f262f32", null ],
+    [ "SetTarget", "d3/d6e/a18265.html#a15373dc2a0767e011faf504f6377e24d", null ],
+    [ "StartAttack", "d3/d6e/a18265.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
+    [ "Validate", "d3/d6e/a18265.html#a7619f7ec6dc0ce14293414729731ed00", null ],
+    [ "_target", "d3/d6e/a18265.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
 ];

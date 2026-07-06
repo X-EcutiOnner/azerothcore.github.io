@@ -1,6 +1,7 @@
 var a23737 =
 [
-    [ "HandleEffectRemove", "d1/daa/a23737.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d1/daa/a23737.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d1/daa/a23737.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "HandleDamage", "d1/daa/a23737.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "d1/daa/a23737.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "d1/daa/a23737.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "d1/daa/a23737.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

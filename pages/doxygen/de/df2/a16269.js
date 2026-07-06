@@ -1,6 +1,5 @@
 var a16269 =
 [
-    [ "HandleLeapBack", "de/df2/a16269.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "de/df2/a16269.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "de/df2/a16269.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "achievement_respect_your_elders", "de/df2/a16269.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
+    [ "OnCheck", "de/df2/a16269.html#a770922be3ab19848f7a8f43a82d78b88", null ]
 ];

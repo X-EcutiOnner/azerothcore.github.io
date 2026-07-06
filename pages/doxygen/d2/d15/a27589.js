@@ -1,5 +1,7 @@
 var a27589 =
 [
-    [ "achievement_killed_exp_or_honor_target", "d2/d15/a27589.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "d2/d15/a27589.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "HandleProc", "d2/d15/a27589.html#a9296b52700f070af311047166f6a913b", null ],
+    [ "PrepareAuraScript", "d2/d15/a27589.html#a067cc24e65f79bab10b9d1258fad3460", null ],
+    [ "Register", "d2/d15/a27589.html#affbd8840159048b6ea55ab98900d38c0", null ],
+    [ "Validate", "d2/d15/a27589.html#a31af0dd20daa2892f7c0a6baf2bf4485", null ]
 ];

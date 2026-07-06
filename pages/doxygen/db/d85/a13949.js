@@ -1,13 +1,10 @@
 var a13949 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/d85/a13949.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "db/d85/a13949.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "db/d85/a13949.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "db/d85/a13949.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "db/d85/a13949.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "db/d85/a13949.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "db/d85/a13949.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "db/d85/a13949.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "db/d85/a13949.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "db/d85/a13949.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_sunblade_scout", "db/d85/a13949.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "db/d85/a13949.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "db/d85/a13949.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "db/d85/a13949.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "db/d85/a13949.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "db/d85/a13949.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "db/d85/a13949.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

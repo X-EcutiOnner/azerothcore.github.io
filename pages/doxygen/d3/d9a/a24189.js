@@ -1,7 +1,7 @@
 var a24189 =
 [
-    [ "HandleDummy", "d3/d9a/a24189.html#a54f7f56a9122b623855eb9d11e34dfca", null ],
-    [ "PrepareSpellScript", "d3/d9a/a24189.html#a2fe4b009fa3741c180e18730af5853e3", null ],
-    [ "Register", "d3/d9a/a24189.html#a762c2320ab8d48e1284d81962a4b078f", null ],
-    [ "Validate", "d3/d9a/a24189.html#a42fbc381d7ae89f1ac265fb15ebd864f", null ]
+    [ "npc_pet_gen_target_following_bomb", "d3/d9a/a24189.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d3/d9a/a24189.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d3/d9a/a24189.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d3/d9a/a24189.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

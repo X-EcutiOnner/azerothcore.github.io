@@ -1,5 +1,5 @@
 var a01628 =
 [
-    [ "message_commandscript", "da/df9/a12403.html", "da/df9/a12403" ],
-    [ "AddSC_message_commandscript", "dd/deb/a01628.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
+    [ "gm_commandscript", "d0/d45/a12369.html", "d0/d45/a12369" ],
+    [ "AddSC_gm_commandscript", "dd/deb/a01628.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

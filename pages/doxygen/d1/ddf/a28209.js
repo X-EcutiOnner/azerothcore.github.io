@@ -1,8 +1,7 @@
 var a28209 =
 [
-    [ "npc_traveler_mammoth_vendor", "d1/ddf/a28209.html#af3b5fc14371eb03e8259799b296967c1", null ],
-    [ "Reset", "d1/ddf/a28209.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
-    [ "UpdateAI", "d1/ddf/a28209.html#a98129bb78476ddc0b1a09593b8894fff", null ],
-    [ "_hasEjected", "d1/ddf/a28209.html#af801e9849a795358c812fddf69ec8434", null ],
-    [ "_playerGuid", "d1/ddf/a28209.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
+    [ "npc_prof_leather", "d1/ddf/a28209.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "d1/ddf/a28209.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "d1/ddf/a28209.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "d1/ddf/a28209.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

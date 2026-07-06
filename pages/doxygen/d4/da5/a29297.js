@@ -1,9 +1,10 @@
 var a29297 =
 [
-    [ "CountQuestOnCreature", "d4/da5/a29297.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "d4/da5/a29297.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "d4/da5/a29297.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "d4/da5/a29297.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "d4/da5/a29297.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "d4/da5/a29297.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "BugfixVersion", "d4/da5/a29297.html#a461f8c749a874405584dc1fd3fe1d805", null ],
+    [ "Build", "d4/da5/a29297.html#a6cc7aff1b397df7333b9bb0003282abd", null ],
+    [ "HotfixVersion", "d4/da5/a29297.html#a0df61c036a57b8a3efde5d180dc38131", null ],
+    [ "MacHash", "d4/da5/a29297.html#ad59772e86371318fe975760e303fa7d9", null ],
+    [ "MajorVersion", "d4/da5/a29297.html#a0eb78564680f771e325536a0ab77382a", null ],
+    [ "MinorVersion", "d4/da5/a29297.html#a7140f7ef9540eff08fabf74ded68b9cc", null ],
+    [ "WindowsHash", "d4/da5/a29297.html#a96abd69a458dfc4363c4e545fc7fabab", null ]
 ];

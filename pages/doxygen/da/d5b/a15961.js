@@ -1,8 +1,6 @@
 var a15961 =
 [
-    [ "npc_pluckyAI", "d9/d95/a15965.html", "d9/d95/a15965" ],
-    [ "npc_plucky", "da/d5b/a15961.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "da/d5b/a15961.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "da/d5b/a15961.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "da/d5b/a15961.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_clintar_spiritAI", "d9/d95/a15965.html", "d9/d95/a15965" ],
+    [ "npc_clintar_spirit", "da/d5b/a15961.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "da/d5b/a15961.html#a118198504f6f93c86302275a11582d60", null ]
 ];

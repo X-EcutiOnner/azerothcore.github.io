@@ -1,8 +1,6 @@
 var a13341 =
 [
-    [ "HandleHit", "d1/dc4/a13341.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d1/dc4/a13341.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d1/dc4/a13341.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d1/dc4/a13341.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d1/dc4/a13341.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "HandleAfterCast", "d1/dc4/a13341.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d1/dc4/a13341.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d1/dc4/a13341.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

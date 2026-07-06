@@ -1,6 +1,10 @@
 var a20845 =
 [
-    [ "npc_ferocious_rhinoAI", "da/def/a20849.html", "da/def/a20849" ],
-    [ "npc_ferocious_rhino", "dd/da5/a20845.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "dd/da5/a20845.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "boss_yoggsaron_voice", "dd/da5/a20845.html#ae9baa030c275b7f80d084f4e5d44aed2", null ],
+    [ "Reset", "dd/da5/a20845.html#a05a59e5c1e05f40fed219a2927e8006d", null ],
+    [ "SpellHitTarget", "dd/da5/a20845.html#aae3b82dbb871f0f297bdacf975958492", null ],
+    [ "UpdateAI", "dd/da5/a20845.html#aa3570bf74b7caee5dcf844853a73d7e5", null ],
+    [ "_current", "dd/da5/a20845.html#a2c4eccdfa3eeb4ac7851e43bbd75b55b", null ],
+    [ "_targets", "dd/da5/a20845.html#a52bf7b9b560f600b5b3647fefb3830bf", null ],
+    [ "events", "dd/da5/a20845.html#abd4829f72aea74d3f9be6df3e40b08b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a14829 =
 [
-    [ "HandleDummy", "de/dff/a14829.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "de/dff/a14829.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "de/dff/a14829.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "HandleScript", "de/dff/a14829.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
+    [ "PrepareSpellScript", "de/dff/a14829.html#a26b296c1c4d9f5193dc3773509267284", null ],
+    [ "Register", "de/dff/a14829.html#aad66e4079ea9404b9057546d8959a395", null ]
 ];

@@ -1,7 +1,6 @@
 var a17729 =
 [
-    [ "DelayedMovementEvent", "d0/dc5/a17729.html#a21241cde30f66ae42edb311542f7405c", null ],
-    [ "Execute", "d0/dc5/a17729.html#a8287761226ee671905151891779b6efb", null ],
-    [ "_dest", "d0/dc5/a17729.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
-    [ "_owner", "d0/dc5/a17729.html#a046942728282a997068de447271f3cbe", null ]
+    [ "PrepareSpellScript", "d0/dc5/a17729.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d0/dc5/a17729.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d0/dc5/a17729.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

@@ -1,30 +1,36 @@
 var a01427 =
 [
-    [ "achievement_resilient_victory", "d4/de1/a27707.html", "d4/de1/a27707" ],
-    [ "achievement_bg_control_all_nodes", "d5/d78/a27711.html", "d5/d78/a27711" ],
-    [ "achievement_save_the_day", "d2/d18/a27715.html", "d2/d18/a27715" ],
-    [ "achievement_bg_ic_resource_glut", "d2/dca/a27719.html", "d2/dca/a27719" ],
-    [ "achievement_bg_ic_glaive_grave", "de/d8d/a27723.html", "de/d8d/a27723" ],
-    [ "achievement_bg_ic_mowed_down", "da/dc3/a27727.html", "da/dc3/a27727" ],
-    [ "achievement_bg_sa_artillery", "d1/d8d/a27731.html", "d1/d8d/a27731" ],
-    [ "achievement_arena_by_type", "dd/d0f/a27735.html", "dd/d0f/a27735" ],
-    [ "achievement_sickly_gazelle", "d8/d1d/a27739.html", "d8/d1d/a27739" ],
-    [ "achievement_everything_counts", "d5/d9b/a27743.html", "d5/d9b/a27743" ],
-    [ "achievement_bg_av_perfection", "d0/dc8/a27747.html", "d0/dc8/a27747" ],
-    [ "achievement_sa_defense_of_the_ancients", "de/dfd/a27751.html", "de/dfd/a27751" ],
-    [ "achievement_tilted", "d2/d9e/a27755.html", "d2/d9e/a27755" ],
-    [ "achievement_not_even_a_scratch", "df/d04/a27759.html", "df/d04/a27759" ],
-    [ "achievement_killed_exp_or_honor_target", "d7/d89/a27763.html", "d7/d89/a27763" ],
-    [ "achievement_flirt_with_disaster_perf_check", "d4/df0/a27767.html", "d4/df0/a27767" ],
-    [ "achievement_fa_la_la_la_ogrila", "d5/da6/a27771.html", "d5/da6/a27771" ],
-    [ "FaLaLaLaOgrila", "db/d78/a01427.html#af0943742af823c41ba5bd40044bba6c7", [
-      [ "SPELL_FRESH_HOLLY", "db/d78/a01427.html#af0943742af823c41ba5bd40044bba6c7a43d423e991cf4782f1ed339339389cf8", null ],
-      [ "SPELL_PRESERVED_HOLLY", "db/d78/a01427.html#af0943742af823c41ba5bd40044bba6c7a500857808a54719fcc6b35a3f89b8460", null ]
+    [ "npc_bunthen_plainswind", "db/d6e/a15953.html", "db/d6e/a15953" ],
+    [ "npc_silva_filnaveth", "d2/dcb/a15957.html", "d2/dcb/a15957" ],
+    [ "npc_clintar_spirit", "da/d5b/a15961.html", "da/d5b/a15961" ],
+    [ "npc_clintar_spirit::npc_clintar_spiritAI", "d9/d95/a15965.html", "d9/d95/a15965" ],
+    [ "npc_omen", "da/da3/a15969.html", "da/da3/a15969" ],
+    [ "npc_omen::npc_omenAI", "d2/d8c/a15973.html", "d2/d8c/a15973" ],
+    [ "npc_giant_spotlight", "dd/d53/a15977.html", "dd/d53/a15977" ],
+    [ "npc_giant_spotlight::npc_giant_spotlightAI", "d1/dd9/a15981.html", "d1/dd9/a15981" ],
+    [ "Bunthen", "db/d78/a01427.html#adbbeebdb932cdc68f2ad2b58d4c922fb", [
+      [ "QUEST_SEA_LION_HORDE", "db/d78/a01427.html#adbbeebdb932cdc68f2ad2b58d4c922fba19a2ff94115fefe241626f3331ce747f", null ],
+      [ "QUEST_SEA_LION_ALLY", "db/d78/a01427.html#adbbeebdb932cdc68f2ad2b58d4c922fba9333cbca83acf867219e50edeeb6ad5a", null ],
+      [ "TAXI_PATH_ID_ALLY", "db/d78/a01427.html#adbbeebdb932cdc68f2ad2b58d4c922fba5f9b640f23c79dda3001d48c5d714b08", null ],
+      [ "TAXI_PATH_ID_HORDE", "db/d78/a01427.html#adbbeebdb932cdc68f2ad2b58d4c922fbaa6f489a16374ddf85329d3ee985c460b", null ]
     ] ],
-    [ "FlirtWithDisaster", "db/d78/a01427.html#a59d6aac4e950d8e6a0265a26e1898c13", [
-      [ "AURA_PERFUME_FOREVER", "db/d78/a01427.html#a59d6aac4e950d8e6a0265a26e1898c13a51aa967912af69dc7510017e558bbb85", null ],
-      [ "AURA_PERFUME_ENCHANTRESS", "db/d78/a01427.html#a59d6aac4e950d8e6a0265a26e1898c13a6f98457c5232039183c4be4588a067c6", null ],
-      [ "AURA_PERFUME_VICTORY", "db/d78/a01427.html#a59d6aac4e950d8e6a0265a26e1898c13afb194a6e19cf65f763d7975e5d842c9c", null ]
+    [ "ClintarSpirit", "db/d78/a01427.html#af06e96ced22feb1885564950e05417a2", [
+      [ "ASPECT_RAVEN", "db/d78/a01427.html#af06e96ced22feb1885564950e05417a2a5aa355f8770a619dd97c43a1ed6c8e7f", null ],
+      [ "CLINTAR_SPIRIT_SAY_START", "db/d78/a01427.html#af06e96ced22feb1885564950e05417a2a4003cbd90da80c6fb02ae957c7e3e60e", null ]
     ] ],
-    [ "AddSC_achievement_scripts", "db/d78/a01427.html#a5091d6f933800f3313078304ad5c38ca", null ]
+    [ "Omen", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793", [
+      [ "NPC_OMEN", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a6d34405f4268188f4709fddd135879a1", null ],
+      [ "SPELL_OMEN_CLEAVE", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a525d07772748bd50623894654941eebb", null ],
+      [ "SPELL_OMEN_STARFALL", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a8a65e86a799ba7daf95b45212e2d0cac", null ],
+      [ "SPELL_OMEN_SUMMON_SPOTLIGHT", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a09afe0a7256990b201fc144424201c79", null ],
+      [ "SPELL_ELUNE_CANDLE", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a333999af862b8d1706a4b34ced3448e6", null ],
+      [ "GO_ELUNE_TRAP_1", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a55d48a597022d003e1e18a7cb332c3e3", null ],
+      [ "GO_ELUNE_TRAP_2", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a70bba7030d170525f9351e8643ed8e51", null ],
+      [ "EVENT_CAST_CLEAVE", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a9b4959d7ea485f12c7d67e5bd7672383", null ],
+      [ "EVENT_CAST_STARFALL", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a59097ac157a655e4c9371e19a53820fc", null ],
+      [ "EVENT_DESPAWN", "db/d78/a01427.html#a7fb152206db70a70437b235647a95793a37c22b84c74c36e2af467a6bd1047f15", null ]
+    ] ],
+    [ "AddSC_moonglade", "db/d78/a01427.html#a849e20dbd083abdfb7fb96857fb7d89f", null ],
+    [ "AspectRavenSummon", "db/d78/a01427.html#a8b390a1d926d93da400a7e199a1da6b6", null ],
+    [ "Clintar_spirit_WP", "db/d78/a01427.html#adcc622dc5710ac246cbdd4f072ad52fe", null ]
 ];

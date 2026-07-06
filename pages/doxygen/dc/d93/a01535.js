@@ -1,5 +1,5 @@
 var a01535 =
 [
-    [ "account_commandscript", "d9/d24/a12271.html", "d9/d24/a12271" ],
-    [ "AddSC_account_commandscript", "dc/d93/a01535.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
+    [ "player_commandscript", "d2/dd1/a12465.html", "d2/dd1/a12465" ],
+    [ "AddSC_player_commandscript", "dc/d93/a01535.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
 ];

@@ -1,10 +1,12 @@
 var a05713 =
 [
-    [ "AsyncCallbackProcessor", "da/ded/a05713.html#aee6f273ab86fad749de85cd12ea32a98", null ],
-    [ "~AsyncCallbackProcessor", "da/ded/a05713.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
-    [ "AsyncCallbackProcessor", "da/ded/a05713.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
-    [ "AddCallback", "da/ded/a05713.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
-    [ "operator=", "da/ded/a05713.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
-    [ "ProcessReadyCallbacks", "da/ded/a05713.html#a4fce127f587a9da913a9e9061ba538e7", null ],
-    [ "_callbacks", "da/ded/a05713.html#a372d9496b9a1b3e3f718cefe50164209", null ]
+    [ "Node", "d0/d8e/a05717.html", "d0/d8e/a05717" ],
+    [ "MPSCQueueNonIntrusive", "da/ded/a05713.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "da/ded/a05713.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "da/ded/a05713.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "da/ded/a05713.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "da/ded/a05713.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "da/ded/a05713.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "da/ded/a05713.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "da/ded/a05713.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

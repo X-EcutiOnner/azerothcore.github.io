@@ -1,6 +1,6 @@
 var a16729 =
 [
-    [ "npc_toc_warriorAI", "da/d46/a16733.html", "da/d46/a16733" ],
-    [ "npc_toc_warrior", "d4/dff/a16729.html#a3e969be07603ef59389106769010660c", null ],
-    [ "GetAI", "d4/dff/a16729.html#a557d9aa512c485e37b4a05b57ab3d1a4", null ]
+    [ "HandleSpellHit", "d4/dff/a16729.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d4/dff/a16729.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d4/dff/a16729.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

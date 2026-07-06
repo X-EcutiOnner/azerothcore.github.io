@@ -1,7 +1,5 @@
 var a23273 =
 [
-    [ "HandleOnApply", "d2/d40/a23273.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d2/d40/a23273.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d2/d40/a23273.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d2/d40/a23273.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d2/d40/a23273.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
+    [ "Initialize", "d2/d40/a23273.html#a9c7c10020eef3db4794283c0f946d086", null ]
 ];

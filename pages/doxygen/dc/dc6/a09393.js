@@ -1,10 +1,6 @@
 var a09393 =
 [
-    [ "iterator", "dc/dc6/a09393.html#a6bf9d06cfe6cb2e7df465ebf2acc099f", null ],
-    [ "begin", "dc/dc6/a09393.html#a1e4e67ba11ac8da077942a6581647bf3", null ],
-    [ "end", "dc/dc6/a09393.html#a266acb421cfc6ccc56dc2acff3202971", null ],
-    [ "getFirst", "dc/dc6/a09393.html#aa0156c2ad3ec5ca0df6f6a4c55d71a05", null ],
-    [ "getLast", "dc/dc6/a09393.html#a46a36813eaf752815a3f8c739db88a5d", null ],
-    [ "rbegin", "dc/dc6/a09393.html#ae69734978b5eec009a696861b7b7152b", null ],
-    [ "rend", "dc/dc6/a09393.html#a3f7b88b333f1da3a6ffdfc8ec31d8f52", null ]
+    [ "faction", "dc/dc6/a09393.html#aaad6e04ef66264f040ddd91ae7f4e04b", null ],
+    [ "faction_rank", "dc/dc6/a09393.html#a1ffb9cddf950edfb17e9779691b09f07", null ],
+    [ "faction_rate", "dc/dc6/a09393.html#ab86cdfcd03a47f0c48e0661c5e9c8fd4", null ]
 ];

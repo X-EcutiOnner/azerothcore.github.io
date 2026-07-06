@@ -1,6 +1,6 @@
 var a24989 =
 [
-    [ "PrepareSpellScript", "d7/dc6/a24989.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d7/dc6/a24989.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d7/dc6/a24989.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "HandleScript", "d7/dc6/a24989.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "d7/dc6/a24989.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "d7/dc6/a24989.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

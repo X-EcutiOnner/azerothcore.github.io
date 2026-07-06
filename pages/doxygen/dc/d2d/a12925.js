@@ -1,9 +1,9 @@
 var a12925 =
 [
-    [ "boss_curator", "dc/d2d/a12925.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
-    [ "JustDied", "dc/d2d/a12925.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
-    [ "JustEngagedWith", "dc/d2d/a12925.html#a848f477a101956662389cab5ffcc0727", null ],
-    [ "JustSummoned", "dc/d2d/a12925.html#ac779d275e03e6ba190617d215b217ce5", null ],
-    [ "KilledUnit", "dc/d2d/a12925.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
-    [ "Reset", "dc/d2d/a12925.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
+    [ "boss_baron_geddon", "dc/d2d/a12925.html#a1e7cf41aff13c376dafa35a992c378d8", null ],
+    [ "DamageTaken", "dc/d2d/a12925.html#a2a5a0ca6e40ac736171a8b80b0e66dad", null ],
+    [ "ExecuteEvent", "dc/d2d/a12925.html#af81a1ef4345e55f3d537baeb0e9528f4", null ],
+    [ "JustEngagedWith", "dc/d2d/a12925.html#ad0e720b1ea3e92fabeea8b78a6416f3f", null ],
+    [ "Reset", "dc/d2d/a12925.html#aee0a2c6587a7f743491f3a3e31ed6527", null ],
+    [ "armageddonCasted", "dc/d2d/a12925.html#a4ea01568770a91e6734d45e3730c62cc", null ]
 ];

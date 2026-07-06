@@ -1,7 +1,7 @@
 var a23065 =
 [
-    [ "OnApply", "d7/d1b/a23065.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
-    [ "PeriodicTick", "d7/d1b/a23065.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
-    [ "PrepareAuraScript", "d7/d1b/a23065.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
-    [ "Register", "d7/d1b/a23065.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
+    [ "FilterTargets", "d7/d1b/a23065.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d7/d1b/a23065.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d7/d1b/a23065.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d7/d1b/a23065.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

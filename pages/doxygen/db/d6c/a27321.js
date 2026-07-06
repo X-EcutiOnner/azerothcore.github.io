@@ -1,6 +1,7 @@
 var a27321 =
 [
-    [ "CalculateAmount", "db/d6c/a27321.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "db/d6c/a27321.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "db/d6c/a27321.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleDummy", "db/d6c/a27321.html#a6990bc24605167d38772f391aa2a5376", null ],
+    [ "PrepareSpellScript", "db/d6c/a27321.html#af85da0790eb36b91266ffa45888068d6", null ],
+    [ "Register", "db/d6c/a27321.html#a619dab878b3d6e332a15d772dd148e26", null ],
+    [ "Validate", "db/d6c/a27321.html#a5a39713deabac73334442e1bdeb00aad", null ]
 ];

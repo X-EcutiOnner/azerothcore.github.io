@@ -1,6 +1,19 @@
 var a08869 =
 [
-    [ "SkillStatusData", "d3/da7/a08869.html#a7594ceb20110da34f3aa68ac69996b94", null ],
-    [ "pos", "d3/da7/a08869.html#a51ccb328b807f2c7fd275d843218f466", null ],
-    [ "uState", "d3/da7/a08869.html#a232801ad25897a82739916d5be4fdc22", null ]
+    [ "PetInfo", "d3/da7/a08869.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "d3/da7/a08869.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "d3/da7/a08869.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "d3/da7/a08869.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "d3/da7/a08869.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "d3/da7/a08869.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "d3/da7/a08869.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "d3/da7/a08869.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "d3/da7/a08869.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "d3/da7/a08869.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "d3/da7/a08869.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "d3/da7/a08869.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "d3/da7/a08869.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "d3/da7/a08869.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "d3/da7/a08869.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "d3/da7/a08869.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

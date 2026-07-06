@@ -1,8 +1,6 @@
 var a14421 =
 [
-    [ "boss_venoxis", "de/dd5/a14421.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "de/dd5/a14421.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "de/dd5/a14421.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "de/dd5/a14421.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "de/dd5/a14421.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "boss_gahzranka", "de/dd5/a14421.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "de/dd5/a14421.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "de/dd5/a14421.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

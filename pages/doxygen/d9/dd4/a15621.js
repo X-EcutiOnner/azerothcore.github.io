@@ -1,5 +1,10 @@
 var a15621 =
 [
-    [ "go_ravager_cage", "d9/dd4/a15621.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d9/dd4/a15621.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "boss_huhuran", "d9/dd4/a15621.html#a64e0b20891992764c708cbb661c18196", null ],
+    [ "DamageTaken", "d9/dd4/a15621.html#adb47086f29b41f4168ad5d1b2728547d", null ],
+    [ "JustEngagedWith", "d9/dd4/a15621.html#a08f1d6550680d5bcf07332eade115730", null ],
+    [ "Reset", "d9/dd4/a15621.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
+    [ "UpdateAI", "d9/dd4/a15621.html#a23962e668f046b373f94ea6a2d75574a", null ],
+    [ "_berserk", "d9/dd4/a15621.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
+    [ "_hardEnrage", "d9/dd4/a15621.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
 ];

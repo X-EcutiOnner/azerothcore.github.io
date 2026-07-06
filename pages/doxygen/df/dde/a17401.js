@@ -1,6 +1,13 @@
 var a17401 =
 [
-    [ "boss_moorabiAI", "d1/d51/a17405.html", "d1/d51/a17405" ],
-    [ "boss_moorabi", "df/dde/a17401.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "df/dde/a17401.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "boss_tyrannusAI", "df/dde/a17401.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "df/dde/a17401.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "df/dde/a17401.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "df/dde/a17401.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "df/dde/a17401.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "df/dde/a17401.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "df/dde/a17401.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "df/dde/a17401.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "df/dde/a17401.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "df/dde/a17401.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

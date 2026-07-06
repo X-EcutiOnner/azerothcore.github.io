@@ -1,7 +1,6 @@
 var a19965 =
 [
-    [ "boss_flame_leviathan_safety_container", "d6/dcb/a19965.html#a4519a6bf9c96ff13df4ae019b02f3593", null ],
-    [ "MovementInform", "d6/dcb/a19965.html#a42842de299fd9346cc0d61b649b652a4", null ],
-    [ "UpdateAI", "d6/dcb/a19965.html#a55119d077f905a8207ad2afbe31f17a4", null ],
-    [ "_allowTimer", "d6/dcb/a19965.html#a70134398c054c837407d6a22591a2d96", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "da/dd3/a19969.html", "da/dd3/a19969" ],
+    [ "instance_halls_of_stone", "d6/dcb/a19965.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d6/dcb/a19965.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

@@ -1,7 +1,11 @@
 var a14025 =
 [
-    [ "boss_blight_wormAI", "d4/d02/a14025.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d4/d02/a14025.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d4/d02/a14025.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d4/d02/a14025.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d4/d02/a14025.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d4/d02/a14025.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d4/d02/a14025.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d4/d02/a14025.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d4/d02/a14025.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d4/d02/a14025.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d4/d02/a14025.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d4/d02/a14025.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

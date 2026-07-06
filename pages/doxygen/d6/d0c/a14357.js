@@ -1,13 +1,8 @@
 var a14357 =
 [
-    [ "npc_ohganAI", "d6/d0c/a14357.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "d6/d0c/a14357.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "d6/d0c/a14357.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "d6/d0c/a14357.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "d6/d0c/a14357.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "d6/d0c/a14357.html#a575531a144c46ae3084e56e452125f16", null ],
-    [ "UpdateAI", "d6/d0c/a14357.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "d6/d0c/a14357.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "d6/d0c/a14357.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "d6/d0c/a14357.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "npc_zulaman_hostageAI", "d9/d5e/a14361.html", "d9/d5e/a14361" ],
+    [ "npc_zulaman_hostage", "d6/d0c/a14357.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "d6/d0c/a14357.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "d6/d0c/a14357.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "d6/d0c/a14357.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

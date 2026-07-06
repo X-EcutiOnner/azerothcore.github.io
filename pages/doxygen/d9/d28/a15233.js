@@ -1,6 +1,8 @@
 var a15233 =
 [
-    [ "npc_idol_room_spawnerAI", "d1/da2/a15237.html", "d1/da2/a15237" ],
-    [ "npc_idol_room_spawner", "d9/d28/a15233.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "d9/d28/a15233.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "npc_arthasAI", "d1/da2/a15237.html", "d1/da2/a15237" ],
+    [ "npc_arthas", "d9/d28/a15233.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d9/d28/a15233.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d9/d28/a15233.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d9/d28/a15233.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

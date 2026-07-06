@@ -1,5 +1,6 @@
 var a19189 =
 [
-    [ "PrepareSpellScript", "da/dbd/a19189.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
-    [ "Register", "da/dbd/a19189.html#a80c3077f8f689367276e1054a6236681", null ]
+    [ "npc_icc_severed_essenceAI", "d1/d8f/a19193.html", "d1/d8f/a19193" ],
+    [ "npc_icc_severed_essence", "da/dbd/a19189.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "da/dbd/a19189.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

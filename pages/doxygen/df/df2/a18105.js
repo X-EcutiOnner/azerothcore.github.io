@@ -1,6 +1,6 @@
 var a18105 =
 [
-    [ "HandleScript", "df/df2/a18105.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
-    [ "PrepareSpellScript", "df/df2/a18105.html#a50560d754709e6b9ec6863142c1ffce3", null ],
-    [ "Register", "df/df2/a18105.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
+    [ "boss_lady_deathwhisperAI", "dd/dfd/a18109.html", "dd/dfd/a18109" ],
+    [ "boss_lady_deathwhisper", "df/df2/a18105.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "df/df2/a18105.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

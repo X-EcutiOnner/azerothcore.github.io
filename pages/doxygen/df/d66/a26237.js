@@ -1,7 +1,8 @@
 var a26237 =
 [
-    [ "CheckAreaTarget", "df/d66/a26237.html#a2d240518259d2452d263fc436de5056e", null ],
-    [ "PrepareAuraScript", "df/d66/a26237.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
-    [ "Register", "df/d66/a26237.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
-    [ "Validate", "df/d66/a26237.html#adfd1ccae4029680415409df737aa2533", null ]
+    [ "HandleProc", "df/d66/a26237.html#a89982759474f6f2d8f64ae406f722816", null ],
+    [ "OnRemove", "df/d66/a26237.html#a29dfea997f49052f683cabdf01295126", null ],
+    [ "PrepareAuraScript", "df/d66/a26237.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
+    [ "Register", "df/d66/a26237.html#a696b244e898a7aca0ead5ae5596eb192", null ],
+    [ "Validate", "df/d66/a26237.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
 ];

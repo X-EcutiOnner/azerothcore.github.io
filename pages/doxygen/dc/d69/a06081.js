@@ -1,11 +1,8 @@
 var a06081 =
 [
-    [ "SQLQueryHolderBase", "dc/d69/a06081.html#a05946ea4a26798e5567f632cf9f66eff", null ],
-    [ "~SQLQueryHolderBase", "dc/d69/a06081.html#aa9e2407821d0c40a728337f174571fc5", null ],
-    [ "GetPreparedResult", "dc/d69/a06081.html#a402f961642eaa239ff8726ad66e78640", null ],
-    [ "SetPreparedQueryImpl", "dc/d69/a06081.html#a6657bb34fab696a26af9751ded41f1d7", null ],
-    [ "SetPreparedResult", "dc/d69/a06081.html#a34bcdec6591ce40a58667197f240fbe0", null ],
-    [ "SetSize", "dc/d69/a06081.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
-    [ "SQLQueryHolderTask", "dc/d69/a06081.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
-    [ "m_queries", "dc/d69/a06081.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
+    [ "Statements", "dc/d69/a06081.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "dc/d69/a06081.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "dc/d69/a06081.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "dc/d69/a06081.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "dc/d69/a06081.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

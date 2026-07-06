@@ -1,6 +1,6 @@
 var a21601 =
 [
-    [ "npc_attracted_reef_bullAI", "d9/d2c/a21605.html", "d9/d2c/a21605" ],
-    [ "npc_attracted_reef_bull", "da/d41/a21601.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
-    [ "GetAI", "da/d41/a21601.html#af705e2768cd41c955af7f944c670ac85", null ]
+    [ "CheckCast", "da/d41/a21601.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "da/d41/a21601.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "da/d41/a21601.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

@@ -1,8 +1,8 @@
 var a23345 =
 [
-    [ "boss_commander_sarannis", "de/da8/a23345.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "de/da8/a23345.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "de/da8/a23345.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "de/da8/a23345.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "de/da8/a23345.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_broggok", "de/da8/a23345.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "de/da8/a23345.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "de/da8/a23345.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "de/da8/a23345.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "de/da8/a23345.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

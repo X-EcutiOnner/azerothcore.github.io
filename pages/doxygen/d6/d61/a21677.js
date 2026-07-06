@@ -1,9 +1,8 @@
 var a21677 =
 [
-    [ "npc_lord_areteAI", "d6/d61/a21677.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d6/d61/a21677.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d6/d61/a21677.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d6/d61/a21677.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d6/d61/a21677.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d6/d61/a21677.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_q24545_vegardAI", "d6/d61/a21677.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "d6/d61/a21677.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "d6/d61/a21677.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "d6/d61/a21677.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "d6/d61/a21677.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

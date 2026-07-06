@@ -1,12 +1,7 @@
 var a18557 =
 [
-    [ "npc_strangulate_vehicleAI", "d2/d7a/a18557.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d2/d7a/a18557.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d2/d7a/a18557.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d2/d7a/a18557.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d2/d7a/a18557.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d2/d7a/a18557.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d2/d7a/a18557.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d2/d7a/a18557.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d2/d7a/a18557.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "StartMovementEvent", "d2/d7a/a18557.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
+    [ "Execute", "d2/d7a/a18557.html#af1a043d953bcffe9341292e85cae2f55", null ],
+    [ "_owner", "d2/d7a/a18557.html#ac2f4166af128a161c471b243144856ba", null ],
+    [ "_summoner", "d2/d7a/a18557.html#afe1f7bcb3569758bc075380a24527067", null ]
 ];

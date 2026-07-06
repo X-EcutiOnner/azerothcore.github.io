@@ -1,6 +1,5 @@
 var a08097 =
 [
-    [ "value_type", "de/dac/a08097.html#a39c517c76f9109f1bccd27cd04ec88cd", null ],
-    [ "StoreTo", "de/dac/a08097.html#a5658d34ee9af224a3d19ba5d5123535e", null ],
-    [ "tag", "de/dac/a08097.html#a3538ae91cb7d37c3d0a6a4964f4baaf9", null ]
+    [ "IsColorValid", "de/dac/a08097.html#a537a2beaa8321095d2d67b8fb655acea", null ],
+    [ "IsTextValid", "de/dac/a08097.html#aeaa47302a91b5882afae3950ffc460cc", null ]
 ];

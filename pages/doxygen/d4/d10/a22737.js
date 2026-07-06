@@ -1,13 +1,12 @@
 var a22737 =
 [
-    [ "boss_fathomguard_caribdis", "d4/d10/a22737.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d4/d10/a22737.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d4/d10/a22737.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d4/d10/a22737.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d4/d10/a22737.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d4/d10/a22737.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d4/d10/a22737.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d4/d10/a22737.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d4/d10/a22737.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d4/d10/a22737.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_essence_of_desireAI", "d4/d10/a22737.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d4/d10/a22737.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d4/d10/a22737.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d4/d10/a22737.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d4/d10/a22737.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d4/d10/a22737.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d4/d10/a22737.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d4/d10/a22737.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d4/d10/a22737.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

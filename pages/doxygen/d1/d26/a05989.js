@@ -1,10 +1,9 @@
 var a05989 =
 [
-    [ "Alias", "d1/d26/a05989.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d1/d26/a05989.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d1/d26/a05989.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d1/d26/a05989.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d1/d26/a05989.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d1/d26/a05989.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d1/d26/a05989.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "AccountFlags", "d1/d26/a05989.html#aa8e111f748d165f854b2deff5a81577f", null ],
+    [ "cmd", "d1/d26/a05989.html#a5846630b9df94b9f4784e59e7f320257", null ],
+    [ "error", "d1/d26/a05989.html#a5cbbda99be5cd0549dd43fc0e546007e", null ],
+    [ "LoginFlags", "d1/d26/a05989.html#adb807963195c0abbb840aca64499f630", null ],
+    [ "M2", "d1/d26/a05989.html#a2199b33bc93fb6a8add5ba36eab0514e", null ],
+    [ "SurveyId", "d1/d26/a05989.html#ad05c428ccd8fbdce40dc4f337de19fb8", null ]
 ];

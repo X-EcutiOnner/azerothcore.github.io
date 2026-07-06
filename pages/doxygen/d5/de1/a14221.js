@@ -1,6 +1,6 @@
 var a14221 =
 [
-    [ "boss_arlokkAI", "d8/d82/a14225.html", "d8/d82/a14225" ],
-    [ "boss_arlokk", "d5/de1/a14221.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d5/de1/a14221.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "d8/d82/a14225.html", "d8/d82/a14225" ],
+    [ "npc_lady_sylvanas_windrunner_bfu", "d5/de1/a14221.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
+    [ "GetAI", "d5/de1/a14221.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
 ];

@@ -1,7 +1,6 @@
 var a12045 =
 [
-    [ "map", "d2/d53/a12045.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
-    [ "pallid", "d2/d53/a12045.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
-    [ "pallidGuid", "d2/d53/a12045.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
-    [ "zoneId", "d2/d53/a12045.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
+    [ "EffectManaShieldHandler", "d2/d53/a12045.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
+    [ "Call", "d2/d53/a12045.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
+    [ "pEffectHandlerScript", "d2/d53/a12045.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
 ];

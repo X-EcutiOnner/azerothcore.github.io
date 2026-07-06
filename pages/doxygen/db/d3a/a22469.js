@@ -1,6 +1,8 @@
 var a22469 =
 [
-    [ "PrepareAuraScript", "db/d3a/a22469.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
-    [ "Register", "db/d3a/a22469.html#a75d0cf142e299783b06903ea03287e28", null ],
-    [ "Update", "db/d3a/a22469.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
+    [ "npc_anzu_spirit", "db/d3a/a22469.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "db/d3a/a22469.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "db/d3a/a22469.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "db/d3a/a22469.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "db/d3a/a22469.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

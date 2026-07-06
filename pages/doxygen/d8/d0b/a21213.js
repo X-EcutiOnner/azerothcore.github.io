@@ -1,10 +1,7 @@
 var a21213 =
 [
-    [ "npc_bonker_togglevoltAI", "d8/d0b/a21213.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d8/d0b/a21213.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d8/d0b/a21213.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d8/d0b/a21213.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d8/d0b/a21213.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "WaypointReached", "d8/d0b/a21213.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "Bonker_agro", "d8/d0b/a21213.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "HandleDummy", "d8/d0b/a21213.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
+    [ "PrepareSpellScript", "d8/d0b/a21213.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
+    [ "Register", "d8/d0b/a21213.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
+    [ "Validate", "d8/d0b/a21213.html#a92f99501ee1582873586d2405b224f4f", null ]
 ];

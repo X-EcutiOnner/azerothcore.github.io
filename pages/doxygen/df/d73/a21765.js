@@ -1,6 +1,6 @@
 var a21765 =
 [
-    [ "PrepareSpellScript", "df/d73/a21765.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "df/d73/a21765.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "df/d73/a21765.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "CheckRequirement", "df/d73/a21765.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
+    [ "PrepareSpellScript", "df/d73/a21765.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
+    [ "Register", "df/d73/a21765.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
 ];

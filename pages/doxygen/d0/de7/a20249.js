@@ -1,9 +1,7 @@
 var a20249 =
 [
-    [ "HandleEffectPeriodic", "d0/de7/a20249.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d0/de7/a20249.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d0/de7/a20249.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d0/de7/a20249.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d0/de7/a20249.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d0/de7/a20249.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "boss_freya_lifebinder", "d0/de7/a20249.html#a1784d6e975192a7442cabb14f688737d", null ],
+    [ "Reset", "d0/de7/a20249.html#a48a829c75000d93cfb3c6a02aa0af495", null ],
+    [ "UpdateAI", "d0/de7/a20249.html#ae43e7663ee263e223ff286ac1fedeef8", null ],
+    [ "_healTimer", "d0/de7/a20249.html#a5545c496e9a1f9cc0da2824f695aa30e", null ]
 ];

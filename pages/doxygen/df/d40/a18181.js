@@ -1,7 +1,7 @@
 var a18181 =
 [
-    [ "HandleScript", "df/d40/a18181.html#a37b261d0df2829788d8290a9194913f5", null ],
-    [ "PrepareSpellScript", "df/d40/a18181.html#a69386dbef57322393a38eec90662135f", null ],
-    [ "Register", "df/d40/a18181.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
-    [ "Validate", "df/d40/a18181.html#a63c446574c700a895d7fbc5bb2b81508", null ]
+    [ "HandleScriptEffect", "df/d40/a18181.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "df/d40/a18181.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "df/d40/a18181.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "df/d40/a18181.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

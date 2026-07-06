@@ -1,5 +1,5 @@
 var a08829 =
 [
-    [ "PlayerLevelInfo", "d0/d6b/a08829.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "d0/d6b/a08829.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "PositionXYStreamer", "d0/d6b/a08829.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
+    [ "Pos", "d0/d6b/a08829.html#afb17e60540233b8861b6e967d0e44e07", null ]
 ];

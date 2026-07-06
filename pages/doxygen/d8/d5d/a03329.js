@@ -1,5 +1,7 @@
 var a03329 =
 [
-    [ "GuildMgr", "d4/db5/a09935.html", "d4/db5/a09935" ],
-    [ "sGuildMgr", "d8/d5d/a03329.html#aef171903a38e30c347ff11360f682f81", null ]
+    [ "GetExplicitDiscoverySpell", "d8/d5d/a03329.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
+    [ "GetSkillDiscoverySpell", "d8/d5d/a03329.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
+    [ "HasDiscoveredAllSpells", "d8/d5d/a03329.html#abdf3c2fcf65212466dfb54053e35024c", null ],
+    [ "LoadSkillDiscoveryTable", "d8/d5d/a03329.html#addd95f0a239a27ed32cd943aa1052019", null ]
 ];

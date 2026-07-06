@@ -1,6 +1,8 @@
 var a13785 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d6/d45/a13789.html", "d6/d45/a13789" ],
-    [ "instance_the_stockade", "df/d90/a13785.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "df/d90/a13785.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "HandleApply", "df/d90/a13785.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "df/d90/a13785.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "df/d90/a13785.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "df/d90/a13785.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "df/d90/a13785.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

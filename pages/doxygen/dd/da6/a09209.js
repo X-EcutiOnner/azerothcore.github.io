@@ -1,10 +1,8 @@
 var a09209 =
 [
-    [ "GridObjectLoader", "dd/da6/a09209.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "dd/da6/a09209.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "dd/da6/a09209.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "dd/da6/a09209.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "dd/da6/a09209.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "dd/da6/a09209.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "dd/da6/a09209.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "Entry", "dd/da6/a09209.html#ac9fa29db15e06513805124a56cd073e8", null ],
+    [ "ExtendedCost", "dd/da6/a09209.html#ac826dc078ef456ed93bf23175bce243d", null ],
+    [ "Incrtime", "dd/da6/a09209.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
+    [ "Item", "dd/da6/a09209.html#aa500da847d94a9b70cb3a26b782059b3", null ],
+    [ "MaxCount", "dd/da6/a09209.html#a04534ff42e5889995b5203a3257bc864", null ]
 ];

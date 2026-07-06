@@ -1,6 +1,5 @@
 var a15821 =
 [
-    [ "Creature", "d3/d80/a15821.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d3/d80/a15821.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d3/d80/a15821.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "go_bristlelimb_cage", "d3/d80/a15821.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d3/d80/a15821.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

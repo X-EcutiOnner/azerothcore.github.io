@@ -1,6 +1,10 @@
 var a25437 =
 [
-    [ "HandleDummy", "df/d53/a25437.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "df/d53/a25437.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "df/d53/a25437.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "Load", "df/d53/a25437.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "df/d53/a25437.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "df/d53/a25437.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "df/d53/a25437.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "df/d53/a25437.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "df/d53/a25437.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "df/d53/a25437.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

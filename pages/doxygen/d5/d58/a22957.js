@@ -1,5 +1,6 @@
 var a22957 =
 [
-    [ "boss_quagmirran", "d5/d58/a22957.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d5/d58/a22957.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "OnPeriodic", "d5/d58/a22957.html#a769d30c78e4feaa9cc0c581af5264c02", null ],
+    [ "PrepareAuraScript", "d5/d58/a22957.html#a076e4b548de5cad64b7d81ddd8c5194f", null ],
+    [ "Register", "d5/d58/a22957.html#af1c2b7baf0ff7164cafab8f1a53bbb18", null ]
 ];

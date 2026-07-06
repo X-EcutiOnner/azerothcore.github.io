@@ -1,8 +1,6 @@
 var a02099 =
 [
-    [ "UtherBatteredHiltEvent", "dd/d95/a17327.html", "dd/d95/a17327" ],
-    [ "instance_halls_of_reflection", "d7/dee/a17331.html", "d7/dee/a17331" ],
-    [ "AddSC_instance_halls_of_reflection", "d9/dff/a02099.html#a0f581d4a1a046db6b8b7729c87457646", null ],
-    [ "creatureData", "d9/dff/a02099.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "gameObjectData", "d9/dff/a02099.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "instance_pit_of_saron", "d1/d51/a17405.html", "d1/d51/a17405" ],
+    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d2/de3/a17409.html", "d2/de3/a17409" ],
+    [ "AddSC_instance_pit_of_saron", "d9/dff/a02099.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
 ];

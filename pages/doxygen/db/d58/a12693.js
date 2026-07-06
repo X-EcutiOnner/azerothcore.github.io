@@ -1,7 +1,11 @@
 var a12693 =
 [
-    [ "HandlePeriodic", "db/d58/a12693.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "db/d58/a12693.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "db/d58/a12693.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "db/d58/a12693.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "boss_gyth", "db/d58/a12693.html#a18fea0e0fb6c734b818bb8989b1e66c9", null ],
+    [ "EnterEvadeMode", "db/d58/a12693.html#a172ea902e3bd162bf8fe8b23e7b9dcfa", null ],
+    [ "IsSummonedBy", "db/d58/a12693.html#ad7c64e772a8959ad0e58fc13512e0088", null ],
+    [ "JustDied", "db/d58/a12693.html#a305bf5c4913f429b44592e4a7e99b8ae", null ],
+    [ "JustEngagedWith", "db/d58/a12693.html#a16de6cf7e2925fd49df6a412c6df9533", null ],
+    [ "JustSummoned", "db/d58/a12693.html#aab0152a90a341839279cb6d0e7e19eb6", null ],
+    [ "Reset", "db/d58/a12693.html#aef0345d29833b13045b374a219335018", null ],
+    [ "UpdateAI", "db/d58/a12693.html#a8829ad229ee09aea55f9603058d095e8", null ]
 ];

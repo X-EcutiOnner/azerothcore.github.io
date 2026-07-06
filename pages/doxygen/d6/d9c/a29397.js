@@ -1,6 +1,13 @@
 var a29397 =
 [
-    [ "CreateArmorProcConfig", "d6/d9c/a29397.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "d6/d9c/a29397.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "d6/d9c/a29397.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "attackType", "d6/d9c/a29397.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
+    [ "equippedItemClass", "d6/d9c/a29397.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
+    [ "equippedItemSubClassMask", "d6/d9c/a29397.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
+    [ "hasEquippedItem", "d6/d9c/a29397.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
+    [ "hasNoEquipRequirementAttr", "d6/d9c/a29397.html#ab754fdbbb49982e7152057341fc3e3af", null ],
+    [ "isInFeralForm", "d6/d9c/a29397.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
+    [ "isPassive", "d6/d9c/a29397.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
+    [ "isPlayer", "d6/d9c/a29397.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
+    [ "itemFitsRequirements", "d6/d9c/a29397.html#a760a3b39c124c3f408f0541744b6b34a", null ],
+    [ "itemIsBroken", "d6/d9c/a29397.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
 ];

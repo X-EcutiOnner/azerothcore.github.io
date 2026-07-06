@@ -1,8 +1,6 @@
 var a26017 =
 [
-    [ "HandleProc", "d5/d17/a26017.html#a89982759474f6f2d8f64ae406f722816", null ],
-    [ "OnRemove", "d5/d17/a26017.html#a29dfea997f49052f683cabdf01295126", null ],
-    [ "PrepareAuraScript", "d5/d17/a26017.html#a19094a96e052ec5b1b82aa9a124b30cc", null ],
-    [ "Register", "d5/d17/a26017.html#a696b244e898a7aca0ead5ae5596eb192", null ],
-    [ "Validate", "d5/d17/a26017.html#a5a9e58d16a055b3991e5f8b8ac5f1cad", null ]
+    [ "PrepareSpellScript", "d5/d17/a26017.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d5/d17/a26017.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d5/d17/a26017.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

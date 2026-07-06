@@ -1,5 +1,6 @@
 var a19985 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "d9/d2d/a19985.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "d9/d2d/a19985.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "npc_collapsing_star", "d9/d2d/a19985.html#a6660bd7f397d7a3cd7ee5d3580b6bb78", null ],
+    [ "DamageTaken", "d9/d2d/a19985.html#ad19c1a3c033b0d97fe42c492634f9cd4", null ],
+    [ "JustSummoned", "d9/d2d/a19985.html#a56e0bb55d903b6e7e5c493292512bebe", null ]
 ];

@@ -1,7 +1,5 @@
 var a08677 =
 [
-    [ "AddToGrid", "df/d68/a08677.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "df/d68/a08677.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "df/d68/a08677.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "df/d68/a08677.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "CastBarCaption", "df/d68/a08677.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
+    [ "Name", "df/d68/a08677.html#a462917eda1e095c99054495abf70cd67", null ]
 ];

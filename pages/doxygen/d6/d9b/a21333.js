@@ -1,7 +1,7 @@
 var a21333 =
 [
-    [ "npc_cosmetic_toy_plane", "d6/d9b/a21333.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d6/d9b/a21333.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d6/d9b/a21333.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d6/d9b/a21333.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_azure_stalker", "d6/d9b/a21333.html#a12d5ae337c0c494f751ebe14b365c0f9", null ],
+    [ "Reset", "d6/d9b/a21333.html#a0e6e6b30e79f5e68ed9800f405f38d84", null ],
+    [ "UpdateAI", "d6/d9b/a21333.html#a22352aad7c55a4d454b9732469395139", null ],
+    [ "_events", "d6/d9b/a21333.html#ad83249d787d2f763ac2d01723ff305ef", null ]
 ];

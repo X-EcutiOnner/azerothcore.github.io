@@ -1,7 +1,6 @@
 var a27209 =
 [
-    [ "HandleProc", "db/d34/a27209.html#a5e428ae0d1d6b54494a62ca0a77820c9", null ],
-    [ "PrepareAuraScript", "db/d34/a27209.html#a953eee0cd2f18703ce04b1579d698365", null ],
-    [ "Register", "db/d34/a27209.html#a8552c78a1d78fae17650a24c25b87ad3", null ],
-    [ "Validate", "db/d34/a27209.html#aadd49f63e9203d3314c5597ef72f6658", null ]
+    [ "HandleAfterCast", "db/d34/a27209.html#aacd4954973c8157ca65958b9ec08155b", null ],
+    [ "PrepareSpellScript", "db/d34/a27209.html#a45629d348275833930bc5180e9a347f9", null ],
+    [ "Register", "db/d34/a27209.html#a9c43529cea77a4be86048616ebc64b2c", null ]
 ];

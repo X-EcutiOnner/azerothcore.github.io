@@ -1,6 +1,8 @@
 var a28237 =
 [
-    [ "npc_necropolis_relay", "d2/d37/a28237.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d2/d37/a28237.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d2/d37/a28237.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_simoneAI", "d1/dae/a28241.html", "d1/dae/a28241" ],
+    [ "npc_simone", "d2/d37/a28237.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "d2/d37/a28237.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "d2/d37/a28237.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "d2/d37/a28237.html#ae2b1a653be3767881769b54607219757", null ]
 ];

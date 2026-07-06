@@ -1,5 +1,6 @@
 var a28941 =
 [
-    [ "Duration", "d0/d4a/a28941.html#a20417b0f394c08c779fd3851c2cde87d", null ],
-    [ "ID", "d0/d4a/a28941.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
+    [ "color", "d0/d4a/a28941.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "d0/d4a/a28941.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "d0/d4a/a28941.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

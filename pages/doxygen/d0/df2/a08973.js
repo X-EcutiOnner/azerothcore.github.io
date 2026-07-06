@@ -1,11 +1,9 @@
 var a08973 =
 [
-    [ "UnitActionBarEntry", "d0/df2/a08973.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "d0/df2/a08973.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "d0/df2/a08973.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "d0/df2/a08973.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "d0/df2/a08973.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "d0/df2/a08973.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "d0/df2/a08973.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "d0/df2/a08973.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "achievements", "d0/df2/a08973.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d0/df2/a08973.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d0/df2/a08973.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d0/df2/a08973.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d0/df2/a08973.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d0/df2/a08973.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

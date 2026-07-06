@@ -1,20 +1,10 @@
 var a02777 =
 [
-    [ "FormationInfo", "de/dc0/a08423.html", "de/dc0/a08423" ],
-    [ "FormationMgr", "db/dec/a08427.html", "db/dec/a08427" ],
-    [ "CreatureGroup", "da/dd0/a08431.html", "da/dd0/a08431" ],
-    [ "sFormationMgr", "d5/db0/a02777.html#ae80a51404625cee821a8727ed7369352", null ],
-    [ "CreatureGroupInfoType", "d5/db0/a02777.html#a2c3447bf21f430bff136da6811d93a61", null ],
-    [ "GroupAIFlags", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869c", [
-      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
-      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
-      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
-      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
-      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
-      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
-      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
-      [ "GROUP_AI_FLAG_ASSIST_MASK", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
-      [ "GROUP_AI_FLAG_EVADE_MASK", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
-      [ "GROUP_AI_FLAG_SUPPORTED", "d5/db0/a02777.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
-    ] ]
+    [ "EnchStoreItem", "d3/dcd/a08705.html", "d3/dcd/a08705" ],
+    [ "EnchantmentStore", "d5/db0/a02777.html#ab462bc366dd954f1c0b539c408b74c01", null ],
+    [ "EnchStoreList", "d5/db0/a02777.html#ab5e9dd6a265a402e7a9499fdaae1e850", null ],
+    [ "GenerateEnchSuffixFactor", "d5/db0/a02777.html#a25026e783b088b45eebd4db8295b1b87", null ],
+    [ "GetItemEnchantMod", "d5/db0/a02777.html#a76d03c9ceb2d3ac35582eaea4624544f", null ],
+    [ "LoadRandomEnchantmentsTable", "d5/db0/a02777.html#a376fabf7bba54eaf928217f860f1c33b", null ],
+    [ "RandomItemEnch", "d5/db0/a02777.html#a6aeb6f30f019ca8d9839fcf41beb1ac7", null ]
 ];

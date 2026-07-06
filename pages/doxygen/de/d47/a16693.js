@@ -1,7 +1,6 @@
 var a16693 =
 [
-    [ "npc_toc_shadow_priestAI", "de/d47/a16693.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "de/d47/a16693.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "de/d47/a16693.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "de/d47/a16693.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "FilterTargets", "de/d47/a16693.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "de/d47/a16693.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "de/d47/a16693.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

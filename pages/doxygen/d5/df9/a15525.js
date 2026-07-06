@@ -1,13 +1,21 @@
 var a15525 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d5/df9/a15525.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d5/df9/a15525.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d5/df9/a15525.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d5/df9/a15525.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d5/df9/a15525.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d5/df9/a15525.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d5/df9/a15525.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d5/df9/a15525.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d5/df9/a15525.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d5/df9/a15525.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "npc_general_andorov", "d5/df9/a15525.html#ac3bbdeaad9c7bb303a5de6773916dcff", null ],
+    [ "GetData", "d5/df9/a15525.html#adf1b6a0767c3633c96d41d6a8c59e670", null ],
+    [ "InitializeAI", "d5/df9/a15525.html#a701221e8fd8830a3586d9791fd8eca56", null ],
+    [ "JustDied", "d5/df9/a15525.html#ae6342cc5d033bc2900594cabccaf7233", null ],
+    [ "JustEngagedWith", "d5/df9/a15525.html#a9f1261cde233466b814b53be03406370", null ],
+    [ "JustSummoned", "d5/df9/a15525.html#a3add3fa13ffae3cd688eaf564c3f835d", null ],
+    [ "KilledUnit", "d5/df9/a15525.html#a728b73ed109ee6b2b45eb3f1415b4744", null ],
+    [ "MoveInLineOfSight", "d5/df9/a15525.html#a230803b7f29829118d105ec768941ffa", null ],
+    [ "sGossipSelect", "d5/df9/a15525.html#a38eadfe7e465c276f7496c5b51f60d03", null ],
+    [ "UpdateEscortAI", "d5/df9/a15525.html#ab5f5af15cf76071dcce833514bb8c867", null ],
+    [ "WaypointReached", "d5/df9/a15525.html#ab9edc924b6e5ade56e3f6443a7454eaa", null ],
+    [ "WaypointReached", "d5/df9/a15525.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "_initialAttackTimer", "d5/df9/a15525.html#a38dd94fea45cf2c1821cb01e3d3e70d8", null ],
+    [ "_paused", "d5/df9/a15525.html#aa0708d2c1e4829371b93697744fb10b7", null ],
+    [ "_summons", "d5/df9/a15525.html#ac8cb94b3870f655b61a52cdb5076fc4c", null ],
+    [ "Endwaypoint", "d5/df9/a15525.html#a6897bb1ed63743ce8b225786d63910df", null ],
+    [ "events", "d5/df9/a15525.html#aa7eace59bc5f630cafba513f9e2ec0f8", null ],
+    [ "instance", "d5/df9/a15525.html#ae79d42dc7fa334ace67f07651ce4720a", null ]
 ];

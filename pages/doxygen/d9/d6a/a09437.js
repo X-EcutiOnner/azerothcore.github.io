@@ -1,7 +1,5 @@
 var a09437 =
 [
-    [ "V8Type", "d9/d6a/a09437.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "d9/d6a/a09437.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "d9/d6a/a09437.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "d9/d6a/a09437.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "MaxAllowedCount", "d9/d6a/a09437.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
+    [ "Policy", "d9/d6a/a09437.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
 ];

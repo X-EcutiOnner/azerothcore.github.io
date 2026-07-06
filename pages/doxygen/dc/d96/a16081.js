@@ -1,7 +1,7 @@
 var a16081 =
 [
-    [ "npc_ahnkahar_nerubian", "dc/d96/a16081.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "dc/d96/a16081.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "dc/d96/a16081.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "dc/d96/a16081.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_toogaAI", "d9/d87/a16085.html", "d9/d87/a16085" ],
+    [ "npc_tooga", "dc/d96/a16081.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "dc/d96/a16081.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "dc/d96/a16081.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

@@ -1,11 +1,14 @@
 var a23073 =
 [
-    [ "boss_gruul", "d8/dda/a23073.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d8/dda/a23073.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d8/dda/a23073.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d8/dda/a23073.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d8/dda/a23073.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d8/dda/a23073.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d8/dda/a23073.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d8/dda/a23073.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/dda/a23073.html#a3e83985648f2951ee33d440c9c98bf72", null ],
+    [ "GetData", "d8/dda/a23073.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
+    [ "Initialize", "d8/dda/a23073.html#a8a2214e169acace8578c1863daf0a04c", null ],
+    [ "OnCreatureCreate", "d8/dda/a23073.html#ae5f77169c337420852962fe7ddba3006", null ],
+    [ "OnCreatureRemove", "d8/dda/a23073.html#a921442812da891a6651ddd235d4a98f9", null ],
+    [ "OnGameObjectCreate", "d8/dda/a23073.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
+    [ "SetBossState", "d8/dda/a23073.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
+    [ "SetData", "d8/dda/a23073.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
+    [ "_aliveKeepersCount", "d8/dda/a23073.html#a71f3a72d3aa47b267e3b8a7d1c90b6ff", null ],
+    [ "_frenzyCount", "d8/dda/a23073.html#acdba0cea9bdbe929a30bd2f790a613f9", null ],
+    [ "_shieldGeneratorGUID", "d8/dda/a23073.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
 ];

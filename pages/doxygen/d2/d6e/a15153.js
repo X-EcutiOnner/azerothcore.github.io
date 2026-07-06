@@ -1,16 +1,8 @@
 var a15153 =
 [
-    [ "npc_medivh_bm", "d2/d6e/a15153.html#a23f04c433faf7da663b2edffb2a0440d", null ],
-    [ "AttackStart", "d2/d6e/a15153.html#a8eb87f4d80d83725af017657c599d458", null ],
-    [ "DoAction", "d2/d6e/a15153.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
-    [ "JustDied", "d2/d6e/a15153.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
-    [ "JustSummoned", "d2/d6e/a15153.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
-    [ "MoveInLineOfSight", "d2/d6e/a15153.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
-    [ "Reset", "d2/d6e/a15153.html#a1a33f613b083763c952882cdb82a35c1", null ],
-    [ "SummonOrcs", "d2/d6e/a15153.html#a13964b4c460a664442be7eebe768edf5", null ],
-    [ "UpdateAI", "d2/d6e/a15153.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
-    [ "_airArray", "d2/d6e/a15153.html#a6e766596b69b52690635ee91e6e8d164", null ],
-    [ "_events", "d2/d6e/a15153.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
-    [ "_groundArray", "d2/d6e/a15153.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
-    [ "_instance", "d2/d6e/a15153.html#a45e129d61c3987e4bff94485db739eb1", null ]
+    [ "hyjalThrallAI", "d2/d6e/a15153.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d2/d6e/a15153.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d2/d6e/a15153.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d2/d6e/a15153.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d2/d6e/a15153.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

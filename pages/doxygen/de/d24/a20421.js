@@ -1,8 +1,11 @@
 var a20421 =
 [
-    [ "npc_ulduar_dark_rune_guardian", "de/d24/a20421.html#a225445f5593694dd6b7d9c338735690f", null ],
-    [ "CanAIAttack", "de/d24/a20421.html#a0e739a36a33d7ab401a55d629230e2df", null ],
-    [ "Reset", "de/d24/a20421.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
-    [ "UpdateAI", "de/d24/a20421.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
-    [ "timer2", "de/d24/a20421.html#a5a3af42aaff640e8e286eda5a658c411", null ]
+    [ "npc_ulduar_iron_construct", "de/d24/a20421.html#ab44bf86ea4a50f365e37ba888d0b2f6d", null ],
+    [ "JustDied", "de/d24/a20421.html#ae102f4c7b9bc4246e0720287739e419a", null ],
+    [ "JustReachedHome", "de/d24/a20421.html#a77609f7939725001d7a31c4d92f00358", null ],
+    [ "MoveInLineOfSight", "de/d24/a20421.html#a6f8bfc52f6f8b6fbd4b8fb01bc827b8a", null ],
+    [ "Reset", "de/d24/a20421.html#a2fcec0917d5266b286cbb0995ef6ee34", null ],
+    [ "SpellHit", "de/d24/a20421.html#a0c786f44d9f255464fadb1c53b6fc004", null ],
+    [ "UpdateAI", "de/d24/a20421.html#afc56384db98a225a223c9214414508ea", null ],
+    [ "timer", "de/d24/a20421.html#a397277972454f710d7236ba36a67c977", null ]
 ];

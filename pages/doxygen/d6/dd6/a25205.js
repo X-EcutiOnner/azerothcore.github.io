@@ -1,6 +1,6 @@
 var a25205 =
 [
-    [ "CalculateAmount", "d6/dd6/a25205.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "d6/dd6/a25205.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "d6/dd6/a25205.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "PrepareSpellScript", "d6/dd6/a25205.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "d6/dd6/a25205.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "d6/dd6/a25205.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

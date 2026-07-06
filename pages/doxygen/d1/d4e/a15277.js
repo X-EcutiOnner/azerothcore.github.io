@@ -1,9 +1,7 @@
 var a15277 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d1/d4e/a15277.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d1/d4e/a15277.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d1/d4e/a15277.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d1/d4e/a15277.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d1/d4e/a15277.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d1/d4e/a15277.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_epoch_hunter", "d1/d4e/a15277.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "d1/d4e/a15277.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "d1/d4e/a15277.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "d1/d4e/a15277.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

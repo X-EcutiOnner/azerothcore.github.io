@@ -1,6 +1,6 @@
 var a22853 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d3/d2a/a22857.html", "d3/d2a/a22857" ],
-    [ "instance_serpent_shrine", "d7/dfa/a22853.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d7/dfa/a22853.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "PrepareSpellScript", "d7/dfa/a22853.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d7/dfa/a22853.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d7/dfa/a22853.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

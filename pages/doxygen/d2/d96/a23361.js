@@ -1,5 +1,7 @@
 var a23361 =
 [
-    [ "modelId", "d2/d96/a23361.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "d2/d96/a23361.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "boss_the_maker", "d2/d96/a23361.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "d2/d96/a23361.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "d2/d96/a23361.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "d2/d96/a23361.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

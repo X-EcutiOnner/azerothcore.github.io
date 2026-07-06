@@ -1,5 +1,6 @@
 var a29425 =
 [
-    [ "CalculateSpellTypeMask", "dd/dbc/a29425.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "dd/dbc/a29425.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "canProcDuringTrigger", "dd/dbc/a29425.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
+    [ "procDeepDuringTrigger", "dd/dbc/a29425.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
+    [ "spellId", "dd/dbc/a29425.html#ac63803a380695f311a39cd62a4f298b4", null ]
 ];

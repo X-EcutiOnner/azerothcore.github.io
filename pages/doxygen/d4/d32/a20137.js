@@ -1,7 +1,9 @@
 var a20137 =
 [
-    [ "npc_ulduar_icicle", "d4/d32/a20137.html#ac5f024031a70b4ca04ecc0a96fcbdcae", null ],
-    [ "UpdateAI", "d4/d32/a20137.html#a0a46c8ee0c4bb8932406fe8170a54310", null ],
-    [ "timer1", "d4/d32/a20137.html#ae277d302131abd17cef018872b12da06", null ],
-    [ "timer2", "d4/d32/a20137.html#a9a098b0a31fcbc029fc7ae6823ea99a4", null ]
+    [ "npc_thorims_hammer", "d4/d32/a20137.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
+    [ "Reset", "d4/d32/a20137.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
+    [ "UpdateAI", "d4/d32/a20137.html#a006414298b31eb0cfb964916298d66ce", null ],
+    [ "_beamTimer", "d4/d32/a20137.html#adcd5af2b86d1d8f119514f799c42444b", null ],
+    [ "_finishTime", "d4/d32/a20137.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
+    [ "_removeTimer", "d4/d32/a20137.html#a7b9a2435b0953c12e693c562193d45e0", null ]
 ];

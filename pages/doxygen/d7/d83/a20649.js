@@ -1,9 +1,8 @@
 var a20649 =
 [
-    [ "HandleOnEffectApply", "d7/d83/a20649.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d7/d83/a20649.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d7/d83/a20649.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d7/d83/a20649.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d7/d83/a20649.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d7/d83/a20649.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "boss_thorim_pillar", "d7/d83/a20649.html#aec2fc6e420499c9ce991753b912bef1e", null ],
+    [ "Reset", "d7/d83/a20649.html#aea862be4cb7e7456d7ddfbe4fef81181", null ],
+    [ "SpellHit", "d7/d83/a20649.html#ae8b1877ac425c340410c7ca6a05d2d8a", null ],
+    [ "UpdateAI", "d7/d83/a20649.html#a3d4b4c2ae9ab4d541510e2026d1500c0", null ],
+    [ "_resetTimer", "d7/d83/a20649.html#ac9c8ef8622496593b5f91611d22120b3", null ]
 ];

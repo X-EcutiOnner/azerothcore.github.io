@@ -1,8 +1,6 @@
 var a24829 =
 [
-    [ "AchievementCredit", "d6/d81/a24829.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d6/d81/a24829.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d6/d81/a24829.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d6/d81/a24829.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d6/d81/a24829.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CalculateAmount", "d6/d81/a24829.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
+    [ "PrepareAuraScript", "d6/d81/a24829.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
+    [ "Register", "d6/d81/a24829.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
 ];

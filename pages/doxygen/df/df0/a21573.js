@@ -1,7 +1,8 @@
 var a21573 =
 [
-    [ "HandleScript", "df/df0/a21573.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "df/df0/a21573.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "df/df0/a21573.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "df/df0/a21573.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_future_youAI", "df/df0/a21573.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "df/df0/a21573.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "df/df0/a21573.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "df/df0/a21573.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "df/df0/a21573.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

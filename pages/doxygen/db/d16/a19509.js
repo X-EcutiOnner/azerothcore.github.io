@@ -1,5 +1,6 @@
 var a19509 =
 [
-    [ "achievement_split_personality", "db/d16/a19509.html#aac29ae7c321306a663e55493987af45d", null ],
-    [ "OnCheck", "db/d16/a19509.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
+    [ "boss_razuviousAI", "d3/d33/a19513.html", "d3/d33/a19513" ],
+    [ "boss_razuvious", "db/d16/a19509.html#ac1a2942f4a7957c671b075df7bf20215", null ],
+    [ "GetAI", "db/d16/a19509.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
 ];

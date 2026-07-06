@@ -1,6 +1,15 @@
 var a24077 =
 [
-    [ "HandlePeriodic", "d5/de8/a24077.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "d5/de8/a24077.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "d5/de8/a24077.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "dragonmaw_race_npc", "d5/de8/a24077.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d5/de8/a24077.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d5/de8/a24077.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d5/de8/a24077.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d5/de8/a24077.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d5/de8/a24077.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d5/de8/a24077.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d5/de8/a24077.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d5/de8/a24077.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d5/de8/a24077.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d5/de8/a24077.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d5/de8/a24077.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

@@ -1,10 +1,8 @@
 var a26413 =
 [
-    [ "CalculateAPAmount", "d5/df2/a26413.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
-    [ "CalculateResistanceAmount", "d5/df2/a26413.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
-    [ "CalculateSPAmount", "d5/df2/a26413.html#a9ae59870127884029a938684786e67a9", null ],
-    [ "CalculateStatAmount", "d5/df2/a26413.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
-    [ "HandleEffectApply", "d5/df2/a26413.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
-    [ "PrepareAuraScript", "d5/df2/a26413.html#aa90952337607986eaf7485200a32c353", null ],
-    [ "Register", "d5/df2/a26413.html#a88520214bd87511b615965593f1b927f", null ]
+    [ "ApplyPermafrost", "d5/df2/a26413.html#a06bb458e038b97696362681a6fd28104", null ],
+    [ "PrepareAuraScript", "d5/df2/a26413.html#a3d96d6f5f798efc92572e2a52349102d", null ],
+    [ "Register", "d5/df2/a26413.html#a613e5af53064357f4e8e4d6260c6856a", null ],
+    [ "RemovePermafrost", "d5/df2/a26413.html#a9414746a76f53a5258cf617abefd5bd6", null ],
+    [ "Validate", "d5/df2/a26413.html#addd58a0138e3cdb5cb274c8a38151a45", null ]
 ];

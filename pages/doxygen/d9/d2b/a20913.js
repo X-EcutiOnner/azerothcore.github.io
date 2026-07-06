@@ -1,8 +1,6 @@
 var a20913 =
 [
-    [ "CountTargets", "d9/d2b/a20913.html#aaf8528038c6b3172d4810ed773f71644", null ],
-    [ "HandleDummy", "d9/d2b/a20913.html#ac5fa1dd078656f7ae182ec18eddacfe3", null ],
-    [ "PrepareSpellScript", "d9/d2b/a20913.html#a1f31273cb1826cd07196eacfbdc46673", null ],
-    [ "Register", "d9/d2b/a20913.html#adce6a5d920ac616dc0579fcd96c49288", null ],
-    [ "_targetCount", "d9/d2b/a20913.html#acfd8832cb9a197dddb034a003b318911", null ]
+    [ "HandleScript", "d9/d2b/a20913.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "d9/d2b/a20913.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "d9/d2b/a20913.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

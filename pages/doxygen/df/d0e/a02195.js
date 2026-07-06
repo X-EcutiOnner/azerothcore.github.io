@@ -1,13 +1,9 @@
 var a02195 =
 [
-    [ "instance_halls_of_lightning", "dd/de3/a19847.html", "dd/de3/a19847" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d7/df7/a19851.html", "d7/df7/a19851" ],
-    [ "at_hol_hall_of_watchers", "df/de4/a19855.html", "df/de4/a19855" ],
-    [ "TitaniumHallwaySpells", "df/d0e/a02195.html#acb18ad00890035d01ae1c735f67fd0c8", [
-      [ "SPELL_FREEZE_ANIM", "df/d0e/a02195.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "df/d0e/a02195.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]
-    ] ],
-    [ "AddSC_instance_halls_of_lightning", "df/d0e/a02195.html#acb5e7d848388449d05e307ed07fbcfc6", null ],
-    [ "doorData", "df/d0e/a02195.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "df/d0e/a02195.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "instance_halls_of_stone", "d6/dcb/a19965.html", "d6/dcb/a19965" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "da/dd3/a19969.html", "da/dd3/a19969" ],
+    [ "AddSC_instance_halls_of_stone", "df/d0e/a02195.html#a81d8c56de5920b1e73d7955e1c7399ed", null ],
+    [ "boundaries", "df/d0e/a02195.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "creatureData", "df/d0e/a02195.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "df/d0e/a02195.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

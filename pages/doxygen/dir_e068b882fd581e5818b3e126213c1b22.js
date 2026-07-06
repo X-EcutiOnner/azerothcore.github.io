@@ -1,11 +1,11 @@
 var dir_e068b882fd581e5818b3e126213c1b22 =
 [
-    [ "boss_anetheron.cpp", "d8/d0d/a01280.html", "d8/d0d/a01280" ],
-    [ "boss_archimonde.cpp", "dd/d39/a01271.html", "dd/d39/a01271" ],
-    [ "boss_azgalor.cpp", "d5/da7/a01283.html", "d5/da7/a01283" ],
-    [ "boss_kazrogal.cpp", "d9/dda/a01289.html", "d9/dda/a01289" ],
-    [ "boss_rage_winterchill.cpp", "dc/dd9/a01268.html", "dc/dd9/a01268" ],
-    [ "hyjal.cpp", "d2/d1d/a01277.html", "d2/d1d/a01277" ],
-    [ "hyjal.h", "d0/d00/a01286.html", "d0/d00/a01286" ],
-    [ "instance_hyjal.cpp", "de/d33/a01274.html", "de/d33/a01274" ]
+    [ "boss_anetheron.cpp", "d4/d34/a01298.html", "d4/d34/a01298" ],
+    [ "boss_archimonde.cpp", "d9/dda/a01289.html", "d9/dda/a01289" ],
+    [ "boss_azgalor.cpp", "d3/d07/a01301.html", "d3/d07/a01301" ],
+    [ "boss_kazrogal.cpp", "d2/d4c/a01307.html", "d2/d4c/a01307" ],
+    [ "boss_rage_winterchill.cpp", "d0/d00/a01286.html", "d0/d00/a01286" ],
+    [ "hyjal.cpp", "d2/d68/a01295.html", "d2/d68/a01295" ],
+    [ "hyjal.h", "d6/dae/a01304.html", "d6/dae/a01304" ],
+    [ "instance_hyjal.cpp", "d8/d7a/a01292.html", "d8/d7a/a01292" ]
 ];

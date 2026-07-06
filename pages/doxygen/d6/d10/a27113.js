@@ -1,7 +1,9 @@
 var a27113 =
 [
-    [ "HandleScriptEffect", "d6/d10/a27113.html#a5bbcb05b82e0953c82f2a0d96bd79eab", null ],
-    [ "PrepareSpellScript", "d6/d10/a27113.html#a7462fbeab2254046e12a262418ec0d2c", null ],
-    [ "Register", "d6/d10/a27113.html#ac14625182eb0289d8536ac322500ab45", null ],
-    [ "Validate", "d6/d10/a27113.html#a190b802f3b09655886e5bbb9980375af", null ]
+    [ "Absorb", "d6/d10/a27113.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d6/d10/a27113.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d6/d10/a27113.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d6/d10/a27113.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d6/d10/a27113.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d6/d10/a27113.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

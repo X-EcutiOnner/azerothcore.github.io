@@ -1,10 +1,7 @@
 var a16261 =
 [
-    [ "HandleDummy", "d5/d79/a16261.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d5/d79/a16261.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d5/d79/a16261.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d5/d79/a16261.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d5/d79/a16261.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d5/d79/a16261.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d5/d79/a16261.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "npc_ahnkahar_nerubian", "d5/d79/a16261.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d5/d79/a16261.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d5/d79/a16261.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d5/d79/a16261.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

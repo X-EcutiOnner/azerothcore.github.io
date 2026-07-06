@@ -1,7 +1,6 @@
 var a15197 =
 [
-    [ "npc_onyxian_lair_guard", "d4/d3e/a15197.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d4/d3e/a15197.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d4/d3e/a15197.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d4/d3e/a15197.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_infinite_corruptorAI", "d7/d20/a15201.html", "d7/d20/a15201" ],
+    [ "boss_infinite_corruptor", "d4/d3e/a15197.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "d4/d3e/a15197.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

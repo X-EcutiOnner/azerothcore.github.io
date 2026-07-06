@@ -1,6 +1,4 @@
 var a24225 =
 [
-    [ "RaiseDeadCheck", "d2/d51/a24225.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "d2/d51/a24225.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "d2/d51/a24225.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "npc_pet_gen_moth", "d2/d51/a24225.html#a527b48528cce28f6b468af170e5ae45f", null ]
 ];

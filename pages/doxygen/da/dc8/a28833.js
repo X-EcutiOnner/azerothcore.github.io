@@ -1,8 +1,5 @@
 var a28833 =
 [
-    [ "areaTriggerText", "da/dc8/a28833.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "da/dc8/a28833.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "da/dc8/a28833.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "da/dc8/a28833.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "da/dc8/a28833.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "ID", "da/dc8/a28833.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
+    [ "price", "da/dc8/a28833.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
 ];

@@ -1,5 +1,8 @@
 var a17765 =
 [
-    [ "npc_zafod_boomboxAI", "d1/dd0/a17765.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "d1/dd0/a17765.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "OnApply", "d1/dd0/a17765.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d1/dd0/a17765.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d1/dd0/a17765.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d1/dd0/a17765.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d1/dd0/a17765.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

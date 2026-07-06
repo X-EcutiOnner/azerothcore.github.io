@@ -1,11 +1,15 @@
 var a19429 =
 [
-    [ "npc_hover_disk", "d2/d8c/a19429.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
-    [ "AttackStart", "d2/d8c/a19429.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
-    [ "DoAction", "d2/d8c/a19429.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
-    [ "MoveInLineOfSight", "d2/d8c/a19429.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
-    [ "MovementInform", "d2/d8c/a19429.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
-    [ "PassengerBoarded", "d2/d8c/a19429.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
-    [ "UpdateAI", "d2/d8c/a19429.html#add98702312084df553e24bcd4b632bb3", null ],
-    [ "events", "d2/d8c/a19429.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
+    [ "boss_heigan", "d2/d8c/a19429.html#a402b76bd927dd738bdbdf7faff93394c", null ],
+    [ "CheckSafetyDance", "d2/d8c/a19429.html#a378397cc91408b812c76f657a96285e1", null ],
+    [ "JustDied", "d2/d8c/a19429.html#a259c99e12b92ccb99af16949e37b5c48", null ],
+    [ "JustEngagedWith", "d2/d8c/a19429.html#a55f1fd72fefe1a47cbc9390ad7c2831d", null ],
+    [ "KilledUnit", "d2/d8c/a19429.html#a5210d37ca829ff81ca25478a0c27a8ea", null ],
+    [ "Reset", "d2/d8c/a19429.html#a11035ab423fd556ccdb1ec8f85160df3", null ],
+    [ "StartFightPhase", "d2/d8c/a19429.html#ab1ae2d814f7258aed760a1644d2de69a", null ],
+    [ "UpdateAI", "d2/d8c/a19429.html#a36c0bc5abff61b435f2a8163687b122a", null ],
+    [ "_currentPhase", "d2/d8c/a19429.html#a1065c6221b30536344e7d4d0779abd17", null ],
+    [ "_currentSection", "d2/d8c/a19429.html#adcf2448a0868ea3e900609c8e7e34154", null ],
+    [ "_eruptionScheduler", "d2/d8c/a19429.html#a53ed837f6a898551bc7daa4be8b05ee6", null ],
+    [ "_moveRight", "d2/d8c/a19429.html#a43d360ff1b8e569a5f9f894b456cb751", null ]
 ];

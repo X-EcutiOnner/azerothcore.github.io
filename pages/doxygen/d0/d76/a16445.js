@@ -1,6 +1,7 @@
 var a16445 =
 [
-    [ "npc_living_infernoAI", "dd/d22/a16449.html", "dd/d22/a16449" ],
-    [ "npc_living_inferno", "d0/d76/a16445.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d0/d76/a16445.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "HandleHit", "d0/d76/a16445.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d0/d76/a16445.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d0/d76/a16445.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d0/d76/a16445.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

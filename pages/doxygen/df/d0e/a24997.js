@@ -1,6 +1,7 @@
 var a24997 =
 [
-    [ "HandleCast", "df/d0e/a24997.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "df/d0e/a24997.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "df/d0e/a24997.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleEffectApply", "df/d0e/a24997.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "df/d0e/a24997.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "df/d0e/a24997.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "df/d0e/a24997.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

@@ -1,9 +1,7 @@
 var a26465 =
 [
-    [ "CheckCast", "d2/dae/a26465.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "d2/dae/a26465.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "d2/dae/a26465.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "d2/dae/a26465.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "d2/dae/a26465.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "d2/dae/a26465.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "PeriodicTick", "d2/dae/a26465.html#a4fcdb073b4140311f31c5965ea7d1316", null ],
+    [ "PrepareAuraScript", "d2/dae/a26465.html#ad332660b3b30ecb7b5c949c702574879", null ],
+    [ "Register", "d2/dae/a26465.html#ad752eaecf8b0b3efcc7f61d88fb447d9", null ],
+    [ "Validate", "d2/dae/a26465.html#a426b39c9733464c5d69d707d4e931f64", null ]
 ];

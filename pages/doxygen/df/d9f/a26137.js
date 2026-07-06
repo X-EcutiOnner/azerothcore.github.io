@@ -1,7 +1,7 @@
 var a26137 =
 [
-    [ "CheckProc", "df/d9f/a26137.html#a4aadc249b5c568b5317c4eb41abeb6b4", null ],
-    [ "PrepareAuraScript", "df/d9f/a26137.html#acc3d194b3f23ecfe42c40d011c957138", null ],
-    [ "Register", "df/d9f/a26137.html#a0b104698a7c763bee1af656e127591bd", null ],
-    [ "Validate", "df/d9f/a26137.html#a493e63aafcbfd4279cabe91aaa21cee2", null ]
+    [ "HandleProc", "df/d9f/a26137.html#a7bf47ecb24b3427dda1980f68b41cfe8", null ],
+    [ "PrepareAuraScript", "df/d9f/a26137.html#a92468411049bd05eda99e676edefcf6e", null ],
+    [ "Register", "df/d9f/a26137.html#a32ca1fb3bb75fb98cb8aec38adf54325", null ],
+    [ "Validate", "df/d9f/a26137.html#a9a531733a3e7426a3bf6aa50ab86f4d9", null ]
 ];

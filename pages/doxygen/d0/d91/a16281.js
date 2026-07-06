@@ -1,7 +1,8 @@
 var a16281 =
 [
-    [ "DelayedTalk", "d0/d91/a16281.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d0/d91/a16281.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d0/d91/a16281.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d0/d91/a16281.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "HandleScriptEffect", "d0/d91/a16281.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d0/d91/a16281.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d0/d91/a16281.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d0/d91/a16281.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d0/d91/a16281.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

@@ -1,12 +1,8 @@
 var a10153 =
 [
-    [ "MapReference", "de/dd8/a10153.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "de/dd8/a10153.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "de/dd8/a10153.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "de/dd8/a10153.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "de/dd8/a10153.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "de/dd8/a10153.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "de/dd8/a10153.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "de/dd8/a10153.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "de/dd8/a10153.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "CircleBoundary", "de/dd8/a10153.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "de/dd8/a10153.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "de/dd8/a10153.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "de/dd8/a10153.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "de/dd8/a10153.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

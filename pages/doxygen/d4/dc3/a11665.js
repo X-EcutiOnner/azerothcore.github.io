@@ -1,12 +1,17 @@
 var a11665 =
 [
-    [ "WorldObjectSpellTargetCheck", "d4/dc3/a11665.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
-    [ "~WorldObjectSpellTargetCheck", "d4/dc3/a11665.html#a1d519b04f171d230b21da3cc637497cf", null ],
-    [ "operator()", "d4/dc3/a11665.html#a2ae263977948d2195b22a737c36bad20", null ],
-    [ "_caster", "d4/dc3/a11665.html#ac090f8e47bcdfccb85fb791856355827", null ],
-    [ "_condList", "d4/dc3/a11665.html#a70b9331b5871e2e4d92d642715c8192a", null ],
-    [ "_condSrcInfo", "d4/dc3/a11665.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
-    [ "_referer", "d4/dc3/a11665.html#a1a24eaafdf716de984a5943e049d10f7", null ],
-    [ "_spellInfo", "d4/dc3/a11665.html#a66bd07338943ee307be19f22326b29b7", null ],
-    [ "_targetSelectionType", "d4/dc3/a11665.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
+    [ "WorldPacket", "d4/dc3/a11665.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "d4/dc3/a11665.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "d4/dc3/a11665.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "d4/dc3/a11665.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "d4/dc3/a11665.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "d4/dc3/a11665.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "d4/dc3/a11665.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "d4/dc3/a11665.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "d4/dc3/a11665.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "d4/dc3/a11665.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "d4/dc3/a11665.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "d4/dc3/a11665.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "d4/dc3/a11665.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "d4/dc3/a11665.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

@@ -1,5 +1,5 @@
 var a13205 =
 [
-    [ "boss_zelfan", "d9/d70/a13205.html#a169e72dfe50c5199bf0053828888095b", null ],
-    [ "JustEngagedWith", "d9/d70/a13205.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
+    [ "PrepareSpellScript", "d9/d70/a13205.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d9/d70/a13205.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

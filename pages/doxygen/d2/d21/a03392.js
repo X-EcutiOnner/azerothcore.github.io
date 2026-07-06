@@ -1,4 +1,4 @@
 var a03392 =
 [
-    [ "ScriptRegistry< CommandScript >", "d2/d21/a03392.html#a2d714ec85ac23255244ecf61e4f48244", null ]
+    [ "ScriptRegistry< MovementHandlerScript >", "d2/d21/a03392.html#adecbf467a875ee8886c336d96a2f97dc", null ]
 ];

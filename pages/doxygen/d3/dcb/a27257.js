@@ -1,7 +1,7 @@
 var a27257 =
 [
-    [ "HandleScriptEffect", "d3/dcb/a27257.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
-    [ "PrepareSpellScript", "d3/dcb/a27257.html#aa211032991d8fd11d574cb364533a515", null ],
-    [ "Register", "d3/dcb/a27257.html#a13315f197f2e6975dca00b53cbc599d2", null ],
-    [ "Validate", "d3/dcb/a27257.html#a3b752f07631223199ed7ac404ed1afed", null ]
+    [ "CalculateAmount", "d3/dcb/a27257.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
+    [ "PrepareAuraScript", "d3/dcb/a27257.html#aa966d001c3687403dfa2b13e998ca241", null ],
+    [ "Register", "d3/dcb/a27257.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
+    [ "Validate", "d3/dcb/a27257.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
 ];

@@ -1,5 +1,5 @@
 var a20769 =
 [
-    [ "npc_salvaged_siege_engine", "de/dbe/a20769.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "de/dbe/a20769.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "achievement_heartbreaker", "de/dbe/a20769.html#ad81925fc32d7cf914b7be44aabe49b39", null ],
+    [ "OnCheck", "de/dbe/a20769.html#ab3a2539ae5dc74743beb0dc0ea0147af", null ]
 ];

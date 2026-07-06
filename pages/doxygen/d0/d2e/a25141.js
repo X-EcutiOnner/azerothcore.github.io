@@ -1,5 +1,7 @@
 var a25141 =
 [
-    [ "PrepareSpellScript", "d0/d2e/a25141.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
-    [ "Register", "d0/d2e/a25141.html#a0ca6ec06108f964432f1cafc00b96313", null ]
+    [ "HandleDummy", "d0/d2e/a25141.html#a9037eddf4c9ce96c15c57e8906bd9a5f", null ],
+    [ "Load", "d0/d2e/a25141.html#a738318535196b3d55e8f1b3da4f76c95", null ],
+    [ "PrepareSpellScript", "d0/d2e/a25141.html#a941a097124ed9b4917faa18ff23fc366", null ],
+    [ "Register", "d0/d2e/a25141.html#aaf9d269e7d052515f31b463999e92cf4", null ]
 ];

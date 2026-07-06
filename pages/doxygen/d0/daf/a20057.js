@@ -1,10 +1,12 @@
 var a20057 =
 [
-    [ "boss_freya_elder_ironbranch", "d0/daf/a20057.html#ae488bddfe330ca5e0bab0c37c001c217", null ],
-    [ "JustDied", "d0/daf/a20057.html#a0e76b663697086ddaeb804f6fe9ce9cf", null ],
-    [ "JustEngagedWith", "d0/daf/a20057.html#a34d87135b8dac114a8783941dba69559", null ],
-    [ "KilledUnit", "d0/daf/a20057.html#a20b5a622ac233d1280169f54942c894f", null ],
-    [ "Reset", "d0/daf/a20057.html#ad2c65b696a63a63b3443fe1c436bbac1", null ],
-    [ "UpdateAI", "d0/daf/a20057.html#a00dade8af24a2240187fb4e52138c0d1", null ],
-    [ "events", "d0/daf/a20057.html#a8693a800da6890004f3ae82fd9898480", null ]
+    [ "npc_assembly_lightning", "d0/daf/a20057.html#a8fcec558ec18de7bd9545779ded9e909", null ],
+    [ "AttackStart", "d0/daf/a20057.html#a140d4166e99c223b674e55b67d709613", null ],
+    [ "EnterEvadeMode", "d0/daf/a20057.html#a287f1e4fad8c8a046acc15952e2cb0b9", null ],
+    [ "MoveInLineOfSight", "d0/daf/a20057.html#a3b3ec1402907a84c0ec17522568348c6", null ],
+    [ "MovementInform", "d0/daf/a20057.html#a3117383b1d3bce6a3bbc8445e5ea7a71", null ],
+    [ "OnCharmed", "d0/daf/a20057.html#a72e93f6e1ca82e82f8f3cc051f0f1345", null ],
+    [ "Reset", "d0/daf/a20057.html#aee99895b9c4d1b5f4d1a2ae7f4bd09a8", null ],
+    [ "UpdateAI", "d0/daf/a20057.html#a0ae73d6c38064d80a7297045f2b829dd", null ],
+    [ "_boomed", "d0/daf/a20057.html#a13074c840c7e4dc94a2b30741f62ec00", null ]
 ];

@@ -1,7 +1,6 @@
 var a18773 =
 [
-    [ "FrostwingVrykulSearcher", "d3/d79/a18773.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d3/d79/a18773.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d3/d79/a18773.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d3/d79/a18773.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_icc_lk_checktargetAI", "d0/d99/a18777.html", "d0/d99/a18777" ],
+    [ "npc_icc_lk_checktarget", "d3/d79/a18773.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d3/d79/a18773.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

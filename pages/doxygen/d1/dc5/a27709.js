@@ -1,7 +1,7 @@
 var a27709 =
 [
-    [ "HandlePeriodic", "d1/dc5/a27709.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d1/dc5/a27709.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d1/dc5/a27709.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d1/dc5/a27709.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "HandleScript", "d1/dc5/a27709.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "d1/dc5/a27709.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "d1/dc5/a27709.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "d1/dc5/a27709.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

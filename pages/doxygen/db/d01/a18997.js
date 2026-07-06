@@ -1,6 +1,6 @@
 var a18997 =
 [
-    [ "npc_icc_valkyr_heraldAI", "db/d43/a19001.html", "db/d43/a19001" ],
-    [ "npc_icc_valkyr_herald", "db/d01/a18997.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "db/d01/a18997.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "boss_sister_svalnaAI", "db/d43/a19001.html", "db/d43/a19001" ],
+    [ "boss_sister_svalna", "db/d01/a18997.html#a233a9606db61f6ab945350e98a0929ff", null ],
+    [ "GetAI", "db/d01/a18997.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
 ];

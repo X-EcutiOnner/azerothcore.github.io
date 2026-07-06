@@ -1,14 +1,9 @@
 var a23169 =
 [
-    [ "boss_vazruden", "df/def/a23169.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "df/def/a23169.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "df/def/a23169.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "df/def/a23169.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "df/def/a23169.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "df/def/a23169.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "df/def/a23169.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "df/def/a23169.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "df/def/a23169.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "df/def/a23169.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "df/def/a23169.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "boss_mennu_the_betrayer", "df/def/a23169.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "df/def/a23169.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "df/def/a23169.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "df/def/a23169.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "df/def/a23169.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "df/def/a23169.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

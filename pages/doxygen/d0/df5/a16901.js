@@ -1,6 +1,6 @@
 var a16901 =
 [
-    [ "HandleEffectPeriodic", "d0/df5/a16901.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d0/df5/a16901.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d0/df5/a16901.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_toc_boomkinAI", "d7/d1a/a16905.html", "d7/d1a/a16905" ],
+    [ "npc_toc_boomkin", "d0/df5/a16901.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d0/df5/a16901.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

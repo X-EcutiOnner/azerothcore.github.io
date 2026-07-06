@@ -1,18 +1,12 @@
 var a28881 =
 [
-    [ "getArmorMod", "d1/d7e/a28881.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
-    [ "getDPSMod", "d1/d7e/a28881.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
-    [ "getFeralBonus", "d1/d7e/a28881.html#aa54c3d1add4a1b982c05138f876fd138", null ],
-    [ "getSpellBonus", "d1/d7e/a28881.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
-    [ "getssdMultiplier", "d1/d7e/a28881.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
-    [ "IsTwoHand", "d1/d7e/a28881.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
-    [ "armorMod", "d1/d7e/a28881.html#a742f8447dca5961fb39e50de8233fa86", null ],
-    [ "armorMod2", "d1/d7e/a28881.html#a36dba32ea7febb8dab627fa992de878b", null ],
-    [ "dpsMod", "d1/d7e/a28881.html#ace956cab0056bcf0e116ac0884ad3575", null ],
-    [ "Id", "d1/d7e/a28881.html#aebc75b8f80cb210b6af081077bd88e85", null ],
-    [ "Level", "d1/d7e/a28881.html#a5758f5152401efde26edf3110c0d11e2", null ],
-    [ "spellPower", "d1/d7e/a28881.html#a03804cca02fd1146dffb762bcd1274f8", null ],
-    [ "ssdMultiplier", "d1/d7e/a28881.html#a7559b9045268d8050372153c8c976946", null ],
-    [ "ssdMultiplier2", "d1/d7e/a28881.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
-    [ "ssdMultiplier3", "d1/d7e/a28881.html#ae78f00d5ed42704a4093b5df939498d7", null ]
+    [ "ID", "d1/d7e/a28881.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "d1/d7e/a28881.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "d1/d7e/a28881.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "d1/d7e/a28881.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "d1/d7e/a28881.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "d1/d7e/a28881.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "d1/d7e/a28881.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "d1/d7e/a28881.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "d1/d7e/a28881.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

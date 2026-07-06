@@ -1,9 +1,7 @@
 var a14913 =
 [
-    [ "npc_ancient_wisp", "d3/dfe/a14913.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d3/dfe/a14913.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d3/dfe/a14913.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d3/dfe/a14913.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d3/dfe/a14913.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d3/dfe/a14913.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "OnApply", "d3/dfe/a14913.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d3/dfe/a14913.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d3/dfe/a14913.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d3/dfe/a14913.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

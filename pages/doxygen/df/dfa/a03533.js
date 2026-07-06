@@ -1,5 +1,5 @@
 var a03533 =
 [
-    [ "AreaTriggerScript", "d5/dfe/a10635.html", "d5/dfe/a10635" ],
-    [ "OnlyOnceAreaTriggerScript", "d3/d90/a10639.html", "d3/d90/a10639" ]
+    [ "ForeachMaps", "df/dfa/a03533.html#a899f6a046cdda33d737030dd4923ca7d", null ],
+    [ "ScriptRegistry< AllMapScript >", "df/dfa/a03533.html#ada370fef23e6d206da686c8bb6149104", null ]
 ];

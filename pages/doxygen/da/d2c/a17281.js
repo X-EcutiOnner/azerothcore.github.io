@@ -1,6 +1,11 @@
 var a17281 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "de/d7d/a17285.html", "de/d7d/a17285" ],
-    [ "npc_pos_martin_or_gorkun_second", "da/d2c/a17281.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "da/d2c/a17281.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "npc_ghostly_priest", "da/d2c/a17281.html#a154f4a7f9cd3c4088eada04c44f66f2b", null ],
+    [ "AttackStart", "da/d2c/a17281.html#acbc2eb708773500136deebb8542d36aa", null ],
+    [ "DoAction", "da/d2c/a17281.html#a0687e1c766c89b8b90cb620a4a2bef6d", null ],
+    [ "EnterEvadeMode", "da/d2c/a17281.html#ac944330e3834bd4c65e30c595752746c", null ],
+    [ "JustDied", "da/d2c/a17281.html#ae7ef06904aa2039d3552a2a62b846042", null ],
+    [ "JustEngagedWith", "da/d2c/a17281.html#ada930b20b8f3b07f2da7bfa44025ed32", null ],
+    [ "Reset", "da/d2c/a17281.html#a3bb7596f2a15c76eeb8f2b79fab8ddf1", null ],
+    [ "UpdateAI", "da/d2c/a17281.html#a3722469ea1445f7dbaf834853a9ed654", null ]
 ];

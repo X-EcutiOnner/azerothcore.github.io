@@ -1,22 +1,13 @@
 var a19197 =
 [
-    [ "boss_gothikAI", "d8/da8/a19197.html#a18ae481969ed0885122058b0ebf98cc8", null ],
-    [ "CheckGroupSplitted", "d8/da8/a19197.html#a1efec7ad0793812f83e808b961059875", null ],
-    [ "DamageTaken", "d8/da8/a19197.html#a40e40340002d05d97aa944c14af4030c", null ],
-    [ "IsInRoom", "d8/da8/a19197.html#a73b20994a1949731b83a3a28b70ad9d1", null ],
-    [ "JustDied", "d8/da8/a19197.html#a9c4e6647c05785664cd23fce73d8ca87", null ],
-    [ "JustEngagedWith", "d8/da8/a19197.html#aa2e622be4faa605aa7b13af333bd1a91", null ],
-    [ "JustSummoned", "d8/da8/a19197.html#a9bbe9412721e4173ef37a1dbd494c262", null ],
-    [ "KilledUnit", "d8/da8/a19197.html#adde94c95fcfe2cacee16b06f73528651", null ],
-    [ "OpenGate", "d8/da8/a19197.html#a6c2f0b49dec037f300206341bbb0f0a0", null ],
-    [ "Reset", "d8/da8/a19197.html#a31f3993b01755f45f3fe997d599a52d4", null ],
-    [ "SummonedCreatureDespawn", "d8/da8/a19197.html#a2223b2c287b2b21a7377ed49b2a65628", null ],
-    [ "SummonHelpers", "d8/da8/a19197.html#aaa751f216763deba29fde2d0aba09567", null ],
-    [ "UpdateAI", "d8/da8/a19197.html#ada9b63a61fc4c8abb60fdff30fb9487d", null ],
-    [ "events", "d8/da8/a19197.html#a756a5816615e02be0fc8308cc5088e49", null ],
-    [ "gateOpened", "d8/da8/a19197.html#ad2de325f3fde87679503664de81a911e", null ],
-    [ "lastTeleportDead", "d8/da8/a19197.html#aaec3668a6ff72ccee46148b2d9b4e3ad", null ],
-    [ "secondPhase", "d8/da8/a19197.html#a1e4526d104670d4899ef6dd5760c2437", null ],
-    [ "summons", "d8/da8/a19197.html#aa1786f68bc52722dead6d9a6c131d6cb", null ],
-    [ "waveCount", "d8/da8/a19197.html#a4ed9dfac7e4d22fcb1f8396ca1318073", null ]
+    [ "npc_icc_spire_frostwyrm", "d8/da8/a19197.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "d8/da8/a19197.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "d8/da8/a19197.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "d8/da8/a19197.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "d8/da8/a19197.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "d8/da8/a19197.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "d8/da8/a19197.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "d8/da8/a19197.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "d8/da8/a19197.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "d8/da8/a19197.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

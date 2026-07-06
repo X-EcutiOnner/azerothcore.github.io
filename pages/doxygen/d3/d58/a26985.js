@@ -1,6 +1,6 @@
 var a26985 =
 [
-    [ "HandleAfterCast", "d3/d58/a26985.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d3/d58/a26985.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d3/d58/a26985.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleScript", "d3/d58/a26985.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "d3/d58/a26985.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "d3/d58/a26985.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

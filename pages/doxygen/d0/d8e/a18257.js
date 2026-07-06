@@ -1,6 +1,6 @@
 var a18257 =
 [
-    [ "CheckProc", "d0/d8e/a18257.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d0/d8e/a18257.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d0/d8e/a18257.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "d0/d8e/a18257.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "d0/d8e/a18257.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "d0/d8e/a18257.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

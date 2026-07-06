@@ -1,8 +1,7 @@
 var a26953 =
 [
-    [ "CheckProc", "df/d83/a26953.html#a6abcfe33cfddde117eb9d19bdf834c3f", null ],
-    [ "HandleProc", "df/d83/a26953.html#a4ee92efd0a312f7b5b4e0e19184cd085", null ],
-    [ "PrepareAuraScript", "df/d83/a26953.html#ac45288980b444c92daecc1392a2cd38c", null ],
-    [ "Register", "df/d83/a26953.html#ac93280657ee8d64aced09b95dac270d4", null ],
-    [ "Validate", "df/d83/a26953.html#ad7b22c7da5d72a392d342624c46b456b", null ]
+    [ "HandleDummy", "df/d83/a26953.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
+    [ "Load", "df/d83/a26953.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
+    [ "PrepareSpellScript", "df/d83/a26953.html#aeffcc8db6125a35227545911fa03a850", null ],
+    [ "Register", "df/d83/a26953.html#a1de981482ebb05b8507b308dba7a426b", null ]
 ];

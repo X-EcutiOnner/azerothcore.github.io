@@ -1,8 +1,8 @@
 var a09725 =
 [
-    [ "AllGameObjectsWithEntryInRange", "d5/d29/a09725.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
-    [ "operator()", "d5/d29/a09725.html#a342aa18d98413620fce4c676fcf75305", null ],
-    [ "m_fRange", "d5/d29/a09725.html#a7cce16670c95c19f3eb68e5914160513", null ],
-    [ "m_pObject", "d5/d29/a09725.html#a5c898c20992999f11204aab6479d71f6", null ],
-    [ "m_uiEntry", "d5/d29/a09725.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
+    [ "AnyUnfriendlyNoTotemUnitInObjectRangeCheck", "d5/d29/a09725.html#ac4378cfa8fedb3453c0e810d497cb99c", null ],
+    [ "operator()", "d5/d29/a09725.html#ad9e3486316cf297ba79a588c60b4ce15", null ],
+    [ "i_funit", "d5/d29/a09725.html#ace766830b26d8aae3ec673d2102a9969", null ],
+    [ "i_obj", "d5/d29/a09725.html#ae12f4176e49438cfa248345cfe7c9947", null ],
+    [ "i_range", "d5/d29/a09725.html#a8335ef8fd7376e7c920dfbca2318d646", null ]
 ];

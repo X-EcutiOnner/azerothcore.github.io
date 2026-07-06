@@ -1,7 +1,6 @@
 var a24441 =
 [
-    [ "CalculateAmount", "d3/ddf/a24441.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
-    [ "Load", "d3/ddf/a24441.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
-    [ "PrepareAuraScript", "d3/ddf/a24441.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
-    [ "Register", "d3/ddf/a24441.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
+    [ "RaiseDeadCheck", "d3/ddf/a24441.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d3/ddf/a24441.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d3/ddf/a24441.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

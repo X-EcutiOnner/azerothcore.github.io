@@ -1,8 +1,7 @@
 var a25585 =
 [
-    [ "CheckProc", "df/d98/a25585.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "df/d98/a25585.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "df/d98/a25585.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "df/d98/a25585.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "df/d98/a25585.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "OnDummyEffect", "df/d98/a25585.html#a333c11c7ee2821bcc4d74d316f55bf5a", null ],
+    [ "PrepareSpellScript", "df/d98/a25585.html#aa15334f23b837a005a34a12d238fc9d5", null ],
+    [ "Register", "df/d98/a25585.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ],
+    [ "Validate", "df/d98/a25585.html#a359fba1475e52b24635cc8dda51cc922", null ]
 ];

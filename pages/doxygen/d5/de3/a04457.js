@@ -1,5 +1,5 @@
 var a04457 =
 [
-    [ "BIHWrap< T, BoundsFunc >", "d4/ddd/a05199.html", "d4/ddd/a05199" ],
-    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "de/d1b/a05203.html", "de/d1b/a05203" ]
+    [ "VMAP::MapRayCallback", "d5/d70/a05305.html", "d5/d70/a05305" ],
+    [ "VMAP::LocationInfoCallback", "da/d15/a05309.html", "da/d15/a05309" ]
 ];

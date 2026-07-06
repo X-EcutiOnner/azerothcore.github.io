@@ -1,6 +1,6 @@
 var a17473 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d5/d2d/a17477.html", "d5/d2d/a17477" ],
-    [ "npc_blood_queen_lana_thel", "d8/d10/a17473.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d8/d10/a17473.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "npc_pos_freed_slaveAI", "d8/d10/a17473.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d8/d10/a17473.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d8/d10/a17473.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

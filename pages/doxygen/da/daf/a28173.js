@@ -1,6 +1,5 @@
 var a28173 =
 [
-    [ "npc_spring_rabbitAI", "df/d23/a28177.html", "df/d23/a28177" ],
-    [ "npc_spring_rabbit", "da/daf/a28173.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "da/daf/a28173.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "item_disgusting_jar", "da/daf/a28173.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "da/daf/a28173.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

@@ -1,6 +1,6 @@
 var a21225 =
 [
-    [ "npc_warmage_coldarraAI", "d3/df4/a21229.html", "d3/df4/a21229" ],
-    [ "npc_warmage_coldarra", "de/dce/a21225.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "de/dce/a21225.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "boss_toravonAI", "d3/df4/a21229.html", "d3/df4/a21229" ],
+    [ "boss_toravon", "de/dce/a21225.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
+    [ "GetAI", "de/dce/a21225.html#a6db140b1d232312300e20155830cb249", null ]
 ];

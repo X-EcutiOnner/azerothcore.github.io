@@ -1,7 +1,7 @@
 var a18941 =
 [
-    [ "OnRemove", "d1/d03/a18941.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d1/d03/a18941.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d1/d03/a18941.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d1/d03/a18941.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "HandleForceCast", "d1/d03/a18941.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "d1/d03/a18941.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "d1/d03/a18941.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "d1/d03/a18941.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

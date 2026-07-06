@@ -1,7 +1,6 @@
 var a20985 =
 [
-    [ "HandlePeriodicDummy", "df/d35/a20985.html#a295f37cddccc696d450a0c4380d43c29", null ],
-    [ "PrepareAuraScript", "df/d35/a20985.html#a9453aa189ba53de3d89bbab183927cfc", null ],
-    [ "Register", "df/d35/a20985.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
-    [ "Validate", "df/d35/a20985.html#a475480c072aaccde7b00cf28aedff3ec", null ]
+    [ "CheckRequirement", "df/d35/a20985.html#ad0a1865c8f534310ec2d4c8abc698761", null ],
+    [ "PrepareSpellScript", "df/d35/a20985.html#a06e1b98a589717bdef6444912a7ad602", null ],
+    [ "Register", "df/d35/a20985.html#a089a8055517acd9ddc31bf1bd16cbf17", null ]
 ];

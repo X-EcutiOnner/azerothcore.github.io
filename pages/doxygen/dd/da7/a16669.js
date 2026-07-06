@@ -1,7 +1,6 @@
 var a16669 =
 [
-    [ "npc_toc_shamanAI", "dd/da7/a16669.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "dd/da7/a16669.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "dd/da7/a16669.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "dd/da7/a16669.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "boss_paletressAI", "da/d18/a16673.html", "da/d18/a16673" ],
+    [ "boss_paletress", "dd/da7/a16669.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "dd/da7/a16669.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

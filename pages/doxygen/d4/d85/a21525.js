@@ -1,6 +1,9 @@
 var a21525 =
 [
-    [ "npc_mrfloppyAI", "d1/da7/a21529.html", "d1/da7/a21529" ],
-    [ "npc_mrfloppy", "d4/d85/a21525.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d4/d85/a21525.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_minigob_manabonk", "d4/d85/a21525.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "d4/d85/a21525.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "d4/d85/a21525.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "d4/d85/a21525.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "d4/d85/a21525.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "d4/d85/a21525.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

@@ -1,6 +1,7 @@
 var a17193 =
 [
-    [ "boss_ickAI", "dc/d78/a17197.html", "dc/d78/a17197" ],
-    [ "boss_ick", "d6/d36/a17193.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d6/d36/a17193.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "HandleScriptEffect", "d6/d36/a17193.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "d6/d36/a17193.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "d6/d36/a17193.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "d6/d36/a17193.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

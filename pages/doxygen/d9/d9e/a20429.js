@@ -1,9 +1,7 @@
 var a20429 =
 [
-    [ "npc_ulduar_dark_rune_sentinel", "d9/d9e/a20429.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
-    [ "CanAIAttack", "d9/d9e/a20429.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
-    [ "Reset", "d9/d9e/a20429.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
-    [ "UpdateAI", "d9/d9e/a20429.html#ae0c37055a213f91a46b68d7286ef3867", null ],
-    [ "timer1", "d9/d9e/a20429.html#a836d5ed8691a08303622389475380eae", null ],
-    [ "timer2", "d9/d9e/a20429.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
+    [ "HandleEffectPeriodic", "d9/d9e/a20429.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d9/d9e/a20429.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d9/d9e/a20429.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d9/d9e/a20429.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

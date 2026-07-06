@@ -1,11 +1,6 @@
 var a18697 =
 [
-    [ "npc_valithria_cloudAI", "db/d66/a18697.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "db/d66/a18697.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "db/d66/a18697.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "db/d66/a18697.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "db/d66/a18697.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "db/d66/a18697.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "db/d66/a18697.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "db/d66/a18697.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "ModDest", "db/d66/a18697.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "db/d66/a18697.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "db/d66/a18697.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

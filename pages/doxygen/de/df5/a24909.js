@@ -1,11 +1,6 @@
 var a24909 =
 [
-    [ "GetPennatSpellId", "de/df5/a24909.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
-    [ "HandleApplyEffect", "de/df5/a24909.html#a396c05708a89758e4038b327e09c65e8", null ],
-    [ "HandleRemoveEffect", "de/df5/a24909.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
-    [ "Load", "de/df5/a24909.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
-    [ "PrepareAuraScript", "de/df5/a24909.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
-    [ "Register", "de/df5/a24909.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
-    [ "Validate", "de/df5/a24909.html#a095b002671940f2b3504ae2646f76d5a", null ],
-    [ "_pennantSpellId", "de/df5/a24909.html#a092f0d88ede12dea699b39d5df04131c", null ]
+    [ "ModDest", "de/df5/a24909.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "de/df5/a24909.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "de/df5/a24909.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

@@ -1,6 +1,8 @@
 var a18577 =
 [
-    [ "npc_spirit_wardenAI", "d5/dd6/a18581.html", "d5/dd6/a18581" ],
-    [ "npc_spirit_warden", "d2/d3c/a18577.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d2/d3c/a18577.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "NecroticPlagueTargetCheck", "d2/d3c/a18577.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d2/d3c/a18577.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d2/d3c/a18577.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d2/d3c/a18577.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d2/d3c/a18577.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

@@ -1,7 +1,8 @@
 var a16741 =
 [
-    [ "npc_toc_dkAI", "da/def/a16741.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "da/def/a16741.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "da/def/a16741.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "da/def/a16741.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc5_player_vehicleAI", "da/def/a16741.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "da/def/a16741.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "da/def/a16741.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "da/def/a16741.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "da/def/a16741.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

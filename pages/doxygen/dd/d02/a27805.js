@@ -1,6 +1,5 @@
 var a27805 =
 [
-    [ "go_darkmoon_faire_musicAI", "df/de4/a27809.html", "df/de4/a27809" ],
-    [ "go_darkmoon_faire_music", "dd/d02/a27805.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "dd/d02/a27805.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "achievement_sa_defense_of_the_ancients", "dd/d02/a27805.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "dd/d02/a27805.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

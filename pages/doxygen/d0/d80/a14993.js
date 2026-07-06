@@ -1,10 +1,9 @@
 var a14993 =
 [
-    [ "npc_hyjal_gargoyle", "d0/d80/a14993.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d0/d80/a14993.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d0/d80/a14993.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d0/d80/a14993.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d0/d80/a14993.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d0/d80/a14993.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d0/d80/a14993.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "HandlePeriodic", "d0/d80/a14993.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d0/d80/a14993.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d0/d80/a14993.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d0/d80/a14993.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d0/d80/a14993.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d0/d80/a14993.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

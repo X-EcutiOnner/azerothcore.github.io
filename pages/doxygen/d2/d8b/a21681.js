@@ -1,6 +1,6 @@
 var a21681 =
 [
-    [ "npc_boneguard_footmanAI", "df/df1/a21685.html", "df/df1/a21685" ],
-    [ "npc_boneguard_footman", "d2/d8b/a21681.html#aba17f89b9546deff5401ad33224b2b3e", null ],
-    [ "GetAI", "d2/d8b/a21681.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
+    [ "npc_spiritual_insightAI", "df/df1/a21685.html", "df/df1/a21685" ],
+    [ "npc_spiritual_insight", "d2/d8b/a21681.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d2/d8b/a21681.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

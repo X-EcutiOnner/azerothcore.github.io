@@ -1,6 +1,6 @@
 var a16977 =
 [
-    [ "HandleScript", "d9/d6e/a16977.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d9/d6e/a16977.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d9/d6e/a16977.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "npc_fel_infernalAI", "d6/dea/a16981.html", "d6/dea/a16981" ],
+    [ "npc_fel_infernal", "d9/d6e/a16977.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d9/d6e/a16977.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

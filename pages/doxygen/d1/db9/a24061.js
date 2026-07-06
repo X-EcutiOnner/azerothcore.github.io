@@ -1,7 +1,11 @@
 var a24061 =
 [
-    [ "CheckCast", "d1/db9/a24061.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d1/db9/a24061.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d1/db9/a24061.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d1/db9/a24061.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d1/db9/a24061.html#af24a8d5ead256d158c86379e032aa889", null ],
+    [ "Reset", "d1/db9/a24061.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
+    [ "SetData", "d1/db9/a24061.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
+    [ "SpellHit", "d1/db9/a24061.html#a14523a24042d23efbafc7924f394dd04", null ],
+    [ "UpdateAI", "d1/db9/a24061.html#ae5cd38aa2a9cc1727141298323639660", null ],
+    [ "resetTimer", "d1/db9/a24061.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
+    [ "tapped", "d1/db9/a24061.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
+    [ "tuberGUID", "d1/db9/a24061.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
 ];

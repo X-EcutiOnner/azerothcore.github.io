@@ -1,5 +1,7 @@
 var a28849 =
 [
-    [ "id", "d2/d25/a28849.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d2/d25/a28849.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "bit_index", "d2/d25/a28849.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d2/d25/a28849.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d2/d25/a28849.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d2/d25/a28849.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

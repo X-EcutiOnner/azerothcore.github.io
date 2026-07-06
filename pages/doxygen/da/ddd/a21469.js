@@ -1,6 +1,7 @@
 var a21469 =
 [
-    [ "npc_spiritual_insightAI", "d6/dd0/a21473.html", "d6/dd0/a21473" ],
-    [ "npc_spiritual_insight", "da/ddd/a21469.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "da/ddd/a21469.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "HandleProc", "da/ddd/a21469.html#aeb5b70614b266bac0792906bf89a5b97", null ],
+    [ "PrepareAuraScript", "da/ddd/a21469.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
+    [ "Register", "da/ddd/a21469.html#a163e0099271f21362deeb1ba1f169f3f", null ],
+    [ "Validate", "da/ddd/a21469.html#abdb889e4c6d19f756c143d7b36f82257", null ]
 ];

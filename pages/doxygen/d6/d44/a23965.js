@@ -1,6 +1,7 @@
 var a23965 =
 [
-    [ "achievement", "d6/d44/a23965.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d6/d44/a23965.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d6/d44/a23965.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "HandleEffectApply", "d6/d44/a23965.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d6/d44/a23965.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d6/d44/a23965.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d6/d44/a23965.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

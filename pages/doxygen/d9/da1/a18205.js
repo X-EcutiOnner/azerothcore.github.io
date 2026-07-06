@@ -1,6 +1,6 @@
 var a18205 =
 [
-    [ "npc_precious_iccAI", "db/d38/a18209.html", "db/d38/a18209" ],
-    [ "npc_precious_icc", "d9/da1/a18205.html#a463eb0df1edb17e154658dac131f0898", null ],
-    [ "GetAI", "d9/da1/a18205.html#aa63840c5968a089bff41dcd9c86d5849", null ]
+    [ "UnboundPlagueTargetSelector", "d9/da1/a18205.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d9/da1/a18205.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d9/da1/a18205.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

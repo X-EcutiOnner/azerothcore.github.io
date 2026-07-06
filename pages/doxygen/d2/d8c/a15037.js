@@ -1,10 +1,7 @@
 var a15037 =
 [
-    [ "boss_meathookAI", "d2/d8c/a15037.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d2/d8c/a15037.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d2/d8c/a15037.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d2/d8c/a15037.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d2/d8c/a15037.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d2/d8c/a15037.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d2/d8c/a15037.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "HandleScript", "d2/d8c/a15037.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
+    [ "PrepareSpellScript", "d2/d8c/a15037.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
+    [ "Register", "d2/d8c/a15037.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
+    [ "Validate", "d2/d8c/a15037.html#aa1e74de390a8b71e43e43664981a36ff", null ]
 ];

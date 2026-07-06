@@ -1,6 +1,5 @@
 var a14241 =
 [
-    [ "boss_gahzranka", "db/db5/a14241.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "db/db5/a14241.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "db/db5/a14241.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_andorhal_towerAI", "db/db5/a14241.html#ad2f8a14f2adfe1418a23de274493f85e", null ],
+    [ "MoveInLineOfSight", "db/db5/a14241.html#a1165ee0e066dcaeb300096e55758389b", null ]
 ];

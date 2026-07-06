@@ -1,10 +1,6 @@
 var a07577 =
 [
-    [ "Battleground2ChatBuilder", "d3/d43/a07577.html#a3e1f73fd8ca5eaa6d1154e206d7d0cb1", null ],
-    [ "operator()", "d3/d43/a07577.html#a7c0ee21531ba43d9d2ab427d95da2ec5", null ],
-    [ "_arg1", "d3/d43/a07577.html#aa6959944406804f01baa18cd898bfc41", null ],
-    [ "_arg2", "d3/d43/a07577.html#aebfaeac77c40d4c7938cbdd488defc51", null ],
-    [ "_msgtype", "d3/d43/a07577.html#a770d30e207e41a8f985776787d53f2cf", null ],
-    [ "_source", "d3/d43/a07577.html#a8867dd698d0457688202e1a9378255d2", null ],
-    [ "_textId", "d3/d43/a07577.html#a632cab30adc21c22f1a8890b1627262a", null ]
+    [ "attackText", "d3/d43/a07577.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "takenText", "d3/d43/a07577.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d3/d43/a07577.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

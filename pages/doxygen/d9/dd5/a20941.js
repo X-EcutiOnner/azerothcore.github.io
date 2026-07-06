@@ -1,13 +1,6 @@
 var a20941 =
 [
-    [ "MoveX", "d9/dd5/a20941.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d9/dd5/a20941.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d9/dd5/a20941.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d9/dd5/a20941.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d9/dd5/a20941.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d9/dd5/a20941.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d9/dd5/a20941.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d9/dd5/a20941.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d9/dd5/a20941.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d9/dd5/a20941.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "instance_ulduar_InstanceMapScript", "d8/d80/a20945.html", "d8/d80/a20945" ],
+    [ "instance_ulduar", "d9/dd5/a20941.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d9/dd5/a20941.html#ae263428f4229c75b22f990dabe6b3c06", null ]
 ];

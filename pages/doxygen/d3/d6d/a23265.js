@@ -1,7 +1,7 @@
 var a23265 =
 [
-    [ "FilterTargets", "d3/d6d/a23265.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d3/d6d/a23265.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d3/d6d/a23265.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d3/d6d/a23265.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "HandleScript", "d3/d6d/a23265.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d3/d6d/a23265.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d3/d6d/a23265.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d3/d6d/a23265.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

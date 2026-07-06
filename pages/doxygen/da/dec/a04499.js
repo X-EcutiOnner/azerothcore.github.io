@@ -1,16 +1,8 @@
 var a04499 =
 [
-    [ "MMAP::NavMeshDeleter", "d4/d19/a05251.html", "d4/d19/a05251" ],
-    [ "MMAP::NavMeshQueryDeleter", "d5/d12/a05255.html", "d5/d12/a05255" ],
-    [ "MMAP::MMapMgr", "d1/d56/a05259.html", "d1/d56/a05259" ],
-    [ "ManagedNavMeshQuery", "da/dec/a04499.html#aa9864ce68a669d59d8baee4cb742900b", null ],
-    [ "MMAP_LOAD_RESULT", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868", [
-      [ "MMAP_LOAD_RESULT_ERROR", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a1725e868fc9dcc9ae0939b0bfcdb9d44", null ],
-      [ "MMAP_LOAD_RESULT_OK", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a9ee52933929b5bdab0f48f9efcbf451a", null ],
-      [ "MMAP_LOAD_RESULT_IGNORED", "da/dec/a04499.html#a329271d76c3ed7ad6d255d45094b4868a4678f59f424bfc2185fd0e8263e07d88", null ]
+    [ "ModelIgnoreFlags", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28", [
+      [ "Nothing", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28af80a4ad87fee7c9fdc19b7769495fdb5", null ],
+      [ "M2", "da/dec/a04499.html#a6996c44f3ac72cd9dc04515186d2da28a9d8322530b67e2366e5b1ba67081ded9", null ]
     ] ],
-    [ "dtCustomAlloc", "da/dec/a04499.html#a8c3ce5a3a39694b1e2f88333bcf5b8c7", null ],
-    [ "dtCustomFree", "da/dec/a04499.html#a2486cfb0dce2e78cd1bc4c379612e64b", null ],
-    [ "MAP_FILE_NAME_FORMAT", "da/dec/a04499.html#a1d57d156046bda88886b7488ab0b83bc", null ],
-    [ "TILE_FILE_NAME_FORMAT", "da/dec/a04499.html#a27e34ce3b8808f2aa889e5c4e623059a", null ]
+    [ "operator&", "da/dec/a04499.html#a3c25bdb4d30c345cd6760935e2c456f4", null ]
 ];

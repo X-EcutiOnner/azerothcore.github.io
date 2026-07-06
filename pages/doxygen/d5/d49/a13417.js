@@ -1,11 +1,7 @@
 var a13417 =
 [
-    [ "npc_scholomance_occultistAI", "d5/d49/a13417.html#af78103d07aef427130d26b4aed5e5ae3", null ],
-    [ "JustEngagedWith", "d5/d49/a13417.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
-    [ "JustReachedHome", "d5/d49/a13417.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
-    [ "SelectUnitCasting", "d5/d49/a13417.html#adde187b89a74a57aac823e4eb19bfeed", null ],
-    [ "UpdateAI", "d5/d49/a13417.html#ab02edf780adb553b2314045d8effa277", null ],
-    [ "events", "d5/d49/a13417.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
-    [ "instance", "d5/d49/a13417.html#a195fe4d681580c17086a5390fd4f82ba", null ],
-    [ "originalDisplayId", "d5/d49/a13417.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
+    [ "HandleScriptEffect", "d5/d49/a13417.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "d5/d49/a13417.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "d5/d49/a13417.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "d5/d49/a13417.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

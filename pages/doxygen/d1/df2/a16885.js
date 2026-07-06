@@ -1,5 +1,6 @@
 var a16885 =
 [
-    [ "npc_essence_of_twin", "d1/df2/a16885.html#a019de64e5e01e611acfda5db4c279b19", null ],
-    [ "OnGossipHello", "d1/df2/a16885.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
+    [ "npc_toc_mageAI", "df/dd0/a16889.html", "df/dd0/a16889" ],
+    [ "npc_toc_mage", "d1/df2/a16885.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d1/df2/a16885.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

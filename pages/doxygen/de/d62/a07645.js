@@ -1,9 +1,9 @@
 var a07645 =
 [
-    [ "CapturePointInfo", "de/d62/a07645.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "de/d62/a07645.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "de/d62/a07645.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "de/d62/a07645.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "de/d62/a07645.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "de/d62/a07645.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "Rank", "de/d62/a07645.html#a9bcd8dc00437bcf015565eeb43263578", null ],
+    [ "Rating", "de/d62/a07645.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
+    [ "SeasonGames", "de/d62/a07645.html#a124c6d64f22c13707764eedd79fe1912", null ],
+    [ "SeasonWins", "de/d62/a07645.html#ad274601b85ea634524b1c00979e09465", null ],
+    [ "WeekGames", "de/d62/a07645.html#a1d0092200b2c9428e821473949cfda77", null ],
+    [ "WeekWins", "de/d62/a07645.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
 ];

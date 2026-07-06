@@ -1,9 +1,8 @@
 var a22473 =
 [
-    [ "boss_mother_shahraz", "d2/ddf/a22473.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d2/ddf/a22473.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d2/ddf/a22473.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d2/ddf/a22473.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d2/ddf/a22473.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d2/ddf/a22473.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "boss_darkweaver_syth", "d2/ddf/a22473.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d2/ddf/a22473.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d2/ddf/a22473.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d2/ddf/a22473.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d2/ddf/a22473.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

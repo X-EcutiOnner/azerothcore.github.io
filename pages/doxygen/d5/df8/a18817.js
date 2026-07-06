@@ -1,6 +1,6 @@
 var a18817 =
 [
-    [ "boss_sister_svalnaAI", "d5/d70/a18821.html", "d5/d70/a18821" ],
-    [ "boss_sister_svalna", "d5/df8/a18817.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d5/df8/a18817.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "ManaVoidSelector", "d5/df8/a18817.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d5/df8/a18817.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d5/df8/a18817.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

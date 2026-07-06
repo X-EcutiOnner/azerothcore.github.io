@@ -1,9 +1,10 @@
 var a08889 =
 [
-    [ "achievements", "d9/d89/a08889.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d9/d89/a08889.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d9/d89/a08889.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d9/d89/a08889.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d9/d89/a08889.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d9/d89/a08889.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "SpellModifier", "d9/d89/a08889.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "mask", "d9/d89/a08889.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "d9/d89/a08889.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "d9/d89/a08889.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "spellId", "d9/d89/a08889.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "d9/d89/a08889.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "d9/d89/a08889.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

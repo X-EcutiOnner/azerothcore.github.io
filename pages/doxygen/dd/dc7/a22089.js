@@ -1,5 +1,9 @@
 var a22089 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "dd/dc7/a22089.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "dd/dc7/a22089.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_brunnhildar_prisonerAI", "dd/dc7/a22089.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "dd/dc7/a22089.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "dd/dc7/a22089.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "dd/dc7/a22089.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "dd/dc7/a22089.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "dd/dc7/a22089.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

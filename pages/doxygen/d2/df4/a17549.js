@@ -1,6 +1,7 @@
 var a17549 =
 [
-    [ "PrepareSpellScript", "d2/df4/a17549.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d2/df4/a17549.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d2/df4/a17549.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "HandleDummy", "d2/df4/a17549.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d2/df4/a17549.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d2/df4/a17549.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d2/df4/a17549.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

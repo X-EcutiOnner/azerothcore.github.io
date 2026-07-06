@@ -1,14 +1,12 @@
 var a11641 =
 [
-    [ "alive", "d7/ddf/a11641.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "d7/ddf/a11641.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "d7/ddf/a11641.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "damageBeforeTakenMods", "d7/ddf/a11641.html#a85196e5b5865856962898c18001880c7", null ],
-    [ "effectMask", "d7/ddf/a11641.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "d7/ddf/a11641.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "d7/ddf/a11641.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "d7/ddf/a11641.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "d7/ddf/a11641.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "d7/ddf/a11641.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "d7/ddf/a11641.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "OpcodeTable", "dc/d7e/a05055.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
+    [ "OpcodeTable", "dc/d7e/a05055.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
+    [ "~OpcodeTable", "dc/d7e/a05055.html#gac4e0724e0795156122c4fd8f07ade628", null ],
+    [ "Initialize", "dc/d7e/a05055.html#gac64814869d378e5bb7fa18144693fac1", null ],
+    [ "operator=", "dc/d7e/a05055.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
+    [ "operator[]", "dc/d7e/a05055.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
+    [ "ValidateAndSetClientOpcode", "dc/d7e/a05055.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
+    [ "ValidateAndSetServerOpcode", "dc/d7e/a05055.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
+    [ "_internalTableClient", "dc/d7e/a05055.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
 ];

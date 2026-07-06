@@ -1,7 +1,7 @@
 var a15073 =
 [
-    [ "npc_cos_chromie_middle", "df/dee/a15073.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "df/dee/a15073.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "df/dee/a15073.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "df/dee/a15073.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "HandleOnHit", "df/dee/a15073.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "df/dee/a15073.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "df/dee/a15073.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "df/dee/a15073.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

@@ -1,9 +1,15 @@
 var a08493 =
 [
-    [ "Reset", "db/dd6/a08493.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "db/dd6/a08493.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "db/dd6/a08493.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "db/dd6/a08493.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "db/dd6/a08493.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "db/dd6/a08493.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "Minion", "db/dd6/a08493.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "db/dd6/a08493.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "db/dd6/a08493.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "db/dd6/a08493.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "db/dd6/a08493.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "db/dd6/a08493.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "db/dd6/a08493.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "db/dd6/a08493.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "db/dd6/a08493.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "db/dd6/a08493.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "db/dd6/a08493.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "db/dd6/a08493.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

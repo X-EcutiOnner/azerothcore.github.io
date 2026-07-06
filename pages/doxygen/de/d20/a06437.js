@@ -1,6 +1,8 @@
 var a06437 =
 [
-    [ "PlayerAI", "de/d20/a06437.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "de/d20/a06437.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "de/d20/a06437.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "ArcherAI", "de/d20/a06437.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "de/d20/a06437.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "de/d20/a06437.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "de/d20/a06437.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "de/d20/a06437.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

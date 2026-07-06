@@ -1,6 +1,7 @@
 var a23833 =
 [
-    [ "npc_enraged_spiritAI", "d9/de5/a23837.html", "d9/de5/a23837" ],
-    [ "npc_enraged_spirit", "d0/d32/a23833.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d0/d32/a23833.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "HandleEffect", "d0/d32/a23833.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d0/d32/a23833.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d0/d32/a23833.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d0/d32/a23833.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

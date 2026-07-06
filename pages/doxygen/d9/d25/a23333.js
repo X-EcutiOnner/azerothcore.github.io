@@ -1,7 +1,11 @@
 var a23333 =
 [
-    [ "boss_zereketh_the_unbound", "d9/d25/a23333.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d9/d25/a23333.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d9/d25/a23333.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d9/d25/a23333.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "boss_krosh_firehand", "d9/d25/a23333.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d9/d25/a23333.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d9/d25/a23333.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d9/d25/a23333.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d9/d25/a23333.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d9/d25/a23333.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d9/d25/a23333.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d9/d25/a23333.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

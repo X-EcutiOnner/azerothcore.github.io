@@ -1,7 +1,7 @@
 var a18081 =
 [
-    [ "HandleExtraEffect", "de/d84/a18081.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "de/d84/a18081.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "de/d84/a18081.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "de/d84/a18081.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "DamageGunship", "de/d84/a18081.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "de/d84/a18081.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "de/d84/a18081.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "de/d84/a18081.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

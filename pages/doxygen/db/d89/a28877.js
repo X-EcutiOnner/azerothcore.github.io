@@ -1,7 +1,4 @@
 var a28877 =
 [
-    [ "Id", "db/d89/a28877.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "db/d89/a28877.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "db/d89/a28877.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "db/d89/a28877.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "DisplayRaceID", "db/d89/a28877.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

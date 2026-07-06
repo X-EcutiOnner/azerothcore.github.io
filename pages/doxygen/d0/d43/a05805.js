@@ -1,6 +1,8 @@
 var a05805 =
 [
-    [ "~AsyncProcessResult", "d0/d43/a05805.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
-    [ "GetFutureResult", "d0/d43/a05805.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
-    [ "Terminate", "d0/d43/a05805.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
+    [ "Event", "d0/d43/a05805.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "d0/d43/a05805.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "d0/d43/a05805.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "d0/d43/a05805.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "d0/d43/a05805.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

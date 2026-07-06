@@ -1,7 +1,6 @@
 var a19773 =
 [
-    [ "HandleEffectRemove", "da/d21/a19773.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "da/d21/a19773.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "da/d21/a19773.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "da/d21/a19773.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "npc_oculus_drakeAI", "df/d8c/a19777.html", "df/d8c/a19777" ],
+    [ "npc_oculus_drake", "da/d21/a19773.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "da/d21/a19773.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

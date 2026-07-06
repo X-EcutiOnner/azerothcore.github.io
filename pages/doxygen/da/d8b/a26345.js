@@ -1,6 +1,6 @@
 var a26345 =
 [
-    [ "CheckCast", "da/d8b/a26345.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "da/d8b/a26345.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "da/d8b/a26345.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleDummy", "da/d8b/a26345.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "da/d8b/a26345.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "da/d8b/a26345.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

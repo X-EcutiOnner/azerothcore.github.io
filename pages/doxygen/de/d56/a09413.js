@@ -1,7 +1,7 @@
 var a09413 =
 [
-    [ "flags", "de/d56/a09413.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "de/d56/a09413.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "de/d56/a09413.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "de/d56/a09413.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "QuestPOIPoint", "de/d56/a09413.html#a99aaafe1fdae391c6fba20e0c623ff99", null ],
+    [ "QuestPOIPoint", "de/d56/a09413.html#a2e80e5a83ab336a8b019f38297862efa", null ],
+    [ "x", "de/d56/a09413.html#a5e9592283b28cd6ff0610ec0438b2a2d", null ],
+    [ "y", "de/d56/a09413.html#a45211fd0fbeeb5d9fced2b2c31502851", null ]
 ];

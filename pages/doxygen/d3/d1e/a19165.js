@@ -1,6 +1,9 @@
 var a19165 =
 [
-    [ "boss_four_horsemenAI", "da/df0/a19169.html", "da/df0/a19169" ],
-    [ "boss_four_horsemen", "d3/d1e/a19165.html#a6bcaf9a12d854a322f50ac2f98dbb72b", null ],
-    [ "GetAI", "d3/d1e/a19165.html#a3ee27da1d0da48306cc10c17c9411d1a", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d3/d1e/a19165.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d3/d1e/a19165.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d3/d1e/a19165.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d3/d1e/a19165.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d3/d1e/a19165.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d3/d1e/a19165.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

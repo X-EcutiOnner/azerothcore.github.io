@@ -1,6 +1,7 @@
 var a16997 =
 [
-    [ "HandleScriptEffect", "d2/d61/a16997.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d2/d61/a16997.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d2/d61/a16997.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "FilterTargets", "d2/d61/a16997.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "d2/d61/a16997.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "d2/d61/a16997.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "d2/d61/a16997.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

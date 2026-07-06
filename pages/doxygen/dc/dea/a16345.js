@@ -1,17 +1,19 @@
 var a16345 =
 [
-    [ "boss_halionAI", "dc/dea/a16345.html#a24d41b904ec24029887869622fbce0eb", null ],
-    [ "AttackStart", "dc/dea/a16345.html#acad91c2b1e7e02f9662cc3342f272ae7", null ],
-    [ "CanAIAttack", "dc/dea/a16345.html#ad15cd8d44cd1779f45cacb38caa08fe2", null ],
-    [ "DamageTaken", "dc/dea/a16345.html#a911c636113639690bb6304e2f6d55499", null ],
-    [ "EnterEvadeMode", "dc/dea/a16345.html#a20e451a26914adcee83e5fb77155c59d", null ],
-    [ "IsAnyPlayerValid", "dc/dea/a16345.html#a6681f94156a46c75960038ed1ed80543", null ],
-    [ "JustDied", "dc/dea/a16345.html#a483fbaf88780d0714ffaa47bea00cc5f", null ],
-    [ "JustEngagedWith", "dc/dea/a16345.html#a16f121b5c7f3f924dc0c11adb53ff79a", null ],
-    [ "JustSummoned", "dc/dea/a16345.html#a4fdf03de55fdd35ff849a82704ce7a3c", null ],
-    [ "KilledUnit", "dc/dea/a16345.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
-    [ "Reset", "dc/dea/a16345.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
-    [ "UpdateAI", "dc/dea/a16345.html#abe0faa976bb1b14102b940fac9526e5b", null ],
-    [ "_events2", "dc/dea/a16345.html#a677448e015db869b718e15b6809586cc", null ],
-    [ "_livingEmberCount", "dc/dea/a16345.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
+    [ "boss_hadronox", "dc/dea/a16345.html#a5f99247a1eb3ca11741c656db9f91864", null ],
+    [ "DamageTaken", "dc/dea/a16345.html#a4c74557d814776061fe6df4c234885f1", null ],
+    [ "DoAction", "dc/dea/a16345.html#a822059f4efa5e311bf3f79698ed3aa6e", null ],
+    [ "GetData", "dc/dea/a16345.html#a9666b5af984f15afd52b9a81a12fd334", null ],
+    [ "IsInCombatWithPlayer", "dc/dea/a16345.html#a00d15de04d2f63c71b762d8c05161295", null ],
+    [ "JustEngagedWith", "dc/dea/a16345.html#a0ecc876405753200c1c2fe575635ffb0", null ],
+    [ "JustSummoned", "dc/dea/a16345.html#a3a5680abcef0529dcfca6c27f42f8f61", null ],
+    [ "KilledUnit", "dc/dea/a16345.html#a721fabc47cb7416879e73e143898ddef", null ],
+    [ "MovementInform", "dc/dea/a16345.html#a5e7c5226b0fb26a3c2d75726d5323af6", null ],
+    [ "Reset", "dc/dea/a16345.html#a0d73acbe4061d48c2c5deb4203d0c9fb", null ],
+    [ "SummonCrusherPack", "dc/dea/a16345.html#ab58a7949dd4797849cf98152e541b9a9", null ],
+    [ "SummonedCreatureEvade", "dc/dea/a16345.html#a23fb17d6eb7a03e7efe0bffb28adee0c", null ],
+    [ "UpdateAI", "dc/dea/a16345.html#aef361a41c7a3db94c00b594dd82ffabd", null ],
+    [ "_crushersLeft", "dc/dea/a16345.html#a386cafa7de8fcaf6ac5d823af01fc443", null ],
+    [ "_doorsWebbed", "dc/dea/a16345.html#a1515f5161e04e97734c538d7dede2902", null ],
+    [ "_lastPlayerCombatState", "dc/dea/a16345.html#a0cd1b2eae097b327e845e5a3038c6342", null ]
 ];

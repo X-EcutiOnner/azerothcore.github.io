@@ -1,5 +1,7 @@
 var a27629 =
 [
-    [ "AreaTrigger_at_last_rites", "d8/d07/a27629.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d8/d07/a27629.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "HandleApplyAura", "d8/d07/a27629.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d8/d07/a27629.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d8/d07/a27629.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d8/d07/a27629.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

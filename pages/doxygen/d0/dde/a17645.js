@@ -1,7 +1,6 @@
 var a17645 =
 [
-    [ "HandleDummy", "d0/dde/a17645.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d0/dde/a17645.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d0/dde/a17645.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d0/dde/a17645.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "boss_prince_valanarAI", "dc/d37/a17649.html", "dc/d37/a17649" ],
+    [ "boss_prince_valanar_icc", "d0/dde/a17645.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d0/dde/a17645.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

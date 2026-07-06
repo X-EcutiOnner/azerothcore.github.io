@@ -1,10 +1,9 @@
 var a28857 =
 [
-    [ "PvPDifficultyEntry", "d4/d8c/a28857.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d4/d8c/a28857.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d4/d8c/a28857.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d4/d8c/a28857.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d4/d8c/a28857.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d4/d8c/a28857.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d4/d8c/a28857.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "CinematicSequence", "d4/d8c/a28857.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "d4/d8c/a28857.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "d4/d8c/a28857.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "d4/d8c/a28857.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "d4/d8c/a28857.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "d4/d8c/a28857.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

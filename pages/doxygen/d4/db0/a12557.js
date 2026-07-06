@@ -1,20 +1,12 @@
 var a12557 =
 [
-    [ "boss_rend_blackhand", "d4/db0/a12557.html#a978a2a5262df73afa1e661b23c27a57a", null ],
-    [ "EnterEvadeMode", "d4/db0/a12557.html#a21ca0c54590356cc58675e71add93c3a", null ],
-    [ "IsSummonedBy", "d4/db0/a12557.html#aa9d1bfa716b0427d7f23578b8ca954e1", null ],
-    [ "JustDied", "d4/db0/a12557.html#a498218ab4298cdab728b8a5403d98de1", null ],
-    [ "JustEngagedWith", "d4/db0/a12557.html#a494550b92a25c99470c72697e87eff87", null ],
-    [ "JustSummoned", "d4/db0/a12557.html#aeebd94ed5b08587dfab88b8826f64173", null ],
-    [ "MovementInform", "d4/db0/a12557.html#ae8869425b1f03f6f430585d563de0b27", null ],
-    [ "Reset", "d4/db0/a12557.html#afcea6a09eabe661051fc58d5de9a3802", null ],
-    [ "SetData", "d4/db0/a12557.html#abe31d366de24aefd9c0c9c534494af11", null ],
-    [ "SummonedCreatureDespawn", "d4/db0/a12557.html#ae5a8775c0cf1ad5dee501a50a22e25f9", null ],
-    [ "SummonedCreatureDies", "d4/db0/a12557.html#a49d4011af4ee01ff3dc8708d0950b03b", null ],
-    [ "SummonWave", "d4/db0/a12557.html#a127365a60504f988bcd7bc1858e0fb94", null ],
-    [ "UpdateAI", "d4/db0/a12557.html#afdca704e8aca473986037ab2bc16194e", null ],
-    [ "_currentWave", "d4/db0/a12557.html#a9e4ffc20609e50188e0f5a552b164590", null ],
-    [ "_gythEvent", "d4/db0/a12557.html#a3699984d920375e9631105bf0a47469b", null ],
-    [ "_victorGUID", "d4/db0/a12557.html#a8337c912349eb2798c33fd5794a28437", null ],
-    [ "_waveDoorGUID", "d4/db0/a12557.html#a5a4085439515aeed3f3f6aba0764ba68", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d4/db0/a12557.html#af3620678992778edbb859622e057893a", null ],
+    [ "AttackStart", "d4/db0/a12557.html#aed39eaed8648ce78349c49ee33918b93", null ],
+    [ "EnterEvadeMode", "d4/db0/a12557.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
+    [ "JustRespawned", "d4/db0/a12557.html#a460c6912063587214ba0f2e01878d827", null ],
+    [ "Reset", "d4/db0/a12557.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
+    [ "UpdateAI", "d4/db0/a12557.html#a7bf1631810c8446bc157f8ff220199b7", null ],
+    [ "_attacked", "d4/db0/a12557.html#a56d7211a3565c19b499f7de2eda6c862", null ],
+    [ "_hasAura", "d4/db0/a12557.html#a1c0049100cde1c62daf80779d1135156", null ],
+    [ "events", "d4/db0/a12557.html#a49b8e01897cd5347bbd06cac254163f4", null ]
 ];

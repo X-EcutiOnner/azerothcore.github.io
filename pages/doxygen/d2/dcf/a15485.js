@@ -1,6 +1,7 @@
 var a15485 =
 [
-    [ "boss_veknilash", "d2/dcf/a15485.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
-    [ "IAmVeklor", "d2/dcf/a15485.html#a454027d829b962ee0feebb6fd5687714", null ],
-    [ "JustEngagedWith", "d2/dcf/a15485.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
+    [ "FilterTargets", "d2/dcf/a15485.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "d2/dcf/a15485.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "d2/dcf/a15485.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "d2/dcf/a15485.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

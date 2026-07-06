@@ -1,8 +1,7 @@
 var a24381 =
 [
-    [ "AfterRemove", "d8/db3/a24381.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "d8/db3/a24381.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "d8/db3/a24381.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "d8/db3/a24381.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "d8/db3/a24381.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "CorpseExplosionCheck", "d8/db3/a24381.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d8/db3/a24381.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d8/db3/a24381.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d8/db3/a24381.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

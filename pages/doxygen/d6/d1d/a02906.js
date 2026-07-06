@@ -1,8 +1,8 @@
 var a02906 =
 [
-    [ "StoredLootItem", "d8/d83/a10020.html", "d8/d83/a10020" ],
-    [ "LootItemStorage", "d3/da1/a10024.html", "d3/da1/a10024" ],
-    [ "sLootItemStorage", "d6/d1d/a02906.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
-    [ "LootItemContainer", "d6/d1d/a02906.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
-    [ "StoredLootItemList", "d6/d1d/a02906.html#aa16defe92374d7db2d28958ee8fce21d", null ]
+    [ "GUID_TRAIT_INSTANTIATE_GUID", "d6/d1d/a02906.html#a62c17cbc4f3da3f26f9c1ae3ba2c4953", null ],
+    [ "operator<<", "d6/d1d/a02906.html#a039758f4b57c94c411a4c3882334ada8", null ],
+    [ "operator<<", "d6/d1d/a02906.html#a94ab551ce00fd82dea1532d47ad908bc", null ],
+    [ "operator>>", "d6/d1d/a02906.html#a30aef535f2839648f0ae4648c746d3e2", null ],
+    [ "operator>>", "d6/d1d/a02906.html#a95f3a6eef334b9fcdcaca879532c25d4", null ]
 ];

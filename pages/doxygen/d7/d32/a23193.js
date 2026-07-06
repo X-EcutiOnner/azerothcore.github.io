@@ -1,8 +1,7 @@
 var a23193 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "d7/d32/a23193.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "d7/d32/a23193.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "d7/d32/a23193.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "d7/d32/a23193.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "d7/d32/a23193.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "boss_hydromancer_thespia", "d7/d32/a23193.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d7/d32/a23193.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d7/d32/a23193.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d7/d32/a23193.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

@@ -1,7 +1,7 @@
 var a18273 =
 [
-    [ "PeriodicTick", "d8/db5/a18273.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "d8/db5/a18273.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "d8/db5/a18273.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "d8/db5/a18273.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "HandleTriggerSpell", "d8/db5/a18273.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d8/db5/a18273.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d8/db5/a18273.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d8/db5/a18273.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

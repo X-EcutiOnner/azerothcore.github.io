@@ -1,6 +1,6 @@
 var a18201 =
 [
-    [ "DespawnSelf", "d8/d88/a18201.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "d8/d88/a18201.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "d8/d88/a18201.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "AbominationDespawner", "d8/d88/a18201.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "d8/d88/a18201.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "d8/d88/a18201.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

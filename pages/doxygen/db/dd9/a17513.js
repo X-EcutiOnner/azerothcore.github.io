@@ -1,6 +1,5 @@
 var a17513 =
 [
-    [ "HandleScript", "db/dd9/a17513.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "db/dd9/a17513.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "db/dd9/a17513.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "endPosition", "db/dd9/a17513.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "db/dd9/a17513.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

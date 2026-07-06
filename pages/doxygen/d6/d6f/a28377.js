@@ -1,5 +1,5 @@
 var a28377 =
 [
-    [ "ID", "d6/d6f/a28377.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d6/d6f/a28377.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_pet_trainerAI", "d6/d6f/a28377.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d6/d6f/a28377.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

@@ -1,7 +1,7 @@
 var a21597 =
 [
-    [ "HandleScript", "d9/d7c/a21597.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d9/d7c/a21597.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d9/d7c/a21597.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d9/d7c/a21597.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "CheckCast", "d9/d7c/a21597.html#af0eb00a8dbff89d780beb07f3a714fff", null ],
+    [ "HandleScript", "d9/d7c/a21597.html#a8128bb2d7588409dae73bed78d5285a7", null ],
+    [ "PrepareSpellScript", "d9/d7c/a21597.html#aee17a8a21ec5df027082c6990189dccc", null ],
+    [ "Register", "d9/d7c/a21597.html#a2a97265e102e9ce31997d99275b42973", null ]
 ];

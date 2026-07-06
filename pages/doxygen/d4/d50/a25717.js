@@ -1,6 +1,6 @@
 var a25717 =
 [
-    [ "CheckCast", "d4/d50/a25717.html#a5e32bb12dd6a4feedf88b73e18dc57cc", null ],
-    [ "PrepareSpellScript", "d4/d50/a25717.html#ae6b0bc8d2a443b805b44f49d79ccc949", null ],
-    [ "Register", "d4/d50/a25717.html#a2ef6ded94a244c51ed71315b39e85636", null ]
+    [ "HandlePeriodicTick", "d4/d50/a25717.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "d4/d50/a25717.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "d4/d50/a25717.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

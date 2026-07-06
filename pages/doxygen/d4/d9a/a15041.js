@@ -1,6 +1,6 @@
 var a15041 =
 [
-    [ "boss_salrammAI", "d8/da7/a15045.html", "d8/da7/a15045" ],
-    [ "boss_salramm", "d4/d9a/a15041.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
-    [ "GetAI", "d4/d9a/a15041.html#ab6b400f0d329d4def074d012de47f53d", null ]
+    [ "HandleScriptEffect", "d4/d9a/a15041.html#aebd700897688157ca62405c92fe58680", null ],
+    [ "PrepareSpellScript", "d4/d9a/a15041.html#a09e11d1938279a2302fb8805e71c6c36", null ],
+    [ "Register", "d4/d9a/a15041.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
 ];

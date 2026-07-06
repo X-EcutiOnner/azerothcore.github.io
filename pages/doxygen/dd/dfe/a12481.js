@@ -1,7 +1,7 @@
 var a12481 =
 [
-    [ "boss_magmus", "dd/dfe/a12481.html#aacd115473f44148837153a3a5842748c", null ],
-    [ "JustEngagedWith", "dd/dfe/a12481.html#a810cd11145957fe02f2099e9db7e59c8", null ],
-    [ "Reset", "dd/dfe/a12481.html#af12976d66c690add0d08968799946174", null ],
-    [ "UpdateAI", "dd/dfe/a12481.html#ab3e7dc0c1917a67ee9fe532239125b00", null ]
+    [ "FoundObjects", "dd/dfe/a12481.html#a061c4e27b4a9646bc3636b7642ad9fce", null ],
+    [ "X", "dd/dfe/a12481.html#a9a184093c44a45addd7a7bae891496c0", null ],
+    [ "Y", "dd/dfe/a12481.html#a86ac02df716e991f629647941dcb29cb", null ],
+    [ "Z", "dd/dfe/a12481.html#a50477b2e983580c94b348f7e408a8363", null ]
 ];

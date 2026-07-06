@@ -1,6 +1,6 @@
 var a22541 =
 [
-    [ "HandleEffectRemove", "d2/ddd/a22541.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "d2/ddd/a22541.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "d2/ddd/a22541.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "FilterTargets", "d2/ddd/a22541.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "d2/ddd/a22541.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "d2/ddd/a22541.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

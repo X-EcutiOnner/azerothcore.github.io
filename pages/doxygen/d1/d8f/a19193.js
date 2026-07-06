@@ -1,6 +1,9 @@
 var a19193 =
 [
-    [ "boss_gothikAI", "d8/da8/a19197.html", "d8/da8/a19197" ],
-    [ "boss_gothik", "d1/d8f/a19193.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "d1/d8f/a19193.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "npc_icc_severed_essenceAI", "d1/d8f/a19193.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "d1/d8f/a19193.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "d1/d8f/a19193.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "d1/d8f/a19193.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "d1/d8f/a19193.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "d1/d8f/a19193.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

@@ -1,6 +1,5 @@
 var a22305 =
 [
-    [ "PrepareSpellScript", "de/d54/a22305.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "de/d54/a22305.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "de/d54/a22305.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "de/d54/a22305.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "de/d54/a22305.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

@@ -1,20 +1,13 @@
 var a07789 =
 [
-    [ "ChannelMap", "d6/df3/a07789.html#a84c686f095464d67f750309244a47ba5", null ],
-    [ "ChannelRightsMap", "d6/df3/a07789.html#a4e153c81aede8182160b0a5ab89e5b4b", null ],
-    [ "ChannelMgr", "d6/df3/a07789.html#aa671334be6933f374466666ec5c6cc46", null ],
-    [ "~ChannelMgr", "d6/df3/a07789.html#a2f9099cf528aacae9110d349841e57a7", null ],
-    [ "forTeam", "d6/df3/a07789.html#a62fd837572c3c88d8848115c98587401", null ],
-    [ "GetChannel", "d6/df3/a07789.html#a89dbd4095eeeb79ae59947beb2d2cd17", null ],
-    [ "GetChannelRightsFor", "d6/df3/a07789.html#a5cc03c09dfc33a89d3d4f59d1e92d757", null ],
-    [ "GetJoinChannel", "d6/df3/a07789.html#a92540d37b38ccc032665fa220349a4ec", null ],
-    [ "LoadChannelRights", "d6/df3/a07789.html#a4fa043d2c61f5013d62b192d46bd453a", null ],
-    [ "LoadChannels", "d6/df3/a07789.html#a73e822c758aacb7f959407b100b9aff6", null ],
-    [ "MakeNotOnPacket", "d6/df3/a07789.html#ae85b95eac40037d5066efa17fb484bc5", null ],
-    [ "SetChannelRightsFor", "d6/df3/a07789.html#a1d672ab806b5e00bdd96d3a56fe3520b", null ],
-    [ "_channelIdMax", "d6/df3/a07789.html#a41bbe928d2e50c899a10b4b7da0e1a68", null ],
-    [ "_teamId", "d6/df3/a07789.html#a1ac5de545c0cb91088176fae883748ed", null ],
-    [ "channelRightsEmpty", "d6/df3/a07789.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9", null ],
-    [ "channels", "d6/df3/a07789.html#a823810bd463e51a0fb007712717f13dd", null ],
-    [ "channels_rights", "d6/df3/a07789.html#adfc7c2e0156b2dc290c1c0f307a6911f", null ]
+    [ "banners", "d6/df3/a07789.html#a07c98125c64d119232fec9cc80050537", null ],
+    [ "faction", "d6/df3/a07789.html#ab3758f67da3dcb507bb1acab575e2836", null ],
+    [ "gameobject_entry", "d6/df3/a07789.html#ae80024986e048e05dca174d6b14964d3", null ],
+    [ "gameobject_type", "d6/df3/a07789.html#ac4760cba40ba8916d66cae3712f7c641", null ],
+    [ "last_entry", "d6/df3/a07789.html#a968d6f412ba88b9577429910ffa511a5", null ],
+    [ "needChange", "d6/df3/a07789.html#acecd97e26d19c82e934817ecbc2afce9", null ],
+    [ "nodeState", "d6/df3/a07789.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
+    [ "nodeType", "d6/df3/a07789.html#a3b303a427c4a2248dade5eada6774dc9", null ],
+    [ "timer", "d6/df3/a07789.html#a434605ed0efcc262057a65d7cd8d0128", null ],
+    [ "worldStates", "d6/df3/a07789.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
 ];

@@ -1,6 +1,8 @@
 var a14941 =
 [
-    [ "OnRemove", "d0/dfe/a14941.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d0/dfe/a14941.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d0/dfe/a14941.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "OnApply", "d0/dfe/a14941.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d0/dfe/a14941.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d0/dfe/a14941.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d0/dfe/a14941.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d0/dfe/a14941.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

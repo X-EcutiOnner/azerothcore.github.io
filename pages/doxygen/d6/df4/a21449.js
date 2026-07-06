@@ -1,7 +1,14 @@
 var a21449 =
 [
-    [ "FilterTargets", "d6/df4/a21449.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d6/df4/a21449.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d6/df4/a21449.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d6/df4/a21449.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_hidden_cultistAI", "d6/df4/a21449.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d6/df4/a21449.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d6/df4/a21449.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d6/df4/a21449.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d6/df4/a21449.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d6/df4/a21449.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d6/df4/a21449.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d6/df4/a21449.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d6/df4/a21449.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d6/df4/a21449.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d6/df4/a21449.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

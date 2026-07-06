@@ -1,7 +1,8 @@
 var a11021 =
 [
-    [ "GuildBankBuyTab", "df/d3b/a11021.html#af2195db72eeaefea13c958e5ef62c411", null ],
-    [ "Read", "df/d3b/a11021.html#a502153232a314d099ed43e1101bdfc1f", null ],
-    [ "Banker", "df/d3b/a11021.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
-    [ "BankTab", "df/d3b/a11021.html#a5df7be995a177706fa364e31a6f8df1e", null ]
+    [ "GuildCommandResult", "df/d3b/a11021.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "df/d3b/a11021.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "df/d3b/a11021.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "df/d3b/a11021.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "df/d3b/a11021.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

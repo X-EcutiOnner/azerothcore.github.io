@@ -1,7 +1,16 @@
 var a23521 =
 [
-    [ "HandleDamage", "d3/db9/a23521.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d3/db9/a23521.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d3/db9/a23521.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d3/db9/a23521.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "npc_millhouse_manastormAI", "d3/db9/a23521.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "d3/db9/a23521.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "d3/db9/a23521.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "d3/db9/a23521.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "d3/db9/a23521.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "d3/db9/a23521.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "d3/db9/a23521.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "d3/db9/a23521.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "d3/db9/a23521.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "d3/db9/a23521.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "d3/db9/a23521.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "d3/db9/a23521.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "d3/db9/a23521.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

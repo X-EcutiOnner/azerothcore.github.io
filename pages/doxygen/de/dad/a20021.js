@@ -1,9 +1,6 @@
 var a20021 =
 [
-    [ "Absorb", "de/dad/a20021.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "de/dad/a20021.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "de/dad/a20021.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "de/dad/a20021.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "de/dad/a20021.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "de/dad/a20021.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "PrepareSpellScript", "de/dad/a20021.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "de/dad/a20021.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "de/dad/a20021.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

@@ -1,6 +1,6 @@
 var a25489 =
 [
-    [ "HandleSummon", "d2/d09/a25489.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d2/d09/a25489.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d2/d09/a25489.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "OnRemove", "d2/d09/a25489.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "d2/d09/a25489.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "d2/d09/a25489.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

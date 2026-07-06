@@ -1,11 +1,7 @@
 var a12153 =
 [
-    [ "bf_commandscript", "d0/dcf/a12153.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d0/dcf/a12153.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d0/dcf/a12153.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d0/dcf/a12153.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldQueue", "d0/dcf/a12153.html#a23f6e8d14c511f3e9c3c070be14477e4", null ],
-    [ "HandleBattlefieldStart", "d0/dcf/a12153.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d0/dcf/a12153.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d0/dcf/a12153.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "FieldIndices", "d0/dcf/a12153.html#a06a366c804088e6fbb170881004a5cff", null ],
+    [ "TableFields", "d0/dcf/a12153.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
+    [ "TableName", "d0/dcf/a12153.html#ab00ee028c72660db98e8108583701471", null ],
+    [ "WhereFieldName", "d0/dcf/a12153.html#af1be82a21f6172504e310ae27b899e5b", null ]
 ];

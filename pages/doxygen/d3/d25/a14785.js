@@ -1,5 +1,5 @@
 var a14785 =
 [
-    [ "PrepareSpellScript", "d3/d25/a14785.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d3/d25/a14785.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "npc_cw_area_triggerAI", "d3/d25/a14785.html#aede21e01dfe762922562b6f5d57bc406", null ],
+    [ "MoveInLineOfSight", "d3/d25/a14785.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
 ];

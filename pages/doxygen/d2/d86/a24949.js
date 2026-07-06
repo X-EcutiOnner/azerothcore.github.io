@@ -1,10 +1,6 @@
 var a24949 =
 [
-    [ "spell_gen_summon_elemental", "d2/d86/a24949.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "d2/d86/a24949.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "d2/d86/a24949.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "d2/d86/a24949.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "d2/d86/a24949.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "d2/d86/a24949.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "d2/d86/a24949.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "HandleEffectPeriodicUpdate", "d2/d86/a24949.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d2/d86/a24949.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d2/d86/a24949.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

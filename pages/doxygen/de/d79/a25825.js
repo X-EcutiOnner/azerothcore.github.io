@@ -1,7 +1,7 @@
 var a25825 =
 [
-    [ "CheckCast", "de/d79/a25825.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "de/d79/a25825.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "de/d79/a25825.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "de/d79/a25825.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleScript", "de/d79/a25825.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "de/d79/a25825.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "de/d79/a25825.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "de/d79/a25825.html#a62b9c194106e261245496441176c8d53", null ]
 ];

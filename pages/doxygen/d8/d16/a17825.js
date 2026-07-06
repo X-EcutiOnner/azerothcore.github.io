@@ -1,8 +1,7 @@
 var a17825 =
 [
-    [ "HandlePeriodic", "d8/d16/a17825.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d8/d16/a17825.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d8/d16/a17825.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d8/d16/a17825.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d8/d16/a17825.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "HandleDummy", "d8/d16/a17825.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "d8/d16/a17825.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "d8/d16/a17825.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "d8/d16/a17825.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

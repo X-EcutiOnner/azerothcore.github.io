@@ -1,7 +1,7 @@
 var a10261 =
 [
-    [ "Finalize", "d9/dfa/a10261.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d9/dfa/a10261.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d9/dfa/a10261.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d9/dfa/a10261.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "LFGUpdateRequest", "d9/dfa/a10261.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
+    [ "call", "d9/dfa/a10261.html#a15258001db5870a0f52bb0c72cba3587", null ],
+    [ "m_diff", "d9/dfa/a10261.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
+    [ "m_updater", "d9/dfa/a10261.html#a1bb4423241495aebab83ebc1acf66510", null ]
 ];

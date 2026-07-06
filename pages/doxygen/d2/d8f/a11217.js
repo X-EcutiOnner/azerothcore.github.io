@@ -1,6 +1,8 @@
 var a11217 =
 [
-    [ "ItemRefund", "d2/d8f/a11217.html#aa257d579519d45da88694ff6306395da", null ],
-    [ "Read", "d2/d8f/a11217.html#a6d031070a4832bdc716f8b73629ebc8d", null ],
-    [ "ItemGuid", "d2/d8f/a11217.html#ac394336b15540248770f81d748206f7b", null ]
+    [ "SetRaidDifficulty", "d2/d8f/a11217.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
+    [ "Write", "d2/d8f/a11217.html#a3da812593b22ef506a9d61e16b5485d1", null ],
+    [ "Difficulty", "d2/d8f/a11217.html#a1952e2d54b77437731b693f4eace83ac", null ],
+    [ "IsInGroup", "d2/d8f/a11217.html#a8833543c4f179be97476a26152ec049b", null ],
+    [ "Unk", "d2/d8f/a11217.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
 ];

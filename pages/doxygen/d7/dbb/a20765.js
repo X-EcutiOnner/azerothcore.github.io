@@ -1,5 +1,5 @@
 var a20765 =
 [
-    [ "AreaTrigger_at_celestial_planetarium_enterance", "d7/dbb/a20765.html#ae1503a754a05a77991d9955a2fb74265", null ],
-    [ "OnTrigger", "d7/dbb/a20765.html#aa7aa93e00170313de251af4e562c422c", null ]
+    [ "achievement_nerf_engineering", "d7/dbb/a20765.html#ad8e1eadd635c7a5025e545053b52904f", null ],
+    [ "OnCheck", "d7/dbb/a20765.html#aefe01bfba3347be8a01bf5a398865cb6", null ]
 ];

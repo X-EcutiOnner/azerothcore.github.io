@@ -1,5 +1,12 @@
 var a10677 =
 [
-    [ "MailScript", "d6/d9c/a10677.html#a009eaf9dd8d44427e8e5c91a92ebb5c5", null ],
-    [ "OnBeforeMailDraftSendMailTo", "d6/d9c/a10677.html#ab4e3f0552ffc705ef44e8ca6c36f2be7", null ]
+    [ "BattlefieldScript", "d6/d9c/a10677.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
+    [ "IsDatabaseBound", "d6/d9c/a10677.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
+    [ "OnBattlefieldBeforeInvitePlayerToWar", "d6/d9c/a10677.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
+    [ "OnBattlefieldPlayerEnterZone", "d6/d9c/a10677.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
+    [ "OnBattlefieldPlayerJoinWar", "d6/d9c/a10677.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
+    [ "OnBattlefieldPlayerKill", "d6/d9c/a10677.html#a835001d04260cafe35021108e2ede851", null ],
+    [ "OnBattlefieldPlayerLeaveWar", "d6/d9c/a10677.html#a3e88ff9ad3772d558ab72123127a550e", null ],
+    [ "OnBattlefieldPlayerLeaveZone", "d6/d9c/a10677.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ],
+    [ "OnBattlefieldWarEnd", "d6/d9c/a10677.html#ab4ed21627320723b18a09dbc4c7f6baa", null ]
 ];

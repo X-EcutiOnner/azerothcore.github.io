@@ -1,6 +1,9 @@
 var a18053 =
 [
-    [ "npc_gas_cloudAI", "db/df1/a18057.html", "db/df1/a18057" ],
-    [ "npc_gas_cloud", "d0/dac/a18053.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d0/dac/a18053.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "CalculatePower", "d0/dac/a18053.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d0/dac/a18053.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d0/dac/a18053.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d0/dac/a18053.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d0/dac/a18053.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d0/dac/a18053.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

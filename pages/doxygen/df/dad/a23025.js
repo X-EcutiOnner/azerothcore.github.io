@@ -1,6 +1,6 @@
 var a23025 =
 [
-    [ "HandleScript", "df/dad/a23025.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "df/dad/a23025.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "df/dad/a23025.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "FilterTargets", "df/dad/a23025.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "df/dad/a23025.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "df/dad/a23025.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

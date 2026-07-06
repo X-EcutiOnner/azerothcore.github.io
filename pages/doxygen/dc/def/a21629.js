@@ -1,7 +1,6 @@
 var a21629 =
 [
-    [ "HandleScriptEffect", "dc/def/a21629.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "dc/def/a21629.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "dc/def/a21629.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "dc/def/a21629.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_q24545_lich_kingAI", "db/dfe/a21633.html", "db/dfe/a21633" ],
+    [ "npc_q24545_lich_king", "dc/def/a21629.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "dc/def/a21629.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

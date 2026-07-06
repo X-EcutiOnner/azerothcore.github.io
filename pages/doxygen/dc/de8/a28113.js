@@ -1,6 +1,5 @@
 var a28113 =
 [
-    [ "npc_garments_of_questsAI", "db/dae/a28117.html", "db/dae/a28117" ],
-    [ "npc_garments_of_quests", "dc/de8/a28113.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dc/de8/a28113.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "go_dragonflayer_cage", "dc/de8/a28113.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "dc/de8/a28113.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

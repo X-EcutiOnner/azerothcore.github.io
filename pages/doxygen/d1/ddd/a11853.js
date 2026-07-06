@@ -1,6 +1,7 @@
 var a11853 =
 [
-    [ "EffectPeriodicHandler", "d1/ddd/a11853.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "d1/ddd/a11853.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "d1/ddd/a11853.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "SpellImmune", "d1/ddd/a11853.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d1/ddd/a11853.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d1/ddd/a11853.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d1/ddd/a11853.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

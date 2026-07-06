@@ -1,7 +1,7 @@
 var a18261 =
 [
-    [ "OnRemove", "d2/d4d/a18261.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "d2/d4d/a18261.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "d2/d4d/a18261.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "d2/d4d/a18261.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "HandleExtraEffect", "d2/d4d/a18261.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d2/d4d/a18261.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d2/d4d/a18261.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d2/d4d/a18261.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

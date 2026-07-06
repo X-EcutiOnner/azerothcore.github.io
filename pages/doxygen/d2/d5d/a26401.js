@@ -1,8 +1,7 @@
 var a26401 =
 [
-    [ "CheckCast", "d2/d5d/a26401.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
-    [ "PrepareSpellScript", "d2/d5d/a26401.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
-    [ "Register", "d2/d5d/a26401.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
-    [ "TriggerDebuffs", "d2/d5d/a26401.html#a1579b28071e2194625f722a29ded39b8", null ],
-    [ "Validate", "d2/d5d/a26401.html#a767853d4b05e055cb32991bfe8c6516a", null ]
+    [ "HandleProc", "d2/d5d/a26401.html#a00e4e7a77373767f4a68f0ee209d4e7d", null ],
+    [ "PrepareAuraScript", "d2/d5d/a26401.html#a1b93f0cedfac153c2dab9d331d9fae0f", null ],
+    [ "Register", "d2/d5d/a26401.html#a6d171ec8688075496ec7d9f2325a5a1c", null ],
+    [ "Validate", "d2/d5d/a26401.html#a74be985272c75fff9592927ea010a9d9", null ]
 ];

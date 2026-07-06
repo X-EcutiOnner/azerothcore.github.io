@@ -1,6 +1,7 @@
 var a14937 =
 [
-    [ "FilterTargets", "d0/d12/a14937.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "d0/d12/a14937.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "d0/d12/a14937.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "CheckProc", "d0/d12/a14937.html#a4be98e79967d43908c0f642caab59348", null ],
+    [ "OnApply", "d0/d12/a14937.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d0/d12/a14937.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d0/d12/a14937.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

@@ -1,7 +1,10 @@
 var a19505 =
 [
-    [ "HandlePull", "d7/d24/a19505.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d7/d24/a19505.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d7/d24/a19505.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d7/d24/a19505.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_patchwerkAI", "d7/d24/a19505.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d7/d24/a19505.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d7/d24/a19505.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d7/d24/a19505.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d7/d24/a19505.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d7/d24/a19505.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d7/d24/a19505.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

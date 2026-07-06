@@ -1,6 +1,7 @@
 var a18725 =
 [
-    [ "npc_gluttonous_abominationAI", "d5/dea/a18729.html", "d5/dea/a18729" ],
-    [ "npc_gluttonous_abomination", "d9/d1c/a18725.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
-    [ "GetAI", "d9/d1c/a18725.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
+    [ "CheckTargetCount", "d9/d1c/a18725.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d9/d1c/a18725.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d9/d1c/a18725.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d9/d1c/a18725.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

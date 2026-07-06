@@ -1,6 +1,7 @@
 var a17745 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "da/de3/a17749.html", "da/de3/a17749" ],
-    [ "npc_high_overlord_saurfang_igb", "d5/d94/a17745.html#ae68d42f65851a753874705511bb83330", null ],
-    [ "GetAI", "d5/d94/a17745.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
+    [ "PeriodicTick", "d5/d94/a17745.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d5/d94/a17745.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d5/d94/a17745.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d5/d94/a17745.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

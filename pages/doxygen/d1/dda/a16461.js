@@ -1,7 +1,7 @@
 var a16461 =
 [
-    [ "HandleDummy", "d1/dda/a16461.html#a687cff5dcfcd7d9253182eb604d7a780", null ],
-    [ "PrepareSpellScript", "d1/dda/a16461.html#ab8544e2c9e3bea229abd270c108bfa14", null ],
-    [ "Register", "d1/dda/a16461.html#a144224b42aabc0402b729dcc808d779d", null ],
-    [ "Validate", "d1/dda/a16461.html#a985e843e856a7322bccf8544c45df48c", null ]
+    [ "DelayedTalk", "d1/dda/a16461.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "d1/dda/a16461.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "d1/dda/a16461.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "d1/dda/a16461.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

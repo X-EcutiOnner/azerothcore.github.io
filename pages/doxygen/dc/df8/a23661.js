@@ -1,6 +1,5 @@
 var a23661 =
 [
-    [ "go_beaconAI", "dc/df8/a23661.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "dc/df8/a23661.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "dc/df8/a23661.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "npc_thaladred", "dc/df8/a23661.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "dc/df8/a23661.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

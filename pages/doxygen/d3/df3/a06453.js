@@ -1,6 +1,6 @@
 var a06453 =
 [
-    [ "CreatureAIFactory", "d3/df3/a06453.html#a978af64c2793b92ee2fe57763500f8d9", null ],
-    [ "Create", "d3/df3/a06453.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
-    [ "Permit", "d3/df3/a06453.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
+    [ "NullGameObjectAI", "d3/df3/a06453.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "d3/df3/a06453.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "d3/df3/a06453.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

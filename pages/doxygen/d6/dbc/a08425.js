@@ -1,10 +1,10 @@
 var a08425 =
 [
-    [ "IsCastable", "d6/dbc/a08425.html#a677b21866e24d2c94de28d96db07aafd", null ],
-    [ "MoneyCost", "d6/dbc/a08425.html#af20caa962ba1f5edb376b78b6b35b119", null ],
-    [ "ReqAbility", "d6/dbc/a08425.html#a101686190208be6fb46a46768ca779f9", null ],
-    [ "ReqLevel", "d6/dbc/a08425.html#a45e87439b1ae356ccb9ff381f58f942e", null ],
-    [ "ReqSkillLine", "d6/dbc/a08425.html#a008ff0df36f2e19534a5fda97616f14f", null ],
-    [ "ReqSkillRank", "d6/dbc/a08425.html#aa151d559cb276797a39dd203fd1b24c2", null ],
-    [ "SpellId", "d6/dbc/a08425.html#ac289744925387c199fde756867bbfc57", null ]
+    [ "auras", "d6/dbc/a08425.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d6/dbc/a08425.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d6/dbc/a08425.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d6/dbc/a08425.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d6/dbc/a08425.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d6/dbc/a08425.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d6/dbc/a08425.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

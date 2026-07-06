@@ -1,10 +1,10 @@
 var a09709 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "db/d7b/a09709.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "db/d7b/a09709.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "db/d7b/a09709.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "db/d7b/a09709.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "db/d7b/a09709.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "db/d7b/a09709.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "db/d7b/a09709.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "MostHPPercentMissingInRange", "db/d7b/a09709.html#aaef0deb21e2470b45cafc22a8c4d18a5", null ],
+    [ "operator()", "db/d7b/a09709.html#ab1734490a3db95ad715756e85ecfaf77", null ],
+    [ "i_hpPct", "db/d7b/a09709.html#a41a3b1c4d1f27a2d727e7a18e2e30a7d", null ],
+    [ "i_maxHpPct", "db/d7b/a09709.html#afd12795ef0cd99e05e4e21f869582416", null ],
+    [ "i_minHpPct", "db/d7b/a09709.html#a11c197d3eea1a8ded0b20f707e6ed5d0", null ],
+    [ "i_obj", "db/d7b/a09709.html#a724cf058a6bcf02864a49bb288e32ce6", null ],
+    [ "i_range", "db/d7b/a09709.html#a021acff6bdb6aef9ab24c19d8798884f", null ]
 ];

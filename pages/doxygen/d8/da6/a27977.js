@@ -1,10 +1,6 @@
 var a27977 =
 [
-    [ "npc_prof_blacksmith", "d8/da6/a27977.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d8/da6/a27977.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d8/da6/a27977.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d8/da6/a27977.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d8/da6/a27977.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d8/da6/a27977.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d8/da6/a27977.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "go_tadpole_cageAI", "d7/d44/a27981.html", "d7/d44/a27981" ],
+    [ "go_tadpole_cage", "d8/da6/a27977.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d8/da6/a27977.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

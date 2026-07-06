@@ -1,20 +1,15 @@
 var a07605 =
 [
-    [ "ArenaMatchmakerRating", "de/d01/a07605.html#aebaba68d0d75e08eb909975d70ab7084", null ],
-    [ "ArenaTeamId", "de/d01/a07605.html#a62d4963600711b2476d6de964fc51f5e", null ],
-    [ "ArenaTeamRating", "de/d01/a07605.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
-    [ "ArenaType", "de/d01/a07605.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
-    [ "BgTypeId", "de/d01/a07605.html#aad98458292aca41fc7feb2e63ba5125f", null ],
-    [ "BracketId", "de/d01/a07605.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
-    [ "GroupType", "de/d01/a07605.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
-    [ "IsInvitedToBGInstanceGUID", "de/d01/a07605.html#a0261df1066e01602f475e9a08e142883", null ],
-    [ "IsRated", "de/d01/a07605.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
-    [ "JoinTime", "de/d01/a07605.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
-    [ "OpponentsMatchmakerRating", "de/d01/a07605.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
-    [ "OpponentsTeamRating", "de/d01/a07605.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
-    [ "Players", "de/d01/a07605.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
-    [ "PreviousOpponentsTeamId", "de/d01/a07605.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
-    [ "RealTeamID", "de/d01/a07605.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
-    [ "RemoveInviteTime", "de/d01/a07605.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
-    [ "teamId", "de/d01/a07605.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
+    [ "ArenaSeasonRewardGroup", "de/d01/a07605.html#a128e78db84f099d91e21da77b2147e82", null ],
+    [ "operator==", "de/d01/a07605.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
+    [ "achievementRewards", "de/d01/a07605.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
+    [ "criteriaType", "de/d01/a07605.html#a16261356df6f5aed35bc3ec06ab49560", null ],
+    [ "goldReward", "de/d01/a07605.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
+    [ "itemRewards", "de/d01/a07605.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
+    [ "maxCriteria", "de/d01/a07605.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
+    [ "minCriteria", "de/d01/a07605.html#a07507bd59265508a463aa328f343afa0", null ],
+    [ "rewardMailBody", "de/d01/a07605.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
+    [ "rewardMailSubject", "de/d01/a07605.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
+    [ "rewardMailTemplateID", "de/d01/a07605.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
+    [ "season", "de/d01/a07605.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
 ];

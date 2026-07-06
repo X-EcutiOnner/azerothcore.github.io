@@ -1,6 +1,7 @@
 var a13781 =
 [
-    [ "OnApply", "d8/d17/a13781.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "d8/d17/a13781.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "d8/d17/a13781.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "HandleScriptEffect", "d8/d17/a13781.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d8/d17/a13781.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d8/d17/a13781.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d8/d17/a13781.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

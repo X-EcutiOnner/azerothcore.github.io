@@ -1,7 +1,13 @@
 var a23221 =
 [
-    [ "FilterTargets", "d9/df8/a23221.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
-    [ "HandleHit", "d9/df8/a23221.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
-    [ "PrepareSpellScript", "d9/df8/a23221.html#a376618b9811b2e1ec18697431094e22f", null ],
-    [ "Register", "d9/df8/a23221.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
+    [ "boss_ghazan", "d9/df8/a23221.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d9/df8/a23221.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d9/df8/a23221.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d9/df8/a23221.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d9/df8/a23221.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d9/df8/a23221.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d9/df8/a23221.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d9/df8/a23221.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d9/df8/a23221.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d9/df8/a23221.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

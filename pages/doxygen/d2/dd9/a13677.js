@@ -1,8 +1,6 @@
 var a13677 =
 [
-    [ "FilterTargets", "d2/dd9/a13677.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "d2/dd9/a13677.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "d2/dd9/a13677.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "d2/dd9/a13677.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "d2/dd9/a13677.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "instance_stratholme_InstanceMapScript", "d1/dab/a13681.html", "d1/dab/a13681" ],
+    [ "instance_stratholme", "d2/dd9/a13677.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d2/dd9/a13677.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

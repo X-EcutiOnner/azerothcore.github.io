@@ -1,4 +1,6 @@
 var a05381 =
 [
-    [ "collisionLocationForMovingPointFixedAABox", "da/d0c/a05381.html#afe38618ab1de028db0657601f1e51d21", null ]
+    [ "TriBoundFunc", "da/d0c/a05381.html#a42711c10595c048420a09e35e3345229", null ],
+    [ "operator()", "da/d0c/a05381.html#a026d443e9156f884a21351700b6c69dd", null ],
+    [ "vertices", "da/d0c/a05381.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
 ];

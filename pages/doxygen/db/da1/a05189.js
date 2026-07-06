@@ -1,12 +1,11 @@
 var a05189 =
 [
-    [ "base", "db/da1/a05189.html#a810cca29867b0864537650c7dc26a270", null ],
-    [ "Model", "db/da1/a05189.html#af55ad14532683c79e402195333fcba18", null ],
-    [ "DynTreeImpl", "db/da1/a05189.html#afa10e244de517c1808ba5401a726a94f", null ],
-    [ "balance", "db/da1/a05189.html#a589f4028f0a9dca9901ad77fd71b44db", null ],
-    [ "insert", "db/da1/a05189.html#ab31def0d383072bc7ca3def402d7e052", null ],
-    [ "remove", "db/da1/a05189.html#a74369a94f135b664528f91f5050894cb", null ],
-    [ "update", "db/da1/a05189.html#ae41bd2b901a27801da839c3345e8a2ed", null ],
-    [ "rebalance_timer", "db/da1/a05189.html#a752ef384318fa1652ad94f0ff72d1574", null ],
-    [ "unbalanced_times", "db/da1/a05189.html#ad1e55f97cb7d72beefcd68649a7eb6bf", null ]
+    [ "IoContext", "db/da1/a05189.html#a6ba4b629a3704fcb5d110a71f09900be", null ],
+    [ "IoContext", "db/da1/a05189.html#a8dc945d02df9d28f3dda6c17f1c91502", null ],
+    [ "get_executor", "db/da1/a05189.html#aa642c9d6e49d2396c267c6fc404b2a6b", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase &", "db/da1/a05189.html#a51e3067d9ba9b0b4a557a7e586b1ef91", null ],
+    [ "operator IoContextBaseNamespace::IoContextBase const &", "db/da1/a05189.html#af4aa281948ab71b76bc8f66b735425b3", null ],
+    [ "run", "db/da1/a05189.html#a086cd2ed56d61cf1ec0dbfdec16c50fe", null ],
+    [ "stop", "db/da1/a05189.html#a1165b11f60d138d56eba43657fc299cd", null ],
+    [ "_impl", "db/da1/a05189.html#a22cdb3c45a6dbacb13f90f654bc0c65d", null ]
 ];

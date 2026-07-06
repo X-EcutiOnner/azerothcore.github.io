@@ -1,7 +1,5 @@
 var a15801 =
 [
-    [ "npc_giant_spotlightAI", "dc/d75/a15801.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "dc/d75/a15801.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "dc/d75/a15801.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "dc/d75/a15801.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "go_ravager_cage", "dc/d75/a15801.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "dc/d75/a15801.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

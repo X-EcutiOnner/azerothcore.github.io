@@ -1,10 +1,6 @@
 var a07485 =
 [
-    [ "CreatureBottom", "dd/d33/a07485.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "dd/d33/a07485.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "dd/d33/a07485.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "dd/d33/a07485.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "dd/d33/a07485.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "dd/d33/a07485.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "dd/d33/a07485.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "AuctionSearchBidderListRequest", "dd/d33/a07485.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "dd/d33/a07485.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "dd/d33/a07485.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

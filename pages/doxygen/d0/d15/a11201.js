@@ -1,9 +1,7 @@
 var a11201 =
 [
-    [ "WrapItem", "d0/d15/a11201.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
-    [ "Read", "d0/d15/a11201.html#adcd87a65cc32bc0096b650a705de9a55", null ],
-    [ "GiftBag", "d0/d15/a11201.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
-    [ "GiftSlot", "d0/d15/a11201.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
-    [ "ItemBag", "d0/d15/a11201.html#a577a588900d74f22cfe67a1fbe82424b", null ],
-    [ "ItemSlot", "d0/d15/a11201.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
+    [ "InstanceResetFailed", "d0/d15/a11201.html#a246b4ab5e9567b99ba83b2a3c9b6c039", null ],
+    [ "Write", "d0/d15/a11201.html#a29506768ce5a5312e659ec787dbc2f8e", null ],
+    [ "MapId", "d0/d15/a11201.html#a3a14b2f4eb5e6d1ce768fe45881e2206", null ],
+    [ "Reason", "d0/d15/a11201.html#a3c629d5db1fb3a4f82ec9dc047a1b9f0", null ]
 ];

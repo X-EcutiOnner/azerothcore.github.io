@@ -1,6 +1,6 @@
 var a11081 =
 [
-    [ "GuildBankTextQuery", "dd/dcd/a11081.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "dd/dcd/a11081.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "dd/dcd/a11081.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildUpdateInfoText", "dd/dcd/a11081.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
+    [ "Read", "dd/dcd/a11081.html#a7019344fef99c5479602d7bc1176e9ee", null ],
+    [ "InfoText", "dd/dcd/a11081.html#a786802ce427465d66a4cea1365743975", null ]
 ];

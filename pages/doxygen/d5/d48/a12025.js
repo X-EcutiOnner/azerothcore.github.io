@@ -1,7 +1,6 @@
 var a12025 =
 [
-    [ "CompressedData", "d5/d48/a12025.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
-    [ "CompressedSize", "d5/d48/a12025.html#ab57879b41c825623a989db13a53f2f4e", null ],
-    [ "Id", "d5/d48/a12025.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
-    [ "Key", "d5/d48/a12025.html#ad100540b5c6722a19c938b134a985aed", null ]
+    [ "EffectCalcAmountHandler", "d5/d48/a12025.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d5/d48/a12025.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d5/d48/a12025.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

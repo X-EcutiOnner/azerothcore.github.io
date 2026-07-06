@@ -1,10 +1,14 @@
 var a22129 =
 [
-    [ "OPvPCapturePointHP", "d5/dd0/a22129.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "d5/dd0/a22129.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "d5/dd0/a22129.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "d5/dd0/a22129.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "d5/dd0/a22129.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "d5/dd0/a22129.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "d5/dd0/a22129.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "npc_wild_wyrm", "d5/dd0/a22129.html#a7adb3a9f2d17c55995218219c2af13a6", null ],
+    [ "DamageTaken", "d5/dd0/a22129.html#a0ff51f46c203f3b1b8dea063463c5c4d", null ],
+    [ "DoAction", "d5/dd0/a22129.html#afdd165233995f79aa9ec82d7c2c1f258", null ],
+    [ "InitSpellsForPhase", "d5/dd0/a22129.html#adcc805b0880d95c185af4a587474c2d2", null ],
+    [ "MovementInform", "d5/dd0/a22129.html#aeaa4f0327f06ee67a63fd15b914ffac8", null ],
+    [ "PassengerBoarded", "d5/dd0/a22129.html#a362052015873c615448bec978d744c9e", null ],
+    [ "Reset", "d5/dd0/a22129.html#a2e826c49b41a389ddfbeac3d3c7933f5", null ],
+    [ "SpellHit", "d5/dd0/a22129.html#a3d12d555ab7c992ca37e826609b3cd72", null ],
+    [ "UpdateAI", "d5/dd0/a22129.html#adbbf5b93476eef2ef54f51d2523a726e", null ],
+    [ "_phase", "d5/dd0/a22129.html#a7fa0ac4d2feaf62b08c4667c8f0b7474", null ],
+    [ "_playerGuid", "d5/dd0/a22129.html#ade2cc59d0afcf5ebfd7c6fbd694e0809", null ]
 ];

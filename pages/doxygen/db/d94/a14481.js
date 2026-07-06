@@ -1,6 +1,9 @@
 var a14481 =
 [
-    [ "HandleEffectRemove", "db/d94/a14481.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "db/d94/a14481.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "db/d94/a14481.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "boss_hazzarah", "db/d94/a14481.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "db/d94/a14481.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "db/d94/a14481.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "db/d94/a14481.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "db/d94/a14481.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "db/d94/a14481.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

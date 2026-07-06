@@ -1,5 +1,7 @@
 var a16873 =
 [
-    [ "boss_eydisAI", "df/d9a/a16873.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "df/d9a/a16873.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "npc_toc_shadow_priestAI", "df/d9a/a16873.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "df/d9a/a16873.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "df/d9a/a16873.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "df/d9a/a16873.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

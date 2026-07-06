@@ -1,6 +1,7 @@
 var a27221 =
 [
-    [ "HandleSchoolDMG", "db/dab/a27221.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "db/dab/a27221.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "db/dab/a27221.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckProc", "db/dab/a27221.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
+    [ "HandleProc", "db/dab/a27221.html#a91ee1b654a3a26e027407635a45b80b3", null ],
+    [ "PrepareAuraScript", "db/dab/a27221.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
+    [ "Register", "db/dab/a27221.html#ab06a732203303d5533bdc4b217640d2d", null ]
 ];

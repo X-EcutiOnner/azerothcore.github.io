@@ -1,6 +1,6 @@
 var a25837 =
 [
-    [ "OnRemove", "df/d3f/a25837.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "df/d3f/a25837.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "df/d3f/a25837.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleProc", "df/d3f/a25837.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "df/d3f/a25837.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "df/d3f/a25837.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

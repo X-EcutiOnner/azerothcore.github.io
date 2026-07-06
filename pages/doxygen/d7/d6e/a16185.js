@@ -1,6 +1,7 @@
 var a16185 =
 [
-    [ "npc_anub_ar_crusher_necromancer", "d7/d6e/a16185.html#a469d30b357551c4ce77f040bea79e951", null ],
-    [ "DoEngagedWith", "d7/d6e/a16185.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
-    [ "DoEvent", "d7/d6e/a16185.html#a67889b3a207ab26b7895e2f7996359b1", null ]
+    [ "npc_ranshallaAI", "d2/d2e/a16189.html", "d2/d2e/a16189" ],
+    [ "npc_ranshalla", "d7/d6e/a16185.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
+    [ "GetAI", "d7/d6e/a16185.html#a1a81651366cc05d3ad6e9929160fe059", null ],
+    [ "OnQuestAccept", "d7/d6e/a16185.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
 ];

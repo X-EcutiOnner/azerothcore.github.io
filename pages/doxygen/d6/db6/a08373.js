@@ -1,10 +1,10 @@
 var a08373 =
 [
-    [ "BoxMessage", "d6/db6/a08373.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "d6/db6/a08373.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "d6/db6/a08373.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "d6/db6/a08373.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "d6/db6/a08373.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "d6/db6/a08373.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "d6/db6/a08373.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "AssistDelayEvent", "d6/db6/a08373.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
+    [ "AssistDelayEvent", "d6/db6/a08373.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
+    [ "AddAssistant", "d6/db6/a08373.html#a987303ec41927528e9a5abfd9ab75512", null ],
+    [ "Execute", "d6/db6/a08373.html#a5afd295abeb1295e43f48b8951b24c35", null ],
+    [ "m_assistants", "d6/db6/a08373.html#ac6de6befda582bd38f92afda01204e94", null ],
+    [ "m_owner", "d6/db6/a08373.html#aabcce364c8009e8172b9d090059ce48c", null ],
+    [ "m_victim", "d6/db6/a08373.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
 ];

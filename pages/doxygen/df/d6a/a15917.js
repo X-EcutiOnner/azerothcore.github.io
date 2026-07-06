@@ -1,8 +1,7 @@
 var a15917 =
 [
-    [ "npc_giltharesAI", "df/d6a/a15917.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "df/d6a/a15917.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "df/d6a/a15917.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "df/d6a/a15917.html#a9308c73760e50e0f3d04031b508526d1", null ],
-    [ "WaypointReached", "df/d6a/a15917.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "HandleEffectPeriodic", "df/d6a/a15917.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "df/d6a/a15917.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "df/d6a/a15917.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "df/d6a/a15917.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

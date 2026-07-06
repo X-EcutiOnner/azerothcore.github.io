@@ -1,10 +1,11 @@
 var a03356 =
 [
-    [ "CALL_ENABLED_BOOLEAN_HOOKS", "d2/deb/a03356.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
-    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "d2/deb/a03356.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
-    [ "CALL_ENABLED_HOOKS", "d2/deb/a03356.html#a9662d12a9f13490594165729108aa0b1", null ],
-    [ "ExecuteScript", "d2/deb/a03356.html#a80951f767a7c77417a671490893db073", null ],
-    [ "GetReturnAIScript", "d2/deb/a03356.html#aceff01aa3f5ab68a0253704ef30041df", null ],
-    [ "IsValidBoolScript", "d2/deb/a03356.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
-    [ "ReturnValidBool", "d2/deb/a03356.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
+    [ "CombatReference", "d9/d8d/a08197.html", "d9/d8d/a08197" ],
+    [ "PvPCombatReference", "d8/dcd/a08201.html", "d8/dcd/a08201" ],
+    [ "CombatManager", "dc/dcf/a08205.html", "dc/dcf/a08205" ],
+    [ "EvadeState", "d2/deb/a03356.html#a330a2d238c7c7b5390c40e53436d0d74", [
+      [ "EVADE_STATE_NONE", "d2/deb/a03356.html#a330a2d238c7c7b5390c40e53436d0d74a742a27c0e47bf6cbe51ea3d3485e1ee6", null ],
+      [ "EVADE_STATE_COMBAT", "d2/deb/a03356.html#a330a2d238c7c7b5390c40e53436d0d74ac6bc3b656f0875f408ad159de8e47dab", null ],
+      [ "EVADE_STATE_HOME", "d2/deb/a03356.html#a330a2d238c7c7b5390c40e53436d0d74a7179da8d8fc2a4fb8897c5febb10b6d8", null ]
+    ] ]
 ];

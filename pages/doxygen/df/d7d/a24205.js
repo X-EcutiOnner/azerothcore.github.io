@@ -1,8 +1,10 @@
 var a24205 =
 [
-    [ "HandleEffectApply", "df/d7d/a24205.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "df/d7d/a24205.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "df/d7d/a24205.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "df/d7d/a24205.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "df/d7d/a24205.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "df/d7d/a24205.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "df/d7d/a24205.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "df/d7d/a24205.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "df/d7d/a24205.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "df/d7d/a24205.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "df/d7d/a24205.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "df/d7d/a24205.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

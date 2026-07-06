@@ -1,5 +1,7 @@
 var a09349 =
 [
-    [ "MaxAllowedCount", "dd/ded/a09349.html#afb0dcc50d8e9aa85fe2904050d646042", null ],
-    [ "Policy", "dd/ded/a09349.html#a8b2bbd3d9f52166c1235b0d306042609", null ]
+    [ "IsFitToRequirements", "dd/ded/a09349.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "dd/ded/a09349.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "dd/ded/a09349.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "dd/ded/a09349.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

@@ -1,6 +1,6 @@
 var a18013 =
 [
-    [ "PrepareSpellScript", "d0/de3/a18013.html#a9041ce6139de9a48621d6898ddcca673", null ],
-    [ "RecalculateDamage", "d0/de3/a18013.html#abfb7c002577a59864fb2aa069b713c0a", null ],
-    [ "Register", "d0/de3/a18013.html#a4308449e8cbe7ed59598a837024141cb", null ]
+    [ "PrepareSpellScript", "d0/de3/a18013.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d0/de3/a18013.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d0/de3/a18013.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

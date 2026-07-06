@@ -1,9 +1,10 @@
 var a15137 =
 [
-    [ "boss_temporus", "d7/db2/a15137.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d7/db2/a15137.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d7/db2/a15137.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d7/db2/a15137.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d7/db2/a15137.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d7/db2/a15137.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "boss_rage_winterchill", "d7/db2/a15137.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d7/db2/a15137.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d7/db2/a15137.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d7/db2/a15137.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d7/db2/a15137.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d7/db2/a15137.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d7/db2/a15137.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

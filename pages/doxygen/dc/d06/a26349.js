@@ -1,7 +1,8 @@
 var a26349 =
 [
-    [ "CheckProc", "dc/d06/a26349.html#ad9511694733ed76ed2e55ffc1005345e", null ],
-    [ "HandleProc", "dc/d06/a26349.html#a8021759730e413476d768495e856c544", null ],
-    [ "PrepareAuraScript", "dc/d06/a26349.html#a2d226a3b38dbe3da64f3ae9a3c47f9ea", null ],
-    [ "Register", "dc/d06/a26349.html#a2d8e2b52076b519e083c71b99b482c32", null ]
+    [ "OnRemove", "dc/d06/a26349.html#a992c78ac4ce2a94c4f38c7a81f2a9c45", null ],
+    [ "PrepareAuraScript", "dc/d06/a26349.html#ad06dbe9207315484cbb886fcc75bb958", null ],
+    [ "PrepareProc", "dc/d06/a26349.html#a2f4b562be28420d25d09b81ad72af17f", null ],
+    [ "Register", "dc/d06/a26349.html#a04d9c48f8842392a4d318677537ac248", null ],
+    [ "Validate", "dc/d06/a26349.html#ab15a75ec708d8c683166bd73fab29701", null ]
 ];

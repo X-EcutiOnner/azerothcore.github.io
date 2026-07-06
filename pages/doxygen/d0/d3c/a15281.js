@@ -1,14 +1,12 @@
 var a15281 =
 [
-    [ "boss_buru", "d0/d3c/a15281.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "d0/d3c/a15281.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "d0/d3c/a15281.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "d0/d3c/a15281.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "d0/d3c/a15281.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "d0/d3c/a15281.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "d0/d3c/a15281.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "d0/d3c/a15281.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "d0/d3c/a15281.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "d0/d3c/a15281.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "d0/d3c/a15281.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "boss_lieutenant_drake", "d0/d3c/a15281.html#a67e00ef68d5b07023cc9dc7bd6a2289b", null ],
+    [ "InitializeAI", "d0/d3c/a15281.html#a2b3eb857c0711b89b6e7a6f3f5f05441", null ],
+    [ "JustDied", "d0/d3c/a15281.html#aca7654e30aac96fa509f99f3447121ec", null ],
+    [ "JustEngagedWith", "d0/d3c/a15281.html#ae31ac13106d09b8b447aa8fd9d864e41", null ],
+    [ "KilledUnit", "d0/d3c/a15281.html#a833c889c28ea35a6198fe753b604a8ed", null ],
+    [ "MovementInform", "d0/d3c/a15281.html#aec6e332bc5739552cbbec27569c55759", null ],
+    [ "UpdateAI", "d0/d3c/a15281.html#ad898722dfe01c2e4f814fc5af9f057b8", null ],
+    [ "pathId", "d0/d3c/a15281.html#ac63f9c885296a797799c0cd83b0ade64", null ],
+    [ "runSecondPath", "d0/d3c/a15281.html#a3ea53e2048224ac3bbc4dceda316d7c4", null ]
 ];

@@ -1,6 +1,9 @@
 var a15069 =
 [
-    [ "npc_cos_chromie_start", "dd/d50/a15069.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "dd/d50/a15069.html#a80db05062f24dd2d5bc0bb6996cf8a30", null ],
-    [ "OnQuestAccept", "dd/d50/a15069.html#a038e046773718f5cd55d2b4eb98b3d24", null ]
+    [ "boss_azuregosAI", "dd/d50/a15069.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "dd/d50/a15069.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "dd/d50/a15069.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "dd/d50/a15069.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "dd/d50/a15069.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "dd/d50/a15069.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

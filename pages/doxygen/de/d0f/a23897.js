@@ -1,7 +1,7 @@
 var a23897 =
 [
-    [ "HandleSendEvent", "de/d0f/a23897.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "de/d0f/a23897.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "de/d0f/a23897.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "de/d0f/a23897.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "de/d0f/a23897.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "de/d0f/a23897.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "de/d0f/a23897.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "de/d0f/a23897.html#a29132346f117ba785039057619edb9e7", null ]
 ];

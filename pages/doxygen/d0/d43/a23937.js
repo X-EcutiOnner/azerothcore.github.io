@@ -1,21 +1,9 @@
 var a23937 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "d0/d43/a23937.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
-    [ "AttackStart", "d0/d43/a23937.html#ae5408b18b589fb483095450bf1338b2f", null ],
-    [ "EnterEvadeMode", "d0/d43/a23937.html#a73e70d9deaa647edd2904dae180c9cef", null ],
-    [ "FlyAway", "d0/d43/a23937.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
-    [ "InitializeAI", "d0/d43/a23937.html#a05e7d29c738dcc280603ab12a82b819b", null ],
-    [ "JustExitedCombat", "d0/d43/a23937.html#a980844a2d503761efe7e7cacef35bef1", null ],
-    [ "MovementInform", "d0/d43/a23937.html#a33e0260425cf179daae147bfc1a570b4", null ],
-    [ "MySelectNextTarget", "d0/d43/a23937.html#af86f48070b8c329c6a6a3f43d0156273", null ],
-    [ "RemoveTargetAura", "d0/d43/a23937.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
-    [ "Reset", "d0/d43/a23937.html#aa719acf874e7588ed6b73c437fb6765b", null ],
-    [ "UpdateAI", "d0/d43/a23937.html#a998a0401bd975cc7d0da7fb33670a503", null ],
-    [ "_decisionTimer", "d0/d43/a23937.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
-    [ "_despawning", "d0/d43/a23937.html#abca2ddc0628899b0c5bd35210e303d00", null ],
-    [ "_despawnTimer", "d0/d43/a23937.html#a8135321f4e5c01dc71e13f719e43d056", null ],
-    [ "_initialCastTimer", "d0/d43/a23937.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
-    [ "_initialSelection", "d0/d43/a23937.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
-    [ "_selectionTimer", "d0/d43/a23937.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
-    [ "_targetGUID", "d0/d43/a23937.html#a8299788ca453930977a605a2766d9e8d", null ]
+    [ "npc_bessyAI", "d0/d43/a23937.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d0/d43/a23937.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d0/d43/a23937.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d0/d43/a23937.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d0/d43/a23937.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ],
+    [ "WaypointReached", "d0/d43/a23937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

@@ -1,6 +1,8 @@
 var a26425 =
 [
-    [ "FilterTargets", "d7/d42/a26425.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d7/d42/a26425.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d7/d42/a26425.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckProc", "d7/d42/a26425.html#a05580997d10960d8a8186c42b008894f", null ],
+    [ "OnRemove", "d7/d42/a26425.html#a55cc4caf383fa643dd9df6c335937063", null ],
+    [ "PrepareAuraScript", "d7/d42/a26425.html#a19bbc19f6a8f2e59903319eb56afacea", null ],
+    [ "Register", "d7/d42/a26425.html#a2caaa38b44038e58f1715deb2af1a7ec", null ],
+    [ "Validate", "d7/d42/a26425.html#a93fe3df6878e3edb540a70871dd98e7d", null ]
 ];

@@ -1,6 +1,10 @@
 var a18177 =
 [
-    [ "ExtraRemoveEffect", "dd/d80/a18177.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
-    [ "PrepareAuraScript", "dd/d80/a18177.html#a41992ed6c23275d3a910915755b682f9", null ],
-    [ "Register", "dd/d80/a18177.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
+    [ "npc_bone_spikeAI", "dd/d80/a18177.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "dd/d80/a18177.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "dd/d80/a18177.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "dd/d80/a18177.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "dd/d80/a18177.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "dd/d80/a18177.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "dd/d80/a18177.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

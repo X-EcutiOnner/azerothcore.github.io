@@ -1,10 +1,10 @@
 var a20813 =
 [
-    [ "npc_dragonflayer_forge_master", "db/d15/a20813.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "db/d15/a20813.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "db/d15/a20813.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "db/d15/a20813.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "db/d15/a20813.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "db/d15/a20813.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "db/d15/a20813.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_yoggsaron_constrictor_tentacle", "db/d15/a20813.html#a543b785ba3033ab378fcb77d39db2ab1", null ],
+    [ "DoAction", "db/d15/a20813.html#acf3ab23043ac116dd3f410b361a5b9f4", null ],
+    [ "GrabPlayer", "db/d15/a20813.html#a0ae04ac300d4f08b12f7edaa75dbe208", null ],
+    [ "IsSummonedBy", "db/d15/a20813.html#a404e4ab66a757b6ff4fa492219198b91", null ],
+    [ "JustDied", "db/d15/a20813.html#aac8f5a80248c4616074e7ef88fb10395", null ],
+    [ "SelectConstrictTarget", "db/d15/a20813.html#a12103bc4e58febfdcb9fbbc31aab9ad7", null ],
+    [ "_playerGUID", "db/d15/a20813.html#a381b56eb1c81f893fd061cf4aead0bc4", null ]
 ];

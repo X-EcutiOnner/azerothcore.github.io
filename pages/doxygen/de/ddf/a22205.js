@@ -1,12 +1,6 @@
 var a22205 =
 [
-    [ "npc_stolen_soul", "de/ddf/a22205.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "de/ddf/a22205.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "JustDied", "de/ddf/a22205.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
-    [ "Reset", "de/ddf/a22205.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "SetGUID", "de/ddf/a22205.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
-    [ "UpdateAI", "de/ddf/a22205.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_myClass", "de/ddf/a22205.html#ade19b9cb41a674f6bd049a621970aeff", null ],
-    [ "_scheduler", "de/ddf/a22205.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "_targetGuid", "de/ddf/a22205.html#a6efbe90928119902e4b5a7148b12cfac", null ]
+    [ "npc_wg_siege_machineAI", "d0/d00/a22209.html", "d0/d00/a22209" ],
+    [ "npc_wg_siege_machine", "de/ddf/a22205.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "de/ddf/a22205.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

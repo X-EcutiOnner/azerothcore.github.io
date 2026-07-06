@@ -1,6 +1,16 @@
 var a21193 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d9/d20/a21197.html", "d9/d20/a21197" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d5/d19/a21193.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d5/d19/a21193.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "boss_emalonAI", "d5/d19/a21193.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d5/d19/a21193.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d5/d19/a21193.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d5/d19/a21193.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d5/d19/a21193.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d5/d19/a21193.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d5/d19/a21193.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d5/d19/a21193.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d5/d19/a21193.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d5/d19/a21193.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d5/d19/a21193.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d5/d19/a21193.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d5/d19/a21193.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

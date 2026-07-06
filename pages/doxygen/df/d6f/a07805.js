@@ -1,15 +1,10 @@
 var a07805 =
 [
-    [ "Print", "df/d6f/a07805.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "df/d6f/a07805.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "df/d6f/a07805.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "df/d6f/a07805.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "df/d6f/a07805.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "df/d6f/a07805.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "df/d6f/a07805.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "df/d6f/a07805.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "df/d6f/a07805.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "df/d6f/a07805.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "df/d6f/a07805.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "df/d6f/a07805.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "BattlegroundRL", "df/d6f/a07805.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
+    [ "FillInitialWorldStates", "df/d6f/a07805.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
+    [ "HandleAreaTrigger", "df/d6f/a07805.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
+    [ "HandlePlayerUnderMap", "df/d6f/a07805.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
+    [ "SetupBattleground", "df/d6f/a07805.html#a3393353028ffd35eaad1d5e121654366", null ],
+    [ "StartingEventCloseDoors", "df/d6f/a07805.html#aae633887d9689898c8b73efa8257eb34", null ],
+    [ "StartingEventOpenDoors", "df/d6f/a07805.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
 ];

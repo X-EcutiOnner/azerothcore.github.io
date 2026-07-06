@@ -1,6 +1,5 @@
 var a27773 =
 [
-    [ "go_bear_trapAI", "d0/d4f/a27777.html", "d0/d4f/a27777" ],
-    [ "go_bear_trap", "d9/d10/a27773.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
-    [ "GetAI", "d9/d10/a27773.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
+    [ "achievement_bg_ic_resource_glut", "d9/d10/a27773.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d9/d10/a27773.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

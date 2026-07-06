@@ -1,8 +1,9 @@
 var a14385 =
 [
-    [ "npc_spawn_of_marli", "d2/d01/a14385.html#a1dcd5066de108203903f5767c4b375ea", null ],
-    [ "JustEngagedWith", "d2/d01/a14385.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
-    [ "Reset", "d2/d01/a14385.html#a79ef192d41af75e0dad0494776c75189", null ],
-    [ "UpdateAI", "d2/d01/a14385.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
-    [ "_scheduler", "d2/d01/a14385.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
+    [ "npc_amanishi_scout", "d2/d01/a14385.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d2/d01/a14385.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d2/d01/a14385.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d2/d01/a14385.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d2/d01/a14385.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d2/d01/a14385.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

@@ -1,6 +1,5 @@
 var a21141 =
 [
-    [ "HandleEffectPeriodic", "da/d22/a21141.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "da/d22/a21141.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "da/d22/a21141.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_ritual_channelerAI", "da/d22/a21141.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "da/d22/a21141.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

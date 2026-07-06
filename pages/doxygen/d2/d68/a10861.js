@@ -1,8 +1,9 @@
 var a10861 =
 [
-    [ "PlayedTime", "d2/d68/a10861.html#abc477d90a27dc41a7c643448302464cf", null ],
-    [ "Write", "d2/d68/a10861.html#a147071f2545cd91213d6c92dab7438c7", null ],
-    [ "LevelTime", "d2/d68/a10861.html#a2bf832827f9497a59bbfac714799b4b5", null ],
-    [ "TotalTime", "d2/d68/a10861.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
-    [ "TriggerScriptEvent", "d2/d68/a10861.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
+    [ "fX", "d2/d68/a10861.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "d2/d68/a10861.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "d2/d68/a10861.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "d2/d68/a10861.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "d2/d68/a10861.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "d2/d68/a10861.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

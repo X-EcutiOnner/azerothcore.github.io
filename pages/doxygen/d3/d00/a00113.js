@@ -1,9 +1,12 @@
 var a00113 =
 [
-    [ "TEST", "d3/d00/a00113.html#a7a11632378897367b979b12423a3f5dd", null ],
-    [ "TEST", "d3/d00/a00113.html#ac23831b7258f696b9e9a4972c42b5a4c", null ],
-    [ "TEST", "d3/d00/a00113.html#a5fcf85473a490662471938a1f773d6e2", null ],
-    [ "TEST", "d3/d00/a00113.html#a8ffadf8c8dbffb858cf2a925473d6bff", null ],
-    [ "TEST", "d3/d00/a00113.html#a23ac78cb09ef0a7b924b271ffefbc6a9", null ],
-    [ "TEST", "d3/d00/a00113.html#a9b7a926251db0fa2bd2678cee360e161", null ]
+    [ "BinarySpellDetectionTest", "da/d63/a29649.html", "da/d63/a29649" ],
+    [ "ShouldMarkBinary", "d3/d00/a00113.html#ab2154405a408271aa60863454b0303fe", null ],
+    [ "TEST_F", "d3/d00/a00113.html#ae8ecca79d16f8a89b183cf4611dad5d0", null ],
+    [ "TEST_F", "d3/d00/a00113.html#afb1918ddefeb036bd6be1fbde953b78b", null ],
+    [ "TEST_F", "d3/d00/a00113.html#a1dc398eff0ed30b3e1997c3b27980bed", null ],
+    [ "TEST_F", "d3/d00/a00113.html#ad56defbc63a988ba5126194ff9cea5ec", null ],
+    [ "TEST_F", "d3/d00/a00113.html#a54fa8a3ce4060060ece3f2a2d9e852e7", null ],
+    [ "TEST_F", "d3/d00/a00113.html#aa1b8d26dc43fa9eaf1d827a0c4308dd1", null ],
+    [ "TEST_F", "d3/d00/a00113.html#a4e6cbd19c7f85354ce9a5f5a9a1bafe6", null ]
 ];

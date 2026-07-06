@@ -1,5 +1,5 @@
 var a01547 =
 [
-    [ "spellinfo_commandscript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "AddSC_spellinfo_commandscript", "da/ded/a01547.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
+    [ "spectator_commandscript", "d7/d14/a12521.html", "d7/d14/a12521" ],
+    [ "AddSC_spectator_commandscript", "da/ded/a01547.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
 ];

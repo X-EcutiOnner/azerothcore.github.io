@@ -1,6 +1,12 @@
 var a19777 =
 [
-    [ "HandleApplyTouch", "df/d8c/a19777.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "df/d8c/a19777.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "df/d8c/a19777.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "npc_oculus_drakeAI", "df/d8c/a19777.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/d8c/a19777.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/d8c/a19777.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/d8c/a19777.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/d8c/a19777.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/d8c/a19777.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/d8c/a19777.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/d8c/a19777.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/d8c/a19777.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

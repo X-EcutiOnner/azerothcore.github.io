@@ -1,6 +1,5 @@
 var a27961 =
 [
-    [ "trigger_periodicAI", "df/de1/a27965.html", "df/de1/a27965" ],
-    [ "trigger_periodic", "d5/d3b/a27961.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "d5/d3b/a27961.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "go_arena_ready_marker", "d5/d3b/a27961.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d5/d3b/a27961.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

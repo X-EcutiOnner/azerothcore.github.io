@@ -1,8 +1,6 @@
 var a18497 =
 [
-    [ "ChangeDamageAndGrow", "db/d53/a18497.html#a017ade08eca93f326d2e5115c4d88c33", null ],
-    [ "CorrectRange", "db/d53/a18497.html#a9022b9efab89bc562428520b3551ff37", null ],
-    [ "PrepareSpellScript", "db/d53/a18497.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
-    [ "Register", "db/d53/a18497.html#a998b810cdbecbca2bf65f18cee14d286", null ],
-    [ "Validate", "db/d53/a18497.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
+    [ "npc_rimefangAI", "dc/d2c/a18501.html", "dc/d2c/a18501" ],
+    [ "npc_rimefang", "db/d53/a18497.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "db/d53/a18497.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

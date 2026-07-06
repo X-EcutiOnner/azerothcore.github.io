@@ -1,8 +1,9 @@
 var a09745 =
 [
-    [ "AllDeadCreaturesInRange", "de/d5d/a09745.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "de/d5d/a09745.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "de/d5d/a09745.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "de/d5d/a09745.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "de/d5d/a09745.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AnyGroupedUnitInObjectRangeCheck", "de/d5d/a09745.html#a2c775f62eeabcb8af5306cbcedae322e", null ],
+    [ "operator()", "de/d5d/a09745.html#a3c316eacdd1c74c69d8297871f84d7b9", null ],
+    [ "_raid", "de/d5d/a09745.html#a6a9cffd02435913a5d7ee53cd1e8cc0b", null ],
+    [ "_range", "de/d5d/a09745.html#a01b4592ac61d58ff39e5bb2eb1a1b997", null ],
+    [ "_refUnit", "de/d5d/a09745.html#ad083243ef5487aa374b19e3c82b0457c", null ],
+    [ "_source", "de/d5d/a09745.html#a91de967d2376ea96b1fc0838094915cf", null ]
 ];

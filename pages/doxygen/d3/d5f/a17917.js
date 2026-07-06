@@ -1,6 +1,6 @@
 var a17917 =
 [
-    [ "CheckProc", "d3/d5f/a17917.html#a86e62fa26606a77284c80583e7b35d27", null ],
-    [ "PrepareAuraScript", "d3/d5f/a17917.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
-    [ "Register", "d3/d5f/a17917.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
+    [ "npc_gunshipAI", "da/da4/a17921.html", "da/da4/a17921" ],
+    [ "npc_gunship", "d3/d5f/a17917.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "d3/d5f/a17917.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

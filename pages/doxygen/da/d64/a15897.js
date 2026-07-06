@@ -1,5 +1,6 @@
 var a15897 =
 [
-    [ "npc_steward_of_time", "da/d64/a15897.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnQuestAccept", "da/d64/a15897.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_tiger_matriarch_creditAI", "da/d64/a15897.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "da/d64/a15897.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "da/d64/a15897.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

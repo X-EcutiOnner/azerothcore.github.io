@@ -1,7 +1,10 @@
 var a24781 =
 [
-    [ "HandleEffectApply", "df/dc3/a24781.html#a65ad32ded4246c3469f15b6ab167830e", null ],
-    [ "HandleEffectRemove", "df/dc3/a24781.html#a8aab4a5dab173bd0296843a0c2991142", null ],
-    [ "PrepareAuraScript", "df/dc3/a24781.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
-    [ "Register", "df/dc3/a24781.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
+    [ "FilterTargets", "df/dc3/a24781.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "df/dc3/a24781.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "df/dc3/a24781.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "df/dc3/a24781.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "df/dc3/a24781.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "df/dc3/a24781.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "df/dc3/a24781.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

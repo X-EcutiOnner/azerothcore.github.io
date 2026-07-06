@@ -1,6 +1,5 @@
 var a27797 =
 [
-    [ "go_pirate_day_musicAI", "d2/dc4/a27801.html", "d2/dc4/a27801" ],
-    [ "go_pirate_day_music", "de/db3/a27797.html#aa8d19102357639bd160eae9e90a87505", null ],
-    [ "GetAI", "de/db3/a27797.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
+    [ "achievement_everything_counts", "de/db3/a27797.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "de/db3/a27797.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

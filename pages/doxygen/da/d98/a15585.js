@@ -1,13 +1,9 @@
 var a15585 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "da/d98/a15585.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "da/d98/a15585.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "da/d98/a15585.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "da/d98/a15585.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "da/d98/a15585.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "da/d98/a15585.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "da/d98/a15585.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "da/d98/a15585.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "da/d98/a15585.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "da/d98/a15585.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "npc_eye_tentacle", "da/d98/a15585.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "da/d98/a15585.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "da/d98/a15585.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "da/d98/a15585.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "da/d98/a15585.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "da/d98/a15585.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

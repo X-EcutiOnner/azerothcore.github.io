@@ -1,6 +1,8 @@
 var a25013 =
 [
-    [ "CheckRequirement", "d7/d10/a25013.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d7/d10/a25013.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d7/d10/a25013.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "HandleScript", "d7/d10/a25013.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "d7/d10/a25013.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "d7/d10/a25013.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "d7/d10/a25013.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "d7/d10/a25013.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

@@ -1,7 +1,7 @@
 var a14729 =
 [
-    [ "HandleScript", "de/d9f/a14729.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "de/d9f/a14729.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "de/d9f/a14729.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "de/d9f/a14729.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "FilterTargets", "de/d9f/a14729.html#af3954bbcbce6de5d4ddadd2af0ecac91", null ],
+    [ "HandleDummy", "de/d9f/a14729.html#ad3688071ca786bbb4c27d5632d1a1e56", null ],
+    [ "PrepareSpellScript", "de/d9f/a14729.html#a6ac4db072beae6ae7a700774667da613", null ],
+    [ "Register", "de/d9f/a14729.html#ae981ec2b7e097ad0fe924df7738da5b7", null ]
 ];

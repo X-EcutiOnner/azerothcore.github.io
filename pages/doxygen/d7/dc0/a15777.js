@@ -1,6 +1,6 @@
 var a15777 =
 [
-    [ "npc_silva_filnaveth", "d7/dc0/a15777.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "d7/dc0/a15777.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "d7/dc0/a15777.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_draenei_survivorAI", "d5/d27/a15781.html", "d5/d27/a15781" ],
+    [ "npc_draenei_survivor", "d7/dc0/a15777.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "d7/dc0/a15777.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

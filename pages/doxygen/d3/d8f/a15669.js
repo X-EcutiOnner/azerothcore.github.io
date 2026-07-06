@@ -1,7 +1,8 @@
 var a15669 =
 [
-    [ "npc_kerlonianAI", "d7/d4c/a15673.html", "d7/d4c/a15673" ],
-    [ "npc_kerlonian", "d3/d8f/a15669.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d3/d8f/a15669.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d3/d8f/a15669.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "boss_veklor", "d3/d8f/a15669.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "d3/d8f/a15669.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "d3/d8f/a15669.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "d3/d8f/a15669.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "d3/d8f/a15669.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

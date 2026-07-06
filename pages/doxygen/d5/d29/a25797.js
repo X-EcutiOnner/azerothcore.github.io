@@ -1,6 +1,6 @@
 var a25797 =
 [
-    [ "PrepareSpellScript", "d5/d29/a25797.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d5/d29/a25797.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d5/d29/a25797.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "HandleScript", "d5/d29/a25797.html#ab923050ce4613538ee4837daba09dd33", null ],
+    [ "PrepareSpellScript", "d5/d29/a25797.html#a9fa37b95f9c3788764922f4414c383f5", null ],
+    [ "Register", "d5/d29/a25797.html#a4bacedda40b04934e7473f7a92f6a314", null ]
 ];

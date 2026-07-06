@@ -1,8 +1,5 @@
 var a09001 =
 [
-    [ "CleanDamage", "d4/d1e/a09001.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d4/d1e/a09001.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d4/d1e/a09001.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d4/d1e/a09001.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d4/d1e/a09001.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "bgQueueTypeId", "d4/d1e/a09001.html#a171a9be34883429a97f6f2e3035b5fca", null ],
+    [ "invitedToInstance", "d4/d1e/a09001.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
 ];

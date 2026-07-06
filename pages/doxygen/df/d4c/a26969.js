@@ -1,6 +1,9 @@
 var a26969 =
 [
-    [ "FilterTargets", "df/d4c/a26969.html#a34ca370993295225a779ee6537295112", null ],
-    [ "PrepareSpellScript", "df/d4c/a26969.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
-    [ "Register", "df/d4c/a26969.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
+    [ "CheckCast", "df/d4c/a26969.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "df/d4c/a26969.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "df/d4c/a26969.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "df/d4c/a26969.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "df/d4c/a26969.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "df/d4c/a26969.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

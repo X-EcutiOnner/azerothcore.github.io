@@ -1,9 +1,9 @@
 var a24053 =
 [
-    [ "npc_pet_shaman_fire_elemental", "d5/d0d/a24053.html#a3428642963fc9e7588ec92fd838f1af9", null ],
-    [ "InitializeAI", "d5/d0d/a24053.html#aef4865f83ce0c73efe0c47a11ac87594", null ],
-    [ "JustEngagedWith", "d5/d0d/a24053.html#ac274b9edb03ab13a8e95d8c4fe5055db", null ],
-    [ "UpdateAI", "d5/d0d/a24053.html#a2280e5cc5187a91917a1e517e80e960d", null ],
-    [ "_events", "d5/d0d/a24053.html#aa4578cdbe41d28e399247c84c9fe8049", null ],
-    [ "_initAttack", "d5/d0d/a24053.html#a2df79acc05dd8489e9e994e044b45404", null ]
+    [ "npc_enraged_spiritAI", "d5/d0d/a24053.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d5/d0d/a24053.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d5/d0d/a24053.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d5/d0d/a24053.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d5/d0d/a24053.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d5/d0d/a24053.html#afa6825696b0622849f877b392df4b326", null ]
 ];

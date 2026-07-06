@@ -1,13 +1,12 @@
 var a08681 =
 [
-    [ "FlaggedValuesArray32", "d4/dd0/a08681.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "d4/dd0/a08681.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "d4/dd0/a08681.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "d4/dd0/a08681.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "d4/dd0/a08681.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "d4/dd0/a08681.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "d4/dd0/a08681.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "d4/dd0/a08681.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "d4/dd0/a08681.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "d4/dd0/a08681.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "QuaternionData", "d4/dd0/a08681.html#a8a582c133d5fba901470a776c7144432", null ],
+    [ "QuaternionData", "d4/dd0/a08681.html#a7f68a7bf3da861de017168eef5b8c6a0", null ],
+    [ "FromEulerAnglesZYX", "d4/dd0/a08681.html#a4c5f4bc5c0bd4fff3f3ad77e6fd74c09", null ],
+    [ "IsUnit", "d4/dd0/a08681.html#ab0330c115f97ff6368d8e8ab9820191e", null ],
+    [ "ToEulerAnglesZYX", "d4/dd0/a08681.html#a65c564f6ae82c8f1bfb8f7786b5f0b90", null ],
+    [ "w", "d4/dd0/a08681.html#a1f5567b478ebb94161786c85a29ad66a", null ],
+    [ "x", "d4/dd0/a08681.html#aca37b701a67eefbf72922a5e7bf98cb2", null ],
+    [ "y", "d4/dd0/a08681.html#ac222999cbb4681893fe591a5afc3587d", null ],
+    [ "z", "d4/dd0/a08681.html#a7418b0e143cc32169864d77870db5ad7", null ]
 ];

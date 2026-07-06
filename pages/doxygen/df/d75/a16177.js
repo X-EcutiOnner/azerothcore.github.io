@@ -1,6 +1,6 @@
 var a16177 =
 [
-    [ "npc_anub_ar_crusher_champion", "df/d75/a16177.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
-    [ "DoEngagedWith", "df/d75/a16177.html#a2dcef4fe57880ba725dff52455a7a428", null ],
-    [ "DoEvent", "df/d75/a16177.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
+    [ "SayerEntry", "df/d75/a16177.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "df/d75/a16177.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "df/d75/a16177.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

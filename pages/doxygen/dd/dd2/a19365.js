@@ -1,17 +1,7 @@
 var a19365 =
 [
-    [ "boss_thaddius_summonAI", "dd/dd2/a19365.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "dd/dd2/a19365.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "dd/dd2/a19365.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "dd/dd2/a19365.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "dd/dd2/a19365.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "dd/dd2/a19365.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "dd/dd2/a19365.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "dd/dd2/a19365.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "dd/dd2/a19365.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "instance", "dd/dd2/a19365.html#a122582c974aa1e68638ea196ea2f6771", null ],
-    [ "myCoil", "dd/dd2/a19365.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "dd/dd2/a19365.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pullTimer", "dd/dd2/a19365.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "dd/dd2/a19365.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "HandleScriptEffect", "dd/dd2/a19365.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "dd/dd2/a19365.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "dd/dd2/a19365.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "dd/dd2/a19365.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

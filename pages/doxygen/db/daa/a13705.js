@@ -1,6 +1,9 @@
 var a13705 =
 [
-    [ "PrepareSpellScript", "db/daa/a13705.html#a6a9436d744865971e635f23c2b331688", null ],
-    [ "Register", "db/daa/a13705.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
-    [ "SetDest", "db/daa/a13705.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
+    [ "boss_brutallus", "db/daa/a13705.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "db/daa/a13705.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "db/daa/a13705.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "db/daa/a13705.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "db/daa/a13705.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "db/daa/a13705.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

@@ -1,15 +1,20 @@
 var a10297 =
 [
-    [ "HomeMovementGenerator", "d8/d52/a10297.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "d8/d52/a10297.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "d8/d52/a10297.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "d8/d52/a10297.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "d8/d52/a10297.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "d8/d52/a10297.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "d8/d52/a10297.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "d8/d52/a10297.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "d8/d52/a10297.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "d8/d52/a10297.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "d8/d52/a10297.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "d8/d52/a10297.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "ZoneScript", "d8/d52/a10297.html#a3519b281545e348167893060c2aa352c", null ],
+    [ "~ZoneScript", "d8/d52/a10297.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
+    [ "GetCreatureEntry", "d8/d52/a10297.html#a8cabd274bffe18004c3fced46ae325b0", null ],
+    [ "GetData", "d8/d52/a10297.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
+    [ "GetData64", "d8/d52/a10297.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
+    [ "GetGameObjectEntry", "d8/d52/a10297.html#a3101d469bb171957177011fc0a76999b", null ],
+    [ "GetGuidData", "d8/d52/a10297.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
+    [ "OnCreatureCreate", "d8/d52/a10297.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
+    [ "OnCreatureEvade", "d8/d52/a10297.html#a8113c8738b772b740dbc7a2352637669", null ],
+    [ "OnCreatureRemove", "d8/d52/a10297.html#adf80a1b08c7ab4451cd6967138727b56", null ],
+    [ "OnGameObjectCreate", "d8/d52/a10297.html#afa02089edff085ecd4eb7178b94ffe26", null ],
+    [ "OnGameObjectRemove", "d8/d52/a10297.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
+    [ "OnUnitDeath", "d8/d52/a10297.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
+    [ "ProcessEvent", "d8/d52/a10297.html#ab32f7102df50af48e43f544bd107f964", null ],
+    [ "SetData", "d8/d52/a10297.html#a949e67ea24c7e4b70a20806952735576", null ],
+    [ "SetData64", "d8/d52/a10297.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
+    [ "SetGuidData", "d8/d52/a10297.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
 ];

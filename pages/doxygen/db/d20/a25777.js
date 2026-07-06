@@ -1,6 +1,6 @@
 var a25777 =
 [
-    [ "CheckCast", "db/d20/a25777.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "db/d20/a25777.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "db/d20/a25777.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "FilterTargets", "db/d20/a25777.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "db/d20/a25777.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "db/d20/a25777.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

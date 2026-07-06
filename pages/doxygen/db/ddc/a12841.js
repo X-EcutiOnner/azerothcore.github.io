@@ -1,6 +1,6 @@
 var a12841 =
 [
-    [ "boss_sulfuron", "db/ddc/a12841.html#a7ede84fab05e5cb008036be559c3c799", null ],
-    [ "ExecuteEvent", "db/ddc/a12841.html#a5db50a398c704d8276566c1d74111d19", null ],
-    [ "JustEngagedWith", "db/ddc/a12841.html#a320f58043ee525656a7c2fe94a2a4371", null ]
+    [ "boss_flamegor", "db/ddc/a12841.html#a721c23d631d305c102117566f609f10a", null ],
+    [ "JustEngagedWith", "db/ddc/a12841.html#aebbcd35868c64d2a0b1f660720f84575", null ],
+    [ "UpdateAI", "db/ddc/a12841.html#a086f8bd08ba22fff7e399bf9588cbffd", null ]
 ];

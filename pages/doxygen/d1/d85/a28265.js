@@ -1,7 +1,6 @@
 var a28265 =
 [
-    [ "HandleDummy", "d1/d85/a28265.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d1/d85/a28265.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d1/d85/a28265.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d1/d85/a28265.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_taxi", "d1/d85/a28265.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
+    [ "OnGossipHello", "d1/d85/a28265.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
+    [ "OnGossipSelect", "d1/d85/a28265.html#a5a7443abba8cf98a3073195177981edc", null ]
 ];

@@ -1,6 +1,7 @@
 var a19325 =
 [
-    [ "boss_razuviousAI", "d6/df7/a19329.html", "d6/df7/a19329" ],
-    [ "boss_razuvious", "d3/d0a/a19325.html#ac1a2942f4a7957c671b075df7bf20215", null ],
-    [ "GetAI", "d3/d0a/a19325.html#a350a7cf0c3e21e29c3c28155d63dcb87", null ]
+    [ "HandleTriggerSpell", "d3/d0a/a19325.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d3/d0a/a19325.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d3/d0a/a19325.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d3/d0a/a19325.html#a813bad39641956fff697580f271416d2", null ]
 ];

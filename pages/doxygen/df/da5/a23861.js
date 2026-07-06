@@ -1,15 +1,10 @@
 var a23861 =
 [
-    [ "dragonmaw_race_npc", "df/da5/a23861.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
-    [ "FailQuest", "df/da5/a23861.html#a15a1223f9dc5d3979485a753687f169e", null ],
-    [ "FinishRace", "df/da5/a23861.html#a2439f54aca4ff28c23d351245099a4fc", null ],
-    [ "MovementInform", "df/da5/a23861.html#ad0b4ef357605a44a4188c29292303dcf", null ],
-    [ "PathEndReached", "df/da5/a23861.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
-    [ "Reset", "df/da5/a23861.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
-    [ "sQuestAccept", "df/da5/a23861.html#a539fcaf1dc25a34531d032032c19182e", null ],
-    [ "StartRace", "df/da5/a23861.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
-    [ "StartRaceAttacks", "df/da5/a23861.html#a341528843b89a29711f60a1b932da616", null ],
-    [ "TakeOff", "df/da5/a23861.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
-    [ "UpdateAI", "df/da5/a23861.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
-    [ "_playerGUID", "df/da5/a23861.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
+    [ "npc_wounded_blood_elfAI", "df/da5/a23861.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "df/da5/a23861.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "df/da5/a23861.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "df/da5/a23861.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "df/da5/a23861.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "df/da5/a23861.html#a5affcb00e28a582f8926ab2226001cd0", null ],
+    [ "WaypointReached", "df/da5/a23861.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

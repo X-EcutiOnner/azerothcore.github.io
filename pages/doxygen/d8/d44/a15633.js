@@ -1,6 +1,8 @@
 var a15633 =
 [
-    [ "npc_stillpine_capitiveAI", "dc/d64/a15637.html", "dc/d64/a15637" ],
-    [ "npc_stillpine_capitive", "d8/d44/a15633.html#a6c9ce06ffe8cafaea2f428ba610d6964", null ],
-    [ "GetAI", "d8/d44/a15633.html#ad1d81ae43d3c417b8817da61afef4e4b", null ]
+    [ "npc_ouro_spawner", "d8/d44/a15633.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d8/d44/a15633.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d8/d44/a15633.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d8/d44/a15633.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d8/d44/a15633.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

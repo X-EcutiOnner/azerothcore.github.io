@@ -1,9 +1,9 @@
 var a08897 =
 [
-    [ "EntryPointData", "d6/d13/a08897.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d6/d13/a08897.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d6/d13/a08897.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d6/d13/a08897.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d6/d13/a08897.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d6/d13/a08897.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "ActionButton", "d6/d13/a08897.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d6/d13/a08897.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d6/d13/a08897.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d6/d13/a08897.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d6/d13/a08897.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d6/d13/a08897.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

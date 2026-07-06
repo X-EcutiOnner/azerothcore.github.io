@@ -1,7 +1,9 @@
 var a27981 =
 [
-    [ "npc_engineering_tele_trinket", "d7/d44/a27981.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "d7/d44/a27981.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "d7/d44/a27981.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "d7/d44/a27981.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "go_tadpole_cageAI", "d7/d44/a27981.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d7/d44/a27981.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d7/d44/a27981.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d7/d44/a27981.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d7/d44/a27981.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d7/d44/a27981.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

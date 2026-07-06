@@ -1,6 +1,7 @@
 var a21793 =
 [
-    [ "npc_vekjik", "d2/d02/a21793.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d2/d02/a21793.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d2/d02/a21793.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "HandleDummy", "d2/d02/a21793.html#abb5726c8afa66a946eefc8767094ea9b", null ],
+    [ "PrepareSpellScript", "d2/d02/a21793.html#ab5d9f8125c75bbd8fbb2717516d3eddd", null ],
+    [ "Register", "d2/d02/a21793.html#a38efc59fcbb40469521419723a1dceb3", null ],
+    [ "Validate", "d2/d02/a21793.html#a93cf1b5dbc23bb25c4fe8aa24da0fd2e", null ]
 ];

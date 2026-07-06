@@ -1,5 +1,8 @@
 var a22077 =
 [
-    [ "go_scourge_enclosure", "d0/d6c/a22077.html#a3611232cb735f336087d4d3c90f66b8d", null ],
-    [ "OnGossipHello", "d0/d6c/a22077.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
+    [ "npc_time_lost_proto_drakeAI", "d0/d6c/a22077.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "InitializeAI", "d0/d6c/a22077.html#a6b99780951a126a97db88e7307c1d1b9", null ],
+    [ "JustEngagedWith", "d0/d6c/a22077.html#ab95266d60769aa4099ca0f1bf678f237", null ],
+    [ "Reset", "d0/d6c/a22077.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "UpdateAI", "d0/d6c/a22077.html#abb28428b77beada6a378541ba11d090b", null ]
 ];

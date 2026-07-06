@@ -1,6 +1,7 @@
 var a14197 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "dd/d1d/a14197.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "dd/d1d/a14197.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "dd/d1d/a14197.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "dd/d1d/a14197.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "dd/d1d/a14197.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "dd/d1d/a14197.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "dd/d1d/a14197.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

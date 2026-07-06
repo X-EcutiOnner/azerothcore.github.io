@@ -1,9 +1,6 @@
 var a26265 =
 [
-    [ "CountTargets", "d9/df6/a26265.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "d9/df6/a26265.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "d9/df6/a26265.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "d9/df6/a26265.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "d9/df6/a26265.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "d9/df6/a26265.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "CheckProc", "d9/df6/a26265.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "d9/df6/a26265.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "d9/df6/a26265.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

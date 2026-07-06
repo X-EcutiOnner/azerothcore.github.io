@@ -1,5 +1,6 @@
 var a13125 =
 [
-    [ "textid", "df/d9c/a13125.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
-    [ "timer", "df/d9c/a13125.html#ab7851f383e7221c6ff2700ee345d9504", null ]
+    [ "HandleDummy", "df/d9c/a13125.html#a9551867737eea27a9acf2d3d475e9b3c", null ],
+    [ "PrepareSpellScript", "df/d9c/a13125.html#a3e14dd6a6f26a163282846f714e2ffb5", null ],
+    [ "Register", "df/d9c/a13125.html#a7be884a657889e1b18d1499c8a053c18", null ]
 ];

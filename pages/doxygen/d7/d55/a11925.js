@@ -1,12 +1,10 @@
 var a11925 =
 [
-    [ "CreatureTextBuilder", "d7/d55/a11925.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d7/d55/a11925.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d7/d55/a11925.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d7/d55/a11925.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d7/d55/a11925.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d7/d55/a11925.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d7/d55/a11925.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d7/d55/a11925.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d7/d55/a11925.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "Aura", "d7/d55/a11925.html#ab87ff32c7b9d25f238245df1b646c49a", null ],
+    [ "DispelType", "d7/d55/a11925.html#a964f9e427d50b8630ef1221914adad89", null ],
+    [ "Effect", "d7/d55/a11925.html#a61a5bcfce9d99c09aa58fd99afb97e5c", null ],
+    [ "ImmuneAoE", "d7/d55/a11925.html#a2b195291886ba333efd63d0edded1bb4", null ],
+    [ "ImmuneChain", "d7/d55/a11925.html#a81a36e982f45209bfd6d1b0bad843cc1", null ],
+    [ "Mechanic", "d7/d55/a11925.html#a01290d95abdbcf391557c7d72be05ebe", null ],
+    [ "School", "d7/d55/a11925.html#a587a27eae3c94be00522b6b84521ed3c", null ]
 ];

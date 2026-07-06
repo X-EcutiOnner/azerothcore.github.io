@@ -1,6 +1,10 @@
 var a18353 =
 [
-    [ "PeriodicTick", "dd/d0c/a18353.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "dd/d0c/a18353.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "dd/d0c/a18353.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "FilterTargets", "dd/d0c/a18353.html#aefba5226671b6217549bd34059519179", null ],
+    [ "Load", "dd/d0c/a18353.html#af8a2b651782783dc29ac7266ed02c028", null ],
+    [ "NotifyTargets", "dd/d0c/a18353.html#a618e98fbd5c6ae21047cc4f911099730", null ],
+    [ "PrepareSpellScript", "dd/d0c/a18353.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
+    [ "Register", "dd/d0c/a18353.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
+    [ "ReplaceTargets", "dd/d0c/a18353.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
+    [ "_target", "dd/d0c/a18353.html#a10c85fd3909e56f457d73add8021c0b7", null ]
 ];

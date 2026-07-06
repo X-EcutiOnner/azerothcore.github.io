@@ -1,14 +1,21 @@
 var a01472 =
 [
-    [ "npc_artorius", "da/dfb/a28167.html", "da/dfb/a28167" ],
-    [ "npc_artorius::npc_artoriusAI", "d6/d4c/a28171.html", "d6/d4c/a28171" ],
-    [ "npc_precious", "d2/d5e/a28175.html", "d2/d5e/a28175" ],
-    [ "npc_precious::npc_preciousAI", "d4/d82/a28179.html", "d4/d82/a28179" ],
-    [ "npc_simone", "d5/d7a/a28183.html", "d5/d7a/a28183" ],
-    [ "npc_simone::npc_simoneAI", "d9/d76/a28187.html", "d9/d76/a28187" ],
-    [ "npc_nelson", "d2/d11/a28191.html", "d2/d11/a28191" ],
-    [ "npc_nelson::npc_nelsonAI", "df/dc8/a28195.html", "df/dc8/a28195" ],
-    [ "npc_franklin", "d9/d7f/a28199.html", "d9/d7f/a28199" ],
-    [ "npc_franklin::npc_franklinAI", "df/d8a/a28203.html", "df/d8a/a28203" ],
-    [ "AddSC_npc_stave_of_ancients", "d2/d48/a01472.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
+    [ "AccountActionIpLogger", "dd/dab/a27829.html", "dd/dab/a27829" ],
+    [ "CharacterActionIpLogger", "db/d54/a27833.html", "db/d54/a27833" ],
+    [ "CharacterDeleteActionIpLogger", "d9/d1c/a27837.html", "d9/d1c/a27837" ],
+    [ "IPLoggingTypes", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137b", [
+      [ "ACCOUNT_LOGIN", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba8f9e397f01ecf6030118a21051f37eb8", null ],
+      [ "ACCOUNT_FAIL_LOGIN", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137baf5dfdd830d71ca55c98a2a6bbc49895f", null ],
+      [ "ACCOUNT_CHANGE_PW", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba38e1a216027e5110edeced016ff5c059", null ],
+      [ "ACCOUNT_CHANGE_PW_FAIL", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137baa0990c000cd17b2abe8225b66cac6b53", null ],
+      [ "ACCOUNT_CHANGE_EMAIL", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137baf435090459154eb1ba7b8c994842b06c", null ],
+      [ "ACCOUNT_CHANGE_EMAIL_FAIL", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba4bd2be99e9a5252be0bbf26a71541e30", null ],
+      [ "CHARACTER_CREATE", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba64dc5a829a5cecf5f19b805d05a32b85", null ],
+      [ "CHARACTER_LOGIN", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba69b7162ca378f801be6e30e2e4b86363", null ],
+      [ "CHARACTER_LOGOUT", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba742b5af30e35f2927eaa20bdf504b607", null ],
+      [ "CHARACTER_DELETE", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137ba04c86cce0401c766b99edbef52a91162", null ],
+      [ "CHARACTER_FAILED_DELETE", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137baf8aedeaf82227741e50fdf6be12a35e7", null ],
+      [ "UNKNOWN_ACTION", "d2/d48/a01472.html#a3b67d8dbf539fa5519b3e33da9d0137bae16d79bf07a3994731f4ac1a6ece5ec8", null ]
+    ] ],
+    [ "AddSC_action_ip_logger", "d2/d48/a01472.html#a530be5efb251d5ca58e97804e48ad953", null ]
 ];

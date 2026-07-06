@@ -1,8 +1,8 @@
 var a12701 =
 [
-    [ "FilterTargets", "d2/d37/a12701.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "d2/d37/a12701.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "d2/d37/a12701.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "d2/d37/a12701.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "d2/d37/a12701.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_halycon", "d2/d37/a12701.html#a8a88f0d26b4702fd1b4f015cc1366362", null ],
+    [ "JustDied", "d2/d37/a12701.html#a48bd1245ac5b76dac543a4389a8b37be", null ],
+    [ "JustEngagedWith", "d2/d37/a12701.html#a3f6ca689777e1aa43a214e8082897db1", null ],
+    [ "Reset", "d2/d37/a12701.html#a3b972bfcac3498c921978eab1d8fec4f", null ],
+    [ "UpdateAI", "d2/d37/a12701.html#acc375743131ce5643d04ae355b6d68b4", null ]
 ];

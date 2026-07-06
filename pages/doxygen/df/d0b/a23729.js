@@ -1,11 +1,7 @@
 var a23729 =
 [
-    [ "npc_maxx_a_million_escortAI", "df/d0b/a23729.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "df/d0b/a23729.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "df/d0b/a23729.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "df/d0b/a23729.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "df/d0b/a23729.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "WaypointReached", "df/d0b/a23729.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "bTake", "df/d0b/a23729.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "df/d0b/a23729.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "boss_gatewatcher_iron_hand", "df/d0b/a23729.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "df/d0b/a23729.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "df/d0b/a23729.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "df/d0b/a23729.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

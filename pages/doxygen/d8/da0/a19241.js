@@ -1,7 +1,5 @@
 var a19241 =
 [
-    [ "HandleRemove", "d8/da0/a19241.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d8/da0/a19241.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d8/da0/a19241.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d8/da0/a19241.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "at_icc_putricide_trap", "d8/da0/a19241.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "d8/da0/a19241.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

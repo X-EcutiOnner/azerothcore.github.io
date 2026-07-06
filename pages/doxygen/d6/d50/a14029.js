@@ -1,7 +1,12 @@
 var a14029 =
 [
-    [ "HandleScript", "d6/d50/a14029.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d6/d50/a14029.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d6/d50/a14029.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d6/d50/a14029.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_cameron", "d6/d50/a14029.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "d6/d50/a14029.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "d6/d50/a14029.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "d6/d50/a14029.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "d6/d50/a14029.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "d6/d50/a14029.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "d6/d50/a14029.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "d6/d50/a14029.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "d6/d50/a14029.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

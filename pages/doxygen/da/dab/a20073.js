@@ -1,13 +1,8 @@
 var a20073 =
 [
-    [ "boss_freya_summons", "da/dab/a20073.html#a1d53e3d32307347532f96ca2b27734cb", null ],
-    [ "DoAction", "da/dab/a20073.html#aa8e03a2aced95f104e6714a469bf2de3", null ],
-    [ "JustDied", "da/dab/a20073.html#a15d9b71a31a840917b449c0094049e00", null ],
-    [ "JustEngagedWith", "da/dab/a20073.html#a0bf2a4bc2e6f62cdec5c15d04fff2f11", null ],
-    [ "Reset", "da/dab/a20073.html#af7e842a7bc2be806816a942026670d71", null ],
-    [ "UpdateAI", "da/dab/a20073.html#abc3634dce208478e82d3c9bb19d222df", null ],
-    [ "_hasDied", "da/dab/a20073.html#a145f46cfda95e50fa30c98581a30de9e", null ],
-    [ "_isTrio", "da/dab/a20073.html#a642a937b7d4082b5f9f0fbe4df352aba", null ],
-    [ "_stackCount", "da/dab/a20073.html#af1c54be4cab9c465ae9bf04427050d7a", null ],
-    [ "events", "da/dab/a20073.html#a3fc5f9be80cc03bed2a83cdacfc5d7ec", null ]
+    [ "OnPeriodic", "da/dab/a20073.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
+    [ "OnRemove", "da/dab/a20073.html#ac6d961793ddb6423540da9d97e016b82", null ],
+    [ "PrepareAuraScript", "da/dab/a20073.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
+    [ "Register", "da/dab/a20073.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
+    [ "Validate", "da/dab/a20073.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
 ];

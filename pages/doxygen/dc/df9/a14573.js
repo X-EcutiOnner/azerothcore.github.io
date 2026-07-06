@@ -1,11 +1,6 @@
 var a14573 =
 [
-    [ "npc_snowfall_glade_playmate", "dc/df9/a14573.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "dc/df9/a14573.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "dc/df9/a14573.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "dc/df9/a14573.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "dc/df9/a14573.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "dc/df9/a14573.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "dc/df9/a14573.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "dc/df9/a14573.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "HandleOnHit", "dc/df9/a14573.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "dc/df9/a14573.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "dc/df9/a14573.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

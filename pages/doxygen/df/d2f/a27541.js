@@ -1,5 +1,8 @@
 var a27541 =
 [
-    [ "achievement_save_the_day", "df/d2f/a27541.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "df/d2f/a27541.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "Load", "df/d2f/a27541.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "df/d2f/a27541.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "df/d2f/a27541.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "df/d2f/a27541.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "df/d2f/a27541.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

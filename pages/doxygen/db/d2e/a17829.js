@@ -1,9 +1,6 @@
 var a17829 =
 [
-    [ "CheckAreaTarget", "db/d2e/a17829.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "db/d2e/a17829.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "db/d2e/a17829.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "db/d2e/a17829.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "db/d2e/a17829.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "db/d2e/a17829.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "ModAuraValue", "db/d2e/a17829.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "db/d2e/a17829.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "db/d2e/a17829.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

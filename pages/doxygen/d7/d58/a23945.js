@@ -1,5 +1,11 @@
 var a23945 =
 [
-    [ "npc_pet_dk_risen_ally", "d7/d58/a23945.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d7/d58/a23945.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_maxx_a_million_escortAI", "d7/d58/a23945.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d7/d58/a23945.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d7/d58/a23945.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d7/d58/a23945.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d7/d58/a23945.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "WaypointReached", "d7/d58/a23945.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "bTake", "d7/d58/a23945.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d7/d58/a23945.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

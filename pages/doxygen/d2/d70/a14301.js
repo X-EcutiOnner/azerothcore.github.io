@@ -1,9 +1,20 @@
 var a14301 =
 [
-    [ "boss_hazzarah", "d2/d70/a14301.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d2/d70/a14301.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d2/d70/a14301.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d2/d70/a14301.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d2/d70/a14301.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d2/d70/a14301.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "boss_janalai", "d2/d70/a14301.html#a6a049cb60b475b6c496862205d91c39f", null ],
+    [ "Boom", "d2/d70/a14301.html#a902814fa472af7dde6096e6e1901bfd4", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d70/a14301.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
+    [ "DamageDealt", "d2/d70/a14301.html#af29b99a31b38516815390087d76c9408", null ],
+    [ "FireWall", "d2/d70/a14301.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
+    [ "HatchAllEggs", "d2/d70/a14301.html#a7caee2554fe4f6211589e3346d1865fd", null ],
+    [ "JustDied", "d2/d70/a14301.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
+    [ "JustEngagedWith", "d2/d70/a14301.html#af16f7db848ff2ddcf060ba770d0df836", null ],
+    [ "JustSummoned", "d2/d70/a14301.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
+    [ "Reset", "d2/d70/a14301.html#a8f42138403eb2ef6d1737539dd352e80", null ],
+    [ "SetData", "d2/d70/a14301.html#a48636a0186d7a09e4e98d960bab5530e", null ],
+    [ "SpawnBombs", "d2/d70/a14301.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
+    [ "StartBombing", "d2/d70/a14301.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
+    [ "ThrowBombs", "d2/d70/a14301.html#a9a927462879c6c81b2c919c62336a08c", null ],
+    [ "_isBombing", "d2/d70/a14301.html#a881f564fe75051c1c10e645d3f0b243b", null ],
+    [ "_isFlameBreathing", "d2/d70/a14301.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
+    [ "_sideHatched", "d2/d70/a14301.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
 ];

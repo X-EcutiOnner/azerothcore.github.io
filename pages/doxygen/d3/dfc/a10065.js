@@ -1,8 +1,22 @@
 var a10065 =
 [
-    [ "CircleBoundary", "d3/dfc/a10065.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
-    [ "CircleBoundary", "d3/dfc/a10065.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
-    [ "IsWithinBoundaryArea", "d3/dfc/a10065.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
-    [ "_center", "d3/dfc/a10065.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
-    [ "_radiusSq", "d3/dfc/a10065.html#acbb3cc0c546f0e557a48a45425355950", null ]
+    [ "LootGroup", "d3/dfc/a10065.html#a66528563891f68cc71cf2e82c0c55f78", null ],
+    [ "~LootGroup", "d3/dfc/a10065.html#a8e99105a3db65b4f8afcf032ce3bb33f", null ],
+    [ "LootGroup", "d3/dfc/a10065.html#a0bf71d71cb78e1e8864feac535adf100", null ],
+    [ "AddEntry", "d3/dfc/a10065.html#a6724f160613257f2d48c0e675a372c48", null ],
+    [ "CheckLootRefs", "d3/dfc/a10065.html#ac7690d157243edebe340baf2e274546f", null ],
+    [ "CollectLootIds", "d3/dfc/a10065.html#a41a24435f67bcf4fa8bf8447b5d4d9ba", null ],
+    [ "CopyConditions", "d3/dfc/a10065.html#a55a98102081eca760af46fe2158ad6e4", null ],
+    [ "GetEqualChancedItemList", "d3/dfc/a10065.html#a273b39ba11c62186f6b49f9eadf512c6", null ],
+    [ "GetExplicitlyChancedItemList", "d3/dfc/a10065.html#a5654d18106376d9fb168dfd8e27f1355", null ],
+    [ "HasQuestDrop", "d3/dfc/a10065.html#adee692736847d987093655aac3f23be8", null ],
+    [ "HasQuestDropForPlayer", "d3/dfc/a10065.html#a0cc5c4a880c400b432d2ac0c482430ed", null ],
+    [ "operator=", "d3/dfc/a10065.html#a7ca1a5e58a5e78430209e1207b732265", null ],
+    [ "Process", "d3/dfc/a10065.html#a0f9d7b304045ed812b6203376dc442db", null ],
+    [ "RawTotalChance", "d3/dfc/a10065.html#a5a4dfbbfaf6c6f87217c124f387d7951", null ],
+    [ "Roll", "d3/dfc/a10065.html#a77483c54ae8cb9747726bfa0e7d7225f", null ],
+    [ "TotalChance", "d3/dfc/a10065.html#ab306f81dc00d214e0ec8ac3903eff42e", null ],
+    [ "Verify", "d3/dfc/a10065.html#a5486b1c43c6af31681d5c442957d5cf1", null ],
+    [ "EqualChanced", "d3/dfc/a10065.html#a517a0800528f49cdb3202ff5bcf5280d", null ],
+    [ "ExplicitlyChanced", "d3/dfc/a10065.html#a18c4cf84cf4c6f02a66ba45fa2978f49", null ]
 ];

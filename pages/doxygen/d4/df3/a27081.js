@@ -1,6 +1,6 @@
 var a27081 =
 [
-    [ "CheckProc", "d4/df3/a27081.html#a3b98aef2d745773a55ac10daded629e7", null ],
-    [ "PrepareAuraScript", "d4/df3/a27081.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
-    [ "Register", "d4/df3/a27081.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
+    [ "HandlePeriodic", "d4/df3/a27081.html#a6fdf93580d860712943bbff07e273fef", null ],
+    [ "PrepareAuraScript", "d4/df3/a27081.html#ac64daca8467814398251ec8e590f8281", null ],
+    [ "Register", "d4/df3/a27081.html#ad0e68442f3d12cb58781e5e2d39b49ec", null ]
 ];

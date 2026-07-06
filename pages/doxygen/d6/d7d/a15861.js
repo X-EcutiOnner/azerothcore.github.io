@@ -1,7 +1,9 @@
 var a15861 =
 [
-    [ "DelayedWindstoneSummonEvent", "d6/d7d/a15861.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d6/d7d/a15861.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d6/d7d/a15861.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d6/d7d/a15861.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_prospector_remtravelAI", "d6/d7d/a15861.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d6/d7d/a15861.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d6/d7d/a15861.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d6/d7d/a15861.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d6/d7d/a15861.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ],
+    [ "WaypointReached", "d6/d7d/a15861.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

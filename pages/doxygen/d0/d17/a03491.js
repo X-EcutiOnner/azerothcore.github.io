@@ -1,13 +1,14 @@
 var a03491 =
 [
-    [ "ServerScript", "d9/d35/a10771.html", "d9/d35/a10771" ],
-    [ "ServerHook", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9", [
-      [ "SERVERHOOK_ON_NETWORK_START", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
-      [ "SERVERHOOK_ON_NETWORK_STOP", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
-      [ "SERVERHOOK_ON_SOCKET_OPEN", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
-      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
-      [ "SERVERHOOK_CAN_PACKET_SEND", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
-      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
-      [ "SERVERHOOK_END", "d0/d17/a03491.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
+    [ "BattlefieldScript", "d6/d9c/a10677.html", "d6/d9c/a10677" ],
+    [ "BattlefieldHook", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089", [
+      [ "BATTLEFIELDHOOK_ON_PLAYER_ENTER_ZONE", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089a67b6bd7873a35e7e27c70dacc5e52235", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_ZONE", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089a428ace8bd338bf9389559c879d992007", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_JOIN_WAR", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089ad85ff3705408ad23b8a46f679a8b57e6", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_LEAVE_WAR", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089a9d5720677a42bd0c901e44a36ce0c2ab", null ],
+      [ "BATTLEFIELDHOOK_BEFORE_INVITE_PLAYER_TO_WAR", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089abda5140b086781d45ec30c8286fe7710", null ],
+      [ "BATTLEFIELDHOOK_ON_WAR_END", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089ae6cb0ec1b6b57a92da57020d23d8985f", null ],
+      [ "BATTLEFIELDHOOK_ON_PLAYER_KILL", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089ac25d3b497f3028ed587b69de4611687e", null ],
+      [ "BATTLEFIELDHOOK_END", "d0/d17/a03491.html#ad9fb0d66e6cd28e54d79830f1d725089a9cf810f91cd96143031bfde1f463ebac", null ]
     ] ]
 ];

@@ -1,5 +1,6 @@
 var a13577 =
 [
-    [ "at_sunwell_eredar_twins", "d9/d68/a13577.html#afc183c384bc87321186b20e0ac168c1f", null ],
-    [ "_OnTrigger", "d9/d68/a13577.html#aa862756c9905e2cb10d60c70b47919aa", null ]
+    [ "instance_scholomance_InstanceMapScript", "da/d09/a13581.html", "da/d09/a13581" ],
+    [ "instance_scholomance", "d9/d68/a13577.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d9/d68/a13577.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

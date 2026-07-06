@@ -1,7 +1,7 @@
 var a11249 =
 [
-    [ "MinimapPingClient", "d6/df7/a11249.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "d6/df7/a11249.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "d6/df7/a11249.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "d6/df7/a11249.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "AutoEquipItem", "d6/df7/a11249.html#a60accc2bf5c484753f94a8fe947e8f36", null ],
+    [ "Read", "d6/df7/a11249.html#a187bcedbc110adc332c0cb1de2bd7d9c", null ],
+    [ "SourceBag", "d6/df7/a11249.html#ad8fe37595168bc57fcd4af46bdbfafdc", null ],
+    [ "SourceSlot", "d6/df7/a11249.html#aee1f081b0775d7fc9eb67764a9249ec5", null ]
 ];

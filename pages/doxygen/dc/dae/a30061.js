@@ -1,8 +1,7 @@
 var a30061 =
 [
-    [ "NoRuneCost", "dc/dae/a30061.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
-    [ "NoRunicPowerGain", "dc/dae/a30061.html#a97da075ecd116ef27fd4265bb8380667", null ],
-    [ "ID", "dc/dae/a30061.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
-    [ "RuneCost", "dc/dae/a30061.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
-    [ "runePowerGain", "dc/dae/a30061.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
+    [ "W", "dc/dae/a30061.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "dc/dae/a30061.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "dc/dae/a30061.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "dc/dae/a30061.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

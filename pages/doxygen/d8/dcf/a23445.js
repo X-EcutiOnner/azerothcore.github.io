@@ -1,5 +1,6 @@
 var a23445 =
 [
-    [ "npc_thaladred", "d8/dcf/a23445.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d8/dcf/a23445.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "df/db8/a23449.html", "df/db8/a23449" ],
+    [ "instance_magtheridons_lair", "d8/dcf/a23445.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
+    [ "GetInstanceScript", "d8/dcf/a23445.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
 ];

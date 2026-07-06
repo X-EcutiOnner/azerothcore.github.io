@@ -1,5 +1,6 @@
 var a17413 =
 [
-    [ "achievement_less_rabi", "dc/d10/a17413.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "dc/d10/a17413.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "npc_pos_leaderAI", "da/dc5/a17417.html", "da/dc5/a17417" ],
+    [ "npc_pos_leader", "dc/d10/a17413.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
+    [ "GetAI", "dc/d10/a17413.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
 ];

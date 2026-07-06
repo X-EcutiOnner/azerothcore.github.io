@@ -1,7 +1,5 @@
 var a21865 =
 [
-    [ "HandleDummy", "de/dbf/a21865.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "de/dbf/a21865.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "de/dbf/a21865.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "de/dbf/a21865.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_black_knight_graveyardAI", "de/dbf/a21865.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "de/dbf/a21865.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

@@ -1,6 +1,6 @@
 var a23633 =
 [
-    [ "npc_ancestral_wolfAI", "d6/d2a/a23637.html", "d6/d2a/a23637" ],
-    [ "npc_ancestral_wolf", "d0/d8c/a23633.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d0/d8c/a23633.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "AfterRemove", "d0/d8c/a23633.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d0/d8c/a23633.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d0/d8c/a23633.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

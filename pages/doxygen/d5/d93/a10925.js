@@ -1,6 +1,5 @@
 var a10925 =
 [
-    [ "GuildUpdateMotdText", "d5/d93/a10925.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d5/d93/a10925.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d5/d93/a10925.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "LogoutRequest", "d5/d93/a10925.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
+    [ "Read", "d5/d93/a10925.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
 ];

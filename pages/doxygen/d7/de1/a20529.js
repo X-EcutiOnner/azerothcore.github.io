@@ -1,7 +1,9 @@
 var a20529 =
 [
-    [ "npc_xt002_life_spark", "d7/de1/a20529.html#ac524bfb0dd21bb59d4c602db04f14f64", null ],
-    [ "Reset", "d7/de1/a20529.html#aa1bd9ed78b8586b46d297f186c9c430c", null ],
-    [ "UpdateAI", "d7/de1/a20529.html#ab6f284dd4d5dad3d38bae062abe544fa", null ],
-    [ "_attackTimer", "d7/de1/a20529.html#aa8b46e7a044c90fe9e342e9bffe7e4dc", null ]
+    [ "npc_ulduar_bot_summon_trigger", "d7/de1/a20529.html#a16d36c154b6851c0081cc05f838b0fed", null ],
+    [ "DoAction", "d7/de1/a20529.html#a776782a85892d2d674773573be25bfa0", null ],
+    [ "Reset", "d7/de1/a20529.html#a4ec8487028b188347cf0c9a080076fe6", null ],
+    [ "UpdateAI", "d7/de1/a20529.html#a788d3eaba382e3af897678f6709a0242", null ],
+    [ "_option", "d7/de1/a20529.html#a39c909b67fcdc81542470b6e96256fd5", null ],
+    [ "_timer", "d7/de1/a20529.html#a2530742a19275efe92eeded4dce67567", null ]
 ];

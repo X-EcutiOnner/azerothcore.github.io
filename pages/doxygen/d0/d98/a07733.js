@@ -1,11 +1,10 @@
 var a07733 =
 [
-    [ "BattlegroundSAScore", "d0/d98/a07733.html#afb1312e304eee973740cfe208657c5b9", null ],
-    [ "BuildObjectivesBlock", "d0/d98/a07733.html#a57bf8241b404571cda5a8e113c334eab", null ],
-    [ "GetAttr1", "d0/d98/a07733.html#aa31cd91ede928c57cd201dba61f7f585", null ],
-    [ "GetAttr2", "d0/d98/a07733.html#aba47bb1ec440f405bfde8513c60ae576", null ],
-    [ "UpdateScore", "d0/d98/a07733.html#a169a2a0a51edb6564e98c4b55f3e8a3b", null ],
-    [ "BattlegroundSA", "d0/d98/a07733.html#ab31c13442be48941f5dab4214b95cde9", null ],
-    [ "DemolishersDestroyed", "d0/d98/a07733.html#ac49c28efa42cfad7232268de4be45e66", null ],
-    [ "GatesDestroyed", "d0/d98/a07733.html#aeb1310b64150dd51f91722574a9dd3fc", null ]
+    [ "OwnerId", "d0/d98/a07733.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d0/d98/a07733.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d0/d98/a07733.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d0/d98/a07733.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d0/d98/a07733.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d0/d98/a07733.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d0/d98/a07733.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

@@ -1,5 +1,6 @@
 var a18925 =
 [
-    [ "at_icc_saurfang_portal", "d4/d34/a18925.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d4/d34/a18925.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "PeriodicTick", "d4/d34/a18925.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d4/d34/a18925.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d4/d34/a18925.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

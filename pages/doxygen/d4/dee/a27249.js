@@ -1,10 +1,9 @@
 var a27249 =
 [
-    [ "CalculateAPAmount", "d4/dee/a27249.html#ae76d10c68df1f149f83d4247122b47a7", null ],
-    [ "CalculateResistanceAmount", "d4/dee/a27249.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
-    [ "CalculateSPAmount", "d4/dee/a27249.html#a421996ca946d5b04c264718e6dd63fa9", null ],
-    [ "CalculateStatAmount", "d4/dee/a27249.html#ae695515c915f2452dccb71aeb018f3a3", null ],
-    [ "HandleEffectApply", "d4/dee/a27249.html#a207864c73e485e0db0fe47bde97d87a2", null ],
-    [ "PrepareAuraScript", "d4/dee/a27249.html#a4179be48195872410bda69cac3454812", null ],
-    [ "Register", "d4/dee/a27249.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
+    [ "HandleHeal", "d4/dee/a27249.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "d4/dee/a27249.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "d4/dee/a27249.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "d4/dee/a27249.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "d4/dee/a27249.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "d4/dee/a27249.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

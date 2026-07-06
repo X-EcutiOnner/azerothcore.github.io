@@ -1,15 +1,7 @@
 var a23233 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d5/dd1/a23233.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d5/dd1/a23233.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d5/dd1/a23233.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d5/dd1/a23233.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d5/dd1/a23233.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d5/dd1/a23233.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d5/dd1/a23233.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d5/dd1/a23233.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d5/dd1/a23233.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d5/dd1/a23233.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d5/dd1/a23233.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d5/dd1/a23233.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "npc_underbog_mushroom", "d5/dd1/a23233.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d5/dd1/a23233.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d5/dd1/a23233.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d5/dd1/a23233.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

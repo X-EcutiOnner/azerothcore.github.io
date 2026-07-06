@@ -1,6 +1,6 @@
 var a16761 =
 [
-    [ "npc_toc_retro_paladinAI", "d9/da8/a16765.html", "d9/da8/a16765" ],
-    [ "npc_toc_retro_paladin", "d4/d3e/a16761.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d4/d3e/a16761.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d9/da8/a16765.html", "d9/da8/a16765" ],
+    [ "instance_trial_of_the_champion", "d4/d3e/a16761.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d4/d3e/a16761.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

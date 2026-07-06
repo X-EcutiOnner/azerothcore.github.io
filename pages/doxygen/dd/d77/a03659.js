@@ -1,6 +1,8 @@
 var a03659 =
 [
-    [ "MapScript< BattlegroundMap >", "dd/d77/a03659.html#a37068ff91511f7df359c3cf9be0e8d72", null ],
-    [ "MapScript< InstanceMap >", "dd/d77/a03659.html#aad36f2a434a53db1767a65fa0a1dffdc", null ],
-    [ "MapScript< Map >", "dd/d77/a03659.html#aacb4fdedfc86aea6c855e3be41e0c6e1", null ]
+    [ "LootScript", "d9/d38/a10761.html", "d9/d38/a10761" ],
+    [ "LootHook", "dd/d77/a03659.html#a39ce94de1e8ce6b7055130ac7f40632b", [
+      [ "LOOTHOOK_ON_LOOT_MONEY", "dd/d77/a03659.html#a39ce94de1e8ce6b7055130ac7f40632ba71990fd8692b46e728ad526346d0f1f1", null ],
+      [ "LOOTHOOK_END", "dd/d77/a03659.html#a39ce94de1e8ce6b7055130ac7f40632bab03a0874b2fda00aeb19e4b5ab077fea", null ]
+    ] ]
 ];

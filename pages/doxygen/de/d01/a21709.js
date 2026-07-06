@@ -1,7 +1,8 @@
 var a21709 =
 [
-    [ "HandleDummy", "de/d01/a21709.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "de/d01/a21709.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "de/d01/a21709.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "de/d01/a21709.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "AfterApply", "de/d01/a21709.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "de/d01/a21709.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "de/d01/a21709.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "de/d01/a21709.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "de/d01/a21709.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

@@ -1,15 +1,8 @@
 var a10157 =
 [
-    [ "const_iterator", "de/d6a/a10157.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "de/d6a/a10157.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "de/d6a/a10157.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "de/d6a/a10157.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "de/d6a/a10157.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "de/d6a/a10157.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "de/d6a/a10157.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "de/d6a/a10157.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "de/d6a/a10157.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "de/d6a/a10157.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "de/d6a/a10157.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "de/d6a/a10157.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "EllipseBoundary", "de/d6a/a10157.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "de/d6a/a10157.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "de/d6a/a10157.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "de/d6a/a10157.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "de/d6a/a10157.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

@@ -1,6 +1,4 @@
 var a04769 =
 [
-    [ "GetRandomBytes", "da/d86/a04769.html#ab09d7cc2f8e11fc5fe6b2323d57b7184", null ],
-    [ "GetRandomBytes", "da/d86/a04769.html#a797cfc74306f60b5c63eecb37a2061d3", null ],
-    [ "GetRandomBytes", "da/d86/a04769.html#a2ff283a7b883696205a91f122b194f6f", null ]
+    [ "SessionKeyGenerator< Hash >", "d2/d18/a05501.html", "d2/d18/a05501" ]
 ];

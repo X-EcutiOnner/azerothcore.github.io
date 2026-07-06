@@ -1,6 +1,8 @@
 var a24085 =
 [
-    [ "HandleAfterCast", "d9/dcc/a24085.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d9/dcc/a24085.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d9/dcc/a24085.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "npc_kservantAI", "d9/dcc/a24085.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d9/dcc/a24085.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d9/dcc/a24085.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d9/dcc/a24085.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ],
+    [ "WaypointReached", "d9/dcc/a24085.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

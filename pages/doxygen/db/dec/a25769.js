@@ -1,6 +1,6 @@
 var a25769 =
 [
-    [ "CalculateDamage", "db/dec/a25769.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "db/dec/a25769.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "db/dec/a25769.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "PartyTimeEmoteEvent", "db/dec/a25769.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "db/dec/a25769.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "db/dec/a25769.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

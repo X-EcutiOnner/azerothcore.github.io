@@ -1,7 +1,6 @@
 var a24201 =
 [
-    [ "CalculateAmount", "db/d2b/a24201.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "db/d2b/a24201.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "db/d2b/a24201.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "db/d2b/a24201.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "PrepareSpellScript", "db/d2b/a24201.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
+    [ "RecalculateDamage", "db/d2b/a24201.html#af01757d0968da2a096d800782ed7e66e", null ],
+    [ "Register", "db/d2b/a24201.html#a62b6613707a2a9b78d52bffe92de604e", null ]
 ];

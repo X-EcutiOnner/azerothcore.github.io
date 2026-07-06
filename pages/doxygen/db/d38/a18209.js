@@ -1,12 +1,6 @@
 var a18209 =
 [
-    [ "npc_precious_iccAI", "db/d38/a18209.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "db/d38/a18209.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "db/d38/a18209.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "db/d38/a18209.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "db/d38/a18209.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "db/d38/a18209.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "db/d38/a18209.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "db/d38/a18209.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "db/d38/a18209.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "MalleableGooSelector", "db/d38/a18209.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "db/d38/a18209.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "db/d38/a18209.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

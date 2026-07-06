@@ -1,7 +1,6 @@
 var a15121 =
 [
-    [ "npc_tarethaAI", "df/da9/a15125.html", "df/da9/a15125" ],
-    [ "npc_taretha", "d2/d94/a15121.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d2/d94/a15121.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d2/d94/a15121.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "OnRemove", "d2/d94/a15121.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d2/d94/a15121.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d2/d94/a15121.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

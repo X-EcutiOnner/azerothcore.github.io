@@ -1,7 +1,8 @@
 var a28137 =
 [
-    [ "npc_steam_tonkAI", "d7/d00/a28137.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d7/d00/a28137.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d7/d00/a28137.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d7/d00/a28137.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "go_bellsAI", "d7/d00/a28137.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d7/d00/a28137.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d7/d00/a28137.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d7/d00/a28137.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d7/d00/a28137.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

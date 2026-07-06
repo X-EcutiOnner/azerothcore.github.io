@@ -1,7 +1,7 @@
 var a21545 =
 [
-    [ "HandleScriptEffect", "da/df9/a21545.html#a2d39a073c351860db735301b4cf9c79f", null ],
-    [ "PrepareSpellScript", "da/df9/a21545.html#a3674adaef23f1531af360a65c14efadd", null ],
-    [ "Register", "da/df9/a21545.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
-    [ "Validate", "da/df9/a21545.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
+    [ "npc_cosmetic_toy_plane", "da/df9/a21545.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "da/df9/a21545.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "da/df9/a21545.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "da/df9/a21545.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

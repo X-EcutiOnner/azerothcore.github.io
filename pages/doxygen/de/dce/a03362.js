@@ -1,4 +1,7 @@
 var a03362 =
 [
-    [ "ScriptRegistry< AchievementCriteriaScript >", "de/dce/a03362.html#a691565a1335cabfa534300dece8e65e8", null ]
+    [ "CompareThreatLessThan", "d2/daf/a08217.html", "d2/daf/a08217" ],
+    [ "ThreatManager", "df/d51/a08221.html", "df/d51/a08221" ],
+    [ "ThreatManager::ThreatListIterator", "d4/df7/a08225.html", "d4/df7/a08225" ],
+    [ "ThreatReference", "df/def/a08229.html", "df/def/a08229" ]
 ];

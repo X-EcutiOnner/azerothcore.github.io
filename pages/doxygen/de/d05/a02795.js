@@ -1,21 +1,20 @@
 var a02795 =
 [
-    [ "Totem", "dd/d46/a09007.html", "dd/d46/a09007" ],
-    [ "EARTHBIND_TOTEM_ENTRY", "de/d05/a02795.html#a6cae59b1369b7371cefb92be8fc73fa5", null ],
-    [ "SENTRY_TOTEM_ENTRY", "de/d05/a02795.html#a2bd46e1df17fdee45cd35896306092fb", null ],
-    [ "TotemImmunitySpells", "de/d05/a02795.html#a526213bf692d4f8d189a61617f4a59c9", [
-      [ "SPELL_CYCLONE", "de/d05/a02795.html#a526213bf692d4f8d189a61617f4a59c9ab0dea4de61535b7690ae66cfa6440f58", null ],
-      [ "SPELL_STONECLAW", "de/d05/a02795.html#a526213bf692d4f8d189a61617f4a59c9ad0896fc7fa22551f57cc65fd56ee8649", null ],
-      [ "SPELL_BIND_SIGHT", "de/d05/a02795.html#a526213bf692d4f8d189a61617f4a59c9a1f48e779f72284c7b1140c6be1a5a81a", null ],
-      [ "SPELL_INTERVENE", "de/d05/a02795.html#a526213bf692d4f8d189a61617f4a59c9ac663f276cbe6aa86a2ae46813fc14b8c", null ]
-    ] ],
-    [ "TotemSpellIds", "de/d05/a02795.html#a7092ec93c941969cd2cdd2291c6de0be", [
-      [ "SentryTotemSpell", "de/d05/a02795.html#a7092ec93c941969cd2cdd2291c6de0bea2ff316c1216f8b3e5f60a3700214c8c3", null ],
-      [ "FireTotemSpell", "de/d05/a02795.html#a7092ec93c941969cd2cdd2291c6de0bea52ad0e17d0d0699c294f9434023aeea7", null ]
-    ] ],
-    [ "TotemType", "de/d05/a02795.html#a65151889ab4b03cf02268cc7a7ff0ba3", [
-      [ "TOTEM_PASSIVE", "de/d05/a02795.html#a65151889ab4b03cf02268cc7a7ff0ba3a63f155f3367aa262aae567b57c623069", null ],
-      [ "TOTEM_ACTIVE", "de/d05/a02795.html#a65151889ab4b03cf02268cc7a7ff0ba3a3c3ecb49d653993abf86f289019e27b0", null ],
-      [ "TOTEM_STATUE", "de/d05/a02795.html#a65151889ab4b03cf02268cc7a7ff0ba3ab0fbf32f7d371a34f276dfdf6552e300", null ]
+    [ "FormationInfo", "df/d26/a08445.html", "df/d26/a08445" ],
+    [ "FormationMgr", "d7/d5a/a08449.html", "d7/d5a/a08449" ],
+    [ "CreatureGroup", "d4/de3/a08453.html", "d4/de3/a08453" ],
+    [ "sFormationMgr", "de/d05/a02795.html#ae80a51404625cee821a8727ed7369352", null ],
+    [ "CreatureGroupInfoType", "de/d05/a02795.html#a2c3447bf21f430bff136da6811d93a61", null ],
+    [ "GroupAIFlags", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869c", [
+      [ "GROUP_AI_FLAG_MEMBER_ASSIST_LEADER", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869caa14252ac4ad9c188fc5d7ed9ca7656a2", null ],
+      [ "GROUP_AI_FLAG_LEADER_ASSIST_MEMBER", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca28fae9fc8e2ffc5c42c7dd1812694f6e", null ],
+      [ "GROUP_AI_FLAG_EVADE_TOGETHER", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca928d7601145d6d43e75dcd4016b5168a", null ],
+      [ "GROUP_AI_FLAG_RESPAWN_ON_EVADE", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869cafd1b3cc36d34613f8cef22a23e0c6ee6", null ],
+      [ "GROUP_AI_FLAG_DONT_RESPAWN_LEADER_ON_EVADE", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869cabcc8bb1d4fe9589142cc0d244ce05043", null ],
+      [ "GROUP_AI_FLAG_ACQUIRE_NEW_TARGET_ON_EVADE", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca1a12d5efe0ba28476f98f73978bc912e", null ],
+      [ "GROUP_AI_FLAG_FOLLOW_LEADER", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869caee689adab992a48549490c861e29da87", null ],
+      [ "GROUP_AI_FLAG_ASSIST_MASK", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca9fb1dd5025383fe38dc24bd42572256c", null ],
+      [ "GROUP_AI_FLAG_EVADE_MASK", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca2b086f30dfcafa5d5b17145232d26acd", null ],
+      [ "GROUP_AI_FLAG_SUPPORTED", "de/d05/a02795.html#a3754da8cc6b209da0180cd76de20869ca77e2c9b09a3c1f6ade309decc6d82c60", null ]
     ] ]
 ];

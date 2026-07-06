@@ -1,6 +1,6 @@
 var a16713 =
 [
-    [ "npc_toc_hunterAI", "de/d65/a16717.html", "de/d65/a16717" ],
-    [ "npc_toc_hunter", "d2/dca/a16713.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d2/dca/a16713.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "de/d65/a16717.html", "de/d65/a16717" ],
+    [ "npc_black_knight_skeletal_gryphon", "d2/dca/a16713.html#a5dc83a92fbe2eb4d6faa30f23a9ac777", null ],
+    [ "GetAI", "d2/dca/a16713.html#aad244f95877a208b56a2b6544984d724", null ]
 ];

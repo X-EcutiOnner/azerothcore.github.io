@@ -1,7 +1,7 @@
 var a19133 =
 [
-    [ "OnRemove", "d9/dba/a19133.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d9/dba/a19133.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d9/dba/a19133.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d9/dba/a19133.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "HandleEffectPeriodic", "d9/dba/a19133.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "d9/dba/a19133.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "d9/dba/a19133.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "d9/dba/a19133.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

@@ -1,13 +1,12 @@
 var a21293 =
 [
-    [ "npc_shandy_dalaranAI", "da/dee/a21293.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "da/dee/a21293.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "da/dee/a21293.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "da/dee/a21293.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "da/dee/a21293.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "da/dee/a21293.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "da/dee/a21293.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "da/dee/a21293.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "da/dee/a21293.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "da/dee/a21293.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "boss_zuramat", "da/dee/a21293.html#af033b96498fb71059701caad1fed8f8a", null ],
+    [ "EnterEvadeMode", "da/dee/a21293.html#a0d7ca9fe585e0dc87118c61ddc0dac84", null ],
+    [ "ExecuteEvent", "da/dee/a21293.html#a350f06b88af5444a0d4086434ddbe6f4", null ],
+    [ "JustDied", "da/dee/a21293.html#a1917921efc7a44c3cc3a799187c1718a", null ],
+    [ "JustEngagedWith", "da/dee/a21293.html#a4c448c8b51795943a6e746479f3ad121", null ],
+    [ "JustSummoned", "da/dee/a21293.html#a76c2de51333f57db6612effb92d07bd1", null ],
+    [ "KilledUnit", "da/dee/a21293.html#ae3f00d76928cbd6adf7882f4cccc0518", null ],
+    [ "MoveInLineOfSight", "da/dee/a21293.html#a6d46d73baf2c0b3c1706d9163564797f", null ],
+    [ "SummonedCreatureDespawn", "da/dee/a21293.html#afc8869687e9a6050cfee2c674ef7e7f1", null ]
 ];

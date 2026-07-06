@@ -1,11 +1,19 @@
 var a12225 =
 [
-    [ "instance_commandscript", "d9/da2/a12225.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "d9/da2/a12225.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "d9/da2/a12225.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "d9/da2/a12225.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "d9/da2/a12225.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "d9/da2/a12225.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "d9/da2/a12225.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "d9/da2/a12225.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "WardenPayloadMgr", "d9/da2/a12225.html#a0a90c3e8ab6d5b5698f330b997efed27", null ],
+    [ "ClearQueuedPayloads", "d9/da2/a12225.html#ade67b783b6e6c7421b0d86a9143d60d9", null ],
+    [ "DequeuePayload", "d9/da2/a12225.html#a0fb196873e89729eb5c3ad3238e75a6a", null ],
+    [ "GetFreePayloadId", "d9/da2/a12225.html#a698b2ab4709a495f299be18b053e4014", null ],
+    [ "GetPayloadById", "d9/da2/a12225.html#a9f7d7ab2c529b74b67fb363a063ffa27", null ],
+    [ "GetPayloadCountInQueue", "d9/da2/a12225.html#ae3878c7264337d646f7a5d503907d7aa", null ],
+    [ "GetPayloadsInQueue", "d9/da2/a12225.html#a6b8ed858cc20f8acc0266edbe84b3dfd", null ],
+    [ "QueuePayload", "d9/da2/a12225.html#a36f9cf58fa5c9d34fdac860c3ae692d1", null ],
+    [ "RegisterPayload", "d9/da2/a12225.html#ab3b7d9cbbb94eab430a0caff00448a4a", null ],
+    [ "RegisterPayload", "d9/da2/a12225.html#ae2e7a14fe433ed45e94d3e74ba43f579", null ],
+    [ "UnregisterPayload", "d9/da2/a12225.html#a97d5b53d0e1fd42663ad673b31fe4fab", null ],
+    [ "CachedChecks", "d9/da2/a12225.html#a65c6878274bc49b921714278d77eed56", null ],
+    [ "QueuedPayloads", "d9/da2/a12225.html#a0d473fcc12806a29a6cf191ebd1ec9ff", null ],
+    [ "WardenPayloadCheckType", "d9/da2/a12225.html#a5d6853734e30d11fce42dfeeb3a06c22", null ],
+    [ "WardenPayloadOffsetMax", "d9/da2/a12225.html#a0a6537e719e9f8f4c371340d0d1b4db7", null ],
+    [ "WardenPayloadOffsetMin", "d9/da2/a12225.html#a9f7e5a100c56a6ee9a6bd39a792b9e44", null ]
 ];

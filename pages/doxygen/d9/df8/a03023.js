@@ -1,4 +1,4 @@
 var a03023 =
 [
-    [ "AH_MINIMUM_DEPOSIT", "d9/df8/a03023.html#ae6debe42dd0e5674dcf1b874cebafe98", null ]
+    [ "MAX_INBOX_CLIENT_CAPACITY", "d9/df8/a03023.html#ae1d9c2394745301897af9c167e219ca8", null ]
 ];

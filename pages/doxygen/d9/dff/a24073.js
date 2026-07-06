@@ -1,6 +1,6 @@
 var a24073 =
 [
-    [ "PrepareSpellScript", "d9/dff/a24073.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d9/dff/a24073.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d9/dff/a24073.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "CheckRequirement", "d9/dff/a24073.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d9/dff/a24073.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d9/dff/a24073.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

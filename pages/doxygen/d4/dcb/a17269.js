@@ -1,7 +1,7 @@
 var a17269 =
 [
-    [ "npc_pos_icicle_triggerAI", "d4/dcb/a17269.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d4/dcb/a17269.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d4/dcb/a17269.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d4/dcb/a17269.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "OnRemove", "d4/dcb/a17269.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "d4/dcb/a17269.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "d4/dcb/a17269.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "d4/dcb/a17269.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

@@ -1,5 +1,6 @@
 var a13201 =
 [
-    [ "boss_apoko", "db/db0/a13201.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "db/db0/a13201.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "HandleCast", "db/db0/a13201.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "db/db0/a13201.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "db/db0/a13201.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

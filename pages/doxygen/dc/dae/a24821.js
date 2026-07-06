@@ -1,6 +1,5 @@
 var a24821 =
 [
-    [ "HandleScriptEffect", "dc/dae/a24821.html#ab3f415ae783f2a778178cc3319b32773", null ],
-    [ "PrepareSpellScript", "dc/dae/a24821.html#a4ba7f7935c4acda891190dc375086dee", null ],
-    [ "Register", "dc/dae/a24821.html#ad9b1571b4faf7d0fc6df7f6a8eb05c8a", null ]
+    [ "PrepareSpellScript", "dc/dae/a24821.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
+    [ "Register", "dc/dae/a24821.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
 ];

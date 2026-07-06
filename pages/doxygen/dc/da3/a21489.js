@@ -1,6 +1,5 @@
 var a21489 =
 [
-    [ "npc_torturer_lecraftAI", "d4/de3/a21493.html", "d4/de3/a21493" ],
-    [ "npc_torturer_lecraft", "dc/da3/a21489.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "dc/da3/a21489.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_steam_powered_auctioneerAI", "dc/da3/a21489.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "dc/da3/a21489.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

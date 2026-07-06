@@ -1,6 +1,4 @@
 var a11637 =
 [
-    [ "ChannelTargetData", "db/d17/a11637.html#a26f2a2037750712d8718d9537603e3a1", null ],
-    [ "channelGUID", "db/d17/a11637.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
-    [ "spellDst", "db/d17/a11637.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
+    [ "ServerOpcodeHandler", "dc/d7e/a05055.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

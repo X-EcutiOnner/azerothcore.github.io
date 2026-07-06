@@ -1,8 +1,6 @@
 var a23081 =
 [
-    [ "ApplyStun", "d9/deb/a23081.html#a5a5b921dc45418485919e599e80f8ca8", null ],
-    [ "HandleScriptEffect", "d9/deb/a23081.html#a32619710179250a6a0b408856a888153", null ],
-    [ "PrepareSpellScript", "d9/deb/a23081.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
-    [ "Register", "d9/deb/a23081.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
-    [ "Validate", "d9/deb/a23081.html#a66d91a87078c663903cd836344eec867", null ]
+    [ "HandleEffectRemove", "d9/deb/a23081.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "d9/deb/a23081.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "d9/deb/a23081.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

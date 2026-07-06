@@ -1,16 +1,16 @@
 var a14085 =
 [
-    [ "boss_akilzon", "d1/d66/a14085.html#a8c56c6920488ac507e24db384782e2ab", null ],
-    [ "DoAction", "d1/d66/a14085.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
-    [ "HandleStormSequence", "d1/d66/a14085.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
-    [ "JustDied", "d1/d66/a14085.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
-    [ "JustEngagedWith", "d1/d66/a14085.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
-    [ "KilledUnit", "d1/d66/a14085.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
-    [ "Reset", "d1/d66/a14085.html#a69302e4ac8f349e884f0745fe66edce2", null ],
-    [ "SetWeather", "d1/d66/a14085.html#a9c8eeed625f33153819df19b6c2c5670", null ],
-    [ "SummonEagles", "d1/d66/a14085.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
-    [ "_birdGUIDs", "d1/d66/a14085.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
-    [ "_cycloneGUID", "d1/d66/a14085.html#aaa712019eb5d17684d7f048f81e36270", null ],
-    [ "_isRaining", "d1/d66/a14085.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
-    [ "_targetGUID", "d1/d66/a14085.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d1/d66/a14085.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d1/d66/a14085.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d1/d66/a14085.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d1/d66/a14085.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d1/d66/a14085.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d1/d66/a14085.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d1/d66/a14085.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d1/d66/a14085.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d1/d66/a14085.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d1/d66/a14085.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d1/d66/a14085.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d1/d66/a14085.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d1/d66/a14085.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

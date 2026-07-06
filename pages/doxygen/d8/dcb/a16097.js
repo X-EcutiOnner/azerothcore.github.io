@@ -1,8 +1,8 @@
 var a16097 =
 [
-    [ "HandleAfterCast", "d8/dcb/a16097.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
-    [ "HandleDummyEffect", "d8/dcb/a16097.html#a539c233fc820248930e1988c4074b9c8", null ],
-    [ "Load", "d8/dcb/a16097.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
-    [ "PrepareSpellScript", "d8/dcb/a16097.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
-    [ "Register", "d8/dcb/a16097.html#ae90184fd34636b33755b732ec82fd52f", null ]
+    [ "npc_giltharesAI", "d8/dcb/a16097.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d8/dcb/a16097.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d8/dcb/a16097.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d8/dcb/a16097.html#a9308c73760e50e0f3d04031b508526d1", null ],
+    [ "WaypointReached", "d8/dcb/a16097.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

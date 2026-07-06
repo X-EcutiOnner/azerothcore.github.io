@@ -1,14 +1,13 @@
 var a24041 =
 [
-    [ "npc_pet_mage_mirror_image", "dc/d77/a24041.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "dc/d77/a24041.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "dc/d77/a24041.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "dc/d77/a24041.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "dc/d77/a24041.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "dc/d77/a24041.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_delayAttack", "dc/d77/a24041.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
-    [ "_ebonGargoyleGUID", "dc/d77/a24041.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "dc/d77/a24041.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "dc/d77/a24041.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "dc/d77/a24041.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_illidari_spawnAI", "dc/d77/a24041.html#a704c1d3e07d028b04e2bddee37039941", null ],
+    [ "JustDied", "dc/d77/a24041.html#a27277d90d4a58a89386a39f4affbaee8", null ],
+    [ "JustEngagedWith", "dc/d77/a24041.html#add4ea6366614e9fb86e85613bfb910ba", null ],
+    [ "Reset", "dc/d77/a24041.html#a5347858d5da4f0718479b1d702125366", null ],
+    [ "UpdateAI", "dc/d77/a24041.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
+    [ "LordIllidanGUID", "dc/d77/a24041.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
+    [ "SpellTimer1", "dc/d77/a24041.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
+    [ "SpellTimer2", "dc/d77/a24041.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
+    [ "SpellTimer3", "dc/d77/a24041.html#a9889f9673292613dc46387862f3e8849", null ],
+    [ "Timers", "dc/d77/a24041.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
 ];

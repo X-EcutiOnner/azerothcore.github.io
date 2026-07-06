@@ -1,12 +1,19 @@
 var a05661 =
 [
-    [ "Node", "d2/d57/a05665.html", "d2/d57/a05665" ],
-    [ "MPSCQueueNonIntrusive", "d9/d24/a05661.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "d9/d24/a05661.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "d9/d24/a05661.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "d9/d24/a05661.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "d9/d24/a05661.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "d9/d24/a05661.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "d9/d24/a05661.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "d9/d24/a05661.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Appender", "d9/d24/a05661.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "d9/d24/a05661.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "d9/d24/a05661.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "d9/d24/a05661.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "d9/d24/a05661.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "d9/d24/a05661.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "d9/d24/a05661.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "d9/d24/a05661.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "d9/d24/a05661.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "d9/d24/a05661.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "d9/d24/a05661.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "d9/d24/a05661.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "d9/d24/a05661.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "d9/d24/a05661.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "d9/d24/a05661.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "d9/d24/a05661.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

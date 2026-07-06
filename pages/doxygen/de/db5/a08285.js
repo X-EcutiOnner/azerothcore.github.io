@@ -1,5 +1,7 @@
 var a08285 =
 [
-    [ "Name", "de/db5/a08285.html#aa971d38e5169f2b7b610cf6cf0aec928", null ],
-    [ "Title", "de/db5/a08285.html#a344cbaef4846d4c9c76e1d783dd2b4fc", null ]
+    [ "RBEntryInfo", "de/db5/a08285.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "de/db5/a08285.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "de/db5/a08285.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "de/db5/a08285.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

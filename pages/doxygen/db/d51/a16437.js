@@ -1,7 +1,8 @@
 var a16437 =
 [
-    [ "HandleDummy", "db/d51/a16437.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "db/d51/a16437.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "db/d51/a16437.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "db/d51/a16437.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "npc_twilight_summon", "db/d51/a16437.html#a34697edd1af94814862a50a038625f93", null ],
+    [ "DoAction", "db/d51/a16437.html#a78ef5af35959e8bedbf7a23569a2f8bd", null ],
+    [ "Reset", "db/d51/a16437.html#aa909fac05e93a78d3f70222fb82a6841", null ],
+    [ "UpdateAI", "db/d51/a16437.html#afe47f7af23aa7ef5b59473579c649859", null ],
+    [ "fadeArmorTimer", "db/d51/a16437.html#a998e2efd9e25915d32b953d684352511", null ]
 ];

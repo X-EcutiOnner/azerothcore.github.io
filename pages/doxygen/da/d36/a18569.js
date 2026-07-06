@@ -1,7 +1,6 @@
 var a18569 =
 [
-    [ "CalculateBonus", "da/d36/a18569.html#ae149a739150cb7eb9fb67f19130c0510", null ],
-    [ "OnPeriodic", "da/d36/a18569.html#a19697bd65a325870becc1c30d7deff36", null ],
-    [ "PrepareAuraScript", "da/d36/a18569.html#a77c272d4a26323c421e4b264f79d5b66", null ],
-    [ "Register", "da/d36/a18569.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
+    [ "LichKingDeathEvent", "da/d36/a18569.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "da/d36/a18569.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "da/d36/a18569.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

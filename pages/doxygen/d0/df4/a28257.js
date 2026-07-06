@@ -1,14 +1,11 @@
 var a28257 =
 [
-    [ "FlameshockerCheck", "df/ddf/a28261.html", "df/ddf/a28261" ],
-    [ "npc_pallid_horror", "d0/df4/a28257.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "d0/df4/a28257.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "d0/df4/a28257.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "d0/df4/a28257.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "d0/df4/a28257.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "d0/df4/a28257.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "d0/df4/a28257.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "d0/df4/a28257.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "d0/df4/a28257.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "d0/df4/a28257.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "npc_franklinAI", "d0/df4/a28257.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d0/df4/a28257.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d0/df4/a28257.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d0/df4/a28257.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d0/df4/a28257.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d0/df4/a28257.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d0/df4/a28257.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d0/df4/a28257.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

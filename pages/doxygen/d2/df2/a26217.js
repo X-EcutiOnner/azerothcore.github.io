@@ -1,6 +1,6 @@
 var a26217 =
 [
-    [ "HandleRemove", "d2/df2/a26217.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d2/df2/a26217.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d2/df2/a26217.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckProc", "d2/df2/a26217.html#a1642e1c445baac2be49a32797f21ca31", null ],
+    [ "PrepareAuraScript", "d2/df2/a26217.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
+    [ "Register", "d2/df2/a26217.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
 ];

@@ -1,5 +1,5 @@
 var a20369 =
 [
-    [ "npc_ulduar_flames_spread", "d0/db7/a20369.html#aea2856e8ea84dfb447017a4d8b2ab088", null ],
-    [ "SpellHit", "d0/db7/a20369.html#af8cad4be1736f377721b7a0a63cfafe7", null ]
+    [ "FlashFreezeCheck", "d0/db7/a20369.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d0/db7/a20369.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

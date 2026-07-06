@@ -1,7 +1,6 @@
 var a11541 =
 [
-    [ "Player", "db/db1/a11541.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "db/db1/a11541.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "FactionChange", "db/db1/a11541.html#adff657ead29df26ead5e20a8ecf44e87", null ],
-    [ "Race", "db/db1/a11541.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
+    [ "QuestUpdateFailedTimer", "db/db1/a11541.html#ae31656f1e3b3d145809113a8b7ce4400", null ],
+    [ "Write", "db/db1/a11541.html#a35a0b6609205c7eaa1ea6c3e4e1486ac", null ],
+    [ "QuestId", "db/db1/a11541.html#afce18ee4eea44b6c223ff2efc782d31d", null ]
 ];

@@ -1,6 +1,4 @@
 var a17025 =
 [
-    [ "PrepareSpellScript", "d9/d42/a17025.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d9/d42/a17025.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d9/d42/a17025.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "boss_acidmawAI", "d9/d42/a17025.html#a185e04be9d28b9ac6755ade2cd552293", null ]
 ];

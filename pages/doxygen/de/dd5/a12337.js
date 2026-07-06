@@ -1,9 +1,8 @@
 var a12337 =
 [
-    [ "send_commandscript", "de/dd5/a12337.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "de/dd5/a12337.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "de/dd5/a12337.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "de/dd5/a12337.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "de/dd5/a12337.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "de/dd5/a12337.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "chatfilter_commandscript", "de/dd5/a12337.html#a7b8b95f9b418496d0f9aa39af55410a3", null ],
+    [ "GetCommands", "de/dd5/a12337.html#aa7553c0fc74103773edeaac9195e4414", null ],
+    [ "HandleChatFilterAddCommand", "de/dd5/a12337.html#a8cbe0819f09b43a32e594a67010d63ee", null ],
+    [ "HandleChatFilterListCommand", "de/dd5/a12337.html#ab59bd95ca2b9319fb175c0592074f9ff", null ],
+    [ "HandleChatFilterRemoveCommand", "de/dd5/a12337.html#ad628fb21fc3bb06c6108c6c731793ad6", null ]
 ];

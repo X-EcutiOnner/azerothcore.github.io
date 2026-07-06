@@ -1,5 +1,6 @@
 var a27581 =
 [
-    [ "achievement_tilted", "dd/d4f/a27581.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "dd/d4f/a27581.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "CheckProc", "dd/d4f/a27581.html#ad99bf14a9b71a9ff7b2ccb73eaae41ce", null ],
+    [ "PrepareAuraScript", "dd/d4f/a27581.html#a787d22fa4d989bf28aa69f64d55d9687", null ],
+    [ "Register", "dd/d4f/a27581.html#a4ef23658a8f36556513fcd7b9673a14f", null ]
 ];

@@ -1,6 +1,8 @@
 var a22861 =
 [
-    [ "HandleEffectRemove", "d2/dee/a22861.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "d2/dee/a22861.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "d2/dee/a22861.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "instance_black_temple_InstanceMapScript", "d2/dee/a22861.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "d2/dee/a22861.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "d2/dee/a22861.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "d2/dee/a22861.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "d2/dee/a22861.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

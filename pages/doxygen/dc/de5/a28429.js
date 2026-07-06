@@ -1,8 +1,5 @@
 var a28429 =
 [
-    [ "npc_nelsonAI", "da/db5/a28433.html", "da/db5/a28433" ],
-    [ "npc_nelson", "dc/de5/a28429.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "dc/de5/a28429.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "dc/de5/a28429.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "dc/de5/a28429.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "npc_controller", "dc/de5/a28429.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "dc/de5/a28429.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

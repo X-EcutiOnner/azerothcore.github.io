@@ -1,6 +1,10 @@
 var a15217 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d6/dd6/a15221.html", "d6/dd6/a15221" ],
-    [ "instance_razorfen_downs", "d5/d1e/a15217.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d5/d1e/a15217.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "boss_meathookAI", "d5/d1e/a15217.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d5/d1e/a15217.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d5/d1e/a15217.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d5/d1e/a15217.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d5/d1e/a15217.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d5/d1e/a15217.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d5/d1e/a15217.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

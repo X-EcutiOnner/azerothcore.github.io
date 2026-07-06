@@ -1,9 +1,7 @@
 var a03206 =
 [
-    [ "GetChaseRange", "d9/d4f/a03206.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
-    [ "GetTargetSpeedInMotion", "d9/d4f/a03206.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
-    [ "GetVelocity", "d9/d4f/a03206.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
-    [ "IsMutualChase", "d9/d4f/a03206.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
-    [ "IsValidPredictedPosition", "d9/d4f/a03206.html#a27995927630ed43ca4a79dff89cfb99c", null ],
-    [ "PredictPosition", "d9/d4f/a03206.html#ada5b031ff95410ba84fd734c95c68099", null ]
+    [ "IdleMovementGenerator", "da/de8/a10389.html", "da/de8/a10389" ],
+    [ "RotateMovementGenerator", "d6/df0/a10393.html", "d6/df0/a10393" ],
+    [ "DistractMovementGenerator", "d7/daf/a10397.html", "d7/daf/a10397" ],
+    [ "AssistanceDistractMovementGenerator", "d1/dba/a10401.html", "d1/dba/a10401" ]
 ];

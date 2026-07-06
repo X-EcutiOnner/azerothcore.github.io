@@ -1,10 +1,15 @@
 var a00176 =
 [
-    [ "AddPetScripts", "d5/de9/a00176.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "d5/de9/a00176.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "d5/de9/a00176.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "d5/de9/a00176.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "d5/de9/a00176.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "d5/de9/a00176.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "d5/de9/a00176.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "ProcChanceTestHelper", "db/dda/a29381.html", "db/dda/a29381" ],
+    [ "ProcChanceTestHelper::TriggeredSpellConfig", "dc/d78/a29385.html", "dc/d78/a29385" ],
+    [ "ProcChanceTestHelper::ExtraAttackProcConfig", "d5/d2a/a29389.html", "d5/d2a/a29389" ],
+    [ "ProcChanceTestHelper::PPMModifierConfig", "df/d1b/a29393.html", "df/d1b/a29393" ],
+    [ "ProcChanceTestHelper::EquipmentConfig", "d6/d9c/a29397.html", "d6/d9c/a29397" ],
+    [ "ProcChanceTestHelper::CascadeProcConfig", "dc/dde/a29401.html", "dc/dde/a29401" ],
+    [ "ProcChanceTestHelper::TakenAutoTriggerConfig", "dd/dad/a29405.html", "dd/dad/a29405" ],
+    [ "ProcChanceTestHelper::ConditionsConfig", "da/d93/a29409.html", "da/d93/a29409" ],
+    [ "ProcTestScenario", "d0/d71/a29413.html", "d0/d71/a29413" ],
+    [ "ProcChainGuardSimulator", "de/d03/a29417.html", "de/d03/a29417" ],
+    [ "ProcChainGuardSimulator::AuraConfig", "df/d05/a29421.html", "df/d05/a29421" ],
+    [ "ProcChainGuardSimulator::ProcRecord", "dd/dbc/a29425.html", "dd/dbc/a29425" ]
 ];

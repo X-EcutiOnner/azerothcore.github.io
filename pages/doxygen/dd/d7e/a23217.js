@@ -1,6 +1,6 @@
 var a23217 =
 [
-    [ "HandleHit", "dd/d7e/a23217.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "dd/d7e/a23217.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "dd/d7e/a23217.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "instance_steam_vault_InstanceMapScript", "dd/d7e/a23217.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "dd/d7e/a23217.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "dd/d7e/a23217.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

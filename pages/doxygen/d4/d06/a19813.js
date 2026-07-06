@@ -1,6 +1,6 @@
 var a19813 =
 [
-    [ "go_celestial_planetarium_accessAI", "db/df7/a19817.html", "db/df7/a19817" ],
-    [ "go_celestial_planetarium_access", "d4/d06/a19813.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d4/d06/a19813.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "PrepareSpellScript", "d4/d06/a19813.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d4/d06/a19813.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d4/d06/a19813.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

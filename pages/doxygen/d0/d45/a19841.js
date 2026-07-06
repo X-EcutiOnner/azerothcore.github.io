@@ -1,9 +1,9 @@
 var a19841 =
 [
-    [ "CheckTargets", "d0/d45/a19841.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d0/d45/a19841.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d0/d45/a19841.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d0/d45/a19841.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d0/d45/a19841.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d0/d45/a19841.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "npc_stormforged_lieutenant", "d0/d45/a19841.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d0/d45/a19841.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d0/d45/a19841.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d0/d45/a19841.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d0/d45/a19841.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d0/d45/a19841.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

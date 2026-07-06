@@ -1,7 +1,11 @@
 var a10793 =
 [
-    [ "AutoStoreBankItem", "d8/dce/a10793.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "d8/dce/a10793.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "d8/dce/a10793.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "d8/dce/a10793.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "ServerScript", "d8/dce/a10793.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "d8/dce/a10793.html#ada6045c5dcd48a011d66bd2998000d27", null ],
+    [ "CanPacketSend", "d8/dce/a10793.html#ae7d02121a95adcc53263d006bc14da2f", null ],
+    [ "OnNetworkStart", "d8/dce/a10793.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStart", "d8/dce/a10793.html#a22b726d849ee171482ca7d6e0e1e4527", null ],
+    [ "OnNetworkStop", "d8/dce/a10793.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "d8/dce/a10793.html#a8386aef9c139f06732a5f36eadccec6c", null ],
+    [ "OnSocketOpen", "d8/dce/a10793.html#a22e84aee366a0010a753b7ed3403172f", null ]
 ];

@@ -1,6 +1,7 @@
 var a26153 =
 [
-    [ "HandleProc", "de/d5b/a26153.html#a746a66c768e1987eb3752a41b19b822d", null ],
-    [ "PrepareAuraScript", "de/d5b/a26153.html#a396023bc98b70b6357630e45a2278afc", null ],
-    [ "Register", "de/d5b/a26153.html#a6af4e80cf3c88320a6157e986a4b719f", null ]
+    [ "HandleProc", "de/d5b/a26153.html#ab25ebdc33ed9f13d9b1f880df064be13", null ],
+    [ "PrepareAuraScript", "de/d5b/a26153.html#afa5dcaae76c60f38b8be4c47cbdaaf95", null ],
+    [ "Register", "de/d5b/a26153.html#ab56b68dce7bf0c1cc251ff261e606cf9", null ],
+    [ "Validate", "de/d5b/a26153.html#a53ad60f89b9db1b0cc34385477aea856", null ]
 ];

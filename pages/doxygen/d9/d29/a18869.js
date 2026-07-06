@@ -1,6 +1,7 @@
 var a18869 =
 [
-    [ "npc_impaling_spearAI", "d5/dfc/a18873.html", "d5/dfc/a18873" ],
-    [ "npc_impaling_spear", "d9/d29/a18869.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d9/d29/a18869.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_valithria_portalAI", "d9/d29/a18869.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d9/d29/a18869.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d9/d29/a18869.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d9/d29/a18869.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

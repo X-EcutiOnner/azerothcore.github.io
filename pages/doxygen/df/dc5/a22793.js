@@ -1,12 +1,7 @@
 var a22793 =
 [
-    [ "boss_leotheras_the_blind", "df/dc5/a22793.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "df/dc5/a22793.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "df/dc5/a22793.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "df/dc5/a22793.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "df/dc5/a22793.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "df/dc5/a22793.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "df/dc5/a22793.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "df/dc5/a22793.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "df/dc5/a22793.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "HandleEffectApply", "df/dc5/a22793.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "df/dc5/a22793.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "df/dc5/a22793.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "df/dc5/a22793.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

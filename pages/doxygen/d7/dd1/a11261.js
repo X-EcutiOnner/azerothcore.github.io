@@ -1,9 +1,8 @@
 var a11261 =
 [
-    [ "RandomRoll", "d7/dd1/a11261.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d7/dd1/a11261.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d7/dd1/a11261.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d7/dd1/a11261.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d7/dd1/a11261.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d7/dd1/a11261.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "SellItem", "d7/dd1/a11261.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d7/dd1/a11261.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d7/dd1/a11261.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d7/dd1/a11261.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d7/dd1/a11261.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

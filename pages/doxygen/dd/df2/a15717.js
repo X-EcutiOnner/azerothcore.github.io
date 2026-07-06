@@ -1,6 +1,6 @@
 var a15717 =
 [
-    [ "npc_tiger_matriarch_creditAI", "dd/df2/a15717.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
-    [ "UpdateAI", "dd/df2/a15717.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
-    [ "events", "dd/df2/a15717.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
+    [ "OnPeriodic", "dd/df2/a15717.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "dd/df2/a15717.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "dd/df2/a15717.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

@@ -1,7 +1,16 @@
 var a04574 =
 [
-    [ "Crash", "d0/d15/a04574.html#a510bae7d9948cf497418ec913452009f", null ],
-    [ "GetDebugInfo", "d0/d15/a04574.html#a29601d3ea684d75bac9c331eb4866951", null ],
-    [ "MakeAbortMessage", "d0/d15/a04574.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
-    [ "MakeMessage", "d0/d15/a04574.html#a31219fe016a9b170fc6ae111157ba552", null ]
+    [ "Log", "d1/d9b/a05677.html", "d1/d9b/a05677" ],
+    [ "LOG_DEBUG", "d0/d15/a04574.html#a47ac782b14a7531c6232777165a1a161", null ],
+    [ "LOG_ERROR", "d0/d15/a04574.html#a43832e3fa8508deb4ce43e520005fcd9", null ],
+    [ "LOG_FATAL", "d0/d15/a04574.html#a0e09b50c268dc6897a1c70aa46de936e", null ],
+    [ "LOG_GM", "d0/d15/a04574.html#aeeb132f13796dfa459eb05386acff8fe", null ],
+    [ "LOG_INFO", "d0/d15/a04574.html#a271e427d8e8481efd5cd5f537ec9e419", null ],
+    [ "LOG_MESSAGE_BODY", "d0/d15/a04574.html#a1ce833e7403b29687774e0539da6f4b9", null ],
+    [ "LOG_TRACE", "d0/d15/a04574.html#ac0b4843dd5a1f2e3b7aaa7dbc9dc8ba5", null ],
+    [ "LOG_WARN", "d0/d15/a04574.html#adf09840a666e1d86bcd3439105db6edc", null ],
+    [ "LOGGER_ROOT", "d0/d15/a04574.html#a6f9b401329ff7cf191e6b1801caeb441", null ],
+    [ "sLog", "d0/d15/a04574.html#ab5487500f5b4b12072043104b916d582", null ],
+    [ "AppenderCreatorFn", "d0/d15/a04574.html#a1db7ef47a6d7bf4560a30c8b7e9f6a37", null ],
+    [ "CreateAppender", "d0/d15/a04574.html#ae5d709e10423806fa5331696a9bbd657", null ]
 ];

@@ -1,6 +1,6 @@
 var a16933 =
 [
-    [ "HandleDummy", "d7/d87/a16933.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
-    [ "PrepareSpellScript", "d7/d87/a16933.html#accbf8f40b1ab123a2be81a514c94c836", null ],
-    [ "Register", "d7/d87/a16933.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d9d/a16937.html", "d9/d9d/a16937" ],
+    [ "npc_toc_enh_shaman", "d7/d87/a16933.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d7/d87/a16933.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

@@ -1,6 +1,6 @@
 var a16517 =
 [
-    [ "FilterTargets", "d8/d52/a16517.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d8/d52/a16517.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d8/d52/a16517.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "SendEncounterUnit", "d8/d52/a16517.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "d8/d52/a16517.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "d8/d52/a16517.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

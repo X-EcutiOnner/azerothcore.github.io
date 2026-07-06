@@ -1,7 +1,6 @@
 var a20685 =
 [
-    [ "HandleEffectCalcPeriodic", "dd/dc8/a20685.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "dd/dc8/a20685.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "dd/dc8/a20685.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "dd/dc8/a20685.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "OnPeriodic", "dd/dc8/a20685.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
+    [ "PrepareAuraScript", "dd/dc8/a20685.html#a6aa46e818199da206e6543005a7fe87f", null ],
+    [ "Register", "dd/dc8/a20685.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
 ];

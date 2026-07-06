@@ -1,12 +1,9 @@
 var a21441 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d8/dd8/a21441.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
-    [ "Activate", "d8/dd8/a21441.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
-    [ "AttackStart", "d8/dd8/a21441.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
-    [ "CanAIAttack", "d8/dd8/a21441.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
-    [ "Deactivate", "d8/dd8/a21441.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
-    [ "DoAction", "d8/dd8/a21441.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
-    [ "JustDied", "d8/dd8/a21441.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
-    [ "JustRespawned", "d8/dd8/a21441.html#ab30068f7082176c279e0667f72d750a3", null ],
-    [ "Reset", "d8/dd8/a21441.html#ad94a4789b5ba019d021682f15df13589", null ]
+    [ "npc_warmage_coldarraAI", "d8/dd8/a21441.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "d8/dd8/a21441.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "d8/dd8/a21441.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "d8/dd8/a21441.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "d8/dd8/a21441.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "d8/dd8/a21441.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

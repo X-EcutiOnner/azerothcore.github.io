@@ -1,7 +1,6 @@
 var a26493 =
 [
-    [ "HandleApplyEffect", "d3/db7/a26493.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d3/db7/a26493.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d3/db7/a26493.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d3/db7/a26493.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "HandleEffectCalcSpellMod", "d3/db7/a26493.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d3/db7/a26493.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d3/db7/a26493.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

@@ -1,6 +1,6 @@
 var a15329 =
 [
-    [ "FilterTargets", "d8/d27/a15329.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d8/d27/a15329.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d8/d27/a15329.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "NpcRunToHome", "d8/d27/a15329.html#ac190e89b494554e391e6ebd878d7f8e8", null ],
+    [ "Execute", "d8/d27/a15329.html#a0da766e3bae0d8d97a46ef82b3873cc0", null ],
+    [ "_owner", "d8/d27/a15329.html#a7dd38171a6e55665fc28a74212313e51", null ]
 ];

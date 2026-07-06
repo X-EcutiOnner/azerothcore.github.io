@@ -1,7 +1,6 @@
 var a19441 =
 [
-    [ "HandleScript", "d8/d6c/a19441.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
-    [ "Load", "d8/d6c/a19441.html#a94661c7652572b1671a611b35c8f68a7", null ],
-    [ "PrepareSpellScript", "d8/d6c/a19441.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
-    [ "Register", "d8/d6c/a19441.html#a09352bd458fe3dbeacea38c5104656ff", null ]
+    [ "boss_kelthuzad_minionAI", "d4/dbe/a19445.html", "d4/dbe/a19445" ],
+    [ "boss_kelthuzad_minion", "d8/d6c/a19441.html#a4c6d430035c964b4063139c0cda6bfff", null ],
+    [ "GetAI", "d8/d6c/a19441.html#ab951068fedced148653ebf9124ba5e3d", null ]
 ];

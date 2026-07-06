@@ -1,8 +1,12 @@
 var a09557 =
 [
-    [ "CreatureWorker", "d1/d47/a09557.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
-    [ "Visit", "d1/d47/a09557.html#ae67044250380c521055f80c55de0bba5", null ],
-    [ "Visit", "d1/d47/a09557.html#aa9a450b147aafe46a49135f5c5be668e", null ],
-    [ "i_do", "d1/d47/a09557.html#ac22f86d9a41701e7527d4840da256f11", null ],
-    [ "i_phaseMask", "d1/d47/a09557.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
+    [ "VisibleNotifier", "d1/d47/a09557.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d1/d47/a09557.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d1/d47/a09557.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d1/d47/a09557.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d1/d47/a09557.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d1/d47/a09557.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d1/d47/a09557.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d1/d47/a09557.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d1/d47/a09557.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

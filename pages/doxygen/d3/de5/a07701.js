@@ -1,8 +1,12 @@
 var a07701 =
 [
-    [ "NodeId", "d3/de5/a07701.html#a09d4904c622dd7810e154bc0f3bd7eaf", null ],
-    [ "TextAllianceTaken", "d3/de5/a07701.html#a20cb8eaefa0e45b45a57645c62409ba4", null ],
-    [ "TextAssaulted", "d3/de5/a07701.html#a2e49a6d7f8ca935800062d98f1c660de", null ],
-    [ "TextDefended", "d3/de5/a07701.html#a27ee2d5be23a110943438a8888b14202", null ],
-    [ "TextHordeTaken", "d3/de5/a07701.html#a835c00ebdc2fe61f7e7757b0ed26bd1d", null ]
+    [ "BGQueueInviteEvent", "d3/de5/a07701.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d3/de5/a07701.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d3/de5/a07701.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d3/de5/a07701.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d3/de5/a07701.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d3/de5/a07701.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d3/de5/a07701.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d3/de5/a07701.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d3/de5/a07701.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

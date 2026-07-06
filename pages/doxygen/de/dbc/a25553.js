@@ -1,6 +1,6 @@
 var a25553 =
 [
-    [ "HandleEffectApply", "de/dbc/a25553.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "de/dbc/a25553.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "de/dbc/a25553.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "HandleFinish", "de/dbc/a25553.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
+    [ "PrepareSpellScript", "de/dbc/a25553.html#a62920503172dc58ac864a23e90a98dd9", null ],
+    [ "Register", "de/dbc/a25553.html#ab40419508a1903869aa2b36a590301ba", null ]
 ];

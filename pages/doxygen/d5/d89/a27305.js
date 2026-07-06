@@ -1,7 +1,8 @@
 var a27305 =
 [
-    [ "HandleRemove", "d5/d89/a27305.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d5/d89/a27305.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d5/d89/a27305.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d5/d89/a27305.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "CheckProc", "d5/d89/a27305.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d5/d89/a27305.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d5/d89/a27305.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d5/d89/a27305.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d5/d89/a27305.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

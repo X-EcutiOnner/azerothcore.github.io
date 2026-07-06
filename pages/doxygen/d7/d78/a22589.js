@@ -1,6 +1,7 @@
 var a22589 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d7/d78/a22589.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d7/d78/a22589.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d7/d78/a22589.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleEffectRemove", "d7/d78/a22589.html#a09124a4351930a35e33359e95ca88580", null ],
+    [ "PrepareAuraScript", "d7/d78/a22589.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
+    [ "Register", "d7/d78/a22589.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
+    [ "Validate", "d7/d78/a22589.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
 ];

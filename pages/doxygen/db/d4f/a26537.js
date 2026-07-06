@@ -1,7 +1,9 @@
 var a26537 =
 [
-    [ "HandleProc", "db/d4f/a26537.html#a512ec25fe649e42930d64effa4f7868b", null ],
-    [ "PrepareAuraScript", "db/d4f/a26537.html#ac1c7dcf63d7c67ec5fad424531519b58", null ],
-    [ "Register", "db/d4f/a26537.html#a6118148ac0e641a6c3e4490c2cdd86c0", null ],
-    [ "Validate", "db/d4f/a26537.html#a22dea9fb57d89b1d4813722968b5429f", null ]
+    [ "CheckCast", "db/d4f/a26537.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "db/d4f/a26537.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "db/d4f/a26537.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "db/d4f/a26537.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "db/d4f/a26537.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "db/d4f/a26537.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

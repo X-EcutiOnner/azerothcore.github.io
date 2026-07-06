@@ -1,7 +1,8 @@
 var a11045 =
 [
-    [ "GuildBankWithdrawMoney", "d4/dcb/a11045.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "d4/dcb/a11045.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "d4/dcb/a11045.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "d4/dcb/a11045.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "OtherGUID", "d4/dcb/a11045.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
+    [ "PlayerGUID", "d4/dcb/a11045.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
+    [ "RankID", "d4/dcb/a11045.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
+    [ "TransactionDate", "d4/dcb/a11045.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
+    [ "TransactionType", "d4/dcb/a11045.html#aa48b69aa9078fb150470d66201b34786", null ]
 ];

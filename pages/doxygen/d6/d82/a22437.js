@@ -1,7 +1,4 @@
 var a22437 =
 [
-    [ "boss_lady_malande", "d6/d82/a22437.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d6/d82/a22437.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d6/d82/a22437.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d6/d82/a22437.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d6/d82/a22437.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
 ];

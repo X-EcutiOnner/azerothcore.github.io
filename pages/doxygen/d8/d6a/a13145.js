@@ -1,5 +1,4 @@
 var a13145 =
 [
-    [ "at_karazhan_side_entrance", "d8/d6a/a13145.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d8/d6a/a13145.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "npc_nightbane_helper_target", "d8/d6a/a13145.html#a688ebb85baad72e523be0dceb70a75fc", null ]
 ];

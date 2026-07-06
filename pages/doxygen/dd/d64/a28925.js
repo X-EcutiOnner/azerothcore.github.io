@@ -1,7 +1,16 @@
 var a28925 =
 [
-    [ "ID", "dd/d64/a28925.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "dd/d64/a28925.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "dd/d64/a28925.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "dd/d64/a28925.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "CanBeSetAtWar", "dd/d64/a28925.html#ae165dc23f25386eb086e1fa2cb820153", null ],
+    [ "CanHaveReputation", "dd/d64/a28925.html#ab3da6918e197c1098a932418d5c51799", null ],
+    [ "BaseRepClassMask", "dd/d64/a28925.html#ae73655de567de3766fcb3bbfb7f9eed3", null ],
+    [ "BaseRepRaceMask", "dd/d64/a28925.html#aa8e1c08416d07882af7075fbb020ae5a", null ],
+    [ "BaseRepValue", "dd/d64/a28925.html#a52f0753d1e1e69a4994eb6b1eab6824c", null ],
+    [ "ID", "dd/d64/a28925.html#a1953f7a343201113dae80cdd97e1ac90", null ],
+    [ "name", "dd/d64/a28925.html#ad9d326ed1aac5ea66825775665dfea00", null ],
+    [ "ReputationFlags", "dd/d64/a28925.html#ae23a3c94554b2043928d6e1ea748e709", null ],
+    [ "reputationListID", "dd/d64/a28925.html#aee99121c2d7298e16540229923391aee", null ],
+    [ "spilloverMaxRankIn", "dd/d64/a28925.html#a14cea5365f14880850e788ba328d0c8e", null ],
+    [ "spilloverRateIn", "dd/d64/a28925.html#a7a72bc65fb3fe76ffa1d072800c5daed", null ],
+    [ "spilloverRateOut", "dd/d64/a28925.html#a7cea150843bf48277aa9cc917d210fcb", null ],
+    [ "team", "dd/d64/a28925.html#a6210fabf2688f26a0a0050f6c148485d", null ]
 ];

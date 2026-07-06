@@ -1,7 +1,7 @@
 var a13585 =
 [
-    [ "CorruptTriggers", "d4/d67/a13585.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "d4/d67/a13585.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "d4/d67/a13585.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "d4/d67/a13585.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "HandleEffectApply", "d4/d67/a13585.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d4/d67/a13585.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d4/d67/a13585.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d4/d67/a13585.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

@@ -1,7 +1,6 @@
 var a11017 =
 [
-    [ "GuildBankActivate", "da/d84/a11017.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "da/d84/a11017.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "da/d84/a11017.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "da/d84/a11017.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildUpdateMotdText", "da/d84/a11017.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "da/d84/a11017.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "da/d84/a11017.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

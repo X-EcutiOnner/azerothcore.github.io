@@ -1,25 +1,9 @@
 var a10457 =
 [
-    [ "OutdoorPvPMgr", "d6/d0b/a10457.html#a57480bb851822adda3d106f4a842354b", null ],
-    [ "~OutdoorPvPMgr", "d6/d0b/a10457.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
-    [ "AddZone", "d6/d0b/a10457.html#a2f71683200a6f780ea1365ec2934b875", null ],
-    [ "CanTalkTo", "d6/d0b/a10457.html#a8020976431b2754fc73acf762ed140b1", null ],
-    [ "Die", "d6/d0b/a10457.html#a60821e2ea353606552f863aed2807316", null ],
-    [ "GetOutdoorPvPToZoneId", "d6/d0b/a10457.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
-    [ "GetZoneScript", "d6/d0b/a10457.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
-    [ "HandleCustomSpell", "d6/d0b/a10457.html#a0134ce08b64931aadf7ffac968c47521", null ],
-    [ "HandleDropFlag", "d6/d0b/a10457.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
-    [ "HandleGossipOption", "d6/d0b/a10457.html#aa041123e1030c23c9862b494b057d3b2", null ],
-    [ "HandleOpenGo", "d6/d0b/a10457.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
-    [ "HandlePlayerEnterZone", "d6/d0b/a10457.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
-    [ "HandlePlayerLeaveZone", "d6/d0b/a10457.html#a37c292b98c44830833c15eba1d74e24d", null ],
-    [ "HandlePlayerResurrects", "d6/d0b/a10457.html#ad39bacd781ddb165c680758643a54c56", null ],
-    [ "InitOutdoorPvP", "d6/d0b/a10457.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
-    [ "instance", "d6/d0b/a10457.html#a0a92945f30266985e289742c29b13ed2", null ],
-    [ "Update", "d6/d0b/a10457.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
-    [ "_lock", "d6/d0b/a10457.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
-    [ "m_OutdoorPvPDatas", "d6/d0b/a10457.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
-    [ "m_OutdoorPvPMap", "d6/d0b/a10457.html#a0927b39028f4060b0125bb63fe73a53a", null ],
-    [ "m_OutdoorPvPSet", "d6/d0b/a10457.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
-    [ "m_UpdateTimer", "d6/d0b/a10457.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
+    [ "counter", "d6/d0b/a10457.html#a0efb94229f4a9370dc5b256ba623385b", null ],
+    [ "getCurrent", "d6/d0b/a10457.html#afff6411c2b7f1c07d72ad26dc77d4780", null ],
+    [ "Increase", "d6/d0b/a10457.html#a463e0ba077c8398a6125e715afcd8860", null ],
+    [ "init", "d6/d0b/a10457.html#a0369662be009b781174021a2eb6b3202", null ],
+    [ "NewId", "d6/d0b/a10457.html#a06d5bc4ea248173316ed4d1ce96d6281", null ],
+    [ "m_counter", "d6/d0b/a10457.html#a297f1ba5e072e4c90b62c7242ee1b01c", null ]
 ];

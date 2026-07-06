@@ -1,6 +1,6 @@
 var a24057 =
 [
-    [ "FilterTargets", "d3/dbe/a24057.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "d3/dbe/a24057.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "d3/dbe/a24057.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_shadowmoon_tuber_nodeAI", "d1/db9/a24061.html", "d1/db9/a24061" ],
+    [ "npc_shadowmoon_tuber_node", "d3/dbe/a24057.html#a98e8c7a84789457900fa342cca209d41", null ],
+    [ "GetAI", "d3/dbe/a24057.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
 ];

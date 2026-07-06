@@ -1,14 +1,7 @@
 var a15925 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d5/dc9/a15925.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d5/dc9/a15925.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d5/dc9/a15925.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d5/dc9/a15925.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d5/dc9/a15925.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d5/dc9/a15925.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d5/dc9/a15925.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d5/dc9/a15925.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d5/dc9/a15925.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d5/dc9/a15925.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d5/dc9/a15925.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "HandleDummy", "d5/dc9/a15925.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d5/dc9/a15925.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d5/dc9/a15925.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d5/dc9/a15925.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

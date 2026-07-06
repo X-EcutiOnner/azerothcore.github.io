@@ -1,5 +1,5 @@
 var a08129 =
 [
-    [ "ThreatReferenceImpl", "d7/d87/a08129.html#ae69492bf301cc65e2554ac6d46039086", null ],
-    [ "_handle", "d7/d87/a08129.html#a500806ed499b69bcae1d9a05071dea2c", null ]
+    [ "Glyph", "d7/d87/a08129.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "d7/d87/a08129.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

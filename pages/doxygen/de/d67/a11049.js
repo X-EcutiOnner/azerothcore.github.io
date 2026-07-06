@@ -1,5 +1,5 @@
 var a11049 =
 [
-    [ "SocketEnchantID", "de/d67/a11049.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "de/d67/a11049.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildEventLogQuery", "de/d67/a11049.html#af66d667a4b722745fa4f855870ef332c", null ],
+    [ "Read", "de/d67/a11049.html#a48881f116070d5a7c03e7cace86656f6", null ]
 ];

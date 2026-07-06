@@ -1,6 +1,9 @@
 var a20617 =
 [
-    [ "boss_yoggsaron_influence_tentacle", "de/d25/a20617.html#ac5908d64a4749303a08d352d470995dd", null ],
-    [ "DamageTaken", "de/d25/a20617.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
-    [ "JustDied", "de/d25/a20617.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
+    [ "npc_ulduar_dark_rune_sentinel", "de/d25/a20617.html#aa618a5c21a3f8c8ad5fa9b1dbd0ad267", null ],
+    [ "CanAIAttack", "de/d25/a20617.html#a6549068c5035af4e9ed8f67d38c8b23f", null ],
+    [ "Reset", "de/d25/a20617.html#ab5401b3309fffcaebbcbc6b665ab77a1", null ],
+    [ "UpdateAI", "de/d25/a20617.html#ae0c37055a213f91a46b68d7286ef3867", null ],
+    [ "timer1", "de/d25/a20617.html#a836d5ed8691a08303622389475380eae", null ],
+    [ "timer2", "de/d25/a20617.html#aa1985f0abdfa41a0fb9568e30048f24b", null ]
 ];

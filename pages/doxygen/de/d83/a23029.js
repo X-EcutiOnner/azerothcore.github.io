@@ -1,12 +1,7 @@
 var a23029 =
 [
-    [ "boss_swamplord_muselek", "de/d83/a23029.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "de/d83/a23029.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "de/d83/a23029.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "de/d83/a23029.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "de/d83/a23029.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "de/d83/a23029.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "de/d83/a23029.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "de/d83/a23029.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "de/d83/a23029.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "HandleEffectApply", "de/d83/a23029.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "de/d83/a23029.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "de/d83/a23029.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "de/d83/a23029.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

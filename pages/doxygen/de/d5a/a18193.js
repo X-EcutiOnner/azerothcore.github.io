@@ -1,7 +1,6 @@
 var a18193 =
 [
-    [ "HandleCast", "de/d5a/a18193.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "de/d5a/a18193.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "de/d5a/a18193.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "de/d5a/a18193.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "PrepareSpellScript", "de/d5a/a18193.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "de/d5a/a18193.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "de/d5a/a18193.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

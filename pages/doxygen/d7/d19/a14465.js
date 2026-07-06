@@ -1,11 +1,5 @@
 var a14465 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d7/d19/a14465.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d7/d19/a14465.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d7/d19/a14465.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d7/d19/a14465.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d7/d19/a14465.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d7/d19/a14465.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d7/d19/a14465.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d7/d19/a14465.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d7/d19/a14465.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d7/d19/a14465.html#a725de49be12116f2f7e77edd31a096ae", null ]
 ];

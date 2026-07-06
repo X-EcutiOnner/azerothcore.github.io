@@ -1,7 +1,6 @@
 var a12649 =
 [
-    [ "HandleScript", "db/d6a/a12649.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "db/d6a/a12649.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "db/d6a/a12649.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "db/d6a/a12649.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_hedrum", "db/d6a/a12649.html#adf610c943b7644aa2805934f54571492", null ],
+    [ "JustEngagedWith", "db/d6a/a12649.html#a18dd15e991417b68569b5a0e93499c0f", null ],
+    [ "UpdateAI", "db/d6a/a12649.html#a4af57f4f6d8bdaf1017788f343b5439d", null ]
 ];

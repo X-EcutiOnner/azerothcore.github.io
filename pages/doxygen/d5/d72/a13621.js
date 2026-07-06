@@ -1,7 +1,7 @@
 var a13621 =
 [
-    [ "boss_kalec", "d5/d72/a13621.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d5/d72/a13621.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d5/d72/a13621.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d5/d72/a13621.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "HandleAfterCast", "d5/d72/a13621.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d5/d72/a13621.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d5/d72/a13621.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d5/d72/a13621.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

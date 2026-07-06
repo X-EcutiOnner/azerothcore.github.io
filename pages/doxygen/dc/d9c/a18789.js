@@ -1,13 +1,8 @@
 var a18789 =
 [
-    [ "npc_highlord_tirion_fordringAI", "dc/d9c/a18789.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
-    [ "Reset", "dc/d9c/a18789.html#a80051b1b2a663997304b1754a3f9ff25", null ],
-    [ "SetData", "dc/d9c/a18789.html#a5642aab7afc50a7494c43ae7a130d571", null ],
-    [ "UpdateAI", "dc/d9c/a18789.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
-    [ "_bolvarFordragon", "dc/d9c/a18789.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
-    [ "_damnedKills", "dc/d9c/a18789.html#a56e035884d2ab94629c133efc1fc8feb", null ],
-    [ "_events", "dc/d9c/a18789.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
-    [ "_factionNPC", "dc/d9c/a18789.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
-    [ "_instance", "dc/d9c/a18789.html#acd16d6200b08df23576aa9ccbb060d31", null ],
-    [ "_theLichKing", "dc/d9c/a18789.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
+    [ "npc_lk_spirit_bombAI", "dc/d9c/a18789.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "dc/d9c/a18789.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "dc/d9c/a18789.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "dc/d9c/a18789.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "dc/d9c/a18789.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

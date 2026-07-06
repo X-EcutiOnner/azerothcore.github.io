@@ -1,9 +1,7 @@
 var a17873 =
 [
-    [ "CalculatePower", "da/d8d/a17873.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "da/d8d/a17873.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "da/d8d/a17873.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "da/d8d/a17873.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "da/d8d/a17873.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "da/d8d/a17873.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "ExtraEffect", "da/d8d/a17873.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
+    [ "PrepareAuraScript", "da/d8d/a17873.html#a53d6013e5ec473854e1537969cb31988", null ],
+    [ "Register", "da/d8d/a17873.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
+    [ "Validate", "da/d8d/a17873.html#ab14e7410cf542d9f4043800a3b86c664", null ]
 ];

@@ -1,7 +1,4 @@
 var a17033 =
 [
-    [ "HandlePeriodicTick", "d8/ded/a17033.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d8/ded/a17033.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d8/ded/a17033.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d8/ded/a17033.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "boss_dreadscaleAI", "d8/ded/a17033.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
 ];

@@ -1,6 +1,7 @@
 var a14297 =
 [
-    [ "HandleOnHit", "d0/dc5/a14297.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "d0/dc5/a14297.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "d0/dc5/a14297.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "HandleDispel", "d0/dc5/a14297.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "d0/dc5/a14297.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "d0/dc5/a14297.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "d0/dc5/a14297.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

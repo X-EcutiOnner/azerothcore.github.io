@@ -1,6 +1,6 @@
 var a22025 =
 [
-    [ "HandlePeriodicDummy", "d5/d80/a22025.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d5/d80/a22025.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d5/d80/a22025.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_jungle_punch_targetAI", "df/d39/a22029.html", "df/d39/a22029" ],
+    [ "npc_jungle_punch_target", "d5/d80/a22025.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d5/d80/a22025.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

@@ -1,6 +1,5 @@
 var a29777 =
 [
-    [ "height", "d8/d69/a29777.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "d8/d69/a29777.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "d8/d69/a29777.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "CalculateSpellTypeMask", "d8/d69/a29777.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
+    [ "SetUp", "d8/d69/a29777.html#a57be47f0c3962451b527ffe247dee814", null ]
 ];

@@ -1,8 +1,6 @@
 var a25613 =
 [
-    [ "CheckProc", "d8/dde/a25613.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "d8/dde/a25613.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "d8/dde/a25613.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "d8/dde/a25613.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "d8/dde/a25613.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleDummyTick", "d8/dde/a25613.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d8/dde/a25613.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d8/dde/a25613.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

@@ -1,11 +1,18 @@
 var a09201 =
 [
-    [ "~GridCell", "d5/d4f/a09201.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d5/d4f/a09201.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d5/d4f/a09201.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d5/d4f/a09201.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d5/d4f/a09201.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d5/d4f/a09201.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d5/d4f/a09201.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d5/d4f/a09201.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "GameEventData", "d5/d4f/a09201.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d5/d4f/a09201.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d5/d4f/a09201.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d5/d4f/a09201.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d5/d4f/a09201.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d5/d4f/a09201.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d5/d4f/a09201.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d5/d4f/a09201.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d5/d4f/a09201.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d5/d4f/a09201.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d5/d4f/a09201.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d5/d4f/a09201.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d5/d4f/a09201.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d5/d4f/a09201.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d5/d4f/a09201.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

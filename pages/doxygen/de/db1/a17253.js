@@ -1,9 +1,6 @@
 var a17253 =
 [
-    [ "npc_pos_after_first_bossAI", "de/db1/a17253.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "de/db1/a17253.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "de/db1/a17253.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "de/db1/a17253.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "de/db1/a17253.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "de/db1/a17253.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d2/dc3/a17257.html", "d2/dc3/a17257" ],
+    [ "instance_forge_of_souls", "de/db1/a17253.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "de/db1/a17253.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

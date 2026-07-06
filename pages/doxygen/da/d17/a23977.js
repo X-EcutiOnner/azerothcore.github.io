@@ -1,8 +1,6 @@
 var a23977 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "da/d17/a23977.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "da/d17/a23977.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "da/d17/a23977.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "da/d17/a23977.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "da/d17/a23977.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_infernal_attackerAI", "de/dc5/a23981.html", "de/dc5/a23981" ],
+    [ "npc_infernal_attacker", "da/d17/a23977.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "da/d17/a23977.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

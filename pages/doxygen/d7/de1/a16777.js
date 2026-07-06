@@ -1,6 +1,6 @@
 var a16777 =
 [
-    [ "npc_toc_pet_hunterAI", "d0/d9e/a16781.html", "d0/d9e/a16781" ],
-    [ "npc_toc_pet_hunter", "d7/de1/a16777.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
-    [ "GetAI", "d7/de1/a16777.html#a9febc3086b0627324277f45d49cdd03f", null ]
+    [ "HideNpcEvent", "d7/de1/a16777.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d7/de1/a16777.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d7/de1/a16777.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

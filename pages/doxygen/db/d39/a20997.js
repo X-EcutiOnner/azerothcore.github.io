@@ -1,12 +1,8 @@
 var a20997 =
 [
-    [ "boss_koralonAI", "db/d39/a20997.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "db/d39/a20997.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "db/d39/a20997.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "db/d39/a20997.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "db/d39/a20997.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "db/d39/a20997.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "db/d39/a20997.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "db/d39/a20997.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "db/d39/a20997.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_keleseth", "db/d39/a20997.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "db/d39/a20997.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "db/d39/a20997.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "db/d39/a20997.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "db/d39/a20997.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

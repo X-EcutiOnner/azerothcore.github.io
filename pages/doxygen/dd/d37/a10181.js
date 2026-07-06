@@ -1,7 +1,7 @@
 var a10181 =
 [
-    [ "flags", "dd/d37/a10181.html#a7db863994aa6692d1e2359d2c6814cd2", null ],
-    [ "groupId", "dd/d37/a10181.html#ac7efc48c61e715027a8d651fda543ada", null ],
-    [ "mapId", "dd/d37/a10181.html#ad53e068ead632ca66fbebe81e783fc52", null ],
-    [ "name", "dd/d37/a10181.html#a55368217a847f946def13b2123b22ed3", null ]
+    [ "resetNotify", "dd/d37/a10181.html#a1472e21d9af04662f3574bc2c7d3890c", null ],
+    [ "Visit", "dd/d37/a10181.html#adfcdcf148b002c641638ddc70d577b14", null ],
+    [ "Visit", "dd/d37/a10181.html#adf95512d4304962a5740b38c32ea28a7", null ],
+    [ "Visit", "dd/d37/a10181.html#a725fc2c2504eecaa15841c27b367cd55", null ]
 ];

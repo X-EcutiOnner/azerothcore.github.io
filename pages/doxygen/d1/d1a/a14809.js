@@ -1,8 +1,9 @@
 var a14809 =
 [
-    [ "CheckCast", "d1/d1a/a14809.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d1/d1a/a14809.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d1/d1a/a14809.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d1/d1a/a14809.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d1/d1a/a14809.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "entries", "d1/d1a/a14809.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d1/d1a/a14809.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d1/d1a/a14809.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d1/d1a/a14809.html#a318d5e1c78e24df88077fe33ba5d9b5b", null ],
+    [ "size", "d1/d1a/a14809.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d1/d1a/a14809.html#a54ef87964b52bb4fc2cc2846afd7e7d3", null ]
 ];

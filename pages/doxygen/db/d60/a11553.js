@@ -1,19 +1,7 @@
 var a11553 =
 [
-    [ "PacketThrottlingMap", "db/d60/a11553.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "db/d60/a11553.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "db/d60/a11553.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "db/d60/a11553.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "db/d60/a11553.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "db/d60/a11553.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "db/d60/a11553.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "db/d60/a11553.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "db/d60/a11553.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "QuestPushResult", "db/d60/a11553.html#a71a5435a0d9dbc648a83ec90ec99215f", null ],
+    [ "Write", "db/d60/a11553.html#a90c79fdc1bf593e4d51f3d7a6e423eac", null ],
+    [ "PlayerGuid", "db/d60/a11553.html#a449c6537a692edae94f173236d0d449e", null ],
+    [ "QuestShareMessage", "db/d60/a11553.html#af80f4138f3689721f44059a9250246f0", null ]
 ];

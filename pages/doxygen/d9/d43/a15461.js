@@ -1,13 +1,14 @@
 var a15461 =
 [
-    [ "npc_dirt_mound", "d9/d43/a15461.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
-    [ "ChaseNewTarget", "d9/d43/a15461.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
-    [ "EnterEvadeMode", "d9/d43/a15461.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
-    [ "JustEngagedWith", "d9/d43/a15461.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
-    [ "JustSummoned", "d9/d43/a15461.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
-    [ "Reset", "d9/d43/a15461.html#ae1662eb73f21351e07d00a717421de68", null ],
-    [ "SetData", "d9/d43/a15461.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
-    [ "UpdateAI", "d9/d43/a15461.html#a88447191070cf8b84df96db565eef48d", null ],
-    [ "_instance", "d9/d43/a15461.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
-    [ "_ouroHealth", "d9/d43/a15461.html#ac83391fa5069ae4574748f82d15e833d", null ]
+    [ "boss_buru", "d9/d43/a15461.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
+    [ "ChaseNewVictim", "d9/d43/a15461.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
+    [ "DamageTaken", "d9/d43/a15461.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
+    [ "EnterEvadeMode", "d9/d43/a15461.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
+    [ "JustDied", "d9/d43/a15461.html#a6d8f3265dca889bc49e747471da8597f", null ],
+    [ "JustEngagedWith", "d9/d43/a15461.html#a61eeeb3eb1684943e94367a9318b3035", null ],
+    [ "KilledUnit", "d9/d43/a15461.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
+    [ "ManipulateEggs", "d9/d43/a15461.html#a4f8a92eab729c975443579560edb03a3", null ],
+    [ "SpellHit", "d9/d43/a15461.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
+    [ "UpdateAI", "d9/d43/a15461.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
+    [ "_phase", "d9/d43/a15461.html#aa395967af50f2a422bf1e81a087efc43", null ]
 ];

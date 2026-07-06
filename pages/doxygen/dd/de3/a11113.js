@@ -1,8 +1,7 @@
 var a11113 =
 [
-    [ "SetDungeonDifficulty", "dd/de3/a11113.html#a3adea4e58ba48bc438e11056cb49e5ab", null ],
-    [ "Write", "dd/de3/a11113.html#a9e3eaebd002b3ed9599c9c2671f9b78e", null ],
-    [ "Difficulty", "dd/de3/a11113.html#a5e216ba7ada0d073b5aebaaa3f221752", null ],
-    [ "IsInGroup", "dd/de3/a11113.html#aff9bae997a9ff6dc64b7b60f736527d7", null ],
-    [ "Unk", "dd/de3/a11113.html#aea436cf338c4bd6b0d2dbc11edda9e3e", null ]
+    [ "GuildBankBuyTab", "dd/de3/a11113.html#af2195db72eeaefea13c958e5ef62c411", null ],
+    [ "Read", "dd/de3/a11113.html#a502153232a314d099ed43e1101bdfc1f", null ],
+    [ "Banker", "dd/de3/a11113.html#a46f3b910aa6d69f4a82c7a603f9f0fb3", null ],
+    [ "BankTab", "dd/de3/a11113.html#a5df7be995a177706fa364e31a6f8df1e", null ]
 ];

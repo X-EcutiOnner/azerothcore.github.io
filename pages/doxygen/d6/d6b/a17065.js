@@ -1,10 +1,5 @@
 var a17065 =
 [
-    [ "HandleAfterEffectAbsorb", "d6/d6b/a17065.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d6/d6b/a17065.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d6/d6b/a17065.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d6/d6b/a17065.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d6/d6b/a17065.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d6/d6b/a17065.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d6/d6b/a17065.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "npc_essence_of_twin", "d6/d6b/a17065.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "d6/d6b/a17065.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

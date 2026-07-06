@@ -1,6 +1,6 @@
 var a15625 =
 [
-    [ "npc_death_ravagerAI", "d7/d2a/a15629.html", "d7/d2a/a15629" ],
-    [ "npc_death_ravager", "dc/d5c/a15625.html#a6aa04a28ce5aa0e467e638c8ffe11657", null ],
-    [ "GetAI", "dc/d5c/a15625.html#a284d0b8ccf902d3f03ddfc6750fe0f1c", null ]
+    [ "OnRemove", "dc/d5c/a15625.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "dc/d5c/a15625.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "dc/d5c/a15625.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

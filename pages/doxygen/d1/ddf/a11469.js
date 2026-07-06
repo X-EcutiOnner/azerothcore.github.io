@@ -1,7 +1,6 @@
 var a11469 =
 [
-    [ "OpcodeHandler", "d8/d79/a05010.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "d8/d79/a05010.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "d8/d79/a05010.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "d8/d79/a05010.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "DismissCritter", "d1/ddf/a11469.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "d1/ddf/a11469.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "d1/ddf/a11469.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

@@ -1,7 +1,8 @@
 var a25045 =
 [
-    [ "OnPeriodic", "d1/d61/a25045.html#a58f13f947b4daac98651f7fa46d7d674", null ],
-    [ "PrepareAuraScript", "d1/d61/a25045.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
-    [ "Register", "d1/d61/a25045.html#ad0c688255e340c428624de7071b5df56", null ],
-    [ "Validate", "d1/d61/a25045.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
+    [ "AchievementCredit", "d1/d61/a25045.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d1/d61/a25045.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d1/d61/a25045.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d1/d61/a25045.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d1/d61/a25045.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

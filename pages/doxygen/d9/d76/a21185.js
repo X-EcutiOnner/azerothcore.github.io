@@ -1,10 +1,7 @@
 var a21185 =
 [
-    [ "npc_jenny", "d9/d76/a21185.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d9/d76/a21185.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d9/d76/a21185.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d9/d76/a21185.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d9/d76/a21185.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d9/d76/a21185.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d9/d76/a21185.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "HandleScript", "d9/d76/a21185.html#a47b991c20c523d151893fefd9d487714", null ],
+    [ "PrepareSpellScript", "d9/d76/a21185.html#ab2db47d0a2694c0734db600e810e190d", null ],
+    [ "Register", "d9/d76/a21185.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
+    [ "Validate", "d9/d76/a21185.html#a89d601f6036fe38238767281f3427e54", null ]
 ];

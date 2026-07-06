@@ -1,5 +1,5 @@
 var a01571 =
 [
-    [ "arena_commandscript", "d6/d91/a12279.html", "d6/d91/a12279" ],
-    [ "AddSC_arena_commandscript", "d5/d10/a01571.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
+    [ "lookup_commandscript", "df/ded/a12417.html", "df/ded/a12417" ],
+    [ "AddSC_lookup_commandscript", "d5/d10/a01571.html#aae75b0f1415c6529e5837e3b27d054f6", null ]
 ];

@@ -1,7 +1,7 @@
 var a13601 =
 [
-    [ "HandleScriptEffect", "d5/d78/a13601.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d5/d78/a13601.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d5/d78/a13601.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d5/d78/a13601.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "boss_apothecary_hummelAI", "db/d51/a13605.html", "db/d51/a13605" ],
+    [ "boss_apothecary_hummel", "d5/d78/a13601.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
+    [ "GetAI", "d5/d78/a13601.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
+    [ "OnQuestReward", "d5/d78/a13601.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
 ];

@@ -1,5 +1,9 @@
 var a08753 =
 [
-    [ "PositionXYZOStreamer", "d9/db4/a08753.html#afddf48b02eea5399d818468cdf8795c5", null ],
-    [ "m_pos", "d9/db4/a08753.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
+    [ "Reset", "d9/db4/a08753.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d9/db4/a08753.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d9/db4/a08753.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d9/db4/a08753.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d9/db4/a08753.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d9/db4/a08753.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

@@ -1,6 +1,7 @@
 var a27757 =
 [
-    [ "go_flamesAI", "d6/d85/a27761.html", "d6/d85/a27761" ],
-    [ "go_flames", "d8/d51/a27757.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d8/d51/a27757.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "HandleDummy", "d8/d51/a27757.html#a120ae48454922c30b0df0a1caf464216", null ],
+    [ "PrepareSpellScript", "d8/d51/a27757.html#ad8cde850116b8d4beef798724c6e4283", null ],
+    [ "Register", "d8/d51/a27757.html#a516709e073a7cc84ada03058195da728", null ],
+    [ "Validate", "d8/d51/a27757.html#ad647af566f06c7e76ef573f670d514ca", null ]
 ];

@@ -1,5 +1,6 @@
 var a19897 =
 [
-    [ "achievement_cant_do_that_while_stunned", "d5/d7f/a19897.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "d5/d7f/a19897.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "CalculateDamage", "d5/d7f/a19897.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d5/d7f/a19897.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d5/d7f/a19897.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

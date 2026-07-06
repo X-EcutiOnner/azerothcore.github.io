@@ -1,6 +1,10 @@
 var a22021 =
 [
-    [ "CheckCast", "d4/d04/a22021.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d4/d04/a22021.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d4/d04/a22021.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_engineer_heliceAI", "d4/d04/a22021.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "d4/d04/a22021.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "d4/d04/a22021.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "d4/d04/a22021.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "d4/d04/a22021.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "WaypointReached", "d4/d04/a22021.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "m_uiChatTimer", "d4/d04/a22021.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

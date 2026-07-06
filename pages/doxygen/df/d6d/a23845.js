@@ -1,11 +1,11 @@
 var a23845 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "df/d6d/a23845.html#af24a8d5ead256d158c86379e032aa889", null ],
-    [ "Reset", "df/d6d/a23845.html#a9bcbd0b0b6b12058a8356ce274b6a597", null ],
-    [ "SetData", "df/d6d/a23845.html#aca6ad097bd7b8e5f1a0cde6bdebb23ad", null ],
-    [ "SpellHit", "df/d6d/a23845.html#a14523a24042d23efbafc7924f394dd04", null ],
-    [ "UpdateAI", "df/d6d/a23845.html#ae5cd38aa2a9cc1727141298323639660", null ],
-    [ "resetTimer", "df/d6d/a23845.html#a0d2649de651279fa6bbe3ae2f18571bb", null ],
-    [ "tapped", "df/d6d/a23845.html#af6412de701f14a7eb325e1aaf33f28cc", null ],
-    [ "tuberGUID", "df/d6d/a23845.html#a2deaa1aeed26b862e93055d90c9139d6", null ]
+    [ "npc_aeranasAI", "df/d6d/a23845.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "JustReachedHome", "df/d6d/a23845.html#a0c48e1cebec95e6de0b7d02a22658c40", null ],
+    [ "Reset", "df/d6d/a23845.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "df/d6d/a23845.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "_defeated", "df/d6d/a23845.html#a2c604dfa9deaaff7b71116b5b54c8771", null ],
+    [ "envelopingWinds_Timer", "df/d6d/a23845.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "df/d6d/a23845.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "df/d6d/a23845.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

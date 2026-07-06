@@ -1,10 +1,8 @@
 var a27469 =
 [
-    [ "CheckProc", "d9/df1/a27469.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "d9/df1/a27469.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "d9/df1/a27469.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "d9/df1/a27469.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "d9/df1/a27469.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "d9/df1/a27469.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "d9/df1/a27469.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "CalcPeriodic", "d9/df1/a27469.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d9/df1/a27469.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d9/df1/a27469.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d9/df1/a27469.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d9/df1/a27469.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

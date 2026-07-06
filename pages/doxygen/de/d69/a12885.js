@@ -1,6 +1,7 @@
 var a12885 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "db/d6c/a12889.html", "db/d6c/a12889" ],
-    [ "instance_gnomeregan", "de/d69/a12885.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "de/d69/a12885.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "HandleDummy", "de/d69/a12885.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "de/d69/a12885.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "de/d69/a12885.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "de/d69/a12885.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

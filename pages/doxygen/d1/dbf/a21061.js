@@ -1,12 +1,13 @@
 var a21061 =
 [
-    [ "npc_ichor_globule", "d1/dbf/a21061.html#a59443a6748d81ef27a030f8656697fc1", null ],
-    [ "AttackStart", "d1/dbf/a21061.html#a1e52599fab1b7e33d958f9815f73c6eb", null ],
-    [ "JustDied", "d1/dbf/a21061.html#af740ee64b1f8510b0bacba4bcfe6d418", null ],
-    [ "MoveInLineOfSight", "d1/dbf/a21061.html#af14fada689a1a6a780ae44865d16e465", null ],
-    [ "Reset", "d1/dbf/a21061.html#a78030360fcd39754744384cdba17fd9e", null ],
-    [ "SpellHit", "d1/dbf/a21061.html#a3d1e68f4b809286d57355de7d4482ae6", null ],
-    [ "UpdateAI", "d1/dbf/a21061.html#acccc54db59a18e78330011465e109439", null ],
-    [ "_events", "d1/dbf/a21061.html#a221c58177666ea1eb4a6b831916297eb", null ],
-    [ "_instance", "d1/dbf/a21061.html#a5d56f5468b146ab2f8905b807bb22edc", null ]
+    [ "npc_ferocious_rhinoAI", "d1/dbf/a21061.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d1/dbf/a21061.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d1/dbf/a21061.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d1/dbf/a21061.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d1/dbf/a21061.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d1/dbf/a21061.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d1/dbf/a21061.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d1/dbf/a21061.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d1/dbf/a21061.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d1/dbf/a21061.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

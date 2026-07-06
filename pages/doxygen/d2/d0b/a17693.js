@@ -1,7 +1,6 @@
 var a17693 =
 [
-    [ "ExtraEffect", "d2/d0b/a17693.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "d2/d0b/a17693.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "d2/d0b/a17693.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "d2/d0b/a17693.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandleScript", "d2/d0b/a17693.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d2/d0b/a17693.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d2/d0b/a17693.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

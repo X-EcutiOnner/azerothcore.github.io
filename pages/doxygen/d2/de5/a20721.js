@@ -1,6 +1,7 @@
 var a20721 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d2/de5/a20721.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d2/de5/a20721.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d2/de5/a20721.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_xt_void_zone", "d2/de5/a20721.html#ac392b70098ff8a486d1eb42c4dcd1551", null ],
+    [ "Reset", "d2/de5/a20721.html#a72b02a51f71370f83b58d3fdb32dccd2", null ],
+    [ "UpdateAI", "d2/de5/a20721.html#a7b49046e49cdf6b94ed6368197daeace", null ],
+    [ "_scheduler", "d2/de5/a20721.html#acfd9e9a23c88e74ad96a14f8fb560612", null ]
 ];

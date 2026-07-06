@@ -1,10 +1,7 @@
 var a14473 =
 [
-    [ "npc_brewfest_super_brew_trigger", "db/d18/a14473.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "db/d18/a14473.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "db/d18/a14473.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "db/d18/a14473.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "db/d18/a14473.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "db/d18/a14473.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "db/d18/a14473.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "OnRemove", "db/d18/a14473.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "db/d18/a14473.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "db/d18/a14473.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "db/d18/a14473.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

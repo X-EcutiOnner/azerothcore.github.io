@@ -1,6 +1,6 @@
 var a00719 =
 [
-    [ "fireworkShowGameobjectIronforge", "dd/dd8/a00719.html#a1c510ef56353251fbd84e641155e90f8", null ],
-    [ "fireworkShowIronforge", "dd/dd8/a00719.html#aac2063b01976ab49960c5cde832a70dc", null ],
-    [ "fireworkShowScheduleIronforge", "dd/dd8/a00719.html#ac473aa81696d6b6374a3062efff6b146", null ]
+    [ "fireworkShowGameobjectOrgrimmar", "dd/dd8/a00719.html#aa00988212bcd8875445e2b120c00025c", null ],
+    [ "fireworkShowOrgrimmar", "dd/dd8/a00719.html#a20e15c8e61c734af478a4849bd54c9d3", null ],
+    [ "fireworkShowScheduleOrgrimmar", "dd/dd8/a00719.html#a2e2ca4fa893601a2122f94a72c18401f", null ]
 ];

@@ -1,7 +1,5 @@
 var a20037 =
 [
-    [ "achievement_flame_leviathan_garage", "de/de5/a20037.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "de/de5/a20037.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "de/de5/a20037.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "de/de5/a20037.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "de/de5/a20037.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "de/de5/a20037.html#affea33614581545c65513bfe533d7246", null ]
 ];

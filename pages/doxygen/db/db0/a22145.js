@@ -1,4 +1,7 @@
 var a22145 =
 [
-    [ "idPatrol", "db/db0/a22145.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
+    [ "HandleScript", "db/db0/a22145.html#ad38771460ddf0f95783718775690d1f0", null ],
+    [ "PrepareSpellScript", "db/db0/a22145.html#a9d3b65b251cc9680352bbf056bb74f05", null ],
+    [ "Register", "db/db0/a22145.html#a3ba23fd54c35c2d2866db647811c948d", null ],
+    [ "Validate", "db/db0/a22145.html#a6a58808356785c25032c2befd429ff2b", null ]
 ];

@@ -1,6 +1,6 @@
 var a15569 =
 [
-    [ "HandleDummy", "dc/d2e/a15569.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "dc/d2e/a15569.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "dc/d2e/a15569.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "FilterTargets", "dc/d2e/a15569.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "dc/d2e/a15569.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "dc/d2e/a15569.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

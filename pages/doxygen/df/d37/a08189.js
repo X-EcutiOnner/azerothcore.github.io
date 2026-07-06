@@ -1,12 +1,12 @@
 var a08189 =
 [
-    [ "far_clip", "df/d37/a08189.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
-    [ "fov", "df/d37/a08189.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
-    [ "near_clip", "df/d37/a08189.html#a9426497de885b901d364c0b3ddd487d9", null ],
-    [ "position_base", "df/d37/a08189.html#abf0892be5ecf6d1e1021e101832396f3", null ],
-    [ "positions", "df/d37/a08189.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
-    [ "rolldata", "df/d37/a08189.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
-    [ "target_position_base", "df/d37/a08189.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
-    [ "target_positions", "df/d37/a08189.html#a12132e4bcc881cab134851938c45e05a", null ],
-    [ "type", "df/d37/a08189.html#afd67c926b538e189b036d88a9a277a2f", null ]
+    [ "HyperlinkInfo", "df/d37/a08189.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "df/d37/a08189.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "df/d37/a08189.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "df/d37/a08189.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "df/d37/a08189.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "df/d37/a08189.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "df/d37/a08189.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "df/d37/a08189.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "df/d37/a08189.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

@@ -1,6 +1,7 @@
 var a16929 =
 [
-    [ "OnPeriodic", "dd/d97/a16929.html#a6f2e191d76f894517aed395866b7e508", null ],
-    [ "PrepareAuraScript", "dd/d97/a16929.html#a571ee1c735b6095408973bfe5f91bcf7", null ],
-    [ "Register", "dd/d97/a16929.html#a6094dc303c034e49fb4e543874db080b", null ]
+    [ "npc_toc_rogueAI", "dd/d97/a16929.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "dd/d97/a16929.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "dd/d97/a16929.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "dd/d97/a16929.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

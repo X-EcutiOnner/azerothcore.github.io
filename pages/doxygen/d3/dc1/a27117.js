@@ -1,6 +1,8 @@
 var a27117 =
 [
-    [ "HandleKnockBack", "d3/dc1/a27117.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d3/dc1/a27117.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d3/dc1/a27117.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "HandleDummy", "d3/dc1/a27117.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d3/dc1/a27117.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d3/dc1/a27117.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d3/dc1/a27117.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d3/dc1/a27117.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

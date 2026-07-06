@@ -1,46 +1,45 @@
 var a02849 =
 [
-    [ "Object", "db/d05/a08719.html", "db/d05/a08719" ],
-    [ "MovementInfo", "d6/d51/a08727.html", "d6/d51/a08727" ],
-    [ "MovementInfo::TransportInfo", "da/dc6/a08731.html", "da/dc6/a08731" ],
-    [ "MovementInfo::JumpInfo", "dd/d6f/a08735.html", "dd/d6f/a08735" ],
-    [ "GridObject< T >", "d5/df0/a08739.html", "d5/df0/a08739" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "da/d5d/a08743.html", "da/d5d/a08743" ],
-    [ "MovableMapObject", "d1/d45/a08747.html", "d1/d45/a08747" ],
-    [ "UpdatableMapObject", "d0/d6a/a08751.html", "d0/d6a/a08751" ],
-    [ "WorldObject", "d0/dbd/a08755.html", "d0/dbd/a08755" ],
-    [ "Acore::ObjectDistanceOrderPred", "d1/dfc/a08759.html", "d1/dfc/a08759" ],
-    [ "UpdateDataMapType", "d5/dd2/a02849.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "GOSummonType", "d5/dd2/a02849.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
-      [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "d5/dd2/a02849.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
-      [ "GO_SUMMON_TIMED_DESPAWN", "d5/dd2/a02849.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]
+    [ "PassengerInfo", "de/dd2/a09169.html", "de/dd2/a09169" ],
+    [ "VehicleSeatAddon", "d1/d60/a09173.html", "d1/d60/a09173" ],
+    [ "VehicleSeat", "d7/d41/a09177.html", "d7/d41/a09177" ],
+    [ "VehicleAccessory", "d1/d6a/a09181.html", "d1/d6a/a09181" ],
+    [ "TransportBase", "d5/d25/a09185.html", "d5/d25/a09185" ],
+    [ "SeatMap", "d5/dd2/a02849.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
+    [ "VehicleAccessoryContainer", "d5/dd2/a02849.html#a5b46179616c0e205a7c933e02f87160b", null ],
+    [ "VehicleAccessoryList", "d5/dd2/a02849.html#af5d682a742080008bd21db9bba6e162f", null ],
+    [ "PowerType", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebd", [
+      [ "POWER_STEAM", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
+      [ "POWER_PYRITE", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
+      [ "POWER_HEAT", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
+      [ "POWER_OOZE", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
+      [ "POWER_BLOOD", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
+      [ "POWER_WRATH", "d5/dd2/a02849.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
     ] ],
-    [ "MapObjectCellMoveState", "d5/dd2/a02849.html#a1833d9b1810b160d0c00f297af237b07", [
-      [ "MAP_OBJECT_CELL_MOVE_NONE", "d5/dd2/a02849.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1", null ],
-      [ "MAP_OBJECT_CELL_MOVE_ACTIVE", "d5/dd2/a02849.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58", null ],
-      [ "MAP_OBJECT_CELL_MOVE_INACTIVE", "d5/dd2/a02849.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a", null ]
+    [ "VehicleExitParameters", "d5/dd2/a02849.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
+      [ "VehicleExitParamNone", "d5/dd2/a02849.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
+      [ "VehicleExitParamOffset", "d5/dd2/a02849.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
+      [ "VehicleExitParamDest", "d5/dd2/a02849.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
+      [ "VehicleExitParamMax", "d5/dd2/a02849.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
     ] ],
-    [ "NotifyFlags", "d5/dd2/a02849.html#ae6d03ea53b22c98f9dd7e3ce829cf389", [
-      [ "NOTIFY_NONE", "d5/dd2/a02849.html#ae6d03ea53b22c98f9dd7e3ce829cf389aae40b53764f8cda7335d348860245cb9", null ],
-      [ "NOTIFY_AI_RELOCATION", "d5/dd2/a02849.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d", null ],
-      [ "NOTIFY_VISIBILITY_CHANGED", "d5/dd2/a02849.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053", null ],
-      [ "NOTIFY_ALL", "d5/dd2/a02849.html#ae6d03ea53b22c98f9dd7e3ce829cf389a8073de571f5d684d5b4ddd10a525322c", null ]
+    [ "VehicleFlags", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
+      [ "VEHICLE_FLAG_NO_STRAFE", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
+      [ "VEHICLE_FLAG_NO_JUMPING", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
+      [ "VEHICLE_FLAG_ALLOW_PITCHING", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
+      [ "VEHICLE_FLAG_CUSTOM_PITCH", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "d5/dd2/a02849.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
     ] ],
-    [ "PhaseMasks", "d5/dd2/a02849.html#a154255f23e41069883118fc4f0d23157", [
-      [ "PHASEMASK_NORMAL", "d5/dd2/a02849.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060", null ],
-      [ "PHASEMASK_ANYWHERE", "d5/dd2/a02849.html#a154255f23e41069883118fc4f0d23157a212ead88887027cc3575f2b07c08af57", null ]
+    [ "VehicleNPCs", "d5/dd2/a02849.html#aecacfdf074f78c4655fc7b038cce5c06", [
+      [ "NPC_EIDOLON_WATCHER", "d5/dd2/a02849.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
+      [ "NPC_LITHE_STALKER", "d5/dd2/a02849.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
     ] ],
-    [ "TempSummonType", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148", [
-      [ "TEMPSUMMON_TIMED_OR_DEAD_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39", null ],
-      [ "TEMPSUMMON_TIMED_OR_CORPSE_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a", null ],
-      [ "TEMPSUMMON_CORPSE_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148aca87dcb32ebfdc5d2d1acd159abe8fd9", null ],
-      [ "TEMPSUMMON_CORPSE_TIMED_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a", null ],
-      [ "TEMPSUMMON_DEAD_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493", null ],
-      [ "TEMPSUMMON_MANUAL_DESPAWN", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a", null ],
-      [ "TEMPSUMMON_DESPAWNED", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OOC_ALIVE", "d5/dd2/a02849.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7", null ]
-    ] ],
-    [ "HEARTBEAT_INTERVAL", "d5/dd2/a02849.html#a8cd21ff3f4267aa848be64aa30c71d24", null ]
+    [ "VehicleSpells", "d5/dd2/a02849.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
+      [ "VEHICLE_SPELL_RIDE_HARDCODED", "d5/dd2/a02849.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
+      [ "VEHICLE_SPELL_PARACHUTE", "d5/dd2/a02849.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
+      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "d5/dd2/a02849.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
+      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "d5/dd2/a02849.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
+    ] ]
 ];

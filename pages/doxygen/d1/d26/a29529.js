@@ -1,10 +1,5 @@
 var a29529 =
 [
-    [ "adt_CELLS", "d7/dc8/a29537.html", "d7/dc8/a29537" ],
-    [ "getMCNK", "d1/d26/a29529.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "d1/d26/a29529.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "d1/d26/a29529.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "d1/d26/a29529.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "d1/d26/a29529.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "d1/d26/a29529.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "SetUp", "d1/d26/a29529.html#a16968eaa948ce60f8dc59421bc9302fb", null ],
+    [ "TearDown", "d1/d26/a29529.html#aef3e1a14f7d01e0bdd9ffaa6a0616f14", null ]
 ];

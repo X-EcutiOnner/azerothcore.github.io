@@ -1,7 +1,15 @@
 var a03311 =
 [
-    [ "GetExplicitDiscoverySpell", "de/d19/a03311.html#a7cdb9e342efe04c1ba8caf202b7b0d96", null ],
-    [ "GetSkillDiscoverySpell", "de/d19/a03311.html#ab50472e4f1f892eb77ce660ef00d808a", null ],
-    [ "HasDiscoveredAllSpells", "de/d19/a03311.html#abdf3c2fcf65212466dfb54053e35024c", null ],
-    [ "LoadSkillDiscoveryTable", "de/d19/a03311.html#addd95f0a239a27ed32cd943aa1052019", null ]
+    [ "MonsterMoveType", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339", [
+      [ "MonsterMoveNormal", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
+      [ "MonsterMoveStop", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
+      [ "MonsterMoveFacingSpot", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
+      [ "MonsterMoveFacingTarget", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
+      [ "MonsterMoveFacingAngle", "de/d19/a03311.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
+    ] ],
+    [ "operator<<", "de/d19/a03311.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
+    [ "operator>>", "de/d19/a03311.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
+    [ "WriteCatmullRomCyclicPath", "de/d19/a03311.html#ae740cc738fed507e64b3243ce62c5952", null ],
+    [ "WriteCatmullRomPath", "de/d19/a03311.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
+    [ "WriteLinearPath", "de/d19/a03311.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
 ];

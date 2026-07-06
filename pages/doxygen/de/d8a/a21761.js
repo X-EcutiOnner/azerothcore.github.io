@@ -1,9 +1,9 @@
 var a21761 =
 [
-    [ "npc_frostbrood_skytalonAI", "de/d8a/a21761.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "de/d8a/a21761.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "de/d8a/a21761.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "de/d8a/a21761.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "de/d8a/a21761.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "de/d8a/a21761.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "npc_wounded_skirmisher", "de/d8a/a21761.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "de/d8a/a21761.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "de/d8a/a21761.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "de/d8a/a21761.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "de/d8a/a21761.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "de/d8a/a21761.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

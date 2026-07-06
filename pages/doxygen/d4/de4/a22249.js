@@ -1,12 +1,5 @@
 var a22249 =
 [
-    [ "boss_anzu", "d4/de4/a22249.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d4/de4/a22249.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d4/de4/a22249.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d4/de4/a22249.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d4/de4/a22249.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d4/de4/a22249.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d4/de4/a22249.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d4/de4/a22249.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d4/de4/a22249.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d4/de4/a22249.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d4/de4/a22249.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

@@ -1,6 +1,7 @@
 var a25789 =
 [
-    [ "HandleEffect", "db/dc3/a25789.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "db/dc3/a25789.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "db/dc3/a25789.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "HandleDummy", "db/dc3/a25789.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "db/dc3/a25789.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "db/dc3/a25789.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "db/dc3/a25789.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

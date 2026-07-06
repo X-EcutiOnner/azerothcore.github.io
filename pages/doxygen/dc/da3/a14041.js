@@ -1,6 +1,10 @@
 var a14041 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "db/da7/a14045.html", "db/da7/a14045" ],
-    [ "npc_lady_sylvanas_windrunner_bfu", "dc/da3/a14041.html#a77e98bc345f7d27f145d4b29c4deb58e", null ],
-    [ "GetAI", "dc/da3/a14041.html#a94fdd0778818fcc6a8b818d38dde6f75", null ]
+    [ "npc_partygoer_pather", "dc/da3/a14041.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "dc/da3/a14041.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "dc/da3/a14041.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "dc/da3/a14041.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "dc/da3/a14041.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "dc/da3/a14041.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "dc/da3/a14041.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

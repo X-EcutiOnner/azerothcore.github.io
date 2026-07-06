@@ -1,5 +1,8 @@
 var a28865 =
 [
-    [ "Exp", "d2/df1/a28865.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d2/df1/a28865.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "ID", "d2/df1/a28865.html#a36958c346c8554d9ab1cfb73ac583818", null ],
+    [ "Model", "d2/df1/a28865.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
+    [ "Origin", "d2/df1/a28865.html#a684c69add50ee545ee606ae456a93336", null ],
+    [ "OriginFacing", "d2/df1/a28865.html#a460723250353c7720cd87677991283cf", null ],
+    [ "SoundID", "d2/df1/a28865.html#aa56be05c7ab4015738e049d75ff365c6", null ]
 ];

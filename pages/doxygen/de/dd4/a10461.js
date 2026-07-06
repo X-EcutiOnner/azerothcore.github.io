@@ -1,8 +1,6 @@
 var a10461 =
 [
-    [ "ownerGuid", "de/dd4/a10461.html#a7c66ffa9f54768a0e81f61e5bcdde014", null ],
-    [ "petitionGuid", "de/dd4/a10461.html#a1bbf412a221b76c4a20765d9a6612182", null ],
-    [ "petitionId", "de/dd4/a10461.html#afa16859ac671ff0410204ea30ebcf429", null ],
-    [ "petitionName", "de/dd4/a10461.html#a91c81356e9aa77641eaa881cd04af5af", null ],
-    [ "petitionType", "de/dd4/a10461.html#aeaf6c421d7545cf98d88b4e552dcff23", null ]
+    [ "FallInitializer", "de/dd4/a10461.html#a618345df62b821d286caadc7179b7d83", null ],
+    [ "operator()", "de/dd4/a10461.html#a7a9b294b6820e229cd95f4fc9bde825b", null ],
+    [ "start_elevation", "de/dd4/a10461.html#ab94604fb6eee50832001908c12044130", null ]
 ];

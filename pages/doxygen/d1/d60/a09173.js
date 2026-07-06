@@ -1,6 +1,11 @@
 var a09173 =
 [
-    [ "m_guid", "d1/d60/a09173.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d1/d60/a09173.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d1/d60/a09173.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "VehicleSeatAddon", "d1/d60/a09173.html#a307b278917998116156e41f9189a582c", null ],
+    [ "VehicleSeatAddon", "d1/d60/a09173.html#adaec12df869a9ffc81174f5ef1f65606", null ],
+    [ "ExitParameter", "d1/d60/a09173.html#afbb8de193522f1182efff50064e5f83d", null ],
+    [ "ExitParameterO", "d1/d60/a09173.html#a06e385ea5cf0441721432925251a5a63", null ],
+    [ "ExitParameterX", "d1/d60/a09173.html#a521d7a5eda620d0ced0b1309f3c96e17", null ],
+    [ "ExitParameterY", "d1/d60/a09173.html#ad343c7149b12cffe3a3de48ad73685a2", null ],
+    [ "ExitParameterZ", "d1/d60/a09173.html#add1ea5a9e605a49d0ddbcea0f804bd3b", null ],
+    [ "SeatOrientationOffset", "d1/d60/a09173.html#a374c73b40f6e6dad103b172d1829a31d", null ]
 ];

@@ -1,8 +1,8 @@
 var a24193 =
 [
-    [ "HandleDamage", "d7/d7a/a24193.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d7/d7a/a24193.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d7/d7a/a24193.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d7/d7a/a24193.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d7/d7a/a24193.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d7/d7a/a24193.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d7/d7a/a24193.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d7/d7a/a24193.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d7/d7a/a24193.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d7/d7a/a24193.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

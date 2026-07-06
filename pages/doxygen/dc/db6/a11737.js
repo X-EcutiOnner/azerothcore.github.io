@@ -1,4 +1,5 @@
 var a11737 =
 [
-    [ "operator()", "dc/db6/a11737.html#ac27052eb73a3723e8678c92aeeb2f499", null ]
+    [ "SocketAdded", "dc/db6/a11737.html#a01090d6713f49dc026f77f8481b492cb", null ],
+    [ "SocketRemoved", "dc/db6/a11737.html#a4a978f9304e4aeabfb9ce1998b8a27cc", null ]
 ];

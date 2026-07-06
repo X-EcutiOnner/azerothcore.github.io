@@ -1,6 +1,6 @@
 var a26749 =
 [
-    [ "OnApply", "d4/d16/a26749.html#a50ced6d5a475ccad9429dfbb05130394", null ],
-    [ "PrepareAuraScript", "d4/d16/a26749.html#abd02e129b1201449d473a66aea77d569", null ],
-    [ "Register", "d4/d16/a26749.html#a8c09775f642335252c6e548900dc9d3a", null ]
+    [ "HandleProc", "d4/d16/a26749.html#ac81521531646341356525465bac2a816", null ],
+    [ "PrepareAuraScript", "d4/d16/a26749.html#aa57cede2bfc6354c8b95410d8fb50575", null ],
+    [ "Register", "d4/d16/a26749.html#a8daf8414ff4705741dfed0e818607741", null ]
 ];

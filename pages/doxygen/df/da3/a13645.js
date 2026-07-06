@@ -1,7 +1,6 @@
 var a13645 =
 [
-    [ "OnRemove", "df/da3/a13645.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
-    [ "PrepareAuraScript", "df/da3/a13645.html#ade353aafb960cabdb615718f41f485e8", null ],
-    [ "Register", "df/da3/a13645.html#af1c312778a13f7fe8d174247f69258ac", null ],
-    [ "Validate", "df/da3/a13645.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "d5/dea/a13649.html", "d5/dea/a13649" ],
+    [ "instance_shadowfang_keep", "df/da3/a13645.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
+    [ "GetInstanceScript", "df/da3/a13645.html#a5c076ed86470247de5b4e3733b70fa25", null ]
 ];

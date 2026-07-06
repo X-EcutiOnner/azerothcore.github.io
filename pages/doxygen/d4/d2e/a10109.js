@@ -1,10 +1,10 @@
 var a10109 =
 [
-    [ "ZoneDynamicInfo", "d4/d2e/a10109.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d4/d2e/a10109.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d4/d2e/a10109.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d4/d2e/a10109.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d4/d2e/a10109.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d4/d2e/a10109.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d4/d2e/a10109.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "MailReceiver", "d4/d2e/a10109.html#a6fba3ff0ab3167197f569631d766ce14", null ],
+    [ "MailReceiver", "d4/d2e/a10109.html#af0b094a704463ed76b1c08bc3cab0380", null ],
+    [ "MailReceiver", "d4/d2e/a10109.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
+    [ "GetPlayer", "d4/d2e/a10109.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
+    [ "GetPlayerGUIDLow", "d4/d2e/a10109.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
+    [ "m_receiver", "d4/d2e/a10109.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
+    [ "m_receiver_lowguid", "d4/d2e/a10109.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
 ];

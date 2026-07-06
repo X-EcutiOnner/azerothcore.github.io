@@ -1,8 +1,14 @@
 var a12529 =
 [
-    [ "boss_highlord_omokk", "d0/ded/a12529.html#a31dd2c47b3ed33fa65d3b6a7a5cb384c", null ],
-    [ "JustDied", "d0/ded/a12529.html#a2a8931227eb65759ceebd27919976cb5", null ],
-    [ "JustEngagedWith", "d0/ded/a12529.html#a0bd4e1e0f72a0b6a8792d508c401caf8", null ],
-    [ "Reset", "d0/ded/a12529.html#ada6bf702dc1827e60b558b4fb752b789", null ],
-    [ "UpdateAI", "d0/ded/a12529.html#a131ebd1dd8d95c7d910af1b21442c861", null ]
+    [ "tele_commandscript", "d0/ded/a12529.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d0/ded/a12529.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d0/ded/a12529.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d0/ded/a12529.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d0/ded/a12529.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d0/ded/a12529.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d0/ded/a12529.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d0/ded/a12529.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d0/ded/a12529.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d0/ded/a12529.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d0/ded/a12529.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

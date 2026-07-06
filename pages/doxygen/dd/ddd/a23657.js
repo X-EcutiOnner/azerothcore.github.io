@@ -1,6 +1,5 @@
 var a23657 =
 [
-    [ "go_beaconAI", "dc/df8/a23661.html", "dc/df8/a23661" ],
-    [ "go_beacon", "dd/ddd/a23657.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "dd/ddd/a23657.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_telonicus", "dd/ddd/a23657.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "dd/ddd/a23657.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

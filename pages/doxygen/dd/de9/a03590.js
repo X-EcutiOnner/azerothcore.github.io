@@ -1,4 +1,10 @@
 var a03590 =
 [
-    [ "ScriptRegistry< WorldMapScript >", "dd/de9/a03590.html#a729e333e6d0c4e5e353dd22c9612f446", null ]
+    [ "GameEventScript", "d0/d57/a10721.html", "d0/d57/a10721" ],
+    [ "GameEventHook", "dd/de9/a03590.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "dd/de9/a03590.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "dd/de9/a03590.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "dd/de9/a03590.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "dd/de9/a03590.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

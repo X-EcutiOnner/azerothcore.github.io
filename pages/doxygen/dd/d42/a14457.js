@@ -1,6 +1,5 @@
 var a14457 =
 [
-    [ "npc_brewfest_bark_trigger", "dd/d42/a14457.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "dd/d42/a14457.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "dd/d42/a14457.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "at_zulgurub_temple_speech", "dd/d42/a14457.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "dd/d42/a14457.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

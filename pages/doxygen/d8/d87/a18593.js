@@ -1,6 +1,6 @@
 var a18593 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/d39/a18597.html", "df/d39/a18597" ],
-    [ "npc_icc_lk_checktarget", "d8/d87/a18593.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d8/d87/a18593.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_tirion_fordringAI", "df/d39/a18597.html", "df/d39/a18597" ],
+    [ "npc_tirion_fordring_tft", "d8/d87/a18593.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d8/d87/a18593.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

@@ -1,7 +1,7 @@
 var a17969 =
 [
-    [ "OnPeriodic", "d7/d58/a17969.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d7/d58/a17969.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d7/d58/a17969.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d7/d58/a17969.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_gunship_boarding_leaderAI", "d7/d58/a17969.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d7/d58/a17969.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d7/d58/a17969.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d7/d58/a17969.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

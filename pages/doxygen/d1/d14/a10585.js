@@ -1,15 +1,12 @@
 var a10585 =
 [
-    [ "AuctionHouseScript", "d1/d14/a10585.html#af3e9ec3b9834f9d72106430af40e8727", null ],
-    [ "OnAuctionAdd", "d1/d14/a10585.html#a39d172304de882d87f87e14d1df107da", null ],
-    [ "OnAuctionExpire", "d1/d14/a10585.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
-    [ "OnAuctionRemove", "d1/d14/a10585.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
-    [ "OnAuctionSuccessful", "d1/d14/a10585.html#a57f1ea958e80a30031eded088dd3c8af", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "d1/d14/a10585.html#a067633221bf8e745c9ae7c4abee13fba", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "d1/d14/a10585.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "d1/d14/a10585.html#acfc00998027675d76436d4d05f578f8c", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "d1/d14/a10585.html#a3bb999a955b7b8670264c859094fe9a0", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "d1/d14/a10585.html#a0ae714b1349e20e4303523fd551874b3", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "d1/d14/a10585.html#a050a47e57df42faa26c8d500b7848ecf", null ],
-    [ "OnBeforeAuctionHouseMgrUpdate", "d1/d14/a10585.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
+    [ "QuestLocale", "d1/d14/a10585.html#a887d474a470ee0278fb4b465a7ad9547", null ],
+    [ "AreaDescription", "d1/d14/a10585.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
+    [ "CompletedText", "d1/d14/a10585.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
+    [ "Details", "d1/d14/a10585.html#afd23d37c92f2b28e1c125bba0d670497", null ],
+    [ "Objectives", "d1/d14/a10585.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
+    [ "ObjectiveText", "d1/d14/a10585.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
+    [ "OfferRewardText", "d1/d14/a10585.html#aaba6d07625232a77e3457454f7d4fa77", null ],
+    [ "RequestItemsText", "d1/d14/a10585.html#a764d2092084454844e59c484fb637017", null ],
+    [ "Title", "d1/d14/a10585.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
 ];

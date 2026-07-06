@@ -1,7 +1,6 @@
 var a06417 =
 [
-    [ "SpellTargetSelector", "df/da9/a06417.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "df/da9/a06417.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "df/da9/a06417.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "df/da9/a06417.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "SavedAddon", "df/da9/a06417.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "df/da9/a06417.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "df/da9/a06417.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

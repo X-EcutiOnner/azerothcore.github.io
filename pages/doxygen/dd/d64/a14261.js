@@ -1,6 +1,5 @@
 var a14261 =
 [
-    [ "boss_hakkarAI", "d4/d6c/a14265.html", "d4/d6c/a14265" ],
-    [ "boss_hakkar", "dd/d64/a14261.html#a834bd1f223154fbf1be94bf43136da28", null ],
-    [ "GetAI", "dd/d64/a14261.html#aff3a089e30dcddfde4db372104153723", null ]
+    [ "npc_mikhail", "dd/d64/a14261.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "dd/d64/a14261.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

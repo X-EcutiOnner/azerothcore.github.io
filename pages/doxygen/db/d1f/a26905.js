@@ -1,10 +1,7 @@
 var a26905 =
 [
-    [ "HandleProc", "db/d1f/a26905.html#af7ed59bccd5a9db04e37753e813377b6", null ],
-    [ "OnRemove", "db/d1f/a26905.html#a7dbe609ad8ced19cfa2b5625ed2a3923", null ],
-    [ "PrepareAuraScript", "db/d1f/a26905.html#a2280ebe1a928d0962c7f67e22405db18", null ],
-    [ "Register", "db/d1f/a26905.html#a1e53dfab9d98846d404ea7f57555c941", null ],
-    [ "SetRedirectTarget", "db/d1f/a26905.html#a6ed3efbadf6936d9c2f81ab1b97595ab", null ],
-    [ "Validate", "db/d1f/a26905.html#ad371bd41e4653c0a8b729321dbc830a1", null ],
-    [ "_redirectTarget", "db/d1f/a26905.html#a9baf177530d3096f06e8f37220cfb0fa", null ]
+    [ "HandleDummy", "db/d1f/a26905.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "db/d1f/a26905.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "db/d1f/a26905.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "db/d1f/a26905.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

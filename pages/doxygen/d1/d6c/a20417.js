@@ -1,5 +1,5 @@
 var a20417 =
 [
-    [ "go_ulduar_working_harpoon", "d1/d6c/a20417.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "d1/d6c/a20417.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "achievement_staying_buffed_all_winter_25", "d1/d6c/a20417.html#a91f0ab3bada837cff6414350b98a27a3", null ],
+    [ "OnCheck", "d1/d6c/a20417.html#a36591082184bc8466e124bad9a910545", null ]
 ];

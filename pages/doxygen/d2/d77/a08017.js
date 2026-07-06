@@ -1,5 +1,4 @@
 var a08017 =
 [
-    [ "IsColorValid", "d2/d77/a08017.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
-    [ "IsTextValid", "d2/d77/a08017.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
+    [ "type", "d2/d77/a08017.html#aac128f2d5d1c3b1eb5bdd3c76a2a65e9", null ]
 ];

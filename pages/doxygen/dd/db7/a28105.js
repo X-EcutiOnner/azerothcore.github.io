@@ -1,6 +1,6 @@
 var a28105 =
 [
-    [ "npc_injured_patientAI", "de/df2/a28109.html", "de/df2/a28109" ],
-    [ "npc_injured_patient", "dd/db7/a28105.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "dd/db7/a28105.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "go_soulwellAI", "de/df2/a28109.html", "de/df2/a28109" ],
+    [ "go_soulwell", "dd/db7/a28105.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "dd/db7/a28105.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

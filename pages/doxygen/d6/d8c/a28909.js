@@ -1,5 +1,5 @@
 var a28909 =
 [
-    [ "CastTime", "d6/d8c/a28909.html#af0bf895b1a5d61974cb63230b786c55e", null ],
-    [ "ID", "d6/d8c/a28909.html#a41b1059fc4059bd198925861a9414497", null ]
+    [ "Itemlvl", "d6/d8c/a28909.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d6/d8c/a28909.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

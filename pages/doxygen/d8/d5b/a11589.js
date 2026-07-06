@@ -1,8 +1,6 @@
 var a11589 =
 [
-    [ "SkillPerfectItemEntry", "d8/d5b/a11589.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "d8/d5b/a11589.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "d8/d5b/a11589.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "d8/d5b/a11589.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "d8/d5b/a11589.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "PushQuestToParty", "d8/d5b/a11589.html#a3c49c83653ef26f2dcaf5c73c29066e0", null ],
+    [ "Read", "d8/d5b/a11589.html#aacb4c91a7fa1cd2c7db6dd9b7825e70c", null ],
+    [ "QuestId", "d8/d5b/a11589.html#a0d30347159622093b52d0936d93a63bf", null ]
 ];

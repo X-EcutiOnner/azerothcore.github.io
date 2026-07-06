@@ -1,9 +1,10 @@
 var a23357 =
 [
-    [ "boss_high_botanist_freywinn", "d7/d2d/a23357.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d7/d2d/a23357.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d7/d2d/a23357.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d7/d2d/a23357.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d7/d2d/a23357.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d7/d2d/a23357.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "boss_kelidan_the_breaker", "d7/d2d/a23357.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "d7/d2d/a23357.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "d7/d2d/a23357.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "d7/d2d/a23357.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "d7/d2d/a23357.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "d7/d2d/a23357.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "d7/d2d/a23357.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

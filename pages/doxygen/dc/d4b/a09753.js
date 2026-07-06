@@ -1,10 +1,9 @@
 var a09753 =
 [
-    [ "GameObjectInRangeCheck", "dc/d4b/a09753.html#a62075fc1b342fe6e40998dad928da71a", null ],
-    [ "operator()", "dc/d4b/a09753.html#aa49818fa638dbd3909e5f563383346f2", null ],
-    [ "entry", "dc/d4b/a09753.html#a9223c931b791ad689451f7f0c874b6a9", null ],
-    [ "range", "dc/d4b/a09753.html#addf45c48385df26aa544957d7d24f1ec", null ],
-    [ "x", "dc/d4b/a09753.html#af52ee33b2324eb80f4ad47f2eee1dbb5", null ],
-    [ "y", "dc/d4b/a09753.html#a98acab0031dbf8b0a3943c3a6522c9d3", null ],
-    [ "z", "dc/d4b/a09753.html#a814909bb047b8b0e0dd4f7ba0c479c64", null ]
+    [ "NearestAttackableUnitInObjectRangeCheck", "dc/d4b/a09753.html#ae2f43e2036047622ec88de3db08ea668", null ],
+    [ "NearestAttackableUnitInObjectRangeCheck", "dc/d4b/a09753.html#a8deef14a2c11f9ccd9613614124a7d8e", null ],
+    [ "operator()", "dc/d4b/a09753.html#a2f966e38682e6a02a120ad90ba19f7a4", null ],
+    [ "i_funit", "dc/d4b/a09753.html#a88be7342d10008fc394f21b9a5e14162", null ],
+    [ "i_obj", "dc/d4b/a09753.html#a6c1c4e5b85f6f7958578afb6c6f2af98", null ],
+    [ "i_range", "dc/d4b/a09753.html#a26242657d6f2eb61d6f8fcac30357381", null ]
 ];

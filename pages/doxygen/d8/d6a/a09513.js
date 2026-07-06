@@ -1,13 +1,12 @@
 var a09513 =
 [
-    [ "WorldObjectWorker", "d8/d6a/a09513.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "d8/d6a/a09513.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "d8/d6a/a09513.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "d8/d6a/a09513.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "d8/d6a/a09513.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "d8/d6a/a09513.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "d8/d6a/a09513.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "d8/d6a/a09513.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "d8/d6a/a09513.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "d8/d6a/a09513.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "FloatHeightData", "d7/dfc/a09525.html", "d7/dfc/a09525" ],
+    [ "Uint16HeightData", "d6/de2/a09517.html", "d6/de2/a09517" ],
+    [ "Uint8HeightData", "da/d9d/a09521.html", "da/d9d/a09521" ],
+    [ "HeightPlanesType", "d8/d6a/a09513.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
+    [ "floatHeightData", "d8/d6a/a09513.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
+    [ "gridHeight", "d8/d6a/a09513.html#a1f989ab0921de350dc2410129028201f", null ],
+    [ "minHeightPlanes", "d8/d6a/a09513.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
+    [ "uint16HeightData", "d8/d6a/a09513.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
+    [ "uint8HeightData", "d8/d6a/a09513.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
 ];

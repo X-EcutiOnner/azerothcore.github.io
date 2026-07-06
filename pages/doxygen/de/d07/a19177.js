@@ -1,6 +1,6 @@
 var a19177 =
 [
-    [ "boss_gluthAI", "d8/d3f/a19181.html", "d8/d3f/a19181" ],
-    [ "boss_gluth", "de/d07/a19177.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "de/d07/a19177.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "npc_icc_valkyr_heraldAI", "d8/d3f/a19181.html", "d8/d3f/a19181" ],
+    [ "npc_icc_valkyr_herald", "de/d07/a19177.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "de/d07/a19177.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

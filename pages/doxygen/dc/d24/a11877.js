@@ -1,6 +1,5 @@
 var a11877 =
 [
-    [ "EffectAbsorbHandler", "dc/d24/a11877.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "dc/d24/a11877.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "dc/d24/a11877.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "ImplicitTargetType", "dc/d24/a11877.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "dc/d24/a11877.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

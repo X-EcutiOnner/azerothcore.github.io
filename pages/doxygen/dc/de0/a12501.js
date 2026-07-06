@@ -1,12 +1,12 @@
 var a12501 =
 [
-    [ "boss_doomrel", "dc/de0/a12501.html#adc8f26522b88ada86c2ee937daa8fbd1", null ],
-    [ "EnterEvadeMode", "dc/de0/a12501.html#a5f6c139a7be348abeda3b883c2b3f5be", null ],
-    [ "JustEngagedWith", "dc/de0/a12501.html#a559c1619a97e50b03db6c8abc7190f91", null ],
-    [ "Reset", "dc/de0/a12501.html#af30f3385bb1ca366f335ca3e19849704", null ],
-    [ "sGossipSelect", "dc/de0/a12501.html#ad80c97c7d8d8cd4db466d65ecda8dd4f", null ],
-    [ "UpdateAI", "dc/de0/a12501.html#a92cdad912f54235ab9c4cd788f17e293", null ],
-    [ "_events", "dc/de0/a12501.html#a1687755cadc484d431497a320e9509f3", null ],
-    [ "instance", "dc/de0/a12501.html#aa0d131530564cc40af48bc31f9f67a7d", null ],
-    [ "Voidwalkers", "dc/de0/a12501.html#afb365d8b32d2610b3d398b6f3a1f1bc6", null ]
+    [ "rbac_commandscript", "dc/de0/a12501.html#ad5d80b189a8ddaf6b5927c81668a7d74", null ],
+    [ "GetCommands", "dc/de0/a12501.html#a79aea8dac765cfb1a2f12264b58b4227", null ],
+    [ "GetRBACData", "dc/de0/a12501.html#a00da7ed9027950938ec869e678111502", null ],
+    [ "GetSecurityLevelName", "dc/de0/a12501.html#afcfc224e4b39db42ed6efeb5e49ecc7a", null ],
+    [ "HandleRBACListPermissionsCommand", "dc/de0/a12501.html#a80f84e8eeebfd70b4ac7bc049bf4759c", null ],
+    [ "HandleRBACPermDenyCommand", "dc/de0/a12501.html#acc074437ff26c253cf91772de9117fbf", null ],
+    [ "HandleRBACPermGrantCommand", "dc/de0/a12501.html#ad4254acff93e13b7218b086281d13676", null ],
+    [ "HandleRBACPermListCommand", "dc/de0/a12501.html#a324227f3398500ca0a5b7dd141698951", null ],
+    [ "HandleRBACPermRevokeCommand", "dc/de0/a12501.html#adf8932879f77b25833cf55dc2924ac29", null ]
 ];

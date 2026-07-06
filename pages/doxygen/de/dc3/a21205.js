@@ -1,8 +1,6 @@
 var a21205 =
 [
-    [ "npc_mootoo_the_youngerAI", "de/dc3/a21205.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "de/dc3/a21205.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "de/dc3/a21205.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "de/dc3/a21205.html#ac758a992ed0d62a272930c84d617b348", null ],
-    [ "WaypointReached", "de/dc3/a21205.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_koralonAI", "d3/d05/a21209.html", "d3/d05/a21209" ],
+    [ "boss_koralon", "de/dc3/a21205.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "de/dc3/a21205.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

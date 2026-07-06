@@ -1,5 +1,6 @@
 var a14633 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d3/d00/a14633.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d3/d00/a14633.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_brewfest_keg_reciver", "d3/d00/a14633.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "d3/d00/a14633.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "d3/d00/a14633.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

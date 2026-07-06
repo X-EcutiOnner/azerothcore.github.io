@@ -1,6 +1,6 @@
 var a25101 =
 [
-    [ "OnProc", "db/db8/a25101.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "db/db8/a25101.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "db/db8/a25101.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "HandleScriptEffect", "db/db8/a25101.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
+    [ "PrepareSpellScript", "db/db8/a25101.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
+    [ "Register", "db/db8/a25101.html#ae01695fd336fca36a7d2569ca741fba5", null ]
 ];

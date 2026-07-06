@@ -1,4 +1,5 @@
 var a12921 =
 [
-    [ "PrepareAuraScript", "d2/dcd/a12921.html#aae5dc71af1a0fade2da9ee88875896a5", null ]
+    [ "at_orb_of_command", "d2/dcd/a12921.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "d2/dcd/a12921.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

@@ -1,5 +1,6 @@
 var a22973 =
 [
-    [ "at_quagmirran_lair", "d4/dce/a22973.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d4/dce/a22973.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "HandleEffectRemove", "d4/dce/a22973.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
+    [ "PrepareAuraScript", "d4/dce/a22973.html#a5fa56f4d61c63487919bb2080795e391", null ],
+    [ "Register", "d4/dce/a22973.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
 ];

@@ -1,13 +1,17 @@
 var a14617 =
 [
-    [ "go_firework_show", "d7/d65/a14617.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d7/d65/a14617.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d7/d65/a14617.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d7/d65/a14617.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d7/d65/a14617.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d7/d65/a14617.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d7/d65/a14617.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d7/d65/a14617.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d7/d65/a14617.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d7/d65/a14617.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "instance_zulgurub_InstanceMapScript", "d7/d65/a14617.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "d7/d65/a14617.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "d7/d65/a14617.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "d7/d65/a14617.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "d7/d65/a14617.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "d7/d65/a14617.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "d7/d65/a14617.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "d7/d65/a14617.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "d7/d65/a14617.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "d7/d65/a14617.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "d7/d65/a14617.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "d7/d65/a14617.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "d7/d65/a14617.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "d7/d65/a14617.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

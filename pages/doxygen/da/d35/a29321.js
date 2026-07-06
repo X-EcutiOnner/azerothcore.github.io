@@ -1,9 +1,6 @@
 var a29321 =
 [
-    [ "CountQuestOnCreature", "da/d35/a29321.html#a4bf05b65d940e61567667d0939e177e5", null ],
-    [ "SetUp", "da/d35/a29321.html#a4788953a58bbea222cf59662b4427e72", null ],
-    [ "SimulateReload", "da/d35/a29321.html#a8eab2618428296763f8fd3d2159ce7a3", null ],
-    [ "SimulateSpawn1Object", "da/d35/a29321.html#a82c53349ba3754a75b2c1570fe413d09", null ],
-    [ "TearDown", "da/d35/a29321.html#acf6a952f91cf2eaeea693aaf761cde91", null ],
-    [ "creatureQuestMap", "da/d35/a29321.html#a7bdf871c2e47b693c1ede58c1f596ae1", null ]
+    [ "SetUp", "da/d35/a29321.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
+    [ "TearDown", "da/d35/a29321.html#a3bc271279472966f9dae906f9f77119b", null ],
+    [ "confFilePath", "da/d35/a29321.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
 ];

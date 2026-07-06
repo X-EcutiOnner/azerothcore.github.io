@@ -1,11 +1,14 @@
 var a07833 =
 [
-    [ "wrapper_func", "db/d8b/a07833.html#a4ebb895343c2cfae053a605aafe0e461", null ],
-    [ "CommandInvoker", "db/d8b/a07833.html#a6541779cccd36a87d65acc1b6a9725e2", null ],
-    [ "CommandInvoker", "db/d8b/a07833.html#ad941d54b994fbfe0f572348d18a790be", null ],
-    [ "CommandInvoker", "db/d8b/a07833.html#a6b693468375cc6b92870194e10eb4140", null ],
-    [ "operator bool", "db/d8b/a07833.html#aa00bfcf3938781f5e454f7acddb12e7e", null ],
-    [ "operator()", "db/d8b/a07833.html#a611756a2205ffb2bccabb53929a4644b", null ],
-    [ "_handler", "db/d8b/a07833.html#af9bece7be346ed85c5b45cc07c7b176a", null ],
-    [ "_wrapper", "db/d8b/a07833.html#a1605d492889200f2d18d6759882913aa", null ]
+    [ "AccountId", "db/d8b/a07833.html#ae1921d1e949cec70ebbd52779b775df6", null ],
+    [ "ArenaTeamId", "db/d8b/a07833.html#a1d094e514af9970b0239cc8e27da06bc", null ],
+    [ "Class", "db/d8b/a07833.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
+    [ "GroupGuid", "db/d8b/a07833.html#a4b6f5540de2e47959a053696698e8e05", null ],
+    [ "Guid", "db/d8b/a07833.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
+    [ "GuildId", "db/d8b/a07833.html#a4fba749bb66642a1601c5cb37c756222", null ],
+    [ "Level", "db/d8b/a07833.html#a41ea77c9e690336b709259bfccbd939f", null ],
+    [ "MailCount", "db/d8b/a07833.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
+    [ "Name", "db/d8b/a07833.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
+    [ "Race", "db/d8b/a07833.html#aa57c5abbbd7218d26e4156b310229766", null ],
+    [ "Sex", "db/d8b/a07833.html#a91c17eef26be0a18823a9834853c296a", null ]
 ];

@@ -1,7 +1,5 @@
 var a27777 =
 [
-    [ "go_bear_trapAI", "d0/d4f/a27777.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d0/d4f/a27777.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d0/d4f/a27777.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d0/d4f/a27777.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "achievement_bg_ic_glaive_grave", "d0/d4f/a27777.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d0/d4f/a27777.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

@@ -1,12 +1,17 @@
 var a14945 =
 [
-    [ "boss_kazrogal", "d2/d8f/a14945.html#a2b3cc0e99c478c55f907898fbec2b8b2", null ],
-    [ "DoAction", "d2/d8f/a14945.html#a7721debceeefaeb69e71855b8e8742f8", null ],
-    [ "GetMarkRepeatTimer", "d2/d8f/a14945.html#a0b54f8c935d09367d7e6b7dbf6c4ce61", null ],
-    [ "JustDied", "d2/d8f/a14945.html#abc839abddfbb5fb1e1dd3a67e0b661cb", null ],
-    [ "JustEngagedWith", "d2/d8f/a14945.html#a2c0aafd271b2500d32f5add7e75cd990", null ],
-    [ "KilledUnit", "d2/d8f/a14945.html#ab1439114a84d85947106d979f38d12fa", null ],
-    [ "Reset", "d2/d8f/a14945.html#acb9f4ee5d97b43082bf6fc0c424685ab", null ],
-    [ "_markCounter", "d2/d8f/a14945.html#a54ef8b88bf62e260e19a964d1926ef4a", null ],
-    [ "_recentlySpoken", "d2/d8f/a14945.html#ad7401abae1b25d58ed93cc800d75bc26", null ]
+    [ "npc_midsummer_ribbon_pole_target", "d2/d8f/a14945.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
+    [ "DoCleanupChecks", "d2/d8f/a14945.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
+    [ "DoDancingFLameChecks", "d2/d8f/a14945.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
+    [ "DoFireworkChecks", "d2/d8f/a14945.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
+    [ "DoFlameCircleChecks", "d2/d8f/a14945.html#af37e104b67dcf9a2c181c142d56cc708", null ],
+    [ "DoGroundFlowerChecks", "d2/d8f/a14945.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
+    [ "DoSpewLavaChecks", "d2/d8f/a14945.html#a94086429fe5cf506c64ea79ebcf03317", null ],
+    [ "LocateRibbonPole", "d2/d8f/a14945.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
+    [ "SpawnFireSpiralBunny", "d2/d8f/a14945.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
+    [ "SpellHit", "d2/d8f/a14945.html#ab732995946655894611eb1c12ce4e8a8", null ],
+    [ "UpdateAI", "d2/d8f/a14945.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
+    [ "_bunny", "d2/d8f/a14945.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
+    [ "_dancerList", "d2/d8f/a14945.html#a41e453f742a06bc7485e290756dbc746", null ],
+    [ "_ribbonPole", "d2/d8f/a14945.html#aeea38608ae98cd5597c104ea04e32523", null ]
 ];

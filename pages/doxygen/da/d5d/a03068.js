@@ -1,6 +1,5 @@
 var a03068 =
 [
-    [ "clearAcceptTradeMode", "da/d5d/a03068.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "da/d5d/a03068.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "da/d5d/a03068.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "BuildPartyLockDungeonBlock", "da/d5d/a03068.html#ad66b117794d47e10cfd7ba8bd40d4291", null ],
+    [ "BuildPlayerLockDungeonBlock", "da/d5d/a03068.html#aded010efcdae2fc43acfab5ff8fbf4ad", null ]
 ];

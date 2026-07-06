@@ -1,18 +1,17 @@
 var a03833 =
 [
-    [ "GroupQueueInfo", "d0/d18/a07667.html", "d0/d18/a07667" ],
-    [ "BattlegroundQueue", "d9/d13/a07671.html", "d9/d13/a07671" ],
-    [ "BattlegroundQueue::SelectionPool", "db/d70/a07675.html", "db/d70/a07675" ],
-    [ "BGQueueInviteEvent", "d0/d33/a07679.html", "d0/d33/a07679" ],
-    [ "BGQueueRemoveEvent", "d6/d11/a07683.html", "d6/d11/a07683" ],
-    [ "BattlegroundQueueGroupTypes", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17", [
-      [ "BG_QUEUE_PREMADE_ALLIANCE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a8f1f06d0124e05efcb390e0e9a29ddf4", null ],
-      [ "BG_QUEUE_PREMADE_HORDE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a39d0b398e1bcd59620eb0f8701139d1c", null ],
-      [ "BG_QUEUE_NORMAL_ALLIANCE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17a4b31b889f93f89bfaacde424717c2697", null ],
-      [ "BG_QUEUE_NORMAL_HORDE", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17aea585c62a155542b2d643e25d554f15d", null ],
-      [ "BG_QUEUE_CFBG", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17ab87d2294b56bc938b1c7bc14c5040239", null ],
-      [ "BG_QUEUE_MAX", "de/d6a/a03833.html#a589e9d4a3badd48f91fddc2afa661b17adc82de1f737fd5356f21d83ade1ff992", null ]
+    [ "Arena", "dc/d82/a07589.html", "dc/d82/a07589" ],
+    [ "ArenaBroadcastTexts", "de/d6a/a03833.html#a407f2036481e3d9e2def3daa50546c71", [
+      [ "ARENA_TEXT_START_ONE_MINUTE", "de/d6a/a03833.html#a407f2036481e3d9e2def3daa50546c71a12b484d249dd320cfc39bdf39279d854", null ],
+      [ "ARENA_TEXT_START_THIRTY_SECONDS", "de/d6a/a03833.html#a407f2036481e3d9e2def3daa50546c71a49cdd0c5a035f182212d6fe53a1e2084", null ],
+      [ "ARENA_TEXT_START_FIFTEEN_SECONDS", "de/d6a/a03833.html#a407f2036481e3d9e2def3daa50546c71a96636e959a178535f5d886c81ec6a8d9", null ],
+      [ "ARENA_TEXT_START_BATTLE_HAS_BEGUN", "de/d6a/a03833.html#a407f2036481e3d9e2def3daa50546c71a60ff93f414424628c66faf8f424f1dcd", null ]
     ] ],
-    [ "BG_QUEUE_ANNOUNCER_IMMEDIATE_DEBOUNCE", "de/d6a/a03833.html#a532cb5269831c504ba78101c6f3d61c9", null ],
-    [ "COUNT_OF_PLAYERS_TO_AVERAGE_WAIT_TIME", "de/d6a/a03833.html#aebc536d6c303d31049ad05f333c275ba", null ]
+    [ "ArenaSpellIds", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9", [
+      [ "SPELL_ALLIANCE_GOLD_FLAG", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a310e16f368a3a7d80eeecbaecd5c489c", null ],
+      [ "SPELL_ALLIANCE_GREEN_FLAG", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9aeae9474d707e5496dfdf0fd49871bb9f", null ],
+      [ "SPELL_HORDE_GOLD_FLAG", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a83058f9219943bb8b4d4a3024d172af0", null ],
+      [ "SPELL_HORDE_GREEN_FLAG", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9ad76f572a30c966179ca9c2c2c26f4222", null ],
+      [ "SPELL_LAST_MAN_STANDING", "de/d6a/a03833.html#a05b7784b7a9a1ce8e6367f6f9bb875d9a20018007a38c253b1c4d00d9b0b375bd", null ]
+    ] ]
 ];

@@ -1,8 +1,6 @@
 var a27009 =
 [
-    [ "FilterTargets", "d0/d97/a27009.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "d0/d97/a27009.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "d0/d97/a27009.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "d0/d97/a27009.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "d0/d97/a27009.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "PrepareSpellScript", "d0/d97/a27009.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "d0/d97/a27009.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "d0/d97/a27009.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

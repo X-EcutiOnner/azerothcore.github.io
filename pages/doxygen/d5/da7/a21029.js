@@ -1,6 +1,10 @@
 var a21029 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d8/df6/a21033.html", "d8/df6/a21033" ],
-    [ "npc_frozen_orb_stalker", "d5/da7/a21029.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "d5/da7/a21029.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "npc_enslaved_proto_drake", "d5/da7/a21029.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d5/da7/a21029.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d5/da7/a21029.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d5/da7/a21029.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d5/da7/a21029.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d5/da7/a21029.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d5/da7/a21029.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

@@ -1,6 +1,6 @@
 var a27225 =
 [
-    [ "HandleAuraApply", "d5/d16/a27225.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d5/d16/a27225.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d5/d16/a27225.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandlePeriodic", "d5/d16/a27225.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d5/d16/a27225.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d5/d16/a27225.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

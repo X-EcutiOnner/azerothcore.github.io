@@ -1,8 +1,6 @@
 var a22213 =
 [
-    [ "CalcPeriodic", "d3/d14/a22213.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d3/d14/a22213.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d3/d14/a22213.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d3/d14/a22213.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d3/d14/a22213.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "go_wg_vehicle_teleporterAI", "d8/dd5/a22217.html", "d8/dd5/a22217" ],
+    [ "go_wg_vehicle_teleporter", "d3/d14/a22213.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d3/d14/a22213.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

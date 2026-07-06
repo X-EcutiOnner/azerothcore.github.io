@@ -1,7 +1,12 @@
 var a13453 =
 [
-    [ "HandleScript", "dc/dac/a13453.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "dc/dac/a13453.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "dc/dac/a13453.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "dc/dac/a13453.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "npc_koltira_deathweaverAI", "dc/dac/a13453.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "dc/dac/a13453.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "dc/dac/a13453.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "dc/dac/a13453.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "dc/dac/a13453.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "dc/dac/a13453.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "dc/dac/a13453.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "dc/dac/a13453.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "dc/dac/a13453.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

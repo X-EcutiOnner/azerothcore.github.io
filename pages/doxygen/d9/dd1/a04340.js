@@ -1,8 +1,7 @@
 var a04340 =
 [
-    [ "GetDefaultDatabaseInfo", "d9/dd1/a04340.html#a5560c170776773a1a20d93060003e89d", null ],
-    [ "CHARACTER_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#a6854faf653c8b94d9e1b611db3269d1a", null ],
-    [ "EMPTY_DATABASE_INFO", "d9/dd1/a04340.html#aa2920a017ca93e102f17b0ca20885c5b", null ],
-    [ "LOGIN_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#aa5457f479ebc812232cc3f0d67fabde1", null ],
-    [ "WORLD_DATABASE_INFO_DEFAULT", "d9/dd1/a04340.html#ad2151db3d84513bc271cf642ad76bb80", null ]
+    [ "SQLQueryHolderBase", "dd/da3/a06189.html", "dd/da3/a06189" ],
+    [ "SQLQueryHolder< T >", "db/dc8/a06041.html", "db/dc8/a06041" ],
+    [ "SQLQueryHolderTask", "df/d83/a06193.html", "df/d83/a06193" ],
+    [ "SQLQueryHolderCallback", "d2/d3c/a06197.html", "d2/d3c/a06197" ]
 ];

@@ -1,5 +1,6 @@
 var a21737 =
 [
-    [ "npc_guardian_pavilionAI", "d7/d75/a21737.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
-    [ "MoveInLineOfSight", "d7/d75/a21737.html#aeae26e28be93120062d9f77c069ff32a", null ]
+    [ "npc_mrfloppyAI", "db/da5/a21741.html", "db/da5/a21741" ],
+    [ "npc_mrfloppy", "d7/d75/a21737.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "d7/d75/a21737.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

@@ -1,8 +1,6 @@
 var a13937 =
 [
-    [ "npc_deathstalker_erlandAI", "dd/d97/a13937.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "dd/d97/a13937.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "dd/d97/a13937.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "dd/d97/a13937.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ],
-    [ "WaypointReached", "dd/d97/a13937.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "instance_sunwell_plateau_InstanceMapScript", "d5/d1e/a13941.html", "d5/d1e/a13941" ],
+    [ "instance_sunwell_plateau", "dd/d97/a13937.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
+    [ "GetInstanceScript", "dd/d97/a13937.html#a5960785a845c87e2e1730cfd865b44b4", null ]
 ];

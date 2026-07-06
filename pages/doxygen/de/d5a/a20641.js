@@ -1,8 +1,7 @@
 var a20641 =
 [
-    [ "OnApply", "de/d5a/a20641.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "de/d5a/a20641.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "de/d5a/a20641.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "de/d5a/a20641.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "de/d5a/a20641.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "boss_thorim_trap", "de/d5a/a20641.html#a793ce64835292b63f81cbb7140b3c6f9", null ],
+    [ "Reset", "de/d5a/a20641.html#a841cd9769b0875d01c2e65dddce0d1ef", null ],
+    [ "UpdateAI", "de/d5a/a20641.html#abd5ae669c1b1ecaaa567eedb7feaad16", null ],
+    [ "_checkTimer", "de/d5a/a20641.html#acb5ba7af429c9c0bdb8bed7cd411c655", null ]
 ];

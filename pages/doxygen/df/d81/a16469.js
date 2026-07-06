@@ -1,6 +1,6 @@
 var a16469 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "df/d52/a16473.html", "df/d52/a16473" ],
-    [ "instance_ruby_sanctum", "df/d81/a16469.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "df/d81/a16469.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "boss_baltharus_the_warbornAI", "df/d52/a16473.html", "df/d52/a16473" ],
+    [ "boss_baltharus_the_warborn", "df/d81/a16469.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "df/d81/a16469.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

@@ -1,7 +1,6 @@
 var a23881 =
 [
-    [ "HandleEffectRemove", "d0/d92/a23881.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d0/d92/a23881.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d0/d92/a23881.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d0/d92/a23881.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "go_magtheridons_head", "d0/d92/a23881.html#af5816b083f1856196bec7a75f0a995f3", null ],
+    [ "InitializeAI", "d0/d92/a23881.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
+    [ "OnStateChanged", "d0/d92/a23881.html#a28682d161074b71e1f2d70236ff2b897", null ]
 ];

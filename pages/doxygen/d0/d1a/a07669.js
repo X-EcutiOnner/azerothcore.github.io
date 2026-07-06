@@ -1,7 +1,14 @@
 var a07669 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d0/d1a/a07669.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d0/d1a/a07669.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d0/d1a/a07669.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d0/d1a/a07669.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "ArenaLogEntryData", "d0/d1a/a07669.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d0/d1a/a07669.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "SaveStats", "d0/d1a/a07669.html#a2f612b3623ad77bc5e25ac0fdad4197b", null ],
+    [ "Acc", "d0/d1a/a07669.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d0/d1a/a07669.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "DamageDone", "d0/d1a/a07669.html#a7c4c458a7128e869dbf207655b52c7ee", null ],
+    [ "Guid", "d0/d1a/a07669.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "HealingDone", "d0/d1a/a07669.html#af026544d31252e10035364540b96b5b0", null ],
+    [ "IP", "d0/d1a/a07669.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "KillingBlows", "d0/d1a/a07669.html#a6acec2f17b65a994ee6eba3304fe9ce2", null ],
+    [ "Name", "d0/d1a/a07669.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

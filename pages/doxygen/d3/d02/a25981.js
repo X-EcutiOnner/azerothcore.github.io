@@ -1,7 +1,9 @@
 var a25981 =
 [
-    [ "HandleProc", "d3/d02/a25981.html#af93da4cc948eff04ff27c04ca7b09618", null ],
-    [ "PrepareAuraScript", "d3/d02/a25981.html#af0fca07b13e84bec76ab3267e26294d5", null ],
-    [ "Register", "d3/d02/a25981.html#a5cc61cee5cf11d73c895f982efb64300", null ],
-    [ "Validate", "d3/d02/a25981.html#af095711e58e99eafe0047dd747b8291f", null ]
+    [ "OnEffectHitTargetDisarm", "d3/d02/a25981.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d3/d02/a25981.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d3/d02/a25981.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d3/d02/a25981.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d3/d02/a25981.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d3/d02/a25981.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

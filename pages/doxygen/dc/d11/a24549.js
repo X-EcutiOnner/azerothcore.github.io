@@ -1,10 +1,7 @@
 var a24549 =
 [
-    [ "HandleTickUpdate", "dc/d11/a24549.html#aa9c1d6c644a3e42b21d1025fc3b06f69", null ],
-    [ "PrepareAuraScript", "dc/d11/a24549.html#aa930d63d22acf8e7aebbdd828cd09f36", null ],
-    [ "Register", "dc/d11/a24549.html#abf597eb55f63858528325eef387fc344", null ],
-    [ "SetTickHeal", "dc/d11/a24549.html#a2eabcc9aa3898c11062677eca73d1de1", null ],
-    [ "Validate", "dc/d11/a24549.html#ab59a1830ca97e1bda455da330a894d5c", null ],
-    [ "_baseReduction", "dc/d11/a24549.html#a8a3a8adce3dde9300e380500c6877d37", null ],
-    [ "_baseTick", "dc/d11/a24549.html#acd801570e2a1b274ed0d9e8bcc6b66f0", null ]
+    [ "AfterApply", "dc/d11/a24549.html#adae232af9445638b3d54e81d414483b7", null ],
+    [ "AfterRemove", "dc/d11/a24549.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
+    [ "PrepareAuraScript", "dc/d11/a24549.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
+    [ "Register", "dc/d11/a24549.html#abff75ea597dcc017a359a5ef3ada4314", null ]
 ];

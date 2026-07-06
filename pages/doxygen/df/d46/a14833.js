@@ -1,6 +1,6 @@
 var a14833 =
 [
-    [ "HandleScriptEffect", "df/d46/a14833.html#a074f54a4b022adc6ea34b3716dec745f", null ],
-    [ "PrepareSpellScript", "df/d46/a14833.html#a725d5bc1f76614778b140f3061aa2e03", null ],
-    [ "Register", "df/d46/a14833.html#a339df7ae9553fbae68ce791baef1df5e", null ]
+    [ "HandleDummy", "df/d46/a14833.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
+    [ "PrepareSpellScript", "df/d46/a14833.html#a87a787c6ab3804847c90266f570381c6", null ],
+    [ "Register", "df/d46/a14833.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
 ];

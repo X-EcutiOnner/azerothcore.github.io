@@ -1,6 +1,12 @@
 var a18669 =
 [
-    [ "npc_the_lich_king_controllerAI", "df/d30/a18673.html", "df/d30/a18673" ],
-    [ "npc_the_lich_king_controller", "d2/d28/a18669.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "d2/d28/a18669.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "npc_raging_spiritAI", "d2/d28/a18669.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d2/d28/a18669.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d2/d28/a18669.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d2/d28/a18669.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d2/d28/a18669.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d2/d28/a18669.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d2/d28/a18669.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d2/d28/a18669.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d2/d28/a18669.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

@@ -1,8 +1,6 @@
 var a16253 =
 [
-    [ "boss_sartharion_vesperon", "d8/d56/a16253.html#a3ce6d2036faa108cb97ebf75bdb6ad33", null ],
-    [ "ClearInstance", "d8/d56/a16253.html#a0c45127e9eb2be20765f92e1161e2e5a", null ],
-    [ "ExecuteEvent", "d8/d56/a16253.html#aefc42452e75c476aef39ba0df3a03d70", null ],
-    [ "Reset", "d8/d56/a16253.html#a948bfddea4eb3c0fe471d8f501a88d6c", null ],
-    [ "SummonedCreatureDies", "d8/d56/a16253.html#a9df29b4c71c93da8cf7ae9f81b870345", null ]
+    [ "HandleApply", "d8/d56/a16253.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "d8/d56/a16253.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "d8/d56/a16253.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

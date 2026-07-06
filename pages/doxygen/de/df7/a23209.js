@@ -1,8 +1,5 @@
 var a23209 =
 [
-    [ "HandleDummyApply", "de/df7/a23209.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "de/df7/a23209.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "de/df7/a23209.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "de/df7/a23209.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "de/df7/a23209.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "go_main_chambers_access_panel", "de/df7/a23209.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "de/df7/a23209.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

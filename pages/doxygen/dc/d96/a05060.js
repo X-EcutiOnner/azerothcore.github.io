@@ -1,4 +1,5 @@
 var a05060 =
 [
-    [ "EnumUtils", "de/d27/a05823.html", "de/d27/a05823" ]
+    [ "basic_endpoint", "d0/d22/a05185.html", null ],
+    [ "tcp_endpoint", "dc/d96/a05060.html#a27a44b709519f6caccf33bc420c4698b", null ]
 ];

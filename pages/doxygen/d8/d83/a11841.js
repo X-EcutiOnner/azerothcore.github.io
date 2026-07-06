@@ -1,6 +1,5 @@
 var a11841 =
 [
-    [ "CheckAreaTargetHandler", "d8/d83/a11841.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "d8/d83/a11841.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "d8/d83/a11841.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "WorldObjectSpellTrajTargetCheck", "d8/d83/a11841.html#a0c08b6b4c7878678eb419a556f718be0", null ],
+    [ "operator()", "d8/d83/a11841.html#aa1f7772cdb19914cc365a325f801b5d5", null ]
 ];

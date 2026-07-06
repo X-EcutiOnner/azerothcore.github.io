@@ -1,6 +1,5 @@
 var a20937 =
 [
-    [ "CalculateAmount", "d1/d84/a20937.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d1/d84/a20937.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d1/d84/a20937.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d1/d84/a20937.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d1/d84/a20937.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

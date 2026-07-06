@@ -1,12 +1,19 @@
 var a10653 =
 [
-    [ "GroupScript", "d5/d0f/a10653.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d5/d0f/a10653.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d5/d0f/a10653.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d5/d0f/a10653.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d5/d0f/a10653.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d5/d0f/a10653.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d5/d0f/a10653.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d5/d0f/a10653.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d5/d0f/a10653.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "AllSpellScript", "d5/d0f/a10653.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
+    [ "CanPrepare", "d5/d0f/a10653.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
+    [ "CanScalingEverything", "d5/d0f/a10653.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
+    [ "CanSelectSpecTalent", "d5/d0f/a10653.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
+    [ "IsDatabaseBound", "d5/d0f/a10653.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
+    [ "OnBeforeAuraRankForLevel", "d5/d0f/a10653.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
+    [ "OnCalcMaxDuration", "d5/d0f/a10653.html#a5d02de785a4e1cf5103110828fac5e75", null ],
+    [ "OnDummyEffect", "d5/d0f/a10653.html#a54e0b823c538c41507c541db025d5295", null ],
+    [ "OnDummyEffect", "d5/d0f/a10653.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
+    [ "OnDummyEffect", "d5/d0f/a10653.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
+    [ "OnRemoveAuraScaleTargets", "d5/d0f/a10653.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
+    [ "OnScaleAuraUnitAdd", "d5/d0f/a10653.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
+    [ "OnSpellCast", "d5/d0f/a10653.html#aac6481ca905c3f44f85c55aaf694afca", null ],
+    [ "OnSpellCastCancel", "d5/d0f/a10653.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
+    [ "OnSpellCheckCast", "d5/d0f/a10653.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
+    [ "OnSpellPrepare", "d5/d0f/a10653.html#addb78dc29f771ec376922a4a2bff558b", null ]
 ];

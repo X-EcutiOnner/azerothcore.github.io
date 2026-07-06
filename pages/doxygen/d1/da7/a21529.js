@@ -1,9 +1,6 @@
 var a21529 =
 [
-    [ "npc_mrfloppyAI", "d1/da7/a21529.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
-    [ "EnterEvadeMode", "d1/da7/a21529.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
-    [ "JustEngagedWith", "d1/da7/a21529.html#a490bf07de00cc5c59b5f0024317d8125", null ],
-    [ "MoveInLineOfSight", "d1/da7/a21529.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
-    [ "Reset", "d1/da7/a21529.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
-    [ "UpdateAI", "d1/da7/a21529.html#afad6db1ccd903fd18192f832a10a32f4", null ]
+    [ "npc_dalaran_mageAI", "d0/d13/a21533.html", "d0/d13/a21533" ],
+    [ "npc_dalaran_mage", "d1/da7/a21529.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "d1/da7/a21529.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

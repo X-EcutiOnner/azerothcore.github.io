@@ -1,8 +1,6 @@
 var a16405 =
 [
-    [ "Load", "da/d27/a16405.html#a55dc086667f0fe23e513608e951276ed", null ],
-    [ "Phase", "da/d27/a16405.html#af66a6bff13803e54b6ed1447d1285ad4", null ],
-    [ "PrepareSpellScript", "da/d27/a16405.html#ae2c7cbd68ccf893144e38581a6f86f04", null ],
-    [ "Register", "da/d27/a16405.html#a8ab7e05e98771abcf9bed9995875b71d", null ],
-    [ "Validate", "da/d27/a16405.html#a87192df547adaf3cb060155d9cf4da79", null ]
+    [ "HandleScriptEffect", "da/d27/a16405.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "da/d27/a16405.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "da/d27/a16405.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

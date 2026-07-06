@@ -1,6 +1,7 @@
 var a13801 =
 [
-    [ "HandleSendEvent", "d4/de7/a13801.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "d4/de7/a13801.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "d4/de7/a13801.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "boss_kalec", "d4/de7/a13801.html#a9c36e31c750e93840f30f001cdaca0da", null ],
+    [ "JustDied", "d4/de7/a13801.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
+    [ "JustEngagedWith", "d4/de7/a13801.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
+    [ "UpdateAI", "d4/de7/a13801.html#ab55da7584fa7f545761a5bd547245747", null ]
 ];

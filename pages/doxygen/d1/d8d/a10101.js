@@ -1,8 +1,7 @@
 var a10101 =
 [
-    [ "PositionFullTerrainStatus", "d1/d8d/a10101.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d1/d8d/a10101.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d1/d8d/a10101.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d1/d8d/a10101.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d1/d8d/a10101.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "LootView", "d1/d8d/a10101.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d1/d8d/a10101.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d1/d8d/a10101.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d1/d8d/a10101.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

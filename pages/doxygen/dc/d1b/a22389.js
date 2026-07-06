@@ -1,7 +1,14 @@
 var a22389 =
 [
-    [ "HandleOnEffectApply", "dc/d1b/a22389.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "dc/d1b/a22389.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "dc/d1b/a22389.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "dc/d1b/a22389.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "OPvPCapturePointTF", "dc/d1b/a22389.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "dc/d1b/a22389.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "dc/d1b/a22389.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "dc/d1b/a22389.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "dc/d1b/a22389.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "dc/d1b/a22389.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "dc/d1b/a22389.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "dc/d1b/a22389.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "dc/d1b/a22389.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "dc/d1b/a22389.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "dc/d1b/a22389.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

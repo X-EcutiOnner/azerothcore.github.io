@@ -1,13 +1,12 @@
 var a05669 =
 [
-    [ "MPSCQueueIntrusive", "d0/d2a/a05669.html#a8e05361abed759932c49b0fc71ed09c1", null ],
-    [ "~MPSCQueueIntrusive", "d0/d2a/a05669.html#a8155857825ceb1b7154ea82a63dbce08", null ],
-    [ "MPSCQueueIntrusive", "d0/d2a/a05669.html#afaee06af7734e53ce50674e4ef7277b2", null ],
-    [ "Dequeue", "d0/d2a/a05669.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
-    [ "Enqueue", "d0/d2a/a05669.html#a233004b906cfa66cdd285233105dddf7", null ],
-    [ "operator=", "d0/d2a/a05669.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
-    [ "_dummy", "d0/d2a/a05669.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
-    [ "_dummyPtr", "d0/d2a/a05669.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
-    [ "_head", "d0/d2a/a05669.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
-    [ "_tail", "d0/d2a/a05669.html#ac7e333db415e6301a02052c53779d1d4", null ]
+    [ "AppenderConsole", "d0/d2a/a05669.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "d0/d2a/a05669.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "d0/d2a/a05669.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "d0/d2a/a05669.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "d0/d2a/a05669.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "d0/d2a/a05669.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "d0/d2a/a05669.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "d0/d2a/a05669.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "d0/d2a/a05669.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

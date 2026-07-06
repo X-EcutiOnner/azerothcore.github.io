@@ -1,8 +1,9 @@
 var a13777 =
 [
-    [ "npc_sunblade_arch_mage", "d3/d7b/a13777.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "d3/d7b/a13777.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "d3/d7b/a13777.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "d3/d7b/a13777.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "d3/d7b/a13777.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "npc_demonic_vapor_trail", "d3/d7b/a13777.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d3/d7b/a13777.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d3/d7b/a13777.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d3/d7b/a13777.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d3/d7b/a13777.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d3/d7b/a13777.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

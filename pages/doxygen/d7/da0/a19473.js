@@ -1,6 +1,6 @@
 var a19473 =
 [
-    [ "ChargeRifts", "d7/da0/a19473.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d7/da0/a19473.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d7/da0/a19473.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_maexxnaAI", "d7/dcb/a19477.html", "d7/dcb/a19477" ],
+    [ "boss_maexxna", "d7/da0/a19473.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "d7/da0/a19473.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

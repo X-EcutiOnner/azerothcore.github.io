@@ -1,5 +1,7 @@
 var a20305 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d8/d6a/a20305.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d8/d6a/a20305.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "HandleAfterHit", "d8/d6a/a20305.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "d8/d6a/a20305.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "d8/d6a/a20305.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "d8/d6a/a20305.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

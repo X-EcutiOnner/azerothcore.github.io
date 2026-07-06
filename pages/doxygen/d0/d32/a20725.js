@@ -1,5 +1,7 @@
 var a20725 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d0/d32/a20725.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d0/d32/a20725.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "OnRemove", "d0/d32/a20725.html#ae99b372d0894e0c7aafc44f2a3cfac4f", null ],
+    [ "PrepareAuraScript", "d0/d32/a20725.html#ae99f88a63656d0b48ca4b85548cc736b", null ],
+    [ "Register", "d0/d32/a20725.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "Validate", "d0/d32/a20725.html#a3d351d7e9ac022ea1bd912843fe66891", null ]
 ];

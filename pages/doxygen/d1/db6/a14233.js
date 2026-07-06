@@ -1,12 +1,8 @@
 var a14233 =
 [
-    [ "npc_zulian_prowlerAI", "d1/db6/a14233.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d1/db6/a14233.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d1/db6/a14233.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d1/db6/a14233.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d1/db6/a14233.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d1/db6/a14233.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d1/db6/a14233.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d1/db6/a14233.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d1/db6/a14233.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "npc_the_scourge_cauldronAI", "d1/db6/a14233.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
+    [ "DoDie", "d1/db6/a14233.html#a9f720a27db2943a66b11ad6355690bf5", null ],
+    [ "JustEngagedWith", "d1/db6/a14233.html#a89954dec2f7d57d933c18822333243ac", null ],
+    [ "MoveInLineOfSight", "d1/db6/a14233.html#a256195dbe75859d72afcd0defb9ff76e", null ],
+    [ "Reset", "d1/db6/a14233.html#ab18bb2eb344f45827685786c665b1750", null ]
 ];

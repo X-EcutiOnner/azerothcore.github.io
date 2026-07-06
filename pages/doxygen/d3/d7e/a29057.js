@@ -1,5 +1,8 @@
 var a29057 =
 [
-    [ "ByteBufferInvalidValueException", "d3/d7e/a29057.html#a6ee22161167faf11555c6e6b15422cd8", null ],
-    [ "~ByteBufferInvalidValueException", "d3/d7e/a29057.html#a30cc1225522916e05abf95e14805d7a3", null ]
+    [ "areaTriggerText", "d3/d7e/a29057.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "d3/d7e/a29057.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "d3/d7e/a29057.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "d3/d7e/a29057.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "d3/d7e/a29057.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

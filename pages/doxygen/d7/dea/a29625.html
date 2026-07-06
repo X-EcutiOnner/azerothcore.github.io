@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MMAP::Config::MapOverride Struct Reference</title>
+<title>AzerothCore: FindStartTimeForStageTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,166 +105,174 @@ $(document).ready(function(){initNavTree('d7/dea/a29625.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
 <a href="../../d6/d9d/a29622.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MMAP::Config::MapOverride Struct Reference</div></div>
+  <div class="headertitle"><div class="title">FindStartTimeForStageTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<div class="dynheader">
+Inheritance diagram for FindStartTimeForStageTest:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d7/dea/a29625.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ad66e0a04ba9087304cf3909bb85b622a"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#ad66e0a04ba9087304cf3909bb85b622a">walkableSlopeAngle</a></td></tr>
-<tr class="separator:ad66e0a04ba9087304cf3909bb85b622a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a232dd51ab056c5e836fe1bb84eeee90e"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a232dd51ab056c5e836fe1bb84eeee90e">walkableRadius</a></td></tr>
-<tr class="separator:a232dd51ab056c5e836fe1bb84eeee90e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1de27edad5c45f8033ce74352c563f52"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a1de27edad5c45f8033ce74352c563f52">walkableHeight</a></td></tr>
-<tr class="separator:a1de27edad5c45f8033ce74352c563f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2bd854b374d67d53b03a7bacf0785726"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a2bd854b374d67d53b03a7bacf0785726">walkableClimb</a></td></tr>
-<tr class="separator:a2bd854b374d67d53b03a7bacf0785726"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d32da8787f54a7dadb86458319e0238"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a9d32da8787f54a7dadb86458319e0238">vertexPerMapEdge</a></td></tr>
-<tr class="separator:a9d32da8787f54a7dadb86458319e0238"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8dd6b0146358fcbbb6b7c56a96c467c9"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a8dd6b0146358fcbbb6b7c56a96c467c9">vertexPerTileEdge</a></td></tr>
-<tr class="separator:a8dd6b0146358fcbbb6b7c56a96c467c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5356c03dab90621b69de7a79ed4ab195"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a5356c03dab90621b69de7a79ed4ab195">cellSizeHorizontal</a></td></tr>
-<tr class="separator:a5356c03dab90621b69de7a79ed4ab195"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47b5a920afa39ae27a80241d58f152a3"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a47b5a920afa39ae27a80241d58f152a3">cellSizeVertical</a></td></tr>
-<tr class="separator:a47b5a920afa39ae27a80241d58f152a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a129437291e75a919e4158bf1df0f7f0a"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::pair&lt; <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;, <a class="el" href="../../dd/d2e/a29621.html">TileOverride</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a129437291e75a919e4158bf1df0f7f0a">tileOverrides</a></td></tr>
-<tr class="separator:a129437291e75a919e4158bf1df0f7f0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a62c6e33dcbd3970319b3f8a791063d15"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a62c6e33dcbd3970319b3f8a791063d15">PackTwoDates</a> (uint32_t *dates, int y1, int m1, int d1, int y2, int m2, int d2)</td></tr>
+<tr class="separator:a62c6e33dcbd3970319b3f8a791063d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-static-methods" name="pro-static-methods"></a>
+Static Protected Member Functions</h2></td></tr>
+<tr class="memitem:a26f7c5c9395291b98facf91b7ba9530b"><td class="memItemLeft" align="right" valign="top">static time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dea/a29625.html#a26f7c5c9395291b98facf91b7ba9530b">MakeTime</a> (int year, int month, int day, int hour=0)</td></tr>
+<tr class="separator:a26f7c5c9395291b98facf91b7ba9530b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5356c03dab90621b69de7a79ed4ab195" name="a5356c03dab90621b69de7a79ed4ab195"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5356c03dab90621b69de7a79ed4ab195">&#9670;&#160;</a></span>cellSizeHorizontal</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a26f7c5c9395291b98facf91b7ba9530b" name="a26f7c5c9395291b98facf91b7ba9530b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26f7c5c9395291b98facf91b7ba9530b">&#9670;&#160;</a></span>MakeTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; MMAP::Config::MapOverride::cellSizeHorizontal</td>
+          <td class="memname">static time_t FindStartTimeForStageTest::MakeTime </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>year</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>month</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>day</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>hour</em> = <code>0</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno"> 1288</span>    {</div>
+<div class="line"><span class="lineno"> 1289</span>        std::tm t = {};</div>
+<div class="line"><span class="lineno"> 1290</span>        t.tm_year = year - 1900;</div>
+<div class="line"><span class="lineno"> 1291</span>        t.tm_mon = month - 1;</div>
+<div class="line"><span class="lineno"> 1292</span>        t.tm_mday = day;</div>
+<div class="line"><span class="lineno"> 1293</span>        t.tm_hour = hour;</div>
+<div class="line"><span class="lineno"> 1294</span>        t.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1295</span>        <span class="keywordflow">return</span> mktime(&amp;t);</div>
+<div class="line"><span class="lineno"> 1296</span>    }</div>
+</div><!-- fragment -->
 </div>
 </div>
-<a id="a47b5a920afa39ae27a80241d58f152a3" name="a47b5a920afa39ae27a80241d58f152a3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a47b5a920afa39ae27a80241d58f152a3">&#9670;&#160;</a></span>cellSizeVertical</h2>
+<a id="a62c6e33dcbd3970319b3f8a791063d15" name="a62c6e33dcbd3970319b3f8a791063d15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62c6e33dcbd3970319b3f8a791063d15">&#9670;&#160;</a></span>PackTwoDates()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; MMAP::Config::MapOverride::cellSizeVertical</td>
+          <td class="memname">void FindStartTimeForStageTest::PackTwoDates </td>
+          <td>(</td>
+          <td class="paramtype">uint32_t *&#160;</td>
+          <td class="paramname"><em>dates</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>.</p>
-
-</div>
-</div>
-<a id="a129437291e75a919e4158bf1df0f7f0a" name="a129437291e75a919e4158bf1df0f7f0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a129437291e75a919e4158bf1df0f7f0a">&#9670;&#160;</a></span>tileOverrides</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::unordered_map&lt;std::pair&lt;<a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../dd/d7a/a04568.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;, <a class="el" href="../../dd/d2e/a29621.html">TileOverride</a>&gt; MMAP::Config::MapOverride::tileOverrides</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y1</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>.</p>
-
-</div>
-</div>
-<a id="a9d32da8787f54a7dadb86458319e0238" name="a9d32da8787f54a7dadb86458319e0238"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d32da8787f54a7dadb86458319e0238">&#9670;&#160;</a></span>vertexPerMapEdge</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::MapOverride::vertexPerMapEdge</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>m1</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a8dd6b0146358fcbbb6b7c56a96c467c9" name="a8dd6b0146358fcbbb6b7c56a96c467c9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8dd6b0146358fcbbb6b7c56a96c467c9">&#9670;&#160;</a></span>vertexPerTileEdge</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::MapOverride::vertexPerTileEdge</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>d1</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a2bd854b374d67d53b03a7bacf0785726" name="a2bd854b374d67d53b03a7bacf0785726"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2bd854b374d67d53b03a7bacf0785726">&#9670;&#160;</a></span>walkableClimb</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::MapOverride::walkableClimb</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>y2</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a1de27edad5c45f8033ce74352c563f52" name="a1de27edad5c45f8033ce74352c563f52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1de27edad5c45f8033ce74352c563f52">&#9670;&#160;</a></span>walkableHeight</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::MapOverride::walkableHeight</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>m2</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a232dd51ab056c5e836fe1bb84eeee90e" name="a232dd51ab056c5e836fe1bb84eeee90e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a232dd51ab056c5e836fe1bb84eeee90e">&#9670;&#160;</a></span>walkableRadius</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;int&gt; MMAP::Config::MapOverride::walkableRadius</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>d2</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad66e0a04ba9087304cf3909bb85b622a" name="ad66e0a04ba9087304cf3909bb85b622a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad66e0a04ba9087304cf3909bb85b622a">&#9670;&#160;</a></span>walkableSlopeAngle</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::optional&lt;float&gt; MMAP::Config::MapOverride::walkableSlopeAngle</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno"> 1300</span>    {</div>
+<div class="line"><span class="lineno"> 1301</span>        std::tm t1 = {};</div>
+<div class="line"><span class="lineno"> 1302</span>        t1.tm_year = y1 - 1900;</div>
+<div class="line"><span class="lineno"> 1303</span>        t1.tm_mon = m1 - 1;</div>
+<div class="line"><span class="lineno"> 1304</span>        t1.tm_mday = d1;</div>
+<div class="line"><span class="lineno"> 1305</span>        t1.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1306</span>        mktime(&amp;t1);</div>
+<div class="line"><span class="lineno"> 1307</span>        dates[0] = <a class="code hl_function" href="../../d9/ded/a09221.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t1);</div>
+<div class="line"><span class="lineno"> 1308</span> </div>
+<div class="line"><span class="lineno"> 1309</span>        std::tm t2 = {};</div>
+<div class="line"><span class="lineno"> 1310</span>        t2.tm_year = y2 - 1900;</div>
+<div class="line"><span class="lineno"> 1311</span>        t2.tm_mon = m2 - 1;</div>
+<div class="line"><span class="lineno"> 1312</span>        t2.tm_mday = d2;</div>
+<div class="line"><span class="lineno"> 1313</span>        t2.tm_isdst = -1;</div>
+<div class="line"><span class="lineno"> 1314</span>        mktime(&amp;t2);</div>
+<div class="line"><span class="lineno"> 1315</span>        dates[1] = <a class="code hl_function" href="../../d9/ded/a09221.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a>(t2);</div>
+<div class="line"><span class="lineno"> 1316</span> </div>
+<div class="line"><span class="lineno"> 1317</span>        <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 2; i &lt; 26; ++i)</div>
+<div class="line"><span class="lineno"> 1318</span>            dates[i] = 0;</div>
+<div class="line"><span class="lineno"> 1319</span>    }</div>
+<div class="ttc" id="aa09221_html_ab39f6c1b37867d57464a6243c14e3610"><div class="ttname"><a href="../../d9/ded/a09221.html#ab39f6c1b37867d57464a6243c14e3610">HolidayDateCalculator::PackDate</a></div><div class="ttdeci">static uint32_t PackDate(const std::tm &amp;date)</div><div class="ttdef"><b>Definition:</b> HolidayDateCalculator.cpp:575</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00575">HolidayDateCalculator::PackDate()</a>.</p>
 
 </div>
 </div>
@@ -273,8 +281,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d17/a05024.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d3/dc8/a29617.html">Config</a></li><li class="navelem"><a class="el" href="../../d7/dea/a29625.html">MapOverride</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 21:39:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/dea/a29625.html">FindStartTimeForStageTest</a></li>
+    <li class="footer">Generated on Mon Jul 6 2026 22:00:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

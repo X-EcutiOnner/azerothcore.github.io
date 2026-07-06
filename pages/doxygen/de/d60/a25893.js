@@ -1,7 +1,7 @@
 var a25893 =
 [
-    [ "HandleScript", "de/d60/a25893.html#a1f5993561f68ab1f540fcc18fe309b7c", null ],
-    [ "PrepareSpellScript", "de/d60/a25893.html#a91a04a3baa074b228371c6220e67f3f8", null ],
-    [ "Register", "de/d60/a25893.html#a4f5cf691ed45724ef113e121f146c9d0", null ],
-    [ "Validate", "de/d60/a25893.html#ae618fdfd0aa5f77e841c6992f7bc9d80", null ]
+    [ "HandleDummy", "de/d60/a25893.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "de/d60/a25893.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "de/d60/a25893.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "de/d60/a25893.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

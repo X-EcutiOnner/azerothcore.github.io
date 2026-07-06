@@ -1,8 +1,6 @@
 var a28013 =
 [
-    [ "npc_simoneAI", "da/d57/a28017.html", "da/d57/a28017" ],
-    [ "npc_simone", "db/d62/a28013.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "db/d62/a28013.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "db/d62/a28013.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "db/d62/a28013.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "go_l70_etc_musicAI", "db/d62/a28013.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "db/d62/a28013.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "db/d62/a28013.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

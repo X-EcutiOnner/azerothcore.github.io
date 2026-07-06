@@ -1,13 +1,11 @@
 var a11061 =
 [
-    [ "GuildBankQueryResults", "db/d13/a11061.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "db/d13/a11061.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "db/d13/a11061.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "db/d13/a11061.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "db/d13/a11061.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "db/d13/a11061.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "db/d13/a11061.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "db/d13/a11061.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "db/d13/a11061.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "db/d13/a11061.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "GuildRankTabPermissions", "db/d7f/a11065.html", "db/d7f/a11065" ],
+    [ "GuildPermissionsQueryResults", "db/d13/a11061.html#aa643af51780fc550f3947936266d54f5", null ],
+    [ "Write", "db/d13/a11061.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
+    [ "Flags", "db/d13/a11061.html#a368162426ab526adafc7ecb223fdf865", null ],
+    [ "NumTabs", "db/d13/a11061.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
+    [ "RankID", "db/d13/a11061.html#a795ba45650991bd5c1aa03c17886d86b", null ],
+    [ "Tab", "db/d13/a11061.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
+    [ "WithdrawGoldLimit", "db/d13/a11061.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
 ];

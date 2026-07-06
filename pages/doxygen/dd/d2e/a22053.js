@@ -1,5 +1,6 @@
 var a22053 =
 [
-    [ "go_finklestein_cauldron", "dd/d2e/a22053.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "dd/d2e/a22053.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "PrepareSpellScript", "dd/d2e/a22053.html#a87014fc73af805b7ad052d1f4f45d7cd", null ],
+    [ "Register", "dd/d2e/a22053.html#a306252bb3bc9af689400981b198f66e8", null ],
+    [ "SetDest", "dd/d2e/a22053.html#a0bffbc57932a2efe33a9912d608eb79d", null ]
 ];

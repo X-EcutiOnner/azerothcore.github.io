@@ -1,6 +1,6 @@
 var a21453 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d4/d64/a21457.html", "d4/d64/a21457" ],
-    [ "npc_q24545_vegard_dummy", "d4/d36/a21453.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d4/d36/a21453.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "HandleEffect", "d4/d36/a21453.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
+    [ "PrepareSpellScript", "d4/d36/a21453.html#aec199e9f9651267fac88bd86be326bb4", null ],
+    [ "Register", "d4/d36/a21453.html#a14bd854db86750704c8377d457dea360", null ]
 ];

@@ -1,6 +1,8 @@
 var a23229 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d5/dd1/a23233.html", "d5/dd1/a23233" ],
-    [ "instance_magtheridons_lair", "d1/d7c/a23229.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d1/d7c/a23229.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "boss_hungarfen", "d1/d7c/a23229.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d1/d7c/a23229.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d1/d7c/a23229.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d1/d7c/a23229.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d1/d7c/a23229.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

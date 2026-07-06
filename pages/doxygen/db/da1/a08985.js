@@ -1,6 +1,10 @@
 var a08985 =
 [
-    [ "spellIdImmunityPredicate", "db/da1/a08985.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "db/da1/a08985.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "db/da1/a08985.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "TradeStatusInfo", "db/da1/a08985.html#ae0dff14036e00d3c62c181fcc306faf2", null ],
+    [ "IsTargetResult", "db/da1/a08985.html#a10427d72e5bafd643648638a1fe7e854", null ],
+    [ "ItemLimitedByLimitCategory", "db/da1/a08985.html#ad6b7e2f6d974b06388d1f30f82d207e8", null ],
+    [ "Result", "db/da1/a08985.html#ac90552353a0fb8ff175fec99bf573981", null ],
+    [ "Slot", "db/da1/a08985.html#a3fcb84e08ecdfccaef6bc396c8c4eb2a", null ],
+    [ "Status", "db/da1/a08985.html#a265172d89cdc4c6fc4df20ad5df45c64", null ],
+    [ "TraderGuid", "db/da1/a08985.html#afc3926b9ff7dda3eb3505b225b74409d", null ]
 ];

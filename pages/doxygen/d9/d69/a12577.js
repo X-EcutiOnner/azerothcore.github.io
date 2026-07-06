@@ -1,12 +1,14 @@
 var a12577 =
 [
-    [ "boss_the_beast", "d9/d69/a12577.html#ab98bce804078b4184b1bf6e844db9c67", null ],
-    [ "FindNearbyOrcs", "d9/d69/a12577.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
-    [ "JustEngagedWith", "d9/d69/a12577.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
-    [ "Reset", "d9/d69/a12577.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
-    [ "SetData", "d9/d69/a12577.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
-    [ "UpdateAI", "d9/d69/a12577.html#ad7db422aefc711b437176b729c6ac151", null ],
-    [ "_beastReached", "d9/d69/a12577.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
-    [ "_nearbyOrcsGUIDs", "d9/d69/a12577.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
-    [ "_orcYelled", "d9/d69/a12577.html#a7079c59c50343f460e2aac2bcf19709c", null ]
+    [ "boss_galvangarAI", "d9/d69/a12577.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
+    [ "JustEngagedWith", "d9/d69/a12577.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
+    [ "JustRespawned", "d9/d69/a12577.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
+    [ "Reset", "d9/d69/a12577.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
+    [ "UpdateAI", "d9/d69/a12577.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
+    [ "CleaveTimer", "d9/d69/a12577.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
+    [ "FrighteningShoutTimer", "d9/d69/a12577.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
+    [ "MortalStrikeTimer", "d9/d69/a12577.html#acbfa384508002ba9505d280c448f1f0e", null ],
+    [ "ResetTimer", "d9/d69/a12577.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
+    [ "Whirlwind1Timer", "d9/d69/a12577.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
+    [ "Whirlwind2Timer", "d9/d69/a12577.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
 ];

@@ -1,9 +1,8 @@
 var a28221 =
 [
-    [ "npc_herald_of_the_lich_king", "de/d0f/a28221.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "de/d0f/a28221.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "de/d0f/a28221.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "de/d0f/a28221.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "de/d0f/a28221.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "de/d0f/a28221.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_artoriusAI", "da/d58/a28225.html", "da/d58/a28225" ],
+    [ "npc_artorius", "de/d0f/a28221.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
+    [ "GetAI", "de/d0f/a28221.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
+    [ "OnGossipHello", "de/d0f/a28221.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
+    [ "OnGossipSelect", "de/d0f/a28221.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
 ];

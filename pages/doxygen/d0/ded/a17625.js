@@ -1,8 +1,6 @@
 var a17625 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d6/dcb/a17629.html", "d6/dcb/a17629" ],
-    [ "npc_muradin_bronzebeard_icc", "d0/ded/a17625.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d0/ded/a17625.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d0/ded/a17625.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d0/ded/a17625.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "ShockVortexExplodeEvent", "d0/ded/a17625.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "d0/ded/a17625.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "d0/ded/a17625.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

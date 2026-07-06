@@ -1,13 +1,10 @@
 var a12085 =
 [
-    [ "CommandFinished", "d4/d79/a12085.html#af7ce6ffac9fa11ce0db6fd10919c4e4a", null ],
-    [ "Print", "d4/d79/a12085.html#ab10379cf266b38f4d81e2477b727471e", null ],
-    [ "CliCommandHolder", "d4/d79/a12085.html#a5a45e891607114cd070721fd51926cd5", null ],
-    [ "~CliCommandHolder", "d4/d79/a12085.html#a44ca7e8af5c717b1cff7b143afc077ee", null ],
-    [ "CliCommandHolder", "d4/d79/a12085.html#ad9c7b2da92d97c464fb14ad1e0b9a4a9", null ],
-    [ "operator=", "d4/d79/a12085.html#aaca241ecd81dc25788eaccbdc4aa5f60", null ],
-    [ "m_callbackArg", "d4/d79/a12085.html#a4579ce86ff43da89524b62eefe308a59", null ],
-    [ "m_command", "d4/d79/a12085.html#ae333918e09a9de4c9e402c334e076674", null ],
-    [ "m_commandFinished", "d4/d79/a12085.html#a416a66ac78f1d2cb1ee2d0d93f276f43", null ],
-    [ "m_print", "d4/d79/a12085.html#aa49897105905b9812fcf962326486d5d", null ]
+    [ "AcoreStringChatBuilder", "d4/d79/a12085.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "d4/d79/a12085.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "d4/d79/a12085.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "d4/d79/a12085.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "d4/d79/a12085.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "d4/d79/a12085.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "d4/d79/a12085.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

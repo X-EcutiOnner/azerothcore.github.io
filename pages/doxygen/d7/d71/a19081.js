@@ -1,5 +1,8 @@
 var a19081 =
 [
-    [ "creatureEntry", "d7/d71/a19081.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d7/d71/a19081.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "CountTargets", "d7/d71/a19081.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d7/d71/a19081.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d7/d71/a19081.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d7/d71/a19081.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d7/d71/a19081.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

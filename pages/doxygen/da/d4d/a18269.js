@@ -1,6 +1,7 @@
 var a18269 =
 [
-    [ "HandleSpecial", "da/d4d/a18269.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "da/d4d/a18269.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "da/d4d/a18269.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "HandleDummy", "da/d4d/a18269.html#aa61db53d7395fd45b8569e12978fed0b", null ],
+    [ "PrepareSpellScript", "da/d4d/a18269.html#ab63054debe6763027ab52ad122277719", null ],
+    [ "Register", "da/d4d/a18269.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
+    [ "Validate", "da/d4d/a18269.html#adb7e30d10c2071de5d5070b64a10af30", null ]
 ];

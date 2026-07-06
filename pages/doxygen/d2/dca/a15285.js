@@ -1,9 +1,6 @@
 var a15285 =
 [
-    [ "npc_buru_egg", "d2/dca/a15285.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d2/dca/a15285.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d2/dca/a15285.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d2/dca/a15285.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d2/dca/a15285.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d2/dca/a15285.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d5/d11/a15289.html", "d5/d11/a15289" ],
+    [ "instance_old_hillsbrad", "d2/dca/a15285.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "d2/dca/a15285.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

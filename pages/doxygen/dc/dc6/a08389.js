@@ -1,12 +1,10 @@
 var a08389 =
 [
-    [ "QuestMenu", "dc/dc6/a08389.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "dc/dc6/a08389.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "dc/dc6/a08389.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "dc/dc6/a08389.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "dc/dc6/a08389.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "dc/dc6/a08389.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "dc/dc6/a08389.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "dc/dc6/a08389.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "dc/dc6/a08389.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "CreatureModel", "dc/dc6/a08389.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
+    [ "CreatureModel", "dc/dc6/a08389.html#a02b05bf92c3341b90173b4aa998087ba", null ],
+    [ "CreatureDisplayID", "dc/dc6/a08389.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
+    [ "DefaultInvisibleModel", "dc/dc6/a08389.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
+    [ "DefaultVisibleModel", "dc/dc6/a08389.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
+    [ "DisplayScale", "dc/dc6/a08389.html#ad842b73233b84c451710767f5e58f10a", null ],
+    [ "Probability", "dc/dc6/a08389.html#a7736d6480dca65a68afb82a830b35874", null ]
 ];

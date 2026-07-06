@@ -1,20 +1,14 @@
 var a16473 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "df/d52/a16473.html#a98a097bfa32aedc3fe1d6600f147c94f", null ],
-    [ "FillInitialWorldStates", "df/d52/a16473.html#a92cf11c73a596e0be141d9626ff10d3d", null ],
-    [ "GetGuidData", "df/d52/a16473.html#aaee1be892a411ed2fe720aff91c1dbbe", null ],
-    [ "OnCreatureCreate", "df/d52/a16473.html#a18f4f8286f7ca85b1a366b1ca3ffe6b3", null ],
-    [ "OnGameObjectCreate", "df/d52/a16473.html#a27c4858d5972471ef91a269c11fc0494", null ],
-    [ "OnGameObjectRemove", "df/d52/a16473.html#ac53fa1af91c66a264fdd016abe40168c", null ],
-    [ "OnPlayerEnter", "df/d52/a16473.html#a74b01d2d0b48e95f758a1143fccf40ae", null ],
-    [ "SetBossState", "df/d52/a16473.html#a3542b2f1f54fc25720bba1b4f2d12e5f", null ],
-    [ "BaltharusTheWarbornGUID", "df/d52/a16473.html#a99cb15668a0eb037fc7edd6a2340ca33", null ],
-    [ "FlameRingGUID", "df/d52/a16473.html#a52256dd98ae786bfe9bfc86ce036a060", null ],
-    [ "GeneralZarithrianGUID", "df/d52/a16473.html#ad92ac599589bdd8b7c3aa055b451f0cf", null ],
-    [ "HalionControllerGUID", "df/d52/a16473.html#a52144a0152a2ea00066c0d24bdee0b74", null ],
-    [ "HalionGUID", "df/d52/a16473.html#a0b824e7cf269619220329aecba08e448", null ],
-    [ "OrbCarrierGUID", "df/d52/a16473.html#a723b8a7384d0b9455b3a99172a903868", null ],
-    [ "TwilightHalionGUID", "df/d52/a16473.html#a165f776c123fa595b6424be666fa8570", null ],
-    [ "XerestraszaGUID", "df/d52/a16473.html#aefcf3beb1d5da118c80d3af9eb21ec99", null ],
-    [ "ZarithrianSpawnStalkerGUID", "df/d52/a16473.html#a5e28d815149507f4bc6a30e42d4034a4", null ]
+    [ "boss_baltharus_the_warbornAI", "df/d52/a16473.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "df/d52/a16473.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "df/d52/a16473.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "df/d52/a16473.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "df/d52/a16473.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "df/d52/a16473.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "df/d52/a16473.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "df/d52/a16473.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "df/d52/a16473.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "df/d52/a16473.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "df/d52/a16473.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

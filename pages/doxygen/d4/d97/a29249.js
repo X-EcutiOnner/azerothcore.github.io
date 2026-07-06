@@ -1,9 +1,7 @@
 var a29249 =
 [
-    [ "SetUp", "d4/d97/a29249.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d4/d97/a29249.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d4/d97/a29249.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d4/d97/a29249.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d4/d97/a29249.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d4/d97/a29249.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "TalentSpellPos", "d4/d97/a29249.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d4/d97/a29249.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d4/d97/a29249.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d4/d97/a29249.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

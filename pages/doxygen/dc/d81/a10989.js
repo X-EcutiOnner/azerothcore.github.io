@@ -1,6 +1,6 @@
 var a10989 =
 [
-    [ "GuildUpdateInfoText", "dc/d81/a10989.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "dc/d81/a10989.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "dc/d81/a10989.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildCreate", "dc/d81/a10989.html#a4dd11d2c4d009b1e495f792f4842d598", null ],
+    [ "Read", "dc/d81/a10989.html#a7d4573196f53d1f068c43b4e7e466fce", null ],
+    [ "GuildName", "dc/d81/a10989.html#a95a0859dd32b6eaf31ea53311ffaa293", null ]
 ];

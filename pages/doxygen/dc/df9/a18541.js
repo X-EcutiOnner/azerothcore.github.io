@@ -1,9 +1,9 @@
 var a18541 =
 [
-    [ "HandleScript", "dc/df9/a18541.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "dc/df9/a18541.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "dc/df9/a18541.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "dc/df9/a18541.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "dc/df9/a18541.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "dc/df9/a18541.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "ShadowTrapLKTargetSelector", "dc/df9/a18541.html#a33561775948e07ac6ade2037f237441d", null ],
+    [ "operator()", "dc/df9/a18541.html#a3770329509c6ab2f16ae369ea8d72645", null ],
+    [ "_maxDist", "dc/df9/a18541.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
+    [ "_playerOnly", "dc/df9/a18541.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
+    [ "_reqLOS", "dc/df9/a18541.html#a7911be23196f59d55028affc3be23c20", null ],
+    [ "_source", "dc/df9/a18541.html#af416013aabf3b217b07228072076603d", null ]
 ];

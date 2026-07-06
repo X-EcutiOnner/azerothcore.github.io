@@ -1,6 +1,5 @@
 var a15001 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d1/d7f/a15005.html", "d1/d7f/a15005" ],
-    [ "instance_hyjal", "dc/dad/a15001.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "dc/dad/a15001.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "npc_pilgrims_bounty_plate", "dc/dad/a15001.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "dc/dad/a15001.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

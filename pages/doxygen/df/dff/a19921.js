@@ -1,5 +1,5 @@
 var a19921 =
 [
-    [ "achievement_auriaya_nine_lives", "df/dff/a19921.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "df/dff/a19921.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "boss_sjonnir_dwarfAI", "df/dff/a19921.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "df/dff/a19921.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

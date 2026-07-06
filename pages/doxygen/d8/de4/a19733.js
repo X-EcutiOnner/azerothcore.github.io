@@ -1,6 +1,6 @@
 var a19733 =
 [
-    [ "boss_sjonnir_dwarfAI", "d2/df0/a19737.html", "d2/df0/a19737" ],
-    [ "boss_sjonnir_dwarf", "d8/de4/a19733.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d8/de4/a19733.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "boss_eregosAI", "d2/df0/a19737.html", "d2/df0/a19737" ],
+    [ "boss_eregos", "d8/de4/a19733.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d8/de4/a19733.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

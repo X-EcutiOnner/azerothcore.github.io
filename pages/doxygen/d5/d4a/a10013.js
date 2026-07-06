@@ -1,7 +1,8 @@
 var a10013 =
 [
-    [ "LootView", "d5/d4a/a10013.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d5/d4a/a10013.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d5/d4a/a10013.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d5/d4a/a10013.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "InstResetEvent", "d5/d4a/a10013.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
+    [ "InstResetEvent", "d5/d4a/a10013.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
+    [ "difficulty", "d5/d4a/a10013.html#a67afe513dd42370ac4bb385a7128a324", null ],
+    [ "mapid", "d5/d4a/a10013.html#ad02e00b2782304fbd75973fe58eefd33", null ],
+    [ "type", "d5/d4a/a10013.html#ad211513c7ed39269d464190398dabaed", null ]
 ];

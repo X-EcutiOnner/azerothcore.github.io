@@ -1,6 +1,9 @@
 var a03224 =
 [
-    [ "ArenaSeasonTeamRewarder", "d5/d70/a07580.html", "d5/d70/a07580" ],
-    [ "ArenaSeasonTeamRewarderImpl", "dc/d86/a07584.html", "dc/d86/a07584" ],
-    [ "ArenaSeasonRewardDistributor", "dc/dc4/a07588.html", "dc/dc4/a07588" ]
+    [ "GetChaseRange", "d7/de1/a03224.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetTargetSpeedInMotion", "d7/de1/a03224.html#a56719695683e0a1fbeaeb49d31f62d74", null ],
+    [ "GetVelocity", "d7/de1/a03224.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "d7/de1/a03224.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "IsValidPredictedPosition", "d7/de1/a03224.html#a27995927630ed43ca4a79dff89cfb99c", null ],
+    [ "PredictPosition", "d7/de1/a03224.html#ada5b031ff95410ba84fd734c95c68099", null ]
 ];

@@ -1,7 +1,7 @@
 var a25225 =
 [
-    [ "HandleScriptEffect", "d5/d02/a25225.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "d5/d02/a25225.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "d5/d02/a25225.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "d5/d02/a25225.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "PrepareAuraScript", "d5/d02/a25225.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d5/d02/a25225.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d5/d02/a25225.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d5/d02/a25225.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

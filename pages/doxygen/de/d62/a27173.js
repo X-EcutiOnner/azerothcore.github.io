@@ -1,7 +1,8 @@
 var a27173 =
 [
-    [ "HandleBonus", "de/d62/a27173.html#a2bf167d8561f2ef36e44fa9754f0d9a3", null ],
-    [ "PrepareAuraScript", "de/d62/a27173.html#aebf4afa25b50be9b99900ef830f26f04", null ],
-    [ "Register", "de/d62/a27173.html#ad69315b8eca4173a1e0db21cd98e9c3c", null ],
-    [ "Validate", "de/d62/a27173.html#aef0e4a0474718f61f89ff4c825923fc1", null ]
+    [ "CheckProc", "de/d62/a27173.html#a019b47e139e155c0803c0ce9a3a42f82", null ],
+    [ "HandleProc", "de/d62/a27173.html#a92fff2ae3b59c3dd62e92a11312f87ae", null ],
+    [ "PrepareAuraScript", "de/d62/a27173.html#a91ef63b96918e797e677423d51f94112", null ],
+    [ "Register", "de/d62/a27173.html#a5625b3a60a607bd07d4328aa1886cfc5", null ],
+    [ "Validate", "de/d62/a27173.html#ab6178007664afc34556336ec9620cd4f", null ]
 ];

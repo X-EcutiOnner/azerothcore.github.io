@@ -1,6 +1,6 @@
 var a15017 =
 [
-    [ "boss_infinite_corruptorAI", "d8/dbf/a15021.html", "d8/dbf/a15021" ],
-    [ "boss_infinite_corruptor", "d9/dfd/a15017.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "d9/dfd/a15017.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "OnAuraRemove", "d9/dfd/a15017.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d9/dfd/a15017.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d9/dfd/a15017.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

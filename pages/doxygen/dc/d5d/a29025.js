@@ -1,7 +1,7 @@
 var a29025 =
 [
-    [ "TalentSpellPos", "dc/d5d/a29025.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
-    [ "TalentSpellPos", "dc/d5d/a29025.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
-    [ "rank", "dc/d5d/a29025.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
-    [ "talent_id", "dc/d5d/a29025.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
+    [ "AllocationPct", "dc/d5d/a29025.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "dc/d5d/a29025.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "dc/d5d/a29025.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "dc/d5d/a29025.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

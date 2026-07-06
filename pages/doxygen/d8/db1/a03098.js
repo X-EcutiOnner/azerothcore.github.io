@@ -1,11 +1,12 @@
 var a03098 =
 [
-    [ "AuraEffect", "d2/df9/a11735.html", "d2/df9/a11735" ],
-    [ "Acore::AbsorbAuraOrderPred", "d1/d7f/a11739.html", "d1/d7f/a11739" ],
-    [ "pAuraEffectHandler", "d8/db1/a03098.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
-    [ "BrewfestEntries", "d8/db1/a03098.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
-      [ "BREWFEST_KODO", "d8/db1/a03098.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
-      [ "GREAT_BREWFEST_KODO", "d8/db1/a03098.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
-      [ "FRESH_BREWFEST_HOPS", "d8/db1/a03098.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
-    ] ]
+    [ "AddonInfo", "d5/d7e/a06413.html", "d5/d7e/a06413" ],
+    [ "SavedAddon", "df/da9/a06417.html", "df/da9/a06417" ],
+    [ "BannedAddon", "de/d0a/a06421.html", "de/d0a/a06421" ],
+    [ "STANDARD_ADDON_CRC", "d8/db1/a03098.html#a084249e215f787f3163d5d06ad2d256f", null ],
+    [ "BannedAddonList", "d8/db1/a03098.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
+    [ "GetAddonInfo", "d8/db1/a03098.html#a65cb6a88902972060e44c57d7d9ec738", null ],
+    [ "GetBannedAddons", "d8/db1/a03098.html#ad7d0938e7463238a86e8c811e1a58800", null ],
+    [ "LoadFromDB", "d8/db1/a03098.html#aaa12f5b754e6b664dbfb2428478bee03", null ],
+    [ "SaveAddon", "d8/db1/a03098.html#a85021021149b7eb4d78cbe81e43d3d45", null ]
 ];

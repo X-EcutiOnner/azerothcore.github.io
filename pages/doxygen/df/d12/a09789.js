@@ -1,8 +1,9 @@
 var a09789 =
 [
-    [ "LocalizedPacketDo", "df/d12/a09789.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "df/d12/a09789.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "df/d12/a09789.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "df/d12/a09789.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "df/d12/a09789.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/d12/a09789.html#ac9e380add6c9df4afc707007528c7434", null ],
+    [ "NearestAssistCreatureInCreatureRangeCheck", "df/d12/a09789.html#aa26e19df606a366147e1db4fd1aa6eac", null ],
+    [ "operator()", "df/d12/a09789.html#a9a085d16b30849537441f809052ac196", null ],
+    [ "i_enemy", "df/d12/a09789.html#a0ba09da942c48e523c278cff0e0a4139", null ],
+    [ "i_obj", "df/d12/a09789.html#a905ea6b07b97ed23de4f4cf9946642af", null ],
+    [ "i_range", "df/d12/a09789.html#ab82a4b97ebb2bef047ae85404b0e3da0", null ]
 ];

@@ -1,6 +1,6 @@
 var a23205 =
 [
-    [ "HandleScriptEffect", "db/d7d/a23205.html#af0841e5c67c981b792a8d8f0d0d18edc", null ],
-    [ "PrepareSpellScript", "db/d7d/a23205.html#a287bff28e57a86f0176921500de78fa9", null ],
-    [ "Register", "db/d7d/a23205.html#ad5fb101794dfdef0c08551dd9397b965", null ]
+    [ "HandleAfterRemove", "db/d7d/a23205.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "db/d7d/a23205.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "db/d7d/a23205.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

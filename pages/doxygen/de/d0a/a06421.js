@@ -1,7 +1,8 @@
 var a06421 =
 [
-    [ "NonTankTargetSelector", "de/d0a/a06421.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "de/d0a/a06421.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "de/d0a/a06421.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "de/d0a/a06421.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
+    [ "BannedAddon", "de/d0a/a06421.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "de/d0a/a06421.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "de/d0a/a06421.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "de/d0a/a06421.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "de/d0a/a06421.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

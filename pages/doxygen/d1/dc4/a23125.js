@@ -1,8 +1,7 @@
 var a23125 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d1/dc4/a23125.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d1/dc4/a23125.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d1/dc4/a23125.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d1/dc4/a23125.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d1/dc4/a23125.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "go_ahune_ice_spear", "d1/dc4/a23125.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d1/dc4/a23125.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d1/dc4/a23125.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d1/dc4/a23125.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

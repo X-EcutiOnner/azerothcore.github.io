@@ -1,14 +1,8 @@
 var a08941 =
 [
-    [ "SocialMap", "d0/d45/a08941.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
-    [ "SocialMgr", "d0/d45/a08941.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
-    [ "~SocialMgr", "d0/d45/a08941.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
-    [ "BroadcastToFriendListers", "d0/d45/a08941.html#a55b35ea17ebfea4ff31710186b87865f", null ],
-    [ "GetFriendInfo", "d0/d45/a08941.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
-    [ "instance", "d0/d45/a08941.html#a223f3d7811d8c360da7f467b70af808f", null ],
-    [ "LoadFromDB", "d0/d45/a08941.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
-    [ "MakeFriendStatusPacket", "d0/d45/a08941.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
-    [ "RemovePlayerSocial", "d0/d45/a08941.html#af537c83cc3d481dde68d0a60aa122289", null ],
-    [ "SendFriendStatus", "d0/d45/a08941.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
-    [ "m_socialMap", "d0/d45/a08941.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
+    [ "BaseRune", "d0/d45/a08941.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "d0/d45/a08941.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "d0/d45/a08941.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "d0/d45/a08941.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "d0/d45/a08941.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

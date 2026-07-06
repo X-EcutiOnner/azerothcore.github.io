@@ -1,8 +1,8 @@
 var a21361 =
 [
-    [ "npc_future_youAI", "d1/d1a/a21361.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d1/d1a/a21361.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d1/d1a/a21361.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d1/d1a/a21361.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d1/d1a/a21361.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "HandleEffectRemove", "d1/d1a/a21361.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d1/d1a/a21361.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d1/d1a/a21361.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d1/d1a/a21361.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d1/d1a/a21361.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

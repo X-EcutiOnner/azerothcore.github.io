@@ -1,6 +1,9 @@
 var a20025 =
 [
-    [ "CheckCast", "df/d24/a20025.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "df/d24/a20025.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "df/d24/a20025.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "CheckTargets", "df/d24/a20025.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "df/d24/a20025.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "df/d24/a20025.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "df/d24/a20025.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "df/d24/a20025.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "df/d24/a20025.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

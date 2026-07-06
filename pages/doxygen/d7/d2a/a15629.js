@@ -1,8 +1,6 @@
 var a15629 =
 [
-    [ "npc_death_ravagerAI", "d7/d2a/a15629.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d7/d2a/a15629.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d7/d2a/a15629.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d7/d2a/a15629.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d7/d2a/a15629.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "FilterTargets", "d7/d2a/a15629.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d7/d2a/a15629.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d7/d2a/a15629.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

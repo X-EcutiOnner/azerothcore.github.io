@@ -1,7 +1,10 @@
 var a27097 =
 [
-    [ "PeriodicTick", "d6/d28/a27097.html#a0093da1cb71f87bb7302bf6ccc9a255c", null ],
-    [ "PrepareAuraScript", "d6/d28/a27097.html#afd362a7dd0373e9480445a99023a5c8c", null ],
-    [ "Register", "d6/d28/a27097.html#a0332788648661d5c2665c5d1431e4ca7", null ],
-    [ "Validate", "d6/d28/a27097.html#aecb5c0c9f5258a3ce7ff18cf08f89845", null ]
+    [ "Absorb", "d6/d28/a27097.html#aedee311aa77597674b3665eaf74e98c8", null ],
+    [ "CalculateAmount", "d6/d28/a27097.html#a5fdabb367ab86589d733d1da906446ab", null ],
+    [ "Load", "d6/d28/a27097.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
+    [ "PrepareAuraScript", "d6/d28/a27097.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
+    [ "Register", "d6/d28/a27097.html#abfc540163e9eb34cbf8a48d39bede840", null ],
+    [ "Validate", "d6/d28/a27097.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
+    [ "absorbChance", "d6/d28/a27097.html#a293be81af42d810126eda35b1d27e3bc", null ]
 ];

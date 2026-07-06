@@ -1,8 +1,5 @@
 var a12157 =
 [
-    [ "cache_commandscript", "d6/d4d/a12157.html#a709e1d02632aed18113c1adb52e962b5", null ],
-    [ "GetCommands", "d6/d4d/a12157.html#ae62aed5b701a408460d8fedcd08bb3a4", null ],
-    [ "HandleCacheDeleteCommand", "d6/d4d/a12157.html#a9ee0f4aceb031ad1c6b1870320fca88b", null ],
-    [ "HandleCacheInfoCommand", "d6/d4d/a12157.html#aa9bce5578450a35909a4e481bc21867f", null ],
-    [ "HandleCacheRefreshCommand", "d6/d4d/a12157.html#abf02cad15dabdcc5ed3df1fab0e87b6f", null ]
+    [ "PlayerDump", "d6/d4d/a12157.html#a457c89834631206d39453721e41af28e", null ],
+    [ "InitializeTables", "d6/d4d/a12157.html#a69c8e6c412ac09099752a3ad388f5467", null ]
 ];

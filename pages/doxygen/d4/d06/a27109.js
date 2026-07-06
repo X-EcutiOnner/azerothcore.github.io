@@ -1,7 +1,9 @@
 var a27109 =
 [
-    [ "AfterRemove", "d4/d06/a27109.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d4/d06/a27109.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d4/d06/a27109.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d4/d06/a27109.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "CheckCast", "d4/d06/a27109.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "d4/d06/a27109.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "d4/d06/a27109.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "d4/d06/a27109.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "d4/d06/a27109.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "d4/d06/a27109.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

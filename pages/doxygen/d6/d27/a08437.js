@@ -1,12 +1,7 @@
 var a08437 =
 [
-    [ "GameObjectModelOwnerImpl", "d6/d27/a08437.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "d6/d27/a08437.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "d6/d27/a08437.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "d6/d27/a08437.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "d6/d27/a08437.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "d6/d27/a08437.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "d6/d27/a08437.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "d6/d27/a08437.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "d6/d27/a08437.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "VendorItemCount", "d6/d27/a08437.html#abdf2d2900f75bb2b8d9727bab8fcbbc3", null ],
+    [ "count", "d6/d27/a08437.html#aff4c062138792ffb37dadb19b725c87c", null ],
+    [ "itemId", "d6/d27/a08437.html#a225158bbb56d6666ba4918155f08f993", null ],
+    [ "lastIncrementTime", "d6/d27/a08437.html#a0b88ba4ea590abbdc9234ff4a2a335fa", null ]
 ];

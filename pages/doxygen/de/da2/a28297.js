@@ -1,5 +1,6 @@
 var a28297 =
 [
-    [ "go_transport_the_purple_princess", "de/da2/a28297.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "de/da2/a28297.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_air_force_botsAI", "d7/d5e/a28301.html", "d7/d5e/a28301" ],
+    [ "npc_air_force_bots", "de/da2/a28297.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "de/da2/a28297.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

@@ -1,8 +1,15 @@
 var a10069 =
 [
-    [ "EllipseBoundary", "dc/db9/a10069.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "dc/db9/a10069.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "dc/db9/a10069.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "dc/db9/a10069.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "dc/db9/a10069.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "LootStoreItem", "dc/db9/a10069.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
+    [ "IsValid", "dc/db9/a10069.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
+    [ "Roll", "dc/db9/a10069.html#a87cc7956b131a16aee7bd5d4808193df", null ],
+    [ "chance", "dc/db9/a10069.html#a20411103b449a9176b3bc665f909f06f", null ],
+    [ "conditions", "dc/db9/a10069.html#a88812a51fb467a189f2824ad8b3198e8", null ],
+    [ "groupid", "dc/db9/a10069.html#abc6df381782d25490dff0e54bec63b3a", null ],
+    [ "itemid", "dc/db9/a10069.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
+    [ "lootmode", "dc/db9/a10069.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
+    [ "maxcount", "dc/db9/a10069.html#a96012059cc6affa8120ef544682781d2", null ],
+    [ "mincount", "dc/db9/a10069.html#ada6a4d427187361c6bc33bdde789e809", null ],
+    [ "needs_quest", "dc/db9/a10069.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
+    [ "reference", "dc/db9/a10069.html#a374a94e34095a1beb38abca43069d0b6", null ]
 ];

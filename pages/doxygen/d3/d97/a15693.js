@@ -1,7 +1,6 @@
 var a15693 =
 [
-    [ "npc_tharnarianAI", "df/d44/a15697.html", "df/d44/a15697" ],
-    [ "npc_tharnarian", "d3/d97/a15693.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "d3/d97/a15693.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "d3/d97/a15693.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "HandleOnHit", "d3/d97/a15693.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "d3/d97/a15693.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "d3/d97/a15693.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

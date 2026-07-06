@@ -1,8 +1,7 @@
 var a25253 =
 [
-    [ "HandlePeriodic", "d2/d01/a25253.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "d2/d01/a25253.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "d2/d01/a25253.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "d2/d01/a25253.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "d2/d01/a25253.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "HandleDummy", "d2/d01/a25253.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "d2/d01/a25253.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "d2/d01/a25253.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "d2/d01/a25253.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

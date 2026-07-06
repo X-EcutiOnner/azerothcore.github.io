@@ -1,6 +1,8 @@
 var a16557 =
 [
-    [ "npc_toc5_player_vehicleAI", "d3/db2/a16561.html", "d3/db2/a16561" ],
-    [ "npc_toc5_player_vehicle", "d4/d81/a16557.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "d4/d81/a16557.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "OnApply", "d4/d81/a16557.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "d4/d81/a16557.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "d4/d81/a16557.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "d4/d81/a16557.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "d4/d81/a16557.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

@@ -1,8 +1,6 @@
 var a12837 =
 [
-    [ "FilterTargets", "d8/dc1/a12837.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d8/dc1/a12837.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d8/dc1/a12837.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d8/dc1/a12837.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d8/dc1/a12837.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "boss_firemaw", "d8/dc1/a12837.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
+    [ "JustEngagedWith", "d8/dc1/a12837.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
+    [ "UpdateAI", "d8/dc1/a12837.html#a13a672cc37175615068429f9a3282e07", null ]
 ];

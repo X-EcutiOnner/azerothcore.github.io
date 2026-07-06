@@ -1,8 +1,11 @@
 var a14973 =
 [
-    [ "hyjalThrallAI", "d6/d49/a14973.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "d6/d49/a14973.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "d6/d49/a14973.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "d6/d49/a14973.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "d6/d49/a14973.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "HandleFinish", "d6/d49/a14973.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "d6/d49/a14973.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "d6/d49/a14973.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "d6/d49/a14973.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "d6/d49/a14973.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "d6/d49/a14973.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "d6/d49/a14973.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "d6/d49/a14973.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

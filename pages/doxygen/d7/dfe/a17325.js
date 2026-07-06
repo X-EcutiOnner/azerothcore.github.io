@@ -1,6 +1,13 @@
 var a17325 =
 [
-    [ "HandleEffectPeriodic", "d7/dfe/a17325.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d7/dfe/a17325.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d7/dfe/a17325.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "npc_hor_leader_secondAI", "d7/dfe/a17325.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "d7/dfe/a17325.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "d7/dfe/a17325.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "d7/dfe/a17325.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "d7/dfe/a17325.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "d7/dfe/a17325.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "d7/dfe/a17325.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "d7/dfe/a17325.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "d7/dfe/a17325.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "instance", "d7/dfe/a17325.html#a09cc193b1a718c06ef8349499e697f10", null ]
 ];

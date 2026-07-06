@@ -1,5 +1,7 @@
 var a16117 =
 [
-    [ "achievement_volunteer_work", "d2/ddb/a16117.html#a43db6e553b370f139ac376840fdf6d70", null ],
-    [ "OnCheck", "d2/ddb/a16117.html#abdbbe9165d3d72d76fe685ebce5e304d", null ]
+    [ "npc_wizzlecrank_shredderAI", "de/de6/a16121.html", "de/de6/a16121" ],
+    [ "npc_wizzlecrank_shredder", "d2/ddb/a16117.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d2/ddb/a16117.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d2/ddb/a16117.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

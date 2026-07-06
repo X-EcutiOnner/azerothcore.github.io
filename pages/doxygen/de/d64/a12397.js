@@ -1,6 +1,6 @@
 var a12397 =
 [
-    [ "boss_galvangarAI", "d3/d59/a12401.html", "d3/d59/a12401" ],
-    [ "boss_galvangar", "de/d64/a12397.html#a3949cfd3c987bdf52d313568de9379ba", null ],
-    [ "GetAI", "de/d64/a12397.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
+    [ "inventory_commandscript", "de/d64/a12397.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "de/d64/a12397.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "de/d64/a12397.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

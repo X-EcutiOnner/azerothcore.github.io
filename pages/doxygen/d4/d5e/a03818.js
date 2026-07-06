@@ -1,5 +1,5 @@
 var a03818 =
 [
-    [ "BGSpamProtect", "d3/d07/a07691.html", "d3/d07/a07691" ],
-    [ "sBGSpam", "d4/d5e/a03818.html#ae37d7994736d43484a627d5de2af5fc1", null ]
+    [ "ArenaScore", "d8/d69/a07593.html", "d8/d69/a07593" ],
+    [ "ArenaTeamScore", "d8/d12/a07597.html", "d8/d12/a07597" ]
 ];

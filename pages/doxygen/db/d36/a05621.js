@@ -1,17 +1,10 @@
 var a05621 =
 [
-    [ "AppenderFile", "db/d36/a05621.html#a0437ef5c3d0106e52747ab57ccbf97a3", null ],
-    [ "~AppenderFile", "db/d36/a05621.html#ae61ef8a7dbc41612f94513ee0da156e1", null ],
-    [ "_write", "db/d36/a05621.html#a4c20fc9c6519eb63ca3bf74fd1d1f5b5", null ],
-    [ "CloseFile", "db/d36/a05621.html#a039659a1e8e340c9522ff99f119ff5c8", null ],
-    [ "getType", "db/d36/a05621.html#ad978ed158e068f5fa84f9f93aaf99b46", null ],
-    [ "OpenFile", "db/d36/a05621.html#af4ee583cbcd00d8d564189b0d62a1bb8", null ],
-    [ "_backup", "db/d36/a05621.html#a4e1f6ab329fa3dadf4e63584b92c456f", null ],
-    [ "_dynamicName", "db/d36/a05621.html#a13cffedf98f8554f5a947dcc065caf65", null ],
-    [ "_fileName", "db/d36/a05621.html#a53fcfcc6bf29a0e493d2ea9fdb1344fc", null ],
-    [ "_fileSize", "db/d36/a05621.html#a03a7e6402f58136a0cc34eff3985d3fb", null ],
-    [ "_logDir", "db/d36/a05621.html#a99f47e0f33b5d5f810470f45a4c885b7", null ],
-    [ "_maxFileSize", "db/d36/a05621.html#a271930a4cb21d7efdc2243b6d33d177f", null ],
-    [ "logfile", "db/d36/a05621.html#a8ce79405a7e19ae23fc4a93f70ad28b6", null ],
-    [ "type", "db/d36/a05621.html#a6ec33bdb38ab0359620e008cf4793f8c", null ]
+    [ "Find", "db/d36/a05621.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "db/d36/a05621.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "db/d36/a05621.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "db/d36/a05621.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "db/d36/a05621.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "db/d36/a05621.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "db/d36/a05621.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

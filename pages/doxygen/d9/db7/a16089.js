@@ -1,5 +1,6 @@
 var a16089 =
 [
-    [ "achievement_respect_your_elders", "d9/db7/a16089.html#a2fd66ada0ff7482c00b2cb417a12e88e", null ],
-    [ "OnCheck", "d9/db7/a16089.html#a770922be3ab19848f7a8f43a82d78b88", null ]
+    [ "npc_tyrande_whisperwind", "d9/db7/a16089.html#af716e954e59221d26ee88032e895fa18", null ],
+    [ "JustDied", "d9/db7/a16089.html#a707f6167de4eafc6d81613d0edc29436", null ],
+    [ "UpdateAI", "d9/db7/a16089.html#a598bd2dec22715413dcbd7ed6ca3be3c", null ]
 ];

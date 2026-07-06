@@ -1,7 +1,7 @@
 var a18765 =
 [
-    [ "OnApply", "d7/d1e/a18765.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d7/d1e/a18765.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d7/d1e/a18765.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d7/d1e/a18765.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "HandleProc", "d7/d1e/a18765.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d7/d1e/a18765.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d7/d1e/a18765.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d7/d1e/a18765.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

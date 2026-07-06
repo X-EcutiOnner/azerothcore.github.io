@@ -1,10 +1,7 @@
 var a11701 =
 [
-    [ "ApplyHarmfulAuraImmuneMask", "d6/d74/a11701.html#afb005a71205a573357afae14481cf5a4", null ],
-    [ "AuraTypeImmune", "d6/d74/a11701.html#ad585a49cd0b72b84e2146b8d6acdb2fc", null ],
-    [ "DamageSchoolMask", "d6/d74/a11701.html#a0917b0bacb75c03a527e170ef08f0811", null ],
-    [ "DispelImmuneMask", "d6/d74/a11701.html#a142a794d2927b25592fece914f7a40fa", null ],
-    [ "MechanicImmuneMask", "d6/d74/a11701.html#ad001d68adbf9c985f26476dda31898ad", null ],
-    [ "SchoolImmuneMask", "d6/d74/a11701.html#a4b4b786ef6fe3bb4247eff61416d3400", null ],
-    [ "SpellEffectImmune", "d6/d74/a11701.html#afd9f307ea408ac6f88fae8bcde2f1ce7", null ]
+    [ "Player", "d6/d74/a11701.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d6/d74/a11701.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "FactionChange", "d6/d74/a11701.html#adff657ead29df26ead5e20a8ecf44e87", null ],
+    [ "Race", "d6/d74/a11701.html#a98d5fd43205a0c9e2d3be75d384ce00c", null ]
 ];

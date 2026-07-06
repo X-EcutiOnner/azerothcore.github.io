@@ -1,25 +1,20 @@
 var a02372 =
 [
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "df/dc2/a07879.html", "df/dc2/a07879" ],
-    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "d4/db3/a07883.html", "d4/db3/a07883" ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "d5/d7b/a07887.html", null ],
-    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "da/dee/a07891.html", "da/dee/a07891" ],
-    [ "Acore::Impl::ChatCommands::CommandInvoker", "d9/db3/a07895.html", "d9/db3/a07895" ],
-    [ "Acore::Impl::ChatCommands::CommandPermissions", "de/d53/a07899.html", "de/d53/a07899" ],
-    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d8/def/a07903.html", "d8/def/a07903" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder", "d6/d46/a07907.html", "d6/d46/a07907" ],
-    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "db/d15/a07911.html", "db/d15/a07911" ],
-    [ "ChatCommand", "da/d75/a02372.html#a399dbe5721f7277a9066752a84065ee4", null ],
-    [ "ChatCommandTable", "da/d75/a02372.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
-    [ "TupleType", "da/d75/a02372.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
-    [ "Console", "da/d75/a02372.html#a6f2659123367a36f37046e5604215d6b", [
-      [ "No", "da/d75/a02372.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "da/d75/a02372.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
-    ] ],
-    [ "ConsumeFromOffset", "da/d75/a02372.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
-    [ "GetAutoCompletionsFor", "da/d75/a02372.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
-    [ "InvalidateCommandMap", "da/d75/a02372.html#ade19080af583292883b932d83992c6fe", null ],
-    [ "LoadCommandMap", "da/d75/a02372.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
-    [ "SendCommandHelpFor", "da/d75/a02372.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
-    [ "TryExecuteCommand", "da/d75/a02372.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
+    [ "Acore::Impl::ChatCommands::ContainerTag", "d8/d83/a08045.html", "d8/d83/a08045" ],
+    [ "Acore::Impl::ChatCommands::tag_base< T, std::enable_if_t< std::is_base_of_v< ContainerTag, T > > >", "d4/d18/a08049.html", "d4/d18/a08049" ],
+    [ "Acore::ChatCommands::ExactSequence< chars >", "d8/d92/a08053.html", "d8/d92/a08053" ],
+    [ "Acore::ChatCommands::Tail", "d6/d6f/a08057.html", "d6/d6f/a08057" ],
+    [ "Acore::ChatCommands::WTail", "d9/d19/a08061.html", "d9/d19/a08061" ],
+    [ "Acore::ChatCommands::QuotedString", "d6/dea/a08065.html", "d6/dea/a08065" ],
+    [ "Acore::ChatCommands::AccountIdentifier", "d1/d1d/a08069.html", "d1/d1d/a08069" ],
+    [ "Acore::ChatCommands::PlayerIdentifier", "d6/d23/a08073.html", "d6/d23/a08073" ],
+    [ "Acore::ChatCommands::Hyperlink< linktag >", "d7/d51/a08077.html", "d7/d51/a08077" ],
+    [ "Acore::Impl::CastToVisitor< T >", "de/d02/a08081.html", "de/d02/a08081" ],
+    [ "Acore::ChatCommands::Variant< T1, Ts >", "de/da2/a08085.html", "de/da2/a08085" ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL", "da/d75/a02372.html#af98497f511ab4c536bd80e08ff605c04", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_CONSTRAINED", "da/d75/a02372.html#ae9ad890da39c16320a177ed5fbdffdf1", null ],
+    [ "CHATCOMMANDS_IMPL_SPLIT_LITERAL_EXTRACT_CHAR", "da/d75/a02372.html#a55b2f2ab9e15f11a5b44f6d616f28e8a", null ],
+    [ "EXACT_SEQUENCE", "da/d75/a02372.html#ac61bb0d0d29d3ccc94188eb93516adf5", null ],
+    [ "format_as", "da/d75/a02372.html#a474622d2cd7db21b03271a0f2c3237b9", null ],
+    [ "GetChar", "da/d75/a02372.html#ab72843264c39ce4d9aa3d4d8fbd83fc4", null ]
 ];

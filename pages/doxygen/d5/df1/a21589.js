@@ -1,8 +1,6 @@
 var a21589 =
 [
-    [ "HandleEffectApply", "d5/df1/a21589.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d5/df1/a21589.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d5/df1/a21589.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d5/df1/a21589.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d5/df1/a21589.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d5/df1/a21589.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d5/df1/a21589.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d5/df1/a21589.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

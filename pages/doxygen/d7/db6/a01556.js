@@ -1,5 +1,7 @@
 var a01556 =
 [
-    [ "mail_commandscript", "df/d72/a12399.html", "df/d72/a12399" ],
-    [ "AddSC_mail_commandscript", "d7/db6/a01556.html#a60390ceaf08c6b305bdc77fd27243938", null ]
+    [ "gobject_commandscript", "d1/da3/a12377.html", "d1/da3/a12377" ],
+    [ "GameObjectEntry", "d7/db6/a01556.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "d7/db6/a01556.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "d7/db6/a01556.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

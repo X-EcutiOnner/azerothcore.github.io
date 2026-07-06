@@ -1,7 +1,11 @@
 var a19905 =
 [
-    [ "npc_auriaya_sanctum_sentry", "d3/d8b/a19905.html#ae5ed159c476c8b4569de7e2730edf447", null ],
-    [ "JustEngagedWith", "d3/d8b/a19905.html#a5475b653a9c1fa78f2fcab8abed00863", null ],
-    [ "Reset", "d3/d8b/a19905.html#a540cb8f5c53c3648d49ec88efed8a43d", null ],
-    [ "UpdateAI", "d3/d8b/a19905.html#a93ed6a0205a042ef1fc065fc6cfd94ee", null ]
+    [ "boss_maiden_of_griefAI", "d3/d8b/a19905.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
+    [ "JustDied", "d3/d8b/a19905.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
+    [ "JustEngagedWith", "d3/d8b/a19905.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
+    [ "KilledUnit", "d3/d8b/a19905.html#a3d2173db5a852a356c187b2d2771b75f", null ],
+    [ "Reset", "d3/d8b/a19905.html#a46776004549b0dcfcf73351225adaad8", null ],
+    [ "UpdateAI", "d3/d8b/a19905.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
+    [ "events", "d3/d8b/a19905.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
+    [ "pInstance", "d3/d8b/a19905.html#abc195718a208a926f978d7f0fe0e7925", null ]
 ];

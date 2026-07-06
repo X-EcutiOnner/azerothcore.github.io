@@ -1,6 +1,6 @@
 var a25577 =
 [
-    [ "HandleScript", "d3/d26/a25577.html#ab923050ce4613538ee4837daba09dd33", null ],
-    [ "PrepareSpellScript", "d3/d26/a25577.html#a9fa37b95f9c3788764922f4414c383f5", null ],
-    [ "Register", "d3/d26/a25577.html#a4bacedda40b04934e7473f7a92f6a314", null ]
+    [ "HandleItemRemove", "d3/d26/a25577.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "d3/d26/a25577.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "d3/d26/a25577.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

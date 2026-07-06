@@ -1,6 +1,7 @@
 var a13945 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/d85/a13949.html", "db/d85/a13949" ],
-    [ "npc_ravenclaw_apparition", "d5/dfd/a13945.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "d5/dfd/a13945.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "HandleAfterCast", "d5/dfd/a13945.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "d5/dfd/a13945.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "d5/dfd/a13945.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "d5/dfd/a13945.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

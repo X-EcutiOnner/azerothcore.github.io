@@ -1,12 +1,6 @@
 var a17405 =
 [
-    [ "boss_moorabiAI", "d1/d51/a17405.html#a60a03c3840a3743719996929d2ca9e59", null ],
-    [ "EnterEvadeMode", "d1/d51/a17405.html#a7b77a6da820e9b3be80c94a37fe07db4", null ],
-    [ "JustDied", "d1/d51/a17405.html#a6d866bf54dc06e4f20eb4d62ea97928a", null ],
-    [ "JustEngagedWith", "d1/d51/a17405.html#a1fa46ac21b28ff49382c7389a46fad75", null ],
-    [ "KilledUnit", "d1/d51/a17405.html#a265855d2972e534e927bfa609fbf2cf5", null ],
-    [ "Reset", "d1/d51/a17405.html#a9daf89ed0f4e5795cafc63a6a81e5d1d", null ],
-    [ "SpellHitTarget", "d1/d51/a17405.html#af1f30a0f3bf0f88725f8a146c528b77a", null ],
-    [ "UpdateAI", "d1/d51/a17405.html#a9f9956aaaa60d5d0005a55a87d0424eb", null ],
-    [ "events2", "d1/d51/a17405.html#a02a3bc20ca7b1b750bfd1bd29f093dd2", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d2/de3/a17409.html", "d2/de3/a17409" ],
+    [ "instance_pit_of_saron", "d1/d51/a17405.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "d1/d51/a17405.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

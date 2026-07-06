@@ -1,8 +1,9 @@
 var a09053 =
 [
-    [ "RedirectSpellEvent", "d3/d63/a09053.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d3/d63/a09053.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d3/d63/a09053.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d3/d63/a09053.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d3/d63/a09053.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "GlobalCooldownMgr", "d3/d63/a09053.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "d3/d63/a09053.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "d3/d63/a09053.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "d3/d63/a09053.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "d3/d63/a09053.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "d3/d63/a09053.html#a80d03691d36758733f326b65992f266e", null ]
 ];

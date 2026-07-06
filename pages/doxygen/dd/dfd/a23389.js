@@ -1,10 +1,6 @@
 var a23389 =
 [
-    [ "CheckProc", "dd/dfd/a23389.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "dd/dfd/a23389.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "dd/dfd/a23389.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "dd/dfd/a23389.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "dd/dfd/a23389.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "dd/dfd/a23389.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "dd/dfd/a23389.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "HandleScriptEffect", "dd/dfd/a23389.html#adf350bccc5862252f6928faa4ae3a001", null ],
+    [ "PrepareSpellScript", "dd/dfd/a23389.html#a0d1ff479da3b8f50ed698da9f9029589", null ],
+    [ "Register", "dd/dfd/a23389.html#afaf23967ede6e120caa7758ff2d3c974", null ]
 ];

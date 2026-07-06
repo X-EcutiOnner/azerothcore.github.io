@@ -1,9 +1,5 @@
 var a22357 =
 [
-    [ "npc_flame_of_azzinoth", "d9/d7e/a22357.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d9/d7e/a22357.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d9/d7e/a22357.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d9/d7e/a22357.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d9/d7e/a22357.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d9/d7e/a22357.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d9/d7e/a22357.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d9/d7e/a22357.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

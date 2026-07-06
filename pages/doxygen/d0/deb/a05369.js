@@ -1,20 +1,15 @@
 var a05369 =
 [
-    [ "Cell", "d9/d09/a05373.html", "d9/d09/a05373" ],
-    [ "MemberTable", "d0/deb/a05369.html#a53d3129df77e91fe5a16a990f94412fb", null ],
-    [ "RegularGrid2D", "d0/deb/a05369.html#ad46cc1766cbe53425691d25266836162", null ],
-    [ "~RegularGrid2D", "d0/deb/a05369.html#af105482aa4349d2f7f937fb95ec7f2a8", null ],
-    [ "balance", "d0/deb/a05369.html#ae4bc431aff07874774243907c6c71539", null ],
-    [ "contains", "d0/deb/a05369.html#a03a3daaf4be4e818315eb1051bed786f", null ],
-    [ "getGrid", "d0/deb/a05369.html#a17d16d7813e95d09000563cd1f059414", null ],
-    [ "getGridFor", "d0/deb/a05369.html#a038d866c2d0b029b1b60991f0d7ac106", null ],
-    [ "insert", "d0/deb/a05369.html#acd03acd7829c13772c49580724ca4b1c", null ],
-    [ "intersectPoint", "d0/deb/a05369.html#a3eb8cf138465b05159a8411d5f723bcb", null ],
-    [ "intersectRay", "d0/deb/a05369.html#abd2a34c305726b54aa1b76ba5e9353b8", null ],
-    [ "intersectRay", "d0/deb/a05369.html#a8ff8f11a1e48a2ee247609c5d01330eb", null ],
-    [ "intersectZAllignedRay", "d0/deb/a05369.html#a1e06727cad432d3f3ce9ca6f08c2ac76", null ],
-    [ "remove", "d0/deb/a05369.html#a862fd48782df471f0b8ab84bdd4ae51b", null ],
-    [ "size", "d0/deb/a05369.html#a6e7ce25838521cf8dde65aa6f70f404f", null ],
-    [ "memberTable", "d0/deb/a05369.html#a2343374187eaf1b4a4dcf6d5cf4611d1", null ],
-    [ "nodes", "d0/deb/a05369.html#a1f31b8ce99c32652c8b8c3b5063fe83d", null ]
+    [ "GetBounds", "d0/deb/a05369.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
+    [ "operator==", "d0/deb/a05369.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
+    [ "readFromFile", "d0/deb/a05369.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
+    [ "writeToFile", "d0/deb/a05369.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
+    [ "adtId", "d0/deb/a05369.html#a4ebcfe8326eff028e722c9972a16200b", null ],
+    [ "flags", "d0/deb/a05369.html#acfc7a76db09013abfad8e42aaae59f52", null ],
+    [ "iBound", "d0/deb/a05369.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
+    [ "ID", "d0/deb/a05369.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
+    [ "iPos", "d0/deb/a05369.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
+    [ "iRot", "d0/deb/a05369.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
+    [ "iScale", "d0/deb/a05369.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
+    [ "name", "d0/deb/a05369.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
 ];

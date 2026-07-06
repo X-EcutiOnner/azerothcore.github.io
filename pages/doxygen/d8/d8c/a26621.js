@@ -1,7 +1,7 @@
 var a26621 =
 [
-    [ "CheckTarget", "d8/d8c/a26621.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "d8/d8c/a26621.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "d8/d8c/a26621.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "d8/d8c/a26621.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleProc", "d8/d8c/a26621.html#af48dfc934a6be37e95c469d07691e91f", null ],
+    [ "PrepareAuraScript", "d8/d8c/a26621.html#a93147abc7cda5307a06be3d876b82eea", null ],
+    [ "Register", "d8/d8c/a26621.html#a9f4ea3a1d84491a235f55c54ad2af2d6", null ],
+    [ "Validate", "d8/d8c/a26621.html#a5c19c37e6d0271d0d38fffa945f6c707", null ]
 ];

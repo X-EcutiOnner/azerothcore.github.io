@@ -1,11 +1,10 @@
 var a20457 =
 [
-    [ "boss_thorim_sif_blizzard", "df/d01/a20457.html#a7d4054eb43079fe13e5a7a6c85b461ec", null ],
-    [ "AttackStart", "df/d01/a20457.html#ab41c744d8573b1f8ce5e82e798c9bd4f", null ],
-    [ "InitWaypoint", "df/d01/a20457.html#a55424c77633aaa62e12581a818736441", null ],
-    [ "JustEngagedWith", "df/d01/a20457.html#a019b50cc265dff0e92417482b85ccf64", null ],
-    [ "MoveInLineOfSight", "df/d01/a20457.html#a6e5333d6a87956d2052c2212a3dcb0fa", null ],
-    [ "Reset", "df/d01/a20457.html#a347fcc28a0bc660b9fa93fe7fc54eea0", null ],
-    [ "WaypointReached", "df/d01/a20457.html#af69dfd0ec232c7e45d13b117988ba924", null ],
-    [ "WaypointReached", "df/d01/a20457.html#a0d1122895c25211ca4c71cb651f13cef", null ]
+    [ "boss_kologarn_eyebeam", "df/d01/a20457.html#ae51ea98b22b3a0734347825b3a0346be", null ],
+    [ "DamageDealt", "df/d01/a20457.html#ab5dfd2cd38ee64a2cd94d8dec28ccc0d", null ],
+    [ "IsSummonedBy", "df/d01/a20457.html#a1640ef2ca2a58803786a6c675191676c", null ],
+    [ "UpdateAI", "df/d01/a20457.html#a7c64f096f0c9eb4c1bb9f63a0cf907a3", null ],
+    [ "_damaged", "df/d01/a20457.html#a62d025ceaa080f78e587ee08c6f780ef", null ],
+    [ "_instance", "df/d01/a20457.html#a600467b5bb551022d7e0b12ce739b672", null ],
+    [ "_timer", "df/d01/a20457.html#a0d324467d4d02d7bd204f66fcadc52ea", null ]
 ];

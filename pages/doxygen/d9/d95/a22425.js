@@ -1,13 +1,12 @@
 var a22425 =
 [
-    [ "boss_illidari_council_memberAI", "d9/d95/a22425.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "d9/d95/a22425.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "d9/d95/a22425.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "d9/d95/a22425.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "d9/d95/a22425.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "d9/d95/a22425.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "d9/d95/a22425.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "d9/d95/a22425.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "d9/d95/a22425.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "d9/d95/a22425.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "boss_shirrak_the_dead_watcher", "d9/d95/a22425.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d9/d95/a22425.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d9/d95/a22425.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d9/d95/a22425.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d9/d95/a22425.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d9/d95/a22425.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d9/d95/a22425.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d9/d95/a22425.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d9/d95/a22425.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

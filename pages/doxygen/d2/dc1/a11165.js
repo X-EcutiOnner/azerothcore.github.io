@@ -1,7 +1,10 @@
 var a11165 =
 [
-    [ "ReadItem", "d2/dc1/a11165.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "d2/dc1/a11165.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "d2/dc1/a11165.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "d2/dc1/a11165.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "Count", "d2/dc1/a11165.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "d2/dc1/a11165.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "d2/dc1/a11165.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "d2/dc1/a11165.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "d2/dc1/a11165.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "d2/dc1/a11165.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "d2/dc1/a11165.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

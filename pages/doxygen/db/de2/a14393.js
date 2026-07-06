@@ -1,6 +1,8 @@
 var a14393 =
 [
-    [ "HandleOnHit", "db/de2/a14393.html#a36909ef786940eb1a05539c968d78e80", null ],
-    [ "PrepareSpellScript", "db/de2/a14393.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
-    [ "Register", "db/de2/a14393.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
+    [ "HandleScriptEffect", "db/de2/a14393.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "db/de2/a14393.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "db/de2/a14393.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "db/de2/a14393.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "db/de2/a14393.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

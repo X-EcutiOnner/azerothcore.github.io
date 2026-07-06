@@ -1,5 +1,9 @@
 var a18049 =
 [
-    [ "npc_volatile_oozeAI", "d9/d1f/a18049.html#af042d4c22482aabcdad6fa867dfe093f", null ],
-    [ "CastMainSpell", "d9/d1f/a18049.html#a91890785174ecc60c9553a0aedf1961b", null ]
+    [ "HandleApply", "d9/d1f/a18049.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d9/d1f/a18049.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d9/d1f/a18049.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d9/d1f/a18049.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d9/d1f/a18049.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d9/d1f/a18049.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

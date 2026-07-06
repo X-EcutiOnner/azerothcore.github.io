@@ -1,7 +1,11 @@
 var a19613 =
 [
-    [ "CalcDamage", "d6/d76/a19613.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "d6/d76/a19613.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "d6/d76/a19613.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "d6/d76/a19613.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "npc_hover_disk", "d6/d76/a19613.html#af6f8ef0df4b64540f99adebdd709b00e", null ],
+    [ "AttackStart", "d6/d76/a19613.html#a3ea3d44f74f26115f0a29fad134fcfc8", null ],
+    [ "DoAction", "d6/d76/a19613.html#ae4141e5aed3cfdbf8d76ad55ce4463d9", null ],
+    [ "MoveInLineOfSight", "d6/d76/a19613.html#a0ad97e511bd01c269c04d2ccfe007f91", null ],
+    [ "MovementInform", "d6/d76/a19613.html#a9d1c7ac28f2c597864cf2c70ab0fb943", null ],
+    [ "PassengerBoarded", "d6/d76/a19613.html#ab7e712a9d5aec7c3112796316a7fe534", null ],
+    [ "UpdateAI", "d6/d76/a19613.html#add98702312084df553e24bcd4b632bb3", null ],
+    [ "events", "d6/d76/a19613.html#a073e1161eda3b714ad0d7ea96f865b6d", null ]
 ];

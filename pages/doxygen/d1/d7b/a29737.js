@@ -1,8 +1,5 @@
 var a29737 =
 [
-    [ "Color", "d1/d7b/a29737.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d1/d7b/a29737.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d1/d7b/a29737.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d1/d7b/a29737.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d1/d7b/a29737.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "SetUp", "d1/d7b/a29737.html#aa4192b0ae6f716449e20ead2b5a5a387", null ],
+    [ "_allEntries", "d1/d7b/a29737.html#a7c06feea09d0606a50198a307e43b989", null ]
 ];

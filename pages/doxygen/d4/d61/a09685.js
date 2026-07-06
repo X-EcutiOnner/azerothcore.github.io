@@ -1,9 +1,7 @@
 var a09685 =
 [
-    [ "NearestHostileUnitCheck", "d4/d61/a09685.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "d4/d61/a09685.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "d4/d61/a09685.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "d4/d61/a09685.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "d4/d61/a09685.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "d4/d61/a09685.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "GameObjectFocusCheck", "d4/d61/a09685.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "d4/d61/a09685.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "d4/d61/a09685.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "d4/d61/a09685.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

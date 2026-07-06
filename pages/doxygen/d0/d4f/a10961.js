@@ -1,6 +1,6 @@
 var a10961 =
 [
-    [ "GuildEventLogQueryResults", "d0/d4f/a10961.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "d0/d4f/a10961.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "d0/d4f/a10961.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "EmoteClient", "d0/d4f/a10961.html#af98c098cb1019057d8027f39c168e1a9", null ],
+    [ "Read", "d0/d4f/a10961.html#abad5fca865b7b99e595ce95137e8105c", null ],
+    [ "EmoteID", "d0/d4f/a10961.html#a24503de36535106220984ffbf6ba0338", null ]
 ];

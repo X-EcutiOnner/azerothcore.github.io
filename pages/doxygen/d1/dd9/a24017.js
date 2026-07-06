@@ -1,5 +1,8 @@
 var a24017 =
 [
-    [ "npc_pet_proto_drake_whelp", "d1/dd9/a24017.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
-    [ "Reset", "d1/dd9/a24017.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
+    [ "CreatureId", "d1/dd9/a24017.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d1/dd9/a24017.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d1/dd9/a24017.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d1/dd9/a24017.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d1/dd9/a24017.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

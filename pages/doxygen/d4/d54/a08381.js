@@ -1,5 +1,8 @@
 var a08381 =
 [
-    [ "QuestIcon", "d4/d54/a08381.html#ad8bbfe08780eaa68a8205e2634d211b8", null ],
-    [ "QuestId", "d4/d54/a08381.html#a522a4fcb28daec3e1a620b6f02c3d8fe", null ]
+    [ "TemporaryThreatModifierEvent", "d4/d54/a08381.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
+    [ "Execute", "d4/d54/a08381.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
+    [ "m_owner", "d4/d54/a08381.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
+    [ "m_threatValue", "d4/d54/a08381.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
+    [ "m_threatVictimGUID", "d4/d54/a08381.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
 ];

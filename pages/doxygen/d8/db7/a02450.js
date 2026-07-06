@@ -1,4 +1,5 @@
 var a02450 =
 [
-    [ "ZoneScript", "d1/d80/a10275.html", "d1/d80/a10275" ]
+    [ "MapMgr", "db/d22/a10237.html", "db/d22/a10237" ],
+    [ "sMapMgr", "d8/db7/a02450.html#a9132749f8376c48b0ca7212eb3293905", null ]
 ];

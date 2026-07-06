@@ -1,7 +1,5 @@
 var a14317 =
 [
-    [ "HandleScriptEffect", "d6/dcf/a14317.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d6/dcf/a14317.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d6/dcf/a14317.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d6/dcf/a14317.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "entry", "d6/dcf/a14317.html#ad7431eb64907aed0a03205a37c65a735", null ],
+    [ "pos", "d6/dcf/a14317.html#ab60283e91e81c141f3b31218aa4442a3", null ]
 ];

@@ -1,6 +1,6 @@
 var a27449 =
 [
-    [ "HandleHeal", "d6/d7d/a27449.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "d6/d7d/a27449.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "d6/d7d/a27449.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "HandleSchoolDMG", "d6/d7d/a27449.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d6/d7d/a27449.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d6/d7d/a27449.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

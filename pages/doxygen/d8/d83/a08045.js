@@ -1,5 +1,4 @@
 var a08045 =
 [
-    [ "Glyph", "d8/d83/a08045.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
-    [ "Slot", "d8/d83/a08045.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
+    [ "ChatCommandResult", "d8/d83/a08045.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
 ];

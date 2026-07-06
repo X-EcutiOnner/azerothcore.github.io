@@ -1,6 +1,5 @@
 var a01607 =
 [
-    [ "character_commandscript", "d0/d0c/a12307.html", "d0/d0c/a12307" ],
-    [ "character_commandscript::DeletedInfo", "d3/d34/a12311.html", "d3/d34/a12311" ],
-    [ "AddSC_character_commandscript", "d6/d82/a01607.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "worldstate_commandscript", "d7/def/a12541.html", "d7/def/a12541" ],
+    [ "AddSC_worldstate_commandscript", "d6/d82/a01607.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
 ];

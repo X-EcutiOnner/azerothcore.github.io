@@ -1,6 +1,7 @@
 var a13165 =
 [
-    [ "HandleAfterCast", "d8/da4/a13165.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "d8/da4/a13165.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "d8/da4/a13165.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "FilterTargets", "d8/da4/a13165.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d8/da4/a13165.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d8/da4/a13165.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d8/da4/a13165.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

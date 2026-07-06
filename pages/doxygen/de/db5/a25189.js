@@ -1,6 +1,7 @@
 var a25189 =
 [
-    [ "FilterTargets", "de/db5/a25189.html#a80d2ffcd64161e53fd795bd40d2b38e0", null ],
-    [ "PrepareSpellScript", "de/db5/a25189.html#a9fb910382c89750e38cb36bed48a1597", null ],
-    [ "Register", "de/db5/a25189.html#a667b10129d2d23f72712be523dc93180", null ]
+    [ "CalculateAmount", "de/db5/a25189.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "de/db5/a25189.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "de/db5/a25189.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "de/db5/a25189.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

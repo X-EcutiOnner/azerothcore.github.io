@@ -1,7 +1,6 @@
 var a21585 =
 [
-    [ "HandleDummy", "d0/d71/a21585.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "d0/d71/a21585.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "d0/d71/a21585.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "d0/d71/a21585.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d5/df1/a21589.html", "d5/df1/a21589" ],
+    [ "npc_injured_7th_legion_soldier", "d0/d71/a21585.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d0/d71/a21585.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

@@ -1,7 +1,6 @@
 var a17505 =
 [
-    [ "HandleDummyTick", "d3/dd1/a17505.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
-    [ "PrepareAuraScript", "d3/dd1/a17505.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
-    [ "Register", "d3/dd1/a17505.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
-    [ "Validate", "d3/dd1/a17505.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
+    [ "HandleEffectPeriodic", "d3/dd1/a17505.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
+    [ "PrepareAuraScript", "d3/dd1/a17505.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
+    [ "Register", "d3/dd1/a17505.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
 ];

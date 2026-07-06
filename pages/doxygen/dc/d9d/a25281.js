@@ -1,6 +1,7 @@
 var a25281 =
 [
-    [ "CheckCast", "dc/d9d/a25281.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "dc/d9d/a25281.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "dc/d9d/a25281.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleScript", "dc/d9d/a25281.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "dc/d9d/a25281.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "dc/d9d/a25281.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "dc/d9d/a25281.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

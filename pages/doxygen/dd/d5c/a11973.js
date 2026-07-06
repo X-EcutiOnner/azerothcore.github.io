@@ -1,7 +1,8 @@
 var a11973 =
 [
-    [ "PlayerGuid", "dd/d5c/a11973.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "dd/d5c/a11973.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "dd/d5c/a11973.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "dd/d5c/a11973.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "EffectHandler", "dd/d5c/a11973.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dd/d5c/a11973.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dd/d5c/a11973.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dd/d5c/a11973.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dd/d5c/a11973.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

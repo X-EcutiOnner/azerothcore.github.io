@@ -1,6 +1,6 @@
 var a14805 =
 [
-    [ "HandleDummy", "d6/d15/a14805.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "d6/d15/a14805.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "d6/d15/a14805.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "gameobjectId", "d6/d15/a14805.html#a5cebf652fccc66cb5f98968036405d14", null ],
+    [ "spawnIndex", "d6/d15/a14805.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
+    [ "timestamp", "d6/d15/a14805.html#a0c49f62b35e906637890fee896c74951", null ]
 ];

@@ -1,6 +1,11 @@
 var a22509 =
 [
-    [ "boss_essence_of_sufferingAI", "d5/d05/a22513.html", "d5/d05/a22513" ],
-    [ "boss_essence_of_suffering", "d1/d41/a22509.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d1/d41/a22509.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "boss_murmur", "d1/d41/a22509.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CastSuppressionOOC", "d1/d41/a22509.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "DamageTaken", "d1/d41/a22509.html#a6446fe6c0ae5ece0cd70c8d9dbccb0f5", null ],
+    [ "EnterEvadeMode", "d1/d41/a22509.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "d1/d41/a22509.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "d1/d41/a22509.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "d1/d41/a22509.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "d1/d41/a22509.html#ade07217a85655a513d7a472d24589691", null ]
 ];

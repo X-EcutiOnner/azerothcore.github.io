@@ -1,8 +1,11 @@
 var a22933 =
 [
-    [ "FilterTargets", "dc/dd0/a22933.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "dc/dd0/a22933.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "dc/dd0/a22933.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "dc/dd0/a22933.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "dc/dd0/a22933.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "boss_doomwalker", "dc/dd0/a22933.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "dc/dd0/a22933.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "dc/dd0/a22933.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "dc/dd0/a22933.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "dc/dd0/a22933.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "dc/dd0/a22933.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "dc/dd0/a22933.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "dc/dd0/a22933.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

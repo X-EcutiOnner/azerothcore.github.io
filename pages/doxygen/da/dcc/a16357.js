@@ -1,6 +1,6 @@
 var a16357 =
 [
-    [ "npc_halion_controllerAI", "d4/d04/a16361.html", "d4/d04/a16361" ],
-    [ "npc_halion_controller", "da/dcc/a16357.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "da/dcc/a16357.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "npc_anub_ar_crusher_champion", "da/dcc/a16357.html#a8b8dc51f529d361b40447f6f1b398a4d", null ],
+    [ "DoEngagedWith", "da/dcc/a16357.html#a2dcef4fe57880ba725dff52455a7a428", null ],
+    [ "DoEvent", "da/dcc/a16357.html#a6dc41c4fa5531bd1999daaef3972c5a2", null ]
 ];

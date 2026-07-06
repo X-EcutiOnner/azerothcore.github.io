@@ -1,7 +1,7 @@
 var a10709 =
 [
-    [ "SpellScriptLoader", "d5/da6/a10709.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d5/da6/a10709.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d5/da6/a10709.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d5/da6/a10709.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "DatabaseScript", "d5/da6/a10709.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d5/da6/a10709.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d5/da6/a10709.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d5/da6/a10709.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

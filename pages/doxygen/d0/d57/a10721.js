@@ -1,9 +1,7 @@
 var a10721 =
 [
-    [ "TransportScript", "d0/d57/a10721.html#a4b83123b122fa98831d304670a3de50a", null ],
-    [ "IsDatabaseBound", "d0/d57/a10721.html#a956f0d757e5d974566fa8fac0df731e5", null ],
-    [ "OnAddCreaturePassenger", "d0/d57/a10721.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
-    [ "OnAddPassenger", "d0/d57/a10721.html#a806f4829b47429900271f6dde7eaa625", null ],
-    [ "OnRelocate", "d0/d57/a10721.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
-    [ "OnRemovePassenger", "d0/d57/a10721.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
+    [ "GameEventScript", "d0/d57/a10721.html#ac43a9c70638ad56b69b5841ee8410374", null ],
+    [ "OnEventCheck", "d0/d57/a10721.html#aadab9593da561e9b19202d09b53cba36", null ],
+    [ "OnStart", "d0/d57/a10721.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
+    [ "OnStop", "d0/d57/a10721.html#a4813f26f03e5ba79a740bf30558e604c", null ]
 ];

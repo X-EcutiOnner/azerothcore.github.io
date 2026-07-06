@@ -1,11 +1,8 @@
 var a13289 =
 [
-    [ "npc_a_special_surpriseAI", "d0/d05/a13289.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d0/d05/a13289.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d0/d05/a13289.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d0/d05/a13289.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d0/d05/a13289.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d0/d05/a13289.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d0/d05/a13289.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d0/d05/a13289.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "CalcPeriodic", "d0/d05/a13289.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d0/d05/a13289.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d0/d05/a13289.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d0/d05/a13289.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d0/d05/a13289.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

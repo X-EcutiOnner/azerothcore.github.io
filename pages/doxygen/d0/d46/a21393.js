@@ -1,7 +1,10 @@
 var a21393 =
 [
-    [ "CheckRequirement", "d0/d46/a21393.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d0/d46/a21393.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d0/d46/a21393.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d0/d46/a21393.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_lurgglbrAI", "d0/d46/a21393.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d0/d46/a21393.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d0/d46/a21393.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d0/d46/a21393.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "WaypointReached", "d0/d46/a21393.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "IntroPhase", "d0/d46/a21393.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d0/d46/a21393.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

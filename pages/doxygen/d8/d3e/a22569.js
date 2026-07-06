@@ -1,5 +1,7 @@
 var a22569 =
 [
-    [ "npc_ashtongue_sorcerer", "d8/d3e/a22569.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "d8/d3e/a22569.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "npc_blade_of_azzinoth", "d8/d3e/a22569.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d8/d3e/a22569.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d8/d3e/a22569.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d8/d3e/a22569.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

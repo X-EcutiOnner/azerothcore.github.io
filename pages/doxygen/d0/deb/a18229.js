@@ -1,6 +1,5 @@
 var a18229 =
 [
-    [ "boss_sindragosaAI", "d2/d6c/a18233.html", "d2/d6c/a18233" ],
-    [ "boss_sindragosa", "d0/deb/a18229.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
-    [ "GetAI", "d0/deb/a18229.html#a005a6da9f4f9690416a108872b3c2b36", null ]
+    [ "npc_volatile_oozeAI", "d0/deb/a18229.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d0/deb/a18229.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

@@ -1,8 +1,9 @@
 var a28421 =
 [
-    [ "npc_simoneAI", "df/d9c/a28425.html", "df/d9c/a28425" ],
-    [ "npc_simone", "da/d92/a28421.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "da/d92/a28421.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "da/d92/a28421.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "da/d92/a28421.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_arcanite_dragonling", "da/d92/a28421.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "da/d92/a28421.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "da/d92/a28421.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "da/d92/a28421.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "da/d92/a28421.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "da/d92/a28421.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

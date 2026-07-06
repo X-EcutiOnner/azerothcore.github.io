@@ -1,7 +1,12 @@
 var a07493 =
 [
-    [ "attackText", "d5/df8/a07493.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "d5/df8/a07493.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "d5/df8/a07493.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d5/df8/a07493.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "Type", "d5/df8/a07493.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d5/df8/a07493.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d5/df8/a07493.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d5/df8/a07493.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d5/df8/a07493.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d5/df8/a07493.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d5/df8/a07493.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d5/df8/a07493.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

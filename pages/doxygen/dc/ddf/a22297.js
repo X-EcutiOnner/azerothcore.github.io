@@ -1,6 +1,8 @@
 var a22297 =
 [
-    [ "PrepareSpellScript", "dc/ddf/a22297.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "dc/ddf/a22297.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "dc/ddf/a22297.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "HandleApply", "dc/ddf/a22297.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "dc/ddf/a22297.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "dc/ddf/a22297.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "dc/ddf/a22297.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "dc/ddf/a22297.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

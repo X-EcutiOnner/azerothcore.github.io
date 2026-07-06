@@ -1,11 +1,13 @@
 var a28525 =
 [
-    [ "npc_injured_patientAI", "db/d4a/a28525.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "db/d4a/a28525.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "db/d4a/a28525.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "db/d4a/a28525.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "db/d4a/a28525.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "db/d4a/a28525.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "db/d4a/a28525.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "db/d4a/a28525.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "DBCDatabaseLoader", "db/d4a/a28525.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
+    [ "DBCDatabaseLoader", "db/d4a/a28525.html#a7d93e6d37796f341edcf25062743c5b5", null ],
+    [ "CloneStringToPool", "db/d4a/a28525.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
+    [ "Load", "db/d4a/a28525.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
+    [ "operator=", "db/d4a/a28525.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
+    [ "_dbcFormat", "db/d4a/a28525.html#aa749118514d0b784ac6df295bd820d8e", null ],
+    [ "_recordSize", "db/d4a/a28525.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
+    [ "_sqlIndexPos", "db/d4a/a28525.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
+    [ "_sqlTableName", "db/d4a/a28525.html#ab6590071edf5311ccf484d48e4fd125e", null ],
+    [ "_stringPool", "db/d4a/a28525.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
 ];

@@ -1,6 +1,8 @@
 var a26565 =
 [
-    [ "CheckCast", "d2/dfa/a26565.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d2/dfa/a26565.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d2/dfa/a26565.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "CheckProc", "d2/dfa/a26565.html#a2e7c3b219786c4328c6f5de2b4e6b684", null ],
+    [ "HandleProc", "d2/dfa/a26565.html#ac564fc88a0cfe410b7caaeed639b5258", null ],
+    [ "PrepareAuraScript", "d2/dfa/a26565.html#ab8c2f9f3f3750419ad62d72e284bf3b1", null ],
+    [ "Register", "d2/dfa/a26565.html#ac5bb4e949f4a7b86b41861777f86bd7a", null ],
+    [ "Validate", "d2/dfa/a26565.html#af67336b40e69f72f8cd5aa1776490bad", null ]
 ];

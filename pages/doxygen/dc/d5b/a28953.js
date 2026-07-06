@@ -1,5 +1,4 @@
 var a28953 =
 [
-    [ "HasMissile", "dc/d5b/a28953.html#af8f9e79164ee3c7a617f63552bb23816", null ],
-    [ "MissileModel", "dc/d5b/a28953.html#ae9ab544537448113f628c22ed8c91a27", null ]
+    [ "cost", "dc/d5b/a28953.html#a624313c8b56b9755593b2f4bacd306d7", null ]
 ];

@@ -1,7 +1,9 @@
 var a05785 =
 [
-    [ "Count", "d7/dfe/a05785.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
-    [ "FromIndex", "d7/dfe/a05785.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
-    [ "ToIndex", "d7/dfe/a05785.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
-    [ "ToString", "d7/dfe/a05785.html#a8d3379c79f103655dd49d993402b741d", null ]
+    [ "Base", "d8/d30/a05789.html", "d8/d30/a05789" ],
+    [ "Erase", "d7/dfe/a05785.html#a2c7b450c8781824135765e5d82b0272e", null ],
+    [ "Get", "d7/dfe/a05785.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
+    [ "GetDefault", "d7/dfe/a05785.html#ad53ddbe486c994277adbb96e1c644112", null ],
+    [ "Set", "d7/dfe/a05785.html#a93bf2535b14236df9703e485ef816b36", null ],
+    [ "Container", "d7/dfe/a05785.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
 ];

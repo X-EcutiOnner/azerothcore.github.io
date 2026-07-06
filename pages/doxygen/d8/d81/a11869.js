@@ -1,6 +1,8 @@
 var a11869 =
 [
-    [ "EffectCalcSpellModHandler", "d8/d81/a11869.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "d8/d81/a11869.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "d8/d81/a11869.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "DirectionType", "d8/d81/a11869.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d8/d81/a11869.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d8/d81/a11869.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d8/d81/a11869.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d8/d81/a11869.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

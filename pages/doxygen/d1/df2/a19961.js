@@ -1,7 +1,6 @@
 var a19961 =
 [
-    [ "npc_storm_beacon_spawn", "d1/df2/a19961.html#a999b6421a0ef6eec2987716a60352a5e", null ],
-    [ "UpdateAI", "d1/df2/a19961.html#a93dbd7a26d6333f18329142280cc743d", null ],
-    [ "_amount", "d1/df2/a19961.html#acb5d1f2b6590da32f36882339729c4e9", null ],
-    [ "_checkTimer", "d1/df2/a19961.html#a9717b52f26045707fd852b955d29a5e6", null ]
+    [ "HandleApplyTouch", "d1/df2/a19961.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d1/df2/a19961.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d1/df2/a19961.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

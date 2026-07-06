@@ -1,4 +1,5 @@
 var a03107 =
 [
-    [ "ApplySpellFix", "da/d4a/a03107.html#ab2692a866ddb9539875213c10f37b84e", null ]
+    [ "MotdMgr", "df/d92/a10325.html", "df/d92/a10325" ],
+    [ "sMotdMgr", "da/d4a/a03107.html#a0ad6ba4db6e433e72e172e659af2cada", null ]
 ];

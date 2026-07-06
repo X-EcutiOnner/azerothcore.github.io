@@ -1,7 +1,6 @@
 var a24921 =
 [
-    [ "PrepareSpellScript", "de/d42/a24921.html#aad8061898087fbf5eb6527cbaa70927d", null ],
-    [ "RecalculateDamage", "de/d42/a24921.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
-    [ "Register", "de/d42/a24921.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
-    [ "_damagePct", "de/d42/a24921.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
+    [ "OnPeriodic", "de/d42/a24921.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "de/d42/a24921.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "de/d42/a24921.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

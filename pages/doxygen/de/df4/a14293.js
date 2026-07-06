@@ -1,7 +1,10 @@
 var a14293 =
 [
-    [ "OnRemove", "de/df4/a14293.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "de/df4/a14293.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "de/df4/a14293.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "de/df4/a14293.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "boss_alyson_antille", "de/df4/a14293.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "de/df4/a14293.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "de/df4/a14293.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "de/df4/a14293.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "de/df4/a14293.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "de/df4/a14293.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "de/df4/a14293.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

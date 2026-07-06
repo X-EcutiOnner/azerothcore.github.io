@@ -1,8 +1,6 @@
 var a19973 =
 [
-    [ "OnApply", "d4/d3a/a19973.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d4/d3a/a19973.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d4/d3a/a19973.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d4/d3a/a19973.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d4/d3a/a19973.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "CosmicSmashDamageEvent", "d4/d3a/a19973.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d4/d3a/a19973.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d4/d3a/a19973.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

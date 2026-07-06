@@ -1,7 +1,7 @@
 var a27521 =
 [
-    [ "HandleProc", "d0/df6/a27521.html#ae41ac4278c643bcd14ff4ab0ecc6dc46", null ],
-    [ "PrepareAuraScript", "d0/df6/a27521.html#abdb4073728e7e637a8538a238eda2f6d", null ],
-    [ "Register", "d0/df6/a27521.html#a052f2a48c2b30b5e83c95eb4aada0899", null ],
-    [ "Validate", "d0/df6/a27521.html#a04085f70b61ea7ff2073a1cd777eca1b", null ]
+    [ "HandleTeleport", "d0/df6/a27521.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
+    [ "PrepareAuraScript", "d0/df6/a27521.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
+    [ "Register", "d0/df6/a27521.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
+    [ "Validate", "d0/df6/a27521.html#adabf22bd591a10662ffbf0354a18a936", null ]
 ];

@@ -1,7 +1,9 @@
 var a23049 =
 [
-    [ "HandleScript", "dc/d5d/a23049.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "dc/d5d/a23049.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "dc/d5d/a23049.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "dc/d5d/a23049.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "CalcPeriodic", "dc/d5d/a23049.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "dc/d5d/a23049.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "dc/d5d/a23049.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "dc/d5d/a23049.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "dc/d5d/a23049.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "dc/d5d/a23049.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

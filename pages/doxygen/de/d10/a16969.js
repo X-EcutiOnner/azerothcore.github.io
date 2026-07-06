@@ -1,6 +1,6 @@
 var a16969 =
 [
-    [ "OnPeriodic", "de/d10/a16969.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "de/d10/a16969.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "de/d10/a16969.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "boss_jaraxxusAI", "da/de0/a16973.html", "da/de0/a16973" ],
+    [ "boss_jaraxxus", "de/d10/a16969.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "de/d10/a16969.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

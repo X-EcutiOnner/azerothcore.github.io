@@ -1,10 +1,6 @@
 var a15129 =
 [
-    [ "boss_aeonus", "dc/da8/a15129.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "dc/da8/a15129.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "dc/da8/a15129.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "dc/da8/a15129.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "dc/da8/a15129.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "dc/da8/a15129.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "dc/da8/a15129.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "FilterTargets", "dc/da8/a15129.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "dc/da8/a15129.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "dc/da8/a15129.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

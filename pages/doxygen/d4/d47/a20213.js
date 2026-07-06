@@ -1,5 +1,6 @@
 var a20213 =
 [
-    [ "achievement_getting_cold_in_here", "d4/d47/a20213.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d4/d47/a20213.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "achievement_flame_leviathan_towers", "d4/d47/a20213.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "d4/d47/a20213.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "d4/d47/a20213.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

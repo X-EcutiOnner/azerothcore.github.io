@@ -1,6 +1,7 @@
 var a20881 =
 [
-    [ "boss_skadi_graufAI", "d4/dcc/a20885.html", "d4/dcc/a20885" ],
-    [ "boss_skadi_grauf", "d8/d77/a20881.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "d8/d77/a20881.html#ab464e605bf001eee5517ad805066af57", null ]
+    [ "OnPeriodic", "d8/d77/a20881.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "d8/d77/a20881.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "d8/d77/a20881.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "d8/d77/a20881.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

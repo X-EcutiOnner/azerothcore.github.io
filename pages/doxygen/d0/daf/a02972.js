@@ -1,5 +1,5 @@
 var a02972 =
 [
-    [ "Acore::EmoteChatBuilder", "d8/d7d/a09951.html", "d8/d7d/a09951" ],
-    [ "isNasty", "d0/daf/a02972.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
+    [ "GetEnableModulesList", "d0/daf/a02972.html#a2a2aa3aabfbef586b9a1e63fbae0e0f7", null ],
+    [ "SetEnableModulesList", "d0/daf/a02972.html#ac16569c9333f642e54fa7a4ec6a948e3", null ]
 ];

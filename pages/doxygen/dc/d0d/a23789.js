@@ -1,5 +1,7 @@
 var a23789 =
 [
-    [ "npc_karynaku", "dc/d0d/a23789.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "dc/d0d/a23789.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "OnPeriodic", "dc/d0d/a23789.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "dc/d0d/a23789.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "dc/d0d/a23789.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "dc/d0d/a23789.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

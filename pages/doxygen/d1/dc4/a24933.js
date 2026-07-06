@@ -1,7 +1,8 @@
 var a24933 =
 [
-    [ "HandleStun", "d1/dc4/a24933.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d1/dc4/a24933.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d1/dc4/a24933.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d1/dc4/a24933.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleEffectCalcPeriodic", "d1/dc4/a24933.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "d1/dc4/a24933.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "d1/dc4/a24933.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "d1/dc4/a24933.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "d1/dc4/a24933.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

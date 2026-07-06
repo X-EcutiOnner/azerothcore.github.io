@@ -1,10 +1,6 @@
 var a05126 =
 [
-    [ "PoolQuestReloadTest", "da/ddc/a29476.html", "da/ddc/a29476" ],
-    [ "TEST_F", "dc/de6/a05126.html#ae965ec2c5a54532198d25c78231d7888", null ],
-    [ "TEST_F", "dc/de6/a05126.html#ae1ebd88d38dd3fe29dacfb916249f401", null ],
-    [ "TEST_F", "dc/de6/a05126.html#a88949b970cd89daff9f2c804fbbd30f8", null ],
-    [ "TEST_F", "dc/de6/a05126.html#a51f076a8299a77b2bed17414ee1ab77d", null ],
-    [ "TEST_CREATURE_ID", "dc/de6/a05126.html#a9d99cbff2ccde67787a3c4448497f949", null ],
-    [ "TEST_QUEST_ID", "dc/de6/a05126.html#acd85c89c48bf6aa262bd81ed03493826", null ]
+    [ "ChatServerMessage", "dc/d1f/a10965.html", "dc/d1f/a10965" ],
+    [ "Emote", "dc/d55/a10957.html", "dc/d55/a10957" ],
+    [ "EmoteClient", "d0/d4f/a10961.html", "d0/d4f/a10961" ]
 ];

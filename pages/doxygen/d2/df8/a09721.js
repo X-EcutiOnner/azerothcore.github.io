@@ -1,6 +1,8 @@
 var a09721 =
 [
-    [ "AllFriendlyCreaturesInGrid", "d2/df8/a09721.html#a6ad66997d093ffa52e2d80337dcb5460", null ],
-    [ "operator()", "d2/df8/a09721.html#aca2b8ed7de69c57bb270e0c663781f97", null ],
-    [ "unit", "d2/df8/a09721.html#a3842fa1eceabaa2d40b2bab4393cb431", null ]
+    [ "AnyUnfriendlyUnitInObjectRangeCheck", "d2/df8/a09721.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
+    [ "operator()", "d2/df8/a09721.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
+    [ "i_funit", "d2/df8/a09721.html#a55222acf6dbb538a213eb604f67f40ce", null ],
+    [ "i_obj", "d2/df8/a09721.html#a5d7e5e8898bd092c1055739fae82f693", null ],
+    [ "i_range", "d2/df8/a09721.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
 ];

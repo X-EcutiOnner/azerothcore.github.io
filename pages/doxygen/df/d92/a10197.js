@@ -1,12 +1,10 @@
 var a10197 =
 [
-    [ "TransportTemplate", "df/d92/a10197.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "df/d92/a10197.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "df/d92/a10197.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "df/d92/a10197.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "df/d92/a10197.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "df/d92/a10197.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "df/d92/a10197.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "df/d92/a10197.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "df/d92/a10197.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "ZoneDynamicInfo", "df/d92/a10197.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "df/d92/a10197.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "df/d92/a10197.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "df/d92/a10197.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "df/d92/a10197.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "df/d92/a10197.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "df/d92/a10197.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

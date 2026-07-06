@@ -1,7 +1,6 @@
 var a13457 =
 [
-    [ "OnPeriodic", "dc/dea/a13457.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "dc/dea/a13457.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "dc/dea/a13457.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "dc/dea/a13457.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "npc_scarlet_courierAI", "de/dd2/a13461.html", "de/dd2/a13461" ],
+    [ "npc_scarlet_courier", "dc/dea/a13457.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "dc/dea/a13457.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

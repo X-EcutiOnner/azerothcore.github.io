@@ -1,6 +1,5 @@
 var a24089 =
 [
-    [ "HandlePeriodic", "dc/d7a/a24089.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "dc/d7a/a24089.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "dc/d7a/a24089.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "npc_shattrath_daily_quest", "dc/d7a/a24089.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "dc/d7a/a24089.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

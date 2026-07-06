@@ -1,5 +1,7 @@
 var a20433 =
 [
-    [ "achievement_quick_shave", "d8/dc6/a20433.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "d8/dc6/a20433.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "HandleScript", "d8/dc6/a20433.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "d8/dc6/a20433.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "d8/dc6/a20433.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "d8/dc6/a20433.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

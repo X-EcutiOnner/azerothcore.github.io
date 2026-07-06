@@ -1,5 +1,5 @@
 var a23441 =
 [
-    [ "npc_telonicus", "dd/d01/a23441.html#af8ba6be2d39463725bbbaf7770319a93", null ],
-    [ "ScheduleEvents", "dd/d01/a23441.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
+    [ "go_manticron_cube", "dd/d01/a23441.html#a87d9571aea57f16d38067ebd9e22200d", null ],
+    [ "OnGossipHello", "dd/d01/a23441.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
 ];

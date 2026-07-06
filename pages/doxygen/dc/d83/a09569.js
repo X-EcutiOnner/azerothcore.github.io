@@ -1,10 +1,7 @@
 var a09569 =
 [
-    [ "PlayerListSearcherWithSharedVision", "dc/d83/a09569.html#aace01efe09c3190b81651d237e2e9a8a", null ],
-    [ "Visit", "dc/d83/a09569.html#a5348d9887ebfd9c0a0016b31d3db8ffb", null ],
-    [ "Visit", "dc/d83/a09569.html#a34c24d8e219b8dbbdf27c1d36489f3fa", null ],
-    [ "Visit", "dc/d83/a09569.html#ac45ae498dc7f74426b66344d9367046a", null ],
-    [ "i_check", "dc/d83/a09569.html#a7261e79c2980cfb61686c01254d70c8b", null ],
-    [ "i_objects", "dc/d83/a09569.html#ac8e5495912121d8d3baac9d02e947815", null ],
-    [ "i_phaseMask", "dc/d83/a09569.html#a9bd8d6c842ac2f4cf1f10441216f906c", null ]
+    [ "CreatureRelocationNotifier", "dc/d83/a09569.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "dc/d83/a09569.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "dc/d83/a09569.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "dc/d83/a09569.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

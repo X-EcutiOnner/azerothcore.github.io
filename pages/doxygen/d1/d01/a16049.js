@@ -1,7 +1,9 @@
 var a16049 =
 [
-    [ "go_troll_cageAI", "d1/d01/a16049.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
-    [ "GossipHello", "d1/d01/a16049.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
-    [ "initBlyCrewMember", "d1/d01/a16049.html#a6bfb77ec97367d8704885acfef801b74", null ],
-    [ "instance", "d1/d01/a16049.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
+    [ "go_wind_stoneAI", "d1/d01/a16049.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d1/d01/a16049.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d1/d01/a16049.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d1/d01/a16049.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d1/d01/a16049.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d1/d01/a16049.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

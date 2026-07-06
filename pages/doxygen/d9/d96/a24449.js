@@ -1,6 +1,6 @@
 var a24449 =
 [
-    [ "HandleKnockBack", "d9/d96/a24449.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "d9/d96/a24449.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "d9/d96/a24449.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "CheckTargets", "d9/d96/a24449.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "d9/d96/a24449.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "d9/d96/a24449.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

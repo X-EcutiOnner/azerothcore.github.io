@@ -1,7 +1,6 @@
 var a13981 =
 [
-    [ "npc_king_varian_wrynn", "da/d74/a13981.html#ab62609f2e468d1d173d9c9ea4c05d164", null ],
-    [ "JustDied", "da/d74/a13981.html#ae1b1aca3df1398a4f86f7b1deba5fd14", null ],
-    [ "OnQuestReward", "da/d74/a13981.html#a3f461d73130945e2287c5ea46b8bdce9", null ],
-    [ "UpdateAI", "da/d74/a13981.html#a37bdb5c5c286b2c34e55ef9e8e1aff77", null ]
+    [ "HandleSendEvent", "da/d74/a13981.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "da/d74/a13981.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "da/d74/a13981.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

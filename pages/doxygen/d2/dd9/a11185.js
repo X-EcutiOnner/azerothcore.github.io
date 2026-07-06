@@ -1,6 +1,6 @@
 var a11185 =
 [
-    [ "ListInventory", "d2/dd9/a11185.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
-    [ "Read", "d2/dd9/a11185.html#a2fd1298c1da842824fca7d971cb2028b", null ],
-    [ "VendorGuid", "d2/dd9/a11185.html#a9c6288866c870b4a82169fe7fbef4512", null ]
+    [ "GuildSetGuildMaster", "d2/dd9/a11185.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d2/dd9/a11185.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d2/dd9/a11185.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

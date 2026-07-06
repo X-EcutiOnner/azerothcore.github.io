@@ -1,8 +1,7 @@
 var a20541 =
 [
-    [ "OnPeriodic", "df/d7c/a20541.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "df/d7c/a20541.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "df/d7c/a20541.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "df/d7c/a20541.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "df/d7c/a20541.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "HandleEffectPeriodic", "df/d7c/a20541.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "df/d7c/a20541.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "df/d7c/a20541.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "df/d7c/a20541.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

@@ -1,9 +1,7 @@
 var a14329 =
 [
-    [ "npc_shade_of_jindo", "da/d62/a14329.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "da/d62/a14329.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "da/d62/a14329.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "da/d62/a14329.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "da/d62/a14329.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "da/d62/a14329.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "npc_zuljin_vortex", "da/d62/a14329.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "da/d62/a14329.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "da/d62/a14329.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "da/d62/a14329.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

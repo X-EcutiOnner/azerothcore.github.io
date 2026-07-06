@@ -1,41 +1,25 @@
 var a01310 =
 [
-    [ "npc_sergeant_bly", "d4/daf/a16191.html", "d4/daf/a16191" ],
-    [ "npc_sergeant_bly::npc_sergeant_blyAI", "db/dfc/a16195.html", "db/dfc/a16195" ],
-    [ "go_troll_cage", "d9/db8/a16199.html", "d9/db8/a16199" ],
-    [ "go_troll_cage::go_troll_cageAI", "dc/d86/a16203.html", "dc/d86/a16203" ],
-    [ "npc_weegli_blastfuse", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
-    [ "npc_weegli_blastfuse::npc_weegli_blastfuseAI", "df/da2/a16211.html", "df/da2/a16211" ],
-    [ "npc_shadowpriest_sezziz", "dd/d5c/a16215.html", "dd/d5c/a16215" ],
-    [ "npc_shadowpriest_sezziz::npc_shadowpriest_sezzizAI", "d7/dd2/a16219.html", "d7/dd2/a16219" ],
-    [ "GOSSIP_BLY", "da/d79/a01310.html#acf686abbef9b59acbf66095340991aab", null ],
-    [ "GOSSIP_WEEGLI", "da/d79/a01310.html#abd5fb74b4c5971cd2993555c6ac4d1eb", null ],
-    [ "blySays", "da/d79/a01310.html#a0170bb25aee4171b17fd972a5eb000a9", [
-      [ "SAY_1", "da/d79/a01310.html#a0170bb25aee4171b17fd972a5eb000a9a307d891e05530d70a32ad2047cfe6dab", null ],
-      [ "SAY_2", "da/d79/a01310.html#a0170bb25aee4171b17fd972a5eb000a9a73b0208d974ac93026e31ca8864dd390", null ]
+    [ "npc_shenthul", "dc/def/a15985.html", "dc/def/a15985" ],
+    [ "npc_shenthul::npc_shenthulAI", "d6/dfb/a15989.html", "d6/dfb/a15989" ],
+    [ "npc_thrall_warchief", "dd/d72/a15993.html", "dd/d72/a15993" ],
+    [ "npc_thrall_warchief::npc_thrall_warchiefAI", "dc/d24/a15997.html", "dc/d24/a15997" ],
+    [ "Shenthul", "da/d79/a01310.html#a032512bb2693fda342f4d77dba794fbe", [
+      [ "QUEST_SHATTERED_SALUTE", "da/d79/a01310.html#a032512bb2693fda342f4d77dba794fbea38993f500c01e7bc0ae8dd3a83848ff0", null ]
     ] ],
-    [ "blySpells", "da/d79/a01310.html#ac73b1b4ffaee22ad6c602a211a9bfccf", [
-      [ "SPELL_BLYS_BAND_ESCAPE", "da/d79/a01310.html#ac73b1b4ffaee22ad6c602a211a9bfccfaa9a43afdd35ceaa8e5947c583cda6c83", null ],
-      [ "SPELL_SHIELD_BASH", "da/d79/a01310.html#ac73b1b4ffaee22ad6c602a211a9bfccfa0d74cfe7662c959a043f01770a2c7bf4", null ],
-      [ "SPELL_REVENGE", "da/d79/a01310.html#ac73b1b4ffaee22ad6c602a211a9bfccfa3494dd9ccea3b72ec038a01f6f6fd66f", null ]
+    [ "ThrallWarchief", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9", [
+      [ "SPELL_CHAIN_LIGHTNING", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9ac0997e72929070d8e30cc0f49cc4539d", null ],
+      [ "SPELL_SHOCK", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a30aa4cac2f70a310466b3fb0f2d10eab", null ],
+      [ "QUEST_FOR_THE_HORDE", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9aed442141280385194a0a8b73d7e489af", null ],
+      [ "SPELL_WARCHIEF_BLESSING", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a567e6044eaae260d8ab29c346613b225", null ],
+      [ "NPC_HERALD_OF_THRALL", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a3533aba0519168d4cfb3446a1bbde5bc", null ],
+      [ "ACTION_START_TALKING", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a322b9b49cd88bc70c039be2aa4e0c7fd", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_0", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a64ac3588375f611524513fd4d4293a1b", null ],
+      [ "SAY_THRALL_ON_QUEST_REWARD_1", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a3a6a88801e0a276bd78e5299ffb76302", null ],
+      [ "GO_UNADORNED_SPIKE", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a544ea295d906cebdf38aecb93e7ac153", null ],
+      [ "QUEST_WHAT_THE_WIND_CARRIES", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9a5bc18876e7da8ddfc493ea155bb75287", null ],
+      [ "QUEST_WARCHIEFS_BLESSING", "da/d79/a01310.html#a1cdad3bda3b93500c342a64dce6d15d9ab698e2206a77782e1893a2230085a047", null ]
     ] ],
-    [ "ShadowPriestSezzizEnum", "da/d79/a01310.html#a4e0ee96bd227c57408d323b236131e7d", [
-      [ "SPELL_SHADOW_BOLT", "da/d79/a01310.html#a4e0ee96bd227c57408d323b236131e7da8872edea8a2ac8c4e895c975482b9413", null ],
-      [ "SPELL_PSYCHIC_SCREEM", "da/d79/a01310.html#a4e0ee96bd227c57408d323b236131e7da804b244c7e3d670c7c0c96c2deac50aa", null ],
-      [ "SPELL_RENEW", "da/d79/a01310.html#a4e0ee96bd227c57408d323b236131e7daaf085a0eea027f75c291005b97cb46bd", null ],
-      [ "SPELL_HEAL", "da/d79/a01310.html#a4e0ee96bd227c57408d323b236131e7da69fcca2d13e03c684fa0459f960ef9a7", null ]
-    ] ],
-    [ "weegliSays", "da/d79/a01310.html#a326e8498672fa7a2db9a390d360f7391", [
-      [ "SAY_WEEGLI_OHNO", "da/d79/a01310.html#a326e8498672fa7a2db9a390d360f7391aa1b27f3d4e49ae3cbea7b8b49371b41d", null ],
-      [ "SAY_WEEGLI_OK_I_GO", "da/d79/a01310.html#a326e8498672fa7a2db9a390d360f7391aa92731cc39b2cffc724a22e3189198ea", null ],
-      [ "SAY_WEEGLI_OUT_OF_HERE", "da/d79/a01310.html#a326e8498672fa7a2db9a390d360f7391aaa6eaf7f9cc5bb0b7c42aed2439da05c", null ]
-    ] ],
-    [ "weegliSpells", "da/d79/a01310.html#aa5d64b9165276a134e188d143807850c", [
-      [ "SPELL_BOMB", "da/d79/a01310.html#aa5d64b9165276a134e188d143807850ca436b889374ecd412c15675983fdae5be", null ],
-      [ "SPELL_GOBLIN_LAND_MINE", "da/d79/a01310.html#aa5d64b9165276a134e188d143807850ca04bb850750b0183913ab1008cba1833f", null ],
-      [ "SPELL_SHOOT", "da/d79/a01310.html#aa5d64b9165276a134e188d143807850ca1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_WEEGLIS_BARREL", "da/d79/a01310.html#aa5d64b9165276a134e188d143807850ca1e379d7bc2f35c29e7b00ee0bf88357f", null ]
-    ] ],
-    [ "AddSC_zulfarrak", "da/d79/a01310.html#a43b63d5d69b80ee6283471aacf5c9c87", null ],
-    [ "shadowpriestSezzizAdds", "da/d79/a01310.html#ab3c6a2de23edecc492c7ca4de5c860c7", null ]
+    [ "AddSC_orgrimmar", "da/d79/a01310.html#aec4388ea6d2e4bbc1d279b3a4687c4c6", null ],
+    [ "heraldOfThrallPos", "da/d79/a01310.html#a016aeee1d0eac9c78c522520663670f0", null ]
 ];

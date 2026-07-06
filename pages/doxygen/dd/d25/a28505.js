@@ -1,6 +1,5 @@
 var a28505 =
 [
-    [ "npc_dancing_flamesAI", "dd/d84/a28509.html", "dd/d84/a28509" ],
-    [ "npc_dancing_flames", "dd/d25/a28505.html#adec0401f876ddf159f28fdda8bc4d563", null ],
-    [ "GetAI", "dd/d25/a28505.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
+    [ "npc_suns_reach_reclamation", "dd/d25/a28505.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "dd/d25/a28505.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

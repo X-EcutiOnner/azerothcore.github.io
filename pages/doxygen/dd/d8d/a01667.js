@@ -1,5 +1,5 @@
 var a01667 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d2/de2/a22283.html", "d2/de2/a22283" ],
-    [ "AddSC_outdoorpvp_gh", "dd/d8d/a01667.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
+    [ "wp_commandscript", "d9/d6c/a12545.html", "d9/d6c/a12545" ],
+    [ "AddSC_wp_commandscript", "dd/d8d/a01667.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
 ];

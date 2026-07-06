@@ -1,5 +1,5 @@
 var a20309 =
 [
-    [ "achievement_kologarn_with_open_arms", "de/dfd/a20309.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "de/dfd/a20309.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "achievement_smell_saronite", "de/dfd/a20309.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "de/dfd/a20309.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

@@ -1,6 +1,6 @@
 var a13701 =
 [
-    [ "HandlePeriodic", "d2/d27/a13701.html#ae090fc1fc8eab18cf6f744d9385fb713", null ],
-    [ "PrepareAuraScript", "d2/d27/a13701.html#a2722b97e12e9371745d7f38504d9efdf", null ],
-    [ "Register", "d2/d27/a13701.html#acb892b1e0281da08af07b2dd2a04ca03", null ]
+    [ "HandleSendEvent", "d2/d27/a13701.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
+    [ "PrepareSpellScript", "d2/d27/a13701.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
+    [ "Register", "d2/d27/a13701.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
 ];

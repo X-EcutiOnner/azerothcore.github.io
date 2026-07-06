@@ -1,7 +1,6 @@
 var a29801 =
 [
-    [ "SetUp", "d6/d84/a29801.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
-    [ "DAGGER_SPEED", "d6/d84/a29801.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
-    [ "SWORD_SPEED", "d6/d84/a29801.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
-    [ "TWO_HANDED_SPEED", "d6/d84/a29801.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
+    [ "RunStatisticalTest", "d6/d84/a29801.html#a5dadc645a4cae9bf9e9ed990616118be", null ],
+    [ "SetUp", "d6/d84/a29801.html#afa15552d260ab744d178e1c1b7ed23bb", null ],
+    [ "TearDown", "d6/d84/a29801.html#a894d832a3ee006179de45e944d25a732", null ]
 ];

@@ -1,10 +1,14 @@
 var a09589 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "d1/db2/a09589.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "d1/db2/a09589.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "d1/db2/a09589.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "d1/db2/a09589.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "d1/db2/a09589.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "d1/db2/a09589.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "d1/db2/a09589.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "WorldObjectSearcher", "d1/db2/a09589.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
+    [ "Visit", "d1/db2/a09589.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
+    [ "Visit", "d1/db2/a09589.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
+    [ "Visit", "d1/db2/a09589.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
+    [ "Visit", "d1/db2/a09589.html#a42fce9834443194e090e022f3f7618b0", null ],
+    [ "Visit", "d1/db2/a09589.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
+    [ "Visit", "d1/db2/a09589.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
+    [ "i_check", "d1/db2/a09589.html#aa8af931f3d562aa1c31e774347db2e24", null ],
+    [ "i_mapTypeMask", "d1/db2/a09589.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
+    [ "i_object", "d1/db2/a09589.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
+    [ "i_phaseMask", "d1/db2/a09589.html#a5688db61fc9d297252987830eadb0ee5", null ]
 ];

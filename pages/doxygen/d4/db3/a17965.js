@@ -1,6 +1,6 @@
 var a17965 =
 [
-    [ "HandlePeriodicTick", "d4/db3/a17965.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d4/db3/a17965.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d4/db3/a17965.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_gunship_boarding_leaderAI", "d7/d58/a17969.html", "d7/d58/a17969" ],
+    [ "npc_gunship_boarding_leader", "d4/db3/a17965.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "d4/db3/a17965.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

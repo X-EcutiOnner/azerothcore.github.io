@@ -1,8 +1,13 @@
 var a09601 =
 [
-    [ "NearestGameObjectFishingHole", "df/d69/a09601.html#ab0e4734202edf26b69881ab85abe1d93", null ],
-    [ "NearestGameObjectFishingHole", "df/d69/a09601.html#a256c64e6c82d98349b958647d98bf4ce", null ],
-    [ "operator()", "df/d69/a09601.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
-    [ "i_obj", "df/d69/a09601.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
-    [ "i_range", "df/d69/a09601.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
+    [ "WorldObjectWorker", "df/d69/a09601.html#a15dd68579f1a92f015cfac8577db7422", null ],
+    [ "Visit", "df/d69/a09601.html#ae264461e49602fd0b8a17e30ed554c64", null ],
+    [ "Visit", "df/d69/a09601.html#a3021825347d132f1368a77d29a8318df", null ],
+    [ "Visit", "df/d69/a09601.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
+    [ "Visit", "df/d69/a09601.html#a7de6ea339a8113d242dd099ca4d36927", null ],
+    [ "Visit", "df/d69/a09601.html#a29196fa36ce32a0cec68d0d67372a400", null ],
+    [ "Visit", "df/d69/a09601.html#a17097541c49264c15ebfe474f54aeca2", null ],
+    [ "i_do", "df/d69/a09601.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
+    [ "i_mapTypeMask", "df/d69/a09601.html#a6f8e447b9693154f56ce010869acadb9", null ],
+    [ "i_phaseMask", "df/d69/a09601.html#affa6245985c5d271900be12104ab6bb6", null ]
 ];

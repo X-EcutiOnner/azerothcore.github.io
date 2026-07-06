@@ -1,8 +1,6 @@
 var a21537 =
 [
-    [ "npc_ravenous_worgAI", "d9/dd8/a21537.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d9/dd8/a21537.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d9/dd8/a21537.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d9/dd8/a21537.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d9/dd8/a21537.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_dalaran_warriorAI", "d5/de1/a21541.html", "d5/de1/a21541" ],
+    [ "npc_dalaran_warrior", "d9/dd8/a21537.html#a13d44b85173232ddedcc35184d50549c", null ],
+    [ "GetAI", "d9/dd8/a21537.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
 ];

@@ -1,7 +1,6 @@
 var a20825 =
 [
-    [ "HandleOnEffectRemove", "d9/d36/a20825.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d9/d36/a20825.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d9/d36/a20825.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d9/d36/a20825.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_yoggsaron_influence_tentacle", "d9/d36/a20825.html#ac5908d64a4749303a08d352d470995dd", null ],
+    [ "DamageTaken", "d9/d36/a20825.html#a0e76ab78b378ba4262dfb603e7634dfb", null ],
+    [ "JustDied", "d9/d36/a20825.html#a9fac83d89c8c5810b2b5a25d0228c741", null ]
 ];

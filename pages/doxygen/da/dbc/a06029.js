@@ -1,6 +1,10 @@
 var a06029 =
 [
-    [ "changed", "da/dbc/a06029.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "da/dbc/a06029.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "da/dbc/a06029.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "BasicStatementTask", "da/dbc/a06029.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
+    [ "~BasicStatementTask", "da/dbc/a06029.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
+    [ "Execute", "da/dbc/a06029.html#a7f500736cc0ec4cddf94510927989d4d", null ],
+    [ "GetFuture", "da/dbc/a06029.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
+    [ "m_has_result", "da/dbc/a06029.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
+    [ "m_result", "da/dbc/a06029.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
+    [ "m_sql", "da/dbc/a06029.html#a9320235413d1c4736301070e1faeb161", null ]
 ];

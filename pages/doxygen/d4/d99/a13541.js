@@ -1,7 +1,6 @@
 var a13541 =
 [
-    [ "HandleScriptEffect", "d4/d99/a13541.html#a703ac8467126f5c2aee393fcf2400ffc", null ],
-    [ "PrepareSpellScript", "d4/d99/a13541.html#a17c49de5f6a37ff83126398d96b43a51", null ],
-    [ "Register", "d4/d99/a13541.html#ae205d84cdbe3fbfa519e7d1c8f2ffe16", null ],
-    [ "Validate", "d4/d99/a13541.html#a17d53f598be9fe9e9790bb96dfcb4891", null ]
+    [ "boss_darkmaster_gandlingAI", "d8/d26/a13545.html", "d8/d26/a13545" ],
+    [ "boss_darkmaster_gandling", "d4/d99/a13541.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "d4/d99/a13541.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

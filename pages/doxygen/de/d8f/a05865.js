@@ -1,10 +1,6 @@
 var a05865 =
 [
-    [ "ListIterator", "de/d8f/a05865.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
-    [ "begin", "de/d8f/a05865.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
-    [ "end", "de/d8f/a05865.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
-    [ "operator+=", "de/d8f/a05865.html#a3a4a52377c59e360b9aa164940b06285", null ],
-    [ "operator-=", "de/d8f/a05865.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
-    [ "size", "de/d8f/a05865.html#a13d85caabd15541389f8e93e99b768b0", null ],
-    [ "m_list", "de/d8f/a05865.html#a5bb439ae8dd02302f19581d2771c570c", null ]
+    [ "~AsyncProcessResult", "de/d8f/a05865.html#a16f0ce13c7401ce07e91b349c91365e0", null ],
+    [ "GetFutureResult", "de/d8f/a05865.html#ae0bd36d094d1fc5e325a7b7af1dd0ee8", null ],
+    [ "Terminate", "de/d8f/a05865.html#af3951c38d2b368c15c0ac7d415b96ebd", null ]
 ];

@@ -1,9 +1,13 @@
 var a22313 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/d93/a22313.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "dc/d93/a22313.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "dc/d93/a22313.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "dc/d93/a22313.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "dc/d93/a22313.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "dc/d93/a22313.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "OPvPCapturePointEP_NPT", "dc/d93/a22313.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
+    [ "ChangeState", "dc/d93/a22313.html#a9e046ace6129ce67568ed7c15130b617", null ],
+    [ "FillInitialWorldStates", "dc/d93/a22313.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
+    [ "HandlePlayerEnter", "dc/d93/a22313.html#ace643b7f7bc793934972c61c618045eb", null ],
+    [ "HandlePlayerLeave", "dc/d93/a22313.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
+    [ "SendChangePhase", "dc/d93/a22313.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
+    [ "SummonGO", "dc/d93/a22313.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
+    [ "UpdateTowerState", "dc/d93/a22313.html#ad8cfefcc567346273914e8039b039835", null ],
+    [ "m_SummonedGOSideId", "dc/d93/a22313.html#aa034240d169c9ab7276786bb188abc70", null ],
+    [ "m_TowerState", "dc/d93/a22313.html#a703b68024362d13ceaf9012202b72e7d", null ]
 ];

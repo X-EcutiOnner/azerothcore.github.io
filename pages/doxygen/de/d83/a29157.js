@@ -1,8 +1,8 @@
 var a29157 =
 [
-    [ "auraHasCanProcFromProcs", "de/d83/a29157.html#af3e394eb5563aa4a76bd51d6c52f6db2", null ],
-    [ "isTriggered", "de/d83/a29157.html#aae527e9b8a2969ef67e9c4fbaf43c381", null ],
-    [ "procAuraSpellId", "de/d83/a29157.html#ae198c80e6c72eeb72da0abcde8a0f13a", null ],
-    [ "spellHasNotAProc", "de/d83/a29157.html#ab2f859d45c5a9a02301ecc117bf3e25e", null ],
-    [ "triggeredByAuraSpellId", "de/d83/a29157.html#ad62562e342e1d090e3f26f7c40a35795", null ]
+    [ "NoRuneCost", "de/d83/a29157.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "de/d83/a29157.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "de/d83/a29157.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "de/d83/a29157.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "de/d83/a29157.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

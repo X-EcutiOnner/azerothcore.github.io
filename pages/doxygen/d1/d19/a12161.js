@@ -1,14 +1,13 @@
 var a12161 =
 [
-    [ "cast_commandscript", "d1/d19/a12161.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
-    [ "CheckSpellCastResult", "d1/d19/a12161.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
-    [ "CheckSpellExistsAndIsValid", "d1/d19/a12161.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
-    [ "GetCommands", "d1/d19/a12161.html#ab0890c036a8d301b382fdd1b6371f671", null ],
-    [ "GetTriggerFlags", "d1/d19/a12161.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
-    [ "HandleCastBackCommand", "d1/d19/a12161.html#a964a40278f609a5c5a0bae651484c726", null ],
-    [ "HandleCastCommand", "d1/d19/a12161.html#ac28430cc0623209b891bacbb4845509b", null ],
-    [ "HandleCastDestCommand", "d1/d19/a12161.html#a156ca81fba7155205dae106aa4c221d6", null ],
-    [ "HandleCastDistCommand", "d1/d19/a12161.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
-    [ "HandleCastSelfCommand", "d1/d19/a12161.html#a69e88bb174c2518584a9ae622e2850bf", null ],
-    [ "HandleCastTargetCommad", "d1/d19/a12161.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
+    [ "PlayerDumpWriter", "d1/d19/a12161.html#a060152c060b37c4bf1208a99edc4a840", null ],
+    [ "AppendTable", "d1/d19/a12161.html#a7f285fddf6d33dd1664b5af801f110e9", null ],
+    [ "GetDump", "d1/d19/a12161.html#a17457008e1262c0aed284469e55841c6", null ],
+    [ "PopulateGuids", "d1/d19/a12161.html#aab122c84eefe801ac23211ec5a41e888", null ],
+    [ "WriteDumpToFile", "d1/d19/a12161.html#a81612bfc0d161595f4de1a6133d5c46d", null ],
+    [ "WriteDumpToString", "d1/d19/a12161.html#a43d30815c9b3b2608e0fecad7bba7254", null ],
+    [ "_items", "d1/d19/a12161.html#a5da825b82a09809ded2ce2c88458cc26", null ],
+    [ "_itemSets", "d1/d19/a12161.html#a33ff3a269064d883eff84ec83c394e92", null ],
+    [ "_mails", "d1/d19/a12161.html#a2863e88ee13debe77e4b1d3d0960d18a", null ],
+    [ "_pets", "d1/d19/a12161.html#a33325b0514324020bba98364a7f59de5", null ]
 ];

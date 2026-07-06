@@ -1,9 +1,6 @@
 var a24181 =
 [
-    [ "CheckCast", "d3/dac/a24181.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d3/dac/a24181.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d3/dac/a24181.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d3/dac/a24181.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d3/dac/a24181.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d3/dac/a24181.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "achievement", "d3/dac/a24181.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "d3/dac/a24181.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "d3/dac/a24181.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

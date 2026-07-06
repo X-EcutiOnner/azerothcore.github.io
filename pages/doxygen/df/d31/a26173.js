@@ -1,6 +1,7 @@
 var a26173 =
 [
-    [ "CheckProc", "df/d31/a26173.html#a4c536d65ba5325a6e63ad78bbc9bbfd6", null ],
-    [ "PrepareAuraScript", "df/d31/a26173.html#a1dcda7de24effce7d975b714629f0e8a", null ],
-    [ "Register", "df/d31/a26173.html#a0802e87836e910dc7007e2a2e7a888fd", null ]
+    [ "HandleProc", "df/d31/a26173.html#ab422b4755673f8af691d2672b0cb28a1", null ],
+    [ "PrepareAuraScript", "df/d31/a26173.html#a16098a3b719adcf3c63a09deb5ca7c80", null ],
+    [ "Register", "df/d31/a26173.html#a56a8e3400c89867951305494964077a4", null ],
+    [ "Validate", "df/d31/a26173.html#a0843ac6c6171f1f22712175d96fbafba", null ]
 ];

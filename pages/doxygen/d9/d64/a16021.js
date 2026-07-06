@@ -1,6 +1,6 @@
 var a16021 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "df/d86/a16025.html", "df/d86/a16025" ],
-    [ "instance_zulfarrak", "d9/d64/a16021.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d9/d64/a16021.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "npc_qiraj_war_spawnAI", "df/d86/a16025.html", "df/d86/a16025" ],
+    [ "npc_qiraj_war_spawn", "d9/d64/a16021.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "d9/d64/a16021.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

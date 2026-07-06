@@ -1,7 +1,6 @@
 var a22005 =
 [
-    [ "HandleScript", "d6/d05/a22005.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d6/d05/a22005.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d6/d05/a22005.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d6/d05/a22005.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "npc_vekjik", "d6/d05/a22005.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "d6/d05/a22005.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "d6/d05/a22005.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

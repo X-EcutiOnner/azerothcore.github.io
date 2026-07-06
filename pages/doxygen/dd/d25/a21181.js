@@ -1,10 +1,11 @@
 var a21181 =
 [
-    [ "npc_lurgglbrAI", "dd/d25/a21181.html#a9239b85c65f9b405335d432f355637d5", null ],
-    [ "Reset", "dd/d25/a21181.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
-    [ "UpdateAI", "dd/d25/a21181.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
-    [ "WaypointReached", "dd/d25/a21181.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
-    [ "WaypointReached", "dd/d25/a21181.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "IntroPhase", "dd/d25/a21181.html#a57e2c42cccf91765365e0b046446637a", null ],
-    [ "IntroTimer", "dd/d25/a21181.html#ada9762806ae0132e37197e6fb1279866", null ]
+    [ "boss_archavonAI", "dd/d25/a21181.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "dd/d25/a21181.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "dd/d25/a21181.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "dd/d25/a21181.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "dd/d25/a21181.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "dd/d25/a21181.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "dd/d25/a21181.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "dd/d25/a21181.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

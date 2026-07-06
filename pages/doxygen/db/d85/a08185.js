@@ -1,7 +1,9 @@
 var a08185 =
 [
-    [ "global_sequence", "db/d85/a08185.html#afbd5f7baa1b1daf4dda4fe0cf503a97b", null ],
-    [ "interpolation_type", "db/d85/a08185.html#ac3315ce2b2261a6fd23b0c72ea34aa5e", null ],
-    [ "timestamps", "db/d85/a08185.html#a8bf7fdd2652275ae553b921196e68d1c", null ],
-    [ "values", "db/d85/a08185.html#a9d4ea5dfc36b34541e5ba7350df645e1", null ]
+    [ "HyperlinkColor", "db/d85/a08185.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
+    [ "operator==", "db/d85/a08185.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
+    [ "a", "db/d85/a08185.html#a57d68da0bcaec609d89efb18185b7f03", null ],
+    [ "b", "db/d85/a08185.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
+    [ "g", "db/d85/a08185.html#a4570365880f14c7f7c5e7d96332ae150", null ],
+    [ "r", "db/d85/a08185.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
 ];

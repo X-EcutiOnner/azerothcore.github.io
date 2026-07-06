@@ -1,7 +1,8 @@
 var a15741 =
 [
-    [ "HandleDummy", "df/d30/a15741.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
-    [ "PrepareSpellScript", "df/d30/a15741.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
-    [ "Register", "df/d30/a15741.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
-    [ "Validate", "df/d30/a15741.html#a041c84fd605abd36b8f774903a5200dc", null ]
+    [ "npc_obsidian_nullifier", "df/d30/a15741.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "df/d30/a15741.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "df/d30/a15741.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "df/d30/a15741.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "df/d30/a15741.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

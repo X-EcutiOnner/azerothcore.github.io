@@ -1,7 +1,6 @@
 var a26517 =
 [
-    [ "CheckProc", "d3/d8c/a26517.html#a068e3d66059d0d34b39ef43bc259eb70", null ],
-    [ "HandleProc", "d3/d8c/a26517.html#ac3da721ff9df529738eeb33e95fb0dac", null ],
-    [ "PrepareAuraScript", "d3/d8c/a26517.html#ab346f33f7d467f89c9bc9ecc569a8c8c", null ],
-    [ "Register", "d3/d8c/a26517.html#afa041c16f5d6c80aa74402fbdbea1701", null ]
+    [ "CalculateAmount", "d3/d8c/a26517.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "d3/d8c/a26517.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "d3/d8c/a26517.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

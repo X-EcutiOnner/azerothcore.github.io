@@ -1,11 +1,9 @@
 var a20753 =
 [
-    [ "npc_ulduar_storm_tempered_keeper", "d9/d5a/a20753.html#ae4dc8352fd0ff41974a33a4500d19e74", null ],
-    [ "JustDied", "d9/d5a/a20753.html#a8051e2b824a6c0df08dafab6e25d6bc7", null ],
-    [ "JustEngagedWith", "d9/d5a/a20753.html#a1bd5ba0e92e09953bc1ecb69a61c98f1", null ],
-    [ "JustSummoned", "d9/d5a/a20753.html#a9b1f8cd15790dbd179e313546f9754bf", null ],
-    [ "Reset", "d9/d5a/a20753.html#a5bbb71bfbeb2c4e09d20a94ed7913183", null ],
-    [ "UpdateAI", "d9/d5a/a20753.html#a9f36f099f7db4c3e1a06b8d4082e58c5", null ],
-    [ "events", "d9/d5a/a20753.html#a4a79bd561fa63230a52730da20d7143c", null ],
-    [ "otherGUID", "d9/d5a/a20753.html#a4fb550c7e49ea5078ec0ab59cda2c6d8", null ]
+    [ "OnProc", "d9/d5a/a20753.html#a94de5901e43000e99b478e9194d59ecd", null ],
+    [ "PrepareAuraScript", "d9/d5a/a20753.html#a1b4efd5e774d4bd561a30830c3be8045", null ],
+    [ "Register", "d9/d5a/a20753.html#acc8a07807e5c306af285cb5889ef2c41", null ],
+    [ "Validate", "d9/d5a/a20753.html#ad17cfc0369da547475e43bd2970cf3f2", null ],
+    [ "_lastOrbTime", "d9/d5a/a20753.html#a4522510d836abf625b019674c1c5281f", null ],
+    [ "OrbCooldown", "d9/d5a/a20753.html#a4a0204623a0db8d1474d0e72e71226eb", null ]
 ];

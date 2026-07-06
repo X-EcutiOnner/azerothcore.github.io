@@ -1,6 +1,6 @@
 var a22885 =
 [
-    [ "HandlePeriodic", "de/d90/a22885.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "de/d90/a22885.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "de/d90/a22885.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "PrepareAuraScript", "de/d90/a22885.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "de/d90/a22885.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "de/d90/a22885.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

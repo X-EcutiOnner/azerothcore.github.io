@@ -1,8 +1,8 @@
 var a11745 =
 [
-    [ "target_mapId", "d7/d23/a11745.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d7/d23/a11745.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d7/d23/a11745.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d7/d23/a11745.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d7/d23/a11745.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "SkillDiscoveryEntry", "d7/d23/a11745.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "d7/d23/a11745.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "d7/d23/a11745.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "d7/d23/a11745.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "d7/d23/a11745.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

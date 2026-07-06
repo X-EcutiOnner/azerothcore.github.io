@@ -1,6 +1,7 @@
 var a17341 =
 [
-    [ "entry", "d0/df1/a17341.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d0/df1/a17341.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d0/df1/a17341.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "HandleEffectPeriodic", "d0/df1/a17341.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d0/df1/a17341.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d0/df1/a17341.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d0/df1/a17341.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

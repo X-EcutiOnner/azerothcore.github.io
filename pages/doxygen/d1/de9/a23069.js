@@ -1,7 +1,6 @@
 var a23069 =
 [
-    [ "CalcPeriodic", "d1/de9/a23069.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d1/de9/a23069.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d1/de9/a23069.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d1/de9/a23069.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d8/dda/a23073.html", "d8/dda/a23073" ],
+    [ "instance_serpent_shrine", "d1/de9/a23069.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d1/de9/a23069.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

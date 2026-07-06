@@ -1,9 +1,8 @@
 var a17869 =
 [
-    [ "HandleApply", "da/d71/a17869.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "da/d71/a17869.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "da/d71/a17869.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "da/d71/a17869.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "da/d71/a17869.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "da/d71/a17869.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "HandleHit", "da/d71/a17869.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
+    [ "HandleScript", "da/d71/a17869.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "da/d71/a17869.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "da/d71/a17869.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "da/d71/a17869.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

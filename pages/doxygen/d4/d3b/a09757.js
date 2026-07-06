@@ -1,7 +1,10 @@
 var a09757 =
 [
-    [ "AllWorldObjectsInRange", "d4/d3b/a09757.html#a63f46d510df0fa3153d4b3325676a468", null ],
-    [ "operator()", "d4/d3b/a09757.html#a2cf23c24df93b5f7f29163b32e965a94", null ],
-    [ "m_fRange", "d4/d3b/a09757.html#a6afe3ef05369dce8ee205db219f97846", null ],
-    [ "m_pObject", "d4/d3b/a09757.html#ae7dde7b946d8affb79cb2d4c58eedbed", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "d4/d3b/a09757.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "d4/d3b/a09757.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "d4/d3b/a09757.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "d4/d3b/a09757.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "d4/d3b/a09757.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "d4/d3b/a09757.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "d4/d3b/a09757.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

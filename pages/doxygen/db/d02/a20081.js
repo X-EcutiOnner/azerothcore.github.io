@@ -1,5 +1,5 @@
 var a20081 =
 [
-    [ "achievement_freya_getting_back_to_nature", "db/d02/a20081.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "db/d02/a20081.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "achievement_cant_do_that_while_stunned", "db/d02/a20081.html#a4d474b36f61631688ea723d2e4033574", null ],
+    [ "OnCheck", "db/d02/a20081.html#a0b108bdcab0bc412975e61247f226bf8", null ]
 ];

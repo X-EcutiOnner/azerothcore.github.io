@@ -1,15 +1,10 @@
 var a17245 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "dd/d8e/a17245.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
-    [ "DamageTaken", "dd/d8e/a17245.html#aad000cc1310f22325a29131fad169cbc", null ],
-    [ "DoAction", "dd/d8e/a17245.html#a5d7a324073cfdbd01ae267964959f15b", null ],
-    [ "InitializeAI", "dd/d8e/a17245.html#ad84905d1385bce0e431c2baf1158a343", null ],
-    [ "JustEngagedWith", "dd/d8e/a17245.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
-    [ "MoveInLineOfSight", "dd/d8e/a17245.html#a1d43b002628080d5faf2fd59347a7f79", null ],
-    [ "MovementInform", "dd/d8e/a17245.html#a849b06a045de5529706e83b03febe135", null ],
-    [ "Reset", "dd/d8e/a17245.html#a0e6b326b3c8102dd711c002537f2c339", null ],
-    [ "UpdateAI", "dd/d8e/a17245.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
-    [ "events", "dd/d8e/a17245.html#a30d65bc3625ed22e11ed7e040451643c", null ],
-    [ "isInvincible", "dd/d8e/a17245.html#a0216b301112656fb75907ff1f0d50d0f", null ],
-    [ "pInstance", "dd/d8e/a17245.html#afb71e537115d36795c2568360b2d58ce", null ]
+    [ "HandleAfterEffectAbsorb", "dd/d8e/a17245.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
+    [ "Load", "dd/d8e/a17245.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
+    [ "PrepareAuraScript", "dd/d8e/a17245.html#a0856d66c801715f16cd251ddf9b25a59", null ],
+    [ "Register", "dd/d8e/a17245.html#a69d8dfebb981b51592770b7b5807bc80", null ],
+    [ "Validate", "dd/d8e/a17245.html#a55ec42ce316978220103a3a39f3939a3", null ],
+    [ "amount", "dd/d8e/a17245.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
+    [ "fired", "dd/d8e/a17245.html#a6a7afa99044644608b16e83328bfd5fa", null ]
 ];

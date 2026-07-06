@@ -1,9 +1,14 @@
 var a28481 =
 [
-    [ "npc_target_dummyAI", "d9/dcf/a28481.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d9/dcf/a28481.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d9/dcf/a28481.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d9/dcf/a28481.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d9/dcf/a28481.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d9/dcf/a28481.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "FlameshockerCheck", "d1/dbe/a28485.html", "d1/dbe/a28485" ],
+    [ "npc_pallid_horror", "d9/dcf/a28481.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d9/dcf/a28481.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d9/dcf/a28481.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d9/dcf/a28481.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d9/dcf/a28481.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d9/dcf/a28481.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d9/dcf/a28481.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d9/dcf/a28481.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d9/dcf/a28481.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d9/dcf/a28481.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

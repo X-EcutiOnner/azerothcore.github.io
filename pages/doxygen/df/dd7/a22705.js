@@ -1,11 +1,9 @@
 var a22705 =
 [
-    [ "boss_doomlordkazzakAI", "df/dd7/a22705.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "df/dd7/a22705.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "df/dd7/a22705.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "df/dd7/a22705.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "df/dd7/a22705.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "df/dd7/a22705.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "df/dd7/a22705.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "df/dd7/a22705.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "FilterTargets", "df/dd7/a22705.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "df/dd7/a22705.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "df/dd7/a22705.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "df/dd7/a22705.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "df/dd7/a22705.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "df/dd7/a22705.html#a814083360970284a325621f45e109b5b", null ]
 ];

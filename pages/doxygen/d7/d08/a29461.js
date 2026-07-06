@@ -1,13 +1,8 @@
 var a29461 =
 [
-    [ "liquid_data", "d8/d0a/a29469.html", "d8/d0a/a29469" ],
-    [ "prepareLoadedData", "d7/d08/a29461.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "d7/d08/a29461.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "d7/d08/a29461.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "d7/d08/a29461.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "d7/d08/a29461.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "d7/d08/a29461.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "d7/d08/a29461.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "d7/d08/a29461.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "d7/d08/a29461.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "bp0", "d7/d08/a29461.html#ada8e047c960181610ff1942cbdfa2e27", null ],
+    [ "bp1", "d7/d08/a29461.html#aaf81afde542db481bde1e26fcc21b945", null ],
+    [ "bp2", "d7/d08/a29461.html#a36b28d1bc821bfd3970b6af0f38a9f10", null ],
+    [ "spellId", "d7/d08/a29461.html#a3f8e88d4761c5247c2cb9bff94d548aa", null ],
+    [ "triggered", "d7/d08/a29461.html#a0ee8feba0856c5497612e15128ba8273", null ]
 ];

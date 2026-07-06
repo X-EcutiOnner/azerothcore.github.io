@@ -1,6 +1,7 @@
 var a19317 =
 [
-    [ "boss_patchwerkAI", "d8/d0c/a19321.html", "d8/d0c/a19321" ],
-    [ "boss_patchwerk", "dc/dea/a19317.html#a526983c4f5191a839ba4a017ac2d14e4", null ],
-    [ "GetAI", "dc/dea/a19317.html#a03f2dec61192405760958e26d998d67e", null ]
+    [ "HandleGameObjectDamage", "dc/dea/a19317.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "dc/dea/a19317.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "dc/dea/a19317.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "dc/dea/a19317.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

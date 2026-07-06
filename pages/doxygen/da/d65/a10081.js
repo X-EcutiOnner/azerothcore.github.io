@@ -1,7 +1,27 @@
 var a10081 =
 [
-    [ "ZRangeBoundary", "da/d65/a10081.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "da/d65/a10081.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "da/d65/a10081.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "da/d65/a10081.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "LootStore", "da/d65/a10081.html#a99896ddfc04c20e2f7088a2ad8403e35", null ],
+    [ "~LootStore", "da/d65/a10081.html#a5ed3ef2d00fdcb8edc3c4ddb9cb5a9ca", null ],
+    [ "CheckLootRefs", "da/d65/a10081.html#a6506931ec5ce351687bc0c44ef74b435", null ],
+    [ "Clear", "da/d65/a10081.html#abd9b51ff3aa4452ff5f5cc82267bac48", null ],
+    [ "GetEntryName", "da/d65/a10081.html#a6adbdbba33f3c6d55d02f8f94de2e3ab", null ],
+    [ "GetLootFor", "da/d65/a10081.html#a541edad9042f950ba2545c6e1126c419", null ],
+    [ "GetLootForConditionFill", "da/d65/a10081.html#a46e8a8ed43a1e885ade1d5b74d79bb4b", null ],
+    [ "GetName", "da/d65/a10081.html#acecb88522c97b74f87e0ed40fa009a04", null ],
+    [ "HaveLootFor", "da/d65/a10081.html#abd45358d22bbb44f54743792a7fd0039", null ],
+    [ "HaveQuestLootFor", "da/d65/a10081.html#a82a84ddb5051cf3e9ee508c2f0642d1e", null ],
+    [ "HaveQuestLootForPlayer", "da/d65/a10081.html#ad800486cf5afb5842073b8ca1a43aad8", null ],
+    [ "IsRatesAllowed", "da/d65/a10081.html#aa64da1c4756d94e30c552b17795b1da0", null ],
+    [ "LoadAndCollectLootIds", "da/d65/a10081.html#a172a485f55b00f97248779c3f9f996dd", null ],
+    [ "LoadLootTable", "da/d65/a10081.html#a131a846a8bce5b792a06a130bb1d1599", null ],
+    [ "ReportInvalidCount", "da/d65/a10081.html#aa03234f502990184089e66778674c474", null ],
+    [ "ReportNonExistingId", "da/d65/a10081.html#ab34193850f17f42ec65a466eefe4ff76", null ],
+    [ "ReportNonExistingId", "da/d65/a10081.html#a85d0955deaa4332a977a131fbb93eb87", null ],
+    [ "ReportUnusedIds", "da/d65/a10081.html#af0fe6608310a123d70cc8221e65e4556", null ],
+    [ "ResetConditions", "da/d65/a10081.html#a4f258b3698a2a0a77a28b3b8a885e579", null ],
+    [ "Verify", "da/d65/a10081.html#afd0762a7391f530009b44bf6b4a3a3be", null ],
+    [ "m_entryName", "da/d65/a10081.html#a2dc4594b3aa9d4737a785a3b47c559c5", null ],
+    [ "m_LootTemplates", "da/d65/a10081.html#a58cf63357ad373aaf5866f5f2dcb23a8", null ],
+    [ "m_name", "da/d65/a10081.html#aaae57f6cacb66f1024fa572cd6ba8003", null ],
+    [ "m_ratesAllowed", "da/d65/a10081.html#a9edc9a356084a1395ca5367db91981bd", null ]
 ];

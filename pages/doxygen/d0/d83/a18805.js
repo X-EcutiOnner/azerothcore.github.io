@@ -1,7 +1,5 @@
 var a18805 =
 [
-    [ "npc_frost_freeze_trapAI", "d0/d83/a18805.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d0/d83/a18805.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d0/d83/a18805.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d0/d83/a18805.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "achievement_been_waiting_long_time", "d0/d83/a18805.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d0/d83/a18805.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

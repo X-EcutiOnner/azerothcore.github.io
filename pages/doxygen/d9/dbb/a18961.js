@@ -1,7 +1,6 @@
 var a18961 =
 [
-    [ "HandleDummy", "d9/dbb/a18961.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d9/dbb/a18961.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d9/dbb/a18961.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d9/dbb/a18961.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "CaptainSurviveTalk", "d9/dbb/a18961.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "d9/dbb/a18961.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "d9/dbb/a18961.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

@@ -1,6 +1,7 @@
 var a17449 =
 [
-    [ "boss_prince_kelesethAI", "dd/d7f/a17453.html", "dd/d7f/a17453" ],
-    [ "boss_prince_keleseth_icc", "de/d38/a17449.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
-    [ "GetAI", "de/d38/a17449.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
+    [ "npc_pos_icicle_triggerAI", "de/d38/a17449.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "de/d38/a17449.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "de/d38/a17449.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "de/d38/a17449.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

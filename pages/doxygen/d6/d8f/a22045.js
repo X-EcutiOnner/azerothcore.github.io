@@ -1,9 +1,8 @@
 var a22045 =
 [
-    [ "npc_finklesteinAI", "d5/d64/a22049.html", "d5/d64/a22049" ],
-    [ "npc_finklestein", "d6/d8f/a22045.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d6/d8f/a22045.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d6/d8f/a22045.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d6/d8f/a22045.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d6/d8f/a22045.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "CheckCast", "d6/d8f/a22045.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "d6/d8f/a22045.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "d6/d8f/a22045.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "d6/d8f/a22045.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "d6/d8f/a22045.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

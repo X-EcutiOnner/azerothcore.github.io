@@ -1,7 +1,6 @@
 var a15953 =
 [
-    [ "npc_paoka_swiftmountainAI", "d2/dcb/a15957.html", "d2/dcb/a15957" ],
-    [ "npc_paoka_swiftmountain", "db/d6e/a15953.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "db/d6e/a15953.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "db/d6e/a15953.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_bunthen_plainswind", "db/d6e/a15953.html#ad9b789ad3e958dee4733b142813b6302", null ],
+    [ "OnGossipHello", "db/d6e/a15953.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
+    [ "OnGossipSelect", "db/d6e/a15953.html#a117f28d513ac645b9d3d908d052d2146", null ]
 ];

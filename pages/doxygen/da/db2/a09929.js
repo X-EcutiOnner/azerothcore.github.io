@@ -1,6 +1,12 @@
 var a09929 =
 [
-    [ "bossId", "da/db2/a09929.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
-    [ "entry", "da/db2/a09929.html#a1a199d022692efe54e29a7cb90e73dee", null ],
-    [ "type", "da/db2/a09929.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
+    [ "EventLogEntry", "da/db2/a09929.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "da/db2/a09929.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "da/db2/a09929.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "da/db2/a09929.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "da/db2/a09929.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "da/db2/a09929.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "da/db2/a09929.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "da/db2/a09929.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "da/db2/a09929.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

@@ -1,5 +1,5 @@
 var a02990 =
 [
-    [ "keyData", "d7/dc0/a12072.html", "d7/dc0/a12072" ],
-    [ "GetWardenActionStr", "d1/df2/a02990.html#a4e3c0063e5bf94a2e640c7b887fe14fc", null ]
+    [ "Acore::EmoteChatBuilder", "d0/d4b/a09973.html", "d0/d4b/a09973" ],
+    [ "isNasty", "d1/df2/a02990.html#ae6092f307f09a5dcbbc5ed10c145032f", null ]
 ];

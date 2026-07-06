@@ -1,13 +1,23 @@
 var a05809 =
 [
-    [ "IntervalTimer", "d7/d4f/a05809.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "d7/d4f/a05809.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "d7/d4f/a05809.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "d7/d4f/a05809.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "d7/d4f/a05809.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "d7/d4f/a05809.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "d7/d4f/a05809.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "d7/d4f/a05809.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "d7/d4f/a05809.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "d7/d4f/a05809.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "AbortState", "d7/d4f/a05809.html#a3f26f839ff35d80af2a8f885ca1a1554", [
+      [ "STATE_RUNNING", "d7/d4f/a05809.html#a3f26f839ff35d80af2a8f885ca1a1554ad8a3bbc9a845117a56f75c0f8e74f09e", null ],
+      [ "STATE_ABORT_SCHEDULED", "d7/d4f/a05809.html#a3f26f839ff35d80af2a8f885ca1a1554a57184a4db33295d3f2462a45429a7d3a", null ],
+      [ "STATE_ABORTED", "d7/d4f/a05809.html#a3f26f839ff35d80af2a8f885ca1a1554a94084d8a7188eb3538561802c1f817f5", null ]
+    ] ],
+    [ "BasicEvent", "d7/d4f/a05809.html#a9c3cd17edab7fc410f88bb680d756975", null ],
+    [ "~BasicEvent", "d7/d4f/a05809.html#a0c3860e1c8854c2db20a225944792afd", null ],
+    [ "Abort", "d7/d4f/a05809.html#a5584968148a48bd7ba072515bd489963", null ],
+    [ "Execute", "d7/d4f/a05809.html#a89297a10b64d01895332655122ed8ccb", null ],
+    [ "IsAborted", "d7/d4f/a05809.html#a4b05df0749b6a18ef0e0b4137e727d7d", null ],
+    [ "IsAbortScheduled", "d7/d4f/a05809.html#a1ee71d72964b7124e8e137b02c81eac2", null ],
+    [ "IsDeletable", "d7/d4f/a05809.html#a62c0483af9fd1885e779cf088a50eb02", null ],
+    [ "IsRunning", "d7/d4f/a05809.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2", null ],
+    [ "ScheduleAbort", "d7/d4f/a05809.html#afafade0729f08b8f1193a66f50c18348", null ],
+    [ "SetAborted", "d7/d4f/a05809.html#a9224c2878bff4f6df28bedb973be2d27", null ],
+    [ "EventProcessor", "d7/d4f/a05809.html#acce868eb94e25fcad6a070753b63bdfc", null ],
+    [ "m_abortState", "d7/d4f/a05809.html#afd9cf18b8a00c6195b9120f3fcf7ca69", null ],
+    [ "m_addTime", "d7/d4f/a05809.html#ac236835e6298588e834cde7a8c2bfece", null ],
+    [ "m_eventGroup", "d7/d4f/a05809.html#a2ee03f01e03347d04eb38a215d10f036", null ],
+    [ "m_execTime", "d7/d4f/a05809.html#afbd8d5728992e7676fde628fc03dc588", null ]
 ];

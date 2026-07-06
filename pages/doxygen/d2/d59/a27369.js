@@ -1,8 +1,7 @@
 var a27369 =
 [
-    [ "CalculateBuffer", "d2/d59/a27369.html#a3fa1917fc77575531e485cd0228bcc00", null ],
-    [ "HandleProc", "d2/d59/a27369.html#a35edcf5f57dee1bbb63321cd67b200db", null ],
-    [ "PrepareAuraScript", "d2/d59/a27369.html#a325ad66cd69a15260e274562250c8e32", null ],
-    [ "Register", "d2/d59/a27369.html#a2d107c9db0b3b1859cb284b741a77ef8", null ],
-    [ "Validate", "d2/d59/a27369.html#ae7de3e43a47e6b35d0dead23ac51325e", null ]
+    [ "HandleProc", "d2/d59/a27369.html#a2cb0b7d662333dc469d9062ca243d496", null ],
+    [ "PrepareAuraScript", "d2/d59/a27369.html#a2a82d54427fdc223a6b22a88eb3372e1", null ],
+    [ "Register", "d2/d59/a27369.html#af7e6f88f43af835920778f8c99775cfb", null ],
+    [ "Validate", "d2/d59/a27369.html#a734b46af5b2e9b6566f64aafbe8d4d51", null ]
 ];

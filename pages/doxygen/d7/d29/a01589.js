@@ -1,5 +1,5 @@
 var a01589 =
 [
-    [ "worldstate_commandscript", "da/d16/a12519.html", "da/d16/a12519" ],
-    [ "AddSC_worldstate_commandscript", "d7/d29/a01589.html#a2ff66ad19f50180b9878cf95696fd09b", null ]
+    [ "arena_commandscript", "d3/d99/a12301.html", "d3/d99/a12301" ],
+    [ "AddSC_arena_commandscript", "d7/d29/a01589.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
 ];

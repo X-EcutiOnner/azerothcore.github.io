@@ -1,9 +1,6 @@
 var a13373 =
 [
-    [ "npc_risen_guardianAI", "d5/de6/a13373.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "d5/de6/a13373.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "d5/de6/a13373.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "d5/de6/a13373.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "d5/de6/a13373.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "d5/de6/a13373.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "boss_garaxxas", "d5/de6/a13373.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d5/de6/a13373.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d5/de6/a13373.html#a56e6489ce49971cb066444888355626e", null ]
 ];

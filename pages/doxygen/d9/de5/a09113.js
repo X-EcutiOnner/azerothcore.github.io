@@ -1,18 +1,11 @@
 var a09113 =
 [
-    [ "GameEventData", "d9/de5/a09113.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "d9/de5/a09113.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "Announce", "d9/de5/a09113.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
-    [ "Conditions", "d9/de5/a09113.html#a0915a0321c4c26bfb61824587a309cde", null ],
-    [ "Description", "d9/de5/a09113.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
-    [ "End", "d9/de5/a09113.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
-    [ "EventId", "d9/de5/a09113.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
-    [ "HolidayId", "d9/de5/a09113.html#a9c9979bdece8534af216b693a2a58a80", null ],
-    [ "HolidayStage", "d9/de5/a09113.html#a44c52795eed59abdff72cdebdccc50ca", null ],
-    [ "Length", "d9/de5/a09113.html#a72bff4c3a62db350460993d804a461ea", null ],
-    [ "NextStart", "d9/de5/a09113.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
-    [ "Occurence", "d9/de5/a09113.html#ab4e80a88f30560a3af0c6381e974687d", null ],
-    [ "PrerequisiteEvents", "d9/de5/a09113.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
-    [ "Start", "d9/de5/a09113.html#a3be91b7e00641ca6cb853104190845dc", null ],
-    [ "State", "d9/de5/a09113.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
+    [ "SpellPeriodicAuraLogInfo", "d9/de5/a09113.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d9/de5/a09113.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d9/de5/a09113.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d9/de5/a09113.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d9/de5/a09113.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d9/de5/a09113.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d9/de5/a09113.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d9/de5/a09113.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

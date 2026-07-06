@@ -1,7 +1,6 @@
 var a17661 =
 [
-    [ "FilterTargets", "d6/d9a/a17661.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
-    [ "Load", "d6/d9a/a17661.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
-    [ "PrepareSpellScript", "d6/d9a/a17661.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
-    [ "Register", "d6/d9a/a17661.html#a33342cc676adaabe5e3896fa559631b7", null ]
+    [ "npc_dark_nucleusAI", "d5/d3c/a17665.html", "d5/d3c/a17665" ],
+    [ "npc_dark_nucleus", "d6/d9a/a17661.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "d6/d9a/a17661.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

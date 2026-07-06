@@ -1,6 +1,6 @@
 var a24093 =
 [
-    [ "HandleSummon", "d3/d92/a24093.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "d3/d92/a24093.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "d3/d92/a24093.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "PrepareSpellScript", "d3/d92/a24093.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d3/d92/a24093.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d3/d92/a24093.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

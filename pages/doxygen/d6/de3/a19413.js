@@ -1,25 +1,9 @@
 var a19413 =
 [
-    [ "boss_malygos", "d6/de3/a19413.html#acd26b3f587a379b568c496ea1ec3194f", null ],
-    [ "AttackStart", "d6/de3/a19413.html#affc05cb6c51b8116257a4b1aef46ff00", null ],
-    [ "DamageTaken", "d6/de3/a19413.html#a28a85c719c91835b5f6f52d267990c0c", null ],
-    [ "EnterEvadeMode", "d6/de3/a19413.html#a53c5686a8cf473d8ed1569890bdf70a5", null ],
-    [ "GetGUID", "d6/de3/a19413.html#afb552c6ee40f0415c5d8b96d140c55e6", null ],
-    [ "HandleIntroSpeech", "d6/de3/a19413.html#a648e2f73ffead8912659bc342ec70774", null ],
-    [ "JustDied", "d6/de3/a19413.html#a597f5291a656746becdb058c538cff89", null ],
-    [ "JustEngagedWith", "d6/de3/a19413.html#a110748ba104014f161c8bb51bb6ba566", null ],
-    [ "JustSummoned", "d6/de3/a19413.html#a743aba102bcad0f032113a32c34a131e", null ],
-    [ "KilledUnit", "d6/de3/a19413.html#ad471155b4ff59d163218653cc3dfc104", null ],
-    [ "MoveInLineOfSight", "d6/de3/a19413.html#a92ba2c3af50769e45327f4081b753d1d", null ],
-    [ "MovementInform", "d6/de3/a19413.html#ab1a3fa752819f459e6eb50748f8f65b0", null ],
-    [ "Reset", "d6/de3/a19413.html#a0b2603b3691b4961977acbc593202306", null ],
-    [ "SetGUID", "d6/de3/a19413.html#ae8d1e363bc9db57af46afa838c72cfd1", null ],
-    [ "SpellHit", "d6/de3/a19413.html#ab520ae358e31225469e96d8628c6314c", null ],
-    [ "UpdateAI", "d6/de3/a19413.html#aabdec2e6a2e955cc682b122430cbdcce", null ],
-    [ "_executingVortex", "d6/de3/a19413.html#a1a838052f9465530a586132a24c7ec5b", null ],
-    [ "_surgeTargetGUID", "d6/de3/a19413.html#a832a8890c9b8cefb7c1043de745c1e25", null ],
-    [ "bLockHealthCheck", "d6/de3/a19413.html#a8809894ee687da3133030b4d4f080b35", null ],
-    [ "IntroCounter", "d6/de3/a19413.html#a88f42418d5a96d3b2630ee2975d420b1", null ],
-    [ "timer1", "d6/de3/a19413.html#ad779ad4e63ce426421fab327fc9bf9ed", null ],
-    [ "timer2", "d6/de3/a19413.html#a5cccd64acbf07ab2cbd5650feb2bb115", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d6/de3/a19413.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "d6/de3/a19413.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "d6/de3/a19413.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "d6/de3/a19413.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "d6/de3/a19413.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "d6/de3/a19413.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

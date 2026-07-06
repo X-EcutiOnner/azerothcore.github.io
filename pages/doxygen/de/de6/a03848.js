@@ -1,4 +1,4 @@
 var a03848 =
 [
-    [ "sWorldUpdateTime", "de/de6/a03848.html#aa415d38dafe4c1c78c951de9fed8393b", null ]
+    [ "GetMinPlayersPerTeam", "de/de6/a03848.html#ab22bdb52b0357434faced9df19db9d81", null ]
 ];

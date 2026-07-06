@@ -1,6 +1,7 @@
 var a19085 =
 [
-    [ "RespawnEvent", "d3/d7d/a19085.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
-    [ "Execute", "d3/d7d/a19085.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
-    [ "_owner", "d3/d7d/a19085.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
+    [ "HandleQuestComplete", "d3/d7d/a19085.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "d3/d7d/a19085.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "d3/d7d/a19085.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "d3/d7d/a19085.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

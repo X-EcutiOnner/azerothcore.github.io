@@ -1,8 +1,8 @@
 var a14917 =
 [
-    [ "npc_doomfire_spirit", "d6/dc5/a14917.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "d6/dc5/a14917.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "d6/dc5/a14917.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "d6/dc5/a14917.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "d6/dc5/a14917.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "OnApply", "d6/dc5/a14917.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "d6/dc5/a14917.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "d6/dc5/a14917.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "d6/dc5/a14917.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "d6/dc5/a14917.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

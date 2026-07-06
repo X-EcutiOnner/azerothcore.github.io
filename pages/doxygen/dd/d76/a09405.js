@@ -1,14 +1,17 @@
 var a09405 =
 [
-    [ "areaMapOffset", "dd/d76/a09405.html#a70f82337112bb8cbff0b3344666885a1", null ],
-    [ "areaMapSize", "dd/d76/a09405.html#adfbbb622974b7942f47dd16d2300246f", null ],
-    [ "buildMagic", "dd/d76/a09405.html#a82d0f500f9e84cf6c8bf917a98f92115", null ],
-    [ "heightMapOffset", "dd/d76/a09405.html#a7623bee6b8cf7d6e39b8716aa72f8514", null ],
-    [ "heightMapSize", "dd/d76/a09405.html#a71c9cd42801697a927543e3acd4c3daf", null ],
-    [ "holesOffset", "dd/d76/a09405.html#a876d70dcd6ccec9ad09de77718c02150", null ],
-    [ "holesSize", "dd/d76/a09405.html#a3c3cc1895a47dc69265f4b58166c3f6b", null ],
-    [ "liquidMapOffset", "dd/d76/a09405.html#ac62deafcc7b435caf4a0f6aafd3d85be", null ],
-    [ "liquidMapSize", "dd/d76/a09405.html#a5aa18af3a8e029e8842ddf72fc5d5267", null ],
-    [ "mapMagic", "dd/d76/a09405.html#a2691fbc981b2ed5e1d748cd9c0859548", null ],
-    [ "versionMagic", "dd/d76/a09405.html#abe722f653ba057fbba84401acbaffbfa", null ]
+    [ "ActionMenuID", "dd/d76/a09405.html#a486f9af68a02ae52d51772a3421db377", null ],
+    [ "ActionPoiID", "dd/d76/a09405.html#a9a20a64e29d0464c40f57286b9c1804d", null ],
+    [ "BoxBroadcastTextID", "dd/d76/a09405.html#a12882942190a9a568b9dc30214ee6a88", null ],
+    [ "BoxCoded", "dd/d76/a09405.html#a4f7ba04e2d1078909d9587569504f4cd", null ],
+    [ "BoxMoney", "dd/d76/a09405.html#ab00c368181ccaba98e878d49de6138e2", null ],
+    [ "BoxText", "dd/d76/a09405.html#ad794b3c4e84dedce43ff2c80d3c38d4a", null ],
+    [ "Conditions", "dd/d76/a09405.html#aa1632404bbc869b17dab8833f660c52b", null ],
+    [ "MenuID", "dd/d76/a09405.html#a6e5b1b2c86bd05b81626a7230349be9a", null ],
+    [ "OptionBroadcastTextID", "dd/d76/a09405.html#af8af4b4c27405908482db73797cd2d49", null ],
+    [ "OptionIcon", "dd/d76/a09405.html#a0b73f7ce36e7703725e6b0d01c2a4564", null ],
+    [ "OptionID", "dd/d76/a09405.html#adf2a8d247a88a062a75eb726dd43d019", null ],
+    [ "OptionNpcFlag", "dd/d76/a09405.html#a6f41e9adfcb11adabdd79b55c1d47bfc", null ],
+    [ "OptionText", "dd/d76/a09405.html#a2606ac76a4f3607e45676ed3f1df3a83", null ],
+    [ "OptionType", "dd/d76/a09405.html#af53a42c8d4ec23be46dfdb16abc9c4ff", null ]
 ];

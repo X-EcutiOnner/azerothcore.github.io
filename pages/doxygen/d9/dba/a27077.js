@@ -1,8 +1,6 @@
 var a27077 =
 [
-    [ "CheckProc", "d9/dba/a27077.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
-    [ "HandleProc", "d9/dba/a27077.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
-    [ "PrepareAuraScript", "d9/dba/a27077.html#a8eccfbb749b85bbb850874324f17bbde", null ],
-    [ "Register", "d9/dba/a27077.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
-    [ "Validate", "d9/dba/a27077.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
+    [ "HandleSendEvent", "d9/dba/a27077.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "d9/dba/a27077.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "d9/dba/a27077.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

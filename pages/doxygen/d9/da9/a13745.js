@@ -1,7 +1,6 @@
 var a13745 =
 [
-    [ "HandlePull", "d9/da9/a13745.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d9/da9/a13745.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d9/da9/a13745.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d9/da9/a13745.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "FilterTargets", "d9/da9/a13745.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d9/da9/a13745.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d9/da9/a13745.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

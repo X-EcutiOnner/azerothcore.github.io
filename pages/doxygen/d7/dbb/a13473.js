@@ -1,8 +1,6 @@
 var a13473 =
 [
-    [ "CalcPeriodic", "d7/dbb/a13473.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "d7/dbb/a13473.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "d7/dbb/a13473.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "d7/dbb/a13473.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "d7/dbb/a13473.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "npc_acherus_necromancerAI", "dc/dfe/a13477.html", "dc/dfe/a13477" ],
+    [ "npc_acherus_necromancer", "d7/dbb/a13473.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "d7/dbb/a13473.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

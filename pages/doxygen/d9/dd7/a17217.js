@@ -1,6 +1,6 @@
 var a17217 =
 [
-    [ "boss_tyrannusAI", "dc/d51/a17221.html", "dc/d51/a17221" ],
-    [ "boss_tyrannus", "d9/dd7/a17217.html#a81373192ffea8817cb72b80f4629da43", null ],
-    [ "GetAI", "d9/dd7/a17217.html#ad107030de1427d070305f5dcef96c016", null ]
+    [ "FilterTargets", "d9/dd7/a17217.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d9/dd7/a17217.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d9/dd7/a17217.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

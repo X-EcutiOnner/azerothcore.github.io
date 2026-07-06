@@ -1,8 +1,5 @@
 var a15757 =
 [
-    [ "FilterTargets", "dd/d5b/a15757.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "dd/d5b/a15757.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "dd/d5b/a15757.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "dd/d5b/a15757.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "dd/d5b/a15757.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "at_battleguard_sartura", "dd/d5b/a15757.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "dd/d5b/a15757.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

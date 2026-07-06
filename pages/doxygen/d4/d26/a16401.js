@@ -1,7 +1,6 @@
 var a16401 =
 [
-    [ "HandleScriptEffect", "d4/d26/a16401.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d4/d26/a16401.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d4/d26/a16401.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d4/d26/a16401.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d4/d26/a16401.html#a886ed4c1485fdedcc176341210eee31a", null ],
+    [ "OnCreatureEvade", "d4/d26/a16401.html#af163238686bf22f11908f64ffb5cacca", null ],
+    [ "OnUnitDeath", "d4/d26/a16401.html#a45792f7c2d1a042d68907a0f475634d1", null ]
 ];

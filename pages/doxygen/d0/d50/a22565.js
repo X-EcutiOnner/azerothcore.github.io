@@ -1,12 +1,8 @@
 var a22565 =
 [
-    [ "npc_creature_generator_akama", "d0/d50/a22565.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d0/d50/a22565.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d0/d50/a22565.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d0/d50/a22565.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d0/d50/a22565.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d0/d50/a22565.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d0/d50/a22565.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d0/d50/a22565.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d0/d50/a22565.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "npc_parasitic_shadowfiend", "d0/d50/a22565.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d0/d50/a22565.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d0/d50/a22565.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d0/d50/a22565.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d0/d50/a22565.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

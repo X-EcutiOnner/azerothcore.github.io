@@ -1,9 +1,10 @@
 var a07697 =
 [
-    [ "entry", "d7/d13/a07697.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "d7/d13/a07697.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "d7/d13/a07697.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "d7/d13/a07697.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "d7/d13/a07697.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "d7/d13/a07697.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "SelectionPool", "d7/d13/a07697.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d7/d13/a07697.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d7/d13/a07697.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d7/d13/a07697.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d7/d13/a07697.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d7/d13/a07697.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d7/d13/a07697.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

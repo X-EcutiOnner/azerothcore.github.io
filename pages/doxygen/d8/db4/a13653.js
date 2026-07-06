@@ -1,12 +1,8 @@
 var a13653 =
 [
-    [ "npc_kiljaeden_controller", "d8/db4/a13653.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "d8/db4/a13653.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "d8/db4/a13653.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "d8/db4/a13653.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "d8/db4/a13653.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "d8/db4/a13653.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "d8/db4/a13653.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "d8/db4/a13653.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "d8/db4/a13653.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "CalcPeriodic", "d8/db4/a13653.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d8/db4/a13653.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d8/db4/a13653.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d8/db4/a13653.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d8/db4/a13653.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

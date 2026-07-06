@@ -1,10 +1,9 @@
 var a19685 =
 [
-    [ "npc_molten_golem", "d3/d43/a19685.html#a38350948396b7df97837780531f79515", null ],
-    [ "DamageTaken", "d3/d43/a19685.html#aa3521246b0c2bed18b5466879ec1d107", null ],
-    [ "DoAction", "d3/d43/a19685.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
-    [ "Reset", "d3/d43/a19685.html#a24e23d0959bcda5be05786381a35ac77", null ],
-    [ "UpdateAI", "d3/d43/a19685.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
-    [ "events", "d3/d43/a19685.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
-    [ "m_pInstance", "d3/d43/a19685.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
+    [ "HandleApply", "d3/d43/a19685.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d3/d43/a19685.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d3/d43/a19685.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d3/d43/a19685.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d3/d43/a19685.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d3/d43/a19685.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

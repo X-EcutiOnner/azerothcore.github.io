@@ -1,7 +1,6 @@
 var a17897 =
 [
-    [ "HandleScript", "d1/d34/a17897.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d1/d34/a17897.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d1/d34/a17897.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d1/d34/a17897.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "Cooldown", "d1/d34/a17897.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "d1/d34/a17897.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "d1/d34/a17897.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

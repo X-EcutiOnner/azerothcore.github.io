@@ -1,6 +1,6 @@
 var a23985 =
 [
-    [ "PrepareSpellScript", "d5/d74/a23985.html#ae915f8f6522f0a8d308b2a5f43b8884f", null ],
-    [ "RecalculateDamage", "d5/d74/a23985.html#af01757d0968da2a096d800782ed7e66e", null ],
-    [ "Register", "d5/d74/a23985.html#a62b6613707a2a9b78d52bffe92de604e", null ]
+    [ "npc_mature_netherwing_drakeAI", "de/d44/a23989.html", "de/d44/a23989" ],
+    [ "npc_mature_netherwing_drake", "d5/d74/a23985.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "d5/d74/a23985.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

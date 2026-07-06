@@ -1,7 +1,7 @@
 var a18001 =
 [
-    [ "HandleScriptEffect", "db/d37/a18001.html#abeb703f8f050677bafb8f5ce4173751a", null ],
-    [ "PrepareSpellScript", "db/d37/a18001.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
-    [ "Register", "db/d37/a18001.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
-    [ "SelectTarget", "db/d37/a18001.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
+    [ "npc_gunship_rocketeerAI", "db/d37/a18001.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "db/d37/a18001.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "db/d37/a18001.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "db/d37/a18001.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

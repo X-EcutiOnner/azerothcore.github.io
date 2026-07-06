@@ -1,8 +1,9 @@
 var a15113 =
 [
-    [ "npc_thrall_old_hillsbradAI", "d8/d0b/a15117.html", "d8/d0b/a15117" ],
-    [ "npc_thrall_old_hillsbrad", "d1/d6f/a15113.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "d1/d6f/a15113.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "d1/d6f/a15113.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "d1/d6f/a15113.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "boss_azgalor", "d1/d6f/a15113.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d1/d6f/a15113.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d1/d6f/a15113.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d1/d6f/a15113.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d1/d6f/a15113.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d1/d6f/a15113.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

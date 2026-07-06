@@ -1,7 +1,8 @@
 var a18005 =
 [
-    [ "HandleSpikes", "d2/dac/a18005.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d2/dac/a18005.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d2/dac/a18005.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d2/dac/a18005.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "HandlePeriodic", "d2/dac/a18005.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "d2/dac/a18005.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "d2/dac/a18005.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "d2/dac/a18005.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "d2/dac/a18005.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

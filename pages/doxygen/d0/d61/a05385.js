@@ -1,5 +1,8 @@
 var a05385 =
 [
-    [ "argument_type", "d0/d61/a05385.html#ad0011a133ce27e947c35917314e60693", null ],
-    [ "result_type", "d0/d61/a05385.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
+    [ "GModelRayCallback", "d0/d61/a05385.html#a39bc53ae3bf18800ea215a5a54568606", null ],
+    [ "operator()", "d0/d61/a05385.html#af0072bed861fb89a63c37fd72482ed42", null ],
+    [ "hit", "d0/d61/a05385.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
+    [ "triangles", "d0/d61/a05385.html#a09ef515a1b16d184071e708ed9245b3d", null ],
+    [ "vertices", "d0/d61/a05385.html#af80815b123c6611f38e3d5b41e501546", null ]
 ];

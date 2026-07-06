@@ -1,5 +1,7 @@
 var a11037 =
 [
-    [ "GuildBankRemainingWithdrawMoneyQuery", "df/d0a/a11037.html#afb45f29d4a280c4cc02ee2ab3c055824", null ],
-    [ "Read", "df/d0a/a11037.html#a3e03f6f23a989d6f105c397f8ecfeb87", null ]
+    [ "GuildInvite", "df/d0a/a11037.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "df/d0a/a11037.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "df/d0a/a11037.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "df/d0a/a11037.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

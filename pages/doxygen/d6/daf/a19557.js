@@ -1,6 +1,8 @@
 var a19557 =
 [
-    [ "boss_uromAI", "de/df2/a19561.html", "de/df2/a19561" ],
-    [ "boss_urom", "d6/daf/a19557.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
-    [ "GetAI", "d6/daf/a19557.html#ac381b851f3cc746fb323ff238892c537", null ]
+    [ "HandleAfterCast", "d6/daf/a19557.html#ac816f81a668ac3018be8f5dc4698039b", null ],
+    [ "HandleDummy", "d6/daf/a19557.html#a3009faa525c22779a0b2534b96821cfd", null ],
+    [ "PrepareSpellScript", "d6/daf/a19557.html#aca38f23f080314ab73ec2494bf877716", null ],
+    [ "Register", "d6/daf/a19557.html#aa87e57dabec6e83029f4dd84913f22ca", null ],
+    [ "Validate", "d6/daf/a19557.html#af945e399992deb3aef5c81ad393ee50f", null ]
 ];

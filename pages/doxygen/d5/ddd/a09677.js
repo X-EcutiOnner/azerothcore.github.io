@@ -1,8 +1,10 @@
 var a09677 =
 [
-    [ "CallOfHelpCreatureInRangeDo", "d5/ddd/a09677.html#a6ff932341f415b659d486e63cbeb5fe4", null ],
-    [ "operator()", "d5/ddd/a09677.html#a06eb5dd0f8969c20ca1234e01ae15377", null ],
-    [ "i_enemy", "d5/ddd/a09677.html#a8e2e259c0159fd9418777787e4c68ccd", null ],
-    [ "i_funit", "d5/ddd/a09677.html#aff1768cd844e4e23821cf78f9d360e06", null ],
-    [ "i_range", "d5/ddd/a09677.html#ab0544cf93f94766701b72dbb6b3b55c1", null ]
+    [ "AnyDeadUnitSpellTargetInRangeCheck", "d5/ddd/a09677.html#a212c308a02716ff382e820e86e233ed3", null ],
+    [ "operator()", "d5/ddd/a09677.html#af328df880d17a62e2dbed0ff4231fc39", null ],
+    [ "operator()", "d5/ddd/a09677.html#adcc69b9ef03a68aa235e40449a80b701", null ],
+    [ "operator()", "d5/ddd/a09677.html#a2f2483cf7078681cb3acf28560e61184", null ],
+    [ "operator()", "d5/ddd/a09677.html#aba0bf4c320a684b68743a06e724a369e", null ],
+    [ "i_check", "d5/ddd/a09677.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
+    [ "i_spellInfo", "d5/ddd/a09677.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
 ];

@@ -1,5 +1,6 @@
 var a22697 =
 [
-    [ "PrepareSpellScript", "de/d36/a22697.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "de/d36/a22697.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "PrepareAuraScript", "de/d36/a22697.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
+    [ "Register", "de/d36/a22697.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
+    [ "Update", "de/d36/a22697.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
 ];

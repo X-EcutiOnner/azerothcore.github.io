@@ -1,11 +1,11 @@
 var a17301 =
 [
-    [ "npc_pos_leader_secondAI", "d3/ddd/a17301.html#a2ded8591da2548921cd016d592d1f1c8", null ],
-    [ "DoAction", "d3/ddd/a17301.html#a941d3b42d6a0e58496b724af56fee44a", null ],
-    [ "MovementInform", "d3/ddd/a17301.html#a32f4c5c48f1a63ded0ac9b8ee763090b", null ],
-    [ "SpellHitTarget", "d3/ddd/a17301.html#ae630b7b225379831d15a11f66507bc6a", null ],
-    [ "UpdateAI", "d3/ddd/a17301.html#a640aea9ce4a47dd13d417748e533fc33", null ],
-    [ "barrierGUID", "d3/ddd/a17301.html#a452c096475581c12bf2f4ccb12448026", null ],
-    [ "events", "d3/ddd/a17301.html#a1e1ab6c1d349a9543815a29ae185feec", null ],
-    [ "pInstance", "d3/ddd/a17301.html#aee9dac9efee94db3d84eb9c5fb8c88a2", null ]
+    [ "npc_tortured_rifleman", "d3/ddd/a17301.html#a5ab42b048c14838b6992716f62200c57", null ],
+    [ "AttackStart", "d3/ddd/a17301.html#a82f84e5b66d8cbcb25267e0eeb5ce65c", null ],
+    [ "DoAction", "d3/ddd/a17301.html#aafd02b19ba0280db3eacc21b24d3ceaa", null ],
+    [ "EnterEvadeMode", "d3/ddd/a17301.html#a1eddbbfa45174c05a24ad01f200983e3", null ],
+    [ "JustDied", "d3/ddd/a17301.html#abb8349f4f1c19a60c7566f1801ae3087", null ],
+    [ "JustEngagedWith", "d3/ddd/a17301.html#ab60cf1d4e6a58613a032b25b043aceea", null ],
+    [ "Reset", "d3/ddd/a17301.html#a04210cb211db92a1be6de7bc28953953", null ],
+    [ "UpdateAI", "d3/ddd/a17301.html#aa794584f9a842f9725f1f926b4099181", null ]
 ];

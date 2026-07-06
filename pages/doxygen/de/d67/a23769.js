@@ -1,6 +1,8 @@
 var a23769 =
 [
-    [ "npc_mature_netherwing_drakeAI", "dd/d24/a23773.html", "dd/d24/a23773" ],
-    [ "npc_mature_netherwing_drake", "de/d67/a23769.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "de/d67/a23769.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "instance_mechanar_InstanceMapScript", "de/d67/a23769.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "de/d67/a23769.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "de/d67/a23769.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "de/d67/a23769.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "de/d67/a23769.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

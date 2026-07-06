@@ -1,8 +1,9 @@
 var a12865 =
 [
-    [ "npc_lava_spawn", "d8/db5/a12865.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "d8/db5/a12865.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "d8/db5/a12865.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "d8/db5/a12865.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "d8/db5/a12865.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "FilterTargets", "d8/db5/a12865.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d8/db5/a12865.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d8/db5/a12865.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d8/db5/a12865.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d8/db5/a12865.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d8/db5/a12865.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

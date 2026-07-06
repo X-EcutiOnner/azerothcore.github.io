@@ -1,9 +1,8 @@
 var a09893 =
 [
-    [ "BroadcastTextID", "d9/d73/a09893.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d9/d73/a09893.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d9/d73/a09893.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d9/d73/a09893.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d9/d73/a09893.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d9/d73/a09893.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "flags", "d9/d73/a09893.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d9/d73/a09893.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d9/d73/a09893.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d9/d73/a09893.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d9/d73/a09893.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

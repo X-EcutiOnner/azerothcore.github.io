@@ -1,10 +1,9 @@
 var a02507 =
 [
-    [ "AddGossipItemFor", "de/dbd/a02507.html#a21e32e886a589c9093660b3c4c58f72c", null ],
-    [ "AddGossipItemFor", "de/dbd/a02507.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
-    [ "AddGossipItemFor", "de/dbd/a02507.html#acd7e8e52a911742a99728cf9408e23b8", null ],
-    [ "ClearGossipMenuFor", "de/dbd/a02507.html#af077a82741577a63a075c7d40b3b3dc5", null ],
-    [ "CloseGossipMenuFor", "de/dbd/a02507.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
-    [ "SendGossipMenuFor", "de/dbd/a02507.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "de/dbd/a02507.html#ab43ecd551b53630add88fbf882236f78", null ]
+    [ "ePoints", "de/dbd/a02507.html#a2604bd06487e34b78d3e50cd892f3c4d", [
+      [ "POINT_LAST_POINT", "dd/df4/a02510.html#a2604bd06487e34b78d3e50cd892f3c4da7d10089a0c5a8c42786b90cd3ba643cb", null ],
+      [ "POINT_HOME", "dd/df4/a02510.html#a2604bd06487e34b78d3e50cd892f3c4da032be97ee26935943c3313fb24491162", null ],
+      [ "POINT_COMBAT_START", "de/dbd/a02507.html#a2604bd06487e34b78d3e50cd892f3c4da91adf90069f0b0a515897fbdc91e20b4", null ]
+    ] ],
+    [ "MAX_PLAYER_DISTANCE", "de/dbd/a02507.html#acd0b392fc88f24b24201fba8b76d33a2", null ]
 ];

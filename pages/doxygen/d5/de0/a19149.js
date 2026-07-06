@@ -1,7 +1,9 @@
 var a19149 =
 [
-    [ "HandleScript", "d5/de0/a19149.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "d5/de0/a19149.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "d5/de0/a19149.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "d5/de0/a19149.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "d5/de0/a19149.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "d5/de0/a19149.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "d5/de0/a19149.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "d5/de0/a19149.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "d5/de0/a19149.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "d5/de0/a19149.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

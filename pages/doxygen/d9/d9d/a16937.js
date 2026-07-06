@@ -1,5 +1,7 @@
 var a16937 =
 [
-    [ "achievement_better_off_dred", "d9/d9d/a16937.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
-    [ "OnCheck", "d9/d9d/a16937.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d9d/a16937.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d9/d9d/a16937.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d9/d9d/a16937.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d9/d9d/a16937.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

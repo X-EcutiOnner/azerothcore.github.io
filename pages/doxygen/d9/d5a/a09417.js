@@ -1,12 +1,13 @@
 var a09417 =
 [
-    [ "flags", "d9/d5a/a09417.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d9/d5a/a09417.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d9/d5a/a09417.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d9/d5a/a09417.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d9/d5a/a09417.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d9/d5a/a09417.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d9/d5a/a09417.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d9/d5a/a09417.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d9/d5a/a09417.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "QuestPOI", "d9/d5a/a09417.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "d9/d5a/a09417.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "d9/d5a/a09417.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "d9/d5a/a09417.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "d9/d5a/a09417.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "d9/d5a/a09417.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "d9/d5a/a09417.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "d9/d5a/a09417.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "d9/d5a/a09417.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "d9/d5a/a09417.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

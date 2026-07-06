@@ -1,14 +1,8 @@
 var a14185 =
 [
-    [ "npc_harrison_jones", "de/d40/a14185.html#ae408c9533166f8919c121053a3efff6c", null ],
-    [ "DoAction", "de/d40/a14185.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
-    [ "JustEngagedWith", "de/d40/a14185.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
-    [ "MovementInform", "de/d40/a14185.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
-    [ "OpenMassiveGateAndCallGuards", "de/d40/a14185.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
-    [ "Reset", "de/d40/a14185.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
-    [ "sGossipSelect", "de/d40/a14185.html#ae56b80041fa198063a9ce87729142420", null ],
-    [ "SpellHit", "de/d40/a14185.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
-    [ "UpdateAI", "de/d40/a14185.html#a0c64f294257e98522e0f32171aee6080", null ],
-    [ "_instance", "de/d40/a14185.html#adb995a4b18607a5bd7555ce6989c2525", null ],
-    [ "_phase", "de/d40/a14185.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
+    [ "npc_varian_wrynnAI", "dd/d3d/a14189.html", "dd/d3d/a14189" ],
+    [ "npc_varian_wrynn", "de/d40/a14185.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "de/d40/a14185.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "de/d40/a14185.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "de/d40/a14185.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

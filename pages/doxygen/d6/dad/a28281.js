@@ -1,5 +1,7 @@
 var a28281 =
 [
-    [ "npc_suns_reach_reclamation", "d6/dad/a28281.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d6/dad/a28281.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "npc_riggle_bassbaitAI", "d6/dad/a28281.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d6/dad/a28281.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d6/dad/a28281.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d6/dad/a28281.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

@@ -1,6 +1,5 @@
 var a17509 =
 [
-    [ "AddExtraDamage", "d1/d95/a17509.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d1/d95/a17509.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d1/d95/a17509.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "at_tyrannus_event_starter", "d1/d95/a17509.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "d1/d95/a17509.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

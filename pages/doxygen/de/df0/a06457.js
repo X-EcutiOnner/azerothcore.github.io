@@ -1,9 +1,8 @@
 var a06457 =
 [
-    [ "AISpellInfoType", "de/df0/a06457.html#a3b6d2057522e7b79c87a16d4b9cced98", null ],
-    [ "condition", "de/df0/a06457.html#af357bcc7eaeaf88a107a6309c468d53d", null ],
-    [ "cooldown", "de/df0/a06457.html#a6ea49fdc98ece29ceee63352424e9366", null ],
-    [ "maxRange", "de/df0/a06457.html#ab421f918f3cb479d2d0390cd98cdeae3", null ],
-    [ "realCooldown", "de/df0/a06457.html#a3ee8081ca5749ef9b5991a5505104ee9", null ],
-    [ "target", "de/df0/a06457.html#a8f9c1d3fbbabc73f4b47ffe21e7a06c4", null ]
+    [ "GuardAI", "de/df0/a06457.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "de/df0/a06457.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "de/df0/a06457.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "de/df0/a06457.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "de/df0/a06457.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

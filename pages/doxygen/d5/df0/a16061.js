@@ -1,6 +1,6 @@
 var a16061 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d8/d9d/a16065.html", "d8/d9d/a16065" ],
-    [ "npc_shadowpriest_sezziz", "d5/df0/a16061.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
-    [ "GetAI", "d5/df0/a16061.html#a1513b766f18dbc290b6682582fd33b1d", null ]
+    [ "npc_aquementasAI", "d8/d9d/a16065.html", "d8/d9d/a16065" ],
+    [ "npc_aquementas", "d5/df0/a16061.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "d5/df0/a16061.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

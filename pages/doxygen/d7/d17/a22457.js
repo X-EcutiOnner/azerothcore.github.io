@@ -1,7 +1,6 @@
 var a22457 =
 [
-    [ "PrepareAuraScript", "d7/d17/a22457.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d7/d17/a22457.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d7/d17/a22457.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d7/d17/a22457.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "df/db9/a22461.html", "df/db9/a22461" ],
+    [ "instance_mana_tombs", "d7/d17/a22457.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d7/d17/a22457.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

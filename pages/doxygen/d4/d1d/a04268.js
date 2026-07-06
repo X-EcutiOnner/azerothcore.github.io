@@ -1,6 +1,6 @@
 var a04268 =
 [
-    [ "DatabaseWorkerPool< T >", "dd/d51/a06023.html", "dd/d51/a06023" ],
-    [ "MIN_MYSQL_CLIENT_VERSION", "d4/d1d/a04268.html#abfde8cf59610848eff4ea61d09bb8ca7", null ],
-    [ "MIN_MYSQL_SERVER_VERSION", "d4/d1d/a04268.html#acd4a83e86313ca0bb35cb66497bc79b2", null ]
+    [ "CharacterDatabase", "d4/d1d/a04268.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "d4/d1d/a04268.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "d4/d1d/a04268.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

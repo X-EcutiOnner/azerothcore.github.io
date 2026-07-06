@@ -1,11 +1,13 @@
 var a13245 =
 [
-    [ "npc_scarlet_ghoulAI", "db/df1/a13245.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "db/df1/a13245.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "db/df1/a13245.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "db/df1/a13245.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "db/df1/a13245.html#aa7f73c3a1ab4938c1037c0bdd38b6db1", null ],
-    [ "UpdateAI", "db/df1/a13245.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "db/df1/a13245.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "db/df1/a13245.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_roar", "db/df1/a13245.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "db/df1/a13245.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "db/df1/a13245.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "db/df1/a13245.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "db/df1/a13245.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "db/df1/a13245.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "db/df1/a13245.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "db/df1/a13245.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "db/df1/a13245.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "db/df1/a13245.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

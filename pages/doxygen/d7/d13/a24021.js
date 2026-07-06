@@ -1,10 +1,6 @@
 var a24021 =
 [
-    [ "npc_pet_hunter_snake_trap", "d7/d13/a24021.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "InitializeAI", "d7/d13/a24021.html#a91931c2ac0fd4981f9bf8a2f8f7db672", null ],
-    [ "JustEngagedWith", "d7/d13/a24021.html#a695af9c49daa05c787dac03c4af91645", null ],
-    [ "MoveInLineOfSight", "d7/d13/a24021.html#a099a34f12399fe24349644da3dafe7a4", null ],
-    [ "UpdateAI", "d7/d13/a24021.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_isViper", "d7/d13/a24021.html#ab49c69ca25014ef63e775b236255e4c1", null ],
-    [ "_spellTimer", "d7/d13/a24021.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "npc_torloth_the_magnificentAI", "d3/dcd/a24025.html", "d3/dcd/a24025" ],
+    [ "npc_torloth_the_magnificent", "d7/d13/a24021.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
+    [ "GetAI", "d7/d13/a24021.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
 ];

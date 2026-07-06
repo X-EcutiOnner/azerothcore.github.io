@@ -1,5 +1,11 @@
 var a13189 =
 [
-    [ "boss_yazzai", "d7/d19/a13189.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
-    [ "JustEngagedWith", "d7/d19/a13189.html#ab504de0e51a3715485eb65e006352a6f", null ]
+    [ "boss_tenris_mirkblood", "d7/d19/a13189.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d7/d19/a13189.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d7/d19/a13189.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d7/d19/a13189.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d7/d19/a13189.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d7/d19/a13189.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d7/d19/a13189.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d7/d19/a13189.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

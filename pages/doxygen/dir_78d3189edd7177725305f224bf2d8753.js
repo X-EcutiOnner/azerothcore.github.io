@@ -1,7 +1,7 @@
 var dir_78d3189edd7177725305f224bf2d8753 =
 [
-    [ "ChatTextBuilder.cpp", "da/d33/a04079.html", null ],
-    [ "ChatTextBuilder.h", "d0/d0f/a04085.html", "d0/d0f/a04085" ],
-    [ "CreatureTextMgr.cpp", "db/d64/a04082.html", "db/d64/a04082" ],
-    [ "CreatureTextMgr.h", "d2/d9c/a04076.html", "d2/d9c/a04076" ]
+    [ "ChatTextBuilder.cpp", "dd/d44/a04097.html", null ],
+    [ "ChatTextBuilder.h", "de/d1c/a04103.html", "de/d1c/a04103" ],
+    [ "CreatureTextMgr.cpp", "d1/da3/a04100.html", "d1/da3/a04100" ],
+    [ "CreatureTextMgr.h", "df/d4e/a04094.html", "df/d4e/a04094" ]
 ];

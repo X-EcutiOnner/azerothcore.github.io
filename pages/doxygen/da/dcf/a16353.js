@@ -1,13 +1,9 @@
 var a16353 =
 [
-    [ "boss_twilight_halionAI", "da/dcf/a16353.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "da/dcf/a16353.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "da/dcf/a16353.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "da/dcf/a16353.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "da/dcf/a16353.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "da/dcf/a16353.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "da/dcf/a16353.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "da/dcf/a16353.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "da/dcf/a16353.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "da/dcf/a16353.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "npc_anub_ar_crusher", "da/dcf/a16353.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
+    [ "DamageTaken", "da/dcf/a16353.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
+    [ "DoEngagedWith", "da/dcf/a16353.html#a70238afe4b9ae58b99067581db6734c8", null ],
+    [ "DoEvent", "da/dcf/a16353.html#ac20630563a1869f56f538968cb8bb1ea", null ],
+    [ "JustDied", "da/dcf/a16353.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
+    [ "_hadFrenzy", "da/dcf/a16353.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
 ];

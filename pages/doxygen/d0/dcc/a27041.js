@@ -1,5 +1,7 @@
 var a27041 =
 [
-    [ "EarthenPowerTargetSelector", "d0/dcc/a27041.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "d0/dcc/a27041.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleDummy", "d0/dcc/a27041.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
+    [ "PrepareSpellScript", "d0/dcc/a27041.html#ac293d1c1aac41808f81cad2974424c2e", null ],
+    [ "Register", "d0/dcc/a27041.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
+    [ "Validate", "d0/dcc/a27041.html#aa725a6ee483dfac46724d291de4ee54b", null ]
 ];

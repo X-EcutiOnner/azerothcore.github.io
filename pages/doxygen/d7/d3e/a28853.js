@@ -1,5 +1,6 @@
 var a28853 =
 [
-    [ "Id", "d7/d3e/a28853.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
-    [ "PowerType", "d7/d3e/a28853.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
+    [ "ChannelID", "d7/d3e/a28853.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d7/d3e/a28853.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d7/d3e/a28853.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

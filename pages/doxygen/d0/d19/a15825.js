@@ -1,10 +1,7 @@
 var a15825 =
 [
-    [ "CreatureId", "d0/d19/a15825.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d0/d19/a15825.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d0/d19/a15825.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d0/d19/a15825.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d0/d19/a15825.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d0/d19/a15825.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d0/d19/a15825.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "HandleEffectRemove", "d0/d19/a15825.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d0/d19/a15825.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d0/d19/a15825.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d0/d19/a15825.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

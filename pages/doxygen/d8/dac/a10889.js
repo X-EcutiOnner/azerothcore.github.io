@@ -1,11 +1,6 @@
 var a10889 =
 [
-    [ "BackgroundColor", "d8/dac/a10889.html#abab86dd497de86088873178bf1d54b5b", null ],
-    [ "BorderColor", "d8/dac/a10889.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
-    [ "BorderStyle", "d8/dac/a10889.html#acd5105c31e0f56e680f3384e86186872", null ],
-    [ "EmblemColor", "d8/dac/a10889.html#a2e8a4768292d3566bb61009056a8a230", null ],
-    [ "EmblemStyle", "d8/dac/a10889.html#aa6309467f9f09725a8698de864b4e63c", null ],
-    [ "GuildName", "d8/dac/a10889.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
-    [ "RankCount", "d8/dac/a10889.html#acddb77850a86348df197afc724c4eaa0", null ],
-    [ "Ranks", "d8/dac/a10889.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
+    [ "BuyBankSlot", "d8/dac/a10889.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d8/dac/a10889.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d8/dac/a10889.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

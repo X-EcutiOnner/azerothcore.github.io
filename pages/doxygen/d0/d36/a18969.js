@@ -1,9 +1,13 @@
 var a18969 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d0/d36/a18969.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d0/d36/a18969.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d0/d36/a18969.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d0/d36/a18969.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d0/d36/a18969.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d0/d36/a18969.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_highlord_tirion_fordringAI", "d0/d36/a18969.html#a8852f9196a6609f317b6113ac2eee9ee", null ],
+    [ "Reset", "d0/d36/a18969.html#a80051b1b2a663997304b1754a3f9ff25", null ],
+    [ "SetData", "d0/d36/a18969.html#a5642aab7afc50a7494c43ae7a130d571", null ],
+    [ "UpdateAI", "d0/d36/a18969.html#ac3c8dc2e5bf6e0c3f380f395a785ad49", null ],
+    [ "_bolvarFordragon", "d0/d36/a18969.html#a8e8ae990a6e70a70ce6de3a13300261c", null ],
+    [ "_damnedKills", "d0/d36/a18969.html#a56e035884d2ab94629c133efc1fc8feb", null ],
+    [ "_events", "d0/d36/a18969.html#a8d8d6f1b8dc65b28a8117426e3767762", null ],
+    [ "_factionNPC", "d0/d36/a18969.html#acf9a436edcbfe3fcf47f56c5cf90cfb2", null ],
+    [ "_instance", "d0/d36/a18969.html#acd16d6200b08df23576aa9ccbb060d31", null ],
+    [ "_theLichKing", "d0/d36/a18969.html#afbe85d7002e34cfcb9414f2beda4e0a2", null ]
 ];

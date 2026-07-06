@@ -1,6 +1,6 @@
 var a11213 =
 [
-    [ "ItemRefundInfo", "da/dfa/a11213.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "da/dfa/a11213.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "da/dfa/a11213.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "ResetFailedNotify", "da/dfa/a11213.html#a82e12a0f207590b6176253cf36a22d2f", null ],
+    [ "Write", "da/dfa/a11213.html#af03055514ef0e1e97f24c66d2cd94185", null ],
+    [ "MapId", "da/dfa/a11213.html#a17f065fc6d5438d74f38bde67a841be7", null ]
 ];

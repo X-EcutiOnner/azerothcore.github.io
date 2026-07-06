@@ -1,8 +1,7 @@
 var a18397 =
 [
-    [ "NecroticPlagueTargetCheck", "d3/db9/a18397.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "d3/db9/a18397.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "d3/db9/a18397.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "d3/db9/a18397.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "d3/db9/a18397.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "FrostBombExplosion", "d3/db9/a18397.html#ac7d318e241e6442e8aa084b27ea50236", null ],
+    [ "Execute", "d3/db9/a18397.html#a0b6521266f18b621260286c530ff3f36", null ],
+    [ "_owner", "d3/db9/a18397.html#aa9ff39ce43c351e8815f895896fa759b", null ],
+    [ "_sindragosaGUID", "d3/db9/a18397.html#a5afc3d543c8fa457c90735f841aa161c", null ]
 ];

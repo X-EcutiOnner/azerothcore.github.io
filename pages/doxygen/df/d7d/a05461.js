@@ -1,11 +1,11 @@
 var a05461 =
 [
-    [ "Record", "df/d7d/a05461.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "df/d7d/a05461.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "df/d7d/a05461.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "df/d7d/a05461.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "df/d7d/a05461.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "df/d7d/a05461.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "df/d7d/a05461.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "df/d7d/a05461.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "ARC4", "df/d7d/a05461.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "df/d7d/a05461.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "df/d7d/a05461.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "df/d7d/a05461.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "df/d7d/a05461.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "df/d7d/a05461.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "df/d7d/a05461.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "df/d7d/a05461.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

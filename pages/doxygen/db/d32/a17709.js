@@ -1,6 +1,6 @@
 var a17709 =
 [
-    [ "npc_stinky_iccAI", "d0/d1b/a17713.html", "d0/d1b/a17713" ],
-    [ "npc_stinky_icc", "db/d32/a17709.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "db/d32/a17709.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "ChangeSummonPos", "db/d32/a17709.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "db/d32/a17709.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "db/d32/a17709.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

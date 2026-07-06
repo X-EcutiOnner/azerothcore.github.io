@@ -1,10 +1,6 @@
 var a19417 =
 [
-    [ "npc_power_spark", "da/d14/a19417.html#a97ec0ed1157578fb7e1d8c4e146b2a4f", null ],
-    [ "DamageTaken", "da/d14/a19417.html#afe33d511823666929232bfd0179ee72a", null ],
-    [ "DoAction", "da/d14/a19417.html#ab99a859ee718d49ce59171e7e7159abc", null ],
-    [ "UpdateAI", "da/d14/a19417.html#ab36e75c87aa262a57be1594289284730", null ],
-    [ "_checkTimer", "da/d14/a19417.html#ae63f0f359037363b840fe51a797969b5", null ],
-    [ "_instance", "da/d14/a19417.html#a776b7fef26fd67961b0fdf0596d7beb2", null ],
-    [ "_moveTimer", "da/d14/a19417.html#a52c953a524bb7f26c6713ac5d83eb068", null ]
+    [ "FilterTargets", "da/d14/a19417.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "da/d14/a19417.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "da/d14/a19417.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

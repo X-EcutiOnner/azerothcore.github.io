@@ -1,6 +1,5 @@
 var a11525 =
 [
-    [ "WorldSessionFilter", "d4/dc0/a11525.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d4/dc0/a11525.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d4/dc0/a11525.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "QuestLogFull", "d4/dc0/a11525.html#ac268090c33720d1975c3538acfe0ce7f", null ],
+    [ "Write", "d4/dc0/a11525.html#aab5d1b5ceb0e9fffd588d95d92640897", null ]
 ];

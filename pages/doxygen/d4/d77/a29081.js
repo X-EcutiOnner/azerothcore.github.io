@@ -1,9 +1,10 @@
 var a29081 =
 [
-    [ "flags", "d4/d77/a29081.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d4/d77/a29081.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d4/d77/a29081.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d4/d77/a29081.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d4/d77/a29081.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d4/d77/a29081.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "PvPDifficultyEntry", "d4/d77/a29081.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d4/d77/a29081.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d4/d77/a29081.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d4/d77/a29081.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d4/d77/a29081.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d4/d77/a29081.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d4/d77/a29081.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

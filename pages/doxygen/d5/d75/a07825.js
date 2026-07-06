@@ -1,10 +1,11 @@
 var a07825 =
 [
-    [ "value_type", "d5/d75/a07825.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
-    [ "operator()", "d5/d75/a07825.html#a51db58c653c279b30d19e9188894adec", null ],
-    [ "operator()", "d5/d75/a07825.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
-    [ "operator()", "d5/d75/a07825.html#ab516399a6965a67daed318a1058c87ef", null ],
-    [ "operator()", "d5/d75/a07825.html#abeeef774a78ec84f0020686aab425a5c", null ],
-    [ "operator()", "d5/d75/a07825.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
-    [ "operator()", "d5/d75/a07825.html#a4a277a9ad5764e42c53746999e004b88", null ]
+    [ "BattlegroundWGScore", "d5/d75/a07825.html#a43b7933c5e217376e5bb10e9b5bb208b", null ],
+    [ "BuildObjectivesBlock", "d5/d75/a07825.html#a804e56dbd666336d961cce2b0e4d6452", null ],
+    [ "GetAttr1", "d5/d75/a07825.html#aab49f39d88989b153f1eb979fbbfaeb3", null ],
+    [ "GetAttr2", "d5/d75/a07825.html#a191e205e08ef15cc36dabedc32614fd2", null ],
+    [ "UpdateScore", "d5/d75/a07825.html#aa560d7f5f13dd235d43a9e3571090055", null ],
+    [ "BattlegroundWS", "d5/d75/a07825.html#a4285b67c5d8593dce759422a4eb78c77", null ],
+    [ "FlagCaptures", "d5/d75/a07825.html#a23ff00f10d07c1a601e9e1d0eb05b1da", null ],
+    [ "FlagReturns", "d5/d75/a07825.html#ab400c9fb692ff157eb4809f0536c05f7", null ]
 ];

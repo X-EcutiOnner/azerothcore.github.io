@@ -1,7 +1,6 @@
 var a18905 =
 [
-    [ "HandleQuestComplete", "db/dfb/a18905.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "db/dfb/a18905.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "db/dfb/a18905.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "db/dfb/a18905.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "npc_gluttonous_abominationAI", "d0/d13/a18909.html", "d0/d13/a18909" ],
+    [ "npc_gluttonous_abomination", "db/dfb/a18905.html#a895d1afcfc62bcaac6cc0d20465f1e7a", null ],
+    [ "GetAI", "db/dfb/a18905.html#aedbd808da5e8ea0e2111e78be9d846ce", null ]
 ];

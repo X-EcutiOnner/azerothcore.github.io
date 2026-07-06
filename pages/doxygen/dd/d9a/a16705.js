@@ -1,6 +1,6 @@
 var a16705 =
 [
-    [ "npc_toc_mageAI", "db/dfc/a16709.html", "db/dfc/a16709" ],
-    [ "npc_toc_mage", "dd/d9a/a16705.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "dd/d9a/a16705.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "boss_black_knightAI", "db/dfc/a16709.html", "db/dfc/a16709" ],
+    [ "boss_black_knight", "dd/d9a/a16705.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "dd/d9a/a16705.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

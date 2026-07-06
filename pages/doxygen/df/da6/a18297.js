@@ -1,6 +1,6 @@
 var a18297 =
 [
-    [ "FilterTargets", "df/da6/a18297.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "df/da6/a18297.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "df/da6/a18297.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "OnRemove", "df/da6/a18297.html#ab9c21998c71991ff74e6dfcf4d32f126", null ],
+    [ "PrepareAuraScript", "df/da6/a18297.html#a8fb5803b07022f9bd3d246216bac5abb", null ],
+    [ "Register", "df/da6/a18297.html#afa993cb14444989feac16c9fa2d7b8df", null ]
 ];

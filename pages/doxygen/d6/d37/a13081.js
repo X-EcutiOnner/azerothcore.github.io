@@ -1,13 +1,12 @@
 var a13081 =
 [
-    [ "boss_crone", "d6/d37/a13081.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "d6/d37/a13081.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "d6/d37/a13081.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "d6/d37/a13081.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "d6/d37/a13081.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "d6/d37/a13081.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "d6/d37/a13081.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "d6/d37/a13081.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "d6/d37/a13081.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "d6/d37/a13081.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "BoardCell", "d6/d37/a13081.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "d6/d37/a13081.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "d6/d37/a13081.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "d6/d37/a13081.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "d6/d37/a13081.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "d6/d37/a13081.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "d6/d37/a13081.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "d6/d37/a13081.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "d6/d37/a13081.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

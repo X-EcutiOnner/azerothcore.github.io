@@ -1,12 +1,6 @@
 var a10305 =
 [
-    [ "RotateMovementGenerator", "d2/ddf/a10305.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "d2/ddf/a10305.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "d2/ddf/a10305.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "d2/ddf/a10305.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "d2/ddf/a10305.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "d2/ddf/a10305.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "d2/ddf/a10305.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "d2/ddf/a10305.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "d2/ddf/a10305.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "aiNotifyDelay", "d2/ddf/a10305.html#af70453021c5ded85c73a4d5559dca2ea", null ],
+    [ "requiredMoveDistanceSq", "d2/ddf/a10305.html#aaa4faa0170181e409940b5441eb2f586", null ],
+    [ "visibilityNotifyDelay", "d2/ddf/a10305.html#ad566fd5eff102929247b75cf5092a60b", null ]
 ];

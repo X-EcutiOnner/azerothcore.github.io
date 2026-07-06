@@ -1,9 +1,10 @@
 var a09793 =
 [
-    [ "WorldPacketList", "dd/dd6/a09793.html#a27bf64080270086d6dbc752f8d96ec4c", null ],
-    [ "LocalizedPacketListDo", "dd/dd6/a09793.html#ab52133e238752f725f18580018a84cd2", null ],
-    [ "~LocalizedPacketListDo", "dd/dd6/a09793.html#a8442452027bcb5c98d60830e016803b5", null ],
-    [ "operator()", "dd/dd6/a09793.html#adea9610e36d436563ba1f472481aed85", null ],
-    [ "i_builder", "dd/dd6/a09793.html#a83bda52b10d30f7fd633c285b79e740b", null ],
-    [ "i_data_cache", "dd/dd6/a09793.html#ae2ec6175868c4c82274ce7a623a954a3", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dd/dd6/a09793.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "dd/dd6/a09793.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "dd/dd6/a09793.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "dd/dd6/a09793.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "dd/dd6/a09793.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "dd/dd6/a09793.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "dd/dd6/a09793.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

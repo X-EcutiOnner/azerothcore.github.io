@@ -1,8 +1,6 @@
 var a03215 =
 [
-    [ "PLAYER_FLIGHT_SPEED", "d9/d65/a03215.html#a2efde26aed42919892139c2ffb51b279", null ],
-    [ "SKIP_SPLINE_POINT_DISTANCE_SQ", "d9/d65/a03215.html#a55b33fb4c6265551b0327903da9bff4c", null ],
-    [ "IsNodeIncludedInShortenedPath", "d9/d65/a03215.html#a47a5affa854677472690918c4d16f998", null ],
-    [ "PositionToVector3", "d9/d65/a03215.html#ac0d2ec1868bbb7a72904410f1efeaaca", null ],
-    [ "UpdateHomePosition", "d9/d65/a03215.html#a2cfd2302ba925854b6edc6af49bcb40a", null ]
+    [ "PointMovementGenerator< T >", "d8/d3e/a10409.html", "d8/d3e/a10409" ],
+    [ "AssistanceMovementGenerator", "de/d40/a10413.html", "de/d40/a10413" ],
+    [ "EffectMovementGenerator", "dc/dcf/a10417.html", "dc/dcf/a10417" ]
 ];

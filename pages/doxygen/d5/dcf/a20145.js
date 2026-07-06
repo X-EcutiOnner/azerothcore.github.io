@@ -1,6 +1,7 @@
 var a20145 =
 [
-    [ "npc_ulduar_toasty_fire", "d5/dcf/a20145.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
-    [ "DoAction", "d5/dcf/a20145.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
-    [ "SpellHit", "d5/dcf/a20145.html#ad1ac241490db52177ae13640d7ae3eec", null ]
+    [ "npc_storm_beacon_spawn", "d5/dcf/a20145.html#a999b6421a0ef6eec2987716a60352a5e", null ],
+    [ "UpdateAI", "d5/dcf/a20145.html#a93dbd7a26d6333f18329142280cc743d", null ],
+    [ "_amount", "d5/dcf/a20145.html#acb5d1f2b6590da32f36882339729c4e9", null ],
+    [ "_checkTimer", "d5/dcf/a20145.html#a9717b52f26045707fd852b955d29a5e6", null ]
 ];

@@ -1,7 +1,5 @@
 var a11089 =
 [
-    [ "GuildBankSetTabText", "d8/d58/a11089.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d8/d58/a11089.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d8/d58/a11089.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d8/d58/a11089.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "GuildDelete", "d8/d58/a11089.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "d8/d58/a11089.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

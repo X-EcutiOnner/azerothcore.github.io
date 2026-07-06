@@ -1,7 +1,12 @@
 var a23397 =
 [
-    [ "CastQuill", "d6/dd2/a23397.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d6/dd2/a23397.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d6/dd2/a23397.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d6/dd2/a23397.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "boss_watchkeeper_gargolmar", "d6/dd2/a23397.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d6/dd2/a23397.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d6/dd2/a23397.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d6/dd2/a23397.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d6/dd2/a23397.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d6/dd2/a23397.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d6/dd2/a23397.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d6/dd2/a23397.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d6/dd2/a23397.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

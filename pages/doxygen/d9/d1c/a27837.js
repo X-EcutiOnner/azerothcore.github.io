@@ -1,5 +1,7 @@
 var a27837 =
 [
-    [ "go_sacred_fire_of_life", "d9/d1c/a27837.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d9/d1c/a27837.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "CharacterDeleteActionIpLogger", "d9/d1c/a27837.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d9/d1c/a27837.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d9/d1c/a27837.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d9/d1c/a27837.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

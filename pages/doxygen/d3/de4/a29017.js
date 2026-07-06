@@ -1,5 +1,6 @@
 var a29017 =
 [
-    [ "areatableID", "d3/de4/a29017.html#a991f3242c87939be42d107d6908f441d", null ],
-    [ "ID", "d3/de4/a29017.html#ac57c444da58dea7227bd26e0f6b7bbff", null ]
+    [ "ID", "d3/de4/a29017.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d3/de4/a29017.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d3/de4/a29017.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

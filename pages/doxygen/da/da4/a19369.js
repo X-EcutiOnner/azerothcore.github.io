@@ -1,8 +1,5 @@
 var a19369 =
 [
-    [ "HandleDamage", "da/da4/a19369.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "da/da4/a19369.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "da/da4/a19369.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "da/da4/a19369.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "da/da4/a19369.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "PrepareSpellScript", "da/da4/a19369.html#a09b852666752f6adde3f9e5bb1f107bc", null ],
+    [ "Register", "da/da4/a19369.html#a80c3077f8f689367276e1054a6236681", null ]
 ];

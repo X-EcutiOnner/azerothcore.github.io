@@ -1,6 +1,8 @@
 var a18601 =
 [
-    [ "HandleScript", "db/da7/a18601.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "db/da7/a18601.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "db/da7/a18601.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "FilterTargets", "db/da7/a18601.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "db/da7/a18601.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "db/da7/a18601.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "db/da7/a18601.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "db/da7/a18601.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

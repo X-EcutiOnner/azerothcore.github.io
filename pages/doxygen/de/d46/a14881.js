@@ -1,15 +1,7 @@
 var a14881 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "de/d46/a14881.html#aef8e98b85dfc93a1e9405fbbce084e3f", null ],
-    [ "Initialize", "de/d46/a14881.html#a11b698907ffea5dd1a165a35d2c23dd0", null ],
-    [ "IsFireEventDone", "de/d46/a14881.html#aadba63a6fa6025858e78712892e4a343", null ],
-    [ "OnCreatureCreate", "de/d46/a14881.html#ab5e452958bc474e60fd3f637595629c1", null ],
-    [ "OnGameObjectCreate", "de/d46/a14881.html#ae96ecf6e1b4ca99f2b3fc3ace5cbf81b", null ],
-    [ "OnUnitDeath", "de/d46/a14881.html#a163178ce8e79aa0bc082172465527173", null ],
-    [ "ReadSaveDataMore", "de/d46/a14881.html#a1b045bbe6c337e726158e64375fa9fe7", null ],
-    [ "SetData", "de/d46/a14881.html#a79fcee240fbd9190b0b66fd4bf7955d9", null ],
-    [ "WriteSaveDataMore", "de/d46/a14881.html#abaa419d432ef6d0d96487c8d9ebcb630", null ],
-    [ "_akumaiPortalGUID", "de/d46/a14881.html#a37b3647e927798d77a17f99976910b4b", null ],
-    [ "_encounters", "de/d46/a14881.html#a4cfd6047351fd144ba96627889a3e9cd", null ],
-    [ "_requiredDeaths", "de/d46/a14881.html#a3aade6e7fb756b84180876b4ba086376", null ]
+    [ "go_loosely_turned_soilAI", "d6/d9e/a14885.html", "d6/d9e/a14885" ],
+    [ "go_loosely_turned_soil", "de/d46/a14881.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "de/d46/a14881.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "de/d46/a14881.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

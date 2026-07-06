@@ -1,11 +1,9 @@
 var a16457 =
 [
-    [ "boss_saviana_ragefireAI", "d4/d19/a16457.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
-    [ "JustDied", "d4/d19/a16457.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
-    [ "JustEngagedWith", "d4/d19/a16457.html#a458eb370872c20441b5ec6ecd2c97500", null ],
-    [ "JustReachedHome", "d4/d19/a16457.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
-    [ "KilledUnit", "d4/d19/a16457.html#ac07513681c72d6748246cc7c349d117c", null ],
-    [ "MovementInform", "d4/d19/a16457.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
-    [ "Reset", "d4/d19/a16457.html#a4b7f103331c566cbf007a075161505af", null ],
-    [ "UpdateAI", "d4/d19/a16457.html#af36ca2a359f950a10214d07aad240324", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d19/a16457.html#a17e64475b7433b3dc0d87028c11c9c7f", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d19/a16457.html#a62a5603b9063b4cbb773eb177aa2d0bc", null ],
+    [ "DoAction", "d4/d19/a16457.html#abc08b37f23721ff2ce7a6662605a66ab", null ],
+    [ "GetGuidData", "d4/d19/a16457.html#a01da8216f57e19b5bf8697700089118c", null ],
+    [ "m_uiPortalGUID", "d4/d19/a16457.html#a166db22fd409d0387085053852e5ad30", null ],
+    [ "portalCount", "d4/d19/a16457.html#ab7cec8a8a80713e436e4e4e80c5c1383", null ]
 ];

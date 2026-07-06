@@ -1,6 +1,6 @@
 var a24805 =
 [
-    [ "PrepareSpellScript", "d6/dc4/a24805.html#a47d6dbe250410458fe54421158545efb", null ],
-    [ "Register", "d6/dc4/a24805.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
-    [ "SetDest", "d6/dc4/a24805.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
+    [ "CheckProc", "d6/dc4/a24805.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "d6/dc4/a24805.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "d6/dc4/a24805.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

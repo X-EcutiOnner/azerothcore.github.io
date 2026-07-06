@@ -1,5 +1,6 @@
 var a10909 =
 [
-    [ "GuildGetRoster", "d9/da7/a10909.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d9/da7/a10909.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "ArenaTeam", "d9/da7/a10909.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
+    [ "Read", "d9/da7/a10909.html#a9953d33b35eca1b91ed1618609c6acea", null ],
+    [ "ArenaTeamId", "d9/da7/a10909.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
 ];

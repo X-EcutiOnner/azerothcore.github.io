@@ -1,6 +1,7 @@
 var a13293 =
 [
-    [ "npc_acherus_necromancerAI", "d0/d0a/a13297.html", "d0/d0a/a13297" ],
-    [ "npc_acherus_necromancer", "dd/d87/a13293.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "dd/d87/a13293.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "PeriodicTick", "dd/d87/a13293.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "dd/d87/a13293.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "dd/d87/a13293.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "dd/d87/a13293.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

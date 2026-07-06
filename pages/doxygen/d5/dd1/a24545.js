@@ -1,6 +1,7 @@
 var a24545 =
 [
-    [ "HandleHeal", "d5/dd1/a24545.html#a682a496d59201774de50951ffd2c7c0d", null ],
-    [ "PrepareSpellScript", "d5/dd1/a24545.html#a10dd1c0f67ff07f8e35ba0322c934899", null ],
-    [ "Register", "d5/dd1/a24545.html#abc29f509e703f3807241b63f728a69af", null ]
+    [ "AfterApply", "d5/dd1/a24545.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d5/dd1/a24545.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d5/dd1/a24545.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d5/dd1/a24545.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

@@ -1,22 +1,14 @@
 var a19681 =
 [
-    [ "boss_volkhan", "d8/d26/a19681.html#aed5ec3ddb0fcff2a96d8ef8c0135b728", null ],
-    [ "DoAction", "d8/d26/a19681.html#a51f1c6cf70be4f7c534b04c8663b3b46", null ],
-    [ "GetNextPos", "d8/d26/a19681.html#a26e6fea3ae1c0cd17bc57b9ff1ccefa6", null ],
-    [ "GoToAnvil", "d8/d26/a19681.html#a7c4550a151110cd0a1224629726f846e", null ],
-    [ "HasActiveGolem", "d8/d26/a19681.html#a31f94b488a7c659af73fd68f58d0a8ed", null ],
-    [ "JustDied", "d8/d26/a19681.html#acc8230a2351ae0fb2309071a03a32ded", null ],
-    [ "JustEngagedWith", "d8/d26/a19681.html#a455d3fa27b8923dc74a676e10ff3ec46", null ],
-    [ "JustSummoned", "d8/d26/a19681.html#a4028f7914da8580382348e444c0107c0", null ],
-    [ "KilledUnit", "d8/d26/a19681.html#aac8893e2caa527ad4949a88121d38075", null ],
-    [ "MovementInform", "d8/d26/a19681.html#ab17e425121949c9229b689676bd106c2", null ],
-    [ "Reset", "d8/d26/a19681.html#a3f12d464fa4d471f905962ed9fc4237e", null ],
-    [ "SpellHitTarget", "d8/d26/a19681.html#a87e14a0076a263b160d00d917e5fde2e", null ],
-    [ "UpdateAI", "d8/d26/a19681.html#a6ab1851c270e58d0157949fd323aa693", null ],
-    [ "PointID", "d8/d26/a19681.html#adfc8f7e938fdb89e3961bb8e5346ad49", null ],
-    [ "ShatteredCount", "d8/d26/a19681.html#ab309004bce968bb858722b6bb1936b97", null ],
-    [ "shatteredStompCast", "d8/d26/a19681.html#aa31c9cab5a6d0b053dcbb59eed250cff", null ],
-    [ "x", "d8/d26/a19681.html#a3c8fcf00e363b3c195ce29c49fbb12c8", null ],
-    [ "y", "d8/d26/a19681.html#aa61700b296b51c758e34753251f9c626", null ],
-    [ "z", "d8/d26/a19681.html#a78e5238c287a005f79764c221a38ee41", null ]
+    [ "boss_magus_telestra", "d8/d26/a19681.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d8/d26/a19681.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d8/d26/a19681.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d8/d26/a19681.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d8/d26/a19681.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d8/d26/a19681.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d8/d26/a19681.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d8/d26/a19681.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d8/d26/a19681.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d8/d26/a19681.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d8/d26/a19681.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ]
 ];

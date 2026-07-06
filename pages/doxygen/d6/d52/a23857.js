@@ -1,6 +1,6 @@
 var a23857 =
 [
-    [ "CheckRequirement", "d6/d52/a23857.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d6/d52/a23857.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d6/d52/a23857.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_wounded_blood_elfAI", "df/da5/a23861.html", "df/da5/a23861" ],
+    [ "npc_wounded_blood_elf", "d6/d52/a23857.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d6/d52/a23857.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

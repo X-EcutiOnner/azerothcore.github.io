@@ -1,8 +1,8 @@
 var a11281 =
 [
-    [ "CrossedInebriationThreshold", "d7/ddc/a11281.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
-    [ "Write", "d7/ddc/a11281.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
-    [ "Guid", "d7/ddc/a11281.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
-    [ "ItemID", "d7/ddc/a11281.html#a9e48a650bf21872099cdb0626e875fd7", null ],
-    [ "Threshold", "d7/ddc/a11281.html#a87b756b64cbfb8f292f46cce38308095", null ]
+    [ "AutoStoreBagItem", "d7/ddc/a11281.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d7/ddc/a11281.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d7/ddc/a11281.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d7/ddc/a11281.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d7/ddc/a11281.html#a517202ccb270d78289630404beb61afc", null ]
 ];

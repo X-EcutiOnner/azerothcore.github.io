@@ -1,6 +1,6 @@
 var a12017 =
 [
-    [ "Command", "dc/dc6/a12017.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "dc/dc6/a12017.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "dc/dc6/a12017.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "EffectPeriodicHandler", "dc/dc6/a12017.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "dc/dc6/a12017.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "dc/dc6/a12017.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

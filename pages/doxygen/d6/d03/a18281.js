@@ -1,6 +1,6 @@
 var a18281 =
 [
-    [ "FilterTargets", "d6/d03/a18281.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d6/d03/a18281.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d6/d03/a18281.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "HandlePeriodic", "d6/d03/a18281.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d6/d03/a18281.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d6/d03/a18281.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

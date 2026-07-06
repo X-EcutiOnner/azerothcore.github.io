@@ -1,7 +1,14 @@
 var a12713 =
 [
-    [ "HandleDummy", "d4/d2e/a12713.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d4/d2e/a12713.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d4/d2e/a12713.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d4/d2e/a12713.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "boss_mor_grayhoof", "d4/d2e/a12713.html#aef1001233a51ad3bb9963c540d39d79b", null ],
+    [ "CastRandomSpell", "d4/d2e/a12713.html#a00756d64d24088ebf408153fcb59ff13", null ],
+    [ "DamageTaken", "d4/d2e/a12713.html#a164a911eb9a86964a61866c05d44512f", null ],
+    [ "JustDied", "d4/d2e/a12713.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
+    [ "JustEngagedWith", "d4/d2e/a12713.html#a043f6ee099efd0d49982b2966604e65a", null ],
+    [ "Reset", "d4/d2e/a12713.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
+    [ "UpdateAI", "d4/d2e/a12713.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
+    [ "_phase", "d4/d2e/a12713.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
+    [ "_scheduler", "d4/d2e/a12713.html#ad2a897281d308475957e2636c6536fdd", null ],
+    [ "_sleepTargetGUID", "d4/d2e/a12713.html#a8baa606696dc8acf532e8badfc6c624b", null ],
+    [ "_sleepTargetThreat", "d4/d2e/a12713.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
 ];

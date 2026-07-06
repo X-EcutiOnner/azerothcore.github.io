@@ -1,11 +1,9 @@
 var a13553 =
 [
-    [ "boss_alythess", "d8/d51/a13553.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "d8/d51/a13553.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "d8/d51/a13553.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "d8/d51/a13553.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "d8/d51/a13553.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "d8/d51/a13553.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "d8/d51/a13553.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "d8/d51/a13553.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "npc_risen_guardianAI", "d8/d51/a13553.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d8/d51/a13553.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d8/d51/a13553.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d8/d51/a13553.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d8/d51/a13553.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d8/d51/a13553.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

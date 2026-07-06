@@ -1,11 +1,16 @@
 var a14265 =
 [
-    [ "boss_hakkarAI", "d4/d6c/a14265.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d4/d6c/a14265.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d4/d6c/a14265.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d4/d6c/a14265.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d4/d6c/a14265.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d4/d6c/a14265.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d4/d6c/a14265.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d4/d6c/a14265.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "boss_akilzon", "d4/d6c/a14265.html#a8c56c6920488ac507e24db384782e2ab", null ],
+    [ "DoAction", "d4/d6c/a14265.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
+    [ "HandleStormSequence", "d4/d6c/a14265.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
+    [ "JustDied", "d4/d6c/a14265.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
+    [ "JustEngagedWith", "d4/d6c/a14265.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
+    [ "KilledUnit", "d4/d6c/a14265.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
+    [ "Reset", "d4/d6c/a14265.html#a69302e4ac8f349e884f0745fe66edce2", null ],
+    [ "SetWeather", "d4/d6c/a14265.html#a9c8eeed625f33153819df19b6c2c5670", null ],
+    [ "SummonEagles", "d4/d6c/a14265.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
+    [ "_birdGUIDs", "d4/d6c/a14265.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
+    [ "_cycloneGUID", "d4/d6c/a14265.html#aaa712019eb5d17684d7f048f81e36270", null ],
+    [ "_isRaining", "d4/d6c/a14265.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
+    [ "_targetGUID", "d4/d6c/a14265.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
 ];

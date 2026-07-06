@@ -1,8 +1,8 @@
 var a10953 =
 [
-    [ "OtherGUID", "dc/d78/a10953.html#a3f7486a2e4e07fef318414eaaa9037da", null ],
-    [ "PlayerGUID", "dc/d78/a10953.html#ae3d1217ddbfccd601fcbc57b78739a94", null ],
-    [ "RankID", "dc/d78/a10953.html#a1aebcb39f85c2b44101a311a6ccefdfd", null ],
-    [ "TransactionDate", "dc/d78/a10953.html#a4a8054876b35134e5dfe2cf84887e66f", null ],
-    [ "TransactionType", "dc/d78/a10953.html#aa48b69aa9078fb150470d66201b34786", null ]
+    [ "PlayedTime", "dc/d78/a10953.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "dc/d78/a10953.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "dc/d78/a10953.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "dc/d78/a10953.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "dc/d78/a10953.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

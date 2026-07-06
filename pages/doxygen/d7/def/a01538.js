@@ -1,7 +1,5 @@
 var a01538 =
 [
-    [ "gobject_commandscript", "d1/dc9/a12355.html", "d1/dc9/a12355" ],
-    [ "GameObjectEntry", "d7/def/a01538.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
-    [ "GameObjectSpawnId", "d7/def/a01538.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
-    [ "AddSC_gobject_commandscript", "d7/def/a01538.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
+    [ "list_commandscript", "dc/d83/a12413.html", "dc/d83/a12413" ],
+    [ "AddSC_list_commandscript", "d7/def/a01538.html#a81af00772e7a06ad952109222b1f53a3", null ]
 ];

@@ -1,5 +1,7 @@
 var a25129 =
 [
-    [ "PrepareSpellScript", "dc/d7a/a25129.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "dc/d7a/a25129.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "HandleApplyEffect", "dc/d7a/a25129.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "dc/d7a/a25129.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "dc/d7a/a25129.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "dc/d7a/a25129.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

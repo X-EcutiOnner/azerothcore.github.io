@@ -1,9 +1,8 @@
 var a16801 =
 [
-    [ "npc_fel_infernalAI", "d9/d83/a16801.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
-    [ "EnterEvadeMode", "d9/d83/a16801.html#aedec8729b9be931a74fe00d1aa649848", null ],
-    [ "JustDied", "d9/d83/a16801.html#a599786069f98231eeb7f9ca809f8e671", null ],
-    [ "Reset", "d9/d83/a16801.html#a09f408c9250467228b91ef9f6c9544f4", null ],
-    [ "UpdateAI", "d9/d83/a16801.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
-    [ "events", "d9/d83/a16801.html#acf955037c246f7b5f12cc5338b300b63", null ]
+    [ "npc_frost_sphereAI", "d9/d83/a16801.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d9/d83/a16801.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d9/d83/a16801.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d9/d83/a16801.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d9/d83/a16801.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

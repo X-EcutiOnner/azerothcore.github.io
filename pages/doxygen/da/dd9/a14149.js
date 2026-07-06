@@ -1,7 +1,6 @@
 var a14149 =
 [
-    [ "npc_zuljin_vortex", "da/dd9/a14149.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "da/dd9/a14149.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "da/dd9/a14149.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "da/dd9/a14149.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "npc_tyrion_spybotAI", "d8/d2d/a14153.html", "d8/d2d/a14153" ],
+    [ "npc_tyrion_spybot", "da/dd9/a14149.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "da/dd9/a14149.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

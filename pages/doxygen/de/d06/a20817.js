@@ -1,10 +1,9 @@
 var a20817 =
 [
-    [ "npc_enslaved_proto_drake", "de/d06/a20817.html#aec835fdc8b1beb270176d5341d26c265", null ],
-    [ "MovementInform", "de/d06/a20817.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
-    [ "Reset", "de/d06/a20817.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
-    [ "SetData", "de/d06/a20817.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
-    [ "UpdateAI", "de/d06/a20817.html#a252f84198df610bac44b6bd9cd80602e", null ],
-    [ "_events", "de/d06/a20817.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
-    [ "_setData", "de/d06/a20817.html#adb997badd8831dea7763eaecc93b7773", null ]
+    [ "boss_yoggsaron_keeper", "de/d06/a20817.html#ad2098933656371b1bf80ec3ea859c418", null ],
+    [ "DoAction", "de/d06/a20817.html#a9e3d251810b55072458003356213ae15", null ],
+    [ "JustEngagedWith", "de/d06/a20817.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
+    [ "JustSummoned", "de/d06/a20817.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
+    [ "UpdateAI", "de/d06/a20817.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
+    [ "_summons", "de/d06/a20817.html#aa840eff5f3d8b24225046113737936b4", null ]
 ];

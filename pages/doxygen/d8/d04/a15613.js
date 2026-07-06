@@ -1,6 +1,5 @@
 var a15613 =
 [
-    [ "npc_magwinAI", "dc/d5a/a15617.html", "dc/d5a/a15617" ],
-    [ "npc_magwin", "d8/d04/a15613.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
-    [ "GetAI", "d8/d04/a15613.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
+    [ "at_cthun_center", "d8/d04/a15613.html#a75cf2b77215e0d50c1c89ec9b522ebc3", null ],
+    [ "OnTrigger", "d8/d04/a15613.html#af744df9577e84ab64749076324e574c9", null ]
 ];

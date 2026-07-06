@@ -1,7 +1,6 @@
 var a10917 =
 [
-    [ "Flags", "d8/daf/a10917.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
-    [ "TabFlags", "d8/daf/a10917.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
-    [ "TabWithdrawItemLimit", "d8/daf/a10917.html#af16392abbddf27a8b21fd21d998501e6", null ],
-    [ "WithdrawGoldLimit", "d8/daf/a10917.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
+    [ "ShowingCloak", "d8/daf/a10917.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "d8/daf/a10917.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "d8/daf/a10917.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

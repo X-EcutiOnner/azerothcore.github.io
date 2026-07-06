@@ -1,17 +1,16 @@
 var a10273 =
 [
-    [ "ConfusedMovementGenerator", "dd/d4f/a10273.html#a694dd083a1c01378e4877939f78309b8", null ],
-    [ "_InitSpecific", "dd/d4f/a10273.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
-    [ "_InitSpecific", "dd/d4f/a10273.html#a212665e4306ca335181c255573d30a06", null ],
-    [ "_InitSpecific", "dd/d4f/a10273.html#af597e5c544e56c255b179a08290f4ccb", null ],
-    [ "DoFinalize", "dd/d4f/a10273.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
-    [ "DoFinalize", "dd/d4f/a10273.html#a82c2458b43334f06cae1a91224753fd3", null ],
-    [ "DoFinalize", "dd/d4f/a10273.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
-    [ "DoInitialize", "dd/d4f/a10273.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
-    [ "DoReset", "dd/d4f/a10273.html#a734a73ffa4008898a170b913aafce899", null ],
-    [ "DoUpdate", "dd/d4f/a10273.html#a8703ba139d90194a481388a543a14de6", null ],
-    [ "GetMovementGeneratorType", "dd/d4f/a10273.html#a3f0760b38745b9e065e069d6ad984d51", null ],
-    [ "i_nextMove", "dd/d4f/a10273.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
-    [ "i_nextMoveTime", "dd/d4f/a10273.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
-    [ "i_waypoints", "dd/d4f/a10273.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
+    [ "SpawnData", "dd/d4f/a10273.html#af108bd4f8d7080f008f1f3263e575311", null ],
+    [ "dbData", "dd/d4f/a10273.html#a32037d54d1c8dfd74e18b8b501843e93", null ],
+    [ "mapid", "dd/d4f/a10273.html#ac23de576d628ec0dde71be9a06976c83", null ],
+    [ "orientation", "dd/d4f/a10273.html#a645082615abc236e61a409595afca3e4", null ],
+    [ "phaseMask", "dd/d4f/a10273.html#a1d08a4a00b3ffe3eaaf260c7a447c861", null ],
+    [ "posX", "dd/d4f/a10273.html#a038b864df6fc5db9a47ae565a5e8d627", null ],
+    [ "posY", "dd/d4f/a10273.html#a13dc41e4c6b296b6b7a0a1ca402f407b", null ],
+    [ "posZ", "dd/d4f/a10273.html#ae911f34522832f2842ea7450c55e264c", null ],
+    [ "ScriptId", "dd/d4f/a10273.html#acb2ca11212667789bbd41a285cf708d6", null ],
+    [ "spawnGroupId", "dd/d4f/a10273.html#aa608bdbe2112f69e2c96ee45830cc3f8", null ],
+    [ "spawnId", "dd/d4f/a10273.html#a589f8c64b4d22ee6a638a4bb4674c6ca", null ],
+    [ "spawnMask", "dd/d4f/a10273.html#a236e4a809883421cb2c5d4c4d607621b", null ],
+    [ "type", "dd/d4f/a10273.html#abb2ece9629d63141de2702acd5383564", null ]
 ];

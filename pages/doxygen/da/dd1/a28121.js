@@ -1,6 +1,5 @@
 var a28121 =
 [
-    [ "npc_guardianAI", "d4/d77/a28125.html", "d4/d77/a28125" ],
-    [ "npc_guardian", "da/dd1/a28121.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "da/dd1/a28121.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "go_hive_pod", "da/dd1/a28121.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "da/dd1/a28121.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

@@ -1,22 +1,6 @@
 var a21041 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "de/d73/a21041.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
-    [ "CheckAchievementCriteriaMeet", "de/d73/a21041.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
-    [ "GetData", "de/d73/a21041.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
-    [ "GetGuidData", "de/d73/a21041.html#a371a688192e9c7c239fc4c1de8e45877", null ],
-    [ "Initialize", "de/d73/a21041.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
-    [ "IsEncounterInProgress", "de/d73/a21041.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
-    [ "OnCreatureCreate", "de/d73/a21041.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
-    [ "OnPlayerEnter", "de/d73/a21041.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
-    [ "ReadSaveDataMore", "de/d73/a21041.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
-    [ "SetData", "de/d73/a21041.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
-    [ "Update", "de/d73/a21041.html#ac22e9b215c1351f543289af2875491b4", null ],
-    [ "WriteSaveDataMore", "de/d73/a21041.html#a22e3c4bb29159588a96f13644218c427", null ],
-    [ "ArchavonDeath", "de/d73/a21041.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
-    [ "bossGUIDs", "de/d73/a21041.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
-    [ "checkTimer", "de/d73/a21041.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
-    [ "EmalonDeath", "de/d73/a21041.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
-    [ "KoralonDeath", "de/d73/a21041.html#a544c022446c0ddb39797417271ec1259", null ],
-    [ "m_auiEncounter", "de/d73/a21041.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
-    [ "stoned", "de/d73/a21041.html#acde4794f2e980d523e873c0e610f726a", null ]
+    [ "boss_palehoofAI", "d7/d87/a21045.html", "d7/d87/a21045" ],
+    [ "boss_palehoof", "de/d73/a21041.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "de/d73/a21041.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

@@ -1,8 +1,6 @@
 var a23553 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d7/d95/a23553.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d7/d95/a23553.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d7/d95/a23553.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d7/d95/a23553.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d7/d95/a23553.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d0/d9a/a23557.html", "d0/d9a/a23557" ],
+    [ "instance_arcatraz", "d7/d95/a23553.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d7/d95/a23553.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

@@ -1,7 +1,9 @@
 var a07425 =
 [
-    [ "AuctionSorter", "d9/d55/a07425.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d9/d55/a07425.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d9/d55/a07425.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d9/d55/a07425.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "SmartWaypointMgr", "d9/d55/a07425.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d9/d55/a07425.html#a7299029b0e2063740fd2fe9d9b218749", null ],
+    [ "GetPath", "d9/d55/a07425.html#ab3fb0cb109b9bf28ee09173f4340c351", null ],
+    [ "instance", "d9/d55/a07425.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d9/d55/a07425.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d9/d55/a07425.html#ac34eb4bd79106db2574cce0208a785e5", null ]
 ];

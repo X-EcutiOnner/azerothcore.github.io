@@ -1,7 +1,12 @@
 var a19845 =
 [
-    [ "HandlePeriodic", "d7/d2e/a19845.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d7/d2e/a19845.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d7/d2e/a19845.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d7/d2e/a19845.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "boss_ionar", "d7/d2e/a19845.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d7/d2e/a19845.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d7/d2e/a19845.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d7/d2e/a19845.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d7/d2e/a19845.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d7/d2e/a19845.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d7/d2e/a19845.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d7/d2e/a19845.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d7/d2e/a19845.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

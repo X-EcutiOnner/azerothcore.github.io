@@ -1,11 +1,10 @@
 var a17105 =
 [
-    [ "npc_phantom_mage", "d1/d8a/a17105.html#a96702110e1bd587aaa88a076773cac72", null ],
-    [ "AttackStart", "d1/d8a/a17105.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
-    [ "DoAction", "d1/d8a/a17105.html#a8adf87e600eeab3678f369ab48b73927", null ],
-    [ "EnterEvadeMode", "d1/d8a/a17105.html#a270f664ad9545f672405d051d1a8932a", null ],
-    [ "JustDied", "d1/d8a/a17105.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
-    [ "JustEngagedWith", "d1/d8a/a17105.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
-    [ "Reset", "d1/d8a/a17105.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
-    [ "UpdateAI", "d1/d8a/a17105.html#a919416fd6b52060e271e79afaaf14085", null ]
+    [ "boss_dredAI", "d1/d8a/a17105.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d1/d8a/a17105.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d1/d8a/a17105.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d1/d8a/a17105.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "ScheduleTasks", "d1/d8a/a17105.html#aaea229cebd3d82b01c4577e58a06de2d", null ],
+    [ "SetData", "d1/d8a/a17105.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "_raptorCount", "d1/d8a/a17105.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

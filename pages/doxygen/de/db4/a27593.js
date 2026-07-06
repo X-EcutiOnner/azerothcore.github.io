@@ -1,5 +1,8 @@
 var a27593 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "de/db4/a27593.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "de/db4/a27593.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "CheckProc", "de/db4/a27593.html#a88fc4939e903f4914a41cf18b34ad344", null ],
+    [ "HandleProc", "de/db4/a27593.html#a607054f11843147a09b202ea65f68b65", null ],
+    [ "PrepareAuraScript", "de/db4/a27593.html#affe76b0d20d431ba459ceb42934689fc", null ],
+    [ "Register", "de/db4/a27593.html#a99345afecc0612c33db996cebab99e09", null ],
+    [ "Validate", "de/db4/a27593.html#a9b0a80cc044d198178bd629eb8731260", null ]
 ];

@@ -1,8 +1,6 @@
 var a27037 =
 [
-    [ "Apply", "dd/d23/a27037.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "dd/d23/a27037.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "dd/d23/a27037.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "dd/d23/a27037.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "dd/d23/a27037.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "ModDest", "dd/d23/a27037.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "dd/d23/a27037.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "dd/d23/a27037.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

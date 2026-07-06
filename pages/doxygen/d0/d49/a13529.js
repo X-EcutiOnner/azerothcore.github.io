@@ -1,8 +1,11 @@
 var a13529 =
 [
-    [ "npc_madrigosa", "d0/d49/a13529.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d0/d49/a13529.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d0/d49/a13529.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d0/d49/a13529.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d0/d49/a13529.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "npc_valkyr_battle_maidenAI", "d0/d49/a13529.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d0/d49/a13529.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d0/d49/a13529.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d0/d49/a13529.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d0/d49/a13529.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d0/d49/a13529.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d0/d49/a13529.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d0/d49/a13529.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

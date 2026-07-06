@@ -1,8 +1,7 @@
 var a09165 =
 [
-    [ "DungeonEncounter", "d2/db8/a09165.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d2/db8/a09165.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d2/db8/a09165.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d2/db8/a09165.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d2/db8/a09165.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "VehicleDespawnEvent", "d2/db8/a09165.html#a53c96e023186cfb36084814b69e62d15", null ],
+    [ "Execute", "d2/db8/a09165.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
+    [ "_duration", "d2/db8/a09165.html#a9ac4ab83b785691285fb20364925b7ca", null ],
+    [ "_self", "d2/db8/a09165.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
 ];

@@ -1,6 +1,6 @@
 var a13713 =
 [
-    [ "HandleEffectApply", "de/d4b/a13713.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "de/d4b/a13713.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "de/d4b/a13713.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "HandleActivateObject", "de/d4b/a13713.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "de/d4b/a13713.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "de/d4b/a13713.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

@@ -1,7 +1,7 @@
 var a23093 =
 [
-    [ "HandleScriptEffect", "de/d6d/a23093.html#a534bf39998813f06c48bc920e4666692", null ],
-    [ "PrepareSpellScript", "de/d6d/a23093.html#a5892f20a0704596cb70a995a73846368", null ],
-    [ "Register", "de/d6d/a23093.html#a1176b4e4ad488a3b6b38ff4b8c955d64", null ],
-    [ "Validate", "de/d6d/a23093.html#af618314a13013eaf9f36b30047de0878", null ]
+    [ "HandleEffectRemove", "de/d6d/a23093.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "de/d6d/a23093.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "de/d6d/a23093.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "de/d6d/a23093.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

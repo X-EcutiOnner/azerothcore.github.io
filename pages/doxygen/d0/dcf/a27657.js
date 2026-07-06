@@ -1,11 +1,8 @@
 var a27657 =
 [
-    [ "npc_dream_fogAI", "d0/dcf/a27657.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "d0/dcf/a27657.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "d0/dcf/a27657.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "d0/dcf/a27657.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "d0/dcf/a27657.html#a3666423921a5405ea220ba098f3f91fe", null ],
-    [ "UpdateAI", "d0/dcf/a27657.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "d0/dcf/a27657.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "d0/dcf/a27657.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "HandleDummy", "d0/dcf/a27657.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d0/dcf/a27657.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d0/dcf/a27657.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d0/dcf/a27657.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d0/dcf/a27657.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

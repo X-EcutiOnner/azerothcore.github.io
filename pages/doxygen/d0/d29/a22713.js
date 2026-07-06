@@ -1,7 +1,7 @@
 var a22713 =
 [
-    [ "HandleProc", "d0/d29/a22713.html#a43892c85339867a65e992b7f17fdc61c", null ],
-    [ "PrepareAuraScript", "d0/d29/a22713.html#ab5728e2c3df5b887c26f2485575087ff", null ],
-    [ "Register", "d0/d29/a22713.html#aae9f80730de402ebbda918e0116e59a0", null ],
-    [ "Validate", "d0/d29/a22713.html#a8ef20577e375a5c7d3a66824f27bf937", null ]
+    [ "SuckBackEvent", "d0/d29/a22713.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d0/d29/a22713.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d0/d29/a22713.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d0/d29/a22713.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

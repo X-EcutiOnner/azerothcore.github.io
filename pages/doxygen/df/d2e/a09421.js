@@ -1,6 +1,6 @@
 var a09421 =
 [
-    [ "AreaMapType", "df/d2e/a09421.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
-    [ "areaMap", "df/d2e/a09421.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
-    [ "gridArea", "df/d2e/a09421.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
+    [ "lang_id", "df/d2e/a09421.html#a1fa900a467834103ac595a8a96dd28c0", null ],
+    [ "skill_id", "df/d2e/a09421.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
+    [ "spell_id", "df/d2e/a09421.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
 ];

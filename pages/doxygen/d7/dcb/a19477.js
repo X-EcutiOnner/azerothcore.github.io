@@ -1,15 +1,15 @@
 var a19477 =
 [
-    [ "boss_anomalus", "d7/dcb/a19477.html#aa4dd8fac7c360beb834382f624ed2246", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d7/dcb/a19477.html#ada0735330bff29a8c04706c980e6bbfc", null ],
-    [ "GetData", "d7/dcb/a19477.html#ad48aebb50cda7ee621f71803669f04c2", null ],
-    [ "JustDied", "d7/dcb/a19477.html#a41e257481921a122dba30348559e05fb", null ],
-    [ "JustEngagedWith", "d7/dcb/a19477.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
-    [ "JustSummoned", "d7/dcb/a19477.html#a3c0413f30d96268cab724856334e61ee", null ],
-    [ "Reset", "d7/dcb/a19477.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
-    [ "SetData", "d7/dcb/a19477.html#aa79ec9829862b573cd0f38f965d737e8", null ],
-    [ "UpdateAI", "d7/dcb/a19477.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
-    [ "_empowered", "d7/dcb/a19477.html#a067c4b5dfb5e68a3d91f043d34ea0929", null ],
-    [ "achievement", "d7/dcb/a19477.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
-    [ "activeRifts", "d7/dcb/a19477.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
+    [ "boss_maexxnaAI", "d7/dcb/a19477.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "d7/dcb/a19477.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "d7/dcb/a19477.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "d7/dcb/a19477.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "d7/dcb/a19477.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "d7/dcb/a19477.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "d7/dcb/a19477.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "d7/dcb/a19477.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "d7/dcb/a19477.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "d7/dcb/a19477.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "d7/dcb/a19477.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "d7/dcb/a19477.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

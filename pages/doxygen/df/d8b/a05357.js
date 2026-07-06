@@ -1,15 +1,7 @@
 var a05357 =
 [
-    [ "WorldModel", "df/d8b/a05357.html#a42116d73362e248de40a88f49d95a0f4", null ],
-    [ "GetGroupModels", "df/d8b/a05357.html#ae739dd33c5fcfdf4129ec0f9292eb885", null ],
-    [ "GetLocationInfo", "df/d8b/a05357.html#a9dd4a14ce5af9f108714ec263a3507f7", null ],
-    [ "IntersectRay", "df/d8b/a05357.html#a63c3d4e85d0924d6c46d8b6c6f70a593", null ],
-    [ "readFile", "df/d8b/a05357.html#a8e33038d14961c4f28b36d2bd2237df6", null ],
-    [ "setGroupModels", "df/d8b/a05357.html#aadf13de73aee68848ea6082418e625b0", null ],
-    [ "setRootWmoID", "df/d8b/a05357.html#a5d6daa757304ceb69e578a6b9ae519d4", null ],
-    [ "writeFile", "df/d8b/a05357.html#ae449aaa575e98eac6838b0f18660697a", null ],
-    [ "Flags", "df/d8b/a05357.html#aea4d1e085733b0bbfbb389d7c4ac9bd1", null ],
-    [ "groupModels", "df/d8b/a05357.html#ae44c57520cea5da5a5f082167e9f818d", null ],
-    [ "groupTree", "df/d8b/a05357.html#a101692f46ae752cbde7b264b02e23168", null ],
-    [ "RootWMOID", "df/d8b/a05357.html#a5a8745b313b1417e9dbb1d571fb173dd", null ]
+    [ "GameobjectModelData", "df/d8b/a05357.html#a7d259df5a5541f95e0f548674d023fc8", null ],
+    [ "bound", "df/d8b/a05357.html#ab133a32c9eefff0a35acaa4e157a3f05", null ],
+    [ "isWmo", "df/d8b/a05357.html#ac51305f0d800ff993e9a9cba2ccb6939", null ],
+    [ "name", "df/d8b/a05357.html#ac8a053b6f01a9917ee6b1fc2a738bb4e", null ]
 ];

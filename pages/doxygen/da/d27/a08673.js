@@ -1,8 +1,9 @@
 var a08673 =
 [
-    [ "Reset", "da/d27/a08673.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "da/d27/a08673.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "da/d27/a08673.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "da/d27/a08673.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "da/d27/a08673.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "artKits", "da/d27/a08673.html#a7ae038f7051f3da177d3cdc95ef608d2", null ],
+    [ "entry", "da/d27/a08673.html#ae1378dcb4327a4d000c3299a32f9d23f", null ],
+    [ "faction", "da/d27/a08673.html#a77e0b2613b7a1cda1bd306f066e63a39", null ],
+    [ "flags", "da/d27/a08673.html#a4120c9184b4cfab7afada48ccf8e713e", null ],
+    [ "maxgold", "da/d27/a08673.html#ae80fd304ee4d02d5e0d13ec6136ec736", null ],
+    [ "mingold", "da/d27/a08673.html#a3b1c3dd6f223bd93cda6e993a64b61d1", null ]
 ];

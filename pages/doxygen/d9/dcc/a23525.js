@@ -1,6 +1,6 @@
 var a23525 =
 [
-    [ "HandleAfterRemove", "d9/dcc/a23525.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d9/dcc/a23525.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d9/dcc/a23525.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "npc_warden_mellicharAI", "da/d70/a23529.html", "da/d70/a23529" ],
+    [ "npc_warden_mellichar", "d9/dcc/a23525.html#aba5c3d005097430941bd40bbbb0d3562", null ],
+    [ "GetAI", "d9/dcc/a23525.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
 ];

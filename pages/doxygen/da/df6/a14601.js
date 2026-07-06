@@ -1,6 +1,8 @@
 var a14601 =
 [
-    [ "npc_cw_area_triggerAI", "d3/d5a/a14605.html", "d3/d5a/a14605" ],
-    [ "npc_cw_area_trigger", "da/df6/a14601.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "da/df6/a14601.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "boss_venoxis", "da/df6/a14601.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "da/df6/a14601.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "da/df6/a14601.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "da/df6/a14601.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "da/df6/a14601.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

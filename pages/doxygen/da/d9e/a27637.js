@@ -1,5 +1,7 @@
 var a27637 =
 [
-    [ "AreaTrigger_at_sentry_point", "da/d9e/a27637.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "da/d9e/a27637.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "FilterTargets", "da/d9e/a27637.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "da/d9e/a27637.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "da/d9e/a27637.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "da/d9e/a27637.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

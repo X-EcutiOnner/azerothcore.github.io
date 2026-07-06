@@ -1,8 +1,7 @@
 var a19301 =
 [
-    [ "boss_maexxna_webwrapAI", "de/d7b/a19301.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "de/d7b/a19301.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "de/d7b/a19301.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "de/d7b/a19301.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "de/d7b/a19301.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "npc_ioc_gunship_captainAI", "de/d7b/a19301.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "de/d7b/a19301.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "de/d7b/a19301.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "de/d7b/a19301.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

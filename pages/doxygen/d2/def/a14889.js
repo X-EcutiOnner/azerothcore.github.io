@@ -1,9 +1,5 @@
 var a14889 =
 [
-    [ "boss_azuregosAI", "d2/def/a14889.html#a839ab1e096d30062d64c1c515a7462a4", null ],
-    [ "JustDied", "d2/def/a14889.html#aea4d204173b7882d2d9acf8204410947", null ],
-    [ "JustEngagedWith", "d2/def/a14889.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
-    [ "KilledUnit", "d2/def/a14889.html#aeefc791e17d2a687f8beae809c44d123", null ],
-    [ "Reset", "d2/def/a14889.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
-    [ "UpdateAI", "d2/def/a14889.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
+    [ "go_pumpkin_shrine", "d2/def/a14889.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d2/def/a14889.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

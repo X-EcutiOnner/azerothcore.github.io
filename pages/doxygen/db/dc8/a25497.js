@@ -1,6 +1,6 @@
 var a25497 =
 [
-    [ "HandlePeriodicTick", "db/dc8/a25497.html#a058eeb1e0489340763a58d92d4bed832", null ],
-    [ "PrepareAuraScript", "db/dc8/a25497.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
-    [ "Register", "db/dc8/a25497.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
+    [ "HandleStackDrop", "db/dc8/a25497.html#a9a1409c505aff1fd1021aea683c1aa8e", null ],
+    [ "PrepareAuraScript", "db/dc8/a25497.html#afdb5f1df2e88976bb62efd0f8859e3da", null ],
+    [ "Register", "db/dc8/a25497.html#ae67ab53e9c82a054e21a1242b5f50b4b", null ]
 ];

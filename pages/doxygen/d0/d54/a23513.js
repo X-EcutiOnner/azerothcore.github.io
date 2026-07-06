@@ -1,7 +1,5 @@
 var a23513 =
 [
-    [ "boss_gatewatcher_iron_hand", "d0/d54/a23513.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d0/d54/a23513.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d0/d54/a23513.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d0/d54/a23513.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "at_shattered_halls_execution", "d0/d54/a23513.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d0/d54/a23513.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

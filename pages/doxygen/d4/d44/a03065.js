@@ -1,6 +1,4 @@
 var a03065 =
 [
-    [ "clearAcceptTradeMode", "d4/d44/a03065.html#ab516bffb39dfd3d3133b1d3a515c9fb1", null ],
-    [ "clearAcceptTradeMode", "d4/d44/a03065.html#a7b5fc6374a945ebbe9b397c1e115e952", null ],
-    [ "setAcceptTradeMode", "d4/d44/a03065.html#a63b255ea813e0ea4f109492ed7f0213c", null ]
+    [ "validUtf8String", "d4/d44/a03065.html#a15c437e1d990c60d0d271ab1773b7d97", null ]
 ];

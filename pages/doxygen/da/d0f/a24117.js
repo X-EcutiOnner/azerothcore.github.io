@@ -1,7 +1,7 @@
 var a24117 =
 [
-    [ "CheckProc", "da/d0f/a24117.html#a64414347ed5e132c3268451653082821", null ],
-    [ "HandleProc", "da/d0f/a24117.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
-    [ "PrepareAuraScript", "da/d0f/a24117.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
-    [ "Register", "da/d0f/a24117.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
+    [ "HandlePeriodic", "da/d0f/a24117.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "da/d0f/a24117.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "da/d0f/a24117.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "da/d0f/a24117.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

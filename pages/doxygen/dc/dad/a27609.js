@@ -1,7 +1,7 @@
 var a27609 =
 [
-    [ "CharacterDeleteActionIpLogger", "dc/dad/a27609.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "dc/dad/a27609.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "dc/dad/a27609.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "dc/dad/a27609.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "HandleProc", "dc/dad/a27609.html#a28f109c403d3bb46dd4f9c18057cfcd9", null ],
+    [ "PrepareAuraScript", "dc/dad/a27609.html#a0eb7295583f2c45c88ae266d66813b5b", null ],
+    [ "Register", "dc/dad/a27609.html#ab8848a011ec8397bc5712ced54e09432", null ],
+    [ "Validate", "dc/dad/a27609.html#ae35703b7d676fde170241dd64c3c5411", null ]
 ];

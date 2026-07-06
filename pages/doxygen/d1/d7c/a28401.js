@@ -1,10 +1,13 @@
 var a28401 =
 [
-    [ "go_evil_book_for_dummies", "d1/d7c/a28401.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d1/d7c/a28401.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d1/d7c/a28401.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d1/d7c/a28401.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d1/d7c/a28401.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d1/d7c/a28401.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d1/d7c/a28401.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "npc_spring_rabbitAI", "d1/d7c/a28401.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d1/d7c/a28401.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d1/d7c/a28401.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d1/d7c/a28401.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d1/d7c/a28401.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d1/d7c/a28401.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d1/d7c/a28401.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d1/d7c/a28401.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d1/d7c/a28401.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d1/d7c/a28401.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

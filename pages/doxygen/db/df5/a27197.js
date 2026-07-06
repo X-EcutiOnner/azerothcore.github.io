@@ -1,6 +1,6 @@
 var a27197 =
 [
-    [ "PeriodicTick", "db/df5/a27197.html#a14e79a7bb4a5b11ddc74ab366e79a907", null ],
-    [ "PrepareAuraScript", "db/df5/a27197.html#a0448cdf379053396f8649946e52ce690", null ],
-    [ "Register", "db/df5/a27197.html#a2dab21ddb3c33341d560643d27042402", null ]
+    [ "FilterTargets", "db/df5/a27197.html#a34ca370993295225a779ee6537295112", null ],
+    [ "PrepareSpellScript", "db/df5/a27197.html#a523cf0c9aa9b3cf81c0cadd39252dd0f", null ],
+    [ "Register", "db/df5/a27197.html#a0c23c8b0fe938fd7556663880f40b9ef", null ]
 ];

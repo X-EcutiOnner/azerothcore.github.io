@@ -1,19 +1,13 @@
 var a29205 =
 [
-    [ "SpellProcEntryBuilder", "d6/db7/a29205.html#ad5df1abe27dde6d70c030bd19ed5c928", null ],
-    [ "Build", "d6/db7/a29205.html#a2a69603215e9fa526304f420bd5a490c", null ],
-    [ "WithAttributesMask", "d6/db7/a29205.html#ab9585e517adc231979ca5b817a2f2142", null ],
-    [ "WithChance", "d6/db7/a29205.html#a3c99a07866eb497717932af6b7f3a485", null ],
-    [ "WithCharges", "d6/db7/a29205.html#a6b8ecf0c38751be02b7003a7547d550f", null ],
-    [ "WithCooldown", "d6/db7/a29205.html#acd3a4b7ab057b5f36dd407acc11a4da4", null ],
-    [ "WithDisableEffectsMask", "d6/db7/a29205.html#ad414f75756b0fd284c636568dd74e57c", null ],
-    [ "WithHitMask", "d6/db7/a29205.html#a1cdd7bec2aa80d5036d614ad0296a695", null ],
-    [ "WithProcFlags", "d6/db7/a29205.html#acebcb2a676a7e8e6821854137e056fff", null ],
-    [ "WithProcsPerMinute", "d6/db7/a29205.html#aa373ae9df6697d722e7f6084a70c8b7a", null ],
-    [ "WithSchoolMask", "d6/db7/a29205.html#a713d576e3a6daf3c6f96b662b5789f14", null ],
-    [ "WithSpellFamilyMask", "d6/db7/a29205.html#a57a1699a8238dd535a44908734e3c7fd", null ],
-    [ "WithSpellFamilyName", "d6/db7/a29205.html#abf221ae8a8ef5e995bbe9b3f01f004c1", null ],
-    [ "WithSpellPhaseMask", "d6/db7/a29205.html#ae7ddfcb398c2f5e52834bd74d25754dc", null ],
-    [ "WithSpellTypeMask", "d6/db7/a29205.html#aa0691e03294c5317fdd173d4dd70edc1", null ],
-    [ "_entry", "d6/db7/a29205.html#a42632c6cb19221bbca3441f46e1f1b3c", null ]
+    [ "actionFlag", "d6/db7/a29205.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d6/db7/a29205.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d6/db7/a29205.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d6/db7/a29205.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d6/db7/a29205.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d6/db7/a29205.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d6/db7/a29205.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d6/db7/a29205.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d6/db7/a29205.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d6/db7/a29205.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

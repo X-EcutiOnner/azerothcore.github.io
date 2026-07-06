@@ -1,25 +1,12 @@
 var a02600 =
 [
-    [ "PlayerDump", "d5/d49/a12056.html", "d5/d49/a12056" ],
-    [ "PlayerDumpWriter", "d9/d14/a12060.html", "d9/d14/a12060" ],
-    [ "PlayerDumpReader", "db/da6/a12064.html", "db/da6/a12064" ],
-    [ "DumpReturn", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866", [
-      [ "DUMP_SUCCESS", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866a6516d3543697022dbf635913b248e48e", null ],
-      [ "DUMP_FILE_OPEN_ERROR", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866a01a5aec7fbe2bac9208d139b46a23656", null ],
-      [ "DUMP_TOO_MANY_CHARS", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866a73b27eff0adff2ab7bfd73e34aeb307d", null ],
-      [ "DUMP_FILE_BROKEN", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866a86acf22616e301a2ffef9ba80e227ed6", null ],
-      [ "DUMP_CHARACTER_DELETED", "d1/d88/a02600.html#a4471667403db9bc7532f371d28743866a08aa6d880c4d2da0ad4c8c1b27a5cc47", null ]
-    ] ],
-    [ "DumpTableType", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7ef", [
-      [ "DTT_CHARACTER", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efaea3cb16043024e5fdfc4f3301d2df323", null ],
-      [ "DTT_CHAR_TABLE", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa3c784c38ccd07be78692e3e03bb53d94", null ],
-      [ "DTT_EQSET_TABLE", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa0588b27b8e9c5cd1cd20d4324cad45de", null ],
-      [ "DTT_INVENTORY", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa137a1112df8b9582403fec12c50fea7f", null ],
-      [ "DTT_MAIL", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa581ecbcaf9623d952b28fd4e964ae67d", null ],
-      [ "DTT_MAIL_ITEM", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa917099d0dd625e7aa46b6358fb4c036b", null ],
-      [ "DTT_ITEM", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efad5be0dba7076e09532f3eb8760b8501d", null ],
-      [ "DTT_ITEM_GIFT", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efadead833bce15df38e80b9eee85b1d847", null ],
-      [ "DTT_PET", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efacb52988d860dbf41c2e2a5e2650d95c8", null ],
-      [ "DTT_PET_TABLE", "d1/d88/a02600.html#ad4739d865080bb5590831b606365e7efa4b50591bf81a27c7f6300f7733b14ac4", null ]
-    ] ]
+    [ "AggressorAI", "d9/d90/a06425.html", "d9/d90/a06425" ],
+    [ "CombatAI", "d8/d0b/a06429.html", "d8/d0b/a06429" ],
+    [ "CasterAI", "dc/d99/a06433.html", "dc/d99/a06433" ],
+    [ "ArcherAI", "de/d20/a06437.html", "de/d20/a06437" ],
+    [ "TurretAI", "d5/da2/a06441.html", "d5/da2/a06441" ],
+    [ "VehicleAI", "d6/d6e/a06445.html", "d6/d6e/a06445" ],
+    [ "VEHICLE_CONDITION_CHECK_TIME", "d1/d88/a02600.html#a2842973ff947088648cd327dc9e1d379", null ],
+    [ "VEHICLE_DISMISS_TIME", "d1/d88/a02600.html#a9b232fec810abbe5eaf5536e608b6e38", null ],
+    [ "SpellVct", "d1/d88/a02600.html#aef8ccdd14344d9c395d613c21bafd91e", null ]
 ];

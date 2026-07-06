@@ -1,8 +1,7 @@
 var a11517 =
 [
-    [ "PacketFilter", "d6/d4d/a11517.html#accfa43359c62d2e9d6c38086c77374bd", null ],
-    [ "~PacketFilter", "d6/d4d/a11517.html#a669531cfd9c06d5cf525986069117687", null ],
-    [ "Process", "d6/d4d/a11517.html#a03679e3c241a535757608c63ca933ac9", null ],
-    [ "ProcessUnsafe", "d6/d4d/a11517.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
-    [ "m_pSession", "d6/d4d/a11517.html#ad3723289ea93f1095cf82584268335d9", null ]
+    [ "TimeQueryResponse", "d6/d4d/a11517.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "d6/d4d/a11517.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "d6/d4d/a11517.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "d6/d4d/a11517.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

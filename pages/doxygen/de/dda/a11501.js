@@ -1,8 +1,7 @@
 var a11501 =
 [
-    [ "ServerPktHeader", "de/dda/a11501.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "de/dda/a11501.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "de/dda/a11501.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "de/dda/a11501.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "de/dda/a11501.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "PetDismissSound", "de/dda/a11501.html#a035aeb40e5de8b5d3d5d9703ad0f19c9", null ],
+    [ "Write", "de/dda/a11501.html#a06f3c97d815a3e8de55bcd2b3eecdb64", null ],
+    [ "ModelId", "de/dda/a11501.html#aba65e6547adde55978ce7b2abb779d51", null ],
+    [ "ModelPosition", "de/dda/a11501.html#a06e6bff9d70996ba890c31ea74363dad", null ]
 ];

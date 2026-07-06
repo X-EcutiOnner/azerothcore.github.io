@@ -1,9 +1,5 @@
 var a22489 =
 [
-    [ "FilterTargets", "d9/ddf/a22489.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d9/ddf/a22489.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d9/ddf/a22489.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d9/ddf/a22489.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d9/ddf/a22489.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d9/ddf/a22489.html#a814083360970284a325621f45e109b5b", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d9/ddf/a22489.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d9/ddf/a22489.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

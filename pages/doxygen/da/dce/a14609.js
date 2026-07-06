@@ -1,6 +1,6 @@
 var a14609 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "db/dae/a14613.html", "db/dae/a14613" ],
-    [ "npc_grizzlemaw_cw_trigger", "da/dce/a14609.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "da/dce/a14609.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "boss_wushoolayAI", "da/dce/a14609.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "da/dce/a14609.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "da/dce/a14609.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

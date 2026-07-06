@@ -1,7 +1,7 @@
 var a12829 =
 [
-    [ "HandleScript", "dc/d0d/a12829.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
-    [ "PrepareSpellScript", "dc/d0d/a12829.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
-    [ "Register", "dc/d0d/a12829.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
-    [ "Validate", "dc/d0d/a12829.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
+    [ "HandleScript", "dc/d0d/a12829.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "dc/d0d/a12829.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "dc/d0d/a12829.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "dc/d0d/a12829.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

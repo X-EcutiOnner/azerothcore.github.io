@@ -1,8 +1,22 @@
 var a09553 =
 [
-    [ "CreatureListSearcher", "df/d7a/a09553.html#a7b16bf9b7a847a08fa6582b81b607e20", null ],
-    [ "Visit", "df/d7a/a09553.html#a48c084b8fbcbf7db7c051d1aa2aff523", null ],
-    [ "Visit", "df/d7a/a09553.html#a91fcbdcfb08964ebaacec8acae13476b", null ],
-    [ "i_check", "df/d7a/a09553.html#a985d622243d5c7c6c91eb01377b0f91b", null ],
-    [ "i_phaseMask", "df/d7a/a09553.html#a10e4e1fb5749d2b1065dd6a1245783d0", null ]
+    [ "MapGridManager", "df/d7a/a09553.html#af08729c03f8641a00ab1cc1b014214df", null ],
+    [ "CreateGrid", "df/d7a/a09553.html#ac5daa221eb530e0b34a1950431cb4496", null ],
+    [ "GetCreatedCellsInGridCount", "df/d7a/a09553.html#a322e14ef979b97017a7547194de6c1f0", null ],
+    [ "GetCreatedCellsInMapCount", "df/d7a/a09553.html#a26255c8542bcfd6b706f73a401b4c5d2", null ],
+    [ "GetCreatedGridsCount", "df/d7a/a09553.html#a7994a71cea924e66996161b049eb1d44", null ],
+    [ "GetGrid", "df/d7a/a09553.html#a60c3abc9dbb707cee6d2c2ed02217c23", null ],
+    [ "GetLoadedGridsCount", "df/d7a/a09553.html#a8acd42cf15f78053070102f530c443a2", null ],
+    [ "IsGridCreated", "df/d7a/a09553.html#a6f70e8d91a9f8e49cab8a8ef6f41a84a", null ],
+    [ "IsGridLoaded", "df/d7a/a09553.html#a4cdf5925d6ebb358f501554c8b296424", null ],
+    [ "IsGridsFullyCreated", "df/d7a/a09553.html#a479daebe69f976c11649c9c571eb18e0", null ],
+    [ "IsGridsFullyLoaded", "df/d7a/a09553.html#ae2dd77cb2af985085103d49b4242f4a8", null ],
+    [ "IsValidGridCoordinates", "df/d7a/a09553.html#a7d7957242615d753383e05a0ee5a1f82", null ],
+    [ "LoadGrid", "df/d7a/a09553.html#aab0a821d9672cd485c4966034c2243d5", null ],
+    [ "UnloadGrid", "df/d7a/a09553.html#ae381b54e599dce0c02815faf82711200", null ],
+    [ "_createdGridsCount", "df/d7a/a09553.html#a6976d52c3af458e4d5885d2523cfafab", null ],
+    [ "_gridLock", "df/d7a/a09553.html#aa2c2218a81a5d042925e5675948e242f", null ],
+    [ "_loadedGridsCount", "df/d7a/a09553.html#a5a93290a0bbeec830a3223a72823ca4b", null ],
+    [ "_map", "df/d7a/a09553.html#a16a35fb94355d6542a2ef634f5411243", null ],
+    [ "_mapGrid", "df/d7a/a09553.html#acfac0df3926498e8a9aa581581f84e2c", null ]
 ];

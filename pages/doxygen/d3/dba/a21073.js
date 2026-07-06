@@ -1,6 +1,6 @@
 var a21073 =
 [
-    [ "HandleEffectPeriodic", "d3/dba/a21073.html#a508ff9e362d586497839aa29ceae1227", null ],
-    [ "PrepareAuraScript", "d3/dba/a21073.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
-    [ "Register", "d3/dba/a21073.html#a4b08cefe7d334635b70d389cc9df4901", null ]
+    [ "npc_frenzied_worgenAI", "d4/d2f/a21077.html", "d4/d2f/a21077" ],
+    [ "npc_frenzied_worgen", "d3/dba/a21073.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
+    [ "GetAI", "d3/dba/a21073.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
 ];

@@ -1,7 +1,7 @@
 var a14497 =
 [
-    [ "GetEmptyEntry", "dc/d14/a14497.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
-    [ "HandleAfterHit", "dc/d14/a14497.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
-    [ "PrepareSpellScript", "dc/d14/a14497.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
-    [ "Register", "dc/d14/a14497.html#a25e1858e1f81891443f4b7de50a5d495", null ]
+    [ "HandleScriptEffect", "dc/d14/a14497.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "dc/d14/a14497.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "dc/d14/a14497.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "dc/d14/a14497.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

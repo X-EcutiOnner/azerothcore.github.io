@@ -1,8 +1,10 @@
 var a08801 =
 [
-    [ "IsInSpec", "dc/dc6/a08801.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "dc/dc6/a08801.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "dc/dc6/a08801.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "dc/dc6/a08801.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "dc/dc6/a08801.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "ObjectGuidGeneratorBase", "dc/dc6/a08801.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "dc/dc6/a08801.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "dc/dc6/a08801.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "dc/dc6/a08801.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "dc/dc6/a08801.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "dc/dc6/a08801.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "dc/dc6/a08801.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

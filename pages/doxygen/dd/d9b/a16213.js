@@ -1,5 +1,6 @@
 var a16213 =
 [
-    [ "achievement_watch_him_die", "dd/d9b/a16213.html#a0d885871eac61d859780e08c8518bb15", null ],
-    [ "OnCheck", "dd/d9b/a16213.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
+    [ "HandleOpenLock", "dd/d9b/a16213.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "dd/d9b/a16213.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "dd/d9b/a16213.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

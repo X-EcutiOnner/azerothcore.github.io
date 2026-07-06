@@ -1,10 +1,7 @@
 var a21721 =
 [
-    [ "npc_infra_green_bomber_genericAI", "dd/d70/a21721.html#aed712ea3625971e059e2ecd158227287", null ],
-    [ "DamageTaken", "dd/d70/a21721.html#a8f860368df96e430b441c8316db99c93", null ],
-    [ "GetSummoner", "dd/d70/a21721.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
-    [ "IsSummonedBy", "dd/d70/a21721.html#a79676717b7c6219ea74ebe5a580eab28", null ],
-    [ "SpreadFire", "dd/d70/a21721.html#a5727c839b7dd02ea64eccce3606688d1", null ],
-    [ "UpdateAI", "dd/d70/a21721.html#a252875777655e963965676a24c15e766", null ],
-    [ "events", "dd/d70/a21721.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
+    [ "HandleScriptEffect", "dd/d70/a21721.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "dd/d70/a21721.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "dd/d70/a21721.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "dd/d70/a21721.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

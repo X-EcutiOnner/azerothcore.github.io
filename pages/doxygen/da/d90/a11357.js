@@ -1,14 +1,12 @@
 var a11357 =
 [
-    [ "ValidatorList", "da/d90/a11357.html#a9d149151d1ac78e590a1ecc2e5125a05", null ],
-    [ "c_str", "da/d90/a11357.html#a009f68f040bf8c24e84be74e07c6f590", null ],
-    [ "empty", "da/d90/a11357.html#a87225ea97a5d831e1f10119b22e1ac34", null ],
-    [ "Move", "da/d90/a11357.html#ad4c8b4cb693929cc172adaf1e3374451", null ],
-    [ "operator std::string &", "da/d90/a11357.html#a948fc2ddfb36cf885d3c26534a52222d", null ],
-    [ "operator std::string const &", "da/d90/a11357.html#a45b487598b91580467af70cbe7264ee4", null ],
-    [ "operator std::string_view", "da/d90/a11357.html#aa21bedffd7781262ca29ff801e7f8224", null ],
-    [ "Validate", "da/d90/a11357.html#aa1ebd4ac4d40d582d707f04d09187ade", null ],
-    [ "ValidateNth", "da/d90/a11357.html#ae652fb9308dfddeebae5b776c91d2cec", null ],
-    [ "operator>>", "da/d90/a11357.html#ad49e16ca5e4f4a46c243ccfc52f9dee4", null ],
-    [ "_storage", "da/d90/a11357.html#a3c5565a6f92715af1faf92a615f029d3", null ]
+    [ "StartMirrorTimer", "da/d90/a11357.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "da/d90/a11357.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "da/d90/a11357.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "da/d90/a11357.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "da/d90/a11357.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "da/d90/a11357.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "da/d90/a11357.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "da/d90/a11357.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "da/d90/a11357.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

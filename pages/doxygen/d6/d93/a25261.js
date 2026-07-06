@@ -1,9 +1,7 @@
 var a25261 =
 [
-    [ "CheckIfCorpseNear", "d6/d93/a25261.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d6/d93/a25261.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d6/d93/a25261.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d6/d93/a25261.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d6/d93/a25261.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d6/d93/a25261.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "OnPeriodic", "d6/d93/a25261.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d6/d93/a25261.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d6/d93/a25261.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d6/d93/a25261.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

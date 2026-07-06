@@ -1,7 +1,11 @@
 var a20093 =
 [
-    [ "npc_ulduar_saronite_vapors", "da/db7/a20093.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
-    [ "IsSummonedBy", "da/db7/a20093.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
-    [ "JustDied", "da/db7/a20093.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
-    [ "_instance", "da/db7/a20093.html#ad304110ff1bfc33066cd17f04cf40181", null ]
+    [ "npc_auriaya_feral_defender", "da/db7/a20093.html#a84425204b0ad06789edb331ed8495774", null ],
+    [ "DoAction", "da/db7/a20093.html#aea39a90b4e66796c37dde02687a9b2ad", null ],
+    [ "JustDied", "da/db7/a20093.html#aa86cb08096ba0e43280f23d9acd0bfa1", null ],
+    [ "JustEngagedWith", "da/db7/a20093.html#a3d91f99b57ba4d72b526a13f671961ce", null ],
+    [ "Reset", "da/db7/a20093.html#a02b09b7dfdd4036827bb474a57296491", null ],
+    [ "UpdateAI", "da/db7/a20093.html#a7b40afef6b58e7a41b2d00bccbdfe311", null ],
+    [ "_feralEssenceStack", "da/db7/a20093.html#a1ffc377dbad787a5eb132758124df534", null ],
+    [ "_summons", "da/db7/a20093.html#a0b7960f590ba76068c377cf08291ce35", null ]
 ];

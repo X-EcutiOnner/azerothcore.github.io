@@ -1,8 +1,9 @@
 var a09633 =
 [
-    [ "AnyUnfriendlyUnitInObjectRangeCheck", "d1/d24/a09633.html#a2d83b68a7991d3b3dc2355ecde1efa5d", null ],
-    [ "operator()", "d1/d24/a09633.html#a5b02b45b937d6b2b0b141967c70f93d9", null ],
-    [ "i_funit", "d1/d24/a09633.html#a55222acf6dbb538a213eb604f67f40ce", null ],
-    [ "i_obj", "d1/d24/a09633.html#a5d7e5e8898bd092c1055739fae82f693", null ],
-    [ "i_range", "d1/d24/a09633.html#aa1c728ceea2ddc2e88ea07132a3fe250", null ]
+    [ "CreatureSearcher", "d1/d24/a09633.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "d1/d24/a09633.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "d1/d24/a09633.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "d1/d24/a09633.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "d1/d24/a09633.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "d1/d24/a09633.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

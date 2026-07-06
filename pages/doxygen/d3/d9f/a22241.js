@@ -1,6 +1,6 @@
 var a22241 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d1/d58/a22245.html", "d1/d58/a22245" ],
-    [ "instance_mana_tombs", "d3/d9f/a22241.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d3/d9f/a22241.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "HandlePeriodicDummy", "d3/d9f/a22241.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "d3/d9f/a22241.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "d3/d9f/a22241.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

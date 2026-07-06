@@ -1,7 +1,9 @@
 var a09973 =
 [
-    [ "LootGroupInvalidSelector", "d0/d4b/a09973.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d0/d4b/a09973.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d0/d4b/a09973.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d0/d4b/a09973.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "EmoteChatBuilder", "d0/d4b/a09973.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
+    [ "operator()", "d0/d4b/a09973.html#a133a7bb35e86cf40425910c4f19a3337", null ],
+    [ "i_emote_num", "d0/d4b/a09973.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
+    [ "i_player", "d0/d4b/a09973.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
+    [ "i_target", "d0/d4b/a09973.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
+    [ "i_text_emote", "d0/d4b/a09973.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
 ];

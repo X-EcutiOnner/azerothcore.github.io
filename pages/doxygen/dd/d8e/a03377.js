@@ -1,16 +1,10 @@
 var a03377 =
 [
-    [ "AccountScript", "dc/d98/a10591.html", "dc/d98/a10591" ],
-    [ "AccountHook", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3f", [
-      [ "ACCOUNTHOOK_ON_ACCOUNT_LOGIN", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fa97110c19d0d3bf4985d037248fc9a520", null ],
-      [ "ACCOUNTHOOK_ON_BEFORE_ACCOUNT_DELETE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fa68eae28cd3d4824d5a1f43be23334ecb", null ],
-      [ "ACCOUNTHOOK_ON_LAST_IP_UPDATE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3faef7c124ffc203147c487a3fdf3fb3993", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_ACCOUNT_LOGIN", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fad9e09c448ea9ea11d0dab7b19364a744", null ],
-      [ "ACCOUNTHOOK_ON_EMAIL_CHANGE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fa614cf50cd5271ecd85b56e2c96417982", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_EMAIL_CHANGE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fa8d513341e8c3bd3b9ab3d56ad1854fdf", null ],
-      [ "ACCOUNTHOOK_ON_PASSWORD_CHANGE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fa1a346d78a8f0cd7fbf326655e791eec5", null ],
-      [ "ACCOUNTHOOK_ON_FAILED_PASSWORD_CHANGE", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3faa64f8339ee297e9e9d5591423f18f283", null ],
-      [ "ACCOUNTHOOK_CAN_ACCOUNT_CREATE_CHARACTER", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fabbf594e3be51c108e40d535b8ba1baf3", null ],
-      [ "ACCOUNTHOOK_END", "dd/d8e/a03377.html#a4b5c567266fc875ca26b1f3c273a0e3fafdbdba3262877bcac001a3013cdd4f5f", null ]
-    ] ]
+    [ "CALL_ENABLED_BOOLEAN_HOOKS", "dd/d8e/a03377.html#a6ed5893c246e1f2c46b3d33ef8729a64", null ],
+    [ "CALL_ENABLED_BOOLEAN_HOOKS_WITH_DEFAULT_FALSE", "dd/d8e/a03377.html#a370083225ad9db5b05a730ce4fb26d2f", null ],
+    [ "CALL_ENABLED_HOOKS", "dd/d8e/a03377.html#a9662d12a9f13490594165729108aa0b1", null ],
+    [ "ExecuteScript", "dd/d8e/a03377.html#a80951f767a7c77417a671490893db073", null ],
+    [ "GetReturnAIScript", "dd/d8e/a03377.html#aceff01aa3f5ab68a0253704ef30041df", null ],
+    [ "IsValidBoolScript", "dd/d8e/a03377.html#a9dedac0cb410c9d87f0470ffd0eb6c66", null ],
+    [ "ReturnValidBool", "dd/d8e/a03377.html#a670fda94f7e41c38816a1e12f9efec7c", null ]
 ];

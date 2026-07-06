@@ -1,10 +1,8 @@
 var a13877 =
 [
-    [ "npc_sentinel_leader", "de/df7/a13877.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "de/df7/a13877.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "de/df7/a13877.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "de/df7/a13877.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "de/df7/a13877.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "de/df7/a13877.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "de/df7/a13877.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "HandleApply", "de/df7/a13877.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "de/df7/a13877.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "de/df7/a13877.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "de/df7/a13877.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "de/df7/a13877.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

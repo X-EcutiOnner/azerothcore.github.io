@@ -1,7 +1,8 @@
 var a10633 =
 [
-    [ "GameEventScript", "d6/d51/a10633.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "d6/d51/a10633.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "d6/d51/a10633.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "d6/d51/a10633.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "AllCommandScript", "d6/d51/a10633.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d6/d51/a10633.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d6/d51/a10633.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d6/d51/a10633.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d6/d51/a10633.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

@@ -1,6 +1,9 @@
 var a20953 =
 [
-    [ "instance_utgarde_pinnacle_InstanceMapScript", "dc/d2c/a20957.html", "dc/d2c/a20957" ],
-    [ "instance_utgarde_pinnacle", "d0/df9/a20953.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
-    [ "GetInstanceScript", "d0/df9/a20953.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
+    [ "npc_ulduar_keeperAI", "d0/df9/a20953.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "d0/df9/a20953.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "d0/df9/a20953.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "d0/df9/a20953.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "d0/df9/a20953.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "d0/df9/a20953.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

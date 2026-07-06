@@ -1,21 +1,10 @@
 var a00134 =
 [
-    [ "npc_partygoer_pather", "d9/d08/a13936.html", "d9/d08/a13936" ],
-    [ "npc_partygoer", "de/dc3/a13940.html", "de/dc3/a13940" ],
-    [ "npc_lor_themar_theron", "dd/d84/a13944.html", "dd/d84/a13944" ],
-    [ "Partygoer", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "de/d76/a00134.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
-    ] ],
-    [ "Partygoer_Pather", "de/d76/a00134.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "de/d76/a00134.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "de/d76/a00134.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "de/d76/a00134.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "de/d76/a00134.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "de/d76/a00134.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "ArenaHookDefaultsTest", "d6/d97/a29581.html", "d6/d97/a29581" ],
+    [ "TEST_F", "de/d76/a00134.html#af7f1863961720e96f331f17dd1d7ad7a", null ],
+    [ "TEST_F", "de/d76/a00134.html#acede4c371594a1fd0528b8197fcc6cbb", null ],
+    [ "TEST_F", "de/d76/a00134.html#a6677d75c2b2c5b8a1b910e5b7a943867", null ],
+    [ "TEST_F", "de/d76/a00134.html#abb810fe89abdcbd96e44ddf079e86cf3", null ],
+    [ "TEST_F", "de/d76/a00134.html#a107778bcf48a658ed6e9f2a52234d6d0", null ],
+    [ "TEST_F", "de/d76/a00134.html#ab81f733e33491c5907ae23252337725c", null ]
 ];

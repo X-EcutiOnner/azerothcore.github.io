@@ -1,7 +1,7 @@
 var a23901 =
 [
-    [ "HandlePeriodic", "db/d62/a23901.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "db/d62/a23901.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "db/d62/a23901.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "db/d62/a23901.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_kurenai_captiveAI", "d2/de3/a23905.html", "d2/de3/a23905" ],
+    [ "npc_kurenai_captive", "db/d62/a23901.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "db/d62/a23901.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "db/d62/a23901.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

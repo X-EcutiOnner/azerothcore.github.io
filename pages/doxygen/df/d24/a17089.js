@@ -1,7 +1,6 @@
 var a17089 =
 [
-    [ "OnRemove", "df/d24/a17089.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "df/d24/a17089.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "df/d24/a17089.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "df/d24/a17089.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "d6/d91/a17093.html", "d6/d91/a17093" ],
+    [ "instance_trial_of_the_crusader", "df/d24/a17089.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "df/d24/a17089.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

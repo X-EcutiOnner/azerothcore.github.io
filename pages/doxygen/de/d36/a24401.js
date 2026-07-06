@@ -1,6 +1,7 @@
 var a24401 =
 [
-    [ "PrepareAuraScript", "de/d36/a24401.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
-    [ "Register", "de/d36/a24401.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
-    [ "UpdateAmount", "de/d36/a24401.html#a621e73a09438f3f9cbaa232125df3b87", null ]
+    [ "CheckCast", "de/d36/a24401.html#ab215bbeea333d250ecbff0482f4f0966", null ],
+    [ "FilterTargets", "de/d36/a24401.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
+    [ "PrepareSpellScript", "de/d36/a24401.html#a83447d184bb2299987d0c54d5af4c910", null ],
+    [ "Register", "de/d36/a24401.html#a6107ba00471dd346c363db80fe81b698", null ]
 ];

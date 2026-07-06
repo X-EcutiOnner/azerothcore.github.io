@@ -1,6 +1,12 @@
 var a16181 =
 [
-    [ "npc_anub_ar_crusher_crypt_fiend", "d5/d74/a16181.html#a89abbce738f115c26dae9dacb065cc3d", null ],
-    [ "DoEngagedWith", "d5/d74/a16181.html#a20cdbe7eb580cd9f9763019d8927182f", null ],
-    [ "DoEvent", "d5/d74/a16181.html#a276eca6e65b32905f6919d49530ccc2f", null ]
+    [ "DialogueHelper", "d5/d74/a16181.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d5/d74/a16181.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d5/d74/a16181.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d5/d74/a16181.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d5/d74/a16181.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d5/d74/a16181.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d5/d74/a16181.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d5/d74/a16181.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d5/d74/a16181.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

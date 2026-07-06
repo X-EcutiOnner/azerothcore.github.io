@@ -1,12 +1,5 @@
 var a29625 =
 [
-    [ "cellSizeHorizontal", "d7/dea/a29625.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "d7/dea/a29625.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "d7/dea/a29625.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "d7/dea/a29625.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "d7/dea/a29625.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "d7/dea/a29625.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "d7/dea/a29625.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "d7/dea/a29625.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "d7/dea/a29625.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "MakeTime", "d7/dea/a29625.html#a26f7c5c9395291b98facf91b7ba9530b", null ],
+    [ "PackTwoDates", "d7/dea/a29625.html#a62c6e33dcbd3970319b3f8a791063d15", null ]
 ];

@@ -1,6 +1,8 @@
 var a21033 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d8/df6/a21033.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "d8/df6/a21033.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "d8/df6/a21033.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "CheckProc", "d8/df6/a21033.html#a93a45a442c2527468a5bfd4136bb53a0", null ],
+    [ "HandleProc", "d8/df6/a21033.html#a8641ddd1b6722a30b167d170adb47fd8", null ],
+    [ "PrepareAuraScript", "d8/df6/a21033.html#a55ce8f27fa326da9b68db7f4cd4bc334", null ],
+    [ "Register", "d8/df6/a21033.html#a04df3b39b6a80592b6b2afe76e85a1e0", null ],
+    [ "Validate", "d8/df6/a21033.html#ad4176f188412053b9205820fb6183d38", null ]
 ];

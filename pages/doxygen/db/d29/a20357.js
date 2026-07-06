@@ -1,9 +1,7 @@
 var a20357 =
 [
-    [ "HandleEffectPeriodic", "db/d29/a20357.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
-    [ "Load", "db/d29/a20357.html#a60deabce505dd3993dca0e71402dc190", null ],
-    [ "PrepareAuraScript", "db/d29/a20357.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
-    [ "Register", "db/d29/a20357.html#a524c071390365b7dab59bc7a79b50f15", null ],
-    [ "_lastMSTime", "db/d29/a20357.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
-    [ "_lastOrientation", "db/d29/a20357.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
+    [ "HandleEffectPeriodic", "db/d29/a20357.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "db/d29/a20357.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "db/d29/a20357.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "db/d29/a20357.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

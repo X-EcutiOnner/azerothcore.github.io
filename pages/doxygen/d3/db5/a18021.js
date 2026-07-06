@@ -1,6 +1,8 @@
 var a18021 =
 [
-    [ "AbominationDespawner", "d3/db5/a18021.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d3/db5/a18021.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d3/db5/a18021.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "Load", "d3/db5/a18021.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
+    [ "PrepareSpellScript", "d3/db5/a18021.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
+    [ "Register", "d3/db5/a18021.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
+    [ "RelocateDest", "d3/db5/a18021.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
+    [ "SelectTransport", "d3/db5/a18021.html#a0564852176d80ee6593baa3abb18238a", null ]
 ];

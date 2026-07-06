@@ -1,7 +1,6 @@
 var a18917 =
 [
-    [ "HandleScript", "d9/d74/a18917.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d9/d74/a18917.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d9/d74/a18917.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d9/d74/a18917.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "HandleScript", "d9/d74/a18917.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d9/d74/a18917.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d9/d74/a18917.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

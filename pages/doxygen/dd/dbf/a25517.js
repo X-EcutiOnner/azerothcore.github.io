@@ -1,7 +1,8 @@
 var a25517 =
 [
-    [ "HandleProc", "dd/dbf/a25517.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
-    [ "PrepareAuraScript", "dd/dbf/a25517.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
-    [ "Register", "dd/dbf/a25517.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
-    [ "Validate", "dd/dbf/a25517.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
+    [ "HandleFinish", "dd/dbf/a25517.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "dd/dbf/a25517.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "dd/dbf/a25517.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "dd/dbf/a25517.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "dd/dbf/a25517.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

@@ -1,14 +1,10 @@
 var a05773 =
 [
-    [ "SFMTRand", "da/d6e/a05773.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
-    [ "operator delete", "da/d6e/a05773.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
-    [ "operator delete", "da/d6e/a05773.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
-    [ "operator delete[]", "da/d6e/a05773.html#a5051cdb95e18230b7fee753beb621603", null ],
-    [ "operator delete[]", "da/d6e/a05773.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
-    [ "operator new", "da/d6e/a05773.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
-    [ "operator new", "da/d6e/a05773.html#a3dc4f4d003c77547117ec7c31486f884", null ],
-    [ "operator new[]", "da/d6e/a05773.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
-    [ "operator new[]", "da/d6e/a05773.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
-    [ "RandomUInt32", "da/d6e/a05773.html#a8d129952ad2916419cdf54aa474c23c0", null ],
-    [ "_state", "da/d6e/a05773.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
+    [ "AsyncCallbackProcessor", "da/d6e/a05773.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "da/d6e/a05773.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "da/d6e/a05773.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "da/d6e/a05773.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "da/d6e/a05773.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "da/d6e/a05773.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "da/d6e/a05773.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

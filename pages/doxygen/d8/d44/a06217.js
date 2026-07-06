@@ -1,6 +1,11 @@
 var a06217 =
 [
-    [ "TriggerAI", "d8/d44/a06217.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
-    [ "IsSummonedBy", "d8/d44/a06217.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
-    [ "Permissible", "d8/d44/a06217.html#aa979e7a4774b35bf83ed137543d517b1", null ]
+    [ "SQLOperation", "d8/d44/a06217.html#a0f69657715b7d24458227b22a3b40b1a", null ],
+    [ "~SQLOperation", "d8/d44/a06217.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
+    [ "SQLOperation", "d8/d44/a06217.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
+    [ "call", "d8/d44/a06217.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
+    [ "Execute", "d8/d44/a06217.html#aff1090554bc4a6fe7a33270e63416e19", null ],
+    [ "operator=", "d8/d44/a06217.html#ac31349ed45ea051540ac345bd4b814d5", null ],
+    [ "SetConnection", "d8/d44/a06217.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
+    [ "m_conn", "d8/d44/a06217.html#adf322db48064fcf4528f713f857f1b40", null ]
 ];

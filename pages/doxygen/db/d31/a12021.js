@@ -1,5 +1,6 @@
 var a12021 =
 [
-    [ "Command", "db/d31/a12021.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "db/d31/a12021.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "EffectUpdatePeriodicHandler", "db/d31/a12021.html#a6b18a259aa84c847bcc064c5243eb590", null ],
+    [ "Call", "db/d31/a12021.html#a38802863e7859453cbbe58ad91018c67", null ],
+    [ "pEffectHandlerScript", "db/d31/a12021.html#a0e51245e089fcd9532d5789056ab944c", null ]
 ];

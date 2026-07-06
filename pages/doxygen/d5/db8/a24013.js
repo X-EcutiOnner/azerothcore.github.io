@@ -1,8 +1,7 @@
 var a24013 =
 [
-    [ "npc_pet_darting_hatchling", "d5/db8/a24013.html#a7ae5973061068396bf382dc21e88cd44", null ],
-    [ "SpellHit", "d5/db8/a24013.html#a29ea5438bab7e606175c02165a607f9b", null ],
-    [ "UpdateAI", "d5/db8/a24013.html#a23196d05aebe5fa4a65455c55368820a", null ],
-    [ "checkTimer", "d5/db8/a24013.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
-    [ "goFast", "d5/db8/a24013.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
+    [ "o", "d5/db8/a24013.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "d5/db8/a24013.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "d5/db8/a24013.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "d5/db8/a24013.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

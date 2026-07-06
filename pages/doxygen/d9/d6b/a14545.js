@@ -1,7 +1,10 @@
 var a14545 =
 [
-    [ "HandleScriptEffect", "d9/d6b/a14545.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d9/d6b/a14545.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d9/d6b/a14545.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d9/d6b/a14545.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_vilebranch_speaker", "d9/d6b/a14545.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d9/d6b/a14545.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d9/d6b/a14545.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d9/d6b/a14545.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d9/d6b/a14545.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d9/d6b/a14545.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d9/d6b/a14545.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

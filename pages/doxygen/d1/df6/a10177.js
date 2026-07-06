@@ -1,21 +1,8 @@
 var a10177 =
 [
-    [ "MapUpdater", "d1/df6/a10177.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
-    [ "~MapUpdater", "d1/df6/a10177.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
-    [ "activate", "d1/df6/a10177.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
-    [ "activated", "d1/df6/a10177.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
-    [ "deactivate", "d1/df6/a10177.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
-    [ "schedule_lfg_update", "d1/df6/a10177.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
-    [ "schedule_map_preload", "d1/df6/a10177.html#a6caf6c7858d2f3ea6985605b64ea1242", null ],
-    [ "schedule_task", "d1/df6/a10177.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
-    [ "schedule_update", "d1/df6/a10177.html#aafda5775622dcce2e4869cf5d015fefc", null ],
-    [ "update_finished", "d1/df6/a10177.html#ab874c53de215037c8fae77f9dac6601c", null ],
-    [ "wait", "d1/df6/a10177.html#a608eb61de2bacf082422562b049e8652", null ],
-    [ "WorkerThread", "d1/df6/a10177.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
-    [ "_cancelationToken", "d1/df6/a10177.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
-    [ "_condition", "d1/df6/a10177.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
-    [ "_lock", "d1/df6/a10177.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
-    [ "_queue", "d1/df6/a10177.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
-    [ "_workerThreads", "d1/df6/a10177.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
-    [ "pending_requests", "d1/df6/a10177.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
+    [ "BoundaryIntersectBoundary", "d1/df6/a10177.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d1/df6/a10177.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d1/df6/a10177.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d1/df6/a10177.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d1/df6/a10177.html#a41e100c17db99990981293399660824c", null ]
 ];

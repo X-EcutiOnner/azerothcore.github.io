@@ -1,6 +1,9 @@
 var a25733 =
 [
-    [ "HandleDummy", "da/dba/a25733.html#a9530db7f75987879285d224fb8381c2b", null ],
-    [ "PrepareSpellScript", "da/dba/a25733.html#ad1c1bdb577739f769802127960aaf9e5", null ],
-    [ "Register", "da/dba/a25733.html#ae3a340132caf3f8839631c92015d47a0", null ]
+    [ "spell_item_trigger_spell", "da/dba/a25733.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "da/dba/a25733.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "da/dba/a25733.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "da/dba/a25733.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "da/dba/a25733.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "da/dba/a25733.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

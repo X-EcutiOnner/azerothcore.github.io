@@ -1,6 +1,10 @@
 var a18701 =
 [
-    [ "npc_blazing_skeletonAI", "d6/d9d/a18705.html", "d6/d9d/a18705" ],
-    [ "npc_blazing_skeleton", "df/dd9/a18701.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "df/dd9/a18701.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "HandleScript", "df/dd9/a18701.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "df/dd9/a18701.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "df/dd9/a18701.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "df/dd9/a18701.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "df/dd9/a18701.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "df/dd9/a18701.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "df/dd9/a18701.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

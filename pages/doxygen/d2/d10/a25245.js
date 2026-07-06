@@ -1,7 +1,7 @@
 var a25245 =
 [
-    [ "HandleDummy", "d2/d10/a25245.html#a4b23e39151d0bced8bb729435a56352d", null ],
-    [ "Load", "d2/d10/a25245.html#aaa341815d71652a13f3ca449af6ac14f", null ],
-    [ "PrepareSpellScript", "d2/d10/a25245.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
-    [ "Register", "d2/d10/a25245.html#a19a2247cebd2af38a1bd30af213ad633", null ]
+    [ "ModDest", "d2/d10/a25245.html#afe0fb68de61a657ce6900e71973e4d77", null ],
+    [ "ModifyCookingSkill", "d2/d10/a25245.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
+    [ "PrepareSpellScript", "d2/d10/a25245.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
+    [ "Register", "d2/d10/a25245.html#a6919079b43a816eb601a68c51ad39794", null ]
 ];

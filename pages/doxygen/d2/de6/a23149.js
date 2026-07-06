@@ -1,6 +1,8 @@
 var a23149 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d1/d21/a23153.html", "d1/d21/a23153" ],
-    [ "instance_blood_furnace", "d2/de6/a23149.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d2/de6/a23149.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "FilterTargets", "d2/de6/a23149.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "d2/de6/a23149.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "d2/de6/a23149.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "d2/de6/a23149.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "d2/de6/a23149.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

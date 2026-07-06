@@ -1,7 +1,6 @@
 var a24081 =
 [
-    [ "HandleEffectApply", "d7/d1a/a24081.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d7/d1a/a24081.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d7/d1a/a24081.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d7/d1a/a24081.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "npc_kservantAI", "d9/dcc/a24085.html", "d9/dcc/a24085" ],
+    [ "npc_kservant", "d7/d1a/a24081.html#af04c8a87516e41f7d35071664034af9d", null ],
+    [ "GetAI", "d7/d1a/a24081.html#a3ae7327ec2ead5a2d3ffb043f18ccc09", null ]
 ];

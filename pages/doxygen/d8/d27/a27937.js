@@ -1,5 +1,7 @@
 var a27937 =
 [
-    [ "item_incendiary_explosives", "d8/d27/a27937.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d8/d27/a27937.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "HandlePeriodic", "d8/d27/a27937.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d8/d27/a27937.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d8/d27/a27937.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d8/d27/a27937.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

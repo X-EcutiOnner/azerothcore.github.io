@@ -1,8 +1,7 @@
 var a24721 =
 [
-    [ "Absorb", "dd/dac/a24721.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "dd/dac/a24721.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "dd/dac/a24721.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "dd/dac/a24721.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "dd/dac/a24721.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "HandleProc", "dd/dac/a24721.html#affff04bf12559312333c70672dc8407f", null ],
+    [ "PrepareAuraScript", "dd/dac/a24721.html#aa604bb8cc1fd9d94ee494c7bc96c5a5b", null ],
+    [ "Register", "dd/dac/a24721.html#ae2ee810101bd32c061c3e06dea99d7cb", null ],
+    [ "Validate", "dd/dac/a24721.html#afc60c67af40f55b7a0017e5143bb52f7", null ]
 ];

@@ -1,6 +1,7 @@
 var a18065 =
 [
-    [ "PrepareSpellScript", "dc/d69/a18065.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "dc/d69/a18065.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "dc/d69/a18065.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "FilterTargets", "dc/d69/a18065.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "dc/d69/a18065.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "dc/d69/a18065.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "dc/d69/a18065.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

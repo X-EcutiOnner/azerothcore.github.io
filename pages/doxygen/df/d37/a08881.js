@@ -1,6 +1,7 @@
 var a08881 =
 [
-    [ "SavedItem", "df/d37/a08881.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
-    [ "dstpos", "df/d37/a08881.html#af844c8b955858b1ead94798c6326fa03", null ],
-    [ "item", "df/d37/a08881.html#afaa651441e306c13acc3cd1aa3084170", null ]
+    [ "IsInSpec", "df/d37/a08881.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "df/d37/a08881.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "df/d37/a08881.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "df/d37/a08881.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

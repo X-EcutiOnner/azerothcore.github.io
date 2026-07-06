@@ -1,6 +1,10 @@
 var a15973 =
 [
-    [ "npc_cairne_bloodhoofAI", "dd/d53/a15977.html", "dd/d53/a15977" ],
-    [ "npc_cairne_bloodhoof", "d2/d8c/a15973.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "d2/d8c/a15973.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_omenAI", "d2/d8c/a15973.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
+    [ "JustDied", "d2/d8c/a15973.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
+    [ "JustEngagedWith", "d2/d8c/a15973.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
+    [ "MovementInform", "d2/d8c/a15973.html#a92e59bde1f0da2ee537a836304a3c385", null ],
+    [ "SpellHit", "d2/d8c/a15973.html#a4e3960d506fd0435de055a365906a9c9", null ],
+    [ "UpdateAI", "d2/d8c/a15973.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
+    [ "events", "d2/d8c/a15973.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
 ];

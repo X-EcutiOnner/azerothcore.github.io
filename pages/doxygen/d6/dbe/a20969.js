@@ -1,11 +1,13 @@
 var a20969 =
 [
-    [ "boss_archavonAI", "d6/dbe/a20969.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "d6/dbe/a20969.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "d6/dbe/a20969.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "d6/dbe/a20969.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "d6/dbe/a20969.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "d6/dbe/a20969.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "d6/dbe/a20969.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "d6/dbe/a20969.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "npc_ulduar_arachnopod_destroyer", "d6/dbe/a20969.html#a13422abe59c4aa11bee16225d689c054", null ],
+    [ "AttackStart", "d6/dbe/a20969.html#ac634717023bd5827e2b8b1f4c79c6084", null ],
+    [ "DamageTaken", "d6/dbe/a20969.html#a80a63823a5ffb19fd84fe3da5e9e4659", null ],
+    [ "EnterEvadeMode", "d6/dbe/a20969.html#acb089a5226af27005ac2356e84e976aa", null ],
+    [ "OnCharmed", "d6/dbe/a20969.html#a3d24ff7efa6a822b5d5c6c762b026d75", null ],
+    [ "PassengerBoarded", "d6/dbe/a20969.html#a1b15edb1527095dcac5f9c0ef183fb55", null ],
+    [ "Reset", "d6/dbe/a20969.html#a7fa3aa16e4764b5ce4a93eef855010f8", null ],
+    [ "UpdateAI", "d6/dbe/a20969.html#a87d4086066ac53697793152fdcebf841", null ],
+    [ "_spawnedMechanic", "d6/dbe/a20969.html#ae781e2c258ac3ce268821b98ae310a0f", null ],
+    [ "events", "d6/dbe/a20969.html#a7cb0d83e8b94808fa16539ea098e1a2f", null ]
 ];

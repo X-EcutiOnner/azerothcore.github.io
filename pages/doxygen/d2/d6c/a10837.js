@@ -1,7 +1,8 @@
 var a10837 =
 [
-    [ "LogoutResponse", "d2/d6c/a10837.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "d2/d6c/a10837.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "d2/d6c/a10837.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "d2/d6c/a10837.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "type", "d2/d6c/a10837.html#a93b2e49d8b93d48c1fcf9ce460f965d6", null ],
+    [ "EnabledHooks", "d2/d6c/a10837.html#ac0ca0ab60e350e783c1297a657e32cdc", null ],
+    [ "HasEnabledHooks", "d2/d6c/a10837.html#a8cad14090933423a3bd83b87af723810", null ],
+    [ "LegacyDbValidationCandidate", "d2/d6c/a10837.html#a1c71456b199770112365ee54f0bd28ad", null ],
+    [ "PromotedAfterDbLoad", "d2/d6c/a10837.html#a1800cba1759f5cdee36e47e3aa4ab2e8", null ]
 ];

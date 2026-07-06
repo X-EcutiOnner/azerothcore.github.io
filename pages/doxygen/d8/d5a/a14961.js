@@ -1,7 +1,6 @@
 var a14961 =
 [
-    [ "hyjalJainaAI", "d4/d80/a14965.html", "d4/d80/a14965" ],
-    [ "npc_hyjal_jaina", "d8/d5a/a14961.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d8/d5a/a14961.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d8/d5a/a14961.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "HandleAfterEffectApply", "d8/d5a/a14961.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d8/d5a/a14961.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d8/d5a/a14961.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

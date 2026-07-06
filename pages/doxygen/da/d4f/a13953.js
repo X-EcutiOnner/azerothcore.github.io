@@ -1,6 +1,9 @@
 var a13953 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d2/d3a/a13957.html", "d2/d3a/a13957" ],
-    [ "npc_lord_gregor_lescovar", "da/d4f/a13953.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "da/d4f/a13953.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "spell_sunwell_teleport", "da/d4f/a13953.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "da/d4f/a13953.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "da/d4f/a13953.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "da/d4f/a13953.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "da/d4f/a13953.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "da/d4f/a13953.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

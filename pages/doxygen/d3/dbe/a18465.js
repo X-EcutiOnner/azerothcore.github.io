@@ -1,7 +1,9 @@
 var a18465 =
 [
-    [ "CheckTargetCount", "d3/dbe/a18465.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "d3/dbe/a18465.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "d3/dbe/a18465.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "d3/dbe/a18465.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "FilterTargets", "d3/dbe/a18465.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d3/dbe/a18465.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d3/dbe/a18465.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d3/dbe/a18465.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d3/dbe/a18465.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d3/dbe/a18465.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

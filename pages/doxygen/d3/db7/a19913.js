@@ -1,6 +1,12 @@
 var a19913 =
 [
-    [ "FilterTargets", "d3/db7/a19913.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d3/db7/a19913.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d3/db7/a19913.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_sjonnirAI", "d3/db7/a19913.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "d3/db7/a19913.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "d3/db7/a19913.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "d3/db7/a19913.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "d3/db7/a19913.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "d3/db7/a19913.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "d3/db7/a19913.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "ScheduleTasks", "d3/db7/a19913.html#a5c3c31c5be424795e4e96291c910c73c", null ],
+    [ "SlugeCount", "d3/db7/a19913.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
 ];

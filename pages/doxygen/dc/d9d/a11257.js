@@ -1,7 +1,7 @@
 var a11257 =
 [
-    [ "RandomRollClient", "dc/d9d/a11257.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
-    [ "Read", "dc/d9d/a11257.html#ab682763f35a40f776b1742927df0a336", null ],
-    [ "Max", "dc/d9d/a11257.html#a45a1e140ed402f54deb4c0798360a43a", null ],
-    [ "Min", "dc/d9d/a11257.html#a3cd07e7891b43b453b56013d76f51f71", null ]
+    [ "ReadItem", "dc/d9d/a11257.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
+    [ "Read", "dc/d9d/a11257.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
+    [ "Bag", "dc/d9d/a11257.html#a16c02f27e986ac3d093668092d67a3c9", null ],
+    [ "Slot", "dc/d9d/a11257.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
 ];

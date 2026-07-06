@@ -1,7 +1,6 @@
 var a25421 =
 [
-    [ "CalculateDamageAmount", "df/d46/a25421.html#a2f608e8391e61434ef1b164c023854fe", null ],
-    [ "CalculateManaLeechAmount", "df/d46/a25421.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
-    [ "PrepareAuraScript", "df/d46/a25421.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
-    [ "Register", "df/d46/a25421.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
+    [ "PrepareAuraScript", "df/d46/a25421.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "df/d46/a25421.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "df/d46/a25421.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

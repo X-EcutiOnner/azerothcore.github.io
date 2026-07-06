@@ -1,7 +1,7 @@
 var a24993 =
 [
-    [ "EjectPassenger", "d8/d85/a24993.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d8/d85/a24993.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d8/d85/a24993.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d8/d85/a24993.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "HandleScript", "d8/d85/a24993.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "d8/d85/a24993.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "d8/d85/a24993.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "d8/d85/a24993.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

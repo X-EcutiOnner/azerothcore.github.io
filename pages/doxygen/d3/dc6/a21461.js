@@ -1,6 +1,9 @@
 var a21461 =
 [
-    [ "npc_q24545_vegardAI", "dc/d38/a21465.html", "dc/d38/a21465" ],
-    [ "npc_q24545_vegard", "d3/dc6/a21461.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d3/dc6/a21461.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_bloodmage_laurithAI", "d3/dc6/a21461.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d3/dc6/a21461.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d3/dc6/a21461.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "d3/dc6/a21461.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d3/dc6/a21461.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d3/dc6/a21461.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

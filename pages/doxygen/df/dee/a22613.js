@@ -1,6 +1,8 @@
 var a22613 =
 [
-    [ "HandleEffectRemove", "df/dee/a22613.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "df/dee/a22613.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "df/dee/a22613.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "Load", "df/dee/a22613.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "df/dee/a22613.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "df/dee/a22613.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "df/dee/a22613.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "df/dee/a22613.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

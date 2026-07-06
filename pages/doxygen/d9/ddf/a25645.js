@@ -1,6 +1,7 @@
 var a25645 =
 [
-    [ "CheckSinkholes", "d9/ddf/a25645.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d9/ddf/a25645.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d9/ddf/a25645.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleScriptEffect", "d9/ddf/a25645.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "d9/ddf/a25645.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "d9/ddf/a25645.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "d9/ddf/a25645.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

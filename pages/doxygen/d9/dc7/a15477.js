@@ -1,6 +1,7 @@
 var a15477 =
 [
-    [ "FilterTargets", "d9/dc7/a15477.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "d9/dc7/a15477.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "d9/dc7/a15477.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "go_sand_trap", "d9/dc7/a15477.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d9/dc7/a15477.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d9/dc7/a15477.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d9/dc7/a15477.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

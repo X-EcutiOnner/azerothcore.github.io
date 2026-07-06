@@ -1,12 +1,8 @@
 var a20525 =
 [
-    [ "npc_xt002_boombot", "d6/d76/a20525.html#a40d523365cd398085b7f8dc96c3a52a1", null ],
-    [ "DamageTaken", "d6/d76/a20525.html#a6686960dcf9050c62f707f80f8e378e9", null ],
-    [ "Explode", "d6/d76/a20525.html#a4c0c94a400b20cb910cb6c10e18af31a", null ],
-    [ "JustDied", "d6/d76/a20525.html#ae0de009da55f76fc28aea4bf2c3853da", null ],
-    [ "MovementInform", "d6/d76/a20525.html#ab112bdd9d3e2cd680d2a937d5ce37af6", null ],
-    [ "Reset", "d6/d76/a20525.html#a0b5e372dc3c7fadb6d0ccf5138487a9d", null ],
-    [ "UpdateAI", "d6/d76/a20525.html#a2a8b91db7af5f9f935623fe2b2ba3455", null ],
-    [ "_boomed", "d6/d76/a20525.html#a4307aaf92856d146095497cf74ef3e67", null ],
-    [ "_locked", "d6/d76/a20525.html#ad46600f129729931422b5c9c70568e3f", null ]
+    [ "npc_ulduar_mimiron_rocket", "d6/d76/a20525.html#abd32fde821053b6c8aa3dd83e25b6ad6", null ],
+    [ "InitializeAI", "d6/d76/a20525.html#ac7fd972d6b973240256ee8b0af57ffad", null ],
+    [ "Reset", "d6/d76/a20525.html#a982da2f2392882a86e72de4c4769fa41", null ],
+    [ "SetData", "d6/d76/a20525.html#a507124f21657b62ff2b68060b52503b1", null ],
+    [ "UpdateAI", "d6/d76/a20525.html#ac26ec740ce5fa75f96babbe26e2263cc", null ]
 ];

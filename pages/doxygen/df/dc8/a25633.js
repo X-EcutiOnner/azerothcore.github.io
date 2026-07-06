@@ -1,6 +1,7 @@
 var a25633 =
 [
-    [ "CalculateAmount", "df/dc8/a25633.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
-    [ "PrepareAuraScript", "df/dc8/a25633.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
-    [ "Register", "df/dc8/a25633.html#a37e277143b2ae6cd88260776941b59bf", null ]
+    [ "HandleDummy", "df/dc8/a25633.html#a5a82cbe58f57c94441cfda618e0eecca", null ],
+    [ "HandleScriptEffect", "df/dc8/a25633.html#a30d760a8708b49a185eb000249a9a5eb", null ],
+    [ "PrepareSpellScript", "df/dc8/a25633.html#a102d8493d285757c789cbba4a1bdc688", null ],
+    [ "Register", "df/dc8/a25633.html#ab4031ddb745995128854c149f7706045", null ]
 ];

@@ -1,6 +1,12 @@
 var a17801 =
 [
-    [ "npc_gunship_mageAI", "d4/df0/a17805.html", "d4/df0/a17805" ],
-    [ "npc_gunship_mage", "dc/dc2/a17801.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "dc/dc2/a17801.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "npc_high_overlord_saurfangAI", "dc/dc2/a17801.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "dc/dc2/a17801.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "dc/dc2/a17801.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "dc/dc2/a17801.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "dc/dc2/a17801.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "dc/dc2/a17801.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "dc/dc2/a17801.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "dc/dc2/a17801.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "dc/dc2/a17801.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

@@ -1,13 +1,6 @@
 var a08257 =
 [
-    [ "LfgQueueData", "d6/d6c/a08257.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
-    [ "LfgQueueData", "d6/d6c/a08257.html#a363aa2cc53bce304893335ca93755103", null ],
-    [ "bestCompatible", "d6/d6c/a08257.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
-    [ "dps", "d6/d6c/a08257.html#ab78711eaf7285a5d4821e52354124646", null ],
-    [ "dungeons", "d6/d6c/a08257.html#a6b115f3a5e0ff996279db044f47f5823", null ],
-    [ "healers", "d6/d6c/a08257.html#a8b2049474102332ddca53f0892565216", null ],
-    [ "joinTime", "d6/d6c/a08257.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
-    [ "lastRefreshTime", "d6/d6c/a08257.html#a727d35760b716270c5f326f343106d0c", null ],
-    [ "roles", "d6/d6c/a08257.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
-    [ "tanks", "d6/d6c/a08257.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
+    [ "p0", "d6/d6c/a08257.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
+    [ "p1", "d6/d6c/a08257.html#a8c5a9c6371f264469203575be48684fa", null ],
+    [ "p2", "d6/d6c/a08257.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
 ];

@@ -1,7 +1,9 @@
 var a27101 =
 [
-    [ "HandleDummy", "d7/d63/a27101.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d7/d63/a27101.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d7/d63/a27101.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d7/d63/a27101.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "HandleAfterHit", "d7/d63/a27101.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d7/d63/a27101.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d7/d63/a27101.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d7/d63/a27101.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d7/d63/a27101.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d7/d63/a27101.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

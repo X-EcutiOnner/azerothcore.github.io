@@ -1,9 +1,7 @@
 var a27013 =
 [
-    [ "Absorb", "df/d2b/a27013.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "df/d2b/a27013.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "df/d2b/a27013.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "df/d2b/a27013.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "df/d2b/a27013.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "df/d2b/a27013.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "HandleEffectPeriodic", "df/d2b/a27013.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "df/d2b/a27013.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "df/d2b/a27013.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "df/d2b/a27013.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

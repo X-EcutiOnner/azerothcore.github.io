@@ -1,9 +1,7 @@
 var a14181 =
 [
-    [ "npc_zulaman_hostageAI", "de/dda/a14181.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
-    [ "JustDied", "de/dda/a14181.html#af87bdebb039f1da5736408cf3aad6487", null ],
-    [ "JustEngagedWith", "de/dda/a14181.html#af0aa229973da1a6230a854439658e9ed", null ],
-    [ "UpdateAI", "de/dda/a14181.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
-    [ "IsLoot", "de/dda/a14181.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
-    [ "PlayerGUID", "de/dda/a14181.html#a49f15c5a94d005c56218d00ac6732b82", null ]
+    [ "o", "de/dda/a14181.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "de/dda/a14181.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "de/dda/a14181.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "de/dda/a14181.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

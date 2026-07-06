@@ -1,8 +1,7 @@
 var a13741 =
 [
-    [ "HandleApply", "de/d86/a13741.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "de/d86/a13741.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "de/d86/a13741.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "de/d86/a13741.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "de/d86/a13741.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "CheckCast", "de/d86/a13741.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "de/d86/a13741.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "de/d86/a13741.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "de/d86/a13741.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

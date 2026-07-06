@@ -1,7 +1,6 @@
 var a13409 =
 [
-    [ "OnApply", "d9/d1a/a13409.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d9/d1a/a13409.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d9/d1a/a13409.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d9/d1a/a13409.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "ModDestHeight", "d9/d1a/a13409.html#ae5e63f8d6e9e3fa05a82cd5708b44527", null ],
+    [ "PrepareSpellScript", "d9/d1a/a13409.html#a7447499330dc583210b7a172265dbb69", null ],
+    [ "Register", "d9/d1a/a13409.html#a75e577bbe27b2742f6209b7d295dcafa", null ]
 ];

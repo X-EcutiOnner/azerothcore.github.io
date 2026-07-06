@@ -1,10 +1,19 @@
 var a04346 =
 [
-    [ "PreparedStatementData", "d3/d0b/a06139.html", "d3/d0b/a06139" ],
-    [ "PreparedStatementBase", "d7/dc5/a06143.html", "d7/dc5/a06143" ],
-    [ "PreparedStatement< T >", "d8/d4e/a06011.html", "d8/d4e/a06011" ],
-    [ "PreparedStatementTask", "d1/d10/a06147.html", "d1/d10/a06147" ],
-    [ "is_default", "d7/d74/a04346.html#a6d4fe40146df0d52c6917d8cc920ac84", null ],
-    [ "is_enum_v", "d7/d74/a04346.html#ae544e1b7f5a34959b1b48592f67dd4e7", null ],
-    [ "is_non_string_view_v", "d7/d74/a04346.html#a67eb68c20f5616b2ea2a16a87784360a", null ]
+    [ "QueryResultFieldMetadata", "d0/de5/a06061.html", "d0/de5/a06061" ],
+    [ "Field", "d2/db5/a06065.html", "d2/db5/a06065" ],
+    [ "Binary", "d7/d74/a04346.html#a45c2b15f675e85c1f4462be09f27c59e", null ],
+    [ "is_chrono_v", "d7/d74/a04346.html#aa6a7b1e80be2ae7ec2efb76185ee7b44", null ],
+    [ "DatabaseFieldTypes", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091", [
+      [ "Null", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091abbb93ef26e3c101ff11cdd21cab08a94", null ],
+      [ "Int8", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a7d839b2c12bfd40ac121b4cc9e81c539", null ],
+      [ "Int16", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a39bc2ae44b184207f560ff8619823208", null ],
+      [ "Int32", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091ac06129f6e6e15c09328365e553f1dc31", null ],
+      [ "Int64", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091afbde23b11d7e59af7828e81144c8b487", null ],
+      [ "Float", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a22ae0e2b89e5e3d477f988cc36d3272b", null ],
+      [ "Double", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091ad909d38d705ce75386dd86e611a82f5b", null ],
+      [ "Decimal", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a937504f318f04eaf0f1d701df4c4d7f3", null ],
+      [ "Date", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a44749712dbec183e983dcd78a7736c41", null ],
+      [ "Binary", "d7/d74/a04346.html#a52858f4c2cc23ac9372ab466fb82c091a6ce976e8f061b2b5cfe4d0c50c3405dd", null ]
+    ] ]
 ];

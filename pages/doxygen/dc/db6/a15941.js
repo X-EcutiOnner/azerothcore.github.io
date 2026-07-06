@@ -1,13 +1,6 @@
 var a15941 =
 [
-    [ "npc_wizzlecrank_shredderAI", "dc/db6/a15941.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "dc/db6/a15941.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "dc/db6/a15941.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "dc/db6/a15941.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "dc/db6/a15941.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointReached", "dc/db6/a15941.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "WaypointStart", "dc/db6/a15941.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "dc/db6/a15941.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "dc/db6/a15941.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "dc/db6/a15941.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npcs_riverbreeze_and_silversky", "dc/db6/a15941.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "dc/db6/a15941.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "dc/db6/a15941.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

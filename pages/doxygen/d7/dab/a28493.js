@@ -1,10 +1,7 @@
 var a28493 =
 [
-    [ "npc_air_force_botsAI", "d7/dab/a28493.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d7/dab/a28493.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d7/dab/a28493.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d7/dab/a28493.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d7/dab/a28493.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d7/dab/a28493.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d7/dab/a28493.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "HandleDummy", "d7/dab/a28493.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d7/dab/a28493.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d7/dab/a28493.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d7/dab/a28493.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

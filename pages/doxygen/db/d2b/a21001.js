@@ -1,7 +1,9 @@
 var a21001 =
 [
-    [ "HandleDummy", "db/d2b/a21001.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "db/d2b/a21001.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "db/d2b/a21001.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "db/d2b/a21001.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_vrykul_skeleton", "db/d2b/a21001.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
+    [ "DamageTaken", "db/d2b/a21001.html#a840244c4183987e4fda533edb2ddeff2", null ],
+    [ "Reset", "db/d2b/a21001.html#af950342b2177c84c101485736855b998", null ],
+    [ "UpdateAI", "db/d2b/a21001.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
+    [ "events", "db/d2b/a21001.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
+    [ "pInstance", "db/d2b/a21001.html#a834f0162540683c20f9fa0f9e32eee33", null ]
 ];

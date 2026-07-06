@@ -1,7 +1,7 @@
 var a20745 =
 [
-    [ "HandleEffectPeriodic", "de/d89/a20745.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "de/d89/a20745.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "de/d89/a20745.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "de/d89/a20745.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "FilterTargets", "de/d89/a20745.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "de/d89/a20745.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "de/d89/a20745.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "de/d89/a20745.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

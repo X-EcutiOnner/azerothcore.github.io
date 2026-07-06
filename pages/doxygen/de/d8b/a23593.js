@@ -1,6 +1,6 @@
 var a23593 =
 [
-    [ "npc_simon_bunnyAI", "d3/d8b/a23597.html", "d3/d8b/a23597" ],
-    [ "npc_simon_bunny", "de/d8b/a23593.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "de/d8b/a23593.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d3/d8b/a23597.html", "d3/d8b/a23597" ],
+    [ "instance_the_botanica", "de/d8b/a23593.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "de/d8b/a23593.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

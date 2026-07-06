@@ -1,6 +1,6 @@
 var a23781 =
 [
-    [ "npc_dragonmaw_peonAI", "dc/d66/a23785.html", "dc/d66/a23785" ],
-    [ "npc_dragonmaw_peon", "d0/db8/a23781.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d0/db8/a23781.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npc_deaths_fel_cannonAI", "dc/d66/a23785.html", "dc/d66/a23785" ],
+    [ "npc_deaths_fel_cannon", "d0/db8/a23781.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "d0/db8/a23781.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

@@ -1,7 +1,6 @@
 var a28389 =
 [
-    [ "npc_engineering_tele_trinket", "dd/d77/a28389.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "dd/d77/a28389.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "dd/d77/a28389.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "dd/d77/a28389.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "npc_fireworkAI", "dd/db0/a28393.html", "dd/db0/a28393" ],
+    [ "npc_firework", "dd/d77/a28389.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "dd/d77/a28389.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

@@ -1,7 +1,12 @@
 var a16301 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d3/dae/a16301.html#aed531e61508d4d404827f47c6348a5e6", null ],
-    [ "JustEngagedWith", "d3/dae/a16301.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
-    [ "UpdateAI", "d3/dae/a16301.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
-    [ "_events", "d3/dae/a16301.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
+    [ "npc_taldaram_flamesphere", "d3/dae/a16301.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "d3/dae/a16301.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "d3/dae/a16301.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "MovementInform", "d3/dae/a16301.html#a785c491b7144420cd4975e62c9a8a711", null ],
+    [ "SetVictimPos", "d3/dae/a16301.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "d3/dae/a16301.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "d3/dae/a16301.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "d3/dae/a16301.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "d3/dae/a16301.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

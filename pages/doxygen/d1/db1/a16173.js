@@ -1,9 +1,14 @@
 var a16173 =
 [
-    [ "npc_anub_ar_crusher", "d1/db1/a16173.html#a0520d606e8f8fa6f2c1262e025ea2c1c", null ],
-    [ "DamageTaken", "d1/db1/a16173.html#a4fa72bcf368ddc6e8bb4cd986fa50cd2", null ],
-    [ "DoEngagedWith", "d1/db1/a16173.html#a70238afe4b9ae58b99067581db6734c8", null ],
-    [ "DoEvent", "d1/db1/a16173.html#ac20630563a1869f56f538968cb8bb1ea", null ],
-    [ "JustDied", "d1/db1/a16173.html#a66dc8cb3dc096dc0aa5b464879773df7", null ],
-    [ "_hadFrenzy", "d1/db1/a16173.html#a0e3c9d35a654e82d5f845b820de2a9a1", null ]
+    [ "npc_ringoAI", "d1/db1/a16173.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
+    [ "ClearFaint", "d1/db1/a16173.html#abd24108debcafafa601958824d44abbb", null ],
+    [ "MoveInLineOfSight", "d1/db1/a16173.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
+    [ "Reset", "d1/db1/a16173.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
+    [ "SetFaint", "d1/db1/a16173.html#a09d3770aade34afe5a3a15e17cc64933", null ],
+    [ "SpellHit", "d1/db1/a16173.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
+    [ "UpdateFollowerAI", "d1/db1/a16173.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
+    [ "EndEventProgress", "d1/db1/a16173.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
+    [ "EndEventTimer", "d1/db1/a16173.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
+    [ "FaintTimer", "d1/db1/a16173.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
+    [ "SpraggleGUID", "d1/db1/a16173.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
 ];

@@ -1,9 +1,10 @@
 var a29637 =
 [
-    [ "MapTiles", "d7/d79/a29637.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d7/d79/a29637.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d7/d79/a29637.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d7/d79/a29637.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d7/d79/a29637.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d7/d79/a29637.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "SetUp", "d7/d79/a29637.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "d7/d79/a29637.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "d7/d79/a29637.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "d7/d79/a29637.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "d7/d79/a29637.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "d7/d79/a29637.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "d7/d79/a29637.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

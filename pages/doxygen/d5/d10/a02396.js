@@ -1,9 +1,6 @@
 var a02396 =
 [
-    [ "WorldPackets::NPC::Hello", "d5/dac/a11356.html", "d5/dac/a11356" ],
-    [ "WorldPackets::NPC::TrainerListSpell", "d7/d67/a11360.html", "d7/d67/a11360" ],
-    [ "WorldPackets::NPC::TrainerList", "d1/d90/a11364.html", "d1/d90/a11364" ],
-    [ "WorldPackets::NPC::TrainerBuySpell", "d8/d1b/a11368.html", "d8/d1b/a11368" ],
-    [ "WorldPackets::NPC::TrainerBuyFailed", "dc/d4e/a11372.html", "dc/d4e/a11372" ],
-    [ "WorldPackets::NPC::TrainerBuySucceeded", "d4/d14/a11376.html", "d4/d14/a11376" ]
+    [ "ChatHandler", "d1/d10/a07885.html", "d1/d10/a07885" ],
+    [ "CliHandler", "d6/d34/a07889.html", "d6/d34/a07889" ],
+    [ "AddonChannelCommandHandler", "d4/db3/a07893.html", "d4/db3/a07893" ]
 ];

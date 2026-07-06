@@ -1,6 +1,8 @@
 var a12389 =
 [
-    [ "boss_drektharAI", "d2/dd5/a12393.html", "d2/dd5/a12393" ],
-    [ "boss_drekthar", "d5/d58/a12389.html#ac9296654b10191ac9d58219ba36f57b3", null ],
-    [ "GetAI", "d5/d58/a12389.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
+    [ "honor_commandscript", "d5/d58/a12389.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
+    [ "GetCommands", "d5/d58/a12389.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
+    [ "HandleHonorAddCommand", "d5/d58/a12389.html#a03caa77b436e3d513e1325badf05df33", null ],
+    [ "HandleHonorAddKillCommand", "d5/d58/a12389.html#aec79f459796d821a032477827e16308a", null ],
+    [ "HandleHonorUpdateCommand", "d5/d58/a12389.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
 ];

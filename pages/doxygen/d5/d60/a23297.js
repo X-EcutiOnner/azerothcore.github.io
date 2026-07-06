@@ -1,5 +1,8 @@
 var a23297 =
 [
-    [ "at_shattered_halls_execution", "d5/d60/a23297.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d5/d60/a23297.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "ApplyStun", "d5/d60/a23297.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "d5/d60/a23297.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "d5/d60/a23297.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "d5/d60/a23297.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "d5/d60/a23297.html#a66d91a87078c663903cd836344eec867", null ]
 ];

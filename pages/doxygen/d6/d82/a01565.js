@@ -1,5 +1,5 @@
 var a01565 =
 [
-    [ "mmaps_commandscript", "db/d4c/a12415.html", "db/d4c/a12415" ],
-    [ "AddSC_mmaps_commandscript", "d6/d82/a01565.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
+    [ "spellinfo_commandscript", "d4/d06/a12525.html", "d4/d06/a12525" ],
+    [ "AddSC_spellinfo_commandscript", "d6/d82/a01565.html#ab9e45d5e5eb40c48734ab273bdb3be64", null ]
 ];

@@ -1,6 +1,6 @@
 var a19573 =
 [
-    [ "instance_oculus_InstanceMapScript", "dc/d30/a19577.html", "dc/d30/a19577" ],
-    [ "instance_oculus", "de/db1/a19573.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "de/db1/a19573.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "DespawnTime", "de/db1/a19573.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "de/db1/a19573.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "de/db1/a19573.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

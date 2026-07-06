@@ -1,7 +1,12 @@
 var a16085 =
 [
-    [ "HandleDummy", "d9/d87/a16085.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d9/d87/a16085.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d9/d87/a16085.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d9/d87/a16085.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_toogaAI", "d9/d87/a16085.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
+    [ "MoveInLineOfSight", "d9/d87/a16085.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
+    [ "MovementInform", "d9/d87/a16085.html#a9315e8ba2688903aaf5b871a7490a700", null ],
+    [ "Reset", "d9/d87/a16085.html#acfedaf5cc989451a4259a65661685f66", null ],
+    [ "UpdateFollowerAI", "d9/d87/a16085.html#a742791e714be1ff713ab87e7d515bd9e", null ],
+    [ "CheckSpeechTimer", "d9/d87/a16085.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
+    [ "PhasePostEvent", "d9/d87/a16085.html#a4996291afa64e35f3604b2a85ea03dda", null ],
+    [ "PostEventTimer", "d9/d87/a16085.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
+    [ "TortaGUID", "d9/d87/a16085.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
 ];

@@ -1,6 +1,7 @@
 var a19589 =
 [
-    [ "npc_oculus_drakeAI", "d8/dc1/a19593.html", "d8/dc1/a19593" ],
-    [ "npc_oculus_drake", "d0/d2a/a19589.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "d0/d2a/a19589.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "npc_naxxramas_trigger", "d0/d2a/a19589.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d0/d2a/a19589.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d0/d2a/a19589.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d0/d2a/a19589.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

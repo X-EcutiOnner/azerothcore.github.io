@@ -1,7 +1,5 @@
 var a03104 =
 [
-    [ "AuraApplication", "dc/d7a/a11743.html", "dc/d7a/a11743" ],
-    [ "Aura", "df/d18/a11747.html", "df/d18/a11747" ],
-    [ "UnitAura", "d0/db6/a11751.html", "d0/db6/a11751" ],
-    [ "DynObjAura", "d7/d70/a11755.html", "d7/d70/a11755" ]
+    [ "MotdMap", "da/dc0/a03104.html#a5c662919d486ab6fdecf6195e172bc0d", null ],
+    [ "MotdPackets", "da/dc0/a03104.html#a58c795807a8c0ddf95b6dde3d1760c0a", null ]
 ];

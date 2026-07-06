@@ -1,7 +1,6 @@
 var a18461 =
 [
-    [ "OnRemove", "d0/d1d/a18461.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d0/d1d/a18461.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d0/d1d/a18461.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d0/d1d/a18461.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "FilterTargets", "d0/d1d/a18461.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "d0/d1d/a18461.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "d0/d1d/a18461.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

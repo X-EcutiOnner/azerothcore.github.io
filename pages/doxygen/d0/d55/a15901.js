@@ -1,7 +1,6 @@
 var a15901 =
 [
-    [ "npc_toogaAI", "d9/d35/a15905.html", "d9/d35/a15905" ],
-    [ "npc_tooga", "d0/d55/a15901.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "d0/d55/a15901.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "d0/d55/a15901.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_tiger_matriarchAI", "d9/d35/a15905.html", "d9/d35/a15905" ],
+    [ "npc_tiger_matriarch", "d0/d55/a15901.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d0/d55/a15901.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

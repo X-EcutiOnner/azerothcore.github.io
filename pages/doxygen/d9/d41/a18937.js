@@ -1,5 +1,7 @@
 var a18937 =
 [
-    [ "at_icc_start_frostwing_gauntlet", "d9/d41/a18937.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
-    [ "OnTrigger", "d9/d41/a18937.html#a7137166f281876f00d4e03c846875d85", null ]
+    [ "PeriodicTick", "d9/d41/a18937.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d9/d41/a18937.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d9/d41/a18937.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d9/d41/a18937.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

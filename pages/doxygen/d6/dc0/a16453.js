@@ -1,6 +1,6 @@
 var a16453 =
 [
-    [ "boss_saviana_ragefireAI", "d4/d19/a16457.html", "d4/d19/a16457" ],
-    [ "boss_saviana_ragefire", "d6/dc0/a16453.html#a5964bbc510355a8b1fd08bd5f9f5f8c0", null ],
-    [ "GetAI", "d6/dc0/a16453.html#a0a0073d8710af066d9711636f4d5b01e", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d4/d19/a16457.html", "d4/d19/a16457" ],
+    [ "instance_obsidian_sanctum", "d6/dc0/a16453.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d6/dc0/a16453.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

@@ -1,5 +1,14 @@
 var a11509 =
 [
-    [ "AccountInfoQueryHolderPerRealm", "d7/daa/a11509.html#a9d821669804cd04cf121e141d94ead36", null ],
-    [ "Initialize", "d7/daa/a11509.html#a9d4e4de9a038697f61e6350f5f59713b", null ]
+    [ "NameQueryResponse", "d7/daa/a11509.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "d7/daa/a11509.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "d7/daa/a11509.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "d7/daa/a11509.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "d7/daa/a11509.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "d7/daa/a11509.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "d7/daa/a11509.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "d7/daa/a11509.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "d7/daa/a11509.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "d7/daa/a11509.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "d7/daa/a11509.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

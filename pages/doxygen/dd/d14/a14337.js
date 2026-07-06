@@ -1,7 +1,7 @@
 var a14337 =
 [
-    [ "HandleOnHit", "dd/d14/a14337.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "dd/d14/a14337.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "dd/d14/a14337.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "dd/d14/a14337.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "HandleScript", "dd/d14/a14337.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "dd/d14/a14337.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "dd/d14/a14337.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "dd/d14/a14337.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

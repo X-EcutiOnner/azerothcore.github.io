@@ -1,9 +1,9 @@
 var a14509 =
 [
-    [ "npc_brew_bubble", "d5/d87/a14509.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d5/d87/a14509.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d5/d87/a14509.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d5/d87/a14509.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d5/d87/a14509.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d5/d87/a14509.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_shade_of_jindo", "d5/d87/a14509.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d5/d87/a14509.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d5/d87/a14509.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d5/d87/a14509.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d5/d87/a14509.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d5/d87/a14509.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

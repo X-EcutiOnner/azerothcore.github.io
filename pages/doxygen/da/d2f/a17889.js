@@ -1,7 +1,6 @@
 var a17889 =
 [
-    [ "HandleDummy", "da/d2f/a17889.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "da/d2f/a17889.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "da/d2f/a17889.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "da/d2f/a17889.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "npc_stinky_iccAI", "d7/d6d/a17893.html", "d7/d6d/a17893" ],
+    [ "npc_stinky_icc", "da/d2f/a17889.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "da/d2f/a17889.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

@@ -1,7 +1,4 @@
 var a22361 =
 [
-    [ "HandleScriptEffect", "da/df6/a22361.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "da/df6/a22361.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "da/df6/a22361.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "da/df6/a22361.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "idPatrol", "da/df6/a22361.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
 ];

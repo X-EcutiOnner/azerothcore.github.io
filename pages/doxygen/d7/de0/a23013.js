@@ -1,8 +1,13 @@
 var a23013 =
 [
-    [ "boss_hungarfen", "d7/de0/a23013.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d7/de0/a23013.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d7/de0/a23013.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d7/de0/a23013.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d7/de0/a23013.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "npc_inner_demon", "d7/de0/a23013.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
+    [ "CanAIAttack", "d7/de0/a23013.html#a7498fd32b0ace832b38dc624d07478ed", null ],
+    [ "CanBeSeen", "d7/de0/a23013.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
+    [ "CanReceiveDamage", "d7/de0/a23013.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
+    [ "IsSummonedBy", "d7/de0/a23013.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
+    [ "JustDied", "d7/de0/a23013.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
+    [ "OnCalculateMeleeDamageReceived", "d7/de0/a23013.html#ae95022548b44b23ef93fae24729b5af5", null ],
+    [ "OnCalculatePeriodicTickReceived", "d7/de0/a23013.html#a546281a2257d0407d294fba1f7d3426f", null ],
+    [ "OnCalculateSpellDamageReceived", "d7/de0/a23013.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
+    [ "UpdateAI", "d7/de0/a23013.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
 ];

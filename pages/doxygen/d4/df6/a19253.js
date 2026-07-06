@@ -1,6 +1,6 @@
 var a19253 =
 [
-    [ "boss_kelthuzadAI", "df/d80/a19257.html", "df/d80/a19257" ],
-    [ "boss_kelthuzad", "d4/df6/a19253.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "d4/df6/a19253.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "icecrown_citadel_teleport", "d4/df6/a19253.html#ab74d5962073dcf3b4488c33aaa935377", null ],
+    [ "OnGossipHello", "d4/df6/a19253.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
+    [ "OnGossipSelect", "d4/df6/a19253.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
 ];

@@ -1,6 +1,7 @@
 var a15729 =
 [
-    [ "npc_troll_volunteerAI", "d5/df8/a15733.html", "d5/df8/a15733" ],
-    [ "npc_troll_volunteer", "d8/d47/a15729.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d8/d47/a15729.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_vekniss_stinger", "d8/d47/a15729.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d8/d47/a15729.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d8/d47/a15729.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d8/d47/a15729.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

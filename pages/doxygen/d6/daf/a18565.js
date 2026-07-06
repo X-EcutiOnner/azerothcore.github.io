@@ -1,11 +1,7 @@
 var a18565 =
 [
-    [ "npc_terenas_menethilAI", "d6/daf/a18565.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d6/daf/a18565.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d6/daf/a18565.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d6/daf/a18565.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d6/daf/a18565.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d6/daf/a18565.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d6/daf/a18565.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d6/daf/a18565.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "TriggerWickedSpirit", "d6/daf/a18565.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d6/daf/a18565.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d6/daf/a18565.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d6/daf/a18565.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

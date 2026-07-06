@@ -1,9 +1,7 @@
 var a18641 =
 [
-    [ "DelayedCastEvent", "d8/d95/a18641.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
-    [ "Execute", "d8/d95/a18641.html#ae2925429b3049e44d2afd2e8b990af71", null ],
-    [ "_despawnTime", "d8/d95/a18641.html#afcaeafb72df77c36b5496588c219fac4", null ],
-    [ "_originalCaster", "d8/d95/a18641.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
-    [ "_spellId", "d8/d95/a18641.html#abe28a6749101233302634ed226a289e8", null ],
-    [ "_trigger", "d8/d95/a18641.html#a85471a151a3165cc906f3a41103c3f5d", null ]
+    [ "OnRemove", "d8/d95/a18641.html#a106935d92ef6ba7909c57264e26b5522", null ],
+    [ "PrepareAuraScript", "d8/d95/a18641.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
+    [ "Register", "d8/d95/a18641.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
+    [ "Validate", "d8/d95/a18641.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
 ];

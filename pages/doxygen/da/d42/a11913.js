@@ -1,12 +1,13 @@
 var a11913 =
 [
-    [ "BroadcastTextBuilder", "da/d42/a11913.html#adafc60b68bed31fdd87f5c71244c96f2", null ],
-    [ "operator()", "da/d42/a11913.html#a16f9719278e00013c25902846fa1be5b", null ],
-    [ "operator()", "da/d42/a11913.html#ac87701626dddffb6b09bf504b97c4d55", null ],
-    [ "_achievementId", "da/d42/a11913.html#a82de25331657b17ce0de33f2b374abda", null ],
-    [ "_gender", "da/d42/a11913.html#a71032b0749dd75f552107503528e8166", null ],
-    [ "_msgType", "da/d42/a11913.html#a232325cefa217843da5cc6db7e5d80fe", null ],
-    [ "_source", "da/d42/a11913.html#ab73315225b3aa36a309f45596f7089f4", null ],
-    [ "_target", "da/d42/a11913.html#a958b154f3c82188e9684be0f0b7dae56", null ],
-    [ "_textId", "da/d42/a11913.html#a0bbe45b38a92967f145fb1d608d647b1", null ]
+    [ "PetAuraMap", "da/d42/a11913.html#a6c020340ff467b5f2d00c3b5f9fee817", null ],
+    [ "PetAura", "da/d42/a11913.html#a8cd7e3284837b30a8a3c6739ab5cb9b3", null ],
+    [ "PetAura", "da/d42/a11913.html#a79a2f086e2d8dbe1af47716b53df0524", null ],
+    [ "AddAura", "da/d42/a11913.html#ae33bb99ab341f66fb2f296ccd6617e63", null ],
+    [ "GetAura", "da/d42/a11913.html#a6f8318410229a89e0b3aa2af28d6cb2b", null ],
+    [ "GetDamage", "da/d42/a11913.html#a38087712cef92ad55dc84f96e2b9e300", null ],
+    [ "IsRemovedOnChangePet", "da/d42/a11913.html#adc1b329e1f303b5ad3f353abb4343cdf", null ],
+    [ "auras", "da/d42/a11913.html#abacd738dfb04687810b981297b1a1567", null ],
+    [ "damage", "da/d42/a11913.html#a216021a7ad893ae6ca65ea068dd6eedb", null ],
+    [ "removeOnChangePet", "da/d42/a11913.html#aa5b3219cd2021341ce0910dce81d8b56", null ]
 ];

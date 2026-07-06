@@ -1,9 +1,7 @@
 var a06505 =
 [
-    [ "Escort_Waypoint", "d7/d62/a06505.html#a272aeeba02403a21c4900e6b0844a328", null ],
-    [ "id", "d7/d62/a06505.html#a6a763373fcc37e5a463b54e1e1a68235", null ],
-    [ "WaitTimeMs", "d7/d62/a06505.html#a467a869dba9243bd165e4c480e339705", null ],
-    [ "x", "d7/d62/a06505.html#a4d751062b2ab46734049bf8939a30731", null ],
-    [ "y", "d7/d62/a06505.html#a88648b1bd70afad73d402c40abcd68b5", null ],
-    [ "z", "d7/d62/a06505.html#a810ad58fe70fd6402f01ed7e70b450e0", null ]
+    [ "NonTankTargetSelector", "d7/d62/a06505.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
+    [ "operator()", "d7/d62/a06505.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
+    [ "_playerOnly", "d7/d62/a06505.html#a59a14629522e0a3850991b1852d368ee", null ],
+    [ "_source", "d7/d62/a06505.html#a54f9bf9a14d2b39f5ef038675cfcc30f", null ]
 ];

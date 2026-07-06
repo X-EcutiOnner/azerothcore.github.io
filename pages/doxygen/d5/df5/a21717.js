@@ -1,6 +1,8 @@
 var a21717 =
 [
-    [ "npc_infra_green_bomber_genericAI", "dd/d70/a21721.html", "dd/d70/a21721" ],
-    [ "npc_infra_green_bomber_generic", "d5/df5/a21717.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d5/df5/a21717.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "OnRemove", "d5/df5/a21717.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d5/df5/a21717.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d5/df5/a21717.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d5/df5/a21717.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d5/df5/a21717.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

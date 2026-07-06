@@ -1,7 +1,6 @@
 var a25605 =
 [
-    [ "HandleScript", "d7/ddc/a25605.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
-    [ "Load", "d7/ddc/a25605.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
-    [ "PrepareSpellScript", "d7/ddc/a25605.html#abfac1629b7724a3b17b94480c31867af", null ],
-    [ "Register", "d7/ddc/a25605.html#a62b9c194106e261245496441176c8d53", null ]
+    [ "HandlePreventAura", "d7/ddc/a25605.html#a62b9a62f5379f4ca98921c7fe4278b58", null ],
+    [ "PrepareSpellScript", "d7/ddc/a25605.html#a61b2f1d5634219f9c48a9ea75e90d423", null ],
+    [ "Register", "d7/ddc/a25605.html#ab1a90b7939c146b40badfd6424c35cf7", null ]
 ];

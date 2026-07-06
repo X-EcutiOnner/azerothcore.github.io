@@ -1,6 +1,7 @@
 var a16829 =
 [
-    [ "boss_gormokAI", "d7/de4/a16833.html", "d7/de4/a16833" ],
-    [ "boss_gormok", "d3/de4/a16829.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d3/de4/a16829.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "HandleAfterHit", "d3/de4/a16829.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d3/de4/a16829.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d3/de4/a16829.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d3/de4/a16829.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

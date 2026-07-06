@@ -1,6 +1,6 @@
 var a16917 =
 [
-    [ "npc_announcer_toc10", "d3/dd8/a16917.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "d3/dd8/a16917.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "d3/dd8/a16917.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "npc_toc_dkAI", "dc/df6/a16921.html", "dc/df6/a16921" ],
+    [ "npc_toc_dk", "d3/dd8/a16917.html#ac8b2c11f64f9cc6f4be91be1e3184b8a", null ],
+    [ "GetAI", "d3/dd8/a16917.html#ac5252f0f7ab993c8187aff17dac7a795", null ]
 ];

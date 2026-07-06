@@ -1,7 +1,7 @@
 var a20281 =
 [
-    [ "FilterTargetsInitial", "df/d7a/a20281.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "df/d7a/a20281.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "df/d7a/a20281.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "df/d7a/a20281.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "npc_ulduar_saronite_vapors", "df/d7a/a20281.html#af8d7e273a01b54bd5b96f186501f38c5", null ],
+    [ "IsSummonedBy", "df/d7a/a20281.html#a5efda334c3166dce2d1ca9655658b4d2", null ],
+    [ "JustDied", "df/d7a/a20281.html#a64254becffe74a7d06c09a3b0e2b4428", null ],
+    [ "_instance", "df/d7a/a20281.html#ad304110ff1bfc33066cd17f04cf40181", null ]
 ];

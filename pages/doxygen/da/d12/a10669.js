@@ -1,12 +1,10 @@
 var a10669 =
 [
-    [ "ItemScript", "da/d12/a10669.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "da/d12/a10669.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "da/d12/a10669.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "da/d12/a10669.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "da/d12/a10669.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "da/d12/a10669.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "da/d12/a10669.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "da/d12/a10669.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "da/d12/a10669.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "ArenaTeamScript", "da/d12/a10669.html#ab86543c6ce76ff21e4306c799b99c896", null ],
+    [ "IsDatabaseBound", "da/d12/a10669.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
+    [ "OnGetArenaPoints", "da/d12/a10669.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
+    [ "OnGetSlotByType", "da/d12/a10669.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
+    [ "OnQueueIdToArenaType", "da/d12/a10669.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
+    [ "OnSetArenaMaxPlayersPerTeam", "da/d12/a10669.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
+    [ "OnTypeIDToQueueID", "da/d12/a10669.html#abcdd905b695f926e503db610d80ada3c", null ]
 ];

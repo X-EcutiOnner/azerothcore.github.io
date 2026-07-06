@@ -1,6 +1,6 @@
 var a23625 =
 [
-    [ "npc_aeranasAI", "d2/d86/a23629.html", "d2/d86/a23629" ],
-    [ "npc_aeranas", "de/dd4/a23625.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "de/dd4/a23625.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "OnApply", "de/dd4/a23625.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "de/dd4/a23625.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "de/dd4/a23625.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

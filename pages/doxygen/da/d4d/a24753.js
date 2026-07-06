@@ -1,7 +1,7 @@
 var a24753 =
 [
-    [ "HandleScript", "da/d4d/a24753.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "da/d4d/a24753.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "da/d4d/a24753.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "da/d4d/a24753.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "HandlePeriodic", "da/d4d/a24753.html#abc823ccb417c7ee54b275fd765c2e9a5", null ],
+    [ "PrepareAuraScript", "da/d4d/a24753.html#a51d8701f84737d91cf4367967e2c9439", null ],
+    [ "Register", "da/d4d/a24753.html#a57d210027c9fa2a4a7a90c4b1fd7589b", null ],
+    [ "Validate", "da/d4d/a24753.html#a507e7e61eef30115812dc5ab5ad33fea", null ]
 ];

@@ -1,5 +1,7 @@
 var a18625 =
 [
-    [ "achievement_been_waiting_long_time", "da/d05/a18625.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
-    [ "OnCheck", "da/d05/a18625.html#a5e72304220d3a649d2182cb287215da6", null ]
+    [ "OnPeriodic", "da/d05/a18625.html#accd12b06341f3168c74cb18926614f7f", null ],
+    [ "OnUpdate", "da/d05/a18625.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
+    [ "PrepareAuraScript", "da/d05/a18625.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
+    [ "Register", "da/d05/a18625.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
 ];

@@ -1,6 +1,6 @@
 var a15025 =
 [
-    [ "boss_mal_ganisAI", "d1/d55/a15029.html", "d1/d55/a15029" ],
-    [ "boss_mal_ganis", "d3/de8/a15025.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d3/de8/a15025.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "HandleScriptEffect", "d3/de8/a15025.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d3/de8/a15025.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d3/de8/a15025.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

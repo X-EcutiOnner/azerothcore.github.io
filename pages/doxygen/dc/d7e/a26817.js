@@ -1,7 +1,8 @@
 var a26817 =
 [
-    [ "HandleDummy", "dc/d7e/a26817.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "dc/d7e/a26817.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "dc/d7e/a26817.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "dc/d7e/a26817.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "HandleDummy", "dc/d7e/a26817.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "dc/d7e/a26817.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "dc/d7e/a26817.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "dc/d7e/a26817.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "dc/d7e/a26817.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

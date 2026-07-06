@@ -1,9 +1,6 @@
 var a13717 =
 [
-    [ "boss_muru", "d8/dfa/a13717.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d8/dfa/a13717.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d8/dfa/a13717.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d8/dfa/a13717.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d8/dfa/a13717.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d8/dfa/a13717.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "HandleActivateObject", "d8/dfa/a13717.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "d8/dfa/a13717.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "d8/dfa/a13717.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

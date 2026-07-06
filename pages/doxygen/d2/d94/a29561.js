@@ -1,7 +1,9 @@
 var a29561 =
 [
-    [ "fcc", "d2/d94/a29561.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d2/d94/a29561.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d2/d94/a29561.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d2/d94/a29561.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "SetUp", "d2/d94/a29561.html#aa0206c25468d92372594de8df9b9ac91", null ],
+    [ "TearDown", "d2/d94/a29561.html#ab004a4631e402c804c5cc030d3504bcf", null ],
+    [ "PERM_A", "d2/d94/a29561.html#a76b8ba9e8f97715e19f33400d5317470", null ],
+    [ "PERM_B", "d2/d94/a29561.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
+    [ "ROLE_PLAYER", "d2/d94/a29561.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
+    [ "SEC_PLAYER", "d2/d94/a29561.html#a83a095f226d90a9990e90c0234dbb885", null ]
 ];

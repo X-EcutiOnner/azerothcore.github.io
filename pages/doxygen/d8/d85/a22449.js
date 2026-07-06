@@ -1,9 +1,8 @@
 var a22449 =
 [
-    [ "HandleAfterCast", "d8/d85/a22449.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d8/d85/a22449.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d8/d85/a22449.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d8/d85/a22449.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d8/d85/a22449.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d8/d85/a22449.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_pandemonius", "d8/d85/a22449.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d8/d85/a22449.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d8/d85/a22449.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d8/d85/a22449.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d8/d85/a22449.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

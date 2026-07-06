@@ -1,5 +1,6 @@
 var a22993 =
 [
-    [ "go_main_chambers_access_panel", "d7/d66/a22993.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "d7/d66/a22993.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "HandleScriptEffect", "d7/d66/a22993.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d7/d66/a22993.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d7/d66/a22993.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

@@ -1,6 +1,5 @@
 var a20489 =
 [
-    [ "OnPeriodic", "db/d73/a20489.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "db/d73/a20489.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "db/d73/a20489.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "achievement_kologarn_looks_could_kill", "db/d73/a20489.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "db/d73/a20489.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

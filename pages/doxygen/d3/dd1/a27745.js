@@ -1,5 +1,6 @@
 var a27745 =
 [
-    [ "go_resonite_cask", "d3/dd1/a27745.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d3/dd1/a27745.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "HandleProc", "d3/dd1/a27745.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
+    [ "PrepareAuraScript", "d3/dd1/a27745.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
+    [ "Register", "d3/dd1/a27745.html#adf0852d1aad8097143df205a66a49f2f", null ]
 ];

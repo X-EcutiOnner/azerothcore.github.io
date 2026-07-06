@@ -1,7 +1,5 @@
 var a05573 =
 [
-    [ "TypeContainerVisitor", "d3/dc0/a05573.html#a1dd5b1ac8e4703358a32431efed8faa2", null ],
-    [ "Visit", "d3/dc0/a05573.html#adf0874fc1f8bb38d2f62530f5667c836", null ],
-    [ "Visit", "d3/dc0/a05573.html#af8110dd70655223f06fb08b552420a6d", null ],
-    [ "i_visitor", "d3/dc0/a05573.html#a7be8eccd05fd489da52e587f51555891", null ]
+    [ "_elements", "d3/dc0/a05573.html#acf30d76638f2906421de881ced591fbd", null ],
+    [ "_TailElements", "d3/dc0/a05573.html#afbb7352f16ec774a372d2cbf699e3e0e", null ]
 ];

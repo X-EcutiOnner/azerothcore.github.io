@@ -1,6 +1,6 @@
 var a18793 =
 [
-    [ "npc_rotting_frost_giantAI", "d2/d78/a18797.html", "d2/d78/a18797" ],
-    [ "npc_rotting_frost_giant", "d9/d98/a18793.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "d9/d98/a18793.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "ActivateSpirit", "d9/d98/a18793.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d9/d98/a18793.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d9/d98/a18793.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

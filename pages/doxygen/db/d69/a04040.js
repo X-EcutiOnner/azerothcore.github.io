@@ -1,5 +1,6 @@
 var a04040 =
 [
-    [ "DispelList", "db/d69/a04040.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "db/d69/a04040.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "ClientAuthSession", "da/dae/a11721.html", "da/dae/a11721" ],
+    [ "AccountInfo", "df/dd2/a06001.html", "df/dd2/a06001" ],
+    [ "compressBuff", "db/d69/a04040.html#a3ec87fe2f43cce4ee6bfb90744e72a0d", null ]
 ];

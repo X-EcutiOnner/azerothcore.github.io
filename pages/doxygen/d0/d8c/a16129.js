@@ -1,7 +1,8 @@
 var a16129 =
 [
-    [ "HandleScript", "d0/d8c/a16129.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "d0/d8c/a16129.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "d0/d8c/a16129.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "d0/d8c/a16129.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_lakota_windsongAI", "d0/d8c/a16129.html#a922172a38ca75adef66a2653eda7fa98", null ],
+    [ "DoSpawnBandits", "d0/d8c/a16129.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
+    [ "Reset", "d0/d8c/a16129.html#aee7a86275f93021e0e5db249b636bcd4", null ],
+    [ "WaypointReached", "d0/d8c/a16129.html#a6435c8b1521206789131889e5fa527a6", null ],
+    [ "WaypointReached", "d0/d8c/a16129.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

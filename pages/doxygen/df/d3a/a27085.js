@@ -1,7 +1,7 @@
 var a27085 =
 [
-    [ "HandleEffectProc", "df/d3a/a27085.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
-    [ "PrepareAuraScript", "df/d3a/a27085.html#a47d844a9700cd8add793e3f3088d1b82", null ],
-    [ "Register", "df/d3a/a27085.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
-    [ "Validate", "df/d3a/a27085.html#a97f5239399e7135b02000722eaf837ad", null ]
+    [ "CalcPeriodic", "df/d3a/a27085.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "df/d3a/a27085.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "df/d3a/a27085.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "df/d3a/a27085.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

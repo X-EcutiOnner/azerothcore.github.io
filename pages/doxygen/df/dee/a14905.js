@@ -1,6 +1,7 @@
 var a14905 =
 [
-    [ "FilterTargets", "df/dee/a14905.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "df/dee/a14905.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "df/dee/a14905.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "HandleEffectApply", "df/dee/a14905.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "df/dee/a14905.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "df/dee/a14905.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "df/dee/a14905.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

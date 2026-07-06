@@ -1,4 +1,4 @@
 var a03536 =
 [
-    [ "BattlegroundMapScript", "df/d90/a10659.html", "df/d90/a10659" ]
+    [ "ScriptRegistry< FormulaScript >", "d1/dfd/a03536.html#a774b8f7659d09535a55ac9bbdcf46025", null ]
 ];

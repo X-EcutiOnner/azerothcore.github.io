@@ -1,6 +1,7 @@
 var a16921 =
 [
-    [ "boss_dredAI", "df/d58/a16925.html", "df/d58/a16925" ],
-    [ "boss_dred", "dc/df6/a16921.html#a60a913f53c63f95680c29c72f48f9a1a", null ],
-    [ "GetAI", "dc/df6/a16921.html#ab8276b185f80a92a54327ea28b19c704", null ]
+    [ "npc_toc_dkAI", "dc/df6/a16921.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
+    [ "myCanCast", "dc/df6/a16921.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
+    [ "UpdateAI", "dc/df6/a16921.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
+    [ "events", "dc/df6/a16921.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
 ];

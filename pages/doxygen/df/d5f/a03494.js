@@ -1,4 +1,4 @@
 var a03494 =
 [
-    [ "ScriptRegistry< PetScript >", "df/d5f/a03494.html#a24e9b0a598349bf70ac6cf5aa4e30043", null ]
+    [ "ScriptRegistry< AuctionHouseScript >", "df/d5f/a03494.html#ac2271f3a8c4323137893dfd21d8d0003", null ]
 ];

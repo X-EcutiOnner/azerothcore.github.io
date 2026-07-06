@@ -1,6 +1,11 @@
 var a20665 =
 [
-    [ "FilterTargets", "dd/d40/a20665.html#a7efa78a7991b7ca859c7d622f973265d", null ],
-    [ "PrepareSpellScript", "dd/d40/a20665.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
-    [ "Register", "dd/d40/a20665.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
+    [ "boss_thorim_ancient_rune_giant", "dd/d40/a20665.html#a0af1f7772d93899651d93fdc4a690b7d", null ],
+    [ "DoAction", "dd/d40/a20665.html#a615eb1cf45c8e09af0f9a248f1c6bbe8", null ],
+    [ "JustDied", "dd/d40/a20665.html#a64b0ab5d6e3a51a926eaef236754b7bf", null ],
+    [ "JustEngagedWith", "dd/d40/a20665.html#a98fa309963245a0c57676ff019085fac", null ],
+    [ "Reset", "dd/d40/a20665.html#a66c30135e900b4b9e6d43d08e5e14f24", null ],
+    [ "UpdateAI", "dd/d40/a20665.html#a903d7448d9441866475d77fce8ca6d37", null ],
+    [ "_isInCombat", "dd/d40/a20665.html#a148ff1fa8010466de069032f660cd08e", null ],
+    [ "events", "dd/d40/a20665.html#adb60fcfd3cde775f06e883d2e62b5ba1", null ]
 ];

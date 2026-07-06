@@ -1,7 +1,7 @@
 var a16373 =
 [
-    [ "HandleDummy", "d6/d1c/a16373.html#ad0782bfbd977954aac6170ee9111aef6", null ],
-    [ "PrepareSpellScript", "d6/d1c/a16373.html#ac456524856c4a3c4913423693a8fd50c", null ],
-    [ "Register", "d6/d1c/a16373.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
-    [ "Validate", "d6/d1c/a16373.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
+    [ "HandleEffectRemove", "d6/d1c/a16373.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
+    [ "PrepareAuraScript", "d6/d1c/a16373.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
+    [ "Register", "d6/d1c/a16373.html#a7c0533650e772713233ea45b0264cbff", null ],
+    [ "Validate", "d6/d1c/a16373.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
 ];

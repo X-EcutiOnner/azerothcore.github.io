@@ -1,4 +1,10 @@
 var a21825 =
 [
-    [ "npc_adventurous_dwarfAI", "dc/db8/a21825.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "npc_Apothecary_HanesAI", "dc/db8/a21825.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "dc/db8/a21825.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "dc/db8/a21825.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "dc/db8/a21825.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "dc/db8/a21825.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "WaypointReached", "dc/db8/a21825.html#a0d1122895c25211ca4c71cb651f13cef", null ],
+    [ "PotTimer", "dc/db8/a21825.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

@@ -1,6 +1,5 @@
 var a11001 =
 [
-    [ "GuildDemoteMember", "d6/db6/a11001.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d6/db6/a11001.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d6/db6/a11001.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildGetRoster", "d6/db6/a11001.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "d6/db6/a11001.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

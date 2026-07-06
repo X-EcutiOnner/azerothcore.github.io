@@ -1,11 +1,6 @@
 var a11097 =
 [
-    [ "SaveGuildEmblem", "dd/d7a/a11097.html#ae3e507a567dfbead91c84629008539d2", null ],
-    [ "Read", "dd/d7a/a11097.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
-    [ "BColor", "dd/d7a/a11097.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
-    [ "Bg", "dd/d7a/a11097.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
-    [ "BStyle", "dd/d7a/a11097.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
-    [ "EColor", "dd/d7a/a11097.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
-    [ "EStyle", "dd/d7a/a11097.html#a60c52a080284fabe96c579f39fb0834f", null ],
-    [ "Vendor", "dd/d7a/a11097.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
+    [ "GuildPromoteMember", "dd/d7a/a11097.html#af623a381aa80e827c2c29987501626ae", null ],
+    [ "Read", "dd/d7a/a11097.html#a3350c1a8c81aa1368a254288849b462b", null ],
+    [ "Promotee", "dd/d7a/a11097.html#af8addf6e9bc45364f595582e8f285cde", null ]
 ];

@@ -1,7 +1,8 @@
 var a28269 =
 [
-    [ "HandleDummy", "d4/d0a/a28269.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d4/d0a/a28269.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d4/d0a/a28269.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d4/d0a/a28269.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_elder_clearwaterAI", "df/d4f/a28273.html", "df/d4f/a28273" ],
+    [ "npc_elder_clearwater", "d4/d0a/a28269.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d4/d0a/a28269.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d4/d0a/a28269.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d4/d0a/a28269.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

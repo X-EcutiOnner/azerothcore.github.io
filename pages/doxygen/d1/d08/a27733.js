@@ -1,5 +1,8 @@
 var a27733 =
 [
-    [ "go_arena_ready_marker", "d1/d08/a27733.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d1/d08/a27733.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "CheckProc", "d1/d08/a27733.html#a77739dee36e546ff0e91a2a266a8e107", null ],
+    [ "HandleProc", "d1/d08/a27733.html#a2cde3c808e4ad060bb34c30507f210b7", null ],
+    [ "PrepareAuraScript", "d1/d08/a27733.html#a796c2a915069385cdca89cf3f7d09c82", null ],
+    [ "Register", "d1/d08/a27733.html#af144533458a912ac19c6b772114586cd", null ],
+    [ "Validate", "d1/d08/a27733.html#ac6bde14a034888642aa97de6b2d4a21d", null ]
 ];

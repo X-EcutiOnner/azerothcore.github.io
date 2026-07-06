@@ -1,6 +1,9 @@
 var a15317 =
 [
-    [ "go_ossirian_crystalAI", "d8/d87/a15321.html", "d8/d87/a15321" ],
-    [ "go_ossirian_crystal", "d3/ddc/a15317.html#a783f0f0570ee0f667920e29613b565b2", null ],
-    [ "GetAI", "d3/ddc/a15317.html#a2f7b12eddc6504917614913e347ec0a0", null ]
+    [ "boss_temporus", "d3/ddc/a15317.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d3/ddc/a15317.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d3/ddc/a15317.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d3/ddc/a15317.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d3/ddc/a15317.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d3/ddc/a15317.html#a99356589a048debbc308b8431259da5c", null ]
 ];

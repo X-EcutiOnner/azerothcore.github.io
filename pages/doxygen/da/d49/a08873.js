@@ -1,10 +1,19 @@
 var a08873 =
 [
-    [ "EquipmentSet", "da/d49/a08873.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "da/d49/a08873.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "da/d49/a08873.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "da/d49/a08873.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "da/d49/a08873.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "da/d49/a08873.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "da/d49/a08873.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "CinematicMgr", "da/d49/a08873.html#ac6d3a6361ec36a26dbea43e994d169f8", null ],
+    [ "~CinematicMgr", "da/d49/a08873.html#a8c9788deb0f2dd3b49b935262b752d57", null ],
+    [ "EndCinematic", "da/d49/a08873.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
+    [ "GetActiveCinematicCamera", "da/d49/a08873.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
+    [ "GetRemoteSightPosition", "da/d49/a08873.html#a6665f77804ae876fe7bb9c43e2415ea3", null ],
+    [ "IsOnCinematic", "da/d49/a08873.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
+    [ "SetActiveCinematicCamera", "da/d49/a08873.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
+    [ "StartCinematic", "da/d49/a08873.html#a8de8388c8f90dc84c1ce0342f17d45aa", null ],
+    [ "StartCinematicCamera", "da/d49/a08873.html#a69857bfd9eafbb8580938619aba9a9b9", null ],
+    [ "UpdateCinematic", "da/d49/a08873.html#a629943ec0d64f2eba830da551222598d", null ],
+    [ "_activeCinematicCameraId", "da/d49/a08873.html#aa64550198cbacf5fdedd2d30d015d99d", null ],
+    [ "_cinematicCamera", "da/d49/a08873.html#aceda58e6f506fbefc70292abb0687411", null ],
+    [ "_cinematicDiff", "da/d49/a08873.html#a96d52cf985cbf4a2192e88de846d4a92", null ],
+    [ "_cinematicUpdateTimer", "da/d49/a08873.html#aa7d5e62f0fd5542e9c99c0ac5b9ae898", null ],
+    [ "_player", "da/d49/a08873.html#a1f471f895c8cda67733cf3df29441886", null ],
+    [ "_remoteSightPosition", "da/d49/a08873.html#a3c747cf6679bb2533789581fcb09f246", null ]
 ];

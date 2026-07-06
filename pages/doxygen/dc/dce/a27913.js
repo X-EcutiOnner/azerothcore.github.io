@@ -1,5 +1,6 @@
 var a27913 =
 [
-    [ "go_duskwither_spire_power_source", "dc/dce/a27913.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "dc/dce/a27913.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "boss_emerissAI", "d1/dc0/a27917.html", "d1/dc0/a27917" ],
+    [ "boss_emeriss", "dc/dce/a27913.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "dc/dce/a27913.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

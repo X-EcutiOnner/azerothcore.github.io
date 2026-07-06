@@ -1,5 +1,6 @@
 var a23873 =
 [
-    [ "npc_shattrath_daily_quest", "de/d26/a23873.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "de/d26/a23873.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "go_beaconAI", "de/d43/a23877.html", "de/d43/a23877" ],
+    [ "go_beacon", "de/d26/a23873.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "de/d26/a23873.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

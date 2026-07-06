@@ -1,7 +1,10 @@
 var a26477 =
 [
-    [ "HandleHeal", "d8/df6/a26477.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d8/df6/a26477.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d8/df6/a26477.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d8/df6/a26477.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckProc", "d8/df6/a26477.html#a23dfb39522f7a5437af439ef567d6ec6", null ],
+    [ "HandleEffectApply", "d8/df6/a26477.html#ab83f17b45edc5dba8f4b3f3fbc88c626", null ],
+    [ "HandleEffectRemove", "d8/df6/a26477.html#a7bab07fde0fb18e89388e1bc4c72c165", null ],
+    [ "HandleProc", "d8/df6/a26477.html#a8352d7d9376f149fa227f7ca983e2660", null ],
+    [ "PrepareAuraScript", "d8/df6/a26477.html#a309dabfa452d3279e7fb47a8e4784779", null ],
+    [ "Register", "d8/df6/a26477.html#a3d020d3025f0ad086c43b4239205cd94", null ],
+    [ "Validate", "d8/df6/a26477.html#ac3a5505808b3a7e718071f1202805ac5", null ]
 ];

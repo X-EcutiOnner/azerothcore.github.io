@@ -1,10 +1,7 @@
 var a17485 =
 [
-    [ "npc_dark_nucleusAI", "d1/d70/a17485.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "d1/d70/a17485.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "d1/d70/a17485.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "d1/d70/a17485.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "d1/d70/a17485.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "d1/d70/a17485.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "d1/d70/a17485.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "HandleEffectPeriodic", "d1/d70/a17485.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d1/d70/a17485.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d1/d70/a17485.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d1/d70/a17485.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

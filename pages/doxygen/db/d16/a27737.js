@@ -1,5 +1,6 @@
 var a27737 =
 [
-    [ "go_ethereum_prison", "db/d16/a27737.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "db/d16/a27737.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "HandleProc", "db/d16/a27737.html#a6b321d6ee3002f32b546aeaed0925183", null ],
+    [ "PrepareAuraScript", "db/d16/a27737.html#a4186315ab8fa250fd108c2de1c650f9e", null ],
+    [ "Register", "db/d16/a27737.html#a3817a49fbcac2d70ded5a39b3cce8ea7", null ]
 ];

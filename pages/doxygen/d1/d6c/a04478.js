@@ -1,10 +1,11 @@
 var a04478 =
 [
-    [ "VMAP::ModelSpawn", "d3/d04/a05347.html", "d3/d04/a05347" ],
-    [ "VMAP::ModelInstance", "df/d5e/a05351.html", "df/d5e/a05351" ],
-    [ "ModelFlags", "d1/d6c/a04478.html#ac540ff16efadcc07eeb9d8511b94ccce", [
-      [ "MOD_M2", "d1/d6c/a04478.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
-      [ "MOD_WORLDSPAWN", "d1/d6c/a04478.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
-      [ "MOD_HAS_BOUND", "d1/d6c/a04478.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
-    ] ]
+    [ "AABound", "da/d0e/a05201.html", "da/d0e/a05201" ],
+    [ "BIH", "d6/d88/a05205.html", "d6/d88/a05205" ],
+    [ "BIH::buildData", "d7/dd9/a05209.html", "d7/dd9/a05209" ],
+    [ "BIH::StackNode", "d3/dbd/a05213.html", "d3/dbd/a05213" ],
+    [ "BIH::BuildStats", "d9/d28/a05217.html", "d9/d28/a05217" ],
+    [ "MAX_STACK_SIZE", "d1/d6c/a04478.html#accbb358028675c83675d8b34c386268d", null ],
+    [ "floatToRawIntBits", "d1/d6c/a04478.html#ad04403146f53e198de60b6c4bec4246e", null ],
+    [ "intBitsToFloat", "d1/d6c/a04478.html#a3b415e235398aa84c4f976084f8e130c", null ]
 ];

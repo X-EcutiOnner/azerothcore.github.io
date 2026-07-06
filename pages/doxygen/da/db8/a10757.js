@@ -1,13 +1,12 @@
 var a10757 =
 [
-    [ "ScriptObject", "da/db8/a10757.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "da/db8/a10757.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "da/db8/a10757.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "da/db8/a10757.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "da/db8/a10757.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "da/db8/a10757.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "da/db8/a10757.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "da/db8/a10757.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "da/db8/a10757.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "da/db8/a10757.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "ItemScript", "da/db8/a10757.html#a0ad18538a834261190356eab549ff192", null ],
+    [ "IsDatabaseBound", "da/db8/a10757.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "da/db8/a10757.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "da/db8/a10757.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "da/db8/a10757.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "da/db8/a10757.html#a924268357fec1a667f1184c91ebcef33", null ],
+    [ "OnQuestAccept", "da/db8/a10757.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "da/db8/a10757.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "da/db8/a10757.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

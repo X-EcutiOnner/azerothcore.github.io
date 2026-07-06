@@ -1,7 +1,6 @@
 var a23621 =
 [
-    [ "HandleDummy", "de/da5/a23621.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "de/da5/a23621.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "de/da5/a23621.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "de/da5/a23621.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "HandleCast", "de/da5/a23621.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "de/da5/a23621.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "de/da5/a23621.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

@@ -1,6 +1,6 @@
 var a24037 =
 [
-    [ "DeathEvent", "d3/d3a/a24037.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d3/d3a/a24037.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d3/d3a/a24037.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_illidari_spawnAI", "dc/d77/a24041.html", "dc/d77/a24041" ],
+    [ "npc_illidari_spawn", "d3/d3a/a24037.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
+    [ "GetAI", "d3/d3a/a24037.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
 ];

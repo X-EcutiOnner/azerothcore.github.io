@@ -1,6 +1,7 @@
 var a23957 =
 [
-    [ "HandleDamageCalc", "dd/d25/a23957.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "dd/d25/a23957.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "dd/d25/a23957.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "CheckRequirement", "dd/d25/a23957.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "dd/d25/a23957.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "dd/d25/a23957.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "dd/d25/a23957.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

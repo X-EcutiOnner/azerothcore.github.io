@@ -1,7 +1,5 @@
 var a20169 =
 [
-    [ "HandleEffectPeriodic", "d5/d7c/a20169.html#a428d1251465cc9947e7474eab83494e3", null ],
-    [ "PrepareAuraScript", "d5/d7c/a20169.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
-    [ "Register", "d5/d7c/a20169.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
-    [ "Validate", "d5/d7c/a20169.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "d5/d7c/a20169.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "d5/d7c/a20169.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

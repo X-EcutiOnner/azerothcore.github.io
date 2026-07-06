@@ -1,12 +1,6 @@
 var a15221 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d6/dd6/a15221.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d6/dd6/a15221.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d6/dd6/a15221.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d6/dd6/a15221.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d6/dd6/a15221.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d6/dd6/a15221.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d6/dd6/a15221.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d6/dd6/a15221.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d6/dd6/a15221.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_salrammAI", "d2/d66/a15225.html", "d2/d66/a15225" ],
+    [ "boss_salramm", "d6/dd6/a15221.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d6/dd6/a15221.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

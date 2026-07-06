@@ -1,7 +1,9 @@
 var a27029 =
 [
-    [ "CalculateAmount", "db/d2a/a27029.html#adc34e5742173d039f6050d5ccc0a2cae", null ],
-    [ "PrepareAuraScript", "db/d2a/a27029.html#aa966d001c3687403dfa2b13e998ca241", null ],
-    [ "Register", "db/d2a/a27029.html#aeecb9756d4304ed2316b6d2a8f0d6ac4", null ],
-    [ "Validate", "db/d2a/a27029.html#af1eee4d8e966d66fea04173e7481b5ce", null ]
+    [ "HandleKnockBack", "db/d2a/a27029.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "db/d2a/a27029.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "db/d2a/a27029.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "db/d2a/a27029.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "db/d2a/a27029.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "db/d2a/a27029.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

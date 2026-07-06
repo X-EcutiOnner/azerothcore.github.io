@@ -1,9 +1,16 @@
 var a29377 =
 [
-    [ "defaultHitMask", "d0/d36/a29377.html#a1b72ebb54d9b7e2543dd41779978fa70", null ],
-    [ "defaultSpellPhaseMask", "d0/d36/a29377.html#af927bd441959e8e122648de610398c65", null ],
-    [ "defaultSpellTypeMask", "d0/d36/a29377.html#aa64e6ad192c41998b368b908c499574d", null ],
-    [ "name", "d0/d36/a29377.html#a78f8589133427f536f15ea05672ad42f", null ],
-    [ "procFlag", "d0/d36/a29377.html#ab9d59a0be623f0d7e732ed2974178d88", null ],
-    [ "requiresSpellPhase", "d0/d36/a29377.html#a37a3ef1c3b19cf7a7ff70a0ca09bfcd9", null ]
+    [ "CreateTestCreature", "d0/d36/a29377.html#a617fd4d9d90187bc2f73d4b3ae7fe2e9", null ],
+    [ "CreateTestPlayer", "d0/d36/a29377.html#a6419bf25da27ee490712daa877adbd72", null ],
+    [ "EnsureFactionTemplates", "d0/d36/a29377.html#a83a02366f7bf6726e14b9f3237e2b545", null ],
+    [ "GetTestMap", "d0/d36/a29377.html#ae4ec7240a978801c7b0e680bd8072289", null ],
+    [ "GetWorldMock", "d0/d36/a29377.html#af142aa528b5add94d80218bfb87673d2", null ],
+    [ "SetUp", "d0/d36/a29377.html#a8ae97cc2fe6cec6678fc68828bb78311", null ],
+    [ "TearDown", "d0/d36/a29377.html#abd9650e94915e9c9b2c00d0f5883012a", null ],
+    [ "_originalWorld", "d0/d36/a29377.html#a68d71c2f6f685757f78855a65dfea247", null ],
+    [ "_ownedCreatureTemplates", "d0/d36/a29377.html#a14a887c379c1bab8270e4e447d6d3710", null ],
+    [ "_testMap", "d0/d36/a29377.html#a71376b2bd9b26c15bdc5a377c918df4f", null ],
+    [ "_trackedCreatures", "d0/d36/a29377.html#ab782034dea584c12fcc6167f08cb1c2e", null ],
+    [ "_trackedPlayers", "d0/d36/a29377.html#abebf5ed00a2531d755c905b0fca011d6", null ],
+    [ "_worldMock", "d0/d36/a29377.html#a7cef42e42607cf7c562b20827a0df766", null ]
 ];

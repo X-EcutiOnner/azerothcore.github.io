@@ -1,14 +1,9 @@
 var a20261 =
 [
-    [ "boss_kologarn_arms", "d4/dc5/a20261.html#a938ba2bc623d8bfea80e76743adadd6b", null ],
-    [ "AttackStart", "d4/dc5/a20261.html#aa900d84701962847fe8c50ca42a9e395", null ],
-    [ "DamageTaken", "d4/dc5/a20261.html#ab9dfb82063b299c4b983ea48e78a17be", null ],
-    [ "EnterEvadeMode", "d4/dc5/a20261.html#abb2cf784779f808ab5d5340047ce95e4", null ],
-    [ "JustDied", "d4/dc5/a20261.html#a165f77b79a3e601fe2269f20362df3ca", null ],
-    [ "MoveInLineOfSight", "d4/dc5/a20261.html#a515d1d1eb959a03adca5e2c79da9082b", null ],
-    [ "PassengerBoarded", "d4/dc5/a20261.html#aa0c14ab6b8b0081c1e8c43de1883ae59", null ],
-    [ "Reset", "d4/dc5/a20261.html#a1d164aa9234edb81ed6d4e0713d16a91", null ],
-    [ "UpdateAI", "d4/dc5/a20261.html#a013d5b17e93486679f625872331c94f6", null ],
-    [ "_combatStarted", "d4/dc5/a20261.html#a8b4f90719ef93e7f8d8e435e090d566a", null ],
-    [ "_damageDone", "d4/dc5/a20261.html#a0e196cc2602f325f4639d9e854f013b9", null ]
+    [ "boss_freya_nature_bomb", "d4/dc5/a20261.html#a050672942ab467557d21a930ab22827c", null ],
+    [ "Reset", "d4/dc5/a20261.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
+    [ "UpdateAI", "d4/dc5/a20261.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
+    [ "_explodeTimer", "d4/dc5/a20261.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
+    [ "_goGUID", "d4/dc5/a20261.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
+    [ "Timer", "d4/dc5/a20261.html#affadb797817ddf512209d1d71097baf3", null ]
 ];

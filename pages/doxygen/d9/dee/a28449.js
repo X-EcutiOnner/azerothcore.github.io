@@ -1,6 +1,5 @@
 var a28449 =
 [
-    [ "npc_taxi", "d9/dee/a28449.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d9/dee/a28449.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d9/dee/a28449.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_necropolis", "d9/dee/a28449.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d9/dee/a28449.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

@@ -1,8 +1,6 @@
 var a23517 =
 [
-    [ "boss_mechano_lord_capacitus", "d0/d71/a23517.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d0/d71/a23517.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d0/d71/a23517.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d0/d71/a23517.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d0/d71/a23517.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "npc_millhouse_manastormAI", "d3/db9/a23521.html", "d3/db9/a23521" ],
+    [ "npc_millhouse_manastorm", "d0/d71/a23517.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d0/d71/a23517.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

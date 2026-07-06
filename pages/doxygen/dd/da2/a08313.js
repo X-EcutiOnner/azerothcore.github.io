@@ -1,19 +1,7 @@
 var a08313 =
 [
-    [ "GenerateArmor", "dd/da2/a08313.html#ad197fff9ab9cd6b45ca703d656d1d930", null ],
-    [ "GenerateBaseDamage", "dd/da2/a08313.html#aa11e229aed1ba159219e6d1a291b1c80", null ],
-    [ "GenerateHealth", "dd/da2/a08313.html#ac8ec122f7d16f89b50301a636ebade6e", null ],
-    [ "GenerateMana", "dd/da2/a08313.html#aa6f523ebb8ef75db99db555547fd55d7", null ],
-    [ "GetBaseStats", "dd/da2/a08313.html#a72249bb49bbcf08708bd30fc61e2cdea", null ],
-    [ "Agility", "dd/da2/a08313.html#a22c916bab3e2833ffbb643cae7f36edd", null ],
-    [ "AttackPower", "dd/da2/a08313.html#a8108d924e4de3ba741749e9386085e4f", null ],
-    [ "BaseArmor", "dd/da2/a08313.html#a9fed8e3227aa2ad7b40579b0be615030", null ],
-    [ "BaseDamage", "dd/da2/a08313.html#a40f54b64689ca8c3d2b0de81384dbea9", null ],
-    [ "BaseHealth", "dd/da2/a08313.html#a83cee007ec623b19bb2b002d16180d2d", null ],
-    [ "BaseMana", "dd/da2/a08313.html#a204af635372cb4a2c6ede1f79579385c", null ],
-    [ "Intellect", "dd/da2/a08313.html#adb28470cabe897215c3888e72d238ddf", null ],
-    [ "RangedAttackPower", "dd/da2/a08313.html#a684901a59108e94987c23ad5085e306a", null ],
-    [ "Spirit", "dd/da2/a08313.html#ac77b82c063048b596f9ed3c74aeea63c", null ],
-    [ "Stamina", "dd/da2/a08313.html#ac8c2f3b237e17577b416b9b83abe1306", null ],
-    [ "Strength", "dd/da2/a08313.html#a9af752cb9fe9fbb64845cb7644e9b212", null ]
+    [ "LfgProposalPlayer", "dd/da2/a08313.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "dd/da2/a08313.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "dd/da2/a08313.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "dd/da2/a08313.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

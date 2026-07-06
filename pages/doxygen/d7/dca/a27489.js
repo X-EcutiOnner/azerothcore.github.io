@@ -1,6 +1,9 @@
 var a27489 =
 [
-    [ "CheckProc", "d7/dca/a27489.html#a957f8837b5613a3bfd8200ded3529c54", null ],
-    [ "PrepareAuraScript", "d7/dca/a27489.html#a37950bfd846e1c2c550a108461941a26", null ],
-    [ "Register", "d7/dca/a27489.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
+    [ "CheckCast", "d7/dca/a27489.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "d7/dca/a27489.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "d7/dca/a27489.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "d7/dca/a27489.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "d7/dca/a27489.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "d7/dca/a27489.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

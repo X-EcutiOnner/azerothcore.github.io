@@ -1,6 +1,5 @@
 var a11105 =
 [
-    [ "InstanceReset", "d3/d01/a11105.html#ab1ff5009dc40f18c30941e327e5c3863", null ],
-    [ "Write", "d3/d01/a11105.html#a0809c4de226d3aaab9817c393cef6055", null ],
-    [ "MapId", "d3/d01/a11105.html#a7b80bb32e524fe1d0ddadf955f1ec4a2", null ]
+    [ "GuildLeave", "d3/d01/a11105.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
+    [ "Read", "d3/d01/a11105.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
 ];

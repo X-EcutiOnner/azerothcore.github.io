@@ -1,8 +1,26 @@
 var a05021 =
 [
-    [ "wdt_MPHD", "d9/d19/a29867.html", "d9/d19/a29867" ],
-    [ "wdt_MAIN", "d5/d89/a29875.html", "d5/d89/a29875" ],
-    [ "wdt_MAIN::adtData", "d1/daa/a29883.html", "d1/daa/a29883" ],
-    [ "WDT_file", "d2/da3/a29887.html", "d2/da3/a29887" ],
-    [ "WDT_MAP_SIZE", "da/d7c/a05021.html#a0cf0c1d4bd3ed48612ab2a5e36b8cf10", null ]
+    [ "map_id", "d9/de5/a29941.html", "d9/de5/a29941" ],
+    [ "_CRT_SECURE_NO_DEPRECATE", "da/d7c/a05021.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MPQ_BLOCK_SIZE", "da/d7c/a05021.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
+    [ "ExtractSingleWmo", "da/d7c/a05021.html#afc9839262206eb10094c1769141ae146", null ],
+    [ "FileExists", "da/d7c/a05021.html#aab524156a5705c5cd09f96106eaac92d", null ],
+    [ "fillArchiveNameVector", "da/d7c/a05021.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
+    [ "GenerateUniqueObjectId", "da/d7c/a05021.html#a6a3d179f34597554b17a122f27cd6be5", null ],
+    [ "getGamePath", "da/d7c/a05021.html#a6bb580270fe96b7e6ccb585658850d17", null ],
+    [ "main", "da/d7c/a05021.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "ParsMapFiles", "da/d7c/a05021.html#a50c73ad000da4df06ae438373eeaf60e", null ],
+    [ "processArgv", "da/d7c/a05021.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
+    [ "scan_patches", "da/d7c/a05021.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
+    [ "strToLower", "da/d7c/a05021.html#ac9e88429cc2168db83793cb7074bc69f", null ],
+    [ "gOpenArchives", "da/d7c/a05021.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
+    [ "hasInputPathParam", "da/d7c/a05021.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
+    [ "input_path", "da/d7c/a05021.html#a773984b4a48966b7ea95d0586db0210b", null ],
+    [ "map_count", "da/d7c/a05021.html#a6fcdefd114e6ec71964d6539163fc055", null ],
+    [ "map_ids", "da/d7c/a05021.html#a12b965536bcabf2e2edd7db2196630cd", null ],
+    [ "output_path", "da/d7c/a05021.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
+    [ "preciseVectorData", "da/d7c/a05021.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
+    [ "szWorkDirWmo", "da/d7c/a05021.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
+    [ "uniqueObjectIds", "da/d7c/a05021.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
+    [ "WmoDoodads", "da/d7c/a05021.html#a17b22c7645963c9e5c277b72605a4966", null ]
 ];

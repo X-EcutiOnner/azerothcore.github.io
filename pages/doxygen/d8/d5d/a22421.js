@@ -1,10 +1,12 @@
 var a22421 =
 [
-    [ "boss_illidari_council", "d8/d5d/a22421.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d8/d5d/a22421.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d8/d5d/a22421.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d8/d5d/a22421.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d8/d5d/a22421.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d8/d5d/a22421.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d8/d5d/a22421.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "npc_stolen_soul", "d8/d5d/a22421.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d8/d5d/a22421.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d8/d5d/a22421.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d8/d5d/a22421.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d8/d5d/a22421.html#a35b3478f2541f7b3d56e0873f96f479f", null ],
+    [ "UpdateAI", "d8/d5d/a22421.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d8/d5d/a22421.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d8/d5d/a22421.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d8/d5d/a22421.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

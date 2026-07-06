@@ -1,7 +1,9 @@
 var a07421 =
 [
-    [ "AuctionSearchUpdateBid", "df/d98/a07421.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "df/d98/a07421.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "df/d98/a07421.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "df/d98/a07421.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "ObjectGuidVector", "df/d98/a07421.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "df/d98/a07421.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "df/d98/a07421.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "df/d98/a07421.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "df/d98/a07421.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "df/d98/a07421.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

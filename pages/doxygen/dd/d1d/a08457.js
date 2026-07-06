@@ -1,10 +1,10 @@
 var a08457 =
 [
-    [ "SpellCategory", "dd/d1d/a08457.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "dd/d1d/a08457.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "dd/d1d/a08457.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "dd/d1d/a08457.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "dd/d1d/a08457.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "dd/d1d/a08457.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "dd/d1d/a08457.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "BoxMessage", "dd/d1d/a08457.html#a450f6063a89db2d152370bc997c844a3", null ],
+    [ "BoxMoney", "dd/d1d/a08457.html#a52a12645b55f5757cc61e9a014a71f32", null ],
+    [ "IsCoded", "dd/d1d/a08457.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
+    [ "MenuItemIcon", "dd/d1d/a08457.html#a987724c4673be20f5386f44245267bc9", null ],
+    [ "Message", "dd/d1d/a08457.html#af130b33294cd49261b3c093cf6f9542c", null ],
+    [ "OptionType", "dd/d1d/a08457.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
+    [ "Sender", "dd/d1d/a08457.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
 ];

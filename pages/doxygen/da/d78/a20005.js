@@ -1,7 +1,8 @@
 var a20005 =
 [
-    [ "OnPeriodic", "da/d78/a20005.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "da/d78/a20005.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "da/d78/a20005.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "da/d78/a20005.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "HandlePeriodic", "da/d78/a20005.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "da/d78/a20005.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "da/d78/a20005.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "da/d78/a20005.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "da/d78/a20005.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

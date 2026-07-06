@@ -1,6 +1,11 @@
 var a17297 =
 [
-    [ "npc_pos_leader_secondAI", "d3/ddd/a17301.html", "d3/ddd/a17301" ],
-    [ "npc_pos_leader_second", "dc/d4e/a17297.html#ac4758674cc97eae0937264fa028e6da5", null ],
-    [ "GetAI", "dc/d4e/a17297.html#ac403cfc86247990d78c9cf4179df8b87", null ]
+    [ "npc_spectral_footman", "dc/d4e/a17297.html#ab12174cbf246178b52c074024453015e", null ],
+    [ "AttackStart", "dc/d4e/a17297.html#a0fe7529c47d56f67b15023bc432f0498", null ],
+    [ "DoAction", "dc/d4e/a17297.html#a9a81be4f5c159e64ba0f8926ea095f81", null ],
+    [ "EnterEvadeMode", "dc/d4e/a17297.html#afc51e0562045028af7161ea66e7be9f0", null ],
+    [ "JustDied", "dc/d4e/a17297.html#ae4292ffa4b9e142b41e58d31338b97b5", null ],
+    [ "JustEngagedWith", "dc/d4e/a17297.html#a9d8d723b403035660b78c332d5813d3f", null ],
+    [ "Reset", "dc/d4e/a17297.html#a1c3612a7d9ac3076392c5c22e4e0a73e", null ],
+    [ "UpdateAI", "dc/d4e/a17297.html#af76de9237937199dfa715a445b0060c3", null ]
 ];

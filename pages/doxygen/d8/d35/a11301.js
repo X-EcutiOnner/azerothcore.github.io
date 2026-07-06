@@ -1,11 +1,6 @@
 var a11301 =
 [
-    [ "MoneyCost", "d8/d35/a11301.html#a8f88c27f149bf304f46b00dec2aa4a30", null ],
-    [ "PointCost", "d8/d35/a11301.html#aebcad3f23dbca753ad970081af0a78c9", null ],
-    [ "ReqAbility", "d8/d35/a11301.html#acc13f04eb19a4555ae1a54594f1d858b", null ],
-    [ "ReqLevel", "d8/d35/a11301.html#a9478dc1065bc10ebc591ff8022e43993", null ],
-    [ "ReqSkillLine", "d8/d35/a11301.html#a5267f4615e01571a4a16d17d6914981b", null ],
-    [ "ReqSkillRank", "d8/d35/a11301.html#ae6f9640e257d83d633c48168edc658b6", null ],
-    [ "SpellID", "d8/d35/a11301.html#accf0f9aa4c8f2130f6926235dca69476", null ],
-    [ "Usable", "d8/d35/a11301.html#a35d7186073a231f0dd1fe5920eec175b", null ]
+    [ "CancelTempEnchantment", "d8/d35/a11301.html#aa70516ab1b16789cb7b705751162b70b", null ],
+    [ "Read", "d8/d35/a11301.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
+    [ "EquipmentSlot", "d8/d35/a11301.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
 ];

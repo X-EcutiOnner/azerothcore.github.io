@@ -1,7 +1,9 @@
 var a23749 =
 [
-    [ "HandleEffectApply", "de/d70/a23749.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "de/d70/a23749.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "de/d70/a23749.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "de/d70/a23749.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "boss_nethermancer_sepethrea", "de/d70/a23749.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "de/d70/a23749.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "de/d70/a23749.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "de/d70/a23749.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "de/d70/a23749.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "de/d70/a23749.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

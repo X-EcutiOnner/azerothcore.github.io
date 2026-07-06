@@ -1,7 +1,5 @@
 var a10993 =
 [
-    [ "GuildSetMemberNote", "d3/dd7/a10993.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
-    [ "Read", "d3/dd7/a10993.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
-    [ "Note", "d3/dd7/a10993.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
-    [ "NoteeName", "d3/dd7/a10993.html#acf6beb0a5b122a04162e9d2c027203af", null ]
+    [ "GuildGetInfo", "d3/dd7/a10993.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
+    [ "Read", "d3/dd7/a10993.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
 ];

@@ -1,8 +1,18 @@
 var a09021 =
 [
-    [ "RedirectSpellEvent", "da/d15/a09021.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "da/d15/a09021.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "da/d15/a09021.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "da/d15/a09021.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "da/d15/a09021.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "PlayerSocialMap", "da/d15/a09021.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
+    [ "PlayerSocial", "da/d15/a09021.html#ad505f01fad548b70cf070a86dce40278", null ],
+    [ "_checkContact", "da/d15/a09021.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
+    [ "AddToSocialList", "da/d15/a09021.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
+    [ "GetNumberOfSocialsWithFlag", "da/d15/a09021.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
+    [ "GetPlayerGUID", "da/d15/a09021.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
+    [ "HasFriend", "da/d15/a09021.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
+    [ "HasIgnore", "da/d15/a09021.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
+    [ "RemoveFromSocialList", "da/d15/a09021.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
+    [ "SendSocialList", "da/d15/a09021.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
+    [ "SetFriendNote", "da/d15/a09021.html#ace28c99a43b6c9645550d0c30f8184df", null ],
+    [ "SetPlayerGUID", "da/d15/a09021.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
+    [ "SocialMgr", "da/d15/a09021.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
+    [ "m_playerGUID", "da/d15/a09021.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
+    [ "m_playerSocialMap", "da/d15/a09021.html#a608444605a276e67a868b7ceac94a954", null ]
 ];

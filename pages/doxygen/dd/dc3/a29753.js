@@ -1,6 +1,6 @@
 var a29753 =
 [
-    [ "height", "dd/dc3/a29753.html#a7638f586a055c48a46e36471543ff72f", null ],
-    [ "unk1", "dd/dc3/a29753.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
-    [ "unk2", "dd/dc3/a29753.html#a394a04f6e985824aa259a42b11b97136", null ]
+    [ "SetUp", "dd/dc3/a29753.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
+    [ "_entry", "dd/dc3/a29753.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
+    [ "_procEntry", "dd/dc3/a29753.html#affb4da9ec7478c526f07056b83bfff60", null ]
 ];

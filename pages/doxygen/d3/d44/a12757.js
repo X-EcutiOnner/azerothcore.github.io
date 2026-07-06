@@ -1,7 +1,5 @@
 var a12757 =
 [
-    [ "HandleAfterApply", "d3/d44/a12757.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "d3/d44/a12757.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "d3/d44/a12757.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "d3/d44/a12757.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "at_trigger_the_beast_movement", "d3/d44/a12757.html#a9534f4b71deab4a2a9a94a36e2946fc7", null ],
+    [ "OnTrigger", "d3/d44/a12757.html#a333d685d765497a950fde35067d876a1", null ]
 ];

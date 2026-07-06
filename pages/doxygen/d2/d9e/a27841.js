@@ -1,5 +1,5 @@
 var a27841 =
 [
-    [ "go_southfury_moonstone", "d2/d9e/a27841.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d2/d9e/a27841.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d2/d9e/a27841.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d2/d9e/a27841.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

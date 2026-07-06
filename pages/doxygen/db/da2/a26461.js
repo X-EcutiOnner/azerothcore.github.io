@@ -1,6 +1,7 @@
 var a26461 =
 [
-    [ "HandleEffectScriptEffect", "db/da2/a26461.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "db/da2/a26461.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "db/da2/a26461.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "CheckAreaTarget", "db/da2/a26461.html#a2d240518259d2452d263fc436de5056e", null ],
+    [ "PrepareAuraScript", "db/da2/a26461.html#a0b97b273f13805f027e5f5113d4a8e40", null ],
+    [ "Register", "db/da2/a26461.html#a50406feea1b2cf34ad101a3b1fd25d7c", null ],
+    [ "Validate", "db/da2/a26461.html#adfd1ccae4029680415409df737aa2533", null ]
 ];

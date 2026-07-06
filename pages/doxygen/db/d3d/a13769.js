@@ -1,10 +1,16 @@
 var a13769 =
 [
-    [ "npc_sunblade_scout", "db/d3d/a13769.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "db/d3d/a13769.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "db/d3d/a13769.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "db/d3d/a13769.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "db/d3d/a13769.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "db/d3d/a13769.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "db/d3d/a13769.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "boss_felmyst", "db/d3d/a13769.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "db/d3d/a13769.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "db/d3d/a13769.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "db/d3d/a13769.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "db/d3d/a13769.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "db/d3d/a13769.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "db/d3d/a13769.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "db/d3d/a13769.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "db/d3d/a13769.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "db/d3d/a13769.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "db/d3d/a13769.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "db/d3d/a13769.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "db/d3d/a13769.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

@@ -1,6 +1,7 @@
 var a12833 =
 [
-    [ "boss_shazzrah", "d8/d68/a12833.html#a9886c4c93017936beae1babacffa76a2", null ],
-    [ "ExecuteEvent", "d8/d68/a12833.html#a2d8ab48c6abb3e0334ef54e0b918ff27", null ],
-    [ "JustEngagedWith", "d8/d68/a12833.html#aa23aecbb28a9bb1fc138691f143f8e53", null ]
+    [ "boss_ebonroc", "d8/d68/a12833.html#a74725561727d5bf0dd266f50d377c9c8", null ],
+    [ "JustEngagedWith", "d8/d68/a12833.html#a84250d1bc0986130404433c80162ecac", null ],
+    [ "MovementInform", "d8/d68/a12833.html#afa0e5ad6e2eb3d8df539266623dbffb4", null ],
+    [ "UpdateAI", "d8/d68/a12833.html#a8d7b9b681ae8c1e4102cb90456611732", null ]
 ];

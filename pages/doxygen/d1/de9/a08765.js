@@ -1,25 +1,13 @@
 var a08765 =
 [
-    [ "ClientUpdateMaskType", "d1/de9/a08765.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
-    [ "UpdateMaskCount", "d1/de9/a08765.html#a667c2f210ee4a2417a2a3ba486d1332f", [
-      [ "CLIENT_UPDATE_MASK_BITS", "d1/de9/a08765.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
-    ] ],
-    [ "UpdateMask", "d1/de9/a08765.html#a72e9de07108361222addde025ea8362f", null ],
-    [ "UpdateMask", "d1/de9/a08765.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
-    [ "~UpdateMask", "d1/de9/a08765.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
-    [ "AppendToPacket", "d1/de9/a08765.html#afe89109ca16f687072062408e311f793", null ],
-    [ "Clear", "d1/de9/a08765.html#a39cffd3822966011d83d7241ee3c5548", null ],
-    [ "GetBit", "d1/de9/a08765.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
-    [ "GetBlockCount", "d1/de9/a08765.html#a5c0d2086346e4522e422add9622e1117", null ],
-    [ "GetCount", "d1/de9/a08765.html#a1f6e2b930533b303c173166bf3588613", null ],
-    [ "operator&=", "d1/de9/a08765.html#af15db8c732b94437fd1323a911eab5ce", null ],
-    [ "operator=", "d1/de9/a08765.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
-    [ "operator|", "d1/de9/a08765.html#a487d62a6a039803da615d265a176f138", null ],
-    [ "operator|=", "d1/de9/a08765.html#a81b64e6574c61533b07491920eddf413", null ],
-    [ "SetBit", "d1/de9/a08765.html#af3390cfa31c39629968a871be2c763fc", null ],
-    [ "SetCount", "d1/de9/a08765.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
-    [ "UnsetBit", "d1/de9/a08765.html#aaac0596975c08d04736996c608eff29f", null ],
-    [ "_bits", "d1/de9/a08765.html#ab34e66bf840ac230da0cfa35ef332145", null ],
-    [ "_blockCount", "d1/de9/a08765.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
-    [ "_fieldCount", "d1/de9/a08765.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
+    [ "FlaggedValuesArray32", "d1/de9/a08765.html#a0680f7b67001783f20d89989a49cbead", null ],
+    [ "AddFlag", "d1/de9/a08765.html#a273ab3607b23881628eb0c5d6a4da288", null ],
+    [ "AddValue", "d1/de9/a08765.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
+    [ "DelFlag", "d1/de9/a08765.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
+    [ "GetFlags", "d1/de9/a08765.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
+    [ "GetValue", "d1/de9/a08765.html#a87e5949bc041f15449331aceb277e8c4", null ],
+    [ "HasFlag", "d1/de9/a08765.html#a0ea5d977caef5152c71c515259a91f06", null ],
+    [ "SetValue", "d1/de9/a08765.html#ad0d385589befe52103f077723fa2463c", null ],
+    [ "m_flags", "d1/de9/a08765.html#abab31b77efb46fa796275c36964eab91", null ],
+    [ "m_values", "d1/de9/a08765.html#aabd025f47ad522e574f603eb559500f0", null ]
 ];

@@ -1,8 +1,14 @@
 var a13605 =
 [
-    [ "HandleApply", "db/d51/a13605.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "db/d51/a13605.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "db/d51/a13605.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "db/d51/a13605.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "db/d51/a13605.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "boss_apothecary_hummelAI", "db/d51/a13605.html#a75796eb8dc83729f2f726ff51317bd66", null ],
+    [ "DamageTaken", "db/d51/a13605.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
+    [ "DoAction", "db/d51/a13605.html#a03fb543ba20f92d5528bf4667c457631", null ],
+    [ "JustDied", "db/d51/a13605.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
+    [ "Reset", "db/d51/a13605.html#a31381343d2533af670941baf872b3635", null ],
+    [ "sGossipSelect", "db/d51/a13605.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
+    [ "SummonedCreatureDies", "db/d51/a13605.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
+    [ "UpdateAI", "db/d51/a13605.html#a61e4d85ecd592142ba07588512505990", null ],
+    [ "_deadCount", "db/d51/a13605.html#aaac2018e16b80997f884745732605559", null ],
+    [ "_isDead", "db/d51/a13605.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
+    [ "_phase", "db/d51/a13605.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
 ];

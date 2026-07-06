@@ -1,8 +1,6 @@
 var a09433 =
 [
-    [ "V8Type", "d8/dab/a09433.html#a004cbcd4de33cc555da6f6036d735dc0", null ],
-    [ "V9Type", "d8/dab/a09433.html#a3ec26bc3c9f2e579bf920bf169f3a223", null ],
-    [ "gridIntHeightMultiplier", "d8/dab/a09433.html#a626b7ad6821722d17bab6e21db618615", null ],
-    [ "v8", "d8/dab/a09433.html#a8b352fc11c1e705277f8d81b512e3103", null ],
-    [ "v9", "d8/dab/a09433.html#a37d2628b9fd45b5d5a12baa9eb6efc3c", null ]
+    [ "m_guid", "d8/dab/a09433.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
+    [ "m_instance", "d8/dab/a09433.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
+    [ "m_state", "d8/dab/a09433.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
 ];

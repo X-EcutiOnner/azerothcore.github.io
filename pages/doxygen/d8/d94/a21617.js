@@ -1,6 +1,6 @@
 var a21617 =
 [
-    [ "npc_plaguehound_trackerAI", "db/d1c/a21621.html", "db/d1c/a21621" ],
-    [ "npc_plaguehound_tracker", "d8/d94/a21617.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "d8/d94/a21617.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "HandleSendEvent", "d8/d94/a21617.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d8/d94/a21617.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d8/d94/a21617.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

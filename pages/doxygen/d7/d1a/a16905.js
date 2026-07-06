@@ -1,7 +1,8 @@
 var a16905 =
 [
-    [ "HandleEffectPeriodic", "d7/d1a/a16905.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
-    [ "PrepareAuraScript", "d7/d1a/a16905.html#af84222492b3209c97695895c4c991f4a", null ],
-    [ "Register", "d7/d1a/a16905.html#a4d1741913631bb649508ef238e25a6c8", null ],
-    [ "Validate", "d7/d1a/a16905.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
+    [ "npc_toc_boomkinAI", "d7/d1a/a16905.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "d7/d1a/a16905.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "d7/d1a/a16905.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "d7/d1a/a16905.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "d7/d1a/a16905.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

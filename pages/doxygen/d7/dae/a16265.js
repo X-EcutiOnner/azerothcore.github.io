@@ -1,7 +1,7 @@
 var a16265 =
 [
-    [ "HandleHit", "d7/dae/a16265.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d7/dae/a16265.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d7/dae/a16265.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d7/dae/a16265.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "HandleDummy", "d7/dae/a16265.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "d7/dae/a16265.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "d7/dae/a16265.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "d7/dae/a16265.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

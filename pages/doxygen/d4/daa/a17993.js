@@ -1,6 +1,10 @@
 var a17993 =
 [
-    [ "npc_bone_spikeAI", "d2/d36/a17997.html", "d2/d36/a17997" ],
-    [ "npc_bone_spike", "d4/daa/a17993.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "d4/daa/a17993.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "npc_gunship_gunnerAI", "d4/daa/a17993.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
+    [ "AttackStart", "d4/daa/a17993.html#ac21b90c1892c15882794384517ef9fd2", null ],
+    [ "CanAIAttack", "d4/daa/a17993.html#aef351305ef34fa316809697125a3bc9a", null ],
+    [ "MovementInform", "d4/daa/a17993.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
+    [ "UpdateAI", "d4/daa/a17993.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
+    [ "anyValid", "d4/daa/a17993.html#a00c7dc23618c60826241133a0067c1c4", null ],
+    [ "checkTimer", "d4/daa/a17993.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
 ];

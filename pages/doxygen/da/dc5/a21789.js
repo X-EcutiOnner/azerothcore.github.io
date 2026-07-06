@@ -1,5 +1,7 @@
 var a21789 =
 [
-    [ "go_brazier", "da/dc5/a21789.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "da/dc5/a21789.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "HandleAfterEffectApply", "da/dc5/a21789.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "da/dc5/a21789.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "da/dc5/a21789.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "da/dc5/a21789.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

@@ -1,6 +1,7 @@
 var a18709 =
 [
-    [ "npc_suppresserAI", "d5/d7e/a18713.html", "d5/d7e/a18713" ],
-    [ "npc_suppresser", "d7/d36/a18709.html#a5db40aecba3c45281fe963c6b2bd8d1e", null ],
-    [ "GetAI", "d7/d36/a18709.html#a48869515abbac1491337a93b987231da", null ]
+    [ "PrepareSpellScript", "d7/d36/a18709.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d7/d36/a18709.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d7/d36/a18709.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d7/d36/a18709.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

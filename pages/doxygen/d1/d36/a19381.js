@@ -1,8 +1,6 @@
 var a19381 =
 [
-    [ "npc_teslaAI", "d1/d36/a19381.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d1/d36/a19381.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d1/d36/a19381.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d1/d36/a19381.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d1/d36/a19381.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_boss_gothik_minionAI", "d5/d0b/a19385.html", "d5/d0b/a19385" ],
+    [ "npc_boss_gothik_minion", "d1/d36/a19381.html#a6cabeae812639ac179133245d85a0e15", null ],
+    [ "GetAI", "d1/d36/a19381.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
 ];

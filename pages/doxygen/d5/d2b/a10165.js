@@ -1,9 +1,13 @@
 var a10165 =
 [
-    [ "MapUpdateRequest", "d5/d2b/a10165.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d5/d2b/a10165.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d5/d2b/a10165.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d5/d2b/a10165.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d5/d2b/a10165.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d5/d2b/a10165.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "ParallelogramBoundary", "d5/d2b/a10165.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d5/d2b/a10165.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d5/d2b/a10165.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d5/d2b/a10165.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d5/d2b/a10165.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d5/d2b/a10165.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d5/d2b/a10165.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d5/d2b/a10165.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d5/d2b/a10165.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d5/d2b/a10165.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

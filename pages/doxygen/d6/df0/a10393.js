@@ -1,7 +1,12 @@
 var a10393 =
 [
-    [ "TransportPathTransform", "d6/df0/a10393.html#af73e0369a2f0e4c2aabfde5b47b7520d", null ],
-    [ "operator()", "d6/df0/a10393.html#ac86e405f0d39698c400d7a8d2ab10607", null ],
-    [ "_owner", "d6/df0/a10393.html#a15428c0b9a8b11f7f63845a7d65620e8", null ],
-    [ "_transformForTransport", "d6/df0/a10393.html#afad44bc388b7d224f7a87aed7ba2e120", null ]
+    [ "RotateMovementGenerator", "d6/df0/a10393.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
+    [ "Finalize", "d6/df0/a10393.html#afd7588c7877b116cc9626a774b89d584", null ],
+    [ "GetMovementGeneratorType", "d6/df0/a10393.html#a20677803edf5d93ceae3bf76ef426a81", null ],
+    [ "Initialize", "d6/df0/a10393.html#a18fea8760bb24912af9349a06ff7b596", null ],
+    [ "Reset", "d6/df0/a10393.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
+    [ "Update", "d6/df0/a10393.html#a0dc8600e3aa862a81735dfb927232e53", null ],
+    [ "m_direction", "d6/df0/a10393.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
+    [ "m_duration", "d6/df0/a10393.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
+    [ "m_maxDuration", "d6/df0/a10393.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
 ];

@@ -1,5 +1,8 @@
 var a25805 =
 [
-    [ "PrepareSpellScript", "d3/deb/a25805.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
-    [ "Register", "d3/deb/a25805.html#afc19789732c46589dca40d46cdb12d9e", null ]
+    [ "CheckProc", "d3/deb/a25805.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "d3/deb/a25805.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "d3/deb/a25805.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "d3/deb/a25805.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "d3/deb/a25805.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

@@ -1,10 +1,13 @@
 var a16245 =
 [
-    [ "boss_sartharion_tenebron", "d8/d42/a16245.html#aed0f47aa2ed463ae0d2219e54e7b91bc", null ],
-    [ "ClearInstance", "d8/d42/a16245.html#ac21b27a510d6c087d19bebe2b2a5426b", null ],
-    [ "ExecuteEvent", "d8/d42/a16245.html#ad61c290ccbd36d9b1bb24d6c44f390c3", null ],
-    [ "JustDied", "d8/d42/a16245.html#aa57a9180c2fbc2441622a6b3b4fd1fb1", null ],
-    [ "JustSummoned", "d8/d42/a16245.html#ae4e49d7bee95c929ece64beeca940a0a", null ],
-    [ "Reset", "d8/d42/a16245.html#a5bd12ada3fc396478ebbe39329aaf74b", null ],
-    [ "summons2", "d8/d42/a16245.html#a59b131fcd2298640390fcd0f662f132d", null ]
+    [ "npc_shadowpriest_sezzizAI", "d8/d42/a16245.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "d8/d42/a16245.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "d8/d42/a16245.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "d8/d42/a16245.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "d8/d42/a16245.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "d8/d42/a16245.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "d8/d42/a16245.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "d8/d42/a16245.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "d8/d42/a16245.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "d8/d42/a16245.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

@@ -1,11 +1,10 @@
 var a10969 =
 [
-    [ "GuildRankTabPermissions", "dc/d18/a10973.html", "dc/d18/a10973" ],
-    [ "GuildPermissionsQueryResults", "d4/dd9/a10969.html#aa643af51780fc550f3947936266d54f5", null ],
-    [ "Write", "d4/dd9/a10969.html#a4a5937a8daab44b5000a5308ed0be06a", null ],
-    [ "Flags", "d4/dd9/a10969.html#a368162426ab526adafc7ecb223fdf865", null ],
-    [ "NumTabs", "d4/dd9/a10969.html#ab797ef0f0081c4520a6333afbe6cd5b4", null ],
-    [ "RankID", "d4/dd9/a10969.html#a795ba45650991bd5c1aa03c17886d86b", null ],
-    [ "Tab", "d4/dd9/a10969.html#ae54eeb1a76f5eeaf4a63bcb58bab3460", null ],
-    [ "WithdrawGoldLimit", "d4/dd9/a10969.html#a9d175a8de69f15c3f8eadf237f68e84a", null ]
+    [ "EnvironmentalDamageLog", "d4/dd9/a10969.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d4/dd9/a10969.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d4/dd9/a10969.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d4/dd9/a10969.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d4/dd9/a10969.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d4/dd9/a10969.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d4/dd9/a10969.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

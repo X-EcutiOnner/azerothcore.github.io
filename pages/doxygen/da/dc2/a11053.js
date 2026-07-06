@@ -1,12 +1,6 @@
 var a11053 =
 [
-    [ "Charges", "da/dc2/a11053.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "da/dc2/a11053.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "da/dc2/a11053.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "da/dc2/a11053.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "da/dc2/a11053.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "da/dc2/a11053.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "da/dc2/a11053.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "da/dc2/a11053.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "da/dc2/a11053.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "GuildEventLogQueryResults", "da/dc2/a11053.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "da/dc2/a11053.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "da/dc2/a11053.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

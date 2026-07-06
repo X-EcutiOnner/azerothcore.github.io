@@ -1,7 +1,6 @@
 var a24861 =
 [
-    [ "HandleDummy", "d4/d79/a24861.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "d4/d79/a24861.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "d4/d79/a24861.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "d4/d79/a24861.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "CheckProc", "d4/d79/a24861.html#ad1678a96784add01965d67c3d86bcd77", null ],
+    [ "PrepareAuraScript", "d4/d79/a24861.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
+    [ "Register", "d4/d79/a24861.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
 ];

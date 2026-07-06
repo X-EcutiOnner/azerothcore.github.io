@@ -1,7 +1,6 @@
 var a14857 =
 [
-    [ "HandleScript", "db/d70/a14857.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "db/d70/a14857.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "db/d70/a14857.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "db/d70/a14857.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "npc_soh_fire_trigger", "db/d70/a14857.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "db/d70/a14857.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "db/d70/a14857.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

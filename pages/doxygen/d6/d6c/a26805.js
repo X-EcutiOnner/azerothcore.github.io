@@ -1,9 +1,7 @@
 var a26805 =
 [
-    [ "HandleKnockBack", "d6/d6c/a26805.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d6/d6c/a26805.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d6/d6c/a26805.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d6/d6c/a26805.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d6/d6c/a26805.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d6/d6c/a26805.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "if", "d6/d6c/a26805.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d6/d6c/a26805.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d6/d6c/a26805.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d6/d6c/a26805.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

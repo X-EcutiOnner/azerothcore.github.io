@@ -1,8 +1,8 @@
 var a09617 =
 [
-    [ "MostHPMissingInRange", "d2/d90/a09617.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d2/d90/a09617.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d2/d90/a09617.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d2/d90/a09617.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d2/d90/a09617.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "GameObjectWorker", "d2/d90/a09617.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
+    [ "Visit", "d2/d90/a09617.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
+    [ "Visit", "d2/d90/a09617.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
+    [ "_func", "d2/d90/a09617.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
+    [ "_phaseMask", "d2/d90/a09617.html#accfe66385f5bbfb461d0493c22fde20e", null ]
 ];

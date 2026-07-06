@@ -1,8 +1,7 @@
 var a19141 =
 [
-    [ "HandleScript", "d9/d6d/a19141.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d9/d6d/a19141.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d9/d6d/a19141.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d9/d6d/a19141.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d9/d6d/a19141.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "HandleDummy", "d9/d6d/a19141.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "d9/d6d/a19141.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "d9/d6d/a19141.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "d9/d6d/a19141.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

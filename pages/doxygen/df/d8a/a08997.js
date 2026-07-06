@@ -1,11 +1,10 @@
 var a08997 =
 [
-    [ "DispelInfo", "df/d8a/a08997.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "df/d8a/a08997.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "df/d8a/a08997.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "df/d8a/a08997.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "df/d8a/a08997.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "df/d8a/a08997.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "df/d8a/a08997.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "df/d8a/a08997.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "Index", "df/d8a/a08997.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "df/d8a/a08997.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "df/d8a/a08997.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "df/d8a/a08997.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "df/d8a/a08997.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "df/d8a/a08997.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

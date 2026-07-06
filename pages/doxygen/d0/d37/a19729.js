@@ -1,12 +1,13 @@
 var a19729 =
 [
-    [ "boss_sjonnirAI", "d0/d37/a19729.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d0/d37/a19729.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d0/d37/a19729.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d0/d37/a19729.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d0/d37/a19729.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d0/d37/a19729.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d0/d37/a19729.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "ScheduleTasks", "d0/d37/a19729.html#a5c3c31c5be424795e4e96291c910c73c", null ],
-    [ "SlugeCount", "d0/d37/a19729.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ]
+    [ "npc_oculus_unstable_sphereAI", "d0/d37/a19729.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d0/d37/a19729.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d0/d37/a19729.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d0/d37/a19729.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d0/d37/a19729.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d0/d37/a19729.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d0/d37/a19729.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d0/d37/a19729.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d0/d37/a19729.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d0/d37/a19729.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

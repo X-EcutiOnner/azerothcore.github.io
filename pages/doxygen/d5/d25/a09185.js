@@ -1,9 +1,9 @@
 var a09185 =
 [
-    [ "CellArea", "d5/d25/a09185.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d5/d25/a09185.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d5/d25/a09185.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d5/d25/a09185.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d5/d25/a09185.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d5/d25/a09185.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "TransportBase", "d5/d25/a09185.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d5/d25/a09185.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d5/d25/a09185.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d5/d25/a09185.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d5/d25/a09185.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d5/d25/a09185.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

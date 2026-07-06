@@ -1,7 +1,4 @@
 var a14929 =
 [
-    [ "PeriodicTick", "df/dbc/a14929.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "df/dbc/a14929.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "df/dbc/a14929.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "df/dbc/a14929.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "npc_midsummer_bonfire_despawner", "df/dbc/a14929.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

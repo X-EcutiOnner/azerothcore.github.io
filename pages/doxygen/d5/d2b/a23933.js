@@ -1,6 +1,7 @@
 var a23933 =
 [
-    [ "go_ancient_skull_pile", "d5/d2b/a23933.html#a53793cf5f47e812751c2e5ebfe4d1603", null ],
-    [ "OnGossipHello", "d5/d2b/a23933.html#afc258eaeb7586f0f539223c21f82ea63", null ],
-    [ "OnGossipSelect", "d5/d2b/a23933.html#a6d6fd73be859dc00f214796ec2f9bed2", null ]
+    [ "npc_bessyAI", "d0/d43/a23937.html", "d0/d43/a23937" ],
+    [ "npc_bessy", "d5/d2b/a23933.html#a08278c1524445054ca158433044a0824", null ],
+    [ "GetAI", "d5/d2b/a23933.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
+    [ "OnQuestAccept", "d5/d2b/a23933.html#a98b8e816195b81bab12cc9906df79807", null ]
 ];

@@ -1,6 +1,7 @@
 var a08817 =
 [
-    [ "PlayerCreateInfoItem", "d7/de6/a08817.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d7/de6/a08817.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d7/de6/a08817.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "UsedPos", "d7/de6/a08817.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "d7/de6/a08817.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "d7/de6/a08817.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "d7/de6/a08817.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

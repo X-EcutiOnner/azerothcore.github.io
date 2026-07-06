@@ -1,9 +1,8 @@
 var a19945 =
 [
-    [ "npc_hodirs_fury", "d9/d1a/a19945.html#abda902842d76a0a5a17196a11654f5ab", null ],
-    [ "MovementInform", "d9/d1a/a19945.html#a4d82007c5b70edad74b461948629b9fb", null ],
-    [ "Reset", "d9/d1a/a19945.html#a8f50cc6b79ba7feab8ac2f83f82a598f", null ],
-    [ "UpdateAI", "d9/d1a/a19945.html#a58a8b1664bb00b930cce86e856facb8b", null ],
-    [ "_switchTargetTimer", "d9/d1a/a19945.html#a9736332e6f3d163f04aa12cbd6829670", null ],
-    [ "_timeToHit", "d9/d1a/a19945.html#a611d171dc27bd78d298040eabfc00e5f", null ]
+    [ "brann_bronzebeardAI", "d9/df2/a19949.html", "d9/df2/a19949" ],
+    [ "brann_bronzebeard", "d9/d1a/a19945.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d9/d1a/a19945.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d9/d1a/a19945.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d9/d1a/a19945.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

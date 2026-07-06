@@ -1,10 +1,8 @@
 var a10225 =
 [
-    [ "ID", "d3/d90/a10225.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d3/d90/a10225.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d3/d90/a10225.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d3/d90/a10225.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d3/d90/a10225.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d3/d90/a10225.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d3/d90/a10225.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "GetNavMesh", "d3/d90/a10225.html#a81e3e8249f22accbd06f9e80aa3fccf9", null ],
+    [ "GetNavMeshQuery", "d3/d90/a10225.html#af524ac62385fdd4d4c6a4f01afafbb49", null ],
+    [ "MapCollisionData", "d3/d90/a10225.html#a472038a89678719bf8868ab0c75e394f", null ],
+    [ "_navMesh", "d3/d90/a10225.html#ae41a024489dbe5d11ba6dceed6b7442f", null ],
+    [ "_navMeshQuery", "d3/d90/a10225.html#a237375e56702f7e83c9e13e1f959cfdb", null ]
 ];

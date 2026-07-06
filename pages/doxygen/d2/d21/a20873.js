@@ -1,6 +1,6 @@
 var a20873 =
 [
-    [ "boss_skadiAI", "dc/d28/a20877.html", "dc/d28/a20877" ],
-    [ "boss_skadi", "d2/d21/a20873.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d2/d21/a20873.html#ac2986670096fdd69a2e584bb9fcc1bbb", null ]
+    [ "FilterTargets", "d2/d21/a20873.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d2/d21/a20873.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d2/d21/a20873.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

@@ -1,6 +1,8 @@
 var a21417 =
 [
-    [ "npc_q24545_lich_kingAI", "d1/def/a21421.html", "d1/def/a21421" ],
-    [ "npc_q24545_lich_king", "df/dad/a21417.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "df/dad/a21417.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "npc_mootoo_the_youngerAI", "df/dad/a21417.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "df/dad/a21417.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "df/dad/a21417.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "df/dad/a21417.html#ac758a992ed0d62a272930c84d617b348", null ],
+    [ "WaypointReached", "df/dad/a21417.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

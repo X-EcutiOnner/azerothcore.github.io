@@ -1,13 +1,8 @@
 var a22097 =
 [
-    [ "OPvPCapturePointEP_NPT", "d1/d9f/a22097.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "d1/d9f/a22097.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "d1/d9f/a22097.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "d1/d9f/a22097.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "d1/d9f/a22097.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "d1/d9f/a22097.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "d1/d9f/a22097.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "d1/d9f/a22097.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "d1/d9f/a22097.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "d1/d9f/a22097.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "npc_freed_protodrakeAI", "d1/d9f/a22097.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d1/d9f/a22097.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d1/d9f/a22097.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d1/d9f/a22097.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d1/d9f/a22097.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

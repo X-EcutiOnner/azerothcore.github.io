@@ -1,7 +1,11 @@
 var a05649 =
 [
-    [ "MetricStopWatch", "d8/d3d/a05649.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "d8/d3d/a05649.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "d8/d3d/a05649.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "d8/d3d/a05649.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "Decode", "d8/d3d/a05649.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "d8/d3d/a05649.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "d8/d3d/a05649.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "d8/d3d/a05649.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "d8/d3d/a05649.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "d8/d3d/a05649.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "d8/d3d/a05649.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "d8/d3d/a05649.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

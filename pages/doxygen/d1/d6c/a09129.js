@@ -1,9 +1,8 @@
 var a09129 =
 [
-    [ "day", "d1/d6c/a09129.html#a50a70dfa2fdb407101edf051eeacbad6", null ],
-    [ "holidayId", "d1/d6c/a09129.html#a2105d2c9d4b2867650f0a3b67b035416", null ],
-    [ "month", "d1/d6c/a09129.html#a55e1cf64111db7eeeec72c594b76c56d", null ],
-    [ "offset", "d1/d6c/a09129.html#aaa9bf14668239ea561aecc33104e245a", null ],
-    [ "type", "d1/d6c/a09129.html#a25f2529332f23c93b37e5c918032eb3d", null ],
-    [ "weekday", "d1/d6c/a09129.html#ac431dcdf2d64ae5e31d72971d208ef5b", null ]
+    [ "PowerPctOrderPred", "d1/d6c/a09129.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "d1/d6c/a09129.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "d1/d6c/a09129.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "d1/d6c/a09129.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "d1/d6c/a09129.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

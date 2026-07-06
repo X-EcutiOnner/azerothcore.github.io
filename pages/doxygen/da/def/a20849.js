@@ -1,13 +1,8 @@
 var a20849 =
 [
-    [ "npc_ferocious_rhinoAI", "da/def/a20849.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "da/def/a20849.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "da/def/a20849.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "da/def/a20849.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "da/def/a20849.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "da/def/a20849.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "da/def/a20849.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "da/def/a20849.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "da/def/a20849.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "da/def/a20849.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "OnApply", "da/def/a20849.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "da/def/a20849.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "da/def/a20849.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "da/def/a20849.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "da/def/a20849.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

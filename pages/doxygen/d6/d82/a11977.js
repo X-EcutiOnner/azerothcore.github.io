@@ -1,5 +1,6 @@
 var a11977 =
 [
-    [ "Name", "d6/d82/a11977.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
-    [ "Type", "d6/d82/a11977.html#aeacac864bd23dcb7b24efc484810f592", null ]
+    [ "BeforeHitHandler", "d6/d82/a11977.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d6/d82/a11977.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d6/d82/a11977.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

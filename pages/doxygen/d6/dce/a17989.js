@@ -1,7 +1,6 @@
 var a17989 =
 [
-    [ "npc_coldflameAI", "d6/dce/a17989.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d6/dce/a17989.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d6/dce/a17989.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d6/dce/a17989.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "npc_gunship_gunnerAI", "d4/daa/a17993.html", "d4/daa/a17993" ],
+    [ "npc_gunship_gunner", "d6/dce/a17989.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d6/dce/a17989.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

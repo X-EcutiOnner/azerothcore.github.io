@@ -1,5 +1,8 @@
 var a09817 =
 [
-    [ "getFirst", "d5/d62/a09817.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
-    [ "getFirst", "d5/d62/a09817.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "d5/d62/a09817.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "d5/d62/a09817.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "d5/d62/a09817.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "d5/d62/a09817.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "d5/d62/a09817.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

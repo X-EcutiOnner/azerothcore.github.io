@@ -1,5 +1,7 @@
 var a28321 =
 [
-    [ "go_transport_the_purple_princess", "d3/dda/a28321.html#ab0c79197964857d578036693a2c18e8a", null ],
-    [ "EventInform", "d3/dda/a28321.html#ac5b73f1bea180797169138f8e9228783", null ]
+    [ "npc_doctorAI", "d4/d53/a28325.html", "d4/d53/a28325" ],
+    [ "npc_doctor", "d3/dda/a28321.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d3/dda/a28321.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d3/dda/a28321.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

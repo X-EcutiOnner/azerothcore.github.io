@@ -1,7 +1,8 @@
 var a18893 =
 [
-    [ "HandleEvent", "d6/dbd/a18893.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d6/dbd/a18893.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d6/dbd/a18893.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d6/dbd/a18893.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "npc_suppresserAI", "d6/dbd/a18893.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d6/dbd/a18893.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d6/dbd/a18893.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d6/dbd/a18893.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d6/dbd/a18893.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

@@ -1,8 +1,6 @@
 var a26801 =
 [
-    [ "HandleScript", "dc/d13/a26801.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "dc/d13/a26801.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "dc/d13/a26801.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "dc/d13/a26801.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "dc/d13/a26801.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "HandleFinish", "dc/d13/a26801.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "dc/d13/a26801.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "dc/d13/a26801.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

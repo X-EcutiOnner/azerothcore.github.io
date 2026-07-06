@@ -1,10 +1,7 @@
 var a23141 =
 [
-    [ "boss_kelidan_the_breaker", "d6/dcd/a23141.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d6/dcd/a23141.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d6/dcd/a23141.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d6/dcd/a23141.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d6/dcd/a23141.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d6/dcd/a23141.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d6/dcd/a23141.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "PeriodicTick", "d6/dcd/a23141.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "d6/dcd/a23141.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "d6/dcd/a23141.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "d6/dcd/a23141.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

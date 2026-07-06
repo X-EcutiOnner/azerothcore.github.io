@@ -1,9 +1,10 @@
 var a17277 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d5/d16/a17277.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
-    [ "SpellHitTarget", "d5/d16/a17277.html#aea107ede3b11726b3f7caae590edaf52", null ],
-    [ "UpdateAI", "d5/d16/a17277.html#ade416a422e67ce61e8874320cce7143b", null ],
-    [ "pInstance", "d5/d16/a17277.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
-    [ "timer1", "d5/d16/a17277.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
-    [ "timer2", "d5/d16/a17277.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
+    [ "npc_hor_leaderAI", "d5/d16/a17277.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
+    [ "DoAction", "d5/d16/a17277.html#a610700732a6cc197a40106adef654a62", null ],
+    [ "Reset", "d5/d16/a17277.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
+    [ "UpdateAI", "d5/d16/a17277.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
+    [ "events", "d5/d16/a17277.html#a94128223bddd84b8a678e49f3189cb75", null ],
+    [ "instance", "d5/d16/a17277.html#aaf5ee73e8d3a52c51cbc64853843ed4e", null ],
+    [ "shortver", "d5/d16/a17277.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
 ];

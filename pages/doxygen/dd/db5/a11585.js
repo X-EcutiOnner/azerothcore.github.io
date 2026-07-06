@@ -1,8 +1,6 @@
 var a11585 =
 [
-    [ "SkillDiscoveryEntry", "dd/db5/a11585.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "dd/db5/a11585.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "dd/db5/a11585.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "dd/db5/a11585.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "dd/db5/a11585.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "QuestConfirmAcceptClient", "dd/db5/a11585.html#ac45767c9cf0e197e185a8936598fc9ea", null ],
+    [ "Read", "dd/db5/a11585.html#a483980152418879fd1a55db2fa4bf68a", null ],
+    [ "QuestId", "dd/db5/a11585.html#a25b4b779fdf9e642b2fe13faf03d50b1", null ]
 ];

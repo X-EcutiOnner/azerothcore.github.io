@@ -1,6 +1,6 @@
 var a28133 =
 [
-    [ "npc_steam_tonkAI", "d7/d00/a28137.html", "d7/d00/a28137" ],
-    [ "npc_steam_tonk", "d4/d91/a28133.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d4/d91/a28133.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "go_bellsAI", "d7/d00/a28137.html", "d7/d00/a28137" ],
+    [ "go_bells", "d4/d91/a28133.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
+    [ "GetAI", "d4/d91/a28133.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
 ];

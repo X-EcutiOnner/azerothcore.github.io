@@ -1,8 +1,27 @@
 var a13085 =
 [
-    [ "npc_cyclone", "d2/d2f/a13085.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d2/d2f/a13085.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d2/d2f/a13085.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d2/d2f/a13085.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d2/d2f/a13085.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "npc_echo_of_medivh", "d2/d2f/a13085.html#a8daae7bf56be7abea6a2b4e44a456e8d", null ],
+    [ "CastChangeFacing", "d2/d2f/a13085.html#ab4e7bfde2f557adecd2babe92ec80c61", null ],
+    [ "GetHostileTargetForChangeFacing", "d2/d2f/a13085.html#ad1618ff00a38db0e009dc51ff72a56d9", null ],
+    [ "GetPiece", "d2/d2f/a13085.html#a05127264eb0816e706fdffbcebadde62", null ],
+    [ "HandleCellInitialData", "d2/d2f/a13085.html#a70a29e7257d501867b546a4f2ac3d2cb", null ],
+    [ "HandleCheat", "d2/d2f/a13085.html#a49c0f6bb15d9ac92e4ce5472c1d19c8e", null ],
+    [ "HandlePieceJustDied", "d2/d2f/a13085.html#aaaafdd11e6535a50a52eb4ec8eca068d", null ],
+    [ "HandlePieceMove", "d2/d2f/a13085.html#a46368e189117fd61bd3dde3c9f603e97", null ],
+    [ "HandlePieceMoveByAI", "d2/d2f/a13085.html#ad1e39dc9dc1dae049fbd94e94cfd535e", null ],
+    [ "HandlePieceRotate", "d2/d2f/a13085.html#a81ca97597748bdb3c3b85b7afd8650be", null ],
+    [ "IsMedivhPiece", "d2/d2f/a13085.html#ac6e38bc98f89ea6f6eabaf0321fe6793", null ],
+    [ "JustSummoned", "d2/d2f/a13085.html#a5df890b728d6fb7d092543b53d9928a6", null ],
+    [ "RemoveCheats", "d2/d2f/a13085.html#a36bb27743c6c8de777741fea6a16202b", null ],
+    [ "Reset", "d2/d2f/a13085.html#a022322f875e81d18573806226ff10a9c", null ],
+    [ "SetupBoard", "d2/d2f/a13085.html#ab8c6f0ff4495332429734665d86c7157", null ],
+    [ "sGossipHello", "d2/d2f/a13085.html#a48bfda5cf3fe7778d24be4b85768eea6", null ],
+    [ "sGossipSelect", "d2/d2f/a13085.html#a734e5b7531437304f780fe56309d9a6b", null ],
+    [ "SummonedCreatureDespawn", "d2/d2f/a13085.html#a997122c3611cdc26b62b2840e5823cfb", null ],
+    [ "UpdateAI", "d2/d2f/a13085.html#ac147e299fef7421b7a6932161a6139f7", null ],
+    [ "_boards", "d2/d2f/a13085.html#a1822e85399368edeac079c4778efc66b", null ],
+    [ "_cheatTimer", "d2/d2f/a13085.html#aa6b9738bc5ad08fa8afab028f1b440cc", null ],
+    [ "_deadCount", "d2/d2f/a13085.html#af401c33d5dfe5b6b28f941353333d92d", null ],
+    [ "_instance", "d2/d2f/a13085.html#abcc815f169610660cb4e13a5be3be602", null ],
+    [ "_summons", "d2/d2f/a13085.html#ac15d663d4905f9ae30485ba0104bee82", null ]
 ];

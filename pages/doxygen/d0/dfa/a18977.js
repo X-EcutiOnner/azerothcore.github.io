@@ -1,9 +1,8 @@
 var a18977 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d0/dfa/a18977.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "d0/dfa/a18977.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "d0/dfa/a18977.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "d0/dfa/a18977.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "d0/dfa/a18977.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "d0/dfa/a18977.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "npc_rotting_frost_giantAI", "d0/dfa/a18977.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d0/dfa/a18977.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d0/dfa/a18977.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d0/dfa/a18977.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d0/dfa/a18977.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

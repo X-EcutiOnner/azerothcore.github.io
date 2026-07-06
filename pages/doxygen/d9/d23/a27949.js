@@ -1,5 +1,5 @@
 var a27949 =
 [
-    [ "item_petrov_cluster_bombs", "d9/d23/a27949.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d9/d23/a27949.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "go_seer_of_zebhalak", "d9/d23/a27949.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d9/d23/a27949.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

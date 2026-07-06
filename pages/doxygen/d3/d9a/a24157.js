@@ -1,9 +1,8 @@
 var a24157 =
 [
-    [ "HandleAfterHit", "d3/d9a/a24157.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d3/d9a/a24157.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d3/d9a/a24157.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d3/d9a/a24157.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d3/d9a/a24157.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d3/d9a/a24157.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "npc_pet_dk_ghoul", "d3/d9a/a24157.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d3/d9a/a24157.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d3/d9a/a24157.html#a6095e3619b470283b9875b90e2805b54", null ],
+    [ "UpdateAI", "d3/d9a/a24157.html#a55ed58a264bd30cc4f891dc1e6d2fe03", null ],
+    [ "_summonTargetGUID", "d3/d9a/a24157.html#aaca50b80273c75a48ee366fc07a3a3d0", null ]
 ];

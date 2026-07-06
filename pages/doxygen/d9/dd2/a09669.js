@@ -1,10 +1,9 @@
 var a09669 =
 [
-    [ "AnyAoETargetUnitInObjectRangeCheck", "d9/dd2/a09669.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
-    [ "operator()", "d9/dd2/a09669.html#af9a0c32593544a73aae22cd397eef63a", null ],
-    [ "_spellInfo", "d9/dd2/a09669.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
-    [ "i_funit", "d9/dd2/a09669.html#aa00b184a24ea73293114f92126f58f24", null ],
-    [ "i_obj", "d9/dd2/a09669.html#aa4acf0089c978408e30b08d539f2512f", null ],
-    [ "i_range", "d9/dd2/a09669.html#ad386efa8206906fd99816694a6a8d69b", null ],
-    [ "i_targetForPlayer", "d9/dd2/a09669.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
+    [ "PlayerDistWorker", "d9/dd2/a09669.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "d9/dd2/a09669.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "d9/dd2/a09669.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "d9/dd2/a09669.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "d9/dd2/a09669.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "d9/dd2/a09669.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

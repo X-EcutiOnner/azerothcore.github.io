@@ -1,9 +1,11 @@
 var a17657 =
 [
-    [ "FilterTargetsInitial", "da/d38/a17657.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "da/d38/a17657.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "da/d38/a17657.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "da/d38/a17657.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "da/d38/a17657.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "da/d38/a17657.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d38/a17657.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "da/d38/a17657.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "da/d38/a17657.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "da/d38/a17657.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "da/d38/a17657.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "da/d38/a17657.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "da/d38/a17657.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "da/d38/a17657.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

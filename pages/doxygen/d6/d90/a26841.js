@@ -1,6 +1,6 @@
 var a26841 =
 [
-    [ "HandleFinish", "d6/d90/a26841.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d6/d90/a26841.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d6/d90/a26841.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "HandleDummy", "d6/d90/a26841.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "d6/d90/a26841.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "d6/d90/a26841.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

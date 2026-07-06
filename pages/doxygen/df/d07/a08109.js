@@ -1,7 +1,5 @@
 var a08109 =
 [
-    [ "HyperlinkDataTokenizer", "df/d07/a08109.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "df/d07/a08109.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "df/d07/a08109.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "df/d07/a08109.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "IsColorValid", "df/d07/a08109.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
+    [ "IsTextValid", "df/d07/a08109.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
 ];

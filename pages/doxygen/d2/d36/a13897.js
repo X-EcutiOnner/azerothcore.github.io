@@ -1,7 +1,9 @@
 var a13897 =
 [
-    [ "npc_king_magni_bronzebeard", "d2/d36/a13897.html#af100ccf11c9d266be439318519280a9a", null ],
-    [ "JustDied", "d2/d36/a13897.html#a3323285cc5c4cee9df001e83584b8114", null ],
-    [ "JustEngagedWith", "d2/d36/a13897.html#a8c92169605d30c82f4699ff2b29101a6", null ],
-    [ "UpdateAI", "d2/d36/a13897.html#ad23891becf07d991c5ffc4f89719fa04", null ]
+    [ "boss_muru", "d2/d36/a13897.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
+    [ "DamageTaken", "d2/d36/a13897.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
+    [ "JustEngagedWith", "d2/d36/a13897.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
+    [ "JustSummoned", "d2/d36/a13897.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
+    [ "MoveInLineOfSight", "d2/d36/a13897.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
+    [ "Reset", "d2/d36/a13897.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
 ];

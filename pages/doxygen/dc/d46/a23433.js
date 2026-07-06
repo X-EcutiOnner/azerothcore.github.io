@@ -1,5 +1,6 @@
 var a23433 =
 [
-    [ "npc_lord_sanguinar", "dc/d46/a23433.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "dc/d46/a23433.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandleHit", "dc/d46/a23433.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "dc/d46/a23433.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "dc/d46/a23433.html#acb1b681f587817614c2b3684585369db", null ]
 ];

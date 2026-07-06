@@ -1,12 +1,10 @@
 var a09469 =
 [
-    [ "VisibleNotifier", "dc/d31/a09469.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "dc/d31/a09469.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "dc/d31/a09469.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "dc/d31/a09469.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "dc/d31/a09469.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "dc/d31/a09469.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "dc/d31/a09469.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "dc/d31/a09469.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "dc/d31/a09469.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "GridObjectLoader", "dc/d31/a09469.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "dc/d31/a09469.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "dc/d31/a09469.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "dc/d31/a09469.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "dc/d31/a09469.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "dc/d31/a09469.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "dc/d31/a09469.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

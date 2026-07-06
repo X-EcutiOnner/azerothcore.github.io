@@ -1,10 +1,4 @@
 var a10589 =
 [
-    [ "BattlefieldScript", "d1/d44/a10589.html#a5d852a5ae3f62631280ca9f4b97b1734", null ],
-    [ "IsDatabaseBound", "d1/d44/a10589.html#a3d02622460b0fcc0ae0d5d559fe5f436", null ],
-    [ "OnBattlefieldBeforeInvitePlayerToWar", "d1/d44/a10589.html#ac0c199050fba1f6e991783bd2d2efdc2", null ],
-    [ "OnBattlefieldPlayerEnterZone", "d1/d44/a10589.html#adf7c217eadc6106b1ce3c353a411edf8", null ],
-    [ "OnBattlefieldPlayerJoinWar", "d1/d44/a10589.html#a2f2a9de94a8e8f60d04e956b4479cf16", null ],
-    [ "OnBattlefieldPlayerLeaveWar", "d1/d44/a10589.html#a3e88ff9ad3772d558ab72123127a550e", null ],
-    [ "OnBattlefieldPlayerLeaveZone", "d1/d44/a10589.html#a3b274755aaded2d99bcf5e12a2f2de4c", null ]
+    [ "CompletionText", "d1/d44/a10589.html#ac898e7775bb068beee5aaf8cb4c81900", null ]
 ];

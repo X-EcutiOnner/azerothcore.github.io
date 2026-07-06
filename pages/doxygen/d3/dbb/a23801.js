@@ -1,8 +1,6 @@
 var a23801 =
 [
-    [ "CreatureId", "d3/dbb/a23801.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d3/dbb/a23801.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d3/dbb/a23801.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d3/dbb/a23801.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d3/dbb/a23801.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_daranelleAI", "df/db2/a23805.html", "df/db2/a23805" ],
+    [ "npc_daranelle", "d3/dbb/a23801.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d3/dbb/a23801.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

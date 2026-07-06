@@ -1,8 +1,6 @@
 var a05769 =
 [
-    [ "result_type", "dc/dd8/a05769.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "dc/dd8/a05769.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "dc/dd8/a05769.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "dc/dd8/a05769.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "dc/dd8/a05769.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "fail", "dc/dd8/a05769.html#acf03a4e600698c697e7bec942574c9ac", null ],
+    [ "next", "dc/dd8/a05769.html#a1eada7fb43767f23dfd67d5de557e982", null ],
+    [ "output", "dc/dd8/a05769.html#abf9ce0d579ce0389302655ce0104090a", null ]
 ];

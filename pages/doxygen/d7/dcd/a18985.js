@@ -1,9 +1,7 @@
 var a18985 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "d7/dcd/a18985.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "d7/dcd/a18985.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "d7/dcd/a18985.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "d7/dcd/a18985.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "d7/dcd/a18985.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "d7/dcd/a18985.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "npc_frost_freeze_trapAI", "d7/dcd/a18985.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d7/dcd/a18985.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d7/dcd/a18985.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d7/dcd/a18985.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

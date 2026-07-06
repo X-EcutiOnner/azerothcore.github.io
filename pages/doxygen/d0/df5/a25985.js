@@ -1,6 +1,6 @@
 var a25985 =
 [
-    [ "CheckProc", "d0/df5/a25985.html#a26a6b40751b0c0b68932b9a6438a4571", null ],
-    [ "PrepareAuraScript", "d0/df5/a25985.html#a7bde487cba726ab6601e82db8e2a092a", null ],
-    [ "Register", "d0/df5/a25985.html#a60130890b5e10e2f29c7eadb20c057b7", null ]
+    [ "PrepareSpellScript", "d0/df5/a25985.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "d0/df5/a25985.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "d0/df5/a25985.html#a59641895cead08de4a4503262505ee73", null ]
 ];

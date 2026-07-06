@@ -1,8 +1,6 @@
 var a21969 =
 [
-    [ "npc_wg_spirit_guideAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
-    [ "npc_wg_spirit_guide", "db/d43/a21969.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "db/d43/a21969.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "db/d43/a21969.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "db/d43/a21969.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_frostbrood_skytalonAI", "dd/d2d/a21973.html", "dd/d2d/a21973" ],
+    [ "npc_frostbrood_skytalon", "db/d43/a21969.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "db/d43/a21969.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

@@ -1,9 +1,8 @@
 var a11565 =
 [
-    [ "EncryptableAndCompressiblePacket", "d1/dd2/a11565.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d1/dd2/a11565.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d1/dd2/a11565.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d1/dd2/a11565.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d1/dd2/a11565.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d1/dd2/a11565.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "QuestUpdateAddPvPKill", "d1/dd2/a11565.html#a22b1143d1ee7c28f0ae63c0d215e64ce", null ],
+    [ "Write", "d1/dd2/a11565.html#ab58c8dc6918834caa654e05992abde6a", null ],
+    [ "CurrentCount", "d1/dd2/a11565.html#a4c6df4b5647d8b71084c4495548cdd58", null ],
+    [ "QuestId", "d1/dd2/a11565.html#ae80d16619ecac6b381b89483ce96b810", null ],
+    [ "RequiredCount", "d1/dd2/a11565.html#a95d2c68a8383bcac985a891de7771274", null ]
 ];

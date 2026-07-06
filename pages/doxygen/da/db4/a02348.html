@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/Hyperlinks.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/shared/Realms/Realm.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,215 +106,153 @@ $(document).ready(function(){initNavTree('da/db4/a02348.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Hyperlinks.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">Realm.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AsioHacksFwd.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">QuestDef.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d76/a08067.html">LinkValidator&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfd/a29289.html">RealmHandle</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d72/a08071.html">LinkValidator&lt; LinkTags::achievement &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d82/a08075.html">LinkValidator&lt; LinkTags::item &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d7c/a08079.html">LinkValidator&lt; LinkTags::quest &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a08083.html">LinkValidator&lt; LinkTags::spell &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/df3/a08087.html">LinkValidator&lt; LinkTags::enchant &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3e/a08091.html">LinkValidator&lt; LinkTags::glyph &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dae/a08095.html">LinkValidator&lt; LinkTags::talent &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc3/a08099.html">LinkValidator&lt; LinkTags::trade &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d79/a29293.html">Realm</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:af1c86bff85f30ff113d5f78421c280af"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(T)&#160;&#160;&#160;do { if (info.tag == T::tag()) return <a class="el" href="../../da/db4/a02348.html#a1021653ddd2d2e78df34d8c4a2a7ed93">ValidateAs</a>&lt;T&gt;(info); } while (0);</td></tr>
-<tr class="separator:af1c86bff85f30ff113d5f78421c280af"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a0b5e4d40ad5549ddc48c127306499b6c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d24/a04901.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#a0b5e4d40ad5549ddc48c127306499b6c">toHex</a> (char c)</td></tr>
-<tr class="separator:a0b5e4d40ad5549ddc48c127306499b6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1021653ddd2d2e78df34d8c4a2a7ed93"><td class="memTemplParams" colspan="2">template&lt;typename TAG &gt; </td></tr>
-<tr class="memitem:a1021653ddd2d2e78df34d8c4a2a7ed93"><td class="memTemplItemLeft" align="right" valign="top">static bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#a1021653ddd2d2e78df34d8c4a2a7ed93">ValidateAs</a> (<a class="el" href="../../da/d50/a08167.html">HyperlinkInfo</a> const &amp;info)</td></tr>
-<tr class="separator:a1021653ddd2d2e78df34d8c4a2a7ed93"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7de61dd7d7c595063ae73f415e961cc9"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#a7de61dd7d7c595063ae73f415e961cc9">ValidateLinkInfo</a> (<a class="el" href="../../da/d50/a08167.html">HyperlinkInfo</a> const &amp;info)</td></tr>
-<tr class="separator:a7de61dd7d7c595063ae73f415e961cc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ace3f717ac43bef67791faeb2a0b2c1e2"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a> { <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2">REALM_FLAG_NONE</a> = 0x00
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a> = 0x01
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a> = 0x02
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903">REALM_FLAG_SPECIFYBUILD</a> = 0x04
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304">REALM_FLAG_UNK1</a> = 0x08
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81">REALM_FLAG_UNK2</a> = 0x10
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29">REALM_FLAG_RECOMMENDED</a> = 0x20
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b">REALM_FLAG_NEW</a> = 0x40
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952">REALM_FLAG_FULL</a> = 0x80
+<br />
+ }</td></tr>
+<tr class="separator:ace3f717ac43bef67791faeb2a0b2c1e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8ff852caf6f88797c9c3716d1acbe59"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59">RealmType</a> { <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb">REALM_TYPE_NORMAL</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c">REALM_TYPE_PVP</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19">REALM_TYPE_NORMAL2</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f">REALM_TYPE_RP</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae">REALM_TYPE_RPPVP</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be">MAX_CLIENT_REALM_TYPE</a> = 14
+, <br />
+&#160;&#160;<a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457">REALM_TYPE_FFA_PVP</a> = 16
+<br />
+ }</td></tr>
+<tr class="memdesc:ae8ff852caf6f88797c9c3716d1acbe59"><td class="mdescLeft">&#160;</td><td class="mdescRight">Type of server, this is values from second column of Cfg_Configs.dbc.  <a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59">More...</a><br /></td></tr>
+<tr class="separator:ae8ff852caf6f88797c9c3716d1acbe59"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="af1c86bff85f30ff113d5f78421c280af" name="af1c86bff85f30ff113d5f78421c280af"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1c86bff85f30ff113d5f78421c280af">&#9670;&#160;</a></span>TryValidateAs</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ace3f717ac43bef67791faeb2a0b2c1e2" name="ace3f717ac43bef67791faeb2a0b2c1e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ace3f717ac43bef67791faeb2a0b2c1e2">&#9670;&#160;</a></span>RealmFlags</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define TryValidateAs</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">T</td><td>)</td>
-          <td>&#160;&#160;&#160;do { if (info.tag == T::tag()) return <a class="el" href="../../da/db4/a02348.html#a1021653ddd2d2e78df34d8c4a2a7ed93">ValidateAs</a>&lt;T&gt;(info); } while (0);</td>
+          <td class="memname">enum <a class="el" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2">RealmFlags</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a0b5e4d40ad5549ddc48c127306499b6c" name="a0b5e4d40ad5549ddc48c127306499b6c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b5e4d40ad5549ddc48c127306499b6c">&#9670;&#160;</a></span>toHex()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d24/a04901.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> toHex </td>
-          <td>(</td>
-          <td class="paramtype">char&#160;</td>
-          <td class="paramname"><em>c</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2" name="ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2"></a>REALM_FLAG_NONE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056" name="ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056"></a>REALM_FLAG_VERSION_MISMATCH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68" name="ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68"></a>REALM_FLAG_OFFLINE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903" name="ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903"></a>REALM_FLAG_SPECIFYBUILD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304" name="ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304"></a>REALM_FLAG_UNK1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81" name="ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81"></a>REALM_FLAG_UNK2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29" name="ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29"></a>REALM_FLAG_RECOMMENDED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b" name="ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b"></a>REALM_FLAG_NEW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952" name="ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952"></a>REALM_FLAG_FULL&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   30</span>{ <span class="keywordflow">return</span> (c &gt;= <span class="charliteral">&#39;0&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;9&#39;</span>) ? c - <span class="charliteral">&#39;0&#39;</span> + 0x10 : (c &gt;= <span class="charliteral">&#39;a&#39;</span> &amp;&amp; c &lt;= <span class="charliteral">&#39;f&#39;</span>) ? c - <span class="charliteral">&#39;a&#39;</span> + 0x1a : 0x00; }</div>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2">REALM_FLAG_NONE</a>             = 0x00,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a> = 0x01,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a>          = 0x02,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903">REALM_FLAG_SPECIFYBUILD</a>     = 0x04,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304">REALM_FLAG_UNK1</a>             = 0x08,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81">REALM_FLAG_UNK2</a>             = 0x10,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29">REALM_FLAG_RECOMMENDED</a>      = 0x20,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b">REALM_FLAG_NEW</a>              = 0x40,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952">REALM_FLAG_FULL</a>             = 0x80</div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b">REALM_FLAG_NEW</a></div><div class="ttdeci">@ REALM_FLAG_NEW</div><div class="ttdef"><b>Definition:</b> Realm.h:34</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68">REALM_FLAG_OFFLINE</a></div><div class="ttdeci">@ REALM_FLAG_OFFLINE</div><div class="ttdef"><b>Definition:</b> Realm.h:29</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304">REALM_FLAG_UNK1</a></div><div class="ttdeci">@ REALM_FLAG_UNK1</div><div class="ttdef"><b>Definition:</b> Realm.h:31</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2">REALM_FLAG_NONE</a></div><div class="ttdeci">@ REALM_FLAG_NONE</div><div class="ttdef"><b>Definition:</b> Realm.h:27</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81">REALM_FLAG_UNK2</a></div><div class="ttdeci">@ REALM_FLAG_UNK2</div><div class="ttdef"><b>Definition:</b> Realm.h:32</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056">REALM_FLAG_VERSION_MISMATCH</a></div><div class="ttdeci">@ REALM_FLAG_VERSION_MISMATCH</div><div class="ttdef"><b>Definition:</b> Realm.h:28</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29">REALM_FLAG_RECOMMENDED</a></div><div class="ttdeci">@ REALM_FLAG_RECOMMENDED</div><div class="ttdef"><b>Definition:</b> Realm.h:33</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952">REALM_FLAG_FULL</a></div><div class="ttdeci">@ REALM_FLAG_FULL</div><div class="ttdef"><b>Definition:</b> Realm.h:35</div></div>
+<div class="ttc" id="aa02348_html_ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903"><div class="ttname"><a href="../../da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903">REALM_FLAG_SPECIFYBUILD</a></div><div class="ttdeci">@ REALM_FLAG_SPECIFYBUILD</div><div class="ttdef"><b>Definition:</b> Realm.h:30</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00033">Acore::Hyperlinks::ParseSingleHyperlink()</a>.</p>
-
 </div>
 </div>
-<a id="a1021653ddd2d2e78df34d8c4a2a7ed93" name="a1021653ddd2d2e78df34d8c4a2a7ed93"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1021653ddd2d2e78df34d8c4a2a7ed93">&#9670;&#160;</a></span>ValidateAs()</h2>
+<a id="ae8ff852caf6f88797c9c3716d1acbe59" name="ae8ff852caf6f88797c9c3716d1acbe59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8ff852caf6f88797c9c3716d1acbe59">&#9670;&#160;</a></span>RealmType</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename TAG &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool ValidateAs </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d50/a08167.html">HyperlinkInfo</a> const &amp;&#160;</td>
-          <td class="paramname"><em>info</em></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59">RealmType</a></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  328</span>{</div>
-<div class="line"><span class="lineno">  329</span>    std::decay_t&lt;typename TAG::value_type&gt; t;</div>
-<div class="line"><span class="lineno">  330</span>    <span class="keywordflow">if</span> (!TAG::StoreTo(t, info.data))</div>
-<div class="line"><span class="lineno">  331</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  332</span> </div>
-<div class="line"><span class="lineno">  333</span>    <a class="code hl_typedef" href="../../db/d24/a04901.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> <span class="keyword">const</span> severity = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../db/d24/a04901.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a><span class="keyword">&gt;</span>(<a class="code hl_define" href="../../d5/dbd/a05038.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d0/dd3/a04121.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>));</div>
-<div class="line"><span class="lineno">  334</span>    <span class="keywordflow">if</span> (severity &gt;= 0)</div>
-<div class="line"><span class="lineno">  335</span>    {</div>
-<div class="line"><span class="lineno">  336</span>        <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d1/d76/a08067.html">LinkValidator&lt;TAG&gt;::IsColorValid</a>(t, info.color))</div>
-<div class="line"><span class="lineno">  337</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  338</span> </div>
-<div class="line"><span class="lineno">  339</span>        <span class="keywordflow">if</span> (severity &gt;= 1)</div>
-<div class="line"><span class="lineno">  340</span>        {</div>
-<div class="line"><span class="lineno">  341</span>            <span class="keywordflow">if</span> (!<a class="code hl_struct" href="../../d1/d76/a08067.html">LinkValidator&lt;TAG&gt;::IsTextValid</a>(t, info.text))</div>
-<div class="line"><span class="lineno">  342</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  343</span>        }</div>
-<div class="line"><span class="lineno">  344</span>    }</div>
-<div class="line"><span class="lineno">  345</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  346</span>}</div>
-<div class="ttc" id="aa04121_html_a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4"><div class="ttname"><a href="../../d0/dd3/a04121.html#a468ad15992691eb97dd20680046832e0ada984dfcac8d4e8bf4f4f9d1409857e4">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a></div><div class="ttdeci">@ CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:245</div></div>
-<div class="ttc" id="aa04901_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../db/d24/a04901.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
-<div class="ttc" id="aa05038_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d5/dbd/a05038.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
-<div class="ttc" id="aa08067_html"><div class="ttname"><a href="../../d1/d76/a08067.html">LinkValidator</a></div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:106</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00243">Acore::Hyperlinks::HyperlinkInfo::color</a>, <a class="el" href="../../#l00245">CONFIG_CHAT_STRICT_LINK_CHECKING_SEVERITY</a>, <a class="el" href="../../#l00245">Acore::Hyperlinks::HyperlinkInfo::data</a>, <a class="el" href="../../#l00317">sWorld</a>, and <a class="el" href="../../#l00246">Acore::Hyperlinks::HyperlinkInfo::text</a>.</p>
 
-</div>
-</div>
-<a id="a7de61dd7d7c595063ae73f415e961cc9" name="a7de61dd7d7c595063ae73f415e961cc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7de61dd7d7c595063ae73f415e961cc9">&#9670;&#160;</a></span>ValidateLinkInfo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool ValidateLinkInfo </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/d50/a08167.html">HyperlinkInfo</a> const &amp;&#160;</td>
-          <td class="paramname"><em>info</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
+<p>Type of server, this is values from second column of Cfg_Configs.dbc. </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb" name="ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb"></a>REALM_TYPE_NORMAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c" name="ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c"></a>REALM_TYPE_PVP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19" name="ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19"></a>REALM_TYPE_NORMAL2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f" name="ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f"></a>REALM_TYPE_RP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae" name="ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae"></a>REALM_TYPE_RPPVP&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be" name="ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be"></a>MAX_CLIENT_REALM_TYPE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457" name="ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457"></a>REALM_TYPE_FFA_PVP&#160;</td><td class="fielddoc"></td></tr>
 </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  351</span>{</div>
-<div class="line"><span class="lineno">  352</span>    <span class="keyword">using namespace </span>LinkTags;</div>
-<div class="line"><span class="lineno">  353</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(achievement);</div>
-<div class="line"><span class="lineno">  354</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(area);</div>
-<div class="line"><span class="lineno">  355</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(areatrigger);</div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature);</div>
-<div class="line"><span class="lineno">  357</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(creature_entry);</div>
-<div class="line"><span class="lineno">  358</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(enchant);</div>
-<div class="line"><span class="lineno">  359</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameevent);</div>
-<div class="line"><span class="lineno">  360</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject);</div>
-<div class="line"><span class="lineno">  361</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(gameobject_entry);</div>
-<div class="line"><span class="lineno">  362</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(glyph);</div>
-<div class="line"><span class="lineno">  363</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(item);</div>
-<div class="line"><span class="lineno">  364</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(itemset);</div>
-<div class="line"><span class="lineno">  365</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(player);</div>
-<div class="line"><span class="lineno">  366</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(quest);</div>
-<div class="line"><span class="lineno">  367</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(skill);</div>
-<div class="line"><span class="lineno">  368</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(spell);</div>
-<div class="line"><span class="lineno">  369</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(talent);</div>
-<div class="line"><span class="lineno">  370</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(taxinode);</div>
-<div class="line"><span class="lineno">  371</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(tele);</div>
-<div class="line"><span class="lineno">  372</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(title);</div>
-<div class="line"><span class="lineno">  373</span>    <a class="code hl_define" href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a>(trade);</div>
-<div class="line"><span class="lineno">  374</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  375</span>}</div>
-<div class="ttc" id="aa02348_html_af1c86bff85f30ff113d5f78421c280af"><div class="ttname"><a href="../../da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af">TryValidateAs</a></div><div class="ttdeci">#define TryValidateAs(T)</div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:348</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb">REALM_TYPE_NORMAL</a>       = 0,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c">REALM_TYPE_PVP</a>          = 1,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19">REALM_TYPE_NORMAL2</a>      = 4,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f">REALM_TYPE_RP</a>           = 6,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae">REALM_TYPE_RPPVP</a>        = 8,</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be">MAX_CLIENT_REALM_TYPE</a>   = 14,</div>
+<div class="line"><span class="lineno">   61</span> </div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457">REALM_TYPE_FFA_PVP</a>      = 16 <span class="comment">// custom, free for all pvp mode like arena PvP in all zones except rest activated places and sanctuaries</span></div>
+<div class="line"><span class="lineno">   63</span>                                 <span class="comment">// replaced by REALM_PVP in realm list</span></div>
+<div class="line"><span class="lineno">   64</span>};</div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457">REALM_TYPE_FFA_PVP</a></div><div class="ttdeci">@ REALM_TYPE_FFA_PVP</div><div class="ttdef"><b>Definition:</b> Realm.h:62</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be">MAX_CLIENT_REALM_TYPE</a></div><div class="ttdeci">@ MAX_CLIENT_REALM_TYPE</div><div class="ttdef"><b>Definition:</b> Realm.h:60</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae">REALM_TYPE_RPPVP</a></div><div class="ttdeci">@ REALM_TYPE_RPPVP</div><div class="ttdef"><b>Definition:</b> Realm.h:58</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c">REALM_TYPE_PVP</a></div><div class="ttdeci">@ REALM_TYPE_PVP</div><div class="ttdef"><b>Definition:</b> Realm.h:55</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f">REALM_TYPE_RP</a></div><div class="ttdeci">@ REALM_TYPE_RP</div><div class="ttdef"><b>Definition:</b> Realm.h:57</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19">REALM_TYPE_NORMAL2</a></div><div class="ttdeci">@ REALM_TYPE_NORMAL2</div><div class="ttdef"><b>Definition:</b> Realm.h:56</div></div>
+<div class="ttc" id="aa02348_html_ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb"><div class="ttname"><a href="../../da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb">REALM_TYPE_NORMAL</a></div><div class="ttdeci">@ REALM_TYPE_NORMAL</div><div class="ttdef"><b>Definition:</b> Realm.h:54</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00348">TryValidateAs</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00378">Acore::Hyperlinks::CheckAllLinks()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -322,8 +260,8 @@ template&lt;typename TAG &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../da/db4/a02348.html">Hyperlinks.cpp</a></li>
-    <li class="footer">Generated on Mon Jun 29 2026 21:55:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_777a9b9a3e1a361a798e834f8fa9f1dc.html">shared</a></li><li class="navelem"><a class="el" href="../../dir_104b7121e64315d1b2361279804102a4.html">Realms</a></li><li class="navelem"><a class="el" href="../../da/db4/a02348.html">Realm.h</a></li>
+    <li class="footer">Generated on Mon Jul 6 2026 21:59:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

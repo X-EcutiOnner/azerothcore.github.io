@@ -1,6 +1,6 @@
 var a21981 =
 [
-    [ "npc_wg_queueAI", "da/dc9/a21981.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "da/dc9/a21981.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "da/dc9/a21981.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "HandleHealPct", "da/dc9/a21981.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "da/dc9/a21981.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "da/dc9/a21981.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

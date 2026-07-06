@@ -1,11 +1,9 @@
 var a21521 =
 [
-    [ "npc_emilyAI", "db/da4/a21521.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "db/da4/a21521.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "db/da4/a21521.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "db/da4/a21521.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "db/da4/a21521.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "WaypointReached", "db/da4/a21521.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "_mrfloppyGUID", "db/da4/a21521.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "db/da4/a21521.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_mageguard_dalaranAI", "db/da4/a21521.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "db/da4/a21521.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "db/da4/a21521.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "db/da4/a21521.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "db/da4/a21521.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "db/da4/a21521.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

@@ -1,7 +1,5 @@
 var a16381 =
 [
-    [ "HandlePeriodic", "d8/dce/a16381.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d8/dce/a16381.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d8/dce/a16381.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d8/dce/a16381.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "achievement_hadronox_denied", "d8/dce/a16381.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
+    [ "OnCheck", "d8/dce/a16381.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
 ];

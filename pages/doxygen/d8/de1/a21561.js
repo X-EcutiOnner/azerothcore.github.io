@@ -1,9 +1,6 @@
 var a21561 =
 [
-    [ "npc_venture_co_stragglerAI", "d8/de1/a21561.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
-    [ "Reset", "d8/de1/a21561.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
-    [ "SpellHit", "d8/de1/a21561.html#ae1919454c270d10342079b60a727a306", null ],
-    [ "UpdateAI", "d8/de1/a21561.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
-    [ "_events", "d8/de1/a21561.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
-    [ "_playerGUID", "d8/de1/a21561.html#a649493944b143782d995b5bdda3714b4", null ]
+    [ "npc_hourglass_of_eternityAI", "df/d80/a21565.html", "df/d80/a21565" ],
+    [ "npc_hourglass_of_eternity", "d8/de1/a21561.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "d8/de1/a21561.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

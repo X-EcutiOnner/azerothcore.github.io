@@ -1,7 +1,6 @@
 var a21201 =
 [
-    [ "npc_mootoo_the_youngerAI", "de/dc3/a21205.html", "de/dc3/a21205" ],
-    [ "npc_mootoo_the_younger", "d4/dfc/a21201.html#a91e10489ed6a98cfa764fd4de8448317", null ],
-    [ "GetAI", "d4/dfc/a21201.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
-    [ "OnQuestAccept", "d4/dfc/a21201.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
+    [ "HandleOnHit", "d4/dfc/a21201.html#aa3f90eb49ae947b5729f722750cb8711", null ],
+    [ "PrepareSpellScript", "d4/dfc/a21201.html#a3b62711a0ba478d6321a93d436359939", null ],
+    [ "Register", "d4/dfc/a21201.html#af7bdde31f1221d5679983a41e3eca204", null ]
 ];

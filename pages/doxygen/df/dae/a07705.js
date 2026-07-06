@@ -1,13 +1,12 @@
 var a07705 =
 [
-    [ "banners", "df/dae/a07705.html#a07c98125c64d119232fec9cc80050537", null ],
-    [ "faction", "df/dae/a07705.html#ab3758f67da3dcb507bb1acab575e2836", null ],
-    [ "gameobject_entry", "df/dae/a07705.html#ae80024986e048e05dca174d6b14964d3", null ],
-    [ "gameobject_type", "df/dae/a07705.html#ac4760cba40ba8916d66cae3712f7c641", null ],
-    [ "last_entry", "df/dae/a07705.html#a968d6f412ba88b9577429910ffa511a5", null ],
-    [ "needChange", "df/dae/a07705.html#acecd97e26d19c82e934817ecbc2afce9", null ],
-    [ "nodeState", "df/dae/a07705.html#a214e160c6fd94cefb4d080a94a12ba56", null ],
-    [ "nodeType", "df/dae/a07705.html#a3b303a427c4a2248dade5eada6774dc9", null ],
-    [ "timer", "df/dae/a07705.html#a434605ed0efcc262057a65d7cd8d0128", null ],
-    [ "worldStates", "df/dae/a07705.html#ae5d3b4b37fc5b7983c08b54d94d6c3d2", null ]
+    [ "BGQueueRemoveEvent", "df/dae/a07705.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "df/dae/a07705.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "df/dae/a07705.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "df/dae/a07705.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "df/dae/a07705.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "df/dae/a07705.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "df/dae/a07705.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "df/dae/a07705.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "df/dae/a07705.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

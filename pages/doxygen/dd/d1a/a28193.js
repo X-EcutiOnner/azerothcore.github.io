@@ -1,6 +1,8 @@
 var a28193 =
 [
-    [ "npc_venomhide_hatchlingAI", "dd/d1a/a28193.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "dd/d1a/a28193.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "dd/d1a/a28193.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "trigger_periodicAI", "dd/d1a/a28193.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "dd/d1a/a28193.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "dd/d1a/a28193.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "dd/d1a/a28193.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "dd/d1a/a28193.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

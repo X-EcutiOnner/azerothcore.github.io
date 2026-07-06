@@ -1,7 +1,6 @@
 var a23089 =
 [
-    [ "OnApply", "d6/d3b/a23089.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "d6/d3b/a23089.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "d6/d3b/a23089.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "d6/d3b/a23089.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "HandleEffectRemove", "d6/d3b/a23089.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
+    [ "PrepareAuraScript", "d6/d3b/a23089.html#adc6f982b0e3cc56039746f425cb09113", null ],
+    [ "Register", "d6/d3b/a23089.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
 ];

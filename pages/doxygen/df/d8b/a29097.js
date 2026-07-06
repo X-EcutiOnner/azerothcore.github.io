@@ -1,6 +1,7 @@
 var a29097 =
 [
-    [ "SetUp", "df/d8b/a29097.html#af04bbb2661f10d3bf442c590ebdf1a2b", null ],
-    [ "TearDown", "df/d8b/a29097.html#a3bc271279472966f9dae906f9f77119b", null ],
-    [ "confFilePath", "df/d8b/a29097.html#aaaccdda1669c76b94483bf2db2615d4e", null ]
+    [ "EpicPropertiesPoints", "df/d8b/a29097.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "df/d8b/a29097.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "df/d8b/a29097.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "df/d8b/a29097.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

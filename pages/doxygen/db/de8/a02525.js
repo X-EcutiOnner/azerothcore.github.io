@@ -1,8 +1,10 @@
 var a02525 =
 [
-    [ "SelectableAI", "dc/d23/a06511.html", "dc/d23/a06511" ],
-    [ "CreatureAIFactory< REAL_AI >", "d6/dbd/a06515.html", "d6/dbd/a06515" ],
-    [ "sCreatureAIRegistry", "db/de8/a02525.html#a08e073e90e01d97b74e2331f15bf6122", null ],
-    [ "CreatureAICreator", "db/de8/a02525.html#a0979444cdc957651f0b4bc9e3c24934b", null ],
-    [ "CreatureAIRegistry", "db/de8/a02525.html#a3eebee4b886bee76d38357a472a9a5ae", null ]
+    [ "AddGossipItemFor", "db/de8/a02525.html#a21e32e886a589c9093660b3c4c58f72c", null ],
+    [ "AddGossipItemFor", "db/de8/a02525.html#a1d54254ae4ddb1bb0e9e2c74dffe5bf5", null ],
+    [ "AddGossipItemFor", "db/de8/a02525.html#acd7e8e52a911742a99728cf9408e23b8", null ],
+    [ "ClearGossipMenuFor", "db/de8/a02525.html#af077a82741577a63a075c7d40b3b3dc5", null ],
+    [ "CloseGossipMenuFor", "db/de8/a02525.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
+    [ "SendGossipMenuFor", "db/de8/a02525.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
+    [ "SendGossipMenuFor", "db/de8/a02525.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

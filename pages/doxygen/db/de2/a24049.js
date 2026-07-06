@@ -1,9 +1,6 @@
 var a24049 =
 [
-    [ "npc_pet_shaman_earth_elemental", "db/de2/a24049.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "db/de2/a24049.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "db/de2/a24049.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "db/de2/a24049.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "db/de2/a24049.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "db/de2/a24049.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_enraged_spiritAI", "d5/d0d/a24053.html", "d5/d0d/a24053" ],
+    [ "npc_enraged_spirit", "db/de2/a24049.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "db/de2/a24049.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

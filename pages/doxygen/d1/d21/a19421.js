@@ -1,9 +1,7 @@
 var a19421 =
 [
-    [ "npc_nexus_lord", "d1/d21/a19421.html#ab66ba12059e8a028972d21afc11fb309", null ],
-    [ "AttackStart", "d1/d21/a19421.html#aefd1ce41b00825bb81ddb6a59d835d21", null ],
-    [ "JustDied", "d1/d21/a19421.html#ae97f816c5fcb71343d8483345723c300", null ],
-    [ "JustEngagedWith", "d1/d21/a19421.html#a9a5c55b8c2f85908739d68c7487f629f", null ],
-    [ "UpdateAI", "d1/d21/a19421.html#acdd7954382f0de84e90d329ec0720a6d", null ],
-    [ "timer", "d1/d21/a19421.html#a42a9c4d7b1251357cd73a7ad2c410d82", null ]
+    [ "HandleRemove", "d1/d21/a19421.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d1/d21/a19421.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d1/d21/a19421.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d1/d21/a19421.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

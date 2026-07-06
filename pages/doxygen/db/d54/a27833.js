@@ -1,5 +1,8 @@
 var a27833 =
 [
-    [ "go_jump_a_tron", "db/d54/a27833.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "db/d54/a27833.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "CharacterActionIpLogger", "db/d54/a27833.html#a39861f7348a79031a8215b435ba81059", null ],
+    [ "CharacterIPLogAction", "db/d54/a27833.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
+    [ "OnPlayerCreate", "db/d54/a27833.html#a48844efac9d9af9c6415ad49d2473688", null ],
+    [ "OnPlayerLogin", "db/d54/a27833.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
+    [ "OnPlayerLogout", "db/d54/a27833.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
 ];

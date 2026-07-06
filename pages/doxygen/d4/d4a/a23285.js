@@ -1,8 +1,7 @@
 var a23285 =
 [
-    [ "FilterTargets", "d4/d4a/a23285.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d4/d4a/a23285.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d4/d4a/a23285.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d4/d4a/a23285.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d4/d4a/a23285.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "CalcPeriodic", "d4/d4a/a23285.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d4/d4a/a23285.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d4/d4a/a23285.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d4/d4a/a23285.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

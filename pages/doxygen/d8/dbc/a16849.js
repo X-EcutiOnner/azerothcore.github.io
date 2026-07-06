@@ -1,6 +1,7 @@
 var a16849 =
 [
-    [ "boss_dreadscaleAI", "df/d1e/a16853.html", "df/d1e/a16853" ],
-    [ "boss_dreadscale", "d8/dbc/a16849.html#ab3276e515419303358b0ee59bc92c12e", null ],
-    [ "GetAI", "d8/dbc/a16849.html#ab8c8cebfa6843404338ea5bc3ac8f3f7", null ]
+    [ "npc_toc_shamanAI", "d8/dbc/a16849.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d8/dbc/a16849.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d8/dbc/a16849.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d8/dbc/a16849.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

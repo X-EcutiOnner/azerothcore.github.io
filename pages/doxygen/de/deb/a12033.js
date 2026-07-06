@@ -1,12 +1,6 @@
 var a12033 =
 [
-    [ "Action", "de/deb/a12033.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "de/deb/a12033.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "de/deb/a12033.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "de/deb/a12033.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "de/deb/a12033.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "de/deb/a12033.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "de/deb/a12033.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "de/deb/a12033.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "de/deb/a12033.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "EffectCalcSpellModHandler", "de/deb/a12033.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
+    [ "Call", "de/deb/a12033.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
+    [ "pEffectHandlerScript", "de/deb/a12033.html#a15c0b24641cb04f31bb3d651dae59448", null ]
 ];

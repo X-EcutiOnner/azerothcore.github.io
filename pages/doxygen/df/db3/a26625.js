@@ -1,10 +1,8 @@
 var a26625 =
 [
-    [ "GetTarget", "df/db3/a26625.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "df/db3/a26625.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "df/db3/a26625.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "df/db3/a26625.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "df/db3/a26625.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "df/db3/a26625.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "df/db3/a26625.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "CheckCast", "df/db3/a26625.html#a5fc226206c08aa65459c144cd5f34c6c", null ],
+    [ "PrepareSpellScript", "df/db3/a26625.html#a1c0f324c7c2f2799990dcc116edd69cf", null ],
+    [ "Register", "df/db3/a26625.html#a35239e58eb76c0ffe74e0feee2250fa1", null ],
+    [ "TriggerDebuffs", "df/db3/a26625.html#a1579b28071e2194625f722a29ded39b8", null ],
+    [ "Validate", "df/db3/a26625.html#a767853d4b05e055cb32991bfe8c6516a", null ]
 ];

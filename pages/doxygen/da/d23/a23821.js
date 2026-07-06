@@ -1,6 +1,6 @@
 var a23821 =
 [
-    [ "npc_illidari_spawnAI", "de/d7f/a23825.html", "de/d7f/a23825" ],
-    [ "npc_illidari_spawn", "da/d23/a23821.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "da/d23/a23821.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "go_apexis_relic", "da/d23/a23821.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "da/d23/a23821.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "da/d23/a23821.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

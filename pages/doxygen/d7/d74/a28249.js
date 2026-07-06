@@ -1,8 +1,13 @@
 var a28249 =
 [
-    [ "npc_cultist_engineer", "d7/d74/a28249.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d7/d74/a28249.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d7/d74/a28249.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d7/d74/a28249.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d7/d74/a28249.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_nelsonAI", "d7/d74/a28249.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d7/d74/a28249.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d7/d74/a28249.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d7/d74/a28249.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d7/d74/a28249.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d7/d74/a28249.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d7/d74/a28249.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d7/d74/a28249.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d7/d74/a28249.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d7/d74/a28249.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

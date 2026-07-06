@@ -1,6 +1,5 @@
 var a20689 =
 [
-    [ "OnEffect", "d5/d82/a20689.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d5/d82/a20689.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d5/d82/a20689.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "d5/d82/a20689.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "d5/d82/a20689.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

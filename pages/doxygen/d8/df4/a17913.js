@@ -1,5 +1,8 @@
 var a17913 =
 [
-    [ "achievement_im_on_a_boat", "d8/df4/a17913.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d8/df4/a17913.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "ResetEncounterEvent", "d8/df4/a17913.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d8/df4/a17913.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d8/df4/a17913.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d8/df4/a17913.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d8/df4/a17913.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

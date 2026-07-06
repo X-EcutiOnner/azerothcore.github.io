@@ -1,8 +1,11 @@
 var a27105 =
 [
-    [ "CheckProc", "de/d7d/a27105.html#a9fedf04ae5a49ad2f2b0c9f34f5813f6", null ],
-    [ "HandleProc", "de/d7d/a27105.html#ad41f37b773e528385151f8059974b821", null ],
-    [ "PrepareAuraScript", "de/d7d/a27105.html#acd65db816c8562108272e6849481f0ca", null ],
-    [ "Register", "de/d7d/a27105.html#a56d85b502b6660ab4ecccc92dd799720", null ],
-    [ "Validate", "de/d7d/a27105.html#aa722dde17ef9142578d50b19b8c4c8e5", null ]
+    [ "AddTarget", "de/d7d/a27105.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "de/d7d/a27105.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "de/d7d/a27105.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "de/d7d/a27105.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "de/d7d/a27105.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "de/d7d/a27105.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "de/d7d/a27105.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "de/d7d/a27105.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

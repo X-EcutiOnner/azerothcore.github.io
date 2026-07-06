@@ -1,6 +1,6 @@
 var a19725 =
 [
-    [ "boss_sjonnirAI", "d0/d37/a19729.html", "d0/d37/a19729" ],
-    [ "boss_sjonnir", "d6/dbe/a19725.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d6/dbe/a19725.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "npc_oculus_unstable_sphereAI", "d0/d37/a19729.html", "d0/d37/a19729" ],
+    [ "npc_oculus_unstable_sphere", "d6/dbe/a19725.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d6/dbe/a19725.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

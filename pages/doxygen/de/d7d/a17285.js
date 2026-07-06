@@ -1,13 +1,11 @@
 var a17285 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "de/d7d/a17285.html#a2b8f5479565297c95ecdc4882e7d27ae", null ],
-    [ "DoAction", "de/d7d/a17285.html#aa1df5c0f5612a9fc9a4e78fb901dc8e7", null ],
-    [ "JustSummoned", "de/d7d/a17285.html#acdfc5d370da977ab69752016368cc9b0", null ],
-    [ "MovementInform", "de/d7d/a17285.html#a95c033e4e2ca224be09ce993f4e7996d", null ],
-    [ "SummonedCreatureDespawn", "de/d7d/a17285.html#af31de5c7f901baf4d8c62964fee8ead8", null ],
-    [ "UpdateAI", "de/d7d/a17285.html#ad22fbcd52404c1e9c1fc71f3bc6b7525", null ],
-    [ "events", "de/d7d/a17285.html#a44045ae5151625a4d7aacb69e9c934e5", null ],
-    [ "i", "de/d7d/a17285.html#aa185914ee8a2352e4d233f1fc4800390", null ],
-    [ "pInstance", "de/d7d/a17285.html#ac38febd0bce9338346d0c1aa6ba50de3", null ],
-    [ "summons", "de/d7d/a17285.html#ad0f2097f168ea5983e3eece24cb82bfa", null ]
+    [ "npc_phantom_mage", "de/d7d/a17285.html#a96702110e1bd587aaa88a076773cac72", null ],
+    [ "AttackStart", "de/d7d/a17285.html#a79170c6d6aa434d291e50cd2153ee25a", null ],
+    [ "DoAction", "de/d7d/a17285.html#a8adf87e600eeab3678f369ab48b73927", null ],
+    [ "EnterEvadeMode", "de/d7d/a17285.html#a270f664ad9545f672405d051d1a8932a", null ],
+    [ "JustDied", "de/d7d/a17285.html#a9728d3deb8c8ef6ab82b76f79de20732", null ],
+    [ "JustEngagedWith", "de/d7d/a17285.html#a4cd8e7ba55317eb6ed2e0a7fbbebc80a", null ],
+    [ "Reset", "de/d7d/a17285.html#a3900181fe1328a3450e2e71bf30abbd7", null ],
+    [ "UpdateAI", "de/d7d/a17285.html#a919416fd6b52060e271e79afaaf14085", null ]
 ];

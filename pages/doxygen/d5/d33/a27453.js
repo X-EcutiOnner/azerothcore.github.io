@@ -1,7 +1,6 @@
 var a27453 =
 [
-    [ "HandleEffect", "d5/d33/a27453.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d5/d33/a27453.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d5/d33/a27453.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d5/d33/a27453.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleAuraApply", "d5/d33/a27453.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d5/d33/a27453.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d5/d33/a27453.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

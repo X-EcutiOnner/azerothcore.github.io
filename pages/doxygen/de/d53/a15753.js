@@ -1,7 +1,6 @@
 var a15753 =
 [
-    [ "HandleDummy", "de/d53/a15753.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "de/d53/a15753.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "de/d53/a15753.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "de/d53/a15753.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "HandleApply", "de/d53/a15753.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
+    [ "PrepareAuraScript", "de/d53/a15753.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
+    [ "Register", "de/d53/a15753.html#ade5c710416516760cc69f77750aa2a1f", null ]
 ];

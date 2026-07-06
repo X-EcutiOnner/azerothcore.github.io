@@ -1,8 +1,11 @@
 var a13733 =
 [
-    [ "HandleApply", "d1/da0/a13733.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d1/da0/a13733.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d1/da0/a13733.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d1/da0/a13733.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d1/da0/a13733.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "boss_alythess", "d1/da0/a13733.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
+    [ "AttackStart", "d1/da0/a13733.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
+    [ "DoAction", "d1/da0/a13733.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
+    [ "JustDied", "d1/da0/a13733.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
+    [ "JustEngagedWith", "d1/da0/a13733.html#ac5047ee0124864304284c1142e885158", null ],
+    [ "KilledUnit", "d1/da0/a13733.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
+    [ "Reset", "d1/da0/a13733.html#ab5f990d305f42a2d00e182f617175672", null ],
+    [ "_isSisterDead", "d1/da0/a13733.html#a9f9fa0823685066b4990a17880782b9a", null ]
 ];

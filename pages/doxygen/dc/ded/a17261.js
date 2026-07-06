@@ -1,11 +1,13 @@
 var a17261 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "dc/ded/a17261.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "dc/ded/a17261.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "dc/ded/a17261.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "dc/ded/a17261.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "dc/ded/a17261.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "dc/ded/a17261.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "dc/ded/a17261.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "dc/ded/a17261.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "boss_falric", "dc/ded/a17261.html#ad157b74477a84d13ab1a5bd5d9275d17", null ],
+    [ "DoAction", "dc/ded/a17261.html#a9acd7854d725b07df53ae60538df27b1", null ],
+    [ "EnterEvadeMode", "dc/ded/a17261.html#addda2f3fe13801f533069c8e5b83cdbd", null ],
+    [ "JustDied", "dc/ded/a17261.html#a4ade4a16095031988e2ae50602cd0da8", null ],
+    [ "JustEngagedWith", "dc/ded/a17261.html#a68c6b3012bbb1e7542c9b4db2f596463", null ],
+    [ "KilledUnit", "dc/ded/a17261.html#aa53d57dee3482ac2d186ecfdf4fa232d", null ],
+    [ "Reset", "dc/ded/a17261.html#aa8c392ab5c6463e4061e381d2a6586ab", null ],
+    [ "UpdateAI", "dc/ded/a17261.html#a03d91f53cb716d0ff1a6c8f7e9ecee7a", null ],
+    [ "_hopelessnessCount", "dc/ded/a17261.html#aaf36f9748993381c39b6b26bdfa33dca", null ],
+    [ "_startingFight", "dc/ded/a17261.html#a099280eb7f2b40df3fbecfa9fe35fac4", null ]
 ];

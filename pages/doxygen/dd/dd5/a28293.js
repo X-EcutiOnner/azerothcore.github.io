@@ -1,5 +1,6 @@
 var a28293 =
 [
-    [ "go_transport_the_thundercaller", "dd/dd5/a28293.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "dd/dd5/a28293.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "spawnedCreatureEntry", "dd/dd5/a28293.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "dd/dd5/a28293.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "dd/dd5/a28293.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

@@ -1,5 +1,8 @@
 var a09141 =
 [
-    [ "NextPage", "d5/da2/a09141.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
-    [ "Text", "d5/da2/a09141.html#a9c13498341adce66590cb198b720f96f", null ]
+    [ "RedirectSpellEvent", "d5/da2/a09141.html#a77d243d64c2fc651d71c42e10a315161", null ],
+    [ "Execute", "d5/da2/a09141.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
+    [ "_auraEffect", "d5/da2/a09141.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
+    [ "_auraOwnerGUID", "d5/da2/a09141.html#a1b3fb598748362379fef15b3172d8e2b", null ],
+    [ "_self", "d5/da2/a09141.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
 ];

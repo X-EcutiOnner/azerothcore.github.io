@@ -1,8 +1,6 @@
 var a10089 =
 [
-    [ "BoundaryIntersectBoundary", "d2/d8f/a10089.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d2/d8f/a10089.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d2/d8f/a10089.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d2/d8f/a10089.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d2/d8f/a10089.html#a41e100c17db99990981293399660824c", null ]
+    [ "LootValidatorRef", "d2/d8f/a10089.html#acce3ced73583bf8dbf04232cddd6ebd8", null ],
+    [ "sourceObjectDestroyLink", "d2/d8f/a10089.html#a8833022cf1acf786c06f1580fbe11c24", null ],
+    [ "targetObjectDestroyLink", "d2/d8f/a10089.html#a93baac45dcb801215c28ac0dba097eba", null ]
 ];

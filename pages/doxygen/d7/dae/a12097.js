@@ -1,13 +1,15 @@
 var a12097 =
 [
-    [ "cheat_commandscript", "d7/dae/a12097.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d7/dae/a12097.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d7/dae/a12097.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d7/dae/a12097.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d7/dae/a12097.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d7/dae/a12097.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d7/dae/a12097.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d7/dae/a12097.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d7/dae/a12097.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d7/dae/a12097.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "BroadcastTextId", "d7/dae/a12097.html#a12ff00d59ce642d3c27978e919f6ca17", null ],
+    [ "duration", "d7/dae/a12097.html#a00b6d7cbf9ff377d30cd9e6cfab084b7", null ],
+    [ "emote", "d7/dae/a12097.html#aad433a0bc12717103936e6f89b5b31ea", null ],
+    [ "entry", "d7/dae/a12097.html#a3d1c888b73edee2474004de9d8714903", null ],
+    [ "group", "d7/dae/a12097.html#ae2161d1dc874efacd0131baa74b4e44a", null ],
+    [ "id", "d7/dae/a12097.html#ab80181d53770a2f64bd6898498b3e76e", null ],
+    [ "lang", "d7/dae/a12097.html#a8405ab49781ba0cbcd8680ff6715b675", null ],
+    [ "probability", "d7/dae/a12097.html#a9bec9c2053f2efbac076831d4e928045", null ],
+    [ "sound", "d7/dae/a12097.html#af312efff61026445caeb4be4b52c4e66", null ],
+    [ "text", "d7/dae/a12097.html#a82b3db36b60a343d340677e8df6c7925", null ],
+    [ "TextRange", "d7/dae/a12097.html#a2bb58a07abc9eb7ffeb4db131de03924", null ],
+    [ "type", "d7/dae/a12097.html#a5675f6bcf159e1da503029771557e2a6", null ]
 ];

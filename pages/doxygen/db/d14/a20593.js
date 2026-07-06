@@ -1,6 +1,7 @@
 var a20593 =
 [
-    [ "boss_yoggsaron_death_orb", "db/d14/a20593.html#a8e967885da35381db767d941a2174a82", null ],
-    [ "UpdateAI", "db/d14/a20593.html#a9557c25da8cfdc6b7e62ff9b2b78714b", null ],
-    [ "_startTimer", "db/d14/a20593.html#a272b6b4c6c8f1f9fed933b9e1fd6f749", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/d14/a20593.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "db/d14/a20593.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "db/d14/a20593.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "db/d14/a20593.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

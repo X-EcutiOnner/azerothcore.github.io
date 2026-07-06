@@ -1,11 +1,14 @@
 var a24257 =
 [
-    [ "CalcPeriodic", "d0/d74/a24257.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d0/d74/a24257.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d0/d74/a24257.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d0/d74/a24257.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d0/d74/a24257.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d0/d74/a24257.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d0/d74/a24257.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d0/d74/a24257.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "npc_pet_mage_mirror_image", "d0/d74/a24257.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "d0/d74/a24257.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "d0/d74/a24257.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "d0/d74/a24257.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "d0/d74/a24257.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "d0/d74/a24257.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "d0/d74/a24257.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "d0/d74/a24257.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "d0/d74/a24257.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "d0/d74/a24257.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "d0/d74/a24257.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

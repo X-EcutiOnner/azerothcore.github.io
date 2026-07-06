@@ -1,7 +1,8 @@
 var a27069 =
 [
-    [ "HandleProc", "de/de6/a27069.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
-    [ "PrepareAuraScript", "de/de6/a27069.html#a3a496539a6adddca91724d9cc77f81c3", null ],
-    [ "Register", "de/de6/a27069.html#a096f4ecd857cc642ff1d1e5119933921", null ],
-    [ "Validate", "de/de6/a27069.html#a1592084736ebe5b10a343aee4dba8050", null ]
+    [ "CheckCast", "de/de6/a27069.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "de/de6/a27069.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "de/de6/a27069.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "de/de6/a27069.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "de/de6/a27069.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

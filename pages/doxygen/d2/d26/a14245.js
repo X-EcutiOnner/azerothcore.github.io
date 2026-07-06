@@ -1,8 +1,7 @@
 var a14245 =
 [
-    [ "FilterTargets", "d2/d26/a14245.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d2/d26/a14245.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d2/d26/a14245.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d2/d26/a14245.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d2/d26/a14245.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "npc_daphne_stilwellAI", "d1/d5d/a14249.html", "d1/d5d/a14249" ],
+    [ "npc_daphne_stilwell", "d2/d26/a14245.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d2/d26/a14245.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d2/d26/a14245.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

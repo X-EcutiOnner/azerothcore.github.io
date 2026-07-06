@@ -1,6 +1,6 @@
 var a14841 =
 [
-    [ "PrepareAuraScript", "d2/d4e/a14841.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d2/d4e/a14841.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d2/d4e/a14841.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleScript", "d2/d4e/a14841.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "d2/d4e/a14841.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "d2/d4e/a14841.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

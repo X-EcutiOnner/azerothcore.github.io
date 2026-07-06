@@ -1,6 +1,6 @@
 var a17525 =
 [
-    [ "HandleStackDrop", "d2/d84/a17525.html#a5c1064d764a6bfa4b3fde8bf57316e44", null ],
-    [ "PrepareAuraScript", "d2/d84/a17525.html#a294db521fc56c4fe5e50317fedd8a86d", null ],
-    [ "Register", "d2/d84/a17525.html#a45b1fd2c1896023d71a0916100376e57", null ]
+    [ "boss_drakkari_colossusAI", "de/d61/a17529.html", "de/d61/a17529" ],
+    [ "boss_drakkari_colossus", "d2/d84/a17525.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d2/d84/a17525.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

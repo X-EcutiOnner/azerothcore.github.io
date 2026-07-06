@@ -1,8 +1,6 @@
 var a15565 =
 [
-    [ "npc_ahnqiraji_critter", "d4/dbb/a15565.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d4/dbb/a15565.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d4/dbb/a15565.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d4/dbb/a15565.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d4/dbb/a15565.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "HandleScriptEffect", "d4/dbb/a15565.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
+    [ "PrepareSpellScript", "d4/dbb/a15565.html#aa109d61baba87acf5bce5d44bff55214", null ],
+    [ "Register", "d4/dbb/a15565.html#ac8412777c84abfe56262d6d83163e9a1", null ]
 ];

@@ -1,10 +1,15 @@
 var a09937 =
 [
-    [ "const_iterator", "db/dc0/a09937.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "db/dc0/a09937.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "db/dc0/a09937.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "db/dc0/a09937.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "db/dc0/a09937.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "db/dc0/a09937.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "db/dc0/a09937.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "LogHolder", "db/dc0/a09937.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "db/dc0/a09937.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "db/dc0/a09937.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "db/dc0/a09937.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "db/dc0/a09937.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "db/dc0/a09937.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "db/dc0/a09937.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "db/dc0/a09937.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "db/dc0/a09937.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "db/dc0/a09937.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "db/dc0/a09937.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "db/dc0/a09937.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

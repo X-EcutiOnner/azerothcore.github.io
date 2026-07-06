@@ -1,6 +1,6 @@
 var a23053 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d8/d1f/a23057.html", "d8/d1f/a23057" ],
-    [ "instance_the_underbog", "d1/d11/a23053.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d1/d11/a23053.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "FilterTargets", "d1/d11/a23053.html#af545460920658bc8ee0444f7c0d51970", null ],
+    [ "PrepareSpellScript", "d1/d11/a23053.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
+    [ "Register", "d1/d11/a23053.html#ac12cde698f5b0bbcdf433821772c7519", null ]
 ];

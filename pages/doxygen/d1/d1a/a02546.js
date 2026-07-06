@@ -1,17 +1,8 @@
 var a02546 =
 [
-    [ "SmartAI", "da/d07/a06583.html", "da/d07/a06583" ],
-    [ "SmartGameObjectAI", "df/d90/a06587.html", "df/d90/a06587" ],
-    [ "DISTANCING_CONSTANT", "d1/d1a/a02546.html#a9a381b0c4b9dc5403d4a93b3afb19dff", null ],
-    [ "SmartEscortState", "d1/d1a/a02546.html#a0911043eb49fd7958a828a60e0537d54", [
-      [ "SMART_ESCORT_NONE", "d1/d1a/a02546.html#a0911043eb49fd7958a828a60e0537d54ad51ea013b009290e4eba7f3591d0e889", null ],
-      [ "SMART_ESCORT_ESCORTING", "d1/d1a/a02546.html#a0911043eb49fd7958a828a60e0537d54a0756668fef1eacc6101e9113e974cc19", null ],
-      [ "SMART_ESCORT_RETURNING", "d1/d1a/a02546.html#a0911043eb49fd7958a828a60e0537d54a404e4c2ac36fc3f87779560b58af7fe8", null ],
-      [ "SMART_ESCORT_PAUSED", "d1/d1a/a02546.html#a0911043eb49fd7958a828a60e0537d54a35650bf0f6f9a142acfb5b6e5cd194f7", null ]
-    ] ],
-    [ "SmartEscortVars", "d1/d1a/a02546.html#a598eb331d977fa893d589fe3e6cebfbf", [
-      [ "SMART_ESCORT_MAX_PLAYER_DIST", "d1/d1a/a02546.html#a598eb331d977fa893d589fe3e6cebfbfa43349fe96bf29348a87944e39bacfdba", null ],
-      [ "SMART_MAX_AID_DIST", "d1/d1a/a02546.html#a598eb331d977fa893d589fe3e6cebfbfa74a5b65862962dfdb4c72589d5191c3f", null ]
-    ] ],
-    [ "AddSC_SmartScripts", "d1/d1a/a02546.html#ab6012619ba76775b314475ec60f8c7d7", null ]
+    [ "SelectableGameObjectAI", "d3/db7/a06549.html", "d3/db7/a06549" ],
+    [ "GameObjectAIFactory< REAL_GO_AI >", "d1/d86/a06553.html", "d1/d86/a06553" ],
+    [ "sGameObjectAIRegistry", "d1/d1a/a02546.html#ac9d2663769f7235631c142a4346922a9", null ],
+    [ "GameObjectAICreator", "d1/d1a/a02546.html#abf0182bf1e43c6ea243acb940a03e6fa", null ],
+    [ "GameObjectAIRegistry", "d1/d1a/a02546.html#a9482a5649b9d911e3d058c099101f929", null ]
 ];

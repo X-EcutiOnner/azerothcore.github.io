@@ -1,20 +1,7 @@
 var a15933 =
 [
-    [ "npc_twiggy_flatheadAI", "df/dad/a15933.html#a03aee9619eafa0f497390c520cbfaf24", null ],
-    [ "CleanUp", "df/dad/a15933.html#adfe48ed23633691608b289c4751c788a", null ],
-    [ "EnterEvadeMode", "df/dad/a15933.html#a9fd1519e6196ba4db30740b16904964b", null ],
-    [ "JustEngagedWith", "df/dad/a15933.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
-    [ "MoveInLineOfSight", "df/dad/a15933.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
-    [ "Reset", "df/dad/a15933.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
-    [ "UpdateAI", "df/dad/a15933.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
-    [ "AffrayChallenger", "df/dad/a15933.html#a42354987ab877f7c113ac44b50d4a660", null ],
-    [ "BigWill", "df/dad/a15933.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
-    [ "ChallengerChecker", "df/dad/a15933.html#a9908c43715426b75c06c1e2032f4fcca", null ],
-    [ "ChallengerDown", "df/dad/a15933.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
-    [ "EventBigWill", "df/dad/a15933.html#a32d931e4aabbabedd05ae243038cca8e", null ],
-    [ "EventGrate", "df/dad/a15933.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
-    [ "EventInProgress", "df/dad/a15933.html#a4dd84ae18a7f79238f110659db03b984", null ],
-    [ "PlayerGUID", "df/dad/a15933.html#aa510117962fc5294113f2f88a1f2a652", null ],
-    [ "Wave", "df/dad/a15933.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
-    [ "WaveTimer", "df/dad/a15933.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
+    [ "HandleDummy", "df/dad/a15933.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "df/dad/a15933.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "df/dad/a15933.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "df/dad/a15933.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

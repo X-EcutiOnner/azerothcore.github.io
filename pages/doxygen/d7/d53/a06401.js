@@ -1,7 +1,5 @@
 var a06401 =
 [
-    [ "ReactorAI", "d7/d53/a06401.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "d7/d53/a06401.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "d7/d53/a06401.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "d7/d53/a06401.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "changed", "d7/d53/a06401.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
+    [ "date", "d7/d53/a06401.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
 ];

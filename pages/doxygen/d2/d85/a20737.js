@@ -1,8 +1,9 @@
 var a20737 =
 [
-    [ "npc_ulduar_keeperAI", "d7/d2e/a20741.html", "d7/d2e/a20741" ],
-    [ "npc_ulduar_keeper", "d2/d85/a20737.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d2/d85/a20737.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d2/d85/a20737.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d2/d85/a20737.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "GetRandomToyPile", "d2/d85/a20737.html#a4e119696b212c6a57f11b284c2bb0c82", null ],
+    [ "HandleScript", "d2/d85/a20737.html#a62eb106c6a55406adc682b372a94aaef", null ],
+    [ "PrepareSpellScript", "d2/d85/a20737.html#acb19b4f65324ce419004e969274c4816", null ],
+    [ "Register", "d2/d85/a20737.html#aba572e339d50b51cb33d04270d29b733", null ],
+    [ "Validate", "d2/d85/a20737.html#a59acb2775caa76c05797d7c8dfd0f3fb", null ],
+    [ "ToyPileSearchDistance", "d2/d85/a20737.html#aa7c7f5e7298e89e431464105d5d8bbdf", null ]
 ];

@@ -1,6 +1,6 @@
 var a17597 =
 [
-    [ "FilterTargets", "dc/d74/a17597.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "dc/d74/a17597.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "dc/d74/a17597.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "boss_slad_ranAI", "d5/d08/a17601.html", "d5/d08/a17601" ],
+    [ "boss_slad_ran", "dc/d74/a17597.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "dc/d74/a17597.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

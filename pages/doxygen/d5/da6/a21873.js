@@ -1,9 +1,16 @@
 var a21873 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d5/da6/a21873.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d5/da6/a21873.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d5/da6/a21873.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d5/da6/a21873.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d5/da6/a21873.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d5/da6/a21873.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_battle_at_valhalasAI", "d5/da6/a21873.html#a2118bb3a502d2082297631e3dab298da", null ],
+    [ "EndBattle", "d5/da6/a21873.html#afe408345e99bfc27e3abf3335c72de5d", null ],
+    [ "JustReachedHome", "d5/da6/a21873.html#ac8f8ed2571587e8af65f92d0271d786c", null ],
+    [ "JustSummoned", "d5/da6/a21873.html#ac2c766dd298bf074f20968006a361036", null ],
+    [ "PrepareSummons", "d5/da6/a21873.html#a80e97ceef22290d241fa3f5894331c08", null ],
+    [ "Reset", "d5/da6/a21873.html#a303f268cbcc0e2c731c505c721c55da6", null ],
+    [ "ResetData", "d5/da6/a21873.html#a3bc670704f0e235ae4022ba796a333b9", null ],
+    [ "StartBattle", "d5/da6/a21873.html#a01dff1aba876527951d3c83ae8b240ff", null ],
+    [ "UpdateAI", "d5/da6/a21873.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
+    [ "currentQuest", "d5/da6/a21873.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
+    [ "events", "d5/da6/a21873.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
+    [ "playerGUID", "d5/da6/a21873.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
+    [ "summons", "d5/da6/a21873.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
 ];

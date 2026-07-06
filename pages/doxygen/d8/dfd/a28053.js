@@ -1,8 +1,9 @@
 var a28053 =
 [
-    [ "npc_riggle_bassbaitAI", "d8/dd0/a28057.html", "d8/dd0/a28057" ],
-    [ "npc_riggle_bassbait", "d8/dfd/a28053.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d8/dfd/a28053.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d8/dfd/a28053.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d8/dfd/a28053.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "go_gilded_brazierAI", "d8/dfd/a28053.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d8/dfd/a28053.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d8/dfd/a28053.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d8/dfd/a28053.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d8/dfd/a28053.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d8/dfd/a28053.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

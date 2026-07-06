@@ -1,6 +1,7 @@
 var a16553 =
 [
-    [ "HandleSpellHit", "d9/d86/a16553.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d9/d86/a16553.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d9/d86/a16553.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "HandleDummy", "d9/d86/a16553.html#ad0782bfbd977954aac6170ee9111aef6", null ],
+    [ "PrepareSpellScript", "d9/d86/a16553.html#ac456524856c4a3c4913423693a8fd50c", null ],
+    [ "Register", "d9/d86/a16553.html#a82d88c5dac164eb9dee9883a91edd0df", null ],
+    [ "Validate", "d9/d86/a16553.html#a2cf4ee02293cee5e383e99efe14e0008", null ]
 ];

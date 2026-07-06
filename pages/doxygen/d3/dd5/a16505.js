@@ -1,6 +1,11 @@
 var a16505 =
 [
-    [ "npc_argent_soldierAI", "d3/d78/a16509.html", "d3/d78/a16509" ],
-    [ "npc_argent_soldier", "d3/dd5/a16505.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d3/dd5/a16505.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "boss_general_zarithrianAI", "d3/dd5/a16505.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d3/dd5/a16505.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "d3/dd5/a16505.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "d3/dd5/a16505.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "d3/dd5/a16505.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "d3/dd5/a16505.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "d3/dd5/a16505.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "d3/dd5/a16505.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

@@ -1,4 +1,6 @@
 var a22245 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d1/d58/a22245.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "PrepareSpellScript", "d1/d58/a22245.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "d1/d58/a22245.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "d1/d58/a22245.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

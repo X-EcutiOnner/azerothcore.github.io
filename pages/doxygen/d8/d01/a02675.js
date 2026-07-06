@@ -1,4 +1,5 @@
 var a02675 =
 [
-    [ "MapGrid< GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES >", "da/d8e/a09527.html", "da/d8e/a09527" ]
+    [ "holetab_h", "d8/d01/a02675.html#a10e90ca95e60d3244de3e68d7882433b", null ],
+    [ "holetab_v", "d8/d01/a02675.html#a54b408dce116992610ba9c141426d821", null ]
 ];

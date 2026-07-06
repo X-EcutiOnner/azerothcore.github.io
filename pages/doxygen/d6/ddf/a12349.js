@@ -1,23 +1,8 @@
 var a12349 =
 [
-    [ "spellinfo_commandscript", "d6/ddf/a12349.html#ad27a2a6252ab11030b6d75d7c25ac5dd", null ],
-    [ "GetAuraTypeName", "d6/ddf/a12349.html#a71fa4c95c21c3f89395756e5e7be5386", null ],
-    [ "GetCommands", "d6/ddf/a12349.html#ac58355105d147793fab51cfaf3cbf3bb", null ],
-    [ "GetDispelName", "d6/ddf/a12349.html#ac3061b665a5181048989626e59781087", null ],
-    [ "GetDmgClassName", "d6/ddf/a12349.html#a1c529354ea7dc057e6a81b87ee15537b", null ],
-    [ "GetPowerName", "d6/ddf/a12349.html#a5f46de9c615591c37d9dec1b0e8526f9", null ],
-    [ "GetPreventionTypeName", "d6/ddf/a12349.html#a08e8b880e6e588b02b93ed3f475392d7", null ],
-    [ "GetSpellEffectName", "d6/ddf/a12349.html#a30a9e357013fa80eb026f16ceec25dfd", null ],
-    [ "GetSpellFamilyName", "d6/ddf/a12349.html#ac14dc8bce275faf9414e730668de5228", null ],
-    [ "GetTargetName", "d6/ddf/a12349.html#a407c9a6e657f97cd0ba0a4413de88c0c", null ],
-    [ "HandleSpellInfoAllCommand", "d6/ddf/a12349.html#a3534b8dd1f8d9686ec27b77a04b7bb29", null ],
-    [ "HandleSpellInfoAttributesCommand", "d6/ddf/a12349.html#a722cffaeb5c589b4531f8359abb8d8cc", null ],
-    [ "HandleSpellInfoEffectsCommand", "d6/ddf/a12349.html#a3f35730886a826735b63b76611eca844", null ],
-    [ "HandleSpellInfoTargetsCommand", "d6/ddf/a12349.html#a6b741727a02b26c0b15ce23e72a0a37d", null ],
-    [ "PrintAttributes", "d6/ddf/a12349.html#a5e6cbdb2d1487735dbb5920a1c9506ef", null ],
-    [ "PrintBasicInfo", "d6/ddf/a12349.html#a01f5468bee731c351fe56fdb170b80d4", null ],
-    [ "PrintEffects", "d6/ddf/a12349.html#af3097eebfcb538fc7a391472bc4c9d7d", null ],
-    [ "PrintGeneralInfo", "d6/ddf/a12349.html#a8cfeddef3a5baba97b39e3cd22413222", null ],
-    [ "PrintSpellAttrFlags", "d6/ddf/a12349.html#a1d6b177623b8fb66ea44e88282fc1052", null ],
-    [ "PrintTargets", "d6/ddf/a12349.html#a92168f9a69c5e5437002234b951b7c00", null ]
+    [ "CreatureCountWorker", "d6/ddf/a12349.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "d6/ddf/a12349.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "d6/ddf/a12349.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "d6/ddf/a12349.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "d6/ddf/a12349.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

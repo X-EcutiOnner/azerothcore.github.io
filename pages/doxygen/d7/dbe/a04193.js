@@ -1,59 +1,88 @@
 var a04193 =
 [
-    [ "AchievementOfflinePlayerUpdate", "d8/df3/a06263.html", "d8/df3/a06263" ],
-    [ "CriteriaProgress", "d4/d72/a06267.html", "d4/d72/a06267" ],
-    [ "AchievementCriteriaData", "d2/def/a06271.html", "d2/def/a06271" ],
-    [ "AchievementCriteriaDataSet", "d8/dcb/a06367.html", "d8/dcb/a06367" ],
-    [ "AchievementReward", "d2/d3d/a06371.html", "d2/d3d/a06371" ],
-    [ "AchievementRewardLocale", "de/da2/a06375.html", "de/da2/a06375" ],
-    [ "CompletedAchievementData", "dc/d1d/a06379.html", "dc/d1d/a06379" ],
-    [ "AchievementMgr", "da/de1/a06383.html", "da/de1/a06383" ],
-    [ "AchievementGlobalMgr", "db/d47/a06387.html", "db/d47/a06387" ],
-    [ "MAX_ACHIEVEMENT_CRITERIA_DATA_TYPE", "d7/dbe/a04193.html#aa36806d2931b69d34909b50f40ca8c0e", null ],
-    [ "sAchievementMgr", "d7/dbe/a04193.html#af422afe119839b631fd67247eddff1e6", null ],
-    [ "AchievementCriteriaDataMap", "d7/dbe/a04193.html#ac16b4d5f47fe0db16d59dc67e86e42be", null ],
-    [ "AchievementCriteriaEntryList", "d7/dbe/a04193.html#a7a5f365d092f508da6ae8d510f0e3117", null ],
-    [ "AchievementCriteriaListByAchievement", "d7/dbe/a04193.html#ad5e4b1cd98f21804a508642d8475033f", null ],
-    [ "AchievementEntryList", "d7/dbe/a04193.html#a9d70fd67a3069b6a55c0145265bffc4b", null ],
-    [ "AchievementListByReferencedId", "d7/dbe/a04193.html#af3b606f4c218a7e68902cd9ff9470f5b", null ],
-    [ "AchievementRewardLocales", "d7/dbe/a04193.html#a3d51ce6b9e37b72772cea78f064e5a77", null ],
-    [ "AchievementRewards", "d7/dbe/a04193.html#a471572afc0467790ccff565b39f61720", null ],
-    [ "CompletedAchievementMap", "d7/dbe/a04193.html#aee097fd9426b25c1101af73a551a37e1", null ],
-    [ "CriteriaProgressMap", "d7/dbe/a04193.html#a649527d8ab61f39ad17fe709d2b1aabc", null ],
-    [ "AchievementCommonCategories", "d7/dbe/a04193.html#ac0bc114e07c706c7192e14e80355a213", [
-      [ "ACHIEVEMENT_CATEOGRY_GENERAL", "d7/dbe/a04193.html#ac0bc114e07c706c7192e14e80355a213a4c91db703d7b5c8f8756bc6136bc5207", null ],
-      [ "ACHIEVEMENT_CATEGORY_STATISTICS", "d7/dbe/a04193.html#ac0bc114e07c706c7192e14e80355a213a142173b7c79b8a90cd7854fd7b03509a", null ]
+    [ "Roll", "d9/db5/a09885.html", "d9/db5/a09885" ],
+    [ "Group", "dc/d15/a09889.html", "dc/d15/a09889" ],
+    [ "Group::MemberSlot", "d9/d73/a09893.html", "d9/d73/a09893" ],
+    [ "GROUP_UPDATE_FLAGS_COUNT", "d7/dbe/a04193.html#ad409013260cb0aea80c911d24d7b5d00", null ],
+    [ "MAX_RAID_SUBGROUPS", "d7/dbe/a04193.html#afb58b37bfbd0e4d75c26cc40d4066a43", null ],
+    [ "MAXGROUPSIZE", "d7/dbe/a04193.html#a41ded42f25275d85cb15f89e0cb21745", null ],
+    [ "MAXRAIDSIZE", "d7/dbe/a04193.html#abe79d73a0524988ef836a72c9fab0afc", null ],
+    [ "TARGETICONCOUNT", "d7/dbe/a04193.html#a0b29644629b2e396bfc5582dd979a657", null ],
+    [ "DifficultyPreventionChangeType", "d7/dbe/a04193.html#ac137f3554eda30ca651f91eec6e2f1ff", [
+      [ "DIFFICULTY_PREVENTION_CHANGE_NONE", "d7/dbe/a04193.html#ac137f3554eda30ca651f91eec6e2f1ffa9510357088e05a0d39cc541ece12e19f", null ],
+      [ "DIFFICULTY_PREVENTION_CHANGE_RECENTLY_CHANGED", "d7/dbe/a04193.html#ac137f3554eda30ca651f91eec6e2f1ffaaf1cf9fc0dc14727c5370fb741ed02be", null ],
+      [ "DIFFICULTY_PREVENTION_CHANGE_BOSS_KILLED", "d7/dbe/a04193.html#ac137f3554eda30ca651f91eec6e2f1ffaf7daa8b9c866100c71f1ff356bca9d37", null ]
     ] ],
-    [ "AchievementCriteriaDataType", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0", [
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NONE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0ae9d5b8759c2ee53b9e210a15ad049943", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_CREATURE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0abc70f9063061689cbf95c04df5a9a448", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_CLASS_RACE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a22786f73e7cc8966c60614e88f0d5cb1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_LESS_HEALTH", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0ac6775a92c029d4c2be529461e23e4ca3", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_PLAYER_DEAD", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0adc76e0c15e881d6848994a911d1a8ef6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AURA", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a9507639d721e63f182ebd53d593d5465", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_AREA", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a19b830790eb46adb27e8a65b85eceed1", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_AURA", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0aa0b32101ef67881083e58a6a6c55c75b", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_VALUE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a3fd659753b9d41caa4b58c51d2cb6ea7", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_LEVEL", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0ab055e5273ac4250d273fa5592af3ed39", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_GENDER", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a10fc4cfb0da2c0c72c12d5e6e4a1bdd6", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_SCRIPT", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a0578b3122b1b69df3af04c2d45df266c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_DIFFICULTY", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a5813a09c9977d3d5f80595d529f7f420", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_PLAYER_COUNT", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a1046e477766a7c60f4446fef1b13a6f5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_T_TEAM", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0ad5967db594cc30c247c785d5c753cc18", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_DRUNK", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a7fcb85cf04be09a3a5f1214553bf329a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_HOLIDAY", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a9dba74c8f01c9292cf8afa6b77be2a34", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_LOSS_TEAM_SCORE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0aab81f29c4cb17f066e8d2bd95f37d954", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_INSTANCE_SCRIPT", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0adb7d56866cf7afe8c4145c300a06ec4c", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_EQUIPPED_ITEM", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a77677f4d00c6fab053e7f632ef59b4e5", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_MAP_ID", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a84b46b516fde8adcd492cb856d32e722", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_PLAYER_CLASS_RACE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0aaa861458fcfe5aed7f8714be2b68a1db", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_NTH_BIRTHDAY", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a003a15517532a95903cb8c6673db418f", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_KNOWN_TITLE", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0a158d186341dd9798da3921a4a6bd2fda", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_BG_TEAMS_SCORES", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0af734713c1c6764e61fddab192904518a", null ],
-      [ "ACHIEVEMENT_CRITERIA_DATA_TYPE_S_ITEM_QUALITY", "d7/dbe/a04193.html#a72f8a725cd1b257556ae7aa080f477c0af53705f7958654cf4ca99c99dd320735", null ]
+    [ "GroupMemberAssignment", "d7/dbe/a04193.html#a265440bc60acb489a6d25239d788b783", [
+      [ "GROUP_ASSIGN_MAINTANK", "d7/dbe/a04193.html#a265440bc60acb489a6d25239d788b783a81801fe8320b2182ad7c70d0d028d192", null ],
+      [ "GROUP_ASSIGN_MAINASSIST", "d7/dbe/a04193.html#a265440bc60acb489a6d25239d788b783a365361d3311869df05371342f7082143", null ]
     ] ],
-    [ "AchievementOfflinePlayerUpdateType", "d7/dbe/a04193.html#a9c52752c50b87261f43020b3cfaa06e6", [
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_COMPLETE_ACHIEVEMENT", "d7/dbe/a04193.html#a9c52752c50b87261f43020b3cfaa06e6a2976d6d0cc93ac389d7683d092aff8ee", null ],
-      [ "ACHIEVEMENT_OFFLINE_PLAYER_UPDATE_TYPE_UPDATE_CRITERIA", "d7/dbe/a04193.html#a9c52752c50b87261f43020b3cfaa06e6a7d91d50e1acd06739fbc20bd87c8a4a3", null ]
-    ] ]
+    [ "GroupMemberFlags", "d7/dbe/a04193.html#a7199c0fc3344f944250290234c6110bd", [
+      [ "MEMBER_FLAG_ASSISTANT", "d7/dbe/a04193.html#a7199c0fc3344f944250290234c6110bda0b79d2026cebf021e0df83bf82e1e3bf", null ],
+      [ "MEMBER_FLAG_MAINTANK", "d7/dbe/a04193.html#a7199c0fc3344f944250290234c6110bdab4244bc75cc8b303dab133abe583dd7b", null ],
+      [ "MEMBER_FLAG_MAINASSIST", "d7/dbe/a04193.html#a7199c0fc3344f944250290234c6110bda5977481471e2d61bda65201ddf3db54a", null ]
+    ] ],
+    [ "GroupMemberOnlineStatus", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9d", [
+      [ "MEMBER_STATUS_OFFLINE", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da3d85c38ccfdc94eda5fe36f186dcb75c", null ],
+      [ "MEMBER_STATUS_ONLINE", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da5b80950bd3340d7de2b5a769001b9fec", null ],
+      [ "MEMBER_STATUS_PVP", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da56b0705f4b91684e2bc6536d45c628bd", null ],
+      [ "MEMBER_STATUS_DEAD", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da68c1ec7408566a34bc264bd9eca1cb53", null ],
+      [ "MEMBER_STATUS_GHOST", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9daab8058da6edb35b7c3c459a000e9dd0c", null ],
+      [ "MEMBER_STATUS_PVP_FFA", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9daff365b501c0206847eac2c3d02b21961", null ],
+      [ "MEMBER_STATUS_UNK3", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da795eafeca5cb33a35458e5d646975039", null ],
+      [ "MEMBER_STATUS_AFK", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9da0fd180911ad96ed8d444b6dfc6fd8777", null ],
+      [ "MEMBER_STATUS_DND", "d7/dbe/a04193.html#a330da2ab05c167f677e54f82a222ef9dacd9a792ab0f7517ea210ea164e3f8b9f", null ]
+    ] ],
+    [ "GroupType", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918", [
+      [ "GROUPTYPE_NORMAL", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918a06d2671866631d30309707bd4a233b71", null ],
+      [ "GROUPTYPE_BG", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918aed783b5eaca8785fa2448debdec0b139", null ],
+      [ "GROUPTYPE_RAID", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918a1d64f52216490e026252bf5be0ce72ea", null ],
+      [ "GROUPTYPE_BGRAID", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918ae34858409fbfe501ddd8500da4154860", null ],
+      [ "GROUPTYPE_LFG_RESTRICTED", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918a071dd896c0ef9e458b00ceece61212dc", null ],
+      [ "GROUPTYPE_LFG", "d7/dbe/a04193.html#a3de1267c3b87dda21863fd739439d918ab0ab78acc1d675d1a7b3285b29c92900", null ]
+    ] ],
+    [ "GroupUpdateFlags", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22", [
+      [ "GROUP_UPDATE_FLAG_NONE", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22aabf53171e29489386fb5f82c83b8291c", null ],
+      [ "GROUP_UPDATE_FLAG_STATUS", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a84be5c25600d56528690fa6c4f693c39", null ],
+      [ "GROUP_UPDATE_FLAG_CUR_HP", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a053bf2b40e15c99b4d87212b6224edf5", null ],
+      [ "GROUP_UPDATE_FLAG_MAX_HP", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a51f854cd0a192b6a26f2ad93cb04f290", null ],
+      [ "GROUP_UPDATE_FLAG_POWER_TYPE", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a18568d1a780d4ee8bd1261f04789ddec", null ],
+      [ "GROUP_UPDATE_FLAG_CUR_POWER", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22aff7d60d1b0cadfb6faf0a9cc0fb4c647", null ],
+      [ "GROUP_UPDATE_FLAG_MAX_POWER", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a8e989903a18a03c2c1b04c93a6f7b806", null ],
+      [ "GROUP_UPDATE_FLAG_LEVEL", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ac3d0e3f073f9bd3b10dfe6815879d721", null ],
+      [ "GROUP_UPDATE_FLAG_ZONE", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a8ff7f1354cb854bfd7acc1a15572e1ec", null ],
+      [ "GROUP_UPDATE_FLAG_POSITION", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ab08e141bb44f5282877077ceef93f4db", null ],
+      [ "GROUP_UPDATE_FLAG_AURAS", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22abfc7c4cf05e71e2c6a263d14c50c300e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_GUID", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ae059ba28d829c215698fb53fb9c46b81", null ],
+      [ "GROUP_UPDATE_FLAG_PET_NAME", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ab34868446bbc6c7214746ae0ee07298e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MODEL_ID", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ab29f0639aa4364f2937eafa3cf3c9bfd", null ],
+      [ "GROUP_UPDATE_FLAG_PET_CUR_HP", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a0828c5fe18a98dcec2e52be5a6faf62a", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MAX_HP", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22afc364631361127107eede68c44672067", null ],
+      [ "GROUP_UPDATE_FLAG_PET_POWER_TYPE", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a8654981d5a32b737e43bb9f799891ab8", null ],
+      [ "GROUP_UPDATE_FLAG_PET_CUR_POWER", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a356f93308e4e05d59544bb68adeff09e", null ],
+      [ "GROUP_UPDATE_FLAG_PET_MAX_POWER", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a4110160e7fd5360f13bf4527effcf436", null ],
+      [ "GROUP_UPDATE_FLAG_PET_AURAS", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22abb4365d738698af44649fda4435825af", null ],
+      [ "GROUP_UPDATE_FLAG_VEHICLE_SEAT", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a8055f4324e3e38e102f8ae430283f109", null ],
+      [ "GROUP_UPDATE_PET", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22ac4eec7ebcdd88fe72703af3fbcdeef65", null ],
+      [ "GROUP_UPDATE_FULL", "d7/dbe/a04193.html#a914819bad74fbd5e30a14b5250e00e22a23d5a8a1b2b3ff72c3fc74d801590ef6", null ]
+    ] ],
+    [ "lfgGroupFlags", "d7/dbe/a04193.html#a76b58859b594b12f70d10ee9ee17345f", [
+      [ "GROUP_LFG_FLAG_APPLY_RANDOM_BUFF", "d7/dbe/a04193.html#a76b58859b594b12f70d10ee9ee17345fa7531c04c229a92e02108024d2d5e3590", null ],
+      [ "GROUP_LFG_FLAG_IS_RANDOM_INSTANCE", "d7/dbe/a04193.html#a76b58859b594b12f70d10ee9ee17345faebe9e5142f049394b9311d27ab5d1f2e", null ],
+      [ "GROUP_LFG_FLAG_IS_HEROIC", "d7/dbe/a04193.html#a76b58859b594b12f70d10ee9ee17345fa1ed91d7e1faa0986f9353cad3ddf1cfc", null ]
+    ] ],
+    [ "MailItemOnFullInventory", "d7/dbe/a04193.html#a03a43c0c0b4b2582dc1ae0a28699e7e5", [
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_DISABLED", "d7/dbe/a04193.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a6d8111c555b1d331ea0756e57d2efc90", null ],
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_LFG_ONLY", "d7/dbe/a04193.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a22b822be00ad7f19f3700c3fe28d65db", null ],
+      [ "MAIL_ITEM_ON_FULL_INVENTORY_EVERYWHERE", "d7/dbe/a04193.html#a03a43c0c0b4b2582dc1ae0a28699e7e5a5b29b0fb837a30794469c96d91fabcb1", null ]
+    ] ],
+    [ "RollVote", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5f", [
+      [ "PASS", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fa0afa825567e442a46d131be6c71cb40f", null ],
+      [ "NEED", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fa79a6b7f188a0c6c0f32beb8d40d5804a", null ],
+      [ "GREED", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fac623c8a2364508457861e33034f25d10", null ],
+      [ "DISENCHANT", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fa899d0f089060a2adb6d35bde6c361d13", null ],
+      [ "NOT_EMITED_YET", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fa1b7e37d6dc247df81321e83d0ffe008a", null ],
+      [ "NOT_VALID", "d7/dbe/a04193.html#a1cf1e13f9c5c24c7e321364f6d349d5fa7f1ec5eb59564ae05005b9260e1d974e", null ]
+    ] ],
+    [ "GroupUpdateLength", "d7/dbe/a04193.html#a65e699af45b8fc9a4a8bac43fe403d5c", null ]
 ];

@@ -1,15 +1,12 @@
 var a29613 =
 [
-    [ "toMMAPTileRecastConfig", "da/d5d/a29613.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
-    [ "baseUnitDim", "da/d5d/a29613.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
-    [ "cellSizeHorizontal", "da/d5d/a29613.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
-    [ "cellSizeVertical", "da/d5d/a29613.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
-    [ "maxSimplificationError", "da/d5d/a29613.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
-    [ "tilesPerMapEdge", "da/d5d/a29613.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
-    [ "vertexPerMapEdge", "da/d5d/a29613.html#adba40fb00d24af999a1970e3a5fed198", null ],
-    [ "vertexPerTileEdge", "da/d5d/a29613.html#ae7421270c917171607ff972483df0ba1", null ],
-    [ "walkableClimb", "da/d5d/a29613.html#a5501534adbc4018b5047599c12a2e582", null ],
-    [ "walkableHeight", "da/d5d/a29613.html#a3513a1b33d8682303eae1eaa30615a07", null ],
-    [ "walkableRadius", "da/d5d/a29613.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
-    [ "walkableSlopeAngle", "da/d5d/a29613.html#afa96a254067d2173288479cc60a6c97c", null ]
+    [ "TestVisibilityScript", "da/d5d/a29613.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "da/d5d/a29613.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "da/d5d/a29613.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "da/d5d/a29613.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "da/d5d/a29613.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "da/d5d/a29613.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "da/d5d/a29613.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "da/d5d/a29613.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "da/d5d/a29613.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

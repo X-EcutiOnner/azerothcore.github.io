@@ -1,6 +1,9 @@
 var a18009 =
 [
-    [ "HandleScriptEffect", "d8/d10/a18009.html#ac6017cbe86b328aef00f707051c67e5f", null ],
-    [ "PrepareSpellScript", "d8/d10/a18009.html#a3e21794652b0ffea67571f9b294b4961", null ],
-    [ "Register", "d8/d10/a18009.html#a4d070dff98fed842e0a3839e918f7c5a", null ]
+    [ "CheckAreaTarget", "d8/d10/a18009.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d8/d10/a18009.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d8/d10/a18009.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d8/d10/a18009.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d8/d10/a18009.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d8/d10/a18009.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

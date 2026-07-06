@@ -1,13 +1,11 @@
 var a13469 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d9/dc2/a13469.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "d9/dc2/a13469.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "d9/dc2/a13469.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "d9/dc2/a13469.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "d9/dc2/a13469.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "d9/dc2/a13469.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "d9/dc2/a13469.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "d9/dc2/a13469.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "d9/dc2/a13469.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "d9/dc2/a13469.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "npc_a_special_surpriseAI", "d9/dc2/a13469.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d9/dc2/a13469.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d9/dc2/a13469.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d9/dc2/a13469.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d9/dc2/a13469.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d9/dc2/a13469.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d9/dc2/a13469.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d9/dc2/a13469.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

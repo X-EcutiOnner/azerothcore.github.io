@@ -1,8 +1,8 @@
 var a19821 =
 [
-    [ "HandlePeriodic", "dd/da6/a19821.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "dd/da6/a19821.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "dd/da6/a19821.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "dd/da6/a19821.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "dd/da6/a19821.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "HandleOnEffectApply", "dd/da6/a19821.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "dd/da6/a19821.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "dd/da6/a19821.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "dd/da6/a19821.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "dd/da6/a19821.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

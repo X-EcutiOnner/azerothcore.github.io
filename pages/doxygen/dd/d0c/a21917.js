@@ -1,7 +1,7 @@
 var a21917 =
 [
-    [ "HandleOnEffectHit", "dd/d0c/a21917.html#a909ec44339061a114697cacee5fba5b2", null ],
-    [ "PrepareSpellScript", "dd/d0c/a21917.html#ac1bfb2b49cd335ca5961b984fadfffb8", null ],
-    [ "Register", "dd/d0c/a21917.html#aa241c97b4e895d07fe89d03edca29912", null ],
-    [ "Validate", "dd/d0c/a21917.html#aa84f4c29ca00789bb47661267549cda6", null ]
+    [ "Absorb", "dd/d0c/a21917.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "dd/d0c/a21917.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "dd/d0c/a21917.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "dd/d0c/a21917.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

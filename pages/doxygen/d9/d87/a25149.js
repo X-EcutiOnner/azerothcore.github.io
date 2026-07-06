@@ -1,7 +1,7 @@
 var a25149 =
 [
-    [ "HandleScript", "d9/d87/a25149.html#a4788a8ce7c88378c8b55d1fe60200b71", null ],
-    [ "PrepareSpellScript", "d9/d87/a25149.html#a3317bfc299c6c8c81ef6dfd75ff773f0", null ],
-    [ "Register", "d9/d87/a25149.html#a1a44bfb68010c34470ee72c9dcdfc3b4", null ],
-    [ "Validate", "d9/d87/a25149.html#ad242bd4bb5f9be8767b170fd2cc9c444", null ]
+    [ "HandleStun", "d9/d87/a25149.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d9/d87/a25149.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d9/d87/a25149.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d9/d87/a25149.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

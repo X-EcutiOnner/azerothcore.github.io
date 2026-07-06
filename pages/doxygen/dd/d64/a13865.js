@@ -1,9 +1,7 @@
 var a13865 =
 [
-    [ "npc_partygoer", "dd/d64/a13865.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "dd/d64/a13865.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "dd/d64/a13865.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "dd/d64/a13865.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "dd/d64/a13865.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "dd/d64/a13865.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "HandleSchoolDamage", "dd/d64/a13865.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
+    [ "PrepareSpellScript", "dd/d64/a13865.html#a8063f3d669e07dc0768607feb9a2f763", null ],
+    [ "Register", "dd/d64/a13865.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
+    [ "Validate", "dd/d64/a13865.html#af90ae09274b0082bd8bd674ca43596f6", null ]
 ];

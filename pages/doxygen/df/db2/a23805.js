@@ -1,6 +1,7 @@
 var a23805 =
 [
-    [ "npc_torloth_the_magnificentAI", "d0/dc2/a23809.html", "d0/dc2/a23809" ],
-    [ "npc_torloth_the_magnificent", "df/db2/a23805.html#a252796a19dcebe210eecb4d9ae150e5d", null ],
-    [ "GetAI", "df/db2/a23805.html#a94c206fb75cc6f50c6127908b5b5205f", null ]
+    [ "npc_daranelleAI", "df/db2/a23805.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "df/db2/a23805.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "df/db2/a23805.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "df/db2/a23805.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

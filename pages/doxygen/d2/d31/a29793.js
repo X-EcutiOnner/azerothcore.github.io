@@ -1,4 +1,5 @@
 var a29793 =
 [
-    [ "SetUp", "d2/d31/a29793.html#a5d3dc5ba1a52545537d327fec12ea1cb", null ]
+    [ "CreateBasicProcEntry", "d2/d31/a29793.html#a047473844c17b28cab20159721fc9ee8", null ],
+    [ "SetUp", "d2/d31/a29793.html#ad9848a18a0b1fa950cabcfa1584e0103", null ]
 ];

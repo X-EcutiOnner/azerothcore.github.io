@@ -1,7 +1,6 @@
 var a22301 =
 [
-    [ "HandleOnHit", "d7/d55/a22301.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d7/d55/a22301.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d7/d55/a22301.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d7/d55/a22301.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "FilterTargets", "d7/d55/a22301.html#a4d81860c41daab44851da605d38b4753", null ],
+    [ "PrepareSpellScript", "d7/d55/a22301.html#a99a7b95b1cf5835aeebe85f398f6e9a4", null ],
+    [ "Register", "d7/d55/a22301.html#a80baaf9b470d7bd5e91dffb3f0442a57", null ]
 ];

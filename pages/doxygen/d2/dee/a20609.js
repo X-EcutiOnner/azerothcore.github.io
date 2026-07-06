@@ -1,9 +1,8 @@
 var a20609 =
 [
-    [ "boss_yoggsaron_keeper", "d2/dee/a20609.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d2/dee/a20609.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d2/dee/a20609.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d2/dee/a20609.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d2/dee/a20609.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d2/dee/a20609.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "npc_ulduar_dark_rune_guardian", "d2/dee/a20609.html#a225445f5593694dd6b7d9c338735690f", null ],
+    [ "CanAIAttack", "d2/dee/a20609.html#a0e739a36a33d7ab401a55d629230e2df", null ],
+    [ "Reset", "d2/dee/a20609.html#a4839f5722ba8d12beb679ac7edd0fe0e", null ],
+    [ "UpdateAI", "d2/dee/a20609.html#acecc92ef5ad06821854f3afe4f2b673e", null ],
+    [ "timer2", "d2/dee/a20609.html#a5a3af42aaff640e8e286eda5a658c411", null ]
 ];

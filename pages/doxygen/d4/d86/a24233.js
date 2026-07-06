@@ -1,6 +1,5 @@
 var a24233 =
 [
-    [ "CheckTargets", "d4/d86/a24233.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "d4/d86/a24233.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "d4/d86/a24233.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "npc_pet_proto_drake_whelp", "d4/d86/a24233.html#adfe4251e85cbc018628480c02e7bfd8c", null ],
+    [ "Reset", "d4/d86/a24233.html#a4c7697ea29c172dcedbbf84d0b5b1d6f", null ]
 ];

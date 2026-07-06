@@ -1,7 +1,5 @@
 var a18093 =
 [
-    [ "HandleTriggerSpell", "df/db6/a18093.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "df/db6/a18093.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "df/db6/a18093.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "df/db6/a18093.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "achievement_im_on_a_boat", "df/db6/a18093.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "df/db6/a18093.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

@@ -1,5 +1,8 @@
 var a27941 =
 [
-    [ "item_mysterious_egg", "d3/de1/a27941.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d3/de1/a27941.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "FilterTargets", "d3/de1/a27941.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
+    [ "HandleEffect", "d3/de1/a27941.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
+    [ "PrepareSpellScript", "d3/de1/a27941.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
+    [ "Register", "d3/de1/a27941.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
+    [ "Validate", "d3/de1/a27941.html#aabc063155fad404ffd044c9f79b88051", null ]
 ];

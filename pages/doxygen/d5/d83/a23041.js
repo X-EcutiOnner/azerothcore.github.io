@@ -1,7 +1,14 @@
 var a23041 =
 [
-    [ "HandleScript", "d5/d83/a23041.html#a8933535f9507b90b54032c17985cc3c6", null ],
-    [ "PrepareSpellScript", "d5/d83/a23041.html#acadb563eaeffac47b3f883f9d8c37994", null ],
-    [ "Register", "d5/d83/a23041.html#a797ae84dcb0fc13b0799934bde71809c", null ],
-    [ "Validate", "d5/d83/a23041.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
+    [ "boss_the_lurker_below", "d5/d83/a23041.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "d5/d83/a23041.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "d5/d83/a23041.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "d5/d83/a23041.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "d5/d83/a23041.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "d5/d83/a23041.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "d5/d83/a23041.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "d5/d83/a23041.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "d5/d83/a23041.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "d5/d83/a23041.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "d5/d83/a23041.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

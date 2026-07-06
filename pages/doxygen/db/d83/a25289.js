@@ -1,8 +1,7 @@
 var a25289 =
 [
-    [ "OnApply", "db/d83/a25289.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "db/d83/a25289.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "db/d83/a25289.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "db/d83/a25289.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "db/d83/a25289.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "OnApply", "db/d83/a25289.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "db/d83/a25289.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "db/d83/a25289.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "db/d83/a25289.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

@@ -1,15 +1,18 @@
 var a17041 =
 [
-    [ "boss_devourer_of_souls", "de/dce/a17041.html#a8d089de7236e18003bfd484e34f77ea3", null ],
-    [ "CanAIAttack", "de/dce/a17041.html#a6e84fb1104ce99448f2aea819fc7748f", null ],
-    [ "EnterEvadeMode", "de/dce/a17041.html#adce881b46c1a9de4f0eee8dd2cbadff1", null ],
-    [ "GetData", "de/dce/a17041.html#a6df46af55679a009c7f6a30d1f1185f6", null ],
-    [ "JustDied", "de/dce/a17041.html#a8d58c994b2a0428b723bd2528c312f72", null ],
-    [ "JustEngagedWith", "de/dce/a17041.html#a25af638ab8e5c8348e5e910cfb52a1fd", null ],
-    [ "JustSummoned", "de/dce/a17041.html#ac985b112bf87341b4c0b132502517bfb", null ],
-    [ "KilledUnit", "de/dce/a17041.html#ae8ba70f003d792e499b095f2030b58b1", null ],
-    [ "Reset", "de/dce/a17041.html#a57cc2f21324c38cdc9c87adf3b425ed4", null ],
-    [ "SpellHitTarget", "de/dce/a17041.html#ad8215797d3bbd05efd93b04ae8b3cad2", null ],
-    [ "UpdateAI", "de/dce/a17041.html#a47b6ff4e3edad4f1d5a4974a5a84696a", null ],
-    [ "AchievementCompleted", "de/dce/a17041.html#a7f19641d3c3496e8cf4c86e736607441", null ]
+    [ "boss_icehowlAI", "de/dce/a17041.html#a81fbfe9bb9d6186e36af2dd24c2dca5e", null ],
+    [ "AttackStart", "de/dce/a17041.html#ab40b1bb5338fab72aa23f650925d5ed0", null ],
+    [ "DoTrampleIfValid", "de/dce/a17041.html#ae3df64882f344dddc1480574d078e9a0", null ],
+    [ "EnterEvadeMode", "de/dce/a17041.html#afeebf7a1039b3eed4b351e88751818b5", null ],
+    [ "JustDied", "de/dce/a17041.html#ae29d8fc7d1ad3e57785c1c31ec73fa86", null ],
+    [ "JustEngagedWith", "de/dce/a17041.html#aac8165285ec44942217e93ad25a3668b", null ],
+    [ "JustReachedHome", "de/dce/a17041.html#a1034e0e9f5af03cd1d36aef4df724bc9", null ],
+    [ "MovementInform", "de/dce/a17041.html#a664ac70b8bb380329aacdf11cfb53bf1", null ],
+    [ "UpdateAI", "de/dce/a17041.html#a0972a2b86426f6d0efbde3d8b802a8f3", null ],
+    [ "destX", "de/dce/a17041.html#ace7b1c523d1845eabe1806fbf75453aa", null ],
+    [ "destY", "de/dce/a17041.html#aebb7d901669fe987e805e0dfcfe9993a", null ],
+    [ "destZ", "de/dce/a17041.html#ab9f08e2f505368869063093f531f8794", null ],
+    [ "events", "de/dce/a17041.html#a302879641400e0f0b329fd960256c9fb", null ],
+    [ "pInstance", "de/dce/a17041.html#a4149dd25a04d661448255858e57387f4", null ],
+    [ "TargetGUID", "de/dce/a17041.html#ac5068efd8a3b192e8302264039c30933", null ]
 ];

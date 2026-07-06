@@ -1,9 +1,8 @@
 var a25513 =
 [
-    [ "spell_item_trigger_spell", "df/d0b/a25513.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
-    [ "HandleDummy", "df/d0b/a25513.html#a49613255eea28e34cf5ff8a06798f89a", null ],
-    [ "PrepareSpellScript", "df/d0b/a25513.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
-    [ "Register", "df/d0b/a25513.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
-    [ "Validate", "df/d0b/a25513.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
-    [ "_triggeredSpellId", "df/d0b/a25513.html#a610c5ac434fe788120ed101f7bf58f63", null ]
+    [ "CheckProc", "df/d0b/a25513.html#ae0b0a45ddc782a523394e30414e0b2ba", null ],
+    [ "HandleProc", "df/d0b/a25513.html#a9cb849a8ea8afb45cc1df4d260542937", null ],
+    [ "PrepareAuraScript", "df/d0b/a25513.html#af65fc845e6625b1f0a4f4b88ba6db46e", null ],
+    [ "Register", "df/d0b/a25513.html#acc5c7607ea7a23b66d1db6cb1a38833e", null ],
+    [ "Validate", "df/d0b/a25513.html#a03621fd67cd9179ccc37a53c4d2056d9", null ]
 ];

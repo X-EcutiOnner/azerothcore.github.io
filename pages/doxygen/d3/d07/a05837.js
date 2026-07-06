@@ -1,13 +1,7 @@
 var a05837 =
 [
-    [ "Clear", "d3/d07/a05837.html#adc64d35670bf0d41519cb9998d3db17e", null ],
-    [ "First", "d3/d07/a05837.html#a8bbd41b304f7e69df565af75f4846bda", null ],
-    [ "GetNextGroupOccurrence", "d3/d07/a05837.html#af2cb38062e4d62558d520be75b01bedb", null ],
-    [ "IsEmpty", "d3/d07/a05837.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
-    [ "IsGroupQueued", "d3/d07/a05837.html#ada8edd51338da19db3f282ccc6229516", null ],
-    [ "ModifyIf", "d3/d07/a05837.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
-    [ "Pop", "d3/d07/a05837.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
-    [ "Push", "d3/d07/a05837.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
-    [ "RemoveIf", "d3/d07/a05837.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
-    [ "container", "d3/d07/a05837.html#acc56bddf7e586a3a950f608efb730498", null ]
+    [ "~SignalHandler", "d3/d07/a05837.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "d3/d07/a05837.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "d3/d07/a05837.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "d3/d07/a05837.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

@@ -1,15 +1,8 @@
 var a05317 =
 [
-    [ "GetBounds", "d9/d96/a05317.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
-    [ "operator==", "d9/d96/a05317.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
-    [ "readFromFile", "d9/d96/a05317.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
-    [ "writeToFile", "d9/d96/a05317.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
-    [ "adtId", "d9/d96/a05317.html#a4ebcfe8326eff028e722c9972a16200b", null ],
-    [ "flags", "d9/d96/a05317.html#acfc7a76db09013abfad8e42aaae59f52", null ],
-    [ "iBound", "d9/d96/a05317.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
-    [ "ID", "d9/d96/a05317.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
-    [ "iPos", "d9/d96/a05317.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
-    [ "iRot", "d9/d96/a05317.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
-    [ "iScale", "d9/d96/a05317.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
-    [ "name", "d9/d96/a05317.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
+    [ "LocationInfo", "d9/d96/a05317.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d9/d96/a05317.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d9/d96/a05317.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "d9/d96/a05317.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "d9/d96/a05317.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

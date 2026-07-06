@@ -1,5 +1,10 @@
 var a10601 =
 [
-    [ "CommandScript", "de/d3c/a10601.html#afb9ef0145bb5eedee7fd61609868ba20", null ],
-    [ "GetCommands", "de/d3c/a10601.html#a97dc7d00b78e0030ba2a950d23b2ebd2", null ]
+    [ "QuestStatusData", "de/d3c/a10601.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "de/d3c/a10601.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "de/d3c/a10601.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "de/d3c/a10601.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "de/d3c/a10601.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "de/d3c/a10601.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "de/d3c/a10601.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

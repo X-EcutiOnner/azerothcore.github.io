@@ -1,13 +1,12 @@
 var a15401 =
 [
-    [ "boss_cthun", "d5/d62/a15401.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "d5/d62/a15401.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "d5/d62/a15401.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "d5/d62/a15401.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "d5/d62/a15401.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "d5/d62/a15401.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "d5/d62/a15401.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "d5/d62/a15401.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "d5/d62/a15401.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "d5/d62/a15401.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d5/d62/a15401.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d5/d62/a15401.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d5/d62/a15401.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d5/d62/a15401.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d5/d62/a15401.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d5/d62/a15401.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d5/d62/a15401.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d5/d62/a15401.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d5/d62/a15401.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

@@ -1,6 +1,7 @@
 var a19789 =
 [
-    [ "CosmicSmashDamageEvent", "d6/db6/a19789.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d6/db6/a19789.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d6/db6/a19789.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "Apply", "d6/db6/a19789.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d6/db6/a19789.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d6/db6/a19789.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d6/db6/a19789.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

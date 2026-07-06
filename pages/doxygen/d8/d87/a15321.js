@@ -1,9 +1,6 @@
 var a15321 =
 [
-    [ "go_ossirian_crystalAI", "d8/d87/a15321.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d8/d87/a15321.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d8/d87/a15321.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d8/d87/a15321.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "d8/d87/a15321.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d8/d87/a15321.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d2/d24/a15325.html", "d2/d24/a15325" ],
+    [ "instance_the_black_morass", "d8/d87/a15321.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d8/d87/a15321.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

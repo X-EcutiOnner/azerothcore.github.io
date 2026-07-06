@@ -1,12 +1,14 @@
 var a23777 =
 [
-    [ "npc_enslaved_netherwing_drake", "d5/d92/a23777.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
-    [ "_GetPlayer", "d5/d92/a23777.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
-    [ "JustDied", "d5/d92/a23777.html#acde70c9d8c675a9a9dd14695dc752184", null ],
-    [ "MovementInform", "d5/d92/a23777.html#afa030a380365daa33c156a0d6be6a6d9", null ],
-    [ "Reset", "d5/d92/a23777.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
-    [ "SpellHit", "d5/d92/a23777.html#a195794e88870a0b1ca35473f5f0378a7", null ],
-    [ "UpdateAI", "d5/d92/a23777.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
-    [ "_playerGUID", "d5/d92/a23777.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
-    [ "_tapped", "d5/d92/a23777.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d5/d92/a23777.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d5/d92/a23777.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d5/d92/a23777.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d5/d92/a23777.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d5/d92/a23777.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d5/d92/a23777.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d5/d92/a23777.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d5/d92/a23777.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d5/d92/a23777.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d5/d92/a23777.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d5/d92/a23777.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

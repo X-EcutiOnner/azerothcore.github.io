@@ -1,6 +1,7 @@
 var a15065 =
 [
-    [ "npc_crate_helperAI", "d9/d51/a15065.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d9/d51/a15065.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d9/d51/a15065.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_azuregosAI", "dd/d50/a15069.html", "dd/d50/a15069" ],
+    [ "boss_azuregos", "d9/d51/a15065.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d9/d51/a15065.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d9/d51/a15065.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

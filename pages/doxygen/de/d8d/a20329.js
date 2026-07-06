@@ -1,11 +1,8 @@
 var a20329 =
 [
-    [ "npc_ulduar_proximity_mine", "de/d8d/a20329.html#a4d8a6ab45b259e42d33d5114d1f7e947", null ],
-    [ "AttackStart", "de/d8d/a20329.html#ae88f3a9cb40aebb469849799e7b7c7c0", null ],
-    [ "CanAIAttack", "de/d8d/a20329.html#a18311072271a18b279c5bf21f7da2482", null ],
-    [ "MoveInLineOfSight", "de/d8d/a20329.html#a6a406f8098dac7038173f51e9f85a79b", null ],
-    [ "UpdateAI", "de/d8d/a20329.html#ad014e0aa8125ef13cfea039acfe0c76f", null ],
-    [ "_exploded", "de/d8d/a20329.html#ad1cd15a93a35f4034c0d690e8d1713ea", null ],
-    [ "_timer", "de/d8d/a20329.html#afe009de55826305826105bd29458d0eb", null ],
-    [ "_timer2", "de/d8d/a20329.html#a08afb215eeaa5e0ec4d9543bc474d392", null ]
+    [ "npc_ulduar_flash_freeze", "de/d8d/a20329.html#a3ee1762e2e3a8a180cb38fad26b70002", null ],
+    [ "DamageTaken", "de/d8d/a20329.html#af381d671e1b64c6135ed6c76b1eef213", null ],
+    [ "UpdateAI", "de/d8d/a20329.html#a2e3d6fdf6366b71b6696e567da912c1d", null ],
+    [ "_instance", "de/d8d/a20329.html#ab02f8319a4f2aa0b6c9e5a0134de73fc", null ],
+    [ "timer", "de/d8d/a20329.html#a016272492e1843b09c7c8b40537a463a", null ]
 ];

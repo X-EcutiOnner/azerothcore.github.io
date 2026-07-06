@@ -1,6 +1,6 @@
 var a20853 =
 [
-    [ "npc_ravenous_furbolgAI", "d4/d2a/a20857.html", "d4/d2a/a20857" ],
-    [ "npc_ravenous_furbolg", "d0/d58/a20853.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d0/d58/a20853.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "FilterTargets", "d0/d58/a20853.html#adaeee235184ddc36e90e532091183056", null ],
+    [ "PrepareSpellScript", "d0/d58/a20853.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
+    [ "Register", "d0/d58/a20853.html#ab79041a2536878498744555475bce5c8", null ]
 ];

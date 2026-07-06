@@ -1,6 +1,7 @@
 var a26913 =
 [
-    [ "HandleRemove", "db/ddd/a26913.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "db/ddd/a26913.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "db/ddd/a26913.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "db/ddd/a26913.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
+    [ "PrepareSpellScript", "db/ddd/a26913.html#ae1dfa086c89a4180d42d231064d88602", null ],
+    [ "Register", "db/ddd/a26913.html#a256c152beadbfce6bf245779295b8758", null ],
+    [ "Validate", "db/ddd/a26913.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
 ];

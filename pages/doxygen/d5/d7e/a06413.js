@@ -1,10 +1,9 @@
 var a06413 =
 [
-    [ "DefaultTargetSelector", "d5/d7e/a06413.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "d5/d7e/a06413.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "d5/d7e/a06413.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "d5/d7e/a06413.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "d5/d7e/a06413.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "d5/d7e/a06413.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "d5/d7e/a06413.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "AddonInfo", "d5/d7e/a06413.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d5/d7e/a06413.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d5/d7e/a06413.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d5/d7e/a06413.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d5/d7e/a06413.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d5/d7e/a06413.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

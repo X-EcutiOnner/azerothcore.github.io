@@ -1,12 +1,18 @@
 var a22557 =
 [
-    [ "boss_shade_of_akama", "dc/d2f/a22557.html#a385bf995d19652254d6ae8a447c23c37", null ],
-    [ "EnterEvadeMode", "dc/d2f/a22557.html#a690f8058fb4358b98960177d76864275", null ],
-    [ "JustDied", "dc/d2f/a22557.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
-    [ "MovementInform", "dc/d2f/a22557.html#a345707efebd5027c01a25a563d1e6f43", null ],
-    [ "Reset", "dc/d2f/a22557.html#a19a1aca1a599704612ac845001895b4f", null ],
-    [ "SpellHit", "dc/d2f/a22557.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
-    [ "UpdateAI", "dc/d2f/a22557.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
-    [ "channelers", "dc/d2f/a22557.html#a63372527172d3f96f533b5776221c2e7", null ],
-    [ "generators", "dc/d2f/a22557.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
+    [ "npc_akama_illidan", "dc/d2f/a22557.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
+    [ "DamageTaken", "dc/d2f/a22557.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
+    [ "DoAction", "dc/d2f/a22557.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
+    [ "JustEngagedWith", "dc/d2f/a22557.html#a8c78b3586673ee9e330272494ee74eab", null ],
+    [ "JustReachedHome", "dc/d2f/a22557.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
+    [ "JustSummoned", "dc/d2f/a22557.html#a54b185a813a4271eef06173b8109d6cf", null ],
+    [ "KilledUnit", "dc/d2f/a22557.html#a7838b6161a2ea9e0231f142a534de767", null ],
+    [ "MovementInform", "dc/d2f/a22557.html#a32116d23bd508d9791f31fbc257398d0", null ],
+    [ "PathEndReached", "dc/d2f/a22557.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
+    [ "Reset", "dc/d2f/a22557.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
+    [ "sGossipSelect", "dc/d2f/a22557.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
+    [ "SummonedCreatureDies", "dc/d2f/a22557.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
+    [ "UpdateAI", "dc/d2f/a22557.html#a3531d35b6d996bde197447e69e50a6fb", null ],
+    [ "instance", "dc/d2f/a22557.html#a752a22acf6eab1d1045cac099b22fe57", null ],
+    [ "summons", "dc/d2f/a22557.html#ab63791d4fd316a47af93a6f93118d331", null ]
 ];

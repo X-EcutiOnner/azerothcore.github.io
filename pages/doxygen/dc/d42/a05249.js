@@ -1,11 +1,10 @@
 var a05249 =
 [
-    [ "MmapTileHeader", "dc/d42/a05249.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "dc/d42/a05249.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "dc/d42/a05249.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "dc/d42/a05249.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "dc/d42/a05249.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "dc/d42/a05249.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "dc/d42/a05249.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "dc/d42/a05249.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "DynamicTreeLocationInfoCallback", "dc/d42/a05249.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "dc/d42/a05249.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "dc/d42/a05249.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "dc/d42/a05249.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "dc/d42/a05249.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "dc/d42/a05249.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "dc/d42/a05249.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

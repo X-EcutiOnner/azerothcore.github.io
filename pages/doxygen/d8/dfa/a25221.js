@@ -1,10 +1,7 @@
 var a25221 =
 [
-    [ "CheckProc", "d8/dfa/a25221.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "d8/dfa/a25221.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "d8/dfa/a25221.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "d8/dfa/a25221.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "d8/dfa/a25221.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "d8/dfa/a25221.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "d8/dfa/a25221.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "OnApply", "d8/dfa/a25221.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
+    [ "OnRemove", "d8/dfa/a25221.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
+    [ "PrepareAuraScript", "d8/dfa/a25221.html#a9a7b549e059b6bd2d22802f60e952658", null ],
+    [ "Register", "d8/dfa/a25221.html#aae603735281daf02ceca157e218d5c9f", null ]
 ];

@@ -1,9 +1,5 @@
 var a03878 =
 [
-    [ "PacketLog", "dc/ddb/a11635.html", "dc/ddb/a11635" ],
-    [ "sPacketLog", "d0/d60/a03878.html#a14b702138c7f0a62a900dfc8eecc1f6f", null ],
-    [ "Direction", "d0/d60/a03878.html#a224b9163917ac32fc95a60d8c1eec3aa", [
-      [ "CLIENT_TO_SERVER", "d0/d60/a03878.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476", null ],
-      [ "SERVER_TO_CLIENT", "d0/d60/a03878.html#a224b9163917ac32fc95a60d8c1eec3aaa0df224cab9714b02d0718697fbce48a3", null ]
-    ] ]
+    [ "_characterCacheByNameStore", "d0/d60/a03878.html#a409431c82eb6a62b40d55a773cdb02c6", null ],
+    [ "_characterCacheStore", "d0/d60/a03878.html#a2a209686002fed926e50d55f7c7ca795", null ]
 ];

@@ -1,33 +1,15 @@
 var a01937 =
 [
-    [ "npc_dragonflayer_forge_master", "db/d08/a20979.html", "db/d08/a20979" ],
-    [ "npc_enslaved_proto_drake", "d5/d97/a20983.html", "d5/d97/a20983" ],
-    [ "spell_uk_second_wind", "da/d0e/a20987.html", "da/d0e/a20987" ],
-    [ "spell_ticking_time_bomb_aura", "dd/d0d/a20991.html", "dd/d0d/a20991" ],
-    [ "EnslavedProtoDrake", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "SPELL_REND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "EVENT_REND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "EVENT_PRE_LAND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a3c6c4fa36c983015b9f6940af594f4a2", null ],
-      [ "EVENT_LAND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278aef91952064652c12e6294be214ba63da", null ],
-      [ "TYPE_PROTODRAKE_AT", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "POINT_TAKE_OFF", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a5d2a7910d1b37d273b0cf215d624b394", null ],
-      [ "POINT_PRE_LAND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a603e20f341c92e8e34d4417d2284e7e3", null ],
-      [ "POINT_LAND", "d9/d17/a01937.html#a5858242a9c3f514606e1286c62fcf278a858ba1dc5b34b3ff5f41a194feea519f", null ]
+    [ "icecrown_citadel_teleport", "d4/df6/a19253.html", "d4/df6/a19253" ],
+    [ "at_frozen_throne_teleport", "df/d80/a19257.html", "df/d80/a19257" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "d9/d17/a01937.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d9/d17/a01937.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
     ] ],
-    [ "SecondWind", "d9/d17/a01937.html#aad6ea2c0a908d8b75abb381baf0c2045", [
-      [ "SPELL_SECOND_WIND_TRIGGER", "d9/d17/a01937.html#aad6ea2c0a908d8b75abb381baf0c2045a266ceade00fbff527d0e22c9bcfa2efe", null ]
-    ] ],
-    [ "TickingTimeBomb", "d9/d17/a01937.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "d9/d17/a01937.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
-    ] ],
-    [ "AddSC_utgarde_keep", "d9/d17/a01937.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "d9/d17/a01937.html#a0a556a898032cb18eabb6df4a3f482e1", null ],
-    [ "protodrakeLandPos", "d9/d17/a01937.html#a1a48021562fd573e8e0e970124788afd", null ],
-    [ "protodrakePreLandPos", "d9/d17/a01937.html#aa19590ca509e049e2c92b727b48b6649", null ],
-    [ "protodrakeTakeOffPos", "d9/d17/a01937.html#a2f05c0a81b85a72d1ba01e87e103e895", null ]
+    [ "AddSC_icecrown_citadel_teleport", "d9/d17/a01937.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

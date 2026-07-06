@@ -1,6 +1,5 @@
 var a12449 =
 [
-    [ "boss_anubshiah", "d2/d67/a12449.html#aa8e436501ebf08465a9742dedb5901fc", null ],
-    [ "JustEngagedWith", "d2/d67/a12449.html#aedd04c5765ca4360d8290fac7e7b9c55", null ],
-    [ "UpdateAI", "d2/d67/a12449.html#a0a3cbdd6be45415723cbadb40478831a", null ]
+    [ "flag", "d2/d67/a12449.html#a4ea67fc10eedfaa2e5e029e242e1c32f", null ],
+    [ "text", "d2/d67/a12449.html#a492e5e3c2373adba005034514b0a5a1e", null ]
 ];

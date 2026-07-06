@@ -1,17 +1,8 @@
 var a09821 =
 [
-    [ "EmblemInfo", "dc/d01/a09821.html#a8d053ab27856955bf6013ef4c61ed33f", null ],
-    [ "GetBackgroundColor", "dc/d01/a09821.html#a66da2cd78cee9e929ff0f2439caed0e5", null ],
-    [ "GetBorderColor", "dc/d01/a09821.html#ac5ea55d7fd129524630dd0d486b457a7", null ],
-    [ "GetBorderStyle", "dc/d01/a09821.html#a7a791a3f467e72a3e8e941e3179d7709", null ],
-    [ "GetColor", "dc/d01/a09821.html#a15108f3a2a93ebbc01111672dd238d63", null ],
-    [ "GetStyle", "dc/d01/a09821.html#a0e6d684542535d537bdeba4104b7a18d", null ],
-    [ "LoadFromDB", "dc/d01/a09821.html#a17de371e72a2b29a7f249dbe912636bc", null ],
-    [ "ReadPacket", "dc/d01/a09821.html#abd73ea3db00fa900d7b3a8eeffa8b1bf", null ],
-    [ "SaveToDB", "dc/d01/a09821.html#aea1326261d893ef3beff026402bf8272", null ],
-    [ "m_backgroundColor", "dc/d01/a09821.html#a0bc92e459910ab6aad3ac35c8b613a5f", null ],
-    [ "m_borderColor", "dc/d01/a09821.html#a5aff1dcb9db9bc1477f2f37ac5b2c6cf", null ],
-    [ "m_borderStyle", "dc/d01/a09821.html#aa3e49b5f76fdb4e2139aeccb79c19390", null ],
-    [ "m_color", "dc/d01/a09821.html#ace48f189e9a1ae685dfbe97f35f49ec5", null ],
-    [ "m_style", "dc/d01/a09821.html#a08191c3c9cc48bde61ef0de81be34c90", null ]
+    [ "AllCreaturesOfEntryInRange", "dc/d01/a09821.html#a02aca6b65bd5ea49d510bb8d901e1322", null ],
+    [ "operator()", "dc/d01/a09821.html#a99f472f33c0e5a6a76d6ffc08af2783b", null ],
+    [ "m_fRange", "dc/d01/a09821.html#a0cb7d140b51d52e0db5b8d9f70250ced", null ],
+    [ "m_pObject", "dc/d01/a09821.html#ade8cc66e1cd421550d2674e3ad960f48", null ],
+    [ "m_uiEntry", "dc/d01/a09821.html#abf653360d2ee482728fb137a37fe0512", null ]
 ];

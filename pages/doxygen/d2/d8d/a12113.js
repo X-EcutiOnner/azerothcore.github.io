@@ -1,9 +1,9 @@
 var a12113 =
 [
-    [ "map", "d2/d8d/a12113.html#a274c6d61203c24b3c680055244e1f590", null ],
-    [ "mouth", "d2/d8d/a12113.html#aa785f3badb9c898d24efdf6d42fb8a7f", null ],
-    [ "mouthGuid", "d2/d8d/a12113.html#a2245c14e379c83bdd47165e829de2e41", null ],
-    [ "necropolisCount", "d2/d8d/a12113.html#aec44e315616920ba8224be8c4831f5e9", null ],
-    [ "remainingNecropoli", "d2/d8d/a12113.html#a3c18c61fcd44c32f9e0009479db85399", null ],
-    [ "zoneId", "d2/d8d/a12113.html#a98e1490705f74627cf9e5483857f3f25", null ]
+    [ "CreatureTextLocalizer", "d2/d8d/a12113.html#a799f1007b9977224d71da1451c3454e1", null ],
+    [ "~CreatureTextLocalizer", "d2/d8d/a12113.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
+    [ "operator()", "d2/d8d/a12113.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
+    [ "_builder", "d2/d8d/a12113.html#a1d8d97d3e423810d044a8155b182899d", null ],
+    [ "_msgType", "d2/d8d/a12113.html#adf9260955b0141e85ff47c66350244e2", null ],
+    [ "_packetCache", "d2/d8d/a12113.html#a660b352a1c1855f4b10a8aebef88133f", null ]
 ];

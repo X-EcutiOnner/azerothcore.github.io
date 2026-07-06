@@ -1,8 +1,7 @@
 var a16701 =
 [
-    [ "npc_toc_warlockAI", "d2/dd7/a16701.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d2/dd7/a16701.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d2/dd7/a16701.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d2/dd7/a16701.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d2/dd7/a16701.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "HandleAfterEffectAbsorb", "d2/dd7/a16701.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d2/dd7/a16701.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d2/dd7/a16701.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d2/dd7/a16701.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

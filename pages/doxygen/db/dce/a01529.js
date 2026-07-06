@@ -1,5 +1,5 @@
 var a01529 =
 [
-    [ "spectator_commandscript", "d4/dca/a12499.html", "d4/dca/a12499" ],
-    [ "AddSC_spectator_commandscript", "db/dce/a01529.html#a223cb7b19bd79c486919c41509ea6ddf", null ]
+    [ "guild_commandscript", "d3/d56/a12385.html", "d3/d56/a12385" ],
+    [ "AddSC_guild_commandscript", "db/dce/a01529.html#af4f585942ab79df7bff025b621beef86", null ]
 ];

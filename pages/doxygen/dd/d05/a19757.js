@@ -1,7 +1,6 @@
 var a19757 =
 [
-    [ "creature", "dd/d05/a19757.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "dd/d05/a19757.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "dd/d05/a19757.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "dd/d05/a19757.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "instance_oculus_InstanceMapScript", "dc/d67/a19761.html", "dc/d67/a19761" ],
+    [ "instance_oculus", "dd/d05/a19757.html#a404205ea7106531ea57307c40b9589bb", null ],
+    [ "GetInstanceScript", "dd/d05/a19757.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
 ];

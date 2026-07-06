@@ -1,6 +1,8 @@
 var a20701 =
 [
-    [ "CheckCast", "d8/d48/a20701.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d8/d48/a20701.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d8/d48/a20701.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "npc_xt002_heart", "d8/d48/a20701.html#aa4a3c9e4a66f1d6adab07282961685e9", null ],
+    [ "DoAction", "d8/d48/a20701.html#a3150ab74ea50c9de6d937b3271e782de", null ],
+    [ "JustDied", "d8/d48/a20701.html#a4f62cabc74ad43cf53f2257902982dff", null ],
+    [ "Reset", "d8/d48/a20701.html#a0b60b84d9fc0abcb44d3f432420a7865", null ],
+    [ "_instance", "d8/d48/a20701.html#a90edf95809c2d8a25b3f75526d2d3db7", null ]
 ];

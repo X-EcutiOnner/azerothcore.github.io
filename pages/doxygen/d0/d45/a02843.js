@@ -1,6 +1,5 @@
 var a02843 =
 [
-    [ "ObjectVisibilityContainer", "d6/d41/a08799.html", "d6/d41/a08799" ],
-    [ "VisiblePlayersMap", "d0/d45/a02843.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
-    [ "VisibleWorldObjectsMap", "d0/d45/a02843.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
+    [ "Vehicle", "dd/d3c/a09161.html", "dd/d3c/a09161" ],
+    [ "VehicleDespawnEvent", "d2/db8/a09165.html", "d2/db8/a09165" ]
 ];

@@ -1,8 +1,12 @@
 var a13805 =
 [
-    [ "HandleEffectApply", "dd/dc4/a13805.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "dd/dc4/a13805.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "dd/dc4/a13805.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "dd/dc4/a13805.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "dd/dc4/a13805.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "boss_sathrovarr", "dd/dc4/a13805.html#a92bff830219f795d0aae4511f3d524bb", null ],
+    [ "CanAIAttack", "dd/dc4/a13805.html#a053dcf604aed91ac7c888d682653da54", null ],
+    [ "DoAction", "dd/dc4/a13805.html#ad0b549678e5b4eb7dfc1c1879885b45a", null ],
+    [ "JustDied", "dd/dc4/a13805.html#aa6683f0ccb70260e24f79d86ec4ae2d1", null ],
+    [ "JustEngagedWith", "dd/dc4/a13805.html#a1f3a74ac6f83673eed9b2a4276a5cf49", null ],
+    [ "KilledUnit", "dd/dc4/a13805.html#a17e2a5d253536c25cd04269b71a5c0ed", null ],
+    [ "Reset", "dd/dc4/a13805.html#a171c0e2c07ddf4c5271af8ed83f15257", null ],
+    [ "UpdateAI", "dd/dc4/a13805.html#a99c5c8801333f2eaf6b9fee287588093", null ],
+    [ "_instance", "dd/dc4/a13805.html#af7bfd6a65db102b5010f7b300e4acd27", null ]
 ];

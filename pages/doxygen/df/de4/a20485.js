@@ -1,5 +1,6 @@
 var a20485 =
 [
-    [ "go_thorim_lever", "df/de4/a20485.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "df/de4/a20485.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "OnPeriodic", "df/de4/a20485.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "df/de4/a20485.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "df/de4/a20485.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

@@ -1,17 +1,14 @@
 var a09025 =
 [
-    [ "SpellNonMeleeDamage", "de/d81/a09025.html#ad9d6b798f9ed159d847affc5c4b23715", null ],
-    [ "absorb", "de/d81/a09025.html#a485ee28c6a8cf32a22578e02633df75b", null ],
-    [ "attacker", "de/d81/a09025.html#a5248da0c1a8609479d681ae76a77d045", null ],
-    [ "blocked", "de/d81/a09025.html#af0cb3d2801e51d9236a6ff5185a43790", null ],
-    [ "cleanDamage", "de/d81/a09025.html#aa49cdb425fe9c8fb483dcc3c22ca6a72", null ],
-    [ "damage", "de/d81/a09025.html#a47e66924ae869ce34bdf36a5ed50548b", null ],
-    [ "HitInfo", "de/d81/a09025.html#a3f99854d163cd672f881f721d5bc8a39", null ],
-    [ "overkill", "de/d81/a09025.html#a0d578181e933091f3ea1c88ce68e857a", null ],
-    [ "physicalLog", "de/d81/a09025.html#a34318f4d92685c855972e6fd22089e03", null ],
-    [ "resist", "de/d81/a09025.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
-    [ "schoolMask", "de/d81/a09025.html#a52f5ae6091fe547ed7e282d52c626361", null ],
-    [ "spellInfo", "de/d81/a09025.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
-    [ "target", "de/d81/a09025.html#a324ea6c84e005487560de986dceffeba", null ],
-    [ "unused", "de/d81/a09025.html#ae991311d8290996e1c0c49f33c29c6b3", null ]
+    [ "SocialMap", "de/d81/a09025.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "de/d81/a09025.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "de/d81/a09025.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "de/d81/a09025.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "de/d81/a09025.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "de/d81/a09025.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "de/d81/a09025.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "de/d81/a09025.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "de/d81/a09025.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "de/d81/a09025.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "de/d81/a09025.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

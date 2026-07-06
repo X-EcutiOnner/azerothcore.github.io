@@ -1,7 +1,6 @@
 var a18833 =
 [
-    [ "npc_captain_arnathAI", "d6/dc5/a18833.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "d6/dc5/a18833.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "d6/dc5/a18833.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "d6/dc5/a18833.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "boss_valithria_dreamwalkerAI", "d8/da7/a18837.html", "d8/da7/a18837" ],
+    [ "boss_valithria_dreamwalker", "d6/dc5/a18833.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
+    [ "GetAI", "d6/dc5/a18833.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
 ];

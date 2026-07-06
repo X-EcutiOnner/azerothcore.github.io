@@ -1,6 +1,6 @@
 var a16365 =
 [
-    [ "npc_orb_carrierAI", "df/dcc/a16369.html", "df/dcc/a16369" ],
-    [ "npc_orb_carrier", "d0/db2/a16365.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d0/db2/a16365.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "npc_anub_ar_crusher_necromancer", "d0/db2/a16365.html#a469d30b357551c4ce77f040bea79e951", null ],
+    [ "DoEngagedWith", "d0/db2/a16365.html#ab83cd9a16b191547f9307b80d8c697f6", null ],
+    [ "DoEvent", "d0/db2/a16365.html#a67889b3a207ab26b7895e2f7996359b1", null ]
 ];

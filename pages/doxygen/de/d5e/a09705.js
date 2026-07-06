@@ -1,10 +1,8 @@
 var a09705 =
 [
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "de/d5e/a09705.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
-    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "de/d5e/a09705.html#a1e25384d08beeee84d83e401f5a5a565", null ],
-    [ "operator()", "de/d5e/a09705.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
-    [ "i_alive", "de/d5e/a09705.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
-    [ "i_entry", "de/d5e/a09705.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
-    [ "i_obj", "de/d5e/a09705.html#aa0340c79c37f3494b01c52f034705aa4", null ],
-    [ "i_range", "de/d5e/a09705.html#a695af00612b17e0182ad76a5c3be2356", null ]
+    [ "MostHPMissingInRange", "de/d5e/a09705.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "de/d5e/a09705.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "de/d5e/a09705.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "de/d5e/a09705.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "de/d5e/a09705.html#acef63da9004997c7f25056651284efa9", null ]
 ];

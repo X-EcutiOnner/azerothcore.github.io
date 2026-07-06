@@ -1,7 +1,14 @@
 var a22441 =
 [
-    [ "boss_veras_darkshadow", "d6/d63/a22441.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d6/d63/a22441.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d6/d63/a22441.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d6/d63/a22441.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "boss_nexusprince_shaffar", "d6/d63/a22441.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d6/d63/a22441.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d6/d63/a22441.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d6/d63/a22441.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d6/d63/a22441.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d6/d63/a22441.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d6/d63/a22441.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d6/d63/a22441.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d6/d63/a22441.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d6/d63/a22441.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d6/d63/a22441.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

@@ -1,10 +1,12 @@
 var a07585 =
 [
-    [ "ArenaLogEntryData", "d0/d28/a07585.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
-    [ "Fill", "d0/d28/a07585.html#aa3cca4521431bf152550611549bf4bbe", null ],
-    [ "Acc", "d0/d28/a07585.html#aa8983930063298c86f4635d2ae3078fe", null ],
-    [ "ArenaTeamId", "d0/d28/a07585.html#ac764620c3c8a986286fd74062dac4645", null ],
-    [ "Guid", "d0/d28/a07585.html#a03b32cd44c655dcc9104aead3b76454e", null ],
-    [ "IP", "d0/d28/a07585.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
-    [ "Name", "d0/d28/a07585.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
+    [ "WGWorkshop", "d0/d28/a07585.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d0/d28/a07585.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "IsCapturable", "d0/d28/a07585.html#a269e23cf24ca2fd133830dafbb8d02c0", null ],
+    [ "Save", "d0/d28/a07585.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d0/d28/a07585.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d0/d28/a07585.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d0/d28/a07585.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d0/d28/a07585.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d0/d28/a07585.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

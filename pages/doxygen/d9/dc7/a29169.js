@@ -1,13 +1,16 @@
 var a29169 =
 [
-    [ "attackType", "d9/dc7/a29169.html#a4715e7e37c120d791e6a32cd275b8cbd", null ],
-    [ "equippedItemClass", "d9/dc7/a29169.html#aceba901b7f666b4a3806c35b6d8697ad", null ],
-    [ "equippedItemSubClassMask", "d9/dc7/a29169.html#a3384bf3ae58fb0977f8fa81f84d940e2", null ],
-    [ "hasEquippedItem", "d9/dc7/a29169.html#a5d7780265fe18a0657f2a68d9c737fe7", null ],
-    [ "hasNoEquipRequirementAttr", "d9/dc7/a29169.html#ab754fdbbb49982e7152057341fc3e3af", null ],
-    [ "isInFeralForm", "d9/dc7/a29169.html#a3d8d88f4640c3100a88efee52ecf5822", null ],
-    [ "isPassive", "d9/dc7/a29169.html#ad56881b893a29dc5d6be193c6720c4e0", null ],
-    [ "isPlayer", "d9/dc7/a29169.html#a7de2ea9efe7606f26e2c11d8963357d0", null ],
-    [ "itemFitsRequirements", "d9/dc7/a29169.html#a760a3b39c124c3f408f0541744b6b34a", null ],
-    [ "itemIsBroken", "d9/dc7/a29169.html#a3b53871ecd10bd1f6d624431b0907b90", null ]
+    [ "amount", "d9/dc7/a29169.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d9/dc7/a29169.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d9/dc7/a29169.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d9/dc7/a29169.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d9/dc7/a29169.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d9/dc7/a29169.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d9/dc7/a29169.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d9/dc7/a29169.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d9/dc7/a29169.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d9/dc7/a29169.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d9/dc7/a29169.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d9/dc7/a29169.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d9/dc7/a29169.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

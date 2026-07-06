@@ -1,11 +1,13 @@
 var a24133 =
 [
-    [ "CalcPeriodic", "d3/d1c/a24133.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "d3/d1c/a24133.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "d3/d1c/a24133.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "d3/d1c/a24133.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "d3/d1c/a24133.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "d3/d1c/a24133.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "d3/d1c/a24133.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "d3/d1c/a24133.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "npc_unkor_the_ruthlessAI", "d3/d1c/a24133.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "d3/d1c/a24133.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "HasQuestActive", "d3/d1c/a24133.html#ad97ea6721dcea4058167ea327dc0c515", null ],
+    [ "JustEngagedWith", "d3/d1c/a24133.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "d3/d1c/a24133.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "Submit", "d3/d1c/a24133.html#a26872858bfb4aeda1b4af445033995db", null ],
+    [ "UpdateAI", "d3/d1c/a24133.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "PulverizeTimer", "d3/d1c/a24133.html#a43324c095d4f98b97b39b5eb86c4c783", null ],
+    [ "Submitted", "d3/d1c/a24133.html#a47777bb2dd47764c9cb01dc3f3e25f39", null ],
+    [ "UnfriendlyTimer", "d3/d1c/a24133.html#a21559a315c812b50b74fc22dc32a2930", null ]
 ];

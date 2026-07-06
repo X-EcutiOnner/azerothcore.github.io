@@ -1,10 +1,6 @@
 var a06425 =
 [
-    [ "PowerUsersSelector", "d9/d90/a06425.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "d9/d90/a06425.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d9/d90/a06425.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d9/d90/a06425.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d9/d90/a06425.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d9/d90/a06425.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "d9/d90/a06425.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "AggressorAI", "d9/d90/a06425.html#a2d4ba3a557832466f29906972d1e14fd", null ],
+    [ "Permissible", "d9/d90/a06425.html#a7867a9ca7249eb94a712e34833fae930", null ],
+    [ "UpdateAI", "d9/d90/a06425.html#ace9bc9ff47a463ceb05217ae77b5782b", null ]
 ];

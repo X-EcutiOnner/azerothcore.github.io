@@ -1,7 +1,7 @@
 var a23589 =
 [
-    [ "npc_daranelleAI", "d0/da0/a23589.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d0/da0/a23589.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d0/da0/a23589.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d0/da0/a23589.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "boss_warp_splinter", "d0/da0/a23589.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/da0/a23589.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/da0/a23589.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/da0/a23589.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

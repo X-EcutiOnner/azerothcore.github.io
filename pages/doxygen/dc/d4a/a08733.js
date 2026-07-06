@@ -1,7 +1,5 @@
 var a08733 =
 [
-    [ "UsedPos", "dc/d4a/a08733.html#aef230e392619ad4abc2da649d11b2394", null ],
-    [ "dist", "dc/d4a/a08733.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
-    [ "sign", "dc/d4a/a08733.html#a2b5f97425309d56482a1f287b6d5be69", null ],
-    [ "size", "dc/d4a/a08733.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
+    [ "InventoryType", "dc/d4a/a08733.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
+    [ "name", "dc/d4a/a08733.html#a67245cff18aad700717b7b7af9f07458", null ]
 ];

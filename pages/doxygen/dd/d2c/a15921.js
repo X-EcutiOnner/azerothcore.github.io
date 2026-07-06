@@ -1,6 +1,7 @@
 var a15921 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d5/dc9/a15925.html", "d5/dc9/a15925" ],
-    [ "npc_taskmaster_fizzule", "dd/d2c/a15921.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "dd/d2c/a15921.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "HandleDummy", "dd/d2c/a15921.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "dd/d2c/a15921.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "dd/d2c/a15921.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "dd/d2c/a15921.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

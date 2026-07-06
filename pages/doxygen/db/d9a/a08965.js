@@ -1,6 +1,6 @@
 var a08965 =
 [
-    [ "GlobalCooldown", "db/d9a/a08965.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "db/d9a/a08965.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "db/d9a/a08965.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "SavedItem", "db/d9a/a08965.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "db/d9a/a08965.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "db/d9a/a08965.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

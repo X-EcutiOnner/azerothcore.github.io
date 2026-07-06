@@ -1,7 +1,5 @@
 var a13693 =
 [
-    [ "HandleScriptEffect", "db/d4c/a13693.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "db/d4c/a13693.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "db/d4c/a13693.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "db/d4c/a13693.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "at_malfurion_stormrage", "db/d4c/a13693.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "db/d4c/a13693.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

@@ -1,8 +1,7 @@
 var a19641 =
 [
-    [ "HandleEffectPeriodic", "d6/d8e/a19641.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "d6/d8e/a19641.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "d6/d8e/a19641.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "d6/d8e/a19641.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "d6/d8e/a19641.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "FilterTargets", "d6/d8e/a19641.html#a6beccd163ab8442a1ed39c553716cb73", null ],
+    [ "Load", "d6/d8e/a19641.html#a5df67c2dbd14a75435f68939240daae6", null ],
+    [ "PrepareSpellScript", "d6/d8e/a19641.html#a5be9bf364ae2dece862ed1eee93f9294", null ],
+    [ "Register", "d6/d8e/a19641.html#ac4cb1dd6dcc9f55a3e908961c5f0d88e", null ]
 ];

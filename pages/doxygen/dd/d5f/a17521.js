@@ -1,6 +1,6 @@
 var a17521 =
 [
-    [ "ModAuraStack", "dd/d5f/a17521.html#a7535ef148e047e32a5f7a1944585e396", null ],
-    [ "PrepareSpellScript", "dd/d5f/a17521.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
-    [ "Register", "dd/d5f/a17521.html#ab44b362197e74b98b3ffeb98eff52742", null ]
+    [ "entry", "dd/d5f/a17521.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "dd/d5f/a17521.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "dd/d5f/a17521.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

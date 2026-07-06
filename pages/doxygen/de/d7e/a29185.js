@@ -1,16 +1,9 @@
 var a29185 =
 [
-    [ "ProcTestScenario", "de/d7e/a29185.html#aba69369df56d3d631a9a62bcde791537", null ],
-    [ "AdvanceTime", "de/d7e/a29185.html#a3b6e8c7f5207be98b7696b478559b24a", null ],
-    [ "GetActor", "de/d7e/a29185.html#a52dcbfa52c49f54ce29cb73253746f70", null ],
-    [ "GetActor", "de/d7e/a29185.html#a7b2084c740b51289f6e2f7ec74dacf17", null ],
-    [ "GetAura", "de/d7e/a29185.html#aa5e30fdf4a8b4912a48ce12aa7763624", null ],
-    [ "GetNow", "de/d7e/a29185.html#a014a9082421c022c2fac91070f8f062e", null ],
-    [ "SimulateProc", "de/d7e/a29185.html#af3f83abbfbd4a902689b232853fdbcfb", null ],
-    [ "WithActorLevel", "de/d7e/a29185.html#ad0ca3530818d3091ab420bd76aab8dcb", null ],
-    [ "WithAura", "de/d7e/a29185.html#a6c6dc6438b7503dcda2a89f1e53bc324", null ],
-    [ "WithWeaponSpeed", "de/d7e/a29185.html#a05d00a17b60c3fd94e85c75d896ca2bb", null ],
-    [ "_actor", "de/d7e/a29185.html#a8928fbb771f94e66af2a24c6c2a3351d", null ],
-    [ "_aura", "de/d7e/a29185.html#a81e71f6e78e8c715899c85dcb9423589", null ],
-    [ "_now", "de/d7e/a29185.html#ae20c57ecb893219e52fe055d1662e527", null ]
+    [ "Category", "de/d7e/a29185.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "de/d7e/a29185.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "de/d7e/a29185.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "de/d7e/a29185.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "de/d7e/a29185.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "de/d7e/a29185.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

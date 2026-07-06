@@ -1,10 +1,6 @@
 var a15793 =
 [
-    [ "npc_omenAI", "d3/d8b/a15793.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d3/d8b/a15793.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d3/d8b/a15793.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d3/d8b/a15793.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d3/d8b/a15793.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d3/d8b/a15793.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d3/d8b/a15793.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_magwinAI", "da/dc9/a15797.html", "da/dc9/a15797" ],
+    [ "npc_magwin", "d3/d8b/a15793.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "d3/d8b/a15793.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

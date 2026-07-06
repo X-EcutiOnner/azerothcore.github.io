@@ -1,7 +1,5 @@
 var a22381 =
 [
-    [ "OnPeriodic", "dc/d15/a22381.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "dc/d15/a22381.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "dc/d15/a22381.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "dc/d15/a22381.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "OutdoorPvP_terokkar_forest", "dc/d15/a22381.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "dc/d15/a22381.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

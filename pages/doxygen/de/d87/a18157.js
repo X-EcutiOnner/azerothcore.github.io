@@ -1,6 +1,6 @@
 var a18157 =
 [
-    [ "npc_little_oozeAI", "d7/d3a/a18161.html", "d7/d3a/a18161" ],
-    [ "npc_little_ooze", "de/d87/a18157.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
-    [ "GetAI", "de/d87/a18157.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
+    [ "BoneStormMoveTargetSelector", "de/d87/a18157.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "de/d87/a18157.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "de/d87/a18157.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

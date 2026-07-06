@@ -1,7 +1,8 @@
 var a09877 =
 [
-    [ "AddonHandler", "de/dc1/a09877.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
-    [ "~AddonHandler", "de/dc1/a09877.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
-    [ "BuildAddonPacket", "de/dc1/a09877.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
-    [ "instance", "de/dc1/a09877.html#a2925b829b803dd07e96685086357ef85", null ]
+    [ "LocalizedPacketDo", "de/dc1/a09877.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
+    [ "~LocalizedPacketDo", "de/dc1/a09877.html#a4296260b2011e1f7c300987073863ca9", null ],
+    [ "operator()", "de/dc1/a09877.html#a43449bdf0302e426b8cb4341326196b1", null ],
+    [ "i_builder", "de/dc1/a09877.html#a2c794905898feb502bfc5d3760f962b8", null ],
+    [ "i_data_cache", "de/dc1/a09877.html#a2bbff655e1a5268981c48e3ee028b104", null ]
 ];

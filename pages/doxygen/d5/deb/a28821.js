@@ -1,7 +1,6 @@
 var a28821 =
 [
-    [ "ID", "d5/deb/a28821.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "d5/deb/a28821.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "d5/deb/a28821.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "d5/deb/a28821.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "AreaGroupId", "d5/deb/a28821.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d5/deb/a28821.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d5/deb/a28821.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

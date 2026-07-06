@@ -1,5 +1,7 @@
 var a25121 =
 [
-    [ "PrepareSpellScript", "d7/d7c/a25121.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
-    [ "Register", "d7/d7c/a25121.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
+    [ "CheckIfLanceEquipped", "d7/d7c/a25121.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
+    [ "PrepareSpellScript", "d7/d7c/a25121.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
+    [ "Register", "d7/d7c/a25121.html#a4421ceaedce16777f8f04b9c40855782", null ],
+    [ "Validate", "d7/d7c/a25121.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
 ];

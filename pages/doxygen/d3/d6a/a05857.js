@@ -1,11 +1,8 @@
 var a05857 =
 [
-    [ "PeriodicTimer", "d3/d6a/a05857.html#a82820c45f47f423315fe761f9c45c3b5", null ],
-    [ "SetPeriodic", "d3/d6a/a05857.html#abea9c11f88ef0ef48c16a24584774b5b", null ],
-    [ "TPassed", "d3/d6a/a05857.html#a3fdac0a26ee6f5db8d536ae44907930d", null ],
-    [ "TReset", "d3/d6a/a05857.html#af4e78fc1284797b50c2951c10f92b641", null ],
-    [ "TUpdate", "d3/d6a/a05857.html#a1b013fe47a2dfb131110d3a29ccf9868", null ],
-    [ "Update", "d3/d6a/a05857.html#a535bd070d606ba5a8621469a7ddd3449", null ],
-    [ "i_expireTime", "d3/d6a/a05857.html#a7b889a1fbbf905c952834fb8d745f4a6", null ],
-    [ "i_period", "d3/d6a/a05857.html#a5b45d28e36d665190323f34776b87796", null ]
+    [ "category", "d3/d6a/a05857.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "d3/d6a/a05857.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "d3/d6a/a05857.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "d3/d6a/a05857.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "d3/d6a/a05857.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

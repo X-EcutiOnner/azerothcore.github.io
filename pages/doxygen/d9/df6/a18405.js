@@ -1,6 +1,6 @@
 var a18405 =
 [
-    [ "boss_the_lich_kingAI", "d8/dd1/a18409.html", "d8/dd1/a18409" ],
-    [ "boss_the_lich_king", "d9/df6/a18405.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d9/df6/a18405.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "LastPhaseIceTombTargetSelector", "d9/df6/a18405.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
+    [ "operator()", "d9/df6/a18405.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
+    [ "_source", "d9/df6/a18405.html#ab10d10dd0de7717078d31ac026d4c933", null ]
 ];

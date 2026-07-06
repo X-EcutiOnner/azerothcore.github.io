@@ -1,6 +1,12 @@
 var a20553 =
 [
-    [ "OnRemove", "d8/d96/a20553.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d8/d96/a20553.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d8/d96/a20553.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "npc_ulduar_flames_initial", "d8/d96/a20553.html#ac0ba4a5631f580b23be30f6d19545a1f", null ],
+    [ "DoAction", "d8/d96/a20553.html#ae0b262371dfc00ca168afc9e4d28b133", null ],
+    [ "RemoveAll", "d8/d96/a20553.html#a604fee1e371ffd6efe8f80c6db61318f", null ],
+    [ "RemoveFlame", "d8/d96/a20553.html#ad676a542b40b554027fc2ab491fa083d", null ],
+    [ "SpreadFlame", "d8/d96/a20553.html#af50c950610f5277a755d1786b596b9d7", null ],
+    [ "UpdateAI", "d8/d96/a20553.html#a34c1ffd2bc07c2a736a7d6dc103a8afe", null ],
+    [ "_createTime", "d8/d96/a20553.html#aa73a9fa2110bd5abdff9b509e13ce333", null ],
+    [ "_events", "d8/d96/a20553.html#a0f99d43d373b61e9c665bd6c0d389afb", null ],
+    [ "_flameList", "d8/d96/a20553.html#a50a26001f8bfe87a3a4f1feb544cf521", null ]
 ];

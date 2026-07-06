@@ -1,8 +1,12 @@
 var a10285 =
 [
-    [ "TimedFleeingMovementGenerator", "d0/d60/a10285.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "d0/d60/a10285.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "d0/d60/a10285.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "d0/d60/a10285.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "d0/d60/a10285.html#a2858047459ff675383e7b86805702369", null ]
+    [ "TransportTemplate", "d0/d60/a10285.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "d0/d60/a10285.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "d0/d60/a10285.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "d0/d60/a10285.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "d0/d60/a10285.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "d0/d60/a10285.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "d0/d60/a10285.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "d0/d60/a10285.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "d0/d60/a10285.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

@@ -1,9 +1,8 @@
 var a22453 =
 [
-    [ "HandleAfterCast", "d3/d61/a22453.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d3/d61/a22453.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d3/d61/a22453.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d3/d61/a22453.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d3/d61/a22453.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d3/d61/a22453.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "boss_tavarok", "d3/d61/a22453.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d3/d61/a22453.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d3/d61/a22453.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d3/d61/a22453.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d3/d61/a22453.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

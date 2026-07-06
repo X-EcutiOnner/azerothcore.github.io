@@ -1,7 +1,6 @@
 var a21189 =
 [
-    [ "HandleScriptEffect", "d9/d79/a21189.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d9/d79/a21189.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d9/d79/a21189.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d9/d79/a21189.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "boss_emalonAI", "d5/d19/a21193.html", "d5/d19/a21193" ],
+    [ "boss_emalon", "d9/d79/a21189.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d9/d79/a21189.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

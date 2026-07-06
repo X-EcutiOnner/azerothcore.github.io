@@ -1,14 +1,16 @@
 var a07437 =
 [
-    [ "AutobroadcastsMap", "d7/dc5/a07437.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "d7/dc5/a07437.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "d7/dc5/a07437.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "d7/dc5/a07437.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "d7/dc5/a07437.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "d7/dc5/a07437.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "d7/dc5/a07437.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "d7/dc5/a07437.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "d7/dc5/a07437.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "d7/dc5/a07437.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "d7/dc5/a07437.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "AuctionEntryMap", "d7/dc5/a07437.html#ab05cddc8805f4f6745a620aaf78490e6", null ],
+    [ "AuctionHouseObject", "d7/dc5/a07437.html#ae980b3dc0cb776fa77810d488c0144aa", null ],
+    [ "~AuctionHouseObject", "d7/dc5/a07437.html#abc1f401b8f18c6d5003fa337ed1e76bc", null ],
+    [ "AddAuction", "d7/dc5/a07437.html#a9c61fcf5d92ad6cea5af36b1bd5cff5b", null ],
+    [ "GetAuction", "d7/dc5/a07437.html#a8f549a3623e3f1c3b0b3a21dfdc24d85", null ],
+    [ "GetAuctions", "d7/dc5/a07437.html#ac22a84a7e3f2c6baf5e40a1a43bbf098", null ],
+    [ "GetAuctionsBegin", "d7/dc5/a07437.html#ae769fbe419c78c580fc0c6d6b91a6e28", null ],
+    [ "GetAuctionsEnd", "d7/dc5/a07437.html#a9526b361608b03716918540116bc6d4d", null ],
+    [ "Getcount", "d7/dc5/a07437.html#a49aa833a0d8fd698f116ebdf2544040f", null ],
+    [ "RemoveAuction", "d7/dc5/a07437.html#af760e3c74242ab2bbc0cfb03a9224aff", null ],
+    [ "Update", "d7/dc5/a07437.html#ae9a2bed6b57af310230134cdf2cfd46a", null ],
+    [ "_auctionsMap", "d7/dc5/a07437.html#a92e8694ba6d22e26bedb19b2d0619a9f", null ],
+    [ "_next", "d7/dc5/a07437.html#aa8780a803119c4350d367f39daff32a1", null ]
 ];

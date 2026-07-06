@@ -1,6 +1,7 @@
 var a22789 =
 [
-    [ "HandleEffectRemove", "db/d0f/a22789.html#ae31aae4e762b3c19e7df0c1d3a3733c3", null ],
-    [ "PrepareAuraScript", "db/d0f/a22789.html#a3758550ba42e01aff3a1e23c624a84b9", null ],
-    [ "Register", "db/d0f/a22789.html#a6fb7aec222f9282b0300b0d2f309d47e", null ]
+    [ "npc_ashtongue_channeler", "db/d0f/a22789.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "db/d0f/a22789.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "db/d0f/a22789.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "db/d0f/a22789.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

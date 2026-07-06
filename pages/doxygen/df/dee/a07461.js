@@ -1,11 +1,14 @@
 var a07461 =
 [
-    [ "gyid", "df/dee/a07461.html#a742fcc91d2daf1a9331f02a90496328c", null ],
-    [ "o", "df/dee/a07461.html#a9c761e77b7194ab1bb80d28f2b1e1f6d", null ],
-    [ "startcontrol", "df/dee/a07461.html#a8b0aed9e6973ce6efc5d89a0d10a4139", null ],
-    [ "textid", "df/dee/a07461.html#a87d80377ad632b9d667eecf11ae8faae", null ],
-    [ "type", "df/dee/a07461.html#ae1a4b69ea4edabe51f1378c6cb066cad", null ],
-    [ "x", "df/dee/a07461.html#ad69833b4e2a27999dcd13e5ac5bda892", null ],
-    [ "y", "df/dee/a07461.html#a405e8098772e77250683985f957ce5f3", null ],
-    [ "z", "df/dee/a07461.html#a844e4c9c9b1a9a22a817025ccda7f08d", null ]
+    [ "getAll", "df/dee/a07461.html#a736642258b38fa05f04df4f4ac9069db", null ],
+    [ "inventoryType", "df/dee/a07461.html#a521224ce63856745ed64c39f6cbdddc4", null ],
+    [ "itemClass", "df/dee/a07461.html#a97bc36937a55f3e9a88dabf9a4e4f0b5", null ],
+    [ "itemSubClass", "df/dee/a07461.html#acf154bf30417c1a202ae85b4dd1adead", null ],
+    [ "levelmax", "df/dee/a07461.html#a902d715d89a5ca66072393ccefbb1ead", null ],
+    [ "levelmin", "df/dee/a07461.html#ac437de5977b177a586381c8665439a56", null ],
+    [ "listfrom", "df/dee/a07461.html#a2be6266f0bbc631d476710cbe291fab1", null ],
+    [ "quality", "df/dee/a07461.html#a1f234ab443ed5e14aafa02ec3ba5cfde", null ],
+    [ "sorting", "df/dee/a07461.html#a6f2e07af2aafb8eb53d845acd7f5ad71", null ],
+    [ "usable", "df/dee/a07461.html#ad81a5f3c2c58e620673539b6271ff8e9", null ],
+    [ "wsearchedname", "df/dee/a07461.html#a0a3764bd2ad869d9fe04aaced1f271ba", null ]
 ];

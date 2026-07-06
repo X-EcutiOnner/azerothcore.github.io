@@ -1,7 +1,6 @@
 var a12013 =
 [
-    [ "Command", "df/d89/a12013.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "df/d89/a12013.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "df/d89/a12013.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "df/d89/a12013.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectBase", "df/d89/a12013.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "df/d89/a12013.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "df/d89/a12013.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

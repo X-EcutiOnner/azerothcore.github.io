@@ -1,8 +1,9 @@
 var a09485 =
 [
-    [ "AIRelocationNotifier", "d8/d9d/a09485.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d8/d9d/a09485.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d8/d9d/a09485.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d8/d9d/a09485.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d8/d9d/a09485.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "GridReference", "d8/d9d/a09485.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "d8/d9d/a09485.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "d8/d9d/a09485.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "d8/d9d/a09485.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "d8/d9d/a09485.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "d8/d9d/a09485.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

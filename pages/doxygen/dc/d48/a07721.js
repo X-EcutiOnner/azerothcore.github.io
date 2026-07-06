@@ -1,10 +1,11 @@
 var a07721 =
 [
-    [ "BattlegroundRL", "dc/d48/a07721.html#ae2e0ccf2badc174b7f5c909f805fe669", null ],
-    [ "FillInitialWorldStates", "dc/d48/a07721.html#a410a5dbfa6fccbe802058d60eb7393d9", null ],
-    [ "HandleAreaTrigger", "dc/d48/a07721.html#ad1184e3e2f09a6665d40a75006e6f863", null ],
-    [ "HandlePlayerUnderMap", "dc/d48/a07721.html#a2d03a49dee964bcaa3421a93d0735e63", null ],
-    [ "SetupBattleground", "dc/d48/a07721.html#a3393353028ffd35eaad1d5e121654366", null ],
-    [ "StartingEventCloseDoors", "dc/d48/a07721.html#aae633887d9689898c8b73efa8257eb34", null ],
-    [ "StartingEventOpenDoors", "dc/d48/a07721.html#adb2ec6770c2b25b94f8f7dff7486d5cf", null ]
+    [ "BattlegroundABScore", "dc/d48/a07721.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
+    [ "BuildObjectivesBlock", "dc/d48/a07721.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
+    [ "GetAttr1", "dc/d48/a07721.html#af0f066f76f4d84e844946862ae819b4f", null ],
+    [ "GetAttr2", "dc/d48/a07721.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
+    [ "UpdateScore", "dc/d48/a07721.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
+    [ "BattlegroundAB", "dc/d48/a07721.html#ad5365fcb2edd84180065badd1572ba8e", null ],
+    [ "BasesAssaulted", "dc/d48/a07721.html#a25643abf67d1ae2f8498951c11833994", null ],
+    [ "BasesDefended", "dc/d48/a07721.html#a450504481d335230b3e035d4337694be", null ]
 ];

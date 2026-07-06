@@ -1,5 +1,8 @@
 var a19065 =
 [
-    [ "at_icc_spire_frostwyrm", "d4/d05/a19065.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d4/d05/a19065.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_arthas_teleport_visualAI", "d4/d05/a19065.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d4/d05/a19065.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d4/d05/a19065.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d4/d05/a19065.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d4/d05/a19065.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

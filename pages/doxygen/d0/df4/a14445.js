@@ -1,7 +1,11 @@
 var a14445 =
 [
-    [ "FilterTargets", "d0/df4/a14445.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d0/df4/a14445.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d0/df4/a14445.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d0/df4/a14445.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "boss_hakkarAI", "d0/df4/a14445.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "d0/df4/a14445.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "d0/df4/a14445.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "d0/df4/a14445.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "d0/df4/a14445.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "d0/df4/a14445.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "d0/df4/a14445.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "d0/df4/a14445.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

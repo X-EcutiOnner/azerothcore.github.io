@@ -1,9 +1,13 @@
 var a09357 =
 [
-    [ "CellArea", "d4/d01/a09357.html#ace8ca84753b4ec8681415386fb135053", null ],
-    [ "CellArea", "d4/d01/a09357.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
-    [ "operator!", "d4/d01/a09357.html#a386d4a562c27155012daedc361541e3b", null ],
-    [ "ResizeBorders", "d4/d01/a09357.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
-    [ "high_bound", "d4/d01/a09357.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
-    [ "low_bound", "d4/d01/a09357.html#a374fe9802c798e6ece359a8025b6e1df", null ]
+    [ "entry", "d4/d01/a09357.html#a9b4a88edefbc1e4b08a8ee03dfd90274", null ],
+    [ "height", "d4/d01/a09357.html#a40fcdb1274bc2587e8870b39a64289e1", null ],
+    [ "length", "d4/d01/a09357.html#a8e1ac424a973e546aa7c35e387e32a23", null ],
+    [ "map", "d4/d01/a09357.html#a9ecb58fde45a318ba0d6306c603aba4b", null ],
+    [ "orientation", "d4/d01/a09357.html#a5db58eaf63aceeaeb93bf6f4d5961a97", null ],
+    [ "radius", "d4/d01/a09357.html#ae4195d9f29b425394296009c22654380", null ],
+    [ "width", "d4/d01/a09357.html#af914195a4e7f2314a6241fb81cc8cfa8", null ],
+    [ "x", "d4/d01/a09357.html#a423077ceaf75c367831a6d9f55427a6f", null ],
+    [ "y", "d4/d01/a09357.html#a55ab832828addcef1b2f570bda81f2ce", null ],
+    [ "z", "d4/d01/a09357.html#ae5d0d4e9ef4006ad6c7195b999ef00c2", null ]
 ];

@@ -1,9 +1,14 @@
 var a20341 =
 [
-    [ "npc_ulduar_bot_summon_trigger", "de/d98/a20341.html#a16d36c154b6851c0081cc05f838b0fed", null ],
-    [ "DoAction", "de/d98/a20341.html#a776782a85892d2d674773573be25bfa0", null ],
-    [ "Reset", "de/d98/a20341.html#a4ec8487028b188347cf0c9a080076fe6", null ],
-    [ "UpdateAI", "de/d98/a20341.html#a788d3eaba382e3af897678f6709a0242", null ],
-    [ "_option", "de/d98/a20341.html#a39c909b67fcdc81542470b6e96256fd5", null ],
-    [ "_timer", "de/d98/a20341.html#a2530742a19275efe92eeded4dce67567", null ]
+    [ "npc_ulduar_hodir_druid", "de/d98/a20341.html#aac822cf4203af0e0173004ccc33abc21", null ],
+    [ "AttackStart", "de/d98/a20341.html#a67884f16c32f849bc68d68256c19d21a", null ],
+    [ "CanAIAttack", "de/d98/a20341.html#a81b0f60596e63ec618a9a9e1d8bc6c9d", null ],
+    [ "EnterEvadeMode", "de/d98/a20341.html#a22a10571e9cfe69200fd4a8fd383e500", null ],
+    [ "JustDied", "de/d98/a20341.html#a6cfefe7ccb156a658e8e2dad603b3fce", null ],
+    [ "MoveInLineOfSight", "de/d98/a20341.html#aa2e3e904c5f7fee4236a9395b95ef3e9", null ],
+    [ "ScheduleAbilities", "de/d98/a20341.html#ac8bee382634e20a49178be8b224eca2d", null ],
+    [ "SpellHit", "de/d98/a20341.html#a1053d484f30df43fba465981cd3cfa38", null ],
+    [ "UpdateAI", "de/d98/a20341.html#abcd580306a3abb5663bbac33f68115eb", null ],
+    [ "_instance", "de/d98/a20341.html#add7048881ec8b0dd2c09e34813c7c353", null ],
+    [ "events", "de/d98/a20341.html#a323184c52fcbc3e18eb74c96db716327", null ]
 ];

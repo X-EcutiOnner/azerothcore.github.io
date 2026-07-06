@@ -1,6 +1,8 @@
 var a15541 =
 [
-    [ "HandleDummy", "db/d29/a15541.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "db/d29/a15541.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "db/d29/a15541.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "npc_obsidian_destroyer", "db/d29/a15541.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "db/d29/a15541.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "db/d29/a15541.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "db/d29/a15541.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "db/d29/a15541.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

@@ -1,6 +1,6 @@
 var a18781 =
 [
-    [ "CaptainSurviveTalk", "d1/dcf/a18781.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d1/dcf/a18781.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d1/dcf/a18781.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "HandleScript", "d1/dcf/a18781.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
+    [ "PrepareSpellScript", "d1/dcf/a18781.html#a2c6acef52962f606130d643cbd93104b", null ],
+    [ "Register", "d1/dcf/a18781.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
 ];

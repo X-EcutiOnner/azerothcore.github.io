@@ -1,5 +1,4 @@
 var a04082 =
 [
-    [ "CreatureTextBuilder", "da/dcc/a12067.html", "da/dcc/a12067" ],
-    [ "PlayerTextBuilder", "d8/dcc/a12071.html", "d8/dcc/a12071" ]
+    [ "InstanceHasScript", "db/d64/a04082.html#aad76768c8aee9ce3ac24657437adb0de", null ]
 ];

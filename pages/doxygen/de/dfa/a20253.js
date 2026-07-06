@@ -1,5 +1,7 @@
 var a20253 =
 [
-    [ "achievement_ignis_shattered", "de/dfa/a20253.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "de/dfa/a20253.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "boss_freya_healthy_spore", "de/dfa/a20253.html#abc2492b9cf96cb00940b18fac549fb00", null ],
+    [ "Reset", "de/dfa/a20253.html#abe3f794707aa722e73b1728700876083", null ],
+    [ "UpdateAI", "de/dfa/a20253.html#ac8c952848687cd883aaefe466b799e3b", null ],
+    [ "_despawnTimer", "de/dfa/a20253.html#a8d8b6fe5895efb48750a65c2dfe8a1df", null ]
 ];

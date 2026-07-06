@@ -1,6 +1,6 @@
 var a25997 =
 [
-    [ "CheckProc", "d6/df3/a25997.html#a1642e1c445baac2be49a32797f21ca31", null ],
-    [ "PrepareAuraScript", "d6/df3/a25997.html#a116d2bc302ca74ae39d98f8d5849e757", null ],
-    [ "Register", "d6/df3/a25997.html#a8c0d81f8480be1853679d1f2a20ecfbb", null ]
+    [ "CheckCast", "d6/df3/a25997.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "d6/df3/a25997.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "d6/df3/a25997.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

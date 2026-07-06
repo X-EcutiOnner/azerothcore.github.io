@@ -1,8 +1,6 @@
 var a19817 =
 [
-    [ "go_celestial_planetarium_accessAI", "db/df7/a19817.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "db/df7/a19817.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "db/df7/a19817.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "db/df7/a19817.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "db/df7/a19817.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "HandlePeriodic", "db/df7/a19817.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
+    [ "PrepareAuraScript", "db/df7/a19817.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
+    [ "Register", "db/df7/a19817.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
 ];

@@ -1,8 +1,8 @@
 var a11125 =
 [
-    [ "SetRaidDifficulty", "de/d7a/a11125.html#af8d6189ed0209b4f70e32f92c00e13fb", null ],
-    [ "Write", "de/d7a/a11125.html#a3da812593b22ef506a9d61e16b5485d1", null ],
-    [ "Difficulty", "de/d7a/a11125.html#a1952e2d54b77437731b693f4eace83ac", null ],
-    [ "IsInGroup", "de/d7a/a11125.html#a8833543c4f179be97476a26152ec049b", null ],
-    [ "Unk", "de/d7a/a11125.html#a61a4f0fb74db04cdc11c0729bc104f7a", null ]
+    [ "GuildBankQueryTab", "de/d7a/a11125.html#a29fc27016b597f051898db7bb30214c8", null ],
+    [ "Read", "de/d7a/a11125.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
+    [ "Banker", "de/d7a/a11125.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
+    [ "FullUpdate", "de/d7a/a11125.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
+    [ "Tab", "de/d7a/a11125.html#a949488c1696f92cb0a081cf28bffb48f", null ]
 ];

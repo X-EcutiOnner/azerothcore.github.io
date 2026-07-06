@@ -1,7 +1,7 @@
 var a12297 =
 [
-    [ "player_commandscript", "d5/d15/a12297.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
-    [ "GetCommands", "d5/d15/a12297.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
-    [ "HandlePlayerLearnCommand", "d5/d15/a12297.html#a6ca511bcecf73049665772cb80dbcf40", null ],
-    [ "HandlePlayerUnLearnCommand", "d5/d15/a12297.html#a22fddb5da1278fe794a78a899c423bfd", null ]
+    [ "achievement_commandscript", "d5/d15/a12297.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d5/d15/a12297.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d5/d15/a12297.html#a81a8dc82481b38763d846444b9846da7", null ],
+    [ "HandleAchievementCheckAllCommand", "d5/d15/a12297.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

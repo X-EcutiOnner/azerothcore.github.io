@@ -1,16 +1,25 @@
 var a02348 =
 [
-    [ "LinkValidator< T >", "d1/d76/a08067.html", "d1/d76/a08067" ],
-    [ "LinkValidator< LinkTags::achievement >", "d6/d72/a08071.html", "d6/d72/a08071" ],
-    [ "LinkValidator< LinkTags::item >", "dc/d82/a08075.html", "dc/d82/a08075" ],
-    [ "LinkValidator< LinkTags::quest >", "dc/d7c/a08079.html", "dc/d7c/a08079" ],
-    [ "LinkValidator< LinkTags::spell >", "da/d1b/a08083.html", "da/d1b/a08083" ],
-    [ "LinkValidator< LinkTags::enchant >", "d0/df3/a08087.html", "d0/df3/a08087" ],
-    [ "LinkValidator< LinkTags::glyph >", "d7/d3e/a08091.html", "d7/d3e/a08091" ],
-    [ "LinkValidator< LinkTags::talent >", "d2/dae/a08095.html", "d2/dae/a08095" ],
-    [ "LinkValidator< LinkTags::trade >", "dc/dc3/a08099.html", "dc/dc3/a08099" ],
-    [ "TryValidateAs", "da/db4/a02348.html#af1c86bff85f30ff113d5f78421c280af", null ],
-    [ "toHex", "da/db4/a02348.html#a0b5e4d40ad5549ddc48c127306499b6c", null ],
-    [ "ValidateAs", "da/db4/a02348.html#a1021653ddd2d2e78df34d8c4a2a7ed93", null ],
-    [ "ValidateLinkInfo", "da/db4/a02348.html#a7de61dd7d7c595063ae73f415e961cc9", null ]
+    [ "RealmHandle", "dd/dfd/a29289.html", "dd/dfd/a29289" ],
+    [ "Realm", "d5/d79/a29293.html", "d5/d79/a29293" ],
+    [ "RealmFlags", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2", [
+      [ "REALM_FLAG_NONE", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a78cb2956eac93bb478e5a6573336a0a2", null ],
+      [ "REALM_FLAG_VERSION_MISMATCH", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9e5fc6c089666cb09890f97038c44056", null ],
+      [ "REALM_FLAG_OFFLINE", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a728d61b0842461c34b1f6167e5dcdb68", null ],
+      [ "REALM_FLAG_SPECIFYBUILD", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2afda7734169f8aad2549a0a0aa4c04903", null ],
+      [ "REALM_FLAG_UNK1", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a73ff031081f52c4cecfe2f899bb92304", null ],
+      [ "REALM_FLAG_UNK2", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a9d7b7c5ef743cf68b93360af13b7ed81", null ],
+      [ "REALM_FLAG_RECOMMENDED", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2ab5051c0caffaa54a0fe3aab0d3c99b29", null ],
+      [ "REALM_FLAG_NEW", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2a214cd38c14a7209f7986ae4ca43fe73b", null ],
+      [ "REALM_FLAG_FULL", "da/db4/a02348.html#ace3f717ac43bef67791faeb2a0b2c1e2acdaee6e8c961adfa63cde3a06707b952", null ]
+    ] ],
+    [ "RealmType", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59", [
+      [ "REALM_TYPE_NORMAL", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59accb12c63a2ee89b9c3f72e5fd2b056fb", null ],
+      [ "REALM_TYPE_PVP", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a5b9f160cabace91bff99046f281b899c", null ],
+      [ "REALM_TYPE_NORMAL2", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a8529db1edd00f579cbeff7e0c2a88e19", null ],
+      [ "REALM_TYPE_RP", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a81056f603f1158cb39b25f9ae8beb88f", null ],
+      [ "REALM_TYPE_RPPVP", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a58e3ebd90691c511e7976f5bff724fae", null ],
+      [ "MAX_CLIENT_REALM_TYPE", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a580a3990630da9c56e3fef200d6b15be", null ],
+      [ "REALM_TYPE_FFA_PVP", "da/db4/a02348.html#ae8ff852caf6f88797c9c3716d1acbe59a43cf71d6098c453fc931d7e25f729457", null ]
+    ] ]
 ];

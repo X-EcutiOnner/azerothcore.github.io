@@ -1,9 +1,12 @@
 var a07561 =
 [
-    [ "Rank", "d8/d58/a07561.html#a9bcd8dc00437bcf015565eeb43263578", null ],
-    [ "Rating", "d8/d58/a07561.html#ab43875cc3ae58eb636a490c2c0f5c1f6", null ],
-    [ "SeasonGames", "d8/d58/a07561.html#a124c6d64f22c13707764eedd79fe1912", null ],
-    [ "SeasonWins", "d8/d58/a07561.html#ad274601b85ea634524b1c00979e09465", null ],
-    [ "WeekGames", "d8/d58/a07561.html#a1d0092200b2c9428e821473949cfda77", null ],
-    [ "WeekWins", "d8/d58/a07561.html#a313afef901bd5a9347f2074a7ca1bfe0", null ]
+    [ "damageText", "d8/d58/a07561.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "d8/d58/a07561.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "d8/d58/a07561.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "d8/d58/a07561.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "d8/d58/a07561.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "d8/d58/a07561.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "d8/d58/a07561.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "d8/d58/a07561.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "d8/d58/a07561.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

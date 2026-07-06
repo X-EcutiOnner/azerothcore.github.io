@@ -1,5 +1,7 @@
 var a19397 =
 [
-    [ "npc_mr_bigglesworth", "d1/d3c/a19397.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d1/d3c/a19397.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "FilterTargets", "d1/d3c/a19397.html#a56ff062a6014099623466145a66284cc", null ],
+    [ "PrepareSpellScript", "d1/d3c/a19397.html#aa14623bb948ff457e52979facf74ffab", null ],
+    [ "Register", "d1/d3c/a19397.html#a9494bea35088161c9a520395d714fde1", null ],
+    [ "Validate", "d1/d3c/a19397.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
 ];

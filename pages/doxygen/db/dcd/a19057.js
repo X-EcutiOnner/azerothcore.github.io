@@ -1,5 +1,5 @@
 var a19057 =
 [
-    [ "at_icc_gauntlet_event", "db/dcd/a19057.html#ae8790bad655661aeda887f56b9393847", null ],
-    [ "OnTrigger", "db/dcd/a19057.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
+    [ "npc_alchemist_adrianna", "db/dcd/a19057.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "db/dcd/a19057.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

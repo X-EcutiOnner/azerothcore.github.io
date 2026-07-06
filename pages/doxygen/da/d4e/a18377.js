@@ -1,7 +1,6 @@
 var a18377 =
 [
-    [ "StartMovementEvent", "da/d4e/a18377.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "da/d4e/a18377.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "da/d4e/a18377.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "da/d4e/a18377.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "CheckTarget", "da/d4e/a18377.html#afce64ba75f8370cab6b8f1e561b10587", null ],
+    [ "PrepareSpellScript", "da/d4e/a18377.html#a6b6eaf3e761f2c173c2e72f46b25595a", null ],
+    [ "Register", "da/d4e/a18377.html#a6964ca668f02a8b5b1c3015503a41eef", null ]
 ];

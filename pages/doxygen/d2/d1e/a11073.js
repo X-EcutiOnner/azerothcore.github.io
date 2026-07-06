@@ -1,10 +1,6 @@
 var a11073 =
 [
-    [ "Count", "d2/d1e/a11073.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "d2/d1e/a11073.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "d2/d1e/a11073.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "d2/d1e/a11073.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "d2/d1e/a11073.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "d2/d1e/a11073.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "d2/d1e/a11073.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "GuildAddRank", "d2/d1e/a11073.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
+    [ "Read", "d2/d1e/a11073.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
+    [ "Name", "d2/d1e/a11073.html#a25969282befa638dfb08cf12f14bce53", null ]
 ];

@@ -1,14 +1,14 @@
 var a07749 =
 [
-    [ "AccountId", "d5/d7c/a07749.html#ae1921d1e949cec70ebbd52779b775df6", null ],
-    [ "ArenaTeamId", "d5/d7c/a07749.html#a1d094e514af9970b0239cc8e27da06bc", null ],
-    [ "Class", "d5/d7c/a07749.html#a19dbbbdce9dbf9993d57edbebeeaf425", null ],
-    [ "GroupGuid", "d5/d7c/a07749.html#a4b6f5540de2e47959a053696698e8e05", null ],
-    [ "Guid", "d5/d7c/a07749.html#ae0d1c9151ec4f2401b2d9fdd1c1d1532", null ],
-    [ "GuildId", "d5/d7c/a07749.html#a4fba749bb66642a1601c5cb37c756222", null ],
-    [ "Level", "d5/d7c/a07749.html#a41ea77c9e690336b709259bfccbd939f", null ],
-    [ "MailCount", "d5/d7c/a07749.html#a8a74e276dec82ac3f2950b8637ed9213", null ],
-    [ "Name", "d5/d7c/a07749.html#a7d2bae6994c96b2b2ac2eefbab4b8f8b", null ],
-    [ "Race", "d5/d7c/a07749.html#aa57c5abbbd7218d26e4156b310229766", null ],
-    [ "Sex", "d5/d7c/a07749.html#a91c17eef26be0a18823a9834853c296a", null ]
+    [ "BattlegroundDS", "d5/d7c/a07749.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
+    [ "FillInitialWorldStates", "d5/d7c/a07749.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
+    [ "HandleAreaTrigger", "d5/d7c/a07749.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
+    [ "HandlePlayerUnderMap", "d5/d7c/a07749.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
+    [ "PostUpdateImpl", "d5/d7c/a07749.html#a57cfca32a361d43f19163dc6e7408e96", null ],
+    [ "SetupBattleground", "d5/d7c/a07749.html#ae008bf979e6984856237938dfe743ec7", null ],
+    [ "StartingEventCloseDoors", "d5/d7c/a07749.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
+    [ "StartingEventOpenDoors", "d5/d7c/a07749.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
+    [ "_events", "d5/d7c/a07749.html#a79112a1631ec6541cf19ecef712bb66f", null ],
+    [ "_pipeKnockBackCount", "d5/d7c/a07749.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
+    [ "_pipeKnockBackTimer", "d5/d7c/a07749.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
 ];

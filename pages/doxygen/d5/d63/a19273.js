@@ -1,7 +1,6 @@
 var a19273 =
 [
-    [ "HandleScript", "d5/d63/a19273.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d5/d63/a19273.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d5/d63/a19273.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d5/d63/a19273.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "da/daa/a19277.html", "da/daa/a19277" ],
+    [ "instance_icecrown_citadel", "d5/d63/a19273.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d5/d63/a19273.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

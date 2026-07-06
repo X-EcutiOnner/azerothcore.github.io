@@ -1,5 +1,4 @@
 var a03119 =
 [
-    [ "DispelList", "d2/df0/a03119.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d2/df0/a03119.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "AuraEffectHandler", "d2/df0/a03119.html#a2817e7c4c5917ae8deba00b38850e8db", null ]
 ];

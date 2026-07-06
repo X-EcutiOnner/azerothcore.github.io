@@ -1,9 +1,9 @@
 var a26489 =
 [
-    [ "CheckProc", "d0/de4/a26489.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
-    [ "HandleDispel", "d0/de4/a26489.html#a64235032423050de10581165c57f8b0a", null ],
-    [ "HandleProc", "d0/de4/a26489.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
-    [ "PrepareAuraScript", "d0/de4/a26489.html#af7ba0eb96dca76a288dd034665822069", null ],
-    [ "Register", "d0/de4/a26489.html#ababc8b42c64740655864d2834a639384", null ],
-    [ "Validate", "d0/de4/a26489.html#a03ecf2489369cbb7a6dff555db153a96", null ]
+    [ "CountTargets", "d0/de4/a26489.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "d0/de4/a26489.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "d0/de4/a26489.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "d0/de4/a26489.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "d0/de4/a26489.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "d0/de4/a26489.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

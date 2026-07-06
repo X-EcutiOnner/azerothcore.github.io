@@ -1,5 +1,7 @@
 var a10453 =
 [
-    [ "ScriptId", "d6/df0/a10453.html#a6b17e959f80e7b3f2f3352a345eebcf9", null ],
-    [ "TypeId", "d6/df0/a10453.html#aaddf1f172211966f5d727e6238889223", null ]
+    [ "WriteCommonMonsterMovePart", "d6/df0/a10453.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
+    [ "WriteCreate", "d6/df0/a10453.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
+    [ "WriteMonsterMove", "d6/df0/a10453.html#a4c4294e3fed32aca35078dd4975b057d", null ],
+    [ "WriteStopMovement", "d6/df0/a10453.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
 ];

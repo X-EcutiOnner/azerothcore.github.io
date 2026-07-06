@@ -1,11 +1,10 @@
 var a15725 =
 [
-    [ "npc_tiger_matriarchAI", "d3/d8b/a15725.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "d3/d8b/a15725.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "d3/d8b/a15725.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "d3/d8b/a15725.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "d3/d8b/a15725.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "d3/d8b/a15725.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "d3/d8b/a15725.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "d3/d8b/a15725.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "npc_anubisath_defender", "d3/d8b/a15725.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d3/d8b/a15725.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d3/d8b/a15725.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d3/d8b/a15725.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d3/d8b/a15725.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d3/d8b/a15725.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d3/d8b/a15725.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

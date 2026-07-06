@@ -1,6 +1,8 @@
 var a27517 =
 [
-    [ "HandleProc", "df/d24/a27517.html#a72d56ccc2c6f0337fa68c2759d90c5d6", null ],
-    [ "PrepareAuraScript", "df/d24/a27517.html#a49a96d3aa0220b4ec77fb1a384826614", null ],
-    [ "Register", "df/d24/a27517.html#adf0852d1aad8097143df205a66a49f2f", null ]
+    [ "HandleDummyTick", "df/d24/a27517.html#ad35d90e5cdd68f4c1d3172a0860274bd", null ],
+    [ "HandleRemove", "df/d24/a27517.html#a92f2bb73ec58832eaada3c7140f7868d", null ],
+    [ "PrepareAuraScript", "df/d24/a27517.html#a06e45d5f63ef1395b5949482e8393098", null ],
+    [ "Register", "df/d24/a27517.html#abf1d49720ae43d4ed2fb1c2920387ace", null ],
+    [ "Validate", "df/d24/a27517.html#a9a2da4d163a96526e14f5de76798a784", null ]
 ];

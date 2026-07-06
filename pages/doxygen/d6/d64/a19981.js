@@ -1,8 +1,9 @@
 var a19981 =
 [
-    [ "OnApply", "d6/d64/a19981.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d6/d64/a19981.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d6/d64/a19981.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d6/d64/a19981.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d6/d64/a19981.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "npc_brann_bronzebeard_algalon", "d6/d64/a19981.html#ac00755dca7e187b55516be889386c499", null ],
+    [ "DoAction", "d6/d64/a19981.html#a6d44478868a74ed7baac757258334806", null ],
+    [ "MovementInform", "d6/d64/a19981.html#a33af1a38ab2827aec38f95e57e54f589", null ],
+    [ "UpdateAI", "d6/d64/a19981.html#ad74f8f8a31431dd2eaa4279e6a8fae36", null ],
+    [ "_currentPoint", "d6/d64/a19981.html#a5403badf59f96111aefaddf78379e65f", null ],
+    [ "events", "d6/d64/a19981.html#ae63e7d3c53c3039186221c8b59c43e3e", null ]
 ];

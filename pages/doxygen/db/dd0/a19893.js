@@ -1,6 +1,7 @@
 var a19893 =
 [
-    [ "achievement_assembly_of_iron", "db/dd0/a19893.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "db/dd0/a19893.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "db/dd0/a19893.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "HandleScript", "db/dd0/a19893.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "db/dd0/a19893.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "db/dd0/a19893.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "db/dd0/a19893.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

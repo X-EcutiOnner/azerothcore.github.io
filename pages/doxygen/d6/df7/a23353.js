@@ -1,7 +1,7 @@
 var a23353 =
 [
-    [ "HandleCast", "d6/df7/a23353.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d6/df7/a23353.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d6/df7/a23353.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d6/df7/a23353.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "PeriodicTick", "d6/df7/a23353.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d6/df7/a23353.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d6/df7/a23353.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d6/df7/a23353.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

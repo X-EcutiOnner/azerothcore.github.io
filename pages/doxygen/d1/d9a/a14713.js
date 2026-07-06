@@ -1,7 +1,6 @@
 var a14713 =
 [
-    [ "npc_love_in_air_supply_sentry", "d1/d9a/a14713.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "d1/d9a/a14713.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "d1/d9a/a14713.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "d1/d9a/a14713.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_direbrew_antagonist", "d1/d9a/a14713.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d1/d9a/a14713.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d1/d9a/a14713.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

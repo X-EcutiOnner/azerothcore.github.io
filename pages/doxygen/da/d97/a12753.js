@@ -1,9 +1,12 @@
 var a12753 =
 [
-    [ "HandleAfterApply", "da/d97/a12753.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "da/d97/a12753.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "da/d97/a12753.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "da/d97/a12753.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "da/d97/a12753.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "da/d97/a12753.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_the_beast", "da/d97/a12753.html#ab98bce804078b4184b1bf6e844db9c67", null ],
+    [ "FindNearbyOrcs", "da/d97/a12753.html#a46da3f960ea3c38791c23a3e282db9c7", null ],
+    [ "JustEngagedWith", "da/d97/a12753.html#a9740b134ce1b21c42c9082d9fdc97264", null ],
+    [ "Reset", "da/d97/a12753.html#a7a72f5aeb54fe6de6c71dfac2c906881", null ],
+    [ "SetData", "da/d97/a12753.html#a8ceb3a1c53c2c5385d4a779b2ac283da", null ],
+    [ "UpdateAI", "da/d97/a12753.html#ad7db422aefc711b437176b729c6ac151", null ],
+    [ "_beastReached", "da/d97/a12753.html#a7345b0091bcfd894ce8fdff9431254f6", null ],
+    [ "_nearbyOrcsGUIDs", "da/d97/a12753.html#a20b867be394f3c5d9bbf851ba724ca3a", null ],
+    [ "_orcYelled", "da/d97/a12753.html#a7079c59c50343f460e2aac2bcf19709c", null ]
 ];

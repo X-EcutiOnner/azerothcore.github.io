@@ -1,14 +1,21 @@
 var a19529 =
 [
-    [ "npc_crystalline_frayer", "dd/d18/a19529.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "dd/d18/a19529.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "dd/d18/a19529.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "EnterSeedPod", "dd/d18/a19529.html#a070554a809ba40726d005fdba19a16b0", null ],
-    [ "JustEngagedWith", "dd/d18/a19529.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "LeaveSeedPod", "dd/d18/a19529.html#afe6ba31b18fa65aaa15daad3101149c2", null ],
-    [ "Reset", "dd/d18/a19529.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "dd/d18/a19529.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "dd/d18/a19529.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "_inSeedPod", "dd/d18/a19529.html#a26e0c5f780bc661796f922c52000c30a", null ],
-    [ "_scheduler", "dd/d18/a19529.html#a1faafa1c39716f7679ca0b2b2f10a641", null ]
+    [ "boss_sapphironAI", "dd/d18/a19529.html#a96866122f159f818b2a4312fb7d3057c", null ],
+    [ "DoAction", "dd/d18/a19529.html#acf45e7c200afb41f90784e75066c2ef4", null ],
+    [ "EnterCombatSelfFunction", "dd/d18/a19529.html#a62e6b1482b2fa791813b9a5520a234e4", null ],
+    [ "InitializeAI", "dd/d18/a19529.html#a38c4586095aeaf404914369ae5414351", null ],
+    [ "IsInRoom", "dd/d18/a19529.html#a18ae5aa0e2fa5a5a37359fed5a16f4be", null ],
+    [ "IsValidExplosionTarget", "dd/d18/a19529.html#a0b147e8392fba250499e0cdd7d9ff39b", null ],
+    [ "JustDied", "dd/d18/a19529.html#aebb211a381a74128489986e32954c089", null ],
+    [ "JustEngagedWith", "dd/d18/a19529.html#a197b4add6d328ebdfb3f0c051f216cd5", null ],
+    [ "KilledUnit", "dd/d18/a19529.html#a7e4fd2ad6735419b34484c46ec2ef421", null ],
+    [ "MovementInform", "dd/d18/a19529.html#abc8f71849ac2e21a4612fbab9239829f", null ],
+    [ "Reset", "dd/d18/a19529.html#ae0e4559477f26660b20ce5de5f295c54", null ],
+    [ "SpellHitTarget", "dd/d18/a19529.html#a8da157b4da551b96f534ad80fcf2f8e1", null ],
+    [ "UpdateAI", "dd/d18/a19529.html#a3c7c9a032233d381c942bbb29a4a39e9", null ],
+    [ "blockList", "dd/d18/a19529.html#a82d135980280477372324da270e3e6a1", null ],
+    [ "currentTarget", "dd/d18/a19529.html#a9557df2556d86c50f41d066ce3373eaf", null ],
+    [ "events", "dd/d18/a19529.html#a9fc4dbd88390dbb455150144f4604ccb", null ],
+    [ "iceboltCount", "dd/d18/a19529.html#a765c041f412c4d20023b0cc435d4bc4f", null ],
+    [ "spawnTimer", "dd/d18/a19529.html#adef834e9b17d7cff0aaed9c36b7c7684", null ]
 ];

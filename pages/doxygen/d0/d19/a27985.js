@@ -1,7 +1,6 @@
 var a27985 =
 [
-    [ "npc_prof_leather", "d0/d19/a27985.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d0/d19/a27985.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d0/d19/a27985.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d0/d19/a27985.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_flamesAI", "d7/d2e/a27989.html", "d7/d2e/a27989" ],
+    [ "go_flames", "d0/d19/a27985.html#a75d49202eaf2078b8276e59944d1ec89", null ],
+    [ "GetAI", "d0/d19/a27985.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
 ];

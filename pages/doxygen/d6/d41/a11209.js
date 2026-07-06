@@ -1,6 +1,6 @@
 var a11209 =
 [
-    [ "CancelTempEnchantment", "d6/d41/a11209.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "d6/d41/a11209.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "d6/d41/a11209.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "SetDungeonDifficultyClient", "d6/d41/a11209.html#ae3bb2ac16b8712a3eb731913af26961c", null ],
+    [ "Read", "d6/d41/a11209.html#a6f92ee86dc73b1a51a9c4683997e6c4f", null ],
+    [ "Mode", "d6/d41/a11209.html#a3cb1f62fba1849dfb59c9b8f46fe4c27", null ]
 ];

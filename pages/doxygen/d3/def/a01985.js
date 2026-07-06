@@ -1,11 +1,8 @@
 var a01985 =
 [
-    [ "npc_announcer_toc10", "d2/dae/a17071.html", "d2/dae/a17071" ],
-    [ "MenuTexts", "d3/def/a01985.html#a5e87c460d493df2d4629af8c1a30fc5a", [
-      [ "MSG_TESTED", "d3/def/a01985.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
-      [ "MSG_NEXT_STAGE", "d3/def/a01985.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
-      [ "MSG_CRUSADERS", "d3/def/a01985.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
-      [ "MSG_ANUBARAK", "d3/def/a01985.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
-    ] ],
-    [ "AddSC_trial_of_the_crusader", "d3/def/a01985.html#aae8fa1928137dde06462a753ceebcca6", null ]
+    [ "instance_utgarde_pinnacle", "dd/d7c/a21165.html", "dd/d7c/a21165" ],
+    [ "instance_utgarde_pinnacle::instance_utgarde_pinnacle_InstanceMapScript", "de/d76/a21169.html", "de/d76/a21169" ],
+    [ "AddSC_instance_utgarde_pinnacle", "d3/def/a01985.html#a3469cdfafe3d81dca68950e7a6a6370d", null ],
+    [ "creatureData", "d3/def/a01985.html#a412286b689bd324fedd65ddd8dde8afb", null ],
+    [ "summonData", "d3/def/a01985.html#af7ba92b4a76e9cb7835c84a49f9c2052", null ]
 ];

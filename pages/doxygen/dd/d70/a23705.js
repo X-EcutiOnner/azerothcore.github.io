@@ -1,6 +1,6 @@
 var a23705 =
 [
-    [ "npc_commander_dawnforgeAI", "d9/de4/a23709.html", "d9/de4/a23709" ],
-    [ "npc_commander_dawnforge", "dd/d70/a23705.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "dd/d70/a23705.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "HandleScriptEffect", "dd/d70/a23705.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "dd/d70/a23705.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "dd/d70/a23705.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

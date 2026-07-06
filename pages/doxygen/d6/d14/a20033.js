@@ -1,5 +1,6 @@
 var a20033 =
 [
-    [ "achievement_flame_leviathan_shutout", "d6/d14/a20033.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d6/d14/a20033.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "PrepareSpellScript", "d6/d14/a20033.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d6/d14/a20033.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d6/d14/a20033.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

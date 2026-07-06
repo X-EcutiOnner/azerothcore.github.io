@@ -1,15 +1,15 @@
 var a19181 =
 [
-    [ "boss_gluthAI", "d8/d3f/a19181.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "d8/d3f/a19181.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "d8/d3f/a19181.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d8/d3f/a19181.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d8/d3f/a19181.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d8/d3f/a19181.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d8/d3f/a19181.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d8/d3f/a19181.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d8/d3f/a19181.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d8/d3f/a19181.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "d8/d3f/a19181.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "d8/d3f/a19181.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "npc_icc_valkyr_heraldAI", "d8/d3f/a19181.html#afd9cd5e7f1048940cdc46d1b7e93d2a1", null ],
+    [ "CanAIAttack", "d8/d3f/a19181.html#a80efc0d2e192c316640c8136c533aa6b", null ],
+    [ "JustEngagedWith", "d8/d3f/a19181.html#aee4e6801cb31ed631568a32c22aa809b", null ],
+    [ "JustReachedHome", "d8/d3f/a19181.html#a84da1485b45ab1229fc2ca6e2e6564f8", null ],
+    [ "JustSummoned", "d8/d3f/a19181.html#af63753b3de60bcdb79989bfa8d582176", null ],
+    [ "MoveInLineOfSight", "d8/d3f/a19181.html#ab048b3536a8b169e85ee4297f04005ba", null ],
+    [ "Reset", "d8/d3f/a19181.html#a0eefcf657c8b00b8f4a586f72467e1ca", null ],
+    [ "SpellHitTarget", "d8/d3f/a19181.html#aab96b7e137f9348ab4d33629c198f011", null ],
+    [ "SummonedCreatureDespawn", "d8/d3f/a19181.html#ae3e1b98b21f46d9d7c895c1e03794696", null ],
+    [ "UpdateAI", "d8/d3f/a19181.html#a55cbb21aecfd78efc96d465cf61728ae", null ],
+    [ "events", "d8/d3f/a19181.html#a28b3fdd5f60a2277604b9c4a4766f7bc", null ],
+    [ "summons", "d8/d3f/a19181.html#a379afe20ef8acbbc510485da74a41487", null ]
 ];

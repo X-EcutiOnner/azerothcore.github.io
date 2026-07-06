@@ -1,8 +1,6 @@
 var a17149 =
 [
-    [ "npc_hor_raging_ghoul", "d3/d8c/a17149.html#a733d4ad92566a13ace3427aae6696bac", null ],
-    [ "JustDied", "d3/d8c/a17149.html#a14c0937fdd3c25df74f0a09efc1c5122", null ],
-    [ "Reset", "d3/d8c/a17149.html#aad6424be7dd53b59016963cefffe40e5", null ],
-    [ "UpdateAI", "d3/d8c/a17149.html#af4024393b318ca702c6652e042036b26", null ],
-    [ "leaped", "d3/d8c/a17149.html#a69dea538a87ae47de221768b6de42315", null ]
+    [ "OnPeriodic", "d3/d8c/a17149.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d3/d8c/a17149.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d3/d8c/a17149.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

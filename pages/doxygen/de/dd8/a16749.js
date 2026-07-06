@@ -1,7 +1,12 @@
 var a16749 =
 [
-    [ "npc_toc_rogueAI", "de/dd8/a16749.html#a34027e7d10edbfba8e046f4785e37899", null ],
-    [ "myCanCast", "de/dd8/a16749.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
-    [ "UpdateAI", "de/dd8/a16749.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
-    [ "events", "de/dd8/a16749.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
+    [ "npc_toc5_grand_champion_minionAI", "de/dd8/a16749.html#a06ff16fe0076de4e34ba20e0bbc49009", null ],
+    [ "JustDied", "de/dd8/a16749.html#a23e5001255c6d49a6b217b9606aa53c5", null ],
+    [ "JustEngagedWith", "de/dd8/a16749.html#a37a04ac2d6f30e415410f3806abaabb8", null ],
+    [ "MoveInLineOfSight", "de/dd8/a16749.html#a527113ecd490c937fc1f3e34b6b1d32d", null ],
+    [ "Reset", "de/dd8/a16749.html#ad35a26c28485b1976c55d49fcd32fb19", null ],
+    [ "UpdateAI", "de/dd8/a16749.html#a2b9fdd3daa725921819ae2acee418d51", null ],
+    [ "events", "de/dd8/a16749.html#a1b405c2acd53a4e5f1179f52c8c2261b", null ],
+    [ "pInstance", "de/dd8/a16749.html#a6edd3dc8070edd031143e7a750f4d7a8", null ],
+    [ "ShieldTimer", "de/dd8/a16749.html#a080916d385f4157afbe4c455033b88ba", null ]
 ];

@@ -1,5 +1,5 @@
 var a08837 =
 [
-    [ "Rank", "d4/dd7/a08837.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d4/dd7/a08837.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "PositionXYZOStreamer", "d4/dd7/a08837.html#afddf48b02eea5399d818468cdf8795c5", null ],
+    [ "m_pos", "d4/dd7/a08837.html#a6c2be4021912b753ed7da07f1c6a7464", null ]
 ];

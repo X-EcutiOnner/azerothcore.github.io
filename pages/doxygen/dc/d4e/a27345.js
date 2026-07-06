@@ -1,7 +1,6 @@
 var a27345 =
 [
-    [ "HandleProc", "dc/d4e/a27345.html#a864e976a61091512a7eab904e5390234", null ],
-    [ "PrepareAuraScript", "dc/d4e/a27345.html#a8cd8814aa7c53aa28399b4ff51f0fa41", null ],
-    [ "Register", "dc/d4e/a27345.html#a8509759360e3443ceca9a9fcbd729996", null ],
-    [ "Validate", "dc/d4e/a27345.html#a7687471989fc9595e36201dba74b8689", null ]
+    [ "HandleKnockBack", "dc/d4e/a27345.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "dc/d4e/a27345.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "dc/d4e/a27345.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

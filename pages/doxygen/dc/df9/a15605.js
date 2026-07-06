@@ -1,6 +1,6 @@
 var a15605 =
 [
-    [ "npc_injured_draeneiAI", "da/dec/a15609.html", "da/dec/a15609" ],
-    [ "npc_injured_draenei", "dc/df9/a15605.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "dc/df9/a15605.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "OnPeriodic", "dc/df9/a15605.html#a08dce8b98afadc134166a615b4496151", null ],
+    [ "PrepareAuraScript", "dc/df9/a15605.html#a9ebb34665b176e4e60f085da65183d8e", null ],
+    [ "Register", "dc/df9/a15605.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
 ];

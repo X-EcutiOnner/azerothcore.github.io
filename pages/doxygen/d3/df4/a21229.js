@@ -1,9 +1,13 @@
 var a21229 =
 [
-    [ "npc_warmage_coldarraAI", "d3/df4/a21229.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
-    [ "AttackStart", "d3/df4/a21229.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
-    [ "JustEngagedWith", "d3/df4/a21229.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
-    [ "Reset", "d3/df4/a21229.html#adf5094ba2bee34ec793124e798d5af8f", null ],
-    [ "UpdateAI", "d3/df4/a21229.html#a14b221265cc38b4061c52b687274a398", null ],
-    [ "m_uiTimer", "d3/df4/a21229.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
+    [ "boss_toravonAI", "d3/df4/a21229.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "d3/df4/a21229.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "d3/df4/a21229.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "d3/df4/a21229.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "d3/df4/a21229.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "d3/df4/a21229.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "d3/df4/a21229.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "d3/df4/a21229.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "d3/df4/a21229.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "d3/df4/a21229.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

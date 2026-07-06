@@ -1,8 +1,9 @@
 var a27241 =
 [
-    [ "CalcPeriodic", "d0/dcf/a27241.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "d0/dcf/a27241.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "d0/dcf/a27241.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "d0/dcf/a27241.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "d0/dcf/a27241.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "Absorb", "d0/dcf/a27241.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "d0/dcf/a27241.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "d0/dcf/a27241.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "d0/dcf/a27241.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "d0/dcf/a27241.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "d0/dcf/a27241.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

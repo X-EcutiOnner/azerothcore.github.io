@@ -1,7 +1,8 @@
 var a10661 =
 [
-    [ "InstanceMapScript", "d0/d50/a10661.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
-    [ "checkValidity", "d0/d50/a10661.html#a221dd91e2d2f761e66d990a6cae42306", null ],
-    [ "GetInstanceScript", "d0/d50/a10661.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
-    [ "IsDatabaseBound", "d0/d50/a10661.html#ab77651bb427813a7e119057c3dc53ca8", null ]
+    [ "_OnTrigger", "d0/d50/a10661.html#a6da93a21c84345bd77e467377810e756", null ],
+    [ "AreaTriggerScript", "d0/d50/a10661.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "OnTrigger", "d0/d50/a10661.html#a4ac7e4963d36c8163a560dc8401b5f34", null ],
+    [ "ResetAreaTriggerDone", "d0/d50/a10661.html#a3b44c1892c1100028b387d15bfbdae60", null ],
+    [ "ResetAreaTriggerDone", "d0/d50/a10661.html#a3917da4a6f605077720172cda25322ee", null ]
 ];

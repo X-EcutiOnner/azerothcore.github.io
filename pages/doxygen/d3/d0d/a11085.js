@@ -1,7 +1,7 @@
 var a11085 =
 [
-    [ "GuildBankTextQueryResult", "d3/d0d/a11085.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d3/d0d/a11085.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d3/d0d/a11085.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d3/d0d/a11085.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildSetMemberNote", "d3/d0d/a11085.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "d3/d0d/a11085.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "d3/d0d/a11085.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "d3/d0d/a11085.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

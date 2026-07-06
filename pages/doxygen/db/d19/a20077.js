@@ -1,9 +1,6 @@
 var a20077 =
 [
-    [ "boss_freya_nature_bomb", "db/d19/a20077.html#a050672942ab467557d21a930ab22827c", null ],
-    [ "Reset", "db/d19/a20077.html#ad2a679ba554a44f28d1f09a10fc88ec9", null ],
-    [ "UpdateAI", "db/d19/a20077.html#aae8b388dfa69896dd82557c1a4dcd135", null ],
-    [ "_explodeTimer", "db/d19/a20077.html#a09292e899ad771d9b15d2bc21ccd5b8d", null ],
-    [ "_goGUID", "db/d19/a20077.html#a18e66d31a4bd243ec3f7d438beacad77", null ],
-    [ "Timer", "db/d19/a20077.html#affadb797817ddf512209d1d71097baf3", null ]
+    [ "achievement_assembly_of_iron", "db/d19/a20077.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
+    [ "OnCheck", "db/d19/a20077.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
+    [ "_targetEntry", "db/d19/a20077.html#a20e8938ff30b18737fb96cf0277b5680", null ]
 ];

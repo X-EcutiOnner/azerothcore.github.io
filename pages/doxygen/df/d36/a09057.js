@@ -1,13 +1,11 @@
 var a09057 =
 [
-    [ "MMapTargetData", "df/d36/a09057.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
-    [ "MMapTargetData", "df/d36/a09057.html#a8312ea3187617e78b28aab842a8284cc", null ],
-    [ "MMapTargetData", "df/d36/a09057.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
-    [ "MMapTargetData", "df/d36/a09057.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
-    [ "operator=", "df/d36/a09057.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
-    [ "operator=", "df/d36/a09057.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
-    [ "PosChanged", "df/d36/a09057.html#ade55876b7781b47a72dac9fea1f2e420", null ],
-    [ "_endTime", "df/d36/a09057.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
-    [ "_posOwner", "df/d36/a09057.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
-    [ "_posTarget", "df/d36/a09057.html#a7f089d873690e8ea549f6345b6598fc4", null ]
+    [ "UnitActionBarEntry", "df/d36/a09057.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "df/d36/a09057.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "df/d36/a09057.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "df/d36/a09057.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "df/d36/a09057.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "df/d36/a09057.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "df/d36/a09057.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "df/d36/a09057.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

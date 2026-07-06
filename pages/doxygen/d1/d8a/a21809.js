@@ -1,10 +1,7 @@
 var a21809 =
 [
-    [ "npc_engineer_heliceAI", "d1/d8a/a21809.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "d1/d8a/a21809.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "d1/d8a/a21809.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "d1/d8a/a21809.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "d1/d8a/a21809.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "WaypointReached", "d1/d8a/a21809.html#a0d1122895c25211ca4c71cb651f13cef", null ],
-    [ "m_uiChatTimer", "d1/d8a/a21809.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "HandleScript", "d1/d8a/a21809.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d1/d8a/a21809.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d1/d8a/a21809.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d1/d8a/a21809.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

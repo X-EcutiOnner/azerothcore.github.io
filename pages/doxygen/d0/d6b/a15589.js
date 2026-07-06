@@ -1,6 +1,9 @@
 var a15589 =
 [
-    [ "npc_muglashAI", "d1/db6/a15593.html", "d1/db6/a15593" ],
-    [ "npc_muglash", "d0/d6b/a15589.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d0/d6b/a15589.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "npc_claw_tentacle", "d0/d6b/a15589.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d0/d6b/a15589.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d0/d6b/a15589.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d0/d6b/a15589.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d0/d6b/a15589.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d0/d6b/a15589.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

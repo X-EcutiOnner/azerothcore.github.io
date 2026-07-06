@@ -1,7 +1,6 @@
 var a21893 =
 [
-    [ "npc_hyldsmeet_protodrake", "d4/d84/a21893.html#a409a5f5eace583ef874421819c975ed8", null ],
-    [ "PassengerBoarded", "d4/d84/a21893.html#a0067d3b394c967946e329ea25c2dc315", null ],
-    [ "UpdateAI", "d4/d84/a21893.html#a49ce0b6b324b968b1b2902c1db037a53", null ],
-    [ "_accessoryRespawnTimer", "d4/d84/a21893.html#a724645a3d05ba26d99a8bc1668d1dc3a", null ]
+    [ "npc_boneguard_footmanAI", "dc/d88/a21897.html", "dc/d88/a21897" ],
+    [ "npc_boneguard_footman", "d4/d84/a21893.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d4/d84/a21893.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

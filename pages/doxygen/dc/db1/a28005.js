@@ -1,6 +1,7 @@
 var a28005 =
 [
-    [ "npc_preciousAI", "d3/d33/a28009.html", "d3/d33/a28009" ],
-    [ "npc_precious", "dc/db1/a28005.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "dc/db1/a28005.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "go_bear_trapAI", "dc/db1/a28005.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "dc/db1/a28005.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "dc/db1/a28005.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "dc/db1/a28005.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

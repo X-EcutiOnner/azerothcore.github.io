@@ -1,5 +1,6 @@
 var a15509 =
 [
-    [ "npc_toxic_slime", "d6/dc3/a15509.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d6/dc3/a15509.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "FilterTargets", "d6/dc3/a15509.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
+    [ "PrepareSpellScript", "d6/dc3/a15509.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
+    [ "Register", "d6/dc3/a15509.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
 ];

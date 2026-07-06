@@ -1,5 +1,6 @@
 var a22829 =
 [
-    [ "go_strange_pool", "dd/de3/a22829.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "dd/de3/a22829.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleEffectRemove", "dd/de3/a22829.html#a99891cf49d35a857cd014fe83bc83e43", null ],
+    [ "PrepareAuraScript", "dd/de3/a22829.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
+    [ "Register", "dd/de3/a22829.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
 ];

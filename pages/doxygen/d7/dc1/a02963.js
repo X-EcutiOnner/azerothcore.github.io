@@ -1,10 +1,7 @@
 var a02963 =
 [
-    [ "DaysInMonth", "d7/dc1/a02963.html#abff9a870b94032b446650ea043e9983b", null ],
-    [ "IsLeapYear", "d7/dc1/a02963.html#a1cf1f3ca105c1ba63d7f783db70d91ae", null ],
-    [ "NormalizeDate", "d7/dc1/a02963.html#a867322206e11e2197b7815e7584eeaba", null ],
-    [ "sind", "d7/dc1/a02963.html#a6dd118cfa29609d98e0207909b863c88", null ],
-    [ "DEG_TO_RAD", "d7/dc1/a02963.html#a410b5189721a469108e809fbf4f6e601", null ],
-    [ "HolidayRules", "d7/dc1/a02963.html#a629dd822786c11d06b417c4326ae30fe", null ],
-    [ "PI", "d7/dc1/a02963.html#a299aabc5fc8285cbf99025330a3d0d0d", null ]
+    [ "LoadPlayerSettings", "d7/dc1/a02963.html#a070b072e62079e512137662a87d710f6", null ],
+    [ "ParseSettingsData", "d7/dc1/a02963.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
+    [ "SerializeSettingsData", "d7/dc1/a02963.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
+    [ "UpdateSetting", "d7/dc1/a02963.html#ab725e991f09f03e0413ffe44fa807ead", null ]
 ];

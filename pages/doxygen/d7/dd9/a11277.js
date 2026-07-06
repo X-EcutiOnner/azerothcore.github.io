@@ -1,5 +1,6 @@
 var a11277 =
 [
-    [ "DurabilityDamageDeath", "d7/dd9/a11277.html#a9b4350d37291b9b714be1563b28dcb43", null ],
-    [ "Write", "d7/dd9/a11277.html#a35a93d9abeeb029f3da080487423f495", null ]
+    [ "ListInventory", "d7/dd9/a11277.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d7/dd9/a11277.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d7/dd9/a11277.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

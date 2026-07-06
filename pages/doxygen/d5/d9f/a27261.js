@@ -1,9 +1,9 @@
 var a27261 =
 [
-    [ "CheckCast", "d5/d9f/a27261.html#a441927e0d8d7304030440c19458eb34d", null ],
-    [ "HandleScriptEffect", "d5/d9f/a27261.html#a10e9691aa15869c82fba79072a314d7e", null ],
-    [ "PrepareSpellScript", "d5/d9f/a27261.html#a90b8ae945aeb85ad6e8a120501288979", null ],
-    [ "Register", "d5/d9f/a27261.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
-    [ "Validate", "d5/d9f/a27261.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
-    [ "iTypes", "d5/d9f/a27261.html#ae852b9df34612c074eab23b025c86870", null ]
+    [ "CalculateAmount", "d5/d9f/a27261.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "d5/d9f/a27261.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "d5/d9f/a27261.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "d5/d9f/a27261.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "d5/d9f/a27261.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "d5/d9f/a27261.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

@@ -1,7 +1,6 @@
 var a17589 =
 [
-    [ "OnProc", "d1/ddd/a17589.html#a5b6e96abb900da33657cdbbd137138e3", null ],
-    [ "PrepareAuraScript", "d1/ddd/a17589.html#a5502476536a923e77af67c4bbcf005e3", null ],
-    [ "Register", "d1/ddd/a17589.html#aca08edf219504156d6157c95702bb815", null ],
-    [ "Validate", "d1/ddd/a17589.html#a52b1231f37e8b3d810614365659a98b6", null ]
+    [ "HandlePeriodic", "d1/ddd/a17589.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
+    [ "PrepareAuraScript", "d1/ddd/a17589.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
+    [ "Register", "d1/ddd/a17589.html#a9753daf5cdc812e9027c1153b450686d", null ]
 ];

@@ -1,7 +1,7 @@
 var a13765 =
 [
-    [ "HandleAfterCast", "d7/daa/a13765.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d7/daa/a13765.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d7/daa/a13765.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d7/daa/a13765.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "CorruptTriggers", "d7/daa/a13765.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "d7/daa/a13765.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "d7/daa/a13765.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "d7/daa/a13765.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

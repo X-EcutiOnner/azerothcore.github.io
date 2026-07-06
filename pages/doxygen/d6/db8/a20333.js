@@ -1,6 +1,6 @@
 var a20333 =
 [
-    [ "HandleDamage", "d6/db8/a20333.html#af2578478e83eb2f6c2de32a692e9be91", null ],
-    [ "PrepareSpellScript", "d6/db8/a20333.html#a4ff1ab3534ea70b07b3a570afcb046fd", null ],
-    [ "Register", "d6/db8/a20333.html#a3ad00520c380e36dbb3531df0b5cc864", null ]
+    [ "npc_ulduar_toasty_fire", "d6/db8/a20333.html#ad63c424b2ee9ff8013bc776acb7dbba7", null ],
+    [ "DoAction", "d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5", null ],
+    [ "SpellHit", "d6/db8/a20333.html#ad1ac241490db52177ae13640d7ae3eec", null ]
 ];

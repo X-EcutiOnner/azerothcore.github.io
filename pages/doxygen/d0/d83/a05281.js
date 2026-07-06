@@ -1,11 +1,9 @@
 var a05281 =
 [
-    [ "material", "d0/d83/a05281.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d0/d83/a05281.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d0/d83/a05281.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d0/d83/a05281.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d0/d83/a05281.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d0/d83/a05281.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d0/d83/a05281.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d0/d83/a05281.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "MMapMgr", "d0/d83/a05281.html#abd4bd2ef84d57be5000ab37ed36ded8c", null ],
+    [ "~MMapMgr", "d0/d83/a05281.html#a0891f2313f7c78182334b43e304bafd0", null ],
+    [ "CreateNavMeshQuery", "d0/d83/a05281.html#affca526b45b63f9c827a52baa212f02c", null ],
+    [ "LoadNavMesh", "d0/d83/a05281.html#aead5607e8f61161464c388c889ca9938", null ],
+    [ "LoadTile", "d0/d83/a05281.html#a2b1efdb836189224a7ac1247b6c397e5", null ],
+    [ "packTileID", "d0/d83/a05281.html#ace3265c248ccf2a34ca4b7c43f294e43", null ]
 ];

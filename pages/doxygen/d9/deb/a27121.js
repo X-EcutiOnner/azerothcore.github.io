@@ -1,6 +1,7 @@
 var a27121 =
 [
-    [ "CheckProc", "d9/deb/a27121.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "d9/deb/a27121.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "d9/deb/a27121.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleEffectPeriodic", "d9/deb/a27121.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d9/deb/a27121.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d9/deb/a27121.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d9/deb/a27121.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

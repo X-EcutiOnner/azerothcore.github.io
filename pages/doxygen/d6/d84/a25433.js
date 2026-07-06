@@ -1,6 +1,7 @@
 var a25433 =
 [
-    [ "HandleDummy", "d6/d84/a25433.html#aafc9efb0f8070566579724853a88ab03", null ],
-    [ "PrepareSpellScript", "d6/d84/a25433.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
-    [ "Register", "d6/d84/a25433.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
+    [ "HandleOnEffectApply", "d6/d84/a25433.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d6/d84/a25433.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d6/d84/a25433.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d6/d84/a25433.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

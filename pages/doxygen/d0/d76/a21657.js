@@ -1,7 +1,6 @@
 var a21657 =
 [
-    [ "npc_battle_at_valhalasAI", "dc/d94/a21661.html", "dc/d94/a21661" ],
-    [ "npc_battle_at_valhalas", "d0/d76/a21657.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d0/d76/a21657.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d0/d76/a21657.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "GhoulTargetCheck", "d0/d76/a21657.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d0/d76/a21657.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d0/d76/a21657.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

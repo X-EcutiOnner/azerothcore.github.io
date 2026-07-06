@@ -1,6 +1,5 @@
 var a27761 =
 [
-    [ "go_flamesAI", "d6/d85/a27761.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d6/d85/a27761.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d6/d85/a27761.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "achievement_resilient_victory", "d6/d85/a27761.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "d6/d85/a27761.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

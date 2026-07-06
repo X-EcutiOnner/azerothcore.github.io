@@ -1,6 +1,7 @@
 var a16617 =
 [
-    [ "npc_frost_sphereAI", "de/df9/a16621.html", "de/df9/a16621" ],
-    [ "npc_frost_sphere", "db/d75/a16617.html#a0256ba1c53853307f8b66e22b10bef24", null ],
-    [ "GetAI", "db/d75/a16617.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
+    [ "HandleDummy", "db/d75/a16617.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "db/d75/a16617.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "db/d75/a16617.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "db/d75/a16617.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];

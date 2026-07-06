@@ -1,6 +1,6 @@
 var a09069 =
 [
-    [ "BuildValuesCachedBuffer", "d7/d97/a09069.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d7/d97/a09069.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d7/d97/a09069.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "spellIdImmunityPredicate", "d7/d97/a09069.html#a04893e34d418a0649d51dfa82b559d9c", null ],
+    [ "operator()", "d7/d97/a09069.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
+    [ "_type", "d7/d97/a09069.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
 ];

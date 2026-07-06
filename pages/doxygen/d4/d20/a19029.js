@@ -1,5 +1,6 @@
 var a19029 =
 [
-    [ "npc_icc_buff_switcher", "d4/d20/a19029.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "d4/d20/a19029.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "npc_captain_grondelAI", "d4/d20/a19029.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d4/d20/a19029.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d4/d20/a19029.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

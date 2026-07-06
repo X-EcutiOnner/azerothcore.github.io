@@ -1,6 +1,7 @@
 var a19625 =
 [
-    [ "HandleEffectCalcAmount", "dd/d4a/a19625.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "dd/d4a/a19625.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "dd/d4a/a19625.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "HandleScript", "dd/d4a/a19625.html#a8e54c3526406fcb6963667c05b5f2cce", null ],
+    [ "Load", "dd/d4a/a19625.html#a94661c7652572b1671a611b35c8f68a7", null ],
+    [ "PrepareSpellScript", "dd/d4a/a19625.html#a269f558a231a4c9af55a54c6c7090d1b", null ],
+    [ "Register", "dd/d4a/a19625.html#a09352bd458fe3dbeacea38c5104656ff", null ]
 ];

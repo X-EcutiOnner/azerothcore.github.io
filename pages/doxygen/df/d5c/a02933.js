@@ -1,6 +1,4 @@
 var a02933 =
 [
-    [ "ConcatenateDungeons", "df/d5c/a02933.html#aeaebe53b818ad905c96d2cc56c18b7ca", null ],
-    [ "GetRolesString", "df/d5c/a02933.html#adc336ffd636b51b0052448739671d46b", null ],
-    [ "GetStateString", "df/d5c/a02933.html#a9d097d73fe8f096de2098ac74022b643", null ]
+    [ "KillRewarder", "df/d73/a08877.html", "df/d73/a08877" ]
 ];

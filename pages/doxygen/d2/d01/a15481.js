@@ -1,14 +1,10 @@
 var a15481 =
 [
-    [ "boss_twinemperorsAI", "d2/d01/a15481.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "d2/d01/a15481.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "d2/d01/a15481.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "d2/d01/a15481.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "d2/d01/a15481.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "d2/d01/a15481.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "d2/d01/a15481.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "d2/d01/a15481.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "d2/d01/a15481.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "d2/d01/a15481.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "d2/d01/a15481.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_moam", "d2/d01/a15481.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d2/d01/a15481.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d2/d01/a15481.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d2/d01/a15481.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d2/d01/a15481.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d2/d01/a15481.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d2/d01/a15481.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

@@ -1,10 +1,9 @@
 var a10433 =
 [
-    [ "WaypointMgr", "d2/d6a/a10433.html#a2f038884959f10348bd5b7af3abee7db", null ],
-    [ "GetPath", "d2/d6a/a10433.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
-    [ "instance", "d2/d6a/a10433.html#aacd2ed943503288057b3fb9a935a56e9", null ],
-    [ "Load", "d2/d6a/a10433.html#a69ae451ce07f2e68be81b1a86649115d", null ],
-    [ "LoadWaypointAddons", "d2/d6a/a10433.html#a84df91143dd387b5d4adc7aa8d63045e", null ],
-    [ "ReloadPath", "d2/d6a/a10433.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
-    [ "_waypointStore", "d2/d6a/a10433.html#a15d1c47c7e839538c354ba91775bd9e7", null ]
+    [ "PathMovementBase", "d2/d6a/a10433.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "d2/d6a/a10433.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "d2/d6a/a10433.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "d2/d6a/a10433.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "d2/d6a/a10433.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "d2/d6a/a10433.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

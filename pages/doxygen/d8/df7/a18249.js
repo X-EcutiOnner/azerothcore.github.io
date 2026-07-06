@@ -1,6 +1,7 @@
 var a18249 =
 [
-    [ "UnchainedMagicTargetSelector", "d8/df7/a18249.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "d8/df7/a18249.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "d8/df7/a18249.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "HandleTriggerSpell", "d8/df7/a18249.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "d8/df7/a18249.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "d8/df7/a18249.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "d8/df7/a18249.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

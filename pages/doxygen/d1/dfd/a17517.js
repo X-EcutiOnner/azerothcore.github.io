@@ -1,7 +1,5 @@
 var a17517 =
 [
-    [ "HandleScript", "d1/dfd/a17517.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d1/dfd/a17517.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d1/dfd/a17517.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d1/dfd/a17517.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "entry", "d1/dfd/a17517.html#a44c7a625896d6fddc15da39988e0b042", null ],
+    [ "pathId", "d1/dfd/a17517.html#accd6af0ddfa248a972612d802a1e641e", null ]
 ];

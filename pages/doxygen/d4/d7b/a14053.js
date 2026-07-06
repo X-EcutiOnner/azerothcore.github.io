@@ -1,8 +1,8 @@
 var a14053 =
 [
-    [ "npc_the_scourge_cauldronAI", "d4/d7b/a14053.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d4/d7b/a14053.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d4/d7b/a14053.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d4/d7b/a14053.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d4/d7b/a14053.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_ranger_lilatha", "d4/d7b/a14053.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d4/d7b/a14053.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d4/d7b/a14053.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d4/d7b/a14053.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ],
+    [ "WaypointReached", "d4/d7b/a14053.html#a0d1122895c25211ca4c71cb651f13cef", null ]
 ];

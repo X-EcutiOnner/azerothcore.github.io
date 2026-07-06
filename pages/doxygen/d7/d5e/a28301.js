@@ -1,13 +1,10 @@
 var a28301 =
 [
-    [ "DBCDatabaseLoader", "d7/d5e/a28301.html#a2efbbd3799e5f72fecaeaf9365579482", null ],
-    [ "DBCDatabaseLoader", "d7/d5e/a28301.html#a7d93e6d37796f341edcf25062743c5b5", null ],
-    [ "CloneStringToPool", "d7/d5e/a28301.html#a68e5ae50c980aa81b051d0622575bb2d", null ],
-    [ "Load", "d7/d5e/a28301.html#a1b116dca8b01e0462a2e6c08245a49a3", null ],
-    [ "operator=", "d7/d5e/a28301.html#a46f7d5670840892f7a8714ce0b6cde13", null ],
-    [ "_dbcFormat", "d7/d5e/a28301.html#aa749118514d0b784ac6df295bd820d8e", null ],
-    [ "_recordSize", "d7/d5e/a28301.html#a6721538ebbcfe020fb195d44b3bdbd11", null ],
-    [ "_sqlIndexPos", "d7/d5e/a28301.html#ac1b5b191615d3e3121ea70965b0d495a", null ],
-    [ "_sqlTableName", "d7/d5e/a28301.html#ab6590071edf5311ccf484d48e4fd125e", null ],
-    [ "_stringPool", "d7/d5e/a28301.html#a52b5b86f0efb8ad0716bc0171a3aa740", null ]
+    [ "npc_air_force_botsAI", "d7/d5e/a28301.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "d7/d5e/a28301.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "d7/d5e/a28301.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "d7/d5e/a28301.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "d7/d5e/a28301.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "d7/d5e/a28301.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "d7/d5e/a28301.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

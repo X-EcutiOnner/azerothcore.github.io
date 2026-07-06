@@ -1,18 +1,17 @@
 var a04658 =
 [
-    [ "Days", "d0/d70/a04658.html#af5dc5e7ad7b3f6d8e84530de842d125b", null ],
-    [ "Hours", "d0/d70/a04658.html#aa0f87984d2b3835a61dffc22ae8bf083", null ],
-    [ "Microseconds", "d0/d70/a04658.html#a201a83ed0d59d2baf946daf42dac834f", null ],
-    [ "Milliseconds", "d0/d70/a04658.html#a1c3834b9e3853535027d58bf21bec81f", null ],
-    [ "Minutes", "d0/d70/a04658.html#af2161f9db850581e2228078614990df8", null ],
-    [ "Months", "d0/d70/a04658.html#a5f2ffeea2459944dfaa4443f1efb7f42", null ],
-    [ "Seconds", "d0/d70/a04658.html#a3cd82f1c195a0b935b4d66b02a41acd8", null ],
-    [ "SystemTimePoint", "d0/d70/a04658.html#ada798961abc5a533d616ff780f567bb6", null ],
-    [ "TimePoint", "d0/d70/a04658.html#ae5ca775e8d8c664b6edef818ce1251b9", null ],
-    [ "Weeks", "d0/d70/a04658.html#a983745490d3d3a0322c4ccf0f418f179", null ],
-    [ "Years", "d0/d70/a04658.html#ab4fa20b33a9b5ee358963159b01d72f3", null ],
-    [ "operator\"\"_days", "d0/d70/a04658.html#ae62919aa53468bfadd4984bdd0498c03", null ],
-    [ "operator\"\"_months", "d0/d70/a04658.html#a7f38d5f5e7db75251b49712f910059ac", null ],
-    [ "operator\"\"_weeks", "d0/d70/a04658.html#a7ff3ff81243ee7b2ce873364bb7ad676", null ],
-    [ "operator\"\"_years", "d0/d70/a04658.html#a25baa64022678f43cf423c945dbd0226", null ]
+    [ "apply", "d0/d70/a04658.html#a6177d7ac84a4ea6819c57a124345540e", null ],
+    [ "convert", "d0/d70/a04658.html#a5628479f846d755da3ff53b0e2a66c26", null ],
+    [ "convert< 0 >", "d0/d70/a04658.html#aa8017307aa0aa935f062b4f701563d09", null ],
+    [ "convert< 1 >", "d0/d70/a04658.html#a3717e304a2b8b074fcd513ca8e0db116", null ],
+    [ "EndianConvert", "d0/d70/a04658.html#a49a7404e8b8e7030c609822047db18e8", null ],
+    [ "EndianConvert", "d0/d70/a04658.html#a9d20b1e463a04f0a22d79ca802902be6", null ],
+    [ "EndianConvert", "d0/d70/a04658.html#af2e19073fdc053bb0299b663fa1ee757", null ],
+    [ "EndianConvert", "d0/d70/a04658.html#a7a138a6c8a71f6e9bd8eb436a598f628", null ],
+    [ "EndianConvertPtr", "d0/d70/a04658.html#a73b1f88261dfd018f7f185b0ea941c88", null ],
+    [ "EndianConvertPtrReverse", "d0/d70/a04658.html#a8b9f1be37ef60cffbb862512d9374dd4", null ],
+    [ "EndianConvertReverse", "d0/d70/a04658.html#acdb2b3cf0ea55e72e1d4047380cbd260", null ],
+    [ "EndianConvertReverse", "d0/d70/a04658.html#a71946d011105dec5ad60c6875066ed86", null ],
+    [ "EndianConvertReverse", "d0/d70/a04658.html#a1fa1c447bec92bbf436d429b422cc2e7", null ],
+    [ "EndianConvertReverse", "d0/d70/a04658.html#a2adbd00f9fd7adfc4bd3d26ae1565a0b", null ]
 ];

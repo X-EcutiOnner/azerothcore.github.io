@@ -1,6 +1,10 @@
 var a10313 =
 [
-    [ "AssistanceDistractMovementGenerator", "df/dff/a10313.html#ae472d28ebb4624855632ac7f0bd7b219", null ],
-    [ "Finalize", "df/dff/a10313.html#a1511f74a52e5ad92471e554eb77c235a", null ],
-    [ "GetMovementGeneratorType", "df/dff/a10313.html#a233eb9333ea365955589932ddbd18d8a", null ]
+    [ "ID", "df/dff/a10313.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "df/dff/a10313.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "df/dff/a10313.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "df/dff/a10313.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "df/dff/a10313.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "df/dff/a10313.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "df/dff/a10313.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

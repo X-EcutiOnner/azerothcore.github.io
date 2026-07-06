@@ -1,6 +1,6 @@
 var a16197 =
 [
-    [ "FilterTargets", "d1/d18/a16197.html#aff3223d9b3df91f9261aa2f45373f846", null ],
-    [ "PrepareSpellScript", "d1/d18/a16197.html#a3ca9ba182a313fb741b15df63408a90e", null ],
-    [ "Register", "d1/d18/a16197.html#af333c3c72251a2d1c0ee4effdbc0b155", null ]
+    [ "creatureID", "d1/d18/a16197.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d1/d18/a16197.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d1/d18/a16197.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

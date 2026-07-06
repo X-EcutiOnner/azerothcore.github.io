@@ -1,14 +1,15 @@
 var a30938 =
 [
-    [ "file_MVER", "d2/dec/a29900.html", "d2/dec/a29900" ],
-    [ "FileLoader", "d6/da0/a29908.html", "d6/da0/a29908" ],
-    [ "FILE_FORMAT_VERSION", "da/d52/a30938.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "da/d52/a30938.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "da/d52/a30938.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "da/d52/a30938.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "da/d52/a30938.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "da/d52/a30938.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "da/d52/a30938.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "da/d52/a30938.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "da/d52/a30938.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "GetGameTime", "da/d52/a30938.html#adbe1785d1327dedf2ac403b7cc8e99c2", null ],
+    [ "GetGameTimeMS", "da/d52/a30938.html#a6d0d49f37e25e497391157b2a2ec90c1", null ],
+    [ "GetStartTime", "da/d52/a30938.html#a872d34d3f9d420cfc749073c809931f9", null ],
+    [ "GetSystemTime", "da/d52/a30938.html#a443eccf314fe436192278d425d6d8220", null ],
+    [ "GetUptime", "da/d52/a30938.html#ae2ff9233756dd88fa1aafcc1e1c0be4d", null ],
+    [ "Now", "da/d52/a30938.html#ae5cc9f17fc6b8b15c678fa7a84a6e117", null ],
+    [ "UpdateGameTimers", "da/d52/a30938.html#a45712735241c9563a12fc3da54fb144d", null ],
+    [ "GameMSTime", "da/d52/a30938.html#ad5fc2a056410eeac2e2717f91cb8295c", null ],
+    [ "GameTime", "da/d52/a30938.html#a9a28ffdb4bb387919d2dd70a51080ce0", null ],
+    [ "GameTimeSteadyPoint", "da/d52/a30938.html#a874057035d37aa57afc5064acffba119", null ],
+    [ "GameTimeSystemPoint", "da/d52/a30938.html#aa393fef2187ebdd6aa34379b0f1504d7", null ],
+    [ "StartTime", "da/d52/a30938.html#a78088a0637670a1ab5125a1388f7ca52", null ]
 ];

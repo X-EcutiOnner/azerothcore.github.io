@@ -1,9 +1,4 @@
 var a05565 =
 [
-    [ "Count", "d2/d4a/a05565.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d2/d4a/a05565.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d2/d4a/a05565.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "d2/d4a/a05565.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d2/d4a/a05565.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d2/d4a/a05565.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "_element", "d2/d4a/a05565.html#a9130a796cd6534c1da2c82f02568348c", null ]
 ];

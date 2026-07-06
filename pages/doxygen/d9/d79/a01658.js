@@ -1,5 +1,6 @@
 var a01658 =
 [
-    [ "learn_commandscript", "dd/d62/a12383.html", "dd/d62/a12383" ],
-    [ "AddSC_learn_commandscript", "d9/d79/a01658.html#a8dd69858fd98c4630027654ecdcf92e7", null ]
+    [ "lfg_commandscript", "d7/d32/a12409.html", "d7/d32/a12409" ],
+    [ "AddSC_lfg_commandscript", "d9/d79/a01658.html#a484938015a7f5ffa8f5b1d0e259d355b", null ],
+    [ "GetPlayerInfo", "d9/d79/a01658.html#a1d2591add059e8c4daf04b9f706da765", null ]
 ];

@@ -1,7 +1,6 @@
 var a26441 =
 [
-    [ "HandleScriptEffect", "d7/d53/a26441.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "d7/d53/a26441.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "d7/d53/a26441.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "d7/d53/a26441.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleRemove", "d7/d53/a26441.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d7/d53/a26441.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d7/d53/a26441.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

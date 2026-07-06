@@ -1,7 +1,7 @@
 var a17697 =
 [
-    [ "HandleScript", "db/d9b/a17697.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "db/d9b/a17697.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "db/d9b/a17697.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "db/d9b/a17697.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "HandleScript", "db/d9b/a17697.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "db/d9b/a17697.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "db/d9b/a17697.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "db/d9b/a17697.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

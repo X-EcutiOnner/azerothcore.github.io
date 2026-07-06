@@ -1,9 +1,6 @@
 var a19953 =
 [
-    [ "npc_thorims_hammer", "db/d8c/a19953.html#ae22f7278bd68011dc8f593ac4ccfc5ff", null ],
-    [ "Reset", "db/d8c/a19953.html#a6b7a294849ffd4a75e7f9e0ce3c7314b", null ],
-    [ "UpdateAI", "db/d8c/a19953.html#a006414298b31eb0cfb964916298d66ce", null ],
-    [ "_beamTimer", "db/d8c/a19953.html#adcd5af2b86d1d8f119514f799c42444b", null ],
-    [ "_finishTime", "db/d8c/a19953.html#aa6366b2ba9158a8560ed7289b51e96fc", null ],
-    [ "_removeTimer", "db/d8c/a19953.html#a7b9a2435b0953c12e693c562193d45e0", null ]
+    [ "HandleScript", "db/d8c/a19953.html#a992dbad02eab01824d870bdd3fca93d0", null ],
+    [ "PrepareSpellScript", "db/d8c/a19953.html#a0e6b4d1f59896a255929556baa943bdb", null ],
+    [ "Register", "db/d8c/a19953.html#a6bd2b3f20ee88fbba18ea6da6e8a23ab", null ]
 ];

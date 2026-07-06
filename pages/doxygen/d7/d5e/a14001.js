@@ -1,7 +1,7 @@
 var a14001 =
 [
-    [ "o", "d7/d5e/a14001.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d7/d5e/a14001.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d7/d5e/a14001.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d7/d5e/a14001.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "HandleScriptEffect", "d7/d5e/a14001.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d7/d5e/a14001.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d7/d5e/a14001.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d7/d5e/a14001.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

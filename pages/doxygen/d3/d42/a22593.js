@@ -1,6 +1,7 @@
 var a22593 =
 [
-    [ "ShadowOfDeathSelector", "d3/d42/a22593.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d3/d42/a22593.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d3/d42/a22593.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "HandleDummy", "d3/d42/a22593.html#af5ac581f7d471300fba2c23548037eea", null ],
+    [ "PrepareSpellScript", "d3/d42/a22593.html#adda61c05b544b52d98af5b7a76d4f808", null ],
+    [ "Register", "d3/d42/a22593.html#a270a64dffdce230d97515f116ec49706", null ],
+    [ "Validate", "d3/d42/a22593.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
 ];

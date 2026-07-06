@@ -1,5 +1,6 @@
 var a19409 =
 [
-    [ "at_naxxramas_hub_portal", "de/d17/a19409.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "de/d17/a19409.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d6/de3/a19413.html", "d6/de3/a19413" ],
+    [ "boss_grobbulus_poison_cloud", "de/d17/a19409.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "de/d17/a19409.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

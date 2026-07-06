@@ -1,6 +1,9 @@
 var a21773 =
 [
-    [ "npc_still_at_it_triggerAI", "d0/d12/a21777.html", "d0/d12/a21777" ],
-    [ "npc_still_at_it_trigger", "d3/dd4/a21773.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d3/dd4/a21773.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_venture_co_stragglerAI", "d3/dd4/a21773.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "d3/dd4/a21773.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "d3/dd4/a21773.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "d3/dd4/a21773.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "d3/dd4/a21773.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "d3/dd4/a21773.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

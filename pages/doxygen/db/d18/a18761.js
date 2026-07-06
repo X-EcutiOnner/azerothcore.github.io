@@ -1,7 +1,9 @@
 var a18761 =
 [
-    [ "HandleForceCast", "db/d18/a18761.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "db/d18/a18761.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "db/d18/a18761.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "db/d18/a18761.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_spirit_wardenAI", "db/d18/a18761.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "db/d18/a18761.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "db/d18/a18761.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "db/d18/a18761.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "db/d18/a18761.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "db/d18/a18761.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

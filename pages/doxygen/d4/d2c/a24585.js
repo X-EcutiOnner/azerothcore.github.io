@@ -1,11 +1,7 @@
 var a24585 =
 [
-    [ "spell_gen_relocaste_dest", "d4/d2c/a24585.html#a5b839f3bd5571ff3b23701c0cd862568", null ],
-    [ "PrepareSpellScript", "d4/d2c/a24585.html#a135638c19c130f43f7f3c3c14f1d1570", null ],
-    [ "Register", "d4/d2c/a24585.html#a9fd403a48ac9cec79fdf4ac485bbaa6a", null ],
-    [ "RelocateDest", "d4/d2c/a24585.html#a1efeb8d17fa6f7cfd9d098d7e97381d9", null ],
-    [ "_o", "d4/d2c/a24585.html#a31ecfa99e580c8fb828c1a4ee988ac94", null ],
-    [ "_x", "d4/d2c/a24585.html#aa0d6afcc49e6fa41b6ae37d16e0c25e5", null ],
-    [ "_y", "d4/d2c/a24585.html#a0152bc47b5950546d9e9505512ed842b", null ],
-    [ "_z", "d4/d2c/a24585.html#a40136ab0219829dfb0dcfe234aa73af7", null ]
+    [ "HandleScriptEffect", "d4/d2c/a24585.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
+    [ "PrepareSpellScript", "d4/d2c/a24585.html#ae29c4f69a34e71011192df12509e2935", null ],
+    [ "Register", "d4/d2c/a24585.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
+    [ "Validate", "d4/d2c/a24585.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
 ];

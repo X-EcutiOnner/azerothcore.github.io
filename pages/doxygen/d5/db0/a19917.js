@@ -1,5 +1,6 @@
 var a19917 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d5/db0/a19917.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d5/db0/a19917.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "boss_sjonnir_dwarfAI", "df/dff/a19921.html", "df/dff/a19921" ],
+    [ "boss_sjonnir_dwarf", "d5/db0/a19917.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d5/db0/a19917.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

@@ -1,8 +1,7 @@
 var a26593 =
 [
-    [ "HandleDummy", "de/d24/a26593.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "de/d24/a26593.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "de/d24/a26593.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "de/d24/a26593.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "de/d24/a26593.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "OnProc", "de/d24/a26593.html#a00545522da76162e837a3f9ce1f38988", null ],
+    [ "PrepareAuraScript", "de/d24/a26593.html#ae11900dc2baee4882ffbc7fde71204e9", null ],
+    [ "Register", "de/d24/a26593.html#aa326bd80c927ee5ffb06b5676e8d5b40", null ],
+    [ "Validate", "de/d24/a26593.html#af5525b7097363c3357db853b46a26bd7", null ]
 ];

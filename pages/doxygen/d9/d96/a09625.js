@@ -1,7 +1,10 @@
 var a09625 =
 [
-    [ "FriendlyCCedInRange", "d9/d96/a09625.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "d9/d96/a09625.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "d9/d96/a09625.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "d9/d96/a09625.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "UnitLastSearcher", "d9/d96/a09625.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d9/d96/a09625.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d9/d96/a09625.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d9/d96/a09625.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d9/d96/a09625.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d9/d96/a09625.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d9/d96/a09625.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

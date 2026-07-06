@@ -1,17 +1,17 @@
 var a10745 =
 [
-    [ "WorldScript", "dd/df3/a10745.html#a89b4180130e22738c2898562de6b9145", null ],
-    [ "OnAfterConfigLoad", "dd/df3/a10745.html#affadabcae325631b2683ef458c6d13ee", null ],
-    [ "OnAfterUnloadAllMaps", "dd/df3/a10745.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
-    [ "OnBeforeConfigLoad", "dd/df3/a10745.html#a78baa1285b6495d7beace131dfba8400", null ],
-    [ "OnBeforeFinalizePlayerWorldSession", "dd/df3/a10745.html#a480e411f6178e5128bc5e760d9f36d99", null ],
-    [ "OnBeforeWorldInitialized", "dd/df3/a10745.html#a8ec0a2cc97986db07698392e5c503571", null ],
-    [ "OnLoadCustomDatabaseTable", "dd/df3/a10745.html#af9c5296102d7ef0f716796788650ec4d", null ],
-    [ "OnMotdChange", "dd/df3/a10745.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
-    [ "OnOpenStateChange", "dd/df3/a10745.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
-    [ "OnShutdown", "dd/df3/a10745.html#a3578707d9be5da90530633a93b4b2bf8", null ],
-    [ "OnShutdownCancel", "dd/df3/a10745.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
-    [ "OnShutdownInitiate", "dd/df3/a10745.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
-    [ "OnStartup", "dd/df3/a10745.html#a117234aac087ec653c83cfe01a6dce7a", null ],
-    [ "OnUpdate", "dd/df3/a10745.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
+    [ "GuildScript", "dd/df3/a10745.html#a9f2e849a2fb4a1cb901080f129692482", null ],
+    [ "CanGuildSendBankList", "dd/df3/a10745.html#a293f3d822ae075246f1a7552ce9b0424", null ],
+    [ "IsDatabaseBound", "dd/df3/a10745.html#aae0601f04ec90533bb7699c68f68fe8f", null ],
+    [ "OnAddMember", "dd/df3/a10745.html#a908df71c0d9be1258e624f4e977e8d75", null ],
+    [ "OnBankEvent", "dd/df3/a10745.html#a8f29c847a68fb41dd3bca4ac257ee159", null ],
+    [ "OnCreate", "dd/df3/a10745.html#acfc89fe841629beca8de15c23c48a6c7", null ],
+    [ "OnDisband", "dd/df3/a10745.html#a5c840084ca74af0556ac5d6256bfd75d", null ],
+    [ "OnEvent", "dd/df3/a10745.html#ad0733568cee8ded5c89d8404166201bb", null ],
+    [ "OnInfoChanged", "dd/df3/a10745.html#a3ce284c112b61c6077b509d55a52f388", null ],
+    [ "OnItemMove", "dd/df3/a10745.html#a2309a1ae2828cb7c758a5cf0329f1f5a", null ],
+    [ "OnMemberDepositMoney", "dd/df3/a10745.html#a64d676d964b408b6fde7ab9185951eb0", null ],
+    [ "OnMemberWitdrawMoney", "dd/df3/a10745.html#a503c5116512f8ac45506732674aa5635", null ],
+    [ "OnMOTDChanged", "dd/df3/a10745.html#ac5886f63fbc5da499843677339f4944b", null ],
+    [ "OnRemoveMember", "dd/df3/a10745.html#a0231be74a2625a91fc617980dfc41ca3", null ]
 ];

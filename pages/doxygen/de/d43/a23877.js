@@ -1,6 +1,6 @@
 var a23877 =
 [
-    [ "PrepareSpellScript", "de/d43/a23877.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "de/d43/a23877.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "de/d43/a23877.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "go_beaconAI", "de/d43/a23877.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "de/d43/a23877.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "_whelpGUIDs", "de/d43/a23877.html#a083094ececd327c833649da6a755c635", null ]
 ];

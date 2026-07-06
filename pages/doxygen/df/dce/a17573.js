@@ -1,6 +1,7 @@
 var a17573 =
 [
-    [ "FilterTargets", "df/dce/a17573.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "df/dce/a17573.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "df/dce/a17573.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "HandleScriptEffect", "df/dce/a17573.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "df/dce/a17573.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "df/dce/a17573.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "df/dce/a17573.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

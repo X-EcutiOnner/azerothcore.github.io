@@ -1,6 +1,10 @@
 var a10801 =
 [
-    [ "BuyBankSlotResult", "dc/da0/a10801.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "dc/da0/a10801.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "dc/da0/a10801.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "ArgsType", "dc/da0/a10801.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "dc/da0/a10801.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "dc/da0/a10801.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "dc/da0/a10801.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "dc/da0/a10801.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "dc/da0/a10801.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "dc/da0/a10801.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

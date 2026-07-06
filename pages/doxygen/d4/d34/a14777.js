@@ -1,5 +1,5 @@
 var a14777 =
 [
-    [ "PrepareSpellScript", "d4/d34/a14777.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
-    [ "Register", "d4/d34/a14777.html#a99f7d0be5668d5b005400140fc9865a4", null ]
+    [ "at_bring_your_orphan_to", "d4/d34/a14777.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d4/d34/a14777.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

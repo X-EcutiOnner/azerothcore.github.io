@@ -1,7 +1,6 @@
 var a17701 =
 [
-    [ "HandleScript", "dc/d0c/a17701.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "dc/d0c/a17701.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "dc/d0c/a17701.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "dc/d0c/a17701.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "ModAuraStack", "dc/d0c/a17701.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "dc/d0c/a17701.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "dc/d0c/a17701.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

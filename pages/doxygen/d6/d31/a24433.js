@@ -1,6 +1,7 @@
 var a24433 =
 [
-    [ "CheckCast", "d6/d31/a24433.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
-    [ "PrepareSpellScript", "d6/d31/a24433.html#a605e7b8849186c3c2df731cac743a208", null ],
-    [ "Register", "d6/d31/a24433.html#a62533bff915db8323b53352f17c4825f", null ]
+    [ "HandleScriptEffect", "d6/d31/a24433.html#afaffd667477e286700dd7e5562423452", null ],
+    [ "PrepareSpellScript", "d6/d31/a24433.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
+    [ "Register", "d6/d31/a24433.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
+    [ "Validate", "d6/d31/a24433.html#a553f2f26a412d2060151b4f49055b847", null ]
 ];

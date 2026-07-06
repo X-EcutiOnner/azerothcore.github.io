@@ -1,6 +1,7 @@
 var a12661 =
 [
-    [ "boss_firemaw", "d8/d16/a12661.html#a2d2be691020b8aa81f82ffab91a86e42", null ],
-    [ "JustEngagedWith", "d8/d16/a12661.html#a63d0f449d04ad3d86f4ede9a0f9696a9", null ],
-    [ "UpdateAI", "d8/d16/a12661.html#a13a672cc37175615068429f9a3282e07", null ]
+    [ "boss_moira_bronzebeard", "d8/d16/a12661.html#aaab4b597fd97619c2a41e2a6425810de", null ],
+    [ "CastOnEmperorIfPossible", "d8/d16/a12661.html#a413aab0c096319ea17d6c6a078b056ea", null ],
+    [ "JustEngagedWith", "d8/d16/a12661.html#a6bf08072a59fe72ce4a3e27a9e289d3c", null ],
+    [ "UpdateAI", "d8/d16/a12661.html#a8319c70b3391721164ac1a01d8f6be9c", null ]
 ];

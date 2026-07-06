@@ -1,15 +1,19 @@
 var a19225 =
 [
-    [ "boss_grobbulusAI", "d1/dd1/a19225.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d1/dd1/a19225.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d1/dd1/a19225.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d1/dd1/a19225.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d1/dd1/a19225.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d1/dd1/a19225.html#a0d68b84c035bb8b4b16075116a6d7992", null ],
-    [ "Reset", "d1/dd1/a19225.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "d1/dd1/a19225.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d1/dd1/a19225.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d1/dd1/a19225.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d1/dd1/a19225.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d1/dd1/a19225.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "npc_icc_gauntlet_controllerAI", "d1/dd1/a19225.html#adbbf6f95a44678d914726fa52486228f", null ],
+    [ "DoAction", "d1/dd1/a19225.html#adaa7997c59f72f7823f232a6f455a0af", null ],
+    [ "JustDied", "d1/dd1/a19225.html#a00540cf0e82728e9df7c9c467bbe85b7", null ],
+    [ "JustReachedHome", "d1/dd1/a19225.html#afd30d6da8e6fc0e8a44876ea0a30f8ec", null ],
+    [ "JustSummoned", "d1/dd1/a19225.html#a1cba9c05581011ab431f163ffa1b05a7", null ],
+    [ "Reset", "d1/dd1/a19225.html#a055c417bea83de7a4ca61f304d89bb2f", null ],
+    [ "ScheduleBroodlings", "d1/dd1/a19225.html#a528438f30ae06119b09c69319e7c534a", null ],
+    [ "SpidersMoveDown", "d1/dd1/a19225.html#a8c92d94464461c36c97d435e8738323b", null ],
+    [ "SummonBroodling", "d1/dd1/a19225.html#a625cce7142666144af0d6f1e81f56979", null ],
+    [ "SummonedCreatureDies", "d1/dd1/a19225.html#aad2d9e8a269c62231b4d6bc907350a30", null ],
+    [ "SummonFrostwardens", "d1/dd1/a19225.html#a6f07ad3f631570b720ef5ecc91e80bf2", null ],
+    [ "SummonSpiders", "d1/dd1/a19225.html#afa30ecef9c1c29b55d6f9d4752396354", null ],
+    [ "UpdateAI", "d1/dd1/a19225.html#a141faa27c651b9d1512c6b5861f511d9", null ],
+    [ "events", "d1/dd1/a19225.html#a5f883ab0efea055ebb07e118ab857378", null ],
+    [ "instance", "d1/dd1/a19225.html#ac13065009325babb60746630518cfc3b", null ],
+    [ "summons", "d1/dd1/a19225.html#ad2203400007c842b181ab62ba710cc69", null ]
 ];

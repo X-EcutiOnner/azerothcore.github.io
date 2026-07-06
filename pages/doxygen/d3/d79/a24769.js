@@ -1,7 +1,6 @@
 var a24769 =
 [
-    [ "HandleScript", "d3/d79/a24769.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d3/d79/a24769.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d3/d79/a24769.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d3/d79/a24769.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleScript", "d3/d79/a24769.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d3/d79/a24769.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d3/d79/a24769.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

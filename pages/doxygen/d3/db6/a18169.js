@@ -1,12 +1,7 @@
 var a18169 =
 [
-    [ "npc_big_oozeAI", "d3/db6/a18169.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
-    [ "DoAction", "d3/db6/a18169.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
-    [ "EnterEvadeMode", "d3/db6/a18169.html#ad7251cda20f3e2821077d2327528fd2d", null ],
-    [ "IsSummonedBy", "d3/db6/a18169.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
-    [ "JustDied", "d3/db6/a18169.html#a2372053a84715990fc7fce3d8e269265", null ],
-    [ "UpdateAI", "d3/db6/a18169.html#a2e1f52ca84363703d95da99ca93d3503", null ],
-    [ "events", "d3/db6/a18169.html#a54f3baa4767f8336ff4699de426aae61", null ],
-    [ "firstUpdate", "d3/db6/a18169.html#af5c34c976137e456d1779ca944f88639", null ],
-    [ "instance", "d3/db6/a18169.html#a788141bf9be03161741d01d0aa4fe227", null ]
+    [ "npc_coldflameAI", "d3/db6/a18169.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d3/db6/a18169.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d3/db6/a18169.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d3/db6/a18169.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

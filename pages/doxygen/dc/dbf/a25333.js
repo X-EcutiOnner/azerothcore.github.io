@@ -1,6 +1,5 @@
 var a25333 =
 [
-    [ "HandleFinish", "dc/dbf/a25333.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "dc/dbf/a25333.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "dc/dbf/a25333.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "PrepareSpellScript", "dc/dbf/a25333.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
+    [ "Register", "dc/dbf/a25333.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
 ];

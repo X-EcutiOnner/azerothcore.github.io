@@ -1,11 +1,14 @@
 var a13669 =
 [
-    [ "npc_kalecgos_kj", "d9/d20/a13669.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d9/d20/a13669.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d9/d20/a13669.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d9/d20/a13669.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d9/d20/a13669.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d9/d20/a13669.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d9/d20/a13669.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d9/d20/a13669.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "boss_jarien", "d9/d20/a13669.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "d9/d20/a13669.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "d9/d20/a13669.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "d9/d20/a13669.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "d9/d20/a13669.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "d9/d20/a13669.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "d9/d20/a13669.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "d9/d20/a13669.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "d9/d20/a13669.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "d9/d20/a13669.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "d9/d20/a13669.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

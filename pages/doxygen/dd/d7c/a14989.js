@@ -1,11 +1,8 @@
 var a14989 =
 [
-    [ "npc_hyjal_ground_trash", "dd/d7c/a14989.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
-    [ "AttackStart", "dd/d7c/a14989.html#a0ab86d651644dcc579585176c2b5c07e", null ],
-    [ "DoAction", "dd/d7c/a14989.html#aa92481bcf993c4eda5ef271145200d77", null ],
-    [ "GetNearbyFriendlyTrashCreature", "dd/d7c/a14989.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
-    [ "JustEngagedWith", "dd/d7c/a14989.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
-    [ "PathEndReached", "dd/d7c/a14989.html#a035610284a56e690200f978b0fd496ab", null ],
-    [ "Reset", "dd/d7c/a14989.html#aa38b45f63841c049a2add0a9832268ef", null ],
-    [ "UpdateAI", "dd/d7c/a14989.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
+    [ "CheckCast", "dd/d7c/a14989.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
+    [ "HandleDummy", "dd/d7c/a14989.html#ad39da0510c21855dd74abd93f33621c9", null ],
+    [ "PrepareSpellScript", "dd/d7c/a14989.html#a727093fec8cc8422cbbaa79d821338c8", null ],
+    [ "Register", "dd/d7c/a14989.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
+    [ "Validate", "dd/d7c/a14989.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
 ];

@@ -1,6 +1,6 @@
 var a21813 =
 [
-    [ "npc_jungle_punch_targetAI", "d3/d01/a21817.html", "d3/d01/a21817" ],
-    [ "npc_jungle_punch_target", "dd/dee/a21813.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "dd/dee/a21813.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_attracted_reef_bullAI", "d3/d01/a21817.html", "d3/d01/a21817" ],
+    [ "npc_attracted_reef_bull", "dd/dee/a21813.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "dd/dee/a21813.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

@@ -1,6 +1,6 @@
 var a18165 =
 [
-    [ "npc_big_oozeAI", "d3/db6/a18169.html", "d3/db6/a18169" ],
-    [ "npc_big_ooze", "d5/db7/a18165.html#a8ae667b2782c53cd808f2e02e29713ee", null ],
-    [ "GetAI", "d5/db7/a18165.html#ad06308602d69b51ff3f269bda6c465b5", null ]
+    [ "npc_coldflameAI", "d3/db6/a18169.html", "d3/db6/a18169" ],
+    [ "npc_coldflame", "d5/db7/a18165.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "d5/db7/a18165.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

@@ -1,7 +1,6 @@
 var a22117 =
 [
-    [ "OutdoorPvPGH", "dd/d59/a22117.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "HandleKill", "dd/d59/a22117.html#a78cf572faf727c302f9be496d91004e0", null ],
-    [ "SendRemoveWorldStates", "dd/d59/a22117.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "dd/d59/a22117.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "dd/d59/a22117.html#afd54b130725aa724b80f150f968ce09d", null ],
+    [ "MovementInform", "dd/d59/a22117.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
+    [ "PassengerBoarded", "dd/d59/a22117.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
 ];

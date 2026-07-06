@@ -1,4 +1,7 @@
 var a11329 =
 [
-    [ "InvalidHyperlinkException", "d4/d5b/a11329.html#a4e30376bb16ea56434e65761a2f4a55d", null ]
+    [ "PlayMusic", "d4/d5b/a11329.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d4/d5b/a11329.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d4/d5b/a11329.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d4/d5b/a11329.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

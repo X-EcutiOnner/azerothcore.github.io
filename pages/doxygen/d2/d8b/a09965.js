@@ -1,16 +1,7 @@
 var a09965 =
 [
-    [ "StoredLootItem", "d2/d8b/a09965.html#a32da4030f3e58b7fae5001511c6caa40", null ],
-    [ "conditionLootId", "d2/d8b/a09965.html#a9be27c3407923df6b15bef993dd58830", null ],
-    [ "count", "d2/d8b/a09965.html#a25c63cc5a94ecc3bf803e83be5aabc39", null ],
-    [ "follow_loot_rules", "d2/d8b/a09965.html#ac945688a64f92c40ada1abd5847d9b0d", null ],
-    [ "freeforall", "d2/d8b/a09965.html#a41a3c4caf90fc8c42d2e0e5192201d19", null ],
-    [ "is_blocked", "d2/d8b/a09965.html#a895cc61dd542959c3726dbc54abf7434", null ],
-    [ "is_counted", "d2/d8b/a09965.html#a801a125a5035167f3f511560a29808c4", null ],
-    [ "is_underthreshold", "d2/d8b/a09965.html#ae11badaeeccbb3af7f150d4ca55347a3", null ],
-    [ "itemid", "d2/d8b/a09965.html#afac1addff36f4cd08626ac7ae1ce0cff", null ],
-    [ "itemIndex", "d2/d8b/a09965.html#a076564a43a586c6b6d17cd64fca8e9fb", null ],
-    [ "needs_quest", "d2/d8b/a09965.html#ae7530d417ac10c5766fc25664b427d50", null ],
-    [ "randomPropertyId", "d2/d8b/a09965.html#a12e1cb9403cc4f6ceb770c8cf50a1d17", null ],
-    [ "randomSuffix", "d2/d8b/a09965.html#a2588c810dcd51a5c0c6558b99493602b", null ]
+    [ "AddonHandler", "d2/d8b/a09965.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d2/d8b/a09965.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d2/d8b/a09965.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d2/d8b/a09965.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

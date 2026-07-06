@@ -1,12 +1,11 @@
 var a12381 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "dd/dea/a12381.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "dd/dea/a12381.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "dd/dea/a12381.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "dd/dea/a12381.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "dd/dea/a12381.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "dd/dea/a12381.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "dd/dea/a12381.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "dd/dea/a12381.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "dd/dea/a12381.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "group_commandscript", "dd/dea/a12381.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "dd/dea/a12381.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "dd/dea/a12381.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "dd/dea/a12381.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "dd/dea/a12381.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "dd/dea/a12381.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "dd/dea/a12381.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "dd/dea/a12381.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

@@ -1,9 +1,21 @@
 var a17045 =
 [
-    [ "HandlePeriodicTick", "df/d37/a17045.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "df/d37/a17045.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "df/d37/a17045.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "df/d37/a17045.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "df/d37/a17045.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "df/d37/a17045.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "boss_twin_valkyrAI", "df/d37/a17045.html#a3a10c07715e5ef03c28f132df18e80bd", null ],
+    [ "DoAction", "df/d37/a17045.html#a1a9c9f90108d203c2aca8c401763936f", null ],
+    [ "EnterEvadeMode", "df/d37/a17045.html#a624969393687e10c2f8fca72d9394265", null ],
+    [ "GetSister", "df/d37/a17045.html#a0c0998e2d4981dd3a1e2580497c1f3ef", null ],
+    [ "JustDied", "df/d37/a17045.html#ad3ac59a0c0477a0819fd799b3bc305f6", null ],
+    [ "JustEngagedWith", "df/d37/a17045.html#a2c0015cadfcc90e1c730d8f9c02151e8", null ],
+    [ "JustReachedHome", "df/d37/a17045.html#af6127deaa5ff11a4ae2983e34d538bef", null ],
+    [ "JustSummoned", "df/d37/a17045.html#a6b08f13c0213acf91b72b6341896406e", null ],
+    [ "KilledUnit", "df/d37/a17045.html#a6b6706c12a0abbc36a022eb3af1925ec", null ],
+    [ "myDoMeleeAttackIfReady", "df/d37/a17045.html#a8a488e8d0acab2737c0503ce89fd3d2a", null ],
+    [ "SummonedCreatureDespawn", "df/d37/a17045.html#ae49793079dbec2dbe5e807f998705b20", null ],
+    [ "UpdateAI", "df/d37/a17045.html#aea878cd12d640ce4e3d87deb85c20b9f", null ],
+    [ "UpdateSharedHealth", "df/d37/a17045.html#a4101d2174de103be7154875beaafa65d", null ],
+    [ "events", "df/d37/a17045.html#a08867e9274660a8913034bf3d80e559f", null ],
+    [ "LastSynchroHP", "df/d37/a17045.html#aa66ac25aa73c505df972cf95dca85a71", null ],
+    [ "pInstance", "df/d37/a17045.html#a653a89ac515061fca04240fa71a6630a", null ],
+    [ "SpecialMask", "df/d37/a17045.html#a8ca507c7a288a5cb9a8160129820e4e0", null ],
+    [ "summons", "df/d37/a17045.html#adeb3d3d3eb868ed1a9c211450404b659", null ]
 ];

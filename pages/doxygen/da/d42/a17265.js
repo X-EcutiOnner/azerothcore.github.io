@@ -1,6 +1,12 @@
 var a17265 =
 [
-    [ "npc_pos_icicle_triggerAI", "d4/dcb/a17269.html", "d4/dcb/a17269" ],
-    [ "npc_pos_icicle_trigger", "da/d42/a17265.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "da/d42/a17265.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "boss_marwyn", "da/d42/a17265.html#ad0d7ef02952d4f4a2c8ce1f5099e4bdd", null ],
+    [ "DoAction", "da/d42/a17265.html#a7bd848b407d33942f05b48b6284506bb", null ],
+    [ "EnterEvadeMode", "da/d42/a17265.html#a93849e995d62ba5a220e08157d8758fa", null ],
+    [ "JustDied", "da/d42/a17265.html#a89fd620d0e74675d671cb69cc917d024", null ],
+    [ "JustEngagedWith", "da/d42/a17265.html#a038ed3e1a8c9f3f3bc7f7eca584ad5cd", null ],
+    [ "KilledUnit", "da/d42/a17265.html#aad4dd7a1fb79c704c7e59581f938d2e9", null ],
+    [ "Reset", "da/d42/a17265.html#a0e25c5d894b7e20c6a1781410847c1fa", null ],
+    [ "UpdateAI", "da/d42/a17265.html#ae8d1b8908983af8bff1f13641472817f", null ],
+    [ "_startingFight", "da/d42/a17265.html#aee335b57c5249ecd4ce843e0f1694e80", null ]
 ];

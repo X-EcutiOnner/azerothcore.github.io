@@ -1,7 +1,17 @@
 var a23457 =
 [
-    [ "HandleEffect", "da/d69/a23457.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "da/d69/a23457.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "da/d69/a23457.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "da/d69/a23457.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "boss_grand_warlock_nethekurse", "da/d69/a23457.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
+    [ "DoAction", "da/d69/a23457.html#a8288f8c28b61dac574254435534b5e3f", null ],
+    [ "IntroRP", "da/d69/a23457.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
+    [ "JustDied", "da/d69/a23457.html#a48a2ec7beeb5c9685fc627317acea949", null ],
+    [ "JustEngagedWith", "da/d69/a23457.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
+    [ "JustReachedHome", "da/d69/a23457.html#afe62561de66fbe7fa92c365a51f01adc", null ],
+    [ "KilledUnit", "da/d69/a23457.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
+    [ "Reset", "da/d69/a23457.html#aceef7aace38f5246ad67a1591b7f301c", null ],
+    [ "SetData", "da/d69/a23457.html#a6c647262ce7df78c46af6b725cbcc250", null ],
+    [ "UpdateAI", "da/d69/a23457.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
+    [ "_canAggro", "da/d69/a23457.html#a9c577798d5bc87654e6984af02d95c34", null ],
+    [ "_introStarted", "da/d69/a23457.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
+    [ "PeonEngagedCount", "da/d69/a23457.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
+    [ "PeonKilledCount", "da/d69/a23457.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
 ];

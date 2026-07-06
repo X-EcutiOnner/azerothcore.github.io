@@ -1,12 +1,7 @@
 var a07505 =
 [
-    [ "Arena", "da/d0a/a07505.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "da/d0a/a07505.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "da/d0a/a07505.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "da/d0a/a07505.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "da/d0a/a07505.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "da/d0a/a07505.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "da/d0a/a07505.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "da/d0a/a07505.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "da/d0a/a07505.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "AuctionSearchUpdateBid", "da/d0a/a07505.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
+    [ "auctionId", "da/d0a/a07505.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
+    [ "bid", "da/d0a/a07505.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
+    [ "bidderGuid", "da/d0a/a07505.html#a843bcff41f694075ea056d9a3c71467f", null ]
 ];

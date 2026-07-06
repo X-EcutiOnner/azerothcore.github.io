@@ -1,6 +1,5 @@
 var a28161 =
 [
-    [ "npc_experience", "de/d40/a28161.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "de/d40/a28161.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "de/d40/a28161.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "item_only_for_flight", "de/d40/a28161.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "de/d40/a28161.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

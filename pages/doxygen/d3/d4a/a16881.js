@@ -1,5 +1,8 @@
 var a16881 =
 [
-    [ "boss_fjolaAI", "d3/d4a/a16881.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d3/d4a/a16881.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_toc_warlockAI", "d3/d4a/a16881.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d3/d4a/a16881.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d3/d4a/a16881.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d3/d4a/a16881.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d3/d4a/a16881.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

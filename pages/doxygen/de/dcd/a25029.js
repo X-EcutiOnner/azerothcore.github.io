@@ -1,7 +1,8 @@
 var a25029 =
 [
-    [ "ModDest", "de/dcd/a25029.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "de/dcd/a25029.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "de/dcd/a25029.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "de/dcd/a25029.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "CheckRequirement", "de/dcd/a25029.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "de/dcd/a25029.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "de/dcd/a25029.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "de/dcd/a25029.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "de/dcd/a25029.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

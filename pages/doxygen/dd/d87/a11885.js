@@ -1,6 +1,16 @@
 var a11885 =
 [
-    [ "EffectSplitHandler", "dd/d87/a11885.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
-    [ "Call", "dd/d87/a11885.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
-    [ "pEffectHandlerScript", "dd/d87/a11885.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
+    [ "AttributesMask", "dd/d87/a11885.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
+    [ "Chance", "dd/d87/a11885.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
+    [ "Charges", "dd/d87/a11885.html#a75f0484dad60eec59b399a188fd9908f", null ],
+    [ "Cooldown", "dd/d87/a11885.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
+    [ "DisableEffectsMask", "dd/d87/a11885.html#adc34c0ba25af2e1b1fc3b0fc7c45c019", null ],
+    [ "HitMask", "dd/d87/a11885.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
+    [ "ProcFlags", "dd/d87/a11885.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
+    [ "ProcsPerMinute", "dd/d87/a11885.html#a3815765c08f6b95cae6efb93fa98623b", null ],
+    [ "SchoolMask", "dd/d87/a11885.html#acf72c4a783235770bbff952bdc002324", null ],
+    [ "SpellFamilyMask", "dd/d87/a11885.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
+    [ "SpellFamilyName", "dd/d87/a11885.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
+    [ "SpellPhaseMask", "dd/d87/a11885.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
+    [ "SpellTypeMask", "dd/d87/a11885.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
 ];

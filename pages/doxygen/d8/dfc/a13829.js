@@ -1,5 +1,6 @@
 var a13829 =
 [
-    [ "at_twilight_grove", "d8/dfc/a13829.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d8/dfc/a13829.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "CastArmageddon", "d8/dfc/a13829.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d8/dfc/a13829.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d8/dfc/a13829.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

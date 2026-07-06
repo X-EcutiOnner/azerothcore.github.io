@@ -1,6 +1,6 @@
 var a17249 =
 [
-    [ "npc_pos_after_first_bossAI", "de/db1/a17253.html", "de/db1/a17253" ],
-    [ "npc_pos_after_first_boss", "d8/d6d/a17249.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d8/d6d/a17249.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "entry", "d8/d6d/a17249.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d8/d6d/a17249.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d8/d6d/a17249.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

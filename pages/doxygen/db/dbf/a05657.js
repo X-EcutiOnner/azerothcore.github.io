@@ -1,17 +1,9 @@
 var a05657 =
 [
-    [ "LockedQueue", "db/dbf/a05657.html#a5ce001c1fba3468b513aa7e345113128", null ],
-    [ "~LockedQueue", "db/dbf/a05657.html#a259a03cc68a36181edebe088ef669c46", null ],
-    [ "add", "db/dbf/a05657.html#a03f459044b4ffb413fb8d1ba98179ab8", null ],
-    [ "cancel", "db/dbf/a05657.html#ab3d04497f8a07c5c6b6208b136a297a4", null ],
-    [ "cancelled", "db/dbf/a05657.html#af9e2adfcd3800e9e9fa858fcacf22e2e", null ],
-    [ "empty", "db/dbf/a05657.html#a8d62ae6a4bb93f89816714ccbb519753", null ],
-    [ "next", "db/dbf/a05657.html#ac818ec56d60e2ec059857e0aaa99f8a4", null ],
-    [ "next", "db/dbf/a05657.html#acaade33a01794600c72efbf389fe7664", null ],
-    [ "peek", "db/dbf/a05657.html#af1de22fd872bb07a5ad42779d2ddbac3", null ],
-    [ "pop_front", "db/dbf/a05657.html#aa57d3a3964071fd3e0ba6b7840041c65", null ],
-    [ "readd", "db/dbf/a05657.html#a4eb9aea8b399a2acc2dd893e83d16120", null ],
-    [ "_canceled", "db/dbf/a05657.html#a175454f5bf20f3a312d83e2dd5fc5d7c", null ],
-    [ "_lock", "db/dbf/a05657.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb", null ],
-    [ "_queue", "db/dbf/a05657.html#a55ced2abb0a6dd64554597347b61ebf1", null ]
+    [ "IpLocationStore", "db/dbf/a05657.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "db/dbf/a05657.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "db/dbf/a05657.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "db/dbf/a05657.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "db/dbf/a05657.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "db/dbf/a05657.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

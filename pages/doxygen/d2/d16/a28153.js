@@ -1,5 +1,6 @@
 var a28153 =
 [
-    [ "npc_pet_trainerAI", "d2/d16/a28153.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "d2/d16/a28153.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "guard_shattrath_aldorAI", "d6/da0/a28157.html", "d6/da0/a28157" ],
+    [ "guard_shattrath_aldor", "d2/d16/a28153.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d2/d16/a28153.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

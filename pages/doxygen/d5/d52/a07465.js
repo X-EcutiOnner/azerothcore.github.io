@@ -1,8 +1,11 @@
 var a07465 =
 [
-    [ "WintergraspCapturePoint", "d5/d52/a07465.html#a36090feb3626e204e0029ea45f1d8136", null ],
-    [ "ChangeTeam", "d5/d52/a07465.html#a66564dd3237538b256ebeb76d236001f", null ],
-    [ "GetTeam", "d5/d52/a07465.html#a7ff4106591a5aac1ea8820016b8164bb", null ],
-    [ "LinkToWorkshop", "d5/d52/a07465.html#a32d378eba7f0eea0f011b8ea8c7e6eee", null ],
-    [ "LinkedWorkshop", "d5/d52/a07465.html#a06d98983a020f1f571812cf7ff0f907a", null ]
+    [ "GetSkillValue", "d5/d52/a07465.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
+    [ "HasSpell", "d5/d52/a07465.html#a3400ad05d8423ae6878fab815521ec6f", null ],
+    [ "PlayerCanUseItem", "d5/d52/a07465.html#aee11f4f45f83664483344e3bbfba7463", null ],
+    [ "classMask", "d5/d52/a07465.html#a41a57c372871c84a572d2f3697cb18aa", null ],
+    [ "level", "d5/d52/a07465.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
+    [ "raceMask", "d5/d52/a07465.html#a96e56943da42f1a1258fc1d716259e1a", null ],
+    [ "skills", "d5/d52/a07465.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
+    [ "spells", "d5/d52/a07465.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
 ];

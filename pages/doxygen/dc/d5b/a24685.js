@@ -1,6 +1,10 @@
 var a24685 =
 [
-    [ "CheckProc", "dc/d5b/a24685.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "dc/d5b/a24685.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "dc/d5b/a24685.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "Load", "dc/d5b/a24685.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "dc/d5b/a24685.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "dc/d5b/a24685.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "dc/d5b/a24685.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "dc/d5b/a24685.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "dc/d5b/a24685.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "dc/d5b/a24685.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

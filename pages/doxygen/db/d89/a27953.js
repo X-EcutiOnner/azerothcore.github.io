@@ -1,5 +1,6 @@
 var a27953 =
 [
-    [ "item_captured_frog", "db/d89/a27953.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "db/d89/a27953.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_witherbark_totem_bundleAI", "d2/d96/a27957.html", "d2/d96/a27957" ],
+    [ "go_witherbark_totem_bundle", "db/d89/a27953.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "db/d89/a27953.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

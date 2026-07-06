@@ -1,4 +1,4 @@
 var a03890 =
 [
-    [ "WorldPackets::Combat::SetSheathed", "d3/dbd/a10947.html", "d3/dbd/a10947" ]
+    [ "ServerPktHeader", "d1/d11/a11661.html", "d1/d11/a11661" ]
 ];

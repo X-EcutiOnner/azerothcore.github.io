@@ -1,7 +1,8 @@
 var a11405 =
 [
-    [ "PetActionSound", "d6/d5e/a11405.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
-    [ "Write", "d6/d5e/a11405.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
-    [ "Action", "d6/d5e/a11405.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
-    [ "UnitGUID", "d6/d5e/a11405.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
+    [ "TrainerBuyFailed", "d6/d5e/a11405.html#a01e7709ea4fe86de57f61ba8ffc5ba6d", null ],
+    [ "Write", "d6/d5e/a11405.html#a75c3bff5da4699fc412793caef1b75af", null ],
+    [ "SpellID", "d6/d5e/a11405.html#a807873fb60cfa1bafa78f3f479fef75b", null ],
+    [ "TrainerFailedReason", "d6/d5e/a11405.html#a746ff497fba16adb16bbb647dff385df", null ],
+    [ "TrainerGUID", "d6/d5e/a11405.html#ac8d286ad6add18b92dd7e2111a4ec28c", null ]
 ];

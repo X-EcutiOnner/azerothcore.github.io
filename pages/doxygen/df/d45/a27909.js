@@ -1,8 +1,7 @@
 var a27909 =
 [
-    [ "go_bellsAI", "df/d45/a27909.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "df/d45/a27909.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "df/d45/a27909.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "df/d45/a27909.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "df/d45/a27909.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "npc_spirit_shadeAI", "df/d45/a27909.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "df/d45/a27909.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "df/d45/a27909.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "df/d45/a27909.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

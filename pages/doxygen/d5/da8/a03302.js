@@ -1,5 +1,6 @@
 var a03302 =
 [
-    [ "GetIdleMovementGenerator", "d5/da8/a03302.html#ab03e344726a074f17f8c63d10b67fcc1", null ],
-    [ "isStatic", "d5/da8/a03302.html#a05fec3371a9aee5a6448115a645a505d", null ]
+    [ "Movement::FacingInfo", "d5/d4a/a10493.html", "d5/d4a/a10493" ],
+    [ "Movement::MoveSplineInitArgs", "db/da3/a10501.html", "db/da3/a10501" ],
+    [ "PointsArray", "d5/da8/a03302.html#a86528b2e04ddf38b80888e45d6b9c37d", null ]
 ];

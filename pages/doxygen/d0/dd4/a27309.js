@@ -1,7 +1,6 @@
 var a27309 =
 [
-    [ "HandleDispel", "d0/dd4/a27309.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d0/dd4/a27309.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d0/dd4/a27309.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d0/dd4/a27309.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "CheckProc", "d0/dd4/a27309.html#a3b98aef2d745773a55ac10daded629e7", null ],
+    [ "PrepareAuraScript", "d0/dd4/a27309.html#ab49dc1c178c4089fe8f708da3cd22bf2", null ],
+    [ "Register", "d0/dd4/a27309.html#a5c0c53a39fdc770f8c6e9a86cd87c74a", null ]
 ];

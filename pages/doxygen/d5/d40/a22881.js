@@ -1,10 +1,7 @@
 var a22881 =
 [
-    [ "Spells", "d5/d40/a22881.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "d5/d40/a22881.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "d5/d40/a22881.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "d5/d40/a22881.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "d5/d40/a22881.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "d5/d40/a22881.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "HandleEffectRemove", "d5/d40/a22881.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "d5/d40/a22881.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "d5/d40/a22881.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "d5/d40/a22881.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

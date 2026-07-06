@@ -1,7 +1,6 @@
 var a18113 =
 [
-    [ "CheckRequirement", "d9/db5/a18113.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d9/db5/a18113.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d9/db5/a18113.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d9/db5/a18113.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "npc_cult_fanaticAI", "d0/da4/a18117.html", "d0/da4/a18117" ],
+    [ "npc_cult_fanatic", "d9/db5/a18113.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d9/db5/a18113.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

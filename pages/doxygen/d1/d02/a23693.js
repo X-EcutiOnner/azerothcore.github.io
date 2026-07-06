@@ -1,5 +1,6 @@
 var a23693 =
 [
-    [ "go_warmaul_prison", "d1/d02/a23693.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d1/d02/a23693.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "HandleScriptEffect", "d1/d02/a23693.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d1/d02/a23693.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d1/d02/a23693.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

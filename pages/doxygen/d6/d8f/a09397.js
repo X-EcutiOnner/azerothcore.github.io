@@ -1,9 +1,10 @@
 var a09397 =
 [
-    [ "GridReference", "d6/d8f/a09397.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d6/d8f/a09397.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d6/d8f/a09397.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d6/d8f/a09397.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d6/d8f/a09397.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d6/d8f/a09397.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "Flags", "d6/d8f/a09397.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d6/d8f/a09397.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d6/d8f/a09397.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d6/d8f/a09397.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d6/d8f/a09397.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d6/d8f/a09397.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d6/d8f/a09397.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

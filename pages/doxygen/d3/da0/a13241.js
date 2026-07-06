@@ -1,6 +1,8 @@
 var a13241 =
 [
-    [ "npc_scarlet_ghoulAI", "db/df1/a13245.html", "db/df1/a13245" ],
-    [ "npc_scarlet_ghoul", "d3/da0/a13241.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d3/da0/a13241.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "npc_tito", "d3/da0/a13241.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "d3/da0/a13241.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "d3/da0/a13241.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "d3/da0/a13241.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "d3/da0/a13241.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

@@ -1,6 +1,6 @@
 var a17037 =
 [
-    [ "FilterTargets", "d3/daa/a17037.html#a36879a2920f43562bb0ff89c76d758e4", null ],
-    [ "PrepareSpellScript", "d3/daa/a17037.html#afeb95c5fe970ebc147d509981b026e98", null ],
-    [ "Register", "d3/daa/a17037.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
+    [ "boss_icehowlAI", "de/dce/a17041.html", "de/dce/a17041" ],
+    [ "boss_icehowl", "d3/daa/a17037.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
+    [ "GetAI", "d3/daa/a17037.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
 ];

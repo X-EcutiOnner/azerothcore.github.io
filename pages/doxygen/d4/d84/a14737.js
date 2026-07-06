@@ -1,8 +1,7 @@
 var a14737 =
 [
-    [ "OnApply", "d4/d84/a14737.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
-    [ "OnRemove", "d4/d84/a14737.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
-    [ "PrepareAuraScript", "d4/d84/a14737.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
-    [ "Register", "d4/d84/a14737.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
-    [ "Validate", "d4/d84/a14737.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
+    [ "PeriodicTick", "d4/d84/a14737.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "d4/d84/a14737.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "d4/d84/a14737.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "d4/d84/a14737.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

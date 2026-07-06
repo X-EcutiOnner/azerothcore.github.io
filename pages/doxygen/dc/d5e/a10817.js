@@ -1,6 +1,10 @@
 var a10817 =
 [
-    [ "ArenaTeam", "dc/d5e/a10817.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
-    [ "Read", "dc/d5e/a10817.html#a9953d33b35eca1b91ed1618609c6acea", null ],
-    [ "ArenaTeamId", "dc/d5e/a10817.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
+    [ "VehicleScript", "dc/d5e/a10817.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "dc/d5e/a10817.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "dc/d5e/a10817.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "dc/d5e/a10817.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "dc/d5e/a10817.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "dc/d5e/a10817.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "dc/d5e/a10817.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

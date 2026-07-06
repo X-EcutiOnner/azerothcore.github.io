@@ -1,8 +1,7 @@
 var a23281 =
 [
-    [ "npc_warchief_portal", "d4/d24/a23281.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d4/d24/a23281.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d4/d24/a23281.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d4/d24/a23281.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d4/d24/a23281.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "OnApply", "d4/d24/a23281.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d4/d24/a23281.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d4/d24/a23281.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d4/d24/a23281.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

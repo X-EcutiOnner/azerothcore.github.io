@@ -1,11 +1,8 @@
 var a05309 =
 [
-    [ "~GameObjectModelOwnerBase", "da/d15/a05309.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "da/d15/a05309.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "da/d15/a05309.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "da/d15/a05309.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "da/d15/a05309.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "da/d15/a05309.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "da/d15/a05309.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "da/d15/a05309.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "LocationInfoCallback", "da/d15/a05309.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
+    [ "operator()", "da/d15/a05309.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
+    [ "locInfo", "da/d15/a05309.html#a9a8b8529a571b3652cd898b2888d8027", null ],
+    [ "prims", "da/d15/a05309.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
+    [ "result", "da/d15/a05309.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
 ];

@@ -1,7 +1,16 @@
 var a24185 =
 [
-    [ "CheckCast", "dd/da9/a24185.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "dd/da9/a24185.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "dd/da9/a24185.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "dd/da9/a24185.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "dd/da9/a24185.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "dd/da9/a24185.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "dd/da9/a24185.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "dd/da9/a24185.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "dd/da9/a24185.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "dd/da9/a24185.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "dd/da9/a24185.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "dd/da9/a24185.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "dd/da9/a24185.html#a9c89972cde36f3d2b5686485f0e2905f", null ],
+    [ "_init", "dd/da9/a24185.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "dd/da9/a24185.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "dd/da9/a24185.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "dd/da9/a24185.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

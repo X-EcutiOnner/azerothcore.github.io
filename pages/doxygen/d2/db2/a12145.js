@@ -1,6 +1,7 @@
 var a12145 =
 [
-    [ "bg_commandscript", "d2/db2/a12145.html#a86ffdfaed58149f5036f5c1e1040507a", null ],
-    [ "GetCommands", "d2/db2/a12145.html#a911ccd6445b08c05069f7f196556c891", null ],
-    [ "HandleBagsClearCommand", "d2/db2/a12145.html#a92347e90c2f78d0dfeb41eb033366319", null ]
+    [ "StringTransaction", "d2/db2/a12145.html#aef82d603733e7cb0636d95abea9e6cdc", null ],
+    [ "Append", "d2/db2/a12145.html#a0d1d9db61a1b3658c3d0fde37e2a4c5e", null ],
+    [ "GetBuffer", "d2/db2/a12145.html#a7cb52c3e029cdb971dfbb4048ade25a0", null ],
+    [ "_buf", "d2/db2/a12145.html#a4ec7dd27d7a2321cd1cead11ca78c1ef", null ]
 ];

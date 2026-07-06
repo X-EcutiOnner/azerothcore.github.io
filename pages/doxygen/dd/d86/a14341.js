@@ -1,5 +1,6 @@
 var a14341 =
 [
-    [ "npc_brain_wash_totem", "dd/d86/a14341.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "dd/d86/a14341.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "go", "dd/d86/a14341.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "dd/d86/a14341.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "dd/d86/a14341.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

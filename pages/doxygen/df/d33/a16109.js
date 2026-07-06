@@ -1,12 +1,6 @@
 var a16109 =
 [
-    [ "npc_twilight_volunteer", "df/d33/a16109.html#a3062041fcabf972e0a3d4753363c37b3", null ],
-    [ "AttackStart", "df/d33/a16109.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
-    [ "DoAction", "df/d33/a16109.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
-    [ "EnterEvadeMode", "df/d33/a16109.html#abd88e6fe0565babb92ccae17df0421d6", null ],
-    [ "MovementInform", "df/d33/a16109.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
-    [ "UpdateAI", "df/d33/a16109.html#a93288a45982b172c201e2442a4c91114", null ],
-    [ "events", "df/d33/a16109.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
-    [ "isSacraficeTarget", "df/d33/a16109.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
-    [ "pInstance", "df/d33/a16109.html#ad58453e078520fa23238a96115e5f38f", null ]
+    [ "npc_twiggy_flatheadAI", "da/d8e/a16113.html", "da/d8e/a16113" ],
+    [ "npc_twiggy_flathead", "df/d33/a16109.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "df/d33/a16109.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

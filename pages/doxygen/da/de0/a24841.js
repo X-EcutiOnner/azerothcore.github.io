@@ -1,6 +1,6 @@
 var a24841 =
 [
-    [ "CheckRequirement", "da/de0/a24841.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "da/de0/a24841.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "da/de0/a24841.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "CheckAreaTarget", "da/de0/a24841.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "da/de0/a24841.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "da/de0/a24841.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

@@ -1,7 +1,7 @@
 var a16945 =
 [
-    [ "HandleScriptEffect", "d7/d0c/a16945.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d7/d0c/a16945.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d7/d0c/a16945.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d7/d0c/a16945.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_toc_retro_paladinAI", "d7/d0c/a16945.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "d7/d0c/a16945.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "d7/d0c/a16945.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "d7/d0c/a16945.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

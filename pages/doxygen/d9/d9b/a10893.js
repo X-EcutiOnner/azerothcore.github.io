@@ -1,7 +1,6 @@
 var a10893 =
 [
-    [ "QueryGuildInfoResponse", "d9/d9b/a10893.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d9/d9b/a10893.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d9/d9b/a10893.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d9/d9b/a10893.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "BuyBankSlotResult", "d9/d9b/a10893.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d9/d9b/a10893.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d9/d9b/a10893.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

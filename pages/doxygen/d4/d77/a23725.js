@@ -1,7 +1,7 @@
 var a23725 =
 [
-    [ "npc_maxx_a_million_escortAI", "df/d0b/a23729.html", "df/d0b/a23729" ],
-    [ "npc_maxx_a_million_escort", "d4/d77/a23725.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d4/d77/a23725.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d4/d77/a23725.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "boss_gatewatcher_gyrokill", "d4/d77/a23725.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d4/d77/a23725.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d4/d77/a23725.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d4/d77/a23725.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

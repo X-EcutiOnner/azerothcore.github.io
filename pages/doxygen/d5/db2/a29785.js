@@ -1,6 +1,9 @@
 var a29785 =
 [
-    [ "SetUp", "d5/db2/a29785.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
-    [ "_entry", "d5/db2/a29785.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
-    [ "_procEntry", "d5/db2/a29785.html#affb4da9ec7478c526f07056b83bfff60", null ]
+    [ "CreateSpellInfo", "d5/db2/a29785.html#a83fe2676ce2ae1374600de46967aeae5", null ],
+    [ "SetUp", "d5/db2/a29785.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
+    [ "TearDown", "d5/db2/a29785.html#acb5697251398888a4cc282c359cfc4ec", null ],
+    [ "_originalWorld", "d5/db2/a29785.html#ae44f699ee1acedae6ead179c3f012594", null ],
+    [ "_spellInfos", "d5/db2/a29785.html#ac06654664782d249c4233f79990c817b", null ],
+    [ "_worldMock", "d5/db2/a29785.html#a98d5f98dfc4d63705920b7b164530022", null ]
 ];

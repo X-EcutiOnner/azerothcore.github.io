@@ -1,9 +1,7 @@
 var a29101 =
 [
-    [ "chargeConsumed", "d4/d09/a29101.html#a49f170e5f66cecdf6d719d1f6ac97254", null ],
-    [ "cooldownSet", "d4/d09/a29101.html#a60219087858953e3ea124b1b784516b2", null ],
-    [ "effectMask", "d4/d09/a29101.html#ae0feb161d225551bba25d466541cde84", null ],
-    [ "procChance", "d4/d09/a29101.html#a0299896836a739f2601a5ee1078f53bb", null ],
-    [ "shouldProc", "d4/d09/a29101.html#a497babcaf1a36b0abd10b4e360c231f2", null ],
-    [ "spellsCast", "d4/d09/a29101.html#a12d58d19ba4df25b8bd9dc6e1d089408", null ]
+    [ "Id", "d4/d09/a29101.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d4/d09/a29101.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d4/d09/a29101.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d4/d09/a29101.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

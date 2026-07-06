@@ -1,9 +1,5 @@
 var a15437 =
 [
-    [ "boss_fankriss", "d6/d51/a15437.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "d6/d51/a15437.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "d6/d51/a15437.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "d6/d51/a15437.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "d6/d51/a15437.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "d6/d51/a15437.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_hive_zara_swarmer", "d6/d51/a15437.html#a374fa63e210e0be8a074af9199126a9e", null ],
+    [ "PathEndReached", "d6/d51/a15437.html#a3b3510bd00853395b756e1d83d96a474", null ]
 ];

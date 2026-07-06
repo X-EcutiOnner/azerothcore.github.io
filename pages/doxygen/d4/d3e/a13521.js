@@ -1,6 +1,8 @@
 var a13521 =
 [
-    [ "HandleSendEvent", "d4/d3e/a13521.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d4/d3e/a13521.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d4/d3e/a13521.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "HandleHit", "d4/d3e/a13521.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d4/d3e/a13521.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d4/d3e/a13521.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d4/d3e/a13521.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d4/d3e/a13521.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

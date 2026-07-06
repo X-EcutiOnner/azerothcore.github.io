@@ -1,13 +1,10 @@
 var a21265 =
 [
-    [ "npc_preparations_for_war_vehicle", "d6/db6/a21265.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "MovementInform", "d6/db6/a21265.html#a5380670d521c7805a045aeac26c7c686", null ],
-    [ "PassengerBoarded", "d6/db6/a21265.html#a84b4af01c9854cbae3fca5a59aa83763", null ],
-    [ "SpellHit", "d6/db6/a21265.html#acf861b4dae849862241f6a6a8abdcdd8", null ],
-    [ "UpdateAI", "d6/db6/a21265.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "passenger_x", "d6/db6/a21265.html#ac2eb8ea5fa8f5c5206ae799e4b74b213", null ],
-    [ "passenger_y", "d6/db6/a21265.html#afd99c49b3c3b996c92def21229f1ec87", null ],
-    [ "passenger_z", "d6/db6/a21265.html#a18d051868134d8c62f64923905bf19db", null ],
-    [ "searchForShipTimer", "d6/db6/a21265.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d6/db6/a21265.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_erekem_guard", "d6/db6/a21265.html#a4c3ea7c84fbc1c2b3239c0bcf9e734d5", null ],
+    [ "JustEngagedWith", "d6/db6/a21265.html#a05c81c2b1ec3bb48ae3003f8d825ffc0", null ],
+    [ "MoveInLineOfSight", "d6/db6/a21265.html#a31ea4b54a0adae7e3fee31d38af87c3e", null ],
+    [ "Reset", "d6/db6/a21265.html#aacdc16855938d9f133b751f91b5e9402", null ],
+    [ "UpdateAI", "d6/db6/a21265.html#ae57b5c4e61d9e9475c66b68797a51f09", null ],
+    [ "_events", "d6/db6/a21265.html#a13829cd26d18c42213be1f6640a2b979", null ],
+    [ "_instance", "d6/db6/a21265.html#af890899c6d5e0b67fa5b0336c5a31dfc", null ]
 ];

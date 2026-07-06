@@ -1,6 +1,6 @@
 var a13885 =
 [
-    [ "x", "da/da3/a13885.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "da/da3/a13885.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "da/da3/a13885.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "PrepareSpellScript", "da/da3/a13885.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "da/da3/a13885.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "da/da3/a13885.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

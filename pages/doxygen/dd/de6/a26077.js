@@ -1,5 +1,7 @@
 var a26077 =
 [
-    [ "Trigger", "dd/de6/a26077.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "dd/de6/a26077.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleProc", "dd/de6/a26077.html#a0a0dad1c639499963a61d18fe78af1c1", null ],
+    [ "PrepareAuraScript", "dd/de6/a26077.html#aa5e12d556fef142f96c8f03dda4a4c80", null ],
+    [ "Register", "dd/de6/a26077.html#ac8790ac907c6aa798575e2460c272f17", null ],
+    [ "Validate", "dd/de6/a26077.html#a4020daf9d601eb53fe84f9cdbcf96626", null ]
 ];
