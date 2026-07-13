@@ -1,5 +1,8 @@
 var a28429 =
 [
-    [ "npc_controller", "dc/de5/a28429.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "dc/de5/a28429.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_traveler_mammoth_vendor", "dc/de5/a28429.html#af3b5fc14371eb03e8259799b296967c1", null ],
+    [ "Reset", "dc/de5/a28429.html#a2b8cf527d2a42b4884f0a4e03a15e8ef", null ],
+    [ "UpdateAI", "dc/de5/a28429.html#a98129bb78476ddc0b1a09593b8894fff", null ],
+    [ "_hasEjected", "dc/de5/a28429.html#af801e9849a795358c812fddf69ec8434", null ],
+    [ "_playerGuid", "dc/de5/a28429.html#a9e657a91bedc5643b2de6a135e97d89c", null ]
 ];

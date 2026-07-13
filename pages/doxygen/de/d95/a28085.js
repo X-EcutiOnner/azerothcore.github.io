@@ -1,6 +1,5 @@
 var a28085 =
 [
-    [ "go_bashir_crystalforge", "de/d95/a28085.html#a8b68a63933e14d82198580912fddc280", null ],
-    [ "OnGossipHello", "de/d95/a28085.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
-    [ "OnGossipSelect", "de/d95/a28085.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
+    [ "go_scourge_cage", "de/d95/a28085.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
+    [ "OnGossipHello", "de/d95/a28085.html#ab4e97cd290342d623d212cc7cec227d5", null ]
 ];

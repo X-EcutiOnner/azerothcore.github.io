@@ -1,6 +1,6 @@
 var a29405 =
 [
-    [ "auraName", "dd/dad/a29405.html#a953f930e046655ca0d8f373362d3f334", null ],
-    [ "isAlwaysTriggeredAura", "dd/dad/a29405.html#a05786c8e0daef9a2da98f832c230d99c", null ],
-    [ "procFlags", "dd/dad/a29405.html#aed48a1ad923118ac0a86d864e1e98519", null ]
+    [ "conditionsMet", "dd/dad/a29405.html#ade58814e6b27763d1bb6c1f730ef53e0", null ],
+    [ "hasConditions", "dd/dad/a29405.html#a160ac902a994fdaaa36b66dbaa4c8282", null ],
+    [ "sourceType", "dd/dad/a29405.html#abbfa5f40abb5713e15311f8259d70dc6", null ]
 ];

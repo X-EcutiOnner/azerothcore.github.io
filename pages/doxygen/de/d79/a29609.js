@@ -1,10 +1,12 @@
 var a29609 =
 [
-    [ "SetUp", "de/d79/a29609.html#a59657ac0b1eef5636d297ef3fd72f81e", null ],
-    [ "TearDown", "de/d79/a29609.html#a3e60f8d66a4d2ade8a844cd273079799", null ],
-    [ "_creatureA", "de/d79/a29609.html#a9b8fd602bcafd1e7da74d84ff650bb8d", null ],
-    [ "_creatureB", "de/d79/a29609.html#a013f2803435327693032f6bf23728219", null ],
-    [ "_map", "de/d79/a29609.html#aff1204f57b91638d6f2513bfec515b88", null ],
-    [ "_previousWorld", "de/d79/a29609.html#a4f5f721748aaae7fc00172049fe75639", null ],
-    [ "_worldMock", "de/d79/a29609.html#a3f59d709f3f43cb7b7a86b4370350982", null ]
+    [ "TestVisibilityScript", "de/d79/a29609.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "de/d79/a29609.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "de/d79/a29609.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "de/d79/a29609.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "de/d79/a29609.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "de/d79/a29609.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "de/d79/a29609.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "de/d79/a29609.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "de/d79/a29609.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

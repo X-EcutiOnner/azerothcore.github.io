@@ -1,12 +1,11 @@
 var a29613 =
 [
-    [ "TestVisibilityScript", "da/d5d/a29613.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "da/d5d/a29613.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "da/d5d/a29613.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "da/d5d/a29613.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "da/d5d/a29613.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "da/d5d/a29613.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "da/d5d/a29613.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "da/d5d/a29613.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "da/d5d/a29613.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "SetUp", "da/d5d/a29613.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "SimulateGmVisibleOff", "da/d5d/a29613.html#a9276b43219f395a537a0ee51ab00905c", null ],
+    [ "SimulateGmVisibleOn", "da/d5d/a29613.html#afc09b0c8806fbf445e25f8f194a8228b", null ],
+    [ "TearDown", "da/d5d/a29613.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "da/d5d/a29613.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "da/d5d/a29613.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "da/d5d/a29613.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "da/d5d/a29613.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

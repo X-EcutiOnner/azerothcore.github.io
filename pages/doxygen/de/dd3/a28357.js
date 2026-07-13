@@ -1,6 +1,7 @@
 var a28357 =
 [
-    [ "npc_steam_tonkAI", "de/d32/a28361.html", "de/d32/a28361" ],
-    [ "npc_steam_tonk", "de/dd3/a28357.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "de/dd3/a28357.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_steam_tonkAI", "de/dd3/a28357.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "de/dd3/a28357.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "de/dd3/a28357.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "de/dd3/a28357.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

@@ -16,8 +16,6 @@ var a03743 =
       [ "BG_NA_OBJECT_DOOR_4", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffca5690093aa04635e30731d6b165331299", null ],
       [ "BG_NA_OBJECT_BUFF_1", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffcac1c0e18a004c1daaae690b77cb61e340", null ],
       [ "BG_NA_OBJECT_BUFF_2", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffca87f6c8115cba6b3e3c8f30d7845108de", null ],
-      [ "BG_NA_OBJECT_READY_MARKER_1", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffcaa4f00f50070659c120fae25ccaf3a362", null ],
-      [ "BG_NA_OBJECT_READY_MARKER_2", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffcacf5a04e41e8a9fc5cadcc3448f88213c", null ],
       [ "BG_NA_OBJECT_MAX", "d1/dd8/a03743.html#aa6ddc80a19a5d68782bca5f23b651ffca68f38c2d23db000bca22be2fb9cc9f8b", null ]
     ] ]
 ];

@@ -1,6 +1,10 @@
 var a28297 =
 [
-    [ "npc_air_force_botsAI", "d7/d5e/a28301.html", "d7/d5e/a28301" ],
-    [ "npc_air_force_bots", "de/da2/a28297.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "de/da2/a28297.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_air_force_botsAI", "de/da2/a28297.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "de/da2/a28297.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "de/da2/a28297.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "de/da2/a28297.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "de/da2/a28297.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "de/da2/a28297.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "de/da2/a28297.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

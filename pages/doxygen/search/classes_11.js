@@ -1,7 +1,7 @@
 var searchData=
 [
   ['qemote_0',['QEmote',['../d0/d7a/a09977.html',1,'']]],
-  ['quaternion_1',['Quaternion',['../dc/dae/a30061.html',1,'']]],
+  ['quaternion_1',['Quaternion',['../d7/d94/a30057.html',1,'']]],
   ['quaterniondata_2',['QuaternionData',['../d4/dd0/a08681.html',1,'']]],
   ['querycallback_3',['QueryCallback',['../db/d15/a06181.html',1,'']]],
   ['querycallbackdata_4',['QueryCallbackData',['../df/da5/a06173.html',1,'QueryCallback']]],
@@ -11,11 +11,11 @@ var searchData=
   ['quest_8',['quest',['../de/da7/a08169.html',1,'Acore::Hyperlinks::LinkTags']]],
   ['quest_9',['Quest',['../df/d04/a10597.html',1,'']]],
   ['quest_5fcommandscript_10',['quest_commandscript',['../dc/d4d/a12493.html',1,'']]],
-  ['questapprenticeanglerplayerscript_11',['QuestApprenticeAnglerPlayerScript',['../d4/dcb/a28437.html',1,'']]],
+  ['questapprenticeanglerplayerscript_11',['QuestApprenticeAnglerPlayerScript',['../da/db5/a28433.html',1,'']]],
   ['questcinematic_12',['QuestCinematic',['../d8/d6a/a16001.html',1,'']]],
   ['questconfirmaccept_13',['QuestConfirmAccept',['../d5/d74/a11549.html',1,'WorldPackets::Quest']]],
   ['questconfirmacceptclient_14',['QuestConfirmAcceptClient',['../dd/db5/a11585.html',1,'WorldPackets::Quest']]],
-  ['questfactionrewentry_15',['QuestFactionRewEntry',['../d9/d51/a29093.html',1,'']]],
+  ['questfactionrewentry_15',['QuestFactionRewEntry',['../d1/d3a/a29089.html',1,'']]],
   ['questgiverquestautolaunch_16',['QuestGiverQuestAutoLaunch',['../d6/d3d/a11573.html',1,'WorldPackets::Quest']]],
   ['questgiverquestcomplete_17',['QuestGiverQuestComplete',['../dd/de2/a11533.html',1,'WorldPackets::Quest']]],
   ['questgiverquestfailed_18',['QuestGiverQuestFailed',['../d1/d6a/a11537.html',1,'WorldPackets::Quest']]],
@@ -35,7 +35,7 @@ var searchData=
   ['questpushresult_32',['QuestPushResult',['../db/d60/a11553.html',1,'WorldPackets::Quest']]],
   ['questpushresultclient_33',['QuestPushResultClient',['../dc/da0/a11569.html',1,'WorldPackets::Quest']]],
   ['questrequestitemslocale_34',['QuestRequestItemsLocale',['../d1/d44/a10589.html',1,'']]],
-  ['questsortentry_35',['QuestSortEntry',['../de/d11/a29085.html',1,'']]],
+  ['questsortentry_35',['QuestSortEntry',['../d4/d77/a29081.html',1,'']]],
   ['queststatusdata_36',['QuestStatusData',['../de/d3c/a10601.html',1,'']]],
   ['questupdateadditem_37',['QuestUpdateAddItem',['../dc/dfa/a11557.html',1,'WorldPackets::Quest']]],
   ['questupdateaddkill_38',['QuestUpdateAddKill',['../db/d54/a11561.html',1,'WorldPackets::Quest']]],
@@ -43,6 +43,6 @@ var searchData=
   ['questupdatecomplete_40',['QuestUpdateComplete',['../d6/df8/a11529.html',1,'WorldPackets::Quest']]],
   ['questupdatefailedtimer_41',['QuestUpdateFailedTimer',['../db/db1/a11541.html',1,'WorldPackets::Quest']]],
   ['questvisitor_42',['QuestVisitor',['../d8/d0d/a07953.html',1,'']]],
-  ['questxpentry_43',['QuestXPEntry',['../d1/d3a/a29089.html',1,'']]],
+  ['questxpentry_43',['QuestXPEntry',['../de/d11/a29085.html',1,'']]],
   ['quotedstring_44',['QuotedString',['../d6/dea/a08065.html',1,'Acore::ChatCommands']]]
 ];

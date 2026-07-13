@@ -1,5 +1,6 @@
 var a29745 =
 [
-    [ "SetUp", "dc/d4b/a29745.html#a43a467bfcff58079e28fece9bfe3464c", null ],
-    [ "ALL_EFFECTS_MASK", "dc/d4b/a29745.html#ac82c59da0a73f393dcef17d666ef65bf", null ]
+    [ "CreateArmorProcConfig", "dc/d4b/a29745.html#aae16272567352cb8730edcba3908a08f", null ],
+    [ "CreateWeaponProcConfig", "dc/d4b/a29745.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
+    [ "SetUp", "dc/d4b/a29745.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
 ];

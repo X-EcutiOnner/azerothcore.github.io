@@ -1,5 +1,6 @@
 var a29401 =
 [
-    [ "auraHasDisableProcAttr", "dc/dde/a29401.html#aec81d4f80c7cb7749f860601c9e5aac8", null ],
-    [ "triggeringSpellIsProcDisabled", "dc/dde/a29401.html#a38c3523c80d30ed10b8c3b5e19c083f6", null ]
+    [ "auraName", "dc/dde/a29401.html#a953f930e046655ca0d8f373362d3f334", null ],
+    [ "isAlwaysTriggeredAura", "dc/dde/a29401.html#a05786c8e0daef9a2da98f832c230d99c", null ],
+    [ "procFlags", "dc/dde/a29401.html#aed48a1ad923118ac0a86d864e1e98519", null ]
 ];

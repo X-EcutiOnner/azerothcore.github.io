@@ -340,47 +340,47 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1110</span>    {</div>
-<div class="line"><span class="lineno"> 1111</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d3b/a09125.html">Unit</a>* target = <a class="code hl_function" href="../../d9/da0/a12001.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
-<div class="line"><span class="lineno"> 1112</span>        {</div>
-<div class="line"><span class="lineno"> 1113</span>            <span class="keywordflow">if</span> (target-&gt;GetMapId() == <a class="code hl_enumvalue" href="../../d2/d35/a02480.html#a6d57376a08b6ff3944dd9a5930a492cbae180979a6923a49cd31fb76e1de5e55b">MAP_ULDUAR</a>)</div>
-<div class="line"><span class="lineno"> 1114</span>                <a class="code hl_function" href="../../d9/da0/a12001.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(<a class="code hl_function" href="../../d9/da0/a12001.html#a54240ef7a7f2394f3e64c84bdc7ed61b">GetMaxDuration</a>());</div>
-<div class="line"><span class="lineno"> 1115</span>            <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>))</div>
-<div class="line"><span class="lineno"> 1116</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1117</span>            <span class="keywordflow">if</span> (target-&gt;isMoving() || target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>))</div>
-<div class="line"><span class="lineno"> 1118</span>            {</div>
-<div class="line"><span class="lineno"> 1119</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a>)</div>
-<div class="line"><span class="lineno"> 1120</span>                {</div>
-<div class="line"><span class="lineno"> 1121</span>                    <a class="code hl_function" href="../../d9/da0/a12001.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
-<div class="line"><span class="lineno"> 1122</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1123</span>                }</div>
-<div class="line"><span class="lineno"> 1124</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1125</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1126</span> </div>
-<div class="line"><span class="lineno"> 1127</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> &gt;= 2)</div>
-<div class="line"><span class="lineno"> 1128</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> -= 2;</div>
-<div class="line"><span class="lineno"> 1129</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>)</div>
-<div class="line"><span class="lineno"> 1130</span>                    --<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>;</div>
-<div class="line"><span class="lineno"> 1131</span>            }</div>
-<div class="line"><span class="lineno"> 1132</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1133</span>            {</div>
-<div class="line"><span class="lineno"> 1134</span>                <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1135</span>                ++<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>;</div>
-<div class="line"><span class="lineno"> 1136</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> &gt;= 4)</div>
-<div class="line"><span class="lineno"> 1137</span>                {</div>
-<div class="line"><span class="lineno"> 1138</span>                    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/da0/a12001.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() == 2) <span class="comment">// increasing from 2 to 3 (not checking &gt;= to improve performance)</span></div>
-<div class="line"><span class="lineno"> 1139</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d45/a10049.html">InstanceScript</a>* _instance = target-&gt;GetInstanceScript())</div>
-<div class="line"><span class="lineno"> 1140</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/de0/a08365.html">Creature</a>* hodir = _instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../d2/d81/a02276.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>))</div>
-<div class="line"><span class="lineno"> 1141</span>                                hodir-&gt;AI()-&gt;SetData(2, 1);</div>
-<div class="line"><span class="lineno"> 1142</span>                    <a class="code hl_function" href="../../d9/da0/a12001.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(1);</div>
-<div class="line"><span class="lineno"> 1143</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> = 0;</div>
-<div class="line"><span class="lineno"> 1144</span>                }</div>
-<div class="line"><span class="lineno"> 1145</span>            }</div>
-<div class="line"><span class="lineno"> 1146</span> </div>
-<div class="line"><span class="lineno"> 1147</span>            <span class="keyword">const</span> <a class="code hl_typedef" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dmg = 200 * pow(2.0f, <a class="code hl_function" href="../../d9/da0/a12001.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>());</div>
-<div class="line"><span class="lineno"> 1148</span>            target-&gt;CastCustomSpell(target, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a869f697d63d4c29675e84d06675274db">SPELL_BITING_COLD_DAMAGE</a>, &amp;dmg, 0, 0, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno"> 1149</span>        }</div>
-<div class="line"><span class="lineno"> 1150</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1116</span>    {</div>
+<div class="line"><span class="lineno"> 1117</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../df/d3b/a09125.html">Unit</a>* target = <a class="code hl_function" href="../../d9/da0/a12001.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">GetTarget</a>())</div>
+<div class="line"><span class="lineno"> 1118</span>        {</div>
+<div class="line"><span class="lineno"> 1119</span>            <span class="keywordflow">if</span> (target-&gt;GetMapId() == <a class="code hl_enumvalue" href="../../d2/d35/a02480.html#a6d57376a08b6ff3944dd9a5930a492cbae180979a6923a49cd31fb76e1de5e55b">MAP_ULDUAR</a>)</div>
+<div class="line"><span class="lineno"> 1120</span>                <a class="code hl_function" href="../../d9/da0/a12001.html#a7087cacdb741a109d53fb82c06ff1cef">SetDuration</a>(<a class="code hl_function" href="../../d9/da0/a12001.html#a54240ef7a7f2394f3e64c84bdc7ed61b">GetMaxDuration</a>());</div>
+<div class="line"><span class="lineno"> 1121</span>            <span class="keywordflow">if</span> (target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>))</div>
+<div class="line"><span class="lineno"> 1122</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1123</span>            <span class="keywordflow">if</span> (target-&gt;isMoving() || target-&gt;HasAura(<a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>))</div>
+<div class="line"><span class="lineno"> 1124</span>            {</div>
+<div class="line"><span class="lineno"> 1125</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a>)</div>
+<div class="line"><span class="lineno"> 1126</span>                {</div>
+<div class="line"><span class="lineno"> 1127</span>                    <a class="code hl_function" href="../../d9/da0/a12001.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(-1);</div>
+<div class="line"><span class="lineno"> 1128</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1129</span>                }</div>
+<div class="line"><span class="lineno"> 1130</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1131</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1132</span> </div>
+<div class="line"><span class="lineno"> 1133</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> &gt;= 2)</div>
+<div class="line"><span class="lineno"> 1134</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> -= 2;</div>
+<div class="line"><span class="lineno"> 1135</span>                <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>)</div>
+<div class="line"><span class="lineno"> 1136</span>                    --<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>;</div>
+<div class="line"><span class="lineno"> 1137</span>            }</div>
+<div class="line"><span class="lineno"> 1138</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1139</span>            {</div>
+<div class="line"><span class="lineno"> 1140</span>                <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1141</span>                ++<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a>;</div>
+<div class="line"><span class="lineno"> 1142</span>                <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> &gt;= 4)</div>
+<div class="line"><span class="lineno"> 1143</span>                {</div>
+<div class="line"><span class="lineno"> 1144</span>                    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d9/da0/a12001.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>() == 2) <span class="comment">// increasing from 2 to 3 (not checking &gt;= to improve performance)</span></div>
+<div class="line"><span class="lineno"> 1145</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d8/d45/a10049.html">InstanceScript</a>* _instance = target-&gt;GetInstanceScript())</div>
+<div class="line"><span class="lineno"> 1146</span>                            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d9/de0/a08365.html">Creature</a>* hodir = _instance-&gt;GetCreature(<a class="code hl_enumvalue" href="../../d2/d81/a02276.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a>))</div>
+<div class="line"><span class="lineno"> 1147</span>                                hodir-&gt;AI()-&gt;SetData(2, 1);</div>
+<div class="line"><span class="lineno"> 1148</span>                    <a class="code hl_function" href="../../d9/da0/a12001.html#afe631d7dac9971919237be37b6693fdb">ModStackAmount</a>(1);</div>
+<div class="line"><span class="lineno"> 1149</span>                    <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> = 0;</div>
+<div class="line"><span class="lineno"> 1150</span>                }</div>
+<div class="line"><span class="lineno"> 1151</span>            }</div>
+<div class="line"><span class="lineno"> 1152</span> </div>
+<div class="line"><span class="lineno"> 1153</span>            <span class="keyword">const</span> <a class="code hl_typedef" href="../../d4/d8a/a04919.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dmg = 200 * pow(2.0f, <a class="code hl_function" href="../../d9/da0/a12001.html#aeec67792a625ebfcd9c5f3e431d5da32">GetStackAmount</a>());</div>
+<div class="line"><span class="lineno"> 1154</span>            target-&gt;CastCustomSpell(target, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a869f697d63d4c29675e84d06675274db">SPELL_BITING_COLD_DAMAGE</a>, &amp;dmg, 0, 0, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno"> 1155</span>        }</div>
+<div class="line"><span class="lineno"> 1156</span>    }</div>
 <div class="ttc" id="aa02276_html_a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba"><div class="ttname"><a href="../../d2/d81/a02276.html#a578eceaac26622326c101b3ef711d392a6c982e8ff283ab5f01d041e84dc217ba">BOSS_HODIR</a></div><div class="ttdeci">@ BOSS_HODIR</div><div class="ttdef"><b>Definition:</b> ulduar.h:39</div></div>
 <div class="ttc" id="aa02279_html_a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f"><div class="ttname"><a href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a></div><div class="ttdeci">@ SPELL_MAGE_TOASTY_FIRE_AURA</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:80</div></div>
 <div class="ttc" id="aa02279_html_a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603"><div class="ttname"><a href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a></div><div class="ttdeci">@ SPELL_FLASH_FREEZE_TRAPPED_PLAYER</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:42</div></div>
@@ -395,12 +395,12 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa12001_html_a9b2ee1254bdbef7f6ee93f6fae6eb912"><div class="ttname"><a href="../../d9/da0/a12001.html#a9b2ee1254bdbef7f6ee93f6fae6eb912">AuraScript::GetTarget</a></div><div class="ttdeci">Unit * GetTarget() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1180</div></div>
 <div class="ttc" id="aa12001_html_aeec67792a625ebfcd9c5f3e431d5da32"><div class="ttname"><a href="../../d9/da0/a12001.html#aeec67792a625ebfcd9c5f3e431d5da32">AuraScript::GetStackAmount</a></div><div class="ttdeci">uint8 GetStackAmount() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1140</div></div>
 <div class="ttc" id="aa12001_html_afe631d7dac9971919237be37b6693fdb"><div class="ttname"><a href="../../d9/da0/a12001.html#afe631d7dac9971919237be37b6693fdb">AuraScript::ModStackAmount</a></div><div class="ttdeci">bool ModStackAmount(int32 num, AuraRemoveMode removeMode=AURA_REMOVE_BY_DEFAULT)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1150</div></div>
-<div class="ttc" id="aa20361_html_a3e7343f124b66a55d9a6cbf0ab085309"><div class="ttname"><a href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">spell_hodir_biting_cold_player_aura::_counter</a></div><div class="ttdeci">uint8 _counter</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1158</div></div>
-<div class="ttc" id="aa20361_html_a9dd8f32c8ec709a14be15b46745b692b"><div class="ttname"><a href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">spell_hodir_biting_cold_player_aura::_prev</a></div><div class="ttdeci">bool _prev</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1159</div></div>
+<div class="ttc" id="aa20361_html_a3e7343f124b66a55d9a6cbf0ab085309"><div class="ttname"><a href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">spell_hodir_biting_cold_player_aura::_counter</a></div><div class="ttdeci">uint8 _counter</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1164</div></div>
+<div class="ttc" id="aa20361_html_a9dd8f32c8ec709a14be15b46745b692b"><div class="ttname"><a href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">spell_hodir_biting_cold_player_aura::_prev</a></div><div class="ttdeci">bool _prev</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1165</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01158">_counter</a>, <a class="el" href="../../#l01159">_prev</a>, <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01090">AuraScript::GetMaxDuration()</a>, <a class="el" href="../../#l01140">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00255">MAP_ULDUAR</a>, <a class="el" href="../../#l01150">AuraScript::ModStackAmount()</a>, <a class="el" href="../../#l01075">AuraScript::SetDuration()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_DAMAGE</a>, <a class="el" href="../../#l00042">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, and <a class="el" href="../../#l00080">SPELL_MAGE_TOASTY_FIRE_AURA</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01164">_counter</a>, <a class="el" href="../../#l01165">_prev</a>, <a class="el" href="../../#l00039">BOSS_HODIR</a>, <a class="el" href="../../#l01090">AuraScript::GetMaxDuration()</a>, <a class="el" href="../../#l01140">AuraScript::GetStackAmount()</a>, <a class="el" href="../../#l01180">AuraScript::GetTarget()</a>, <a class="el" href="../../#l00255">MAP_ULDUAR</a>, <a class="el" href="../../#l01150">AuraScript::ModStackAmount()</a>, <a class="el" href="../../#l01075">AuraScript::SetDuration()</a>, <a class="el" href="../../#l00036">SPELL_BITING_COLD_DAMAGE</a>, <a class="el" href="../../#l00042">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, and <a class="el" href="../../#l00080">SPELL_MAGE_TOASTY_FIRE_AURA</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01152">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01158">Register()</a>.</p>
 
 </div>
 </div>
@@ -428,13 +428,13 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d1/d63/a11945.html#ad3b8fb5dd2bc5ca4dd34da5a98a76443">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1103</span>    {</div>
-<div class="line"><span class="lineno"> 1104</span>        <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> = 0;</div>
-<div class="line"><span class="lineno"> 1105</span>        <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno"> 1106</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno"> 1107</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1109</span>    {</div>
+<div class="line"><span class="lineno"> 1110</span>        <a class="code hl_variable" href="../../d2/d23/a20361.html#a3e7343f124b66a55d9a6cbf0ab085309">_counter</a> = 0;</div>
+<div class="line"><span class="lineno"> 1111</span>        <a class="code hl_variable" href="../../d2/d23/a20361.html#a9dd8f32c8ec709a14be15b46745b692b">_prev</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno"> 1112</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno"> 1113</span>    }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01158">_counter</a>, and <a class="el" href="../../#l01159">_prev</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01164">_counter</a>, and <a class="el" href="../../#l01165">_prev</a>.</p>
 
 </div>
 </div>
@@ -488,16 +488,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d1/d63/a11945.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1153</span>    {</div>
-<div class="line"><span class="lineno"> 1154</span>        <a class="code hl_variable" href="../../d9/da0/a12001.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d0/d74/a03149.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d2/d23/a20361.html#aa62be73e00d9cb512806787eaf1c4144">spell_hodir_biting_cold_player_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../dd/d3b/a02291.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dcd/a03113.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
-<div class="line"><span class="lineno"> 1155</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1159</span>    {</div>
+<div class="line"><span class="lineno"> 1160</span>        <a class="code hl_variable" href="../../d9/da0/a12001.html#a491e7fc0a1acd202b60fa1aed79a9377">OnEffectPeriodic</a> += <a class="code hl_define" href="../../d0/d74/a03149.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a>(<a class="code hl_function" href="../../d2/d23/a20361.html#aa62be73e00d9cb512806787eaf1c4144">spell_hodir_biting_cold_player_aura::HandleEffectPeriodic</a>, <a class="code hl_enumvalue" href="../../dd/d3b/a02291.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d0/dcd/a03113.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a>);</div>
+<div class="line"><span class="lineno"> 1161</span>    }</div>
 <div class="ttc" id="aa02291_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dd/d3b/a02291.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa03113_html_a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56"><div class="ttname"><a href="../../d0/dcd/a03113.html#a538cdc259460b365f406fe0b3a981799add498157825d0faca2c013bbcdfbae56">SPELL_AURA_PERIODIC_DUMMY</a></div><div class="ttdeci">@ SPELL_AURA_PERIODIC_DUMMY</div><div class="ttdef"><b>Definition:</b> SpellAuraDefines.h:289</div></div>
 <div class="ttc" id="aa03149_html_a63dd33eaa91292bfb53b1d9f2b0eba29"><div class="ttname"><a href="../../d0/d74/a03149.html#a63dd33eaa91292bfb53b1d9f2b0eba29">AuraEffectPeriodicFn</a></div><div class="ttdeci">#define AuraEffectPeriodicFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:771</div></div>
 <div class="ttc" id="aa12001_html_a491e7fc0a1acd202b60fa1aed79a9377"><div class="ttname"><a href="../../d9/da0/a12001.html#a491e7fc0a1acd202b60fa1aed79a9377">AuraScript::OnEffectPeriodic</a></div><div class="ttdeci">HookList&lt; EffectPeriodicHandler &gt; OnEffectPeriodic</div><div class="ttdef"><b>Definition:</b> SpellScript.h:770</div></div>
-<div class="ttc" id="aa20361_html_aa62be73e00d9cb512806787eaf1c4144"><div class="ttname"><a href="../../d2/d23/a20361.html#aa62be73e00d9cb512806787eaf1c4144">spell_hodir_biting_cold_player_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1109</div></div>
+<div class="ttc" id="aa20361_html_aa62be73e00d9cb512806787eaf1c4144"><div class="ttname"><a href="../../d2/d23/a20361.html#aa62be73e00d9cb512806787eaf1c4144">spell_hodir_biting_cold_player_aura::HandleEffectPeriodic</a></div><div class="ttdeci">void HandleEffectPeriodic(AuraEffect const *)</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:1115</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01109">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00771">AuraEffectPeriodicFn</a>, <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l01115">HandleEffectPeriodic()</a>, <a class="el" href="../../#l00770">AuraScript::OnEffectPeriodic</a>, and <a class="el" href="../../#l00289">SPELL_AURA_PERIODIC_DUMMY</a>.</p>
 
 </div>
 </div>
@@ -526,9 +526,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d1/d63/a11945.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1098</span>    {</div>
-<div class="line"><span class="lineno"> 1099</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/d63/a11945.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a869f697d63d4c29675e84d06675274db">SPELL_BITING_COLD_DAMAGE</a> });</div>
-<div class="line"><span class="lineno"> 1100</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1104</span>    {</div>
+<div class="line"><span class="lineno"> 1105</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d1/d63/a11945.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a3c8db6a48af8468afe81db75583f4603">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a869f697d63d4c29675e84d06675274db">SPELL_BITING_COLD_DAMAGE</a> });</div>
+<div class="line"><span class="lineno"> 1106</span>    }</div>
 <div class="ttc" id="aa11945_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d1/d63/a11945.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00036">SPELL_BITING_COLD_DAMAGE</a>, <a class="el" href="../../#l00042">SPELL_FLASH_FREEZE_TRAPPED_PLAYER</a>, <a class="el" href="../../#l00080">SPELL_MAGE_TOASTY_FIRE_AURA</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -556,7 +556,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01109">HandleEffectPeriodic()</a>, and <a class="el" href="../../#l01102">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01115">HandleEffectPeriodic()</a>, and <a class="el" href="../../#l01108">Load()</a>.</p>
 
 </div>
 </div>
@@ -580,7 +580,7 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01109">HandleEffectPeriodic()</a>, and <a class="el" href="../../#l01102">Load()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01115">HandleEffectPeriodic()</a>, and <a class="el" href="../../#l01108">Load()</a>.</p>
 
 </div>
 </div>
@@ -590,7 +590,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d23/a20361.html">spell_hodir_biting_cold_player_aura</a></li>
-    <li class="footer">Generated on Mon Jul 6 2026 22:01:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 13 2026 21:35:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

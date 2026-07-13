@@ -1,6 +1,6 @@
 var a29749 =
 [
-    [ "CreateArmorProcConfig", "db/d40/a29749.html#aae16272567352cb8730edcba3908a08f", null ],
-    [ "CreateWeaponProcConfig", "db/d40/a29749.html#adf86db9c66739b705bde4daf1fd0efd1", null ],
-    [ "SetUp", "db/d40/a29749.html#aaf1d0e6aed255fca2ec0b37e75e9b231", null ]
+    [ "SetUp", "db/d40/a29749.html#a1aea096e3b4fe9657c3166e0688a2407", null ],
+    [ "_entry", "db/d40/a29749.html#a36067d0031cbdbc00b1c6dcfbfe2358c", null ],
+    [ "_procEntry", "db/d40/a29749.html#affb4da9ec7478c526f07056b83bfff60", null ]
 ];

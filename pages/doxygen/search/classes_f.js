@@ -17,7 +17,7 @@ var searchData=
   ['objecttargetselecthandler_14',['ObjectTargetSelectHandler',['../d9/de1/a11993.html',1,'SpellScript']]],
   ['objecttypeidcheck_15',['ObjectTypeIdCheck',['../d7/da3/a09849.html',1,'Acore']]],
   ['objectvisibilitycontainer_16',['ObjectVisibilityContainer',['../d6/db6/a08821.html',1,'']]],
-  ['omenofclarityglyphlocktest_17',['OmenOfClarityGlyphLockTest',['../d7/d79/a29637.html',1,'anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}']]],
+  ['omenofclarityglyphlocktest_17',['OmenOfClarityGlyphLockTest',['../d4/dda/a29633.html',1,'anonymous_namespace{OmenOfClarityGlyphLockTest.cpp}']]],
   ['onlyonceareatriggerscript_18',['OnlyOnceAreaTriggerScript',['../d0/d50/a10661.html',1,'']]],
   ['opcodehandler_19',['OpcodeHandler',['../d3/d20/a11629.html',1,'']]],
   ['opcodetable_20',['OpcodeTable',['../d7/ddf/a11641.html',1,'']]],
@@ -56,5 +56,5 @@ var searchData=
   ['outdoorpvptf_53',['OutdoorPvPTF',['../d3/d55/a22393.html',1,'']]],
   ['outdoorpvpzm_54',['OutdoorPvPZM',['../d1/d49/a22413.html',1,'']]],
   ['outroposition_55',['outroPosition',['../d8/d6d/a17249.html',1,'']]],
-  ['overridespelldataentry_56',['OverrideSpellDataEntry',['../d1/d05/a29073.html',1,'']]]
+  ['overridespelldataentry_56',['OverrideSpellDataEntry',['../dd/d29/a29069.html',1,'']]]
 ];

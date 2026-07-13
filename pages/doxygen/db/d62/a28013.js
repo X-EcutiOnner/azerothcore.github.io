@@ -1,6 +1,6 @@
 var a28013 =
 [
-    [ "go_l70_etc_musicAI", "db/d62/a28013.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "db/d62/a28013.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "db/d62/a28013.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_brewfest_musicAI", "da/d57/a28017.html", "da/d57/a28017" ],
+    [ "go_brewfest_music", "db/d62/a28013.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "db/d62/a28013.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

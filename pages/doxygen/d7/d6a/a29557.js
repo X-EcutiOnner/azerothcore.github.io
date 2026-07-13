@@ -1,9 +1,9 @@
 var a29557 =
 [
-    [ "SetUp", "d7/d6a/a29557.html#a4347f48d02c94f49010af69139906e55", null ],
-    [ "TearDown", "d7/d6a/a29557.html#a9bd0ab9c01db6f9fc6538c5aad454ac1", null ],
-    [ "PERM_DANGLING", "d7/d6a/a29557.html#afa69b7fc315147806018e36f01971509", null ],
-    [ "PERM_VALID", "d7/d6a/a29557.html#a77dfab95ef63118a33e2c2aae57c8578", null ],
-    [ "rbacData", "d7/d6a/a29557.html#a30f37bd4d7e16a92551224c524cb5ca4", null ],
-    [ "ROLE_WITH_DANGLING", "d7/d6a/a29557.html#aec146baa1151e73bac2686a4b6aacc06", null ]
+    [ "SetUp", "d7/d6a/a29557.html#aa0206c25468d92372594de8df9b9ac91", null ],
+    [ "TearDown", "d7/d6a/a29557.html#ab004a4631e402c804c5cc030d3504bcf", null ],
+    [ "PERM_A", "d7/d6a/a29557.html#a76b8ba9e8f97715e19f33400d5317470", null ],
+    [ "PERM_B", "d7/d6a/a29557.html#aa7e5d5ee7cd27e5133328c20a8cbcab0", null ],
+    [ "ROLE_PLAYER", "d7/d6a/a29557.html#a7a9fae5b7137ad90aed5b7f56b3328bf", null ],
+    [ "SEC_PLAYER", "d7/d6a/a29557.html#a83a095f226d90a9990e90c0234dbb885", null ]
 ];

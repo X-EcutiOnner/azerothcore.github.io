@@ -1,14 +1,8 @@
 var a28233 =
 [
-    [ "npc_preciousAI", "d2/dfb/a28233.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d2/dfb/a28233.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "GetData", "d2/dfb/a28233.html#a91c93f8d58501b705809653639ec05d1", null ],
-    [ "InitializeAI", "d2/dfb/a28233.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d2/dfb/a28233.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d2/dfb/a28233.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d2/dfb/a28233.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "SetData", "d2/dfb/a28233.html#a2246203bca5b716852abd631320b790c", null ],
-    [ "UpdateAI", "d2/dfb/a28233.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d2/dfb/a28233.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d2/dfb/a28233.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_simoneAI", "d2/d37/a28237.html", "d2/d37/a28237" ],
+    [ "npc_simone", "d2/dfb/a28233.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
+    [ "GetAI", "d2/dfb/a28233.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
+    [ "OnGossipHello", "d2/dfb/a28233.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
+    [ "OnGossipSelect", "d2/dfb/a28233.html#ae2b1a653be3767881769b54607219757", null ]
 ];

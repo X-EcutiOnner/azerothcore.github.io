@@ -16,8 +16,6 @@ var a03764 =
       [ "BG_BE_OBJECT_DOOR_4", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6ac892d4ba71d39d87a754d48158edafc5", null ],
       [ "BG_BE_OBJECT_BUFF_1", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6a7467355220ec6cd486b4d31f2017b176", null ],
       [ "BG_BE_OBJECT_BUFF_2", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6ac11771a5f0517038daf7fe96e7cf00eb", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_1", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6a24a38ed55bbaaed44bea527c0b11cd09", null ],
-      [ "BG_BE_OBJECT_READY_MARKER_2", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6a6bd3edd28c4d84ebc22f367173a2704d", null ],
       [ "BG_BE_OBJECT_MAX", "d2/d87/a03764.html#ac30a97954fa7cc5e46429c1b15e02aa6a4f887547bcc1f47df4522c823c507d6f", null ]
     ] ]
 ];

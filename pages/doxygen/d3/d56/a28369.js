@@ -1,7 +1,6 @@
 var a28369 =
 [
-    [ "npc_wormholeAI", "d3/d56/a28369.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
-    [ "GetData", "d3/d56/a28369.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
-    [ "InitializeAI", "d3/d56/a28369.html#aa0a903014ec7243036604ffcc67e0a36", null ],
-    [ "_showUnderground", "d3/d56/a28369.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
+    [ "npc_pet_trainerAI", "de/d06/a28373.html", "de/d06/a28373" ],
+    [ "npc_pet_trainer", "d3/d56/a28369.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d3/d56/a28369.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

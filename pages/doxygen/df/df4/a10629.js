@@ -15,6 +15,7 @@ var a10629 =
     [ "OnBattlegroundEnd", "df/df4/a10629.html#a8c2588bb5b7c193b0c85b26de5210dd5", null ],
     [ "OnBattlegroundEndReward", "df/df4/a10629.html#a91225952a9567a2408ea8b1f52660599", null ],
     [ "OnBattlegroundRemovePlayerAtLeave", "df/df4/a10629.html#acf48de938b3535c1d64d5e69b7e4c3cc", null ],
+    [ "OnBattlegroundSetup", "df/df4/a10629.html#ab17a48ac48f6e6aac4a365b4e7673bc3", null ],
     [ "OnBattlegroundStart", "df/df4/a10629.html#a00e6e5d7ec0925a28b84719f1ef32b8d", null ],
     [ "OnBattlegroundUpdate", "df/df4/a10629.html#a4a5c88793e3147af07482f5081106173", null ],
     [ "OnBeforeSendExitMessageArenaQueue", "df/df4/a10629.html#a53eb5af1d9dc2a4bfbba33ce75170f34", null ],

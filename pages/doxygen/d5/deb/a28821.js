@@ -1,6 +1,11 @@
 var a28821 =
 [
-    [ "AreaGroupId", "d5/deb/a28821.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d5/deb/a28821.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d5/deb/a28821.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "icon", "d5/deb/a28821.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d5/deb/a28821.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d5/deb/a28821.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d5/deb/a28821.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d5/deb/a28821.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d5/deb/a28821.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d5/deb/a28821.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d5/deb/a28821.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

@@ -281,7 +281,7 @@ Enumerations</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aaf34abebbe803c845754a0b3d9d408f4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d75/a28929.html">FactionTemplateEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d99/a02942.html#aaf34abebbe803c845754a0b3d9d408f4">GetAnyFactionTemplateForFaction</a> (<a class="el" href="../../d4/d8a/a04919.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> factionId)</td></tr>
+<tr class="memitem:aaf34abebbe803c845754a0b3d9d408f4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d64/a28925.html">FactionTemplateEntry</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d99/a02942.html#aaf34abebbe803c845754a0b3d9d408f4">GetAnyFactionTemplateForFaction</a> (<a class="el" href="../../d4/d8a/a04919.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> factionId)</td></tr>
 <tr class="separator:aaf34abebbe803c845754a0b3d9d408f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
@@ -458,7 +458,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d75/a28929.html">FactionTemplateEntry</a> const  * GetAnyFactionTemplateForFaction </td>
+          <td class="memname"><a class="el" href="../../dd/d64/a28925.html">FactionTemplateEntry</a> const  * GetAnyFactionTemplateForFaction </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d4/d8a/a04919.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
           <td class="paramname"><em>factionId</em></td><td>)</td>
@@ -469,7 +469,7 @@ Variables</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno"> 6009</span>{</div>
 <div class="line"><span class="lineno"> 6010</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d4/d8a/a04919.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; <a class="code hl_variable" href="../../d4/ddb/a04118.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.GetNumRows(); ++i)</div>
 <div class="line"><span class="lineno"> 6011</span>    {</div>
-<div class="line"><span class="lineno"> 6012</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../db/d75/a28929.html">FactionTemplateEntry</a> <span class="keyword">const</span>* factionTemplate = <a class="code hl_variable" href="../../d4/ddb/a04118.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.LookupEntry(i))</div>
+<div class="line"><span class="lineno"> 6012</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../dd/d64/a28925.html">FactionTemplateEntry</a> <span class="keyword">const</span>* factionTemplate = <a class="code hl_variable" href="../../d4/ddb/a04118.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.LookupEntry(i))</div>
 <div class="line"><span class="lineno"> 6013</span>        {</div>
 <div class="line"><span class="lineno"> 6014</span>            <span class="keywordflow">if</span> (factionTemplate-&gt;faction == factionId)</div>
 <div class="line"><span class="lineno"> 6015</span>                <span class="keywordflow">return</span> factionTemplate;</div>
@@ -479,7 +479,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno"> 6019</span>}</div>
 <div class="ttc" id="aa04118_html_ab92b42f7bf8dc60a8d0d92aa9b1ca5a1"><div class="ttname"><a href="../../d4/ddb/a04118.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a></div><div class="ttdeci">DBCStorage&lt; FactionTemplateEntry &gt; sFactionTemplateStore(FactionTemplateEntryfmt)</div></div>
 <div class="ttc" id="aa04919_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d4/d8a/a04919.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa28929_html"><div class="ttname"><a href="../../db/d75/a28929.html">FactionTemplateEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:939</div></div>
+<div class="ttc" id="aa28925_html"><div class="ttname"><a href="../../dd/d64/a28925.html">FactionTemplateEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:939</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../d4/ddb/a04118.html#ab92b42f7bf8dc60a8d0d92aa9b1ca5a1">sFactionTemplateStore</a>.</p>
 
@@ -508,7 +508,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l13061">Player::CalculateCorpseReclaimDelay()</a>, and <a class="el" href="../../#l13044">Player::GetCorpseReclaimDelay()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13067">Player::CalculateCorpseReclaimDelay()</a>, and <a class="el" href="../../#l13050">Player::GetCorpseReclaimDelay()</a>.</p>
 
 </div>
 </div>
@@ -532,7 +532,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l14002">Player::HandleFall()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14008">Player::HandleFall()</a>.</p>
 
 </div>
 </div>
@@ -556,7 +556,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l14002">Player::HandleFall()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14008">Player::HandleFall()</a>.</p>
 
 </div>
 </div>
@@ -580,7 +580,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l14002">Player::HandleFall()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14008">Player::HandleFall()</a>.</p>
 
 </div>
 </div>
@@ -616,7 +616,7 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa02930_html_a2377260993cd4a14aaab6f5771385e11aac83ea76fc61fd2dbae3c946b9f7a6d3"><div class="ttname"><a href="../../d6/d41/a02930.html#a2377260993cd4a14aaab6f5771385e11aac83ea76fc61fd2dbae3c946b9f7a6d3">RUNE_FROST</a></div><div class="ttdeci">@ RUNE_FROST</div><div class="ttdef"><b>Definition:</b> Player.h:398</div></div>
 <div class="ttc" id="aa02930_html_a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2"><div class="ttname"><a href="../../d6/d41/a02930.html#a2377260993cd4a14aaab6f5771385e11abd91ec8791180e639b46ec80a00318f2">RUNE_BLOOD</a></div><div class="ttdeci">@ RUNE_BLOOD</div><div class="ttdef"><b>Definition:</b> Player.h:396</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l13594">Player::InitRunes()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l13600">Player::InitRunes()</a>.</p>
 
 </div>
 </div>
@@ -640,7 +640,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l14002">Player::HandleFall()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14008">Player::HandleFall()</a>.</p>
 
 </div>
 </div>
@@ -664,7 +664,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l14002">Player::HandleFall()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l14008">Player::HandleFall()</a>.</p>
 
 </div>
 </div>
@@ -674,7 +674,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_47dd4bd942ccc740eef16326f5a4c0e4.html">Player</a></li><li class="navelem"><a class="el" href="../../d3/d99/a02942.html">Player.cpp</a></li>
-    <li class="footer">Generated on Mon Jul 6 2026 21:59:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 13 2026 21:33:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

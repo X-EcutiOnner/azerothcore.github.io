@@ -1,6 +1,6 @@
 var a02294 =
 [
-    [ "Socket< T >", "da/de1/a29261.html", "da/de1/a29261" ],
+    [ "Socket< T >", "d2/dff/a29257.html", "d2/dff/a29257" ],
     [ "READ_BLOCK_SIZE", "dd/dae/a02294.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
     [ "IoContextTcpSocket", "dd/dae/a02294.html#af72c5a224bc60d68d08afae3ba0cfb2f", null ],
     [ "ProxyHeaderAddressFamilyAndProtocol", "dd/dae/a02294.html#a7ddce6d0420753babeb6258ada50eec1", [

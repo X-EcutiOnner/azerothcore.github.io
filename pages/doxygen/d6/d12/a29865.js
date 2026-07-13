@@ -1,10 +1,6 @@
 var a29865 =
 [
-    [ "adt_CELLS", "d9/d55/a29873.html", "d9/d55/a29873" ],
-    [ "getMCNK", "d6/d12/a29865.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "d6/d12/a29865.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "d6/d12/a29865.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "d6/d12/a29865.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "d6/d12/a29865.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "d6/d12/a29865.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "OffsetAttributes", "d6/d12/a29865.html#a072918c298b316823e784c2e5779be2a", null ],
+    [ "OffsetInstances", "d6/d12/a29865.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
+    [ "used", "d6/d12/a29865.html#a20a458e613639ea26255dd772824a642", null ]
 ];

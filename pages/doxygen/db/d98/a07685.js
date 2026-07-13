@@ -47,7 +47,7 @@ var a07685 =
     [ "RemoveFromBGFreeSlotQueue", "db/d98/a07685.html#a7c0fbb3bf811a9e9c7d20315fd6da963", null ],
     [ "ScheduleQueueUpdate", "db/d98/a07685.html#a949d69b99a2e520468819600c2e472ee", null ],
     [ "SendAreaSpiritHealerQueryOpcode", "db/d98/a07685.html#ad43f54b2e4d2a71995268778a8831f57", null ],
-    [ "SendToBattleground", "db/d98/a07685.html#aa433b3cee8c7f7312deeccfdcde4d20d", null ],
+    [ "SendToBattleground", "db/d98/a07685.html#a3eb3065e3760de24e4352f735d79888c", null ],
     [ "SetHolidayWeekends", "db/d98/a07685.html#aacd0817642ac466c7595ec56c813a8fd", null ],
     [ "ToggleArenaTesting", "db/d98/a07685.html#a7b3e1509d8fa26ae35088466bf6273c8", null ],
     [ "ToggleTesting", "db/d98/a07685.html#abafc78d0f8ff7776572ac9a0d966765c", null ],

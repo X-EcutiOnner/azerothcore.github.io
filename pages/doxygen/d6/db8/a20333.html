@@ -508,10 +508,10 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  650</span>                                               : <a class="code hl_class" href="../../d6/d1b/a06469.html">NullCreatureAI</a>(creature)</div>
-<div class="line"><span class="lineno">  651</span>    {</div>
-<div class="line"><span class="lineno">  652</span>        <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/d3b/a09125.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  653</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  656</span>                                               : <a class="code hl_class" href="../../d6/d1b/a06469.html">NullCreatureAI</a>(creature)</div>
+<div class="line"><span class="lineno">  657</span>    {</div>
+<div class="line"><span class="lineno">  658</span>        <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../df/d3b/a09125.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>, <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  659</span>    }</div>
 <div class="ttc" id="aa02279_html_a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f"><div class="ttname"><a href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a094b9fd1e5d11851ce6d6057de87069f">SPELL_MAGE_TOASTY_FIRE_AURA</a></div><div class="ttdeci">@ SPELL_MAGE_TOASTY_FIRE_AURA</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:80</div></div>
 <div class="ttc" id="aa06469_html"><div class="ttname"><a href="../../d6/d1b/a06469.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:56</div></div>
 <div class="ttc" id="aa06529_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
@@ -547,17 +547,17 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dda/a06517.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  656</span>    {</div>
-<div class="line"><span class="lineno">  657</span>        <span class="keywordflow">if</span> (a == 1)</div>
-<div class="line"><span class="lineno">  658</span>        {</div>
-<div class="line"><span class="lineno">  659</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d2b/a08545.html">GameObject</a>* fire = <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d3e/a08777.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(194300, 1.0f))</div>
-<div class="line"><span class="lineno">  660</span>            {</div>
-<div class="line"><span class="lineno">  661</span>                fire-&gt;SetOwnerGUID(<a class="code hl_variable" href="../../d7/d17/a08793.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
-<div class="line"><span class="lineno">  662</span>                fire-&gt;Delete();</div>
-<div class="line"><span class="lineno">  663</span>            }</div>
-<div class="line"><span class="lineno">  664</span>            <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/de0/a08365.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(); <span class="comment">// this will remove DynObjects</span></div>
-<div class="line"><span class="lineno">  665</span>        }</div>
-<div class="line"><span class="lineno">  666</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  662</span>    {</div>
+<div class="line"><span class="lineno">  663</span>        <span class="keywordflow">if</span> (a == 1)</div>
+<div class="line"><span class="lineno">  664</span>        {</div>
+<div class="line"><span class="lineno">  665</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d2b/a08545.html">GameObject</a>* fire = <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/d3e/a08777.html#a178c5ef685f97dc9bbd486dd6cabfb63">FindNearestGameObject</a>(194300, 1.0f))</div>
+<div class="line"><span class="lineno">  666</span>            {</div>
+<div class="line"><span class="lineno">  667</span>                fire-&gt;SetOwnerGUID(<a class="code hl_variable" href="../../d7/d17/a08793.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>);</div>
+<div class="line"><span class="lineno">  668</span>                fire-&gt;Delete();</div>
+<div class="line"><span class="lineno">  669</span>            }</div>
+<div class="line"><span class="lineno">  670</span>            <a class="code hl_variable" href="../../de/dd7/a06529.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d9/de0/a08365.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(); <span class="comment">// this will remove DynObjects</span></div>
+<div class="line"><span class="lineno">  671</span>        }</div>
+<div class="line"><span class="lineno">  672</span>    }</div>
 <div class="ttc" id="aa08365_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../d9/de0/a08365.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2193</div></div>
 <div class="ttc" id="aa08545_html"><div class="ttname"><a href="../../de/d2b/a08545.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
 <div class="ttc" id="aa08777_html_a178c5ef685f97dc9bbd486dd6cabfb63"><div class="ttname"><a href="../../d9/d3e/a08777.html#a178c5ef685f97dc9bbd486dd6cabfb63">WorldObject::FindNearestGameObject</a></div><div class="ttdeci">GameObject * FindNearestGameObject(uint32 entry, float range, bool onlySpawned=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2558</div></div>
@@ -565,7 +565,7 @@ Additional Inherited Members</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l02193">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00120">ObjectGuid::Empty</a>, <a class="el" href="../../#l02558">WorldObject::FindNearestGameObject()</a>, and <a class="el" href="../../#l00071">CreatureAI::me</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00668">SpellHit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00674">SpellHit()</a>.</p>
 
 </div>
 </div>
@@ -604,20 +604,20 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../de/dd7/a06529.html#a6afb39c4bf86a1e882cc80fd7ec80a8f">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  669</span>    {</div>
-<div class="line"><span class="lineno">  670</span>        <span class="keywordflow">switch</span> (spell-&gt;Id)</div>
-<div class="line"><span class="lineno">  671</span>        {</div>
-<div class="line"><span class="lineno">  672</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a19e007045c8a4746dcbef3546a9b4c6f">SPELL_ICE_SHARDS_SMALL</a>:</div>
-<div class="line"><span class="lineno">  673</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a17225998eb29e5a7235bdb36dd8332cc">SPELL_ICE_SHARDS_BIG</a>:</div>
-<div class="line"><span class="lineno">  674</span>                <a class="code hl_function" href="../../d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5">DoAction</a>(1);</div>
-<div class="line"><span class="lineno">  675</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  676</span>        }</div>
-<div class="line"><span class="lineno">  677</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  675</span>    {</div>
+<div class="line"><span class="lineno">  676</span>        <span class="keywordflow">switch</span> (spell-&gt;Id)</div>
+<div class="line"><span class="lineno">  677</span>        {</div>
+<div class="line"><span class="lineno">  678</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a19e007045c8a4746dcbef3546a9b4c6f">SPELL_ICE_SHARDS_SMALL</a>:</div>
+<div class="line"><span class="lineno">  679</span>            <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a17225998eb29e5a7235bdb36dd8332cc">SPELL_ICE_SHARDS_BIG</a>:</div>
+<div class="line"><span class="lineno">  680</span>                <a class="code hl_function" href="../../d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5">DoAction</a>(1);</div>
+<div class="line"><span class="lineno">  681</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  682</span>        }</div>
+<div class="line"><span class="lineno">  683</span>    }</div>
 <div class="ttc" id="aa02279_html_a0a6ae4eb8bbfccba730ab3001c4690d7a17225998eb29e5a7235bdb36dd8332cc"><div class="ttname"><a href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a17225998eb29e5a7235bdb36dd8332cc">SPELL_ICE_SHARDS_BIG</a></div><div class="ttdeci">@ SPELL_ICE_SHARDS_BIG</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:58</div></div>
 <div class="ttc" id="aa02279_html_a0a6ae4eb8bbfccba730ab3001c4690d7a19e007045c8a4746dcbef3546a9b4c6f"><div class="ttname"><a href="../../d2/dd2/a02279.html#a0a6ae4eb8bbfccba730ab3001c4690d7a19e007045c8a4746dcbef3546a9b4c6f">SPELL_ICE_SHARDS_SMALL</a></div><div class="ttdeci">@ SPELL_ICE_SHARDS_SMALL</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:57</div></div>
-<div class="ttc" id="aa20333_html_a514ed4231da0ad9e7d1ee2ea03106cb5"><div class="ttname"><a href="../../d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5">npc_ulduar_toasty_fire::DoAction</a></div><div class="ttdeci">void DoAction(int32 a) override</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:655</div></div>
+<div class="ttc" id="aa20333_html_a514ed4231da0ad9e7d1ee2ea03106cb5"><div class="ttname"><a href="../../d6/db8/a20333.html#a514ed4231da0ad9e7d1ee2ea03106cb5">npc_ulduar_toasty_fire::DoAction</a></div><div class="ttdeci">void DoAction(int32 a) override</div><div class="ttdef"><b>Definition:</b> boss_hodir.cpp:661</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00655">DoAction()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00058">SPELL_ICE_SHARDS_BIG</a>, and <a class="el" href="../../#l00057">SPELL_ICE_SHARDS_SMALL</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00661">DoAction()</a>, <a class="el" href="../../#l00344">SpellInfo::Id</a>, <a class="el" href="../../#l00058">SPELL_ICE_SHARDS_BIG</a>, and <a class="el" href="../../#l00057">SPELL_ICE_SHARDS_SMALL</a>.</p>
 
 </div>
 </div>
@@ -627,7 +627,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d6/db8/a20333.html">npc_ulduar_toasty_fire</a></li>
-    <li class="footer">Generated on Mon Jul 6 2026 22:00:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 13 2026 21:34:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

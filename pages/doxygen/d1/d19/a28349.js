@@ -1,7 +1,7 @@
 var a28349 =
 [
-    [ "npc_guardianAI", "d1/d19/a28349.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d1/d19/a28349.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d1/d19/a28349.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d1/d19/a28349.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_sayge", "d1/d19/a28349.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d1/d19/a28349.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d1/d19/a28349.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d1/d19/a28349.html#aed1988335672423d024546654aa95298", null ]
 ];

@@ -1,8 +1,8 @@
 var a29889 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "db/d9d/a29889.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "db/d9d/a29889.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "db/d9d/a29889.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "db/d9d/a29889.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "db/d9d/a29889.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "ADT_file", "db/d9d/a29889.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "db/d9d/a29889.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "db/d9d/a29889.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "db/d9d/a29889.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "db/d9d/a29889.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

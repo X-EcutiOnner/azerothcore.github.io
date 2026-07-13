@@ -1,8 +1,10 @@
 var a29633 =
 [
-    [ "TestOocPlayerScript", "d4/dda/a29633.html#ad8a63387a46b252a555b5d48b0f73d55", null ],
-    [ "EnsureRegistered", "d4/dda/a29633.html#a485c732b5cc87e418e1e8b0fdb80e5b7", null ],
-    [ "OnPlayerCompleteQuest", "d4/dda/a29633.html#a7288e4227b28edebe4723c14ef56bce1", null ],
-    [ "OnPlayerLevelChanged", "d4/dda/a29633.html#a0d2fa7743649d3443f49654d55ca1558", null ],
-    [ "Instance", "d4/dda/a29633.html#a58269b1a038bfbdc8c9dafd058d16b5e", null ]
+    [ "SetUp", "d4/dda/a29633.html#a3fdec2bf96f4e567b3ed2a8103d175ec", null ],
+    [ "SimulateGlyphsForLevel", "d4/dda/a29633.html#ac0b04d88968102ac5cf34be21a44eed9", null ],
+    [ "TearDown", "d4/dda/a29633.html#aa381706733e71ee3d426c4e0d0c4b4e9", null ],
+    [ "originalWorld", "d4/dda/a29633.html#a5e142dc81a057b4ecc3084177942b91d", null ],
+    [ "player", "d4/dda/a29633.html#ac57623d8e963cdb8de2258f36c1281bd", null ],
+    [ "session", "d4/dda/a29633.html#ac92bad60994d699564da54739ac0b4f0", null ],
+    [ "worldMock", "d4/dda/a29633.html#af4605e78650f67c3a3af4d91e1e485c5", null ]
 ];

@@ -110,6 +110,7 @@ var a10841 =
     [ "OnBattlegroundEnd", "de/d72/a10841.html#a3b9fff377759707bd3a7a196fbead10e", null ],
     [ "OnBattlegroundEndReward", "de/d72/a10841.html#a257fd52e15580b9c5b8372664d749371", null ],
     [ "OnBattlegroundRemovePlayerAtLeave", "de/d72/a10841.html#a41425e0ddd353de59389f6ea9e3fb09a", null ],
+    [ "OnBattlegroundSetup", "de/d72/a10841.html#aaf002e2a2a6007df32f7cefe643d6c3c", null ],
     [ "OnBattlegroundStart", "de/d72/a10841.html#a7a309497fb8c09eadc0e400cb120921d", null ],
     [ "OnBattlegroundUpdate", "de/d72/a10841.html#a38c41bd525861a0dad370b0caf6fce6b", null ],
     [ "OnBeforeAccountDelete", "de/d72/a10841.html#a41c7d2896f4f42c88b0eaef98342f27d", null ],

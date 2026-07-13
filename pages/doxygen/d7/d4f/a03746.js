@@ -37,8 +37,6 @@ var a03746 =
       [ "BG_DS_OBJECT_WATER_2", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6a4afa2177f1262bb3fb3c015047d6c1f1", null ],
       [ "BG_DS_OBJECT_BUFF_1", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6ab65c1a961954720559d3b7d2114d0f1a", null ],
       [ "BG_DS_OBJECT_BUFF_2", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6aba69c00240803bc3130e93706ca3fd03", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_1", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6a2463d4010bc80f717036a5c0980eb00e", null ],
-      [ "BG_DS_OBJECT_READY_MARKER_2", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6aaa0509a954fa3bb165e7a8b021c81720", null ],
       [ "BG_DS_OBJECT_MAX", "d7/d4f/a03746.html#a8d5224d87e17a7242576ee301e628de6a6067df4d0384c2cbc7b6b11a0ad6abef", null ]
     ] ],
     [ "BattlegroundDSSpells", "d7/d4f/a03746.html#a41065fade7598429191146de35f52e86", [

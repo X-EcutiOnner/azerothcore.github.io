@@ -1,5 +1,7 @@
 var a29765 =
 [
-    [ "SetUp", "d9/dec/a29765.html#a00b4e88a208a6e930244a37d4257d971", null ],
-    [ "_scenario", "d9/dec/a29765.html#a39b6b0e42a22735909b0edf6de29d5f1", null ]
+    [ "SetUp", "d9/dec/a29765.html#ab58c026bc6bbcf94aaec896c654e949f", null ],
+    [ "DAGGER_SPEED", "d9/dec/a29765.html#a2e9b2005f350f0aec0a905eef5bc0bb6", null ],
+    [ "SWORD_SPEED", "d9/dec/a29765.html#ac960eb9c5e15274b63b684d8908ed68b", null ],
+    [ "TWO_HANDED_SPEED", "d9/dec/a29765.html#a7dbbfc5825a36bf3950a8dff54e0ca5a", null ]
 ];

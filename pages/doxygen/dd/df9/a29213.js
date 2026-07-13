@@ -1,6 +1,8 @@
 var a29213 =
 [
-    [ "categoryMask", "dd/df9/a29213.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "dd/df9/a29213.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "dd/df9/a29213.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "TimeSeg", "dd/df9/a29213.html#ab94639ba8e26b215ebd31163967574d3", null ],
+    [ "TransportEntry", "dd/df9/a29213.html#a859d25b3c11839ad7e37facd40dc79df", null ],
+    [ "X", "dd/df9/a29213.html#a8fbd166503396e33a4ad77448bf307ea", null ],
+    [ "Y", "dd/df9/a29213.html#a67c279b26cebd8e5c81c36576b145af6", null ],
+    [ "Z", "dd/df9/a29213.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
 ];

@@ -13,6 +13,6 @@ var searchData=
   ['jump_10',['jump',['../db/d11/a06801.html#a85ce78a3fa69eb45aeeb951d94492e53',1,'SmartAction::jump()'],['../d0/db8/a08749.html#a920a536b873fcc63dd6bb22882a7a8ea',1,'MovementInfo::jump()']]],
   ['jumpdistance_11',['JumpDistance',['../dc/d4d/a11881.html#a488de86d200a06710977c145dc37b2c2',1,'SpellInfo']]],
   ['jumping_12',['jumping',['../d2/d4d/a24213.html#a8486512b7594f2ce759fcb580f1baf34',1,'npc_pet_gen_plump_turkey']]],
-  ['jumptimer_13',['jumpTimer',['../d2/d4d/a24213.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../d1/d7c/a28401.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
+  ['jumptimer_13',['jumpTimer',['../d2/d4d/a24213.html#ad53a9abad41ab6a792a55b854155135d',1,'npc_pet_gen_plump_turkey::jumpTimer()'],['../d3/d81/a28397.html#a5c17e00187ac87b23482dfbabb89809b',1,'npc_spring_rabbit::npc_spring_rabbitAI::jumpTimer()']]],
   ['justsummoned_14',['JustSummoned',['../df/d8c/a19777.html#a8b656a464525e881944e72e9486b0eb9',1,'npc_oculus_drake::npc_oculus_drakeAI']]]
 ];

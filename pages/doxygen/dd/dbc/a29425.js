@@ -1,6 +1,29 @@
 var a29425 =
 [
-    [ "canProcDuringTrigger", "dd/dbc/a29425.html#a10e8ad619c9766fdf49cd29662c3d9e0", null ],
-    [ "procDeepDuringTrigger", "dd/dbc/a29425.html#a5df33ebca29ea3ce1088307c138a28e4", null ],
-    [ "spellId", "dd/dbc/a29425.html#ac63803a380695f311a39cd62a4f298b4", null ]
+    [ "ProcEventInfoBuilder", "dd/dbc/a29425.html#a38c50e7852d5c87d2774372fbde47bc9", null ],
+    [ "Build", "dd/dbc/a29425.html#ae0f8d3a43a218b4459db0aa3fee95bf0", null ],
+    [ "WithActionTarget", "dd/dbc/a29425.html#a07d934345c43ecd6c8cebeb678e08dab", null ],
+    [ "WithActor", "dd/dbc/a29425.html#a4a2faf802f7ef682e7be2b7ada7a0ff5", null ],
+    [ "WithDamageInfo", "dd/dbc/a29425.html#a4d207196177033340282dd33b11c9d82", null ],
+    [ "WithHealInfo", "dd/dbc/a29425.html#a3883e3ba66735492617a9907cdde3794", null ],
+    [ "WithHitMask", "dd/dbc/a29425.html#ac8d9c890333158313fb6bd9bdcd14fcf", null ],
+    [ "WithProcAuraEffectIndex", "dd/dbc/a29425.html#aec3496f0ce0cd0be4f8b1b2f48146206", null ],
+    [ "WithProcTarget", "dd/dbc/a29425.html#af39d23e9a51f924215a20a578062a9db", null ],
+    [ "WithSpell", "dd/dbc/a29425.html#a42ec10664e0fdad98e02267099f0e73c", null ],
+    [ "WithSpellPhaseMask", "dd/dbc/a29425.html#a2247bbb4936f6d48c4214641a5a466af", null ],
+    [ "WithSpellTypeMask", "dd/dbc/a29425.html#aebac87d053e09dba16456a9f49322973", null ],
+    [ "WithTriggeredByAuraSpell", "dd/dbc/a29425.html#a5c0b48710a9526e1dc8202a92a91e852", null ],
+    [ "WithTypeMask", "dd/dbc/a29425.html#a83de461b19bd737c5aa2e7fd3ad2a302", null ],
+    [ "_actionTarget", "dd/dbc/a29425.html#a8571e92b47a6ad8327bdf8d1a0b57f04", null ],
+    [ "_actor", "dd/dbc/a29425.html#a03c844febd2cafe041e5426a02816633", null ],
+    [ "_damageInfo", "dd/dbc/a29425.html#acf2feea658b0a4a3d7b2d663aae7e3ee", null ],
+    [ "_healInfo", "dd/dbc/a29425.html#aa9756e003fd8c4f2d88197e9c4ec159f", null ],
+    [ "_hitMask", "dd/dbc/a29425.html#a0ef08d3b368b347a4c4e2538616329b4", null ],
+    [ "_procAuraEffectIndex", "dd/dbc/a29425.html#a3d2adb99c5291a29b2265c4d834b8df0", null ],
+    [ "_procTarget", "dd/dbc/a29425.html#afbc6d5efae5c965c61ebb7972aafb7f0", null ],
+    [ "_spell", "dd/dbc/a29425.html#a5e6cc0a9d3a3afc81453d606116450d7", null ],
+    [ "_spellPhaseMask", "dd/dbc/a29425.html#a58ea480d734bfccb3835a2a29618c8ea", null ],
+    [ "_spellTypeMask", "dd/dbc/a29425.html#aefbc707a11b34a2bae78f5cf52d4b7a0", null ],
+    [ "_triggeredByAuraSpell", "dd/dbc/a29425.html#a71180307b8e60ec02f11f388f43df126", null ],
+    [ "_typeMask", "dd/dbc/a29425.html#ab64fb7418fce62b008ca62a2fea54c67", null ]
 ];

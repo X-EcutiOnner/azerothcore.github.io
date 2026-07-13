@@ -406,7 +406,7 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  469</span>    {</div>
 <div class="line"><span class="lineno">  470</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d54/a08993.html">Player</a>* player = <a class="code hl_function" href="../../d9/da0/a12001.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">GetUnitOwner</a>()-&gt;GetCharmerOrOwnerPlayerOrPlayerItself())</div>
-<div class="line"><span class="lineno">  471</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d0/dc4/a29053.html">MapEntry</a> <span class="keyword">const</span>* mapEntry = <a class="code hl_variable" href="../../d4/ddb/a04118.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.LookupEntry(player-&gt;GetMapId()))</div>
+<div class="line"><span class="lineno">  471</span>            <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../df/d05/a29049.html">MapEntry</a> <span class="keyword">const</span>* mapEntry = <a class="code hl_variable" href="../../d4/ddb/a04118.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>.LookupEntry(player-&gt;GetMapId()))</div>
 <div class="line"><span class="lineno">  472</span>                <span class="keywordflow">if</span> ((<a class="code hl_function" href="../../d9/da0/a12001.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>() == 32727 &amp;&amp; mapEntry-&gt;IsBattleArena()) || (<a class="code hl_function" href="../../d9/da0/a12001.html#afca894c30f544ccf512e0966eb7e10ce">GetId</a>() == 44521 &amp;&amp; mapEntry-&gt;IsBattleground()))</div>
 <div class="line"><span class="lineno">  473</span>                    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d1/db8/a07673.html">Battleground</a>* bg = player-&gt;GetBattleground())</div>
 <div class="line"><span class="lineno">  474</span>                        <span class="keywordflow">if</span> (bg-&gt;GetStatus() == <a class="code hl_enumvalue" href="../../d3/d3b/a03728.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2">STATUS_WAIT_JOIN</a>)</div>
@@ -416,13 +416,13 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">  478</span>    }</div>
 <div class="ttc" id="aa03728_html_ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2"><div class="ttname"><a href="../../d3/d3b/a03728.html#ad1473374651bd09f461cdc994a6bc8d2af0b95a17deaea4fc8f467eaacaa515b2">STATUS_WAIT_JOIN</a></div><div class="ttdeci">@ STATUS_WAIT_JOIN</div><div class="ttdef"><b>Definition:</b> Battleground.h:192</div></div>
 <div class="ttc" id="aa04118_html_acbe166cef01fbaa320231e8ef42b25c6"><div class="ttname"><a href="../../d4/ddb/a04118.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a></div><div class="ttdeci">DBCStorage&lt; MapEntry &gt; sMapStore(MapEntryfmt)</div></div>
-<div class="ttc" id="aa07673_html"><div class="ttname"><a href="../../d1/db8/a07673.html">Battleground</a></div><div class="ttdef"><b>Definition:</b> Battleground.h:304</div></div>
+<div class="ttc" id="aa07673_html"><div class="ttname"><a href="../../d1/db8/a07673.html">Battleground</a></div><div class="ttdef"><b>Definition:</b> Battleground.h:303</div></div>
 <div class="ttc" id="aa08993_html"><div class="ttname"><a href="../../d7/d54/a08993.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1084</div></div>
 <div class="ttc" id="aa12001_html_a20904deae87d9179691f160ddede3425"><div class="ttname"><a href="../../d9/da0/a12001.html#a20904deae87d9179691f160ddede3425">AuraScript::SetMaxDuration</a></div><div class="ttdeci">void SetMaxDuration(int32 duration)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1095</div></div>
 <div class="ttc" id="aa12001_html_a7087cacdb741a109d53fb82c06ff1cef"><div class="ttname"><a href="../../d9/da0/a12001.html#a7087cacdb741a109d53fb82c06ff1cef">AuraScript::SetDuration</a></div><div class="ttdeci">void SetDuration(int32 duration, bool withMods=false)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1075</div></div>
 <div class="ttc" id="aa12001_html_ae0ce7b7a97c6bcb2734ac79f8fa86a15"><div class="ttname"><a href="../../d9/da0/a12001.html#ae0ce7b7a97c6bcb2734ac79f8fa86a15">AuraScript::GetUnitOwner</a></div><div class="ttdeci">Unit * GetUnitOwner() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1045</div></div>
 <div class="ttc" id="aa12001_html_afca894c30f544ccf512e0966eb7e10ce"><div class="ttname"><a href="../../d9/da0/a12001.html#afca894c30f544ccf512e0966eb7e10ce">AuraScript::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:1025</div></div>
-<div class="ttc" id="aa29053_html"><div class="ttname"><a href="../../d0/dc4/a29053.html">MapEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1325</div></div>
+<div class="ttc" id="aa29049_html"><div class="ttname"><a href="../../df/d05/a29049.html">MapEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1325</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01025">AuraScript::GetId()</a>, <a class="el" href="../../#l01045">AuraScript::GetUnitOwner()</a>, <a class="el" href="../../#l01075">AuraScript::SetDuration()</a>, <a class="el" href="../../#l01095">AuraScript::SetMaxDuration()</a>, <a class="el" href="../../d4/ddb/a04118.html#acbe166cef01fbaa320231e8ef42b25c6">sMapStore</a>, and <a class="el" href="../../#l00192">STATUS_WAIT_JOIN</a>.</p>
 
@@ -506,7 +506,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dba/a24809.html">spell_gen_bg_preparation</a></li>
-    <li class="footer">Generated on Mon Jul 6 2026 22:01:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Jul 13 2026 21:35:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

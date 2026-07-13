@@ -3,7 +3,6 @@ var a03728 =
     [ "BattlegroundObjectInfo", "d5/d58/a07665.html", "d5/d58/a07665" ],
     [ "ArenaLogEntryData", "d0/d1a/a07669.html", "d0/d1a/a07669" ],
     [ "Battleground", "d1/db8/a07673.html", "d1/db8/a07673" ],
-    [ "ARENA_READY_MARKER_ENTRY", "d3/d3b/a03728.html#a6a7fd9b1828af2ddf38c218262c12c4e", null ],
     [ "ARENA_TIMELIMIT_POINTS_LOSS", "d3/d3b/a03728.html#ac5cce663c0f08dc6af7fb2d1ddf35e30", null ],
     [ "BATTLEGROUND_UPDATE_INTERVAL", "d3/d3b/a03728.html#a0d902c83a67b6fe19e8257bb23cef6bc", null ],
     [ "BERSERKING_BUFF_RESPAWN_TIME", "d3/d3b/a03728.html#ab01c53aafb7c5dd0eab9a4ba908cda4c", null ],

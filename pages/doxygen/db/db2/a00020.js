@@ -1,7 +1,7 @@
 var a00020 =
 [
-    [ "SpellProcDBCValidationTest", "d1/d7b/a29737.html", "d1/d7b/a29737" ],
-    [ "SpellProcDBCValidationParamTest", "d5/dd6/a29741.html", null ],
+    [ "SpellProcDBCValidationTest", "d5/d9f/a29733.html", "d5/d9f/a29733" ],
+    [ "SpellProcDBCValidationParamTest", "d1/d7b/a29737.html", null ],
     [ "INSTANTIATE_TEST_SUITE_P", "db/db2/a00020.html#a1bcaae4dcd5fec113966d51c2f6f60d0", null ],
     [ "TEST_F", "db/db2/a00020.html#a5d68edc629baf508a75ad0306d5a9123", null ],
     [ "TEST_F", "db/db2/a00020.html#aae6111f031cb367b403d6c1fae593245", null ],

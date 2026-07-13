@@ -1,9 +1,25 @@
 var a29785 =
 [
-    [ "CreateSpellInfo", "d5/db2/a29785.html#a83fe2676ce2ae1374600de46967aeae5", null ],
-    [ "SetUp", "d5/db2/a29785.html#abd89fcaf8f8c38b5d992a21430f9ecdb", null ],
-    [ "TearDown", "d5/db2/a29785.html#acb5697251398888a4cc282c359cfc4ec", null ],
-    [ "_originalWorld", "d5/db2/a29785.html#ae44f699ee1acedae6ead179c3f012594", null ],
-    [ "_spellInfos", "d5/db2/a29785.html#ac06654664782d249c4233f79990c817b", null ],
-    [ "_worldMock", "d5/db2/a29785.html#a98d5f98dfc4d63705920b7b164530022", null ]
+    [ "AddsValueBeyondDBC", "d5/db2/a29785.html#ada68807ba3950313c5a7652a7fe85c40", null ],
+    [ "HasDBCData", "d5/db2/a29785.html#a70c20b8efd966a3051591e4292957f21", null ],
+    [ "ToSpellProcEntry", "d5/db2/a29785.html#a70ebb9c47633f6c55f863593d1f1b0d7", null ],
+    [ "AttributesMask", "d5/db2/a29785.html#a32a562ccd8812c33b385fb6a4812693f", null ],
+    [ "Chance", "d5/db2/a29785.html#a9e4e897bb784e63d991e76f8efd393ab", null ],
+    [ "Charges", "d5/db2/a29785.html#a1795067c9622f90fe10afaa9086729d2", null ],
+    [ "Cooldown", "d5/db2/a29785.html#a8ae054e7700edebf204b6b9d5285b570", null ],
+    [ "DBC_ProcChance", "d5/db2/a29785.html#a687725337f68ab28c9f862997666b979", null ],
+    [ "DBC_ProcCharges", "d5/db2/a29785.html#a674bdd693e94bea55c93985a04a3cde5", null ],
+    [ "DBC_ProcFlags", "d5/db2/a29785.html#aba345f90612d66a1ae8ff83b863c3752", null ],
+    [ "DisableEffectsMask", "d5/db2/a29785.html#a255f45e42d9ad7f4a1a71b12289f6280", null ],
+    [ "HitMask", "d5/db2/a29785.html#aac7528939d9f28432649a5e947cb112b", null ],
+    [ "ProcFlags", "d5/db2/a29785.html#ac62ba46b22a759991731a15b17ccf3d9", null ],
+    [ "ProcsPerMinute", "d5/db2/a29785.html#a1005dd21ca315c4ee18cc1f0b1147590", null ],
+    [ "SchoolMask", "d5/db2/a29785.html#ab76502dd0f6d6e9fa8608800547b097c", null ],
+    [ "SpellFamilyMask0", "d5/db2/a29785.html#a8b316b64763de61fabe8eee119a3c33b", null ],
+    [ "SpellFamilyMask1", "d5/db2/a29785.html#a0f2454783d5fcd2b751b40b8e32d8476", null ],
+    [ "SpellFamilyMask2", "d5/db2/a29785.html#a74093101a8fe41b8bb641da9957d6ef2", null ],
+    [ "SpellFamilyName", "d5/db2/a29785.html#a11a0c26f6d3e6f3b8e47e1c968841094", null ],
+    [ "SpellId", "d5/db2/a29785.html#ad78ff047d8971788febae990abc86698", null ],
+    [ "SpellPhaseMask", "d5/db2/a29785.html#ab2356da98d2b2c9d250d1c86056a427c", null ],
+    [ "SpellTypeMask", "d5/db2/a29785.html#a8ac8ca4ac8ed7eb60de720bb0bac36b1", null ]
 ];

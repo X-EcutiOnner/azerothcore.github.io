@@ -1,5 +1,8 @@
 var a29809 =
 [
-    [ "CalculateSpellTypeMask", "de/d23/a29809.html#ad4f136e69c7553ac32b1de047bf73c59", null ],
-    [ "SetUp", "de/d23/a29809.html#a57be47f0c3962451b527ffe247dee814", null ]
+    [ "prepareLoadedData", "de/d23/a29809.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "de/d23/a29809.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "de/d23/a29809.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "de/d23/a29809.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "de/d23/a29809.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];
